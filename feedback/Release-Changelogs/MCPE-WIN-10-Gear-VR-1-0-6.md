@@ -1,0 +1,55 @@
+---
+title: MCPE/WIN 10/Gear VR - 1.0.6
+date: 2018-05-23T09:50:31Z
+updated: 2020-11-23T16:32:07Z
+categories: Release Changelogs
+tags:
+  - windows_10
+  - 1.0.6
+  - gear_VR
+  - mcpe
+  - release_changelog
+link: https://feedback.minecraft.net/hc/en-us/articles/360004127752-MCPE-WIN-10-Gear-VR-1-0-6
+---
+
+If you find any bugs, be sure to [report them here!](https://bugs.mojang.com/secure/Dashboard.jspa) Click here to give us feedback & tell us what you think about the update.
+
+\
+**New Features:**
+
+-   Chinese Mythology Mash-up Pack
+-   The Worlds section has been added to the Store, featuring the Redstone Mansion!
+
+\
+**Tweaks:**
+
+-   In-game messages/changelogs are no longer tied to new updates
+-   The jump range of slimes is now correct
+
+\
+**Bug Fixes:**
+
+-   Skeleton horses spawned from traps can now be tamed and ridden
+-   Finally fixed the bug with MCPE not starting on some Android devices (Thank you, Tomas A!)
+-   Baby mobs once again make idle sounds
+-   Blocks that are destroyed by the Wither will now drop properly
+-   Arrows fired from a dispenser will now hit entities directly in front of the dispenser
+-   Snow Golem pumpkin heads will now properly scale with Add-Ons
+-   Fixed the \'Cancel\' button not appearing when downloading content from the Store without wi-fi
+-   Fixed a crash that occurred when changing the storage location of an imported resource pack set to active in Global Resources
+-   Fixed a crash in Realms after being attacked by a Blaze
+-   Replacing a world on a Realm will now properly apply dependent Add-On packs
+-   Items can now pass under top slabs
+-   Bottom slabs will no longer reduce the spawn rate of mobs that spawn below the slabs
+-   A lit furnace can no longer be obtained by using a pickaxe with Silk Touch
+-   Fixed several item names appearing on the furnace screen
+-   The End Rod will now be greyed out in the Pocket UI crafting table if the player is lacking the necessary ingredients
+-   End Portal blocks are no longer solid and have the correct particles
+-   Fixed a crash when attempting to join a full multiplayer game
+-   Fixed players having no sound when joining an Xbox Live game
+
+<div>
+
+ 
+
+</div>

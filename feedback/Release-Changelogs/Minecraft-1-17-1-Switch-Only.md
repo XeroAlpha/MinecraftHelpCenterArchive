@@ -1,0 +1,17 @@
+---
+title: Minecraft - 1.17.1 (Switch Only)
+date: 2021-06-11T16:19:57Z
+updated: 2021-06-14T20:01:06Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/4402856034573-Minecraft-1-17-1-Switch-Only-
+---
+
+This hotfix is available only for Nintendo Switch. Multiplayer is still fully compatible with players running on other devices with version 1.17.0.\
+\
+
+**Fixes:** 
+
+-   Fixed errors that occurred when logging into Featured Servers on Nintendo Switch ([MCPE-130282](https://bugs.mojang.com/browse/MCPE-130282))\
+     
+
+Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).\

@@ -1,0 +1,30 @@
+---
+title: "Minecraft: New Nintendo 3DS Edition - 1.8"
+date: 2018-11-21T10:47:36Z
+updated: 2018-11-24T22:49:33Z
+categories: Release Changelogs
+tags:
+  - 3DS
+link: https://feedback.minecraft.net/hc/en-us/articles/360020066051-Minecraft-New-Nintendo-3DS-Edition-1-8
+---
+
+Welcome to Version 1.8! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
+[Click here](http://feedback.minecraft.net/) to give us feedback & tell us what you think about the update.
+
+-   New Content available for purchase
+
+-   -   Steam Punk Texture Pack
+    -   Strangers -- Biome Settlers 3 Skin Pack
+    -   Moana Character Pack
+    -   Mighty Morphin Power Ranger Skin Pack
+    -   Magic: The Gathering Skin Pack
+    -   Halloween Costume Skin Pack
+    -   Festive Mash-up 2016
+
+-   Improved stability and performance
+
+-   Numerous bug fixes from previous builds
+
+ 
+
+**Note:** Please remember that the game is not backwards compatible from this patch and deleting this patch on your system after it is applied will make all saves created with this patch unusable. If you accidentally deleted the patch, downloading and applying the patch again will enable your save data to become usable.

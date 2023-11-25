@@ -1,0 +1,77 @@
+---
+title: Minecraft Beta - 1.11.0.9 (Xbox One/Windows 10/Android)
+date: 2019-04-03T15:23:05Z
+updated: 2019-04-03T20:37:14Z
+categories: Beta and Preview Information and Changelogs
+tags:
+  - beta
+  - xbox_one
+  - windows_10
+  - android
+  - bedrock
+  - 1.11.0.9
+  - "040319"
+link: https://feedback.minecraft.net/hc/en-us/articles/360025951072-Minecraft-Beta-1-11-0-9-Xbox-One-Windows-10-Android-
+---
+
+**3 April 2019**
+
+**PLEASE READ before participating in the Minecraft Beta:**
+
+-   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta. Featured servers may also be unavailable
+-   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [ms/JoinMCBeta](http://aka.ms/JoinMCBeta) for detailed instructions
+-   Beta builds will likely be unstable and are not representative of final version quality. Please backup your Worlds before joining the beta
+-   Finished releases may not include all new features, changes, and fixes from the beta to preserve stability and may slip to a later release
+
+**Fixes:**
+
+-   **Crashes/Performance**
+    -   Fixed scripting crash when accessing health component on entities that don\'t have health (boats, leads, etc) 
+    -   Fixed a crash that can occur if the primary user exits the current world while a splitscreen player is trying to join 
+    -   Fixed a crash that could occur when receiving the Bad Omen effect 
+    -   Fixed several crashes that could occur during gameplay 
+
+```{=html}
+<!-- -->
+```
+-   **General**
+    -   The correct button tooltips are now shown when reassigning them on Nintendo Switch 
+    -   Fixed a bug on Switch that would prevent the command buttons from working after running a command or typing in chat
+    -   Players can now select the Mario skins from the expanded skin pack list when in game 
+    -   Skin Picker is no longer limited to 15 owned skin packs 
+    -   Remapping controls on Switch now toggle correctly in the settings 
+    -   Text to Speech now works more consistently on Switch 
+    -   Text to speech now reads modal popups correctly
+    -   Players can view skin selection menu when offline on Switch without receiving internet connection message  
+
+```{=html}
+<!-- -->
+```
+-   **Gameplay**
+    -   TNT now knocks back healing players 
+    -   Interacting with a Grindstone no longer \'uses\' a held item 
+
+```{=html}
+<!-- -->
+```
+-   **Blocks**
+    -   Sea Grass can no longer delete blocks above it as it grows ([MCPE-43617](https://bugs.mojang.com/browse/MCPE-43617))
+
+```{=html}
+<!-- -->
+```
+-   **Mobs**
+    -   Mobs now spawn properly in Icy Biomes
+
+```{=html}
+<!-- -->
+```
+-   **Graphical**
+    -   Replaced trip wire texture 
+    -   Note particle color now corresponds to noteblock pitch. (Temporarily reverted to old particle system for note block)
+
+```{=html}
+<!-- -->
+```
+-   **Commands**
+    -   Using the /clear command no longer shows an error if a block value is not included

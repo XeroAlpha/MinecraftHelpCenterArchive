@@ -1,0 +1,21 @@
+---
+title: Minecraft with RTX Beta - 1.15.0.9 (Windows 10)
+date: 2020-04-27T22:09:43Z
+updated: 2020-04-28T17:11:21Z
+categories: Beta and Preview Information and Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/360042828671-Minecraft-with-RTX-Beta-1-15-0-9-Windows-10-
+---
+
+**Posted:** April 28, 2020
+
+Several improvements and fixes have been made to the Minecraft with RTX beta for Windows 10. Be sure to check out the [Known Issues List](https://help.minecraft.net/hc/en-us/articles/360042255511-Minecraft-with-RTX-Beta-Known-Issues-List) and [Frequently Asked Questions](https://help.minecraft.net/hc/en-us/articles/360041035092-Minecraft-NVIDIA-RTX-FAQ) for the latest details.
+
+**Fixes:**
+
+-   Crash fixes
+-   Items in hand look identical to the same items placed in the world
+-   Sun shadows and god rays look brighter and more correct through glass
+-   Performance enhancements
+-   Tweaks to address the brightness at night
+-   Fix for per-pixel emissives on low resolution textures
+-   Fix for better looking glass in reflections

@@ -1,0 +1,21 @@
+---
+title: Minecraft - 1.20.1 (Bedrock)
+date: 2023-06-20T20:03:10Z
+updated: 2023-06-21T15:50:00Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/16921792287757-Minecraft-1-20-1-Bedrock-
+---
+
+**Posted:** June 21, 2023
+
+A new update has been released to address some issues that were introduced with the 1.20 update.
+
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!\
+\
+
+**Fixes:**
+
+-   Improved the reliability of unlocking achievements on Nintendo Switch ([MCPE-163948](https://bugs.mojang.com/browse/MCPE-163948))
+-   Boats now retain the ability to carry passengers when a world is upgraded to Trails & Tales ([MCPE-169772](https://bugs.mojang.com/browse/MCPE-169772))
+    -   Boats that were affected by this bug can once again carry passengers
+-   Fixed a bug that caused Pressure Plate\'s deactivation delay to be inconsistent ([MCPE-171429](https://bugs.mojang.com/browse/MCPE-171429))

@@ -1,0 +1,43 @@
+---
+title: MCPE/WIN 10/Gear VR - 0.16.1
+date: 2018-05-23T08:53:24Z
+updated: 2018-05-23T22:19:51Z
+categories: Beta and Preview Information and Changelogs
+tags:
+  - beta
+  - windows_10
+  - gear_VR
+  - mcpe
+  - 0.16.1
+link: https://feedback.minecraft.net/hc/en-us/articles/360004125892-MCPE-WIN-10-Gear-VR-0-16-1
+---
+
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.\
+\
+
+Tweaks:
+
+-   Fixed spacing so there\'s now enough room for some longer localized text
+
+ 
+
+Bug Fixes:
+
+-   Fixed a crash caused by some splash potions generated through slash commands
+-   You can now delete a world & save a resource pack if the path has UTF-8 characters
+-   Fixed updating player inventory slots
+-   Fixed Realm crash when placing an item frame
+-   Fixed game crash when renaming a map
+-   Creepers explode when attacked by snow golems now
+-   Fixed inventory slots are now kept in the .mcworld save file (Education Edition only)
+-   Fixed a crash when creating a new world
+-   Fixed crashes caused by fire arrows
+-   Fixed crash on iOS devices when game is resumed
+
+ 
+
+<div>
+
+ 
+
+</div>

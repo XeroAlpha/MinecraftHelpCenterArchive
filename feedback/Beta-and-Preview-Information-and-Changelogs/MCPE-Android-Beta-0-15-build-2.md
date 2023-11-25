@@ -1,0 +1,48 @@
+---
+title: MCPE Android Beta - 0.15 build 2
+date: 2018-05-23T08:59:01Z
+updated: 2018-05-23T21:25:23Z
+categories: Beta and Preview Information and Changelogs
+tags:
+  - beta
+  - android
+  - mcpe
+  - 0.15_build_2
+link: https://feedback.minecraft.net/hc/en-us/articles/360004126112-MCPE-Android-Beta-0-15-build-2
+---
+
+Changelog for 0.15 build 2!
+
+We\'re squashing bugs as fast as we can... which means a new beta build for you to find more bugs that we can lay to rest and report on Jira! So have fun and tell us what you think because it\'s too hot for us to go outside anyway.
+
+Click here to sign up to the beta. Click here to give us feedback.
+
+ 
+
+**Tweaks:**
+
+-   Players no longer spawning in tree leaves.
+-   Restored GUI scale options.
+-   Tweaked grass path texture.
+-   Tweaked rose & peony textures.
+-   Fixed enchantment table UI close button.
+
+**Bug Fixes:**
+
+-   Fixed some crashes happening in specific situations.
+-   Walking past buttons no longer trigger suffocation overlay.
+-   Existing dye color not overwritten when mixing colors in a cauldron.
+-   Torches and redstone torches fixed so they don\'t drop when a block is placed or removed by it.
+-   Restrict hosting or joining games while on your mobile network (instead of being limited to wifi) to prevent huge bills on metered networks.  
+-   Riders no longer riding in circles if horse has been idle for a while.
+-   Fixed skeleton jockeys in multiplayer.
+-   Fixes to feed button & feeding animals on touch devices.
+-   Bug fixes for sticky pistons
+-   You can chat while sleeping in a bed again!
+-   Fixed graphics glitches while riding a horse.
+
+<div>
+
+ 
+
+</div>

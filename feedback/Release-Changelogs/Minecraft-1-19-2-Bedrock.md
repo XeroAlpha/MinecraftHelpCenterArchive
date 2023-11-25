@@ -1,0 +1,19 @@
+---
+title: Minecraft - 1.19.2 (Bedrock)
+date: 2022-06-21T17:06:14Z
+updated: 2022-06-22T15:49:51Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/7093790226573-Minecraft-1-19-2-Bedrock-
+---
+
+**Posted:** June 22, 2022
+
+A new update is available for Minecraft that addresses some issues that have occurred since the release of 1.19.0.
+
+Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).
+
+**Fixes:**
+
+-   Fixed several crashes that could occur during gameplay
+-   Fixed a bug on certain flat worlds where below-0 terrain was accidentally being removed on level load, if there was bedrock at y=0 ([MCPE-156679](https://bugs.mojang.com/browse/MCPE-156679), [MCPE-156698](https://bugs.mojang.com/browse/MCPE-156698))
+-   Mobs that teleport through a Nether portal with a destination above y=128 will no longer have their position adjusted to 128 ([MCPE-155465](https://bugs.mojang.com/browse/MCPE-155465))

@@ -1,0 +1,19 @@
+---
+title: Minecraft - 1.16.40 (Bedrock)
+date: 2020-08-25T23:34:37Z
+updated: 2020-09-03T19:15:18Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/360048253952-Minecraft-1-16-40-Bedrock-
+---
+
+**Posted:** September 3, 2020
+
+This hotfix is being rolled out to all other platforms over the next week. Cross-play is still compatible with all Bedrock platforms running 1.16.20 or higher. Please continue to engage with us through [bugs.mojang.com](https://bugs.mojang.com/) and keep the bug reports coming, we really appreciate your help! \
+ 
+
+**Fixes:**
+
+-   Fixed the Microsoft account sign-in screen repeatedly appearing after losing internet connection on Nintendo Switch ([MCPE-95651](https://bugs.mojang.com/browse/MCPE-95651))
+-   Fixed account linking occurring every time the game is launched after playing another game on PlayStation 4
+-   Fixed an issue with the account sign-in button becoming unresponsive after backing out of the sign-in prompt screen
+-   Fixed a number of crashes on iOS devices ([MCPE-96184](https://bugs.mojang.com/browse/MCPE-96184))

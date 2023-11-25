@@ -1,0 +1,21 @@
+---
+title: Minecraft - 1.20.15 (Bedrock)
+date: 2023-08-16T16:27:19Z
+updated: 2023-08-18T17:01:46Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/18588428772365-Minecraft-1-20-15-Bedrock-
+---
+
+**Posted:** August 16, 2023
+
+A new update has been released to improve stability of the game.
+
+**Update:** As of August 18, this update is now available on all supported platforms!
+
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!\
+\
+
+**Fixes:**
+
+-   Fixed a top crash that could occur during gameplay
+-   Fixed a bug related to some packs not being available to purchase successfully from the Marketplace

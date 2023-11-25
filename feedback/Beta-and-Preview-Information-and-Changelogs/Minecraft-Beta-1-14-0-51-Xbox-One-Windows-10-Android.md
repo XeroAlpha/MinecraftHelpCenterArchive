@@ -1,0 +1,46 @@
+---
+title: Minecraft Beta - 1.14.0.51 (Xbox One/Windows 10/Android)
+date: 2019-11-20T16:34:34Z
+updated: 2019-11-20T17:42:24Z
+categories: Beta and Preview Information and Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/360036460031-Minecraft-Beta-1-14-0-51-Xbox-One-Windows-10-Android-
+---
+
+**PLEASE READ before participating in the Minecraft Beta**:
+
+-   Joining the beta will replace your game with a work in progress version of Minecraft
+-   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
+-   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them
+-   Beta builds can be unstable and are not representative of final version quality
+-   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
+
+**Fixes:**
+
+-   **Crashes/Performance**
+    -   Fixed several crashes that could occur during gameplay
+    -   Fixed a crash that could sometimes occur after exploring many new chunks in an extended play session
+    -   Fixed a crash that could occur when signing into Xbox Live on Android 
+
+```{=html}
+<!-- -->
+```
+-   **General**
+    -   Fixed an issue with certain Marketplace sale items taking up too much space on the store page
+
+```{=html}
+<!-- -->
+```
+-   **Items**
+    -   Fixed a bug that could cause acacia leaves to become stuck in the player\'s hotbar
+
+```{=html}
+<!-- -->
+```
+-   **User Interface**
+    -   Fixed an issue that could prevent the save data icon from being displayed when playing in a new world
+
+```{=html}
+<!-- -->
+```
+-   **For Map Makers and Add-On Creators:**
+    -   Item tags can now be hidden in the UI using the \"/gamerule showtags\" command

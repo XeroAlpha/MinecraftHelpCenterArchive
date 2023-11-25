@@ -1,0 +1,24 @@
+---
+title: Minecraft - 1.19.83 (Bedrock)
+date: 2023-05-16T19:40:07Z
+updated: 2023-05-16T19:41:03Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/15837147699853-Minecraft-1-19-83-Bedrock-
+---
+
+**Posted:** May 17, 2023
+
+A new update has been released to address some issues that were introduced with the 1.19.80 update.
+
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!\
+\
+
+**Fixes:**
+
+-   Fixed several crashes that could occur during gameplay
+-   The inventory cursor no longer snaps to a random spot when flicking the left thumbstick ([MCPE-169176](https://bugs.mojang.com/browse/MCPE-169176))
+-   Fixed custom textures that override 'minecraft' blocks with aux metadata as a list of textures
+-   Several fixes to custom spawn eggs ([MCPE-170184](https://bugs.mojang.com/browse/MCPE-170184))
+    -   Re-enabled use of aux value to refer to custom eggs in commands for game versions 1.19.80 and beyond, eg. \"/give \@s spawn_egg 1 654\"
+    -   Re-enabled use of Molang queries for the item\'s data field in recipes for game versions 1.19.80 and beyond, eg. { \"item\": \"spawn_egg\", \"data\": \"query.get_actor_info_id(\'namespace:actor\')\" }
+    -   Re-enabled use of \"set_actor_id\" in loot tables when refering to custom spawn eggs for game versions 1.19.80 and beyond

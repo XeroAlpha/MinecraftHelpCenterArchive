@@ -1,0 +1,25 @@
+---
+title: Minecraft Beta - 1.7.0.9 (Xbox One/Windows 10/Android)
+date: 2018-09-24T16:33:42Z
+updated: 2018-09-24T20:54:46Z
+categories: Beta and Preview Information and Changelogs
+tags:
+  - beta
+  - 1.7.0.9
+link: https://feedback.minecraft.net/hc/en-us/articles/360016292391-Minecraft-Beta-1-7-0-9-Xbox-One-Windows-10-Android-
+---
+
+# PLEASE READ before participating in the Minecraft Beta:
+
+-   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta. Featured servers may also be unavailable
+-   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [ms/JoinMCBeta](http://aka.ms/JoinMCBeta) for detailed instructions
+-   Beta builds will likely be unstable and are not representative of final version quality. Please backup your Worlds before joining the beta
+-   Finished releases may not include all new features, changes, and fixes from the beta to preserve stability and may slip to a later release
+
+# Fixes:
+
+-   Fixed several crashes that occurred during gameplay
+-   Fixed a crash that could occur when applying a Resource Pack
+-   Fixed a crash for connected players riding a pig in multiplayer
+-   Fixed player permission issues that prevented players from building or mining
+-   Fixed a bug where many mobs would have broken models in some marketplace worlds

@@ -1,0 +1,27 @@
+---
+title: MCPE iOS ONLY - 1.0.1
+date: 2018-05-23T09:52:25Z
+updated: 2020-11-23T16:29:49Z
+categories: Release Changelogs
+tags:
+  - mcpe
+  - release_changelog
+  - 1.0.1
+  - ios
+link: https://feedback.minecraft.net/hc/en-us/articles/360004168751-MCPE-iOS-ONLY-1-0-1
+---
+
+This update is for **iOS ONLY** as it is just to address some unique game crashes occurring on iOS devices.\
+If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/ "Link: http://bugs.mojang.com")\
+[Click here](http://feedback.minecraft.net/ "Link: http://feedback.minecraft.net") to give us feedback & tell us what you think about the update.\
+\
+**Bug Fixes:**
+
+-   Fixed a crash that occurred when a player tapped the Mojang logo when launching the game
+-   Fixed assorted other crashes due to back-end issues
+
+<div>
+
+ 
+
+</div>

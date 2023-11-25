@@ -1,0 +1,23 @@
+---
+title: Minecraft - 1.20.31 (Bedrock)
+date: 2023-09-25T18:52:50Z
+updated: 2023-09-27T15:43:46Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/19819587578893-Minecraft-1-20-31-Bedrock-
+---
+
+**Posted:** September 26, 2023
+
+A new update has been released to address some issues that were introduced with the 1.20.30 update.
+
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!\
+\
+
+# **Fixes:**
+
+-   Fixed a crash that could occur when playing in splitscreen multiplayer
+-   Fixed a crash that could occur when opening the Realms Plus page
+-   Fixed a crash that could occur on PlayStation when opening the control center or a controller notification appeared on screen
+-   Improved server performance when Villagers are grouped together ([MCPE-175100](https://bugs.mojang.com/browse/MCPE-175100))
+-   Fixed an issue that caused Marketplace to become inaccessible after leaving the game on for extended periods of time
+-   Fixed issues with \@minecraft/server-ui dependencies failing to load with newer versions of the \@minecraft/server module

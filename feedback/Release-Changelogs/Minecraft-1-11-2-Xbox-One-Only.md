@@ -1,0 +1,18 @@
+---
+title: Minecraft - 1.11.2 (Xbox One Only)
+date: 2019-05-02T22:28:37Z
+updated: 2019-05-02T23:07:20Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/360027611172-Minecraft-1-11-2-Xbox-One-Only-
+---
+
+**Posted:** May 2, 2019
+
+**NOTE:** This hotfix is only available on Xbox One, since the fixes only affect that platform. Multiplayer is still compatible between versions 1.11.1 and 1.11.2
+
+**Fixes:**
+
+-   Fixed the Village & Pillage menu panorama not appearing
+-   Fixed the \"Something went wrong\" error that occurred when attempting to purchase content or Realms
+
+  If you missed a previous update, check out [aka.ms/MCChangelogs](https://aka.ms/MCChangelogs) for a full list of updates.

@@ -1,0 +1,37 @@
+---
+title: Minecraft Beta - 1.14.30.51  (Xbox One/Windows 10/Android)
+date: 2020-01-29T16:23:07Z
+updated: 2020-01-29T21:11:02Z
+categories: Beta and Preview Information and Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/360039327231-Minecraft-Beta-1-14-30-51-Xbox-One-Windows-10-Android-
+---
+
+**PLEASE READ before participating in the Minecraft Beta**:
+
+-   Joining the beta will replace your game with a work in progress version of Minecraft
+-   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
+-   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them
+-   Beta builds can be unstable and are not representative of final version quality
+-   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
+
+**Fixes:**
+
+-   **Crashes/Performance**
+    -   Fixed several crashes that could occur during gameplay
+    -   256x resolution packs are now restricted on Xbox One to prevent crashing
+        -   This is a temporary solution until we have the crashing issue resolved
+    -   Fixed a crash that could occur in certain worlds ([MCPE-59756](https://bugs.mojang.com/browse/MCPE-59756)) 
+
+```{=html}
+<!-- -->
+```
+-   **General**
+    -   Split screen will now display a message to join when main controller is disconnected
+
+```{=html}
+<!-- -->
+```
+-   **Gameplay**
+    -   Auto-jump will no longer trigger unexpectedly when trying to walk through open doors ([MCPE-52213](https://bugs.mojang.com/browse/MCPE-52213))
+        -   Further fixes will be made in the future to allow auto-jump to work more consistently
+    -   Crafting multiple Honey blocks now returns the correct amount of empty glass bottles on a 2x2 grid. ([MCPE-58579](https://bugs.mojang.com/browse/MCPE-58579))

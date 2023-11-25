@@ -1,0 +1,21 @@
+---
+title: Minecraft - 1.14.41 (PS4 Only)
+date: 2020-03-03T17:33:45Z
+updated: 2020-03-03T17:38:25Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/360040449071-Minecraft-1-14-41-PS4-Only-
+---
+
+**Posted:** March 3, 2020
+
+This hotfix is only available on PlayStation 4 and addresses several issues that players have experienced. As always, please report any issues to [bugs.mojang.com](https://bugs.mojang.com/)! This update is still multiplayer compatible with all versions of 1.14.
+
+# **Fixes:**
+
+-   Fixed several crashes that could occur during gameplay
+-   Fixed a crash that could occur when signing out of a guest account while in game
+-   Fixed a crash that could occur when exiting a world
+-   Fixed players being unable to join multiplayer game after disabling and then enabling cross-platform play, until the game is restarted
+-   The \"Unlink PlayStation Network Account\" button is no longer available from the in-game menu
+-   Updated the description of \"Sticky Situation\" trophy to better reflect unlock criteria
+-   Fixed text getting cut off on the Friends screen in some languages

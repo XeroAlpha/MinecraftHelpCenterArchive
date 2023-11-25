@@ -1,0 +1,23 @@
+---
+title: Minecraft - 1.17.11 (Bedrock)
+date: 2021-08-09T09:24:03Z
+updated: 2021-08-10T18:11:09Z
+categories: Release Changelogs
+link: https://feedback.minecraft.net/hc/en-us/articles/4406729569933-Minecraft-1-17-11-Bedrock-
+---
+
+**Posted:** August 9, 2021
+
+Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).
+
+![Screen_Shot_08-09-21_at_11.08_AM.JPG](https://feedback.minecraft.net/hc/article_attachments/4406740275597/Screen_Shot_08-09-21_at_11.08_AM.JPG){width="556" height="344"}
+
+**Fixes:** 
+
+-   Players no longer die and instantly respawn after traveling back to Overworld from the End in certain circumstances ([MCPE-135226](https://bugs.mojang.com/browse/MCPE-135226))
+-   Players no longer die and get stuck on the respawn screen when entering an End Portal after dying in the End in certain seeds ([MCPE-132484](https://bugs.mojang.com/browse/MCPE-132484))
+-   Fixed a crash that could occur on Xbox when suspending and resuming the title for the second time
+-   Items can no longer be duplicated using Beacons
+-   Horses no longer become invisible after being dismounted ([MCPE-108568](https://bugs.mojang.com/browse/MCPE-108568))
+-   On Realms, the \'/msg\' command once again works when the world is in Survival mode and cheats are disabled ([REALMS-7760](https://bugs.mojang.com/browse/REALMS-7760))
+-   After renewing an expired Realm, the Realm is now properly renewed instead of a new Realm being created ([REALMS-7263](https://bugs.mojang.com/browse/REALMS-7263))

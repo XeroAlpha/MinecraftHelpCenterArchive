@@ -1,0 +1,28 @@
+---
+title: Minecraft Beta - 1.2.13.6 (Xbox One/Windows 10/Android)
+date: 2018-05-23T08:27:08Z
+updated: 2018-05-23T18:56:04Z
+categories: Beta and Preview Information and Changelogs
+tags:
+  - beta
+  - xbox_one
+  - windows_10
+  - android
+  - 1.2.13.6
+link: https://feedback.minecraft.net/hc/en-us/articles/360004165271-Minecraft-Beta-1-2-13-6-Xbox-One-Windows-10-Android-
+---
+
+**PLEASE READ before participating in the Minecraft Beta:**
+
+-   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
+-   Xbox One and Windows 10 players can opt in and out of the beta from the Xbox Insider Hub app. Android players can opt in and out from the Minecraft page of the Google Play Store
+-   Beta builds will likely be unstable and are not representative of final version quality. Please backup your Worlds before joining the beta
+-   Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
+-   Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
+
+\
+**Fixes:**
+
+-   Fixed several crashes that occurred during regular gameplay
+-   Fixed a crash that occurred when opening the Furnace screen during vertical split-screen
+-   Fixed a crash that occurred when opening the Crafting Table screen while in Survival mode

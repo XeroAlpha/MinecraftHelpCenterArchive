@@ -1,0 +1,42 @@
+---
+title: MCPE/WIN 10/Gear VR - 0.15.7
+date: 2018-05-23T08:56:21Z
+updated: 2018-05-23T21:24:03Z
+categories: Beta and Preview Information and Changelogs
+tags:
+  - beta
+  - windows_10
+  - 0.15.7
+  - gear_VR
+  - mcpe
+link: https://feedback.minecraft.net/hc/en-us/articles/360004166471-MCPE-WIN-10-Gear-VR-0-15-7
+---
+
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
+
+New Features:
+
+-   Natural texture pack now available!
+
+Tweaks:
+
+-   Added localization for the Natural texture pack.
+-   Improved some text rendering, spacing and button sizes to accommodate localization.
+-   Updated size and positions for logo and text for better comfort in Rift. (Win 10 only)
+
+Bug Fixes:
+
+-   Fixed Rift mode crashing on launch in some circumstances. (Win 10 only)
+-   Rowing a boat now works with keyboard in full immersive mode in Rift. (Win 10 only)
+-   You can now buy & extend realms when playing on Win 10 in Rift mode.
+-   Mouse gets correctly captured when you put the Rift headset back on after taking it off. (Win 10 only)
+-   Fixed a crash when a player entered or created any world.
+-   Fixed a crash for some players who weren\'t signed into Xbox Live.
+-   Fixed some issues with Rift mirror textures for distant water & trees. (Win 10 only)
+-   The game no longer occasionally crashes when it is closed.
+-   Several fixes regarding removing the Rift headset. (Win 10 only)
+-   Pause screen fixed for trial mode. (Win 10 only)
+-   Virtual living room no longer affected by the player falling in the game in Rift. (Win 10 only)
+-   No more black shadow boxes appearing when jumping near hanging blocks in immersive mode on the Rift. (Win 10 only)
+-   Gaze cursor now recenters correctly when looking up or down while dead in Rift. (Win 10 only)
+-   Fixed textures for non-enchanted potions.
