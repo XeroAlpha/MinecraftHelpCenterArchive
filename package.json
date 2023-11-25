@@ -1,0 +1,19 @@
+{
+  "name": "minecraftknowledgebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "got": "^13.0.0",
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "pandoc-types": "^0.0.1"
+  }
+}

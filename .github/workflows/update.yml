@@ -1,0 +1,52 @@
+name: Update
+
+on:
+  schedule:
+    - cron: "40 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    container: 
+      image: pandoc/core:latest-ubuntu
+
+    steps:
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+          
+      - name: Install Git
+        run: |
+          apt-get update
+          apt-get install -y git
+
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Update articles
+        run: node src/index.js
+
+      - name: Get current time
+        uses: josStorer/get-current-time@v2
+        id: current-time
+        with:
+          format: YYYY-MM-DD HH:mm [GMT]Z
+          utcOffset: "+08:00"
+      
+      - name: Add safe directory
+        run: git config --global --add safe.directory $GITHUB_WORKSPACE
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update articles ${{ steps.current-time.outputs.formattedTime }}
+          commit_author: "Minecraft Help <help@github.minecraft.net>"
