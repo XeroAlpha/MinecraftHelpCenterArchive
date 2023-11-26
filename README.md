@@ -6,7 +6,7 @@ The copyright of the articles in this repository belongs to Mojang Studios. Any 
 
 The articles in this repository do not represent the views of Mojang Studios, nor do they represent the views of the repository owner and contributors. This repository does not guarantee that the archived articles are consistent with the original articles, nor does it guarantee their completeness, accuracy, and legality. The articles in this repository should not be considered as the original articles themselves. This repository bears no responsibility for any actions taken as a result of viewing the articles in this repository as the original articles.
 
-This archival project is not associated to Mojang Studios and has not been approved by them.
+This archival project is not associated with Mojang Studios and has not been approved by them.
 
 本仓库仅用于存档 [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us) 与 [Minecraft Help](https://help.minecraft.net/hc/en-us) 中的文章。
 
