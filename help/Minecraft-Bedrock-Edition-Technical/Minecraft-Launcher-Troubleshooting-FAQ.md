@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launcher Troubleshooting FAQ
 date: 2022-06-03T19:44:02Z
-updated: 2023-11-21T19:40:05Z
+updated: 2023-11-28T19:21:58Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -29,7 +29,6 @@ Welcome to the Minecraft Launcher troubleshooting FAQ. If you're having any trou
 3.  [I\'m having trouble installing the Launcher](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GAHKDDEQM3WG1SWYE25P04CE)
 4.  [I\'m having trouble updating Bedrock Edition (aka Minecraft for Windows)](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GAHKKSD8473DKZFGKS0BF5SA)
 5.  [I\'m having trouble installing Bedrock Edition on a non-C Drive](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GW2GGGWRCGVRSXW8WKZPDPSF)
-6.  [I got a message saying \"Security update available\" on my Launcher. What does that mean?](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01HFSP96CJX42ET0RBV78BFD3E)
 
 ## I'm having a problem with my Launcher and/or with running Minecraft. What should I do?
 
@@ -62,10 +61,6 @@ You can also check the installation status of each respective dependency directl
 **Note:** **These are not Xbox console apps; they are PC-helper apps that help ensure things run smoothly on your Windows 10/11 device.**
 
 If you still have an issue, have any further questions, or are facing some other problem, please continue below or reach out directly to [Minecraft Support](https://aka.ms/Minecraft-Support). 
-
-## I got a message saying \"Security update available\" on my Launcher. What does that mean?
-
-If you received this message, it\'s because you installed the Launcher using an old MSI installer, that had a bug. Updating ensures your game stays safe and your custom settings are preserved!
 
 # In This Article:
 
@@ -154,6 +149,10 @@ If you still receive this error, follow the instructions listed above regarding 
 Make sure that your Xbox Live subscription is up to date, and that you're logged into a Microsoft Account with said Xbox Live subscription. If you're a Game Pass subscriber and you're getting this error, try navigating to the [Xbox app](https://minecrafthelp.zendesk.com/hc/en-us/articles/Minecraft%20Launcher%20Troubleshooting%20FAQ%C2%A0) and downloading the Minecraft Launcher there. 
 
 If you are a subscriber to neither Xbox Live nor Game Pass and are seeing this error, try logging out of the Microsoft Store and/or Xbox app and then back in. We recommend retrying from within the Xbox app as well (which you can download from <https://aka.ms/DLXboxApp>). 
+
+## I got a message saying \"Security update available\" on my Launcher. What does that mean?
+
+If you received this message, it\'s because you installed the Launcher using an old MSI installer, that had a bug. Updating ensures your game stays safe and your custom settings are preserved!
 
 ### I'm getting the error 'unable to update Native Launcher.' 
 

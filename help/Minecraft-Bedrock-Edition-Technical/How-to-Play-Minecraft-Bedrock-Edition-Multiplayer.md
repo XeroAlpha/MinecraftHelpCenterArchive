@@ -1,7 +1,7 @@
 ---
 title: "How to Play Minecraft: Bedrock Edition Multiplayer"
 date: 2021-09-29T20:49:05Z
-updated: 2023-09-13T17:57:13Z
+updated: 2023-11-28T20:53:42Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -64,7 +64,7 @@ This requires opening your home or local area network (LAN) to others who are al
 
 ## Playing on an Online Server 
 
-For Minecraft: Bedrock Edition, there are two official servers available: InPvP, and Lifeboat. 
+For Minecraft: Bedrock Edition you can also choose from several [Partner Servers](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-Bedrock-FAQ-).
 
 ### Join a server: 
 
@@ -74,6 +74,10 @@ For Minecraft: Bedrock Edition, there are two official servers available: InPvP,
 
 -   On the **Servers** tab, click **Add Server** and enter the necessary information. \
     If you need help locating this information, contact the server owner. 
+
+### WHERE TO FIND SERVERS:
+
+If you want to start exploring other party community servers visit our [Official Server Listing Site](https://findmcserver.com/). Each server offers its own brand of fun and uniqueness. Find your favorite with the Server Listing Site, where all servers have been reviewed and following our community standards and guidelines. Browse servers based on game type, play style, and more. Chance is there's a server listed for you -- regardless of age or the way you play.
 
 **Note: Due to platform restrictions, the external server feature is not available on consoles. **
 
