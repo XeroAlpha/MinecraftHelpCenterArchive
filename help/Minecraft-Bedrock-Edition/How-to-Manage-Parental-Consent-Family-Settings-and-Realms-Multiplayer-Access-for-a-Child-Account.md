@@ -2,7 +2,7 @@
 title: How to Manage Parental Consent, Family Settings and Realms/Multiplayer
   Access for a Child Account
 date: 2021-09-10T22:08:35Z
-updated: 2023-09-13T20:31:12Z
+updated: 2023-11-28T18:27:58Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - title_minecraft_java_edition
@@ -77,7 +77,7 @@ Your Microsoft account lets you manage everything all in one place. If you need
 5.  Verify that the notification email you receive shows the correct email address for the account. 
 6.  Log in to Xbox.com with your new email address and password. You should see your Gamertag in the top right.  
 
-## Set Up and Manage Your Child's Xbox Live or Microsoft Account 
+## Set Up and Manage Your Child's Xbox Live and Microsoft Account 
 
   Click <https://account.microsoft.com/family/>. 
 
@@ -86,7 +86,23 @@ Your Microsoft account lets you manage everything all in one place. If you need
 3.  Start in the **Create an account for child** box and then follow the instructions to create the account. 
 4.  Once created, edit the parental settings as needed. 
 
-**Note:** You can find additional parental settings at <https://account.xbox.com/settings>
+**Once your family accounts are set up, you also will need to adjust Xbox Live privacy settings below.**
+
+1.  The parent goes to [Xbox Live Account settings](https://account.xbox.com/en-us/Settings/Home/?rtc=1) \> Privacy & online safety
+2.  Click on the child account profile being affected
+3.  Click Xbox/Windows 10 Online Safety tab under your profile picture
+4.  Set
+    1.  **You can create and join clubs** to allow
+    2.  **You can join multiplayer games** to allow
+    3.  **You can play with people outside of Xbox Live** to allow if you want to be able to cross play on other consoles
+5.  Click Submit and wait for the page to reload
+6.  If you want the child account to be able to make purchases on the Minecraft Marketplace or Realms, be sure to disable or set an appropriate spending limit under [family settings](https://account.microsoft.com/family/home) and see the following [spending limit FAQ](https://support.microsoft.com/en-us/account-billing/spending-limits-in-family-safety-f30d6801-165d-9f86-3fe7-063245c0449b) for more info.
+
+Once above is completed:
+
+1.  Sign into Minecraft with the child\'s account and go to the main screen of the game
+2.  Select Settings (F2) and then Log Out
+3.  Log back into the child\'s Xbox Live profile
 
 ## Family Account Management and Child Account Set Up 
 
@@ -138,7 +154,7 @@ You can set some parental controls which are associated with your Microsoft acco
 
 To allow your child to play with people on gaming services outside of Xbox Live follow the instructions below:  
 
-1.  Go to http://account.xbox.com/ and log in with your parental account 
+1.  Go to [http://account.xbox.com/](https://account.xbox.com/en-us/social?rtc=2) and log in with your parental account
 2.  Click on Profile from the menu across the top 
 3.  On your profile page, click on Privacy Settings 
 4.  On this page, you should see your name and the Microsoft Gamertag of your child. Click on their name/picture 
