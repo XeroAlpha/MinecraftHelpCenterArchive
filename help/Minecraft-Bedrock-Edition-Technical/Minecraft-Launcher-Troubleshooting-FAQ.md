@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launcher Troubleshooting FAQ
 date: 2022-06-03T19:44:02Z
-updated: 2023-11-28T19:21:58Z
+updated: 2023-11-29T15:09:00Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -71,6 +71,7 @@ If you still have an issue, have any further questions, or are facing some other
 -   [I click 'Get' to install the launcher, but the installation fails.](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GAHKDNBRG25BYQ1P091P60VA)
 -   [I've received the error: Minecraft Launcher license is currently not available for your account (0x803F8001)](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GAHKDWEKS8JMH6W5KW7KAY2Y)
 -   [I cannot download the Minecraft Launcher, and I'm being told to renew my Xbox Live subscription.](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GAHKE2052F4YMFVTCV912378)
+-   [I see a message in the Launcher saying "Security update available." What does that mean?](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01HGDSWB1F7H8FCKASTN7095P2)
 -   [I'm getting the error 'unable to update Native Launcher.' ](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GAHKE7EKKH5Z57532NKWAMSZ)
 
 ### [Trouble Downloading the Minecraft Launcher from Minecraft.net ](https://minecrafthelp.zendesk.com/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-FAQ#h_01GAHKEGECG1PJ271MMGZZ1135)
@@ -150,9 +151,11 @@ Make sure that your Xbox Live subscription is up to date, and that you're logged
 
 If you are a subscriber to neither Xbox Live nor Game Pass and are seeing this error, try logging out of the Microsoft Store and/or Xbox app and then back in. We recommend retrying from within the Xbox app as well (which you can download from <https://aka.ms/DLXboxApp>). 
 
-## I got a message saying \"Security update available\" on my Launcher. What does that mean?
+### I see a message in the Launcher saying "Security update available." What does that mean?
 
-If you received this message, it\'s because you installed the Launcher using an old MSI installer, that had a bug. Updating ensures your game stays safe and your custom settings are preserved!
+If you received this message, it\'s because you installed the Launcher using an old version of the installer which had a bug. Updating ensures your game stays safe and your custom settings are preserved!
+
+ 
 
 ### I'm getting the error 'unable to update Native Launcher.' 
 
