@@ -48,7 +48,7 @@ class LinkDatabase {
     addLink(url, path, hashMap) {
         const foundIndex = this.links.findIndex((e) => e.url === url);
         const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
-        const opt = { url, path: pathRelative, hashMap };
+        const opt = { url, path: pathRelative, hashMap: Object.keys(hashMap).length > 0 ? hashMap : undefined };
         if (foundIndex >= 0) {
             this.links[foundIndex] = opt;
         } else {
@@ -62,7 +62,7 @@ class LinkDatabase {
             const foundPath = resolvePath(projectRoot, found.path);
             if (hash) {
                 const { hashMap } = found;
-                return [foundPath, hashMap[hash] ?? hash];
+                return [foundPath, hashMap?.[hash] ?? hash];
             } else {
                 return [foundPath];
             }
@@ -74,6 +74,11 @@ class LinkDatabase {
         this.links.sort((a, b) => a.url > b.url ? 1 : a.url < b.url ? -1 : 0);
         writeFileSync(this.path, JSON.stringify(this.links, null, 2));
     }
+}
+
+function simplifyArticleUrl(articleUrl) {
+    const urlObj = new URL(articleUrl);
+    return `${urlObj.origin}${urlObj.pathname.replace(/(\/\d+)[^/]*$/, '$1')}${urlObj.hash}`;
 }
 
 async function updateArticles({ zendeskOptions, path, databaseFile, incremental, baseUrlRewrite }) {
@@ -99,7 +104,12 @@ async function updateArticles({ zendeskOptions, path, databaseFile, incremental,
     const added = [];
     const edited = [];
     for await (const article of articleIter) {
-        const localCopyIndex = localArticles.findIndex(({ frontmatter }) => article.html_url === frontmatter.link && article.edited_at === frontmatter.updated);
+        let articleUrl = article.html_url; // Canonical form
+        if (baseUrlRewrite) {
+            articleUrl = baseUrlRewrite(articleUrl);
+        }
+        const simplifiedArticleUrl = simplifyArticleUrl(articleUrl);
+        const localCopyIndex = localArticles.findIndex(({ frontmatter }) => articleUrl === frontmatter.link && article.edited_at === frontmatter.updated);
         if (localCopyIndex >= 0) {
             if (incremental) {
                 break; // Assume articles that updated before it has been updated
@@ -110,16 +120,12 @@ async function updateArticles({ zendeskOptions, path, databaseFile, incremental,
         const articleMarkdownRelative = joinPath(matchSection ? titleToId(matchSection.name) : 'others', `${titleToId(article.name)}.md`);
         const articleMarkdownPath = resolvePath(path, articleMarkdownRelative);
         const markdownExisted = existsSync(articleMarkdownPath);
-        let articleUrl = article.html_url;
-        if (baseUrlRewrite) {
-            articleUrl = baseUrlRewrite(articleUrl);
-        }
         const convertContext = analyzeHtml(article.body);
-        database.addLink(articleUrl, articleMarkdownPath, convertContext.hashMap);
+        database.addLink(simplifiedArticleUrl, articleMarkdownPath, convertContext.hashMap);
         const articleBodyMarkdown = convertHtmlToMarkdown(convertContext.json, {
             normalizeUrl: (urlObj) => {
                 const hash = urlObj.hash;
-                const urlToRequest = `${urlObj.origin}${urlObj.pathname}`;
+                const urlToRequest = simplifyArticleUrl(`${urlObj.origin}${urlObj.pathname}`);
                 const linkTarget = database.findLink(urlToRequest, hash.replace(/^#/, ''));
                 if (linkTarget) {
                     const [linkPath, linkHash] = linkTarget;
@@ -206,8 +212,8 @@ async function main(fullUpdate) {
         feedbackStat[1].length + helpStat[1].length,
         feedbackStat[2]?.length + helpStat[2]?.length
     ];
-    if (stat[0] + stat[1] >= 0) {
-        process.stdout.write(`Added ${stat[0]} article(s), updated ${stat[1]} articles\n`);
+    if (stat[0] + stat[1] > 0) {
+        process.stdout.write(`Added ${stat[0]} article(s), updated ${stat[1]} article(s)\n`);
     }
 }
 
