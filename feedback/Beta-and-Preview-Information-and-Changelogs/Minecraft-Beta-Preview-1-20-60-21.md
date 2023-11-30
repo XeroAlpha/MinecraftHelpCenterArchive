@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.60.21
 date: 2023-11-28T19:24:04Z
-updated: 2023-11-29T16:44:11Z
+updated: 2023-11-30T18:12:18Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/21754158247437-Minecraft-Beta-Preview-1-20-60-21
 ---
@@ -18,7 +18,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/21754158247437-Minecraft-
 
 We have another exciting Minecraft Beta and Preview update, with lots of tweaks and fixes that we think you’re going to love! As always, we’d want to hear your feedback on these features, so please send us your thoughts and suggestions [here](https://aka.ms/Minecraft121Feedback) and report any bugs at [bugs.mojang.com](https://bugs.mojang.com/)!
 
-**NOTE:** This version is not yet available on Android devices and will be published in the coming days.
+**NOTE:** This version is now available on Android devices as well! Thanks for your patience.
 
 # Experimental Features
 
