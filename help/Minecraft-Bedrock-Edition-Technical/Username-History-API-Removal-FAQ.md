@@ -23,10 +23,10 @@ As of September 13th, we have removed public access to Minecraft’s Username Hi
 
 # In This Article:
 
-- [What is this API endpoint, and why is access being removed?](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XKCKPK57HZXJ8KNHB2ZZ)
-- [What impact will this API removal have on players? ](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XRM74K771M9BC0R54N13)
-- [When will the access to the API be removed? ](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XY5R1495E1T1KX3ATCBZ)
-- [Will Mojang replace this API endpoint with something else?](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5Y50RH691S208WQ1W5D36)
+- [What is this API endpoint, and why is access being removed?](#h_01GCA5XKCKPK57HZXJ8KNHB2ZZ)
+- [What impact will this API removal have on players? ](#h_01GCA5XRM74K771M9BC0R54N13)
+- [When will the access to the API be removed? ](#h_01GCA5XY5R1495E1T1KX3ATCBZ)
+- [Will Mojang replace this API endpoint with something else?](#h_01GCA5Y50RH691S208WQ1W5D36)
 
 ## What is this API endpoint, and why is access being removed?
 

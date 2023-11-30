@@ -30,9 +30,9 @@ Local cooperative play and online multiplayer cannot be played simultaneously.
 
 ### Does Minecraft Dungeons support cross-platform saves and multiplayer?
 
-Team up with friends across consoles and Windows PCs. Create a multiplatform alliance and battle together with the cross-platform play free update to Minecraft Dungeons. See our article on [cross-platform multiplayer](https://help.minecraft.net/hc/en-us/articles/360043512112) for more. 
+Team up with friends across consoles and Windows PCs. Create a multiplatform alliance and battle together with the cross-platform play free update to Minecraft Dungeons. See our article on [cross-platform multiplayer](../Dungeons-Technical/Minecraft-Dungeons-Multiplayer-and-Cross-Platform-Play.md) for more. 
 
-Cloud Saves are also available, so you can upload Heroes to the cloud and use them across all Minecraft Dungeons supported devices. See [Cloud Saves and Backing Up Heroes](https://help.minecraft.net/hc/en-us/articles/360043504492) for the full details on how to use this feature. 
+Cloud Saves are also available, so you can upload Heroes to the cloud and use them across all Minecraft Dungeons supported devices. See [Cloud Saves and Backing Up Heroes](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) for the full details on how to use this feature. 
 
 ## How can I get Minecraft Dungeons? 
 
@@ -96,7 +96,7 @@ You can be a part of the Minecraft Dungeons community by finding us on the offic
 
 ### What are daily trials? 
 
-Daily Trials are new challenges introduced every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards! See the [article on Daily Trials](https://help.minecraft.net/hc/en-us/articles/360048248751) for more.
+Daily Trials are new challenges introduced every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards! See the [article on Daily Trials](../Dungeons-Technical/Minecraft-Dungeons-Daily-Trials-FAQ.md) for more.
 
 ### How does combat work? 
 

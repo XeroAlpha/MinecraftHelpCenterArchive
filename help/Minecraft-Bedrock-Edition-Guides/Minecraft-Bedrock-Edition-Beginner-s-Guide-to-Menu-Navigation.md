@@ -26,7 +26,7 @@ Before you jump into that world, it will be beneficial to you to understand what
 
 ## Play
 
-Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](https://help.minecraft.net/hc/en-us/articles/4410386197133), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
+Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Minecraft-Realms-Plus/Minecraft-Realms-Plus-How-do-I-Join-Someone-s-Minecraft-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
 
 To make your own world, select Create New at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let's select Create New World at the top.
 
@@ -50,7 +50,7 @@ On this page, you can create and [customize Minecraft skins](https://www.minecra
 
 ## Marketplace 
 
-[The Marketplace](https://help.minecraft.net/hc/en-us/articles/360059025451) is your one-stop shop to get access to all kinds of new content in Minecraft! You can look through and find all kinds of interesting worlds, skin packs, textures, and more all made by Minecraft creators and featuring some of your favorite franchises! [The Marketplace](https://www.minecraft.net/en-us/article/what-minecraft-marketplace) is constantly getting new content, so be sure to check back to see what is in the store.
+[The Marketplace](../Minecraft-Bedrock-Edition-Billing/How-to-Use-Minecraft-Marketplace.md) is your one-stop shop to get access to all kinds of new content in Minecraft! You can look through and find all kinds of interesting worlds, skin packs, textures, and more all made by Minecraft creators and featuring some of your favorite franchises! [The Marketplace](https://www.minecraft.net/en-us/article/what-minecraft-marketplace) is constantly getting new content, so be sure to check back to see what is in the store.
 
 ## Settings
 

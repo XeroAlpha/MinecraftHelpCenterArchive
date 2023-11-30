@@ -31,7 +31,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/9058526334093-Minecraft-Marketplace-Issues-and-Missing-Content-FAQ
 ---
 
-This article details everything you need to know if you're having Minecraft Marketplace issues or missing Minecraft Marketplace content in Minecraft: Bedrock Edition. If you're having other Marketplace content issues, check out our articles on [Minecoin Issues](https://help.minecraft.net/hc/en-us/articles/9058316885133) or the [Marketplace FAQ](https://help.minecraft.net/hc/en-us/articles/4408963926541).
+This article details everything you need to know if you're having Minecraft Marketplace issues or missing Minecraft Marketplace content in Minecraft: Bedrock Edition. If you're having other Marketplace content issues, check out our articles on [Minecoin Issues](./Minecoin-Buying-and-Spending-FAQ.md) or the [Marketplace FAQ](../Minecraft-Bedrock-Edition-Billing/Minecraft-Marketplace-FAQ.md).
 
 # In This Article:
 

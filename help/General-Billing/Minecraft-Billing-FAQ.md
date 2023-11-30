@@ -131,7 +131,7 @@ Under **Games**, you will see all games you own.
 
 If a game you own has not yet been installed on your console, you will see a download icon on the game title. Selecting the title will prompt you to install the game.
 
-For information about worlds and saved play, visit [Minecraft: Java Edition - Changed Computers, Account Is Gone.](https://help.minecraft.net/hc/en-us/articles/4409155824269#h_01FFGD8G12K5A9N2FVPA693E3Z)
+For information about worlds and saved play, visit [Minecraft: Java Edition - Changed Computers, Account Is Gone.](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md#i-changed-computers-myaccount-is-gone)
 
 If you are not able to find a copy on your device, please make sure you are logged into the correct account.
 

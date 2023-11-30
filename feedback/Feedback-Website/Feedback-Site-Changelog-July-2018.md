@@ -8,11 +8,11 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360006586092-Feedback-Sit
 
 ## **What's new (30 July)**
 
-\* Updated [Previously Considered Feedback](https://feedback.minecraft.net/hc/en-us/articles/360005029872) last week. We had a meeting, therefore we have updates.
+\* Updated [Previously Considered Feedback](./Previously-Considered-Suggestions.md) last week. We had a meeting, therefore we have updates.
 
 \* We took out the box below this line: 
 
-Be sure your feedback gets seen. Be sure to check out [creating great feedback](https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Feedback), [previously considered feedback](https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Feedback) and the [posting guidelines](./Posting-Guidelines.md) before adding your idea.
+Be sure your feedback gets seen. Be sure to check out [creating great feedback](./Creating-Great-Ideas.md), [previously considered feedback](./Previously-Considered-Suggestions.md) and the [posting guidelines](./Posting-Guidelines.md) before adding your idea.
 
 We hope this will cut down considerably on spam.
 
@@ -26,7 +26,7 @@ We hope this will cut down considerably on spam.
 
     - staff comment: Someone from Minecraft commented on this thread - could be inkycatz, could be another community team member, may be a developer having a thought or needing information. Who knows? Open the thread and look!
 
-    - under review: The team has discussed this idea and it has a status other than "not happening". If it's not happening for sure, it becomes [Previously Considered Feedback](https://feedback.minecraft.net/hc/en-us/articles/360005029872). Check that page every couple weeks, or do a sort on 'under review' to see what's being discussed in some fashion. Discussion does not mean it will eventually make it into Minecraft or may not move to 'previously considered' at a future date. 
+    - under review: The team has discussed this idea and it has a status other than "not happening". If it's not happening for sure, it becomes [Previously Considered Feedback](./Previously-Considered-Suggestions.md). Check that page every couple weeks, or do a sort on 'under review' to see what's being discussed in some fashion. Discussion does not mean it will eventually make it into Minecraft or may not move to 'previously considered' at a future date. 
 
     - updated: Currently, we feel the 'edited' tag at the bottom of the posts fades into the background. If you want to see threads whose original post has been edited (so you can perhaps, check for changes, and possibly adjust your vote as needed), then this is a good way to sort posts. We welcome feedback specifically on this tag over in the Website category. (It may go away after our visual refresh, or we may just keep it.)
 

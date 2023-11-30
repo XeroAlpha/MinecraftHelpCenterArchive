@@ -17,7 +17,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/5846082805645-Redeeming-a-Prepaid-Card-for-Minecraft-Java-Bedrock-Edition-for-PC
 ---
 
-*This article applies only to Minecraft: Java and Bedrock Edition for PC pre-paid cards and gift codes. For information about redeeming other Minecraft gift codes, see *[Minecraft Pre-Paid Codes](https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Gift-Code-Issues-FAQ-)*.*
+*This article applies only to Minecraft: Java and Bedrock Edition for PC pre-paid cards and gift codes. For information about redeeming other Minecraft gift codes, see *[Minecraft Pre-Paid Codes](./Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md)*.*
 
 There are many ways of getting Minecraft: Java or Bedrock Edition for PC, and if you receive it in the form of a pre-paid card or a gift code, you must redeem them through one of several websites.
 
@@ -35,6 +35,6 @@ For redeeming a pre-paid card or gift code on the Windows Store, [follow this li
 2.  Log in to an existing Microsoft account or [create a new one](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md).
 3.  After you have logged in to your Microsoft account, you can redeem your pre-paid card or gift code.
 4.  Scratch off the silver area and enter the code found on the back of your pre-paid card into the **Code** field.
-5.  If you run into any problems, see our support article on [pre-paid card errors](https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Gift-Code-Issues-FAQ-#h_01FG54MNJPQZFATPDWR75NMY2D).
+5.  If you run into any problems, see our support article on [pre-paid card errors](./Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md#prepaid-card-and-gift-code-redemption-issues).
 6.  To download the game, navigate to the [Minecraft Launcher download page](https://www.xbox.com/en-us/games/store/Minecraft-Launcher/9PGW18NPBZV5?msclkid=1c21ad7ecd8911ec98cc78ec25847625) and click **Download Launcher**. Place the file anywhere you'd like, then run the program to install.
 7.  Run the Minecraft Launcher, then log in to the game with your Microsoft account. You’re all set!

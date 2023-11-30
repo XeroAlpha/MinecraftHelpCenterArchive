@@ -9,7 +9,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409976432013-Minecraft-Java-Edition-Parental-Control-Features-FAQ
 ---
 
-This article covers instructions for configuring parental controls for Minecraft: Java Edition. For assistance configuring parental controls for Minecraft: Bedrock Edition, see this article: [How To Manage Parental Consent, Family Settings And Realms/Multiplayer Access For A Child Account](https://help.minecraft.net/hc/en-us/articles/4408968616077)
+This article covers instructions for configuring parental controls for Minecraft: Java Edition. For assistance configuring parental controls for Minecraft: Bedrock Edition, see this article: [How To Manage Parental Consent, Family Settings And Realms/Multiplayer Access For A Child Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md)
 
 # In This Article:
 
@@ -89,7 +89,7 @@ No. The credit card transaction fees for obtaining parental consent cost Mojang 
 
 No. Mojang Studios does not collect or store credit card information. Instead, encrypted credit card information is sent directly from your computer to a certified back-end processing agency that validates and charges the account.
 
-However, Mojang Studios does allow users to elect to have future purchases/renewals charged to their account without requiring the user to reenter their credit card information. See [Saved Payment Information](https://help.minecraft.net/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-FAQ#h_01FFK28B6YWNH1WAJB97ACRARA) for more.
+However, Mojang Studios does allow users to elect to have future purchases/renewals charged to their account without requiring the user to reenter their credit card information. See [Saved Payment Information](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Account-Billing-FAQ.md#savedpaymentinformation) for more.
 
 ### Do other companies charge this fee? 
 

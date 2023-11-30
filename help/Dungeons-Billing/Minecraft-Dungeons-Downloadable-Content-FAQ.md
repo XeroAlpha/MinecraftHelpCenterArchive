@@ -149,7 +149,7 @@ The Jungle Awakens and Creeping Winter packs are available for Nintendo Switch
 - Take on three new missions and face new enemies such as the Illusioner and Iceologer. 
 - As you hunt down the source of corruption, you’ll discover new armor, weapons, and artifacts below the snow and sleet.
 - Try two new player skins and the Arctic Fox pet. 
-- Conquer [Daily Trials](https://help.minecraft.net/hc/en-us/articles/360048248751)(free to all players). New daily challenges make wild changes to the game mechanics, providing difficult, experimental, or fun challenges for you to overcome so you can earn powerful rewards. Earn four new pieces of gear, exclusive to Daily Trials! 
+- Conquer [Daily Trials](../Dungeons-Technical/Minecraft-Dungeons-Daily-Trials-FAQ.md)(free to all players). New daily challenges make wild changes to the game mechanics, providing difficult, experimental, or fun challenges for you to overcome so you can earn powerful rewards. Earn four new pieces of gear, exclusive to Daily Trials! 
 - Rescue new camp merchants during missions, such as the Blacksmith to upgrade gear and the Gift Wrapper to gift items to other players(free to all players).
 - Find new weapons and armor exclusive to Daily Trials, plus two new artifacts and six new enchantments spread across the game (free to all players). Buzz into combat using new tools such as the Beenest, the Beenest Armor, and the Tumblebee enchantment!
 

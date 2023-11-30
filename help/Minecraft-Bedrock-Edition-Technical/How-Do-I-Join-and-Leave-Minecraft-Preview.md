@@ -51,7 +51,7 @@ In order to leave the Beta program on Android devices, please take the following
 
 1.  Click this link [here](https://play.google.com/apps/testing/com.mojang.minecraftpe) for Minecraft Beta Enrollment
 2.  Click the "Unenroll" button (this button was previously the "Become a Tester" button!)
-3.  [Back up your worlds](https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-#h_01FG9YQZTD4SQM2XEP4GC28PW3)
+3.  [Back up your worlds](./Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md#back-up-minecraft-bedrock-edition-worlds)
 4.  Uninstall and reinstall the app.
 
 ### Multiple Users on One Device 

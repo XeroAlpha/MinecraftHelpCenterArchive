@@ -23,7 +23,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Minecraft-Java-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ-
 ---
 
-*This article addresses Minecraft: Java Edition technical issues only. See [Minecraft technical issues](https://help.minecraft.net/hc/en-us/articles/4409145165965) articles for help.* 
+*This article addresses Minecraft: Java Edition technical issues only. See [Minecraft technical issues](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ.md) articles for help.* 
 
 This article includes everything you need to know about Minecraft: Java Edition game crashes, graphical issues, and performance issues. 
 
@@ -98,7 +98,7 @@ Use the following instructions to locate your operating system and then perform
 
 After you have downloaded and installed the drivers, you must restart your computer. If you still see the error message after this update, your computer may not meet the [system requirements](./Minecraft-Java-Edition-Installation-Issues-FAQ.md#what-are-the-device-requirements-to-run-minecraft-java-edition) to play Minecraft.
 
-If you find that your system does not meet the system requirements to run the game, you can request a refund if you make this request during the refund policy window. See [more on the refund policy for Minecraft editions](https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-Refunds-Policy).
+If you find that your system does not meet the system requirements to run the game, you can request a refund if you make this request during the refund policy window. See [more on the refund policy for Minecraft editions](../General-Billing/Mojang-Studios-Refund-Policy.md).
 
 ## How to Fix a Missing DLL Error  
 

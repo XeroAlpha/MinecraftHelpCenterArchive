@@ -113,6 +113,6 @@ If you still need assistance, contact [Minecraft Support](https://aka.ms/Minecra
 
 ## I am Unable to Join a Realm or Access a Realm's Feed
 
-If you are unable to join a Realm or access a Realm's Feed, please try following the steps in [this article](https://help.minecraft.net/hc/en-us/articles/4410376128013).
+If you are unable to join a Realm or access a Realm's Feed, please try following the steps in [this article](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Plus-Troubleshooting.md).
 
 **Note: Anyone with Clubs permissions should be able to post to a Realm's Feed.**

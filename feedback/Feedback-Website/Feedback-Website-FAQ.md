@@ -12,7 +12,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360011793092-Feedback-Web
 
 Hello!
 
-We have created this frequently asked question page about the Feedback Website. If you haven't been here in a while, [start here](https://feedback.minecraft.net/hc/en-us/articles/360003470871-Welcome-to-the-Feedback-Site-May-2018-).
+We have created this frequently asked question page about the Feedback Website. If you haven't been here in a while, [start here](./Welcome-to-the-Feedback-Site.md).
 
 *Note: Due to lots of interest in the Nether update and other issues, please be patient as our staff works as hard as they can to get your post through the queue as fast as possible. Thanks for understanding! How can you help make your feedback site awesome?*
 
@@ -107,9 +107,9 @@ No, sorry. You may want to keep a copy somewhere. 
 
 We know. But it's a work in progress, much like the website! 
 
-### **How do I post? How do I edit my post? Do you have posting tips that aren't covered in [Creating Great Feedback](https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Feedback)?**
+### **How do I post? How do I edit my post? Do you have posting tips that aren't covered in [Creating Great Feedback](./Creating-Great-Ideas.md)?**
 
-Yes, more technical "nuts and bolts" questions about posting are [covered here](https://feedback.minecraft.net/hc/en-us/articles/360012134952).
+Yes, more technical "nuts and bolts" questions about posting are [covered here](./How-to-Post-and-Edit-Feedback.md).
 
 ## **Logging in**
 

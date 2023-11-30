@@ -25,7 +25,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ
 ---
 
-*This article addresses billing issues for the Java Edition of Realms. See: [**Minecraft Realms Plus Billing Issues FAQ**](https://help.minecraft.net/hc/en-us/articles/4410001194765#h_01FGCVDXG37NNQ1JK7S3EHJF7A),* *for Realms Plus billing issues.*
+*This article addresses billing issues for the Java Edition of Realms. See: [**Minecraft Realms Plus Billing Issues FAQ**](./Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md#howdoirenewmyexpiredrealm),* *for Realms Plus billing issues.*
 
 **Note: If you started a free trial with Minecraft: Java Edition Realms but plan on refunding Minecraft: Java Edition, please make sure to cancel the Realms trial *before* you refund the game.**
 

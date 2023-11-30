@@ -65,7 +65,7 @@ Right now, you can link directly to your Minecraft: Java Edition Realms. However
 
 ### Can I manage my Realms Settings from the Launcher? 
 
-You cannot currently edit your Realms settings from within the Launcher. Please refer to [this article](https://help.minecraft.net/hc/en-us/articles/15938089626253) if you wish to manage an active Minecraft: Java Edition subscription or [this one](https://help.minecraft.net/hc/en-us/articles/15937250579213) to manage a Bedrock Realms subscription. 
+You cannot currently edit your Realms settings from within the Launcher. Please refer to [this article](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md) if you wish to manage an active Minecraft: Java Edition subscription or [this one](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md) to manage a Bedrock Realms subscription. 
 
 ### Can I Send or Accept Realms Invites From the Launcher?
 

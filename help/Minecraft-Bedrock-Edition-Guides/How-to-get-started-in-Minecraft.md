@@ -27,13 +27,13 @@ So, you decided to take your first steps in Minecraft. Your first world has gene
 
 Your first day in Minecraft can be exciting, but it’s good to keep in mind that once the sun goes down, the hostile mobs come out. That means you have a limited amount of time to find a starter home.
 
-First, we recommend surveying your surroundings. Are you in a [biome](https://help.minecraft.net/hc/en-us/articles/360046470431) you want to build into a home? Maybe there’s a nearby Village you can move into? You can even dig into a mountain and make a home underground. 
+First, we recommend surveying your surroundings. Are you in a [biome](./Minecraft-Types-of-Biomes.md) you want to build into a home? Maybe there’s a nearby Village you can move into? You can even dig into a mountain and make a home underground. 
 
 Take all of this into consideration before you build or renovate your quarters for the first night. You’ll want a bare minimum of four walls and a roof, but a bed to sleep in would be great as well. Find some Sheep to get some wool and combine three pieces with three wooden planks to have somewhere to sleep through the night and make a new spawn point.
 
 ## Prepare plenty of food
 
-Unless you are playing on Peaceful, your hunger bar is going to play a big part in maintaining your health. Just like anyone else, your Minecraft character needs some fuel to keep going. One of the best ways to ensure you always have some food on hand is to build a farm. We have a whole [getting started article dedicated to farming here](https://help.minecraft.net/hc/en-us/articles/360046311411).
+Unless you are playing on Peaceful, your hunger bar is going to play a big part in maintaining your health. Just like anyone else, your Minecraft character needs some fuel to keep going. One of the best ways to ensure you always have some food on hand is to build a farm. We have a whole [getting started article dedicated to farming here](./A-Beginner-s-Guide-to-Farming-in-Minecraft.md).
 
 If you would rather hunt for your food, you have some options as well. Cows, Pigs, Sheep, and Rabbits all can be harvested for meat to eat. Be sure you cook it in a furnace before you devour it to prevent food poisoning. If you are completely out of food, defeat some Zombies to acquire rotten flesh. It's gross and will likely make you sick, but it can keep you alive in a pinch.
 

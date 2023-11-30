@@ -98,7 +98,7 @@ From left to right: Sunny, Kai, Makena, Steve, Alex, Zuri, Efe, Ari, and Noor
 
 - Introducing the next major update experimental toggle! Enable the “Next Major Update” toggle in world settings to enable this content
 - These features are a work in progress and are still in active development. The design and functionality of these features will likely change before they’re released
-- **Please remember:** Worlds that have used experimental toggles will always be flagged as “Experimental”. We recommend keeping these experimental worlds as separate copies from your main saves. More information can be found in [this article](https://feedback.minecraft.net/hc/en-us/articles/4403610710797)
+- **Please remember:** Worlds that have used experimental toggles will always be flagged as “Experimental”. We recommend keeping these experimental worlds as separate copies from your main saves. More information can be found in [this article](../Beta-and-Preview-Information-and-Changelogs/Experimental-Features-Toggle-in-Minecraft-Bedrock-Edition.md)
 
 **Bamboo Wood Blocks**
 

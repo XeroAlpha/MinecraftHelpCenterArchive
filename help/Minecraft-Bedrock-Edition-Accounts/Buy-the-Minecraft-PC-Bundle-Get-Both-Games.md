@@ -20,7 +20,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4607523809933-Buy-the-Minecraft-PC-Bundle-Get-Both-Games-
 ---
 
-**Note: Minecraft: Java & Bedrock Edition for PC is here! For more information on the product, please [refer to this FAQ](https://help.minecraft.net/hc/en-us/articles/6657208607501-Minecraft-Java-Bedrock-Edition-FAQ).**
+**Note: Minecraft: Java & Bedrock Edition for PC is here! For more information on the product, please [refer to this FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**
 
 ## What’s happening? 
 

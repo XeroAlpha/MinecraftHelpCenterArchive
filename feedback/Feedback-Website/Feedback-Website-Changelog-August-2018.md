@@ -24,12 +24,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360013989071-Feedback-Web
 
 These live in the Feedback Website category of our Knowledge Base:
 
-[Feedback Website FAQ](https://feedback.minecraft.net/hc/en-us/articles/360011793092) has been created. If you haven't been here in a while and this is your first visit to the post-May 2018 feedback site, [start here](https://feedback.minecraft.net/hc/en-us/articles/360003470871-Welcome-to-the-Feedback-Site-May-2018-) instead.
+[Feedback Website FAQ](./Feedback-Website-FAQ.md) has been created. If you haven't been here in a while and this is your first visit to the post-May 2018 feedback site, [start here](./Welcome-to-the-Feedback-Site.md) instead.
 
-[How to Post and Edit Feedback](https://feedback.minecraft.net/hc/en-us/articles/360012134952). It's more technical than [Creating Great Feedback ](https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Feedback)and has pictures.
+[How to Post and Edit Feedback](./How-to-Post-and-Edit-Feedback.md). It's more technical than [Creating Great Feedback ](./Creating-Great-Ideas.md)and has pictures.
 
 [Meet the Categories](https://feedback.minecraft.net/hc/en-us/articles/360004476171) went out of date, thanks to the fast moving and shuffling of categories that took place the first two full months of the new feedback site. Oops, we're bringing that back in line because a FAQ out of date helps nobody!
 
-[Tags on Posts and What they Mean](https://feedback.minecraft.net/hc/en-us/articles/360012391791) needed a page. It has one now.
+[Tags on Posts and What they Mean](./Tags-on-Posts-and-What-They-Mean-A-Guide.md) needed a page. It has one now.
 
 \* (2 August) Removed Header button from posting form. It's not broken. Keeps things simple, wasn't being used that much anyway, and prevents posts in entire Heading 1. We make changes around here often, but we also enjoy your feedback about our website changes.

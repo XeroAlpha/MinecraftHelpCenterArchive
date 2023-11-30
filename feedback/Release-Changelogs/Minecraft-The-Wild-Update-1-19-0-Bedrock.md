@@ -243,7 +243,7 @@ Players can switch to and from Spectator using the Settings Menu and the '/gamem
 
 **User Interface**
 
-- Minor changes have been made for Xbox players when switching accounts while the game is open. See [this article](https://help.minecraft.net/hc/en-us/articles/360045828292) for details
+- Minor changes have been made for Xbox players when switching accounts while the game is open. See [this article](../../help/Minecraft-Bedrock-Edition-Accounts/How-to-Log-In-to-Minecraft-Bedrock-Edition.md) for details
 - Shift-clicking items will once again combine items of same type into a stack ([MCPE-153992](https://bugs.mojang.com/browse/MCPE-153992))
 - Added settings to change duration of notifications
 - The "Submit Feedback" button is now described as a link by Text-To-Speech

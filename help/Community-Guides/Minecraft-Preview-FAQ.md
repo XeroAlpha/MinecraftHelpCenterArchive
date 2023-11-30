@@ -84,7 +84,7 @@ On Xbox, you can copy your existing worlds from Minecraft: Bedrock Edition using
 
 ## How do I Leave Minecraft Preview?
 
-Please refer to [this article](https://help.minecraft.net/hc/en-us/articles/360040841471) for more information.
+Please refer to [this article](../Minecraft-Bedrock-Edition-Technical/How-Do-I-Join-and-Leave-Minecraft-Preview.md) for more information.
 
 ## Where can I give feedback and report bugs?
 

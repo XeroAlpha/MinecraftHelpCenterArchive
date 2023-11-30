@@ -47,14 +47,14 @@ Yes, features scheduled to release with Caves & Cliffs Part II are currently ava
 
 For more information on how to access these features:
 
-[How to install and play Minecraft: Bedrock Edition Betas](https://help.minecraft.net/hc/en-us/articles/360040841471-How-to-Join-and-leave-a-Minecraft-Beta)
+[How to install and play Minecraft: Bedrock Edition Betas](../Minecraft-Bedrock-Edition-Technical/How-Do-I-Join-and-Leave-Minecraft-Preview.md)
 
-[Experimental Features Toggle in Minecraft: Bedrock Edition](https://feedback.minecraft.net/hc/en-us/articles/4403610710797)  
+[Experimental Features Toggle in Minecraft: Bedrock Edition](../../feedback/Beta-and-Preview-Information-and-Changelogs/Experimental-Features-Toggle-in-Minecraft-Bedrock-Edition.md)  
 [Caves & Cliffs Experimental World Generation Snapshot for Minecraft: Java Edition](https://www.minecraft.net/article/new-world-generation-java-available-testing)
 
 ## Is the Deep Dark and Warden coming out with Caves & Cliffs Part II?
 
-No. As we announced during Minecraft LIVE this year, the Deep Dark biome, along with all its sculk blocks, will be released with the Wild Update. As will the Warden. If you want to try out some of the blocks, they are available behind the “Vanilla Experiments” toggle on Minecraft: Bedrock Edition betas. [Follow this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.
+No. As we announced during Minecraft LIVE this year, the Deep Dark biome, along with all its sculk blocks, will be released with the Wild Update. As will the Warden. If you want to try out some of the blocks, they are available behind the “Vanilla Experiments” toggle on Minecraft: Bedrock Edition betas. [Follow this guide](../../feedback/Beta-and-Preview-Information-and-Changelogs/Experimental-Features-Toggle-in-Minecraft-Bedrock-Edition.md) to activate the toggle.
 
 ## Are custom biome packs compatible with Caves & Cliffs Part II worlds?
 
@@ -62,4 +62,4 @@ New world generation in Caves & Cliffs Part II is currently incompatible with th
 
 ## The sculk sensor block I had in my world is replaced with a placeholder block and the goat horn item is gone. How do I get them working again?
 
-Both of these features have been moved to a new experimental toggle. The name of the new toggle is “Vanilla Experiments”. [Follow this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.
+Both of these features have been moved to a new experimental toggle. The name of the new toggle is “Vanilla Experiments”. [Follow this guide](../../feedback/Beta-and-Preview-Information-and-Changelogs/Experimental-Features-Toggle-in-Minecraft-Bedrock-Edition.md) to activate the toggle.

@@ -72,9 +72,9 @@ We believe Player Safety is an area that benefits the industry and larger gaming
 
 The goal of having effective and intuitive Player Reporting mechanisms in our games is to empower the community to let us know when harmful behavior is taking place and getting in the way of the fun and intended experiences in Minecraft.
 
-There are various ways to report abusive behavior in the Minecraft: Java Edition and Minecraft: Bedrock Edition clients. Please visit [this article](https://help.minecraft.net/hc/en-us/articles/13019118732429) for information on how to file a report.
+There are various ways to report abusive behavior in the Minecraft: Java Edition and Minecraft: Bedrock Edition clients. Please visit [this article](./How-to-Report-a-Player.md) for information on how to file a report.
 
-For more information about Player Reporting in the Minecraft: Java Edition game client, see this [article](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) and the [Reporting FAQ.](https://help.minecraft.net/hc/en-us/articles/7317376541197)
+For more information about Player Reporting in the Minecraft: Java Edition game client, see this [article](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) and the [Reporting FAQ.](../Minecraft-Java-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md)
 
 \*If you are aware of a server that is violating our Community Guidelines, you can [report them here](http://aka.ms/mce-reportserver).
 

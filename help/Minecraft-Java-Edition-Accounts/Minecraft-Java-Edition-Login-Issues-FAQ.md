@@ -59,7 +59,7 @@ Minecraft accounts were the first way to log into Minecraft on a computer, and M
 - This account type was introduced when Microsoft acquired Minecraft from Mojang Studios, and all new accounts created after December 2020 use this account type.  
 - New purchases of Minecraft: Java Edition are linked to a Microsoft account instead of a Mojang account.  
 - When logging into the game or the site, you use a Microsoft account login.  
-- When you [make your purchase](https://www.minecraft.net/en-us/get-minecraft), you will be prompted to link a Microsoft account. You can then [select a Java profile name](https://help.minecraft.net/hc/en-us/articles/4408950195341-Minecraft-Java-Edition-Username-VS-Gamertag-FAQ) and log into the game using your Microsoft credentials.  
+- When you [make your purchase](https://www.minecraft.net/en-us/get-minecraft), you will be prompted to link a Microsoft account. You can then [select a Java profile name](./Minecraft-Java-Edition-Profile-Name-VS-Gamertag-FAQ.md) and log into the game using your Microsoft credentials.  
 
 ## Unlinking a Minecraft: Java Edition Account and a Microsoft Account   
 
@@ -105,7 +105,7 @@ How you log in depends on your account type, either with a Minecraft account, 
 
 ### I Need to Change the Email Address Used for my Account  
 
-- For a **Minecraft account**, you will need to migrate it to change the email address. To learn how to do this, please visit [Changing Your Email Address](https://help.minecraft.net/hc/en-us/articles/360034636992).  
+- For a **Minecraft account**, you will need to migrate it to change the email address. To learn how to do this, please visit [Changing Your Email Address](./Change-Your-Email-Address-Legacy-Minecraft-Accounts.md).  
 - For a **Mojang account**, visit the [Mojang Studios Account](https://account.mojang.com/me/settings) login page. You can either have instructions sent to your current address or, if you don't have access to that email, you can have it changed by passing a [security challenge](https://help.minecraft.net/hc/en-us/articles/4408866406541-Mojang-Account-Security-Questions-FAQ).  
 - For a **Microsoft account**, please contact [Microsoft support](https://support.microsoft.com/contactus).  
 
@@ -143,7 +143,7 @@ If you continue to have problems with resetting your security questions, con
 To change or recover your email address, visit one of the following sites, depending on your account type:  
 
 - [Mojang account](https://help.minecraft.net/hc/en-us/articles/360035056531-Changing-Your-Email-Address-Mojang-Accounts-)  
-- [Legacy Minecraft account](https://help.minecraft.net/hc/en-us/articles/360034636992-Changing-Your-Email-Address-Legacy-Minecraft-Accounts-)  
+- [Legacy Minecraft account](./Change-Your-Email-Address-Legacy-Minecraft-Accounts.md)  
 - [Microsoft account](https://support.microsoft.com/contactus)  
 
 If you're not sure which account type you have, see:  [Minecraft: Java Edition Account Types](#minecraft-java-edition-account-types) at the top of this article.  
@@ -180,7 +180,7 @@ Make sure you are logging in with your correct Java profile name and passwor
 - Check for any service updates or outages. 
 - Check [@MojangStatus](https://twitter.com/MojangStatus?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) on Twitter. 
 
-If you still cannot log in, you may require further assistance. See: [Having trouble accessing your account?](https://help.minecraft.net/hc/en-us/articles/360029681732-Having-trouble-accessing-your-account-) for more suggestions.  
+If you still cannot log in, you may require further assistance. See: [Having trouble accessing your account?](../Minecraft-Bedrock-Edition-Accounts/Having-Trouble-Accessing-Your-Minecraft-Account.md) for more suggestions.  
 
 If you still cannot resolve the issue or you need assistance in changing account information,
 

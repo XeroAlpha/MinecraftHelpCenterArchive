@@ -92,7 +92,7 @@ Check out the [FAQ article](https://aka.ms/CCFeaturesFAQ) for a deep dive on the
 - Removed "Old" world type from the world creation screen
 - Locked Old worlds to BaseGameVersion 1.17.40
 - Existing Old worlds are still playable but will not be updated with 1.18 features
-- For more information on Old world changes, please see the [FAQ article](https://feedback.minecraft.net/hc/en-us/articles/4411688594317)
+- For more information on Old world changes, please see the [FAQ article](../Beta-and-Preview-Information-and-Changelogs/Old-Worlds-Types-in-Minecraft-Bedrock-Edition-FAQ.md)
 
 **Menu Panorama**
 
@@ -102,7 +102,7 @@ Check out the [FAQ article](https://aka.ms/CCFeaturesFAQ) for a deep dive on the
 
 - Players with external storage will be migrated to new location at start up, due to storage changes required by Google. You can still play if migration fails by closing the results window
 - With external storage being migrated to its new location in preparation for Google's new API requirements, you will now lose your data if you uninstall Minecraft, unless you check the box indicating you want to keep your data. We recommend checking this box if you wish to keep your worlds in the event you choose to reinstall Minecraft
-- For more information on storage changes, please see the [FAQ article](https://help.minecraft.net/hc/en-us/articles/4411299967629)
+- For more information on storage changes, please see the [FAQ article](../../help/Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Worlds-Lost-When-Using-External-Storage-on-Android-Devices.md)
 
 **Known Issues:**
 

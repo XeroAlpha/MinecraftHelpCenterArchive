@@ -75,4 +75,4 @@ The Minecraft Trial for Chromebook may only be available for a limited time. We 
 
 ## Is there a full version of the game available for Chromebook?
 
-Yes! Minecraft for Chromebook is a full version of Minecraft: Bedrock Edition available on Chromebook devices. Refer to [this article](https://help.minecraft.net/hc/en-us/articles/13803752803725) for more information.
+Yes! Minecraft for Chromebook is a full version of Minecraft: Bedrock Edition available on Chromebook devices. Refer to [this article](./Minecraft-for-Chromebook-FAQ.md) for more information.

@@ -16,7 +16,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4410317081741-How-to-Play-Minecraft-Java-Edition-Multiplayer
 ---
 
-*This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft Multiplayer.](https://help.minecraft.net/hc/en-us/articles/4410316619533)***
+*This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft Multiplayer.](../Minecraft-Bedrock-Edition-Technical/How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md)***
 
 # In This Article:
 
@@ -33,7 +33,7 @@ When playing Minecraft, you can play a single-player or multiplayer game. If you
 
 When playing Minecraft: Java Edition, a player's game version must be the same as the server version to play on that server, whether it's LAN or hosted online. You can see your game version number at the bottom of your main menu. 
 
-For more information, see [Change Game Versions](https://help.minecraft.net/hc/en-us/articles/360034754852-Changing-game-versions-) 
+For more information, see [Change Game Versions](./Change-Game-Version-for-Minecraft-Java-Edition.md) 
 
 For Minecraft on all other platforms, Minecraft can be updated by going to your device’s store. 
 
@@ -53,7 +53,7 @@ This requires opening your home or local area network (LAN) to others who are al
 
 This requires locating and connecting to the IP address of a multiplayer server. Additionally, Minecraft Java: Edition does not require an Xbox Live subscription.
 
-A multiplayer server allows two or more players to play Minecraft together. You can either download the server file needed to set up your own server from [Minecraft.net](https://minecraft.net/download/server) or connect to another person’s server. **Note:** To access a server you need to run the same version of Minecraft as the server. For more information, see [Changing game version](https://help.minecraft.net/hc/en-us/articles/360034754852-Changing-game-versions-). 
+A multiplayer server allows two or more players to play Minecraft together. You can either download the server file needed to set up your own server from [Minecraft.net](https://minecraft.net/download/server) or connect to another person’s server. **Note:** To access a server you need to run the same version of Minecraft as the server. For more information, see [Changing game version](./Change-Game-Version-for-Minecraft-Java-Edition.md). 
 
 ### Connect to another player’s server: 
 

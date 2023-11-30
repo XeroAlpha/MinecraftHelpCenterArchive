@@ -24,7 +24,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4408902716557-Skins-for-Minecraft-Bedrock-Edition
 ---
 
-***This article applies to Minecraft: Bedrock Edition only. For information on Minecraft: Java Edition see [Minecraft: Java Edition Skins](https://help.minecraft.net/hc/en-us/articles/4408894664461-Minecraft-Skins-for-Java-Edition) article.***
+***This article applies to Minecraft: Bedrock Edition only. For information on Minecraft: Java Edition see [Minecraft: Java Edition Skins](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Skins.md) article.***
 
 # In This Article:
 

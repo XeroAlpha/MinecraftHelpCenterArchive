@@ -32,7 +32,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409145165965-Minecraft-Bedrock-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ-
 ---
 
-*This article addresses Minecraft: Bedrock Edition technical issues only (Console, Mobile, PC, Chromebook). See [Java Edition technical issues](https://help.minecraft.net/hc/en-us/articles/4409137348877) articles for help with Minecraft: Java Edition.* 
+*This article addresses Minecraft: Bedrock Edition technical issues only (Console, Mobile, PC, Chromebook). See [Java Edition technical issues](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ.md) articles for help with Minecraft: Java Edition.* 
 
 If you're on Windows or Xbox and are experiencing an error code, try checking the [Xbox Support list of codes](https://support.xbox.com/en-US/help/errors/error-code-search-guide) in tandem with this article to help solve your issue. 
 
@@ -70,11 +70,11 @@ First, determine what type of video card drivers you have.   
 - [Nvidia](http://www.nvidia.com/Download/index.aspx)   
 - [Intel  ](https://downloadcenter.intel.com/)  
 
-After you download and install the drivers, you must restart your computer. If you still see the error message after this update, your computer may not meet the [system requirements](https://help.minecraft.net/hc/en-us/articles/4409172223501-Minecraft-Installation-Issues-FAQ#h_01FFGQHFARYP67X5MV72G1T8TN) to play Minecraft: Bedrock Edition.  
+After you download and install the drivers, you must restart your computer. If you still see the error message after this update, your computer may not meet the [system requirements](./Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md#what-are-the-device-requirements-to-run-minecraft-bedrock-edition) to play Minecraft: Bedrock Edition.  
 
 If you find that your system does not meet the system requirements to run the game, you can request a refund if you make this request during the refund policy window.   
 
-***See****:** *****[*Mojang Refund Policy*](https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-Refunds-Policy)** ***for further information.**  *  
+***See****:** *****[*Mojang Refund Policy*](../General-Billing/Mojang-Studios-Refund-Policy.md)** ***for further information.**  *  
 
 ## Pink and black checkered boxes appear where textures should be; how do I fix this?  
 

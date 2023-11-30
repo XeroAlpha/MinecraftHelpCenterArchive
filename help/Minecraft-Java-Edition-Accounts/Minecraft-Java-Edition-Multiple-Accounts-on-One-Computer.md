@@ -29,7 +29,7 @@ You can have Minecraft create world saves and player data in a different locatio
 
 - Run Minecraft
 - Go to "Launch options" and click "Add new"
-- Switch on the "Game directory" option, then specify a different [file path](https://help.minecraft.net/hc/en-us/articles/4409159214605)(for example, C:\Users\Steve\AppData\Roaming\\minecraft to C:\Users\Steve\AppData\Roaming\\minecraft2)
+- Switch on the "Game directory" option, then specify a different [file path](../Minecraft-Java-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md)(for example, C:\Users\Steve\AppData\Roaming\\minecraft to C:\Users\Steve\AppData\Roaming\\minecraft2)
 - Click "Save"
 
 For more information, please visit the [Windows help site](https://support.microsoft.com/help/4026923/windows-10-create-a-local-user-or-administrator-account). 

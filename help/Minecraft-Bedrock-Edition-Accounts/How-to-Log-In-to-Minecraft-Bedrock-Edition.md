@@ -108,4 +108,4 @@ More information is available in this guide for [how to sign out of your Xbox c
 
 [Information about changing or forgotten passwords](https://support.microsoft.com/en-us/account-billing/reset-a-forgotten-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37). 
 
-If this page did not solve your issue, return to [Minecraft Troubleshooting](https://help.minecraft.net/hc/en-us/articles/360034754072-Minecraft-support-resources).
+If this page did not solve your issue, return to [Minecraft Troubleshooting](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Support-Resources.md).

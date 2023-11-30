@@ -21,7 +21,7 @@ The August Update is now available for Minecraft Legends! This update introduces
 - Revamped Banner View experience
 - Several other quality of life improvements
 
-Another game update was released on August 3 with a variety of improvements, like improved matchmaking and sword damage to piglin structures. You can catch up on the latest from that update by checking out the previous [patch notes](https://help.minecraft.net/hc/en-us/articles/17889654266893).
+Another game update was released on August 3 with a variety of improvements, like improved matchmaking and sword damage to piglin structures. You can catch up on the latest from that update by checking out the previous [patch notes](./Minecraft-Legends-Update-1-17-44512.md).
 
 We continue to read all of your feedback and there are more updates to come, so let us know your thoughts on our Minecraft Legends Discord server at [discord.gg/MinecraftLegends](https://discord.gg/MinecraftLegends) and report bugs at [bugs.mojang.com](https://bugs.mojang.com/projects/MCLG/summary).  
   

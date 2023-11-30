@@ -169,7 +169,7 @@ To find out how to change your online Gamertag go to [Microsoft support](https:/
 
 Generally, game save data does not sync between different platforms. Campaign save data will only sync between Minecraft Legends on Xbox consoles and the Windows version when purchased through the Microsoft Store (not Steam) when using the same Microsoft account.
 
-See the [Minecraft Legends Marketplace FAQ](https://help.minecraft.net/hc/en-us/articles/14790575702925) about Marketplace purchases across Microsoft accounts and platforms.
+See the [Minecraft Legends Marketplace FAQ](../Minecraft-Legends-Marketplace/Minecraft-Legends-Marketplace-FAQ.md) about Marketplace purchases across Microsoft accounts and platforms.
 
 ## Achievements in Minecraft Legends
 

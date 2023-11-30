@@ -26,7 +26,7 @@ If you are unable to launch Minecraft: Bedrock Edition from your VR headset's ga
 
 To use this shortcut, make sure your VR headset is plugged into your computer and powered on. Clicking the shortcut you just made will launch Minecraft: Bedrock Edition in your VR headset instead of on your computer.
 
-If you have any issues or need further guidance, see [VR Launching Issues](https://help.minecraft.net/hc/en-us/articles/360057773212). 
+If you have any issues or need further guidance, see [VR Launching Issues](./Minecraft-Bedrock-Edition-is-not-Available-to-Launch-Through-my-VR-Headset-s-Library.md). 
 
 ## Enhanced Options for VR
 

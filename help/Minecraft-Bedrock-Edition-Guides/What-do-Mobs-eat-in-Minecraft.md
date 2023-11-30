@@ -30,7 +30,7 @@ Here is the complete list of animal mobs in Minecraft that you can feed and what
 
 - Axolotl – Bucket of tropical fish
 - Bee – Any flower
-- [Camel](https://help.minecraft.net/hc/en-us/articles/16475940051085) - Cactus
+- [Camel](../Trails-Tales-Update/Trails-Tales-Update-Camel.md) - Cactus
 - Cat/Ocelot – Raw cod, raw salmon
 - Chicken – Beetroot seed, pumpkin seed, melon seed, wheat seed, torchflower seed, pitcher pod
 - Cow/Mooshroom – Wheat
@@ -47,11 +47,11 @@ Here is the complete list of animal mobs in Minecraft that you can feed and what
 - Rabbit – Carrot, dandelion, golden carrot
 - Sheep – Wheat
   - Sheep will also eat the top of Grass blocks that are placed in the world
-- [Sniffer](https://help.minecraft.net/hc/en-us/articles/16476513292813) – Torchflower seeds
+- [Sniffer](../Trails-Tales-Update/Trails-Tales-Update-The-Sniffer.md) – Torchflower seeds
 - Strider – Warped fungus
 - Turtle - Seagrass
 - Wolf
   - In Minecraft: Bedrock Edition, wolves will eat any kind of raw or cooked meat, but fish will not put them into breeding mode.
   - In Minecraft: Java Edition, wolves will eat any kind of raw or cooked meat outside of fish, which they will not touch.
 
-That is the complete list of mobs you can directly feed in Minecraft. Be sure to use this whenever you are looking to get a little closer to the animals around your home base and check out guide on [how to tame and breed mobs](https://help.minecraft.net/hc/en-us/articles/360046353891).
+That is the complete list of mobs you can directly feed in Minecraft. Be sure to use this whenever you are looking to get a little closer to the animals around your home base and check out guide on [how to tame and breed mobs](./Minecraft-How-do-I-Tame-and-Breed-Animals.md).

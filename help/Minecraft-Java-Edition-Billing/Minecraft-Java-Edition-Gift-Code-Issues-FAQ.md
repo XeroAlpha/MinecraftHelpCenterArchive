@@ -19,7 +19,7 @@ link: https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-
 
 **Note: Minecraft: Java Edition and Minecraft: Bedrock Edition are now sold as one bundle under the Minecraft: Java & Bedrock Edition for PC label, meaning some information in this article is now outdated. For information on buying Minecraft, please [refer to this article](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**
 
-*This article addresses Minecraft: Java Edition gift code issues. See the **[Minecraft Gift Code Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Gift-Code-Issues-FAQ-)*** *for all other gift code issues.*
+*This article addresses Minecraft: Java Edition gift code issues. See the **[Minecraft Gift Code Issues FAQ](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md)*** *for all other gift code issues.*
 
 # In This Article:
 

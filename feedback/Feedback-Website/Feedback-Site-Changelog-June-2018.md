@@ -8,7 +8,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004618271-Feedback-Sit
 
 ## **What's new (last update: 25 June 2018)**
 
-\* New article: [Previously Considered Feedback](https://feedback.minecraft.net/hc/en-us/articles/360005029872). You'll want to read that.
+\* New article: [Previously Considered Feedback](./Previously-Considered-Suggestions.md). You'll want to read that.
 
 \* That issue with logging in with your Microsoft account? As of 19 June, our web team has verified the fix is in place. Please be sure you're using your Microsoft accounts to log in, and if you've had issues, clear your cache, delete previous cookies, etc.
 

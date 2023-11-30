@@ -70,4 +70,4 @@ Players can use the Submit Feedback feature to send a one-way message to Creator
 
 ![SubmitFeedback.png](https://minecrafthelp.zendesk.com/hc/article_attachments/18840265387533)
 
-For more information about the Minecraft Marketplace check out our [Marketplace FAQs](https://help.minecraft.net/hc/en-us/articles/4408963926541-Marketplace-FAQs-) and [quick guide](https://www.minecraft.net/en-us/article/marketplace-quick-guide).
+For more information about the Minecraft Marketplace check out our [Marketplace FAQs](./Minecraft-Marketplace-FAQ.md) and [quick guide](https://www.minecraft.net/en-us/article/marketplace-quick-guide).

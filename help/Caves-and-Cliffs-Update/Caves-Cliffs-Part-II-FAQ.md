@@ -19,7 +19,7 @@ This FAQ covers important information related to Caves & Cliffs Part II, includi
 
 ## Will I be able to update my existing worlds with the new Caves & Cliffs Part II world generation?
 
-Yes, you can. In Minecraft: Java Edition and Minecraft: Bedrock Edition, players with will be able to upgrade their existing worlds with Caves & Cliffs Part II features, including new world and terrain generation. To find out more, please read our dedicated [World Upgrading FAQ page](https://feedback.minecraft.net/hc/en-us/articles/4409799312141).
+Yes, you can. In Minecraft: Java Edition and Minecraft: Bedrock Edition, players with will be able to upgrade their existing worlds with Caves & Cliffs Part II features, including new world and terrain generation. To find out more, please read our dedicated [World Upgrading FAQ page](../../feedback/Beta-and-Preview-Information-and-Changelogs/Caves-Cliffs-Part-ll-FAQ-Upgrading-Worlds-Bedrock-Beta.md).
 
 ## Have there been improvements to seed parity in this update?
 
@@ -47,4 +47,4 @@ New world generation in Caves & Cliffs Part II is currently incompatible with th
 
 ## Are the Deep Dark and Warden coming out with Caves & Cliffs Part II?
 
-As we announced during Minecraft LIVE this year, the Deep Dark biome, along with sculk blocks and the Warden will be released with the Wild Update, coming next year. If you want to try out some of the features, they are available behind the “Vanilla Experiments” toggle. Follow [this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.
+As we announced during Minecraft LIVE this year, the Deep Dark biome, along with sculk blocks and the Warden will be released with the Wild Update, coming next year. If you want to try out some of the features, they are available behind the “Vanilla Experiments” toggle. Follow [this guide](../../feedback/Beta-and-Preview-Information-and-Changelogs/Experimental-Features-Toggle-in-Minecraft-Bedrock-Edition.md) to activate the toggle.

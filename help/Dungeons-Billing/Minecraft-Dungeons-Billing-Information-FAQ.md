@@ -30,7 +30,7 @@ If you are notified of a billing issue where money has been deducted from you
 
 ## I Purchased Minecraft Dungeons on the Wrong Account. Can I Transfer the Purchase to the Correct One? 
 
-Purchasing the game on the wrong account can cause a few issues when trying to play. Unfortunately, there is not a way to transfer the game license from one account to another. If you have purchased the game on the wrong account using Minecraft.net, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and we will be happy to assist you with getting a refund. This way, you may re-purchase the game on the correct account. Please be aware that there is a 15-day [refund policy](https://help.minecraft.net/hc/en-us/articles/360030463592) from the time of purchase. Make sure to provide your [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371) when you make your request.  
+Purchasing the game on the wrong account can cause a few issues when trying to play. Unfortunately, there is not a way to transfer the game license from one account to another. If you have purchased the game on the wrong account using Minecraft.net, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and we will be happy to assist you with getting a refund. This way, you may re-purchase the game on the correct account. Please be aware that there is a 15-day [refund policy](../General-Billing/Mojang-Studios-Refund-Policy.md) from the time of purchase. Make sure to provide your [transaction ID](../General-Billing/What-is-a-Transaction-ID.md) when you make your request.  
 
 If you bought Minecraft Dungeons on a platform other than Minecraft.net, please contact the platform holder's support team for a refund.
 

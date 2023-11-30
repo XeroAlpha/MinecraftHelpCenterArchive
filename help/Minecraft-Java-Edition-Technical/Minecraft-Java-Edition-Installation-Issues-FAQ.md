@@ -29,7 +29,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409225939853-Minecraft-Java-Edition-Installation-Issues-FAQ
 ---
 
-*This article addresses installation and update issues for Minecraft: Java Edition. If you need assistance with Bedrock versions of Minecraft installation issues, See the [Minecraft Installation Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4409172223501). *
+*This article addresses installation and update issues for Minecraft: Java Edition. If you need assistance with Bedrock versions of Minecraft installation issues, See the [Minecraft Installation Issues FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md). *
 
 # In This Article:  
 
@@ -150,7 +150,7 @@ While the updated launcher is available for players on Mac and Linux, Minecraft:
 
 Please be cautious with moving or modifying your save files. We advise that you make a backup before you perform any actions in this folder. You can back up your files by copying them and storing them in another folder or on a USB drive. 
 
-Start by finding [your saves folder](https://help.minecraft.net/hc/en-us/articles/4409159214605#h_01FGA90Z06DE00GT8E81SWX9SE). You can find all Minecraft folders, including the saves folder, by going into the game launcher:
+Start by finding [your saves folder](./Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md#where-are-minecraft-files-stored). You can find all Minecraft folders, including the saves folder, by going into the game launcher:
 
 1.  Open the Minecraft launcher and log in.
 2.  Select **Launch options**, and then select the launcher configuration you are running (the default is **Latest release**). 
@@ -162,7 +162,7 @@ Start by finding [your saves folder](https://help.minecraft.net/hc/en-us/ar
 
 We're sorry to see you go, but we understand that sometimes you need to uninstall the game. We hope it’s to install a different version or to install on a different platform! Here's what you need to know to uninstall Minecraft. 
 
-Please note that your worlds and your saved worlds and inventory will be deleted when you remove the files. To keep your progress, locate the saves folder and save it on your computer before you drag the .minecraft folder to the trash. You can find the saves folder in the .minecraft folder. For more information about where your saves files are stored, please go to [Where Are Minecraft Files Stored?](https://help.minecraft.net/hc/en-us/articles/4409159214605#h_01FGA90Z06DE00GT8E81SWX9SE) 
+Please note that your worlds and your saved worlds and inventory will be deleted when you remove the files. To keep your progress, locate the saves folder and save it on your computer before you drag the .minecraft folder to the trash. You can find the saves folder in the .minecraft folder. For more information about where your saves files are stored, please go to [Where Are Minecraft Files Stored?](./Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md#where-are-minecraft-files-stored) 
 
 ### Windows 
 

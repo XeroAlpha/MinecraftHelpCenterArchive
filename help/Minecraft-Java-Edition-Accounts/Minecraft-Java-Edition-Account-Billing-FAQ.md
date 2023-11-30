@@ -43,7 +43,7 @@ If your game has been refunded, and you bought it through Mojang, contact your b
 
 ### Can I get a refund for a code from a reseller site? 
 
-If you bought a code online through a re-seller website, we are unable to assist you as re-selling codes violates our [terms of service](https://account.mojang.com/documents/minecraft_eula). We provide refunds only when required to do so or at the request of the original buyer per our [refund policy](https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-refunds-policy). 
+If you bought a code online through a re-seller website, we are unable to assist you as re-selling codes violates our [terms of service](https://account.mojang.com/documents/minecraft_eula). We provide refunds only when required to do so or at the request of the original buyer per our [refund policy](../General-Billing/Mojang-Studios-Refund-Policy.md). 
 
 ### Can I restore my account?  
 

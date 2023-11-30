@@ -100,7 +100,7 @@ This means you’ve encountered an unknown client error during sign-in.
 
 The wrong Microsoft/Xbox account is being used to sign into the current PlayStation Network account.
 
-- The PlayStation and Microsoft account link is permanent and cannot be associated with other accounts. For more information, please see our FAQ: [Minecraft for PlayStation®](https://help.minecraft.net/hc/en-us/articles/360037725571-Minecraft-for-PlayStation-4-FAQ)
+- The PlayStation and Microsoft account link is permanent and cannot be associated with other accounts. For more information, please see our FAQ: [Minecraft for PlayStation®](./Minecraft-Bedrock-Edition-for-PlayStation-FAQ.md)
 
 ### Terracotta:
 
@@ -151,7 +151,7 @@ If you find the issue persists after this point, we have a few additional sugges
 ### Uninstall and Reinstall Minecraft: Bedrock Edition
 
 1.  Refer to your device support site for guidance on uninstalling and reinstalling purchased applications. 
-2.  **DISCLAIMER:** This will delete your local saves, so please back up any files you wish to keep. If you need assistance, see [Backing up Minecraft Worlds](https://help.minecraft.net/hc/en-us/articles/4409165790605#h_01FG9YQZTD4SQM2XEP4GC28PW3).
+2.  **DISCLAIMER:** This will delete your local saves, so please back up any files you wish to keep. If you need assistance, see [Backing up Minecraft Worlds](./Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md#back-up-minecraft-bedrock-edition-worlds).
 
 ### Device Troubleshooting 
 

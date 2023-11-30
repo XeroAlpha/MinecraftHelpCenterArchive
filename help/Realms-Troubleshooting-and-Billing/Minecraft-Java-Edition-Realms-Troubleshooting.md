@@ -23,7 +23,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4410380333453-Minecraft-Java-Edition-Realms-Troubleshooting
 ---
 
-*This article provides general troubleshooting for connection issues for Minecraft: Java Edition Realms. See:* [*Minecraft Realms Plus Multiplayer Troubleshooting*](https://help.minecraft.net/hc/en-us/articles/4410376128013) *for information on Minecraft Realms Plus multiplayer issues.*
+*This article provides general troubleshooting for connection issues for Minecraft: Java Edition Realms. See:* [*Minecraft Realms Plus Multiplayer Troubleshooting*](./Minecraft-Realms-Plus-Troubleshooting.md) *for information on Minecraft Realms Plus multiplayer issues.*
 
 **Note: A Minecraft: Bedrock Edition Realms subscription is separate from a Minecraft: Java Edition Realms subscription.** **Realms subscriptions do not carry over between game versions. If you would like a Realm in Bedrock Edition and one in Java Edition, you need to set up two separate subscriptions. **
 
@@ -59,7 +59,7 @@ Minecraft: Java Edition Realms connection speeds can vary between individual pla
 
 When trying to play Minecraft: Java Edition Realms, this error message means that you're using an older game version. To fix this, you must update your game to the latest version of Minecraft.
 
-For information on how to change your game version to the latest full release, see [Changing Game Versions. ](https://help.minecraft.net/hc/en-us/articles/360034754852-Changing-game-versions-)
+For information on how to change your game version to the latest full release, see [Changing Game Versions. ](../Minecraft-Java-Edition-Technical/Change-Game-Version-for-Minecraft-Java-Edition.md)
 
 ### Invalid session ID
 

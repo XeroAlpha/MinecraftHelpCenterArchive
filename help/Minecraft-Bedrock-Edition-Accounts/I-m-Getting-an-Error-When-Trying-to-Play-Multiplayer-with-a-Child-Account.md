@@ -82,4 +82,4 @@ A child account cannot access Realms unless the account has been given parental 
 
 If you still need assistance or are unable to pay the parental consent fee, contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
 
-If the guidance on this page did not solve your issue, return to [Minecraft Troubleshooting](https://help.minecraft.net/hc/en-us/articles/360034754072-Minecraft-support-resources).
+If the guidance on this page did not solve your issue, return to [Minecraft Troubleshooting](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Support-Resources.md).

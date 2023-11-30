@@ -138,7 +138,7 @@ You can purchase all in-game content and add-ons using Minecoins, including Skin
 
 ### Can I save things to purchase later on a Wishlist?
 
-Yes, each offer should have a Wishlist icon ![Image of the Wishlist Icon](https://minecrafthelp.zendesk.com/hc/article_attachments/15216596774541) that allows you to save it to purchase later. This is part of the Wishlist feature and more details could be [found here](https://help.minecraft.net/hc/en-us/articles/360059025451).
+Yes, each offer should have a Wishlist icon ![Image of the Wishlist Icon](https://minecrafthelp.zendesk.com/hc/article_attachments/15216596774541) that allows you to save it to purchase later. This is part of the Wishlist feature and more details could be [found here](./How-to-Use-Minecraft-Marketplace.md).
 
 ### I purchased something and I want to give the creator feedback about it
 

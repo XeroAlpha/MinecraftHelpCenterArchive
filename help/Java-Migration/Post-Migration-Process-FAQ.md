@@ -53,7 +53,7 @@ While you won’t be able to keep your skins, progress, or Java profile name, yo
     - Double-check that the Microsoft account email displayed is correct.
 5.  Click ‘Finish’.
 6.  Receive an email confirming that we’ve granted your Microsoft account an entitlement to Minecraft: Java Edition and Minecraft: Bedrock Edition.
-7.  Download the free Minecraft Launcher through either Minecraft.net or the Microsoft Store. [This article](https://help.minecraft.net/hc/en-us/articles/4412261881229#h_01GXBWAWCWXEHQ9W7KWGXZJE9V) provides more details on how to download the Launcher. 
+7.  Download the free Minecraft Launcher through either Minecraft.net or the Microsoft Store. [This article](../Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-for-Windows.md#do-i-need-the-minecraft-launcher-for-windows-to-play-minecraft-bedrock-edition-minecraft-java-edition-minecraft-dungeons-or-minecraft-legends) provides more details on how to download the Launcher. 
 8.  Log into your Microsoft account through the Launcher and check that you have access to both Java and Bedrock.
 
 **Note: Child accounts will need assistance from their parent accounts to complete this process.**

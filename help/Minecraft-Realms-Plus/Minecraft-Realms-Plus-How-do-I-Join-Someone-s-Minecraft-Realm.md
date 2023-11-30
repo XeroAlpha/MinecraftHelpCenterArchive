@@ -30,7 +30,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4410386197133-Minecraft-Realms-Plus-How-do-I-Join-Someone-s-Minecraft-Realm-
 ---
 
-*This article is for Minecraft Realms Plus on Minecraft: Bedrock Edition for mobile, Chromebook, Nintendo Switch, Sony PlayStation® 4 and 5, PC, Windows 10 and above, and Xbox One and Series X\|S. If you want to create a Realm for Minecraft: Java Edition, go to* [Minecraft: Java Edition Realms Creation FAQ](https://help.minecraft.net/hc/en-us/articles/4409253767821)*.* 
+*This article is for Minecraft Realms Plus on Minecraft: Bedrock Edition for mobile, Chromebook, Nintendo Switch, Sony PlayStation® 4 and 5, PC, Windows 10 and above, and Xbox One and Series X\|S. If you want to create a Realm for Minecraft: Java Edition, go to* [Minecraft: Java Edition Realms Creation FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md)*.* 
 
 Minecraft Realms is a multiplayer service that enables you to play Minecraft: Bedrock Edition online with two or up to ten of your friends. For more information, check out [Minecraft.net/Realms](https://www.minecraft.net/en-us/realms). 
 
@@ -148,7 +148,7 @@ If you have additional questions, see: [Minecraft Realms Plus Multiplayer Troubl
 
 ## Joining Someone's Realm 
 
-From the Minecraft Realms menu in Minecraft: Bedrock Edition, you can view a list of Realms that are available to you. Each Realm that you join first requires an invitation, indicated by the flashing mail icon. After you accept it, that player's Realm will be available to you. Make sure that you have the [latest public release](https://help.minecraft.net/hc/en-us/articles/4409172223501#h_01FFGQHMP7SE5T5JQHB3068226) of the game. 
+From the Minecraft Realms menu in Minecraft: Bedrock Edition, you can view a list of Realms that are available to you. Each Realm that you join first requires an invitation, indicated by the flashing mail icon. After you accept it, that player's Realm will be available to you. Make sure that you have the [latest public release](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md#how-to-manually-update-minecraft-bedrock-edition) of the game. 
 
 A Realm's current status is indicated by the colored dot next to it:
 
@@ -242,7 +242,7 @@ From here you can see how your subscription is set up, which size it is, how oft
 ### To Manage your subscription
 
 - Select the **Manage Subscription** button.
-- You can learn more about subscriptions at [Minecraft Realms Plus Creation FAQ.](https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Plus-Creation-FAQ-#h_01FFK8VHZ9WTGRYHZEXN01PFG4)
+- You can learn more about subscriptions at [Minecraft Realms Plus Creation FAQ.](./Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md#about-subscriptions)
 
 From here you can also close the Realm. Doing so shuts down the Realm and disconnects anyone currently playing on it. No one will be able to connect to the Realm until you open it again. If a Realm with an active subscription is shut, this does not pause the subscription, it closes the Realm and prevents anyone from joining until it is re-opened.
 
@@ -252,4 +252,4 @@ Here you can find a list of backups available for your Realm. Each backup has 
 
 ## Troubleshooting
 
-For Realms Plus troubleshooting, please refer to the [Realms Plus Troubleshooting article](https://help.minecraft.net/hc/en-us/articles/4410376128013).
+For Realms Plus troubleshooting, please refer to the [Realms Plus Troubleshooting article](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Plus-Troubleshooting.md).

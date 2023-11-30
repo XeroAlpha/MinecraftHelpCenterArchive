@@ -99,4 +99,4 @@ We’re offering 30 free days of Java Realms if you complete the payment migrati
 
 ## What happens to my worlds if my subscription expires?
 
-We will not be deleting any worlds based on players failing to complete the payment migration process. Please refer to [this article](https://help.minecraft.net/hc/en-us/articles/4410000696077#h_01FGCSSR72S26SBJTE7EVVKN98:~:text=for%20further%20assistance.-,HOW%20DOES%20MOJANG%20BACKUP%20YOUR%20REALM%3F,-A%20Realm%20world) for more information on how we manage worlds past a Realm’s expiration date.
+We will not be deleting any worlds based on players failing to complete the payment migration process. Please refer to [this article](./Minecraft-Java-Edition-Realms-Billing-Issues-FAQ.md#h_01FGCSSR72S26SBJTE7EVVKN98:~:text=for%20further%20assistance.-,HOW%20DOES%20MOJANG%20BACKUP%20YOUR%20REALM%3F,-A%20Realm%20world) for more information on how we manage worlds past a Realm’s expiration date.

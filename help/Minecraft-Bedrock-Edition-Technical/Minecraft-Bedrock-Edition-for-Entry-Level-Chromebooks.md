@@ -15,7 +15,7 @@ link: https://help.minecraft.net/hc/en-us/articles/16476866731149-Minecraft-Bedr
 
 Chromebooks with Intel Celeron N4000-N4100 processors represent the lowest tier of supported Chromebooks for Minecraft: Bedrock Edition. This article details what you can expect when playing on one of these entry-level Chromebooks. If your device name is below, please read on for more details.
 
-Keep in mind that performance on these devices may not be optimal. If you’re playing Minecraft: Bedrock Edition on one of these devices and the experience is sub-optimal, you may try optimizing performance by [referring to this article](https://help.minecraft.net/hc/en-us/articles/4410246518669) or use another Chromebook device that meets [these minimum specifications](https://help.minecraft.net/hc/en-us/articles/13803752803725), if possible.
+Keep in mind that performance on these devices may not be optimal. If you’re playing Minecraft: Bedrock Edition on one of these devices and the experience is sub-optimal, you may try optimizing performance by [referring to this article](./Optimizing-Performance-in-Minecraft-Bedrock-Edition.md) or use another Chromebook device that meets [these minimum specifications](./Minecraft-for-Chromebook-FAQ.md), if possible.
 
 Also, please understand that certain Minecraft: Bedrock Edition experiences such as Realms and large-player count multiplayer sessions may be affected due to lower-end hardware. However, single-player and lower player count multiplayer sessions should run with little issue in most cases.
 

@@ -15,7 +15,7 @@ link: https://help.minecraft.net/hc/en-us/articles/15256107705741-Minecraft-Lege
 
 Our first update has come to Minecraft Legends that introduces a variety of improvements.
 
-**NOTE:** This update is now available on all platforms! Please take a look at our [Known Issues](https://help.minecraft.net/hc/en-us/articles/14928408926477) article for a list of other issues we're continuing to investigate.  
+**NOTE:** This update is now available on all platforms! Please take a look at our [Known Issues](../Minecraft-Legends-Gameplay-and-General-Info/Minecraft-Legends-Known-Issues.md) article for a list of other issues we're continuing to investigate.  
   
 **Versions**  
 Nintendo Switch: 1.17.28951  

@@ -35,19 +35,19 @@ We know you want to get back into your Minecraft world as quickly as possible. I
 
 ## Account Support
 
-If you are experiencing issues trying to log in to Minecraft with your Xbox, PlayStation, or Nintendo account, you should contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly. Minecraft Support can aid you with any [Minecraft: Java Edition login problems](https://help.minecraft.net/hc/en-us/articles/4409155824269).
+If you are experiencing issues trying to log in to Minecraft with your Xbox, PlayStation, or Nintendo account, you should contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly. Minecraft Support can aid you with any [Minecraft: Java Edition login problems](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md).
 
 **Note: After September 19, 2023, all Minecraft: Java Edition login problems will be handled by Xbox Support. [Read this article for more details](https://help.minecraft.net/hc/en-us/articles/360052640412-Need-help-with-your-new-Microsoft-account-for-Minecraft-Java-Edition-).**
 
 ## Technical Support
 
-For any questions regarding Minecraft servers being down, crossplay not working, or various bugs, please contact Minecraft Support. You can also check [the Mojang Status X account](https://twitter.com/MojangStatus) or view the [Mojang Bug Tracker Guidelines and FAQ](https://help.minecraft.net/hc/en-us/articles/4408887473421).
+For any questions regarding Minecraft servers being down, crossplay not working, or various bugs, please contact Minecraft Support. You can also check [the Mojang Status X account](https://twitter.com/MojangStatus) or view the [Mojang Bug Tracker Guidelines and FAQ](../Mojang-Bug-Tracker/Mojang-Bug-Tracker-Guidelines-and-FAQ.md).
 
 ## Minecraft Realms subscription and Marketplace concerns
 
-If you are having [trouble getting a friend to join your Minecraft Realms world](https://help.minecraft.net/hc/en-us/articles/4410386197133) or cannot access the Marketplace packs included in your Realms Plus subscription, Minecraft Support will help you out.
+If you are having [trouble getting a friend to join your Minecraft Realms world](../Minecraft-Realms-Plus/Minecraft-Realms-Plus-How-do-I-Join-Someone-s-Minecraft-Realm.md) or cannot access the Marketplace packs included in your Realms Plus subscription, Minecraft Support will help you out.
 
-Having problems accessing other [Marketplace content](https://help.minecraft.net/hc/en-us/articles/4408963926541) you have purchased? Minecraft Support should be your go-to.
+Having problems accessing other [Marketplace content](../Minecraft-Bedrock-Edition-Billing/Minecraft-Marketplace-FAQ.md) you have purchased? Minecraft Support should be your go-to.
 
 For subscription changes, [refund requests](../General-Billing/Mojang-Studios-Refund-Policy.md), or if you’re being overcharged for any purchase, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
 

@@ -52,7 +52,7 @@ Yes! [Cross-platform play](../Dungeons-Technical/Minecraft-Dungeons-Multiplaye
 
 ## What about cross-platform saves?  
 
-Minecraft Dungeons utilizes cloud saving. You can learn more about that in our [Cloud Saves and Backing Up Heroes FAQ](https://help.minecraft.net/hc/en-us/articles/360043504492).   
+Minecraft Dungeons utilizes cloud saving. You can learn more about that in our [Cloud Saves and Backing Up Heroes FAQ](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md).   
 
 ## Do I need a Microsoft account? 
 

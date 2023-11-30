@@ -805,7 +805,7 @@ Become the avatar once more and take on new challenges in Luminous Night – Min
 
 ![Picture1.jpg](https://minecrafthelp.zendesk.com/hc/article_attachments/5644849164301)
 
-Check out the latest [Developer Diary](https://www.youtube.com/watch?v=4pOedIMrGYU) for a run through on some of the new features! The [Seasonal Adventures FAQ](https://help.minecraft.net/hc/en-us/articles/4416089241997) is also a great resource to learn even more about seasons in Minecraft Dungeons.
+Check out the latest [Developer Diary](https://www.youtube.com/watch?v=4pOedIMrGYU) for a run through on some of the new features! The [Seasonal Adventures FAQ](../Dungeons-Billing/Minecraft-Dungeons-Seasonal-Adventures-FAQ.md) is also a great resource to learn even more about seasons in Minecraft Dungeons.
 
 This update also brings many bug fixes to the game. Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/). We appreciate your continued support in reporting issues! If you’re looking to join a community of like-minded players, hit up the official Minecraft Dungeons Discord server at [discord.gg/MinecraftDungeons](https://discord.gg/MinecraftDungeons).  
   
@@ -1099,7 +1099,7 @@ Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com
 
 Seasonal Adventures have come to Minecraft Dungeons, with Season 1: Cloudy Climb! This release brings new features like the Tower and an all-new reward progression system. Join weekly challenges to earn Adventure Points and work towards unlocking exclusive rewards, with each new season bringing new rewards, from precious pets and fashionable flairs to emphatic emotes and captivating cosmetics.
 
-Check out the [Introduction to Seasonal Adventures](https://www.youtube.com/watch?v=oDYjfVeUNRk) video for a run through on the new features! The [Seasonal Adventures FAQ](https://help.minecraft.net/hc/en-us/articles/4416089241997) is also a great resource to learn even more about seasons in Minecraft Dungeons.
+Check out the [Introduction to Seasonal Adventures](https://www.youtube.com/watch?v=oDYjfVeUNRk) video for a run through on the new features! The [Seasonal Adventures FAQ](../Dungeons-Billing/Minecraft-Dungeons-Seasonal-Adventures-FAQ.md) is also a great resource to learn even more about seasons in Minecraft Dungeons.
 
 This update also brings many bug fixes to the game. Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/). We appreciate your continued support in reporting issues! If you’re looking to join a community of like-minded players, hit up the official Minecraft Dungeons Discord server at [discord.gg/MinecraftDungeons](https://discord.gg/MinecraftDungeons).
 
@@ -1583,8 +1583,8 @@ Make a splash with Hidden Depths! A spreading corruption has reached the ocean's
 
 Have questions? Check out some of our latest articles:
 
-- [FAQ: Hidden Depths DLC](https://help.minecraft.net/hc/en-us/articles/4409165154445-Minecraft-Dungeons-DLC-FAQ#h_01FFGJ8ZAKPBME653D9AJRECR2)
-- [FAQ: Season Pass](https://help.minecraft.net/hc/en-us/articles/4409165154445-Minecraft-Dungeons-DLC-FAQ#h_01FFGJB2ZW95A5VMJC4F77Y2WW)
+- [FAQ: Hidden Depths DLC](../Dungeons-Billing/Minecraft-Dungeons-Downloadable-Content-FAQ.md#hidden-depths-dlc)
+- [FAQ: Season Pass](../Dungeons-Billing/Minecraft-Dungeons-Downloadable-Content-FAQ.md#minecraft-dungeonsseasonpass)
 
 Thanks for playing and be sure to search for any bugs you encounter on [bugs.mojang.com](https://bugs.mojang.com/projects/MCD/summary). If you’re looking to join a community of like-minded players, hit up the Minecraft Dungeons Discord server at [discord.gg/MinecraftDungeons](https://discord.gg/MinecraftDungeons)!  
   
@@ -1698,7 +1698,7 @@ Thanks for playing and be sure to search for any bugs you encounter on [bugs.moj
 
 The long-awaited Cloud Saves feature is now available in Minecraft Dungeons! With this update, you can now save your progress to the cloud, so you can pick up and play your Heroes across Nintendo Switch, PlayStation 4, Windows PC, Xbox One, and Xbox Series X\|S.
 
-While the in-game prompts show how to upload and download Heroes using Cloud Saves, you can [check out the support article](https://help.minecraft.net/hc/en-us/articles/360043504492) if you have any questions on the process.
+While the in-game prompts show how to upload and download Heroes using Cloud Saves, you can [check out the support article](./Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) if you have any questions on the process.
 
 **Localization:**
 
@@ -1832,8 +1832,8 @@ Have questions? Check out some of our latest articles:
 
 - [Developer Blog - Adjusting the Endgame](https://www.minecraft.net/en-us/article/dungeons-dev-blog---adjusting-endgame)
 - [Ancient Hunts](https://www.minecraft.net/en-us/article/ancient-hunts)
-- [FAQ: Flames of the Nether DLC](https://help.minecraft.net/hc/en-us/articles/4409165154445-Minecraft-Dungeons-DLC-FAQ#h_01FFGJ7Z82V5F1EY2K0041E9C5)
-- [FAQ: Season Pass](https://help.minecraft.net/hc/en-us/articles/4409165154445-Minecraft-Dungeons-DLC-FAQ#h_01FFGJB2ZW95A5VMJC4F77Y2WW)
+- [FAQ: Flames of the Nether DLC](../Dungeons-Billing/Minecraft-Dungeons-Downloadable-Content-FAQ.md#flames-of-the-nether-dlc)
+- [FAQ: Season Pass](../Dungeons-Billing/Minecraft-Dungeons-Downloadable-Content-FAQ.md#minecraft-dungeonsseasonpass)
 
 Thanks for playing and be sure to report any bugs you encounter to [bugs.mojang.com](https://bugs.mojang.com/projects/MCD/summary). If you’re looking to join a community of like-minded players, hit up our official Minecraft Dungeons social channels!  
   
@@ -2194,7 +2194,7 @@ Thanks for playing and be sure to report any bugs you encounter to [bugs.mojang.
 **Cross-Platform Play:**
 
 - Team up with friends across consoles and PC! Create a multiplatform alliance and battle together with the new cross-platform play free game update to Minecraft Dungeons, available now. This update allows for cross-platform multiplayer across Nintendo Switch, PlayStation®, Windows, and Xbox
-- Check out the article on [Multiplayer and Cross-Platform Play](https://help.minecraft.net/hc/en-us/articles/360043512112) for the full scoop!
+- Check out the article on [Multiplayer and Cross-Platform Play](./Minecraft-Dungeons-Multiplayer-and-Cross-Platform-Play.md) for the full scoop!
 - Please make sure that your game is updated to version 1.6.0.0 or later before playing multiplayer. See the article on [How to Update Minecraft Dungeons](https://help.minecraft.net/hc/en-us/articles/360045419511) to ensure you are fully up-to-date  
     
 
@@ -2326,7 +2326,7 @@ Happy dungeon crawling!
 
 **New Features – Free For All Players:**
 
-- Daily Trials – New challenges every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards. There are four new pieces of gear to earn, exclusive to Daily Trials! Learn more at the [Daily Trials FAQ](https://help.minecraft.net/hc/en-us/articles/360048248751).
+- Daily Trials – New challenges every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards. There are four new pieces of gear to earn, exclusive to Daily Trials! Learn more at the [Daily Trials FAQ](./Minecraft-Dungeons-Daily-Trials-FAQ.md).
 - New camp merchants to rescue during missions, such as the Blacksmith to upgrade gear and the Gift Wrapper to gift items to other players
 - New weapons and armor exclusive to Daily Trials, as well as two new artifacts and six new enchantments spread across the game. Buzz into combat using new tools such as the Beenest, the Beenest Armor, and the Tumblebee enchantment!  
     

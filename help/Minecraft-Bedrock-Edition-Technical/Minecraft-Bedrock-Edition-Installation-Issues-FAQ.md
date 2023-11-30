@@ -29,7 +29,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ
 ---
 
-*This article addresses installation and update issues for Minecraft: Bedrock Edition. If you need assistance with Minecraft: Java Edition installation* issues,* See the [Java Installation Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4409225939853).*
+*This article addresses installation and update issues for Minecraft: Bedrock Edition. If you need assistance with Minecraft: Java Edition installation* issues,* See the [Java Installation Issues FAQ](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md).*
 
 # In This Article: 
 
@@ -129,7 +129,7 @@ You can play Minecraft: Bedrock Edition for Xbox One on the following Xbox con
 
 **Note: When trying to buy the game on Chromebook, some players viewing the Google Play Store on their browser may not see an option to purchase the game. If you're facing this issue, try heading to the native Play Store app to buy and install the game.**
 
-Minecraft: Bedrock Edition is [now on Chromebook](https://help.minecraft.net/hc/en-us/articles/13803752803725)! As a result, devices that meet these minimum requirements can run the game:
+Minecraft: Bedrock Edition is [now on Chromebook](./Minecraft-for-Chromebook-FAQ.md)! As a result, devices that meet these minimum requirements can run the game:
 
 - Operating System: ChromeOS 111
 - System Architecture: 64-bit (x86_64, arm64-v8a)
@@ -137,7 +137,7 @@ Minecraft: Bedrock Edition is [now on Chromebook](https://help.minecraft.net/hc/
 - Memory: 4 GB RAM
 - Storage: Minimum of 1 GB game installation, maps, and other files
 
-If you meet these requirements and are looking to optimize your game further, please follow [this guide](https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft-) for some tips.
+If you meet these requirements and are looking to optimize your game further, please follow [this guide](./Optimizing-Performance-in-Minecraft-Bedrock-Edition.md) for some tips.
 
 ## How to Manually Update Minecraft: Bedrock Edition
 

@@ -50,7 +50,7 @@ No, the item is free! Just retrieve and redeem your code to get the in-game item
 3.  When the chest is open, a 25-character code to redeem the item will show on screen.
 4.  Click Copy & Visit Minecraft to be taken to the [Microsoft code redemption page](https://account.microsoft.com/billing/redeem?refd=ppc-word-edit.officeapps.live.com) where you can sign into your Microsoft Account and claim your item. Make sure you sign into the account that wants the item, otherwise, you will need to redeem a different code on the correct account.
 
-Please visit our [in-game code redemption article](https://help.minecraft.net/hc/en-us/articles/4404604459405) for more information on how to redeem and use your code.
+Please visit our [in-game code redemption article](../Minecraft-Bedrock-Edition-Billing/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft-Bedrock-Edition.md) for more information on how to redeem and use your code.
 
 ## How do I equip the Ender Dragon Blaster Head on my character in Minecraft?
 

@@ -15,7 +15,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/20364354829709-Minecraft-Java-Edition-Snapshot-FAQ
 ---
 
-This page is dedicated to the Minecraft: Java Edition Snapshot program. For Minecraft: Bedrock Edition’s Preview, check out the [Minecraft Preview FAQ](https://help.minecraft.net/hc/en-us/articles/4423653831821).
+This page is dedicated to the Minecraft: Java Edition Snapshot program. For Minecraft: Bedrock Edition’s Preview, check out the [Minecraft Preview FAQ](../Community-Guides/Minecraft-Preview-FAQ.md).
 
 # In This Article:
 

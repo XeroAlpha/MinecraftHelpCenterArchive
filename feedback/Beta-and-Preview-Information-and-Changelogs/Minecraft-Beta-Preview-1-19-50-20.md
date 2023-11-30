@@ -31,7 +31,7 @@ You will also be able to vote via the Minecraft Launcher or via web browser at [
 ### **Spectator Mode**
 
 - Spectator Mode has moved from an experimental toggle into the base game
-  - Please remember worlds that have used Experimental toggles will always be flagged as Experimental. We recommend keeping these Experimental worlds separate from your main saves. More information can be found in [this article](https://feedback.minecraft.net/hc/en-us/articles/4403610710797).
+  - Please remember worlds that have used Experimental toggles will always be flagged as Experimental. We recommend keeping these Experimental worlds separate from your main saves. More information can be found in [this article](./Experimental-Features-Toggle-in-Minecraft-Bedrock-Edition.md).
 - Players can go in and out of Spectator Mode using the Personal game mode in the Settings Menu or the '/gamemode spectator' command, if cheats are enabled ([MCPE-156688](https://bugs.mojang.com/browse/MCPE-156688))
 - Spectators have a reduced HUD that does not show the crosshair, hotbar, XP, health, hunger, or armor UI elements
 - Player's inventory, health, held items etc are unchanged when switching into Spectator Mode and when you leave Spectator Mode

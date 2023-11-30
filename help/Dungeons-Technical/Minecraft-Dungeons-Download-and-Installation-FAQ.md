@@ -114,7 +114,7 @@ From the main launcher screen, select your profile in the top-left portion of th
 
 Save files remain unaffected by the launcher, because it reads the same location for the save files. If you have a save file via the Dungeons Launcher, you will be able to continue to play with the regular unified Minecraft Launcher (or vice versa). 
 
-If you uninstall the launcher, DO NOT check the **Remove Save Files** checkbox, otherwise your save files will be removed. If you want to create backups of your save files, refer to the [Cloud Saves and Backing Up Heroes](https://help.minecraft.net/hc/en-us/articles/360043504492) article for a full walkthrough of how to back up and save files. 
+If you uninstall the launcher, DO NOT check the **Remove Save Files** checkbox, otherwise your save files will be removed. If you want to create backups of your save files, refer to the [Cloud Saves and Backing Up Heroes](./Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) article for a full walkthrough of how to back up and save files. 
 
 #### **Does the new launcher automatically give me access to both games?** 
 

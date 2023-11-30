@@ -32,7 +32,7 @@ Starting a new world in Minecraft is an exciting time. You know you have an infi
 
 ## Prepare for the night
 
-When you first spawn into your world, it will be the middle of the day and your timer before nightfall has already begun. [It’s time to get started](https://help.minecraft.net/hc/en-us/articles/19754515644941). The best course of action before the zombies, skeletons, and spiders come out is to gather resources and prepare for the night ahead.
+When you first spawn into your world, it will be the middle of the day and your timer before nightfall has already begun. [It’s time to get started](./How-to-get-started-in-Minecraft.md). The best course of action before the zombies, skeletons, and spiders come out is to gather resources and prepare for the night ahead.
 
 We recommend finding a place to make a little shelter first. You can gather blocks and build your own little house, dig into the ground to make some shelter, or move yourself into a nearby village. This doesn’t need to be your permanent home, just an area you can protect yourself in the short term.
 

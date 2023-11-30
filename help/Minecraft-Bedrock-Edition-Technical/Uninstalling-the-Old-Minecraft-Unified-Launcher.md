@@ -22,7 +22,7 @@ link: https://help.minecraft.net/hc/en-us/articles/4412266387213-Uninstalling-th
 
 With the addition of a new launcher, you can uninstall the old launcher to remove any confusion between the two. For simplicity’s sake we will refer to the new launcher as the “Minecraft Launcher for Windows” and the old launcher as the “Minecraft Unified Launcher”.
 
-To learn more about the new Minecraft Launcher for Windows, please see our [FAQ](https://help.minecraft.net/hc/en-us/articles/4412261881229).
+To learn more about the new Minecraft Launcher for Windows, please see our [FAQ](./Minecraft-Launcher-for-Windows.md).
 
 ## How to uninstall the Minecraft Unified Launcher (old launcher): 
 

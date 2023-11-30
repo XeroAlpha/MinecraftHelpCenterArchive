@@ -27,7 +27,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4410316619533-How-to-Play-Minecraft-Bedrock-Edition-Multiplayer
 ---
 
-*This article applies to Bedrock versions of Minecraft: Bedrock Edition Multiplayer options only.* *For information on multiplayer options for Minecraft: Java Edition, see: [How to Play Minecraft: Java Edition Multiplayer](https://help.minecraft.net/hc/en-us/articles/4410317081741)*[*.*](https://help.minecraft.net/hc/en-us/articles/4410317081741)
+*This article applies to Bedrock versions of Minecraft: Bedrock Edition Multiplayer options only.* *For information on multiplayer options for Minecraft: Java Edition, see: [How to Play Minecraft: Java Edition Multiplayer](../Minecraft-Java-Edition-Technical/How-to-Play-Minecraft-Java-Edition-Multiplayer.md)*[*.*](../Minecraft-Java-Edition-Technical/How-to-Play-Minecraft-Java-Edition-Multiplayer.md)
 
 # In This Article:
 
@@ -64,7 +64,7 @@ This requires opening your home or local area network (LAN) to others who are al
 
 ## Playing on an Online Server 
 
-For Minecraft: Bedrock Edition you can also choose from several [Partner Servers](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-Bedrock-FAQ-).
+For Minecraft: Bedrock Edition you can also choose from several [Partner Servers](./Minecraft-Dedicated-and-Partner-Servers-FAQ.md).
 
 ### Join a server: 
 
@@ -106,7 +106,7 @@ Start the game and connect the controllers. This automatically divides the displ
 
 ### Problems Playing While Using a Child Account
 
-If you’re having problems connecting while playing with a Child Account, see: [I’m Getting an Error When Trying to Play Multiplayer with a Child Account](https://help.minecraft.net/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Realms-with-a-Child-Account).   
+If you’re having problems connecting while playing with a Child Account, see: [I’m Getting an Error When Trying to Play Multiplayer with a Child Account](../Minecraft-Bedrock-Edition-Accounts/I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account.md).   
 
 ### Prevented from Online Access to Microsoft Account
 

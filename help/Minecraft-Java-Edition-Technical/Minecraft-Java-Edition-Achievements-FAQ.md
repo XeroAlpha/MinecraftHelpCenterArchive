@@ -8,7 +8,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ
 ---
 
-*This article applies to Minecraft: Java Edition achievements only. For Minecraft (Bedrock) achievements information, see:* [Minecraft Achievements FAQ](https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Achievements-FAQ).
+*This article applies to Minecraft: Java Edition achievements only. For Minecraft (Bedrock) achievements information, see:* [Minecraft Achievements FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Achievements-FAQ.md).
 
 This article details everything you need to know about Minecraft: Java Edition achievements.
 

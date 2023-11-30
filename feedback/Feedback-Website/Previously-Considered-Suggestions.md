@@ -54,7 +54,7 @@ Last Update: **7 May 2020 **
 
  Related topics:
 
-- [Creating Great Feedback](https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Feedback)
+- [Creating Great Feedback](./Creating-Great-Ideas.md)
 - [Posting Guidelines](./Posting-Guidelines.md)
 
 We want to hear **your** best original ideas! Not someone else's. Not your friend's idea. Yours!

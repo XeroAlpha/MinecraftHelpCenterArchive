@@ -29,7 +29,7 @@ link: https://help.minecraft.net/hc/en-us/articles/15937250579213-How-to-Edit-Yo
 
 As of May 22<sup>nd</sup>, 2023 you’ll be able to edit some of your Minecraft: Bedrock Edition Realms settings through your Minecraft.net profile page. This article details what settings are available to you.
 
-**Note: If you're looking for Minecraft: Java Edition Realms settings, refer to [this article instead](https://help.minecraft.net/hc/en-us/articles/15938089626253).**
+**Note: If you're looking for Minecraft: Java Edition Realms settings, refer to [this article instead](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md).**
 
 # In This Article:
 

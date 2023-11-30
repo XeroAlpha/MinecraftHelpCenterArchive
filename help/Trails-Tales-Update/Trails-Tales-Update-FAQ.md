@@ -32,40 +32,40 @@ The Trails & Tales Update is bringing all sorts of exciting updates to Minecraft
 
 ## Archaeology
 
-Get ready to dig even deeper into the world of Minecraft! Archaeology brings with it new blocks to discover, as well as a new tool, the brush, that allows you to extract what’s hiding within. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16474366786189).
+Get ready to dig even deeper into the world of Minecraft! Archaeology brings with it new blocks to discover, as well as a new tool, the brush, that allows you to extract what’s hiding within. [Click here for more details](./Trails-Tales-Update-Archaeology.md).
 
 ## Armor Trimming
 
-Personalize your armor more than ever before! Armor trimming provides a bit of flair to your armor sets, allowing you to stand out from the crowd. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16474735013005).
+Personalize your armor more than ever before! Armor trimming provides a bit of flair to your armor sets, allowing you to stand out from the crowd. [Click here for more details](./Trails-Tales-Update-Armor-Trimming.md).
 
 ## Bamboo Set
 
-Prepare for an exciting new material set. The bamboo set brings you new materials for building structures, and even a raft for exploring the seas. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16474890051981).
+Prepare for an exciting new material set. The bamboo set brings you new materials for building structures, and even a raft for exploring the seas. [Click here for more details](./Trails-Tales-Update-Bamboo.md).
 
 ## Camel Mob
 
-The camel mob is great for multiplayer! You and a friend can jump on together and explore with this new creature. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16475940051085).
+The camel mob is great for multiplayer! You and a friend can jump on together and explore with this new creature. [Click here for more details](./Trails-Tales-Update-Camel.md).
 
 ## Cherry Grove Biome
 
-This beautiful new biome brings a pink tint to the trees of Minecraft. Discover the cherry grove biome for a peaceful change of scenery. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476035452941).
+This beautiful new biome brings a pink tint to the trees of Minecraft. Discover the cherry grove biome for a peaceful change of scenery. [Click here for more details](./Trails-Tales-Update-Cherry-Grove-Biome.md).
 
 ## Chiseled Bookcases
 
-The Trails & Tales Update comes with a brand new type of bookshelf, the chiseled bookshelf! [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476125969805).
+The Trails & Tales Update comes with a brand new type of bookshelf, the chiseled bookshelf! [Click here for more details](./Trails-Tails-Update-Chiseled-Bookshelves.md).
 
 ## Hanging Signs
 
-An all new way to express your thoughts – hanging signs change the way your words work in the world of Minecraft. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476251350413).
+An all new way to express your thoughts – hanging signs change the way your words work in the world of Minecraft. [Click here for more details](./Trails-Tales-Update-Hanging-Signs.md).
 
 ## New Plants
 
-The Trails & Tales Update brings with it a few new plants to grow and interact with! [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476343194893).
+The Trails & Tales Update brings with it a few new plants to grow and interact with! [Click here for more details](./Trails-Tales-Update-New-Plants.md).
 
 ## Playable Mob Sounds
 
-Looking to scare your friends? Mob heads now play sounds when you interact with them. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476420813709).
+Looking to scare your friends? Mob heads now play sounds when you interact with them. [Click here for more details](./Trails-Tales-Update-Playable-Mob-Sounds.md).
 
 ## The Sniffer
 
-The Trails & Tales Update brings with it an ancient new mob, the sniffer! [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476513292813).
+The Trails & Tales Update brings with it an ancient new mob, the sniffer! [Click here for more details](./Trails-Tales-Update-The-Sniffer.md).

@@ -24,7 +24,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Minecraft-Realms-Plus-Troubleshooting
 ---
 
-This article provides general troubleshooting for connection issues for Minecraft Realms Plus. For information on Minecraft: Java Edition Realms multiplayer issues, see: [Minecraft: Java Edition Realms Multiplayer Troubleshooting](https://help.minecraft.net/hc/en-us/articles/4410380333453).
+This article provides general troubleshooting for connection issues for Minecraft Realms Plus. For information on Minecraft: Java Edition Realms multiplayer issues, see: [Minecraft: Java Edition Realms Multiplayer Troubleshooting](./Minecraft-Java-Edition-Realms-Troubleshooting.md).
 
 **Note: A Minecraft: Bedrock Edition Realms subscription is separate from a Minecraft: Java Edition Realms subscription.** **Realms subscriptions do not carry over between game versions. If you would like a Realm in Bedrock Edition and one in Java Edition, you need to set up two separate subscriptions.**
 
@@ -75,7 +75,7 @@ Some Internet service providers may limit connections to Azure, where Realms and
 
 ### Problems Playing While Using a Child Account
 
-If you’re having problems connecting to Realms while playing with a Child Account, see: [I’m Getting an Error When Trying to Play Multiplayer with a Child Account](https://help.minecraft.net/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Realms-with-a-Child-Account).   
+If you’re having problems connecting to Realms while playing with a Child Account, see: [I’m Getting an Error When Trying to Play Multiplayer with a Child Account](../Minecraft-Bedrock-Edition-Accounts/I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account.md).   
 
 ### Not Displaying Any Realms List
 

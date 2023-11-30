@@ -37,7 +37,7 @@ If you're playing in South Korea, you may now see a pop up about the length of t
 
 ### Newer Game Versions (1.19.1 and up) Using a Microsoft account
 
-- [Player reporting](https://help.minecraft.net/hc/en-us/articles/7149823936781), which enables players to report harmful player behavior to our team of moderators.
+- [Player reporting](../Minecraft-Java-Edition/Player-Reporting-in-Minecraft-Java-Edition.md), which enables players to report harmful player behavior to our team of moderators.
 
 ### Newer Game Versions (1.16.4 and up) Using a Microsoft account 
 

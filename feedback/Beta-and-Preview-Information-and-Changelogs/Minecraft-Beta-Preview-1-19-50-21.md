@@ -24,7 +24,7 @@ Minecraft Live 2022 only wrapped a few days ago but we are all ready to try out 
 
 <!-- -->
 
-- Please remember worlds that have used Experimental toggles will always be flagged as Experimental. We recommend keeping these Experimental worlds as separate copies from your main saves. More information can be found in [this article](https://feedback.minecraft.net/hc/en-us/articles/4403610710797).
+- Please remember worlds that have used Experimental toggles will always be flagged as Experimental. We recommend keeping these Experimental worlds as separate copies from your main saves. More information can be found in [this article](./Experimental-Features-Toggle-in-Minecraft-Bedrock-Edition.md).
 
 ## **Bamboo Wood Types**
 

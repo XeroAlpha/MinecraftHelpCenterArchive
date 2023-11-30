@@ -153,7 +153,7 @@ A Nintendo Switch Online subscription is required for playing multiplayer on Nin
 
 ### How do I cancel my recurring subscription?   
 
-See [Minecraft Realms Plus Billing Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4410001194765-Minecraft-Realms-Plus-Billing-Issues-FAQ#h_01FGCVE88JFXE24WPYJJHZGQ9W) for information on canceling recurring Minecraft Realms subscriptions. 
+See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md#howdoicancelmyrealmssubscription) for information on canceling recurring Minecraft Realms subscriptions. 
 
 ### Realms Plus Packs
 
@@ -293,7 +293,7 @@ The cost varies depending on the size of the tier. The price available to you is
 
 After you create the Realm, you will be shown your Xbox friends list so you can invite players. Here you can either invite friends from your existing list, search for friends, or share your Realm using an invite link. You can always invite friends later from the players Settings menu.
 
-**Note:** [Render and simulation distance](https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft-) are locked and cannot be modified on a Realm. As such, these may be set to lower value.
+**Note:** [Render and simulation distance](../Minecraft-Bedrock-Edition-Technical/Optimizing-Performance-in-Minecraft-Bedrock-Edition.md) are locked and cannot be modified on a Realm. As such, these may be set to lower value.
 
 ## Admin Options for Realms 
 
@@ -310,7 +310,7 @@ In your Realm, you have three different world slots and an additional slot that 
 
 ### Change Realm Slot
 
-If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-#h_01FG9YQZTD4SQM2XEP4GC28PW3). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **  
+If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md#back-up-minecraft-bedrock-edition-worlds). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **  
 **
 
 ### Adjust the Overall Settings for Your Realms Server

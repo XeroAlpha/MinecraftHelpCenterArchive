@@ -108,7 +108,7 @@ Minecraft: Java & Bedrock Edition for PC is only for the PC, Mac, and Linux plat
 
 ### I'm having trouble logging into or accessing Minecraft through the Launcher.
 
-If you're having trouble logging into or accessing Minecraft through the Minecraft Launcher, double-check to ensure you're logged in with the MSA that owns Minecraft: Java and Bedrock Edition for PC. For other Launcher log-in issues, check out our [Launcher troubleshooting guide](https://help.minecraft.net/hc/en-us/articles/6662588435597). For more login help, you can [contact Xbox Support](https://support.xbox.com/en-US/contact-us).
+If you're having trouble logging into or accessing Minecraft through the Minecraft Launcher, double-check to ensure you're logged in with the MSA that owns Minecraft: Java and Bedrock Edition for PC. For other Launcher log-in issues, check out our [Launcher troubleshooting guide](./Minecraft-Launcher-Troubleshooting-FAQ.md). For more login help, you can [contact Xbox Support](https://support.xbox.com/en-US/contact-us).
 
 ### I family-share my account with my children. Will they get both versions of Minecraft?
 

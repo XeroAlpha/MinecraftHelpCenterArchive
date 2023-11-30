@@ -67,7 +67,7 @@ A dedicated Minecraft: Bedrock Edition server gives you the creative power to co
 
 ### WHO CAN PLAY ON MY DEDICATED SERVER? 
 
-Anyone playing on Minecraft: Bedrock Edition ([including Chromebook](https://help.minecraft.net/hc/en-us/articles/13803752803725)) will be able to connect to the server, with the current exception of Nintendo Switch users. Also, players on Xbox One can only connect through a LAN connection. If you're not sure if the edition you're playing on is Minecraft: Bedrock Edition, please visit the [Different Minecraft Editions](../Minecraft-Bedrock-Edition-Billing/Different-Minecraft-Editions.md) help article. 
+Anyone playing on Minecraft: Bedrock Edition ([including Chromebook](./Minecraft-for-Chromebook-FAQ.md)) will be able to connect to the server, with the current exception of Nintendo Switch users. Also, players on Xbox One can only connect through a LAN connection. If you're not sure if the edition you're playing on is Minecraft: Bedrock Edition, please visit the [Different Minecraft Editions](../Minecraft-Bedrock-Edition-Billing/Different-Minecraft-Editions.md) help article. 
 
 ### HOW DO I DOWNLOAD THE DEDICATED MINECRAFT: BEDROCK EDITION SERVER SOFTWARE? 
 
@@ -135,7 +135,7 @@ An Xbox Live account enables you to get a Gamertag—something you'll need no ma
 
 ### ARE PARTNER SERVERS SAFE TO PLAY ON? 
 
-Yes! Because everyone is required to have an Xbox Live account, which includes the player's code of conduct, players of all ages will feel safe and welcome in Servers. Our Partner Servers also have chat filters that will remove any bad language or personal information. Players also can [report anyone](https://help.minecraft.net/hc/en-us/articles/4409161646989) who is not following the code of conduct, and our support team can act quickly on any reports of bad behavior. 
+Yes! Because everyone is required to have an Xbox Live account, which includes the player's code of conduct, players of all ages will feel safe and welcome in Servers. Our Partner Servers also have chat filters that will remove any bad language or personal information. Players also can [report anyone](../Minecraft-Bedrock-Edition/Player-and-Server-Griefing-Issues-FAQ.md) who is not following the code of conduct, and our support team can act quickly on any reports of bad behavior. 
 
 Younger players are also kept safe with child accounts, which have multiplayer capabilities disabled by default until a parent or guardian changes their account settings. 
 

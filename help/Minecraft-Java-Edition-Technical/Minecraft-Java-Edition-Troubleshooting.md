@@ -8,7 +8,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting
 ---
 
-*This article applies to Minecraft: Java Edition. If you need help with Minecraft for Windows, Xbox One, or mobile, see this* [*Minecraft support resources*](https://help.minecraft.net/hc/en-us/articles/360034754072-Minecraft-support-resources)* page.*
+*This article applies to Minecraft: Java Edition. If you need help with Minecraft for Windows, Xbox One, or mobile, see this* [*Minecraft support resources*](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Support-Resources.md)* page.*
 
 Check out this article if you're having issues with Minecraft: Java Edition. It might be able to assist you.
 
@@ -53,6 +53,6 @@ If you're receiving the io.netty.handler.codec.decodeexception error when connec
 
 For general questions about Realms, the first place you should check is our [Minecraft: Java Edition Realms Creation](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#general-questions) [FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#general-questions). 
 
-For connection issues with Realms, see [Realms Connection Issues.](https://help.minecraft.net/hc/en-us/articles/4410380333453)  
+For connection issues with Realms, see [Realms Connection Issues.](../Realms-Troubleshooting-and-Billing/Minecraft-Java-Edition-Realms-Troubleshooting.md)  
 
 For other technical issues with Realms, contact [Minecraft Support](https://aka.ms/Minecraft-Support), briefly describe the issue, and provide your Minecraft Java profile name and the name of the Realm.

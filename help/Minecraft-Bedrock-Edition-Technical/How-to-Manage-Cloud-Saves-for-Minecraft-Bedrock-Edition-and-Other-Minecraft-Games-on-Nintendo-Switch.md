@@ -18,7 +18,7 @@ link: https://help.minecraft.net/hc/en-us/articles/15519102826765-How-to-Manage-
 
 Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on Nintendo Switch **will need a Nintendo Switch Online subscription** to take advantage of cloud saving.
 
-**Note: Alongside the following processes, Minecraft Dungeons has an in-game cloud saving process as well. Please follow [this guide](https://help.minecraft.net/hc/en-us/articles/360043504492)** **for more information.**
+**Note: Alongside the following processes, Minecraft Dungeons has an in-game cloud saving process as well. Please follow [this guide](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md)** **for more information.**
 
 To *upload* a cloud save on Nintendo Switch, follow these steps: 
 

@@ -17,4 +17,4 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4408901759117-Can-Minecraft-Run-on-Chromebooks-
 ---
 
-Minecraft is now available on Chromebooks. Please refer to [this link](https://help.minecraft.net/hc/en-us/articles/13803752803725) for more information.
+Minecraft is now available on Chromebooks. Please refer to [this link](../Minecraft-Bedrock-Edition-Technical/Minecraft-for-Chromebook-FAQ.md) for more information.

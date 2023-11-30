@@ -26,7 +26,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-
 ---
 
-*This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, See:* **[Minecraft Realms Plus Creation FAQ](https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Plus-Creation-FAQ-).**
+*This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, See:* **[Minecraft Realms Plus Creation FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md).**
 
 # In this article: 
 

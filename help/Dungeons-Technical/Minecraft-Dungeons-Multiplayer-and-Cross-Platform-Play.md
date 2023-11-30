@@ -32,7 +32,7 @@ Cross-platform multiplayer on PlayStation® can be enabled or disabled within Ga
 
 **Cloud Saves** 
 
-Cloud Saves are now available in Minecraft Dungeons and can be used between Nintendo Switch, PlayStation® 4 and PlayStation® 5, Windows PC, Xbox One, and Xbox Series X\|S. See our article on [Cloud Saves and Backing Up Heroes](https://help.minecraft.net/hc/en-us/articles/360043504492) for details on how to use this feature. 
+Cloud Saves are now available in Minecraft Dungeons and can be used between Nintendo Switch, PlayStation® 4 and PlayStation® 5, Windows PC, Xbox One, and Xbox Series X\|S. See our article on [Cloud Saves and Backing Up Heroes](./Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) for details on how to use this feature. 
 
   
 

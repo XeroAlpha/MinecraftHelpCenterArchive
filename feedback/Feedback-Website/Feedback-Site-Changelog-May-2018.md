@@ -16,7 +16,7 @@ Feedback Site Changes since 25 May 2018:
 
 \* [How to Join and Leave Beta information](https://feedback.minecraft.net/hc/en-us/articles/360004438671) has been given a permanent home.
 
-\* [We have created a guide to making great feedback, and now it is in handy Knowledge Base form.](https://feedback.minecraft.net/hc/en-us/articles/360004442111) 
+\* [We have created a guide to making great feedback, and now it is in handy Knowledge Base form.](./Creating-Great-Ideas.md) 
 
 \* Biomes and dimensions is now Biomes, Dimensions, and Structures!
 
@@ -28,4 +28,4 @@ Fixes
 
 \* The copyright year was serving us some 2016 vibes, but we've updated that to 2018.
 
-\* The Terms of Service has been brought back to life, and at least the link is updated. You can find them here: <https://feedback.minecraft.net/hc/en-us/articles/360004305512>
+\* The Terms of Service has been brought back to life, and at least the link is updated. You can find them here: [https://feedback.minecraft.net/hc/en-us/articles/360004305512](../Gameplay-and-Support-Resources/Terms-of-Service.md)

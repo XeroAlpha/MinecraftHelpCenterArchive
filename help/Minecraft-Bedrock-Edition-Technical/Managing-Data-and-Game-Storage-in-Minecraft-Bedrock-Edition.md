@@ -33,7 +33,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition
 ---
 
-*This article applies to Minecraft: Bedrock Edition only. Click here for [Minecraft: Java Edition](https://help.minecraft.net/hc/en-us/articles/4409159214605).*
+*This article applies to Minecraft: Bedrock Edition only. Click here for [Minecraft: Java Edition](../Minecraft-Java-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md).*
 
 This article covers managing your data and game storage in Minecraft: Bedrock Edition. Examples of this include backing up your Minecraft Worlds and learning where Minecraft Files are stored.
 
@@ -62,7 +62,7 @@ If you are playing Minecraft: Bedrock Edition with Xbox Game Pass, your data is 
 
 We recommend that you back up your Minecraft: Bedrock Edition worlds to prevent them from being lost. This is especially important if you want to try out an experimental version of Minecraft: Bedrock Edition, such as a snapshot or beta. 
 
-\*As of the Caves & Cliffs Part II update, players loading up an existing world after updating to version 1.18 will be prompted to create a backup before playing. A backup is recommended if you would like to revert back to pre-update world generation features for that world. For more information about Caves & Cliffs Part II, read the dedicated [FAQ](https://help.minecraft.net/hc/en-us/articles/4415053738893).
+\*As of the Caves & Cliffs Part II update, players loading up an existing world after updating to version 1.18 will be prompted to create a backup before playing. A backup is recommended if you would like to revert back to pre-update world generation features for that world. For more information about Caves & Cliffs Part II, read the dedicated [FAQ](../Caves-and-Cliffs-Update/Caves-Cliffs-Part-II-FAQ.md).
 
 ## Minecraft: Bedrock Edition (Microsoft Windows 10 and above, Nintendo Switch, Sony PlayStation 4 and 5, Chromebook, Xbox One and Series X\|S)
 
@@ -121,7 +121,7 @@ If you're looking to install Minecraft: Bedrock Edition on an external drive, pl
 
 It can be difficult to transfer game files from one device to another. However, there are two methods that can help you transfer your worlds. You can transfer worlds between these devices using a Minecraft: Bedrock Edition Realm or, if you play on an iOS device, through the iCloud method. 
 
-**Note: If you're on PlayStation and need to copy a world save over to another device, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/4409145073165#:~:text=COPYING%20A%20WORLD%20SAVE%20FROM%20PLAYSTATION%20TO%20USB).**
+**Note: If you're on PlayStation and need to copy a world save over to another device, please refer to [this article](./PlayStation-Technical-Support-FAQ.md#:~:text=COPYING%20A%20WORLD%20SAVE%20FROM%20PLAYSTATION%20TO%20USB).**
 
 ## Transfer Your World Using a Realm 
 

@@ -30,7 +30,7 @@ When we present issues to the team, we look at the issue, not the person who pos
 
 ## **Step Two: Check Previously Considered Suggestions**
 
-[This is the link.](https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Feedback)
+[This is the link.](./Previously-Considered-Suggestions.md)
 
 ## **Step Three: Post!**
 
@@ -42,7 +42,7 @@ Ask yourself:
 - Is it a list of things or does it contain things that are unrelated?  
 - Did I use a lot of bold or italics? If you're using them for the entire post, that's really hard to read for some people.
 
-Your post should appear right away. [If not, go here to see what may have happened.](https://feedback.minecraft.net/hc/en-us/articles/360011793092)
+Your post should appear right away. [If not, go here to see what may have happened.](./Feedback-Website-FAQ.md)
 
 ## **Step Four: How to Edit Your Post**
 

@@ -24,7 +24,7 @@ If you're looking to add or sideload a world into your version of Minecraft: Jav
 2.  Unzip the files. 
 3.  Move the folder containing the world you just unzipped into your Minecraft **saves** folder**.** 
 
-If you don't know where your saves folder is located, you can check that out at [Where Are Minecraft Files Stored?](https://help.minecraft.net/hc/en-us/articles/4409159214605) 
+If you don't know where your saves folder is located, you can check that out at [Where Are Minecraft Files Stored?](./Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md) 
 
 ## Installing the Resource Pack 
 

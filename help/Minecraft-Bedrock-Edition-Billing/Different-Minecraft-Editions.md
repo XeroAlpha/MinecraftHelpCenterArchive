@@ -250,4 +250,4 @@ Most articles and support on this website cover Minecraft: Java Edition and Mine
 
 \*Minecraft Java Edition and Minecraft: Bedrock Edition are now sold together on PC as "Minecraft: Java & Bedrock Edition for PC" (\$29.99 Standard / \$39.99 Deluxe).
 
-Release dates and feature details for upcoming versions aren't yet available. Look for information about upcoming updates on our [When is the next game update?](https://help.minecraft.net/hc/en-us/articles/360029728812-When-is-the-next-game-update-) page.
+Release dates and feature details for upcoming versions aren't yet available. Look for information about upcoming updates on our [When is the next game update?](../Archived-Articles/When-is-the-Next-Game-Update.md) page.

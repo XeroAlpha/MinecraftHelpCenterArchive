@@ -52,4 +52,4 @@ For more information on Realms administrative options, you can visit our Realms
 
 For **Minecraft: Java Edition**, see [What Admin Options are Available](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#realms-admin-options) 
 
-For **Minecraft Bedrock Edition**, see [Realms Plus Admin Options](https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Plus-Creation-FAQ-#h_01FFK8X2TH88BXM85AK4Y53Y05)
+For **Minecraft Bedrock Edition**, see [Realms Plus Admin Options](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md#adminoptions-for-realms)

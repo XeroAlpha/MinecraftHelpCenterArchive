@@ -58,15 +58,15 @@ These standards set the tone and values our players expect during their experien
 
 Realms features a proactive chat filtering system. We use this system to classify, filter, and escalate online harms such as harassment, abuse, and hate speech. Once escalated, our team manually reviews and moderates these harms to promote safe and welcoming interactions. We also leverage this filter to ensure Realms’ names and descriptions are appropriate.
 
-**Note: For more information about profanity filtering in Minecraft: Java Edition Realms and how to toggle the profanity filter, please visit [Minecraft: Java Edition Realms Profanity Filter FAQ \| Minecraft Help](https://help.minecraft.net/hc/en-us/articles/6160517019149)**
+**Note: For more information about profanity filtering in Minecraft: Java Edition Realms and how to toggle the profanity filter, please visit [Minecraft: Java Edition Realms Profanity Filter FAQ \| Minecraft Help](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Profanity-Filter-FAQ.md)**
 
 ### Player Abuse Reporting
 
-The goal of having effective and intuitive Player Reporting mechanisms in our games is to empower you. Using these tools, you can let us know when harmful behavior is getting in the way of your Minecraft experience. Please visit [How to Report a Player \| Minecraft Help](https://help.minecraft.net/hc/en-us/articles/13019118732429) to learn more.
+The goal of having effective and intuitive Player Reporting mechanisms in our games is to empower you. Using these tools, you can let us know when harmful behavior is getting in the way of your Minecraft experience. Please visit [How to Report a Player \| Minecraft Help](./How-to-Report-a-Player.md) to learn more.
 
 In addition to reporting in the game client, players can also utilize the [report a concern form](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565) to report another player in Minecraft: Bedrock Edition.
 
-**Note: Minecraft: Java Edition Realms players can also see this [article](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) and the [Reporting FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)to learn more about the Player Abuse Reporting feature in that edition.**
+**Note: Minecraft: Java Edition Realms players can also see this [article](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) and the [Reporting FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md)to learn more about the Player Abuse Reporting feature in that edition.**
 
 **Additional note: If you are aware of a server that is violating our Community Guidelines, you can [report it here](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=11289976570893)**.
 
@@ -92,4 +92,4 @@ Of course, no system is a perfect system, which is why we will continue to learn
 
 To do our part in keeping the Xbox community safe and welcoming for all players, the Xbox team monitors for instances of inappropriate club content, as well as for clubs that seek to marginalize and harm others online. To learn more about Clubs’ safety, please visit [Protecting players from offensive clubs \| Xbox Support](https://support.xbox.com/en-US/help/family-online-safety/enforcement/protecting-players-from-offensive-clubs)
 
-For more information and actionable insights regarding our commitment to Player Safety, please visit [this link](https://help.minecraft.net/hc/en-us/articles/8047895358605#h_01G95X6QQHPDQ3SAVEMN8JK6HM).
+For more information and actionable insights regarding our commitment to Player Safety, please visit [this link](./Our-Commitment-to-Player-Safety.md#h_01G95X6QQHPDQ3SAVEMN8JK6HM).

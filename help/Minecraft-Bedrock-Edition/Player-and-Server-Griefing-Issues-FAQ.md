@@ -32,7 +32,7 @@ Familiarize yourself with our [Minecraft Usage Guidelines](https://account.moja
 
 **Note: If you are not certain if a server violates these guidelines, don’t send a report. **
 
-To learn more about servers and how to find a variety of safe options available to play on check out [this page](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-Bedrock-FAQ-).
+To learn more about servers and how to find a variety of safe options available to play on check out [this page](../Minecraft-Bedrock-Edition-Technical/Minecraft-Dedicated-and-Partner-Servers-FAQ.md).
 
 ## Where can I submit a report?  
 
@@ -60,7 +60,7 @@ You can help in the following ways: 
 
 ## What do I do if I Think my Account Has Been Stolen? 
 
-**Note:** **In many cases where people believe that their accounts have been stolen or compromised, the issue is caused by a ****[login issue](https://help.minecraft.net/hc/en-us/articles/4409155824269). **
+**Note:** **In many cases where people believe that their accounts have been stolen or compromised, the issue is caused by a ****[login issue](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md). **
 
 Here are some steps to take: 
 

@@ -45,7 +45,7 @@ Additionally, these items can be planted to grow more of that item:
 
 ## How to gather supplies to make a farm in Minecraft
 
-There are various ways to find seeds and other food items. You can gather wheat seeds from breaking tall grass or finding it in a Village alongside other food sources. These items can also be found in Chests in various structures you find around the world. You can gather torchflower seeds and pitcher pods from a [Sniffer](https://help.minecraft.net/hc/en-us/articles/16476513292813) digging them up, and nether wart is only found in The Nether, usually in Nether Fortresses.
+There are various ways to find seeds and other food items. You can gather wheat seeds from breaking tall grass or finding it in a Village alongside other food sources. These items can also be found in Chests in various structures you find around the world. You can gather torchflower seeds and pitcher pods from a [Sniffer](../Trails-Tales-Update/Trails-Tales-Update-The-Sniffer.md) digging them up, and nether wart is only found in The Nether, usually in Nether Fortresses.
 
 After you have the item you want to plant, you need to create a Hoe at a Crafting Table and find an area to create farmland. Farmland can only be made by using the Hoe on top of a dirt or grass block. Now, you can plant your seed in the dirt to let it start growing.
 
@@ -59,4 +59,4 @@ Place some water next to your crops so they can grow and to keep your farmland f
 
 As you watch your plants grow, you will notice a few visual changes. Carrots, potatoes, and nether wart will multiply, wheat will get longer, and melons and pumpkins will grow a block. If you have bone meal, you can use it on the crop to instantly make it grow and be ready for harvest. When it is time to harvest your crops, strike them with your hand to make them drop on the ground.
 
-That is about all you need to know to get started farming in Minecraft. [For more beginner’s tips, check out this page](https://www.minecraft.net/en-us/minecraft-tips-for-beginners) or consider getting started in another area of the game, [Redstone](https://help.minecraft.net/hc/en-us/articles/360045950932).
+That is about all you need to know to get started farming in Minecraft. [For more beginner’s tips, check out this page](https://www.minecraft.net/en-us/minecraft-tips-for-beginners) or consider getting started in another area of the game, [Redstone](./Minecraft-Getting-Started-with-Redstone.md).

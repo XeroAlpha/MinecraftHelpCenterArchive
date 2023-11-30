@@ -331,8 +331,8 @@ For Android, as of February 2024, **devices require greater than 1 GB RAM, run O
 
 Please refer to our Minecraft Help Center articles for further details:
 
-- [iOS Technical Support Issues](https://help.minecraft.net/hc/en-us/articles/4408895540365)
-- [Android Technical Support FAQ](https://help.minecraft.net/hc/en-us/articles/4408896232461)  
+- [iOS Technical Support Issues](../../help/Minecraft-Bedrock-Edition-Technical/iOS-Technical-Support-Issues.md)
+- [Android Technical Support FAQ](../../help/Minecraft-Bedrock-Edition-Technical/Android-Technical-Support-FAQ.md)  
     
 
 # **Technical Updates**

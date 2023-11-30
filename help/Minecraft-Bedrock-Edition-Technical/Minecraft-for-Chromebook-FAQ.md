@@ -32,7 +32,7 @@ Devices that meet these minimum and recommended requirements can run the game:
 - Memory: 4 GB RAM
 - Storage: Minimum of 1 GB game installation, maps, and other files 
 
-**Note: If you have an Intel Celeron N4000 Chromebook device, please [refer to this article](https://help.minecraft.net/hc/en-us/articles/16476866731149)** **for more information on the gameplay experience.**
+**Note: If you have an Intel Celeron N4000 Chromebook device, please [refer to this article](./Minecraft-Bedrock-Edition-for-Entry-Level-Chromebooks.md)** **for more information on the gameplay experience.**
 
 ### Recommended Requirements
 
@@ -42,7 +42,7 @@ Devices that meet these minimum and recommended requirements can run the game:
 - Memory: 4 GB RAM
 - Storage: Minimum of 1 GB game installation, maps, and other files
 
-If you meet these requirements and are looking to optimize your game further, please follow [this guide](https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft-) for some tips.
+If you meet these requirements and are looking to optimize your game further, please follow [this guide](./Optimizing-Performance-in-Minecraft-Bedrock-Edition.md) for some tips.
 
 ## HOW MUCH IS THE CHROMEBOOK VERSION OF MINECRAFT?
 

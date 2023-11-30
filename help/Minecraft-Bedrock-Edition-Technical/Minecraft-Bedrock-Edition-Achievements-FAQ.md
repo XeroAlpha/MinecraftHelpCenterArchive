@@ -22,7 +22,7 @@ This article details Minecraft: Bedrock Edition Achievements and everything you 
 
   - [Minecraft: Bedrock Edition for PlayStation® 4 or Nintendo Switch ](#minecraft-bedrock-edition-for-android-chromebook-and-ios)
 
-  - [Minecraft: Bedrock Edition for Android, Chromebook, and iOS](https://help.minecraft.net/hc/en-us/articles/4409244237325#:~:text=MINECRAFT%20ON%20ANDROID%20AND%20IOS)
+  - [Minecraft: Bedrock Edition for Android, Chromebook, and iOS](#:~:text=MINECRAFT%20ON%20ANDROID%20AND%20IOS)
 
 ## Can I Turn Achievements on and off in Realms? 
 

@@ -33,7 +33,7 @@ Do, re, mi, fa, so, la, ti, beeeeeta! Oh, hello. I was just practicing my scales
   - Please note – these will not be included in the main 1.18 release, but are being included as Experiments so that we can continue to develop these features and gather your feedback
   - New Deep Dark Blocks!
   - Moved Goat Horn and Sculk Blocks behind the toggle. Please enable the toggle to test these work-in-progress features in your worlds. For more information please see our [updated FAQ](../../help/Caves-and-Cliffs-Update/Minecraft-Caves-Cliffs-Update-FAQ.md)!
-- Removed Old World type from the world creation screen (existing worlds will still be playable). For more information, please see our [FAQ page](https://feedback.minecraft.net/hc/en-us/articles/4411688594317) for this change.
+- Removed Old World type from the world creation screen (existing worlds will still be playable). For more information, please see our [FAQ page](./Old-Worlds-Types-in-Minecraft-Bedrock-Edition-FAQ.md) for this change.
 - Please remember to report and update any crucial bugs you've found in the game so far, so we can get these reviewed before the full release!
 
 # **Experimental Features**

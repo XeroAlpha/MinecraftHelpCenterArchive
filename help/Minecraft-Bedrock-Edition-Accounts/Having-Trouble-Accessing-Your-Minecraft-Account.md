@@ -39,7 +39,7 @@ This article covers the most common reasons for not being able to access your ac
 
 ### I’m getting an error that says "Login failed: Invalid username or password
 
-Visit our [Unable to Log In](https://help.minecraft.net/hc/en-us/articles/4409155824269#h_01FFGD6A878303HFCYCA5KRRJR) help article.
+Visit our [Unable to Log In](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md#im-getting-an-error-that-says-login-failed-invalid-java-profile-name-or-password) help article.
 
 ### I can only play the demo
 
@@ -47,11 +47,11 @@ We explain why in our article, [Minecraft: Java Edition Demo Mode](../Mine
 
 ### I’m having trouble with my password 
 
-Check out our article, [Change or Forgot Password](https://help.minecraft.net/hc/en-us/articles/4409155824269#h_01FFGD4VMHFW7CYMZHWH9VK9YW). 
+Check out our article, [Change or Forgot Password](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md#iforgot-my-password). 
 
 ### I’m having trouble with my security questions 
 
-Learn how to [reset your security questions](https://help.minecraft.net/hc/en-us/articles/4409155824269#h_01FFGD6H7DVX852M2Q0G891HPZ). 
+Learn how to [reset your security questions](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md#im-havingtrouble-with-my-security-questions). 
 
 ### I need to change or recover my registered email address 
 

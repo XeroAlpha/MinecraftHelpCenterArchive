@@ -36,7 +36,7 @@ The Sniffer is an ancient mob that ties into Minecraft’s new archaeology featu
 
 ## How do I Find the Sniffer?
 
-The Sniffer won't be found out roaming the Overworld. Instead, you have to find a Sniffer Egg located in [Suspicious Sand in Warm Ocean Ruins by using your Archeology skills](https://help.minecraft.net/hc/en-us/articles/16474366786189). Place it somewhere and after some time, it will hatch into a Snifflet. If you place the Sniffer Egg on top of a Moss Block, it will hatch faster.
+The Sniffer won't be found out roaming the Overworld. Instead, you have to find a Sniffer Egg located in [Suspicious Sand in Warm Ocean Ruins by using your Archeology skills](./Trails-Tales-Update-Archaeology.md). Place it somewhere and after some time, it will hatch into a Snifflet. If you place the Sniffer Egg on top of a Moss Block, it will hatch faster.
 
 After you have a couple of Sniffers, you can breed them with Torchflower Seeds to have them create another Sniffer Egg.
 

@@ -9,7 +9,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4408945065357-Transferring-Your-Minecraft-Bedrock-Edition-or-Minecraft-Legends-License-Between-Devices
 ---
 
-*If you're looking for how to transfer your Minecraft: Bedrock Edition worlds between devices, please go to* [Managing Data And Game Storage In Minecraft: Bedrock Edition](https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-#h_01FG9YRQBDPNJ8JYNKVGXK04FX).
+*If you're looking for how to transfer your Minecraft: Bedrock Edition worlds between devices, please go to* [Managing Data And Game Storage In Minecraft: Bedrock Edition](../Minecraft-Bedrock-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md#transfer-minecraft-bedrock-edition-worlds-to-another-device).
 
 ## Minecraft: Bedrock Edition
 

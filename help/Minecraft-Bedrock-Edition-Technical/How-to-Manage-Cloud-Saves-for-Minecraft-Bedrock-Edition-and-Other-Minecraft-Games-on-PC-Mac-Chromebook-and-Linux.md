@@ -30,17 +30,17 @@ This article details how to manage cloud saves for Minecraft: Bedrock Edition, M
 
 ## Minecraft: Bedrock Edition
 
-Players with a Minecraft Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on Windows 10/11 or on Chromebook. Please make sure to back up your worlds to prevent data loss. Refer to [this article](https://help.minecraft.net/hc/en-us/articles/4409165790605) for more information.
+Players with a Minecraft Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on Windows 10/11 or on Chromebook. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md) for more information.
 
 ## Minecraft: Java Edition
 
-Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [this article](https://help.minecraft.net/hc/en-us/articles/4409165790605) for more information.
+Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md) for more information.
 
 ## Minecraft Dungeons
 
 ### Xbox App or Windows Store
 
-Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons’ built-in cloud storage solution. For more information, please refer to [this guide](https://help.minecraft.net/hc/en-us/articles/360043504492).
+Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons’ built-in cloud storage solution. For more information, please refer to [this guide](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md).
 
 ### Steam
 

@@ -16,11 +16,11 @@ To play Minecraft: Java & Bedrock Edition for PC with Game Pass on PC, you'll j
 
 ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4412266061837)
 
-Once you’ve got Minecraft: Java & Bedrock Edition for PC installed, you will see all your owned Minecraft games listed individually. You can then install and play them all from within the [Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/4412261881229)!
+Once you’ve got Minecraft: Java & Bedrock Edition for PC installed, you will see all your owned Minecraft games listed individually. You can then install and play them all from within the [Minecraft Launcher](./Minecraft-Launcher-for-Windows.md)!
 
 ![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4412261712781)
 
-You can learn more about the differences between Minecraft versions with our handy [FAQ](https://help.minecraft.net/hc/en-us/articles/360058534412-Differences-Between-Minecraft-Java-Edition-and-Minecraft).
+You can learn more about the differences between Minecraft versions with our handy [FAQ](../Community-Guides/Differences-Between-Minecraft-Java-Edition-and-Minecraft-Bedrock-Edition.md).
 
 ## Xbox Game Pass for Console 
 

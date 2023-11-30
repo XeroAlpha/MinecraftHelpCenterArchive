@@ -22,9 +22,9 @@ link: https://help.minecraft.net/hc/en-us/articles/20143730191245-Realms-in-Mine
 
 We’re excited to announce that as of October 11th, Realms are available in Minecraft: Java Edition Snapshots! Snapshot Realms are available to any active Java Realms subscribers. Read below to learn how Snapshot Realms work and how they are different from your regular Java Realm. 
 
-For more information on Java Snapshots, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20364354829709).
+For more information on Java Snapshots, please refer to [this article](./Minecraft-Java-Edition-Snapshot-FAQ.md).
 
-If you're looking for Minecraft: Bedrock Edition Preview/Beta Realms, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20264295053709).  
+If you're looking for Minecraft: Bedrock Edition Preview/Beta Realms, please refer to [this article](../Minecraft-Realms-Plus/Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ.md).  
 
 **Note: While this article specifically mentions Java Snapshots, this Realms functionality will work on Pre-Releases and Release Candidates as well.**
 
@@ -40,7 +40,7 @@ If you're looking for Minecraft: Bedrock Edition Preview/Beta Realms, please ref
 
 ## Where can I learn more about Java Snapshot?
 
-For more information on Java Snapshots, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20364354829709).
+For more information on Java Snapshots, please refer to [this article](./Minecraft-Java-Edition-Snapshot-FAQ.md).
 
 ## How to use Realms in Snapshots
 
@@ -74,7 +74,7 @@ This process also works in reverse, although downgrading a world version can res
 
 Regular Java Edition Realms and regular Bedrock Edition Realms are entirely separate, each with their own separate subscription. Snapshot and Preview Realms behave the exact same way – they are entirely separate from one another. A Bedrock Realms subscription does not entitle you to a Snapshot Realm, and a Java Realms subscription does not entitle you to a Preview Realm.  
 
-For more information on Bedrock Preview Realms, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20264295053709).
+For more information on Bedrock Preview Realms, please refer to [this article](../Minecraft-Realms-Plus/Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ.md).
 
 ## Steps for creating a Java Snapshot Realm
 

@@ -26,7 +26,7 @@ Additionally, Minecraft Legends Deluxe Edition will be available at your local r
 
 **Note: Minecraft Legends Standard Edition will be available on Xbox Game Pass on launch day, while the Deluxe Edition will be available for purchase.**
 
-**Additional Note: Players in some Asian countries will experience different version availability depending on their region and platform. [Click here](https://help.minecraft.net/hc/en-us/articles/12621032670221)** **to learn more.**
+**Additional Note: Players in some Asian countries will experience different version availability depending on their region and platform. [Click here](../Minecraft-Legends-Billing/Minecraft-Legends-Pre-Sale-Editions-in-Asian-Countries.md)** **to learn more.**
 
 ## How Many People can Play Against Each Other in Minecraft Legends?
 

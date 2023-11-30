@@ -14,7 +14,7 @@ link: https://help.minecraft.net/hc/en-us/articles/15827523222413-Minecraft-Lege
 
 A new update has come to Minecraft Legends that introduces a variety of improvements to top issues that have been reported. Our second Lost Legend is also coming very soon, and we’ll let you know when it’s available!
 
-Please take a look at our [Known Issues](https://help.minecraft.net/hc/en-us/articles/14928408926477) article for a list of other issues we're continuing to investigate. We continue to read all of your feedback so we can keep improving the game, so let us know your thoughts on our Minecraft Legends Discord server at [discord.gg/MinecraftLegends](https://discord.gg/MinecraftLegends) and report bugs at [bugs.mojang.com](https://bugs.mojang.com/projects/MCLG/summary).  
+Please take a look at our [Known Issues](../Minecraft-Legends-Gameplay-and-General-Info/Minecraft-Legends-Known-Issues.md) article for a list of other issues we're continuing to investigate. We continue to read all of your feedback so we can keep improving the game, so let us know your thoughts on our Minecraft Legends Discord server at [discord.gg/MinecraftLegends](https://discord.gg/MinecraftLegends) and report bugs at [bugs.mojang.com](https://bugs.mojang.com/projects/MCLG/summary).  
   
 
 **Versions**  

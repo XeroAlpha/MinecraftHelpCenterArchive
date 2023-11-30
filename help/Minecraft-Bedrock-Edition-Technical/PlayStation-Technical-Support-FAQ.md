@@ -364,7 +364,7 @@ We saw an opportunity to make the VR settings more customizable and intuitive. W
 
 ## Where can I get more help?
 
-If you need further assistance, be sure to check out the [Minecraft for PlayStation<sup>®</sup> 4 FAQ](https://help.minecraft.net/hc/en-us/articles/360037725571) or contact [Minecraft Support](https://aka.ms/Minecraft-Support). Also, be sure to see the [PlayStation<sup>®</sup> VR website](https://www.playstation.com/en-us/explore/playstation-vr/tips-and-specs/) for additional information on setting up your VR kit.
+If you need further assistance, be sure to check out the [Minecraft for PlayStation<sup>®</sup> 4 FAQ](./Minecraft-Bedrock-Edition-for-PlayStation-FAQ.md) or contact [Minecraft Support](https://aka.ms/Minecraft-Support). Also, be sure to see the [PlayStation<sup>®</sup> VR website](https://www.playstation.com/en-us/explore/playstation-vr/tips-and-specs/) for additional information on setting up your VR kit.
 
 ## Does Minecraft: Bedrock Edition on PlayStation® have the new render dragon graphics engine for bedrock?
 

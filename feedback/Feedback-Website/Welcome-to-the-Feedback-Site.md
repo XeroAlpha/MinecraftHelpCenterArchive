@@ -22,7 +22,7 @@ Feedback is now sorted by topic, **not by platform**. This allows you the abili
 
 We also changed the software powering the feedback site. While the site looks similar, the technology is different.
 
-We decided to take a **fresh slate approach by removing old feedback posts**. [Read the guidelines before posting!](https://feedback.minecraft.net/hc/en-us/articles/360003401232) We apologize for this inconvenience and look forward to seeing you revisit some of your older ideas (if you have saved them) and give them a refresh too.
+We decided to take a **fresh slate approach by removing old feedback posts**. [Read the guidelines before posting!](./Posting-Guidelines.md) We apologize for this inconvenience and look forward to seeing you revisit some of your older ideas (if you have saved them) and give them a refresh too.
 
 Please note, old posts will not be restored from the previous version of the feedback site.
 
