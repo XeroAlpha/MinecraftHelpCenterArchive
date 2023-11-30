@@ -4,7 +4,14 @@ const got = gotExport;
 
 function createPaginationOptions(fieldName) {
     return {
-        transform: (res) => res.body[fieldName]
+        transform: (res) => res.body[fieldName],
+        paginate: (data) => {
+            const { body } = data.response;
+            if (body.meta.has_more) {
+                return { url: new URL(body.links.next) };
+            }
+            return false;
+        }
     };
 }
 

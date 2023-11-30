@@ -5,9 +5,18 @@ on:
     - cron: "40 0,9,12,14,15,16,18,21 * * 1-5"
     - cron: "40 0,6,12,18 * * 0,6"
   workflow_dispatch:
+    inputs:
+      full:
+        description: 'Full update'
+        required: false
+        type: boolean
+      commitMessage:
+        description: 'Commit message'
+        required: false
 
 jobs:
   update:
+    if: github.repository == 'XeroAlpha/MinecraftHelpCenterArchive'
     runs-on: ubuntu-latest
 
     permissions:
@@ -34,7 +43,7 @@ jobs:
         run: npm install
       
       - name: Update articles
-        run: node src/index.js
+        run: node src/index.js ${{ inputs.full && 'full' || '' }}
 
       - name: Get current time
         uses: josStorer/get-current-time@v2
@@ -49,5 +58,5 @@ jobs:
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update articles ${{ steps.current-time.outputs.formattedTime }}
+          commit_message: ${{ inputs.commitMessage && inputs.commitMessage || format('Update articles {0}', steps.current-time.outputs.formattedTime) }}
           commit_author: "Minecraft Help <help@github.minecraft.net>"
