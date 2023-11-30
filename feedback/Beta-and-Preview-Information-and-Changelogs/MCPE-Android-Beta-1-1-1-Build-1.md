@@ -7,16 +7,16 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004166051-MCPE-Android
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-\
+  
 **Bug Fixes:**
 
--   Fixed several crashes and improved stability
--   The Creative inventory can no longer be accessed in Survival
--   Redstone torches will no longer play the burn out sound when they simply lose power
--   Shulkers are now immune to fire
--   TNT explosions now apply the right amount of force to players
--   Mutated biomes will now decorate properly
--   Various fixes to Marketplace screens
+- Fixed several crashes and improved stability
+- The Creative inventory can no longer be accessed in Survival
+- Redstone torches will no longer play the burn out sound when they simply lose power
+- Shulkers are now immune to fire
+- TNT explosions now apply the right amount of force to players
+- Mutated biomes will now decorate properly
+- Various fixes to Marketplace screens
 
 <div>
 

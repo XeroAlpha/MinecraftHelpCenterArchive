@@ -13,7 +13,7 @@ tags:
   - section_12618340057613
   - section_14859582819853
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/15519102826765-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-Nintendo-Switch
+link: https://help.minecraft.net/hc/en-us/articles/15519102826765-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-Nintendo-Switch
 ---
 
 Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on Nintendo Switch **will need a Nintendo Switch Online subscription** to take advantage of cloud saving.

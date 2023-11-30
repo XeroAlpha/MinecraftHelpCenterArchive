@@ -17,14 +17,14 @@ tags:
   - subject_microsoft_sign_in_questions
   - platform_PC
   - section_12617594906509
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4607523809933-Buy-the-Minecraft-PC-Bundle-Get-Both-Games-
+link: https://help.minecraft.net/hc/en-us/articles/4607523809933-Buy-the-Minecraft-PC-Bundle-Get-Both-Games-
 ---
 
 **Note: Minecraft: Java & Bedrock Edition for PC is here! For more information on the product, please [refer to this FAQ](https://help.minecraft.net/hc/en-us/articles/6657208607501-Minecraft-Java-Bedrock-Edition-FAQ).**
 
-## What's happening? 
+## What’s happening? 
 
-As of Summer 2022 (Northern Hemisphere\'s summer), new purchases of Minecraft: Java Edition and Minecraft: Bedrock Edition for Windows will be offered as a bundle for one price. At this release, existing owners of either game will be granted an entitlement to download **both **games on one Microsoft account.  
+As of Summer 2022 (Northern Hemisphere's summer), new purchases of Minecraft: Java Edition and Minecraft: Bedrock Edition for Windows will be offered as a bundle for one price. At this release, existing owners of either game will be granted an entitlement to download **both **games on one Microsoft account.  
 
 ## Will previous purchases be eligible for this offer? 
 
@@ -32,10 +32,10 @@ Current owners of Minecraft: Java Edition or Minecraft: Bedrock Edition will be 
 
 ## If I already own one of the two games, how will I be able to redeem this offer to get the other game? 
 
-To redeem the version of the game you don't yet own when the offer goes live, visit the Microsoft Store, and click "get" on the new bundle at no additional charge. 
+To redeem the version of the game you don’t yet own when the offer goes live, visit the Microsoft Store, and click “get” on the new bundle at no additional charge. 
 
 ## What platforms does this apply to? 
 
-This offer relates to PC platform only -- including Mac, Linux, and Windows. Xbox, mobile, and other consoles or platforms are excluded. All PC platform players will receive a Minecraft: Java Edition entitlement if they own Minecraft: Bedrock Edition, and vice versa.
+This offer relates to PC platform only – including Mac, Linux, and Windows. Xbox, mobile, and other consoles or platforms are excluded. All PC platform players will receive a Minecraft: Java Edition entitlement if they own Minecraft: Bedrock Edition, and vice versa.
 
 Minecraft: Java Edition will still be playable on Mac, Linux, and Windows OSs (Operating Systems), and Minecraft: Bedrock Edition will remain playable only on Windows 10/11 and Chromebook.

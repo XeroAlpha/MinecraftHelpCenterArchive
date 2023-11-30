@@ -10,7 +10,7 @@ tags:
   - subject_downloads_and_installations
   - platform_android
   - section_12618686416909
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4414144725389-Minecraft-Bedrock-Edition-External-Storage-Update-on-Android
+link: https://help.minecraft.net/hc/en-us/articles/4414144725389-Minecraft-Bedrock-Edition-External-Storage-Update-on-Android
 ---
 
 Minecraft: Bedrock Edition on Android is required to update the location used for external storage of your data. There are some important effects of this change that Android players should consider when choosing to use External Storage with Minecraft: Bedrock Edition!
@@ -19,7 +19,7 @@ As of the Caves and Cliffs Part 2 update, users who have selected External Stora
 
 ## Cleaner Applications
 
-A small number of Android devices ship with a "cleaner" application or may have one manually installed by the device user. Cleaner applications attempt to improve device performance by regularly terminating processes and deleting files. By default, some devices may schedule this cleaning to occur overnight, in the background, without user interaction.
+A small number of Android devices ship with a “cleaner” application or may have one manually installed by the device user. Cleaner applications attempt to improve device performance by regularly terminating processes and deleting files. By default, some devices may schedule this cleaning to occur overnight, in the background, without user interaction.
 
 These applications may mistakenly delete files migrated by Minecraft: Bedrock Edition on Android, causing the newly migrated worlds to be destroyed. This will destroy any gameplay progress in the migrated world, and restart the migration process on the next launch. The Android operating system has built-in resource management, and cleaner applications may cause stability and performance problems with Minecraft.
 
@@ -27,4 +27,4 @@ These applications may mistakenly delete files migrated by Minecraft: Bedrock Ed
 
 ## Uninstalling Minecraft: Bedrock Edition
 
-Uninstalling Minecraft will now delete all data associated with Minecraft: Bedrock Edition, including your worlds. On some devices running Android 10 and above, you may be presented with an option to keep your data when uninstalling. If you receive this prompt, we recommend that you select this option to preserve your worlds. Please note that not all devices running Android 10 and above are guaranteed to show this prompt. We recommend that you perform full backups of your phone's data frequently to avoid unexpected data loss.
+Uninstalling Minecraft will now delete all data associated with Minecraft: Bedrock Edition, including your worlds. On some devices running Android 10 and above, you may be presented with an option to keep your data when uninstalling. If you receive this prompt, we recommend that you select this option to preserve your worlds. Please note that not all devices running Android 10 and above are guaranteed to show this prompt. We recommend that you perform full backups of your phone’s data frequently to avoid unexpected data loss.

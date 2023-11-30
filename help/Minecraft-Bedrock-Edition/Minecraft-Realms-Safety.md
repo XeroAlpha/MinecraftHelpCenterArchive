@@ -29,22 +29,22 @@ tags:
   - section_15463792344973
   - section_15463793799181
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety
+link: https://help.minecraft.net/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety
 ---
 
 A Minecraft Realm is a subscription to your own personal Minecraft server, where you can easily and safely play online with friends in shared worlds across devices.
 
-Minecraft Realms benefit from our holistic approach to Player Safety, combining the best available tools and processes with a highly trained and dedicated team of passionate people. Our team works every day to celebrate and protect our community's creativity and passion while ensuring interactions remain safe.
+Minecraft Realms benefit from our holistic approach to Player Safety, combining the best available tools and processes with a highly trained and dedicated team of passionate people. Our team works every day to celebrate and protect our community’s creativity and passion while ensuring interactions remain safe.
 
 # In This Article:
 
--   [Community Guidelines](https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety#h_01HBEM21DBQ9XK427B7P1A8EWA)
--   [Safety features](https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety#h_01HBEM25WP8E9ANC167ZC5MMED)
-    -   [Proactive Moderation](https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety#h_01HBEM2AMZ2193CQ7VKBJBQ9JP)
-    -   [Player Abuse Reporting](https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety#h_01HBEM2FW9S55B9YQ2NPARDRXA)
-    -   [Parental Controls](https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety#h_01HBEM2MJSRDZD4J6JK691XAG9)
-    -   [Human Moderation](https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety#h_01HBEM2SKGB03RJNYD5DTB0NHQ)
--   [Xbox Clubs Safety](https://minecrafthelp.zendesk.com/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety#h_01HBEM2Z2EGJVF8XZE0FQ6KKGB)
+- [Community Guidelines](#community-guidelines)
+- [Safety features](#safety-features)
+  - [Proactive Moderation](#proactive-moderation)
+  - [Player Abuse Reporting](#player-abuse-reporting)
+  - [Parental Controls](#parental-controls)
+  - [Human Moderation](#human-moderation)
+- [Xbox Clubs Safety](#xbox-clubs-safety)
 
 ## Community Guidelines
 
@@ -56,7 +56,7 @@ These standards set the tone and values our players expect during their experien
 
 ### Proactive Moderation
 
-Realms features a proactive chat filtering system. We use this system to classify, filter, and escalate online harms such as harassment, abuse, and hate speech. Once escalated, our team manually reviews and moderates these harms to promote safe and welcoming interactions. We also leverage this filter to ensure Realms' names and descriptions are appropriate.
+Realms features a proactive chat filtering system. We use this system to classify, filter, and escalate online harms such as harassment, abuse, and hate speech. Once escalated, our team manually reviews and moderates these harms to promote safe and welcoming interactions. We also leverage this filter to ensure Realms’ names and descriptions are appropriate.
 
 **Note: For more information about profanity filtering in Minecraft: Java Edition Realms and how to toggle the profanity filter, please visit [Minecraft: Java Edition Realms Profanity Filter FAQ \| Minecraft Help](https://help.minecraft.net/hc/en-us/articles/6160517019149)**
 
@@ -78,18 +78,18 @@ Also, Microsoft accounts benefit from parental controls that empower parents to 
 
 Visit [this page](https://help.minecraft.net/hc/en-us/articles/4409983667085-Minecraft-Parental-Control-Features-FAQ) to learn about configuring parental controls for the Bedrock Minecraft client, including mobile devices, consoles, and Windows 10.
 
-Visit [this page](https://help.minecraft.net/hc/en-us/articles/4409976432013-Minecraft-Java-Edition-Parental-Control-Features-FAQ) to learn about configuring parental controls for Minecraft: Java Edition.
+Visit [this page](../Minecraft-Java-Edition/Minecraft-Java-Edition-Parental-Control-Features-FAQ.md) to learn about configuring parental controls for Minecraft: Java Edition.
 
 ### Human Moderation
 
-No Player Safety system can fully and efficiently protect players without human moderators, which is why we invest heavily in building a team with the Minecraft community's best interests at heart.
+No Player Safety system can fully and efficiently protect players without human moderators, which is why we invest heavily in building a team with the Minecraft community’s best interests at heart.
 
-To best facilitate a safe and welcoming community for our players, we have a team of dedicated and passionate moderators and investigators that work in partnership with Xbox's Gaming Safety Team. This team is empowered with specialized knowledge of the Minecraft community and gaming environment. That knowledge is used to review user-generated content and act on verified instances of unwelcoming, harmful, or in some cases, dangerous content.
+To best facilitate a safe and welcoming community for our players, we have a team of dedicated and passionate moderators and investigators that work in partnership with Xbox’s Gaming Safety Team. This team is empowered with specialized knowledge of the Minecraft community and gaming environment. That knowledge is used to review user-generated content and act on verified instances of unwelcoming, harmful, or in some cases, dangerous content.
 
 Of course, no system is a perfect system, which is why we will continue to learn and grow with our community. We also put safeguards in place such as the [appeals process](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452) for players who feel their account was wrongly suspended.
 
 ## Xbox Clubs Safety
 
-To do our part in keeping the Xbox community safe and welcoming for all players, the Xbox team monitors for instances of inappropriate club content, as well as for clubs that seek to marginalize and harm others online. To learn more about Clubs' safety, please visit [Protecting players from offensive clubs \| Xbox Support](https://support.xbox.com/en-US/help/family-online-safety/enforcement/protecting-players-from-offensive-clubs)
+To do our part in keeping the Xbox community safe and welcoming for all players, the Xbox team monitors for instances of inappropriate club content, as well as for clubs that seek to marginalize and harm others online. To learn more about Clubs’ safety, please visit [Protecting players from offensive clubs \| Xbox Support](https://support.xbox.com/en-US/help/family-online-safety/enforcement/protecting-players-from-offensive-clubs)
 
 For more information and actionable insights regarding our commitment to Player Safety, please visit [this link](https://help.minecraft.net/hc/en-us/articles/8047895358605#h_01G95X6QQHPDQ3SAVEMN8JK6HM).

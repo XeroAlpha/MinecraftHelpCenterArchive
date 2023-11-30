@@ -23,7 +23,7 @@ tags:
   - platform_pc
   - subject_microsoft_sign_in_questions
   - section_12617594906509
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360058974711-How-to-Change-Your-Gamertag
+link: https://help.minecraft.net/hc/en-us/articles/360058974711-How-to-Change-Your-Gamertag
 ---
 
 Minecraft: Bedrock Edition for Windows 10 (and higher), Chromebooks, consoles, mobile devices, and Minecraft: Java Edition accounts (specifically Java accounts purchased after Dec 1st, 2020) require that you create an Xbox/Microsoft account to login. 
@@ -32,6 +32,6 @@ This creates a default Gamertag for the account. The Gamertag is the name you
 
 ## What is a Default Gamertag? 
 
-A Gamertag is the alias that is associated with the Xbox account. This is what other players see when you are in game. Your first Gamertag will be randomly generated, however, you can change this if you like. In order to change your Gamertag please refer to [Xbox\'s site](https://support.xbox.com/en-US/help/account-profile/profile/change-xbox-live-gamertag). 
+A Gamertag is the alias that is associated with the Xbox account. This is what other players see when you are in game. Your first Gamertag will be randomly generated, however, you can change this if you like. In order to change your Gamertag please refer to [Xbox's site](https://support.xbox.com/en-US/help/account-profile/profile/change-xbox-live-gamertag). 
 
 For additional assistance please contact [Xbox support](https://support.xbox.com/).

@@ -25,10 +25,10 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16476420813709-Trails-Tales-Update-Playable-Mob-Sounds
+link: https://help.minecraft.net/hc/en-us/articles/16476420813709-Trails-Tales-Update-Playable-Mob-Sounds
 ---
 
-Looking to scare your friends? Mob heads now play sounds when you interact with them. It's awesome.
+Looking to scare your friends? Mob heads now play sounds when you interact with them. It’s awesome.
 
 ## What are Playable Mob Sounds?
 
@@ -36,17 +36,17 @@ Playable mob sounds are new sounds that emit from playable mob heads! Now you ha
 
 ## How do I Use Playable Mob Sounds?
 
-Simply place a mob head on a note block, and it will play that mob's ambient sound!
+Simply place a mob head on a note block, and it will play that mob’s ambient sound!
 
 ## What Mob Heads Emit Playable Mob Sounds?
 
 All of the in-game mob heads play mob sounds. This includes:
 
--   Zombie
--   Crepper
--   Skeleton
--   Wither Skeleton
--   Ender Dragon
--   The all new Piglin Head!
+- Zombie
+- Crepper
+- Skeleton
+- Wither Skeleton
+- Ender Dragon
+- The all new Piglin Head!
 
-There's much more to discover with playable mob sounds and Minecraft's new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!
+There’s much more to discover with playable mob sounds and Minecraft’s new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!

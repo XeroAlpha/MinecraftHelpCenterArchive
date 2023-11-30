@@ -12,6 +12,6 @@ A new Minecraft hotfix is available only for Amazon devices to address issues wi
 
 **Fixes:**
 
--   Fixed the game not launching on Fire HD 10 devices (7th gen and 8th gen) ([MCPE-141971](https://bugs.mojang.com/browse/MCPE-141971))
+- Fixed the game not launching on Fire HD 10 devices (7th gen and 8th gen) ([MCPE-141971](https://bugs.mojang.com/browse/MCPE-141971))
 
 Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).

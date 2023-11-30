@@ -13,7 +13,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004166531-MCPE-WIN-10-
 
 FAQ about Minecraft: Windows 10 Edition Beta with Oculus Rift support
 
-Q: I don\'t have Windows 10- I\'m running Windows 7/Windows 8/Linux/OSX. Can I use Minecraft: Windows 10 Edition Beta with Oculus Rift support?
+Q: I don't have Windows 10- I'm running Windows 7/Windows 8/Linux/OSX. Can I use Minecraft: Windows 10 Edition Beta with Oculus Rift support?
 
 A: You will need to have the Windows 10 operating system running in order to use Minecraft: Windows 10 Edition Beta.
 
@@ -44,15 +44,15 @@ A: This is may be due to a Windows Update either failing or not being applied.
 
  
 
-Q: The Oculus launcher is telling me that launching Minecraft \"\"failed\"\"?
+Q: The Oculus launcher is telling me that launching Minecraft ""failed""?
 
-A: Check to make sure you aren\'t already running Minecraft: Windows 10 Edition Beta. If you are, make sure you close the app first before trying to play it from the Oculus launcher. If you continue to have problems, try running Minecraft: Windows 10 Edition Beta by playing it from the Xbox app. This may give you more insight into why the game won\'t play.
+A: Check to make sure you aren't already running Minecraft: Windows 10 Edition Beta. If you are, make sure you close the app first before trying to play it from the Oculus launcher. If you continue to have problems, try running Minecraft: Windows 10 Edition Beta by playing it from the Xbox app. This may give you more insight into why the game won't play.
 
  
 
 Q: The Oculus launcher is reporting a signature issue with the 2015.3 x86 redist DLLs.
 
-OR The Oculus launcher is crashing and my primary language files aren\'t English.
+OR The Oculus launcher is crashing and my primary language files aren't English.
 
 A: Good news- we pushed out a fix that should resolve both of these issues. Just restart your Oculus store and accept the update that you should see waiting for you in Minecraft.
 
@@ -64,7 +64,7 @@ A: Make certain your graphics drivers are up-to-date. If you have an Nvidia grap
 
  
 
-Q: I have dual graphics cards and multiple monitors. I can hear the Minecraft music but Minecraft is stuck on a white screen with \'Please wait\'.
+Q: I have dual graphics cards and multiple monitors. I can hear the Minecraft music but Minecraft is stuck on a white screen with 'Please wait'.
 
 A: This may be due to some confusion between your graphics cards regarding HDMI input and the Rift. If you have HDMI inputs going into both cards, unplug the HDMI input that is not associated with the Oculus Rift.
 
@@ -72,24 +72,24 @@ Since this update was primarily focused with Oculus Rift support, we included th
 
 New Features:
 
--   Minecraft: Windows 10 Edition Beta now has Oculus Rift support!
+- Minecraft: Windows 10 Edition Beta now has Oculus Rift support!
 
  
 
 Tweaks:
 
--   Better keyboard and mouse support when Oculus Rift is enabled.
--   Tweaked Windows 10 UI when in Oculus Rift mode for better usability.
+- Better keyboard and mouse support when Oculus Rift is enabled.
+- Tweaked Windows 10 UI when in Oculus Rift mode for better usability.
 
  
 
 Bug Fixes:
 
--   Oculus platform launcher updated with localization handling fixes & correct Virtual Studio redistributable packages.
--   Audio now plays through user\'s selected audio device.
--   You can use the \"\"C\"\" button on your keyboard to switch between television mode & immersive mode.
--   Fixed some localization fonts (all editions).
--   Fixed a minor crash issue on Gear VR edition.
+- Oculus platform launcher updated with localization handling fixes & correct Virtual Studio redistributable packages.
+- Audio now plays through user's selected audio device.
+- You can use the ""C"" button on your keyboard to switch between television mode & immersive mode.
+- Fixed some localization fonts (all editions).
+- Fixed a minor crash issue on Gear VR edition.
 
 <div>
 

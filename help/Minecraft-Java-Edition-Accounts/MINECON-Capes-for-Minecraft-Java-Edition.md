@@ -13,7 +13,7 @@ tags:
   - platform_macos
   - platform_pc
   - section_12617963662861
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360035131531-MINECON-Capes-for-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/360035131531-MINECON-Capes-for-Minecraft-Java-Edition
 ---
 
 MINECON is an annual fan festival celebrating Minecraft. In the past attendees have received an exclusive in-game cape for the Java Edition of Minecraft. Mojang cape redemption URLs are redeemed on the Mojang account that is currently logged in on your web browser. 
@@ -22,13 +22,13 @@ MINECON is an annual fan festival celebrating Minecraft. In the past attendees h
 
 ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404865038477/blobid0.png) 
 
-## Previous Years\' Capes 
+## Previous Years' Capes 
 
-We no longer assist users in adding capes from previous years\' MINECONs to accounts. 
+We no longer assist users in adding capes from previous years' MINECONs to accounts. 
 
-In **2011**, capes were automatically attached to ticket-holders\' registered usernames. 
+In **2011**, capes were automatically attached to ticket-holders' registered usernames. 
 
-In **2012**, we sent a message to the registered email address containing a link that enabled the addition of a cape to the user\'s profile. If an email was not registered, the message was sent to the email linked to the purchase of the tickets. 
+In **2012**, we sent a message to the registered email address containing a link that enabled the addition of a cape to the user's profile. If an email was not registered, the message was sent to the email linked to the purchase of the tickets. 
 
 In **2013**, capes were sent as a redemption URL to the email address registered when the ticket was purchased. If someone else purchased the ticket, please contact them for the cape redemption link. Minecraft Support cannot resend cape links or give them to another person. 
 

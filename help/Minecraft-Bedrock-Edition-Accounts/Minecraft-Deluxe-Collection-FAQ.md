@@ -14,28 +14,28 @@ tags:
   - section_12617594906509
   - section_12617963662861
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-
 ---
 
 This article details everything you need to know about the new Minecraft: Deluxe Edition and Minecraft: Java & Bedrock Edition Deluxe Collection packages. 
 
-**Note: Currently, the Minecraft.net buy page might show the \'Buy\' button even if you own the game. This is currently a bug and we\'re working to get it resolved.**
+**Note: Currently, the Minecraft.net buy page might show the 'Buy' button even if you own the game. This is currently a bug and we're working to get it resolved.**
 
 # In This Article:
 
--   [What are the Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collections?](https://minecrafthelp.zendesk.com/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-#h_01GKJTSHZ5C8B4GDX9GYP2E30V)
--   [Where can I buy Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collection?](https://minecrafthelp.zendesk.com/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-#h_01GKJTSPZ4XAZKNS3N3FR9NG4V)
--   [What do Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collection cost?](https://minecrafthelp.zendesk.com/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-#h_01GKJTSWKFC4EVNHRXFZF1HHV2)
--   [What Platforms is Minecraft: Deluxe Collection available on?](https://minecrafthelp.zendesk.com/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-#h_01GKJTT3ETDAKF649H9AA4SGE3)
--   [What DLC content is included in Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collection?](https://minecrafthelp.zendesk.com/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-#h_01GKJTT9TSYSQHC05B1QE9E6GH)
+- [What are the Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collections?](#what-are-theminecraft-deluxe-collectionandminecraft-java--bedrock-edition-deluxe-collections)
+- [Where can I buy Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collection?](#where-can-i-buyminecraft-deluxe-collection-and-minecraft-java--bedrock-edition-deluxe-collection)
+- [What do Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collection cost?](#what-dominecraft-deluxe-collectionandminecraft-java--bedrock-edition-deluxe-collectioncost)
+- [What Platforms is Minecraft: Deluxe Collection available on?](#what-platforms-is-minecraft-deluxe-collectionavailable-on)
+- [What DLC content is included in Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collection?](#what-dlc-content-is-included-inminecraft-deluxe-collectionandminecraft-java--bedrock-edition-deluxe-collection)
 
 ## What are the Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collections?
 
-Minecraft: Deluxe Collection is a collection of the Minecraft base game and select downloadable content (DLC), including Minecoins, that may be used in Bedrock Edition's Minecraft Marketplace.
+Minecraft: Deluxe Collection is a collection of the Minecraft base game and select downloadable content (DLC), including Minecoins, that may be used in Bedrock Edition’s Minecraft Marketplace.
 
 The Minecraft: Java & Bedrock Edition Deluxe Collection offers the same set of downloadable content but also includes Minecraft: Java Edition.
 
-**Note: The downloadable content is *only playable in Minecraft: Bedrock Edition for PC*, so if you're on MacOS or Linux, we advise you to buy the base Minecraft: Java & Bedrock Edition instead.**
+**Note: The downloadable content is *only playable in Minecraft: Bedrock Edition for PC*, so if you’re on MacOS or Linux, we advise you to buy the base Minecraft: Java & Bedrock Edition instead.**
 
 ## Where can I buy Minecraft: Deluxe Collection and Minecraft: Java & Bedrock Edition Deluxe Collection?
 

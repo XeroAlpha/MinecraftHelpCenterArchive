@@ -25,7 +25,7 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16476125969805-Trails-Tails-Update-Chiseled-Bookshelves
+link: https://help.minecraft.net/hc/en-us/articles/16476125969805-Trails-Tails-Update-Chiseled-Bookshelves
 ---
 
 The Trails & Tails Update comes with a brand new type of bookshelf, the chiseled bookshelf! Read on for more details.
@@ -36,6 +36,6 @@ Chiseled bookshelves are the ultimate way to build your library. These new block
 
 ## What Kind of Books can I Store in Chiseled Bookshelves?
 
-You can store and retrieve normal books, enchanted books, written books, and even quills. Plus, these bookshelves can interact with redstone for even more cool features. We'll let you figure out how.
+You can store and retrieve normal books, enchanted books, written books, and even quills. Plus, these bookshelves can interact with redstone for even more cool features. We’ll let you figure out how.
 
-There's much more to discover with Chiseled Bookshelves and Minecraft's new Trails & Tails Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!
+There’s much more to discover with Chiseled Bookshelves and Minecraft’s new Trails & Tails Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!

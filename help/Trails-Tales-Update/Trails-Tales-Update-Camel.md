@@ -25,23 +25,23 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16475940051085-Trails-Tales-Update-Camel
+link: https://help.minecraft.net/hc/en-us/articles/16475940051085-Trails-Tales-Update-Camel
 ---
 
 The camel mob is great for multiplayer! You and a friend can jump on together and explore with this new creature.
 
 ## What Is the Camel?
 
-The camel is a brand new mob that's not unlike the horses you know and love.
+The camel is a brand new mob that’s not unlike the horses you know and love.
 
 ## What Does the Camel do?
 
 Much like with horses and other animal mobs, you can saddle and ride the camel, or even choose to breed it! However, the camel has a trick or two up its sleeve. For example, its tall legs keep you out of reach of enemy melee mobs, allowing you to run away without taking damage or stand your ground and attack from above.
 
-Plus, you and a friend can jump on the camel together -- allowing for double the fun!
+Plus, you and a friend can jump on the camel together – allowing for double the fun!
 
 ## Where Can I Find the Camel?
 
-We won't reveal exactly where to find the camel, but here's a hint: **Where do real world camels normally reside?**
+We won’t reveal exactly where to find the camel, but here’s a hint: **Where do real world camels normally reside?**
 
-There's much more to discover with the camel and Minecraft's new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets.
+There’s much more to discover with the camel and Minecraft’s new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets.

@@ -11,7 +11,7 @@ tags:
   - platform_windows_10/11
   - section_12617893243277
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-
 ---
 
 ![Minecraft_Editor.png](https://minecrafthelp.zendesk.com/hc/article_attachments/13766866906893)
@@ -24,11 +24,11 @@ An in-engine, multiblock experience that exists to improve the workflows of Mine
 
 ## In this article:
 
--   [What platforms is Minecraft Editor available on?](https://minecrafthelp.zendesk.com/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-#h_01GV11RPT4W5DPM5X0S11DNG44)
--   [How do I install Minecraft Editor?](https://minecrafthelp.zendesk.com/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-#h_01GV11RWEFFQZPCB4ZP5FSWG76)
--   [Is Minecraft Editor available in the Minecraft Launcher?](https://minecrafthelp.zendesk.com/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-#h_01GV11S1RDBAM4FB4GYBP9Y2R6)
--   [Where can I give feedback and report bugs?](https://minecrafthelp.zendesk.com/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-#h_01GV11S7NRPZVXQC0CT51WA6HE)
--   [Where can I find documentation?](https://minecrafthelp.zendesk.com/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-#h_01GV11SCM02PXD8CXY5SM4FD00)
+- [What platforms is Minecraft Editor available on?](#what-platforms-is-minecraft-bedrock-edition-editor-available-on)
+- [How do I install Minecraft Editor?](#how-do-i-install-minecraft-editor)
+- [Is Minecraft Editor available in the Minecraft Launcher?](#is-minecraft-editor-available-in-the-minecraft-launcher)
+- [Where can I give feedback and report bugs?](#where-can-i-give-feedback-and-report-bugs)
+- [Where can I find documentation?](#where-can-i-find-documentation)
 
 ### What platforms is Minecraft: Bedrock Edition Editor available on?
 

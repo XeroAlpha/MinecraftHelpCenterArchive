@@ -10,275 +10,275 @@ link: https://feedback.minecraft.net/hc/en-us/articles/13817573176461-Minecraft-
 
 **Information on the Minecraft Preview and Beta: **
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality 
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta)  for detailed instructions
--   **Please note:** Due to unavoidable circumstances, the Android Beta will be delayed until early next week -- we apologize for any inconvenience and will have the update out to you as soon as possible!
+- These work-in-progress versions can be unstable and may not be representative of final version quality 
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta)  for detailed instructions
+- **Please note:** Due to unavoidable circumstances, the Android Beta will be delayed until early next week – we apologize for any inconvenience and will have the update out to you as soon as possible!
 
 ![A Minecraft screenshot of a villager standing near some cherry trees and cherry blossom. There is a sniffer in the background, and a decorated pot on the cherry wood planks.](https://feedback.minecraft.net/hc/article_attachments/13817036172941)
 
-Now that Minecraft 1.20 has officially been named the Trails & Tales Update, we are going to keep this train going at full speed with a whole slew of new, experimental features and bug fixes coming to Bedrock to this week! Are you ready to explore the cherry grove, a.k.a. the cherry blossom biome? There may be two names for this beautiful place floating around, and we are sorry if this is confusing. Just like the features, their names are also works in progress**.** Regardless of what *you* choose to call it, it's lovely so I would advise you to find it as soon as possible. But that's not all! While we are not quite ready to add armor trims, we do have changes to decorated pots, suspicious sand, the brush, and the camel. We even have a new "You Died!" screen. So get out there and fling yourself into some lava or stare down a creeper. Don't forget to send us all your feedback and ideas at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).
+Now that Minecraft 1.20 has officially been named the Trails & Tales Update, we are going to keep this train going at full speed with a whole slew of new, experimental features and bug fixes coming to Bedrock to this week! Are you ready to explore the cherry grove, a.k.a. the cherry blossom biome? There may be two names for this beautiful place floating around, and we are sorry if this is confusing. Just like the features, their names are also works in progress**.** Regardless of what *you* choose to call it, it’s lovely so I would advise you to find it as soon as possible. But that’s not all! While we are not quite ready to add armor trims, we do have changes to decorated pots, suspicious sand, the brush, and the camel. We even have a new “You Died!” screen. So get out there and fling yourself into some lava or stare down a creeper. Don’t forget to send us all your feedback and ideas at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).
 
 # **Experimental Features**
 
 ## **Cherry Grove**
 
--   Introducing the Cherry Grove biome, with pretty Cherry Blossom trees. You can find it in the mountains, like Meadows
--   It has a new flower, Pink Petals, as ground cover, which can be crafted into Pink Dye
--   Pigs, Rabbits, Sheep, and Bees spawn there
--   Comes with a new wood set for the Cherry Blossom trees
+- Introducing the Cherry Grove biome, with pretty Cherry Blossom trees. You can find it in the mountains, like Meadows
+- It has a new flower, Pink Petals, as ground cover, which can be crafted into Pink Dye
+- Pigs, Rabbits, Sheep, and Bees spawn there
+- Comes with a new wood set for the Cherry Blossom trees
 
 ## **Decorated Pot**
 
--   Tweaked the Decorated Pot neck based on feedback ([MCPE-167168](https://bugs.mojang.com/browse/MCPE-167168))
-    -   With the former pot, we decided that the pot\'s neck would clip with blocks so it would be extra flexible to build with. However, we\'ve had some Z-fighting issues which means that 2 objects are in the same exact position and this causes flickering. With this new block model we prevent that and the pot looks a little bit more complex!
--   Decorated Pot no longer provides support for blocks wanting to attach to its side faces ([MCPE-167165](https://bugs.mojang.com/browse/MCPE-167165))
--   Decorated Pot is not stackable in Inventory ([MCPE-167223](https://bugs.mojang.com/browse/MCPE-167223))
--   Base recipe for the Decorated Pot now shows up in the Survival recipe book
--   Decorated Pot particle is now based on the default Decorated Pot side texture
--   Updated archer Pottery Shard texture
+- Tweaked the Decorated Pot neck based on feedback ([MCPE-167168](https://bugs.mojang.com/browse/MCPE-167168))
+  - With the former pot, we decided that the pot's neck would clip with blocks so it would be extra flexible to build with. However, we've had some Z-fighting issues which means that 2 objects are in the same exact position and this causes flickering. With this new block model we prevent that and the pot looks a little bit more complex!
+- Decorated Pot no longer provides support for blocks wanting to attach to its side faces ([MCPE-167165](https://bugs.mojang.com/browse/MCPE-167165))
+- Decorated Pot is not stackable in Inventory ([MCPE-167223](https://bugs.mojang.com/browse/MCPE-167223))
+- Base recipe for the Decorated Pot now shows up in the Survival recipe book
+- Decorated Pot particle is now based on the default Decorated Pot side texture
+- Updated archer Pottery Shard texture
 
 ## **Brush**
 
--   Changed the Brush recipe to use a Feather, Copper Ingot, and Stick ([MCPE-167619](https://bugs.mojang.com/browse/MCPE-167619))
--   Breaking animations now work when holding a Brush in third person view ([MCPE-167183](https://bugs.mojang.com/browse/MCPE-167183))
--   Added a slight cooldown for particles and sounds when using the Brush item
+- Changed the Brush recipe to use a Feather, Copper Ingot, and Stick ([MCPE-167619](https://bugs.mojang.com/browse/MCPE-167619))
+- Breaking animations now work when holding a Brush in third person view ([MCPE-167183](https://bugs.mojang.com/browse/MCPE-167183))
+- Added a slight cooldown for particles and sounds when using the Brush item
 
 ## **Suspicious Sand**
 
--   Suspicious Sand is no longer waterloggable ([MCPE-167222](https://bugs.mojang.com/browse/MCPE-167222))
--   Suspicious Sand now connects to Fence blocks
--   Suspicious Sand now turns into regular Sand after it\'s been destroyed with a Brush ([MCPE-167166](https://bugs.mojang.com/browse/MCPE-167166))
--   Suspicious Sand now emits particles when broken by Pistons
--   Fixed an issue that caused the item inside Suspicious Sand to flicker while brushing ([MCPE-167180](https://bugs.mojang.com/browse/MCPE-167180))
--   Additionally, blocks that were previously not emitting particles when destroyed by pistons now do! ([MCPE-109293](https://bugs.mojang.com/browse/MCPE-109293), [MCPE-126257](https://bugs.mojang.com/browse/MCPE-126257))
+- Suspicious Sand is no longer waterloggable ([MCPE-167222](https://bugs.mojang.com/browse/MCPE-167222))
+- Suspicious Sand now connects to Fence blocks
+- Suspicious Sand now turns into regular Sand after it's been destroyed with a Brush ([MCPE-167166](https://bugs.mojang.com/browse/MCPE-167166))
+- Suspicious Sand now emits particles when broken by Pistons
+- Fixed an issue that caused the item inside Suspicious Sand to flicker while brushing ([MCPE-167180](https://bugs.mojang.com/browse/MCPE-167180))
+- Additionally, blocks that were previously not emitting particles when destroyed by pistons now do! ([MCPE-109293](https://bugs.mojang.com/browse/MCPE-109293), [MCPE-126257](https://bugs.mojang.com/browse/MCPE-126257))
 
 ## **Camel**
 
--   Camels now stop dashing when entering a rideable entity ([MCPE-164065](https://bugs.mojang.com/browse/MCPE-164065))
+- Camels now stop dashing when entering a rideable entity ([MCPE-164065](https://bugs.mojang.com/browse/MCPE-164065))
 
 ## **1.5 Sneak**
 
--   The ability to sneak under 1.5 block gaps is now behind the Short Sneak toggle. Enable the toggle to continue to test out the feature while we continue polishing it
+- The ability to sneak under 1.5 block gaps is now behind the Short Sneak toggle. Enable the toggle to continue to test out the feature while we continue polishing it
 
 # **Features and Bug Fixes**
 
-**Updated "You Died" experience**\
-Starting today, we're rolling out some changes to the screen you see when you die in Minecraft. This design is available to everyone in Preview/Beta, except if you have add-ons applied. We'd love to hear what you think! Please share your feedback with us [here](https://aka.ms/MinecraftPDScreen).
+**Updated “You Died” experience**  
+Starting today, we’re rolling out some changes to the screen you see when you die in Minecraft. This design is available to everyone in Preview/Beta, except if you have add-ons applied. We’d love to hear what you think! Please share your feedback with us [here](https://aka.ms/MinecraftPDScreen).
 
-![Mobile version of the "You died" screen](https://feedback.minecraft.net/hc/article_attachments/13817265642253)
+![Mobile version of the “You died” screen](https://feedback.minecraft.net/hc/article_attachments/13817265642253)
 
-*Image: Mobile version of the "You died" screen.*
+*Image: Mobile version of the “You died” screen.*
 
-To use the old screen instead, go to Settings -\> Video, and turn off 'New "You Died" Screen (Experimental)'.
+To use the old screen instead, go to Settings -\> Video, and turn off ‘New “You Died” Screen (Experimental)’.
 
 ## **Accessibility**
 
--   Text-to-speech no longer reads previously selected items after moving to new one
--   Text-to-speech no longer gets stuck on reading accessibility tab while the user switches between different tabs
--   A glint strength slider that adjusts how transparent the visual glint is on enchanted items has been added to the Accessibility Settings
--   A glint speed slider that adjusts how fast the visual glint shimmers across enchanted items has been added to the Accessibility Settings
+- Text-to-speech no longer reads previously selected items after moving to new one
+- Text-to-speech no longer gets stuck on reading accessibility tab while the user switches between different tabs
+- A glint strength slider that adjusts how transparent the visual glint is on enchanted items has been added to the Accessibility Settings
+- A glint speed slider that adjusts how fast the visual glint shimmers across enchanted items has been added to the Accessibility Settings
 
 ## **Blocks**
 
--   Mangrove, Bamboo, and Polished Blackstone buttons are no longer visible on maps
--   Flowers are once again displayed immediately when placed inside a Flower Pot
+- Mangrove, Bamboo, and Polished Blackstone buttons are no longer visible on maps
+- Flowers are once again displayed immediately when placed inside a Flower Pot
 
 ## **Gameplay**
 
--   Fixed the player moving in the wrong direction after exiting a container screen while using a gamepad ([MCPE-121565](https://bugs.mojang.com/browse/MCPE-121565))
--   Players can no longer sneak while flying ([MCPE-166834](https://bugs.mojang.com/browse/MCPE-166834))
--   Fixed an issue where unnecessary black boxes appeared in VR while around partial blocks
--   Fixed animation transition between swimming and walking ([MCPE-166769](https://bugs.mojang.com/browse/MCPE-166769))
--   Fixed a bug where command blocks could cause actors within a level chunk to freeze ([MCPE-162011](https://bugs.mojang.com/browse/MCPE-162011))
--   The health boost effect will no longer fully replenish the player\'s health after the effect runs out ([MCPE-165434](https://bugs.mojang.com/browse/MCPE-165434))
+- Fixed the player moving in the wrong direction after exiting a container screen while using a gamepad ([MCPE-121565](https://bugs.mojang.com/browse/MCPE-121565))
+- Players can no longer sneak while flying ([MCPE-166834](https://bugs.mojang.com/browse/MCPE-166834))
+- Fixed an issue where unnecessary black boxes appeared in VR while around partial blocks
+- Fixed animation transition between swimming and walking ([MCPE-166769](https://bugs.mojang.com/browse/MCPE-166769))
+- Fixed a bug where command blocks could cause actors within a level chunk to freeze ([MCPE-162011](https://bugs.mojang.com/browse/MCPE-162011))
+- The health boost effect will no longer fully replenish the player's health after the effect runs out ([MCPE-165434](https://bugs.mojang.com/browse/MCPE-165434))
 
 ## **General**
 
--   Fixed ambient cave sounds to no longer play when the player enters or loads into The End ([MCPE-141493](https://bugs.mojang.com/browse/MCPE-141493))
--   Cooking Chorus Fruit in a Furnace will now generate experience ([MCPE-68127](https://bugs.mojang.com/browse/MCPE-68127))
--   Nether Portals can now replace blocks other than just air when being generated. This includes blocks such as Grass and Snow layers ([MCPE-162272](https://bugs.mojang.com/browse/MCPE-162272))
--   Light Blocks can no longer have their light levels changed in Survival or Adventure modes ([MCPE-138868](https://bugs.mojang.com/browse/MCPE-138868))
--   Campfire sounds are now louder and more clear ([MCPE-122296](https://bugs.mojang.com/browse/MCPE-122296))
+- Fixed ambient cave sounds to no longer play when the player enters or loads into The End ([MCPE-141493](https://bugs.mojang.com/browse/MCPE-141493))
+- Cooking Chorus Fruit in a Furnace will now generate experience ([MCPE-68127](https://bugs.mojang.com/browse/MCPE-68127))
+- Nether Portals can now replace blocks other than just air when being generated. This includes blocks such as Grass and Snow layers ([MCPE-162272](https://bugs.mojang.com/browse/MCPE-162272))
+- Light Blocks can no longer have their light levels changed in Survival or Adventure modes ([MCPE-138868](https://bugs.mojang.com/browse/MCPE-138868))
+- Campfire sounds are now louder and more clear ([MCPE-122296](https://bugs.mojang.com/browse/MCPE-122296))
 
 ## **Graphical**
 
--   Fixed the issue where multiple light sources (such as torches) were incorrectly emitting white light in RTX ([MCPE-166947](https://bugs.mojang.com/browse/MCPE-166947))
--   Boots do not z-fight anymore when worn by Player
--   The \"leg\" and \"belt\" parts of Leggings do not z-fight anymore when worn by Player
--   Capes no longer flash red when getting damaged ([MCPE-105347](https://bugs.mojang.com/browse/MCPE-105347))
--   Fixed a visible gap in Hopper model ([MCPE-55122](https://bugs.mojang.com/browse/MCPE-55122))
--   Fixed alignment of the output slot of Crafting Table ([MCPE-143255](https://bugs.mojang.com/browse/MCPE-143255))
--   Halved the default visibility of the glint on enchanted items, which can now be modified in the Accessibility Settings ([MCPE-167814](https://bugs.mojang.com/browse/MCPE-167814))
+- Fixed the issue where multiple light sources (such as torches) were incorrectly emitting white light in RTX ([MCPE-166947](https://bugs.mojang.com/browse/MCPE-166947))
+- Boots do not z-fight anymore when worn by Player
+- The "leg" and "belt" parts of Leggings do not z-fight anymore when worn by Player
+- Capes no longer flash red when getting damaged ([MCPE-105347](https://bugs.mojang.com/browse/MCPE-105347))
+- Fixed a visible gap in Hopper model ([MCPE-55122](https://bugs.mojang.com/browse/MCPE-55122))
+- Fixed alignment of the output slot of Crafting Table ([MCPE-143255](https://bugs.mojang.com/browse/MCPE-143255))
+- Halved the default visibility of the glint on enchanted items, which can now be modified in the Accessibility Settings ([MCPE-167814](https://bugs.mojang.com/browse/MCPE-167814))
 
 ## **Stability and Performance**
 
--   Fixed a bug where invalid Banner Patterns were causing players in render distance to crash ([MCPE-164478](https://bugs.mojang.com/browse/MCPE-164478))
+- Fixed a bug where invalid Banner Patterns were causing players in render distance to crash ([MCPE-164478](https://bugs.mojang.com/browse/MCPE-164478))
 
 ## **Touch Controls**
 
--   Fixed an issue where items could get stuck in the Crafting Table when using touch input
--   If the player is underwater and Auto-Jump is enabled, as they approach a block that is 1 level higher than the current level, they will rise. This also allows auto-jumping out of water onto land
+- Fixed an issue where items could get stuck in the Crafting Table when using touch input
+- If the player is underwater and Auto-Jump is enabled, as they approach a block that is 1 level higher than the current level, they will rise. This also allows auto-jumping out of water onto land
 
 ## **User Interface**
 
--   Added a header and title for the inventory tab in inventory screen while using Pocket UI
--   Increased the spacing between headers in the settings screen to increase readability
--   Touchpad scrolling now matches the operating system\'s scroll direction
+- Added a header and title for the inventory tab in inventory screen while using Pocket UI
+- Increased the spacing between headers in the settings screen to increase readability
+- Touchpad scrolling now matches the operating system's scroll direction
 
 ## **Vanilla Parity**
 
--   Renamed and enchanted weapons are now displayed in respawn and chat windows with color when a player is killed by an entity using it ([MCPE-162679](https://bugs.mojang.com/browse/MCPE-162679))
--   Weighted Pressure Plates now produce the same sound as in Java Edition ([MCPE-164912](https://bugs.mojang.com/browse/MCPE-164912))
--   Removed the character limit for scoreboard objective names and objective display names ([MCPE-165064](https://bugs.mojang.com/browse/MCPE-165064))
--   Melons and Pumpkins can now grow onto Mud, Podzol, Rooted Dirt, and Muddy Mangrove Roots
--   Nylium blocks are now grouped with Netherrack in the Creative inventory ([MCPE-163587](https://bugs.mojang.com/browse/MCPE-163587))
--   Armor Stands now vanish with no sound effects when killed with the /kill command ([MCPE-159136](https://bugs.mojang.com/browse/MCPE-159136))
+- Renamed and enchanted weapons are now displayed in respawn and chat windows with color when a player is killed by an entity using it ([MCPE-162679](https://bugs.mojang.com/browse/MCPE-162679))
+- Weighted Pressure Plates now produce the same sound as in Java Edition ([MCPE-164912](https://bugs.mojang.com/browse/MCPE-164912))
+- Removed the character limit for scoreboard objective names and objective display names ([MCPE-165064](https://bugs.mojang.com/browse/MCPE-165064))
+- Melons and Pumpkins can now grow onto Mud, Podzol, Rooted Dirt, and Muddy Mangrove Roots
+- Nylium blocks are now grouped with Netherrack in the Creative inventory ([MCPE-163587](https://bugs.mojang.com/browse/MCPE-163587))
+- Armor Stands now vanish with no sound effects when killed with the /kill command ([MCPE-159136](https://bugs.mojang.com/browse/MCPE-159136))
 
 ## **Mobs**
 
--   Mobs can now enter a Boat only if they are smaller than the Boat itself
--   Villagers will now generate green particles when a successful trade is completed
--   Mobs no longer play the player eat sound when fed breeding materials
--   Slightly decreased Panda collision box to match Java Edition
--   Slightly increased Polar Bear collision box to match Java Edition
--   Turtles can now enter Boats and Boats with Chest ([MCPE-65719](https://bugs.mojang.com/browse/MCPE-65719))
--   Hoglins, Polar Bears, and Spiders can no longer enter Boats and Boats with Chest ([MCPE-161197](https://bugs.mojang.com/browse/MCPE-161197))
+- Mobs can now enter a Boat only if they are smaller than the Boat itself
+- Villagers will now generate green particles when a successful trade is completed
+- Mobs no longer play the player eat sound when fed breeding materials
+- Slightly decreased Panda collision box to match Java Edition
+- Slightly increased Polar Bear collision box to match Java Edition
+- Turtles can now enter Boats and Boats with Chest ([MCPE-65719](https://bugs.mojang.com/browse/MCPE-65719))
+- Hoglins, Polar Bears, and Spiders can no longer enter Boats and Boats with Chest ([MCPE-161197](https://bugs.mojang.com/browse/MCPE-161197))
 
 ## **Commands**
 
--   The /execute command will now display an appropriate error message when there is an error in the second or subsequent subcommand target selector ([MCPE-164304](https://bugs.mojang.com/browse/MCPE-164304))
--   Provide auto-complete support for block states
--   Added two new overloads to the summon command :
-    -   /summon \[spawnPos : x y z\] facing \<position: x y z\> \[spawnEvent: string\] \[nametag: string\]
-    -   /summon \[spawnPos : x y z\] facing \<lookAtEntity: target\> \[spawnEvent: string\] \[nametag: string\]
--   Fixed an issue where the paste button in the Command Block UI would remember extra presses from failed pastes ([MCPE-163705](https://bugs.mojang.com/browse/MCPE-163705))
+- The /execute command will now display an appropriate error message when there is an error in the second or subsequent subcommand target selector ([MCPE-164304](https://bugs.mojang.com/browse/MCPE-164304))
+- Provide auto-complete support for block states
+- Added two new overloads to the summon command :
+  - /summon \[spawnPos : x y z\] facing \<position: x y z\> \[spawnEvent: string\] \[nametag: string\]
+  - /summon \[spawnPos : x y z\] facing \<lookAtEntity: target\> \[spawnEvent: string\] \[nametag: string\]
+- Fixed an issue where the paste button in the Command Block UI would remember extra presses from failed pastes ([MCPE-163705](https://bugs.mojang.com/browse/MCPE-163705))
 
 # **Technical Updates**
 
 ## **Bedrock Editor**
 
-The Editor is in early development, and available for keyboard/mouse on Windows PC Bedrock Preview builds. It is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock! We\'re working to add more capabilities, and it will change significantly as we get feedback from creators like you.
+The Editor is in early development, and available for keyboard/mouse on Windows PC Bedrock Preview builds. It is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock! We're working to add more capabilities, and it will change significantly as we get feedback from creators like you.
 
--   Learn [how to use](https://aka.ms/LearnEditor) the Editor
--   Join our Discussion forum, post bugs, view more detailed release notes, and share your creations on [GitHub](https://github.com/Mojang/minecraft-editor)
--   Tag us on social channels with **#BedrockEditor**
+- Learn [how to use](https://aka.ms/LearnEditor) the Editor
+- Join our Discussion forum, post bugs, view more detailed release notes, and share your creations on [GitHub](https://github.com/Mojang/minecraft-editor)
+- Tag us on social channels with **\#BedrockEditor**
 
 ## **Game Events**
 
--   *item_interact_finish* game event now has a vibration frequency of 2 instead of 14
--   *item_interact_start* is no longer considered a detectable vibration
--   Reeling a fishing rod now emits *projectile_shoot* vibration
+- *item_interact_finish* game event now has a vibration frequency of 2 instead of 14
+- *item_interact_start* is no longer considered a detectable vibration
+- Reeling a fishing rod now emits *projectile_shoot* vibration
 
 ## **Data-Driven Components**
 
--   Added \"lose_target\" field to projectile data to specify if an entity should unselect its target after shooting the projectile
--   Added a new Transformation component for blocks to support rotation, scaling and translation. The component can be added to the whole block, and/or to individual block permutations. Eg.
+- Added "lose_target" field to projectile data to specify if an entity should unselect its target after shooting the projectile
+- Added a new Transformation component for blocks to support rotation, scaling and translation. The component can be added to the whole block, and/or to individual block permutations. Eg.
 
-\"minecraft:transformation\": {\
-                \"translation\": \[0.0, 0.1, -0.1\],\
-                \"scale\": \[0.5, 1, 1.5\],\
-      \"rotation\": \[90, 180, 0\]\
+"minecraft:transformation": {  
+                "translation": \[0.0, 0.1, -0.1\],  
+                "scale": \[0.5, 1, 1.5\],  
+      "rotation": \[90, 180, 0\]  
 }
 
--   Transformed geometries still have the same restrictions that non-transformed geometries have, eg. a maximum size of 30/16 units
+- Transformed geometries still have the same restrictions that non-transformed geometries have, eg. a maximum size of 30/16 units
 
 ## **Add-Ons and Script Engine**
 
--   Chance information types used in tree feature JSONs for some trunks and foliage now allow 0 as the chance (values like 0.0001 were allowed, but not 0)
+- Chance information types used in tree feature JSONs for some trunks and foliage now allow 0 as the chance (values like 0.0001 were allowed, but not 0)
 
 ## **Entity Filters**
 
--   Created new entity filter \"is_raider\" to determine if subject is part of a raid
+- Created new entity filter "is_raider" to determine if subject is part of a raid
 
 ## **Blocks**
 
--   Deprecated *minecraft:part_visibility* block component.
--   Added *bone_visibility* behavior to *minecraft:geometry* block component
+- Deprecated *minecraft:part_visibility* block component.
+- Added *bone_visibility* behavior to *minecraft:geometry* block component
 
 ## ** Marketplace**
 
--   In the map WDW Magic Kingdom, the carts on the Big Thunder Mountain, Snow White and the Seven Dwarves, and Space Mountain rides now properly align with the invisible Minecart they are attached to
+- In the map WDW Magic Kingdom, the carts on the Big Thunder Mountain, Snow White and the Seven Dwarves, and Space Mountain rides now properly align with the invisible Minecart they are attached to
 
 ## **Servers**
 
--   Blocks can now optionally (via a setting in StartGamePacket) use a hashed value for their network IDs. This hashed value is independent of all other blocks and remains stable across future releases
+- Blocks can now optionally (via a setting in StartGamePacket) use a hashed value for their network IDs. This hashed value is independent of all other blocks and remains stable across future releases
 
 ## **User Interface**
 
--   Feedback button on the pause menu will now prompt the user with a modal before redirecting to the browser
+- Feedback button on the pause menu will now prompt the user with a modal before redirecting to the browser
 
 # **Experimental Technical Features **
 
 ## **API**
 
--   Updated versions to add new APIs to stable:
-    -   Added version 1.1.0 of @minecraft/server
-    -   Added version 1.2.0-beta of @minecraft/server
-    -   Removed version 1.1.0-beta of @minecraft/server
-    -   Moved the following to @minecraft/server stable (1.1.0)
-        -   runTimeout
-        -   runInterval
-        -   clearRun
-        -   currentTick
-        -   Vector3
-        -   BlockPermutation  (only a subset of functionality)
-        -   Block
-        -   getBlock
-        -   sendMessage
-        -   sendMessage\
-            \
-    -   Minecraft runtime errors are now fired as JavaScript Error objects instead of strings
-    -   Fixed a number of base class inheritance issues and added several new base classes to certain class types
-    -   /reload works if a script pack references a client RP.
-    -   Fixed a bug where the *BeforeItemUseOnEvent* function *getBlockLocation* would return undefined ([MCPE-166945](https://bugs.mojang.com/browse/MCPE-166945))
-    -   The *BeforeItemUseOnEvent*class now inherits from *ItemUseOnEvent* 
-    -   Moved the following to @minecraft/serverstable (1.0)
-    -   Fixed a bug where *sendMessage* would fail when the message contains Unicode quotation marks
-    -   Signs
-        -   Added *setText* to set the text on a sign with a regular string, a *RawMessage*, or a *RawText*
-        -   Added *getText* to get the string on a sign, will return undefined if *setText* was called with a *RawMessage* or a *RawText*
-        -   Added *getRawText* to get the *RawText* on a sign, will return undefined if *setText* was called with a string
-        -   Added *getTextDyeColor* and *setTextDyeColor* to read/write the dye of the sign text
-    -   Dyes
-        -   Added *DyeColor* enum
-    -   sendMessage
-        -   *rawtext* is now *RawMessage\[\]* instead of *(string \| RawMessage)\[\]*
-    -   RawMessage
-        -   *rawtext* property on *RawMessage* is no longer *(string \| RawMessage)\[\]* and is instead *RawMessage\[\]*
-    -   RawText
-        -   Added a *RawText* class for reading *RawMessage* like on Signs
-    -   Riding
-        -   Added *getRiders* to *EntityRideableComponent* which returns an array of all the entities currently riding this entity
-        -   Added *EntityRidingComponent*- this component is only on entities that are currently riding on another entity
-            -   Has an *entityRidingOn* property that returns the entity this entity is currently riding on
-        -   Added function *getEntity(id: string): Entity \| undefined*- Gets an entity. Returns undefined for entities that don\'t exist or aren\'t loaded
-    -   Dimension
-        -   getEntities
-            -   Modified return type to *Entity\[\]*
-            -   Modified parameter name *getEntities* to *options*
-            -   New signature: *getEntities(options?: EntityQueryOptions): Entity\[\]*
-        -   getPlayers
-            -   Modified return type to *Player\[\]*
-            -   Modified parameter name *getPlayers* to *options*
-            -   New signature: *getPlayers(options?: EntityQueryOptions): Player\[\];*
-        -   \@minecraft/server-ui
-            -   When building forms, all read-only user-facing strings (e.g., text labels, dropdown options etc.) now accept *RawMessage* This affects the following classes:
-                -   *ActionFormData*
-                -   *ModalFormData*
-                -   *MessageFormData*
-            -   Added function *getItemStack(amount?: number, withData?: boolean): ItemStack*- Gets an item stack of the block. Returns undefined for blocks that don\'t have a corresponding item (e.g. air)
-        -   BlockPermutation
-            -   Added function *getItemStack(amount?: number): ItemStack*-- Creates an item stack of the block permutation. Returns undefined for blocks that don\'t have a corresponding item (e.g. air)
-            -   Removed data *property*
-        -   BlockComponent
-            -   Added read-only property *block*- Gets the block that the component is attached to
-        -   Renamed *IEntityComponent* to *EntityComponent*
-        -   Container
-            -   Replaced classes \
-                *BlockInventoryComponentContainer*, *InventoryComponentContainer*, and *PlayerInventoryComponentContainer* with *Container*
-            -   function *addItem* now returns the remainder of the added item stack if the container is full, else *undefined*
-            -   function *transferItem* no longer takes a destination slot and will now place the given item in the first available slot. The function now returns the remainder of the item stack if the container is full, else *undefined*
-            -   Added function *moveItem(fromSlot: number, to Slot: number, to Container: Container): void*- Moves an item from one container to another, replacing any item in the destination slot
-            -   Function *swapItems* can now swap empty slots
-            -   Removed function *clearItem* - Please *use setItem(undefined)* instead
+- Updated versions to add new APIs to stable:
+  - Added version 1.1.0 of @minecraft/server
+  - Added version 1.2.0-beta of @minecraft/server
+  - Removed version 1.1.0-beta of @minecraft/server
+  - Moved the following to @minecraft/server stable (1.1.0)
+    - runTimeout
+    - runInterval
+    - clearRun
+    - currentTick
+    - Vector3
+    - BlockPermutation  (only a subset of functionality)
+    - Block
+    - getBlock
+    - sendMessage
+    - sendMessage  
+        
+  - Minecraft runtime errors are now fired as JavaScript Error objects instead of strings
+  - Fixed a number of base class inheritance issues and added several new base classes to certain class types
+  - /reload works if a script pack references a client RP.
+  - Fixed a bug where the *BeforeItemUseOnEvent* function *getBlockLocation* would return undefined ([MCPE-166945](https://bugs.mojang.com/browse/MCPE-166945))
+  - The *BeforeItemUseOnEvent*class now inherits from *ItemUseOnEvent* 
+  - Moved the following to @minecraft/serverstable (1.0)
+  - Fixed a bug where *sendMessage* would fail when the message contains Unicode quotation marks
+  - Signs
+    - Added *setText* to set the text on a sign with a regular string, a *RawMessage*, or a *RawText*
+    - Added *getText* to get the string on a sign, will return undefined if *setText* was called with a *RawMessage* or a *RawText*
+    - Added *getRawText* to get the *RawText* on a sign, will return undefined if *setText* was called with a string
+    - Added *getTextDyeColor* and *setTextDyeColor* to read/write the dye of the sign text
+  - Dyes
+    - Added *DyeColor* enum
+  - sendMessage
+    - *rawtext* is now *RawMessage\[\]* instead of *(string \| RawMessage)\[\]*
+  - RawMessage
+    - *rawtext* property on *RawMessage* is no longer *(string \| RawMessage)\[\]* and is instead *RawMessage\[\]*
+  - RawText
+    - Added a *RawText* class for reading *RawMessage* like on Signs
+  - Riding
+    - Added *getRiders* to *EntityRideableComponent* which returns an array of all the entities currently riding this entity
+    - Added *EntityRidingComponent*- this component is only on entities that are currently riding on another entity
+      - Has an *entityRidingOn* property that returns the entity this entity is currently riding on
+    - Added function *getEntity(id: string): Entity \| undefined*- Gets an entity. Returns undefined for entities that don't exist or aren't loaded
+  - Dimension
+    - getEntities
+      - Modified return type to *Entity\[\]*
+      - Modified parameter name *getEntities* to *options*
+      - New signature: *getEntities(options?: EntityQueryOptions): Entity\[\]*
+    - getPlayers
+      - Modified return type to *Player\[\]*
+      - Modified parameter name *getPlayers* to *options*
+      - New signature: *getPlayers(options?: EntityQueryOptions): Player\[\];*
+    - @minecraft/server-ui
+      - When building forms, all read-only user-facing strings (e.g., text labels, dropdown options etc.) now accept *RawMessage* This affects the following classes:
+        - *ActionFormData*
+        - *ModalFormData*
+        - *MessageFormData*
+      - Added function *getItemStack(amount?: number, withData?: boolean): ItemStack*- Gets an item stack of the block. Returns undefined for blocks that don't have a corresponding item (e.g. air)
+    - BlockPermutation
+      - Added function *getItemStack(amount?: number): ItemStack*– Creates an item stack of the block permutation. Returns undefined for blocks that don't have a corresponding item (e.g. air)
+      - Removed data *property*
+    - BlockComponent
+      - Added read-only property *block*- Gets the block that the component is attached to
+    - Renamed *IEntityComponent* to *EntityComponent*
+    - Container
+      - Replaced classes   
+        *BlockInventoryComponentContainer*, *InventoryComponentContainer*, and *PlayerInventoryComponentContainer* with *Container*
+      - function *addItem* now returns the remainder of the added item stack if the container is full, else *undefined*
+      - function *transferItem* no longer takes a destination slot and will now place the given item in the first available slot. The function now returns the remainder of the item stack if the container is full, else *undefined*
+      - Added function *moveItem(fromSlot: number, to Slot: number, to Container: Container): void*- Moves an item from one container to another, replacing any item in the destination slot
+      - Function *swapItems* can now swap empty slots
+      - Removed function *clearItem* - Please *use setItem(undefined)* instead

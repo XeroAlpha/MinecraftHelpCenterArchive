@@ -16,12 +16,12 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 New Features:
 
--   Fantasy texture pack now available!
+- Fantasy texture pack now available!
 
 Bug Fixes:
 
--   Fixed the book on the Enchantro skin\'s back.
--   Fixed the textures for the clock, compass, and lily pad in the Plastic and City texture packs.
+- Fixed the book on the Enchantro skin's back.
+- Fixed the textures for the clock, compass, and lily pad in the Plastic and City texture packs.
 
 <div>
 

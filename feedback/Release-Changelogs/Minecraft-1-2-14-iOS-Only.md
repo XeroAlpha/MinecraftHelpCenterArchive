@@ -10,8 +10,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004167311-Minecraft-1-2-14-iOS-Only-
 ---
 
-This update was released only on iOS devices. It is still multiplayer compatible with other devices running version 1.2.13.\
-\
+This update was released only on iOS devices. It is still multiplayer compatible with other devices running version 1.2.13.  
+  
 **Fixes:**
 
--   Disabled test commands that were available on iOS
+- Disabled test commands that were available on iOS

@@ -25,18 +25,18 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16476513292813-Trails-Tales-Update-The-Sniffer
+link: https://help.minecraft.net/hc/en-us/articles/16476513292813-Trails-Tales-Update-The-Sniffer
 ---
 
 The Trails & Tales Update brings with an ancient new mob, the Sniffer! Read on for more details.
 
 ## What is the Sniffer?
 
-The Sniffer is an ancient mob that ties into Minecraft's new archaeology feature! This ancient mob can be brought back to life and used to uncover never-before-seen plants.
+The Sniffer is an ancient mob that ties into Minecraft’s new archaeology feature! This ancient mob can be brought back to life and used to uncover never-before-seen plants.
 
 ## How do I Find the Sniffer?
 
-The Sniffer won\'t be found out roaming the Overworld. Instead, you have to find a Sniffer Egg located in [Suspicious Sand in Warm Ocean Ruins by using your Archeology skills](https://help.minecraft.net/hc/en-us/articles/16474366786189). Place it somewhere and after some time, it will hatch into a Snifflet. If you place the Sniffer Egg on top of a Moss Block, it will hatch faster.
+The Sniffer won't be found out roaming the Overworld. Instead, you have to find a Sniffer Egg located in [Suspicious Sand in Warm Ocean Ruins by using your Archeology skills](https://help.minecraft.net/hc/en-us/articles/16474366786189). Place it somewhere and after some time, it will hatch into a Snifflet. If you place the Sniffer Egg on top of a Moss Block, it will hatch faster.
 
 After you have a couple of Sniffers, you can breed them with Torchflower Seeds to have them create another Sniffer Egg.
 
@@ -44,13 +44,13 @@ After you have a couple of Sniffers, you can breed them with Torchflower Seeds t
 
 Sniffers are unique creatures that will wander around the Overworld looking for areas to dig up Torchflower Seeds and Pitcher Pods. When an adult Sniffer lowers its head to the ground above a block that it can dig in, it will produce one of the ancient seeds for you to pick up. Here are the block types that the Sniffer can dig into:
 
--   Dirt
--   Grass
--   Podzol
--   Coarse Dirt
--   Mud
--   Muddy Mangrove Roots
--   Rooted Dirt
--   Moss Blocks
+- Dirt
+- Grass
+- Podzol
+- Coarse Dirt
+- Mud
+- Muddy Mangrove Roots
+- Rooted Dirt
+- Moss Blocks
 
 The Sniffer is a passive mob that loves what they do. Let them journey around your home area and you can decorate your base with a bunch of these thought-to-be extinct plants.

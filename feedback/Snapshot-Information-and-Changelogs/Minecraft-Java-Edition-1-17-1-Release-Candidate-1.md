@@ -16,22 +16,22 @@ Download the [latest datapack](https://launcher.mojang.com/v1/objects/622bf0fd2
 
 # FIXED BUGS IN 1.17 RELEASE CANDIDATE 1
 
--   [MC-230716](https://bugs.mojang.com/browse/MC-230716) - "death.attack.dryout" and "death.attack.dryout.player" display raw translation strings (are untranslated)
+- [MC-230716](https://bugs.mojang.com/browse/MC-230716) - “death.attack.dryout” and “death.attack.dryout.player” display raw translation strings (are untranslated)
 
 # GET THE RELEASE CANDIDATE
 
-Release candidates are available for Minecraft: Java Edition. To install the release candidate, open up the Minecraft Launcher and enable snapshots in the \"Installations\" tab.
+Release candidates are available for Minecraft: Java Edition. To install the release candidate, open up the Minecraft Launcher and enable snapshots in the "Installations" tab.
 
 **Release candidates can corrupt your world, so please make a backup and/or run them in a different folder from your main worlds.**
 
 Cross-platform server jar:
 
--   [Minecraft server jar](https://launcher.mojang.com/v1/objects/b93cbcf6c65b92621d67b735e8610f7682f54694/server.jar)
+- [Minecraft server jar](https://launcher.mojang.com/v1/objects/b93cbcf6c65b92621d67b735e8610f7682f54694/server.jar)
 
 Report bugs here:
 
--   [Minecraft issue tracker](https://aka.ms/snapshotbugs?ref=blog)!
+- [Minecraft issue tracker](https://aka.ms/snapshotbugs?ref=blog)!
 
 Want to give feedback?
 
--   Head over to our [feedback website](https://aka.ms/snapshotfeedback) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
+- Head over to our [feedback website](https://aka.ms/snapshotfeedback) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).

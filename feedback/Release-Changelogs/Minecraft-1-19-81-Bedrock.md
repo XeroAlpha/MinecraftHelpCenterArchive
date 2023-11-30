@@ -14,6 +14,6 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 
 # **Fixes:**
 
--   Fixed a crash with the '/tell' command (and some other commands) that could occur on Realms 
--   Fixed an issue with Purchase buttons loading infinitely on Featured Servers
--   Fixed Featured Server offers not displaying the "Show More" button
+- Fixed a crash with the ‘/tell’ command (and some other commands) that could occur on Realms 
+- Fixed an issue with Purchase buttons loading infinitely on Featured Servers
+- Fixed Featured Server offers not displaying the “Show More” button

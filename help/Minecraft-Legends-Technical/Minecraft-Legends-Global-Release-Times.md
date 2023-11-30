@@ -14,10 +14,10 @@ tags:
   - title_legends
   - platform_windows_11
   - section_12618077269261
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/14424604578317-Minecraft-Legends-Global-Release-Times-
+link: https://help.minecraft.net/hc/en-us/articles/14424604578317-Minecraft-Legends-Global-Release-Times-
 ---
 
-This map details Minecraft Legends\' global release times on April 18th, 2023. 
+This map details Minecraft Legends' global release times on April 18th, 2023. 
 
 **Note: These times are estimates and the game may take longer to be available in some areas.**
 
@@ -25,32 +25,32 @@ This map details Minecraft Legends\' global release times on April 18th, 2023. 
 
 ## Seattle
 
--   9AM PDT
+- 9AM PDT
 
 ## New York
 
--   12PM EDT
+- 12PM EDT
 
 ## São Paulo
 
--   1PM BRT
+- 1PM BRT
 
 ## London
 
--   5PM BST
+- 5PM BST
 
 ## Stockholm
 
--   6PM CEST
+- 6PM CEST
 
 ## New Delhi
 
--   9:30PM IST
+- 9:30PM IST
 
 ## Tokyo
 
--   1AM JST (April 19th)
+- 1AM JST (April 19th)
 
 ## Sydney
 
--   2AM AEST (April 19th)
+- 2AM AEST (April 19th)

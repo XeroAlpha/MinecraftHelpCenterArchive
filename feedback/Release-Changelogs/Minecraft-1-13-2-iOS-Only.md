@@ -12,4 +12,4 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035931632-Minecraft-1-
 
 **Fixes:**
 
--    Fixed a crash that occurred when launching the game on iOS devices (274150 / [MCPE-54465](https://bugs.mojang.com/browse/MCPE-54465))
+-  Fixed a crash that occurred when launching the game on iOS devices (274150 / [MCPE-54465](https://bugs.mojang.com/browse/MCPE-54465))

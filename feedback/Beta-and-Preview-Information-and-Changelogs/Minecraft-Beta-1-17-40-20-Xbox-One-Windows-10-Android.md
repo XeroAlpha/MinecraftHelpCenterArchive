@@ -14,186 +14,186 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4409280122381-Minecraft-B
 
 **PLEASE READ before participating in the Minecraft Beta: **
 
--   Joining the beta will replace your game with a work in progress version of Minecraft 
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
--   Beta builds can be unstable and are not representative of final version quality 
--   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Joining the beta will replace your game with a work in progress version of Minecraft 
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
+- Beta builds can be unstable and are not representative of final version quality 
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
 ![bedrock-beta17U4-1-header.jpg](https://feedback.minecraft.net/hc/article_attachments/4409288020237/bedrock-beta17U4-1-header.jpg)
 
  
 
-Yodelay hee hoooooo! Ahem, excuse me! Ever since I set up shop on top of this stony peak, I've been communicating exclusively through yodels. I'll switch back to words for this Bedrock Beta update, that brings you updates from these heights all the way down to dripstone and lush caves. We hope you enjoy this beta, and please let us know what you think by sending your feedback to [aka.ms/CavesCliffsFeedback](http://aka.ms/CavesCliffsFeedback) and any bugs you catch at [bugs.mojang.com](http://bugs.mojang.com/).
+Yodelay hee hoooooo! Ahem, excuse me! Ever since I set up shop on top of this stony peak, I’ve been communicating exclusively through yodels. I’ll switch back to words for this Bedrock Beta update, that brings you updates from these heights all the way down to dripstone and lush caves. We hope you enjoy this beta, and please let us know what you think by sending your feedback to [aka.ms/CavesCliffsFeedback](http://aka.ms/CavesCliffsFeedback) and any bugs you catch at [bugs.mojang.com](http://bugs.mojang.com/).
 
-We would also love to hear your feedback on the game\'s performance! After you\'ve enabled the Caves & Cliffs Experimental Features, let us know if you experienced any lag in your worlds in this short survey: [aka.ms/MCPerfPoll](https://aka.ms/MCPerfPoll)
+We would also love to hear your feedback on the game's performance! After you've enabled the Caves & Cliffs Experimental Features, let us know if you experienced any lag in your worlds in this short survey: [aka.ms/MCPerfPoll](https://aka.ms/MCPerfPoll)
 
  
 
 # **Known Issues in this Beta**
 
--   Bee Nests generate too frequently in the world
+- Bee Nests generate too frequently in the world
 
 # **Experimental Features**
 
 ## **General**
 
--   Added a new mountain biome: Stony Peaks!
-    -   This is just a variant of lofty/snow-capped peaks that uses stone and gravel instead of snow and ice, and is used to avoid temperature clashes such as a snow-capped peak sticking up from a jungle
--   Corrected vegetation in Mountain Meadows
--   Dripstone Clusters can now only be found in the Dripstone biome
--   Dripstone features now only generate in Dripstone biome
--   Mountain biomes now have correct feature places to match the Java Edition side-snapshot
--   Infested Stone can be found under new mountains
--   Tweaked ore distribution to match the Java Edition side-snapshot
--   Clouds are now at Y level 192
--   Tweaked biome placement, river size, and terrain shapes for a better overworld experience
--   Tweaked mob spawning in mountain and cave biomes to match the Java Edition side-snapshot
--   Trees in swamps can now generate slightly deeper when in water
--   Deepslate now generates at lower depths ([MCPE-125117](https://bugs.mojang.com/browse/MCPE-125117))
--   Dripstone features now generate at Deepslate depths
--   The placement logic of Small Dripstone feature has been refactored, frequency is similar but exact positions will differ
--   Maps now correctly show the colors of blocks below a Y level of zero ([MCPE-136638](https://bugs.mojang.com/browse/MCPE-136638))
+- Added a new mountain biome: Stony Peaks!
+  - This is just a variant of lofty/snow-capped peaks that uses stone and gravel instead of snow and ice, and is used to avoid temperature clashes such as a snow-capped peak sticking up from a jungle
+- Corrected vegetation in Mountain Meadows
+- Dripstone Clusters can now only be found in the Dripstone biome
+- Dripstone features now only generate in Dripstone biome
+- Mountain biomes now have correct feature places to match the Java Edition side-snapshot
+- Infested Stone can be found under new mountains
+- Tweaked ore distribution to match the Java Edition side-snapshot
+- Clouds are now at Y level 192
+- Tweaked biome placement, river size, and terrain shapes for a better overworld experience
+- Tweaked mob spawning in mountain and cave biomes to match the Java Edition side-snapshot
+- Trees in swamps can now generate slightly deeper when in water
+- Deepslate now generates at lower depths ([MCPE-125117](https://bugs.mojang.com/browse/MCPE-125117))
+- Dripstone features now generate at Deepslate depths
+- The placement logic of Small Dripstone feature has been refactored, frequency is similar but exact positions will differ
+- Maps now correctly show the colors of blocks below a Y level of zero ([MCPE-136638](https://bugs.mojang.com/browse/MCPE-136638))
 
 ## **Lush Caves**
 
--   Vines now generate in Lush Caves instead of generating above the surface ([MCPE-125800](https://bugs.mojang.com/browse/MCPE-125800))
--   Vines can now grow down below zero height
+- Vines now generate in Lush Caves instead of generating above the surface ([MCPE-125800](https://bugs.mojang.com/browse/MCPE-125800))
+- Vines can now grow down below zero height
 
 ### **Villages**
 
--   Villages now generate in the style of the biome they are located in ([MCPE-136939](https://bugs.mojang.com/browse/MCPE-136939))
+- Villages now generate in the style of the biome they are located in ([MCPE-136939](https://bugs.mojang.com/browse/MCPE-136939))
 
 # **Non-Experimental Features and Bug Fixes**
 
 ## **Blocks**
 
--   Falling stalactites are now offset properly to avoid interacting with entities outside their intended hitbox ([MCPE-132772](https://bugs.mojang.com/browse/MCPE-132772))
--   Beehives now generate in the world facing south
+- Falling stalactites are now offset properly to avoid interacting with entities outside their intended hitbox ([MCPE-132772](https://bugs.mojang.com/browse/MCPE-132772))
+- Beehives now generate in the world facing south
 
 ### **Candle Cake Blocks**
 
--   Pressing the \'use\' button on a Candle Cake now consumes the correct amount of cake slices ([MCPE-135519](https://bugs.mojang.com/browse/MCPE-135519))
+- Pressing the 'use' button on a Candle Cake now consumes the correct amount of cake slices ([MCPE-135519](https://bugs.mojang.com/browse/MCPE-135519))
 
 ## **Character Creator**
 
--   Fixed a crash that could occur when using Character Creator
--   Tweaked color tint for default Steve skin to match default Steve ([MCPE-120818](https://bugs.mojang.com/browse/MCPE-120818))
--   Altered message for when friends change skins ([MCPE-92772](https://bugs.mojang.com/browse/MCPE-92772))
+- Fixed a crash that could occur when using Character Creator
+- Tweaked color tint for default Steve skin to match default Steve ([MCPE-120818](https://bugs.mojang.com/browse/MCPE-120818))
+- Altered message for when friends change skins ([MCPE-92772](https://bugs.mojang.com/browse/MCPE-92772))
 
 ## **Commands**
 
--   Education Edition items are no longer shown as an option when using \@e\[type=\] ([MCPE-78363](https://bugs.mojang.com/browse/MCPE-78363))
+- Education Edition items are no longer shown as an option when using @e\[type=\] ([MCPE-78363](https://bugs.mojang.com/browse/MCPE-78363))
 
 ## **Gameplay**
 
--   Fixed a bug that caused players to be set on fire upon changing dimensions if there was Lava underneath the Nether Portal ([MCPE-28765](https://bugs.mojang.com/browse/MCPE-28765))
--   Players can no longer eat food at full hunger in Survival mode ([MCPE-60807](https://bugs.mojang.com/browse/MCPE-60807))
--   Sea Grass no longer spawns under Lily Pads during world generation to avoid breaking them
--   Villagers can no longer spam doors open and closed ([MCPE-28055](https://bugs.mojang.com/browse/MCPE-28055))
--   Cartographers now more consistently give new maps on all platforms
+- Fixed a bug that caused players to be set on fire upon changing dimensions if there was Lava underneath the Nether Portal ([MCPE-28765](https://bugs.mojang.com/browse/MCPE-28765))
+- Players can no longer eat food at full hunger in Survival mode ([MCPE-60807](https://bugs.mojang.com/browse/MCPE-60807))
+- Sea Grass no longer spawns under Lily Pads during world generation to avoid breaking them
+- Villagers can no longer spam doors open and closed ([MCPE-28055](https://bugs.mojang.com/browse/MCPE-28055))
+- Cartographers now more consistently give new maps on all platforms
 
 ## **World Generation**
 
--   Amethyst geodes are now much less likely to generate in Strongholds, and if they do they will not destroy End Portals ([MCPE-129861](https://bugs.mojang.com/browse/MCPE-129861), [MCPE-128799](https://bugs.mojang.com/browse/MCPE-128799))
+- Amethyst geodes are now much less likely to generate in Strongholds, and if they do they will not destroy End Portals ([MCPE-129861](https://bugs.mojang.com/browse/MCPE-129861), [MCPE-128799](https://bugs.mojang.com/browse/MCPE-128799))
 
 ## **Graphical**
 
--   Improved world visibility culling for underground situations to eliminate seeing sky at the end of tunnels/stairs ([MCPE-128372](https://bugs.mojang.com/browse/MCPE-128372))
+- Improved world visibility culling for underground situations to eliminate seeing sky at the end of tunnels/stairs ([MCPE-128372](https://bugs.mojang.com/browse/MCPE-128372))
 
 ## **Mobs**
 
--   Improved mob pathing around partial blocks ([MCPE-127381](https://bugs.mojang.com/browse/MCPE-127381))
--   Armor no longer renders on Pillagers and Vindicators, but are still granted armor effects ([MCPE-74242](https://bugs.mojang.com/browse/MCPE-74242))
--   Fixed an issue with mob rendering that caused Vindicator Axes to be visible even when they\'re not attacking on older Resource Packs ([MCPE-123229](https://bugs.mojang.com/browse/MCPE-123229))
--   More mobs will spawn underground in the Overworld
+- Improved mob pathing around partial blocks ([MCPE-127381](https://bugs.mojang.com/browse/MCPE-127381))
+- Armor no longer renders on Pillagers and Vindicators, but are still granted armor effects ([MCPE-74242](https://bugs.mojang.com/browse/MCPE-74242))
+- Fixed an issue with mob rendering that caused Vindicator Axes to be visible even when they're not attacking on older Resource Packs ([MCPE-123229](https://bugs.mojang.com/browse/MCPE-123229))
+- More mobs will spawn underground in the Overworld
 
 ## **Powder Snow**
 
--   Powder Snow no longer disappears when looking at it from a distance ([MCPE-127565](https://bugs.mojang.com/browse/MCPE-127565))
+- Powder Snow no longer disappears when looking at it from a distance ([MCPE-127565](https://bugs.mojang.com/browse/MCPE-127565))
 
 ## **Structure Block**
 
--   Trapdoors now rotate correctly when loaded from a Structure block ([MCPE-66933](https://bugs.mojang.com/browse/MCPE-66933))
+- Trapdoors now rotate correctly when loaded from a Structure block ([MCPE-66933](https://bugs.mojang.com/browse/MCPE-66933))
 
 ## **User Interface**
 
--   Fixed an issue where the d-pad and directional keys could not be used to navigate in certain parts of the UI ([MCPE-132826](https://bugs.mojang.com/browse/MCPE-132826))
--   Fixed an issue where an error message could be shown after suspending the game on the achievements screens with screen animations disabled ([MCPE-132269](https://bugs.mojang.com/browse/MCPE-132269))
--   Fixed an issue where an obscure gamerule was added to settings ([MCPE-139025](https://bugs.mojang.com/browse/MCPE-139025))
--   Fix keyboard/d-pad navigation from custom server to edit server button
--   New achievements screens are available on Windows 10 ARM-based PCs
--   The sign in text on the start screen will no longer overlap the Marketplace button
--   Add space between tab title and the word \'Tab\' for text-to-speech on Settings screen
--   Added \"More Info\" button to failed sign-in modal
+- Fixed an issue where the d-pad and directional keys could not be used to navigate in certain parts of the UI ([MCPE-132826](https://bugs.mojang.com/browse/MCPE-132826))
+- Fixed an issue where an error message could be shown after suspending the game on the achievements screens with screen animations disabled ([MCPE-132269](https://bugs.mojang.com/browse/MCPE-132269))
+- Fixed an issue where an obscure gamerule was added to settings ([MCPE-139025](https://bugs.mojang.com/browse/MCPE-139025))
+- Fix keyboard/d-pad navigation from custom server to edit server button
+- New achievements screens are available on Windows 10 ARM-based PCs
+- The sign in text on the start screen will no longer overlap the Marketplace button
+- Add space between tab title and the word 'Tab' for text-to-speech on Settings screen
+- Added "More Info" button to failed sign-in modal
 
 # **Technical Updates**
 
 ## **Data Driven Items**
 
--   Updated documentation for Block Rotation Component
--   Added required toggles to documentation and to content error for block components
+- Updated documentation for Block Rotation Component
+- Added required toggles to documentation and to content error for block components
 
 ## **Commands**
 
--   Command blocks with \'Needs Redstone\' and a non-zero \'Delay in Ticks\' will now execute only if they remain powered for the delay duration ([MCPE-74281](https://bugs.mojang.com/browse/MCPE-74281))
--   Fix alignment of the sidebar display from the /scoreboard command when text length changes
+- Command blocks with 'Needs Redstone' and a non-zero 'Delay in Ticks' will now execute only if they remain powered for the delay duration ([MCPE-74281](https://bugs.mojang.com/browse/MCPE-74281))
+- Fix alignment of the sidebar display from the /scoreboard command when text length changes
 
 ## **Data Driven Blocks**
 
--   Updated documentation for BlockExplosionResistance
+- Updated documentation for BlockExplosionResistance
 
 ## **Graphics**
 
--   Fixed failure to render leash when attached to a mob outside of viewport ([MCPE-63931](https://bugs.mojang.com/browse/MCPE-63931))
--   Added a content error for using a material but not providing the required number of textures to the render controller
--   Testing RenderDragon engine across subset of Android devices (ARMv7)
+- Fixed failure to render leash when attached to a mob outside of viewport ([MCPE-63931](https://bugs.mojang.com/browse/MCPE-63931))
+- Added a content error for using a material but not providing the required number of textures to the render controller
+- Testing RenderDragon engine across subset of Android devices (ARMv7)
 
 ## **Mobs**
 
--   Fixed ability to summon experience orbs via /summon command ([MCPE-130835](https://bugs.mojang.com/browse/MCPE-130835))
--   Fixed display only entity destruction in chunk discard scenarios
+- Fixed ability to summon experience orbs via /summon command ([MCPE-130835](https://bugs.mojang.com/browse/MCPE-130835))
+- Fixed display only entity destruction in chunk discard scenarios
 
 ## **Molang**
 
--   Fixed query.item_remaining_use_duration having improperly scaled or inverted results (This fix is a Versioned Change as of engine version 1.17.30)
--   Add new compile errors for expressions like \'text\' + 3, which were previously ignored (This is a Versioned Change as of engine version 1.17.40)
+- Fixed query.item_remaining_use_duration having improperly scaled or inverted results (This fix is a Versioned Change as of engine version 1.17.30)
+- Add new compile errors for expressions like 'text' + 3, which were previously ignored (This is a Versioned Change as of engine version 1.17.40)
 
 ## **User Interface**
 
--   Added an ImGUI window for easier viewing of content errors
+- Added an ImGUI window for easier viewing of content errors
 
 ## **GameTest Framework (Experimental)**
 
--   Renamed method succeedWhenBlockTypePresent to succeedWhenBlockPresent
--   Fixed a bug where property idwould return \"Unknown\" for custom entities ([MCPE-137786](https://bugs.mojang.com/browse/MCPE-137786))
--   Identifier strings returned from property idnow include the item\'s namespace
+- Renamed method succeedWhenBlockTypePresent to succeedWhenBlockPresent
+- Fixed a bug where property idwould return "Unknown" for custom entities ([MCPE-137786](https://bugs.mojang.com/browse/MCPE-137786))
+- Identifier strings returned from property idnow include the item's namespace
 
 **     GameTestSequence**
 
--   Removed method thenWaitWithDelay
--   Added method thenWaitAfter(delayTicks: number, callback: () =\> undefined) - After a delay, executes the given callback every tick until it succeeds. Exceptions thrown within the callback will end sequence execution
+- Removed method thenWaitWithDelay
+- Added method thenWaitAfter(delayTicks: number, callback: () =\> undefined) - After a delay, executes the given callback every tick until it succeeds. Exceptions thrown within the callback will end sequence execution
 
 **Player**
 
--   Fixed a bug where the location property would return an incorrect height for players
--   Added property id
+- Fixed a bug where the location property would return an incorrect height for players
+- Added property id
 
 **Block**
 
--   Replaced method getLocationwith property location
--   Replaced method getPermutationwith property permutation
--   Replaced method getTypewith property type
--   Replaced methods isWaterloggedand setWaterlogged with property isWaterlogged
--   Replaced method getBlockDatawith property permutation
--   Replaced method isEmptywith property isEmpty
--   Removed property canBeWaterlogged
+- Replaced method getLocationwith property location
+- Replaced method getPermutationwith property permutation
+- Replaced method getTypewith property type
+- Replaced methods isWaterloggedand setWaterlogged with property isWaterlogged
+- Replaced method getBlockDatawith property permutation
+- Replaced method isEmptywith property isEmpty
+- Removed property canBeWaterlogged
 
 **BlockType**
 
--   Replaced method getNamewith property id
--   Replaced method canBeWaterloggedwith property canBeWaterlogged
+- Replaced method getNamewith property id
+- Replaced method canBeWaterloggedwith property canBeWaterlogged
 
 **BlockPermutation**
 
--   Replaced method getTypewith property type
+- Replaced method getTypewith property type

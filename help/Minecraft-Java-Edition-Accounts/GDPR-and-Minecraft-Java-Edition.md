@@ -13,7 +13,7 @@ tags:
   - platform_pc
   - platform_PC
   - section_12617963662861
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360029681632-GDPR-and-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/360029681632-GDPR-and-Minecraft-Java-Edition
 ---
 
 For information about Minecraft: Java Edition and GDPR (General Data Protection Regulation), visit our [FAQ](https://minecraft.net/en-us/privacy/gdpr/).

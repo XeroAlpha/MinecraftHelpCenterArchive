@@ -8,11 +8,11 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360007326172-Microsoft-Li
 
 1.  **SPONSOR**
 
-These Official Rules ("Rules") govern the operation of the Microsoft Livestream Game Code Sweepstakes ("Sweepstakes"). Microsoft Corporation, One Microsoft Way, Redmond, WA, 98052, USA, is the Sweepstakes sponsor ("Sponsor").
+These Official Rules (“Rules”) govern the operation of the Microsoft Livestream Game Code Sweepstakes (“Sweepstakes”). Microsoft Corporation, One Microsoft Way, Redmond, WA, 98052, USA, is the Sweepstakes sponsor (“Sponsor”).
 
 2.  **DEFINITIONS**
 
-In these Rules, \"Microsoft\", \"we\", \"our\", and \"us\" refer to Sponsor and "you" and \"yourself\" refers to a Sweepstakes participant, or the parent/legal guardian of any minor Sweepstakes entrant. By entering you (your parent/legal guardian if you are a minor) agree to be bound by these rules. 
+In these Rules, "Microsoft", "we", "our", and "us" refer to Sponsor and “you” and "yourself" refers to a Sweepstakes participant, or the parent/legal guardian of any minor Sweepstakes entrant. By entering you (your parent/legal guardian if you are a minor) agree to be bound by these rules. 
 
 3.  **ENTRY PERIOD**
 
@@ -42,7 +42,7 @@ Winners will be selected instantly and notified within the chat with prize claim
 
 The quantity of prizes awarded will vary per livestream and prizes will include various game codes for Minecraft, Xbox One, and others. Each code will have an Approximate Retail Value (ARV) of \$20.
 
-We will only award one (1) prize per person/company during the Entry Period. No more than the stated number of prizes will be awarded.  No substitution, transfer, or assignment of prize permitted, except that Microsoft reserves the right to substitute a prize of equal or greater value in the event the offered prize is unavailable. Prizes will be sent no later than 28 days after winner selection. Prize winners may be required to complete and return prize claim and / or tax forms ("Forms") within the deadline stated in the winner notification. Taxes on the prize, if any, are the sole responsibility of the winner, who is advised to seek independent counsel regarding the tax implications of accepting a prize. By accepting a prize, you agree that Microsoft may use your entry, name, image and hometown online and in print, or in any other media, in connection with this Sweepstakes without payment or compensation to you, except where prohibited by law.
+We will only award one (1) prize per person/company during the Entry Period. No more than the stated number of prizes will be awarded.  No substitution, transfer, or assignment of prize permitted, except that Microsoft reserves the right to substitute a prize of equal or greater value in the event the offered prize is unavailable. Prizes will be sent no later than 28 days after winner selection. Prize winners may be required to complete and return prize claim and / or tax forms (“Forms”) within the deadline stated in the winner notification. Taxes on the prize, if any, are the sole responsibility of the winner, who is advised to seek independent counsel regarding the tax implications of accepting a prize. By accepting a prize, you agree that Microsoft may use your entry, name, image and hometown online and in print, or in any other media, in connection with this Sweepstakes without payment or compensation to you, except where prohibited by law.
 
 8.  **ODDS**
 
@@ -58,7 +58,7 @@ We reserve the right to cancel, change or suspend this Sweepstakes for any reaso
 
 10. **USE OF YOUR ENTRY**
 
-Personal data you provide while entering this Sweepstakes will be used by Microsoft and/or its agents and prize fulfillers acting on Microsoft's behalf only for the administration and operation of this Sweepstakes and in accordance with the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839).
+Personal data you provide while entering this Sweepstakes will be used by Microsoft and/or its agents and prize fulfillers acting on Microsoft’s behalf only for the administration and operation of this Sweepstakes and in accordance with the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839).
 
 11. **GOVERNING LAW**
 
@@ -66,4 +66,4 @@ This Sweepstakes will be governed by the laws of the State of Washington, and yo
 
 12. **WINNERS LIST**
 
-Send email to mcwin10livestream@outlook.com with the subject line "Livestream Game Code winners" within 30 days of October 31, 2018 to receive a list of winners.
+Send email to mcwin10livestream@outlook.com with the subject line “Livestream Game Code winners” within 30 days of October 31, 2018 to receive a list of winners.

@@ -8,9 +8,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360036461291-Minecraft-1-
 
 **Posted: **November 20, 2019
 
-**NOTE:** This hotfix is only for iOS devices and is multiplayer compatible with other versions of 1.13.\
-\
+**NOTE:** This hotfix is only for iOS devices and is multiplayer compatible with other versions of 1.13.  
+  
 
 **Fixes:**
 
--   Fixed the cause of several crashes that occurred on iOS
+- Fixed the cause of several crashes that occurred on iOS

@@ -13,10 +13,10 @@ tags:
   - platform_pc
   - platform_PC
   - section_12618019146893
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360053272471-Sideloading-Worlds-into-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/360053272471-Sideloading-Worlds-into-Minecraft-Java-Edition
 ---
 
-If you\'re looking to add or sideload a world into your version of Minecraft: Java Edition, this guide is for you. Sideloading or uploading a world into Minecraft: Java Edition is easy, but there are a few steps to it. Worlds often contain a world folder and a Resource Pack. 
+If you're looking to add or sideload a world into your version of Minecraft: Java Edition, this guide is for you. Sideloading or uploading a world into Minecraft: Java Edition is easy, but there are a few steps to it. Worlds often contain a world folder and a Resource Pack. 
 
 ## Installing the World 
 
@@ -24,7 +24,7 @@ If you\'re looking to add or sideload a world into your version of Minecraft: Ja
 2.  Unzip the files. 
 3.  Move the folder containing the world you just unzipped into your Minecraft **saves** folder**.** 
 
-If you don\'t know where your saves folder is located, you can check that out at [Where Are Minecraft Files Stored?](https://help.minecraft.net/hc/en-us/articles/4409159214605) 
+If you don't know where your saves folder is located, you can check that out at [Where Are Minecraft Files Stored?](https://help.minecraft.net/hc/en-us/articles/4409159214605) 
 
 ## Installing the Resource Pack 
 

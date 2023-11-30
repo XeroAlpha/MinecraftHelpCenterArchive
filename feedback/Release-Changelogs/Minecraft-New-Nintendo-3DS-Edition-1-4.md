@@ -10,7 +10,7 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004167351-Minecraft-New-Nintendo-3DS-Edition-1-4
 ---
 
-If you find any bugs, be sure to report them here!\
+If you find any bugs, be sure to report them here!  
 Click here to give us feedback & tell us what you think about the update.
 
  
@@ -23,7 +23,7 @@ Click here to give us feedback & tell us what you think about the update.
 
 </div>
 
--   Added support for 2 player multiplayer using Local Play
+- Added support for 2 player multiplayer using Local Play
 
 **Bug Fixes**
 
@@ -33,5 +33,5 @@ Click here to give us feedback & tell us what you think about the update.
 
 </div>
 
--   Improved stability and performance
--   Numerous bug fixes from previous builds
+- Improved stability and performance
+- Numerous bug fixes from previous builds

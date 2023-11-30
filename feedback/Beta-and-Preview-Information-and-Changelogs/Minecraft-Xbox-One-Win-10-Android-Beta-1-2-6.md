@@ -14,7 +14,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165391-Minecraft-Xb
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-\
+  
 **Tweaks:**
 
--   Updated look for Horses, Mules, and Donkeys
+- Updated look for Horses, Mules, and Donkeys

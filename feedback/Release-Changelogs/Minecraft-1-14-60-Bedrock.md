@@ -12,28 +12,25 @@ Our developers have been hard at work to bring you another hotfix. Some of these
 
 **Fixes:**
 
--   **Crashes / Performance**
-    -   Fixed an issue that could cause Minecraft not to launch past the loading screen after updating ([MCPE-58897](https://bugs.mojang.com/browse/MCPE-58897))
-    -   Fixed a crash that could occur when exiting a world
-    -   Fixed a crash that could occur when a split-screen player left the game
-    -   Fixed a crash that could occur during gameplay on Nintendo Switch
+- **Crashes / Performance**
+  - Fixed an issue that could cause Minecraft not to launch past the loading screen after updating ([MCPE-58897](https://bugs.mojang.com/browse/MCPE-58897))
+  - Fixed a crash that could occur when exiting a world
+  - Fixed a crash that could occur when a split-screen player left the game
+  - Fixed a crash that could occur during gameplay on Nintendo Switch
 
-```{=html}
 <!-- -->
-```
--   **General**
-    -   Fixed an issue that showed a false prompt that a device was out of storage space ([MCPE-32501](https://bugs.mojang.com/browse/MCPE-32501))
-    -   Fixed an issue with the Marketplace not loading when not signed into a Microsoft account
-    -   Fixed issues with content not transferring to a Microsoft account if the content was purchased without being signed in
 
-```{=html}
-<!-- -->
-```
--   **Gameplay**
-    -   Fixed some special characters not appearing on Signs or Book & Quill
+- **General**
+  - Fixed an issue that showed a false prompt that a device was out of storage space ([MCPE-32501](https://bugs.mojang.com/browse/MCPE-32501))
+  - Fixed an issue with the Marketplace not loading when not signed into a Microsoft account
+  - Fixed issues with content not transferring to a Microsoft account if the content was purchased without being signed in
 
-```{=html}
 <!-- -->
-```
--   **Add-Ons**
-    -   Animation Controllers in Behavior Packs can now run commands on Realms ([MCPE-59881](https://bugs.mojang.com/browse/MCPE-59881))
+
+- **Gameplay**
+  - Fixed some special characters not appearing on Signs or Book & Quill
+
+<!-- -->
+
+- **Add-Ons**
+  - Animation Controllers in Behavior Packs can now run commands on Realms ([MCPE-59881](https://bugs.mojang.com/browse/MCPE-59881))

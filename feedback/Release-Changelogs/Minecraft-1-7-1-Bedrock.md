@@ -12,7 +12,7 @@ This hotfix is available only on Xbox One and Windows 10, as the fixes only appl
 
 **Fixes:**
 
--   Fixed several crashes that occurred during gameplay
--   Fixed a crash that occurred when attempting to launch Code Connection with Minecraft for Windows 10
+- Fixed several crashes that occurred during gameplay
+- Fixed a crash that occurred when attempting to launch Code Connection with Minecraft for Windows 10
 
 If you missed a previous update, check out [aka.ms/MCChangelogs](https://aka.ms/MCChangelogs) for a full list of updates.

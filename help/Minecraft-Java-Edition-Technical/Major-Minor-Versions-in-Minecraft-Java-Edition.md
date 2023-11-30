@@ -12,18 +12,18 @@ tags:
   - platform_linux
   - platform_macos
   - section_12618019146893
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/9971900758413-Major-Minor-Versions-in-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/9971900758413-Major-Minor-Versions-in-Minecraft-Java-Edition
 ---
 
 Going forward from 1.19.3, Minecraft: Java Edition will start to release multiple minor versions per year, including content and improvements that we think are ready to ship. This method is easier and faster than waiting for a major version to be ready to go out the door. Major versions will still be released yearly, containing fixes, improvements, and technical changes.
 
 ## What is a major version?
 
-A major version is a version that introduces a larger amount of new gameplay features and is usually "packaged" in a nice format. These are indicated by the change of the second octet. In other words, from 1.18 to 1.19. These usually also have names attached to them, such as Caves & Cliffs or Nether Update.
+A major version is a version that introduces a larger amount of new gameplay features and is usually “packaged” in a nice format. These are indicated by the change of the second octet. In other words, from 1.18 to 1.19. These usually also have names attached to them, such as Caves & Cliffs or Nether Update.
 
 ## What is a minor version?
 
-A minor version is what we tend to refer to as a dot-release. In other words, the current 1.19.2 version is a minor version because it's "dot-two." These minor versions are smaller than major versions and don't introduce as much content. Previously, these minor releases were mostly issued to fix critical bugs, but now they will be a regularly occurring thing to add small improvements to the game.
+A minor version is what we tend to refer to as a dot-release. In other words, the current 1.19.2 version is a minor version because it’s “dot-two.” These minor versions are smaller than major versions and don’t introduce as much content. Previously, these minor releases were mostly issued to fix critical bugs, but now they will be a regularly occurring thing to add small improvements to the game.
 
 ## How will this affect me?
 

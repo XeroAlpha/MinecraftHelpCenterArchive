@@ -15,14 +15,14 @@ tags:
   - subject_sign_in_questions
   - platform_kindle_fire
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4415922646541--Minecraft-no-longer-available-for-non-Amazon-devices-in-the-Amazon-store
+link: https://help.minecraft.net/hc/en-us/articles/4415922646541--Minecraft-no-longer-available-for-non-Amazon-devices-in-the-Amazon-store
 ---
 
 Effective immediately, the Minecraft app in the Amazon store will no longer be available for non-Amazon devices.  
 
 If you own an Amazon device such as a phone or tablet, you can still download the Minecraft app onto your device. If you own a non-Amazon Android, please download Minecraft through the [Google Play Store](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe).
 
--   If you purchased Minecraft and have signed in with your Microsoft account, you'll still have full access to any in-app purchases for non-specific platform content,\
-    regardless of whether you download Minecraft again from a different app store.
+- If you purchased Minecraft and have signed in with your Microsoft account, you’ll still have full access to any in-app purchases for non-specific platform content,  
+  regardless of whether you download Minecraft again from a different app store.
 
 Thank you for your cooperation, and please enjoy Minecraft on your non-Amazon devices via the Google Play Store moving forward!

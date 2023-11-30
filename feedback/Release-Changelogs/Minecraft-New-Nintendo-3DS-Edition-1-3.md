@@ -10,7 +10,7 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004126632-Minecraft-New-Nintendo-3DS-Edition-1-3
 ---
 
-If you find any bugs, be sure to report them here!\
+If you find any bugs, be sure to report them here!  
 Click here to give us feedback & tell us what you think about the update.
 
  
@@ -23,18 +23,18 @@ Click here to give us feedback & tell us what you think about the update.
 
 </div>
 
--   Ocean monuments
--   Prismarine
--   Wet Sponge
--   Sea Lanterns
--   Beacons
--   Prismarine Shards & Crystals
--   Nether Star
--   Arrow, Potion, Splash Potion of Decay
--   The Wither
--   Guardian
--   Elder Guardian
--   Additional achievements added
+- Ocean monuments
+- Prismarine
+- Wet Sponge
+- Sea Lanterns
+- Beacons
+- Prismarine Shards & Crystals
+- Nether Star
+- Arrow, Potion, Splash Potion of Decay
+- The Wither
+- Guardian
+- Elder Guardian
+- Additional achievements added
 
 **Bug Fixes**
 
@@ -44,7 +44,7 @@ Click here to give us feedback & tell us what you think about the update.
 
 </div>
 
--   Improved stability and performance
--   Improved visibility in caves
--   Improved view distance in the Nether
--   Numerous bug fixes from previous builds
+- Improved stability and performance
+- Improved visibility in caves
+- Improved view distance in the Nether
+- Numerous bug fixes from previous builds

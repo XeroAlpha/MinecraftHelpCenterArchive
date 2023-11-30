@@ -26,6 +26,6 @@ Feedback Site Changes since 25 May 2018:
 
 Fixes
 
-\* The copyright year was serving us some 2016 vibes, but we\'ve updated that to 2018.
+\* The copyright year was serving us some 2016 vibes, but we've updated that to 2018.
 
 \* The Terms of Service has been brought back to life, and at least the link is updated. You can find them here: <https://feedback.minecraft.net/hc/en-us/articles/360004305512>

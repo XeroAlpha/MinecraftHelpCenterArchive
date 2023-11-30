@@ -12,7 +12,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360027611172-Minecraft-1-
 
 **Fixes:**
 
--   Fixed the Village & Pillage menu panorama not appearing
--   Fixed the \"Something went wrong\" error that occurred when attempting to purchase content or Realms
+- Fixed the Village & Pillage menu panorama not appearing
+- Fixed the "Something went wrong" error that occurred when attempting to purchase content or Realms
 
   If you missed a previous update, check out [aka.ms/MCChangelogs](https://aka.ms/MCChangelogs) for a full list of updates.

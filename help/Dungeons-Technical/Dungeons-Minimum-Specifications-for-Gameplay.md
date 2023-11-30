@@ -9,7 +9,7 @@ tags:
   - title_minecraft_dungeons
   - platform_windows_10
   - section_12618340057613
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360038937032-Dungeons-Minimum-Specifications-for-Gameplay
+link: https://help.minecraft.net/hc/en-us/articles/360038937032-Dungeons-Minimum-Specifications-for-Gameplay
 ---
 
 **Windows PC Requirements** 

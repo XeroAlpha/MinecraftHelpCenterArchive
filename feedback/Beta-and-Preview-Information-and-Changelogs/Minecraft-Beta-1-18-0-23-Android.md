@@ -12,4 +12,4 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4411874922509-Minecraft-B
 
 Fixed worlds saved on external storage so they should once again appear on the world list
 
-If you have been encountering issues with this, we'd like to hear from you about this fix on the Minecraft bug tracker ([MCPE-144801](https://bugs.mojang.com/browse/MCPE-144801)).
+If you have been encountering issues with this, we’d like to hear from you about this fix on the Minecraft bug tracker ([MCPE-144801](https://bugs.mojang.com/browse/MCPE-144801)).

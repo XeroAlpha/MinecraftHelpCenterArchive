@@ -19,10 +19,10 @@ tags:
   - section_12618019146893
   - new
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/19633473939981-I-Missed-my-Chance-to-Migrate-What-Happens-to-my-Account-
+link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-my-Chance-to-Migrate-What-Happens-to-my-Account-
 ---
 
-If you've missed your chance to migrate, you might have a few questions regarding what happens to your Minecraft: Java Edition account. Please read on for more information.
+If you’ve missed your chance to migrate, you might have a few questions regarding what happens to your Minecraft: Java Edition account. Please read on for more information.
 
 ## What happens to my Java Edition account?
 
@@ -34,7 +34,7 @@ Your single-player Java worlds are stored on your hard drive, but you will not b
 
 Once you go through the post-migration process, your worlds should be accessible with your new version of the game. However, any pets will not respond to your character, and you will have to re-tame them.
 
-Because you have a new Microsoft account, multiplayer worlds are a different story. You will be joining these worlds as a new player, spawning in at the world's default spawn point with no items. However, if you have a base with items in it, you can head there to regain your items and resume play.
+Because you have a new Microsoft account, multiplayer worlds are a different story. You will be joining these worlds as a new player, spawning in at the world’s default spawn point with no items. However, if you have a base with items in it, you can head there to regain your items and resume play.
 
 **Note: New accounts will need to be re-added to any server allowlists.**
 

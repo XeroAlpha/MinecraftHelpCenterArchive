@@ -5,12 +5,12 @@ updated: 2023-07-19T19:05:45Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360058742632-Minecraft-What-are-Command-Blocks-
+link: https://help.minecraft.net/hc/en-us/articles/360058742632-Minecraft-What-are-Command-Blocks-
 ---
 
 Command blocks are mechanical blocks that when powered by redstone will run a command of your choice. To access the command blocks you must be an operator on the server/realm and in creative mode. It cannot be found in your creative inventory. You will need to spawn it in from by typing /give \<your username\> command_block. Due to its ability to affect all aspects of the game, command blocks are not accessible in survival mode. 
 
-![blobid0.jpg](https://minecrafthelp.zendesk.com/hc/article_attachments/360091000152){width="134" height="134"}
+![blobid0.jpg](https://minecrafthelp.zendesk.com/hc/article_attachments/360091000152)
 
 ## Activation of Command Blocks 
 

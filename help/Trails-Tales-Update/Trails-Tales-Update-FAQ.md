@@ -25,14 +25,14 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16474157680525-Trails-Tales-Update-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/16474157680525-Trails-Tales-Update-FAQ
 ---
 
 The Trails & Tales Update is bringing all sorts of exciting updates to Minecraft: Bedrock Edition and Minecraft: Java Edition. This article details the most notable changes coming to both versions of the game.
 
 ## Archaeology
 
-Get ready to dig even deeper into the world of Minecraft! Archaeology brings with it new blocks to discover, as well as a new tool, the brush, that allows you to extract what's hiding within. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16474366786189).
+Get ready to dig even deeper into the world of Minecraft! Archaeology brings with it new blocks to discover, as well as a new tool, the brush, that allows you to extract what’s hiding within. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16474366786189).
 
 ## Armor Trimming
 
@@ -56,7 +56,7 @@ The Trails & Tales Update comes with a brand new type of bookshelf, the chisele
 
 ## Hanging Signs
 
-An all new way to express your thoughts -- hanging signs change the way your words work in the world of Minecraft. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476251350413).
+An all new way to express your thoughts – hanging signs change the way your words work in the world of Minecraft. [Click here for more details](https://help.minecraft.net/hc/en-us/articles/16476251350413).
 
 ## New Plants
 

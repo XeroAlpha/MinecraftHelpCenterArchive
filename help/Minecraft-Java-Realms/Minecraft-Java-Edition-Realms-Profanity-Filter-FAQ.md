@@ -17,18 +17,18 @@ tags:
   - section_12618903286157
   - section_15463793799181
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/6160517019149-Minecraft-Java-Edition-Realms-Profanity-Filter-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/6160517019149-Minecraft-Java-Edition-Realms-Profanity-Filter-FAQ
 ---
 
-If you're playing on a Minecraft: Java Edition Realm and are looking to protect you or your child from harsh language, Minecraft: Java Edition now includes a profanity filter. Please note that managing these features through Minecraft.net is only available for Minecraft: Java Edition accounts.
+If you’re playing on a Minecraft: Java Edition Realm and are looking to protect you or your child from harsh language, Minecraft: Java Edition now includes a profanity filter. Please note that managing these features through Minecraft.net is only available for Minecraft: Java Edition accounts.
 
 Online safety features for Minecraft: Bedrock Edition (consoles, mobile, PC) are managed through your Microsoft account/Xbox Live settings.
 
 ## To toggle the Minecraft: Java Edition Realm profanity filter, follow the steps below: 
 
 1.  Log in with your Microsoft Account (MSA) on Minecraft.net.  
-2.  Navigate to the 'My Account' tab on the side bar. 
-3.  Under the 'Personal Info, Password, and More' tab, you'll find the 'Java Realms Profanity Filter' tab with its relevant toggle.
+2.  Navigate to the ‘My Account’ tab on the side bar. 
+3.  Under the ‘Personal Info, Password, and More’ tab, you’ll find the ‘Java Realms Profanity Filter’ tab with its relevant toggle.
 4.  The toggle is on by default, but you can click it to switch between on and off as you wish. 
 
 ![mceclip2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/6196711055373/mceclip2.png)
@@ -39,7 +39,7 @@ Online safety features for Minecraft: Bedrock Edition (consoles, mobile, PC) are
 
 ### What does the Profanity Filter do? 
 
-When toggled to 'On,' the Minecraft: Java Edition profanity filter will block bad language in chat, on signs, and in books. 
+When toggled to ‘On,’ the Minecraft: Java Edition profanity filter will block bad language in chat, on signs, and in books. 
 
 ### Can a child MSA account turn off the profanity filter? 
 
@@ -51,6 +51,6 @@ A child MSA account cannot turn off the profanity filter. If a child MSA account
 
 An adult MSA cannot turn off the profanity filter for a child MSA. 
 
-### I'm logged in with an adult MSA account, but the profanity filter is greyed out 
+### I’m logged in with an adult MSA account, but the profanity filter is greyed out 
 
-If the Java Edition profanity filter is greyed out, but you're logged into an adult MSA, it's likely that your Minecraft: Java Edition entitlement isn't detected. You might not own Minecraft: Java Edition for this MSA. If you do own Minecraft: Java Edition on your adult MSA, but the toggle is still greyed out, contact [Minecraft Support](https://help.minecraft.net/hc/en-us/requests/new?msclkid=877b56abd13b11ecafb9140f8b9d94b6).
+If the Java Edition profanity filter is greyed out, but you’re logged into an adult MSA, it’s likely that your Minecraft: Java Edition entitlement isn’t detected. You might not own Minecraft: Java Edition for this MSA. If you do own Minecraft: Java Edition on your adult MSA, but the toggle is still greyed out, contact [Minecraft Support](https://help.minecraft.net/hc/en-us/requests/new?msclkid=877b56abd13b11ecafb9140f8b9d94b6).

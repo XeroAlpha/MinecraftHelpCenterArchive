@@ -25,14 +25,14 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16476251350413-Trails-Tales-Update-Hanging-Signs
+link: https://help.minecraft.net/hc/en-us/articles/16476251350413-Trails-Tales-Update-Hanging-Signs
 ---
 
-An all new way to express your thoughts -- hanging signs change the way your words work in the world of Minecraft.
+An all new way to express your thoughts – hanging signs change the way your words work in the world of Minecraft.
 
 ## What are Hanging Signs?
 
-Hanging signs are exactly what they sound like -- signs that hang! Now, you can place signs under or to the side of a block or a fence. Yup. That means you can hang a sign from your ceiling or simply place one on the side of your base. In fact, you can even attach hanging signs to other hanging signs, creating a whole chain of signs! That's a lot of words.
+Hanging signs are exactly what they sound like – signs that hang! Now, you can place signs under or to the side of a block or a fence. Yup. That means you can hang a sign from your ceiling or simply place one on the side of your base. In fact, you can even attach hanging signs to other hanging signs, creating a whole chain of signs! That’s a lot of words.
 
 ## How Do I Use Hanging Signs?
 
@@ -44,20 +44,20 @@ Hanging signs can be crafted with 6 stripped logs (all the same type) and 2 chai
 
 You can make a hanging sign from all wood types available in the game:​
 
--   Oak wood​
--   Spruce wood​
--   Birch wood​
--   Jungle wood​
--   Acacia wood​
--   Dark oak wood​
--   Mangrove wood​
--   Cherry wood​
--   Crimson hyphae​
--   Warped hyphae​
--   Bamboo wood
+- Oak wood​
+- Spruce wood​
+- Birch wood​
+- Jungle wood​
+- Acacia wood​
+- Dark oak wood​
+- Mangrove wood​
+- Cherry wood​
+- Crimson hyphae​
+- Warped hyphae​
+- Bamboo wood
 
 ## What Other Changes Are Coming to Signs?
 
 Aside from the ability to hang them, signs can now be edited, have text on both sides, and even be waxed to make them un-editable!
 
-There's much more to discover with hanging signs and Minecraft's new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!
+There’s much more to discover with hanging signs and Minecraft’s new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!

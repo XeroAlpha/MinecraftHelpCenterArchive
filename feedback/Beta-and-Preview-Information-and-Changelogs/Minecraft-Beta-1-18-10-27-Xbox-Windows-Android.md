@@ -10,83 +10,83 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4420146557325-Minecraft-B
 
 **PLEASE READ before participating in the Minecraft Beta:**
 
--   Joining the beta will replace your game with a work-in-progress version of Minecraft
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game, so please make copies of worlds to prevent losing them
--   Beta builds can be unstable and are not representative of final version quality
--   The beta is available only on Xbox, Windows, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Joining the beta will replace your game with a work-in-progress version of Minecraft
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game, so please make copies of worlds to prevent losing them
+- Beta builds can be unstable and are not representative of final version quality
+- The beta is available only on Xbox, Windows, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-![Picture1.jpg](https://feedback.minecraft.net/hc/article_attachments/4420159360013/Picture1.jpg){width="574" height="323"}
+![Picture1.jpg](https://feedback.minecraft.net/hc/article_attachments/4420159360013/Picture1.jpg)
 
-Here\'s a list of what is new in this week\'s Beta! Please leave us any specific feedback or suggestions in the thread at [aka.ms/MCFrogFeedback](https://aka.ms/MCFrogFeedback), and as always please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/)\
-\
+Here's a list of what is new in this week's Beta! Please leave us any specific feedback or suggestions in the thread at [aka.ms/MCFrogFeedback](https://aka.ms/MCFrogFeedback), and as always please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/)  
+  
 
 **Experimental Features**
 
 **Frogs**
 
--   Frogs no longer eat Goats! ([MCPE-151536](https://bugs.mojang.com/browse/MCPE-151536))\
-    \
+- Frogs no longer eat Goats! ([MCPE-151536](https://bugs.mojang.com/browse/MCPE-151536))  
+    
 
 **Features and Bug Fixes**
 
 **Blocks**
 
--   Cocoa Pods placed on chunk borders don\'t break anymore upon reloading the World ([MCPE-67479](https://bugs.mojang.com/browse/MCPE-67479))
--   Structure Block structures now correctly transform (rotate and/or mirror) multiface blocks (e.g. Glow Lichen)
+- Cocoa Pods placed on chunk borders don't break anymore upon reloading the World ([MCPE-67479](https://bugs.mojang.com/browse/MCPE-67479))
+- Structure Block structures now correctly transform (rotate and/or mirror) multiface blocks (e.g. Glow Lichen)
 
 **Gameplay**
 
--   Fixed Observer block retaining its lit state while in the inventory if destroyed while blinking ([MCPE-114173](https://bugs.mojang.com/browse/MCPE-114173))
--   Fixed a bug where Paintings could overlap with Glow Item Frames, Signs, Banners, and Torches
--   Pillager Outposts now spawn the correct number of Pillagers and Golems ([MCPE-141499](https://bugs.mojang.com/browse/MCPE-141499))
+- Fixed Observer block retaining its lit state while in the inventory if destroyed while blinking ([MCPE-114173](https://bugs.mojang.com/browse/MCPE-114173))
+- Fixed a bug where Paintings could overlap with Glow Item Frames, Signs, Banners, and Torches
+- Pillager Outposts now spawn the correct number of Pillagers and Golems ([MCPE-141499](https://bugs.mojang.com/browse/MCPE-141499))
 
 **Graphical**
 
--   Boats will no longer disappear when getting out of them after a long ride ([MCPE-108568](https://bugs.mojang.com/browse/MCPE-108568), [MCPE-125388](https://bugs.mojang.com/browse/MCPE-125388))
--   Boat oars now have the same color as the Boat ([MCPE-150492](https://bugs.mojang.com/browse/MCPE-150492))
+- Boats will no longer disappear when getting out of them after a long ride ([MCPE-108568](https://bugs.mojang.com/browse/MCPE-108568), [MCPE-125388](https://bugs.mojang.com/browse/MCPE-125388))
+- Boat oars now have the same color as the Boat ([MCPE-150492](https://bugs.mojang.com/browse/MCPE-150492))
 
 **Mobs**
 
--   Untamed Cats can now be leashed
--   Guardians and Elder Guardians no longer sink while targeting an enemy or the player
+- Untamed Cats can now be leashed
+- Guardians and Elder Guardians no longer sink while targeting an enemy or the player
 
 **User Interface**
 
--   The Construction tab on the inventory screen now has the correct color when using Pocket UI
--   Fixed an issue with missing Inventory slots when using Pocket UI ([MCPE-151545](https://bugs.mojang.com/browse/MCPE-151545))
--   Fixed an issue with blank inventory slots in the creative inventory, which could cause interaction issues in the world ([MCPE-151506](https://bugs.mojang.com/browse/MCPE-151506))
+- The Construction tab on the inventory screen now has the correct color when using Pocket UI
+- Fixed an issue with missing Inventory slots when using Pocket UI ([MCPE-151545](https://bugs.mojang.com/browse/MCPE-151545))
+- Fixed an issue with blank inventory slots in the creative inventory, which could cause interaction issues in the world ([MCPE-151506](https://bugs.mojang.com/browse/MCPE-151506))
 
 **World Generation**
 
--   Chests and Monster Spawners now spawn correctly in structures ([MCPE-23416](https://bugs.mojang.com/browse/MCPE-23416)) ([MCPE-48622](https://bugs.mojang.com/browse/MCPE-48622)) ([MCPE-97295](https://bugs.mojang.com/browse/MCPE-97295))\
-    \
+- Chests and Monster Spawners now spawn correctly in structures ([MCPE-23416](https://bugs.mojang.com/browse/MCPE-23416)) ([MCPE-48622](https://bugs.mojang.com/browse/MCPE-48622)) ([MCPE-97295](https://bugs.mojang.com/browse/MCPE-97295))  
+    
 
 **Technical Updates**
 
 **Stability and Performance**
 
--   Reduced memory and load times for ticking areas
+- Reduced memory and load times for ticking areas
 
 **GameTest Framework (Experimental)**
 
--   Added function setVelocity(velocity: Vector): bool- Sets the velocity of this entity
--   Added property viewVector: Vector- Represents the direction that the entity is looking, as a vector
--   Added property headLocation: Location- Represents the location of the head of the entity
--   Added property bodyRotation: number- Represents the body rotation of the entity as a float (in degrees)
+- Added function setVelocity(velocity: Vector): bool- Sets the velocity of this entity
+- Added property viewVector: Vector- Represents the direction that the entity is looking, as a vector
+- Added property headLocation: Location- Represents the location of the head of the entity
+- Added property bodyRotation: number- Represents the body rotation of the entity as a float (in degrees)
 
 **Animation**
 
--   Fixed a bug where animation events, sound effect events, and particle events would not trigger if the event time specified was equal to the total \"animation_length\"
--   Fixed an issue where event times were not considered within the animation length calculation that happens when \"animation_length\" is not explicitly specified
+- Fixed a bug where animation events, sound effect events, and particle events would not trigger if the event time specified was equal to the total "animation_length"
+- Fixed an issue where event times were not considered within the animation length calculation that happens when "animation_length" is not explicitly specified
 
 **General**
 
--   Fixed an issue that caused format_versions that are declared as numerical values rather than strings to be parsed properly
--   When creating a flat world from a template that has a base game version from before the Caves and Cliffs update, the layers will no longer be 64 blocks in the air
+- Fixed an issue that caused format_versions that are declared as numerical values rather than strings to be parsed properly
+- When creating a flat world from a template that has a base game version from before the Caves and Cliffs update, the layers will no longer be 64 blocks in the air
 
 **Molang**
 
--   Added alland query.any to check if a value matches all or any of the following values
--   Added in_rangeto check if a value is in the (inclusive) range between a min and max value
--   Added query.in_range to check if a value is in the (inclusive) range between a min and max value
+- Added alland query.any to check if a value matches all or any of the following values
+- Added in_rangeto check if a value is in the (inclusive) range between a min and max value
+- Added query.in_range to check if a value is in the (inclusive) range between a min and max value

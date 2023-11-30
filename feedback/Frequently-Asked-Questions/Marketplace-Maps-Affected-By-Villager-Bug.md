@@ -14,17 +14,17 @@ Currently some Marketplace maps are affected by a bug on Bedrock 1.11. This bug 
 
 This list is not complete. Please check back often as we update this list.
 
--   Papercraft Adventure by Jigarbov Productions
--   Monster Battle Arena by Jigarbov Productions
--   Tutorial Lab: Mobs by House of How
--   Butterfly Kingdom by Imagiverse
--   City Stompers by Imagiverse
--   Shopping Time by Cyclone Designs
--   A Nightmare in Candyworld by Everbloom Studios
--   Mutant Battle Arena! by Jigarbov Productions
--   Juliette\'s Manor by Imagiverse
--   Crazy Town by Everbloom Studios
--   Cruise Ship Roleplay by Everbloom Studios
--   Archery Arenas by House of How
--   Paint or Die by House of How
--   Elf Patrol by Noxcrew
+- Papercraft Adventure by Jigarbov Productions
+- Monster Battle Arena by Jigarbov Productions
+- Tutorial Lab: Mobs by House of How
+- Butterfly Kingdom by Imagiverse
+- City Stompers by Imagiverse
+- Shopping Time by Cyclone Designs
+- A Nightmare in Candyworld by Everbloom Studios
+- Mutant Battle Arena! by Jigarbov Productions
+- Juliette's Manor by Imagiverse
+- Crazy Town by Everbloom Studios
+- Cruise Ship Roleplay by Everbloom Studios
+- Archery Arenas by House of How
+- Paint or Die by House of How
+- Elf Patrol by Noxcrew

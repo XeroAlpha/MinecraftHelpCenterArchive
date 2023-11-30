@@ -12,46 +12,41 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360037910991-Minecraft-1-
 
 **Fixes:**
 
--   **Crashes / Performance**
-    -   Fixed several crashes that could occur during gameplay
-    -   Fixed several crashes that could occur when converting a world from PlayStation 4 Edition ([MCPE-58594](https://bugs.mojang.com/browse/MCPE-58594))
-    -   Fixed a crash that could occur when signing into a Microsoft Account
-    -   Fixed a crash that could occur in the trial version when performing an action that would unlock a trophy
-    -   Having many Editions worlds no longer increases startup time
+- **Crashes / Performance**
+  - Fixed several crashes that could occur during gameplay
+  - Fixed several crashes that could occur when converting a world from PlayStation 4 Edition ([MCPE-58594](https://bugs.mojang.com/browse/MCPE-58594))
+  - Fixed a crash that could occur when signing into a Microsoft Account
+  - Fixed a crash that could occur in the trial version when performing an action that would unlock a trophy
+  - Having many Editions worlds no longer increases startup time
 
-```{=html}
 <!-- -->
-```
--   **General**
-    -   Fixed the error that would occur when pressing the \'Unlock Full Game\' button in the trial version
-    -   Fixed the \'Error Number 0\' account error that occurred on the main menu and Store
 
-```{=html}
-<!-- -->
-```
--   **Gameplay**
-    -   View bobbing once again behaves correctly when facing North and South ([MCPE-56214](https://bugs.mojang.com/browse/MCPE-56214))
-    -   Shulker Boxes with items are no longer missing from chests after converting a world from PlayStation 4 Edition ([MCPE-58465](https://bugs.mojang.com/browse/MCPE-58465))
-    -   Fixed world conversion enabling cheats on Survival worlds ([MCPE-58499](https://bugs.mojang.com/browse/MCPE-58499))
-    -   Fixed some trophies unlocking for all players during a multiplayer session
+- **General**
+  - Fixed the error that would occur when pressing the 'Unlock Full Game' button in the trial version
+  - Fixed the 'Error Number 0' account error that occurred on the main menu and Store
 
-```{=html}
 <!-- -->
-```
--   **Mobs**
-    -   Bees will now die after attacking ([MCPE-53860](https://bugs.mojang.com/browse/MCPE-53860))
 
-```{=html}
-<!-- -->
-```
--   **Graphical**
-    -   Fixed broken textures appearing after Resource Packs are deactivated
-    -   Fixed some Character Creator items appearing incorrectly
+- **Gameplay**
+  - View bobbing once again behaves correctly when facing North and South ([MCPE-56214](https://bugs.mojang.com/browse/MCPE-56214))
+  - Shulker Boxes with items are no longer missing from chests after converting a world from PlayStation 4 Edition ([MCPE-58465](https://bugs.mojang.com/browse/MCPE-58465))
+  - Fixed world conversion enabling cheats on Survival worlds ([MCPE-58499](https://bugs.mojang.com/browse/MCPE-58499))
+  - Fixed some trophies unlocking for all players during a multiplayer session
 
-```{=html}
 <!-- -->
-```
--   **User Interface**
-    -   Fixed an issue that caused some players not to be able to leave the Inventory screen on the Marketplace
-    -   Fixes to Character Creator screens when scrolling with the right thumbstick
-    -   Fixed placeholder text appearing on the Resource Packs and Behavior Packs screens
+
+- **Mobs**
+  - Bees will now die after attacking ([MCPE-53860](https://bugs.mojang.com/browse/MCPE-53860))
+
+<!-- -->
+
+- **Graphical**
+  - Fixed broken textures appearing after Resource Packs are deactivated
+  - Fixed some Character Creator items appearing incorrectly
+
+<!-- -->
+
+- **User Interface**
+  - Fixed an issue that caused some players not to be able to leave the Inventory screen on the Marketplace
+  - Fixes to Character Creator screens when scrolling with the right thumbstick
+  - Fixed placeholder text appearing on the Resource Packs and Behavior Packs screens

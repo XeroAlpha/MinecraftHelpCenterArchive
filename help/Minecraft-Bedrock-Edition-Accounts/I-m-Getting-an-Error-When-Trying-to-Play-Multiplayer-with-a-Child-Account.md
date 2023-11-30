@@ -22,57 +22,57 @@ tags:
   - platform_oculus
   - platform_pc
   - section_12617594906509
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account
+link: https://help.minecraft.net/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account
 ---
 
-If you\'re getting an error when trying to play multiplayer with a child account, this article should assist you no matter the version you\'re playing.
+If you're getting an error when trying to play multiplayer with a child account, this article should assist you no matter the version you're playing.
 
 # In This Article:
 
--   [For Bedrock and Dungeons ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account#h_01GB5XGT9HHQAGJS5FPMNJ555Q)
-    -   [How to enable Realms ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account#h_01GB5XGYSW4EWFJKVC0YCRBG9N)
--   [For Java Edition ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account#h_01GB5XH62MBGTWFXE2MJ207KE0)
-    -   [Features of Minecraft that are restricted without parental verification/consent ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account#h_01GB5XHBD37SQEGSZWCPNQKXZ0)
-    -   [Playing online with a child account ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account#h_01GB5XHHE3Y1H6F7JKVQJVJRE9)
-    -   [More Help ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account#h_01GB5XHP0J5DT95EQ8XF3QGQGQ)
+- [For Bedrock and Dungeons ](#for-minecraft-bedrock-edition-and-dungeons)
+  - [How to enable Realms ](#how-to-enable-realms)
+- [For Java Edition ](#for-minecraft-java-edition)
+  - [Features of Minecraft that are restricted without parental verification/consent ](#features-of-minecraft--java-edition-that-are-restricted-without-parental-verificationconsent)
+  - [Playing online with a child account ](#playingonlinewithachildaccount)
+  - [More Help ](#morehelp)
 
 ## For Minecraft: Bedrock Edition and Dungeons 
 
-Your friends at Minecraft Support have been seeing questions from players who are receiving COPPA or GDPR messaging when trying to access Realms. You might also see a vague message about privacy (we\'re working on this, we swear!). 
+Your friends at Minecraft Support have been seeing questions from players who are receiving COPPA or GDPR messaging when trying to access Realms. You might also see a vague message about privacy (we're working on this, we swear!). 
 
 Before you can give kids online and multiplayer access, you need to take a few steps. The account will need to have multiplayer, and online communication turned on in order to play AND an online multiplayer subscription to play online (if your platform requires a subscription). You should also make sure your account payment method is current. 
 
-If you haven't already done so, read about [setting up your Xbox Live or Microsoft Account](https://help.minecraft.net/hc/en-us/articles/4408968616077-How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account). 
+If you haven’t already done so, read about [setting up your Xbox Live or Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md). 
 
 **Note: You do not need Clubs access to play on Realms.** 
 
 ### How to Enable Realms 
 
 1.  Log in to [Xbox settings](https://account.xbox.com/settings) with the parent Microsoft account. 
-2.  Select the child account\'s profile. 
+2.  Select the child account's profile. 
 3.  Select **Xbox One/Windows 10 Online** and choose **Allow** for **Join multiplayer games**(first picture below). 
-4.  To enable chat for people not on the person\'s friends list, they will need to go to their privacy settings and enable **Others can communicate** (second picture below). 
+4.  To enable chat for people not on the person's friends list, they will need to go to their privacy settings and enable **Others can communicate** (second picture below). 
 
-![Set](https://minecrafthelp.zendesk.com/hc/article_attachments/16722130953357){width="343" height="394"}
+![Set](https://minecrafthelp.zendesk.com/hc/article_attachments/16722130953357)
 
-![Privacy](https://minecrafthelp.zendesk.com/hc/article_attachments/16722130963213){width="381" height="498"}
+![Privacy](https://minecrafthelp.zendesk.com/hc/article_attachments/16722130963213)
 
 If you still need help, please reach out to [Xbox support](https://beta.support.xbox.com/). 
 
-**Note: If your child is trying to participate in a Realm\'s Feed, please make sure that their account permissions have \'You can create and join clubs\' set to \'Allow.\'**
+**Note: If your child is trying to participate in a Realm's Feed, please make sure that their account permissions have 'You can create and join clubs' set to 'Allow.'**
 
 ## For Minecraft: Java Edition 
 
 When you create an account for a child using Minecraft: Java Edition, you need to follow a few necessary steps. The minimum age for a standard account is thirteen. Children under that age need parental consent to access specific features, as required by law.
 
-To give parental consent to access these features, including Minecraft Realms, you must enter payment information, which must be validated with a 10-cent charge. Currently, this is the only method to limit permissions for a child's account on Minecraft: Java Edition. 
+To give parental consent to access these features, including Minecraft Realms, you must enter payment information, which must be validated with a 10-cent charge. Currently, this is the only method to limit permissions for a child’s account on Minecraft: Java Edition. 
 
 ### Features of Minecraft : Java Edition that are restricted without parental verification/consent 
 
--   Minecraft Realms 
--   Chatting scrolls 
--   Making purchases 
--   Changing settings on the Minecraft/Mojang account site 
+- Minecraft Realms 
+- Chatting scrolls 
+- Making purchases 
+- Changing settings on the Minecraft/Mojang account site 
 
 ### Playing online with a child account 
 

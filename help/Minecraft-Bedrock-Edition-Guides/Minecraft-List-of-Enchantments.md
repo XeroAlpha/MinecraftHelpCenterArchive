@@ -21,7 +21,7 @@ tags:
   - platform_other
   - platform_pc
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360058730912-Minecraft-List-of-Enchantments
+link: https://help.minecraft.net/hc/en-us/articles/360058730912-Minecraft-List-of-Enchantments
 ---
 
 Enchanting your tools can give your gear a huge boost or new abilities! Enchantments can be broken down into a few major groups based on what you are enchanting. Some are only available for armor while some are restricted to tools. Here we will break down what each enchantment can be applied to and a description of the effects. 
@@ -81,5 +81,5 @@ These enchantments can be applied to any armor/tool/weapon. 
 1.  **Efficiency **- Increases mining speed. (Max enchantment level: 5) 
 2.  **Fortune **- Increases certain item drop chances from blocks. (Max enchantment level: 3) 
 3.  **Luck of the Sea** - Increases rate of fishing rare loot (enchanting books, etc.) (Max enchantment level: 3) 
-4.  **Lure** - Decreases wait time until fish/junk/loot "bites" (Max enchantment level: 3) 
+4.  **Lure** - Decreases wait time until fish/junk/loot “bites” (Max enchantment level: 3) 
 5.  **Silk Touch** - Mined blocks will drop as blocks instead of breaking into other items/blocks. (Max enchantment level: 1)

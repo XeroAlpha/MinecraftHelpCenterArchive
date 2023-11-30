@@ -16,17 +16,17 @@ tags:
   - section_12618340057613
   - section_14859582819853
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/15518267480461-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PC-Mac-Chromebook-and-Linux
+link: https://help.minecraft.net/hc/en-us/articles/15518267480461-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PC-Mac-Chromebook-and-Linux
 ---
 
 This article details how to manage cloud saves for Minecraft: Bedrock Edition, Minecraft: Java Edition, Minecraft Legends, and Minecraft Dungeons on PC, Mac, Chromebook, and Linux.
 
 ## In This Article:
 
--   [Minecraft: Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518267480461-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PC-Mac-Chromebook-and-Linux#h_01GZPC0797RMVYPZ7NYJTDM4CR)
--   [Minecraft: Java Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518267480461-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PC-Mac-Chromebook-and-Linux#h_01GZPC0GAHAEQX20KCVSQVMXQD)
--   [Minecraft Dungeons](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518267480461-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PC-Mac-Chromebook-and-Linux#h_01GZPC0P4MVNZ8YPB4SRBF69CH)
--   [Minecraft Legends](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518267480461-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PC-Mac-Chromebook-and-Linux#h_01GZPC0VENNC8W7TDWVY8GSYM9)
+- [Minecraft: Bedrock Edition](#minecraft-bedrock-edition)
+- [Minecraft: Java Edition](#minecraft-java-edition)
+- [Minecraft Dungeons](#minecraft-dungeons)
+- [Minecraft Legends](#minecraft-legends)
 
 ## Minecraft: Bedrock Edition
 
@@ -40,11 +40,11 @@ Players with a Minecraft: Java Edition Realms subscription will have their Realm
 
 ### Xbox App or Windows Store
 
-Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons' built-in cloud storage solution. For more information, please refer to [this guide](https://help.minecraft.net/hc/en-us/articles/360043504492).
+Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons’ built-in cloud storage solution. For more information, please refer to [this guide](https://help.minecraft.net/hc/en-us/articles/360043504492).
 
 ### Steam
 
-Players enjoying Minecraft Dungeons on Steam have automatic cloud backups and downloads through Steam's service. To ensure you're taking advantage of Steam's cloud services, follow these steps: 
+Players enjoying Minecraft Dungeons on Steam have automatic cloud backups and downloads through Steam’s service. To ensure you’re taking advantage of Steam’s cloud services, follow these steps: 
 
 1.  Click on **Steam** on the top-left side of the Steam client.
 2.  Select **Settings**.
@@ -57,11 +57,11 @@ Players enjoying Minecraft Dungeons on Steam have automatic cloud backups and do
 
 ### Xbox App or Windows Store
 
-Players enjoying Minecraft Legends through the Xbox App, the Minecraft Launcher, or the Windows Store will have automatic cloud backups as long as they're logged in with a Microsoft Account and connected to Xbox Live.
+Players enjoying Minecraft Legends through the Xbox App, the Minecraft Launcher, or the Windows Store will have automatic cloud backups as long as they’re logged in with a Microsoft Account and connected to Xbox Live.
 
 ### Steam
 
-Players enjoying Minecraft Legends on Steam will enjoy automatic cloud backups and downloads through Steam's service. To ensure you're taking advantage of Steam's cloud services, follow these steps: 
+Players enjoying Minecraft Legends on Steam will enjoy automatic cloud backups and downloads through Steam’s service. To ensure you’re taking advantage of Steam’s cloud services, follow these steps: 
 
 1.  Click on **Steam** on the top-left side of the Steam client.
 2.  Select **Settings**.

@@ -14,4 +14,4 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 
 **Fixes:**
 
--   Fixed a crash that could occur on iOS
+- Fixed a crash that could occur on iOS

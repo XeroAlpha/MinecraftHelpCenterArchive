@@ -5,15 +5,15 @@ updated: 2023-07-24T18:26:29Z
 categories: Caves and Cliffs Update
 tags:
   - section_12618686416909
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4415053738893-Caves-Cliffs-Part-II-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4415053738893-Caves-Cliffs-Part-II-FAQ
 ---
 
 The Caves & Cliffs Update is one of our most ambitious Minecraft updates yet! Alongside the new blocks, mobs and items that were introduced in Part I (1.17), Caves & Cliffs Part II (1.18) focuses on sweeping changes to how the world will generate around and below you.
 
 This FAQ covers important information related to Caves & Cliffs Part II, including what is happening with seeds and existing worlds. For a full list of features and fixes in Caves & Cliffs Part II, take a look through the full release changelogs:
 
--   [Caves & Cliffs Part II -- Minecraft: Bedrock Edition Changelog](https://www.minecraft.net/article/caves---cliffs--part-ii-out-today-bedrock)
--   [Caves & Cliffs Part II -- Minecraft: Java Edition Changelog](https://www.minecraft.net/article/caves---cliffs--part-ii-out-today-java)
+- [Caves & Cliffs Part II – Minecraft: Bedrock Edition Changelog](https://www.minecraft.net/article/caves---cliffs--part-ii-out-today-bedrock)
+- [Caves & Cliffs Part II – Minecraft: Java Edition Changelog](https://www.minecraft.net/article/caves---cliffs--part-ii-out-today-java)
 
 *Note: We will continue to update this FAQ with important information*
 
@@ -23,7 +23,7 @@ Yes, you can. In Minecraft: Java Edition and Minecraft: Bedrock Edition, players
 
 ## Have there been improvements to seed parity in this update?
 
-There will be approximate seed parity between Minecraft: Java Edition and Minecraft: Bedrock Edition. This means that a seed will give players roughly the same terrain layout and biome placement whether you're on Minecraft: Java Edition or Minecraft: Bedrock Edition, although expect some differences between the smaller details in the world.
+There will be approximate seed parity between Minecraft: Java Edition and Minecraft: Bedrock Edition. This means that a seed will give players roughly the same terrain layout and biome placement whether you’re on Minecraft: Java Edition or Minecraft: Bedrock Edition, although expect some differences between the smaller details in the world.
 
 ## Why are my world sizes increasing with this update and by how much?
 
@@ -41,10 +41,10 @@ Creators should note that if they are version locked to an old version of the ga
 
 ## Are custom biome packs compatible with Caves & Cliffs Part II worlds?
 
-New world generation in Caves & Cliffs Part II is currently incompatible with the 'Creation of Custom Biomes' experiment. In this release, expect worlds with custom biome generation to be stable, however custom biomes will only exist in currently saved areas of the world. Unsaved areas will see Caves & Cliffs world generation.
+New world generation in Caves & Cliffs Part II is currently incompatible with the ‘Creation of Custom Biomes’ experiment. In this release, expect worlds with custom biome generation to be stable, however custom biomes will only exist in currently saved areas of the world. Unsaved areas will see Caves & Cliffs world generation.
 
 *Players should be aware that we are planning to address this incompatibility issue in the future.*
 
 ## Are the Deep Dark and Warden coming out with Caves & Cliffs Part II?
 
-As we announced during Minecraft LIVE this year, the Deep Dark biome, along with sculk blocks and the Warden will be released with the Wild Update, coming next year. If you want to try out some of the features, they are available behind the "Vanilla Experiments" toggle. Follow [this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.
+As we announced during Minecraft LIVE this year, the Deep Dark biome, along with sculk blocks and the Warden will be released with the Wild Update, coming next year. If you want to try out some of the features, they are available behind the “Vanilla Experiments” toggle. Follow [this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.

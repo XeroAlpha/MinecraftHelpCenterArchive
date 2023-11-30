@@ -15,4 +15,4 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 
 **Bug Fixes:**
 
--   Fixed a crash that occurred on some Android devices.
+- Fixed a crash that occurred on some Android devices.

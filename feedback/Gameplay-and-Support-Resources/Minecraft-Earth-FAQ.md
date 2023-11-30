@@ -14,7 +14,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360028241152-Minecraft-Ea
 
 ### **WHAT IS MINECRAFT EARTH?**
 
-Minecraft Earth is an all-new augmented reality game you can play on your mobile devices that brings the Minecraft world into our universe! Through the lens of the game, you'll be able to build creations with friends and place them in the real world at life-size.  You'll discover exciting new mobs to use in your builds. And you may need to put your survival skills to the test as you explore a new side to your neighborhood and battle Minecraft mobs in real life! 
+Minecraft Earth is an all-new augmented reality game you can play on your mobile devices that brings the Minecraft world into our universe! Through the lens of the game, you’ll be able to build creations with friends and place them in the real world at life-size.  You’ll discover exciting new mobs to use in your builds. And you may need to put your survival skills to the test as you explore a new side to your neighborhood and battle Minecraft mobs in real life! 
 
 ### **HOW MUCH WILL MINECRAFT EARTH COST?**
 
@@ -22,7 +22,7 @@ Minecraft Earth will be free to play.
 
 ### **WHICH PLATFORMS WILL MINECRAFT EARTH BE ON?**
 
-Minecraft Earth is coming to iOS and Android this summer on AR-capable devices. We'll have more to share soon.
+Minecraft Earth is coming to iOS and Android this summer on AR-capable devices. We’ll have more to share soon.
 
 ### **HOW DO I GET INTO THE MINECRAFT EARTH BETA?**
 
@@ -34,7 +34,7 @@ You will receive an email with instructions on how to claim your free skin withi
 
 ### **WHAT REGIONS WILL MINECRAFT EARTH BE SUPPORTED IN?** 
 
-We're committed to bringing Minecraft Earth to the entire Earth but will roll the game out gradually to ensure everyone gets the best play experience. Minecraft Earth will support all the same languages as regular vanilla Minecraft.
+We’re committed to bringing Minecraft Earth to the entire Earth but will roll the game out gradually to ensure everyone gets the best play experience. Minecraft Earth will support all the same languages as regular vanilla Minecraft.
 
 ### **WHEN WILL MINECRAFT EARTH BE RELEASED?**
 
@@ -46,11 +46,11 @@ We take safety seriously and are taking measures to make Minecraft Earth an enjo
 
 ### **THE SIGN UP FORM IS ASKING FOR A LOT OF DATA. WHAT WILL YOU DO WITH IT?**
 
-We\'ll use your email address to send you your free skin and communicate updates about the game, including any beta programs. We\'ll use the other data to help us determine candidates for any beta programs we might launch.
+We'll use your email address to send you your free skin and communicate updates about the game, including any beta programs. We'll use the other data to help us determine candidates for any beta programs we might launch.
 
-### **WHAT IF I DON\'T WANT TO PARTICIPATE IN A BETA?**
+### **WHAT IF I DON'T WANT TO PARTICIPATE IN A BETA?**
 
-Simply return to the Minecraft Earth [sign up page](https://earth.minecraft.net/sign-up), click the \"Sign Up Now\" button and login with the same Microsoft/XBL account you used to sign up. We\'ll show you all the data you entered and there will be a button to delete your data. Clicking that button removes you from the beta and deletes all your data from our servers. It does not opt you out of any promotional email communications. If you would like to opt out of email communications then visit the [Promotional Communications Manager](https://go.microsoft.com/fwlink/?linkid=243189). You can find our [Privacy Statement here](http://go.microsoft.com/fwlink/?LinkId=521839).
+Simply return to the Minecraft Earth [sign up page](https://earth.minecraft.net/sign-up), click the "Sign Up Now" button and login with the same Microsoft/XBL account you used to sign up. We'll show you all the data you entered and there will be a button to delete your data. Clicking that button removes you from the beta and deletes all your data from our servers. It does not opt you out of any promotional email communications. If you would like to opt out of email communications then visit the [Promotional Communications Manager](https://go.microsoft.com/fwlink/?linkid=243189). You can find our [Privacy Statement here](http://go.microsoft.com/fwlink/?LinkId=521839).
 
 ### **WILL MINECRAFT EARTH HAVE LOOT BOXES?**
 

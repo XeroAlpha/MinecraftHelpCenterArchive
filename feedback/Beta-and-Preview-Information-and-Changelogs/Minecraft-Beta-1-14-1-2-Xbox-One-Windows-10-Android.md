@@ -10,8 +10,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360037533411-Minecraft-Be
 
 **Fixes:**
 
--   Fixed several crashes that occurred during gameplay
--   Increased performance when loading skins on Featured Servers
--   Bees will now die after attacking ([MCPE-53860](https://bugs.mojang.com/browse/MCPE-53860))
--   Fixed empty hands being invisible in first-person perspective
--   Fixed placeholder text appearing on the Resource Packs and Behavior Packs screens
+- Fixed several crashes that occurred during gameplay
+- Increased performance when loading skins on Featured Servers
+- Bees will now die after attacking ([MCPE-53860](https://bugs.mojang.com/browse/MCPE-53860))
+- Fixed empty hands being invisible in first-person perspective
+- Fixed placeholder text appearing on the Resource Packs and Behavior Packs screens

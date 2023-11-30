@@ -10,9 +10,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/10672880007565-Minecraft-
 
 **Information on the Minecraft Preview and Beta: **
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- These work-in-progress versions can be unstable and may not be representative of final version quality
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
 ![A Minecraft screenshot showing a bamboo raft, villagers, and camels, with a village on a hill in the background.](https://feedback.minecraft.net/hc/article_attachments/10672838483469)
 
@@ -20,14 +20,14 @@ link: https://feedback.minecraft.net/hc/en-us/articles/10672880007565-Minecraft-
 
 ## **Gameplay**
 
--   Reverted change to player being pushed while stuck inside a block to iron out some issues with Pistons ([MCPE-136536](https://bugs.mojang.com/browse/MCPE-136536))
+- Reverted change to player being pushed while stuck inside a block to iron out some issues with Pistons ([MCPE-136536](https://bugs.mojang.com/browse/MCPE-136536))
 
 ## **Touch**
 
--   Removed the trivial joystick when the player is on the Raft in the Classic control mode ([MCPE-163758](https://bugs.mojang.com/browse/MCPE-163758))
--   The new touch controls are now enabled by default
+- Removed the trivial joystick when the player is on the Raft in the Classic control mode ([MCPE-163758](https://bugs.mojang.com/browse/MCPE-163758))
+- The new touch controls are now enabled by default
 
 ## **User Interface**
 
--   Fixed frame rate dropping when hovering over item slots on the Creative inventory screen ([MCPE-162277](https://bugs.mojang.com/browse/MCPE-162277))
--   Recipes relying on Wood Slabs (eg. Composter and Lectern) are now previewed properly on the Crafting Table screen
+- Fixed frame rate dropping when hovering over item slots on the Creative inventory screen ([MCPE-162277](https://bugs.mojang.com/browse/MCPE-162277))
+- Recipes relying on Wood Slabs (eg. Composter and Lectern) are now previewed properly on the Crafting Table screen

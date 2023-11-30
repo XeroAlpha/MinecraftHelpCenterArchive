@@ -12,7 +12,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/115003507992-Welcome
 
 Last update: 20 June 2019
 
-We love listening to your feedback and suggestions. If you are looking for anything support or technical related, please visit [Mojang Support](http://help.mojang.com/) or [Xbox Support](http://support.xbox.com/). Bugs [go here](http://bugs.mojang.com/). We don\'t announce things here and updates on things in review are not guaranteed.
+We love listening to your feedback and suggestions. If you are looking for anything support or technical related, please visit [Mojang Support](http://help.mojang.com/) or [Xbox Support](http://support.xbox.com/). Bugs [go here](http://bugs.mojang.com/). We don't announce things here and updates on things in review are not guaranteed.
 
 For general gameplay discussion or assistance please visit our official discord channels. They are here:  [discord.gg/minecraft](https://feedback.minecraft.net/hc/en-us/articles/discord.gg/minecraft) - you can find people to play with, ask for help with your build, debug your redstone device, or just come on by and say hi.
 
@@ -28,9 +28,9 @@ Remember, the best feedback:
 
 \* Is easy to read. Posts using lots of bold and italics are not easy to read.
 
-\* If you have a recipe, a picture **must be optional**. Screen readers will typically announce the image file name, the image URL, or the URL for the link destination, which isn\'t helpful for anyone. Thanks for your help with this!
+\* If you have a recipe, a picture **must be optional**. Screen readers will typically announce the image file name, the image URL, or the URL for the link destination, which isn't helpful for anyone. Thanks for your help with this!
 
-\* Is respectful and doesn\'t copy old posts. People worked hard on those posts! Search first.
+\* Is respectful and doesn't copy old posts. People worked hard on those posts! Search first.
 
 Enjoy!
 

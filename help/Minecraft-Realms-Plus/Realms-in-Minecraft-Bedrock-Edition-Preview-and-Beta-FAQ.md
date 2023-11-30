@@ -26,26 +26,26 @@ tags:
   - platform_sony_playstation_5
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ
 ---
 
-We're excited to announce that as of October 11th, Realms are available in Preview and Beta in Minecraft: Bedrock Edition! Preview/Beta Realms are available to any active Bedrock Realms subscribers. Read below to learn how Preview/Beta Realms work and how they are different from your regular Realm. 
+We’re excited to announce that as of October 11th, Realms are available in Preview and Beta in Minecraft: Bedrock Edition! Preview/Beta Realms are available to any active Bedrock Realms subscribers. Read below to learn how Preview/Beta Realms work and how they are different from your regular Realm. 
 
 For more information on Preview Realms in general, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/4423653831821).
 
-If you\'re looking for Minecraft: Java Edition Snapshot Realms, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20143730191245).  
+If you're looking for Minecraft: Java Edition Snapshot Realms, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20143730191245).  
 
-**Note: 'Beta' and 'Preview' Realms are cross-platform compatible. From now on, this article will use 'Preview' to refer to both Beta and Preview Realms.**
+**Note: ‘Beta’ and ‘Preview’ Realms are cross-platform compatible. From now on, this article will use ‘Preview’ to refer to both Beta and Preview Realms.**
 
 # In This Article:
 
--   [Where can I learn more about Minecraft: Preview? ](https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ#h_01HCDJDVPSHEM4FSJ9AQX9K05E)
--   [How to use Realms in Preview](https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ#h_01HCDHYEF87JB2H2XZ5EKWVPJH)
--   [What is different in Minecraft Realms in Preview?  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ#h_01HCDJAJEWDJBVCN33YFCWKPDD)
--   [Will this change increase my Realms subscription price? ](https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ#h_01HCDJB7GP8F8H9A3M8H05SR89)
--   [Can I transfer worlds between a Preview Realm and my Regular Realm? ](https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ#h_01HCDJCPK7T9HAFNGPBXSPETW5)
--   [Are Preview Realms and Java Edition Snapshot Realms the same, or are they cross platform with each other? ](https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ#h_01HCDJCW4RTW91H8RW5SFEWHR1)
--   [Steps for creating a Minecraft Preview Realm](https://minecrafthelp.zendesk.com/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ#h_01HCDJSA7HK93DVNYKBS9288Z6)
+- [Where can I learn more about Minecraft: Preview? ](#where-can-i-learn-more-about-minecraft-preview)
+- [How to use Realms in Preview](#how-to-use-realms-in-preview)
+- [What is different in Minecraft Realms in Preview?  ](#what-is-different-in-minecraft-realms-in-preview)
+- [Will this change increase my Realms subscription price? ](#will-this-change-increase-my-realms-subscription-price)
+- [Can I transfer worlds between a Preview Realm and my Regular Realm? ](#can-i-transfer-worlds-between-a-preview-realm-and-my-regular-realm)
+- [Are Preview Realms and Java Edition Snapshot Realms the same, or are they cross platform with each other? ](#are-preview-realms-and-java-edition-snapshot-realms-the-same-or-are-they-cross-platform-with-each-other)
+- [Steps for creating a Minecraft Preview Realm](#steps-for-creating-a-minecraft-preview-realm)
 
 ## Where can I learn more about Minecraft: Preview? 
 
@@ -55,8 +55,8 @@ If you\'re looking for Minecraft: Java Edition Snapshot Realms, please refer to 
 
 Every Bedrock Realms subscription now comes with the ability to create a Preview Realm. If you have an active Realms subscription and are part of a Preview program on any of the following platforms, you will have the option to create a Preview Realm tied to each of your active subscriptions: 
 
--   Beta on Android  
--   Preview on iOS, Xbox, or Windows  
+- Beta on Android  
+- Preview on iOS, Xbox, or Windows  
 
 Having your Preview Realm linked to your subscription ties it to the regular Realm generated from that subscription. If you cancel your subscription, it will cancel both your regular Realm and your associated Preview Realm.   
 
@@ -64,7 +64,7 @@ Although your regular Realm will be tied to the same subscription, the two Realm
 
 ## What is different in Minecraft Realms in Preview?  
 
-Preview Realms allow you to play the newest experimental features on a Realm with your friends. You'll also have access to all of the features you're used to on your regular Realm, except for subscription purchasing and management. To purchase or manage a Realms subscription, you will need to use the regular version of Bedrock.
+Preview Realms allow you to play the newest experimental features on a Realm with your friends. You’ll also have access to all of the features you’re used to on your regular Realm, except for subscription purchasing and management. To purchase or manage a Realms subscription, you will need to use the regular version of Bedrock.
 
 ## Will this change increase my Realms subscription price? 
 
@@ -76,7 +76,7 @@ To transfer worlds between regular Realms and Preview Realms, you can download y
 
 ## Are Preview Realms and Java Edition Snapshot Realms the same, or are they cross platform with each other? 
 
-Regular Bedrock and regular Java Edition Realms are entirely separate, each with their own separate subscription. Snapshot and Preview Realms behave the exact same way -- they are entirely separate from one another. A Bedrock Realms subscription does not entitle you to a Snapshot Realm, and a Java Realms subscription does not entitle you to a Preview Realm.
+Regular Bedrock and regular Java Edition Realms are entirely separate, each with their own separate subscription. Snapshot and Preview Realms behave the exact same way – they are entirely separate from one another. A Bedrock Realms subscription does not entitle you to a Snapshot Realm, and a Java Realms subscription does not entitle you to a Preview Realm.
 
 For more information on Java Snapshot Realms, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20143730191245).
 
@@ -84,7 +84,7 @@ For more information on Java Snapshot Realms, please refer to [this article](htt
 
 If you have an active Realms subscription, you will see a prompt on the play screen to create a free Preview Realm.   
 
-**Note: If you've switched to Preview's new user interface, you'll have to swap back to the old one to access this menu.  **
+**Note: If you’ve switched to Preview’s new user interface, you’ll have to swap back to the old one to access this menu.  **
 
 ![Step 1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/20271264795533)
 

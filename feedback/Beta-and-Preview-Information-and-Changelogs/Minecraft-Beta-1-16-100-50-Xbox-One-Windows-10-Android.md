@@ -11,74 +11,74 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360047105331-Minecraft-Be
 
 **PLEASE READ before participating in the Minecraft Beta:**
 
--   Joining the beta will replace your game with a work in progress version of Minecraft
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them
--   Beta builds can be unstable and are not representative of final version quality
--   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Joining the beta will replace your game with a work in progress version of Minecraft
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them
+- Beta builds can be unstable and are not representative of final version quality
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
 **Achievement Screen**
 
--   New achievements screen design and added a new achievement details screen (available after gradual roll-out). We would love to hear your feedback on it here in [this post](https://aka.ms/mcAchievementBeta)!
+- New achievements screen design and added a new achievement details screen (available after gradual roll-out). We would love to hear your feedback on it here in [this post](https://aka.ms/mcAchievementBeta)!
 
 **General**
 
--   Custom names now modify boss\'s bars ([MCPE-43473](https://bugs.mojang.com/browse/MCPE-43473))
--   Fixed bug where system language setting for Simplified and Traditional Chinese was not honored by the game
--   Nintendo Switch can now upload worlds to Realms again ([REALMS-474](https://bugs.mojang.com/browse/REALMS-474)) 
-    -   NB -- this fix is still in beta so won't be available for Realms or non-beta platforms yet, but we wanted to give you a heads up this fix is on its way!
--   Game no longer crashes if a player opens a Shulker Box they\'re standing on after rejoining a multiplayer session 
--   Fixed issue where some walls were not correctly connected on world load
--   Fishing Rod will now correctly cast when close to a Mob ([MCPE-65249](https://bugs.mojang.com/browse/MCPE-65249))
--   Fixed an issue that meant the block highlight/selection box was extending above blocks 
--   Fixed an issue with missing animation when damaging bamboo
--   Added Noto Sans font license button and pop-up dialog to Settings screen (in the Profile section) 
+- Custom names now modify boss's bars ([MCPE-43473](https://bugs.mojang.com/browse/MCPE-43473))
+- Fixed bug where system language setting for Simplified and Traditional Chinese was not honored by the game
+- Nintendo Switch can now upload worlds to Realms again ([REALMS-474](https://bugs.mojang.com/browse/REALMS-474)) 
+  - NB – this fix is still in beta so won’t be available for Realms or non-beta platforms yet, but we wanted to give you a heads up this fix is on its way!
+- Game no longer crashes if a player opens a Shulker Box they're standing on after rejoining a multiplayer session 
+- Fixed issue where some walls were not correctly connected on world load
+- Fishing Rod will now correctly cast when close to a Mob ([MCPE-65249](https://bugs.mojang.com/browse/MCPE-65249))
+- Fixed an issue that meant the block highlight/selection box was extending above blocks 
+- Fixed an issue with missing animation when damaging bamboo
+- Added Noto Sans font license button and pop-up dialog to Settings screen (in the Profile section) 
 
 **Graphical**
 
--   Fixed a graphical issue with glass blocks in City Living world, that affected some devices on Windows 10 
--   Fixed an issue with the skybox background graphics not rendering correctly on some devices 
+- Fixed a graphical issue with glass blocks in City Living world, that affected some devices on Windows 10 
+- Fixed an issue with the skybox background graphics not rendering correctly on some devices 
 
 **Technical changes**
 
 **Actors**
 
--   The \"minecraft:behavior.controlled_by_player\" goal is now data-driven
--   Physics Component\'s has_gravity is now used to decide whether a mob should apply water gravity, if the mob does not have a Navigation Component 
--   Ender Crystals can no longer be pushed 
--   The Squid\'s rendering is now data-driven
--   Mine carts are now data-driven. This converted minecart rideable, minecarts with chest, with hopper, with command block, and with TNT to be data-driven
+- The "minecraft:behavior.controlled_by_player" goal is now data-driven
+- Physics Component's has_gravity is now used to decide whether a mob should apply water gravity, if the mob does not have a Navigation Component 
+- Ender Crystals can no longer be pushed 
+- The Squid's rendering is now data-driven
+- Mine carts are now data-driven. This converted minecart rideable, minecarts with chest, with hopper, with command block, and with TNT to be data-driven
 
 **Display Name Component**
 
--   Items can now override their display name with a localized \'value\'. If a value is not supplied the component will stay with its default name. If the value supplied is not in the localization file the display name will be the value string
+- Items can now override their display name with a localized 'value'. If a value is not supplied the component will stay with its default name. If the value supplied is not in the localization file the display name will be the value string
 
 **Item Parsing**
 
--   **Example 1**
-    -   **any_tag functionality added to several actor components. In addition to representing items as item names in json they can now be represented as a set of tags**
-    -   \"item\": {\"any_tag\": \"food\"}
-    -   \"item\": {\"any_tag\": \[\"food\", \"wood\"\]}
-    -   \"bribe_items\": \[\"emerald\", {\"any_tag\": \"stone\"}\]
-    -   minecraft:ageable feed_items can now use any_tag functionality
-    -   minecraft:breedable breed_items can now use any_tag functionality
-    -   minecraft:bribeable bribe_items can now use any_tag functionality
-    -   minecraft:giveable items can now use any_tag functionality
-    -   minecraft:healable items can now use any_tag functionality
-    -   minecraft:tamemount feed_items and auto_reject_items can now use any_tag functionality
-    -   minecraft:equippable accepted_items can now use any_tag functionality
--   **Example 2**
-    -   **looks for \"apple\" key in the vanilla localization for a string to use as the display text, which it will NOT find a value so the display name will just be \"apple\"**
-    -   \"minecraft:display_name\": {\
-        \"value\": \"apple\"\
-        }
--   **Example 3**
-    -   **looks for \"item.apple.name\" key in the vanilla localization for a string to use as the display text, which it will find a value as \"Apple\". Note \"minecraft:\" namespace not required.**
-    -   \"minecraft:display_name\": {\
-        \"value\": \"item.apple.name\"\
-        }
--   **Example 4**
-    -   **looks for a custom string supplied in the resource pack, if not found the display name will be \"item.my_namespace:My_Awesome_Item.name\".**
-    -   \"minecraft:display_name\": {\
-        \"value\": \"item.my_namespace:My_Awesome_Item.name\"\
-        }
+- **Example 1**
+  - **any_tag functionality added to several actor components. In addition to representing items as item names in json they can now be represented as a set of tags**
+  - "item": {"any_tag": "food"}
+  - "item": {"any_tag": \["food", "wood"\]}
+  - "bribe_items": \["emerald", {"any_tag": "stone"}\]
+  - minecraft:ageable feed_items can now use any_tag functionality
+  - minecraft:breedable breed_items can now use any_tag functionality
+  - minecraft:bribeable bribe_items can now use any_tag functionality
+  - minecraft:giveable items can now use any_tag functionality
+  - minecraft:healable items can now use any_tag functionality
+  - minecraft:tamemount feed_items and auto_reject_items can now use any_tag functionality
+  - minecraft:equippable accepted_items can now use any_tag functionality
+- **Example 2**
+  - **looks for "apple" key in the vanilla localization for a string to use as the display text, which it will NOT find a value so the display name will just be "apple"**
+  - "minecraft:display_name": {  
+    "value": "apple"  
+    }
+- **Example 3**
+  - **looks for "item.apple.name" key in the vanilla localization for a string to use as the display text, which it will find a value as "Apple". Note "minecraft:" namespace not required.**
+  - "minecraft:display_name": {  
+    "value": "item.apple.name"  
+    }
+- **Example 4**
+  - **looks for a custom string supplied in the resource pack, if not found the display name will be "item.my_namespace:My_Awesome_Item.name".**
+  - "minecraft:display_name": {  
+    "value": "item.my_namespace:My_Awesome_Item.name"  
+    }

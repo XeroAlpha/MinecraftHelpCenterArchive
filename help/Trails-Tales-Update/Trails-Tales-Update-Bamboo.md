@@ -25,7 +25,7 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16474890051981-Trails-Tales-Update-Bamboo
+link: https://help.minecraft.net/hc/en-us/articles/16474890051981-Trails-Tales-Update-Bamboo
 ---
 
 Prepare for an exciting new material set. The bamboo set brings you new materials for building structures, and even a raft for exploring the seas.
@@ -38,26 +38,26 @@ Bamboo is both a decorative and a functional wood type within Minecraft! You can
 
 The following new bamboo items have been added to Minecraft:
 
--   Block of bamboo​
-    -   Green in color (same color as grown bamboo)​
-    -   Rendered and placed directionally like a log​
--   Block of stripped bamboo​
-    -   Rendered and placed directionally like a log​
--   Bamboo button​
--   Bamboo door​
--   Bamboo fence​
--   Bamboo fence gate​
--   Bamboo planks​
--   Bamboo pressure plate​
--   Bamboo sign​
--   Bamboo hanging sign​
--   Bamboo slab​
--   Bamboo stairs​
--   Bamboo trapdoor​
--   Bamboo mosaic​
-    -   These blocks can be used as fuel in furnace like their normal bamboo counterparts but cannot be used in recipes as a generic wood type. For example, bamboo mosaic slabs cannot be used to craft a chiseled bookshelf.​
--   Bamboo mosaic stairs​
--   Bamboo mosaic slab
+- Block of bamboo​
+  - Green in color (same color as grown bamboo)​
+  - Rendered and placed directionally like a log​
+- Block of stripped bamboo​
+  - Rendered and placed directionally like a log​
+- Bamboo button​
+- Bamboo door​
+- Bamboo fence​
+- Bamboo fence gate​
+- Bamboo planks​
+- Bamboo pressure plate​
+- Bamboo sign​
+- Bamboo hanging sign​
+- Bamboo slab​
+- Bamboo stairs​
+- Bamboo trapdoor​
+- Bamboo mosaic​
+  - These blocks can be used as fuel in furnace like their normal bamboo counterparts but cannot be used in recipes as a generic wood type. For example, bamboo mosaic slabs cannot be used to craft a chiseled bookshelf.​
+- Bamboo mosaic stairs​
+- Bamboo mosaic slab
 
 ## How Do I Make Bamboo?
 
@@ -67,4 +67,4 @@ Just like with other wood types, you can find bamboo around the Overworld! Cut i
 
 Yes! Just like with oak wood or various other wood, you can use four bamboo planks to make a crafting table or insert bamboo blocks into the fence recipe for a bamboo fence.
 
-There's much more to discover with bamboo and Minecraft's new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!
+There’s much more to discover with bamboo and Minecraft’s new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!

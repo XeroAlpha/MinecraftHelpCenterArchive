@@ -10,9 +10,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/16942811622285-Minecraft-
 
 **Information on the Minecraft Preview and Beta:**
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions.
+- These work-in-progress versions can be unstable and may not be representative of final version quality
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions.
 
 ![A desert pyramid in Minecraft. Four chests in a small room with a pressure plate in the centre.](https://feedback.minecraft.net/hc/article_attachments/16942874539277)
 
@@ -22,4 +22,4 @@ We have a new Minecraft Preview and Beta! Just a short one this week, but they s
 
 ## **General**
 
--   Fixed a bug that caused Pressure Plate\'s deactivation delay to be inconsistent ([MCPE-171429](https://bugs.mojang.com/browse/MCPE-171429))
+- Fixed a bug that caused Pressure Plate's deactivation delay to be inconsistent ([MCPE-171429](https://bugs.mojang.com/browse/MCPE-171429))

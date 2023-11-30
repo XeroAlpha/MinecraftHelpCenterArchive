@@ -5,7 +5,7 @@ updated: 2023-01-23T17:24:11Z
 categories: Accessibility Settings for Minecraft and Other Minecraft Games
 tags:
   - section_12618985151885
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons
+link: https://help.minecraft.net/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons
 ---
 
 We believe everyone should be empowered and enabled to play Minecraft Dungeons. This article will focus on accessibility options available in Minecraft Dungeons.    
@@ -14,17 +14,17 @@ We believe everyone should be empowered and enabled to play Minecraft Dungeons.
 
 # In This Article:
 
--   [Accessibility Settings ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VSWJQYKA0X0P5DE2S5AW8)
-    -   [Settings Available on the Accessibility Start Menu ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VT2086YHWNQZC8HBA0Z32)
-    -   [Accessible Menu Navigation and Narration](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VT8DPHZ6CB8SQ7RN4CXZ5)
-    -   [About Menu UI Narration ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VTDDNW86FZ3QZQAKBK7ZQ)
-    -   [Tips on Navigating Menus](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VTKBHA5YR17XZHHYAHTKX)
--   [Tips on Navigating the Minecraft Launcher ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VTRBT7MCZST2Q8KT5HN2T)
--   [Enabling Friends Menu in Multiplayer ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VVXWAXC6CVAAC4GQ3GAGX)
--   [Reconnecting Online](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VW71Y52EV9RY67SZRN82C)
--   [Accessible Chat Using Text-to-Speech](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VWEDBCEAA8YDCK37GRBK6)
-    -   [Tips on using text-to-speech for chat](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VWKWXSYFCRK8FJWGW18CA)
--   [Future Accessibility Features ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons#h_01GD3VWZNS9X3SPCF51HWCPHVH)
+- [Accessibility Settings ](#accessibility-settings)
+  - [Settings Available on the Accessibility Start Menu ](#settings-available-on-the-accessibility-start-menu)
+  - [Accessible Menu Navigation and Narration](#accessible-menu-navigation-and-narration)
+  - [About Menu UI Narration ](#about-menu-ui-narration)
+  - [Tips on Navigating Menus](#tips-on-navigating-menus)
+- [Tips on Navigating the Minecraft Launcher ](#tips-on-navigating-the-minecraft-launcher)
+- [Enabling Friends Menu in Multiplayer ](#enabling-friends-menu-in-multiplayer)
+- [Reconnecting Online](#reconnecting-online)
+- [Accessible Chat Using Text-to-Speech](#accessible-chat-using-text-to-speech)
+  - [Tips on using text-to-speech for chat](#tips-on-using-text-to-speech-for-chat)
+- [Future Accessibility Features ](#future-accessibility-features)
 
 ## Accessibility Settings 
 
@@ -34,35 +34,35 @@ Minecraft Dungeons includes an Accessibility Menu. Select it from the Main Menu 
 
 There are more accessibility options available once you reach the main menu.  
 
--   Text-to-Speech: On/Off 
--   Subtitles: On/Off 
--   Enemy Outline Color: Red, Orange, Yellow, Gold, Green, Mint Green, Pink, Magenta, Purple, Lavender, and White. 
--   Chat Wheel Type: Hold & Release or Press & Select 
--   Screen Shake: Turns the screen shake effect on or off. Turn it off if you experience nausea while playing. 
+- Text-to-Speech: On/Off 
+- Subtitles: On/Off 
+- Enemy Outline Color: Red, Orange, Yellow, Gold, Green, Mint Green, Pink, Magenta, Purple, Lavender, and White. 
+- Chat Wheel Type: Hold & Release or Press & Select 
+- Screen Shake: Turns the screen shake effect on or off. Turn it off if you experience nausea while playing. 
 
 ### Accessible Menu Navigation and Narration
 
-Minecraft Dungeons (using English as a language) includes the ability to navigate the menus in an accessible way using a keyboard or controller. \
+Minecraft Dungeons (using English as a language) includes the ability to navigate the menus in an accessible way using a keyboard or controller.   
 
 ### About Menu UI Narration 
 
--   If you have a screen reader enabled on your PC, Minecraft Dungeons will automatically enable menu UI narration when the game is launched. 
--   Menu UI narration can be enabled and disabled in the Accessibility Menu. 
+- If you have a screen reader enabled on your PC, Minecraft Dungeons will automatically enable menu UI narration when the game is launched. 
+- Menu UI narration can be enabled and disabled in the Accessibility Menu. 
 
 ### Tips on Navigating Menus 
 
--   Use a controller (or keyboard on PC) to navigate all menus in Minecraft Dungeons. 
--   Use the Escape key as a shortcut to go back to the previous selection or close the current screen in Minecraft Dungeons edition on PC. \
+- Use a controller (or keyboard on PC) to navigate all menus in Minecraft Dungeons. 
+- Use the Escape key as a shortcut to go back to the previous selection or close the current screen in Minecraft Dungeons edition on PC.   
 
 ## Tips on Navigating the Minecraft Launcher 
 
 The Minecraft Launcher includes audio cues to help players navigate the login and launch experience. To enable audio cues on the Minecraft Launcher, use the keyboard shortcut Ctrl+B. You should hear a sparkle ringing sound to confirm that the sound is enabled. 
 
--   When you have opened the Minecraft Dungeons Launcher, navigate with the Tab key until you reach Login (Narrator will say "Login Button"). 
--   Press Enter, and you will be prompted with the Xbox login flow (Narrator will say "Welcome to Xbox). 
--   Navigate with the Tab key until you reach the Sign-in button (Narrator will say "Sign-un button") and press Enter and follow the instructions to login. 
--   Once logged in, you can navigate to the Minecraft Dungeons Launcher with the Tab key. 
--   To launch the Minecraft Dungeons game, navigate to the Play button (Narrator will say "Play button"), then press Enter. \
+- When you have opened the Minecraft Dungeons Launcher, navigate with the Tab key until you reach Login (Narrator will say “Login Button”). 
+- Press Enter, and you will be prompted with the Xbox login flow (Narrator will say “Welcome to Xbox). 
+- Navigate with the Tab key until you reach the Sign-in button (Narrator will say “Sign-un button”) and press Enter and follow the instructions to login. 
+- Once logged in, you can navigate to the Minecraft Dungeons Launcher with the Tab key. 
+- To launch the Minecraft Dungeons game, navigate to the Play button (Narrator will say “Play button”), then press Enter.   
 
 ## Enabling Friends Menu in Multiplayer 
 
@@ -82,10 +82,10 @@ To enable text-to-speech for this, use the Accessibility Menu in Settings.
 
 ### Tips on using text-to-speech for chat
 
--    Visit the **Controller/Key Binding** menu to learn how to invoke the **Communication Wheel**. 
--   Icon-based messages sent by you or other players are displayed in the lower-left corner of the screen. If text-to-speech has been enabled, the screen reader will announce the chat message sent. 
--   As the messages are predefined and short, there is currently no way for users to view previously sent messages. 
+-  Visit the **Controller/Key Binding** menu to learn how to invoke the **Communication Wheel**. 
+- Icon-based messages sent by you or other players are displayed in the lower-left corner of the screen. If text-to-speech has been enabled, the screen reader will announce the chat message sent. 
+- As the messages are predefined and short, there is currently no way for users to view previously sent messages. 
 
 ## Future Accessibility Features 
 
-Minecraft Dungeons is working on improving the existing features and adding additional features for accessibility in future updates. We\'d love to hear your thoughts and suggestions on what is most important to you. Please submit your ideas at [https://feedback.minecraft.net](https://feedback.minecraft.net/).
+Minecraft Dungeons is working on improving the existing features and adding additional features for accessibility in future updates. We'd love to hear your thoughts and suggestions on what is most important to you. Please submit your ideas at [https://feedback.minecraft.net](https://feedback.minecraft.net/).

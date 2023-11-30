@@ -10,165 +10,166 @@ link: https://feedback.minecraft.net/hc/en-us/articles/9993986449037-Minecraft-B
 
 ## **Information on the Minecraft Preview and Beta: **
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- These work-in-progress versions can be unstable and may not be representative of final version quality
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
 ![beta19U5_2_16x9.jpg](https://feedback.minecraft.net/hc/article_attachments/9993929211661)
 
-Minecraft Live 2022 only wrapped a few days ago but we are all ready to try out the features that Agnes, Chi, and Nir told us about during the show! That's right, the camel, bamboo wood set, chiseled bookshelf, and hanging signs are all in this week's Minecraft Preview, so you can try them all out while they're still fresh! Maybe that means watching a camel wiggle its ears for hours on end, floating around on a bamboo raft while watching the clouds, or curling up with a good book that you pulled from your chiseled bookshelf. Or you're going to pick a fight with a herd of melée mobs from atop the tall camel, hang cryptic messages for your friends to find, and craft a secret passageway that masquerades as an innocent collection of books. Me? I'm going to lounge around on the Minecraft Live set before it gets taken down. Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).
+Minecraft Live 2022 only wrapped a few days ago but we are all ready to try out the features that Agnes, Chi, and Nir told us about during the show! That’s right, the camel, bamboo wood set, chiseled bookshelf, and hanging signs are all in this week’s Minecraft Preview, so you can try them all out while they’re still fresh! Maybe that means watching a camel wiggle its ears for hours on end, floating around on a bamboo raft while watching the clouds, or curling up with a good book that you pulled from your chiseled bookshelf. Or you’re going to pick a fight with a herd of melée mobs from atop the tall camel, hang cryptic messages for your friends to find, and craft a secret passageway that masquerades as an innocent collection of books. Me? I’m going to lounge around on the Minecraft Live set before it gets taken down. Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).
 
 # **Experimental Features**
 
--   Introducing the next major update experimental toggle. Help us try out and develop the new next major update content!
+- Introducing the next major update experimental toggle. Help us try out and develop the new next major update content!
 
-```{=html}
 <!-- -->
-```
--   Please remember worlds that have used Experimental toggles will always be flagged as Experimental. We recommend keeping these Experimental worlds as separate copies from your main saves. More information can be found in [this article](https://feedback.minecraft.net/hc/en-us/articles/4403610710797).
+
+- Please remember worlds that have used Experimental toggles will always be flagged as Experimental. We recommend keeping these Experimental worlds as separate copies from your main saves. More information can be found in [this article](https://feedback.minecraft.net/hc/en-us/articles/4403610710797).
 
 ## **Bamboo Wood Types**
 
--   Added new base blocks for Bamboo Wood types
--   Added recipes for Bamboo Wood types
--   Added Bamboo Flooring block variants
--   Added Bamboo Raft and Raft with Chest
+- Added new base blocks for Bamboo Wood types
+- Added recipes for Bamboo Wood types
+- Added Bamboo Flooring block variants
+- Added Bamboo Raft and Raft with Chest
 
 ## **Camel**
 
--   Added Camel base mob functionality
--   Added two-seat rider functionality to Camel
--   Add Dashing ability to Camel
--   Camels randomly sit down for a short amount of time
--   Camels can spawn in desert villages
--   Camel is a tall animal and the rider is high enough in the air that melee mobs can't reach them
+- Added Camel base mob functionality
+- Added two-seat rider functionality to Camel
+- Add Dashing ability to Camel
+- Camels randomly sit down for a short amount of time
+- Camels can spawn in desert villages
+- Camel is a tall animal and the rider is high enough in the air that melee mobs can’t reach them
 
 ## **Chiseled Bookshelf**
 
--   A new, chiseled variation of the Bookshelf
--   Crafted with 6 Planks and 3 Wooden Slabs
--   Can store Books, Book and Quills, and Enchanted Books
-    -   Holds up to 6 Books
-    -   Keeps the stories and lore of your world safe
--   Comparators can detect the last book placed/removed
-    -   Perfect for hiding secrets in your spooky library
+- A new, chiseled variation of the Bookshelf
+- Crafted with 6 Planks and 3 Wooden Slabs
+- Can store Books, Book and Quills, and Enchanted Books
+  - Holds up to 6 Books
+  - Keeps the stories and lore of your world safe
+- Comparators can detect the last book placed/removed
+  - Perfect for hiding secrets in your spooky library
 
 ## **Hanging Sign**
 
--   Added Hanging Signs, which can be placed beneath and on the side of a block
--   Added Hanging Sign of all wood types and recipes
--   Hanging Signs can be placed under narrow blocks with center support
--   Hanging Signs have their own specific UI when writing text on the sign
+- Added Hanging Signs, which can be placed beneath and on the side of a block
+- Added Hanging Sign of all wood types and recipes
+- Hanging Signs can be placed under narrow blocks with center support
+- Hanging Signs have their own specific UI when writing text on the sign
 
 # **Non-Experimental Features and Bug Fixes**
 
-::: p-rich_text_section
-### Dressing Room
-:::
+<div class="p-rich_text_section">
 
--   Added 7 new friends for Steve & Alex to the cast: Ari, Efe, Zuri, Sunny, Makena, Kai, and Noor
--   Added a new first-time modal to the dressing room introducing the cast
--   Updated the \"create character\" process in the dressing room to select a default cast member as your base character
--   Added each cast members clothing pieces into the character creator
+### Dressing Room
+
+</div>
+
+- Added 7 new friends for Steve & Alex to the cast: Ari, Efe, Zuri, Sunny, Makena, Kai, and Noor
+- Added a new first-time modal to the dressing room introducing the cast
+- Updated the "create character" process in the dressing room to select a default cast member as your base character
+- Added each cast members clothing pieces into the character creator
 
 ## **Vanilla Parity**
 
 ### **Spectator Mode**
 
--   Allays no longer throw items to players in Spectator Mode ([MCPE-162873](https://bugs.mojang.com/browse/MCPE-162873))
+- Allays no longer throw items to players in Spectator Mode ([MCPE-162873](https://bugs.mojang.com/browse/MCPE-162873))
 
 ### **Blocks**
 
--   Wooden Doors, Iron Doors, Wooden Trapdoors, Iron Trapdoors, and Fence Gates now use the same opening and closing sound effects as Java Edition
--   Updated Pressure Plates to have different pitches based on their behaviour to match Java Edition
--   Added unique button click sound for Wooden Buttons to match Java Edition
--   Crimson and Warped block sets now have a unique set of sounds
+- Wooden Doors, Iron Doors, Wooden Trapdoors, Iron Trapdoors, and Fence Gates now use the same opening and closing sound effects as Java Edition
+- Updated Pressure Plates to have different pitches based on their behaviour to match Java Edition
+- Added unique button click sound for Wooden Buttons to match Java Edition
+- Crimson and Warped block sets now have a unique set of sounds
 
 ### **Villager**
 
--   While playing tag, baby Villagers will now run at a quicker speed that matches Java Edition
+- While playing tag, baby Villagers will now run at a quicker speed that matches Java Edition
 
 ## **Touch Controls**
 
--   Removed the action delay from Attack and Interact buttons
--   When the joystick is unlocked, the draggable range has been changed to be the same as the when the joystick is locked. In both modes, if auto-sprinting is enabled, it will start when the joystick is dragged slightly above the background. The auto-sprint will disengage if the joystick control is subsequently moved back into the joystick background area
--   A tap gesture will now fire a charged Crossbow. Previously it was necessary to hold the gesture for 400ms before the bolt would fire
--   Fixed an issue where players couldn\'t drag/drop in the Anvil screen
+- Removed the action delay from Attack and Interact buttons
+- When the joystick is unlocked, the draggable range has been changed to be the same as the when the joystick is locked. In both modes, if auto-sprinting is enabled, it will start when the joystick is dragged slightly above the background. The auto-sprint will disengage if the joystick control is subsequently moved back into the joystick background area
+- A tap gesture will now fire a charged Crossbow. Previously it was necessary to hold the gesture for 400ms before the bolt would fire
+- Fixed an issue where players couldn't drag/drop in the Anvil screen
 
 ## **User Interface**
 
--   You can now bind the copy coordinate keys with full keyboard gameplay turned on ([MCPE-163082](https://bugs.mojang.com/browse/MCPE-163082))
+- You can now bind the copy coordinate keys with full keyboard gameplay turned on ([MCPE-163082](https://bugs.mojang.com/browse/MCPE-163082))
 
 ## **World and Dimensions**
 
--   Fixed a bug that could cause players to get stuck on the \"Building Terrain\" screen when changing dimensions ([MCPE-158215](https://bugs.mojang.com/browse/MCPE-158215))
+- Fixed a bug that could cause players to get stuck on the "Building Terrain" screen when changing dimensions ([MCPE-158215](https://bugs.mojang.com/browse/MCPE-158215))
 
 ## **Gameplay**
 
--   Temporarily reverted the fix for effects being inherited by bred mobs, while a related issue is addressed first ([MCPE-81890](https://bugs.mojang.com/browse/MCPE-81890))
+- Temporarily reverted the fix for effects being inherited by bred mobs, while a related issue is addressed first ([MCPE-81890](https://bugs.mojang.com/browse/MCPE-81890))
 
 # **Technical Updates**
 
 ## **Actor Properties**
 
--   Actor Properties are no longer experimental (this includes Molang queries and property filters, but not Permutations)
+- Actor Properties are no longer experimental (this includes Molang queries and property filters, but not Permutations)
 
 ## **Add-Ons and Script Engine**
 
--   Fixed an issue where changing the subpack of Resource Packs that have subpacks, would not apply changes until the game was restarted ([MCPE-162002](https://bugs.mojang.com/browse/MCPE-162002))
+- Fixed an issue where changing the subpack of Resource Packs that have subpacks, would not apply changes until the game was restarted ([MCPE-162002](https://bugs.mojang.com/browse/MCPE-162002))
 
 ## **AI Goals**
 
--   Exposed new data parameters for the \"minecraft:offer_flower\" AI behaviour to specify such things as the time that the mob offers the flower for, the chance that the goal will start, and the dimensions of the AABB used to search for a mob to offer a flower to
--   The \"minecraft:offer_flower\" AI behavior can now be used by any mob, not just the Iron Golem
--   The \"minecraft:offer_flower\" AI behavior will now search through all mobs in the specified range rather than just the closest one, meaning that this goal has the potential to be used more consistently than before
--   Exposed new data parameters for the \"minecraft:take_flower\" AI behavior to specify such things as the conditions to be met to start the goal, the min and max wait times before taking the flower, and the dimensions of the AABB used to search for a mob to take a flower from
--   The \"minecraft:take_flower\" AI behavior can now be used by any mob, not just baby Villagers
+- Exposed new data parameters for the "minecraft:offer_flower" AI behaviour to specify such things as the time that the mob offers the flower for, the chance that the goal will start, and the dimensions of the AABB used to search for a mob to offer a flower to
+- The "minecraft:offer_flower" AI behavior can now be used by any mob, not just the Iron Golem
+- The "minecraft:offer_flower" AI behavior will now search through all mobs in the specified range rather than just the closest one, meaning that this goal has the potential to be used more consistently than before
+- Exposed new data parameters for the "minecraft:take_flower" AI behavior to specify such things as the conditions to be met to start the goal, the min and max wait times before taking the flower, and the dimensions of the AABB used to search for a mob to take a flower from
+- The "minecraft:take_flower" AI behavior can now be used by any mob, not just baby Villagers
 
 ## **Stability and Performance**
 
--   Fixed a crash that would occur if Education Edition items were rendered without the Education Edition toggle turned on ([MCPE-161587](https://bugs.mojang.com/browse/MCPE-161587))
+- Fixed a crash that would occur if Education Edition items were rendered without the Education Edition toggle turned on ([MCPE-161587](https://bugs.mojang.com/browse/MCPE-161587))
 
 # **Experimental Technical Features**
 
 ## **Commands**
 
--   As a preview of upcoming potential changes to how commands run, new experimental functionality within the Upcoming Creator Features experiment causes all command execution to run at the end of the current tick
+- As a preview of upcoming potential changes to how commands run, new experimental functionality within the Upcoming Creator Features experiment causes all command execution to run at the end of the current tick
 
 ## **General**
 
--   Removed the functionality of the \'minecraft:breathability\' component. Component will have no effect on the custom defined block
+- Removed the functionality of the 'minecraft:breathability' component. Component will have no effect on the custom defined block
 
 ## **API**
 
--   Initial APIs are releasing out of beta and will be usable without an experimental flag.
--   The first module to release is \@minecraft/server as version 1.0.0. The APIs included with this are listed below.
-    -   Non-beta APIs like those included in the \@minecraft/server 1.0.0 module do not require the Beta APIs experiment to be turned on, and will be more stable over time
-    -   This initial API set is narrow, but we intend to add more APIs into non-beta modules over the coming months
--   \@minecraft/server will continue to develop in Beta and those Beta APIs have been incremented in version to 1.1.0-beta; if you wish to continue to use Beta \@minecraft/server APIs, manifest.json references will need to be updated to 1.1.0-beta.
--   APIs included in the \@minecraft/server version 1.0.0 release:
-    -   System type (Exposed via systemglobal instance)
-        -   run() - runs a function on the next tick (can be used to maintain a game loop tick over tick)
-    -   World type (exposed via worldglobal instance)
-        -   getDimension()
-        -   getAllPlayers()
-    -   MinecraftDimensionTypes type
-        -   nether
-        -   overworld
-        -   theEnd
-    -   Dimension type
-        -   id
-        -   runCommandAsync()
-    -   CommandResult type
-        -   commandResult
-    -   Entity type
-        -   id
-        -   typeId
-        -   dimension
-        -   runCommandAsync()
-    -   Player type
-        -   name
+- Initial APIs are releasing out of beta and will be usable without an experimental flag.
+- The first module to release is @minecraft/server as version 1.0.0. The APIs included with this are listed below.
+  - Non-beta APIs like those included in the @minecraft/server 1.0.0 module do not require the Beta APIs experiment to be turned on, and will be more stable over time
+  - This initial API set is narrow, but we intend to add more APIs into non-beta modules over the coming months
+- @minecraft/server will continue to develop in Beta and those Beta APIs have been incremented in version to 1.1.0-beta; if you wish to continue to use Beta @minecraft/server APIs, manifest.json references will need to be updated to 1.1.0-beta.
+- APIs included in the @minecraft/server version 1.0.0 release:
+  - System type (Exposed via systemglobal instance)
+    - run() - runs a function on the next tick (can be used to maintain a game loop tick over tick)
+  - World type (exposed via worldglobal instance)
+    - getDimension()
+    - getAllPlayers()
+  - MinecraftDimensionTypes type
+    - nether
+    - overworld
+    - theEnd
+  - Dimension type
+    - id
+    - runCommandAsync()
+  - CommandResult type
+    - commandResult
+  - Entity type
+    - id
+    - typeId
+    - dimension
+    - runCommandAsync()
+  - Player type
+    - name
 
 ## **Known Issues**
 
--   We have a known issue in this Preview update that may cause a crash when travelling through portals in multiplayer. We are working on a fix for this and hope to have it addressed as soon as possible, thank you for your patience!
+- We have a known issue in this Preview update that may cause a crash when travelling through portals in multiplayer. We are working on a fix for this and hope to have it addressed as soon as possible, thank you for your patience!

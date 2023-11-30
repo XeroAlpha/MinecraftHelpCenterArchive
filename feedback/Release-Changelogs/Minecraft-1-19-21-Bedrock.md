@@ -10,14 +10,14 @@ link: https://feedback.minecraft.net/hc/en-us/articles/8554565798413-Minecraft-1
 
 A new update has been released to address a few issues that have occurred since the release of 1.19.20.
 
-As always, we appreciate all of your help and input. Please report any new bugs at [bugs.mojang.com](http://bugs.mojang.com/) and leave your feedback [feedback.minecraft.net](http://feedback.minecraft.net/).\
-\
+As always, we appreciate all of your help and input. Please report any new bugs at [bugs.mojang.com](http://bugs.mojang.com/) and leave your feedback [feedback.minecraft.net](http://feedback.minecraft.net/).  
+  
 
 **Fixes:**
 
--   Fixed several crashes that could occur during gameplay
--   Fixed an issue that caused Villagers' professions to not reflect in their clothing ([MCPE-160475](https://bugs.mojang.com/browse/MCPE-160475))
--   Fixed a bug where graphical artifacts appear while playing on some devices ([MCPE-160491](https://bugs.mojang.com/browse/MCPE-160491), [MCPE-160758](https://bugs.mojang.com/browse/MCPE-160758), [MCPE-160451](https://bugs.mojang.com/browse/MCPE-160451))
--   Fixed a bug where the names hovering above mobs were slightly offset ([MCPE-160254](https://bugs.mojang.com/browse/MCPE-160254))
--   Fixed an issue that caused some blocks on Marketplace worlds to appear as "update blocks" on Realms
--   Paid emotes can no longer be equipped for free
+- Fixed several crashes that could occur during gameplay
+- Fixed an issue that caused Villagers’ professions to not reflect in their clothing ([MCPE-160475](https://bugs.mojang.com/browse/MCPE-160475))
+- Fixed a bug where graphical artifacts appear while playing on some devices ([MCPE-160491](https://bugs.mojang.com/browse/MCPE-160491), [MCPE-160758](https://bugs.mojang.com/browse/MCPE-160758), [MCPE-160451](https://bugs.mojang.com/browse/MCPE-160451))
+- Fixed a bug where the names hovering above mobs were slightly offset ([MCPE-160254](https://bugs.mojang.com/browse/MCPE-160254))
+- Fixed an issue that caused some blocks on Marketplace worlds to appear as “update blocks” on Realms
+- Paid emotes can no longer be equipped for free

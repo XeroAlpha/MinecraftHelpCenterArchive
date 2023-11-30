@@ -21,7 +21,7 @@ tags:
   - platform_pc
   - platform_PC
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360046470431-Minecraft-Types-of-Biomes
+link: https://help.minecraft.net/hc/en-us/articles/360046470431-Minecraft-Types-of-Biomes
 ---
 
 ## Do Minecraft: Bedrock Edition and Minecraft: Java Edition share the same biomes? 
@@ -34,7 +34,7 @@ A biome is a Minecraft region with unique geography, plants, and other character
 
 ## What is a mob? 
 
-Mobs are \"mobile creatures\" that can spawn in different biomes. They can be passive, neutral, and hostile, and can spawn in different biomes under certain conditions. 
+Mobs are "mobile creatures" that can spawn in different biomes. They can be passive, neutral, and hostile, and can spawn in different biomes under certain conditions. 
 
 ## Current Biomes in Minecraft 
 
@@ -58,7 +58,7 @@ Three types of jungle biomes occur in Minecraft. The first is a normal jungle bi
 
 ### Windswept Hills
 
-You know you\'re in a Windswept Hills when you see a lot of stone, floating islands, alcoves, and spires. Windswept Hills biomes are also the only places where you can find emeralds, which are great for trading with villagers. Two other mountain biomes are the gravelly and wooded mountain biomes. As the name suggests, gravelly mountain biomes have a lot of gravel blocks instead of stone. Normally trees don\'t grow in gravelly mountain biomes so look for trees in a wooded mountain biome. 
+You know you're in a Windswept Hills when you see a lot of stone, floating islands, alcoves, and spires. Windswept Hills biomes are also the only places where you can find emeralds, which are great for trading with villagers. Two other mountain biomes are the gravelly and wooded mountain biomes. As the name suggests, gravelly mountain biomes have a lot of gravel blocks instead of stone. Normally trees don't grow in gravelly mountain biomes so look for trees in a wooded mountain biome. 
 
 ![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133027085)
 
@@ -76,7 +76,7 @@ Taiga biomes combine jungle and forest biomes. They typically have spruce trees 
 
 ### Cherry Grove
 
-Cherry Grove biomes are filled with Cherry Blossom trees. These plants are covered in beautiful pink blossoms that gently fall to the ground below. If you harvest the wood, you can use it to create pink wooden items for your home area. Don\'t forget to grab a Cherry Tree Sapling to plant anywhere you want!
+Cherry Grove biomes are filled with Cherry Blossom trees. These plants are covered in beautiful pink blossoms that gently fall to the ground below. If you harvest the wood, you can use it to create pink wooden items for your home area. Don't forget to grab a Cherry Tree Sapling to plant anywhere you want!
 
 ![Minecraft-Cherry-Grove.png](https://minecrafthelp.zendesk.com/hc/article_attachments/19387094271117)
 
@@ -132,7 +132,7 @@ River biomes usually cut through multiple biomes, and can contain sugar cane, 
 
 The first of five variations of ocean biomes is a basic ocean where seagrass, kelp, and fish commonly abound. Warm ocean biomes typically look vibrant. These biomes can naturally generate coral reefs where you can find dolphins, pufferfish, and tropical fish. Lukewarm oceans do not contain coral reefs but feature more seagrass and kelp.
 
-They also gain cod, salmon, and the possibility for ocean monuments. Cold ocean biomes have less aquatic wildlife but still have cod, salmon, and dolphins. You can sometimes find ocean monuments in the water\'s deep-blue hue. Frozen ocean biomes contain only salmon, squid, and ocean monuments. Where there\'s ice, you can sometimes find polar bears on the surface of the water. 
+They also gain cod, salmon, and the possibility for ocean monuments. Cold ocean biomes have less aquatic wildlife but still have cod, salmon, and dolphins. You can sometimes find ocean monuments in the water's deep-blue hue. Frozen ocean biomes contain only salmon, squid, and ocean monuments. Where there's ice, you can sometimes find polar bears on the surface of the water. 
 
 ![blobid14.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133178125)
 

@@ -5,7 +5,7 @@ updated: 2023-11-15T17:23:26Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360058743992-Minecraft-Differences-Between-Creative-Survival-and-Hardcore-Game-Modes
+link: https://help.minecraft.net/hc/en-us/articles/360058743992-Minecraft-Differences-Between-Creative-Survival-and-Hardcore-Game-Modes
 ---
 
 When purchasing Minecraft: Bedrock Edition for either PC, consoles, Chromebooks, or mobile devices, you may encounter different game modes each tailored to a unique type of play style. Some of these modes are available in Minecraft: Java Edition as well. This article will discuss each game mode and what they have in common as well as how they differ. 
@@ -18,11 +18,11 @@ There are several blocks that do not appear in creative mode but can be call
 
 ### Included in Creative mode 
 
--   No hunger bar 
--   No health bar 
--   Single use items are not consumed 
--   The use of the search bar 
--   Double tap jump to fly 
+- No hunger bar 
+- No health bar 
+- Single use items are not consumed 
+- The use of the search bar 
+- Double tap jump to fly 
 
 ## Survival Mode 
 

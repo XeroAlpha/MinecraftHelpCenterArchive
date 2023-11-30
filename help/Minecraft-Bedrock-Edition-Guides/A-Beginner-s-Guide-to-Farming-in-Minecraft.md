@@ -21,27 +21,27 @@ tags:
   - platform_oculus
   - platform_pc
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360046311411-A-Beginner-s-Guide-to-Farming-in-Minecraft-
+link: https://help.minecraft.net/hc/en-us/articles/360046311411-A-Beginner-s-Guide-to-Farming-in-Minecraft-
 ---
 
-Managing your food in Minecraft will ensure you can explore longer without needing to worry about your hunger. The last thing you want to do is stop a journey early because you forgot to feed yourself. To make sure you're always prepared, you may want to take up farming. Here is a beginner's look at getting into farming in Minecraft.
+Managing your food in Minecraft will ensure you can explore longer without needing to worry about your hunger. The last thing you want to do is stop a journey early because you forgot to feed yourself. To make sure you’re always prepared, you may want to take up farming. Here is a beginner’s look at getting into farming in Minecraft.
 
 ## What can I grow in Minecraft?
 
 Before you can begin making a farm in Minecraft, you need to have the proper items and be set in the right area. First, you need seeds to plant. Here are the different kind of seeds available in Minecraft:
 
--   Wheat seeds
--   Pumpkin seeds (a full pumpkin can be converted into seeds at a Crafting Table)
--   Melon seeds (watermelon slices can be converted into seeds at a Crafting Table)
--   Beetroot seeds
--   Torchflower seeds
--   Pitcher pods
+- Wheat seeds
+- Pumpkin seeds (a full pumpkin can be converted into seeds at a Crafting Table)
+- Melon seeds (watermelon slices can be converted into seeds at a Crafting Table)
+- Beetroot seeds
+- Torchflower seeds
+- Pitcher pods
 
 Additionally, these items can be planted to grow more of that item:
 
--   Carrots
--   Potatoes
--   Nether wart (only grows in soul sand, does not need a Hoe to plant it)
+- Carrots
+- Potatoes
+- Nether wart (only grows in soul sand, does not need a Hoe to plant it)
 
 ## How to gather supplies to make a farm in Minecraft
 
@@ -59,4 +59,4 @@ Place some water next to your crops so they can grow and to keep your farmland f
 
 As you watch your plants grow, you will notice a few visual changes. Carrots, potatoes, and nether wart will multiply, wheat will get longer, and melons and pumpkins will grow a block. If you have bone meal, you can use it on the crop to instantly make it grow and be ready for harvest. When it is time to harvest your crops, strike them with your hand to make them drop on the ground.
 
-That is about all you need to know to get started farming in Minecraft. [For more beginner's tips, check out this page](https://www.minecraft.net/en-us/minecraft-tips-for-beginners) or consider getting started in another area of the game, [Redstone](https://help.minecraft.net/hc/en-us/articles/360045950932).
+That is about all you need to know to get started farming in Minecraft. [For more beginner’s tips, check out this page](https://www.minecraft.net/en-us/minecraft-tips-for-beginners) or consider getting started in another area of the game, [Redstone](https://help.minecraft.net/hc/en-us/articles/360045950932).

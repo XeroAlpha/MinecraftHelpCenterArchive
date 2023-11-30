@@ -14,4 +14,4 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 
 **Fixes:**
 
--   Fixed an issue that prevented purchasing or renewing Realms on PlayStation
+- Fixed an issue that prevented purchasing or renewing Realms on PlayStation

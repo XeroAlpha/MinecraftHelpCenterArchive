@@ -11,22 +11,28 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004506952-Minecraft-1-4-3-iOS-Only-
 ---
 
-::: {style="direction: ltr; border-width: 100%;"}
-::: {style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.109in;"}
-::: {style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.109in;"}
-This hotfix is available only on iOS devices and is still compatible with other devices running version 1.4.2\
-\
+<div style="direction: ltr; border-width: 100%;">
 
-We want to thank all of you, our Minecraft players on iOS, for your patience and understanding as we worked through some bugs specific to your platform. Starting today (June 5, 2018) and for one month only, you can get the fun new map by Blockception, Kingdom Survival, for FREE! Just click the Unlock button in the top right corner of this screen or go to the Store in the game.\
-\
+<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.109in;">
 
-As this map will only be available to iOS players during the free month, you (temporarily) will not be able to use cross-platform play with this map. When the map releases to everyone after a month, you will still have the map and you can have your cross-platform friends join you in Kingdom Survival!\
-\
+<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.109in;">
 
-In Kingdom Survival you can explore a huge kingdom of castles, houses and wizard towers. Prepare to survive and make each area your home.\
-\
+This hotfix is available only on iOS devices and is still compatible with other devices running version 1.4.2  
+  
+
+We want to thank all of you, our Minecraft players on iOS, for your patience and understanding as we worked through some bugs specific to your platform. Starting today (June 5, 2018) and for one month only, you can get the fun new map by Blockception, Kingdom Survival, for FREE! Just click the Unlock button in the top right corner of this screen or go to the Store in the game.  
+  
+
+As this map will only be available to iOS players during the free month, you (temporarily) will not be able to use cross-platform play with this map. When the map releases to everyone after a month, you will still have the map and you can have your cross-platform friends join you in Kingdom Survival!  
+  
+
+In Kingdom Survival you can explore a huge kingdom of castles, houses and wizard towers. Prepare to survive and make each area your home.  
+  
 
 Please enjoy the free map and thank you again for your patience!
-:::
-:::
-:::
+
+</div>
+
+</div>
+
+</div>

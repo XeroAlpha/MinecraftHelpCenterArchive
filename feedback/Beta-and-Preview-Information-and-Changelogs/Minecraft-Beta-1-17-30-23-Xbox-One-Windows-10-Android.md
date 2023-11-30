@@ -14,11 +14,11 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4407848671117-Minecraft-B
 
 **PLEASE READ before participating in the Minecraft Beta: **
 
--   Joining the beta will replace your game with a work in progress version of Minecraft 
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
--   Beta builds can be unstable and are not representative of final version quality 
--   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Joining the beta will replace your game with a work in progress version of Minecraft 
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
+- Beta builds can be unstable and are not representative of final version quality 
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
  
 
@@ -38,41 +38,41 @@ These features are still in the early stages, but we would love to hear your fee
 
 **Multi Noise World Generation**
 
--   New and improved terrain and biome generation algorithm that creates more natural terrain and biome transitions
--   Improved surface decoration that detects the difference between when blocks are generated underwater and underground
--   Introduces large ore veins to world generation adding more strategy to mining
--   Introduces noodle caves to world generation, creating small pathways between bigger caves
--   Introduces the possibility of dry cave entrances that make it easier to access the new noise caves
--   Introduces a new algorithm that finds suitable spawn positions closer to origin
--   Added logic to save and load SubChunks by absolute Y index to support data-driven dimension height ranges
+- New and improved terrain and biome generation algorithm that creates more natural terrain and biome transitions
+- Improved surface decoration that detects the difference between when blocks are generated underwater and underground
+- Introduces large ore veins to world generation adding more strategy to mining
+- Introduces noodle caves to world generation, creating small pathways between bigger caves
+- Introduces the possibility of dry cave entrances that make it easier to access the new noise caves
+- Introduces a new algorithm that finds suitable spawn positions closer to origin
+- Added logic to save and load SubChunks by absolute Y index to support data-driven dimension height ranges
 
 # **Non-Experimental Features and Bug Fixes**
 
 ## **Gameplay**
 
--   Campfires and Soul Campfires now stack in the inventory ([MCPE-67890](https://bugs.mojang.com/browse/MCPE-67890))
--   Candle now drops when Candle Cake is pushed by a Piston ([MCPE-130594](https://bugs.mojang.com/browse/MCPE-130594))
--   Collecting Fish or Axolotl no longer immediately releases them ([[MCPE-44320](https://bugs.mojang.com/browse/MCPE-44320)]{.underline})
--   Renamed Structure Blocks will no longer have the incorrect data mode on creation ([MCPE-41625](https://bugs.mojang.com/browse/MCPE-41625))
--   Fall damage is no longer applied when falling into Scaffolding ([MCPE-108459](https://bugs.mojang.com/browse/MCPE-108459))
--   Fixed missing rightmost outline pixels on Signs when using §l for wide letters and Glow Ink Sac ([MCPE-137802](https://bugs.mojang.com/browse/MCPE-137802))
--   The Thorns enchantment now does Knockback to mobs ([MCPE-56212](https://bugs.mojang.com/browse/MCPE-56212))
--   Tweaked Iron Golem spawning logic to better match the Java Edition
--   Crimson Roots now have a small chance of growing on Warped Nylium blocks when using Bone Meal ([MCPE-83616](https://bugs.mojang.com/browse/MCPE-83616))
+- Campfires and Soul Campfires now stack in the inventory ([MCPE-67890](https://bugs.mojang.com/browse/MCPE-67890))
+- Candle now drops when Candle Cake is pushed by a Piston ([MCPE-130594](https://bugs.mojang.com/browse/MCPE-130594))
+- Collecting Fish or Axolotl no longer immediately releases them (<u>[MCPE-44320](https://bugs.mojang.com/browse/MCPE-44320)</u>)
+- Renamed Structure Blocks will no longer have the incorrect data mode on creation ([MCPE-41625](https://bugs.mojang.com/browse/MCPE-41625))
+- Fall damage is no longer applied when falling into Scaffolding ([MCPE-108459](https://bugs.mojang.com/browse/MCPE-108459))
+- Fixed missing rightmost outline pixels on Signs when using §l for wide letters and Glow Ink Sac ([MCPE-137802](https://bugs.mojang.com/browse/MCPE-137802))
+- The Thorns enchantment now does Knockback to mobs ([MCPE-56212](https://bugs.mojang.com/browse/MCPE-56212))
+- Tweaked Iron Golem spawning logic to better match the Java Edition
+- Crimson Roots now have a small chance of growing on Warped Nylium blocks when using Bone Meal ([MCPE-83616](https://bugs.mojang.com/browse/MCPE-83616))
 
 ## **Commands**
 
--   The \'/spawnpoint\' command can now be used while the player is sleeping and outputs success when setting to the player\'s existing spawnpoint ([MCPE-106720](https://bugs.mojang.com/browse/MCPE-106720))
--   The camera shake command no longer shakes every player\'s screen when \"@s\" is used as the selector ([MCPE-120383](https://bugs.mojang.com/browse/MCPE-120383))
+- The '/spawnpoint' command can now be used while the player is sleeping and outputs success when setting to the player's existing spawnpoint ([MCPE-106720](https://bugs.mojang.com/browse/MCPE-106720))
+- The camera shake command no longer shakes every player's screen when "@s" is used as the selector ([MCPE-120383](https://bugs.mojang.com/browse/MCPE-120383))
 
 ## **Marketplace**
 
--   Fixed \"CR\" characters incorrectly appearing at the end of lines for some display languages
+- Fixed "CR" characters incorrectly appearing at the end of lines for some display languages
 
 ## **User Interface**
 
--   Fixed a bug that could cause the Sign In button to appear behind the Marketplace button
--   Fixed the Noto Sans Smooth font on Windows and Xbox platforms with the Japanese locale to address legibility and usage of correct characters
+- Fixed a bug that could cause the Sign In button to appear behind the Marketplace button
+- Fixed the Noto Sans Smooth font on Windows and Xbox platforms with the Japanese locale to address legibility and usage of correct characters
 
  
 
@@ -80,38 +80,38 @@ These features are still in the early stages, but we would love to hear your fee
 
 ## **Actors**
 
--   Fixed movement prediction interpolating with invalid data in even more scenarios ([MCPE-108568](https://bugs.mojang.com/browse/MCPE-108568))
+- Fixed movement prediction interpolating with invalid data in even more scenarios ([MCPE-108568](https://bugs.mojang.com/browse/MCPE-108568))
 
 ## **Items**
 
--   Fixed crash after firing a transform item event
+- Fixed crash after firing a transform item event
 
 ## **Molang**
 
--   Added experimental queries for item cooldowns: \'query.is_cooldown_type\', \'query.cooldown_time\', and \'query.cooldown_time_remaining\'
--   Updated many Molang content errors to specify which operator or query was involved
+- Added experimental queries for item cooldowns: 'query.is_cooldown_type', 'query.cooldown_time', and 'query.cooldown_time_remaining'
+- Updated many Molang content errors to specify which operator or query was involved
 
 ## **Commands**
 
--   The \"run_command\" event response now will properly use versioned commands
+- The "run_command" event response now will properly use versioned commands
 
 ## **Data-Driven Items**
 
--   Updated documentation for \'IconItemComponent\' and it now provides a list of all IDs for the \'legacy_id\' field
+- Updated documentation for 'IconItemComponent' and it now provides a list of all IDs for the 'legacy_id' field
 
 ## **Data-Driven Sounds**
 
--   Removed the \"replace\" element from \'sound_definitions.json\' for being ambiguous in its usage (and was never used)
+- Removed the "replace" element from 'sound_definitions.json' for being ambiguous in its usage (and was never used)
 
 ## **Gameplay**
 
--   Data-driven blocks can now be added to the Creative menu
--   Knockback Roar is no longer stronger than it used to be
+- Data-driven blocks can now be added to the Creative menu
+- Knockback Roar is no longer stronger than it used to be
 
 ## **Graphical**
 
--   Fixed particles not emitting when using animation controllers
+- Fixed particles not emitting when using animation controllers
 
 ## **Player**
 
--   Attachables that are visible in first person will no longer render backwards
+- Attachables that are visible in first person will no longer render backwards

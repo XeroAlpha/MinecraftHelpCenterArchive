@@ -5,7 +5,7 @@ updated: 2023-09-18T15:14:42Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4408896232461-Android-Technical-Support-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4408896232461-Android-Technical-Support-FAQ-
 ---
 
 This article provides Android technical support processes for you to follow as well as general knowledge about Minecraft: Bedrock Edition on Android devices.
@@ -28,15 +28,15 @@ For Minecraft Realms on OS 7 (Nougat) or lower devices, your Realm subscription 
 
 If you are on a device that has more than 1GB of RAM, OpenGL ES 3.0 or higher, and runs Android 8 or higher, and are still experiencing issues, these solutions may help improve stability:
 
--   Upgrade to the most recent version of the Android operating system (OS).    
--   In the **Settings** menu: 
-    -   Reduce the **Render Distance** in the **Video** section from the default of 20 to 16. You can try going lower if necessary.
--   Change the **Graphics **setting to **Fast**. This reduces graphic resolution quality but enables the device to render faster.   
--   Change the **Clouds** setting to **Off**.    
--   Change the **Particles** setting to **Decreased** or **Minimal**. This removes particle effects like smoke.   
--   If you have additional programs running in the background on the device, pause or exit those programs to free up more processing power for Minecraft. 
+- Upgrade to the most recent version of the Android operating system (OS).    
+- In the **Settings** menu: 
+  - Reduce the **Render Distance** in the **Video** section from the default of 20 to 16. You can try going lower if necessary.
+- Change the **Graphics **setting to **Fast**. This reduces graphic resolution quality but enables the device to render faster.   
+- Change the **Clouds** setting to **Off**.    
+- Change the **Particles** setting to **Decreased** or **Minimal**. This removes particle effects like smoke.   
+- If you have additional programs running in the background on the device, pause or exit those programs to free up more processing power for Minecraft. 
 
-**Note: Playing the game on an older version of the operating system may impact your gameplay experience with continued performance issues. It's highly recommended that you upgrade to the latest version of the OS. **
+**Note: Playing the game on an older version of the operating system may impact your gameplay experience with continued performance issues. It’s highly recommended that you upgrade to the latest version of the OS. **
 
 ## I purchased Minecraft: Bedrock Edition, but it is not appearing in my Google Play Family library 
 

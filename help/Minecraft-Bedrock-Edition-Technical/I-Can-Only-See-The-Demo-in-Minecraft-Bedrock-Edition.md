@@ -13,23 +13,23 @@ tags:
   - platform_PC
   - platform_xbox_series_x/s
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition
 ---
 
-If you\'re trying to play Minecraft: Bedrock Edition and only have access to the \'demo\' or \'trial\' for the game, this article is for you.
+If you're trying to play Minecraft: Bedrock Edition and only have access to the 'demo' or 'trial' for the game, this article is for you.
 
 # In This Article:
 
--   [What is the Demo in Minecraft: Bedrock Edition?](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBWGC8PQ9NWZZEAN4F6X3A5)
+- [What is the Demo in Minecraft: Bedrock Edition?](#what-is-the-demo-in-minecraft-bedrock-edition)
 
--   [I Can Only Play Demo Mode in Minecraft: Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBWFBG5XE45VWEEPGBACE6Y)
+- [I Can Only Play Demo Mode in Minecraft: Bedrock Edition](#i-can-only-play-demo-mode-in-minecraft-bedrock-edition)
 
--   -   [You Haven\'t Bought Minecraft: Bedrock Edition, And You\'re on PC or Xbox](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBVZMKGTEEVG9560PNZ3ESR)
-    -   [You\'re Not Logged in, And You\'re on PC or Xbox](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBVZSE4CKBRHNHJ0HHS2E4X)
-    -   [You Haven\'t Bought Minecraft: Bedrock Edition, and You\'re on PlayStation](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBVZXT20YD602HBTEJ8074C)
-    -   [You\'re Not Logged in, And You\'re on PlayStation](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBW02DJGREE748GHY9VAD0B)
-    -   [You Haven\'t Bought Minecraft: Bedrock Edition, And You\'re on Android](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBWKCVG7DQZM42C5NHTV249)
-    -   [You\'re Not Logged in, And You\'re on Android](https://minecrafthelp.zendesk.com/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition#h_01GPBWKKSA3CR6HZ2C2HFXDV28)
+- - [You Haven't Bought Minecraft: Bedrock Edition, And You're on PC or Xbox](#you-havent-bought-minecraft-bedrock-edition-and-youre-on-pc-or-xbox)
+  - [You're Not Logged in, And You're on PC or Xbox](#youre-not-logged-in-and-youre-on-pc-or-xbox)
+  - [You Haven't Bought Minecraft: Bedrock Edition, and You're on PlayStation](#you-havent-bought-minecraft-bedrock-edition-and-youre-on-playstation)
+  - [You're Not Logged in, And You're on PlayStation](#youre-not-logged-in-and-youre-on-playstation)
+  - [You Haven't Bought Minecraft: Bedrock Edition, And You're on Android](#you-havent-bought-minecraft-and-youre-on-android)
+  - [You're Not Logged in, And You're on Android](#youre-not-logged-in-and-youre-on-android)
 
 ## What is the Demo in Minecraft: Bedrock Edition?
 
@@ -37,37 +37,37 @@ The demo, or trial, for Minecraft: Bedrock Edition is a limited version of Minec
 
 The demo is restricted in a few of the following ways:
 
--   90 minutes of play.
--   No online multiplayer, LAN, or Realms access.
--   Access to Survival mode only.
--   No ability to change World Seed or World Options.
+- 90 minutes of play.
+- No online multiplayer, LAN, or Realms access.
+- Access to Survival mode only.
+- No ability to change World Seed or World Options.
 
 Please buy the full version of Minecraft: Bedrock Edition to remove these restrictions.
 
 ## I Can Only Play Demo Mode in Minecraft: Bedrock Edition
 
-There are a few reasons why you might only have access to the trial version of Minecraft: Bedrock Edition. Let\'s break them down.
+There are a few reasons why you might only have access to the trial version of Minecraft: Bedrock Edition. Let's break them down.
 
-### You Haven\'t Bought Minecraft: Bedrock Edition, And You\'re on PC or Xbox
+### You Haven't Bought Minecraft: Bedrock Edition, And You're on PC or Xbox
 
-If you\'re trying to play Minecraft: Bedrock Edition on PC or Xbox, but only have access to the Trial version, you might not have bought Minecraft. If you\'re on PC and want to buy Minecraft, we now offer Minecraft: Bedrock Edition and Minecraft: Java Edition in the same bundle! [Use this article](https://help.minecraft.net/hc/en-us/articles/6657208607501-Minecraft-Java-Bedrock-Edition-for-PC-FAQ) to get started.
+If you're trying to play Minecraft: Bedrock Edition on PC or Xbox, but only have access to the Trial version, you might not have bought Minecraft. If you're on PC and want to buy Minecraft, we now offer Minecraft: Bedrock Edition and Minecraft: Java Edition in the same bundle! [Use this article](./Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md) to get started.
 
-### You\'re Not Logged in, And You\'re on PC or Xbox
+### You're Not Logged in, And You're on PC or Xbox
 
-If you\'re not logged into the Microsoft Account that owns Minecraft: Bedrock Edition, the Microsoft or Xbox Store will show that you don\'t own the game and offer you the Trial version. Please make sure you\'re signed into the Microsoft Account that owns Minecraft.
+If you're not logged into the Microsoft Account that owns Minecraft: Bedrock Edition, the Microsoft or Xbox Store will show that you don't own the game and offer you the Trial version. Please make sure you're signed into the Microsoft Account that owns Minecraft.
 
-### You Haven\'t Bought Minecraft: Bedrock Edition, and You\'re on PlayStation
+### You Haven't Bought Minecraft: Bedrock Edition, and You're on PlayStation
 
-If you\'re trying to play Minecraft: Bedrock Edition on PlayStation but only have access to the Demo version, you might not have bought Minecraft: Bedrock Edition. Please buy Minecraft: Bedrock Edition to gain access to the full version.
+If you're trying to play Minecraft: Bedrock Edition on PlayStation but only have access to the Demo version, you might not have bought Minecraft: Bedrock Edition. Please buy Minecraft: Bedrock Edition to gain access to the full version.
 
-### You\'re Not Logged in, And You\'re on PlayStation
+### You're Not Logged in, And You're on PlayStation
 
-If you\'re not logged into the PlayStation account that owns Minecraft: Bedrock Edition, the store will show that you don\'t own the game and will offer you the Demo version. Please make sure you\'re signed into the PlayStation account that owns Minecraft: Bedrock Edition.
+If you're not logged into the PlayStation account that owns Minecraft: Bedrock Edition, the store will show that you don't own the game and will offer you the Demo version. Please make sure you're signed into the PlayStation account that owns Minecraft: Bedrock Edition.
 
-### You Haven\'t Bought Minecraft, And You\'re on Android
+### You Haven't Bought Minecraft, And You're on Android
 
-If you\'re trying to play Minecraft: Bedrock Edition on Android but only have access to the trial version, you might not have bought Minecraft: Bedrock Edition. Please buy Minecraft: Bedrock Edition to gain access to the full version.
+If you're trying to play Minecraft: Bedrock Edition on Android but only have access to the trial version, you might not have bought Minecraft: Bedrock Edition. Please buy Minecraft: Bedrock Edition to gain access to the full version.
 
-### You\'re Not Logged in, And You\'re on Android
+### You're Not Logged in, And You're on Android
 
-If you\'re not logged into the Google Play account that owns Minecraft: Bedrock Edition, the Google Play Store will show that you don\'t own the game and offer you the trial version. Please make sure you\'re signed into the Google Play account that owns Minecraft: Bedrock Edition.
+If you're not logged into the Google Play account that owns Minecraft: Bedrock Edition, the Google Play Store will show that you don't own the game and offer you the trial version. Please make sure you're signed into the Google Play account that owns Minecraft: Bedrock Edition.

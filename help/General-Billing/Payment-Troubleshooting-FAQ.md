@@ -25,47 +25,46 @@ tags:
   - platform_pc
   - platform_PC
   - section_12619005712013
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ
 ---
 
 This article details various payment issues you might face, and solutions to those issues.
 
 # In This Article:
 
--   **[I can\'t make a purchase](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ#h_01FFGQDH4VJCEJ3KJDYTYG4A60)**
--   **[I\'ve been charged more than once](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ#h_01FFGQFJPNCFEJFGP533FAW13Y)**
--   **[I accidentally disputed charges](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ#h_01FG52AS46Z175T663PAZBPE8B)**
--   **[When will I receive my game](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ#h_01FFGQG2F4ZMWCEWGJF8HAG6SC)**
+- **[I can't make a purchase](#i-cant-make-a-purchase)**
+- **[I've been charged more than once](#ive-been-charged-more-than-once)**
+- **[I accidentally disputed charges](#i-accidentally-disputed-charges)**
+- **[When will I receive my game](#h_01FFGQG2F4ZMWCEWGJF8HAG6SC)**
 
-## I can't make a purchase
+## I can’t make a purchase
 
 Payment errors are often difficult to track down; they can happen in different steps of the payment process for a few reasons.
 
 ### Troubleshoot Purchasing
 
 1.  Try your purchase on another web browser or device, and make sure that the browser is the most current version.
-2.  Try a different payment method in the online store. There are several different payment methods available.\
+2.  Try a different payment method in the online store. There are several different payment methods available.  
     **Note**: Payment methods may vary depending on your country.
 3.  If you are still not able to make a purchase, you may be able to buy a **Minecraft prepaid card** from a retail store and use that. Minecraft prepaid cards can be used on a Microsoft account (that does not already own a copy of the game) and entitle the cardholder to one Minecraft license (one copy of Minecraft).
-    -   If you have purchased a Minecraft: Java Edition prepaid card at a retail store, you can redeem your code by visiting our site at [minecraft.net/redeem](https://www.minecraft.net/en-us/redeem/) and clicking **REDEEM JAVA EDITION**. You will be prompted to login or create a Microsoft account. Once this is complete you can redeem your code and finish setting up your Minecraft profile.
+    - If you have purchased a Minecraft: Java Edition prepaid card at a retail store, you can redeem your code by visiting our site at [minecraft.net/redeem](https://www.minecraft.net/en-us/redeem/) and clicking **REDEEM JAVA EDITION**. You will be prompted to login or create a Microsoft account. Once this is complete you can redeem your code and finish setting up your Minecraft profile.
 
 If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift Code Redemption Issues](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ#h_01FG55B88ZZ02B559E7Q30BAEV).
 
 ### Troubleshoot Making a Realms Purchase
 
--   International Purchasing
-    -   Check with your card provider to allow international purchases as Mojang is based in Sweden. Also verify that you have sufficient funds and that there are no other issues with the purchase. 
-    -   If you're not in the same country as the credit or debit card was issued, the purchase may not go through. Check with your card provider.
+- International Purchasing
+  - Check with your card provider to allow international purchases as Mojang is based in Sweden. Also verify that you have sufficient funds and that there are no other issues with the purchase. 
+  - If you’re not in the same country as the credit or debit card was issued, the purchase may not go through. Check with your card provider.
 
-```{=html}
 <!-- -->
-```
--   US Purchasing
-    -   You cannot make a purchase from outside of the US using a credit or debit card issued in the US. 
-    -   Due to US law, many or all prepaid debit cards (such as Visa Vanilla) purchased in the US will not work for purchases in our online store, as Mojang is located outside of the US.
-    -   Gift codes are not available for purchase in our online store from the US. Please consider buying a [Minecraft prepaid card](https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Gift-Code-Issues-FAQ-#h_01FG54MNJPQZFATPDWR75NMY2D) or a gift code on [amazon.com](https://www.amazon.com/Minecraft-Mac-Online-Game-Code/dp/B010KYDNDG/ref=dp_olp_1?th=1). 
 
-## I've been charged more than once
+- US Purchasing
+  - You cannot make a purchase from outside of the US using a credit or debit card issued in the US. 
+  - Due to US law, many or all prepaid debit cards (such as Visa Vanilla) purchased in the US will not work for purchases in our online store, as Mojang is located outside of the US.
+  - Gift codes are not available for purchase in our online store from the US. Please consider buying a [Minecraft prepaid card](https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Gift-Code-Issues-FAQ-#h_01FG54MNJPQZFATPDWR75NMY2D) or a gift code on [amazon.com](https://www.amazon.com/Minecraft-Mac-Online-Game-Code/dp/B010KYDNDG/ref=dp_olp_1?th=1). 
+
+## I’ve been charged more than once
 
 There are a few situations where a second charge may appear or seem to appear after a purchase:
 
@@ -93,7 +92,7 @@ Occasionally there is an issue where a failed transaction sends a customer to th
 
 **Note: Because you cannot purchase a game twice on the same account, if you were not charged, you may wish to try your purchase again.**
 
-If you\'ve received a call from your credit card company asking if you would like to authorize an international transaction, they may have interrupted the payment process, even if they eventually let the transaction go through. First verify that your credit card was charged; it is possible that the hold caused us not to be notified of the purchase. If not, you can wait for a charge to process or try your purchase again. If you were charged, contact us and provide your [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) or [order number](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-).
+If you've received a call from your credit card company asking if you would like to authorize an international transaction, they may have interrupted the payment process, even if they eventually let the transaction go through. First verify that your credit card was charged; it is possible that the hold caused us not to be notified of the purchase. If not, you can wait for a charge to process or try your purchase again. If you were charged, contact us and provide your [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) or [order number](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-).
 
 If you were charged and you have a [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) or order number for your purchase, contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
 

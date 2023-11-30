@@ -13,12 +13,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168271-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-\
+  
 **Bug Fixes:**
 
--   **Crashes/Performance**
+- **Crashes/Performance**
 
--   -   Fixed a UI/performance issue with the in-game store on partnered servers
+- - Fixed a UI/performance issue with the in-game store on partnered servers
 
 <div>
 

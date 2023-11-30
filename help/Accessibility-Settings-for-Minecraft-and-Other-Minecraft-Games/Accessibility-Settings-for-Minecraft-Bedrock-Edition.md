@@ -16,29 +16,29 @@ tags:
   - platform_kindle_fire
   - platform_oculus
   - section_12618985151885
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition
 ---
 
 We believe everyone should be empowered and enabled to play Minecraft: Bedrock Edition. This article will focus on options available in Minecraft: Bedrock Edition on Xbox, Windows, Switch, Chromebook, PlayStation, and a few other platforms.
 
 # In This Article:
 
--   [Minecraft: Bedrock Edition Accessibility Menu ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKH9PQ7WEFEWXJJ0DVYE16X)
--   [Accessible Menu Navigation and Narration](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKH9W0JEMA1AH5AAJ1PSH6S)
-    -   [About Menu UI Narration](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHA1A06KKMXJVZ1GC8B9V9)
-    -   [Tips on Navigating Menus ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHA71AG0ADJ6S48EKB66W2)
-    -   [Text to Speech Volume ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHAD5W8B24S163Q6HTM714)
--   [Accessible Chat Using Text-to-Speech ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHAJE1P02233YQ9NWH6J33)
-    -   [To enable text-to-speech for chat](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHAQNH44976EY81AJ8FFKT)
-    -   [Tips on using text-to-speech for chat](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHAZ1YA06VRQPB1Y6WP70E)
--   [Other Settings in the Accessibility Menu ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHB4XS9DDPVGS0ER5T638X)
-    -   [Text Background Opacity ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHBBVEJHC8YCD98ADECVTW)
-    -   [Camera Shake ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHBMA4YB4TW0K2JDWWAY0Y)
--   [Other Accessibility Settings in Minecraft: Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHBTCDRWY1DYYXK4KJ7XAF)
-    -   [Chat Text Styles  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHC09G570D99BT1GVMXZVC)
-    -   [Auto-Jump](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHC68PG0Y2H5W04B30GX53)
-    -   [Audio Settings](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHCBXYFRGFGY2YQCJAGPB5)
-    -   [Re-Map Controls](https://minecrafthelp.zendesk.com/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition#h_01GDKHCH8A7BT5YGZFS6W0XZSX)
+- [Minecraft: Bedrock Edition Accessibility Menu ](#minecraft-bedrock-edition-accessibility-menu)
+- [Accessible Menu Navigation and Narration](#accessible-menu-navigation-and-narration)
+  - [About Menu UI Narration](#about-menu-ui-narration)
+  - [Tips on Navigating Menus ](#tips-on-navigating-menus)
+  - [Text to Speech Volume ](#text-to-speech-volume)
+- [Accessible Chat Using Text-to-Speech ](#accessible-chat-using-text-to-speech)
+  - [To enable text-to-speech for chat](#to-enable-text-to-speech-for-chat)
+  - [Tips on using text-to-speech for chat](#tips-on-using-text-to-speech-for-chat)
+- [Other Settings in the Accessibility Menu ](#other-settings-in-the-accessibility-menu)
+  - [Text Background Opacity ](#text-background-opacity)
+  - [Camera Shake ](#camera-shake)
+- [Other Accessibility Settings in Minecraft: Bedrock Edition](#other-accessibility-settings-in-minecraft-bedrock-edition)
+  - [Chat Text Styles  ](#chat-text-styles)
+  - [Auto-Jump](#auto-jump)
+  - [Audio Settings](#audio-settings)
+  - [Re-Map Controls](#re-map-controls)
 
 View the [Accessibility Settings for Minecraft: Java Edition article](https://aka.ms/MC-Java-ACC-Features) to learn about options available in the Java Edition.
 
@@ -52,19 +52,19 @@ All versions of Minecraft: Bedrock Edition (using English as a language) include
 
 ### About Menu UI Narration
 
--   If you have a screen reader enabled in your platform settings, Minecraft: Bedrock Edition will automatically enable menu UI narration when the game is launched. 
--   You can manage the ability to recognize platform settings using **the Text to Speech with Device Settings** toggle.
--   Menu UI narration can be enabled and disabled in the Accessibility Menu in Settings using the **Text To Speech for UI** toggle 
+- If you have a screen reader enabled in your platform settings, Minecraft: Bedrock Edition will automatically enable menu UI narration when the game is launched. 
+- You can manage the ability to recognize platform settings using **the Text to Speech with Device Settings** toggle.
+- Menu UI narration can be enabled and disabled in the Accessibility Menu in Settings using the **Text To Speech for UI** toggle 
 
 ### Tips on Navigating Menus 
 
--   Use arrow keys to navigate all menus in Minecraft: Bedrock Edition on PC. 
--   Use the Escape key as a shortcut to go back to the previous selection or close the current screen in Minecraft: Bedrock Edition on PC. 
--   Some screens, like the Play screen, contain tabs that are used to navigate different sections of the screen. Use the left bracket and right bracket keys (on a keyboard), or the RB and LB buttons (on a controller) to switch between tabs. 
+- Use arrow keys to navigate all menus in Minecraft: Bedrock Edition on PC. 
+- Use the Escape key as a shortcut to go back to the previous selection or close the current screen in Minecraft: Bedrock Edition on PC. 
+- Some screens, like the Play screen, contain tabs that are used to navigate different sections of the screen. Use the left bracket and right bracket keys (on a keyboard), or the RB and LB buttons (on a controller) to switch between tabs. 
 
 ### Text to Speech Volume 
 
-Use the **Text-to-Speech** slider to adjust the volume of the narration. \
+Use the **Text-to-Speech** slider to adjust the volume of the narration.   
 
 ## Accessible Chat Using Text-to-Speech 
 
@@ -72,14 +72,14 @@ Minecraft: Bedrock Edition includes an option to use text-to-speech for chat dur
 
 ### To enable text-to-speech for chat
 
--   Use the **Text To Speech For Chat** toggle enable text-to-speech for chat  
--   Use the **Enable Open Chat Message** toggle to turn on or off the notification that the chat window is open 
--   Use the keyboard shortcut Ctrl+B at any point during a game session to enable text-to-speech for chat. 
+- Use the **Text To Speech For Chat** toggle enable text-to-speech for chat  
+- Use the **Enable Open Chat Message** toggle to turn on or off the notification that the chat window is open 
+- Use the keyboard shortcut Ctrl+B at any point during a game session to enable text-to-speech for chat. 
 
 ### Tips on using text-to-speech for chat
 
--   Navigate to previously sent chat messages using the arrow keys on a keyboard or the left-thumbstick on a controller. 
--   Use the Escape key, or B button on a controller, when you have the text field selected to back out and navigate the chat screen on keyboard. \
+- Navigate to previously sent chat messages using the arrow keys on a keyboard or the left-thumbstick on a controller. 
+- Use the Escape key, or B button on a controller, when you have the text field selected to back out and navigate the chat screen on keyboard.   
 
 ## Other Settings in the Accessibility Menu 
 
@@ -97,17 +97,17 @@ The following settings can be found in other areas of the game.
 
 ### Chat Text Styles  
 
-There are a variety of options to change the appearance of chat text. \
+There are a variety of options to change the appearance of chat text.   
 
 Click the gear icon next to the chat input box to access the **Chat Settings menu** and change how your chat font appears. Settings include: 
 
--   Mute All Chat toggle 
--   Text To Speech For Chat toggle 
--   Font type 
--   Size 
--   Line Spacing 
--   Text Color 
--   My Mentions Color 
+- Mute All Chat toggle 
+- Text To Speech For Chat toggle 
+- Font type 
+- Size 
+- Line Spacing 
+- Text Color 
+- My Mentions Color 
 
 ### Auto-Jump
 

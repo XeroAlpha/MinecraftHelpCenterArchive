@@ -8,11 +8,11 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360049439612-Minecraft-1-
 
 **Posted:** September 22, 2020
 
-You've been asking for it, and it's here at last -- PlayStation®VR support has arrived for Minecraft! Get ready to see the world from a whole new perspective with a DUALSHOCK®4 wireless controller, PlayStation®Camera, and PlayStation®VR headset starting today.  Once you launch into the game, be sure to watch your step because those chickens may be larger than you initially thought.
+You’ve been asking for it, and it’s here at last – PlayStation®VR support has arrived for Minecraft! Get ready to see the world from a whole new perspective with a DUALSHOCK®4 wireless controller, PlayStation®Camera, and PlayStation®VR headset starting today.  Once you launch into the game, be sure to watch your step because those chickens may be larger than you initially thought.
 
--   VR support is included free for all PlayStation®4 Minecraft owners
--   Includes Immersive Mode and Living Room Mode to play the way you want
--   Introduces a slew of new settings to customize your VR experience
+- VR support is included free for all PlayStation®4 Minecraft owners
+- Includes Immersive Mode and Living Room Mode to play the way you want
+- Introduces a slew of new settings to customize your VR experience
 
 Be sure to check out [aka.ms/PSVRFAQ](https://aka.ms/PSVRFAQ) for more details on this update and an in-depth look into VR customization. We want to know what you think about this new feature. If you encounter any issues, please visit [bugs.mojang.com](https://bugs.mojang.com/) and provide any new suggestions at [feedback.minecraft.net](https://feedback.minecraft.net/) in the User Interface, Input Methods and Menu Options category.
 

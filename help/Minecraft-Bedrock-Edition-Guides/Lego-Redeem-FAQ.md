@@ -5,12 +5,12 @@ updated: 2023-01-23T17:27:04Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360042547152-Lego-Redeem-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/360042547152-Lego-Redeem-FAQ-
 ---
 
 ## How can I get the LEGO® Minecraft Dragon Slayer character skin? 
 
-If you want to do battle with the ender dragon and need that awesome Dragon Slayer character skin, then you'll need the unique code that comes in the LEGO Minecraft 21151 -- The End Battle set. After you redeem the code and have the character skin, you'll be ready to battle! Get your Minecraft LEGO set on the [LEGO website](https://shop.lego.com/).
+If you want to do battle with the ender dragon and need that awesome Dragon Slayer character skin, then you’ll need the unique code that comes in the LEGO Minecraft 21151 – The End Battle set. After you redeem the code and have the character skin, you’ll be ready to battle! Get your Minecraft LEGO set on the [LEGO website](https://shop.lego.com/).
 
 ## What will I get from redeeming the code?
 
@@ -22,7 +22,7 @@ Your code is unique and works only once. This means that you can only redeem the
 
 ## How do I get a code?
 
-You can find the code in the LEGO Minecraft set 21151 -- The End Battle. 
+You can find the code in the LEGO Minecraft set 21151 – The End Battle. 
 
 ## Where do I find my code in the box?
 
@@ -52,12 +52,12 @@ Yes, we use Xbox Live with your Microsoft account to enable your cha
 
 You can see these links for useful help:  
 
--   [View Downloadable Content](https://support.xbox.com/en-US/help/games-apps/my-games-apps/view-downloadable-content) 
--   [Redeeming a Prepaid Code](https://support.xbox.com/en-US/help/subscriptions-billing/redeem-codes-gifting/redeem-prepaid-codes) 
+- [View Downloadable Content](https://support.xbox.com/en-US/help/games-apps/my-games-apps/view-downloadable-content) 
+- [Redeeming a Prepaid Code](https://support.xbox.com/en-US/help/subscriptions-billing/redeem-codes-gifting/redeem-prepaid-codes) 
 
 ## Do I need a special version of Minecraft to redeem the code?
 
-You will need a Bedrock version of Minecraft to access your redeemed content. You need to redeem the code to the specific Microsoft account you want the content to be tied to. After you do this, you must sign in to Minecraft with that account on any device that has the game available in a Bedrock version. You must make sure the game is listed as "Minecraft" for this content to work properly. For example, games that are not listed as "Minecraft" but instead listed as something like "Minecraft: Xbox One Edition" or "Minecraft: Wii U Edition" will not sync in-game items.
+You will need a Bedrock version of Minecraft to access your redeemed content. You need to redeem the code to the specific Microsoft account you want the content to be tied to. After you do this, you must sign in to Minecraft with that account on any device that has the game available in a Bedrock version. You must make sure the game is listed as “Minecraft” for this content to work properly. For example, games that are not listed as “Minecraft” but instead listed as something like “Minecraft: Xbox One Edition” or “Minecraft: Wii U Edition” will not sync in-game items.
 
 ## How do I activate my character skin in the game?
 
@@ -69,4 +69,4 @@ If you have access to the Minecraft Bedrock version, you should be able to redee
 
 ## How do I get help?
 
-For any issues with the Minecraft game reach out to [Minecraft Support](https://aka.ms/Minecraft-Support). If you're having problems with the code or your LEGO set, please contact LEGO [Customer Service](https://www.lego.com/service).
+For any issues with the Minecraft game reach out to [Minecraft Support](https://aka.ms/Minecraft-Support). If you’re having problems with the code or your LEGO set, please contact LEGO [Customer Service](https://www.lego.com/service).

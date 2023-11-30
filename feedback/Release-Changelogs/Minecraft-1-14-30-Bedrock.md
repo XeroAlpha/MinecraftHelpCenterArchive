@@ -12,60 +12,54 @@ Our developers have been hard at work getting top issues addressed for this hotf
 
 **Fixes:**
 
--   **Crashes / Performance**
-    -   Fixed several crashes that could occur during gameplay
-    -   256x resolution packs are now restricted on Xbox One to prevent crashing
-        -   This is a temporary solution until we have the crashing issue resolved
-    -   Fixed a crash that could occur in certain worlds ([MCPE-59756](https://bugs.mojang.com/browse/MCPE-59756))
+- **Crashes / Performance**
+  - Fixed several crashes that could occur during gameplay
+  - 256x resolution packs are now restricted on Xbox One to prevent crashing
+    - This is a temporary solution until we have the crashing issue resolved
+  - Fixed a crash that could occur in certain worlds ([MCPE-59756](https://bugs.mojang.com/browse/MCPE-59756))
 
-```{=html}
 <!-- -->
-```
--   **General**
-    -   Split-screen will now display a message to join when the main controller is disconnected
-    -   Realms can no longer be purchased if not logged into Xbox Live
-    -   Players that are not linked to a Nintendo account on Switch are once again able to edit characters
-    -   Fixed an issue where joinable friends on Nintendo Switch were still visible after the world has been closed
 
-```{=html}
-<!-- -->
-```
--   **Gameplay**
-    -   Auto-jump will no longer trigger unexpectedly when trying to walk through open doors ([MCPE-52213](https://bugs.mojang.com/browse/MCPE-52213))
-        -   Further fixes will be made in the future to allow auto-jump to work more consistently, for example, when trying to jump up one block through an open door
+- **General**
+  - Split-screen will now display a message to join when the main controller is disconnected
+  - Realms can no longer be purchased if not logged into Xbox Live
+  - Players that are not linked to a Nintendo account on Switch are once again able to edit characters
+  - Fixed an issue where joinable friends on Nintendo Switch were still visible after the world has been closed
 
-```{=html}
 <!-- -->
-```
--   **Blocks**
-    -   Restored kelp growth to its proper, faster rate ([MCPE-57330](https://bugs.mojang.com/browse/MCPE-57330))
-    -   Bamboo in Flower Pots are no longer empty after converting a world from Editions
 
-```{=html}
-<!-- -->
-```
--   **Items**
-    -   Crafting multiple Honey Blocks now returns the correct amount of empty glass bottles on a 2x2 grid ([MCPE-58579](https://bugs.mojang.com/browse/MCPE-58579))
+- **Gameplay**
+  - Auto-jump will no longer trigger unexpectedly when trying to walk through open doors ([MCPE-52213](https://bugs.mojang.com/browse/MCPE-52213))
+    - Further fixes will be made in the future to allow auto-jump to work more consistently, for example, when trying to jump up one block through an open door
 
-```{=html}
 <!-- -->
-```
--   **User Interface**
-    -   The \'Sign In\' button is now scaled properly on all platforms
-    -   Fixed placeholder text appearing on the pause menu when hosting a game without an internet connection
 
-```{=html}
+- **Blocks**
+  - Restored kelp growth to its proper, faster rate ([MCPE-57330](https://bugs.mojang.com/browse/MCPE-57330))
+  - Bamboo in Flower Pots are no longer empty after converting a world from Editions
+
 <!-- -->
-```
--   **Add-Ons**
-    -   Entities no longer stop moving when the \'circle_around_anchor\' behavior is added via a component group added by an event and/or there was a block close to their hitbox
+
+- **Items**
+  - Crafting multiple Honey Blocks now returns the correct amount of empty glass bottles on a 2x2 grid ([MCPE-58579](https://bugs.mojang.com/browse/MCPE-58579))
+
+<!-- -->
+
+- **User Interface**
+  - The 'Sign In' button is now scaled properly on all platforms
+  - Fixed placeholder text appearing on the pause menu when hosting a game without an internet connection
+
+<!-- -->
+
+- **Add-Ons**
+  - Entities no longer stop moving when the 'circle_around_anchor' behavior is added via a component group added by an event and/or there was a block close to their hitbox
 
 **Realms Fixes:**
 
-We released an update to Realms on February 25^th^ to fix several issues that players encountered. No game update needed!
+We released an update to Realms on February 25<sup>th</sup> to fix several issues that players encountered. No game update needed!
 
--   Fixed a crash that could occur when playing on Realms (278539)
--   Fixed chunks regenerating to their original state (289459 / [REALMS-2619](https://bugs.mojang.com/browse/REALMS-2619), 289087 / [MCPE-59490](https://bugs.mojang.com/browse/MCPE-59490))
--   Fixed issues with Realms crashing and rolling back progress (238225 / [REALMS-2393](https://bugs.mojang.com/browse/REALMS-2393))
--   Fixed some world chunks failing to load in larger worlds (132620 / [MCPE-58514](https://bugs.mojang.com/browse/MCPE-58514))
--   Fixed issues with Realms not saving backups (232416 / [REALMS-2142](https://bugs.mojang.com/browse/REALMS-2142))
+- Fixed a crash that could occur when playing on Realms (278539)
+- Fixed chunks regenerating to their original state (289459 / [REALMS-2619](https://bugs.mojang.com/browse/REALMS-2619), 289087 / [MCPE-59490](https://bugs.mojang.com/browse/MCPE-59490))
+- Fixed issues with Realms crashing and rolling back progress (238225 / [REALMS-2393](https://bugs.mojang.com/browse/REALMS-2393))
+- Fixed some world chunks failing to load in larger worlds (132620 / [MCPE-58514](https://bugs.mojang.com/browse/MCPE-58514))
+- Fixed issues with Realms not saving backups (232416 / [REALMS-2142](https://bugs.mojang.com/browse/REALMS-2142))

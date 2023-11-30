@@ -10,9 +10,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/15888692383757-Minecraft-
 
 **Information on the Minecraft Preview and Beta:**
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions.
+- These work-in-progress versions can be unstable and may not be representative of final version quality
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions.
 
 ![A Minecraft screenshot featuring a village, villager, sniffer, with a cherry grove and pillager outpost on the side of a mountain in the background.](https://feedback.minecraft.net/hc/article_attachments/15888568053389)
 
@@ -24,6 +24,6 @@ A new Minecraft Preview and Beta update is here, with a few more tweaks and chan
 
 ## **Gameplay**
 
--   Fixed issue with touchscreen world interaction when a non-default field of view in video settings is used ([MCPE-169504](https://bugs.mojang.com/browse/MCPE-169504))
--   Players are no longer forced to stop flying when forced into spaces with no room to stand ([MCPE-170070](https://bugs.mojang.com/browse/MCPE-170070))
--   Improved response to Mouse/Trackpad Input on Chromebooks ([MCPE-168908](https://bugs.mojang.com/browse/MCPE-168908))
+- Fixed issue with touchscreen world interaction when a non-default field of view in video settings is used ([MCPE-169504](https://bugs.mojang.com/browse/MCPE-169504))
+- Players are no longer forced to stop flying when forced into spaces with no room to stand ([MCPE-170070](https://bugs.mojang.com/browse/MCPE-170070))
+- Improved response to Mouse/Trackpad Input on Chromebooks ([MCPE-168908](https://bugs.mojang.com/browse/MCPE-168908))

@@ -32,23 +32,23 @@ tags:
   - section_12618443219469
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ
 ---
 
 *This article refers to Realms for Minecraft: Bedrock Edition. If you need help with your subscription to Realms for Minecraft: Java Edition, See: [**Minecraft: Java Edition Realms Creation FAQ**](https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK88ASN27R4JKF1CKN3K695)*
 
-**Note: Sharp-eyed players might notice a new Realms subscription in their Microsoft Store purchase history. If you see this, worry not! We\'re testing something on the backend, but your subscription will remain unaffected. **
+**Note: Sharp-eyed players might notice a new Realms subscription in their Microsoft Store purchase history. If you see this, worry not! We're testing something on the backend, but your subscription will remain unaffected. **
 
 # In this article:
 
--   [**General Questions**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01FGCRM0DSZBBFH3525BBFJ9E9)
--   **[About Subscriptions](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01FFK8VHZ9WTGRYHZEXN01PFG4)**
-    -   [**Realms Plus Packs**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01HENM49KB41C93GCRKQ7G0CSN)
--   **[Digital Pre-Paid Realms Cards](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01GJ3SPZ4DMFXZX1PA3TBRPAFS)**
--   **[Technical Questions](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01FFK8W57748322MN871CH2DZJ)**
--   **[How to Create Your Realm](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01FFK8WJWHNEPFY2PGBGGKS94H)**
--   **[Admin Options for Realms](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01FFK8X2TH88BXM85AK4Y53Y05)**
--   **[How does Mojang backup your Realm?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ#h_01H0JYT6EDNX7N0Y86V1J10YWS)**
+- [**General Questions**](#general-questions)
+- **[About Subscriptions](#about-subscriptions)**
+  - [**Realms Plus Packs**](#realms-plus-packs)
+- **[Digital Pre-Paid Realms Cards](#digital-pre-paid-realms-cards)**
+- **[Technical Questions](#technical-questions)**
+- **[How to Create Your Realm](#howtocreateyourrealm)**
+- **[Admin Options for Realms](#adminoptions-for-realms)**
+- **[How does Mojang backup your Realm?](#how-does-mojang-backup-your-realm)**
 
 ## General Questions 
 
@@ -58,7 +58,7 @@ Realms are personal multiplayer servers, run by Minecraft, just for you and your
 
 ### Why are there two versions of Realms servers?
 
-We\'ve developed two separate versions of Minecraft to optimize game performance on different platforms. Minecraft: Bedrock Edition (the version you find on mobile, Chromebook, console, and Windows 10 or above) runs on one kind of code, and Minecraft: Java Edition (for PC, Mac, and Linux) runs on another. These two versions are incompatible with each other and are developed separately with different features. Players on Minecraft: Java Edition can\'t play on console, mobile, or Windows Realms and vice versa.   
+We've developed two separate versions of Minecraft to optimize game performance on different platforms. Minecraft: Bedrock Edition (the version you find on mobile, Chromebook, console, and Windows 10 or above) runs on one kind of code, and Minecraft: Java Edition (for PC, Mac, and Linux) runs on another. These two versions are incompatible with each other and are developed separately with different features. Players on Minecraft: Java Edition can't play on console, mobile, or Windows Realms and vice versa.   
 
 **Note: A Minecraft: Bedrock Edition Realms subscription is separate from a Minecraft: Java Edition Realms subscription.** **Realms subscriptions do not carry over between game versions. If you would like a Realm in Bedrock Edition and one in Java Edition, you need to set up two separate subscriptions. **
 
@@ -66,46 +66,46 @@ We\'ve developed two separate versions of Minecraft to optimize game performance
 
 Realms Plus is a subscription that combines Realms servers with a curated catalog of Minecraft Marketplace content.  For one low monthly price, enjoy unlimited access to:  
 
--   100+ Minecraft worlds 
--   texture packs, skin packs, and mash-ups 
--   a personal Realms server supporting up to 10 simultaneous players 
--   cloud storage for your worlds  
+- 100+ Minecraft worlds 
+- texture packs, skin packs, and mash-ups 
+- a personal Realms server supporting up to 10 simultaneous players 
+- cloud storage for your worlds  
 
-New marketplace content is added regularly to your Realms Plus subscription. To link new content to your account, make sure you navigate to the content and click \'download.
+New marketplace content is added regularly to your Realms Plus subscription. To link new content to your account, make sure you navigate to the content and click 'download.
 
 **Note: Content rotates in and out of the marketplace often. If a pack is rotated out of the marketplace, it will be removed from your download list.**
 
 ### Which versions of Minecraft: Bedrock Edition support Realms Plus? 
 
-Realms Plus is available for Minecraft on mobile devices, the Nintendo Switch, PlayStation^®^ consoles, Windows 10 (and above), Chromebooks, and the Xbox consoles. ** ** 
+Realms Plus is available for Minecraft on mobile devices, the Nintendo Switch, PlayStation<sup>®</sup> consoles, Windows 10 (and above), Chromebooks, and the Xbox consoles. ** ** 
 
-### I'm playing on Windows 10 (or above). Which version do I need?  
+### I’m playing on Windows 10 (or above). Which version do I need?  
 
-You'll need your subscription purchase to match the version of the game you are playing. For example, if you bought Minecraft: Bedrock Edition from the Windows store, you\'ll need to buy Realms Plus for Minecraft: Bedrock Edition. However, if you bought Minecraft: Java Edition through the Minecraft.net website then you\'ll need Realms for Minecraft: Java Edition.   
+You’ll need your subscription purchase to match the version of the game you are playing. For example, if you bought Minecraft: Bedrock Edition from the Windows store, you'll need to buy Realms Plus for Minecraft: Bedrock Edition. However, if you bought Minecraft: Java Edition through the Minecraft.net website then you'll need Realms for Minecraft: Java Edition.   
 
 ### Can I use my Realms Plus on any device?
 
-Yes. If you purchase Realms Plus, you can access all the packs, your personal server, and storage from any device with Minecraft Marketplace if you're signed into your Minecraft: Bedrock Edition account.   
+Yes. If you purchase Realms Plus, you can access all the packs, your personal server, and storage from any device with Minecraft Marketplace if you’re signed into your Minecraft: Bedrock Edition account.   
 
 ### Do my friends need to have Realms Plus to play on my Realm?  
 
-Your friends don't need a Realms Plus subscription to join a Realm. You can invite any friend to join your Realm for free.   
+Your friends don’t need a Realms Plus subscription to join a Realm. You can invite any friend to join your Realm for free.   
 
 ### Can I play on a Realm with other players on different devices? 
 
-Yes. Minecraft: Bedrock Edition allows players to get together, regardless of which device they\'re on. Anyone playing on, Android, Amazon Fire tablets, Gear VR, iPhone, iPad, Nintendo Switch, PlayStation^®^4, PlayStation^®^5, Windows 10 (and above) Windows Phone, Xbox One, and Xbox Series X\|S. or can play together.  
+Yes. Minecraft: Bedrock Edition allows players to get together, regardless of which device they're on. Anyone playing on, Android, Amazon Fire tablets, Gear VR, iPhone, iPad, Nintendo Switch, PlayStation<sup>®</sup>4, PlayStation<sup>®</sup>5, Windows 10 (and above) Windows Phone, Xbox One, and Xbox Series X\|S. or can play together.  
 
 Players of Minecraft: Java Edition can only play with each other.  
 
 ### What are Clubs?  
 
-Realms Clubs are online meeting places created specifically for members of your Realms to share stuff and socialize. In your Club, you can share posts with each other and "like" videos, photos, and comments via a Realm\'s Feed. Clubs are automatically created for Realms, and only people you invite to your Realm are added to that Club.
+Realms Clubs are online meeting places created specifically for members of your Realms to share stuff and socialize. In your Club, you can share posts with each other and “like” videos, photos, and comments via a Realm's Feed. Clubs are automatically created for Realms, and only people you invite to your Realm are added to that Club.
 
-However, you must make sure to have your **You can create and join clubs** permission set to \'Allow\' if you\'d like to participate in a Realm\'s Feed. You can customize your permissions in the \'Xbox\' settings of your [Microsoft Account privacy page](https://account.microsoft.com/privacy?refd=account.microsoft.com).
+However, you must make sure to have your **You can create and join clubs** permission set to 'Allow' if you'd like to participate in a Realm's Feed. You can customize your permissions in the 'Xbox' settings of your [Microsoft Account privacy page](https://account.microsoft.com/privacy?refd=account.microsoft.com).
 
-**Note: You will not be able to see or post to your Realm\'s Feed within your club if your club permission is set to \'Block.\' Realm members with their club permission set to \'Allow\' will be able to post in the Realm\'s Feed.**
+**Note: You will not be able to see or post to your Realm's Feed within your club if your club permission is set to 'Block.' Realm members with their club permission set to 'Allow' will be able to post in the Realm's Feed.**
 
-![Can](https://minecrafthelp.zendesk.com/hc/article_attachments/16722327722509){width="477" height="318"}
+![Can](https://minecrafthelp.zendesk.com/hc/article_attachments/16722327722509)
 
 You can access your Realms Clubs from the Xbox App on PC, mobile, or console, or directly from your Realms menu in Minecraft: Bedrock Edition. If you encounter any issues with using Clubs, please contact [Microsoft Support](https://support.xbox.com/en-US/).
 
@@ -113,15 +113,15 @@ You can access your Realms Clubs from the Xbox App on PC, mobile, or console, or
 
 ### Can I play on a Realm if I have joined the Minecraft Beta on Windows or Xbox? 
 
-No, you won't have access to Realms while previewing a Minecraft Beta update. 
+No, you won’t have access to Realms while previewing a Minecraft Beta update. 
 
 ### Does the owner of a Realm have any special privileges? 
 
 Realm owners of any version get to choose who to invite and may switch between game modes. Realm owners on mobile, consoles, and Windows 10 can also: 
 
--   Generate links to invite new members 
--   Download a backup of the Realm 
--   Promote other members to operators, enabling them to use slash commands in game   
+- Generate links to invite new members 
+- Download a backup of the Realm 
+- Promote other members to operators, enabling them to use slash commands in game   
 
 ### What is Xbox Live and why do I need it to play on a Realm? 
 
@@ -149,7 +149,7 @@ If you used worlds, texture packs, or mash-ups from the Realms Plus catalog,
 
 Only if you want to play online. [Xbox Live Gold](https://www.xbox.com/en-US/live/gold) is required for all multiplayer services on Xbox, no matter what console game you are playing. Xbox Live Gold is a paid service and is not required to access Realms on mobile devices or Windows 10. To play offline, you only need to sign up for [Xbox Live](https://www.xbox.com/en-US/live), which is free.  
 
-A Nintendo Switch Online subscription is required for playing multiplayer on Nintendo Switch, this includes Realms.  A PlayStation^®^Plus membership is required for playing multiplayer on PlayStation^®^. 
+A Nintendo Switch Online subscription is required for playing multiplayer on Nintendo Switch, this includes Realms.  A PlayStation<sup>®</sup>Plus membership is required for playing multiplayer on PlayStation<sup>®</sup>. 
 
 ### How do I cancel my recurring subscription?   
 
@@ -159,7 +159,7 @@ See [Minecraft Realms Plus Billing Issues FAQ](https://help.minecraft.net/hc/e
 
 ### Can I use my Realms Plus packs offline? 
 
-You don't need to be online to enjoy Realms Plus. Packs included in the subscription can either be played online on your personal Realm or played on a local device. You just need to sign in online once every 30 days to validate that your subscription is active.   
+You don’t need to be online to enjoy Realms Plus. Packs included in the subscription can either be played online on your personal Realm or played on a local device. You just need to sign in online once every 30 days to validate that your subscription is active.   
 
 ### Can I host my Realms Plus worlds, texture packs, skins, and mash-ups on my Realm? 
 
@@ -191,7 +191,7 @@ From November 24th, onward, Minecraft: Bedrock Edition will begin selling digita
 
 ### What do I get for Buying a Digital Pre-Paid Realms Card?
 
-When buying a digital pre-paid Realms card, you're able to pick from either a 3 or a 6 month subscription for Minecraft Realms Plus on Xbox and Windows 10. We do not currently offer cards for the 2-player Minecraft Realms plan or the 10-player Minecraft: Java Edition Realms plan. We only offer cards for the 10-player Minecraft Realms plan on Xbox and Windows 10.
+When buying a digital pre-paid Realms card, you’re able to pick from either a 3 or a 6 month subscription for Minecraft Realms Plus on Xbox and Windows 10. We do not currently offer cards for the 2-player Minecraft Realms plan or the 10-player Minecraft: Java Edition Realms plan. We only offer cards for the 10-player Minecraft Realms plan on Xbox and Windows 10.
 
 Also, please note that the Realms card might create a new Realm for you even if you have an active Realm. If a new Realm is created, please use this guide to migrate your old Realm over to the new subscription. A digital pre-paid Realms card will never reactivate an expired Realm.
 
@@ -201,7 +201,7 @@ These cards will launch with support for Xbox and Windows 10 Realms only.
 
 ### Where do I Redeem my Pre-Paid Realms Card?
 
-You can redeem your card either on redeem.microsoft.com or through the [Minecraft Token Redemption](https://www.minecraft.net/en-us/redeem/lego) page. **Please ensure you're logged into the correct account before redeeming your code**. Once the card is redeemed, and **your Realm is active**, you can play it on any platform.
+You can redeem your card either on redeem.microsoft.com or through the [Minecraft Token Redemption](https://www.minecraft.net/en-us/redeem/lego) page. **Please ensure you’re logged into the correct account before redeeming your code**. Once the card is redeemed, and **your Realm is active**, you can play it on any platform.
 
 ### Now that I have Redeemed my Card, How do I Activate My Realm?
 
@@ -209,11 +209,11 @@ All you need to do is log into Minecraft: Bedrock Edition on your Xbox or Window
 
 ### I Bought a Digital Pre-Paid Realms Card, but I Want to Refund it
 
-If you've bought a digital pre-paid Realms card but want a refund, there are two scenarios you can follow.
+If you’ve bought a digital pre-paid Realms card but want a refund, there are two scenarios you can follow.
 
 If you purchased a digital pre-paid Realms card and have not used it yet, please contact the online retailer from which you bought the card.
 
-If you\'re having issues redeeming a purchased digital pre-paid Realms card, please [get in touch with Minecraft Support](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360001225811). You must have confirmation that you used the card.
+If you're having issues redeeming a purchased digital pre-paid Realms card, please [get in touch with Minecraft Support](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360001225811). You must have confirmation that you used the card.
 
 ### Where can I buy Digital Pre-Paid Realms Cards?
 
@@ -223,20 +223,20 @@ Digital pre-paid Realms cards are available at various online retailers worldwid
 
 ### Can I export my Realms Worlds? 
 
-You can export your worlds from any versions of Realms at any time, including an 18-month period after your subscription has expired. Once your subscription has been inactive for more than 18 months, your world will be permanently deleted from Minecraft's servers.   
+You can export your worlds from any versions of Realms at any time, including an 18-month period after your subscription has expired. Once your subscription has been inactive for more than 18 months, your world will be permanently deleted from Minecraft’s servers.   
 
 To download your uploaded world(s), start the game and select **Play**, then follow these steps:
 
 1.  Select the pencil icon next to the Realm you wish to download the world(s) from
 2.  From the list of worlds in your Realm, select the one you wish to download, then select **Edit World**.
 3.  Select **Download World** on the right-hand side to download the latest backup of this world, or you can select **Backups** on the left-hand side if you wish to download older backups instead.
-    -   To save older backups, just select the download icon next to the backup(s) you wish to download.
+    - To save older backups, just select the download icon next to the backup(s) you wish to download.
 
 You can repeat these steps for each world that has been uploaded to your Realm.
 
 ### Can I upload my worlds onto a Realm?  
 
-Yes, you can upload your own worlds to a Realm. We currently support worlds up to 4GB in size. That's a substantial amount of allotted space! To use a world template from the Minecraft Marketplace, you should create a new world using the template, then upload the world to your Realm.   
+Yes, you can upload your own worlds to a Realm. We currently support worlds up to 4GB in size. That’s a substantial amount of allotted space! To use a world template from the Minecraft Marketplace, you should create a new world using the template, then upload the world to your Realm.   
 
 ### Do Realms servers support modding? 
 
@@ -244,12 +244,12 @@ Realms servers on mobile, console, and Windows 10 support Add-Ons and Mar
 
 ### Are there any specific settings needed to play on a Realm? 
 
-If you want to participate in a Realm\'s feed, you will need Clubs permissions on.
+If you want to participate in a Realm's feed, you will need Clubs permissions on.
 
 Yes, your [Xbox Live](https://www.xbox.com/en-US/live) account needs to have two settings enabled:
 
--   Join Multiplayer games
--   You Can Create and Join Clubs
+- Join Multiplayer games
+- You Can Create and Join Clubs
 
 **Note: Child accounts do not have these settings enabled by default, so if you have a child account you need parental consent to play on Realms.**
 
@@ -265,13 +265,13 @@ Yes. Owners of Realms on any platform have access to most commands. On Minecraft
 
 You can initialize a Realm on the following platforms:
 
--   Android
--   iOS
--   Chromebook
--   Nintendo Switch
--   PlayStation® 4 and 5
--   Windows 10 and above
--   and Xbox One and Series X\|S
+- Android
+- iOS
+- Chromebook
+- Nintendo Switch
+- PlayStation® 4 and 5
+- Windows 10 and above
+- and Xbox One and Series X\|S
 
 ### Find the Realms Menu 
 
@@ -284,8 +284,8 @@ You can initialize a Realm on the following platforms:
 
 Your realm can be one of two sizes, divided into tiers: 
 
--   **2 Users **allows for two players plus the owner 
--   **10 Users **allows for ten players plus the owner 
+- **2 Users **allows for two players plus the owner 
+- **10 Users **allows for ten players plus the owner 
 
 The cost varies depending on the size of the tier. The price available to you is shown in the game. If you want to change the size (go from 2 users to 10, or from 10 to 2), you must cancel the subscription to the Realm. Once the remaining days on your subscription expire, you can then renew the Realm in the desired size. 
 
@@ -310,7 +310,7 @@ In your Realm, you have three different world slots and an additional slot that 
 
 ### Change Realm Slot
 
-If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-#h_01FG9YQZTD4SQM2XEP4GC28PW3). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **\
+If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-#h_01FG9YQZTD4SQM2XEP4GC28PW3). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **  
 **
 
 ### Adjust the Overall Settings for Your Realms Server
@@ -323,15 +323,15 @@ Select the green slider next to the **on** setting or the gray slider next 
 
 ### Invite Player
 
-Select the button to invite another player by entering their Minecraft: Bedrock Edition username. The player will be added to your invited players list even if the invitation is not accepted. Invitations that are not accepted within seven days will expire and need to be sent again if you\'d like to play with that person. 
+Select the button to invite another player by entering their Minecraft: Bedrock Edition username. The player will be added to your invited players list even if the invitation is not accepted. Invitations that are not accepted within seven days will expire and need to be sent again if you'd like to play with that person. 
 
 ### Remove a Player
 
 Select the red **X** to remove a player from your list of invited players.
 
-### Making a Player an \"Operator\" (OP)
+### Making a Player an "Operator" (OP)
 
-Select the grayed-out crown icon to promote a player to an operator. Operators can use slash commands, send private messages, and set the world spawn point. Operators can\'t invite or remove players, but you should still pick a player you trust to promote. Select the gold crown icon to make that player a normal user once again. 
+Select the grayed-out crown icon to promote a player to an operator. Operators can use slash commands, send private messages, and set the world spawn point. Operators can't invite or remove players, but you should still pick a player you trust to promote. Select the gold crown icon to make that player a normal user once again. 
 
 ### Settings
 
@@ -341,7 +341,7 @@ Lets you set the name and description of your Realm. 
 
 Select **Subscription** to see your Minecraft Realms subscription status or to extend your subscription. 
 
-*Please be aware that Minecraft Support cannot assist with player behavior reports. If you need to report a player, please contact the Realm owner.\
+*Please be aware that Minecraft Support cannot assist with player behavior reports. If you need to report a player, please contact the Realm owner.  
 *
 
 ## Adjust Settings for Individual Worlds
@@ -356,12 +356,12 @@ This option lets you generate a new world, load a premade world template, or upl
 
 ## How does Mojang backup your Realm?
 
-A Realm world is downloadable within 18 months, but the world backups associated with that Realm may have been removed depending on our retention policy. In general, we take a backup every 30 minutes while you are playing, and at the end of a play session. We can't keep all of your backups around forever though. If a Realm world is used actively, the following retention policy is in effect:  
+A Realm world is downloadable within 18 months, but the world backups associated with that Realm may have been removed depending on our retention policy. In general, we take a backup every 30 minutes while you are playing, and at the end of a play session. We can’t keep all of your backups around forever though. If a Realm world is used actively, the following retention policy is in effect:  
 
--   In the last 24 hours: We retain all backups.
--   1 day to 8 days ago: We retain one backup per day.
--   9 days to 36 days ago: We retain one backup a week.
--   37 days to 121 days ago: We retain one backup a month.
--   122+ days ago: No backups are retained.*** ***
+- In the last 24 hours: We retain all backups.
+- 1 day to 8 days ago: We retain one backup per day.
+- 9 days to 36 days ago: We retain one backup a week.
+- 37 days to 121 days ago: We retain one backup a month.
+- 122+ days ago: No backups are retained.*** ***
 
-**Note: If you'd like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed.**
+**Note: If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed.**

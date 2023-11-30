@@ -12,10 +12,10 @@ Several improvements and fixes have been made to the Minecraft with RTX beta for
 
 **Fixes:**
 
--   Crash fixes
--   Items in hand look identical to the same items placed in the world
--   Sun shadows and god rays look brighter and more correct through glass
--   Performance enhancements
--   Tweaks to address the brightness at night
--   Fix for per-pixel emissives on low resolution textures
--   Fix for better looking glass in reflections
+- Crash fixes
+- Items in hand look identical to the same items placed in the world
+- Sun shadows and god rays look brighter and more correct through glass
+- Performance enhancements
+- Tweaks to address the brightness at night
+- Fix for per-pixel emissives on low resolution textures
+- Fix for better looking glass in reflections

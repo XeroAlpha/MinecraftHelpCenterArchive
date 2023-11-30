@@ -5,7 +5,7 @@ updated: 2022-11-11T18:19:06Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - section_12618019146893
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ
 ---
 
 *This article applies to Minecraft: Java Edition achievements only. For Minecraft (Bedrock) achievements information, see:* [Minecraft Achievements FAQ](https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Achievements-FAQ).
@@ -14,10 +14,10 @@ This article details everything you need to know about Minecraft: Java Edition a
 
 # In This Article:
 
--   [What are Achievements?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ#h_01GHKYN96CCEZQQH4M8T52JFF3)
--   [Can I Turn Achievements on and off in Realms?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ#h_01GHKYCCDS6234FN3C76B0T223)
--   [Achievements Not Unlocking ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ#h_01GHKYCH6BQYARP5JM24C93BBP)
--   [Minecraft: Java Edition ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ#h_01GHKYCNQ6VA19375P8B41WXF3)
+- [What are Achievements?](#what-are-achievements)
+- [Can I Turn Achievements on and off in Realms?](#can-i-turn-achievements-on-and-off-in-realms)
+- [Achievements Not Unlocking ](#achievements-not-unlocking)
+- [Minecraft: Java Edition ](#minecraftjavaedition)
 
 ## What are Achievements?
 

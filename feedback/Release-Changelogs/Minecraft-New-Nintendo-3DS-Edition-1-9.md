@@ -10,37 +10,37 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360022028351-Minecraft-Ne
 
 Welcome to Version 1.9! This will be the last update for Minecraft: New Nintendo 3DS Edition.
 
--   New features
-    -   Woodland Mansions
-    -   Explorer maps
-    -   Iron & gold nugget smelting
--   New blocks / items
-    -   Concrete
-    -   Concrete powder
-    -   Glazed Terracotta
-    -   Shulker box
-    -   Frosted ice
-    -   Totem of Undying
-    -   Iron nuggets
-    -   Magma block
-    -   Bone block
-    -   Nether wart block
-    -   Red Nether brick
-    -   Spawn eggs (llama, Vindicator, Evoker, Vex)
--   New entities
-    -   Llamas
-    -   Vindicators
-    -   Evokers
-    -   Vexes
-    -   Cartographer Villagers
--   World generation
-    -   Underground fossils
-    -   Natural magma block generation in the Nether
--   New enchantments
-    -   Frost Walker
-    -   Mending
--   New achievements
--   Numerous bug fixes from previous builds
+- New features
+  - Woodland Mansions
+  - Explorer maps
+  - Iron & gold nugget smelting
+- New blocks / items
+  - Concrete
+  - Concrete powder
+  - Glazed Terracotta
+  - Shulker box
+  - Frosted ice
+  - Totem of Undying
+  - Iron nuggets
+  - Magma block
+  - Bone block
+  - Nether wart block
+  - Red Nether brick
+  - Spawn eggs (llama, Vindicator, Evoker, Vex)
+- New entities
+  - Llamas
+  - Vindicators
+  - Evokers
+  - Vexes
+  - Cartographer Villagers
+- World generation
+  - Underground fossils
+  - Natural magma block generation in the Nether
+- New enchantments
+  - Frost Walker
+  - Mending
+- New achievements
+- Numerous bug fixes from previous builds
 
  
 

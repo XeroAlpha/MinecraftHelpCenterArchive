@@ -20,7 +20,7 @@ tags:
   - platform_pc
   - platform_PC
   - section_12618686416909
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360059400852-Minecraft-Caves-Cliffs-Update-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/360059400852-Minecraft-Caves-Cliffs-Update-FAQ
 ---
 
 Earlier this spring we announced that the much-anticipated Minecraft: Caves & Cliffs Update will now release in two parts instead of a singular update. 
@@ -49,17 +49,17 @@ For more information on how to access these features:
 
 [How to install and play Minecraft: Bedrock Edition Betas](https://help.minecraft.net/hc/en-us/articles/360040841471-How-to-Join-and-leave-a-Minecraft-Beta)
 
-[Experimental Features Toggle in Minecraft: Bedrock Edition](https://feedback.minecraft.net/hc/en-us/articles/4403610710797)\
+[Experimental Features Toggle in Minecraft: Bedrock Edition](https://feedback.minecraft.net/hc/en-us/articles/4403610710797)  
 [Caves & Cliffs Experimental World Generation Snapshot for Minecraft: Java Edition](https://www.minecraft.net/article/new-world-generation-java-available-testing)
 
 ## Is the Deep Dark and Warden coming out with Caves & Cliffs Part II?
 
-No. As we announced during Minecraft LIVE this year, the Deep Dark biome, along with all its sculk blocks, will be released with the Wild Update. As will the Warden. If you want to try out some of the blocks, they are available behind the "Vanilla Experiments" toggle on Minecraft: Bedrock Edition betas. [Follow this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.
+No. As we announced during Minecraft LIVE this year, the Deep Dark biome, along with all its sculk blocks, will be released with the Wild Update. As will the Warden. If you want to try out some of the blocks, they are available behind the “Vanilla Experiments” toggle on Minecraft: Bedrock Edition betas. [Follow this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.
 
 ## Are custom biome packs compatible with Caves & Cliffs Part II worlds?
 
-New world generation in Caves & Cliffs Part II is currently incompatible with the \'Creation of Custom Biomes\' experiment. In this release, expect worlds with custom biome generation to be stable, however custom biomes will only exist in currently saved areas of the world. Unsaved areas will see new Caves & Cliffs world generation.
+New world generation in Caves & Cliffs Part II is currently incompatible with the 'Creation of Custom Biomes' experiment. In this release, expect worlds with custom biome generation to be stable, however custom biomes will only exist in currently saved areas of the world. Unsaved areas will see new Caves & Cliffs world generation.
 
 ## The sculk sensor block I had in my world is replaced with a placeholder block and the goat horn item is gone. How do I get them working again?
 
-Both of these features have been moved to a new experimental toggle. The name of the new toggle is "Vanilla Experiments". [Follow this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.
+Both of these features have been moved to a new experimental toggle. The name of the new toggle is “Vanilla Experiments”. [Follow this guide](https://feedback.minecraft.net/hc/en-us/articles/4403610710797) to activate the toggle.

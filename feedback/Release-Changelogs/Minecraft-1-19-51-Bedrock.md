@@ -16,14 +16,14 @@ As always, we appreciate all your help and input! Please report any new bugs atÂ
 
 **Fixes:**
 
--   Fixed a crash that could occur during gameplay
--   Pistons can no longer recreate moving blocks that were destroyed mid-move
--   Horses can no longer be pushed over Fences with Carpets on top ([MCPE-164717](https://bugs.mojang.com/browse/MCPE-164717))
--   Touch control selection screen will no longer appear on Nintendo Switch
--   Fixed the Structure Block screen so the Y value field can properly be accessed with just the keyboard ([MCPE-164148](https://bugs.mojang.com/browse/MCPE-164148))
+- Fixed a crash that could occur during gameplay
+- Pistons can no longer recreate moving blocks that were destroyed mid-move
+- Horses can no longer be pushed over Fences with Carpets on top ([MCPE-164717](https://bugs.mojang.com/browse/MCPE-164717))
+- Touch control selection screen will no longer appear on Nintendo Switch
+- Fixed the Structure Block screen so the Y value field can properly be accessed with just the keyboard ([MCPE-164148](https://bugs.mojang.com/browse/MCPE-164148))
 
 **Technical Updates:**
 
--   The \"minecraft:variable_max_auto_step\" component has a new property \"controlled_value\"
-    -   This property will override \"base_value\" when a mob with \"minecraft:input_ground_controlled\" is being controlled by the player
-    -   \"jump_prevented_value\" will have precedence over both other values
+- The "minecraft:variable_max_auto_step" component has a new property "controlled_value"
+  - This property will override "base_value" when a mob with "minecraft:input_ground_controlled" is being controlled by the player
+  - "jump_prevented_value" will have precedence over both other values

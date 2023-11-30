@@ -5,7 +5,7 @@ updated: 2023-01-23T17:27:03Z
 categories: Dungeons Technical
 tags:
   - section_12618340057613
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360048248751-Minecraft-Dungeons-Daily-Trials-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/360048248751-Minecraft-Dungeons-Daily-Trials-FAQ
 ---
 
 **What are Daily Trials?** 
@@ -32,7 +32,7 @@ Daily Trials can be completed alone, or you can team up with others 
 
 Yes, you need an active internet connection to access new trials every day after logging in to the game. If trials do not appear, make sure that your game is [updated to the latest version](https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WEN7BM1GT5NQW3HHP7791). 
 
-**Nintendo Switch Players:** You need to [log in to a Microsoft Account](https://help.minecraft.net/hc/en-us/articles/4408894129933-Nintendo-Switch-Technical-Support-FAQ) for Daily Trials to appear on the map, as Daily Trials are a part of our online services. 
+**Nintendo Switch Players:** You need to [log in to a Microsoft Account](../Minecraft-Bedrock-Edition-Technical/Nintendo-Switch-Technical-Support-FAQ.md) for Daily Trials to appear on the map, as Daily Trials are a part of our online services. 
 
  
 

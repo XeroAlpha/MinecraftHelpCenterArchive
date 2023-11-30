@@ -10,13 +10,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/8485757633293-Minecraft-B
 
 ## **Information on the Minecraft Preview and Beta: **
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
+- These work-in-progress versions can be unstable and may not be representative of final version quality
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
 
 ![A Minecraft screenshot featuring a chestboat and allays](https://feedback.minecraft.net/hc/article_attachments/8485735950989/beta19U3_3_16x9.jpg)
 
-Here\'s a list of what is new in this week\'s Minecraft Preview and Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
+Here's a list of what is new in this week's Minecraft Preview and Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
 
 **Please Note:** The Beta update on Android will be delayed by at least 24 hours, thank you for your patience!
 
@@ -24,104 +24,104 @@ Here\'s a list of what is new in this week\'s Minecraft Preview and Beta! As alw
 
 ### **Spectator Mode (Experimental)**
 
--   Players in Spectator Mode are no longer affected by the Powder Snow fog effect ([MCPE-156683](https://bugs.mojang.com/browse/MCPE-156683))
--   Sadly, any leashed animals will not follow spectators anymore ([MCPE-157065)](https://bugs.mojang.com/browse/MCPE-157065)
--   Players in Spectator Mode no longer emit particles while sprinting ([MCPE-160397](https://bugs.mojang.com/browse/MCPE-160397))
--   Spectator players with status effects applied no longer emit particles ([MCPE-160398](https://bugs.mojang.com/browse/MCPE-160398))
+- Players in Spectator Mode are no longer affected by the Powder Snow fog effect ([MCPE-156683](https://bugs.mojang.com/browse/MCPE-156683))
+- Sadly, any leashed animals will not follow spectators anymore ([MCPE-157065)](https://bugs.mojang.com/browse/MCPE-157065)
+- Players in Spectator Mode no longer emit particles while sprinting ([MCPE-160397](https://bugs.mojang.com/browse/MCPE-160397))
+- Spectator players with status effects applied no longer emit particles ([MCPE-160398](https://bugs.mojang.com/browse/MCPE-160398))
 
 ### **Chest Boats**
 
--   Fixed an issue where Boats with Chests would not drop the Chest\'s contents when destroyed by the /kill command ([MCPE-160186](https://bugs.mojang.com/browse/MCPE-160186))
+- Fixed an issue where Boats with Chests would not drop the Chest's contents when destroyed by the /kill command ([MCPE-160186](https://bugs.mojang.com/browse/MCPE-160186))
 
 ### **Items**
 
--   Eating a stew will now leave the empty Bowl in the slot it was eaten from ([MCPE-56367](https://bugs.mojang.com/browse/MCPE-56367))
--   Drinking a potion will now leave the empty Glass Bottle in the slot you drank it from rather than your first empty inventory slot ([MCPE-26436](https://bugs.mojang.com/browse/MCPE-26436))
+- Eating a stew will now leave the empty Bowl in the slot it was eaten from ([MCPE-56367](https://bugs.mojang.com/browse/MCPE-56367))
+- Drinking a potion will now leave the empty Glass Bottle in the slot you drank it from rather than your first empty inventory slot ([MCPE-26436](https://bugs.mojang.com/browse/MCPE-26436))
 
 ### **Mobs**
 
--   Drowned no longer spawn in Warm Ocean biomes
+- Drowned no longer spawn in Warm Ocean biomes
 
 ## **Blocks**
 
--   Oak and Mangrove Fence Gates are now flammable ([MCPE-160098](https://bugs.mojang.com/browse/MCPE-160098))
+- Oak and Mangrove Fence Gates are now flammable ([MCPE-160098](https://bugs.mojang.com/browse/MCPE-160098))
 
 # **Features and Bug Fixes**
 
 ## **Gameplay**
 
--   Disallow Fireballs from travelling through portals to prevent an issue where they could become permanently stuck ([MCPE-160938](https://bugs.mojang.com/browse/MCPE-160938))
--   Fixed dropped items getting stuck at the edge of flowing water ([MCPE-157167](https://bugs.mojang.com/browse/MCPE-157167))
+- Disallow Fireballs from travelling through portals to prevent an issue where they could become permanently stuck ([MCPE-160938](https://bugs.mojang.com/browse/MCPE-160938))
+- Fixed dropped items getting stuck at the edge of flowing water ([MCPE-157167](https://bugs.mojang.com/browse/MCPE-157167))
 
 ## **Graphical**
 
--   Fixed an issue where certain water textures with waterlogged blocks displayed the wrong texture ([MCPE-156281](https://bugs.mojang.com/browse/MCPE-156281))
--   Sky in The End dimension will no longer look like static upon entry while it is raining in the Overworld ([MCPE-148843](https://bugs.mojang.com/browse/MCPE-148843))
+- Fixed an issue where certain water textures with waterlogged blocks displayed the wrong texture ([MCPE-156281](https://bugs.mojang.com/browse/MCPE-156281))
+- Sky in The End dimension will no longer look like static upon entry while it is raining in the Overworld ([MCPE-148843](https://bugs.mojang.com/browse/MCPE-148843))
 
 ## **Items**
 
--   Fixed a bug where some custom items (from Creator Features packs), after being used, were duplicated upon player\'s death ([MCPE-128897](https://bugs.mojang.com/browse/MCPE-128897))
--   Fixed a regression where an undamaged tool, such as Pickaxe, when name changed on an Anvil, would fail to work correctly when used for the first time ([MCPE-152637](https://bugs.mojang.com/browse/MCPE-152637))
--   Fixed a bug where some blocks that require a supporting block (for example Carpet or crops) did not appear on Maps when placed on a non-full block or above an air block ([MCPE-159713](https://bugs.mojang.com/browse/MCPE-159713))
+- Fixed a bug where some custom items (from Creator Features packs), after being used, were duplicated upon player's death ([MCPE-128897](https://bugs.mojang.com/browse/MCPE-128897))
+- Fixed a regression where an undamaged tool, such as Pickaxe, when name changed on an Anvil, would fail to work correctly when used for the first time ([MCPE-152637](https://bugs.mojang.com/browse/MCPE-152637))
+- Fixed a bug where some blocks that require a supporting block (for example Carpet or crops) did not appear on Maps when placed on a non-full block or above an air block ([MCPE-159713](https://bugs.mojang.com/browse/MCPE-159713))
 
 ## **Marketplace**
 
--   Most common Marketplace connection issues will now automatically resolve themselves when conditions improve without needing to restart Minecraft ([MCPE-155025](https://bugs.mojang.com/browse/MCPE-155025)) 
+- Most common Marketplace connection issues will now automatically resolve themselves when conditions improve without needing to restart Minecraft ([MCPE-155025](https://bugs.mojang.com/browse/MCPE-155025)) 
 
 ## **Mobs**
 
--   Allays and Bees should no longer get stuck on Lanterns or other low hanging objects ([MCPE-155777](https://bugs.mojang.com/browse/MCPE-155777))
+- Allays and Bees should no longer get stuck on Lanterns or other low hanging objects ([MCPE-155777](https://bugs.mojang.com/browse/MCPE-155777))
 
 ## **Music**
 
--   Music is now included in the mobile app and no longer has to be downloaded from Marketplace
+- Music is now included in the mobile app and no longer has to be downloaded from Marketplace
 
 ## **Performance and Stability**
 
--   Fixed performance issues when Striders are being ridden by baby Striders ([MCPE-146478](https://bugs.mojang.com/browse/MCPE-146478))
+- Fixed performance issues when Striders are being ridden by baby Striders ([MCPE-146478](https://bugs.mojang.com/browse/MCPE-146478))
 
 ## **User Interface**
 
--   The arrow within the crafting Pocket UI now fits appropriately without any clipping issues
+- The arrow within the crafting Pocket UI now fits appropriately without any clipping issues
 
 ## **Commands**
 
--   Fixed a bug where a \"%\" was prepended to player names in the chat output of \"/scoreboard players reset\" ([MCPE-151389](https://bugs.mojang.com/browse/MCPE-151389))
--   Attempting to kill a player in Creative Mode using the \"/kill\" command now displays a message informing the player that it cannot be done ([MCPE-16732](https://bugs.mojang.com/browse/MCPE-16732))
+- Fixed a bug where a "%" was prepended to player names in the chat output of "/scoreboard players reset" ([MCPE-151389](https://bugs.mojang.com/browse/MCPE-151389))
+- Attempting to kill a player in Creative Mode using the "/kill" command now displays a message informing the player that it cannot be done ([MCPE-16732](https://bugs.mojang.com/browse/MCPE-16732))
 
 # **Technical Updates**
 
 ## **Actors**
 
--   Non-Parrot mobs on a player\'s shoulder will now adjust their position when the player crouches ([MCPE-153996](https://bugs.mojang.com/browse/MCPE-153996))
+- Non-Parrot mobs on a player's shoulder will now adjust their position when the player crouches ([MCPE-153996](https://bugs.mojang.com/browse/MCPE-153996))
 
 ## **Data-Driven Block Components**
 
--   Enables creators to add geometry up to 0.875 units outside of the regular block unit cube on any one side
+- Enables creators to add geometry up to 0.875 units outside of the regular block unit cube on any one side
 
 ## **Gameplay**
 
--   Coral Fans now look identical when placed facing North, West, East, and South ([MCPE-125311](https://bugs.mojang.com/browse/MCPE-125311))
+- Coral Fans now look identical when placed facing North, West, East, and South ([MCPE-125311](https://bugs.mojang.com/browse/MCPE-125311))
 
 ## **Marketplace**
 
--   Text To Speech no longer ignores the volume setting on startup
+- Text To Speech no longer ignores the volume setting on startup
 
 ## **Molang**
 
--   Clarified the documentation for *equipment_count* to indicate it only counts equipped armor, and how to query for held items ([MCPE-136134](https://bugs.mojang.com/browse/MCPE-136134))
+- Clarified the documentation for *equipment_count* to indicate it only counts equipped armor, and how to query for held items ([MCPE-136134](https://bugs.mojang.com/browse/MCPE-136134))
 
 # **Experimental Features**
 
 ## **Commands**
 
--   The \"/execute at\" command now properly executes filters from the specified \'at\' position ([MCPE-156283](https://bugs.mojang.com/browse/MCPE-156283))
+- The "/execute at" command now properly executes filters from the specified 'at' position ([MCPE-156283](https://bugs.mojang.com/browse/MCPE-156283))
 
 ## **GameTest Framework**
 
--   Script Command
-    -   Added new sub-command */script watchdog exportstats*- Exports a file containing memory usage and object handle statistics
+- Script Command
+  - Added new sub-command */script watchdog exportstats*- Exports a file containing memory usage and object handle statistics
 
 ## **Touch Controls**
 
--   Can now switch hotbar slots while targeting a block while in a Boat ([MCPE-156814](https://bugs.mojang.com/browse/MCPE-156814))
+- Can now switch hotbar slots while targeting a block while in a Boat ([MCPE-156814](https://bugs.mojang.com/browse/MCPE-156814))

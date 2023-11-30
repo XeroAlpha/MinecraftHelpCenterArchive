@@ -18,7 +18,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004818752-Minecraft-fo
 
 <div>
 
-A: The Bedrock version of Minecraft has been the codebase on mobile and Windows 10 since 2012, also known as our Bedrock Engine.  We brought this version to Xbox One with the Better Together Update last fall and now we're launching it on Nintendo Switch.
+A: The Bedrock version of Minecraft has been the codebase on mobile and Windows 10 since 2012, also known as our Bedrock Engine.  We brought this version to Xbox One with the Better Together Update last fall and now we’re launching it on Nintendo Switch.
 
 </div>
 
@@ -36,7 +36,7 @@ A: The Bedrock version of Minecraft has been the codebase on mobile and Windows 
 
 <div>
 
-A: Minecraft delivers a united experience to players on all platforms that the Bedrock codebase is used. Build with friends via cross-play on Xbox One, Windows 10 and mobile devices, play multiplayer mini-games through servers\*, and customize how you play with community content available through the in-game marketplace. \
+A: Minecraft delivers a united experience to players on all platforms that the Bedrock codebase is used. Build with friends via cross-play on Xbox One, Windows 10 and mobile devices, play multiplayer mini-games through servers\*, and customize how you play with community content available through the in-game marketplace.   
 \*Servers available via post-launch update at a later date
 
 </div>
@@ -103,7 +103,7 @@ A: All of the existing DLC content will be transferable from Minecraft: Nintendo
 
 <div>
 
-**Q: What's a Microsoft Account and why do I need it for a Nintendo Switch?**
+**Q: What’s a Microsoft Account and why do I need it for a Nintendo Switch?**
 
 </div>
 
@@ -127,13 +127,13 @@ A: A Microsoft Account is a free account you can sign-in on device that allows M
 
 <div>
 
-a\. On the Minecraft game home screen, click "Sign in with a Microsoft account"
+a\. On the Minecraft game home screen, click “Sign in with a Microsoft account”
 
 </div>
 
 <div>
 
-b\. It'll bring up a screen to go to: <http://aka.ms/remoteconnect> with a unique 8 digit code
+b\. It’ll bring up a screen to go to: <http://aka.ms/remoteconnect> with a unique 8 digit code
 
 </div>
 
@@ -145,7 +145,7 @@ c\. Enter the URL on another device (PC or Mobile phone)
 
 <div>
 
-d\. Follow the instructions on the website by entering the code and complete signing into your Microsoft account.\
+d\. Follow the instructions on the website by entering the code and complete signing into your Microsoft account.  
  
 
 </div>
@@ -158,38 +158,38 @@ d\. Follow the instructions on the website by entering the code and complete sig
 
 <div>
 
-a\. Now that you've signed into your Microsoft account, Click "Play" on the homescreen
+a\. Now that you’ve signed into your Microsoft account, Click “Play” on the homescreen
 
 </div>
 
 <div>
 
-b\. Toggle to the right onto the "Friends" tab
+b\. Toggle to the right onto the “Friends” tab
 
 </div>
 
 <div>
 
-c\. Click the button to "Add Friend"
+c\. Click the button to “Add Friend”
 
 </div>
 
 <div>
 
-d\. Find friends by entering their Microsoft Gamertag\
+d\. Find friends by entering their Microsoft Gamertag  
  
 
 </div>
 
 <div>
 
-**Q:  I keep entering my friend's ID into Cross-Platform friends and can't find them. Why?**
+**Q:  I keep entering my friend’s ID into Cross-Platform friends and can’t find them. Why?**
 
 </div>
 
 <div>
 
-Make sure you are entering your friend's Gamertag correctly. Please note that you are only able to enter in a player ID for Microsoft's Gamertag. Other player IDs from other platforms are not supported at this time. 
+Make sure you are entering your friend’s Gamertag correctly. Please note that you are only able to enter in a player ID for Microsoft’s Gamertag. Other player IDs from other platforms are not supported at this time. 
 
 </div>
 
@@ -225,7 +225,7 @@ A: Online subscription fees are determined by the platform you play on, so an Xb
 
 <div>
 
-A: The Minecraft Marketplace is what we call our Store which you can find in-game. For the first time, new character skins, textures, and worlds made by creators in the Minecraft community are coming to the in-game store for Minecraft Bedrock platforms. With Minecraft Marketplace, we\'ve made it safer and easier to purchase community-made content for Minecraft. Buy content once while signed in with a Microsoft account and enjoy it on any supported device with no expiration. 
+A: The Minecraft Marketplace is what we call our Store which you can find in-game. For the first time, new character skins, textures, and worlds made by creators in the Minecraft community are coming to the in-game store for Minecraft Bedrock platforms. With Minecraft Marketplace, we've made it safer and easier to purchase community-made content for Minecraft. Buy content once while signed in with a Microsoft account and enjoy it on any supported device with no expiration. 
 
 </div>
 
@@ -273,7 +273,7 @@ A: Yes, your existing worlds from Minecraft: Nintendo Switch Edition will conver
 
 <div>
 
-**Q:  How do I transfer existing worlds from "Minecraft: Nintendo Switch Edition" to "Minecraft"**\
+**Q:  How do I transfer existing worlds from “Minecraft: Nintendo Switch Edition” to “Minecraft”**  
  
 
 </div>
@@ -284,9 +284,9 @@ A:  *In Minecraft (Bedrock Version):*
 
 </div>
 
--   A button "Sync Old Worlds" on the bottom of the worlds list in the play menu will find any worlds on the device from the 4J Switch version and display them below the button.
--   Select any of the newly found worlds to convert it to Bedrock edition
--   After conversion the world will show up above the Sync Old Worlds button with the rest of your Bedrock worlds.
+- A button “Sync Old Worlds” on the bottom of the worlds list in the play menu will find any worlds on the device from the 4J Switch version and display them below the button.
+- Select any of the newly found worlds to convert it to Bedrock edition
+- After conversion the world will show up above the Sync Old Worlds button with the rest of your Bedrock worlds.
 
 <div>
 
@@ -296,17 +296,17 @@ A:  *In Minecraft (Bedrock Version):*
 
 <div>
 
-Make sure both Wii U and Switch are on the same Wi-Fi network and are connected to Nintendo Network\
+Make sure both Wii U and Switch are on the same Wi-Fi network and are connected to Nintendo Network  
  
 
 </div>
 
 On Wii U:
 
--   Select Play Game
--   In your worlds list, hover over the world you want to transfer and hit X for Save Options
--   Select "Transfer Save to Nintendo Switch" button on the bottom and hit ok on the popup that appears
--   Transfer save progress bar should appear and will sit there while you perform the other half of the transfer on the Switch
+- Select Play Game
+- In your worlds list, hover over the world you want to transfer and hit X for Save Options
+- Select “Transfer Save to Nintendo Switch” button on the bottom and hit ok on the popup that appears
+- Transfer save progress bar should appear and will sit there while you perform the other half of the transfer on the Switch
 
 <div>
 
@@ -314,10 +314,10 @@ On Switch:
 
 </div>
 
--   Select Play Game
--   Hit Y to "Transfer Save from Wii U"
--   Select Yes on the popup that appears
--   Progress bar for Transfer Save should appear and start filling as the save data transfers between the consoles.
+- Select Play Game
+- Hit Y to “Transfer Save from Wii U”
+- Select Yes on the popup that appears
+- Progress bar for Transfer Save should appear and start filling as the save data transfers between the consoles.
 
 <div>
 
@@ -339,7 +339,7 @@ A: World size is infinite in Minecraft for Nintendo Switch.
 
 <div>
 
-**Q:  I'm playing in a world that was transferred from the previous version, are there limitations on the size?**
+**Q:  I’m playing in a world that was transferred from the previous version, are there limitations on the size?**
 
 </div>
 
@@ -365,7 +365,7 @@ A: Yes, Realms is available on the Bedrock edition of Minecraft for Nintendo Swi
 
 </div>
 
-\
+  
  
 
 </div>
@@ -432,14 +432,14 @@ A: No, the Super Mario Mash-Up is only playable by Nintendo Switch owners in sin
 
 <div>
 
-A:  Log into Minecraft and sign into your Microsoft account. All your content will sync automatically with other purchases you've made with other Bedrock versions. \
+A:  Log into Minecraft and sign into your Microsoft account. All your content will sync automatically with other purchases you’ve made with other Bedrock versions.   
  
 
 </div>
 
 <div>
 
-**Q:  I own Minecraft: Nintendo Switch Edition and I've bought previous DLC. How do I get it to sync to Minecraft?**
+**Q:  I own Minecraft: Nintendo Switch Edition and I’ve bought previous DLC. How do I get it to sync to Minecraft?**
 
 </div>
 
@@ -451,7 +451,7 @@ A: A. Log into Minecraft: Nintendo Switch Edition on your Nintendo Switch accoun
 
 <div>
 
-B. Log into the Minecraft on your Nintendo Switch and you'll be automatically granted the entitlements for that DLC. \
+B. Log into the Minecraft on your Nintendo Switch and you’ll be automatically granted the entitlements for that DLC.   
  
 
 </div>

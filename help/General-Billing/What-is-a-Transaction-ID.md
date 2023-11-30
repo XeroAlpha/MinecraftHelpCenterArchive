@@ -26,32 +26,32 @@ tags:
   - platform_pc
   - platform_PC
   - section_12619005712013
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-
+link: https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-
 ---
 
 Mojang Studios player support uses transaction IDs to verify ownership of an account.
 
 # In This Article: 
 
--   [Where do I Find my Transaction ID? ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FMVRDT7TR44V082554179)
--   [I Lost my Transaction ID ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FN0WGWWY3X7JSS1K8SRAZ)
--   [Payment Methods ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FN575EEJKX6P03GYMRYYQ)
-    -   [PayPal ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FNAR807WRSR4CMC0KWSZP)
-    -   [Credit or Debit Card ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FNFEQR8DF9QVVKD4XKQ8H)
-    -   [None of the Above? ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FNKYFE8ZACGYFKCNHN4WB)
--   [Digital Gift Code](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FP1GQKVRBDY7W4E9BH0F1)
--   [Prepaid Pin ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FP6R56VPTKCBC5YB2V318)
--   [Mojang Studios Order Number ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FPB8Z0GN8TT811GNTZ8CF)
--   [Minecraft for Windows Codes ](https://minecrafthelp.zendesk.com/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-#h_01H44FPJ5E9K4SVN7YDT2GXB3M)
+- [Where do I Find my Transaction ID? ](#where-do-i-find-my-transaction-id)
+- [I Lost my Transaction ID ](#i-lost-my-transaction-id)
+- [Payment Methods ](#payment-methods)
+  - [PayPal ](#paypal)
+  - [Credit or Debit Card ](#credit-or-debit-card)
+  - [None of the Above? ](#none-of-the-above)
+- [Digital Gift Code](#digital-gift-code)
+- [Prepaid Pin ](#prepaid-pin)
+- [Mojang Studios Order Number ](#mojang-studios-order-number)
+- [Minecraft for Windows Codes ](#minecraft-for-windows-codes)
 
 ## Where do I Find my Transaction ID? 
 
 There are a few ways to find your transaction ID: 
 
--   After your purchase, check your confirmation email for the transaction ID and order number. 
--   Look in your Inbox for an email sent by Mojang Studios (noreply@mojang.com) to locate your transaction ID. 
--   Check your spam or junk folder if you don\'t see it in your Inbox. 
--   If you used a gift code or PIN from a Minecraft prepaid card, that code is used to verify account ownership. 
+- After your purchase, check your confirmation email for the transaction ID and order number. 
+- Look in your Inbox for an email sent by Mojang Studios (noreply@mojang.com) to locate your transaction ID. 
+- Check your spam or junk folder if you don't see it in your Inbox. 
+- If you used a gift code or PIN from a Minecraft prepaid card, that code is used to verify account ownership. 
 
 **Note for Minecraft: Java Edition players: Only Minecraft: Java Edition purchases made before 7/25/2022 will generate a Minecraft Transaction ID which is helpful for the Minecraft account recovery process. Minecraft: Java Edition purchases made after 7/25/2022 use a Microsoft account and will not create a Transaction ID. **
 
@@ -71,8 +71,8 @@ If you cannot locate an email or transaction ID, or if your purchase was not mad
 
 A PayPal transaction ID is a seventeen-character alphanumeric code. However, in some cases, you may be issued a PayPal receipt number. 
 
--   PayPal transaction ID example: 1AB23456C7890123D 
--   PayPal receipt number example: 1234-5678-9012-3456 
+- PayPal transaction ID example: 1AB23456C7890123D 
+- PayPal receipt number example: 1234-5678-9012-3456 
 
 To find your transaction ID or PayPal receipt number, log into your PayPal account and check your transaction history. 
 
@@ -86,7 +86,7 @@ All current transactions made using a Visa, MasterCard, or American Express card
 
 A Braintree transaction ID is a set of six or seven numbers and letters. 
 
--   Braintree transaction ID example: 1a2bcd3 
+- Braintree transaction ID example: 1a2bcd3 
 
 If you lost your Braintree transaction ID, we can attempt to verify the purchase if you provide us with the cardholder name, date of purchase, expiration date, card type, and last four digits of the card used for alternate verification. 
 
@@ -98,7 +98,7 @@ Credit and debit card transactions between mid-2011 to December 2013 were handle
 
 A Skrill transaction ID is a set of nine or ten numbers and letters. 
 
--   Skrill transaction ID example: 9876543210 
+- Skrill transaction ID example: 9876543210 
 
 To retrieve a Skrill transaction ID, you must have your original purchase notification email. 
 
@@ -108,7 +108,7 @@ Credit and debit card transactions made earlier than mid-2011 were handled by ou
 
 A DIBS transaction ID is a sequence of nine digits.  
 
--   DIBS transaction ID example: 123456789  
+- DIBS transaction ID example: 123456789  
 
 To retrieve a DIBS transaction ID, you must have your original purchase notification email. 
 
@@ -118,7 +118,7 @@ If your purchase was not made by any of the previously listed payment methods, a
 
 An Ayden transaction ID is a sequence of sixteen numbers.  
 
--   Ayden transaction ID example: 1234567891234567  
+- Ayden transaction ID example: 1234567891234567  
 
 If you cannot locate an email or transaction ID, or if your purchase was not made by any of the previously listed payment methods, contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
 
@@ -130,11 +130,11 @@ Digital gift codes can be purchased in our online store or on Amazon. They are n
 
 Mojang Studios gift codes contain five sets of five letters and numbers. 
 
--   Mojang Studios gift code example: A1B2C-D3E4F-G5H6I-J7K8L-M9N0P 
+- Mojang Studios gift code example: A1B2C-D3E4F-G5H6I-J7K8L-M9N0P 
 
 However, before October 2015, Mojang Studios gift codes were three sets of four characters. 
 
--   Pre-October 2015 gift code example: B2C3-D4F6-G7H8 
+- Pre-October 2015 gift code example: B2C3-D4F6-G7H8 
 
 To recover a gift code that you can no longer access, ask the person who gave it to you to retrieve it from [account.mojang.com](https://account.mojang.com/) in their account overview. 
 
@@ -150,8 +150,8 @@ Minecraft prepaid cards are physical cards available for purchase in select reta
 
 A Minecraft prepaid card PIN is a ten-digit number or five sets of five letters and numbers. 
 
--   Prepaid card ten-digit number PIN example: 123 456 7890 
--   Prepaid card five sets of five letters and numbers example: A1B2C-D3E4F-G5H6I-J7K8L-M9N0P 
+- Prepaid card ten-digit number PIN example: 123 456 7890 
+- Prepaid card five sets of five letters and numbers example: A1B2C-D3E4F-G5H6I-J7K8L-M9N0P 
 
 Once you redeem a Minecraft prepaid card, an email containing the PIN number is sent to the email address registered to your Mojang account confirming the redemption. If you cannot find this email, contact [Minecraft support](https://aka.ms/Minecraft-Support) and we may be able to assist you without your PIN.  
 

@@ -14,14 +14,14 @@ tags:
   - platform_pc
   - platform_PC
   - section_12617963662861
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360046599271-Encountering-an-Error-While-Creating-Your-Minecraft-Java-Edition-Account
+link: https://help.minecraft.net/hc/en-us/articles/360046599271-Encountering-an-Error-While-Creating-Your-Minecraft-Java-Edition-Account
 ---
 
 *This article refers to Minecraft: Java Edition profile names.* 
 
 When signing up for an account and creating a Java profile name you may see this error: *IllegalArgumentException: Registration failed*. 
 
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360062408432){width="429" height="293"}
+![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360062408432)
 
 This error occurs when a registered account already exists with the Java profile name you have selected. Normally the site will tell you the Java profile name is already taken, but in some instances, this error will show instead. You will need to select a new Java profile name and try again. 
 

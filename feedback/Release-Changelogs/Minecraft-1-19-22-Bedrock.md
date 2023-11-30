@@ -14,6 +14,6 @@ As always, we appreciate all of your help and input. Please report any new bugs 
 
 **Fixes:**
 
--   Fixed a crash that could occur on some devices when loading in worlds with texture packs applied ([MCPE-160800](https://bugs.mojang.com/browse/MCPE-160800))
--   Fixed a bug where deleting cloud synced worlds on Xbox would not delete the cloud version of the world when the player deleted the world locally
--   Fixed an issue on Xbox that could cause players to see a "storage full" error despite having plenty of storage
+- Fixed a crash that could occur on some devices when loading in worlds with texture packs applied ([MCPE-160800](https://bugs.mojang.com/browse/MCPE-160800))
+- Fixed a bug where deleting cloud synced worlds on Xbox would not delete the cloud version of the world when the player deleted the world locally
+- Fixed an issue on Xbox that could cause players to see a “storage full” error despite having plenty of storage

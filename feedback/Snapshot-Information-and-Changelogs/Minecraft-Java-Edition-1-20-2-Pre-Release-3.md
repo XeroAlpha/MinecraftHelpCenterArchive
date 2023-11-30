@@ -11,24 +11,24 @@ Happy Mining!
 
 # FIXED BUGS IN 1.20.2 PRE-RELEASE 3
 
--   [MC-264564](https://bugs.mojang.com/browse/MC-264564) - Record attribute is stripped from records with no components
--   [MC-265296](https://bugs.mojang.com/browse/MC-265296) - Player sits lower in minecarts
--   [MC-265335](https://bugs.mojang.com/browse/MC-265335) - Hoglins can\'t be bred
+- [MC-264564](https://bugs.mojang.com/browse/MC-264564) - Record attribute is stripped from records with no components
+- [MC-265296](https://bugs.mojang.com/browse/MC-265296) - Player sits lower in minecarts
+- [MC-265335](https://bugs.mojang.com/browse/MC-265335) - Hoglins can't be bred
 
 # GET THE PRE-RELEASE
 
-Pre-Releases are available for Minecraft: Java Edition. To install the Pre-Release, open up the [Minecraft Launcher](https://www.minecraft.net/download.html) and enable snapshots in the \"Installations\" tab.
+Pre-Releases are available for Minecraft: Java Edition. To install the Pre-Release, open up the [Minecraft Launcher](https://www.minecraft.net/download.html) and enable snapshots in the "Installations" tab.
 
 **Testing versions can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
 Cross-platform server jar:
 
--   [Minecraft server jar](https://piston-data.mojang.com/v1/objects/3d2eecdda5f6c7260d73aa5c2e5ce1a42e0f24e4/server.jar)
+- [Minecraft server jar](https://piston-data.mojang.com/v1/objects/3d2eecdda5f6c7260d73aa5c2e5ce1a42e0f24e4/server.jar)
 
 Report bugs here:
 
--   [Minecraft issue tracker](https://bugs.mojang.com/projects/MC/summary)!
+- [Minecraft issue tracker](https://bugs.mojang.com/projects/MC/summary)!
 
 Want to give feedback?
 
--   For any feedback and suggestions on our upcoming 1.20 features, head over to the dedicated [Feedback site category](https://aka.ms/MC120Feedback). If you\'re feeling chatty, join us over at the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
+- For any feedback and suggestions on our upcoming 1.20 features, head over to the dedicated [Feedback site category](https://aka.ms/MC120Feedback). If you're feeling chatty, join us over at the [official Minecraft Discord](https://discordapp.com/invite/minecraft).

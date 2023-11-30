@@ -14,15 +14,15 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4404997186189-Minecraft-B
 
 **PLEASE READ before participating in the Minecraft Beta: **
 
--   Joining the beta will replace your game with a work in progress version of Minecraft 
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
--   Beta builds can be unstable and are not representative of final version quality 
--   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Joining the beta will replace your game with a work in progress version of Minecraft 
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
+- Beta builds can be unstable and are not representative of final version quality 
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-![Screen_Shot_07-13-21_at_01.43_PM.PNG](https://feedback.minecraft.net/hc/article_attachments/4404990171661/Screen_Shot_07-13-21_at_01.43_PM.PNG){width="574" height="357"}
+![Screen_Shot_07-13-21_at_01.43_PM.PNG](https://feedback.minecraft.net/hc/article_attachments/4404990171661/Screen_Shot_07-13-21_at_01.43_PM.PNG)
 
-We have another Bedrock Beta update today, and we\'ve fixed a bunch of bugs! Also, we\'ve made a fairly significant change to the way hostile mobs spawn - to test this out you\'ll need to enable the [Caves and Cliffs Experimental Features](https://feedback.minecraft.net/hc/en-us/community/posts/360075718432). We\'re hoping this change will make your cave spelunking trips slightly safer, but you\'ll still need to avoid falling in lava with a hotbar full of diamonds. Not that that ever happens, right? 
+We have another Bedrock Beta update today, and we've fixed a bunch of bugs! Also, we've made a fairly significant change to the way hostile mobs spawn - to test this out you'll need to enable the [Caves and Cliffs Experimental Features](https://feedback.minecraft.net/hc/en-us/community/posts/360075718432). We're hoping this change will make your cave spelunking trips slightly safer, but you'll still need to avoid falling in lava with a hotbar full of diamonds. Not that that ever happens, right? 
 
 Please send us your feedback in the threads at <https://aka.ms/CavesCliffsFeedback>, and search and report any new bugs you may encounter at [https://bugs.mojang.com](https://bugs.mojang.com/).  
 
@@ -30,90 +30,90 @@ Please send us your feedback in the threads at <https://aka.ms/CavesCliffsFeedb
 
 # **Experimental Features** 
 
--   Monsters will only spawn in complete darkness  
-    -   This change is being made to balance the player\'s ability to light up the new larger caves and make them safe from monster spawning 
-    -   Note that this change only affects block-light and not sky-light 
-    -   Please send us your feedback on this change at [aka.ms/CCMobSpawningFeedback](https://aka.ms/CCMobSpawningFeedback)! 
+- Monsters will only spawn in complete darkness  
+  - This change is being made to balance the player's ability to light up the new larger caves and make them safe from monster spawning 
+  - Note that this change only affects block-light and not sky-light 
+  - Please send us your feedback on this change at [aka.ms/CCMobSpawningFeedback](https://aka.ms/CCMobSpawningFeedback)! 
 
 # **Features and Bug Fixes** 
 
 ## **Stability and Performance** 
 
--   Fixed several crashes that could occur during gameplay 
+- Fixed several crashes that could occur during gameplay 
 
 ## **Blocks** 
 
--   Amethyst Cluster block can no longer be placed on Grass Path blocks  
--   Corrected Deepslate Lapis Lazuli Ore block name from Deepslate Lapis Ore ([MCPE-123605](https://bugs.mojang.com/browse/MCPE-123605))  
--   Dispensers now remove bubble columns when removing water ([MCPE-56462](https://bugs.mojang.com/browse/MCPE-56462))  
--   Sea Pickles now change light depending on being in water or not ([MCPE-131642](https://bugs.mojang.com/browse/MCPE-131642))  
--   Snow layers are now melted by light from torches, etc. ([MCPE-131272](https://bugs.mojang.com/browse/MCPE-131272))  
--   Vanilla Parity: Falling gravity blocks will no longer break when landing on certain blocks  ([MCPE-20109](https://bugs.mojang.com/browse/MCPE-20109))  
+- Amethyst Cluster block can no longer be placed on Grass Path blocks  
+- Corrected Deepslate Lapis Lazuli Ore block name from Deepslate Lapis Ore ([MCPE-123605](https://bugs.mojang.com/browse/MCPE-123605))  
+- Dispensers now remove bubble columns when removing water ([MCPE-56462](https://bugs.mojang.com/browse/MCPE-56462))  
+- Sea Pickles now change light depending on being in water or not ([MCPE-131642](https://bugs.mojang.com/browse/MCPE-131642))  
+- Snow layers are now melted by light from torches, etc. ([MCPE-131272](https://bugs.mojang.com/browse/MCPE-131272))  
+- Vanilla Parity: Falling gravity blocks will no longer break when landing on certain blocks  ([MCPE-20109](https://bugs.mojang.com/browse/MCPE-20109))  
 
 ## **Gameplay** 
 
--   Vanilla Parity: Using Bone Meal on Moss Blocks now also replaces Tuff blocks ([MCPE-125922](https://bugs.mojang.com/browse/MCPE-125922))  
--   Vanilla Parity: Fixed Light Block not being displayed correctly when being held ([MCPE-123249](https://bugs.mojang.com/browse/MCPE-123249))  
--   Fixed held items not disappearing visually to other players after a player dies when the Keep Inventory gamerule is enabled ([MCPE-64235](https://bugs.mojang.com/browse/MCPE-64235))
--   Nether Portals placed between chunks no longer break when leaving the Nether ([MCPE-74333](https://bugs.mojang.com/browse/MCPE-74333))  
--   Shears now correctly cut Vines and Glow Lichen faster ([MCPE-123139](https://bugs.mojang.com/browse/MCPE-123139))  
--   Weeping and Twisting Vines now grow correctly after the player breaks them ([MCPE-90932](https://bugs.mojang.com/browse/MCPE-90932))  
+- Vanilla Parity: Using Bone Meal on Moss Blocks now also replaces Tuff blocks ([MCPE-125922](https://bugs.mojang.com/browse/MCPE-125922))  
+- Vanilla Parity: Fixed Light Block not being displayed correctly when being held ([MCPE-123249](https://bugs.mojang.com/browse/MCPE-123249))  
+- Fixed held items not disappearing visually to other players after a player dies when the Keep Inventory gamerule is enabled ([MCPE-64235](https://bugs.mojang.com/browse/MCPE-64235))
+- Nether Portals placed between chunks no longer break when leaving the Nether ([MCPE-74333](https://bugs.mojang.com/browse/MCPE-74333))  
+- Shears now correctly cut Vines and Glow Lichen faster ([MCPE-123139](https://bugs.mojang.com/browse/MCPE-123139))  
+- Weeping and Twisting Vines now grow correctly after the player breaks them ([MCPE-90932](https://bugs.mojang.com/browse/MCPE-90932))  
 
 ## **Graphical** 
 
--   Adjusted padding for HD Textures in mipmaps level 1 in texture atlas to fix texture bleeding  
--   Half of the Enchantment Table book doesn\'t render dark anymore ([MCPE-106627](https://bugs.mojang.com/browse/MCPE-106627))  
--   Blocks moved by a Piston are no longer white while moving ([MCPE-66250](https://bugs.mojang.com/browse/MCPE-66250))  
+- Adjusted padding for HD Textures in mipmaps level 1 in texture atlas to fix texture bleeding  
+- Half of the Enchantment Table book doesn't render dark anymore ([MCPE-106627](https://bugs.mojang.com/browse/MCPE-106627))  
+- Blocks moved by a Piston are no longer white while moving ([MCPE-66250](https://bugs.mojang.com/browse/MCPE-66250))  
 
 ## **Mobs** 
 
--   Axolotl spawns only when there is stone up to 10 blocks under them, and not in bubble columns  
--   Armor Stands now drop equipped items when destroyed by fire or lava ([MCPE-94603](https://bugs.mojang.com/browse/MCPE-94603))  
--   Limited the maximum number of Phantom mobs that can spawn ([MCPE-106557](https://bugs.mojang.com/browse/MCPE-106557))  
--   Goats now play their \"impact 3\" sound ([MCPE-127757](https://bugs.mojang.com/browse/MCPE-127757))  
+- Axolotl spawns only when there is stone up to 10 blocks under them, and not in bubble columns  
+- Armor Stands now drop equipped items when destroyed by fire or lava ([MCPE-94603](https://bugs.mojang.com/browse/MCPE-94603))  
+- Limited the maximum number of Phantom mobs that can spawn ([MCPE-106557](https://bugs.mojang.com/browse/MCPE-106557))  
+- Goats now play their "impact 3" sound ([MCPE-127757](https://bugs.mojang.com/browse/MCPE-127757))  
 
 ## **User Interface** 
 
--   Recipe Book crafting estimates no longer differ from the actual results  
--   Experimental warning message is no longer displayed inconsistently when loading beta worlds  
--   Cursor items no longer count towards recipe ingredient in Recipe Book  
--   Selected recipe is now deselected when the player runs out of ingredients  
--   Non-craftable recipes no longer displayed in Recipe Book when search mechanism is used  
--   Nether blocks now appear in the crafting grid if any other ingredient is unavailable  
--   Fixed a wireless network connection error message that appeared when players were connected via a wired network  
--   Fixed various spelling errors in Character Creator  
--   Hover of widget buttons were showing corrupted appearance before full load was complete  
--   Fixed a legibility issue with some Japanese font characters  
--   Riding an animal now displays the correct tooltip term when played on a non-touch screen  
+- Recipe Book crafting estimates no longer differ from the actual results  
+- Experimental warning message is no longer displayed inconsistently when loading beta worlds  
+- Cursor items no longer count towards recipe ingredient in Recipe Book  
+- Selected recipe is now deselected when the player runs out of ingredients  
+- Non-craftable recipes no longer displayed in Recipe Book when search mechanism is used  
+- Nether blocks now appear in the crafting grid if any other ingredient is unavailable  
+- Fixed a wireless network connection error message that appeared when players were connected via a wired network  
+- Fixed various spelling errors in Character Creator  
+- Hover of widget buttons were showing corrupted appearance before full load was complete  
+- Fixed a legibility issue with some Japanese font characters  
+- Riding an animal now displays the correct tooltip term when played on a non-touch screen  
 
 # **Technical Updates** 
 
 ## **GameTest Framework (Experimental)** 
 
--   Renamed BlockTypes class to MinecraftBlockTypes 
--   Renamed Effects class to MinecraftEffectTypes 
--   Renamed Items class to MinecraftItemTypes 
--   Events 
--   Added read-only property currentTick to tick event - Returns the current server tick 
--   Renamed event createEntity to entityCreate 
--   Renamed event addEffect to effectAdd 
--   Renamed event activatePiston to pistonActivate 
--   Renamed event beforeActivatePiston to beforePistonActivate 
--   Renamed event explodeBlock to blockExplode 
--   Renamed event changeWeather to weatherChange 
+- Renamed BlockTypes class to MinecraftBlockTypes 
+- Renamed Effects class to MinecraftEffectTypes 
+- Renamed Items class to MinecraftItemTypes 
+- Events 
+- Added read-only property currentTick to tick event - Returns the current server tick 
+- Renamed event createEntity to entityCreate 
+- Renamed event addEffect to effectAdd 
+- Renamed event activatePiston to pistonActivate 
+- Renamed event beforeActivatePiston to beforePistonActivate 
+- Renamed event explodeBlock to blockExplode 
+- Renamed event changeWeather to weatherChange 
 
 ## **Commands** 
 
--   Target selectors ry and rym now support wrapping around north  
+- Target selectors ry and rym now support wrapping around north  
 
 ## **Items** 
 
--   Killing a custom mob with an unknown loot table entry type will no longer cause a crash, and will now throw a content error ([MCPE-129006](https://bugs.mojang.com/browse/MCPE-129006))  
+- Killing a custom mob with an unknown loot table entry type will no longer cause a crash, and will now throw a content error ([MCPE-129006](https://bugs.mojang.com/browse/MCPE-129006))  
 
 ## **Mobs** 
 
--   Rabbit with initialEvent specified now scales properly to adult rabbit size ([MCPE-76643](https://bugs.mojang.com/browse/MCPE-76643))  
+- Rabbit with initialEvent specified now scales properly to adult rabbit size ([MCPE-76643](https://bugs.mojang.com/browse/MCPE-76643))  
 
 ## **Spawning** 
 
--   Similar to the spawns_on_block_filter, the spawns_above_block_filter specifies a list of blocks and a distance. The mob can then spawn only if the nearest block within the specified distance below the desired spawnpoint is in that list (water and air not included). \"minecraft:spawns_above_block_filter\": { \"blocks\": \"minecraft:stone\", \"distance\": 10 }
+- Similar to the spawns_on_block_filter, the spawns_above_block_filter specifies a list of blocks and a distance. The mob can then spawn only if the nearest block within the specified distance below the desired spawnpoint is in that list (water and air not included). "minecraft:spawns_above_block_filter": { "blocks": "minecraft:stone", "distance": 10 }

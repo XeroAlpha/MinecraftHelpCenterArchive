@@ -14,7 +14,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127692-MCPE-WIN10-G
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-\
+  
 **New Features:**
 
--   Greek Mythology Mash-up Pack
+- Greek Mythology Mash-up Pack

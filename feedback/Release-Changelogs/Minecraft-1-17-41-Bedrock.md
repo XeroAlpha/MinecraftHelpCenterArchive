@@ -10,5 +10,5 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4411858037005-Minecraft-1
 
 **Fixes:**
 
--   Fixed a crash that could occur when starting a split screen session while playing on PlayStation
--   Fixed a problem that caused certain worlds to drastically increase in size, causing high memory usage ([MCPE-143156](https://bugs.mojang.com/browse/MCPE-143156))
+- Fixed a crash that could occur when starting a split screen session while playing on PlayStation
+- Fixed a problem that caused certain worlds to drastically increase in size, causing high memory usage ([MCPE-143156](https://bugs.mojang.com/browse/MCPE-143156))

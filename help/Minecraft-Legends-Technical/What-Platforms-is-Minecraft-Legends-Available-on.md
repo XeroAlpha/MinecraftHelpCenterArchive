@@ -7,7 +7,7 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859582819853
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/14745297123725-What-Platforms-is-Minecraft-Legends-Available-on-
+link: https://help.minecraft.net/hc/en-us/articles/14745297123725-What-Platforms-is-Minecraft-Legends-Available-on-
 ---
 
 ## Gaming Platforms for Minecraft Legends

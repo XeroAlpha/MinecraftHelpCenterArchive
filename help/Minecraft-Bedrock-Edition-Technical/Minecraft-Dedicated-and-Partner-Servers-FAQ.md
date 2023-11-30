@@ -20,38 +20,38 @@ tags:
   - platform_other
   - section_12617893243277
   - platform_chromebook
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-
 ---
 
 *This help article refers to Minecraft: Bedrock Edition for Xbox One, mobile, Windows, Chromebook, and Nintendo Switch. For help with setting up a Minecraft: Java Edition server, please go to *[*Download the Minecraft: Java Edition Server*](https://minecraft.net/en-us/download/server)*.*
 
-This article includes information on Minecraft\'s dedicated and featured servers.
+This article includes information on Minecraft's dedicated and featured servers.
 
 **Note for Linux users: Ubuntu 18.04 LTS (Bionic Beaver) will reach End of Standard Support in 2023. Accordingly, the Linux Minecraft Dedicated Server will also raise its minimum target Ubuntu version to 20.04 LTS (Focal Fossa) in a later R20 update (exact release to be determined). Minecraft server operators using Ubuntu are encouraged to prepare for this transition by updating their deployments to 20.04 LTS (Focal Fossa) in R20U2 update as soon as possible.**
 
 # In This Article:
 
--   [Dedicated Servers for Minecraft: Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3RY9HPD7RY92E66CQPRGPS)
-    -   [What is a dedicated Minecraft: Bedrock Edition Server?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3RYHSA3T5PNG66RRP4V0XT)
-    -   [Who can play on my Dedicated Server?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S05BYA9V697PJY5HN07Q8)
-    -   [How do I download the Dedicated Minecraft: Bedrock Edition Server Software?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S0B62PXM9RWKYCN1PK48M)
-    -   [How do I start up the server?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S0X2GZ92M9VHT7NCCJTYB)
-        -   [For Linux:](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S13NT0GVXE8BBKBGB7XCH)
-        -   [For Windows:](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S170XYK2CQV34YJ1QPTKT)
-    -   [How do Player Enforcement/Allowlists work?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S1DZQYFB1PTPWHG6Z3RS1)
-    -   [Where can I find more support?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S1TBYAGNT041C6DD45AGT)
--   [Partner Servers for Minecraft: Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S24X09ZKK5ENYT1XKXJZB)
-    -   [What are Partner Servers?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S2MZ6AC4PXMCCC8A9YPH7)
-    -   [Are the Partner Servers free to play?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S38APBFZNZ858FTGV6H2G)
-    -   [Can I purchase content in a server store and bring it back to my Minecraft: Bedrock Edition Worlds?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S3DNMXFBNWZCDCF5GE4FB)
-    -   [On which platforms are servers available?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S3HNR8AHE676DSBD6JXZK)
-    -   [What version of Minecraft: Bedrock Edition do I need to play servers?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S3Y7Z497VEC6Q31W8Q5H6)
-    -   [How can I connect to a Partner Server?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S471KZ188ZR0WX47X6T4Y)
-    -   [What is an Xbox Live account and why do I need one?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S5PHH9TR56S5SQ6RCDE56)
-    -   [Are Partner Servers safe to play on?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S5VPZ2JS6E0Q174BQVHCP)
--   [Community Servers for Minecraft](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S6ABZFDHMVX24E3K7HC0M)
-    -   [What are community servers?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S6DQHXV23F4DF31W699S4)
-    -   [Where can I learn more about Community Servers?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-#h_01HE3S7E0C8PGJKE3S8JGV4ERK)
+- [Dedicated Servers for Minecraft: Bedrock Edition](#dedicated-servers-for-minecraft-bedrock-edition)
+  - [What is a dedicated Minecraft: Bedrock Edition Server?](#what-is-a-dedicated-minecraft-bedrock-edition-server)
+  - [Who can play on my Dedicated Server?](#who-can-play-on-my-dedicated-server)
+  - [How do I download the Dedicated Minecraft: Bedrock Edition Server Software?](#how-do-i-download-the-dedicatedminecraft-bedrock-editionserver-software)
+  - [How do I start up the server?](#how-do-i-start-up-the-server)
+    - [For Linux:](#for-linux)
+    - [For Windows:](#for-windows)
+  - [How do Player Enforcement/Allowlists work?](#how-do-player-enforcementallowlists-work)
+  - [Where can I find more support?](#where-can-i-find-more-support)
+- [Partner Servers for Minecraft: Bedrock Edition](#partner-servers-forminecraft-bedrock-edition)
+  - [What are Partner Servers?](#what-are-partner-servers)
+  - [Are the Partner Servers free to play?](#are-the-partner-servers-free-to-play)
+  - [Can I purchase content in a server store and bring it back to my Minecraft: Bedrock Edition Worlds?](#can-i-purchase-content-in-a-server-store-and-bring-it-back-to-myminecraft-bedrock-editionworlds)
+  - [On which platforms are servers available?](#on-which-platforms-are-servers-available)
+  - [What version of Minecraft: Bedrock Edition do I need to play servers?](#what-version-ofminecraft-bedrock-editiondo-i-need-to-play-servers)
+  - [How can I connect to a Partner Server?](#how-can-iconnect-to-a-partner-server)
+  - [What is an Xbox Live account and why do I need one?](#what-is-an-xbox-live-account-and-why-do-i-need-one)
+  - [Are Partner Servers safe to play on?](#are-partner-servers-safe-to-play-on)
+- [Community Servers for Minecraft](#community-servers-for-minecraft)
+  - [What are community servers?](#what-are-community-servers)
+  - [Where can I learn more about Community Servers?](#where-can-i-learn-more-about-community-servers)
 
 ## DEDICATED SERVERS FOR MINECRAFT: BEDROCK EDITION 
 
@@ -67,13 +67,13 @@ A dedicated Minecraft: Bedrock Edition server gives you the creative power to co
 
 ### WHO CAN PLAY ON MY DEDICATED SERVER? 
 
-Anyone playing on Minecraft: Bedrock Edition ([including Chromebook](https://help.minecraft.net/hc/en-us/articles/13803752803725)) will be able to connect to the server, with the current exception of Nintendo Switch users. Also, players on Xbox One can only connect through a LAN connection. If you\'re not sure if the edition you\'re playing on is Minecraft: Bedrock Edition, please visit the [Different Minecraft Editions](https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions) help article. 
+Anyone playing on Minecraft: Bedrock Edition ([including Chromebook](https://help.minecraft.net/hc/en-us/articles/13803752803725)) will be able to connect to the server, with the current exception of Nintendo Switch users. Also, players on Xbox One can only connect through a LAN connection. If you're not sure if the edition you're playing on is Minecraft: Bedrock Edition, please visit the [Different Minecraft Editions](https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions) help article. 
 
 ### HOW DO I DOWNLOAD THE DEDICATED MINECRAFT: BEDROCK EDITION SERVER SOFTWARE? 
 
 To download the software required to set up your dedicated Minecraft: Bedrock Edition server, visit the [Download Server Software for Minecraft](https://minecraft.net/en-us/download/server/bedrock) page. 
 
-Your download will include a "How to use the dedicated server" guide that will help you through the installation steps to get you up and running. 
+Your download will include a “How to use the dedicated server” guide that will help you through the installation steps to get you up and running. 
 
 ### HOW DO I START UP THE SERVER? 
 
@@ -105,17 +105,17 @@ If you still think that having your own server sounds great, but you feel techni
 
 ### WHAT ARE PARTNER SERVERS? 
 
-Partner Servers are independently crafted, multiplayer experiences hosted by trusted partners in the Minecraft community. Each server includes its own unique content, such as minigames that let players collaborate and compete with others. You are able to purchase various skins and experiences within the server, but we do not allow "pay-to-win" purchases.
+Partner Servers are independently crafted, multiplayer experiences hosted by trusted partners in the Minecraft community. Each server includes its own unique content, such as minigames that let players collaborate and compete with others. You are able to purchase various skins and experiences within the server, but we do not allow “pay-to-win” purchases.
 
 This way, you will always be on a level playing field with other players.  Most content on Partner Servers is available for free and, by playing, players can also unlock free items within the server! We currently have five Partner Servers available for players, and more are planned to launch in the coming months.
 
 ### ARE THE PARTNER SERVERS FREE TO PLAY? 
 
-Yes, servers are free to play as long as you have Minecraft: Bedrock Edition. However, you must also have Nintendo Switch Online if you're on a Nintendo Switch, PlayStation®Plus if you are on PlayStation®, or Xbox Game Pass Core or Ultimate if you are on Xbox to access the multiplayer functionality. 
+Yes, servers are free to play as long as you have Minecraft: Bedrock Edition. However, you must also have Nintendo Switch Online if you’re on a Nintendo Switch, PlayStation®Plus if you are on PlayStation®, or Xbox Game Pass Core or Ultimate if you are on Xbox to access the multiplayer functionality. 
 
 ### CAN I PURCHASE CONTENT IN A SERVER STORE AND BRING IT BACK TO MY MINECRAFT: BEDROCK EDITION WORLDS? 
 
-No, the content you purchase within a server store can be used only within that server. However, if you\'ve purchased or downloaded any skins or Character Creator items from the regular Minecraft Marketplace, you can use them on a server. 
+No, the content you purchase within a server store can be used only within that server. However, if you've purchased or downloaded any skins or Character Creator items from the regular Minecraft Marketplace, you can use them on a server. 
 
 ### ON WHICH PLATFORMS ARE SERVERS AVAILABLE? 
 
@@ -127,15 +127,15 @@ You need the latest version of Minecraft: Bedrock Edition. Unfortunately, you ca
 
 ### HOW CAN I CONNECT TO A Partner Server? 
 
-It\'s easy. Look for the **Servers **tab in the Minecraft: Bedrock Edition game menu, choose which Partner Server you want to play on, and select **Join Server**. 
+It's easy. Look for the **Servers **tab in the Minecraft: Bedrock Edition game menu, choose which Partner Server you want to play on, and select **Join Server**. 
 
 ### WHAT IS AN XBOX LIVE ACCOUNT AND WHY DO I NEED ONE? 
 
-An Xbox Live account enables you to get a Gamertag---something you\'ll need no matter which platform you\'re playing servers on. You will use that account as your username and profile across the Minecraft: Bedrock Edition universe. 
+An Xbox Live account enables you to get a Gamertag—something you'll need no matter which platform you're playing servers on. You will use that account as your username and profile across the Minecraft: Bedrock Edition universe. 
 
 ### ARE PARTNER SERVERS SAFE TO PLAY ON? 
 
-Yes! Because everyone is required to have an Xbox Live account, which includes the player\'s code of conduct, players of all ages will feel safe and welcome in Servers. Our Partner Servers also have chat filters that will remove any bad language or personal information. Players also can [report anyone](https://help.minecraft.net/hc/en-us/articles/4409161646989) who is not following the code of conduct, and our support team can act quickly on any reports of bad behavior. 
+Yes! Because everyone is required to have an Xbox Live account, which includes the player's code of conduct, players of all ages will feel safe and welcome in Servers. Our Partner Servers also have chat filters that will remove any bad language or personal information. Players also can [report anyone](https://help.minecraft.net/hc/en-us/articles/4409161646989) who is not following the code of conduct, and our support team can act quickly on any reports of bad behavior. 
 
 Younger players are also kept safe with child accounts, which have multiplayer capabilities disabled by default until a parent or guardian changes their account settings. 
 

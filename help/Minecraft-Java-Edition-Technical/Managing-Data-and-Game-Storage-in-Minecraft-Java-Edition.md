@@ -20,7 +20,7 @@ tags:
   - platform_windows_10/11
   - section_12618019146893
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition
 ---
 
 *This article applies to Minecraft: Java Edition only. Click [here for Minecraft Bedrock versions](https://help.minecraft.net/hc/en-us/articles/4409165790605).* 
@@ -29,25 +29,25 @@ This article details everything you need to know about managing data and game st
 
 # In This Article:
 
--   [**Back up Minecraft Worlds**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition#h_01FGA90M9Z3A1CMGWJ2S6KANDY)
--   **[Where are Minecraft Files Stored?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition#h_01FGA90Z06DE00GT8E81SWX9SE)**
--   **[Transfer Minecraft: Java Edition to another computer](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition#h_01FGA9289T0T4RD76MX90B81HZ)**
--   **[How to Fix a Corrupted World Save](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition#h_01FGA92HXE74SDG702DQZ9QENC)**
+- [**Back up Minecraft Worlds**](#back-up-minecraft-worlds)
+- **[Where are Minecraft Files Stored?](#where-are-minecraft-files-stored)**
+- **[Transfer Minecraft: Java Edition to another computer](#transfer-minecraft-java-edition-to-another-computer)**
+- **[How to Fix a Corrupted World Save](#how-to-fix-a-corrupted-world-save)**
 
-**Note: Be sure to preserve your world. Worlds can get corrupted at any time, and the only way to recover them is through a backup. To minimize risk, use your device\'s cloud-saving capabilities, or make a manual backup using the steps below.**
+**Note: Be sure to preserve your world. Worlds can get corrupted at any time, and the only way to recover them is through a backup. To minimize risk, use your device's cloud-saving capabilities, or make a manual backup using the steps below.**
 
 ## Back up Minecraft Worlds
 
-It is recommended to back up your Minecraft worlds to prevent them from being lost. This is especially important if you want to try out an experimental version of Minecraft such as a snapshot or beta. \
-\
-Backing up Minecraft: Java Edition worlds is as easy as copying the world folders. You can save copies of your world folders on the same computer or store them on any other storage media.  See below for information about where to locate your worlds and how to transfer them, see [Transfer Minecraft: Java Edition to another computer. ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition#h_01FGA9289T0T4RD76MX90B81HZ)
+It is recommended to back up your Minecraft worlds to prevent them from being lost. This is especially important if you want to try out an experimental version of Minecraft such as a snapshot or beta.   
+  
+Backing up Minecraft: Java Edition worlds is as easy as copying the world folders. You can save copies of your world folders on the same computer or store them on any other storage media.  See below for information about where to locate your worlds and how to transfer them, see [Transfer Minecraft: Java Edition to another computer. ](#transfer-minecraft-java-edition-to-another-computer)
 
 If you receive an error report that you are almost out of storage space, go into the saved game data in-game settings to delete files manually. To do so follow the steps below: 
 
--   Sign into your account. 
--   Choose the world or Realm you would like to delete. 
--   Select the edit icon to the right of the world or Realm name. 
--   On the game settings screen, scroll to the bottom and select **Delete**. 
+- Sign into your account. 
+- Choose the world or Realm you would like to delete. 
+- Select the edit icon to the right of the world or Realm name. 
+- On the game settings screen, scroll to the bottom and select **Delete**. 
 
 Resource packs, textures, skins, and mods are also stored in your local storage and account for total data size per local profile.  
 
@@ -61,33 +61,33 @@ The file to run the launcher is wherever you saved it. This may or may not defau
 
 ### Find additional launcher files 
 
--   Launch Minecraft, then log in. 
--   Go to **Launch Options**, choose a launch configuration, and then click the green arrow next to **Game Directory**. 
+- Launch Minecraft, then log in. 
+- Go to **Launch Options**, choose a launch configuration, and then click the green arrow next to **Game Directory**. 
 
 **Tip:** **Latest Release** is the default launch configuration. 
 
 #### Linux 
 
-\~ is your home directory, usually /home/YOURNAME, so \~/.minecraft would be /home/YOURNAME/.minecraft/. 
+~ is your home directory, usually /home/YOURNAME, so ~/.minecraft would be /home/YOURNAME/.minecraft/. 
 
 #### OS X 
 
-Open Finder then paste: \~/Library/Application Support/minecraft in the **Search** box. 
+Open Finder then paste: ~/Library/Application Support/minecraft in the **Search** box. 
 
 #### Windows 
 
-Press [Win](https://en.wikipedia.org/wiki/Windows_key)+R \> type %appdata%\\.minecraft \> press **Ok**. 
+Press [Win](https://en.wikipedia.org/wiki/Windows_key)+R \> type %appdata%\\minecraft \> press **Ok**. 
 
 ## Transfer Minecraft: Java Edition to another computer
 
 Please be cautious with moving or modifying your save files. We advise that you make a backup before you perform any actions in this folder. You can back up your files by copying them and storing them in another folder or on a USB drive. 
 
-Start by finding your [saves folder](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition#h_01FGA90Z06DE00GT8E81SWX9SE). You can find all Minecraft folders, including the saves folder, by going into the game launcher: 
+Start by finding your [saves folder](#where-are-minecraft-files-stored). You can find all Minecraft folders, including the saves folder, by going into the game launcher: 
 
 1.  Open the Minecraft launcher and log in. 
 2.  Navigate to **Minecraft: Java Edition**.
 3.  Select **Installations** on the top tab, and then find the launcher configuration you are running (the default is set to **Latest release**).
-4.  Navigate to the **\...** option, click it, and select **Edit**.  
+4.  Navigate to the **...** option, click it, and select **Edit**.  
 5.  Locate the **Game directory** section and select the **BROWSE** button. A Windows explorer pop-up will appear. 
 6.  Use this pop-up to place the world folder(s) that you want to transfer onto a portable storage device, file-sharing software, or cloud computing service. Then select **OK**.
 7.  Click **Save** on the bottom right of your Launcher to finish the transfer.

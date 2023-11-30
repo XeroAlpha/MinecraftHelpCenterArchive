@@ -8,16 +8,16 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360046591051-Minecraft-1-
 
 **Posted:** July 21, 2020
 
-We\'re releasing the 1.16.10.02 hotfix on mobile devices with a fix to villager trading. There are also changes coming to Minecraft on some mobile devices.\
-\
+We're releasing the 1.16.10.02 hotfix on mobile devices with a fix to villager trading. There are also changes coming to Minecraft on some mobile devices.  
+  
 
 **Important News Regarding Minecraft Mobile:**
 
 To ensure that we can devote our resources to the platforms where the most Crafters are playing, we are ending support for certain older devices and platforms where Minecraft is available. Effective in October 2020, Minecraft will no longer be updated or supported on Gear VR, Windows 10 Mobile, Android devices with 768MB of RAM or less, iOS devices running iOS 10 or below, or video cards that only support DirectX 10.1 or below.
 
-If your device is affected, a prompt will appear in-game to let you know if it will no longer receive updates. Please see [the article on Minecraft.net](https://www.minecraft.net/article/important-news-regarding-minecraft-mobile) for more information.\
-\
+If your device is affected, a prompt will appear in-game to let you know if it will no longer receive updates. Please see [the article on Minecraft.net](https://www.minecraft.net/article/important-news-regarding-minecraft-mobile) for more information.  
+  
 
 **Fixes:**
 
--   Fixed broken trading screen slots on mobile devices
+- Fixed broken trading screen slots on mobile devices

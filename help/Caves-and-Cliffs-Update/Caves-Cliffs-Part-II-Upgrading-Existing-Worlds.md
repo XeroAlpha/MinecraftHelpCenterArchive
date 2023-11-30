@@ -24,34 +24,34 @@ tags:
   - platform_pc
   - platform_PC
   - section_12618686416909
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4415035909261-Caves-Cliffs-Part-II-Upgrading-Existing-Worlds
+link: https://help.minecraft.net/hc/en-us/articles/4415035909261-Caves-Cliffs-Part-II-Upgrading-Existing-Worlds
 ---
 
-## What's changing with the new update?
+## What’s changing with the new update?
 
 The Caves & Cliffs: Part II update brings a lot of exciting changes to Minecraft, including increased height and depths to new and existing worlds. New worlds will automatically be generated with these new dimensions. Meanwhile, your existing worlds will be updated to have increased height and depth.
 
 ## How do I update my world? 
 
-On Minecraft: Bedrock Edition, once you have updated to 1.18 and go to load up an existing world, you will be shown a prompt and asked if you would like to make a backup copy of that world. If you do want to make a backup, be sure to hit the prompt and then click through to update your world and start playing. \
-\
+On Minecraft: Bedrock Edition, once you have updated to 1.18 and go to load up an existing world, you will be shown a prompt and asked if you would like to make a backup copy of that world. If you do want to make a backup, be sure to hit the prompt and then click through to update your world and start playing.   
+  
 
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4415054348301){width="453" height="351"}\
-\
+![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4415054348301)  
+  
 
 **Note: Minecraft: Bedrock Edition creators should note that to take advantage of new world generation below y=0 in non-version locked worlds, there must be a bedrock layer at y=0.**
 
-Players upgrading in Minecraft: Java Edition can upgrade by downloading update 1.18 and opening their\
+Players upgrading in Minecraft: Java Edition can upgrade by downloading update 1.18 and opening their  
 existing worlds from previous releases.
 
 ## How does this impact my existing worlds? 
 
 The update will add more vertical space to your existing worlds in two places: 
 
--   Above the highest regions of the overworld
--   Under the deepest regions of the overworld
+- Above the highest regions of the overworld
+- Under the deepest regions of the overworld
 
-This means that there's a lot more world to explore! You can build higher, allowing for even larger builds that push the limits of your imagination. 
+This means that there’s a lot more world to explore! You can build higher, allowing for even larger builds that push the limits of your imagination. 
 
 The bedrock layer previously at y=0 will be replaced with deepslate, and you will then be able to dig even deeper, with the chance of discovering the new cave types and underground biomes introduced in this update. Players should also note that doing this will not overwrite previously explored areas.
 
@@ -69,19 +69,19 @@ New chunks loaded in previously in Minecraft: Java Edition worlds and Minecraft:
 
 Existing flat worlds that are updated to Caves & Cliffs Part II will be extended to y-64, with the newly added space underneath the bedrock layer at y=0 being filled with air.
 
-Newly created flat worlds will differ slightly, with the bedrock layer now beginning at y-64 alongside the usual layer of dirt and grass block. Air will then fill the rest of the space up to y=319.  \
-\
+Newly created flat worlds will differ slightly, with the bedrock layer now beginning at y-64 alongside the usual layer of dirt and grass block. Air will then fill the rest of the space up to y=319.    
+  
 
-![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4415054389389){width="346" height="513"}
+![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4415054389389)
 
-*Flat Worlds in 1.18 - left: Upgraded world, right: Newly created world\
+*Flat Worlds in 1.18 - left: Upgraded world, right: Newly created world  
 *
 
 ** **
 
-## What happens to Minecraft: Bedrock Edition \"old\" style worlds with the Caves & Cliffs Part II update?
+## What happens to Minecraft: Bedrock Edition "old" style worlds with the Caves & Cliffs Part II update?
 
-"Old" type worlds will not be affected by the update and will continue to use pre-Caves & Cliffs Part II world generation. Players should also note that we will be removing the option to create "Old" type worlds when Caves & Cliffs Part II releases. Please read the [dedicated FAQ page](https://feedback.minecraft.net/hc/en-us/articles/4411688594317-Old-Worlds-Types-in-Minecraft-Bedrock-Edition-FAQ-) for more information.
+“Old” type worlds will not be affected by the update and will continue to use pre-Caves & Cliffs Part II world generation. Players should also note that we will be removing the option to create “Old” type worlds when Caves & Cliffs Part II releases. Please read the [dedicated FAQ page](../../feedback/Beta-and-Preview-Information-and-Changelogs/Old-Worlds-Types-in-Minecraft-Bedrock-Edition-FAQ.md) for more information.
 
 ## How does this affect Marketplace templates? 
 
@@ -91,6 +91,6 @@ Most worlds created from Marketplace templates will not be upgraded to Caves & C
 
 Due to the number of changes that will affect existing worlds updated to 1.18, it is recommend that players who have worlds they are especially attached to make a backup copy if something goes wrong, or they end up wanting to revert to pre-1.18 world generation features.
 
-## I'm still unsure about what to do! 
+## I’m still unsure about what to do! 
 
-If you still don't know what to do or are experiencing any issues, feel free to [reach out to our customer support team through the Minecraft Help Center](https://help.minecraft.net/hc/en-us/requests/new).
+If you still don’t know what to do or are experiencing any issues, feel free to [reach out to our customer support team through the Minecraft Help Center](https://help.minecraft.net/hc/en-us/requests/new).

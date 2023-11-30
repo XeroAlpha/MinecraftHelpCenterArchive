@@ -17,32 +17,32 @@ tags:
   - platform_oculus
   - platform_other
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360059154851-Minecraft-Bedrock-Edition-Beginner-s-Guide-to-Menu-Navigation
+link: https://help.minecraft.net/hc/en-us/articles/360059154851-Minecraft-Bedrock-Edition-Beginner-s-Guide-to-Menu-Navigation
 ---
 
 If you are just starting out a new world on Minecraft: Bedrock Edition for the first time, let us start by saying welcome! We are glad to have you give Minecraft a try. We hope you enjoy the game and are able to have all kinds of fun and adventure either on your own or with friends.
 
-Before you jump into that world, it will be beneficial to you to understand what you have access to on the menu. If you are feeling a little overwhelmed and not really sure where to start, here is a beginner\'s guide that will hopefully give you the head start you need. For more, you can also check out this [Tips for Beginners page](https://www.minecraft.net/en-us/minecraft-tips-for-beginners).
+Before you jump into that world, it will be beneficial to you to understand what you have access to on the menu. If you are feeling a little overwhelmed and not really sure where to start, here is a beginner's guide that will hopefully give you the head start you need. For more, you can also check out this [Tips for Beginners page](https://www.minecraft.net/en-us/minecraft-tips-for-beginners).
 
 ## Play
 
-Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend\'s world or Realm](https://help.minecraft.net/hc/en-us/articles/4410386197133), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
+Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](https://help.minecraft.net/hc/en-us/articles/4410386197133), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
 
-To make your own world, select Create New at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let\'s select Create New World at the top.
+To make your own world, select Create New at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let's select Create New World at the top.
 
 ![Minecraft-Menu-Beginners.png](https://minecrafthelp.zendesk.com/hc/article_attachments/19707492392077)
 
-Now that we are in world creation, start by thinking of a super fun and unique name for your world. If that doesn\'t work, you can just leave it as the default \"My World.\"
+Now that we are in world creation, start by thinking of a super fun and unique name for your world. If that doesn't work, you can just leave it as the default "My World."
 
-Below that, choose between playing in a [Survival or Creative world](https://www.minecraft.net/en-us/article/creative-vs-survival-mode). Survival is the base Minecraft experience that will have you working to gather resources and encountering hostile mobs. Creative is a more relaxed approach that gives you everything you want upfront to build to your heart\'s content. This option can be changed later in your world\'s settings.
+Below that, choose between playing in a [Survival or Creative world](https://www.minecraft.net/en-us/article/creative-vs-survival-mode). Survival is the base Minecraft experience that will have you working to gather resources and encountering hostile mobs. Creative is a more relaxed approach that gives you everything you want upfront to build to your heart's content. This option can be changed later in your world's settings.
 
-Difficulty can be changed later on as well, so don\'t feel too stressed to make a final decision here. For your first time playing, Easy should be a great way to introduce yourself to the game while encountering hostile mobs like the explosive Creeper and managing your hunger. If you don\'t want that stress in your life, Peaceful will turn off hostile mobs and your hunger will not deplete.
+Difficulty can be changed later on as well, so don't feel too stressed to make a final decision here. For your first time playing, Easy should be a great way to introduce yourself to the game while encountering hostile mobs like the explosive Creeper and managing your hunger. If you don't want that stress in your life, Peaceful will turn off hostile mobs and your hunger will not deplete.
 
 When you are ready, click Create to start your Minecraft experience! You can also venture into the Advanced and other settings sections to further tweak your world.
 
 ## Dressing Room
 
-Our lovable Steve is the default starting skin, but you have so many choices for how you look in the game! Either in the game\'s pause menu or the starting screen, you can change how you look by selecting Dressing Room.
+Our lovable Steve is the default starting skin, but you have so many choices for how you look in the game! Either in the game's pause menu or the starting screen, you can change how you look by selecting Dressing Room.
 
 ![Minecraft-Character-Creator.png](https://minecrafthelp.zendesk.com/hc/article_attachments/19707492398093)
 
@@ -56,5 +56,5 @@ On this page, you can create and [customize Minecraft skins](https://www.minecra
 
 Here are a couple of key settings you may want to toggle or adjust when first starting out: 
 
--   If you would like to rebind default controls, you can do that in the Keyboard & Mouse or Controller sections.
--   Under the General section in Video, scrolling down you will find the 'Render Distance' setting. If you are experiencing frame rate lag, adjusting this to a lower number will usually result in better performance.
+- If you would like to rebind default controls, you can do that in the Keyboard & Mouse or Controller sections.
+- Under the General section in Video, scrolling down you will find the ‘Render Distance’ setting. If you are experiencing frame rate lag, adjusting this to a lower number will usually result in better performance.

@@ -24,9 +24,9 @@ Your feedback site is an issue-based site, not a platform based site. An idea th
 
 The Search box is located on **every single page** of the Feedback site. 
 
-Remember: Don\'t repost other people\'s ideas, even if they posted it months or YEARS ago and have never come back to update it.
+Remember: Don't repost other people's ideas, even if they posted it months or YEARS ago and have never come back to update it.
 
-When we present issues to the team, we look at the issue, not the person who posted it, so reposting it doesn\'t actually help it get seen faster by our developers.
+When we present issues to the team, we look at the issue, not the person who posted it, so reposting it doesn't actually help it get seen faster by our developers.
 
 ## **Step Two: Check Previously Considered Suggestions**
 
@@ -34,13 +34,13 @@ When we present issues to the team, we look at the issue, not the person who pos
 
 ## **Step Three: Post!**
 
-Wait! Before you hit that submit button\...
+Wait! Before you hit that submit button...
 
 Ask yourself:
 
--   Do not include **any outside links**? For the safety of our users, we do not accept links outside of official Minecraft pages (JIRA and the official Minecraft wiki are okay, YouTube is not).
--   Is it a list of things or does it contain things that are unrelated?  
--   Did I use a lot of bold or italics? If you\'re using them for the entire post, that\'s really hard to read for some people.
+- Do not include **any outside links**? For the safety of our users, we do not accept links outside of official Minecraft pages (JIRA and the official Minecraft wiki are okay, YouTube is not).
+- Is it a list of things or does it contain things that are unrelated?  
+- Did I use a lot of bold or italics? If you're using them for the entire post, that's really hard to read for some people.
 
 Your post should appear right away. [If not, go here to see what may have happened.](https://feedback.minecraft.net/hc/en-us/articles/360011793092)
 
@@ -54,10 +54,10 @@ Do not change your post to entirely change the meaning of your original idea. Yo
 
 ## **Step Five: Continue to Contribute and Enjoy!**
 
-It\'s time to live the dream and watch those votes stack up on your post. Social media is here for you!
+It's time to live the dream and watch those votes stack up on your post. Social media is here for you!
 
-Remember if you don\'t get a lot of votes right away, that\'s okay too. There are brand new ideas every day on this site and sometimes posts (especially big ones) take a while to get noticed. Don\'t bump posts.
+Remember if you don't get a lot of votes right away, that's okay too. There are brand new ideas every day on this site and sometimes posts (especially big ones) take a while to get noticed. Don't bump posts.
 
-## **Step Six: Follow Posts you like and be nice to the ones you don\'t.**
+## **Step Six: Follow Posts you like and be nice to the ones you don't.**
 
-Everyone works hard on their ideas and to approach your feedback for others in a nice way. \"No\" by itself is not feedback.  Be sure to have reasons when you agree and disagree!
+Everyone works hard on their ideas and to approach your feedback for others in a nice way. "No" by itself is not feedback.  Be sure to have reasons when you agree and disagree!

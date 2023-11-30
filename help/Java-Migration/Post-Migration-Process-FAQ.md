@@ -19,40 +19,40 @@ tags:
   - section_12618019146893
   - new
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ
 ---
 
 As detailed in previous [Help Site](https://help.minecraft.net/hc/en-us/articles/15690553323789) and [Minecraft.net](https://www.minecraft.net/en-us/article/account-migration-last-call) articles, the deadline to migrate your Mojang account has passed. However, if you missed your chance to migrate your account by September 19, 2023, you have one final option available. This article details everything you need to know about the post-migration process.
 
 # In This Article:
 
--   [I missed my chance to migrate. What now?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNGX3234WCNJ1G35BDK)
-    -   [What do I do if I haven\'t received my email confirmation code?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNG0VY7SDV1WM4B4ZB2)
-    -   [Can I complete the post-migration process with a Microsoft account that already owns Minecraft: Bedrock Edition or Minecraft: Java Edition?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNGW7XRAPRAK2Q53DA3)
--   [Additional Post-Migration Questions](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNGDE5WHN3JFM8D3PPK)
-    -   [Why did users need to migrate?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNGEW8M1NBEMQ33FV5Y)
-    -   [What happened to my capes, skins, username, and other content?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNGMVTFDNE23WS9N7FT)
-    -   [What about my Java worlds?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3SBW4FY922SEJ114KQ6AJ)
-    -   [Will I get a migrator cape through the post-migration process?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNG6728B6CC74ZXQKR4)
-    -   [What do I gain from going through the post-migration process?](https://minecrafthelp.zendesk.com/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ#h_01HAN3HSNGNTZ86M330CAFN7YB)
+- [I missed my chance to migrate. What now?](#i-missed-my-chance-to-migrate-what-now)
+  - [What do I do if I haven't received my email confirmation code?](#what-do-i-do-if-i-havent-received-my-email-confirmation-code)
+  - [Can I complete the post-migration process with a Microsoft account that already owns Minecraft: Bedrock Edition or Minecraft: Java Edition?](#can-i-complete-the-post-migration-process-with-a-microsoft-account-that-already-owns-minecraft-bedrock-edition-or-minecraft-java-edition)
+- [Additional Post-Migration Questions](#additional-post-migration-questions)
+  - [Why did users need to migrate?](#why-did-users-need-to-migrate)
+  - [What happened to my capes, skins, username, and other content?](#what-happened-to-my-capes-skins-username-and-other-content)
+  - [What about my Java worlds?](#what-about-my-java-worlds)
+  - [Will I get a migrator cape through the post-migration process?](#h_01HAN3HSNG6728B6CC74ZXQKR4)
+  - [What do I gain from going through the post-migration process?](#what-do-i-gain-from-going-through-the-post-migration-process)
 
 ## I missed my chance to migrate. What now?
 
-While you've missed the chance to migrate your Mojang account, we still want you to enjoy Minecraft: Bedrock Edition and Minecraft: Java Edition. Through the following process, we're providing you with one more chance to play.
+While you’ve missed the chance to migrate your Mojang account, we still want you to enjoy Minecraft: Bedrock Edition and Minecraft: Java Edition. Through the following process, we’re providing you with one more chance to play.
 
-While you won't be able to keep your skins, progress, or Java profile name, you can complete the following post-migration process before **December 18, 2023** to experience Minecraft: Java & Bedrock Edition for PC with a Microsoft account:
+While you won’t be able to keep your skins, progress, or Java profile name, you can complete the following post-migration process before **December 18, 2023** to experience Minecraft: Java & Bedrock Edition for PC with a Microsoft account:
 
 1.  Log-in with your Mojang account email address [here](https://minecraft.net/login).
-2.  Click on the \'verify Mojang account email address\' button.
-    -   Enter your Mojang account email address. Next, click 'Get Code' and a code will be sent to your Mojang email.
-    -   Enter the code.
+2.  Click on the 'verify Mojang account email address' button.
+    - Enter your Mojang account email address. Next, click ‘Get Code’ and a code will be sent to your Mojang email.
+    - Enter the code.
 3.  Enter a Microsoft account email address.
-    -   This email address can be from a new or existing Microsoft account that you own.
-    -   Click 'Submit Request'.
-4.  Check the box next to 'I understand that my Mojang account will be deactivated'.
-    -   Double-check that the Microsoft account email displayed is correct.
-5.  Click 'Finish'.
-6.  Receive an email confirming that we've granted your Microsoft account an entitlement to Minecraft: Java Edition and Minecraft: Bedrock Edition.
+    - This email address can be from a new or existing Microsoft account that you own.
+    - Click ‘Submit Request’.
+4.  Check the box next to ‘I understand that my Mojang account will be deactivated’.
+    - Double-check that the Microsoft account email displayed is correct.
+5.  Click ‘Finish’.
+6.  Receive an email confirming that we’ve granted your Microsoft account an entitlement to Minecraft: Java Edition and Minecraft: Bedrock Edition.
 7.  Download the free Minecraft Launcher through either Minecraft.net or the Microsoft Store. [This article](https://help.minecraft.net/hc/en-us/articles/4412261881229#h_01GXBWAWCWXEHQ9W7KWGXZJE9V) provides more details on how to download the Launcher. 
 8.  Log into your Microsoft account through the Launcher and check that you have access to both Java and Bedrock.
 
@@ -60,9 +60,9 @@ While you won't be able to keep your skins, progress, or Java profile name, you 
 
 As migration is now over, Minecraft Support will no longer assist with any migration related tickets.
 
-### What do I do if I haven\'t received my email confirmation code?
+### What do I do if I haven't received my email confirmation code?
 
-If you've requested a code to your Mojang account email address, but still haven't received your verification code, please wait up to 10 minutes and check your spam/trash folders. If you haven\'t received your code after 10 minutes, please go back to step two and click \'get code'.
+If you’ve requested a code to your Mojang account email address, but still haven’t received your verification code, please wait up to 10 minutes and check your spam/trash folders. If you haven't received your code after 10 minutes, please go back to step two and click 'get code’.
 
 ### Can I complete the post-migration process with a Microsoft account that already owns Minecraft: Bedrock Edition or Minecraft: Java Edition?
 
@@ -90,7 +90,7 @@ Any capes, skins, and other content tied to your Mojang account will be deleted.
 
 Your single-player Java worlds are stored on your hard drive and should be accessible with your new version of the game. However, any pets will not respond to your character, and you will have to re-tame them.
 
-Because you have a new Microsoft account, multiplayer worlds are a different story. You will be joining these worlds as a new player, spawning in at the world's default spawn point with no items. However, if you have a base with items in it, you can head there to regain your items and resume play.
+Because you have a new Microsoft account, multiplayer worlds are a different story. You will be joining these worlds as a new player, spawning in at the world’s default spawn point with no items. However, if you have a base with items in it, you can head there to regain your items and resume play.
 
 **Note: You will need to be re-added to any server allowlists on your new account.**
 

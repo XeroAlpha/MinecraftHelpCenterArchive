@@ -16,6 +16,6 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 
 **Fixes:**
 
--   Fixed resource pack crashes with launch of 1.20.10
--   Fixed a crash that could occur on iOS
--   Fixed connection stability related to \"Abandoned connection closed\" errors
+- Fixed resource pack crashes with launch of 1.20.10
+- Fixed a crash that could occur on iOS
+- Fixed connection stability related to "Abandoned connection closed" errors

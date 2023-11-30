@@ -12,83 +12,83 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127272-Education-Ed
 
 For more information about Minecraft: Education Edition, please visit [education.minecraft.net](https://education.minecraft.net/)
 
-\
+  
 **New Features:**
 
--   Magma blocks can now be found in the Nether
+- Magma blocks can now be found in the Nether
 
--   Underground fossils to excavate made from Bone blocks
+- Underground fossils to excavate made from Bone blocks
 
--   Nether Wart blocks
+- Nether Wart blocks
 
--   Red Nether Brick
+- Red Nether Brick
 
--   Stained Glass
+- Stained Glass
 
--   Fireworks (with Elytra boost!)
+- Fireworks (with Elytra boost!)
 
--   Parrots
+- Parrots
 
--   Banners
+- Banners
 
--   Armor Stands
+- Armor Stands
 
--   Jukebox and music discs
+- Jukebox and music discs
 
--   Recipe Book
+- Recipe Book
 
--   Book & Quill
+- Book & Quill
 
--   Expanded portfolio editing with PhotoStorage sync
+- Expanded portfolio editing with PhotoStorage sync
 
--   Ravines
+- Ravines
 
--   Coarse Dirt
+- Coarse Dirt
 
--   New world start options:
+- New world start options:
 
--   -   Starting Map
-    -   Bonus Chest
-    -   Trust Players
+- - Starting Map
+  - Bonus Chest
+  - Trust Players
 
--   New game rules:
+- New game rules:
 
--   -   Show Coordinates
-    -   TNT Explodes
-    -   Natural Regeneration
+- - Show Coordinates
+  - TNT Explodes
+  - Natural Regeneration
 
--   Added \'/tickingarea\' command to create areas that still update when no players are there
+- Added '/tickingarea' command to create areas that still update when no players are there
 
--   Zombie Villager spawn egg
+- Zombie Villager spawn egg
 
--   Paper doll viewer
+- Paper doll viewer
 
--   Outline selection toggle
+- Outline selection toggle
 
--   In-game player names toggle
+- In-game player names toggle
 
--   HUD opacity toggle
+- HUD opacity toggle
 
--   Sprint button mapping for controllers
+- Sprint button mapping for controllers
 
--   Expanded world settings
+- Expanded world settings
 
--   New loading screens with funny and helpful tips
+- New loading screens with funny and helpful tips
 
--   How to Play screen
+- How to Play screen
 
--   Added a free cursor to the inventory screen when navigating with a controller
+- Added a free cursor to the inventory screen when navigating with a controller
 
-\
+  
 **Bug Fixes:**
 
--   Students can now place their own chalkboards without the need for Worldbuild permissions
--   NPCs now have the ability to run slash commands
--   All players will now see items in the fixed inventory slot when joining the game
--   Fixed chalkboards and signs not being visible unless aimed in a specific way
--   Fixed a crash when traveling to the Nether or the End for the first time
--   Fixed a crash when updating a world from 0.16 to 0.17
--   Added a description in the Help menu for the \'/me\' command
+- Students can now place their own chalkboards without the need for Worldbuild permissions
+- NPCs now have the ability to run slash commands
+- All players will now see items in the fixed inventory slot when joining the game
+- Fixed chalkboards and signs not being visible unless aimed in a specific way
+- Fixed a crash when traveling to the Nether or the End for the first time
+- Fixed a crash when updating a world from 0.16 to 0.17
+- Added a description in the Help menu for the '/me' command
 
 <div>
 

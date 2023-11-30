@@ -10,10 +10,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/18301047429901-Minecraft-
 
 A new update has been released for PlayStation only to address a top crash and Store issue.
 
-Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!\
-\
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!  
+  
 
 **Fixes:**
 
--   Fixed a top crash that could occur during gameplay
--   Fixed an issue on PlayStation causing players to lose access to the Store
+- Fixed a top crash that could occur during gameplay
+- Fixed an issue on PlayStation causing players to lose access to the Store

@@ -15,4 +15,4 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360008485871-Minecraft-1-
 
 **Fixes:**
 
--   Minecraft 1.5.2 addresses a crash that sometimes occurred during startup. This fix is available on all platforms except Nintendo Switch, where the crash does not occur
+- Minecraft 1.5.2 addresses a crash that sometimes occurred during startup. This fix is available on all platforms except Nintendo Switch, where the crash does not occur

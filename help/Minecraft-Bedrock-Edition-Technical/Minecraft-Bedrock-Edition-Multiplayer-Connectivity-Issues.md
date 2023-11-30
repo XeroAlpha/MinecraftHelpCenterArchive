@@ -22,72 +22,80 @@ tags:
   - platform_PC
   - multijugador
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues
+link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues
 ---
 
-*This article is Minecraft: Bedrock Edition on mobile, Nintendo Switch, PlayStation, Windows, and Xbox One. If you\'re experiencing connection issues in Minecraft: Java Edition, see [Minecraft: Java Edition Multiplayer Connectivity Issues](https://help.minecraft.net/hc/en-us/articles/360034754052-Minecraft-Java-Edition-Multiplayer-Connection-Issues-).* 
+*This article is Minecraft: Bedrock Edition on mobile, Nintendo Switch, PlayStation, Windows, and Xbox One. If you're experiencing connection issues in Minecraft: Java Edition, see [Minecraft: Java Edition Multiplayer Connectivity Issues](https://help.minecraft.net/hc/en-us/articles/360034754052-Minecraft-Java-Edition-Multiplayer-Connection-Issues-).* 
 
 # In This Article:
 
--   [I'm Unable to Join Another Player's World ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues#h_01GK553R1R0TQ35HFBJE8NSK9Z)
-    -   [Checking Your Network Address Translation (NAT) ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues#h_01GK553XDWZQRKPKR6GB8XFBJQ)
-    -   [Checking Your Online Privacy / Multiplayer Settings ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues#h_01GK5542ZZSR6B49R8741YGSCR)
--   [\'You cannot play online multiplayer through Xbox Live because of how your account is set up\' error](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues#summary-val)
--   [I Can See Only Friends Typing in Chat ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues#h_01GK5548AGNCBECW68M0BTNHW9)
-    -   [Changing the Settings on a Child Account](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues#h_01GK554EDDP2EJ7Y96P59D26DV)
+- [I’m Unable to Join Another Player’s World ](#h_01GK553R1R0TQ35HFBJE8NSK9Z)
+  - [Checking Your Network Address Translation (NAT) ](#checking-yournetwork-address-translationnat)
+  - [Checking Your Online Privacy / Multiplayer Settings ](#checking-your-online-privacy--multiplayer-settings)
+- ['You cannot play online multiplayer through Xbox Live because of how your account is set up' error](#you-cannot-play-online-multiplayer-through-xbox-live-because-of-how-your-account-is-set-up-error)
+- [I Can See Only Friends Typing in Chat ](#i-can-see-only-friends-typing-in-chat)
+  - [Changing the Settings on a Child Account](#changing-the-settings-on-a-child-account)
 
-::: aui-page-header
-::: aui-page-header-inner
-::: aui-page-header-actions
-::: {#issue-header-pager}
-I'm Unable to Join Another Player's World 
-:::
-:::
-:::
-:::
+<div class="aui-page-header">
 
-Going on adventures with friends and family can be exciting, but sometimes joining one another may prove difficult. If you are having trouble connecting to a friend\'s world, here are some solutions that can help resolve the issue you and your party members may be facing. 
+<div class="aui-page-header-inner">
+
+<div class="aui-page-header-actions">
+
+<div id="issue-header-pager">
+
+I’m Unable to Join Another Player’s World 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+Going on adventures with friends and family can be exciting, but sometimes joining one another may prove difficult. If you are having trouble connecting to a friend's world, here are some solutions that can help resolve the issue you and your party members may be facing. 
 
 ### Checking Your Network Address Translation (NAT) 
 
-If you can connect to Xbox Live, PlayStation Network, or Nintendo Switch Online but cannot host or join another's world, then you may be encountering an issue related to **Network Address Translation** (**NAT**). **NAT **plays a big role in your ability to play online with others. 
+If you can connect to Xbox Live, PlayStation Network, or Nintendo Switch Online but cannot host or join another’s world, then you may be encountering an issue related to **Network Address Translation** (**NAT**). **NAT **plays a big role in your ability to play online with others. 
 
-For a detailed look into what **NAT** is, how to check your **NAT** status, and advanced troubleshooting options, see Xbox's article [Troubleshoot NAT errors and multiplayer game issues.](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-nat-error) 
+For a detailed look into what **NAT** is, how to check your **NAT** status, and advanced troubleshooting options, see Xbox’s article [Troubleshoot NAT errors and multiplayer game issues.](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-nat-error) 
 
 *Note: restarting your network equipment is required to perform an accurate test\** 
 
 ### Failed to Connect to Server
 
-If you\'re struggling to connect to a Minecraft: Bedrock Edition server, there are a few things you can try:
+If you're struggling to connect to a Minecraft: Bedrock Edition server, there are a few things you can try:
 
--   Restart your device.
--   If you\'re on a wired connection, try connecting with a wireless connection or vice versa.
--   Try connecting with another network connection if possible.
--   If you\'re using a VPN, try turning it off.
--   Check to see if the server is down from the below sources:\
-    -   [Xbox Live server status](https://support.xbox.com/en-US/xbox-live-status)
-    -   [PlayStation Network server status](https://status.playstation.com/en-us/)
-    -   [Nintendo Online status updates](https://www.nintendo.co.jp/netinfo/en_US/index.html)
-    -   [Mojang Status X page](https://twitter.com/MojangStatus)
--   If you\'re using a firewall, try allowing Minecraft through it.
+- Restart your device.
+- If you're on a wired connection, try connecting with a wireless connection or vice versa.
+- Try connecting with another network connection if possible.
+- If you're using a VPN, try turning it off.
+- Check to see if the server is down from the below sources:  
+  - [Xbox Live server status](https://support.xbox.com/en-US/xbox-live-status)
+  - [PlayStation Network server status](https://status.playstation.com/en-us/)
+  - [Nintendo Online status updates](https://www.nintendo.co.jp/netinfo/en_US/index.html)
+  - [Mojang Status X page](https://twitter.com/MojangStatus)
+- If you're using a firewall, try allowing Minecraft through it.
 
 ### Checking Your Online Privacy / Multiplayer Settings  
 
-Certain settings applied to your account may also be another factor that is limiting your online experience. You can access these settings via [**Xbox.com**](https://www.xbox.com/en-US/) or an Xbox console. You will need an active premium multiplayer subscription if you are playing on a console. Additionally, you will need "**Join Multiplayer Games**" allowed on your account. 
+Certain settings applied to your account may also be another factor that is limiting your online experience. You can access these settings via [**Xbox.com**](https://www.xbox.com/en-US/) or an Xbox console. You will need an active premium multiplayer subscription if you are playing on a console. Additionally, you will need “**Join Multiplayer Games**” allowed on your account. 
 
-If you want to utilize the Realm\'s Feed, you will have to enable Clubs permissions.
+If you want to utilize the Realm's Feed, you will have to enable Clubs permissions.
 
-For a guide on how to manage your child\'s privacy settings, read this article: [**How to Manage Online Privacy/Multiplayer/Family Settings for a Child Account**](https://help.minecraft.net/hc/en-us/articles/4408968616077-How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account)
+For a guide on how to manage your child's privacy settings, read this article: [**How to Manage Online Privacy/Multiplayer/Family Settings for a Child Account**](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md)
 
 See here to access your [account settings](https://www.xbox.com/en-US/).
 
 If your issue is still not resolved, contact [Xbox support](https://support.xbox.com/) for further assistance. 
 
-## \'You cannot play online multiplayer through Xbox Live because of how your account is set up\' error
+## 'You cannot play online multiplayer through Xbox Live because of how your account is set up' error
 
-If you\'re trying to connect to a server and are experiencing the \'you cannot play online multiplayer through Xbox Live because of how your account is set up\' error, please check that the account you\'re using has an active Xbox Game Pass Core or Xbox Game Pass Ultimate subscription.
+If you're trying to connect to a server and are experiencing the 'you cannot play online multiplayer through Xbox Live because of how your account is set up' error, please check that the account you're using has an active Xbox Game Pass Core or Xbox Game Pass Ultimate subscription.
 
-**Note: If you\'re on PlayStation and experiencing a server connection issue, please be sure your account has an active PlayStation Plus subscription as well.**
+**Note: If you're on PlayStation and experiencing a server connection issue, please be sure your account has an active PlayStation Plus subscription as well.**
 
 ## I Can See Only Friends Typing in Chat 
 
@@ -103,8 +111,8 @@ Make sure you select the **Everyone** option to be able to communicate with ot
 
 If you still need assistance, contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
 
-## I am Unable to Join a Realm or Access a Realm\'s Feed
+## I am Unable to Join a Realm or Access a Realm's Feed
 
-If you are unable to join a Realm or access a Realm\'s Feed, please try following the steps in [this article](https://help.minecraft.net/hc/en-us/articles/4410376128013).
+If you are unable to join a Realm or access a Realm's Feed, please try following the steps in [this article](https://help.minecraft.net/hc/en-us/articles/4410376128013).
 
-**Note: Anyone with Clubs permissions should be able to post to a Realm\'s Feed.**
+**Note: Anyone with Clubs permissions should be able to post to a Realm's Feed.**

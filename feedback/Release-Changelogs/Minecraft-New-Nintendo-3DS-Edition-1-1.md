@@ -19,15 +19,15 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
  
 
--   Improved save & load times throughout
--   Expanded functionality for Quick Move through UI
--   Fixes to item stacking in Inventory & Hotbar
--   Various UI tweaks and fixes
--   XP can now be obtained by smelting and trading
--   Smaller, refined font for Roman alphabet languages
--   Fixed crash that occurred when using bottles o\' enchanting
--   Fixed crash issues related to various entities overpopulating
--   Various stability & performance improvements
+- Improved save & load times throughout
+- Expanded functionality for Quick Move through UI
+- Fixes to item stacking in Inventory & Hotbar
+- Various UI tweaks and fixes
+- XP can now be obtained by smelting and trading
+- Smaller, refined font for Roman alphabet languages
+- Fixed crash that occurred when using bottles o' enchanting
+- Fixed crash issues related to various entities overpopulating
+- Various stability & performance improvements
 
  
 

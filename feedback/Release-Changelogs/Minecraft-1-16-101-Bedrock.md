@@ -10,5 +10,5 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360052372592-Minecraft-1-
 
 **Fixes:**
 
--   Fixed players unable to connect to Realms when playing on cellular data on mobile devices ([MCPE-55405](https://bugs.mojang.com/browse/MCPE-55405))
--   Fixed Minecoins not appearing after purchase until after restarting the game
+- Fixed players unable to connect to Realms when playing on cellular data on mobile devices ([MCPE-55405](https://bugs.mojang.com/browse/MCPE-55405))
+- Fixed Minecoins not appearing after purchase until after restarting the game

@@ -8,18 +8,18 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360008726691-Minecraft-New-Nintendo-3DS-Edition-1-6
 ---
 
-If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
+If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)  
 [Click here](http://feedback.minecraft.net/) to give us feedback & tell us what you think about the update. 
 
  
 
--   Improved stability and performance
--   Several bug fixes from previous versions
--   New DLC available for purchase
-    -   Candy Texture Pack
-    -   Battle & Beasts Skin Pack
-    -   Star Wars Classic Skin Pack
-    -   Star Wars Rebels Skin Pack
+- Improved stability and performance
+- Several bug fixes from previous versions
+- New DLC available for purchase
+  - Candy Texture Pack
+  - Battle & Beasts Skin Pack
+  - Star Wars Classic Skin Pack
+  - Star Wars Rebels Skin Pack
 
  
 

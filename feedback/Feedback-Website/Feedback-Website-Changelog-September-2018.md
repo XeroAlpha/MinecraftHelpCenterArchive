@@ -6,7 +6,7 @@ categories: Feedback Website
 link: https://feedback.minecraft.net/hc/en-us/articles/360015875691-Feedback-Website-Changelog-September-2018-
 ---
 
--   Renamed the Code and Commands category to Creator Tools
--   Added the Realms and Dedicated Servers category
--   Made all fields required when posting a feedback submission
--   Changed the default sorting to \"top votes\". You can still sort however you want.
+- Renamed the Code and Commands category to Creator Tools
+- Added the Realms and Dedicated Servers category
+- Made all fields required when posting a feedback submission
+- Changed the default sorting to "top votes". You can still sort however you want.

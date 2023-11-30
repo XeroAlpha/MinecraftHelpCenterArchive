@@ -58,7 +58,7 @@ A:          No. You can earn or purchase items directly knowing exactly
 
 Q:          Do any of the items affect gameplay? For example, I see some items that glow.  Will they help me see at night?
 
-A:          No, all items in the Character Creator are purely visual. They might make you easier to spot by other players, but that's it.
+A:          No, all items in the Character Creator are purely visual. They might make you easier to spot by other players, but that’s it.
 
  
 
@@ -70,13 +70,13 @@ A:          Skins are not going anywhere! If you like your current skin
 
 Q:          Where did my recent skins go?
 
-A:          You can now save 5 skins or created characters to your profile for easy swapping, so there isn't a dedicated list of recent skins anymore.
+A:          You can now save 5 skins or created characters to your profile for easy swapping, so there isn’t a dedicated list of recent skins anymore.
 
  
 
 Q:          Do I have to use Character Creator?
 
-A:          Not if you don\'t want to. You can play with Alex or Steve indefinitely. You will need to use the Character Creator menus to change skins (including importing custom skins in Minecraft).
+A:          Not if you don't want to. You can play with Alex or Steve indefinitely. You will need to use the Character Creator menus to change skins (including importing custom skins in Minecraft).
 
  
 
@@ -92,7 +92,7 @@ A:          No, we do not have plans for custom skins to sync between d
 
  
 
-Q:          I'm a console player and we can't currently use custom skins. Will this change in the future?
+Q:          I’m a console player and we can’t currently use custom skins. Will this change in the future?
 
 A:          We do not have plans for importing custom skins on consoles.
 
@@ -130,13 +130,13 @@ A:          In order for the Character Creator to work and prevent clip
 
 Q:          Are there enough customization options so I can make a character that looks like me?
 
-A:          We hope so! We have been working to bring you loads of character options so you can make your skin look uniquely you. If you see something we don't have but is important to you, please suggest it to us on [http://feedback.minecraft.net](http://feedback.minecraft.net/)[.]{.underline}
+A:          We hope so! We have been working to bring you loads of character options so you can make your skin look uniquely you. If you see something we don’t have but is important to you, please suggest it to us on [http://feedback.minecraft.net](http://feedback.minecraft.net/)<u>.</u>
 
  
 
 Q:          I want to be a cat/have a tail/wings. Are there any options for this in Character Creator?
 
-A:          Awesome!  We want everyone to be able to represent themselves as they see fit whether that is realistic or fantastical, so you should be in luck!  Many of these are launch items or coming soon. Look at our launch items and let us know what you want us to add.\
+A:          Awesome!  We want everyone to be able to represent themselves as they see fit whether that is realistic or fantastical, so you should be in luck!  Many of these are launch items or coming soon. Look at our launch items and let us know what you want us to add.  
 
 Q:          I really like this Marketplace skin but I want to change it a little. Can I use the Character Creator to change a Marketplace skin?
 
@@ -152,10 +152,10 @@ A:          Yes! We have several realistic and fantastical prosthetic a
 
 Q:          How do I create custom accessories for Character Creator?
 
-A:          Apply to become a Marketplace Partner! You can apply at <http://developers.microsoft.com/Minecraft>[.]{.underline} You are also welcome to contact any of our current Marketplace Partners and see if they have positions open on their various teams.
+A:          Apply to become a Marketplace Partner! You can apply at <http://developers.microsoft.com/Minecraft><u>.</u> You are also welcome to contact any of our current Marketplace Partners and see if they have positions open on their various teams.
 
  
 
 Q:          I have a really good idea for an accessory for the Character Creator. How do I submit it?
 
-A:          Please put all your requests for accessories on [http://feedback.minecraft.net](http://feedback.minecraft.net/)[.]{.underline}
+A:          Please put all your requests for accessories on [http://feedback.minecraft.net](http://feedback.minecraft.net/)<u>.</u>

@@ -23,21 +23,21 @@ tags:
   - platform_windows_10/11
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-
 ---
 
 *This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, See:* **[Minecraft Realms Plus Creation FAQ](https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Plus-Creation-FAQ-).**
 
 # In this article: 
 
--   [**General Questions **](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK7Y11GJ40A28MYPKXHSS0M)
--   **[About Subscriptions](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK80EYYK0XZC7J2123EFFNP) **
--   **[Technical Questions](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK80ZJQHR35AQWX9Y6B1X0P)**
--   **[How to Create Your Realm](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK82TJ29R26AB4ZDTENEWDN)**
--   **[Realms Admin Options](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK85CMTH28B8YHKA40WDV7A)**
--   **[How does Mojang backup your Realm?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01H0JYT6EDNX7N0Y86V1J10YWS)**
--   **[Downloading Your Realms World](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK88ASN27R4JKF1CKN3K695)**
--   **[How to Load Content to Your Realm](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK8AY97A8D6B2NESF09A6KP)**
+- [**General Questions **](#general-questions)
+- **[About Subscriptions](#about-subscriptions) **
+- **[Technical Questions](#technical-questions)**
+- **[How to Create Your Realm](#howtocreateyour-realm)**
+- **[Realms Admin Options](#realms-admin-options)**
+- **[How does Mojang backup your Realm?](#how-does-mojang-backup-your-realm)**
+- **[Downloading Your Realms World](#downloading-your-realms-world)**
+- **[How to Load Content to Your Realm](#howtoloadcontent-toyour-realm)**
 
 ## General Questions 
 
@@ -47,15 +47,15 @@ Realms are personal multiplayer servers, run by Minecraft, just for you and your
 
 ### Why are there two versions of Realms servers?   
 
-We\'ve developed two separate versions of Minecraft to optimize game performance on different platforms. Minecraft (the version you find on mobile, console and Windows 10 and above) runs on one kind of code, and Minecraft: Java Edition (for PC, Mac and Linux) runs on another. These two versions are incompatible with each other and are developed separately with different features. Players on Minecraft: Java Edition can\'t play on console, mobile or Windows 10 (and above) Realms and vice versa.   
+We've developed two separate versions of Minecraft to optimize game performance on different platforms. Minecraft (the version you find on mobile, console and Windows 10 and above) runs on one kind of code, and Minecraft: Java Edition (for PC, Mac and Linux) runs on another. These two versions are incompatible with each other and are developed separately with different features. Players on Minecraft: Java Edition can't play on console, mobile or Windows 10 (and above) Realms and vice versa.   
 
-### I'm playing on Windows 10 (or above). Which version do I need?  
+### I’m playing on Windows 10 (or above). Which version do I need?  
 
-You'll need your subscription purchase to match the version of the game you are playing. For example, if you bought Minecraft from the Windows store, you\'ll need to buy Realms Plus for Minecraft. However, if you bought Minecraft: Java Edition through the Minecraft.net website then you\'ll need Realms for Minecraft: Java Edition.   
+You’ll need your subscription purchase to match the version of the game you are playing. For example, if you bought Minecraft from the Windows store, you'll need to buy Realms Plus for Minecraft. However, if you bought Minecraft: Java Edition through the Minecraft.net website then you'll need Realms for Minecraft: Java Edition.   
 
 ### Can I play on a Realm with other players on different devices? 
 
-Yes. Most versions of Minecraft now allow players to get together, regardless of which device they\'re on. Anyone playing on, Android, Amazon Fire tablets, Gear VR, iPhone, iPad, Nintendo Switch, PlayStation^®^4, PlayStation^®^5, Windows 10 (and above), Windows Phone, Xbox One, and Xbox Series X\|S. or can play together.  Players of Minecraft:  Java Edition can only play with each other.   
+Yes. Most versions of Minecraft now allow players to get together, regardless of which device they're on. Anyone playing on, Android, Amazon Fire tablets, Gear VR, iPhone, iPad, Nintendo Switch, PlayStation<sup>®</sup>4, PlayStation<sup>®</sup>5, Windows 10 (and above), Windows Phone, Xbox One, and Xbox Series X\|S. or can play together.  Players of Minecraft:  Java Edition can only play with each other.   
 
 ### Does Realms for Minecraft: Java Edition work with older versions of Minecraft or the newest Snapshots? 
 
@@ -65,10 +65,10 @@ You must run the most recent release of Minecraft to use Realms. Snapshot rele
 
 Realm owners of any version get to choose who to invite and may switch between game modes. Realm owners on mobile, consoles, and Windows 10 (and above) can also: 
 
--   Generate links to invite new members
--   Download a backup of the Realm
--   Promote other members to operators, enabling them to use slash commands in game  
--   Choose to make a Realm uninitialized
+- Generate links to invite new members
+- Download a backup of the Realm
+- Promote other members to operators, enabling them to use slash commands in game  
+- Choose to make a Realm uninitialized
 
 ## About Subscriptions 
 
@@ -94,11 +94,11 @@ Visit the **[Minecraft: Java Edition Realms Billing Issues FAQ](https://help.m
 
 ### Can I export my Minecraft Map from my Realm? 
 
-You can export your maps from any versions of Realms at any time within an 18-month period after your subscription has expired. Once your subscription has been inactive for more than 18 months, your world will be permanently deleted from Minecraft's servers.       
+You can export your maps from any versions of Realms at any time within an 18-month period after your subscription has expired. Once your subscription has been inactive for more than 18 months, your world will be permanently deleted from Minecraft’s servers.       
 
 ### Can I upload my Minecraft Map onto a Realm?  
 
-Yes, you can upload your own maps to a Realm. We currently support worlds up to 4GB in size. That's a substantial amount of allotted space. In order to use a world template from the Minecraft Marketplace on mobile devices, Windows 10 (and above) or console, you should create a new world using the template, then upload the world to your Realm.   
+Yes, you can upload your own maps to a Realm. We currently support worlds up to 4GB in size. That’s a substantial amount of allotted space. In order to use a world template from the Minecraft Marketplace on mobile devices, Windows 10 (and above) or console, you should create a new world using the template, then upload the world to your Realm.   
 
 ### Do Realms servers support modding? 
 
@@ -116,7 +116,7 @@ Only the owner of a realm must pay for a subscription. The owner can invite any 
 
 You may initialize one Realm per subscription, but you can change the game modes and maps for that Realm. 
 
-After you make a purchase, your Realms subscription starts. After your payment is complete, open Minecraft, select **Minecraft Realms**, and then choose the option to create and configure your Realm. You\'ll see an option to enter a world name or to start with a preexisting world or map. You can change any setup options. 
+After you make a purchase, your Realms subscription starts. After your payment is complete, open Minecraft, select **Minecraft Realms**, and then choose the option to create and configure your Realm. You'll see an option to enter a world name or to start with a preexisting world or map. You can change any setup options. 
 
 To continue with a standard survival world, you can double-click your Realm. Alternatively, you can select **Configure** to open an additional menu of options.  
 
@@ -134,23 +134,23 @@ Changes the difficulty of the server. Hardcore mode is not available in Minecr
 
 ### Spawn protection (Off, 1 to 16)
 
-Spawn protection disallows standard players from placing or destroying blocks in a specified radius from the world\'s spawn area. 
+Spawn protection disallows standard players from placing or destroying blocks in a specified radius from the world's spawn area. 
 
 ### Force game mode (on/off)
 
-When enabled, this option forces all players into the server\'s selected default game mode when they log into the server. It is disabled by default, which preserves the game mode that a player was in when they logged out. 
+When enabled, this option forces all players into the server's selected default game mode when they log into the server. It is disabled by default, which preserves the game mode that a player was in when they logged out. 
 
 ### Game mode (survival, creative, adventure)
 
-Changes the default game mode for all players on the server. The server owner or operator can use commands to change individual players\' game modes in-game.
+Changes the default game mode for all players on the server. The server owner or operator can use commands to change individual players' game modes in-game.
 
 ### Spawn animals (on/off)
 
-Enables or disables the spawning of the game\'s neutral animals. 
+Enables or disables the spawning of the game's neutral animals. 
 
 ### Spawn monsters (on/off)
 
-Enables or disables the spawning of the game\'s aggressive monsters. 
+Enables or disables the spawning of the game's aggressive monsters. 
 
 ### Spawn NPCs (on/off)
 
@@ -160,7 +160,7 @@ Enables or disables the spawning of non-player characters (villagers), also know
 
 Enables or disables use of command blocks. You must be the owner or operator of the Realm, and in creative mode, to use a command block.
 
-**Note: Render and simulation distance are locked and cannot be modified on a Realm. As such, these may be set to lower value.\
+**Note: Render and simulation distance are locked and cannot be modified on a Realm. As such, these may be set to lower value.  
 **
 
 ## Realms Admin Options
@@ -181,15 +181,15 @@ Select the green slider next to the **on** setting or the gray slider next 
 
 #### Invite Player
 
-Select the button to invite another player by entering their Minecraft username. The player will be added to your invited players list even if the invitation is not accepted. Invitations that are not accepted within seven days will expire and need to be sent again if you\'d like to play with that person. 
+Select the button to invite another player by entering their Minecraft username. The player will be added to your invited players list even if the invitation is not accepted. Invitations that are not accepted within seven days will expire and need to be sent again if you'd like to play with that person. 
 
 #### Remove a Player
 
 Select the red **X** to remove a player from your list of invited players. 
 
-#### Making a Player an \"Operator\" (OP)
+#### Making a Player an "Operator" (OP)
 
-Select the grayed-out crown icon to promote a player to an operator. Operators can use slash commands, send private messages, and set the world spawn point. Operators can\'t invite or remove players, but you should still pick a player you trust to promote. Select the gold crown icon to make that player a normal user once again. 
+Select the grayed-out crown icon to promote a player to an operator. Operators can use slash commands, send private messages, and set the world spawn point. Operators can't invite or remove players, but you should still pick a player you trust to promote. Select the gold crown icon to make that player a normal user once again. 
 
 **Note: Please be aware that Minecraft Support cannot assist with player behavior reports. If you need to report a player, please contact the Realm owner.**
 
@@ -205,11 +205,11 @@ Select **Subscription** to see your Minecraft Realms subscription status or�
 
 #### Options
 
-For game options for the active world, see the [[How to Create Your Realm]{.underline}](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK82TJ29R26AB4ZDTENEWDN) section of this article. 
+For game options for the active world, see the [<u>How to Create Your Realm</u>](#howtocreateyour-realm) section of this article. 
 
 #### Backups
 
-Enables you to see and switch between your backups as well as download the currently loaded backup. To learn how to download a world from Realms see the [Download Your Realms World](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK88ASN27R4JKF1CKN3K695) section.
+Enables you to see and switch between your backups as well as download the currently loaded backup. To learn how to download a world from Realms see the [Download Your Realms World](#downloading-your-realms-world) section.
 
 #### Reset
 
@@ -217,21 +217,21 @@ This option lets you generate a new world, load a premade world template, or u
 
 ## How does Mojang backup your Realm?
 
-A Realm world is downloadable within 18 months, but the world backups associated with that Realm may have been removed depending on our retention policy. In general, we take a backup every 30 minutes while you are playing, and at the end of a play session. We can't keep all of your backups around forever though. If a Realm world is used actively, the following retention policy is in effect:  
+A Realm world is downloadable within 18 months, but the world backups associated with that Realm may have been removed depending on our retention policy. In general, we take a backup every 30 minutes while you are playing, and at the end of a play session. We can’t keep all of your backups around forever though. If a Realm world is used actively, the following retention policy is in effect:  
 
--   In the last 24 hours: We retain all backups.
--   1 day to 8 days ago: We retain one backup per day.
--   9 days to 36 days ago: We retain one backup a week.
--   37 days to 121 days ago: We retain one backup a month.
--   122+ days ago: No backups are retained.*** ***
+- In the last 24 hours: We retain all backups.
+- 1 day to 8 days ago: We retain one backup per day.
+- 9 days to 36 days ago: We retain one backup a week.
+- 37 days to 121 days ago: We retain one backup a month.
+- 122+ days ago: No backups are retained.*** ***
 
-**Note: If you'd like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed.**
+**Note: If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed.**
 
 ## Downloading Your Realms World
 
-Here\'s a quick guide to downloading a world from Realms on Minecraft: Java Edition. 
+Here's a quick guide to downloading a world from Realms on Minecraft: Java Edition. 
 
-First, start the game and select **Minecraft Realms**. There you\'ll find a list of Realms that you own or have been invited to. You can only download a world from a Realm that you own, as follows: 
+First, start the game and select **Minecraft Realms**. There you'll find a list of Realms that you own or have been invited to. You can only download a world from a Realm that you own, as follows: 
 
 1.  Go to your Realms configuration by selecting the button with a tool symbol.
 2.  From the Realms configuration screen, go to your **World backups**.
@@ -256,19 +256,19 @@ The file to run the launcher is wherever you saved it. This may or may not def
 
 #### Windows computers 
 
-Press [Win](http://en.wikipedia.org/wiki/Windows_key)+R \> type %appdata%\\.minecraft \> press **Ok**. 
+Press [Win](http://en.wikipedia.org/wiki/Windows_key)+R \> type %appdata%\\minecraft \> press **Ok**. 
 
 #### OS X 
 
-Open Finder then paste: \~/Library/Application Support/minecraft in the **Search** box. 
+Open Finder then paste: ~/Library/Application Support/minecraft in the **Search** box. 
 
 #### Linux 
 
-\~ is your home directory, usually /home/YOURNAME, so \~/.minecraft would be /home/YOURNAME/.minecraft/. 
+~ is your home directory, usually /home/YOURNAME, so ~/.minecraft would be /home/YOURNAME/.minecraft/. 
 
 ## How to Load Content to Your Realm 
 
-You can load content such as Minigames, Adventures, World templates, and Experiences. It's also possible to upload your single player worlds. 
+You can load content such as Minigames, Adventures, World templates, and Experiences. It’s also possible to upload your single player worlds. 
 
 ### Choosing a World Slot 
 

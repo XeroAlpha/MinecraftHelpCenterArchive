@@ -18,24 +18,24 @@ This data pack allows you to use features that are under development and inten
 
 When creating a new world:  
 
--   [Download the data pack](https://launcher.mojang.com/v1/objects/233aa01c6db99ffcf95594e384e72671ae279ced/CavesAndCliffsPreview.zip) 
--   Launch the game, go to the \"Create New World\" screen, and click the \"Data Packs\" button 
+- [Download the data pack](https://launcher.mojang.com/v1/objects/233aa01c6db99ffcf95594e384e72671ae279ced/CavesAndCliffsPreview.zip) 
+- Launch the game, go to the "Create New World" screen, and click the "Data Packs" button 
 
-![Picture1.png](https://feedback.minecraft.net/hc/article_attachments/4402620648077/Picture1.png){width="549" height="280"}
+![Picture1.png](https://feedback.minecraft.net/hc/article_attachments/4402620648077/Picture1.png)
 
--   Drag the downloaded zip file onto the Minecraft window
--   The game will ask you if you want to add the data pack - click \"Yes\"
--   Click the play arrow on the data pack that just appeared in the list - this will move it to the list on the right-hand side of the screen
+- Drag the downloaded zip file onto the Minecraft window
+- The game will ask you if you want to add the data pack - click "Yes"
+- Click the play arrow on the data pack that just appeared in the list - this will move it to the list on the right-hand side of the screen
 
-![Picture2.png](https://feedback.minecraft.net/hc/article_attachments/4402615256973/Picture2.png){width="540" height="274"}
+![Picture2.png](https://feedback.minecraft.net/hc/article_attachments/4402615256973/Picture2.png)
 
--   Click the \"Done\" button and continue creating your world as normal
+- Click the "Done" button and continue creating your world as normal
 
-![Picture3.png](https://feedback.minecraft.net/hc/article_attachments/4402615257613/Picture3.png){width="537" height="273"}
+![Picture3.png](https://feedback.minecraft.net/hc/article_attachments/4402615257613/Picture3.png)
 
 **How do I know if my world has experimental features enabled?**
 
-To identify if the Caves & Cliffs Prototype Data Pack is active in your world, refer to "Options" \>  "Resource Packs".
+To identify if the Caves & Cliffs Prototype Data Pack is active in your world, refer to “Options” \>  “Resource Packs”.
 
 **Will it be possible to use the Caves & Cliffs Prototype Data Pack in my pre-existing world?**
 

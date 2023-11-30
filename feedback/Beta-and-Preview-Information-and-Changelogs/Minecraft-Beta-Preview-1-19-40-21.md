@@ -10,15 +10,15 @@ link: https://feedback.minecraft.net/hc/en-us/articles/9159676401933-Minecraft-B
 
 ## **Information on the Minecraft Preview and Beta: **
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
+- These work-in-progress versions can be unstable and may not be representative of final version quality
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
 
 ![A Minecraft screenshot featuring a chest boat, a ravager, a villager, and some allays](https://feedback.minecraft.net/hc/article_attachments/9159295764621/R19U4_2_16x9.jpg)
 
-Here\'s a list of what is new in this week\'s Minecraft Preview and Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/) and feel free to send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
+Here's a list of what is new in this week's Minecraft Preview and Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/) and feel free to send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
 
-We would also love to hear your thoughts and feedback in this survey -- you can check it out here: [redsto.ne/Minecraft-Survey](https://redsto.ne/Minecraft-Survey)
+We would also love to hear your thoughts and feedback in this survey – you can check it out here: [redsto.ne/Minecraft-Survey](https://redsto.ne/Minecraft-Survey)
 
 # **Features and Bug Fixes**
 
@@ -26,68 +26,68 @@ We would also love to hear your thoughts and feedback in this survey -- you can 
 
 ### **Spectator Mode (Experimental)**
 
--   Water fog is no longer removed for players in Spectator Mode ([MCPE-161105](https://bugs.mojang.com/browse/MCPE-161105))
+- Water fog is no longer removed for players in Spectator Mode ([MCPE-161105](https://bugs.mojang.com/browse/MCPE-161105))
 
 ## **Gameplay**
 
--   Fixed fall damage accumulating while the player is in a Trapdoor block at the top of a bubble column ([MCPE-158858](https://bugs.mojang.com/browse/MCPE-158858))
+- Fixed fall damage accumulating while the player is in a Trapdoor block at the top of a bubble column ([MCPE-158858](https://bugs.mojang.com/browse/MCPE-158858))
 
 ## **Mobs**
 
--   Fixed a bug where mobs with a long hit range could hit players through walls ([MCPE-55790](https://bugs.mojang.com/browse/MCPE-55790))
+- Fixed a bug where mobs with a long hit range could hit players through walls ([MCPE-55790](https://bugs.mojang.com/browse/MCPE-55790))
 
 ## **User Interface**
 
--   Fixed a bug in Pocket UI where items could be dropped in the dark-grey areas around the item grid in the Crafting Table screen
--   Fixed a bug in Pocket UI where items could be dropped in the dark-grey areas around the item grid in the inventories for the Horse, Mule, Donkey, and Llama
--   Fixed a bug where the death screen message was visible when the showdeathmessage gamerule was set to false
+- Fixed a bug in Pocket UI where items could be dropped in the dark-grey areas around the item grid in the Crafting Table screen
+- Fixed a bug in Pocket UI where items could be dropped in the dark-grey areas around the item grid in the inventories for the Horse, Mule, Donkey, and Llama
+- Fixed a bug where the death screen message was visible when the showdeathmessage gamerule was set to false
 
 ## **Vanilla Parity**
 
--   Sweet Berries can now be planted on Farmland ([MCPE-99632](https://bugs.mojang.com/browse/MCPE-99632))
--   Changed bubble column strength to match Java Edition ([MCPE-158858](https://bugs.mojang.com/browse/MCPE-158858))
+- Sweet Berries can now be planted on Farmland ([MCPE-99632](https://bugs.mojang.com/browse/MCPE-99632))
+- Changed bubble column strength to match Java Edition ([MCPE-158858](https://bugs.mojang.com/browse/MCPE-158858))
 
 ### **Blocks**
 
--   Dirt Path and Farmland block collisions are now one texel lower ([MCPE-12109](https://bugs.mojang.com/browse/MCPE-12109))
--   Players now sink in Soul Sand and Mud blocks ([MCPE-154973](https://bugs.mojang.com/browse/MCPE-154973))
--   Players swimming above Mud will not have their screen covered ([MCPE-153737](https://bugs.mojang.com/browse/MCPE-153737))
--   Projectiles landing on Mud will not repeatedly shake ([MCPE-153744](https://bugs.mojang.com/browse/MCPE-153744))
--   Amphibious mobs no longer have trouble pathfinding around Mud Blocks ([MCPE-153961](https://bugs.mojang.com/browse/MCPE-153961))
+- Dirt Path and Farmland block collisions are now one texel lower ([MCPE-12109](https://bugs.mojang.com/browse/MCPE-12109))
+- Players now sink in Soul Sand and Mud blocks ([MCPE-154973](https://bugs.mojang.com/browse/MCPE-154973))
+- Players swimming above Mud will not have their screen covered ([MCPE-153737](https://bugs.mojang.com/browse/MCPE-153737))
+- Projectiles landing on Mud will not repeatedly shake ([MCPE-153744](https://bugs.mojang.com/browse/MCPE-153744))
+- Amphibious mobs no longer have trouble pathfinding around Mud Blocks ([MCPE-153961](https://bugs.mojang.com/browse/MCPE-153961))
 
 ### **Mobs**
 
--   Ravager now can be hurt by Evoker Fangs
--   Increased Ravager collision box size to match Java Edition ([MCPE-142171](https://bugs.mojang.com/browse/MCPE-142171), [MCPE-45531](https://bugs.mojang.com/browse/MCPE-45531))
--   Increased Ravager speed to match Java ([MCPE-48145](https://bugs.mojang.com/browse/MCPE-48145))
+- Ravager now can be hurt by Evoker Fangs
+- Increased Ravager collision box size to match Java Edition ([MCPE-142171](https://bugs.mojang.com/browse/MCPE-142171), [MCPE-45531](https://bugs.mojang.com/browse/MCPE-45531))
+- Increased Ravager speed to match Java ([MCPE-48145](https://bugs.mojang.com/browse/MCPE-48145))
 
 ## **Commands**
 
--   Added new overload to the /summon command that adds rotation arguments
-    -   New overload is /summon \[ spawnPos : x y z\] \[yRot: float\] \[xRot: float\] \[spawnEvent: string\] \[nametag: string\]
-    -   Previous overload \'/summon \[ spawnPos : x y z\] \[spawnEvent: string\] \[nametag: string\]\'
+- Added new overload to the /summon command that adds rotation arguments
+  - New overload is /summon \[ spawnPos : x y z\] \[yRot: float\] \[xRot: float\] \[spawnEvent: string\] \[nametag: string\]
+  - Previous overload '/summon \[ spawnPos : x y z\] \[spawnEvent: string\] \[nametag: string\]'
 
 # **Technical Updates**
 
 ## **Stability and Performance**
 
--   Fixed a crash that could occur when using the *hasItem* selector and specifying a negative value for the item\'s data ([MCPE-152314](https://bugs.mojang.com/browse/MCPE-152314))
+- Fixed a crash that could occur when using the *hasItem* selector and specifying a negative value for the item's data ([MCPE-152314](https://bugs.mojang.com/browse/MCPE-152314))
 
 # **Experimental Features**
 
 ## **Commands**
 
--   Implemented the \"/execute facing \" and \"/execute facing entity \" commands
--   Implemented the \"/execute align \" command
+- Implemented the "/execute facing " and "/execute facing entity " commands
+- Implemented the "/execute align " command
 
 ## **Data Driven Blocks**
 
--   \"minecraft:direction\" is no longer exposed as a data-driven blockProperty. Blocks throw a content error when the \"minecraft\" namespace is used
+- "minecraft:direction" is no longer exposed as a data-driven blockProperty. Blocks throw a content error when the "minecraft" namespace is used
 
 ## **GameTest Framework**
 
--   Removed built-in GameTest Behavior Packs
+- Removed built-in GameTest Behavior Packs
 
 ## **General**
 
--   Added flag *is_hidden_in_commands* in *menu_category* to control whether or not a block can be used in commands
+- Added flag *is_hidden_in_commands* in *menu_category* to control whether or not a block can be used in commands

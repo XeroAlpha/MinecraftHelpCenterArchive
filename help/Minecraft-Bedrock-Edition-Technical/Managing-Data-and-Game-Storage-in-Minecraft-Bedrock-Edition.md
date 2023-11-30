@@ -30,7 +30,7 @@ tags:
   - platform_sony_playstation_5
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition
 ---
 
 *This article applies to Minecraft: Bedrock Edition only. Click here for [Minecraft: Java Edition](https://help.minecraft.net/hc/en-us/articles/4409159214605).*
@@ -39,24 +39,24 @@ This article covers managing your data and game storage in Minecraft: Bedrock Ed
 
 # In This Article:
 
--   [Back up Minecraft: Bedrock Edition Worlds](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition#h_01FG9YQZTD4SQM2XEP4GC28PW3)
--   [Where are Minecraft: Bedrock Edition Files Stored?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition#h_01FG9YRBYAEM57PRKSHW99GM4S)
--   [Installing the Game on a Different Drive](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition#h_01GZ4EYFWNGS8TZDC5Z5BJYMT9)
--   [Transfer Minecraft Worlds to Another Device](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition#h_01FG9YRQBDPNJ8JYNKVGXK04FX)
--   [How to Fix a Corrupted World Save](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition#h_01FG9YS2KTQENFAN4DT675ZTN0)
+- [Back up Minecraft: Bedrock Edition Worlds](#back-up-minecraft-bedrock-edition-worlds)
+- [Where are Minecraft: Bedrock Edition Files Stored?](#where-are-minecraft-bedrock-edition-files-stored)
+- [Installing the Game on a Different Drive](#installing-the-game-on-a-different-drive)
+- [Transfer Minecraft Worlds to Another Device](#transfer-minecraft-bedrock-edition-worlds-to-another-device)
+- [How to Fix a Corrupted World Save](#howtofixacorruptedworldsave)
 
-**Note: Be sure to preserve your worlds. Worlds can get corrupted at any time, and the only way to recover them is through a backup. To minimize risk, use your device\'s cloud-saving capabilities, or make a manual backup using the steps below.**
+**Note: Be sure to preserve your worlds. Worlds can get corrupted at any time, and the only way to recover them is through a backup. To minimize risk, use your device's cloud-saving capabilities, or make a manual backup using the steps below.**
 
 ## Back up Minecraft: Bedrock Edition Worlds
 
 If you receive an error report that you are almost out of storage space, go into the saved game data in-game settings to delete files manually. To do so, follow the steps below:
 
--   Sign into your account.
--   Choose the world or Realm you would like to delete.
--   Select the edit icon to the right of the world or Realm name.
--   On the game settings screen, scroll to the bottom and select Delete.
+- Sign into your account.
+- Choose the world or Realm you would like to delete.
+- Select the edit icon to the right of the world or Realm name.
+- On the game settings screen, scroll to the bottom and select Delete.
 
-Resource packs, textures, skins, and mods are also stored in your local storage and account for the total data size per local profile. The console's OS running Minecraft: Bedrock Edition is restricted to three to four gigabytes of memory.
+Resource packs, textures, skins, and mods are also stored in your local storage and account for the total data size per local profile. The console’s OS running Minecraft: Bedrock Edition is restricted to three to four gigabytes of memory.
 
 If you are playing Minecraft: Bedrock Edition with Xbox Game Pass, your data is stored in the cloud. When you are no longer playing, the data files are stored both on the console and in the cloud. Downloaded content and addons must be stored locally for fast loading.
 
@@ -76,14 +76,14 @@ This creates a copy of your world that you can keep as a backup.
 
 You can also utilize cloud saving for world backups. Please refer to these articles based on your platform:
 
--   [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on Xbox](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518925987981)
--   [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on PlayStation](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518966498061)
--   [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on Nintendo Switch](https://minecrafthelp.zendesk.com/hc/en-us/articles/15519102826765)
--   [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on PC, Mac, Chromebook, and Linux](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518267480461)
+- [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on Xbox](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518925987981)
+- [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on PlayStation](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518966498061)
+- [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on Nintendo Switch](https://minecrafthelp.zendesk.com/hc/en-us/articles/15519102826765)
+- [How to Manage Cloud Saves for Minecraft: Bedrock Edition and Other Minecraft Games on PC, Mac, Chromebook, and Linux](https://minecrafthelp.zendesk.com/hc/en-us/articles/15518267480461)
 
 **Note: Consoles only offer so much cloud storage space. Please pay attention to how much cloud storage space your worlds take up. If your cloud is full, you will not be able to back up your worlds anymore. In that case, you can transfer your world files to an external drive as an alternative.**
 
-Copying your world to a different storage media is another way to back up your worlds. To see where your files are stored, see: [Where are Minecraft: Bedrock Edition Files Stored?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition#h_01FG9YRBYAEM57PRKSHW99GM4S)
+Copying your world to a different storage media is another way to back up your worlds. To see where your files are stored, see: [Where are Minecraft: Bedrock Edition Files Stored?](#where-are-minecraft-bedrock-edition-files-stored)
 
 ## Where are Minecraft: Bedrock Edition Files Stored? 
 
@@ -97,7 +97,7 @@ Copying your world to a different storage media is another way to back up your w
 
 ### Minecraft: Bedrock Edition for Windows & Windows Phone 
 
-The files will be located at  %userprofile%\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP\_**8wekyb3d8bbwe**\\LocalState\\games\\com.mojang\\
+The files will be located at  %userprofile%\AppData\Local\Packages\Microsoft.MinecraftUWP\_**8wekyb3d8bbwe**\LocalState\games\com.mojang\\
 
 ### Xbox One
 
@@ -105,23 +105,23 @@ Minecraft: Bedrock Edition files are stored locally on the console. If you sign 
 
 ## Installing the Game on a Different Drive
 
-If you\'re looking to install Minecraft: Bedrock Edition on an external drive, please follow these steps:
+If you're looking to install Minecraft: Bedrock Edition on an external drive, please follow these steps:
 
 1.  Make sure you have the latest Windows 10/11 update installed on your PC.
-    1.  To check this, Go to Windows \"Settings\" \> \"Windows Update\" \> \"Check for updates\"
-2.  If you\'re using an external drive, make sure it is formatted to NTFS.
+    1.  To check this, Go to Windows "Settings" \> "Windows Update" \> "Check for updates"
+2.  If you're using an external drive, make sure it is formatted to NTFS.
 3.  On your preferred drive, create a new folder named XboxGames.
     1.  This allows you to select the drive as an install location.
 4.  Navigate to the Xbox App and install the Minecraft game of your choice.
     1.  You should have the option to install it to your new drive.
 
-**Note: If there\'s an issue installing the game onto the new drive, please make sure you\'ve updated the Xbox App.**
+**Note: If there's an issue installing the game onto the new drive, please make sure you've updated the Xbox App.**
 
 ## Transfer Minecraft: Bedrock Edition Worlds to Another Device** **
 
 It can be difficult to transfer game files from one device to another. However, there are two methods that can help you transfer your worlds. You can transfer worlds between these devices using a Minecraft: Bedrock Edition Realm or, if you play on an iOS device, through the iCloud method. 
 
-**Note: If you\'re on PlayStation and need to copy a world save over to another device, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/4409145073165#:~:text=COPYING%20A%20WORLD%20SAVE%20FROM%20PLAYSTATION%20TO%20USB).**
+**Note: If you're on PlayStation and need to copy a world save over to another device, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/4409145073165#:~:text=COPYING%20A%20WORLD%20SAVE%20FROM%20PLAYSTATION%20TO%20USB).**
 
 ## Transfer Your World Using a Realm 
 
@@ -132,10 +132,10 @@ You must have an active Minecraft: Bedrock Edition Realm to do this. If you have
 1.  From the first device, click the pen icon next to your Realm from the **Realms** list 
 2.  Click **Replace World** and confirm. 
 3.  Choose the world you want to transfer.
-4.  Wait for the upload and then click **Let\'s go!**
+4.  Wait for the upload and then click **Let's go!**
 5.  Open Minecraft: Bedrock Edition from the second device and click the pen icon next to your Realm from the **Realms**
 6.  Click **Download World**.
-7.  Wait for the download and then click **Let\'s go!**
+7.  Wait for the download and then click **Let's go!**
 
 Your world should now be transferred from one device to another. If you want to transfer another world, repeat the same process. 
 
@@ -150,13 +150,13 @@ See the steps below for the Apple iPad:
 5.  Tap the com.mojang folder.
 6.  Locate the folder named minecraftWorlds. This has all your worlds in it.
 7.  Press and hold the folder to open the iOS menu.
-8.  Tap \'Copy\'.
+8.  Tap 'Copy'.
 9.  Press and hold your iCloud Drive on the left-side navigation bar to open the iOS menu.
-10. Paste the folder into your iCloud Drive. It will be saved there with same folder name \'minecraftWorlds\'.
+10. Paste the folder into your iCloud Drive. It will be saved there with same folder name 'minecraftWorlds'.
 
 The worlds are now saved to your iCloud.  
 
-**Tip**: **Repeat these steps periodically so you'll always have a backup.**
+**Tip**: **Repeat these steps periodically so you’ll always have a backup.**
 
 1.  On the iPad, open the **Files** app
 2.  On the **Browse** screen, go to **iCloud Drive**

@@ -12,7 +12,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004235051-Minecraft-1-
 
 **Fixes:**
 
--   Fixed a crash that occurred when creating a world on Windows 10 Mobile devices
--   Fixed a crash that occurred when creating a world on mid-tier and low-end iOS devices
--   Fixed an issue that prevented content from being downloaded on Android devices
--   Fixed some worlds not properly updating to 1.4
+- Fixed a crash that occurred when creating a world on Windows 10 Mobile devices
+- Fixed a crash that occurred when creating a world on mid-tier and low-end iOS devices
+- Fixed an issue that prevented content from being downloaded on Android devices
+- Fixed some worlds not properly updating to 1.4

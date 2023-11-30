@@ -13,36 +13,36 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127132-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-\
+  
 **Bug Fixes:**
 
--   -   **Crashes/Performance**
+- - **Crashes/Performance**
 
-    -   -   Fixed the hang and crash when converting very large worlds (Xbox One)
-        -   Fixed a crash that occurred when using Firework Rockets converted from an old world (Xbox One)
-
- 
-
--   -   **General**
-
-    -   -   Android players no longer lose access to purchased content when reinstalling the game
-        -   Seeds should no longer randomly change to 0 or generate a world it shouldn\'t- we fixed seed truncation errors
-        -   Realm purchases aren\'t blocked anymore with the "This name is not allowed" message
+  - - Fixed the hang and crash when converting very large worlds (Xbox One)
+    - Fixed a crash that occurred when using Firework Rockets converted from an old world (Xbox One)
 
  
 
--   -   **Gameplay**
+- - **General**
 
-    -   -   Players no longer take damage when running down stairs
-        -   \[LT\] and \[RT\] can now be used to change tabs in the inventory when playing in VR
-        -   Fixed Villager trading screen not appearing and \'Trade\' tooltip missing after conversion of Greek Mythology Mash-Up World (Xbox One)
-        -   Horses can once again breed in converted worlds (Xbox One)
+  - - Android players no longer lose access to purchased content when reinstalling the game
+    - Seeds should no longer randomly change to 0 or generate a world it shouldn't- we fixed seed truncation errors
+    - Realm purchases aren't blocked anymore with the “This name is not allowed” message
 
  
 
--   **Graphical / Audio**
+- - **Gameplay**
 
--   -   Enchanted items no longer flicker and appear correctly
+  - - Players no longer take damage when running down stairs
+    - \[LT\] and \[RT\] can now be used to change tabs in the inventory when playing in VR
+    - Fixed Villager trading screen not appearing and 'Trade' tooltip missing after conversion of Greek Mythology Mash-Up World (Xbox One)
+    - Horses can once again breed in converted worlds (Xbox One)
+
+ 
+
+- **Graphical / Audio**
+
+- - Enchanted items no longer flicker and appear correctly
 
 <div>
 

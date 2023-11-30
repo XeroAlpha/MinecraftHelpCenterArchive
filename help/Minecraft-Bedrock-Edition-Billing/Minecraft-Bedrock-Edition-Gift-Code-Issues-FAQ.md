@@ -5,17 +5,17 @@ updated: 2023-07-10T19:04:30Z
 categories: "Minecraft: Bedrock Edition Billing"
 tags:
   - section_12617899093133
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ-
 ---
 
 *This article addresses Minecraft: Bedrock Edition gift code issues, see [Minecraft: Java Edition Gift Code Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ) for Minecraft: Java Edition gift code issues.*
 
 # In This Article:
 
--   **[What are prepaid Minecraft codes and gift codes?](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ-#h_01FG54KZFYDBFMZH7SFDS4JZME)**
--   **[Minecraft Prepaid Minecoin Cards](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ-#h_01FG54M9E8TRZ1B61G7BSS3ANC)**
--   **[Prepaid Card and Gift Code Redemption Issues](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ-#h_01FG54MNJPQZFATPDWR75NMY2D)\
-    **
+- **[What are prepaid Minecraft codes and gift codes?](#what-are-prepaidminecraftcodes-and-gift-codes)**
+- **[Minecraft Prepaid Minecoin Cards](#minecraft-prepaid-minecoin-cards)**
+- **[Prepaid Card and Gift Code Redemption Issues](#prepaid-card-and-gift-code-redemption-issues)  
+  **
 
 ## What are prepaid Minecraft codes and gift codes?
 
@@ -30,9 +30,9 @@ Prepaid gift cards are also available for in-game currency called Minecoins, for
 ### Redeem a Minecoin Prepaid Card
 
 1.  Navigate to [this link](https://www.minecraft.net/en-us/redeem).
-2.  Make sure you\'re logged in via the top right navigation bar.
-3.  Scroll until you see this box:          ![Redeem](https://minecrafthelp.zendesk.com/hc/article_attachments/16784122492685){width="443" height="193"}
-4.  Input your code and click \'**Submit.**\'
+2.  Make sure you're logged in via the top right navigation bar.
+3.  Scroll until you see this box:          ![Redeem](https://minecrafthelp.zendesk.com/hc/article_attachments/16784122492685)
+4.  Input your code and click '**Submit.**'
 
 Once you have redeemed your Minecoins, they will be linked to your Xbox Live account so that you can access your coins and purchases from all your supported devices that run Minecraft: Bedrock Edition. If you need to create an Xbox Live account, visit [www.xbox.com/live](http://www.xbox.com/live) and follow the instructions on the site.  
 
@@ -44,21 +44,21 @@ Once you have redeemed your Minecoins, they will be linked to your Xbox Live acc
 
 ## Error Messages When Redeeming Your Card 
 
-### "The card has already been redeemed."
+### “The card has already been redeemed.”
 
 Contact Microsoft Support or the platform purchased from to see if it was redeemed on your own account. 
 
-### "This PIN code is invalid."
+### “This PIN code is invalid.”
 
 Contact the store or place that the card was purchased from for further information.
 
-### "General error that code doesn't work."
+### “General error that code doesn’t work.”
 
 1.  Check for typos to make sure you entered all information accurately and as it appears on your gift card. 
 2.  Try again in an hour or two to rule out a temporary server outage. 
 3.  Return it to the store that you purchased it from and ask their customer service to activate the card. 
 
-### "We are currently unable to redeem prepaid cards"
+### “We are currently unable to redeem prepaid cards”
 
 1.  Try again in an hour or two to rule out a temporary server outage.
 2.  Return it to the store that you purchased it from and ask their customer service to activate the card.

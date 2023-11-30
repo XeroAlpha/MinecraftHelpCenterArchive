@@ -21,10 +21,10 @@ tags:
   - platform_other
   - platform_pc
   - section_12618581961357
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360058732972-Minecraft-Enchantments-101
+link: https://help.minecraft.net/hc/en-us/articles/360058732972-Minecraft-Enchantments-101
 ---
 
-Enchanting is an in-game mechanic that allows you to give special abilities to tools and armor. You will need an enchanting table in survival mode, but you can use the '/enchant' command if you are in creative mode with cheats enabled. 
+Enchanting is an in-game mechanic that allows you to give special abilities to tools and armor. You will need an enchanting table in survival mode, but you can use the ‘/enchant’ command if you are in creative mode with cheats enabled. 
 
 Enchanting through the enchantment table requires player experience or levels and Lapis Lazuli. Once you place the tool/armor/book, you can select from three choices of enchantments, each requiring different amounts of experience and Lapis Lazuli. Once you select one the item will be enchanted. Surrounding your enchanting table with bookshelves will increase the levels and tier of enchantments available.  
 
@@ -40,7 +40,7 @@ Enchanting through the enchantment table requires player experience or levels an
 
 This is the starting point for enchanting. Once you have an enchanting table placed down you will be able to access the lower tier enchantments. Placing bookshelves around the crafting table will give you access to the higher tier enchantments. 
 
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995352){width="292" height="121"}
+![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995352)
 
 ### Book 
 
@@ -48,7 +48,7 @@ This is the starting point for enchanting. Once you have an enchanting table pla
 
 If you would like to make enchanted books you can find them or craft them. You can enchant them with one book and three Lapis Lazuli in an enchanting table. You can also obtain them randomly from fishing as well. 
 
-![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995372){width="291" height="123"}
+![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995372)
 
 ### Bookshelves 
 
@@ -56,7 +56,7 @@ If you would like to make enchanted books you can find them or craft them. You c
 
 Placing this around an enchanting table will allow you to get higher tier enchantments. 15 bookshelves will max out your enchanting table. The ideal position of the bookshelves is a square of 15 placed in a 5x5-block outline, with the enchantment table in the middle. 
 
-![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090967211){width="291" height="157"}
+![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090967211)
 
 ### Anvil 
 
@@ -64,4 +64,4 @@ Placing this around an enchanting table will allow you to get higher tier enchan
 
 Anvils will let you repair enchanted tools and combine two tools/items of the same kind together, giving you one tool with all the previous enchantments (unless two enchantments conflict with each other). Additionally, you can combine enchanted books with a tool/item to add the enchantment. 
 
-![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995452){width="292" height="165"}
+![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995452)

@@ -12,5 +12,5 @@ Minecraft 1.6.2 is a hotfix to address several crash issues that affected the ga
 
 # Fixes:
 
--   Fixed the cause of three crashes that could occur during gameplay.
--   Fixed a crash that occurred when spawning high amounts of Creepers, Rabbits, Villagers, and Wolves in a small area.
+- Fixed the cause of three crashes that could occur during gameplay.
+- Fixed a crash that occurred when spawning high amounts of Creepers, Rabbits, Villagers, and Wolves in a small area.

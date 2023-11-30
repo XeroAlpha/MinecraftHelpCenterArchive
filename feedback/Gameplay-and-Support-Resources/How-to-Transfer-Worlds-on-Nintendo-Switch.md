@@ -20,7 +20,7 @@ To transfer existing worlds from **Minecraft: Nintendo Switch Edition** to **
 
 World size is infinite in Minecraft for Nintendo Switch.
 
-**I'm playing in a world that was transferred from the previous version. Are there limitations on the size?**
+**I’m playing in a world that was transferred from the previous version. Are there limitations on the size?**
 
 Transferring to Minecraft should change the world type to infinite, keeping the portions of the world from the existing version the same, but generating new chunks outside of that area.
 
@@ -34,12 +34,12 @@ No, the Super Mario Mash-Up is only playable by Nintendo Switch owners in single
 
 **How do I link my previous purchases on other Minecraft Bedrock versions to my Switch edition?**
 
-Log into Minecraft and sign into your Microsoft account. All your content will sync automatically with other purchases you've made with other Bedrock versions, as long as those purchases were made while logged in to that same Microsoft account.
+Log into Minecraft and sign into your Microsoft account. All your content will sync automatically with other purchases you’ve made with other Bedrock versions, as long as those purchases were made while logged in to that same Microsoft account.
 
-**I own Minecraft: Nintendo Switch Edition and I've bought previous DLC. How do I get it to sync to Minecraft?**
+**I own Minecraft: Nintendo Switch Edition and I’ve bought previous DLC. How do I get it to sync to Minecraft?**
 
 1.  Log into **Minecraft: Nintendo Switch Edition** on your Switch account. This will sync the latest purchases.
-2.  Log into the Minecraft on your Switch and you'll be automatically granted the entitlements for that DLC.
+2.  Log into the Minecraft on your Switch and you’ll be automatically granted the entitlements for that DLC.
 
 **Note** For every purchase you make on the previous version, you must first log into **Minecraft: Nintendo Switch Edition**, exit, and then launch the Bedrock version for purchases to sync. DLC purchased within **Minecraft: Nintendo Switch Edition** will only remain on your Nintendo Switch™ device and will not carried over into other devices.
 

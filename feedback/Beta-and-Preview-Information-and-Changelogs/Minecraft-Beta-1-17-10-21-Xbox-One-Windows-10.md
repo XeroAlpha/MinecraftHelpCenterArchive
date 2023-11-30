@@ -10,13 +10,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4402347045645-Minecraft-B
 
 **PLEASE READ before participating in the Minecraft Beta: **
 
--   Joining the beta will replace your game with a work in progress version of Minecraft 
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
--   Beta builds can be unstable and are not representative of final version quality 
--   The beta is available only on Xbox One and Windows 10. To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Joining the beta will replace your game with a work in progress version of Minecraft 
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
+- Beta builds can be unstable and are not representative of final version quality 
+- The beta is available only on Xbox One and Windows 10. To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-It\'s time for another Caves & Cliffs beta update! Please continue to leave us your feedback in the threads at [aka.ms/CavesCliffsFeedback](https://aka.ms/CavesCliffsFeedback), and search and reports any new bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).
+It's time for another Caves & Cliffs beta update! Please continue to leave us your feedback in the threads at [aka.ms/CavesCliffsFeedback](https://aka.ms/CavesCliffsFeedback), and search and reports any new bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).
 
  
 
@@ -28,118 +28,118 @@ It\'s time for another Caves & Cliffs beta update! Please continue to leave us y
 
 ### Android
 
--   Due to submission issues, this week\'s beta update is not available on Android devices. But don\'t fret, it will return soon! Multiplayer with the previous beta, version 1.17.10.20, is still compatible with this version.\
-    \
+- Due to submission issues, this week's beta update is not available on Android devices. But don't fret, it will return soon! Multiplayer with the previous beta, version 1.17.10.20, is still compatible with this version.  
+    
 
 # New Features:
 
 ### Blocks
 
--   Added potted azalea and flowering azalea variants
+- Added potted azalea and flowering azalea variants
 
 # Bug Fixes:
 
 ### Stability
 
--   Fixed a crash that occurred when breaking a block when the Caves & Cliffs experimental toggle was enabled ([MCPE-128985](https://bugs.mojang.com/browse/MCPE-128985))
+- Fixed a crash that occurred when breaking a block when the Caves & Cliffs experimental toggle was enabled ([MCPE-128985](https://bugs.mojang.com/browse/MCPE-128985))
 
 ### Diamond Ore
 
--   Diamond ore now generates with the correct distribution again ([MCPE-127555](https://bugs.mojang.com/browse/MCPE-127555))
+- Diamond ore now generates with the correct distribution again ([MCPE-127555](https://bugs.mojang.com/browse/MCPE-127555))
 
 ### Glow Lichen
 
--   Glow lichen now only drops itself when broken with shears
+- Glow lichen now only drops itself when broken with shears
 
 ### Commands
 
--   Frosted ice can now be used in any command that accepts a block, such as \'/setblock\' and \'/testforblock\' ([MCPE-126741](https://bugs.mojang.com/browse/MCPE-126741))
+- Frosted ice can now be used in any command that accepts a block, such as '/setblock' and '/testforblock' ([MCPE-126741](https://bugs.mojang.com/browse/MCPE-126741))
 
 ### Data-Driven Items
 
--   Updated documentation for \'DisplayNameItemComponent\'
+- Updated documentation for 'DisplayNameItemComponent'
 
 ### Gameplay
 
--   Disenchanting an item using the grindstone once again resets the enchantment cost penalty correctly ([MCPE-107211](https://bugs.mojang.com/browse/MCPE-107211))
+- Disenchanting an item using the grindstone once again resets the enchantment cost penalty correctly ([MCPE-107211](https://bugs.mojang.com/browse/MCPE-107211))
 
 ### Glow Sign
 
--   \[Vanilla Parity\] The text on glowing signs now has an outline ([MCPE-129123](https://bugs.mojang.com/browse/MCPE-129123))
--   \[Vanilla Parity\] Black text on signs can be lit by using a glow ink sac ([MCPE-128079](https://bugs.mojang.com/browse/MCPE-128079))
--   Tooltips are now present when holding ink sac and glow ink sac when using a controller
--   \[Vanilla Parity\] Ink sac and glow ink sac can no longer be used indefinitely on signs in Adventure mode
--   \[Vanilla Parity\] Player can no longer dye text on signs in Adventure mode ([MCPE-126489](https://bugs.mojang.com/browse/MCPE-126489))
+- \[Vanilla Parity\] The text on glowing signs now has an outline ([MCPE-129123](https://bugs.mojang.com/browse/MCPE-129123))
+- \[Vanilla Parity\] Black text on signs can be lit by using a glow ink sac ([MCPE-128079](https://bugs.mojang.com/browse/MCPE-128079))
+- Tooltips are now present when holding ink sac and glow ink sac when using a controller
+- \[Vanilla Parity\] Ink sac and glow ink sac can no longer be used indefinitely on signs in Adventure mode
+- \[Vanilla Parity\] Player can no longer dye text on signs in Adventure mode ([MCPE-126489](https://bugs.mojang.com/browse/MCPE-126489))
 
 ### Graphics
 
--   Underwater fog is once again dependent on biome ([MCPE-124266](https://bugs.mojang.com/browse/MCPE-124266))
+- Underwater fog is once again dependent on biome ([MCPE-124266](https://bugs.mojang.com/browse/MCPE-124266))
 
 ### Items
 
--   Pumpkins are once again accepted by farmer villagers regardless of their rotation when mined ([MCPE-105540](https://bugs.mojang.com/browse/MCPE-105540))
+- Pumpkins are once again accepted by farmer villagers regardless of their rotation when mined ([MCPE-105540](https://bugs.mojang.com/browse/MCPE-105540))
 
 ### Jukebox
 
--   Jukebox now only ejects disk into non-solid blocks ([MCPE-85635](https://bugs.mojang.com/browse/MCPE-85635))
+- Jukebox now only ejects disk into non-solid blocks ([MCPE-85635](https://bugs.mojang.com/browse/MCPE-85635))
 
 ### Mobs
 
--   Baby horses, including their variants, are now taller and no longer exhibit Z-fighting from their legs ([MCPE-92462](https://bugs.mojang.com/browse/MCPE-92462))
--   Amphibious mobs no longer get stuck when pathing over slabs and daylight sensors
--   Attacked glow squids no longer go dark only for aggressor in multiplayer sessions
--   Villagers spawned from villager spawners on Marketplace worlds that were created after version 1.11 now correctly spawn as V2 villagers
+- Baby horses, including their variants, are now taller and no longer exhibit Z-fighting from their legs ([MCPE-92462](https://bugs.mojang.com/browse/MCPE-92462))
+- Amphibious mobs no longer get stuck when pathing over slabs and daylight sensors
+- Attacked glow squids no longer go dark only for aggressor in multiplayer sessions
+- Villagers spawned from villager spawners on Marketplace worlds that were created after version 1.11 now correctly spawn as V2 villagers
 
 ### Goat
 
--   Tempted goats now move at the same speed as goats in Java Edition, and other similar mobs that are being tempted
--   Goat fall damage reduction is now in parity with Java Edition (-10 reduced fall damage)
--   Goats can now continue ramming when on slime block and honey blocks
+- Tempted goats now move at the same speed as goats in Java Edition, and other similar mobs that are being tempted
+- Goat fall damage reduction is now in parity with Java Edition (-10 reduced fall damage)
+- Goats can now continue ramming when on slime block and honey blocks
 
 ### Strays
 
--   Strays no longer drop wither skeleton skulls when killed by charged creepers ([MCPE-35876](https://bugs.mojang.com/browse/MCPE-35876))
+- Strays no longer drop wither skeleton skulls when killed by charged creepers ([MCPE-35876](https://bugs.mojang.com/browse/MCPE-35876))
 
 ### Bastion
 
--   Bastion loot now closely matches Java Edition ([MCPE-104330](https://bugs.mojang.com/browse/MCPE-104330))
+- Bastion loot now closely matches Java Edition ([MCPE-104330](https://bugs.mojang.com/browse/MCPE-104330))
 
 ### Player
 
--   Players can no longer swim through the air under a platform, though it looked pretty cool ([MCPE-48958)](https://bugs.mojang.com/browse/MCPE-48958)
+- Players can no longer swim through the air under a platform, though it looked pretty cool ([MCPE-48958)](https://bugs.mojang.com/browse/MCPE-48958)
 
 ### Sea Turtles
 
--   Baby sea turtles no longer despawn after being hatched ([MCPE-70664](https://bugs.mojang.com/browse/MCPE-70664))
+- Baby sea turtles no longer despawn after being hatched ([MCPE-70664](https://bugs.mojang.com/browse/MCPE-70664))
 
 ### User Interface
 
--   The \"Reset to Default\" button in the Accessibility settings now resets the Text Background Opacity slider
--   Fixed a typo in the \"Loom\" section of \"How to Play\" ([MCPE-128735](https://bugs.mojang.com/browse/MCPE-128735))
--   The counters on empty tabs of the Play screen now display zero instead of an empty, grey box ([MCPE-110535](https://bugs.mojang.com/browse/MCPE-110535))
+- The "Reset to Default" button in the Accessibility settings now resets the Text Background Opacity slider
+- Fixed a typo in the "Loom" section of "How to Play" ([MCPE-128735](https://bugs.mojang.com/browse/MCPE-128735))
+- The counters on empty tabs of the Play screen now display zero instead of an empty, grey box ([MCPE-110535](https://bugs.mojang.com/browse/MCPE-110535))
 
 # Technical Updates
 
 ### Chunks
 
--   Limits writing of chunks unless necessary. Chunks upgraded from older formats will not automatically save when loaded, but when modified (Through blocks or actors, for example) they will be marked for saving
+- Limits writing of chunks unless necessary. Chunks upgraded from older formats will not automatically save when loaded, but when modified (Through blocks or actors, for example) they will be marked for saving
 
 ### Data-Driven Mobs
 
--   The horse rendering and animations are now fully data-driven
--   This work supports all horse variants (horse, mule, donkey, zombie horse, skeleton horse) and all horse versions including:
-    -   v1 (engine version 1.2.5 and earlier)
-    -   v2 (engine version 1.2.6 to 1.17.0)
-    -   v3 (engine version 1.17.10 and onward). This will be a cleaner version of the v2 model, with less confusing bone naming
+- The horse rendering and animations are now fully data-driven
+- This work supports all horse variants (horse, mule, donkey, zombie horse, skeleton horse) and all horse versions including:
+  - v1 (engine version 1.2.5 and earlier)
+  - v2 (engine version 1.2.6 to 1.17.0)
+  - v3 (engine version 1.17.10 and onward). This will be a cleaner version of the v2 model, with less confusing bone naming
 
 ### GameTest Framework
 
--   Updates to how blocks are handled in APIs:
-    -   BlockType, BlockPermutation, and Block instances replace BlockState-based updating
--   Exposed chest block component and Container
--   Added location and velocity read-only properties to Entity
--   function createExplosion(location : Location, radius : number, explosionOptions : ExplosionOptions)
-    -   Creates an explosion
-        -   ExplosionOptions : class - Provides additional configuration parameters for createExplosion
--   method triggerEvent(eventName : string) - Triggers an event on an entity
--   Added \'thenExecuteFor\' to \'GameTestSequence\', which repeatedly calls the callback for the specified number of ticks
+- Updates to how blocks are handled in APIs:
+  - BlockType, BlockPermutation, and Block instances replace BlockState-based updating
+- Exposed chest block component and Container
+- Added location and velocity read-only properties to Entity
+- function createExplosion(location : Location, radius : number, explosionOptions : ExplosionOptions)
+  - Creates an explosion
+    - ExplosionOptions : class - Provides additional configuration parameters for createExplosion
+- method triggerEvent(eventName : string) - Triggers an event on an entity
+- Added 'thenExecuteFor' to 'GameTestSequence', which repeatedly calls the callback for the specified number of ticks

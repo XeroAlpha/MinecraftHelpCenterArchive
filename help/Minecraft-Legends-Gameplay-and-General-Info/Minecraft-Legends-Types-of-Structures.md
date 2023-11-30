@@ -7,7 +7,7 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859587017101
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/14745678174861-Minecraft-Legends-Types-of-Structures
+link: https://help.minecraft.net/hc/en-us/articles/14745678174861-Minecraft-Legends-Types-of-Structures
 ---
 
 Minecraft Legends features all types of structures for you to build, adding to your defensive and offensive capabilities. Read on for an extensive list of structures you can build.
@@ -16,7 +16,7 @@ Minecraft Legends features all types of structures for you to build, adding to y
 
 ## Extendable Wall
 
-The extendable wall creates a barrier between enemies and whatever you're trying to protect. Make sure you fortify these walls with other defenses by converting them to stone (see Masonry below), as these will often be the piglins' first target.
+The extendable wall creates a barrier between enemies and whatever you’re trying to protect. Make sure you fortify these walls with other defenses by converting them to stone (see Masonry below), as these will often be the piglins’ first target.
 
 ## Ramp
 
@@ -48,7 +48,7 @@ The scatter tower has a shorter range than the arrow tower, but it unleashes mor
 
 ## Protecter Tower
 
-The protecter tower defends against large enemy projectiles -- ideal for shielding walls from long-range attacks.
+The protecter tower defends against large enemy projectiles – ideal for shielding walls from long-range attacks.
 
 ## Redstone Launcher
 
@@ -68,4 +68,4 @@ The battle drum increases the firing speed of nearby defensive structures, like 
 
 ## Lapis Flag
 
-The lapis flag is a multiplayer only structure. Building it provides a constant flow of Lapis to you and your team's reserves.
+The lapis flag is a multiplayer only structure. Building it provides a constant flow of Lapis to you and your team’s reserves.

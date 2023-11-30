@@ -10,105 +10,105 @@ link: https://feedback.minecraft.net/hc/en-us/articles/6944215774349-Minecraft-B
 
 ## **Information on the Minecraft Preview and Beta: **
 
--   These work-in-progress versions can be unstable and may not be representative of final version quality
--   Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
--   The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
+- These work-in-progress versions can be unstable and may not be representative of final version quality
+- Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ)
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions 
 
 ![A Minecraft Screenshot](https://feedback.minecraft.net/hc/article_attachments/6944013413389/Screenshot_2022-06-14_134716.jpg)
 
-Here\'s a list of what is new in this week\'s Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
+Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
 
 # **Features and Bug Fixes**
 
 ## **Allay**
 
--   Items held by Allays now glow in darkness ([MCPE-153533](https://bugs.mojang.com/browse/MCPE-153533))
+- Items held by Allays now glow in darkness ([MCPE-153533](https://bugs.mojang.com/browse/MCPE-153533))
 
 ## **Blocks**
 
--   Mangrove Signs now use Mangrove Plank textures for breaking particles ([MCPE-156568](https://bugs.mojang.com/browse/MCPE-156568))
--   Mangrove Propagule is now placed at a random offset ([MCPE-153735](https://bugs.mojang.com/browse/MCPE-153735))
--   Iron Bars and Glass Panes now connect to Mangrove Roots ([MCPE-153871](https://bugs.mojang.com/browse/MCPE-153871))
+- Mangrove Signs now use Mangrove Plank textures for breaking particles ([MCPE-156568](https://bugs.mojang.com/browse/MCPE-156568))
+- Mangrove Propagule is now placed at a random offset ([MCPE-153735](https://bugs.mojang.com/browse/MCPE-153735))
+- Iron Bars and Glass Panes now connect to Mangrove Roots ([MCPE-153871](https://bugs.mojang.com/browse/MCPE-153871))
 
 ## **Commands**
 
--   Expanded the \'/locate\' command into locate structure and locate biome
-    -   Please send us any feedback you have about this updated command at [aka.ms/MCBetaLocateCommand](https://aka.ms/MCBetaLocateCommand)
+- Expanded the '/locate' command into locate structure and locate biome
+  - Please send us any feedback you have about this updated command at [aka.ms/MCBetaLocateCommand](https://aka.ms/MCBetaLocateCommand)
 
 ## **Deep Dark**
 
 ### **Darkness**
 
--   Darkness effect now works in the Nether and the End dimensions
--   Lava and Powder Snow fogs now take priority over Darkness and Blindness fogs ([MCPE-154928](https://bugs.mojang.com/browse/MCPE-154928))
+- Darkness effect now works in the Nether and the End dimensions
+- Lava and Powder Snow fogs now take priority over Darkness and Blindness fogs ([MCPE-154928](https://bugs.mojang.com/browse/MCPE-154928))
 
 ### **Sculk Shrieker**
 
--   Sculk Shrieker now detects players when riding all types of entities, including Striders, Skeleton Horses, Pigs, and Llamas ([MCPE-153814](https://bugs.mojang.com/browse/MCPE-153814))
+- Sculk Shrieker now detects players when riding all types of entities, including Striders, Skeleton Horses, Pigs, and Llamas ([MCPE-153814](https://bugs.mojang.com/browse/MCPE-153814))
 
 ## **Gameplay**
 
--   Bell now rings when hit by any type of projectile
--   Hit sound is now played when Amethyst block is hit by projectiles ([MCPE-137090](https://bugs.mojang.com/browse/MCPE-137090))
--   Fixed Bottles not usable on water and Boats not placeable on water ([MCPE-156451](https://bugs.mojang.com/browse/MCPE-156451))
+- Bell now rings when hit by any type of projectile
+- Hit sound is now played when Amethyst block is hit by projectiles ([MCPE-137090](https://bugs.mojang.com/browse/MCPE-137090))
+- Fixed Bottles not usable on water and Boats not placeable on water ([MCPE-156451](https://bugs.mojang.com/browse/MCPE-156451))
 
 ### **Warden**
 
--   Warden\'s hurt animation no longer differs between Bedrock Edition and Java Edition ([MCPE-153967](https://bugs.mojang.com/browse/MCPE-153967))
+- Warden's hurt animation no longer differs between Bedrock Edition and Java Edition ([MCPE-153967](https://bugs.mojang.com/browse/MCPE-153967))
 
 ## **General**
 
--   Fixed a bug on certain flat worlds where below-0 terrain was accidentally being removed on level load, if there was bedrock at y=0 ([MCPE-156679](https://bugs.mojang.com/browse/MCPE-156679), [MCPE-156698](https://bugs.mojang.com/browse/MCPE-156698))
+- Fixed a bug on certain flat worlds where below-0 terrain was accidentally being removed on level load, if there was bedrock at y=0 ([MCPE-156679](https://bugs.mojang.com/browse/MCPE-156679), [MCPE-156698](https://bugs.mojang.com/browse/MCPE-156698))
 
 ## **User Interface**
 
--   Fixed a typo in notification duration label for accessibility settings ([MCPE-156901](https://bugs.mojang.com/browse/MCPE-156901))
+- Fixed a typo in notification duration label for accessibility settings ([MCPE-156901](https://bugs.mojang.com/browse/MCPE-156901))
 
 ## **Mangrove Swamp**
 
--   Mangrove Swamps are now denser to more closely match Java Edition ([MCPE-153748](https://bugs.mojang.com/browse/MCPE-153748))
-    -   There is still work to be done to increase the density of Mangrove trees in water, however
--   Grass blocks in Mangrove Swamps now have Dirt blocks underneath them ([MCPE-155414](https://bugs.mojang.com/browse/MCPE-155414))
+- Mangrove Swamps are now denser to more closely match Java Edition ([MCPE-153748](https://bugs.mojang.com/browse/MCPE-153748))
+  - There is still work to be done to increase the density of Mangrove trees in water, however
+- Grass blocks in Mangrove Swamps now have Dirt blocks underneath them ([MCPE-155414](https://bugs.mojang.com/browse/MCPE-155414))
 
 ## **Mobs**
 
--   Fixed a bug causing tamed mobs to disappear when they go through a Nether portal in a multiplayer world ([MCPE-88322](https://bugs.mojang.com/browse/MCPE-88322))
--   Edited fish health points of Cod, Pufferfish, Salmon, and Tropical fish to be 3 to match Java Edition
--   Fixed an issue that broke Slime spawn behavior and prevented Slimes from spawning in Swamp biomes that were also Slime chunks ([MCPE-156411](https://bugs.mojang.com/browse/MCPE-156411))
+- Fixed a bug causing tamed mobs to disappear when they go through a Nether portal in a multiplayer world ([MCPE-88322](https://bugs.mojang.com/browse/MCPE-88322))
+- Edited fish health points of Cod, Pufferfish, Salmon, and Tropical fish to be 3 to match Java Edition
+- Fixed an issue that broke Slime spawn behavior and prevented Slimes from spawning in Swamp biomes that were also Slime chunks ([MCPE-156411](https://bugs.mojang.com/browse/MCPE-156411))
 
 ### **Wandering Trader**
 
--   Fixed a bug that prevented Trader Llamas from becoming aggressive towards entities that attack the Wandering Trader ([MCPE-94996](https://bugs.mojang.com/browse/MCPE-94996))
+- Fixed a bug that prevented Trader Llamas from becoming aggressive towards entities that attack the Wandering Trader ([MCPE-94996](https://bugs.mojang.com/browse/MCPE-94996))
 
 ## **Stability**
 
--   The game no longer crashes when entering the Coin Starter Bundle Screen
+- The game no longer crashes when entering the Coin Starter Bundle Screen
 
 ## **Vanilla Parity**
 
--   Shulker projectile now adds effect \"Levitation\" instead of \"Levitation II\" on hit
--   Pufferfish now gives Poison II effect instead of Poison IV when consumed ([MCPE-105392](https://bugs.mojang.com/browse/MCPE-105392))
+- Shulker projectile now adds effect "Levitation" instead of "Levitation II" on hit
+- Pufferfish now gives Poison II effect instead of Poison IV when consumed ([MCPE-105392](https://bugs.mojang.com/browse/MCPE-105392))
 
 # **Technical Updates**
 
 ## **Components**
 
--   Fixed a bug that prevented the owner of the \"minecraft:angry\" component from broadcasting anger to its friends if it has no target. A mob with this component will now be able to get angry if it both does not have a target and the component\'s \"filters\" list is empty ([MCPE-94996](https://bugs.mojang.com/browse/MCPE-94996))
+- Fixed a bug that prevented the owner of the "minecraft:angry" component from broadcasting anger to its friends if it has no target. A mob with this component will now be able to get angry if it both does not have a target and the component's "filters" list is empty ([MCPE-94996](https://bugs.mojang.com/browse/MCPE-94996))
 
 ## **Mobs**
 
--   Mobs can now be hit by projectile when their hitboxes are outside the mob\'s bounds
+- Mobs can now be hit by projectile when their hitboxes are outside the mob's bounds
 
 # **Experimental Features**
 
 ## **Actor Properties**
 
--   Replace \'values\' field with \'range\' field, which only supports array JSON types. Added required \'type\' JSON field for actor properties with supported values \'int\', \'float\', \'bool\', and \'enum\'. The \'default\' and \'range\' fields on the property must match the type specified in the new \'type\' field
+- Replace 'values' field with 'range' field, which only supports array JSON types. Added required 'type' JSON field for actor properties with supported values 'int', 'float', 'bool', and 'enum'. The 'default' and 'range' fields on the property must match the type specified in the new 'type' field
 
 ## **General**
 
--   Blocks with *block_light_absorption*component of value 16 no longer fail to load
--   Renamed the component \'minecraft:ticking\' to \'minecraft:queued_ticking\'
--   Renamed the \'minecraft:ticking\' component\'s field \'range\' to \'interval_range\', which is now described in ticks rather than seconds
--   Renamed block flammable component fields *flame_odds*and *burn_odds to catch_chance_modifier* and *destroy_chance_modifier* 
--   Added ability to set block flammable component using booleans for default flammable or nonflammable values
+- Blocks with *block_light_absorption*component of value 16 no longer fail to load
+- Renamed the component 'minecraft:ticking' to 'minecraft:queued_ticking'
+- Renamed the 'minecraft:ticking' component's field 'range' to 'interval_range', which is now described in ticks rather than seconds
+- Renamed block flammable component fields *flame_odds*and *burn_odds to catch_chance_modifier* and *destroy_chance_modifier* 
+- Added ability to set block flammable component using booleans for default flammable or nonflammable values

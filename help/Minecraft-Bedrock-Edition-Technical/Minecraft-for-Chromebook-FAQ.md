@@ -9,16 +9,16 @@ tags:
   - subject_content_questions
   - section_12617893243277
   - platform_chromebook
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/13803752803725-Minecraft-for-Chromebook-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/13803752803725-Minecraft-for-Chromebook-FAQ
 ---
 
 Minecraft: Bedrock Edition is on Chromebook! Read this article for more information on which devices can support Minecraft: Bedrock Edition, how to acquire Minecraft for Chromebook, and more.
 
-## What\'s in the Chromebook Version of Minecraft?
+## What's in the Chromebook Version of Minecraft?
 
-The Chromebook version of Minecraft: Bedrock Edition includes cross-play, access to the Minecraft Marketplace, Realms, and more. It's the full version of Minecraft available on other devices.
+The Chromebook version of Minecraft: Bedrock Edition includes cross-play, access to the Minecraft Marketplace, Realms, and more. It’s the full version of Minecraft available on other devices.
 
-**Note: When trying to buy the game on Chromebook, some players viewing the Google Play Store on their browser may not see an option to purchase the game. If you\'re facing this issue, try heading to the native Play Store app to buy and install the game.**
+**Note: When trying to buy the game on Chromebook, some players viewing the Google Play Store on their browser may not see an option to purchase the game. If you're facing this issue, try heading to the native Play Store app to buy and install the game.**
 
 ## CAN ANY CHROMEBOOK PLAY MINECRAFT?
 
@@ -26,21 +26,21 @@ Devices that meet these minimum and recommended requirements can run the game:
 
 ### Minimum requirements:
 
--   Operating System: ChromeOS 111
--   System Architecture: 64-bit (x86_64, arm64-v8a)
--   Processor: AMD A4-9120C, Intel Celeron N4000, Intel 3865U, Intel i3-7130U, Intel m3-8100Y, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
--   Memory: 4 GB RAM
--   Storage: Minimum of 1 GB game installation, maps, and other files 
+- Operating System: ChromeOS 111
+- System Architecture: 64-bit (x86_64, arm64-v8a)
+- Processor: AMD A4-9120C, Intel Celeron N4000, Intel 3865U, Intel i3-7130U, Intel m3-8100Y, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
+- Memory: 4 GB RAM
+- Storage: Minimum of 1 GB game installation, maps, and other files 
 
 **Note: If you have an Intel Celeron N4000 Chromebook device, please [refer to this article](https://help.minecraft.net/hc/en-us/articles/16476866731149)** **for more information on the gameplay experience.**
 
 ### Recommended Requirements
 
--   Operating System: ChromeOS 111
--   System Architecture: 64-bit (x86_64, arm64-v8a)
--   Processor: AMD Ryzen 3 3250C, Intel Celeron N4500, Intel i3-7130U, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
--   Memory: 4 GB RAM
--   Storage: Minimum of 1 GB game installation, maps, and other files
+- Operating System: ChromeOS 111
+- System Architecture: 64-bit (x86_64, arm64-v8a)
+- Processor: AMD Ryzen 3 3250C, Intel Celeron N4500, Intel i3-7130U, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
+- Memory: 4 GB RAM
+- Storage: Minimum of 1 GB game installation, maps, and other files
 
 If you meet these requirements and are looking to optimize your game further, please follow [this guide](https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft-) for some tips.
 
@@ -48,12 +48,12 @@ If you meet these requirements and are looking to optimize your game further, pl
 
 There are a few ways to purchase the Chromebook version of Minecraft, as well as its Android counterpart:
 
--   Chromebook + Android bundle: \$19.99 USD
-    -   This version includes both the Chromebook and Android version of Minecraft. 
--   Android: \$6.99 USD
-    -   This version includes the Android version of Minecraft.
--   Upgrade price: \$13.00 USD
-    -   If you already own the Android version, and want to upgrade to the Chromebook version, the price will be \$13.00 USD.
+- Chromebook + Android bundle: \$19.99 USD
+  - This version includes both the Chromebook and Android version of Minecraft. 
+- Android: \$6.99 USD
+  - This version includes the Android version of Minecraft.
+- Upgrade price: \$13.00 USD
+  - If you already own the Android version, and want to upgrade to the Chromebook version, the price will be \$13.00 USD.
 
 ## WILL MY EXISTING WORLDS TRANSFER TO MINECRAFT FOR CHROMEBOOK?
 

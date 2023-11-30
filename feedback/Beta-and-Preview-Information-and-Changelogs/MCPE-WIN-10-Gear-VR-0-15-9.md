@@ -17,7 +17,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 New Features:
 
--   MINECON 2016 skin pack now available!
+- MINECON 2016 skin pack now available!
 
 <div>
 

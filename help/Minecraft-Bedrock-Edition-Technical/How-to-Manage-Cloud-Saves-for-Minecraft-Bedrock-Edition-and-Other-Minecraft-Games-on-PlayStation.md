@@ -13,7 +13,7 @@ tags:
   - section_12618340057613
   - section_14859582819853
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/15518966498061-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PlayStation
+link: https://help.minecraft.net/hc/en-us/articles/15518966498061-How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PlayStation
 ---
 
 Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on PlayStation **will need a PlayStation Plus Essential subscription or higher** to take advantage of cloud saving.
@@ -48,14 +48,14 @@ To *upload* a cloud save on PlayStation 5, follow these steps: 
 
 1.  Go to Settings 
 2.  Select **Saved Data** **and** **Game/App Settings**. 
-3.  If you're uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you're uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
-4.  Select **Console Storage** and choose the game save you'd like to upload. 
+3.  If you’re uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
+4.  Select **Console Storage** and choose the game save you’d like to upload. 
 5.  Select **Upload to Cloud Storage**.
 
 To *download* a cloud save on PlayStation 5, follow these steps: 
 
 1.  Go to Settings 
 2.  Select **Saved Data** **and** **Game/App Settings**. 
-3.  If you're uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you're uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
-4.  Select **Cloud Storage** and choose the game save you'd like to download. 
+3.  If you’re uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
+4.  Select **Cloud Storage** and choose the game save you’d like to download. 
 5.  Select **Download to Console Storage**.

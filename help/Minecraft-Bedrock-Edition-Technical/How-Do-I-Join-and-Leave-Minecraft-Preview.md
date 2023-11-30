@@ -12,24 +12,24 @@ tags:
   - platform_windows_10
   - platform_android
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360040841471-How-Do-I-Join-and-Leave-Minecraft-Preview-
+link: https://help.minecraft.net/hc/en-us/articles/360040841471-How-Do-I-Join-and-Leave-Minecraft-Preview-
 ---
 
-**Note: If you\'re interested in testing new Minecraft features ahead of time, check out [this article](https://www.minecraft.net/en-us/article/testing-new-minecraft-features) to learn more.**
+**Note: If you're interested in testing new Minecraft features ahead of time, check out [this article](https://www.minecraft.net/en-us/article/testing-new-minecraft-features) to learn more.**
 
 ## Essential Information Before Participating in Minecraft Preview
 
--   Bedrock Editions of the game have a version called Minecraft Preview for testing features ahead of time. On Android, this version is called Beta.
--   You will not have access to Realms and will not be able to join non-Preview players while you\'re in Minecraft Preview. 
--   Preview builds will likely be unstable and are not representative of the final version quality. Please back up your Worlds before joining Minecraft Preview. 
--   Finished releases may not include all changes and fixes from Preview to preserve stability and may slip to a later release. 
--   Report bugs to the [Mojang Bug Tracker](https://bugs.mojang.com/secure/Dashboard.jspa) and all feedback to [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us). 
+- Bedrock Editions of the game have a version called Minecraft Preview for testing features ahead of time. On Android, this version is called Beta.
+- You will not have access to Realms and will not be able to join non-Preview players while you're in Minecraft Preview. 
+- Preview builds will likely be unstable and are not representative of the final version quality. Please back up your Worlds before joining Minecraft Preview. 
+- Finished releases may not include all changes and fixes from Preview to preserve stability and may slip to a later release. 
+- Report bugs to the [Mojang Bug Tracker](https://bugs.mojang.com/secure/Dashboard.jspa) and all feedback to [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us). 
 
 ## Opting Into and out of Beta 
 
--   Xbox One and Windows players can opt-in and out of Preview from the [Xbox Insider Hub app](https://support.xbox.com/en-US/help/account-profile/manage-account/xbox-insider-hub). *Please be aware that opting in and out of the beta may affect all user accounts on a shared device. *For Windows players who want to try Preview, see our [How to Sign Up for the Minecraft for Windows 10 Beta](https://www.youtube.com/watch?v=VcpNfG_3irw&feature=youtu.be) video.  
--   Android players can opt in and out from the Minecraft page of the Google Play Store. 
--   Please remember that unenrolling from Minecraft Preview or Minecraft Beta can sometimes take up to 24 hours. 
+- Xbox One and Windows players can opt-in and out of Preview from the [Xbox Insider Hub app](https://support.xbox.com/en-US/help/account-profile/manage-account/xbox-insider-hub). *Please be aware that opting in and out of the beta may affect all user accounts on a shared device. *For Windows players who want to try Preview, see our [How to Sign Up for the Minecraft for Windows 10 Beta](https://www.youtube.com/watch?v=VcpNfG_3irw&feature=youtu.be) video.  
+- Android players can opt in and out from the Minecraft page of the Google Play Store. 
+- Please remember that unenrolling from Minecraft Preview or Minecraft Beta can sometimes take up to 24 hours. 
 
 ### Detailed Xbox Opt-out Steps 
 
@@ -47,10 +47,10 @@ link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360040841471-How-Do-I-
 
 ### Detailed Android Opt-Out Steps
 
-In order to leave the Beta program on Android devices, please take the following steps:\
+In order to leave the Beta program on Android devices, please take the following steps:  
 
 1.  Click this link [here](https://play.google.com/apps/testing/com.mojang.minecraftpe) for Minecraft Beta Enrollment
-2.  Click the \"Unenroll\" button (this button was previously the \"Become a Tester\" button!)
+2.  Click the "Unenroll" button (this button was previously the "Become a Tester" button!)
 3.  [Back up your worlds](https://help.minecraft.net/hc/en-us/articles/4409165790605-Managing-Data-and-Game-Storage-in-Minecraft-#h_01FG9YQZTD4SQM2XEP4GC28PW3)
 4.  Uninstall and reinstall the app.
 
@@ -58,14 +58,14 @@ In order to leave the Beta program on Android devices, please take the following
 
 Please be aware that if you have multiple users or Xbox Live accounts signed in to your Windows 10 device, you will need to make sure that **each user** has: 
 
--   Backed up any world saves 
--   Signed into their respective Windows and Xbox Live accounts 
--   Unenrolled from Minecraft Preview
--   Uninstalled the Preview version of the game 
+- Backed up any world saves 
+- Signed into their respective Windows and Xbox Live accounts 
+- Unenrolled from Minecraft Preview
+- Uninstalled the Preview version of the game 
 
 After each user has completed these steps, you can then download the non-Preview version of the game. 
 
-Do you have a Windows PC that is stuck on Preview still, and you don\'t want to be? Try the [Windows store troubleshooter](https://support.microsoft.com/en-us/help/4027498/microsoft-store-fix-problems-with-apps%20support.microsoft.com), which resolves the issue for most people. 
+Do you have a Windows PC that is stuck on Preview still, and you don't want to be? Try the [Windows store troubleshooter](https://support.microsoft.com/en-us/help/4027498/microsoft-store-fix-problems-with-apps%20support.microsoft.com), which resolves the issue for most people. 
 
 If you still have problems, please contact [Xbox support](http://support.xbox.com/) for further assistance. 
 

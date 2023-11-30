@@ -8,6 +8,6 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360025955991-Minecraft-1-
 
 **Fixes:**
 
--   This hotfix is only available for Minecraft on Windows 10 and addresses a trial version purchasing issue
+- This hotfix is only available for Minecraft on Windows 10 and addresses a trial version purchasing issue
 
 If you missed a previous update, check out [aka.ms/MCChangelogs](https://aka.ms/MCChangelogs) for a full list of updates.

@@ -10,7 +10,7 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004126452-Minecraft-Realms-for-Pocket-Edition-Windows-10-Edition
 ---
 
-Don\'t forget to use your Xbox Live account! You can also use your Microsoft/Windows account, too. If you\'ve played a game on any Xbox console or from the Windows Store, you probably already have an Xbox Live account.
+Don't forget to use your Xbox Live account! You can also use your Microsoft/Windows account, too. If you've played a game on any Xbox console or from the Windows Store, you probably already have an Xbox Live account.
 
 Need a step-by-step guide?
 

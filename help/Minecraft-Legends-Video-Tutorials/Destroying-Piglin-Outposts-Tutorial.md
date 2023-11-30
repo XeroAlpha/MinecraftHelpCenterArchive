@@ -7,18 +7,18 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14816440560653
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/14819130007181-Destroying-Piglin-Outposts-Tutorial
+link: https://help.minecraft.net/hc/en-us/articles/14819130007181-Destroying-Piglin-Outposts-Tutorial
 ---
 
 ## This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside **[this video](https://youtu.be/B0VKqmkCPeg)**. 
 
-This video goes over taking down the various tiers of piglin outposts It's your first offensive challenge, and it requires you to harness all of your knowledge from the previous tutorials.
+This video goes over taking down the various tiers of piglin outposts It’s your first offensive challenge, and it requires you to harness all of your knowledge from the previous tutorials.
 
-You've completed an outpost once all of its structures are destroyed.
+You’ve completed an outpost once all of its structures are destroyed.
 
 ## Blaze Rod Tower Outpost
 
-This outpost pits you against piglin blaze rod towers that rain down blaze rods on you and your units. It's best to have your cobblestone golems target the towers first, while you and your plank golems defend them from any surrounding piglin units.
+This outpost pits you against piglin blaze rod towers that rain down blaze rods on you and your units. It’s best to have your cobblestone golems target the towers first, while you and your plank golems defend them from any surrounding piglin units.
 
 Once the blaze rod towers are down, focus on the piglin barracks to prevent additional units from spawning.
 
@@ -34,6 +34,6 @@ The Nether spreaders spew Nether corruption into the Overworld, preventing you f
 
 The toughest outpost of the three, this gated outpost is surrounded by walls and a moat of lava.
 
-You'll want to build a ramp/bridge to get across the lava, and from there it's best to target the outpost's gate. You can attack the walls if you'd like, but the gate provides the largest opening for you and your units to flood inside.
+You’ll want to build a ramp/bridge to get across the lava, and from there it’s best to target the outpost’s gate. You can attack the walls if you’d like, but the gate provides the largest opening for you and your units to flood inside.
 
-To defeat this outpost, you only need to destroy the structures inside of the walls. You don't need to take down all of the walls and gates to win.
+To defeat this outpost, you only need to destroy the structures inside of the walls. You don’t need to take down all of the walls and gates to win.

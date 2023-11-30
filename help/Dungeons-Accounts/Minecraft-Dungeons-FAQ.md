@@ -5,16 +5,16 @@ updated: 2023-11-15T19:44:24Z
 categories: Dungeons Accounts
 tags:
   - section_12618263208845
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-
 ---
 
 # In this article: 
 
--   **[General Information ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-#h_01FFGNRXY30ZS9DAENSGM2S500)**
--   **[Game Play ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-#h_01FFGNSGSJKBQWT3BX0XTMZKZH)**
--   **[Technical Information](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-#h_01FFGNT3HQK2KSES27X9BXRCPM) **
--   **[Cloud Gaming and Xbox Game Pass](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-#h_01FFGNV2BJF3AS86DM7G363ZJ4)**
--   **[Minecraft Dungeons Retail Release](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-#h_01FFGNVVNPBZS8WKD5G4N9HEZY)**
+- **[General Information ](#general-information)**
+- **[Game Play ](#h_01FFGNSGSJKBQWT3BX0XTMZKZH)**
+- **[Technical Information](#technical-information) **
+- **[Cloud Gaming and Xbox Game Pass](#minecraft-dungeons-on-cloud-gaming-and-xbox-game-pass-ultimate)**
+- **[Minecraft Dungeons Retail Release](#minecraftdungeonsretailrelease)**
 
 ## General Information 
 
@@ -38,27 +38,27 @@ Cloud Saves are also available, so you can upload Heroes to the cloud and use th
 
 Minecraft Dungeons is available on the following platforms:
 
--   Nintendo Switch,
--   PlayStation®4,
--   Windows10 and above
--   Xbox One, Xbox Series X\|S, and Xbox Game Pass
+- Nintendo Switch,
+- PlayStation®4,
+- Windows10 and above
+- Xbox One, Xbox Series X\|S, and Xbox Game Pass
 
-**Minecraft Dungeons -- Standard Edition** is available for \$19.99 USD. 
+**Minecraft Dungeons – Standard Edition** is available for \$19.99 USD. 
 
 In addition, the Standard Edition of Minecraft Dungeons is available on Xbox Game Pass for PC and Xbox.
 
-**Minecraft Dungeons -- Ultimate Edition** is also available for \$39.99 USD and features bonus downloadable content (DLC).
+**Minecraft Dungeons – Ultimate Edition** is also available for \$39.99 USD and features bonus downloadable content (DLC).
 
 This includes:
 
--   Minecraft Dungeons base game
--   Jungle Awakens DLC 
--   Creeping Winter DLC 
--   Howling Peaks DLC 
--   Flames of the Nether DLC 
--   Hidden Depths DLC 
--   Echoing Void DLC 
--   Hero Pass Skins, Cape, and Pet Chicken 
+- Minecraft Dungeons base game
+- Jungle Awakens DLC 
+- Creeping Winter DLC 
+- Howling Peaks DLC 
+- Flames of the Nether DLC 
+- Hidden Depths DLC 
+- Echoing Void DLC 
+- Hero Pass Skins, Cape, and Pet Chicken 
 
 Players who purchased Standard Edition and want to upgrade to the benefits of Ultimate Edition can purchase the Ultimate DLC Bundle for \$19.99 USD. 
 
@@ -66,7 +66,7 @@ More details can be found in the [Ultimate Edition FAQ](https://help.minecraft
 
 [Shop for Minecraft Dungeons editions and upgrades](https://www.minecraft.net/en-us/about-dungeons). 
 
-Don't forget to stay in touch, we have many free updates planned!
+Don’t forget to stay in touch, we have many free updates planned!
 
 ## What is included in the Minecraft Dungeons Ultimate DLC Bundle? 
 
@@ -74,7 +74,7 @@ The Ultimate DLC Bundle offers all 6 previously released DLC packs, and the Hero
 
 ## Is a physical release of Minecraft Dungeons available?
 
-Minecraft Dungeons Hero Edition can be purchased at various "brick and mortar" retailers for Nintendo Switch, PlayStation® 4, and Xbox One. See the  [Retail Release FAQ](https://help.minecraft.net/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-#h_01FFGNVVNPBZS8WKD5G4N9HEZY) for more information.
+Minecraft Dungeons Hero Edition can be purchased at various “brick and mortar” retailers for Nintendo Switch, PlayStation® 4, and Xbox One. See the  [Retail Release FAQ](#minecraftdungeonsretailrelease) for more information.
 
 ## Is Minecraft Dungeons included in Xbox Game Pass? 
 
@@ -86,7 +86,7 @@ Minecraft Dungeons has improved performance and 4K resolution on PlayStation® 4
 
 ## I want to be a part of the Minecraft Dungeons community, where can I find that? 
 
-You can be a part of the Minecraft Dungeons community by finding us on the official Minecraft Dungeons social channels and following us on Twitter [\@dungeonsgame](https://twitter.com/dungeonsgame).  
+You can be a part of the Minecraft Dungeons community by finding us on the official Minecraft Dungeons social channels and following us on Twitter [@dungeonsgame](https://twitter.com/dungeonsgame).  
 
 ## Can I submit bugs?
 
@@ -110,7 +110,7 @@ There are no character classes in Minecraft Dungeons, your power and abilities 
 
 ### Do missions change from one game to the next? 
 
-Yes! Each mission in Minecraft Dungeons is a mix of procedural content and carefully crafted elements that tie into the mission\'s objectives and narrative. In other words, while parts of the mission stay the same, the paths, mobs, and treasure you find will be different every time you play it.
+Yes! Each mission in Minecraft Dungeons is a mix of procedural content and carefully crafted elements that tie into the mission's objectives and narrative. In other words, while parts of the mission stay the same, the paths, mobs, and treasure you find will be different every time you play it.
 
 ### Are there any accessibility options in the game? 
 
@@ -134,52 +134,52 @@ No. Minecraft Dungeons is designed to be played together with your friends, eit
 
 There are several different ways of handling saved data for characters in Minecraft Dungeons, including Cloud Saves. See our article on  [Cloud Saves and Backing Up Heroes](https://help.minecraft.net/hc/en-us/articles/360043504492-Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes) for the full details on how to use this feature.
 
-### Why is the launcher showing "Buy Now" when I have already purchased Minecraft Dungeons? 
+### Why is the launcher showing “Buy Now” when I have already purchased Minecraft Dungeons? 
 
-If you have purchased Minecraft Dungeons through the Microsoft Store, you can play the game through the Microsoft Store but not in the launcher. If you have purchased the version called" Win7 and up" it will work in the launcher for Windows versions 7, 8,10 and above but not in the Microsoft Store.
+If you have purchased Minecraft Dungeons through the Microsoft Store, you can play the game through the Microsoft Store but not in the launcher. If you have purchased the version called” Win7 and up” it will work in the launcher for Windows versions 7, 8,10 and above but not in the Microsoft Store.
 
-### How can I fix the error for "Game ownership not established?" 
+### How can I fix the error for “Game ownership not established?” 
 
-Family sharing and other forms of game sharing are not supported by Minecraft Dungeons on Windows 10 and above at this time. Attempting to play on another account may result in an error \"Game ownership not established\". Be sure that you are logging in to Minecraft Dungeons with the same Microsoft account that is signed into the Microsoft Store app and was used to purchase the game.
+Family sharing and other forms of game sharing are not supported by Minecraft Dungeons on Windows 10 and above at this time. Attempting to play on another account may result in an error "Game ownership not established". Be sure that you are logging in to Minecraft Dungeons with the same Microsoft account that is signed into the Microsoft Store app and was used to purchase the game.
 
 ## How can I play with my friends? 
 
-Before playing with your friends, make sure you're logged in to your Microsoft account and that you know your friend's gamertag. Gamertags can be found at the top right of the Xbox account page next to the profile icon.  
+Before playing with your friends, make sure you’re logged in to your Microsoft account and that you know your friend’s gamertag. Gamertags can be found at the top right of the Xbox account page next to the profile icon.  
 
-To log in to, or create an Xbox account, visit [account.xbox.com](https://account.xbox.com/). Once you've logged in, you can add your friend's gamertag for play through the website.  
+To log in to, or create an Xbox account, visit [account.xbox.com](https://account.xbox.com/). Once you’ve logged in, you can add your friend’s gamertag for play through the website.  
 
 **Note: Players need to add each other in to play together.**
 
-## What can I do when I see the message "Online play is restricted"? 
+## What can I do when I see the message “Online play is restricted”? 
 
-Manage your Microsoft Account Xbox Live safety and privacy settings at [account.xbox.com/settings](https://account.xbox.com/settings). The "Join multiplayer games" setting is required to play online multiplayer. Additional information on online safety for parents and kids can be found at [Manage Xbox online safety and privacy settings](https://support.xbox.com/en-US/help/family-online-safety/online-safety/manage-online-safety-and-privacy-settings-xbox-one).
+Manage your Microsoft Account Xbox Live safety and privacy settings at [account.xbox.com/settings](https://account.xbox.com/settings). The “Join multiplayer games” setting is required to play online multiplayer. Additional information on online safety for parents and kids can be found at [Manage Xbox online safety and privacy settings](https://support.xbox.com/en-US/help/family-online-safety/online-safety/manage-online-safety-and-privacy-settings-xbox-one).
 
 ## Why did my game crash? 
 
 Crashes can occur on your device for many reasons. Some common issues that appear on Windows may cause these two errors: 
 
--   \"Unreal Engine is exiting due to D3D device being lost\"
--   \"GameThread timed out waiting for RenderThread\"
+- "Unreal Engine is exiting due to D3D device being lost"
+- "GameThread timed out waiting for RenderThread"
 
 These crashes may occur when using an integrated graphics chipset or not meeting the minimum requirements needed to run Minecraft Dungeons. Try the following to help reduce crashes: 
 
--   Ensure your PC meets the [Minimum Requirements](https://help.minecraft.net/hc/articles/360038937032-Dungeons-Minimum-Specifications-for-Game-Play). 
--   Update graphics drivers for [NVIDIA](https://www.nvidia.com/Download/index.aspx), [AMD](https://www.amd.com/support), or [Intel ](https://downloadcenter.intel.com/product/80939/Graphics)graphics cards. 
+- Ensure your PC meets the [Minimum Requirements](https://help.minecraft.net/hc/articles/360038937032-Dungeons-Minimum-Specifications-for-Game-Play). 
+- Update graphics drivers for [NVIDIA](https://www.nvidia.com/Download/index.aspx), [AMD](https://www.amd.com/support), or [Intel ](https://downloadcenter.intel.com/product/80939/Graphics)graphics cards. 
 
 When the game crashes, a prompt appears with crash reporting information that can be sent to the team if you want to submit it. This information helps us fix crash issues in future updates.
 
-## Minecraft Dungeons won't start on my PC, what should I do? 
+## Minecraft Dungeons won’t start on my PC, what should I do? 
 
--   Ensure your PC meets the [Minimum Requirements](https://help.minecraft.net/hc/articles/360038937032-Dungeons-Minimum-Specifications-for-Game-Play). 
--   Ensure your PC has the latest Windows updates. 
--   Update graphics drivers for [NVIDIA](https://www.nvidia.com/Download/index.aspx), [AMD](https://www.amd.com/support), or [Intel](https://downloadcenter.intel.com/product/80939/Graphics) graphics cards. 
--   Though they're installed along with the game, make sure these software dependencies are installed for the game: 
--   [DirectX End-User Runtimes](https://www.microsoft.com/download/details.aspx?id=8109)
--   [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, and 2019](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads)
+- Ensure your PC meets the [Minimum Requirements](https://help.minecraft.net/hc/articles/360038937032-Dungeons-Minimum-Specifications-for-Game-Play). 
+- Ensure your PC has the latest Windows updates. 
+- Update graphics drivers for [NVIDIA](https://www.nvidia.com/Download/index.aspx), [AMD](https://www.amd.com/support), or [Intel](https://downloadcenter.intel.com/product/80939/Graphics) graphics cards. 
+- Though they’re installed along with the game, make sure these software dependencies are installed for the game: 
+- [DirectX End-User Runtimes](https://www.microsoft.com/download/details.aspx?id=8109)
+- [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, and 2019](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads)
 
 ## Do I need to pay a subscription fee, like Xbox Live Gold, to play online?
 
-Online subscription fees are determined by the platform you play on. In order to play online multiplayer, you will need a Nintendo Switch Online subscription for Nintendo Switch, a PlayStation^®^Plus subscription on PlayStation® 4, or an active Xbox Live Gold or Xbox Game Pass Ultimate subscription for Xbox One, There are no subscription fees for playing on Windows.
+Online subscription fees are determined by the platform you play on. In order to play online multiplayer, you will need a Nintendo Switch Online subscription for Nintendo Switch, a PlayStation<sup>®</sup>Plus subscription on PlayStation® 4, or an active Xbox Live Gold or Xbox Game Pass Ultimate subscription for Xbox One, There are no subscription fees for playing on Windows.
 
 ## Can I use Minecoins or Rubies to purchase DLC for Minecraft Dungeons? 
 
@@ -199,7 +199,7 @@ See: [How to Use Cloud Gaming](https://support.xbox.com/help/games-apps/cloud-ga
 
 ### What input methods can I use to play? 
 
-Minecraft Dungeons is fully optimized with native touch controls and has a redesigned interface to make it easy to navigate the inventory and in-game menu on a smaller screen. We've also created new overlays and custom layouts to optimize the game for touch. 
+Minecraft Dungeons is fully optimized with native touch controls and has a redesigned interface to make it easy to navigate the inventory and in-game menu on a smaller screen. We’ve also created new overlays and custom layouts to optimize the game for touch. 
 
 You can also use standard controllers, such as the Xbox wireless controller, to play Minecraft Dungeons on cloud gaming.
 
@@ -209,37 +209,37 @@ You can play Minecraft Dungeons with any of the following controllers, depending
 
 #### PC (Windows 10 and above) 
 
--   Mouse and keyboard
--   Xbox One Controller (for local multiplayer, all players must use a controller)
--   Most USB Controllers
+- Mouse and keyboard
+- Xbox One Controller (for local multiplayer, all players must use a controller)
+- Most USB Controllers
 
 #### Xbox One 
 
--   Xbox One Controller
--   Xbox Elite Controller
--   Xbox Adaptive Controller
--   PowerA Enhanced Wired Controller
--   PowerA Fusion Pro Controller
--   Razer Wolverine Controller
--   Razer Turret for Xbox One
--   PDP Wired Controller
--   Hyperkin DUKE Controller
--   SCUF Infinity1 Controller
+- Xbox One Controller
+- Xbox Elite Controller
+- Xbox Adaptive Controller
+- PowerA Enhanced Wired Controller
+- PowerA Fusion Pro Controller
+- Razer Wolverine Controller
+- Razer Turret for Xbox One
+- PDP Wired Controller
+- Hyperkin DUKE Controller
+- SCUF Infinity1 Controller
 
 #### PlayStation™ 4 
 
--   DualShock 4 Controller
--   C40 TR Controller
--   Hori Mini Wired Gamepad
--   Razer Raiju Pro Controller
--   Nacon Revolution Pro Controller
+- DualShock 4 Controller
+- C40 TR Controller
+- Hori Mini Wired Gamepad
+- Razer Raiju Pro Controller
+- Nacon Revolution Pro Controller
 
 #### Nintendo Switch 
 
--   JoyCon Controller (one JoyCon can be used per player)
--   Pro Controller (any combinations of JoyCon and Pro Controller can be used)
+- JoyCon Controller (one JoyCon can be used per player)
+- Pro Controller (any combinations of JoyCon and Pro Controller can be used)
 
-For instructions on how to connect your controller to your device, refer to your device\'s instruction manual or contact your device\'s support team. 
+For instructions on how to connect your controller to your device, refer to your device's instruction manual or contact your device's support team. 
 
 Check the Xbox Support site for a list of [supported/tested controllers](https://support.xbox.com/help/games-apps/cloud-gaming/cloud-gaming-tested-controllers) and how to connect them to your mobile device. 
 
@@ -253,7 +253,7 @@ Character save data in Minecraft Dungeons on cloud gaming is the same as those u
 
 ### Does my existing downloadable content (DLC) carry over to cloud gaming? 
 
-Any DLC or add-ons you previously purchased for Minecraft Dungeons, **specifically on Xbox One**, are also available on cloud gaming. If you can't use game content while cloud gaming that you normally use on your Xbox console, check to make sure you purchased the content through the same account you use to sign into the Game Pass app. 
+Any DLC or add-ons you previously purchased for Minecraft Dungeons, **specifically on Xbox One**, are also available on cloud gaming. If you can’t use game content while cloud gaming that you normally use on your Xbox console, check to make sure you purchased the content through the same account you use to sign into the Game Pass app. 
 
 ## Minecraft Dungeons Retail Release 
 
@@ -269,17 +269,17 @@ The physical retail version of Minecraft Dungeons Hero Edition was released on S
 
 The physical versions include everything that is included in their digital counterparts:
 
-  ------------------------------ ------------------------------
-  **Ultimate Edition**           **Hero Edition**
-  Minecraft Dungeons base game   Minecraft Dungeons base game
-  Jungle Awakens DLC             Jungle Awakens DLC
-  Creeping Winter DLC            Creeping Winter DLC
-  Howling Peaks DLC              Hero Pass cosmetics
-  Flames of the Nether            
-  Hidden Depths                   
-  Echoing Void                    
-  Hero Pass cosmetics             
-  ------------------------------ ------------------------------
+|                              |                              |
+|------------------------------|------------------------------|
+| **Ultimate Edition**         | **Hero Edition**             |
+| Minecraft Dungeons base game | Minecraft Dungeons base game |
+| Jungle Awakens DLC           | Jungle Awakens DLC           |
+| Creeping Winter DLC          | Creeping Winter DLC          |
+| Howling Peaks DLC            | Hero Pass cosmetics          |
+| Flames of the Nether         |                              |
+| Hidden Depths                |                              |
+| Echoing Void                 |                              |
+| Hero Pass cosmetics          |                              |
 
 ### Do I need an internet connection to update my game and access extra content? 
 

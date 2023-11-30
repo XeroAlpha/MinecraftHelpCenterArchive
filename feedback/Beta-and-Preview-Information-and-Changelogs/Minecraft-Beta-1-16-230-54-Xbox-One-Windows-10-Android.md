@@ -13,13 +13,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360059595471-Minecraft-Be
 
 **PLEASE READ before participating in the Minecraft Beta: **
 
--   Joining the beta will replace your game with a work in progress version of Minecraft 
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
--   Beta builds can be unstable and are not representative of final version quality 
--   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Joining the beta will replace your game with a work in progress version of Minecraft 
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them 
+- Beta builds can be unstable and are not representative of final version quality 
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-It\'s time for another Bedrock beta update, with several tweaks and fixes! As always, you will need to enable the Caves and Cliffs Experimental Features Toggle to check out these features in your beta worlds (You can find out more about using the toggles at [aka.ms/MCExperimentalToggle](https://aka.ms/MCExperimentalToggle).)  
+It's time for another Bedrock beta update, with several tweaks and fixes! As always, you will need to enable the Caves and Cliffs Experimental Features Toggle to check out these features in your beta worlds (You can find out more about using the toggles at [aka.ms/MCExperimentalToggle](https://aka.ms/MCExperimentalToggle).)  
 
  You can leave us your feedback for these features in the threads at [aka.ms/CavesCliffsFeedback](https://aka.ms/CavesCliffsFeedback), and search and reports any new bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).  
 
@@ -27,106 +27,105 @@ It\'s time for another Bedrock beta update, with several tweaks and fixes! As 
 
 **Axolotl** 
 
--   Leads now correctly attach to Axolotl  
+- Leads now correctly attach to Axolotl  
 
 **Creative Inventory** 
 
--   There are no longer any unknown items in the creative inventory ([MCPE-119503](https://bugs.mojang.com/browse/MCPE-119503))   
--   Cobbled Deepslate is now next to cobblestone in the Creative inventory. Polished Deepslate is next to Deepslate  
+- There are no longer any unknown items in the creative inventory ([MCPE-119503](https://bugs.mojang.com/browse/MCPE-119503))   
+- Cobbled Deepslate is now next to cobblestone in the Creative inventory. Polished Deepslate is next to Deepslate  
 
 **Deepslate** 
 
--   Deepslate Bricks now have correct breaktime  
+- Deepslate Bricks now have correct breaktime  
 
 **Dripstone** 
 
--   Water and lava now drip more often from pointed dripstone  
--   Fixed pointed dripstone texture mapping  
+- Water and lava now drip more often from pointed dripstone  
+- Fixed pointed dripstone texture mapping  
 
 **Glow Lichen** 
 
--   Glow lichen can now appear on the walls of underground water lakes  
--   The game no longer crashes when placing glow lichen on all sides of a single block  
+- Glow lichen can now appear on the walls of underground water lakes  
+- The game no longer crashes when placing glow lichen on all sides of a single block  
 
 **Glow Squid** 
 
--   Leads now attach correctly to glow squid (and squid)  
+- Leads now attach correctly to glow squid (and squid)  
 
 **Lush Caves** 
 
--   Hanging roots now drop correctly when mined by silk touch enchanted tool  
--   Moss can now also spread vertically when fertilized ([MCPE-121672](https://bugs.mojang.com/browse/MCPE-121672))  
--   Dripleaves now break completely when the leaf part is broken ([MCPE-121804](https://bugs.mojang.com/browse/MCPE-121804))  
--   Breaking a dripleaf stem now drops a dripleaf item, matching the Java Edition ([MCPE-122447](https://bugs.mojang.com/browse/MCPE-122447))  
--   Fertilizing a moss block can now also grow vegetation on existing moss blocks  
--   Small Dripleaves can now be composted just like Big Dripleaves ([MCPE-122610](https://bugs.mojang.com/browse/MCPE-122610))  
--   Bonemealing moss blocks no longer generates ferns ([MCPE-122800](https://bugs.mojang.com/browse/MCPE-122800))  
--   Azalea and Flowering Azalea can now be grown into an Azalea Tree when fertilized (No ID) 
+- Hanging roots now drop correctly when mined by silk touch enchanted tool  
+- Moss can now also spread vertically when fertilized ([MCPE-121672](https://bugs.mojang.com/browse/MCPE-121672))  
+- Dripleaves now break completely when the leaf part is broken ([MCPE-121804](https://bugs.mojang.com/browse/MCPE-121804))  
+- Breaking a dripleaf stem now drops a dripleaf item, matching the Java Edition ([MCPE-122447](https://bugs.mojang.com/browse/MCPE-122447))  
+- Fertilizing a moss block can now also grow vegetation on existing moss blocks  
+- Small Dripleaves can now be composted just like Big Dripleaves ([MCPE-122610](https://bugs.mojang.com/browse/MCPE-122610))  
+- Bonemealing moss blocks no longer generates ferns ([MCPE-122800](https://bugs.mojang.com/browse/MCPE-122800))  
+- Azalea and Flowering Azalea can now be grown into an Azalea Tree when fertilized (No ID) 
 
 **Powder Snow** 
 
--   Leather horse armor prevents horses from freezing in powder snow  
--   Mobs that enjoy the heat (Blazes, Magma Cubes, and Striders) take increased freeze damage  
--   Polar bears, strays, and snow golems no longer take freeze damage  
--   The time taken to fully freeze is now 7 seconds instead of 15  
--   Frozen entities now take damage every 2 seconds instead of every 3 seconds  
--   The speed at which entities can move vertically when inside powder snow has increased  
--   Powder snow takes slightly longer to mine  
--   Entities wearing leather boots falling from a height of \> 2.5 blocks sink into powder snow instead of landing on top of it  
--   Entities that are on fire that walk into powder snow now melt the powder snow block in addition to extinguishing the fire  
--   Entities that are fully frozen now shake  
--   Applied fog effect while standing very close outside a Powder Snow block  
+- Leather horse armor prevents horses from freezing in powder snow  
+- Mobs that enjoy the heat (Blazes, Magma Cubes, and Striders) take increased freeze damage  
+- Polar bears, strays, and snow golems no longer take freeze damage  
+- The time taken to fully freeze is now 7 seconds instead of 15  
+- Frozen entities now take damage every 2 seconds instead of every 3 seconds  
+- The speed at which entities can move vertically when inside powder snow has increased  
+- Powder snow takes slightly longer to mine  
+- Entities wearing leather boots falling from a height of \> 2.5 blocks sink into powder snow instead of landing on top of it  
+- Entities that are on fire that walk into powder snow now melt the powder snow block in addition to extinguishing the fire  
+- Entities that are fully frozen now shake  
+- Applied fog effect while standing very close outside a Powder Snow block  
 
 **Striders** 
 
--   Striders shake properly when out of lava again ([MCPE-69511](https://bugs.mojang.com/browse/MCPE-69511))  
+- Striders shake properly when out of lava again ([MCPE-69511](https://bugs.mojang.com/browse/MCPE-69511))  
 
 **Other Experimental Tweaks and Changes** 
 
--   Dripstone feature and dripstone cluster feature now rarely generate in caves below y59 
--   Rooted dirt, Small dripleaf, Moss Block and Pointed dripstone can now be obtained from the Wandering Trader 
--   Glow berries can be found in abandoned mineshaft minecart chests 
--   Moss block can be found in shipwreck chests 
--   Masons now trade Dripstone blocks 
--   Dripstone block can be crafted from pointed dripstone 
--   Axolotl and Glow Squid now spawn in water in non-ocean biomes under y = 30  
+- Dripstone feature and dripstone cluster feature now rarely generate in caves below y59 
+- Rooted dirt, Small dripleaf, Moss Block and Pointed dripstone can now be obtained from the Wandering Trader 
+- Glow berries can be found in abandoned mineshaft minecart chests 
+- Moss block can be found in shipwreck chests 
+- Masons now trade Dripstone blocks 
+- Dripstone block can be crafted from pointed dripstone 
+- Axolotl and Glow Squid now spawn in water in non-ocean biomes under y = 30  
 
 # **General Bug Fixes and Tweaks** 
 
--   Fixed a bug where if the view bobbing setting was disabled, the player\'s hand would still bob ([MCPE-79380](https://bugs.mojang.com/browse/MCPE-79380))  
--   Zombie Villagers properly shake while being cured  
+- Fixed a bug where if the view bobbing setting was disabled, the player's hand would still bob ([MCPE-79380](https://bugs.mojang.com/browse/MCPE-79380))  
+- Zombie Villagers properly shake while being cured  
 
-```{=html}
 <!-- -->
-```
--   Fixed player spawning in unsafe locations when entering a random world for the first time ([MCPE-42310](https://bugs.mojang.com/browse/MCPE-42310))  
+
+- Fixed player spawning in unsafe locations when entering a random world for the first time ([MCPE-42310](https://bugs.mojang.com/browse/MCPE-42310))  
 
 **Structure Blocks** 
 
--   The structure placement block now has placement animation options similar to \'/structure\' command  
+- The structure placement block now has placement animation options similar to '/structure' command  
 
 **Commands** 
 
--   Fix output message for \'/stopsound\' being incorrect ([MCPE-116772](https://bugs.mojang.com/browse/MCPE-116772))  
+- Fix output message for '/stopsound' being incorrect ([MCPE-116772](https://bugs.mojang.com/browse/MCPE-116772))  
 
 **Graphical** 
 
--   Charged creeper aura is rendered correctly in most cases now ([MCPE-65798](https://bugs.mojang.com/browse/MCPE-65798))  
--   Fixed Paintings no longer rendering  
--   Ray tracing specific textures will be allocated/deallocated when toggling ray tracing on/off  
+- Charged creeper aura is rendered correctly in most cases now ([MCPE-65798](https://bugs.mojang.com/browse/MCPE-65798))  
+- Fixed Paintings no longer rendering  
+- Ray tracing specific textures will be allocated/deallocated when toggling ray tracing on/off  
 
 **Items** 
 
--   Switching between some items (bow, trident, crossbow, shield) in your main hand will no longer skip animation ([MCPE-116680](https://bugs.mojang.com/browse/MCPE-116680)) 
+- Switching between some items (bow, trident, crossbow, shield) in your main hand will no longer skip animation ([MCPE-116680](https://bugs.mojang.com/browse/MCPE-116680)) 
 
 **Underwater Gameplay Experience** 
 
--   Underwater visibility has been improved 
--   Underwater color has been tuned to better match Java Edition with a richer blue tint 
+- Underwater visibility has been improved 
+- Underwater color has been tuned to better match Java Edition with a richer blue tint 
 
 **User Interface** 
 
--   A message will now display when trying to place blocks below the minimum build height  
+- A message will now display when trying to place blocks below the minimum build height  
 
 ## **Technical Updates** 
 
@@ -134,18 +133,18 @@ It\'s time for another Bedrock beta update, with several tweaks and fixes! As 
 
  **Updated Interfaces:** 
 
--   assertContainerContains - ItemIdentifier parameter changed to ItemStack 
--   assertItemEntityNotPresent and assertItemEntityPresent APIs - ItemStack parameter changed to ItemType  
+- assertContainerContains - ItemIdentifier parameter changed to ItemStack 
+- assertItemEntityNotPresent and assertItemEntityPresent APIs - ItemStack parameter changed to ItemType  
 
 **Added New Interfaces:** 
 
--   assertEntityNotTouching(entityIdentifier: string, position : Location) - Asserts that there is no entity of the given type at the given position 
--   assertEntityTouching(entityIdentifier: string, position : Location) - Asserts that there is an entity of the given type at the given position 
--   assertItemEntityCountIs(itemType : ItemType, position : BlockLocation, searchDistance : number, count : number) - Asserts that the entity item count in the given search area matches the expected count 
--   pulseRedstone(position : BlockLocation, duration : number) - Creates a Redstone block at the given position and destroys it after \"duration\" ticks 
+- assertEntityNotTouching(entityIdentifier: string, position : Location) - Asserts that there is no entity of the given type at the given position 
+- assertEntityTouching(entityIdentifier: string, position : Location) - Asserts that there is an entity of the given type at the given position 
+- assertItemEntityCountIs(itemType : ItemType, position : BlockLocation, searchDistance : number, count : number) - Asserts that the entity item count in the given search area matches the expected count 
+- pulseRedstone(position : BlockLocation, duration : number) - Creates a Redstone block at the given position and destroys it after "duration" ticks 
 
  **Known Issues in this Beta **
 
--   Parts of Villages\' generate underground  
--   Axolotl doesn\'t spawn naturally  
--   Glow Squid does not spawn naturally
+- Parts of Villages' generate underground  
+- Axolotl doesn't spawn naturally  
+- Glow Squid does not spawn naturally

@@ -16,18 +16,18 @@ tags:
   - platform_PC
   - section_12617963662861
   - section_12618006481549
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ
 ---
 
-**Note: Minecraft: Java Edition and Minecraft: Bedrock Edition are now sold as one bundle under the Minecraft: Java & Bedrock Edition for PC label, meaning this article is now outdated. For information on buying Minecraft, please [refer to this article](https://help.minecraft.net/hc/en-us/articles/6657208607501-Minecraft-Java-Bedrock-Edition-for-PC-FAQ).**
+**Note: Minecraft: Java Edition and Minecraft: Bedrock Edition are now sold as one bundle under the Minecraft: Java & Bedrock Edition for PC label, meaning this article is now outdated. For information on buying Minecraft, please [refer to this article](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**
 
 # In This Article: 
 
--   [**Account Billing Issues** ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ#h_01FFK27T17JV6VRAVHWWPD6ZRH)
--   [**Saved Payment Information** ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ#h_01FFK28B6YWNH1WAJB97ACRARA)
--   [**I was charged but did not receive the game** ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ#h_01FFK290BJEHVS95WA3HH0T73Y)
--   [**I bought the wrong version of Minecraft**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ#h_01FFK29H3SCWA7VEQXV1DKQD05) 
--   [**I bought the wrong version of Minecraft; where can I request a refund?**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ#h_01FFK29H3SCWA7VEQXV1DKQD05)
+- [**Account Billing Issues** ](#account-billing-issues)
+- [**Saved Payment Information** ](#savedpaymentinformation)
+- [**I was charged but did not receive the game** ](#iwas-charged-but-did-not-receive-the-game)
+- [**I bought the wrong version of Minecraft**](#h_01FFK29H3SCWA7VEQXV1DKQD05) 
+- [**I bought the wrong version of Minecraft; where can I request a refund?**](#h_01FFK29H3SCWA7VEQXV1DKQD05)
 
 ## Account Billing Issues 
 
@@ -61,11 +61,11 @@ You can remove your payment details at any time from your [Microsoft account set
 
 ### Change a Saved Payment Card 
 
-A saved credit card is required for recurring purchases, such as monthly payments of Minecraft Realms. If you\'d like to switch the card that is set up for recurring payments, delete the currently saved card, then add a new card to your profile.
+A saved credit card is required for recurring purchases, such as monthly payments of Minecraft Realms. If you'd like to switch the card that is set up for recurring payments, delete the currently saved card, then add a new card to your profile.
 
 ## I was charged but did not receive the game 
 
-If you see a pending charge on your account and you did not receive an e-mail with a [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) or the game, then your payment has failed. When this happens, a temporary hold is placed on the funds required for your purchase. In rare cases, you might also see more than one pending charge in your account. No need to worry. Any pending charges should drop from your account as soon as your bank or card provider processes the transaction. Any held funds will be returned to your account.  
+If you see a pending charge on your account and you did not receive an e-mail with a [transaction ID](../General-Billing/What-is-a-Transaction-ID.md) or the game, then your payment has failed. When this happens, a temporary hold is placed on the funds required for your purchase. In rare cases, you might also see more than one pending charge in your account. No need to worry. Any pending charges should drop from your account as soon as your bank or card provider processes the transaction. Any held funds will be returned to your account.  
 
 If you still wish to purchase the game, you can try your purchase again or view other [purchasing options](http://www.minecraft.net/store). If you are using Internet Explorer, we suggest trying your purchase with Microsoft Edge, Google Chrome, Mozilla Firefox, or on a mobile device.  
 
@@ -83,8 +83,8 @@ Although** **you will see both Minecraft: Java Edition and Minecraft for Wi
 
 ## Change the Version Purchased 
 
-If you buy Minecraft: Java Edition, you\'ve also purchased Minecraft: Bedrock Edition thanks to our Minecraft: Java & Bedrock Edition bundle. You can now download both versions of the game and switch between them at your leisure. 
+If you buy Minecraft: Java Edition, you've also purchased Minecraft: Bedrock Edition thanks to our Minecraft: Java & Bedrock Edition bundle. You can now download both versions of the game and switch between them at your leisure. 
 
 ## I still have questions about my Minecraft: Java Edition account; where can I get more help? 
 
-Sure, we\'d love to help! Contact [Minecraft Support](https://aka.ms/Minecraft-Support) with your [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-), and we will be happy to assist.
+Sure, we'd love to help! Contact [Minecraft Support](https://aka.ms/Minecraft-Support) with your [transaction ID](../General-Billing/What-is-a-Transaction-ID.md), and we will be happy to assist.

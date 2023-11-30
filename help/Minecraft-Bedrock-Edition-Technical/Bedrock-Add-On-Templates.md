@@ -16,7 +16,7 @@ tags:
   - platform_xbox_series_x/s
   - section_12617893243277
   - platform_sony_playstation_5
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/21224747358477-Bedrock-Add-On-Templates
+link: https://help.minecraft.net/hc/en-us/articles/21224747358477-Bedrock-Add-On-Templates
 ---
 
 The following templates provide the latest resources, behaviors, and documentation for creating Add-Ons for Minecraft. For more information on how to create Add-Ons for Minecraft, please visit [minecraft.net/creator](https://minecraft.net/creator).

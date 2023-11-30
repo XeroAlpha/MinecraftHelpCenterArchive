@@ -15,39 +15,74 @@ tags:
   - platform_sony_playstation_4
   - amigo
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/360037725571-Minecraft-Bedrock-Edition-for-PlayStation-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/360037725571-Minecraft-Bedrock-Edition-for-PlayStation-FAQ
 ---
 
 # In this article: 
 
--   **[Accounts and Connecting](https://minecrafthelp.zendesk.com/hc/en-us/articles/360037725571-Minecraft-Bedrock-Edition-for-PlayStation-FAQ#h_01FANTJ5HE05XVRKTBP5BN1WCT) **
--   [**Minecraft and PlayStation™ Versions **](https://minecrafthelp.zendesk.com/hc/en-us/articles/360037725571-Minecraft-Bedrock-Edition-for-PlayStation-FAQ#h_01FANTJMTM2689F8H1VA2F559Y)
--   [**Gameplay **](https://minecrafthelp.zendesk.com/hc/en-us/articles/360037725571-Minecraft-Bedrock-Edition-for-PlayStation-FAQ#h_01FANTJTM7FPEG6KSNPZRDKX7Q)
--   [**Downloadable Content (DLC), Minecraft Store, & More **](https://minecrafthelp.zendesk.com/hc/en-us/articles/360037725571-Minecraft-Bedrock-Edition-for-PlayStation-FAQ#h_01FANTJZAHV8KA7ZHC1EXBXYH2)
+- **[Accounts and Connecting](#accounts-and-connecting) **
+- [**Minecraft and PlayStation™ Versions **](#minecraft-andplaystationversions)
+- [**Gameplay **](#gameplay)
+- [**Downloadable Content (DLC), Minecraft Store, & More **](#h_01FANTJZAHV8KA7ZHC1EXBXYH2)
 
 ## Accounts and Connecting 
 
 **Note: As of March 15, 2023, please DO NOT unlink your MSA from your PlayStation account via the in-game menu. You will be unable to link it back if you do so.**
 
-### What's a Microsoft account and why do I need it for PS4/5™? 
+### What’s a Microsoft account and why do I need it for PS4/5™? 
 
 A Microsoft account is not required to play Minecraft: Bedrock Edition on PS™. It does allow Minecraft: Bedrock Edition players on PS™ to play with other players on non-PS™ devices like Android, iOS, Switch, Windows 10, Xbox One/Series consoles, and Chromebook. 
 
 ### What is a Microsoft account?   
 
-It's a free account that's used to verify your access to computers and Microsoft services and applications. Your Microsoft account lets you manage everything all in one. If you use any of these services, you have a Microsoft account: 
+It’s a free account that’s used to verify your access to computers and Microsoft services and applications. Your Microsoft account lets you manage everything all in one. If you use any of these services, you have a Microsoft account: 
 
-+--------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| -   [Xbox Live]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"} | -   [Store]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"}   |
-+--------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| -   [Outlook]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"}   | -   [Bing]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"}    |
-+--------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| -   [Office]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"}    | -   [Windows]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"} |
-+--------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| -   [Skype]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"}     | -   [MSN]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"}     |
-+--------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| -   [OneDrive]{contrast="auto"}[ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559731\":0,\"335559739\":160,\"335559740\":240}"}  | [ ]{contrast="auto"}[ ]{ccp-props="{\"201341983\":0,\"335559740\":240}"}                                                                 |
-+--------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="border-collapse: collapse; width: 100%;" data-border="1">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd" style="height: 22px;" aria-rowindex="1">
+<td style="height: 22px; width: 51%" data-celllook="69905"><ul>
+<li>Xbox Live  </li>
+</ul></td>
+<td style="height: 22px; width: 48.8571%" data-celllook="69905"><ul>
+<li>Store  </li>
+</ul></td>
+</tr>
+<tr class="even" style="height: 22px;" aria-rowindex="2">
+<td style="height: 22px; width: 51%" data-celllook="69905"><ul>
+<li>Outlook  </li>
+</ul></td>
+<td style="height: 22px; width: 48.8571%" data-celllook="69905"><ul>
+<li>Bing  </li>
+</ul></td>
+</tr>
+<tr class="odd" style="height: 22px;" aria-rowindex="3">
+<td style="height: 22px; width: 51%" data-celllook="69905"><ul>
+<li>Office  </li>
+</ul></td>
+<td style="height: 22px; width: 48.8571%" data-celllook="69905"><ul>
+<li>Windows  </li>
+</ul></td>
+</tr>
+<tr class="even" style="height: 22px;" aria-rowindex="4">
+<td style="height: 22px; width: 51%" data-celllook="69905"><ul>
+<li>Skype  </li>
+</ul></td>
+<td style="height: 22px; width: 48.8571%" data-celllook="69905"><ul>
+<li>MSN  </li>
+</ul></td>
+</tr>
+<tr class="odd" style="height: 22px;" aria-rowindex="5">
+<td style="height: 22px; width: 51%" data-celllook="69905"><ul>
+<li>OneDrive  </li>
+</ul></td>
+<td style="height: 22px; width: 48.8571%" data-celllook="69905"><p>  </p></td>
+</tr>
+</tbody>
+</table>
 
 Having a Microsoft account also enables the portability of your Marketplace (devices other than PS) or Minecraft Store (PS™) purchases to other devices and platforms. 
 
@@ -77,9 +112,9 @@ You will not be able to link another Microsoft account to your PSN™ account.
 3.  Click **Add Friend**.  
 4.  Find friends by entering their Microsoft Gamertag in the **Search** box.  
 
-### Why can't I find my friend's Gamertag? 
+### Why can’t I find my friend’s Gamertag? 
 
-Make sure you are entering your friend's Gamertag correctly.   
+Make sure you are entering your friend’s Gamertag correctly.   
 
 **Note: You may only enter a Microsoft Gamertag as a player ID. Player IDs from other platforms are not supported at this time.   **
 
@@ -91,25 +126,25 @@ You can only tie one Microsoft account to a PlayStation™ Network account. �
 
 **Note:** **Once a Microsoft account has been linked to a PlayStation™ Network account, it *****cannot***** be unlinked without loss of access to entitlements and Minecoins on other platforms.**  
 
-### Why can't I connect accounts? 
+### Why can’t I connect accounts? 
 
 Sometimes players attempting to link their Microsoft Account to their PSN™ ID encounter errors. There are two common error messages players see: 
 
-#### "Failed to log in---scenario one" 
+#### “Failed to log in—scenario one” 
 
 When you see this error message, it means that the Microsoft account is already connected to another account on the PlayStation™ Network. 
 
 ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4405103043597)
 
-The solution is to link the PSN™ ID to a different Microsoft account since the Microsoft Account you're attempting to use is already connected to a different PSN™ ID. Each Microsoft account may only be linked to a single PSN™ ID and vice versa. 
+The solution is to link the PSN™ ID to a different Microsoft account since the Microsoft Account you’re attempting to use is already connected to a different PSN™ ID. Each Microsoft account may only be linked to a single PSN™ ID and vice versa. 
 
-#### "Failed to log in---scenario two" 
+#### “Failed to log in—scenario two” 
 
-When you see this error message, it means that the PSN™ ID you\'re attempting to link from is already connected with a Microsoft Account.  
+When you see this error message, it means that the PSN™ ID you're attempting to link from is already connected with a Microsoft Account.  
 
 ![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4405097191309)
 
-That's good news! This error message tells you which Microsoft account the PSN™ ID is connected to. The solution is to sign in with the correct listed account. For example, in the image, you would sign in with the account **MyOtherMSAccoun****t** where the "other account" is your other account name.  
+That’s good news! This error message tells you which Microsoft account the PSN™ ID is connected to. The solution is to sign in with the correct listed account. For example, in the image, you would sign in with the account **MyOtherMSAccoun****t** where the “other account” is your other account name.  
 
 ## Minecraft and PlayStation™ Versions 
 
@@ -117,20 +152,20 @@ That's good news! This error message tells you which Microsoft account the
 
 Minecraft: Bedrock Edition refers to any current non-Java edition of the game.  
 
--   Multi-Platform -- You can play Minecraft: Bedrock Edition on console, mobile, and PC.
--   Marketplace -- Add-Ons or Skin packs can be purchased from the marketplace to change your gameplay experience/
--   Cross-Play -- Minecraft: Bedrock Edition players can play with any other Bedrock platform.
--   Runs Smooth -- Minecraft: Bedrock Edition does not require powerful computers or devices to run and will often run more smoothly than Minecraft: Java Edition
--   Controls -- Minecraft: Bedrock Edition has the option to switch to a controller for movement or touch controls if on a mobile device
--   Moderation and Parental Controls -- Since Minecraft: Bedrock Edition is connected to Xbox's services the online experience is more heavily moderated and parental controls can be finer tuned  
+- Multi-Platform – You can play Minecraft: Bedrock Edition on console, mobile, and PC.
+- Marketplace – Add-Ons or Skin packs can be purchased from the marketplace to change your gameplay experience/
+- Cross-Play – Minecraft: Bedrock Edition players can play with any other Bedrock platform.
+- Runs Smooth – Minecraft: Bedrock Edition does not require powerful computers or devices to run and will often run more smoothly than Minecraft: Java Edition
+- Controls – Minecraft: Bedrock Edition has the option to switch to a controller for movement or touch controls if on a mobile device
+- Moderation and Parental Controls – Since Minecraft: Bedrock Edition is connected to Xbox’s services the online experience is more heavily moderated and parental controls can be finer tuned  
 
 ### How is this version different than the one I already own?  
 
-Minecraft: Bedrock Edition delivers a unified experience to players on all platforms that use the Bedrock codebase. You can cross-play with friends no matter what device they're using, play multiplayer mini-games, and customize how you play with community content available through the in-game Minecraft Marketplace/Minecraft Store.  
+Minecraft: Bedrock Edition delivers a unified experience to players on all platforms that use the Bedrock codebase. You can cross-play with friends no matter what device they’re using, play multiplayer mini-games, and customize how you play with community content available through the in-game Minecraft Marketplace/Minecraft Store.  
 
 ### When did this launch?  
 
-Minecraft: Bedrock Edition launched on PS4™ on December 10th, 2019. If you already own the game, you'll receive a patch update that will give you the Bedrock version of the game at no additional cost.   
+Minecraft: Bedrock Edition launched on PS4™ on December 10th, 2019. If you already own the game, you’ll receive a patch update that will give you the Bedrock version of the game at no additional cost.   
 
 ### I already own a Minecraft: PS4™ Edition. How do I get the current version? 
 
@@ -161,13 +196,13 @@ Yes, your existing worlds from Minecraft: PS4™ Edition will convert to
 1.  In Minecraft: Bedrock Edition, on the **Play** menu, in the **Worlds** list, click **Sync Old Worlds** at the bottom of the worlds list in the play menu. This will let you find any worlds on the device from Minecraft: PS4™ edition and display them below the button.  
 2.  Select any of the worlds to convert them to Minecraft: Bedrock Edition.  
 
-After the conversion, you'll see the world(s) listed along with the rest of your Minecraft: Bedrock Edition worlds.  
+After the conversion, you’ll see the world(s) listed along with the rest of your Minecraft: Bedrock Edition worlds.  
 
 ### How big are worlds in Minecraft for PS™? 
 
 Minecraft: Bedrock Edition worlds are now expanded, World Types are all Infinite, and there are no longer any world borders.  
 
-### I'm playing in a world that was transferred from the previous version. Are there limitations on world size?  
+### I’m playing in a world that was transferred from the previous version. Are there limitations on world size?  
 
 Transferring to Minecraft: Bedrock Edition should change the World Type to Infinite, keeping the portions of the world from the previous Minecraft: PS4™ Edition the same, but generating new chunks outside of that area.  
 
@@ -191,9 +226,9 @@ Yes, Render Dragon has been added.  
 
 Turn off Multiplayer in the Level settings prior to loading any account that is not PlayStation® Plus-enabled and before attempting to join in split-screen play.  
 
-### I see a message that I don't have enough storage to play Minecraft: Bedrock Edition on PlayStation®. What should I do? 
+### I see a message that I don’t have enough storage to play Minecraft: Bedrock Edition on PlayStation®. What should I do? 
 
-We are investigating what might be causing this issue. As a workaround, you might want to try deleting any old worlds that you don\'t want to keep, and also try clearing cached content by going to **Settings\>Storage.** 
+We are investigating what might be causing this issue. As a workaround, you might want to try deleting any old worlds that you don't want to keep, and also try clearing cached content by going to **Settings\>Storage.** 
 
 ## Downloadable Content, Minecraft Store, and More 
 
@@ -203,7 +238,7 @@ Most existing downloadable content is transferable from Minecraft: PS4™ Editio
 
 ### What is the Minecraft Store?  
 
-The Minecraft Store, accessible from in-game, is where players can purchase character skins, textures, and worlds. With Minecraft Store, we\'ve made it safer and easier to purchase community-made content for Minecraft: Bedrock Edition. Content purchased while signed in with a Microsoft account can be enjoyed on any device and will not expire.   
+The Minecraft Store, accessible from in-game, is where players can purchase character skins, textures, and worlds. With Minecraft Store, we've made it safer and easier to purchase community-made content for Minecraft: Bedrock Edition. Content purchased while signed in with a Microsoft account can be enjoyed on any device and will not expire.   
 
 ### What are Tokens? 
 
@@ -215,9 +250,9 @@ No, but you can continue using your Minecoins on non-PS™ Bedrock platforms
 
 ### How do I link my previous purchases on other Minecraft bedrock versions to my PS™ game?  
 
-Log into Minecraft: Bedrock Edition and sign into your Microsoft account. All Marketplace/Minecraft Store items will sync automatically with other purchases you've made on other Minecraft: Bedrock Edition platforms, as long as those purchases were made while logged in to that same Microsoft account and are purchases that can roam to PS™.   
+Log into Minecraft: Bedrock Edition and sign into your Microsoft account. All Marketplace/Minecraft Store items will sync automatically with other purchases you’ve made on other Minecraft: Bedrock Edition platforms, as long as those purchases were made while logged in to that same Microsoft account and are purchases that can roam to PS™.   
 
-### I own Minecraft: PS4™ Edition and I've bought previous downloadable content. How do I get it to sync to Minecraft: Bedrock Edition?  
+### I own Minecraft: PS4™ Edition and I’ve bought previous downloadable content. How do I get it to sync to Minecraft: Bedrock Edition?  
 
 Log into Minecraft: Bedrock Edition on your PS™ and the content will automatically sync that downloadable content in the latest version.   
 

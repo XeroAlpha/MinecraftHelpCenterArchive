@@ -14,40 +14,40 @@ tags:
   - platform_PC
   - platform_xbox_series_x/s
   - section_12618268841485
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4405075936013-Minecraft-Dungeons-Ultimate-Edition-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4405075936013-Minecraft-Dungeons-Ultimate-Edition-FAQ
 ---
 
 Minecraft Dungeons Ultimate Edition is here and contains all the previously released downloadable content (DLC) content in one package! This means you will receive all six previously released DLC packs, plus the Hero Pass Cosmetics.  
 
-The Hero Edition, Hero Pass, and Season Pass will be delisted from digital stores in the near future, but current owners won't lose access to their content! We know you might have some questions, so continue below to our FAQs.  
+The Hero Edition, Hero Pass, and Season Pass will be delisted from digital stores in the near future, but current owners won’t lose access to their content! We know you might have some questions, so continue below to our FAQs.  
 
 ## What is included in Ultimate Edition and the Ultimate DLC Bundle? 
 
 ### Ultimate Edition  
 
--   Will be available digitally for \$39.99 USD  
--   Includes: 
-    -   Minecraft Dungeons (base game) 
-    -   Jungle Awakens DLC 
-    -   Creeping Winter DLC 
-    -   Howling Peaks DLC 
-    -   Flames of the Nether DLC 
-    -   Hidden Depths DLC 
-    -   Echoing Void DLC 
-    -   Hero Pass Skins, Cape, and Pet Chicken 
+- Will be available digitally for \$39.99 USD  
+- Includes: 
+  - Minecraft Dungeons (base game) 
+  - Jungle Awakens DLC 
+  - Creeping Winter DLC 
+  - Howling Peaks DLC 
+  - Flames of the Nether DLC 
+  - Hidden Depths DLC 
+  - Echoing Void DLC 
+  - Hero Pass Skins, Cape, and Pet Chicken 
 
 ### Ultimate DLC Bundle  
 
--   Will be available digitally for \$19.99 USD  
--   Requires Minecraft Dungeons (base game) to play  
--   Includes: 
-    -   Jungle Awakens DLC 
-    -   Creeping Winter DLC 
-    -   Howling Peaks DLC 
-    -   Flames of the Nether DLC 
-    -   Hidden Depths DLC 
-    -   Echoing Void DLC 
-    -   Hero Pass Skins, Cape, and Pet Chicken 
+- Will be available digitally for \$19.99 USD  
+- Requires Minecraft Dungeons (base game) to play  
+- Includes: 
+  - Jungle Awakens DLC 
+  - Creeping Winter DLC 
+  - Howling Peaks DLC 
+  - Flames of the Nether DLC 
+  - Hidden Depths DLC 
+  - Echoing Void DLC 
+  - Hero Pass Skins, Cape, and Pet Chicken 
 
 ## If I already own Minecraft Dungeons, can I still buy all the DLC packs together? 
 

@@ -10,10 +10,10 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004126072-WIN-10-only-0-15-5
 ---
 
-Minecraft: Windows 10 Edition Beta release only\
-\
+Minecraft: Windows 10 Edition Beta release only  
+  
 
--   Minor bug fix
+- Minor bug fix
 
 <div>
 

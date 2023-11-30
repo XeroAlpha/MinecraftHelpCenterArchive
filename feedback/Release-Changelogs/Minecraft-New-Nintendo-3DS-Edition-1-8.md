@@ -8,22 +8,22 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360020066051-Minecraft-New-Nintendo-3DS-Edition-1-8
 ---
 
-Welcome to Version 1.8! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
+Welcome to Version 1.8! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)  
 [Click here](http://feedback.minecraft.net/) to give us feedback & tell us what you think about the update.
 
--   New Content available for purchase
+- New Content available for purchase
 
--   -   Steam Punk Texture Pack
-    -   Strangers -- Biome Settlers 3 Skin Pack
-    -   Moana Character Pack
-    -   Mighty Morphin Power Ranger Skin Pack
-    -   Magic: The Gathering Skin Pack
-    -   Halloween Costume Skin Pack
-    -   Festive Mash-up 2016
+- - Steam Punk Texture Pack
+  - Strangers – Biome Settlers 3 Skin Pack
+  - Moana Character Pack
+  - Mighty Morphin Power Ranger Skin Pack
+  - Magic: The Gathering Skin Pack
+  - Halloween Costume Skin Pack
+  - Festive Mash-up 2016
 
--   Improved stability and performance
+- Improved stability and performance
 
--   Numerous bug fixes from previous builds
+- Numerous bug fixes from previous builds
 
  
 

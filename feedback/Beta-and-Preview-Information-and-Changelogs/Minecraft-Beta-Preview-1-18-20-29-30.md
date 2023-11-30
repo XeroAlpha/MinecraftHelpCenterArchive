@@ -10,16 +10,16 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4490363252109-Minecraft-B
 
 **PLEASE READ before participating in the Minecraft Beta:**
 
--   Joining the beta will replace your game with a work-in-progress version of Minecraft
--   You will not have access to Realms and will not be able to join non-beta players while you\'re previewing the beta
--   Any worlds played while in the beta cannot be opened in previous versions of the game, so please make copies of worlds to prevent losing them
--   Beta builds can be unstable and are not representative of final version quality
--   The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
--   Minecraft Preview players may receive a slightly different version number, but the fixes and features here should be the same. More information can be found here: [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ).
+- Joining the beta will replace your game with a work-in-progress version of Minecraft
+- You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
+- Any worlds played while in the beta cannot be opened in previous versions of the game, so please make copies of worlds to prevent losing them
+- Beta builds can be unstable and are not representative of final version quality
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
+- Minecraft Preview players may receive a slightly different version number, but the fixes and features here should be the same. More information can be found here: [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ).
 
 ![A Minecraft house and Villager](https://feedback.minecraft.net/hc/article_attachments/4490334239245/beta18U2_5.jpg)
 
-It\'s time for another update, and here\'s a list of what is new in this week\'s Beta! As always please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/).
+It's time for another update, and here's a list of what is new in this week's Beta! As always please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/).
 
  
 
@@ -27,12 +27,12 @@ It\'s time for another update, and here\'s a list of what is new in this week\'s
 
 ## **Gameplay**
 
--   Fixed a bug where Paintings could not be placed on a variety of blocks ([MCPE-152115](https://bugs.mojang.com/browse/MCPE-152115)) 
--   Mobs can once again path through Doors with a partial block leading to them  
--   Fixed several crashes that could occur during gameplay
+- Fixed a bug where Paintings could not be placed on a variety of blocks ([MCPE-152115](https://bugs.mojang.com/browse/MCPE-152115)) 
+- Mobs can once again path through Doors with a partial block leading to them  
+- Fixed several crashes that could occur during gameplay
 
 # **Technical Updates**
 
 ## **Mobs**
 
--   Custom mobs with a format version lower than 1.18.20 and using the \"minecraft:behavior.knockback_roar\" component will parse like before if it contains an extra field that the engine didn\'t expect
+- Custom mobs with a format version lower than 1.18.20 and using the "minecraft:behavior.knockback_roar" component will parse like before if it contains an extra field that the engine didn't expect

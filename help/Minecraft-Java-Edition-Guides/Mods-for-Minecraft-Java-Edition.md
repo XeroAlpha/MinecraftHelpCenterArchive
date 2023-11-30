@@ -13,11 +13,11 @@ tags:
   - platform_pc
   - platform_PC
   - section_12618583497869
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition-
+link: https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition-
 ---
 
 *This article applies to Minecraft: Java Edition only. See our [Minecraft Add-Ons for Bedrock Versions](https://help.minecraft.net/hc/en-us/articles/4409140076813-Minecraft-Add-Ons-for-Bedrock-Versions-FAQ)* *article for Minecraft: Bedrock Edition customization.*
 
-Modifications to Minecraft, or \"mods,\" are available through several third-party websites. These mods can add or remove content to the game or change how it is played. Note that these mods are not created, reviewed or endorsed by Mojang Studios, and the same precautions should be taken when installing these mods as you would with any other piece of independently developed software.
+Modifications to Minecraft, or "mods," are available through several third-party websites. These mods can add or remove content to the game or change how it is played. Note that these mods are not created, reviewed or endorsed by Mojang Studios, and the same precautions should be taken when installing these mods as you would with any other piece of independently developed software.
 
 Modding can be complex and may cause your game to malfunction or not be playable. As modding is not officially supported, Minecraft Support cannot assist with issues arising from mod usage.

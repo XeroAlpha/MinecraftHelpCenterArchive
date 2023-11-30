@@ -5,7 +5,7 @@ updated: 2023-01-23T17:21:14Z
 categories: Dungeons Billing
 tags:
   - section_12618268841485
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4416089241997-Minecraft-Dungeons-Seasonal-Adventures-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4416089241997-Minecraft-Dungeons-Seasonal-Adventures-FAQ
 ---
 
 ## What are Seasonal Adventures?
@@ -14,11 +14,11 @@ Seasonal Adventures are themed events in Minecraft Dungeons. Join weekly challen
 
 Check out the [Introduction to Seasonal Adventures](https://www.youtube.com/watch?v=oDYjfVeUNRk) video for a deep-dive on the new features!
 
-## What's new with the release of Cloudy Climb?
+## What’s new with the release of Cloudy Climb?
 
-Cloudy Climb is the first of Minecraft Dungeons' Seasonal Adventures, released on December 14, 2021.
+Cloudy Climb is the first of Minecraft Dungeons’ Seasonal Adventures, released on December 14, 2021.
 
-A new progression track has been introduced, allowing you to unlock new cosmetics like capes, skins, emotes, pets, and flairs. While you expand your collection, prove your worth by climbing the Tower -- a mysterious and replayable structure that puts your skill to the test through several floors of challenging content.
+A new progression track has been introduced, allowing you to unlock new cosmetics like capes, skins, emotes, pets, and flairs. While you expand your collection, prove your worth by climbing the Tower – a mysterious and replayable structure that puts your skill to the test through several floors of challenging content.
 
 ![1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4416112247437/1.png)
 
@@ -32,15 +32,15 @@ In the Tower, the player controls an avatar: a character that initially has no g
 
 ![2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4416112251149/2.png)
 
-The Tower is home to both familiar mobs and bosses from Minecraft Dungeons -- but also a few new foes as well. Not all Tower inhabitants are hostile and some of them will help you along your way up by modifying the gear that you collect. They can increase the power of it, upgrade it to a unique variant, or gild it.
+The Tower is home to both familiar mobs and bosses from Minecraft Dungeons – but also a few new foes as well. Not all Tower inhabitants are hostile and some of them will help you along your way up by modifying the gear that you collect. They can increase the power of it, upgrade it to a unique variant, or gild it.
 
-The Tower's floors will change every few weeks, which gives you a limited window to master its current layout.
+The Tower’s floors will change every few weeks, which gives you a limited window to master its current layout.
 
 For a more in-depth overview of the Tower, see the [Tower Scour article](https://www.minecraft.net/en-us/article/tower-scour) on Minecraft.net!
 
 ## How do the new cosmetics work and what types are there?
 
-There are several new types of cosmetic rewards available with Seasonal Adventures that you can be applied to your character you're the Cosmetics tab of the inventory screen.
+There are several new types of cosmetic rewards available with Seasonal Adventures that you can be applied to your character you’re the Cosmetics tab of the inventory screen.
 
 ![3.jpg](https://minecrafthelp.zendesk.com/hc/article_attachments/4416120364557/3.jpg)
 
@@ -94,4 +94,4 @@ Each Seasonal Adventure Pass will be sold separately and are active only for the
 
 Yes, you must be connected to the internet to gain rewards. Additionally, you need an active internet connection to start a new Tower run.
 
-To ensure you're connected to online services, go to the pause menu and select Connectivity Status. From this menu, you can ensure you're properly connected.
+To ensure you’re connected to online services, go to the pause menu and select Connectivity Status. From this menu, you can ensure you’re properly connected.

@@ -5,7 +5,7 @@ updated: 2023-06-29T19:55:31Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ
 ---
 
 *This article applies to Minecraft: Bedrock Edition achievements only.  For information on Minecraft: Java Edition achievements, see: **[Minecraft: Java Edition Achievements FAQ](https://help.minecraft.net/hc/en-us/articles/4409244080653-Minecraft-Java-Edition-Achievements-FAQ)**.*
@@ -14,15 +14,15 @@ This article details Minecraft: Bedrock Edition Achievements and everything you 
 
 # In This Article:
 
--   [Can I Turn Achievements on and off in Realms? ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ#h_01GK56K2F7JKVR3D8TN9TQTF3N)
--   [Achievements Not Unlocking ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ#h_01GK56K8PZKEW0RBS92JKKD1VZ)
-    -   [Minecraft: Bedrock Edition for Windows](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ#h_01GK56KN7CBC6DQWR1DNFSXVKH)
+- [Can I Turn Achievements on and off in Realms? ](#can-i-turn-achievementson-andoffin-realms)
+- [Achievements Not Unlocking ](#achievementsnotunlocking)
+  - [Minecraft: Bedrock Edition for Windows](#minecraft-bedrock-edition-for-windows)
 
-    -   [Minecraft: Bedrock Edition for Xbox One Console and Series X\|S ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ#h_01GK56KSX3EBD8W1BPCXHYG1D9)
+  - [Minecraft: Bedrock Edition for Xbox One Console and Series X\|S ](#minecraft-bedrock-edition-for-xbox-one-console-and-series-xs)
 
-    -   [Minecraft: Bedrock Edition for PlayStation® 4 or Nintendo Switch ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ#h_01GK56KYX9RATJ2AARYMKEKX8C)
+  - [Minecraft: Bedrock Edition for PlayStation® 4 or Nintendo Switch ](#minecraft-bedrock-edition-for-android-chromebook-and-ios)
 
-    -   [Minecraft: Bedrock Edition for Android, Chromebook, and iOS](https://help.minecraft.net/hc/en-us/articles/4409244237325#:~:text=MINECRAFT%20ON%20ANDROID%20AND%20IOS)
+  - [Minecraft: Bedrock Edition for Android, Chromebook, and iOS](https://help.minecraft.net/hc/en-us/articles/4409244237325#:~:text=MINECRAFT%20ON%20ANDROID%20AND%20IOS)
 
 ## Can I Turn Achievements on and off in Realms? 
 
@@ -40,37 +40,37 @@ The following guidance helps you troubleshoot on each device or platform: 
 
 Please allow up to 24 hours for the achievement to display. After that, if achievements are still not displaying in-game for you, follow these steps to troubleshoot the problem: 
 
--   Make sure you are connected to the internet and that your game is up to date.
--   Restart the game and your PC.
--   If possible, reattempt the feat that gained you the achievement.
--   Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
+- Make sure you are connected to the internet and that your game is up to date.
+- Restart the game and your PC.
+- If possible, reattempt the feat that gained you the achievement.
+- Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
 
 ### Minecraft: Bedrock Edition for Xbox One Console and Series X\|S 
 
 Please allow up to 24 hours for the achievement to display. After that, if achievements are still not displaying in-game for you, follow these steps to troubleshoot the problem: 
 
--   Make sure you are connected to the internet and that your game is up to date.
--   Make sure you are actively connected to Xbox Live. For more help, see [Troubleshoot your Xbox network connection](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-network-connection).
--   Restart the game and console.
--   If possible, reattempt the feat that gained you the achievement.
--   Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your console.
+- Make sure you are connected to the internet and that your game is up to date.
+- Make sure you are actively connected to Xbox Live. For more help, see [Troubleshoot your Xbox network connection](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-network-connection).
+- Restart the game and console.
+- If possible, reattempt the feat that gained you the achievement.
+- Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your console.
 
 ### Minecraft: Bedrock Edition for PlayStation® 4 or Nintendo Switch 
 
 Please allow up to 24 hours for the achievement to display. After that, if achievements are still not displaying in-game for you, follow these steps to troubleshoot the problem: 
 
--   Make sure you are connected to the internet and that your game is up to date.
--   Restart the game and console.
--   If possible, reattempt the feat that gained you the achievement.
--   Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
+- Make sure you are connected to the internet and that your game is up to date.
+- Restart the game and console.
+- If possible, reattempt the feat that gained you the achievement.
+- Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
 
 ### Minecraft: Bedrock Edition for Android, Chromebook, and iOS
 
 Please allow up to 24 hours for the achievement to display. After that, if achievements are still not displaying in-game for you, follow these steps to troubleshoot the problem: 
 
--   Make sure you are connected to the internet and that your game is up to date.
--   Restart the game and your device.
--   If possible, reattempt the feat that gained you the achievement.
--   Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
+- Make sure you are connected to the internet and that your game is up to date.
+- Restart the game and your device.
+- If possible, reattempt the feat that gained you the achievement.
+- Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
 
 If you still need assistance, please contact [Minecraft Support](https://aka.ms/Minecraft-Support).

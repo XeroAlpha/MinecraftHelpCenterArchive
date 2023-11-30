@@ -7,10 +7,10 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859587017101
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/14755561356685-Minecraft-Legends-Unit-Types-
+link: https://help.minecraft.net/hc/en-us/articles/14755561356685-Minecraft-Legends-Unit-Types-
 ---
 
-Minecraft Legends features a vast array of units to command. Beating the piglins requires a deep understanding of each unit's strengths and weaknesses. This article details the various unit types you can acquire and how they're best used to win any encounter!
+Minecraft Legends features a vast array of units to command. Beating the piglins requires a deep understanding of each unit’s strengths and weaknesses. This article details the various unit types you can acquire and how they’re best used to win any encounter!
 
 **Note: This article spoils units that you unlock later in the game. If you want the unit types to remain a surprise, we suggest you play through the game before reading onward.**
 
@@ -28,7 +28,7 @@ Grindstone golems bust through large groups of lower rank piglins, making them a
 
 ## Mossy Golem
 
-Mossy golems don't attack enemies. Instead, they heal your units by spraying them with restorative water.
+Mossy golems don’t attack enemies. Instead, they heal your units by spraying them with restorative water.
 
 ## Zombie
 
@@ -36,8 +36,8 @@ Zombies can take a ton of damage, making them great unit to lead the charge into
 
 ## Skeleton
 
-Skeletons are much more powerful ranged units than plank golems, though they don't attack nearly as fast. These units stand at the edge of a fight and fire arrow volleys into enemy lines. 
+Skeletons are much more powerful ranged units than plank golems, though they don’t attack nearly as fast. These units stand at the edge of a fight and fire arrow volleys into enemy lines. 
 
 ## Creeper
 
-Creepers are just as you'd expect -- fantastic units for blowing up enemy structures in a hurry. However, they're gone after one use, so make sure to command these special units effectively.
+Creepers are just as you’d expect – fantastic units for blowing up enemy structures in a hurry. However, they’re gone after one use, so make sure to command these special units effectively.

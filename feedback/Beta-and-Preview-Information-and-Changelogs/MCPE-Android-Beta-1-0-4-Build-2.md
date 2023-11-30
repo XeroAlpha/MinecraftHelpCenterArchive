@@ -13,8 +13,8 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 
 <div>
 
--   Added the Storage screen in Settings to manage worlds, resource packs, and behavior packs
--   Music and sounds can now be changed using resource packs
+- Added the Storage screen in Settings to manage worlds, resource packs, and behavior packs
+- Music and sounds can now be changed using resource packs
 
 </div>
 
@@ -28,8 +28,8 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 
 <div>
 
--   Addition of CDN to reduce game file sizes
--   Added low render distance options for older devices
+- Addition of CDN to reduce game file sizes
+- Added low render distance options for older devices
 
 </div>
 
@@ -43,35 +43,35 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 
 <div>
 
--   Achievements will no longer unlock in Survival if Behavior Packs are used
--   Field of View will now increase properly when sprinting and Field of View is set to max in the settings
--   Chorus Plants will now fully break above the part that it was broken
--   The game no longer needs to be restarted before a shader pack is applied
--   If there is a problem with an Add-On\'s manifest when imported, the warning message will now appear properly
--   The host will no longer crash when another player accepts a resource pack while joining a game
--   Resource packs are no longer duplicated when a dependent resource pack is added before a behavior pack
--   Fixed crashes when using Anvils, Brewing Stands, and Furnaces
--   Fixed Gear VR worlds and Android worlds not showing up in each other\'s world list
--   Fixed a crash when using Elytra
--   Villagers will no longer do farming work if they\'re not a farmer
--   Villagers are less greedy and will no longer immediately pick up items thrown at them
--   Villagers are even less greedy and will now throw food for other Villagers
--   Villagers have become chattier when trading
--   Cured zombie villagers will now receive a job and have things to trade
--   Villagers will no longer walk away while trading
--   Fixed a crash when importing a duplicate resource or behavior pack
--   Fixed items sticking around in Item Frames after being destroyed
--   Reloading a world will no longer turn thunder and rain into just rain
--   Fixed the placement of health and armor on the HUD
--   \"\"DIAMONDS!\"\" and \"\"Body Guard\"\" achievements will now properly unlock in Survival mode
--   Enchantments can now be seen on items before a trade is made with Villagers
--   Middle mouse clicking on a leaf block will always give you the right type of leaf now
--   Various texture fixes
--   Fixed graphical issues with HUD Add-Ons showing the player
--   Ghasts will no longer spawn in tiny spaces
--   Fixed a drop in performance when holding a Map
--   Armor will render properly in worlds that no longer have resource packs applied
--   Fixed texture overlapping with Enchanted Books when trading with Villagers
+- Achievements will no longer unlock in Survival if Behavior Packs are used
+- Field of View will now increase properly when sprinting and Field of View is set to max in the settings
+- Chorus Plants will now fully break above the part that it was broken
+- The game no longer needs to be restarted before a shader pack is applied
+- If there is a problem with an Add-On's manifest when imported, the warning message will now appear properly
+- The host will no longer crash when another player accepts a resource pack while joining a game
+- Resource packs are no longer duplicated when a dependent resource pack is added before a behavior pack
+- Fixed crashes when using Anvils, Brewing Stands, and Furnaces
+- Fixed Gear VR worlds and Android worlds not showing up in each other's world list
+- Fixed a crash when using Elytra
+- Villagers will no longer do farming work if they're not a farmer
+- Villagers are less greedy and will no longer immediately pick up items thrown at them
+- Villagers are even less greedy and will now throw food for other Villagers
+- Villagers have become chattier when trading
+- Cured zombie villagers will now receive a job and have things to trade
+- Villagers will no longer walk away while trading
+- Fixed a crash when importing a duplicate resource or behavior pack
+- Fixed items sticking around in Item Frames after being destroyed
+- Reloading a world will no longer turn thunder and rain into just rain
+- Fixed the placement of health and armor on the HUD
+- ""DIAMONDS!"" and ""Body Guard"" achievements will now properly unlock in Survival mode
+- Enchantments can now be seen on items before a trade is made with Villagers
+- Middle mouse clicking on a leaf block will always give you the right type of leaf now
+- Various texture fixes
+- Fixed graphical issues with HUD Add-Ons showing the player
+- Ghasts will no longer spawn in tiny spaces
+- Fixed a drop in performance when holding a Map
+- Armor will render properly in worlds that no longer have resource packs applied
+- Fixed texture overlapping with Enchanted Books when trading with Villagers
 
 </div>
 

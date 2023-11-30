@@ -16,17 +16,17 @@ tags:
   - platform_macOS
   - platform_xbox_series_x/s
   - section_12617893243277
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/8969841895693-Username-History-API-Removal-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/8969841895693-Username-History-API-Removal-FAQ-
 ---
 
-As of September 13th, we have removed public access to Minecraft's Username History API endpoint to improve the player experience. Please read through this FAQ for more details on what this means for your Minecraft experience.
+As of September 13th, we have removed public access to Minecraft’s Username History API endpoint to improve the player experience. Please read through this FAQ for more details on what this means for your Minecraft experience.
 
 # In This Article:
 
--   [What is this API endpoint, and why is access being removed?](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XKCKPK57HZXJ8KNHB2ZZ)
--   [What impact will this API removal have on players? ](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XRM74K771M9BC0R54N13)
--   [When will the access to the API be removed? ](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XY5R1495E1T1KX3ATCBZ)
--   [Will Mojang replace this API endpoint with something else?](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5Y50RH691S208WQ1W5D36)
+- [What is this API endpoint, and why is access being removed?](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XKCKPK57HZXJ8KNHB2ZZ)
+- [What impact will this API removal have on players? ](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XRM74K771M9BC0R54N13)
+- [When will the access to the API be removed? ](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5XY5R1495E1T1KX3ATCBZ)
+- [Will Mojang replace this API endpoint with something else?](https://help.minecraft.net/hc/en-us/articles/8969841895693#h_01GCA5Y50RH691S208WQ1W5D36)
 
 ## What is this API endpoint, and why is access being removed?
 
@@ -44,4 +44,4 @@ Access is removed as of September 13th.
 
 ## Will Mojang replace this API endpoint with something else?
 
-There are currently no plans to provide an official solution for looking up another player's Java profile name history.
+There are currently no plans to provide an official solution for looking up another player’s Java profile name history.

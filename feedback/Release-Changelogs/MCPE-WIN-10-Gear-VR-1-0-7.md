@@ -14,28 +14,28 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168671-MCPE-WIN-10-
 
 If you find any bugs, be sure to [report them here!](https://bugs.mojang.com/secure/Dashboard.jspa) Click here to give us feedback & tell us what you think about the update.
 
-\
+  
 **New Features:**
 
--   Fallout Mash-up Pack
+- Fallout Mash-up Pack
 
-\
+  
 **Tweaks:**
 
--   Added a warning if a resource pack cannot find the textures list file
+- Added a warning if a resource pack cannot find the textures list file
 
-\
+  
 **Bug Fixes:**
 
--   The Wither is now one of the paintings you can get!
--   Fixed a crash that happened when a mob effect that doesn\'t exist is applied to a melee attack using Add-On
--   Fixed the screen getting cut-off on smaller screens for the Redstone Mansion store description
--   TNT no longer does damage to a player if the TNT is in water
--   Fixed several skins on the Festive mash-up pack that appeared corrupted
--   After a world with a texture/resource pack is uploaded to a Realm, the texture/resource pack is again displayed correctly. This also fixes the health & hunger bars
--   Crashes shouldn\'t cause you to lose a lot of your progress anymore
--   Fixed the quartz slab in the Candy texture pack
--   Minecarts no longer bounce indefinitely on slime blocks
+- The Wither is now one of the paintings you can get!
+- Fixed a crash that happened when a mob effect that doesn't exist is applied to a melee attack using Add-On
+- Fixed the screen getting cut-off on smaller screens for the Redstone Mansion store description
+- TNT no longer does damage to a player if the TNT is in water
+- Fixed several skins on the Festive mash-up pack that appeared corrupted
+- After a world with a texture/resource pack is uploaded to a Realm, the texture/resource pack is again displayed correctly. This also fixes the health & hunger bars
+- Crashes shouldn't cause you to lose a lot of your progress anymore
+- Fixed the quartz slab in the Candy texture pack
+- Minecarts no longer bounce indefinitely on slime blocks
 
 <div>
 

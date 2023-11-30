@@ -5,18 +5,18 @@ updated: 2023-01-23T17:22:11Z
 categories: Dungeons Technical
 tags:
   - section_12618340057613
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ
 ---
 
 In This Article
 
-[**Minecraft Dungeons: Signing into a Microsoft Account for Online Multiplayer on Nintendo Switch and PlayStation®**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WE0BXF0HRB6K9NMWNY9GN) 
+[**Minecraft Dungeons: Signing into a Microsoft Account for Online Multiplayer on Nintendo Switch and PlayStation®**](#minecraftdungeons-signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation) 
 
-[**Minecraft Unified Launcher**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WEBBKY6KRF2182166QGDT) 
+[**Minecraft Unified Launcher**](#minecraftunifiedlauncher) 
 
-[**Manually Update Minecraft Dungeons**](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WEN7BM1GT5NQW3HHP7791) 
+[**Manually Update Minecraft Dungeons**](#manuallyupdate-minecraft-dungeons) 
 
-**[How to Install Downloadable Content and Hero Pass Content ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7YV7K7EH5V6H1J6ZH67X8Z)**
+**[How to Install Downloadable Content and Hero Pass Content ](#how-to-install-downloadable-content-and-hero-pass-content)**
 
  
 
@@ -24,7 +24,7 @@ In This Article
 
 To play online multiplayer and cross-platform play in Minecraft Dungeons on Nintendo Switch and PlayStation® consoles, you need to log in to the game using a Microsoft Account. This section explains how to log in and begin adding friends to play together online. 
 
-If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](https://help.minecraft.net/hc/en-us/articles/4408968616077-How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account). 
+If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md). 
 
 **Note:** A valid [Nintendo Switch Online](https://www.nintendo.com/switch/online-service) membership is also required to play online on Nintendo Switch, or a [PlayStation Plus](https://www.playstation.com/ps-plus) membership for PlayStation® consoles. 
 
@@ -43,7 +43,7 @@ If you do not have a Microsoft Account, you can create one for free by following
 4.  If you choose not to link your accounts, you may unlink at any time in the Game Settings menu by selecting **Configure Online Play**. You can also log out of your Microsoft Account from this screen at any time. ![mceclip5.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4409834853261/mceclip5.png)
 5.  From the main menu and Hero select screen, press the L and R or L1 and R1 buttons to switch between **Online Game** and **Offline Game**. After you select **Online Game**, you can add friends by selecting **Add Friend** and searching for their gamertags
 
-You can join friends\' game sessions from the main menu, or you can invite them to your own game session:
+You can join friends' game sessions from the main menu, or you can invite them to your own game session:
 
 1.  Select **Friends** from **The Camp** after starting an online game
 2.  Select the friend whose session you want to join
@@ -58,11 +58,11 @@ As of December 2020, the Minecraft Unified Launcher supports both Microsoft and 
 
 #### **What is the unified Minecraft Launcher?** 
 
-In December 2020, we created a single unified Minecraft Launcher from which players can launch both Minecraft: Java Edition and Minecraft Dungeons. The banner you're seeing at the bottom of your game directs you to the link where you can install this launcher. Moving to the launcher is required and centralizes your launchers for Minecraft games. 
+In December 2020, we created a single unified Minecraft Launcher from which players can launch both Minecraft: Java Edition and Minecraft Dungeons. The banner you’re seeing at the bottom of your game directs you to the link where you can install this launcher. Moving to the launcher is required and centralizes your launchers for Minecraft games. 
 
 #### **How can I get this new unified launcher?** 
 
-If you're already running the Minecraft Launcher, the update will download automatically when
+If you’re already running the Minecraft Launcher, the update will download automatically when
 
 you start the program. If you currently have only the Minecraft Dungeons Launcher, you can [download the new Minecraft Launcher](https://www.minecraftdungeons.net/download/). 
 
@@ -72,7 +72,7 @@ As of January 18, 2021, the new launcher is required to access Minecraft Dungeon
 
 #### **I own the game on the Microsoft Store. Where is the launcher?** 
 
-The launcher is not available for players who purchased the game from the Microsoft Store or anyone playing through Xbox Game Pass for PC. The launcher is a delivery vehicle for getting the game onto your computer. Because the Microsoft Store handles all downloading, installing, and updating, the Unified Launcher is not available there. However, you can use the [Minecraft Launcher for Windows](https://help.minecraft.net/hc/en-us/articles/4412261881229-Minecraft-Launcher-for-Windows-) to access the Microsoft Store and Game Pass versions of Dungeons.
+The launcher is not available for players who purchased the game from the Microsoft Store or anyone playing through Xbox Game Pass for PC. The launcher is a delivery vehicle for getting the game onto your computer. Because the Microsoft Store handles all downloading, installing, and updating, the Unified Launcher is not available there. However, you can use the [Minecraft Launcher for Windows](../Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-for-Windows.md) to access the Microsoft Store and Game Pass versions of Dungeons.
 
 #### **How do I sign into my accounts?** 
 
@@ -134,7 +134,7 @@ For information on the latest updates and changes, check out [Minecraft Dunge
 
 #### **How do I Find My Current Version Number?** 
 
-You can find the version number at the top left of the **Settings** screen in Minecraft Dungeons. \
+You can find the version number at the top left of the **Settings** screen in Minecraft Dungeons.   
  **Nintendo Switch**
 
 1.  Navigate to the **Minecraft Dungeons** icon
@@ -146,7 +146,7 @@ If there is an update, it will appear on this screen. 
 
 If you still cannot update Minecraft Dungeons, contact [Nintendo Support](https://en-americas-support.nintendo.com/). 
 
-#### **PlayStation**^®^
+#### **PlayStation**<sup>®</sup>
 
 Minecraft Dungeons should update automatically. If updates are not set to automatic on your game,
 
@@ -154,11 +154,11 @@ Minecraft Dungeons should update automatically. If updates are not set to auto
 2.  Click **Options**
 3.  Click **Check for Update**
 
-If you still cannot update Minecraft Dungeons, contact [PlayStation^®^ Support](https://www.playstation.com/en-us/support/?smcid=pdc%3Aen-us%3Agames-minecraft-dungeons%3Aprimary%20nav%3Amsg-support%3Asupport). 
+If you still cannot update Minecraft Dungeons, contact [PlayStation<sup>®</sup> Support](https://www.playstation.com/en-us/support/?smcid=pdc%3Aen-us%3Agames-minecraft-dungeons%3Aprimary%20nav%3Amsg-support%3Asupport). 
 
 #### **Windows 10 and above**
 
-Minecraft Dungeons should update to the latest version automatically. If it doesn't update: 
+Minecraft Dungeons should update to the latest version automatically. If it doesn’t update: 
 
 1.  Open Microsoft Store,
 2.  Click the three dots in the top right corner and then
@@ -167,12 +167,12 @@ Minecraft Dungeons should update to the latest version automatically. If it doe
 
 All your installed applications should update (including Minecraft Dungeons). 
 
-If you still cannot update Minecraft Dungeons, contact [Minecraft Support](https://aka.ms/Minecraft-Support). \
-\
+If you still cannot update Minecraft Dungeons, contact [Minecraft Support](https://aka.ms/Minecraft-Support).   
+  
 **Windows Launcher** 
 
-Open the Minecraft Launcher. If there is an update to the game, the green **Play** button will say **Update**. Click that button to update. \
-\
+Open the Minecraft Launcher. If there is an update to the game, the green **Play** button will say **Update**. Click that button to update.   
+  
  **Xbox Series X\|S and Xbox One:** 
 
 1.  Go to **My Apps & Games**
@@ -187,7 +187,7 @@ If you still cannot update Minecraft Dungeons, contact [Xbox Support](https://s
 
 ## **How to Install Downloadable Content and Hero Pass Content** 
 
-If you purchased Hero Edition, Season Pass, or any downloadable content (DLC) individually and cannot access the extra content in-game, it\'s possible that Hero Pass is not installed. Follow the steps below to make sure your DLC is properly installed on your device. 
+If you purchased Hero Edition, Season Pass, or any downloadable content (DLC) individually and cannot access the extra content in-game, it's possible that Hero Pass is not installed. Follow the steps below to make sure your DLC is properly installed on your device. 
 
 #### **Windows 10** **and above**
 

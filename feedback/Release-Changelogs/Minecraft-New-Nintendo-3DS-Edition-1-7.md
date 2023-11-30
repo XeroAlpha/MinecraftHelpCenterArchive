@@ -8,61 +8,61 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360015936372-Minecraft-New-Nintendo-3DS-Edition-1-7
 ---
 
-Welcome to Version 1.7! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
+Welcome to Version 1.7! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)  
 [Click here](http://feedback.minecraft.net/) to give us feedback & tell us what you think about the update
 
  
 
--   New Features:
+- New Features:
 
--   -   The End
-    -   End City
-    -   End Ship
+- - The End
+  - End City
+  - End Ship
 
--   New Content available for purchase
+- New Content available for purchase
 
--   -   Natural Texture Pack
-    -   Villains Skin Pack
-    -   Star Wars Prequel Skin Pack
-    -   Stranger Things Skin Pack
+- - Natural Texture Pack
+  - Villains Skin Pack
+  - Star Wars Prequel Skin Pack
+  - Stranger Things Skin Pack
 
--   New Blocks/Items
+- New Blocks/Items
 
--   -   Ender Chest
-    -   Dragon Head
-    -   End Portal
-    -   End Stone Brick
-    -   Dragon Breath
-    -   End Crystal
-    -   Eye of Ender
-    -   Lingering Potion
-    -   End Stone Brick
-    -   Ender Pearl
-    -   Dragon Egg
-    -   Chorus Flower
-    -   Chorus Tree
-    -   Chorus Fruit
-    -   Popped Chorus Fruit
-    -   Shulker Shell
-    -   Purpur Block, Pillar, Slab and Stairs
-    -   End Gateway Block
-    -   End Rod
-    -   Exit Portal
-    -   Spawn Eggs(Endermite, Polar Bear, Shulker)
-    -   Elytra
+- - Ender Chest
+  - Dragon Head
+  - End Portal
+  - End Stone Brick
+  - Dragon Breath
+  - End Crystal
+  - Eye of Ender
+  - Lingering Potion
+  - End Stone Brick
+  - Ender Pearl
+  - Dragon Egg
+  - Chorus Flower
+  - Chorus Tree
+  - Chorus Fruit
+  - Popped Chorus Fruit
+  - Shulker Shell
+  - Purpur Block, Pillar, Slab and Stairs
+  - End Gateway Block
+  - End Rod
+  - Exit Portal
+  - Spawn Eggs(Endermite, Polar Bear, Shulker)
+  - Elytra
 
--   New Entities
+- New Entities
 
--   -   Ender Dragon
-    -   Endermite
-    -   Polar Bear
-    -   Shulker
+- - Ender Dragon
+  - Endermite
+  - Polar Bear
+  - Shulker
 
--   Additional Achievements
+- Additional Achievements
 
--   Improved stability and performance
+- Improved stability and performance
 
--   Numerous bug fixes from previous builds
+- Numerous bug fixes from previous builds
 
  
 

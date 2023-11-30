@@ -14,6 +14,6 @@ Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com
 
 **Fixes:**
 
--   Fixed several crashes that could occur during gameplay
--   Fixed a bug on certain flat worlds where below-0 terrain was accidentally being removed on level load, if there was bedrock at y=0 ([MCPE-156679](https://bugs.mojang.com/browse/MCPE-156679), [MCPE-156698](https://bugs.mojang.com/browse/MCPE-156698))
--   Mobs that teleport through a Nether portal with a destination above y=128 will no longer have their position adjusted to 128 ([MCPE-155465](https://bugs.mojang.com/browse/MCPE-155465))
+- Fixed several crashes that could occur during gameplay
+- Fixed a bug on certain flat worlds where below-0 terrain was accidentally being removed on level load, if there was bedrock at y=0 ([MCPE-156679](https://bugs.mojang.com/browse/MCPE-156679), [MCPE-156698](https://bugs.mojang.com/browse/MCPE-156698))
+- Mobs that teleport through a Nether portal with a destination above y=128 will no longer have their position adjusted to 128 ([MCPE-155465](https://bugs.mojang.com/browse/MCPE-155465))

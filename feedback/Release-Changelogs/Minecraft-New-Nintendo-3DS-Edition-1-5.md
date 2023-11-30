@@ -10,7 +10,7 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004593551-Minecraft-New-Nintendo-3DS-Edition-1-5
 ---
 
-If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
+If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)  
 [Click here](http://feedback.minecraft.net/) to give us feedback & tell us what you think about the update. 
 
 **Note:** Please remember that the game is not backwards compatible from this patch and deleting this patch on your system after it is applied will make all saves created with this patch unusable. If you accidentally deleted the patch, downloading and applying the patch again will enable your save data to become usable.
@@ -19,11 +19,11 @@ If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
 
 **New Features**
 
--   Added Super Mario Mash-up pack
--   Cartoon and Fantasy texture packs are available for purchase
--   Campfire Tales, City Folk and Town Folk Skin packs are available for purchase
+- Added Super Mario Mash-up pack
+- Cartoon and Fantasy texture packs are available for purchase
+- Campfire Tales, City Folk and Town Folk Skin packs are available for purchase
 
 **Bug Fixes**
 
--   Improved stability and performance
--   Numerous bug fixes from previous builds
+- Improved stability and performance
+- Numerous bug fixes from previous builds

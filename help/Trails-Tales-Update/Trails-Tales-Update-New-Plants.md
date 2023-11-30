@@ -25,7 +25,7 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/16476343194893-Trails-Tales-Update-New-Plants
+link: https://help.minecraft.net/hc/en-us/articles/16476343194893-Trails-Tales-Update-New-Plants
 ---
 
 The Trails & Tales Update brings with a few new plants to grow and interact with! Read on for more details.
@@ -42,4 +42,4 @@ The pitcher plant begins as a seed pod, and you can plant it on farmland to watc
 
 Once fully grown, you can harvest the pitcher and place it as you would a normal Minecraft flower!
 
-There's much more to discover with these new plants and Minecraft's new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!
+There’s much more to discover with these new plants and Minecraft’s new Trails & Tales Update as a whole! Check out some of our other articles for more details, or keep playing the game to uncover more secrets!

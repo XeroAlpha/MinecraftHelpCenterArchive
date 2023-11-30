@@ -10,6 +10,6 @@ January 8, 2019
 
 **Fixes:**
 
--   This hotfix addresses an issue with saving to disk on Nintendo Switch. Other platforms received the update to fix worlds not loading when downloaded from Realms
+- This hotfix addresses an issue with saving to disk on Nintendo Switch. Other platforms received the update to fix worlds not loading when downloaded from Realms
 
 If you missed a previous update, check out [aka.ms/MCChangelogs](https://aka.ms/MCChangelogs) for a full list of updates.

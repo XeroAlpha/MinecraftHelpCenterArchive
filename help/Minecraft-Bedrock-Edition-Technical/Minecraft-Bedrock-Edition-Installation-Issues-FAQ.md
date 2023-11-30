@@ -26,25 +26,25 @@ tags:
   - section_12617893243277
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ
 ---
 
 *This article addresses installation and update issues for Minecraft: Bedrock Edition. If you need assistance with Minecraft: Java Edition installation* issues,* See the [Java Installation Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4409225939853).*
 
 # In This Article: 
 
--   [What are the device requirements to run Minecraft: Bedrock Edition?  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01FFGQHFARYP67X5MV72G1T8TN)
--   [How to Manually Update Minecraft: Bedrock Edition  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01FFGQHMP7SE5T5JQHB3068226)
-    -   [How do I find my current version number?  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56Q5S2N0XE3Z7726YQXMQE)
-    -   [iOS/Android  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56QNWA5EZ7TCM9SWZHMDD8)
-    -   [PlayStation®   ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56R2B0G586WZMGMWJDWK53)
-    -   [Windows 10 and above   ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56R7GYEQH7W0N2Z1MB7769)
-    -   [Xbox  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56RG9VK5V1MDXPXBE9QR1E)
-    -   [Chromebook](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GVK1A33C3DRNKJAWZSWHYMFW)
--   [Uninstall Minecraft: Bedrock Edition Versions ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01FFGQHTYVH5M7K1KNCYR070HR)
-    -   [Mobile devices  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56PH4PK9M9WQC8R5EC4MQJ)
-    -   [Console  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56PV3EE3EQ4GPS4115SGMB)
-    -   [Minecraft: Bedrock Edition for Windows ](https://minecrafthelp.zendesk.com/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ#h_01GK56PZR7NK68W4QGMH37CDTF)
+- [What are the device requirements to run Minecraft: Bedrock Edition?  ](#what-are-the-device-requirements-to-run-minecraft-bedrock-edition)
+- [How to Manually Update Minecraft: Bedrock Edition  ](#how-to-manually-update-minecraft-bedrock-edition)
+  - [How do I find my current version number?  ](#how-do-i-find-my-current-version-number)
+  - [iOS/Android  ](#iosandroid)
+  - [PlayStation®   ](#playstation-1)
+  - [Windows 10 and above   ](#minecraft-bedrock-edition-for-windows-10and-above)
+  - [Xbox  ](#xbox-1)
+  - [Chromebook](#chromebook)
+- [Uninstall Minecraft: Bedrock Edition Versions ](#uninstall-minecraft-bedrock-edition)
+  - [Mobile devices  ](#mobile-devices)
+  - [Console  ](#console)
+  - [Minecraft: Bedrock Edition for Windows ](#minecraft-bedrock-edition-for-windows-1)
 
 ## What are the device requirements to run Minecraft: Bedrock Edition?  
 
@@ -54,27 +54,27 @@ Minecraft: Bedrock Edition is playable on multiple platforms, each with its ow
 
 *Minecraft: Bedrock Edition for Android devices can be downloaded and purchased from the Play Store. Follow the download and install instructions provided there.* 
 
--   Download and installation size varies by device 
--   Access the list of accounts in the Accounts Service   
--   Read from external storage   
--   Minimum Operating System: Android 5 \"Lollipop\" 
--   RAM: more than 1 GB
--   Android devices are cross-platform compatible   
+- Download and installation size varies by device 
+- Access the list of accounts in the Accounts Service   
+- Read from external storage   
+- Minimum Operating System: Android 5 "Lollipop" 
+- RAM: more than 1 GB
+- Android devices are cross-platform compatible   
 
 ### iOS/iPadOS Devices   
 
 *Minecraft for iOS/iPadOS can be downloaded and purchased from the App Store. Follow the download and install instructions provided there. *  
 
--   Size: 926.7 MB   
--   Requires iOS/iPadOS 11 or later
--   Compatible with iPhone, iPad, and iPod touch 
+- Size: 926.7 MB   
+- Requires iOS/iPadOS 11 or later
+- Compatible with iPhone, iPad, and iPod touch 
 
 ### Nintendo   
 
 *Minecraft for Nintendo Switch can be downloaded and purchased from the Nintendo eShop. Follow the download and install instructions provided there.* 
 
--   Game file size: 1.2 GB   
--   Supported Play Modes: TV mode, Tabletop mode, Handheld mode   
+- Game file size: 1.2 GB   
+- Supported Play Modes: TV mode, Tabletop mode, Handheld mode   
 
 ### PlayStation®   
 
@@ -82,10 +82,10 @@ Minecraft: Bedrock Edition is playable on multiple platforms, each with its ow
 
 You can play Minecraft: Bedrock Edition for PlayStation® on the following consoles:  
 
--   PS4™
--   PS4 Pro ™
--   PS5™
--   PlayStation® VR  
+- PS4™
+- PS4 Pro ™
+- PS5™
+- PlayStation® VR  
 
 ### Minecraft: Bedrock Edition for Windows   
 
@@ -93,25 +93,25 @@ You can play Minecraft: Bedrock Edition for PlayStation® on the following c
 
 #### Minimum Requirements   
 
-  -------------- -----------------------------------------
-  OS             Windows 10 version 19041.0 or higher
-  Architecture   ARM, x64, x86
-  Graphics       Intel HD Graphics 4000 \| AMD Radeon R5
-  Processor      Intel Celeron J4105 \| AMD FX-4100
-  DirectX        Version 11
-  Memory         4 GB
-  -------------- -----------------------------------------
+|              |                                         |
+|--------------|-----------------------------------------|
+| OS           | Windows 10 version 19041.0 or higher    |
+| Architecture | ARM, x64, x86                           |
+| Graphics     | Intel HD Graphics 4000 \| AMD Radeon R5 |
+| Processor    | Intel Celeron J4105 \| AMD FX-4100      |
+| DirectX      | Version 11                              |
+| Memory       | 4 GB                                    |
 
 #### Recommended Requirements   
 
-  -------------- --------------------------------------------
-  OS             Windows 10 version 19041.0 or higher
-  Architecture   ARM, x64, x86
-  Graphics       NVIDIA GeForce 940M \| AMD Radeon HD 8570D
-  Processor      Intel i7-6500U \| AMD A8-6600K
-  DirectX        Version 11
-  Memory         8 GB
-  -------------- --------------------------------------------
+|              |                                            |
+|--------------|--------------------------------------------|
+| OS           | Windows 10 version 19041.0 or higher       |
+| Architecture | ARM, x64, x86                              |
+| Graphics     | NVIDIA GeForce 940M \| AMD Radeon HD 8570D |
+| Processor    | Intel i7-6500U \| AMD A8-6600K             |
+| DirectX      | Version 11                                 |
+| Memory       | 8 GB                                       |
 
 ### Xbox   
 
@@ -119,29 +119,29 @@ You can play Minecraft: Bedrock Edition for PlayStation® on the following c
 
 You can play Minecraft: Bedrock Edition for Xbox One on the following Xbox consoles:   
 
--   Xbox One  
--   Xbox One S  
--   Xbox One X  
--   Xbox Series S 
--   Xbox Series X     
+- Xbox One  
+- Xbox One S  
+- Xbox One X  
+- Xbox Series S 
+- Xbox Series X     
 
 ### Chromebook
 
-**Note: When trying to buy the game on Chromebook, some players viewing the Google Play Store on their browser may not see an option to purchase the game. If you\'re facing this issue, try heading to the native Play Store app to buy and install the game.**
+**Note: When trying to buy the game on Chromebook, some players viewing the Google Play Store on their browser may not see an option to purchase the game. If you're facing this issue, try heading to the native Play Store app to buy and install the game.**
 
 Minecraft: Bedrock Edition is [now on Chromebook](https://help.minecraft.net/hc/en-us/articles/13803752803725)! As a result, devices that meet these minimum requirements can run the game:
 
--   Operating System: ChromeOS 111
--   System Architecture: 64-bit (x86_64, arm64-v8a)
--   Processor: AMD A4-9120C, Intel Celeron N4000, Intel 3865U, Intel i3-7130U, Intel m3-8100Y, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
--   Memory: 4 GB RAM
--   Storage: Minimum of 1 GB game installation, maps, and other files
+- Operating System: ChromeOS 111
+- System Architecture: 64-bit (x86_64, arm64-v8a)
+- Processor: AMD A4-9120C, Intel Celeron N4000, Intel 3865U, Intel i3-7130U, Intel m3-8100Y, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
+- Memory: 4 GB RAM
+- Storage: Minimum of 1 GB game installation, maps, and other files
 
 If you meet these requirements and are looking to optimize your game further, please follow [this guide](https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft-) for some tips.
 
 ## How to Manually Update Minecraft: Bedrock Edition
 
-To play the newest content in Minecraft: Bedrock Edition, your game needs to be updated to the most recent version. This should happen automatically while your device is in standby mode or in use while connected to an active Internet connection. However, if you need to manually update your game, you'll find the instructions for your Minecraft: Bedrock Edition version listed below.   
+To play the newest content in Minecraft: Bedrock Edition, your game needs to be updated to the most recent version. This should happen automatically while your device is in standby mode or in use while connected to an active Internet connection. However, if you need to manually update your game, you’ll find the instructions for your Minecraft: Bedrock Edition version listed below.   
 
 ### How do I find my current version number?  
 
@@ -150,9 +150,9 @@ Find the version number on the bottom right of the Minecraft: Bedrock Edition ho
 ### iOS/Android  
 
 1.  Open the App Store or Google Play on your device 
-2.  Search for "Minecraft."  
+2.  Search for “Minecraft.”  
 
-If you own Minecraft: Bedrock Edition already you should be prompted to update the game if it isn't already updated. If you have the latest version installed, press **Open** and play.  
+If you own Minecraft: Bedrock Edition already you should be prompted to update the game if it isn’t already updated. If you have the latest version installed, press **Open** and play.  
 
 ### PlayStation®** **  
 
@@ -164,10 +164,10 @@ Minecraft: Bedrock Edition for PlayStation™ should update automatically. If 
 
 ### Minecraft: Bedrock Edition for Windows 10 and above   
 
-Minecraft: Bedrock Edition for Windows should update to the latest version automatically. If it doesn't update:  
+Minecraft: Bedrock Edition for Windows should update to the latest version automatically. If it doesn’t update:  
 
 1.  Open the Microsoft Store,  
-2.  Click the Library icon (three lines above \'Help\' on the left sidebar)
+2.  Click the Library icon (three lines above 'Help' on the left sidebar)
 3.  Click **Downloads and updates**. 
 4.  Click **Get updates** 
 
@@ -185,7 +185,7 @@ Any updates will be available here. If no updates are available here, your game 
 
 ## Uninstall Minecraft: Bedrock Edition 
 
-We\'re sorry to see you go, but we understand that sometimes you need to uninstall the game. We hope it's to install a different version or to install on a different platform! Here\'s what you need to know to uninstall Minecraft: Bedrock Edition. 
+We're sorry to see you go, but we understand that sometimes you need to uninstall the game. We hope it’s to install a different version or to install on a different platform! Here's what you need to know to uninstall Minecraft: Bedrock Edition. 
 
 ### Mobile devices  
 
@@ -193,7 +193,7 @@ The Minecraft: Bedrock Edition application is uninstalled the same way as other 
 
 ### Console  
 
-You can usually uninstall through your console's settings. If you need help, please contact your console's support team: [Xbox](https://support.xbox.com/en-US/), [PlayStation®](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/). 
+You can usually uninstall through your console’s settings. If you need help, please contact your console’s support team: [Xbox](https://support.xbox.com/en-US/), [PlayStation®](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/). 
 
 ### Minecraft: Bedrock Edition for Windows 
 

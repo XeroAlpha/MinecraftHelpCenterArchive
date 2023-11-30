@@ -7,14 +7,14 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859587017101
-link: https://minecrafthelp.zendesk.com/hc/en-us/articles/14745476548877-Minecraft-Legends-Improvement-Hub-Upgrades-
+link: https://help.minecraft.net/hc/en-us/articles/14745476548877-Minecraft-Legends-Improvement-Hub-Upgrades-
 ---
 
 **Note: This article spoils some of the Improvement Hub upgrades that you unlock later in the game. If you want the upgrades to remain a surprise, we suggest you play through the game before reading onward.**
 
 ## Resource Gathering
 
-Resource gathering improvements, such as 'Gather Iron,' 'Gather Redstone,' or 'Gather Diamond,' increase how many resources of one type you can hold. Upgrading certain resource types is a vital step toward building new structures.
+Resource gathering improvements, such as ‘Gather Iron,’ ‘Gather Redstone,’ or ‘Gather Diamond,’ increase how many resources of one type you can hold. Upgrading certain resource types is a vital step toward building new structures.
 
 ## Allay Storage
 
@@ -22,7 +22,7 @@ While specific resource-gathering improvements are required for rarer resources 
 
 ## Cure Netherrack
 
-Cure Netherrack provides allays with the ability to convert netherrack into a safe block for building structures on top of. It's a great way to push closer to an enemy base.
+Cure Netherrack provides allays with the ability to convert netherrack into a safe block for building structures on top of. It’s a great way to push closer to an enemy base.
 
 ## Flames of Creation
 
@@ -38,7 +38,7 @@ An essential early-game upgrade, the Shared Village Chests improvement ensures t
 
 ## Abundant Allays
 
-For each Abundant Allays improvement you build, you'll earn two additional build allays and two gather allays.
+For each Abundant Allays improvement you build, you’ll earn two additional build allays and two gather allays.
 
 ## Expert Carpentry
 
