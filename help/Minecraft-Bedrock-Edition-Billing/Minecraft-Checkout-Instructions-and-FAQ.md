@@ -14,8 +14,8 @@ link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Minecraft-Check
 
 **Note: Minecraft has a new purchasing flow based on your device. If you're looking to buy any version of Minecraft, please check out one of these two articles:**
 
-- **[I Want to Buy Minecraft on a Windows 10/11 Device – Home](https://help.minecraft.net/hc/en-us/articles/6660924652557-I-Want-to-Buy-Minecraft-on-a-Windows-10-11-Device)**
-- **[I Want to Buy Minecraft on a Non-Windows Device – Home](https://help.minecraft.net/hc/en-us/articles/6661712171405-I-Want-to-Buy-Minecraft-on-a-Non-Windows-Device)**
+- **[I Want to Buy Minecraft on a Windows 10/11 Device – Home](./I-Want-to-Buy-Minecraft-on-a-Windows-10-11-Device.md)**
+- **[I Want to Buy Minecraft on a Non-Windows Device – Home](./I-Want-to-Buy-Minecraft-on-a-Non-Windows-Device.md)**
 
 There’s a new, more inclusive way to buy Minecraft! From now on, anyone from anywhere in the world can buy Minecraft in just a few steps via [Minecraft.net](https://www.minecraft.net/en-us) using their local payment methods. 
 

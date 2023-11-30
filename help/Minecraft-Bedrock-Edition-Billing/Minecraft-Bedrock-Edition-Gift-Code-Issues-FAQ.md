@@ -8,7 +8,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ-
 ---
 
-*This article addresses Minecraft: Bedrock Edition gift code issues, see [Minecraft: Java Edition Gift Code Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ) for Minecraft: Java Edition gift code issues.*
+*This article addresses Minecraft: Bedrock Edition gift code issues, see [Minecraft: Java Edition Gift Code Issues FAQ](../Minecraft-Java-Edition-Billing/Minecraft-Java-Edition-Gift-Code-Issues-FAQ.md) for Minecraft: Java Edition gift code issues.*
 
 # In This Article:
 

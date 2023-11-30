@@ -35,7 +35,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ
 ---
 
-*This article refers to Realms for Minecraft: Bedrock Edition. If you need help with your subscription to Realms for Minecraft: Java Edition, See: [**Minecraft: Java Edition Realms Creation FAQ**](https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-#h_01FFK88ASN27R4JKF1CKN3K695)*
+*This article refers to Realms for Minecraft: Bedrock Edition. If you need help with your subscription to Realms for Minecraft: Java Edition, See: [**Minecraft: Java Edition Realms Creation FAQ**](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#downloading-your-realms-world)*
 
 **Note: Sharp-eyed players might notice a new Realms subscription in their Microsoft Store purchase history. If you see this, worry not! We're testing something on the backend, but your subscription will remain unaffected. **
 

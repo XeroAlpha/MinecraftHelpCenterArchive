@@ -62,7 +62,7 @@ This includes:
 
 Players who purchased Standard Edition and want to upgrade to the benefits of Ultimate Edition can purchase the Ultimate DLC Bundle for \$19.99 USD. 
 
-More details can be found in the [Ultimate Edition FAQ](https://help.minecraft.net/hc/en-us/articles/4405075936013-Minecraft-Dungeons-Ultimate-Edition-FAQ). 
+More details can be found in the [Ultimate Edition FAQ](../Dungeons-Billing/Minecraft-Dungeons-Ultimate-Edition-FAQ.md). 
 
 [Shop for Minecraft Dungeons editions and upgrades](https://www.minecraft.net/en-us/about-dungeons). 
 
@@ -114,7 +114,7 @@ Yes! Each mission in Minecraft Dungeons is a mix of procedural content and caref
 
 ### Are there any accessibility options in the game? 
 
-Mojang Studios is working hard to add features that make our games more accessible to all players. Minecraft Dungeons includes options for text-to-speech, subtitles, and adjusting enemy outline colors. A full, detailed list of accessibility features can be found at [Accessibility Settings for Minecraft Dungeons](https://help.minecraft.net/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons).
+Mojang Studios is working hard to add features that make our games more accessible to all players. Minecraft Dungeons includes options for text-to-speech, subtitles, and adjusting enemy outline colors. A full, detailed list of accessibility features can be found at [Accessibility Settings for Minecraft Dungeons](../Accessibility-Settings-for-Minecraft-and-Other-Minecraft-Games/Accessibility-Settings-for-Minecraft-Dungeons.md).
 
 ### Are there achievements in Minecraft Dungeons? 
 
@@ -132,7 +132,7 @@ No. Minecraft Dungeons is designed to be played together with your friends, eit
 
 ### How do I backup my save files? 
 
-There are several different ways of handling saved data for characters in Minecraft Dungeons, including Cloud Saves. See our article on  [Cloud Saves and Backing Up Heroes](https://help.minecraft.net/hc/en-us/articles/360043504492-Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes) for the full details on how to use this feature.
+There are several different ways of handling saved data for characters in Minecraft Dungeons, including Cloud Saves. See our article on  [Cloud Saves and Backing Up Heroes](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) for the full details on how to use this feature.
 
 ### Why is the launcher showing “Buy Now” when I have already purchased Minecraft Dungeons? 
 
@@ -285,7 +285,7 @@ The physical versions include everything that is included in their digital count
 
 With Minecraft Dungeons Ultimate Edition, you do not need to update the game to access extra content. All content is already contained on the disk/cartridge.
 
-With Minecraft Dungeons Hero Edition, yes, you must download an online update to access Hero Pass content, Jungle Awakens, and Creeping Winter, as well as the latest features and bug fixes. Please see [How to Update Minecraft Dungeons](https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WEN7BM1GT5NQW3HHP7791) for details on how to update the game for your platform.
+With Minecraft Dungeons Hero Edition, yes, you must download an online update to access Hero Pass content, Jungle Awakens, and Creeping Winter, as well as the latest features and bug fixes. Please see [How to Update Minecraft Dungeons](../Dungeons-Technical/Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons) for details on how to update the game for your platform.
 
 ### Is the standard edition of Minecraft Dungeons available as a physical version? 
 

@@ -36,7 +36,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360043504492-Minecraft-Dungeo
 
 ## **Cloud Saving** 
 
-Saving to the cloud is now available in Minecraft Dungeons. You can find the **Upload** and **Download** options on the **Switch Hero** menu. To access these options and play with your Heroes on different devices (across different platforms), ensure you are [signed in to your Microsoft Account](https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WE0BXF0HRB6K9NMWNY9GN), and that your [game is updated](https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WEN7BM1GT5NQW3HHP7791) to version 1.8.8.0 or later.  
+Saving to the cloud is now available in Minecraft Dungeons. You can find the **Upload** and **Download** options on the **Switch Hero** menu. To access these options and play with your Heroes on different devices (across different platforms), ensure you are [signed in to your Microsoft Account](./Minecraft-Dungeons-Download-and-Installation-FAQ.md#minecraftdungeons-signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation), and that your [game is updated](./Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons) to version 1.8.8.0 or later.  
 
 **What you need to know** 
 

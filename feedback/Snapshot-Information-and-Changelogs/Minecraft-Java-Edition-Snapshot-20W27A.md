@@ -5,7 +5,7 @@ categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360045288452-Minecraft-Java-Edition-Snapshot-20W27A
 ---
 
-It's time for another snapshot cycle as we make our way towards 1.16.2! This snapshot introduces the Piglin Brutes, and you might have heard about them in a [Bedrock beta](https://feedback.minecraft.net/hc/en-us/articles/360045006632-Minecraft-Beta-1-16-20-50-Xbox-One-Windows-10-Android-) already. 
+It's time for another snapshot cycle as we make our way towards 1.16.2! This snapshot introduces the Piglin Brutes, and you might have heard about them in a [Bedrock beta](../Beta-and-Preview-Information-and-Changelogs/Minecraft-Beta-1-16-20-50-Xbox-One-Windows-10-Android.md) already. 
 
 The Piglin Brutes will be the only feature addition of 1.16.2, the rest of these snapshots will be focused on fixing bugs.
 

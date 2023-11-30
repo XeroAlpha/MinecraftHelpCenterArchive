@@ -49,7 +49,7 @@ If you are having [trouble getting a friend to join your Minecraft Realms world]
 
 Having problems accessing other [Marketplace content](https://help.minecraft.net/hc/en-us/articles/4408963926541) you have purchased? Minecraft Support should be your go-to.
 
-For subscription changes, [refund requests](https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-Studios-Refund-Policy), or if you’re being overcharged for any purchase, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
+For subscription changes, [refund requests](../General-Billing/Mojang-Studios-Refund-Policy.md), or if you’re being overcharged for any purchase, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
 
 ## GDPR/Data Deletion requests
 

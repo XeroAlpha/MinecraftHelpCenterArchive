@@ -48,7 +48,7 @@ Refunds, troubleshooting, and technical support for Minecraft Dungeons on Steam 
 
 ## Is there cross-platform play?  
 
-Yes! [Cross-platform play](https://help.minecraft.net/hc/en-us/articles/360043512112-Minecraft-Dungeons-Multiplayer-and-Cross-Platform-Play) has been enabled so you can team up with friends across consoles and PC.   
+Yes! [Cross-platform play](../Dungeons-Technical/Minecraft-Dungeons-Multiplayer-and-Cross-Platform-Play.md) has been enabled so you can team up with friends across consoles and PC.   
 
 ## What about cross-platform saves?  
 
@@ -60,4 +60,4 @@ Yes, you still use a Microsoft account to play Dungeons on Steam. If you need to
 
 ## What do I get with Ultimate Edition and the Ultimate DLC Bundle? 
 
-Check out our FAQ for the complete contents of the [Minecraft Dungeons Ultimate Bundle](https://help.minecraft.net/hc/en-us/articles/4405075936013-Minecraft-Dungeons-Ultimate-Edition-FAQ).
+Check out our FAQ for the complete contents of the [Minecraft Dungeons Ultimate Bundle](./Minecraft-Dungeons-Ultimate-Edition-FAQ.md).

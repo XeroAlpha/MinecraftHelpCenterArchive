@@ -26,11 +26,11 @@ Each DLC pack must be purchased separately for each platform. Purchasing content
 
 ## How do I install DLC packs?
 
-Please check out [How to Install Downloadable Content and Hero Pass Content](https://help.minecraft.net/hc/en-us/articles/360043504492-Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes#h_01FANRXGYA9C05HZW6HRMG6W8Y) for a step-by-step guide on installing downloadable content for your platform.
+Please check out [How to Install Downloadable Content and Hero Pass Content](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md#download-heroes) for a step-by-step guide on installing downloadable content for your platform.
 
 ## How do I install game updates?
 
-Please check out [How to Update Minecraft Dungeons](https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WEN7BM1GT5NQW3HHP7791) that will guide you through how to update Minecraft Dungeons on your platform of choice so you can enjoy the latest new features and bug fixes.
+Please check out [How to Update Minecraft Dungeons](../Dungeons-Technical/Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons) that will guide you through how to update Minecraft Dungeons on your platform of choice so you can enjoy the latest new features and bug fixes.
 
 ## Does everyone need to own the DLC to play new missions together?
 
@@ -196,7 +196,7 @@ We’re not ready to reveal the upcoming DLC but you can get a pretty good idea 
 
 You must purchase each DLC pack separately for each platform. Purchasing content on one platform will not grant access on another platform. 
 
-**Note: If you purchased Minecraft for Windows from the Windows Store, be sure to purchase DLC from there. If you play the game via the [Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ#h_01FG7WEBBKY6KRF2182166QGDT), be sure to purchase any DLC through [minecraftdungeons.net](https://minecraftdungeons.net/). **
+**Note: If you purchased Minecraft for Windows from the Windows Store, be sure to purchase DLC from there. If you play the game via the [Minecraft Launcher](../Dungeons-Technical/Minecraft-Dungeons-Download-and-Installation-FAQ.md#minecraftunifiedlauncher), be sure to purchase any DLC through [minecraftdungeons.net](https://minecraftdungeons.net/). **
 
 ## Minecraft Dungeons Ultimate Edition
 

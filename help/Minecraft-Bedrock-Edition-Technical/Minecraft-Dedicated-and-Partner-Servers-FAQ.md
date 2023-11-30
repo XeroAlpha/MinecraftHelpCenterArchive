@@ -67,7 +67,7 @@ A dedicated Minecraft: Bedrock Edition server gives you the creative power to co
 
 ### WHO CAN PLAY ON MY DEDICATED SERVER? 
 
-Anyone playing on Minecraft: Bedrock Edition ([including Chromebook](https://help.minecraft.net/hc/en-us/articles/13803752803725)) will be able to connect to the server, with the current exception of Nintendo Switch users. Also, players on Xbox One can only connect through a LAN connection. If you're not sure if the edition you're playing on is Minecraft: Bedrock Edition, please visit the [Different Minecraft Editions](https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions) help article. 
+Anyone playing on Minecraft: Bedrock Edition ([including Chromebook](https://help.minecraft.net/hc/en-us/articles/13803752803725)) will be able to connect to the server, with the current exception of Nintendo Switch users. Also, players on Xbox One can only connect through a LAN connection. If you're not sure if the edition you're playing on is Minecraft: Bedrock Edition, please visit the [Different Minecraft Editions](../Minecraft-Bedrock-Edition-Billing/Different-Minecraft-Editions.md) help article. 
 
 ### HOW DO I DOWNLOAD THE DEDICATED MINECRAFT: BEDROCK EDITION SERVER SOFTWARE? 
 

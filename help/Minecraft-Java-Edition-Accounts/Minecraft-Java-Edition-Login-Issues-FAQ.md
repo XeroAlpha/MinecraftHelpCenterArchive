@@ -128,7 +128,7 @@ Some options you can try:  
 
 If your attempts to log in are unsuccessful multiple times, and you have already changed your password, you might have to wait 24 hours before the account can be authenticated again. If your problem is not resolved after 24 hours, contact [Minecraft Support](https://aka.ms/Minecraft-Support).  
 
-**Note**: If you see a technical error message when you try to log in to the launcher, visit our [technical Help resources](https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting).   
+**Note**: If you see a technical error message when you try to log in to the launcher, visit our [technical Help resources](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Troubleshooting.md).   
 
 ### I’m Having Trouble with my Security Questions 
 
@@ -136,7 +136,7 @@ You can reset your security questions from your [Mojang account settings](
 
 If you do not receive the email to reset your security questions, check our list of reasons why you  [Cannot Receive Mojang System Emails](https://help.minecraft.net/hc/en-us/articles/360034636412-Cannot-Get-Mojang-System-Emails).  
 
-If you continue to have problems with resetting your security questions, contact [Minecraft Support ](https://aka.ms/Minecraft-Support)with proof of account ownership. This can be your [transaction ID or gift code](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-).  
+If you continue to have problems with resetting your security questions, contact [Minecraft Support ](https://aka.ms/Minecraft-Support)with proof of account ownership. This can be your [transaction ID or gift code](../General-Billing/What-is-a-Transaction-ID.md).  
 
 ### I Need to Change or Recover my Registered Email Address  
 
@@ -200,7 +200,7 @@ If you are still having issues selecting a unique name, contac
 
 ### Forgot Password and Don’t Have Access to Your Original Account Email  
 
-The Minecraft team can help! We will need an alternate form of verification to make sure that you own the account. The most helpful is the [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) you received when you purchased the game.  
+The Minecraft team can help! We will need an alternate form of verification to make sure that you own the account. The most helpful is the [transaction ID](../General-Billing/What-is-a-Transaction-ID.md) you received when you purchased the game.  
 
 Please keep in mind that this process applies specifically to Mojang and Minecraft accounts. If you are having trouble with a Sony account, Microsoft account, Nintendo account, or another account you will need to contact the relevant support channel.  
 
@@ -216,7 +216,7 @@ Here are a few support sites:  
 
 The **Java Account Email** box (highlighted in blue) is for the email currently on your Minecraft: Java Edition Account. Enter this information to the best of your knowledge.  
 
-You must include a **Transaction ID** or we may be unable to proceed. If you are unsure of what a Transaction ID looks like or have forgotten it, see [What is a Transaction ID?](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-)  
+You must include a **Transaction ID** or we may be unable to proceed. If you are unsure of what a Transaction ID looks like or have forgotten it, see [What is a Transaction ID?](../General-Billing/What-is-a-Transaction-ID.md)  
 
 If you have lost access to the account email address, in the* ***Your Email Address** box (highlighted in red) include a new email so that we may respond back to you.   
 

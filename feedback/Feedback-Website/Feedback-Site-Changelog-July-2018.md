@@ -12,7 +12,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360006586092-Feedback-Sit
 
 \* We took out the box below this line: 
 
-Be sure your feedback gets seen. Be sure to check out [creating great feedback](https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Feedback), [previously considered feedback](https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Feedback) and the [posting guidelines](https://feedback.minecraft.net/hc/en-us/articles/360003401232-Posting-Guidelines) before adding your idea.
+Be sure your feedback gets seen. Be sure to check out [creating great feedback](https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Great-Feedback), [previously considered feedback](https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Feedback) and the [posting guidelines](./Posting-Guidelines.md) before adding your idea.
 
 We hope this will cut down considerably on spam.
 

@@ -86,7 +86,7 @@ If you can't remember which account/email you should use to log in, please try o
 
 addresses that you own. If you still cannot log in, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and provide your 
 
-[transaction ID or equivalent](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) (a gift code or prepaid card PIN). With that ID, we can locate your
+[transaction ID or equivalent](../General-Billing/What-is-a-Transaction-ID.md) (a gift code or prepaid card PIN). With that ID, we can locate your
 
 purchase and help you get logged in. 
 
@@ -117,4 +117,4 @@ If you believe that this happened, contact [Minecraft Support](https://aka.ms/Mi
 
 ## Didn't find what you were looking for?
 
-Explore the [Minecraft: Java Edition Troubleshooting](https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting) page. If you need further help, contact [Minecraft Support](https://support.xbox.com/en-US/contact-us).
+Explore the [Minecraft: Java Edition Troubleshooting](./Minecraft-Java-Edition-Troubleshooting.md) page. If you need further help, contact [Minecraft Support](https://support.xbox.com/en-US/contact-us).

@@ -48,7 +48,7 @@ Intro
 
 Minecraft: Java Edition can be played only on PC: Windows, MacOS, and Linux
 
-You can buy Minecraft: Java Edition (through the Minecraft: Java & Bedrock Edition bundle) from [minecraft.net](https://minecraft.net/store) for \$29.99 USD or local currency equivalent. This is a one-time purchase. You can buy an account for yourself or [buy a code](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ) to gift to someone else. Gift codes may not be available in all areas.
+You can buy Minecraft: Java Edition (through the Minecraft: Java & Bedrock Edition bundle) from [minecraft.net](https://minecraft.net/store) for \$29.99 USD or local currency equivalent. This is a one-time purchase. You can buy an account for yourself or [buy a code](../Minecraft-Java-Edition-Billing/Minecraft-Java-Edition-Gift-Code-Issues-FAQ.md) to gift to someone else. Gift codes may not be available in all areas.
 
 If you're interested in trying the game before making a purchase, visit our article on [Minecraft's demo mode.](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Demo-Mode.md)
 
@@ -61,7 +61,7 @@ If you're interested in trying the game before making a purchase, visit our arti
 - Xbox (One and Series X\|S)
 - Chromebook devices ([see here](https://minecrafthelp.zendesk.com/hc/en-us/articles/13803752803725))
 
-Here is a list of the [different Minecraft editions with prices](https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions) and where it is available for purchase.
+Here is a list of the [different Minecraft editions with prices](../Minecraft-Bedrock-Edition-Billing/Different-Minecraft-Editions.md) and where it is available for purchase.
 
 There are several payment methods available. Select your country when you are purchasing your game, and the site will automatically list the payment methods available for you.
 
@@ -141,7 +141,7 @@ If these options still do not work, contact [Minecraft Support](https://aka.ms/M
 
 If your purchase was through a re-seller website, we will not have a record of it and cannot verify your claim regarding the account or provide you with support. 
 
-Re-selling a code violates our Terms and Conditions. We cannot refund codes purchased from unauthorized retailers; we only refund a purchase at the request of the original buyer per our [refunds policy. ](https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-Studios-Refund-Policy)
+Re-selling a code violates our Terms and Conditions. We cannot refund codes purchased from unauthorized retailers; we only refund a purchase at the request of the original buyer per our [refunds policy. ](./Mojang-Studios-Refund-Policy.md)
 
 If you have made your purchase from an unauthorized seller, we're not able to refund you and you may wish to dispute your purchase directly with the seller. 
 

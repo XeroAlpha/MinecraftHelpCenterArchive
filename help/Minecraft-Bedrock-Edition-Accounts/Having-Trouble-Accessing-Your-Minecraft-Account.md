@@ -61,4 +61,4 @@ To change or recover your email address, [go to the Microsoft account recovery p
 
 Visit our list of reasons why you [Cannot Get Mojang System Emails](https://help.minecraft.net/hc/en-us/articles/360034636412-Cannot-Get-Mojang-System-Emails). 
 
-If your issue is not addressed here, please take a look at our [technical support resources](https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting).
+If your issue is not addressed here, please take a look at our [technical support resources](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Troubleshooting.md).

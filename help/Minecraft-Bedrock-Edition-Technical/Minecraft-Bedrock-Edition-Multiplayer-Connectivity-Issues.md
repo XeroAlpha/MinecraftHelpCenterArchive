@@ -25,7 +25,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues
 ---
 
-*This article is Minecraft: Bedrock Edition on mobile, Nintendo Switch, PlayStation, Windows, and Xbox One. If you're experiencing connection issues in Minecraft: Java Edition, see [Minecraft: Java Edition Multiplayer Connectivity Issues](https://help.minecraft.net/hc/en-us/articles/360034754052-Minecraft-Java-Edition-Multiplayer-Connection-Issues-).* 
+*This article is Minecraft: Bedrock Edition on mobile, Nintendo Switch, PlayStation, Windows, and Xbox One. If you're experiencing connection issues in Minecraft: Java Edition, see [Minecraft: Java Edition Multiplayer Connectivity Issues](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Multiplayer-Connection-Issues.md).* 
 
 # In This Article:
 

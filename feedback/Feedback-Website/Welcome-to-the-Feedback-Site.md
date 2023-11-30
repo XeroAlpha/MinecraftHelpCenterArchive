@@ -52,7 +52,7 @@ We reserve the right to delete, move, or adjust posts for the following reasons:
 
 \- attempts to "boost" feedback to the top or campaigns for votes
 
-\- comments or feedback that do not fall in accordance with [our posting guidelines](https://feedback.minecraft.net/hc/en-us/articles/360003401232-Posting-Guidelines)
+\- comments or feedback that do not fall in accordance with [our posting guidelines](./Posting-Guidelines.md)
 
 \- feedback that reopens previously closed threads (if it's closed, it's probably closed for a reason)
 

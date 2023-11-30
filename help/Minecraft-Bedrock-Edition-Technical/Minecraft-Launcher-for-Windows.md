@@ -133,7 +133,7 @@ The Minecraft for Windows codes are good for one copy of Minecraft when redeem
 
 ### Do I need to uninstall the old launcher? 
 
-You do not need to uninstall the old launcher (Minecraft Unified Launcher) but we strongly recommend doing so to cut down on confusion. If you want to uninstall the old launcher, see our guide for [Uninstalling the Old Minecraft Unified Launcher.](https://help.minecraft.net/hc/en-us/articles/4412266387213-Uninstalling-the-Old-Minecraft-Unified-Launcher-) 
+You do not need to uninstall the old launcher (Minecraft Unified Launcher) but we strongly recommend doing so to cut down on confusion. If you want to uninstall the old launcher, see our guide for [Uninstalling the Old Minecraft Unified Launcher.](./Uninstalling-the-Old-Minecraft-Unified-Launcher.md) 
 
 ## Account Questions 
 

@@ -49,7 +49,7 @@ Payment errors are often difficult to track down; they can happen in different s
 3.  If you are still not able to make a purchase, you may be able to buy a **Minecraft prepaid card** from a retail store and use that. Minecraft prepaid cards can be used on a Microsoft account (that does not already own a copy of the game) and entitle the cardholder to one Minecraft license (one copy of Minecraft).
     - If you have purchased a Minecraft: Java Edition prepaid card at a retail store, you can redeem your code by visiting our site at [minecraft.net/redeem](https://www.minecraft.net/en-us/redeem/) and clicking **REDEEM JAVA EDITION**. You will be prompted to login or create a Microsoft account. Once this is complete you can redeem your code and finish setting up your Minecraft profile.
 
-If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift Code Redemption Issues](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ#h_01FG55B88ZZ02B559E7Q30BAEV).
+If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift Code Redemption Issues](../Minecraft-Java-Edition-Billing/Minecraft-Java-Edition-Gift-Code-Issues-FAQ.md#prepaid-card-and-gift-code-redemption-issues).
 
 ### Troubleshoot Making a Realms Purchase
 
@@ -68,7 +68,7 @@ If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift
 
 There are a few situations where a second charge may appear or seem to appear after a purchase:
 
-1.  An order number may be generated when a payment fails, which can be confused with a successful purchase. A [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) is only generated with a successful purchase. Look for more than one transaction IDs to confirm a duplicate purchase.
+1.  An order number may be generated when a payment fails, which can be confused with a successful purchase. A [transaction ID](./What-is-a-Transaction-ID.md) is only generated with a successful purchase. Look for more than one transaction IDs to confirm a duplicate purchase.
 2.  A bank or payment partner may temporarily reserve the purchase amount on your account, this can be confused with a second charge. The hold is usually resolved within 24-48 hours. Contact your bank or the payment partner for further information.
 3.  If you have accidentally purchased the game directly as well as with a gift code; you will see the duplicate purchases in your account profile.
 
@@ -88,12 +88,12 @@ If you have purchased a gift code, [you can redeem it on this page](https://www.
 
 ## Troubleshoot Problems
 
-Occasionally there is an issue where a failed transaction sends a customer to the payment confirmation screen. If you have only received a 32-character [order number](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) after a few hours, and not an email from us confirming a successful purchase containing a [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-), it is unlikely that the transaction was successful. Double-check your payment account to verify that you were charged. 
+Occasionally there is an issue where a failed transaction sends a customer to the payment confirmation screen. If you have only received a 32-character [order number](./What-is-a-Transaction-ID.md) after a few hours, and not an email from us confirming a successful purchase containing a [transaction ID](./What-is-a-Transaction-ID.md), it is unlikely that the transaction was successful. Double-check your payment account to verify that you were charged. 
 
 **Note: Because you cannot purchase a game twice on the same account, if you were not charged, you may wish to try your purchase again.**
 
-If you've received a call from your credit card company asking if you would like to authorize an international transaction, they may have interrupted the payment process, even if they eventually let the transaction go through. First verify that your credit card was charged; it is possible that the hold caused us not to be notified of the purchase. If not, you can wait for a charge to process or try your purchase again. If you were charged, contact us and provide your [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) or [order number](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-).
+If you've received a call from your credit card company asking if you would like to authorize an international transaction, they may have interrupted the payment process, even if they eventually let the transaction go through. First verify that your credit card was charged; it is possible that the hold caused us not to be notified of the purchase. If not, you can wait for a charge to process or try your purchase again. If you were charged, contact us and provide your [transaction ID](./What-is-a-Transaction-ID.md) or [order number](./What-is-a-Transaction-ID.md).
 
-If you were charged and you have a [transaction ID](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) or order number for your purchase, contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
+If you were charged and you have a [transaction ID](./What-is-a-Transaction-ID.md) or order number for your purchase, contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
 
 ** **

@@ -118,7 +118,7 @@ Yes, and the same is true when someone is whitelisted, or has Operator level per
 
 Mojang Studios has always had a moderately relaxed stance on Java profile name. Someone who chooses an inappropriate Java profile name is often banned by the servers that they join. Even though Java profile name changes are now a feature, people have been able to register questionably appropriate Java profile names since 2009, and the community has self-regulated.  
 
-**Note: If you need to report a player for other reasons, please refer to our [Player Reporting FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ).**
+**Note: If you need to report a player for other reasons, please refer to our [Player Reporting FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md).**
 
 Do not report other players' Java profile names to Mojang Studios**; **if you encounter an inappropriate name while playing on a server, please report it to the server owner.**   
 **

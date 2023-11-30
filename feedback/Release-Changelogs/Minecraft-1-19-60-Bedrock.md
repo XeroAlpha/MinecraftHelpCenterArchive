@@ -62,7 +62,7 @@ It's time for a new update to Minecraft Bedrock Edition! This time, we're focusi
 
 **Experimental Features:**
 
-- In addition to experimental features added in [19.50](https://feedback.minecraft.net/hc/en-us/articles/10833168748557-Minecraft-1-19-50-Bedrock-), several new experimental features are now playable from the upcoming 1.20 update!
+- In addition to experimental features added in [19.50](./Minecraft-1-19-50-Bedrock.md), several new experimental features are now playable from the upcoming 1.20 update!
 - Enable the “Next Major Update” toggle in world settings to enable this content
 - These features are a work in progress and are still in active development. The design and functionality of these features will likely change before they’re released
 - **Please remember:** Worlds that have used experimental toggles will always be flagged as “Experimental”. We recommend keeping these experimental worlds as separate copies from your main saves. More information can be found in [this article](https://feedback.minecraft.net/hc/en-us/articles/4403610710797)

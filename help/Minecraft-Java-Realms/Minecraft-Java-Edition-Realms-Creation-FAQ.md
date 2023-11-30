@@ -88,7 +88,7 @@ Minecraft Java: Edition does not require an Xbox Game Pass Core subscription.
 
 ### How do I cancel my recurring subscription?   
 
-Visit the **[Minecraft: Java Edition Realms Billing Issues FAQ](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK)** for information on canceling recurring Minecraft Realms subscriptions. 
+Visit the **[Minecraft: Java Edition Realms Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Java-Edition-Realms-Billing-Issues-FAQ.md#howdoicancelmyminecraftrealms-subscription)** for information on canceling recurring Minecraft Realms subscriptions. 
 
 ## Technical Questions
 

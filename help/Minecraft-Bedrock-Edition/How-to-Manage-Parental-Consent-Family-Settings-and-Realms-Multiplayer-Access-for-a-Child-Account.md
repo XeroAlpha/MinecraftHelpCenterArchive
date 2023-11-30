@@ -143,7 +143,7 @@ The Xbox Family Settings app is an easy way for adults to manage their children�
 
 ## Set and Edit Parental Controls for Your Child’s Account 
 
-**Note: For assistance configuring parental controls for Minecraft: Java Edition, see our [Minecraft: Java Edition Parental Control Features FAQ](https://help.minecraft.net/hc/en-us/articles/4409976432013-Minecraft-Java-Edition-Parental-Control-Features-FAQ). **
+**Note: For assistance configuring parental controls for Minecraft: Java Edition, see our [Minecraft: Java Edition Parental Control Features FAQ](../Minecraft-Java-Edition/Minecraft-Java-Edition-Parental-Control-Features-FAQ.md). **
 
 You can set some parental controls which are associated with your Microsoft account while managing that account, however you have additional controls available through Xbox. 
 

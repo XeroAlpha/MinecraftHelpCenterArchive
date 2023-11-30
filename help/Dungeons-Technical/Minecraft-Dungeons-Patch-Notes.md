@@ -839,7 +839,7 @@ Luminous Night features plenty of radiant rewards that will light up your surrou
 
 ![Picture4.png](https://minecrafthelp.zendesk.com/hc/article_attachments/5644880399373)
 
-- Contents in the Storage Chest can be transferred between platforms, along with other character data, using [Cloud Saves](https://help.minecraft.net/hc/en-us/articles/360043504492-Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes)
+- Contents in the Storage Chest can be transferred between platforms, along with other character data, using [Cloud Saves](./Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md)
 
 ![Picture5.png](https://minecrafthelp.zendesk.com/hc/article_attachments/5644772014221)  
   

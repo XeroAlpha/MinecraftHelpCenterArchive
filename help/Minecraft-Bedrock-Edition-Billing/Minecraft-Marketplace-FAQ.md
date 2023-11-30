@@ -32,7 +32,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4408963926541-Minecraft-Marketplace-FAQ
 ---
 
-*This article covers [Minecraft:](https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions)* [*Bedrock Edition*](https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions)*, which is available on Windows 10 and above, mobile, Nintendo Switch, PlayStation 4 and 5, Xbox One and Series X\|S consoles, and Chromebook.*
+*This article covers [Minecraft:](./Different-Minecraft-Editions.md)* [*Bedrock Edition*](./Different-Minecraft-Editions.md)*, which is available on Windows 10 and above, mobile, Nintendo Switch, PlayStation 4 and 5, Xbox One and Series X\|S consoles, and Chromebook.*
 
 # In This Article:
 

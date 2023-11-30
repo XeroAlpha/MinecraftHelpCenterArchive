@@ -67,4 +67,4 @@ Here are some steps to take: 
 - [Change the password](https://www.microsoft.com/account) that’s associated with your account.  
 - Log out of anything that you're logged into (websites, game launcher, etc.), then if you were able to change the password, try to log in with the new password. 
 - If you are not sure if you should use your email address or Java profile name to log in, see our article on [Minecraft: Java Edition account types](https://help.minecraft.net/hc/en-us/articles/4408867060621-Minecraft-Java-Edition-Account-Types).  
-- If you do not receive password reset emails within a few minutes, or you are sure that your account was compromised, locate your [transaction ID or gift code](https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-) and contact [Minecraft Support](https://aka.ms/Minecraft-Support).
+- If you do not receive password reset emails within a few minutes, or you are sure that your account was compromised, locate your [transaction ID or gift code](../General-Billing/What-is-a-Transaction-ID.md) and contact [Minecraft Support](https://aka.ms/Minecraft-Support).

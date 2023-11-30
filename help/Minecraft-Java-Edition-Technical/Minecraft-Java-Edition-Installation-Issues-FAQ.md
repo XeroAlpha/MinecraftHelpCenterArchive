@@ -53,7 +53,7 @@ Minecraft will not run on Windows RT tablets or a toaster (despite some actually
 
 A computer with the minimum requirements should enable gameplay for Minecraft: Java Edition. However, for the best experience, provide the recommended requirements.  
 
-**Note: If you are unsure of whether or not your computer is powerful enough to run Minecraft, it is highly recommended that you try Minecraft in [demo mode](https://help.minecraft.net/hc/en-us/articles/4408948974989-Minecraft-Java-Edition-Demo-Mode-) before purchase. **
+**Note: If you are unsure of whether or not your computer is powerful enough to run Minecraft, it is highly recommended that you try Minecraft in [demo mode](./Minecraft-Java-Edition-Demo-Mode.md) before purchase. **
 
 ### Minimum Requirements 
 
@@ -61,7 +61,7 @@ CPU: Intel Core i3-3210 3.2 GHz / AMD A8-7600 APU 3.1 GHz / Apple M1 or equivale
 
 RAM: 4 GB  
 
-OS: Windows 10 **or **macOS: 10.14.5 Mojave and up ([Minecraft: Java Edition versions later than 1.18 are no longer supported on Mac OS below version 10.14.5](https://help.minecraft.net/hc/en-us/articles/4420326353933-Minecraft-Java-Edition-Versions-and-MacOS-))  
+OS: Windows 10 **or **macOS: 10.14.5 Mojave and up ([Minecraft: Java Edition versions later than 1.18 are no longer supported on Mac OS below version 10.14.5](./Minecraft-Java-Edition-Versions-and-MacOS.md))  
 \**Linux varies by OS, but for screen read functionality we require Orca 3.32 or higher*
 
 VIDEO CARD: Integrated: Intel HD Graphics 4000 (Ivy Bridge) or AMD Radeon R5 series (Kaveri line) with OpenGL 4.41Discrete: Nvidia GeForce 400 Series or AMD Radeon HD 7000 series with OpenGL 4.4  
@@ -100,7 +100,7 @@ For desktop and laptops, you can run either version Java or Windows 10 (and abov
 
 ## How do I install Minecraft: Java Edition? 
 
-To install the game, go to the [Minecraft download](https://www.minecraft.net/download) page and download the game client. You can download the game client even if you don't own the game, but you will only be able to play the [Minecraft Demo Mode](https://help.minecraft.net/hc/en-us/articles/4408948974989-Minecraft-Java-Edition-Demo-Mode-). After downloading the client, double-click the shortcut icon to run it. 
+To install the game, go to the [Minecraft download](https://www.minecraft.net/download) page and download the game client. You can download the game client even if you don't own the game, but you will only be able to play the [Minecraft Demo Mode](./Minecraft-Java-Edition-Demo-Mode.md). After downloading the client, double-click the shortcut icon to run it. 
 
 **Note: Minecraft purchases are tied to your Microsoft account and not a device. As such, you can download and install Minecraft: Java Edition on as many computers as you want. **
 
@@ -108,7 +108,7 @@ To log in, use your Microsoft account email address and password.  Please make 
 
 Firewalls and antivirus programs can sometimes cause trouble during installation. If you're having trouble installing Minecraft, you may want to allow Minecraft through your firewall or antivirus software and try again. 
 
-If you experience issues downloading or running Minecraft: Java Edition, please visit our [Minecraft: Java Edition Troubleshooting](https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting) page. 
+If you experience issues downloading or running Minecraft: Java Edition, please visit our [Minecraft: Java Edition Troubleshooting](./Minecraft-Java-Edition-Troubleshooting.md) page. 
 
 ## How to Manually Update Minecraft: Java Edition
 
