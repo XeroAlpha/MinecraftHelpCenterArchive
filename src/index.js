@@ -124,6 +124,7 @@ async function updateArticles({ zendeskOptions, path, databaseFile, incremental,
         database.addLink(simplifiedArticleUrl, articleMarkdownPath, convertContext.hashMap);
         const articleBodyMarkdown = convertHtmlToMarkdown(convertContext.json, {
             normalizeUrl: (urlObj) => {
+                if (!urlObj.origin || urlObj.origin === 'null') return urlObj.toString();
                 const hash = urlObj.hash;
                 const urlToRequest = simplifyArticleUrl(`${urlObj.origin}${urlObj.pathname}`);
                 const linkTarget = database.findLink(urlToRequest, hash.replace(/^#/, ''));
@@ -133,7 +134,7 @@ async function updateArticles({ zendeskOptions, path, databaseFile, incremental,
                     if (!linkPathRelative.startsWith('../')) {
                         linkPathRelative = `./${linkPathRelative}`;
                     }
-                    if (urlToRequest === articleUrl) {
+                    if (urlToRequest === simplifiedArticleUrl) {
                         return `#${linkHash}`;
                     }
                     if (linkHash) {
