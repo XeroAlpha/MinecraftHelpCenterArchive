@@ -1,7 +1,7 @@
 ---
 title: Minecraft Dungeons Multiplayer and Cross-Platform Play
 date: 2020-05-21T21:39:36Z
-updated: 2023-01-23T17:26:14Z
+updated: 2023-12-01T20:58:28Z
 categories: Dungeons Technical
 tags:
   - subject_progress_and_saved_games
@@ -21,7 +21,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360043512112-Minecraft-Dungeo
 
 Team up with friends across consoles and PCs. Create a multiplatform alliance and battle together with the cross-platform play-free game update to Minecraft Dungeons. This update allows for cross-platform multiplayer playing across Nintendo Switch, PlayStation® 4 and 5, Windows PC, and Xbox. 
 
-Make sure that your game is updated to Minecraft version 1.8.8.0 or later before playing multiplayer. To ensure you’re up to date, to find out how to locate your version number and more, see [How to Update Minecraft Dungeons](./Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons).
+Make sure that your Minecraft Dungeons game is updated to the latest version before playing multiplayer. To ensure you’re up to date, to find out how to locate your version number and more, see [How to Update Minecraft Dungeons](./Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons).
 
 Nintendo Switch accounts and PlayStation™ Network accounts must be linked to a Microsoft account. See our articles on [linking accounts](../Dungeons-Accounts/Minecraft-Dungeons-Account-Issues-FAQ.md#signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation) and [multiplayer subscription requirements](../Dungeons-Accounts/Minecraft-Dungeons-Account-Issues-FAQ.md#creatinganaccountforminecraftdungeons) for more details. 
 
