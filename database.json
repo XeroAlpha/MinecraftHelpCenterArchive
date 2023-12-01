@@ -5151,6 +5151,15 @@
     "path": "help/Minecraft-Legends-Patch-Notes/Minecraft-Legends-November-Update.md"
   },
   {
+    "url": "https://help.minecraft.net/hc/en-us/articles/21854073838989",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md",
+    "hashMap": {
+      "h_01HGJYNQC72MCQ54DWJ9M4F3YW": "how-to-set-up-family-share-on-your-pc",
+      "h_01HGJYPFHK192PGC7YRHPGBYB9": "how-to-download-minecraft-through-family-share-with-a-childs-account",
+      "h_01HGJYS19QXCS1908QGG4J3WGQ": "which-games-can-be-shared-across-family-accounts"
+    }
+  },
+  {
     "url": "https://help.minecraft.net/hc/en-us/articles/360029644312",
     "path": "help/Minecraft-Java-Realms/How-do-I-Join-Someone-s-Minecraft-Java-Realm.md",
     "hashMap": {
