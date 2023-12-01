@@ -1295,6 +1295,14 @@
     }
   },
   {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/21843584957709",
+    "path": "feedback/Snapshot-Information-and-Changelogs/Minecraft-Java-Edition-1-20-3-Release-Candidate-1.md",
+    "hashMap": {
+      "h_01HGJ8C0VEPW8M6Y96RETYGWBS": "fixed-bugs-in-1203-release-candidate-1",
+      "h_01HGJ8C0VEH04V5AJ9RWQ3Y1NW": "get-the-release-candidate"
+    }
+  },
+  {
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360003401232",
     "path": "feedback/Feedback-Website/Posting-Guidelines.md"
   },
