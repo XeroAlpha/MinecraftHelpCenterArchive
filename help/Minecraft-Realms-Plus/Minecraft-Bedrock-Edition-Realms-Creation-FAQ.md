@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Creation FAQ"
 date: 2021-09-14T23:14:55Z
-updated: 2023-11-07T19:29:17Z
+updated: 2023-12-05T21:17:02Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft_java_edition
@@ -306,7 +306,7 @@ The following **options** are available: 
 
 ### Have Multiple Worlds 
 
-In your Realm, you have three different world slots and an additional slot that you can use for minigames. You can have three different worlds loaded in your Realm (for such as two survival worlds and one creative world). Each slot has its own world settings. However, only one slot can be active at a time. 
+In your Realm, you have three different world slots you can use. You can have three different worlds loaded in your Realm (for such as two survival worlds and one creative world). Each slot has its own world settings. However, only one slot can be active at a time, but the owner can swap between them as needed.
 
 ### Change Realm Slot
 
