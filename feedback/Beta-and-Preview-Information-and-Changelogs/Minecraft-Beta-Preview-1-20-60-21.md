@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.60.21
 date: 2023-11-28T19:24:04Z
-updated: 2023-11-30T18:12:18Z
+updated: 2023-12-06T09:04:13Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/21754158247437-Minecraft-Beta-Preview-1-20-60-21
 ---
@@ -132,7 +132,7 @@ We have another exciting Minecraft Beta and Preview update, with lots of tweaks 
 
 ## General
 
-- Renamed *json* to *water_splash_manual.json* in *resource_packs\vanilla\particles* ([MCPE-176784](https://bugs.mojang.com/browse/MCPE-176784))
+- Renamed *water_spash_manual.json* to *water_splash_manual.json* in *resource_packs\vanilla\particles* ([MCPE-176784](https://bugs.mojang.com/browse/MCPE-176784))
 
 ## Molang
 
