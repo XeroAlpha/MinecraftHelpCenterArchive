@@ -1375,6 +1375,14 @@
     }
   },
   {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/22046600558221",
+    "path": "feedback/Release-Changelogs/Minecraft-Java-Edition-1-20-4.md",
+    "hashMap": {
+      "h_01HH2DWMYVSXCDXJ89JC0K8P1Z": "fixed-bugs-in-1204",
+      "h_01HH2DWMYVXZ1NF7DRV7Q2Q5M1": "get-the-release"
+    }
+  },
+  {
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360003401232",
     "path": "feedback/Feedback-Website/Posting-Guidelines.md"
   },
