@@ -1,7 +1,7 @@
 ---
 title: Minecraft Preview FAQ
 date: 2022-01-31T18:12:02Z
-updated: 2023-12-04T20:09:06Z
+updated: 2023-12-13T17:39:13Z
 categories: Community Guides
 tags:
   - title_minecraft
@@ -39,7 +39,7 @@ Minecraft Preview is an evolution of the Minecraft: Bedrock Edition Beta program
 
 ## What platforms is Minecraft Preview available on?
 
-Minecraft Preview is on several of our Bedrock platforms, such as iOS, Xbox, Windows 10/11, and PlayStation 4 (also playable on PlayStation 5 through the PS4 version).
+Minecraft Preview is on several of our Bedrock platforms, such as iOS, Xbox, Windows 10/11.
 
 ## Is Minecraft Preview coming to other platforms?
 
@@ -78,7 +78,7 @@ On Xbox, you can copy your existing worlds from Minecraft: Bedrock Edition using
 ## What features aren’t available in Minecraft Preview?
 
 - Cross-platform multiplayer does not work for all platforms yet
-- Marketplace is not available on iOS or PlayStation
+- Marketplace is not available on iOS
 - Realms / Featured Servers
 - Achievements
 
