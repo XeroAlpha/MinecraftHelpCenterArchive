@@ -1,7 +1,7 @@
 ---
 title: Minecraft Preview FAQ
 date: 2022-01-31T18:12:02Z
-updated: 2023-12-13T17:39:13Z
+updated: 2023-12-13T21:26:28Z
 categories: Community Guides
 tags:
   - title_minecraft
@@ -39,7 +39,7 @@ Minecraft Preview is an evolution of the Minecraft: Bedrock Edition Beta program
 
 ## What platforms is Minecraft Preview available on?
 
-Minecraft Preview is on several of our Bedrock platforms, such as iOS, Xbox, Windows 10/11.
+Minecraft Preview is on several of our Bedrock platforms, such as iOS, Xbox, and Windows 10/11.
 
 ## Is Minecraft Preview coming to other platforms?
 
