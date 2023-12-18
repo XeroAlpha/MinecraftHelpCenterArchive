@@ -1,7 +1,7 @@
 ---
 title: Minecraft Realms Plus Troubleshooting
 date: 2021-09-30T21:40:55Z
-updated: 2023-09-13T20:31:38Z
+updated: 2023-12-18T16:26:37Z
 categories: Realms Troubleshooting and Billing
 tags:
   - title_minecraft
@@ -57,7 +57,7 @@ Realms Plus connection speeds can vary between individual players, devices, and 
 - Try reverting to a previous save of your world through your Realm’s backup menu.
 - If you are under 18 make sure your parents log in to change your [settings](https://account.xbox.com/settings) as shown below: 
 
-**![mceclip0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4410380134669)**
+![](https://minecrafthelp.zendesk.com/hc/article_attachments/22458598648845)
 
 ## Troubleshooting
 
