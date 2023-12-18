@@ -7053,39 +7053,31 @@
     "url": "https://help.minecraft.net/hc/en-us/articles/4410000696077",
     "path": "help/Realms-Troubleshooting-and-Billing/Minecraft-Java-Edition-Realms-Billing-Issues-FAQ.md",
     "hashMap": {
-      "h_01FGCSS1VFYBJW8MZENV3XVHNY": "why-are-there-are-two-versions-of-realms-servers",
-      "h_01FGCSSBAV7EAGRBHVKYC6RDEF": "aretheretrialsavailable-for-minecraftrealms",
-      "h_01FGCSSR72S26SBJTE7EVVKN98": "howdoirenewmyexpiredrealm",
-      "how-to-create-a-backup-of-an-expired-realm": "howtocreateabackupofanexpiredrealm",
-      "quick-guide-to-creating-a-backup": "quickguidetocreatingabackup",
-      "h_01H0JYTDQ217T924E08W6CRMT1": "replacinganewworldwithabackup",
-      "h_01H0JYT6EDNX7N0Y86V1J10YWS": "how-does-mojang-backup-your-realm",
-      "h_01FGCST20673JYZ76PB9BN4BNK": "howdoicancelmyminecraftrealms-subscription"
+      "h_01HHYZP980HMCJRZ05925F0N20": "in-this-article",
+      "h_01HHYZXA34FKR07NK1P7YDZZQ9": "why-are-there-two-versions-of-realm-servers",
+      "h_01HHYZRMEZR50V6SAXAHM84Z8T": "are-there-trials-available-for-minecraft-realms",
+      "h_01HHYZS6ASV1TGWWE3H9SD65H5": "how-do-i-renew-my-expired-realm",
+      "h_01HHYZTAP4D9CH46BW4JBWK757": "how-do-i-cancel-my-minecraft-realms-subscription"
     }
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4410001194765",
     "path": "help/Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md",
     "hashMap": {
-      "h_01HCZ520D77TM7RCKMR78WFXMA": "in-this-article",
-      "h_01FGCVBYDM8GN2ZX1D4Z72KKZ2": "why-are-there-two-versions-of-realms-servers",
-      "h_01FGCVCP6CCHK01ZZR1BMWCDY0": "are-theretrialsavailable-for-minecraft-realmsplus",
-      "h_01FGCVDXG37NNQ1JK7S3EHJF7A": "howdoirenewmyexpiredrealm",
-      "h_01HCZ520D7J7WBDFKC2S0M314E": "howtocreateabackupofanexpiredrealm",
-      "h_01HCZ520D70SF5HKGJDHBCQEXJ": "quickguidetocreatingabackup",
-      "h_01HCZ520D78NN7VK81WABEX675": "replacinganewworldwithabackup",
-      "h_01HCZ520D7YMGSCJ0JM21NAED6": "i-paid-my-realm-subscription-but-my-realm-is-expired",
-      "h_01H7BA3F80YHKBJG6M6XGN5YRP": "couldnt-create-realm-right-now-error",
-      "h_01H0JYT6EDNX7N0Y86V1J10YWS": "how-does-mojang-backup-your-realm",
-      "h_01FGCVE88JFXE24WPYJJHZGQ9W": "howdoicancelmyrealmssubscription",
-      "h_01G7FQZG9Y7ARPF4KWG1DNJGN7": "heres-how-to-manage-your-subscription-on-each-platform",
-      "h_01HCZ520D8QDSE4M68G33KQPAA": "android--google-play",
-      "h_01HCZ520D81ZVN4GJ0692GBSTH": "amazon",
-      "h_01HCZ520D8ZGDNZ4RGXX3BYEKP": "ios",
-      "h_01HCZ520D8YF9NCV22351TEPZ6": "nintendoswitch",
-      "h_01HCZ520D8D9MBPEVB558B0HG0": "playstation",
-      "h_01HCZ520D8CA2QP9BKPGDRQAAR": "windows10-and-above",
-      "h_01HCZ520D85PSE0GGKJZHZ9JEX": "xbox"
+      "h_01HHYX0GD4Z048H4MZYXKEQQ5P": "in-this-article",
+      "h_01HHYX1ZR5ZYKZCF9SQQQKV54N": "are-theretrialsavailable-for-minecraft-realmsplus",
+      "h_01HHYX32GTRG33PTWVC2469TD8": "howdoirenewmyexpiredrealm",
+      "h_01HHYX7KJH4RSJ4DM9J8DC1820": "i-paid-my-realm-subscription-but-my-realm-is-expired",
+      "h_01HHYX8JQTZZF87N7BZK0789RJ": "couldnt-create-realm-right-now-error",
+      "h_01HHYX8W6FSN4CRYN6ZR5A1TAM": "howdoicancelmyrealmssubscription",
+      "h_01HHYX9RQMTHTV3QN3JQBC3HWX": "managing-your-subscription-on-each-platform",
+      "h_01HHYX9W2PEDR53WR31HQFQPAF": "android--chromebook--google-play",
+      "h_01HHYXAE5PQ4H4HPJDXG7TPTJX": "amazon",
+      "h_01HHYXB4ERZR9V0AMTR48HZBZ9": "ios",
+      "h_01HHYXC5QY9C4NBXAJDTAT8AM3": "nintendoswitch",
+      "h_01HHYXD24GGGVXTK53DTJ19AAT": "playstation",
+      "h_01HHYXGVN16D29H1MTPC75SN0B": "windows10-and-above",
+      "h_01HHYXHGNM3J75S60RVHSVD49B": "xbox"
     }
   },
   {
