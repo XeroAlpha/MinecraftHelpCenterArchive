@@ -5410,6 +5410,29 @@
     }
   },
   {
+    "url": "https://help.minecraft.net/hc/en-us/articles/22504134081549",
+    "path": "help/Minecraft-Bedrock-Edition-Guides/Minecraft-Special-Event-Access-Troubleshooting.md",
+    "hashMap": {
+      "h_01HJ1SBZS06JEHR6RM66QHPGZC": "in-this-article",
+      "h_01HJ1SC4CV2C6YJ8A4PFT9W8B1": "are-you-signed-into-a-microsoft-account",
+      "h_01HJ1SCGW486R017CJCXWZCV5H": "are-you-trying-to-join-the-right-game",
+      "h_01HJ1SCY5DJQ3TA8FRD35EA16N": "are-you-using-a-child-account",
+      "h_01HJ1SD35M88XASFP1HNWD06BH": "is-your-game-up-to-date",
+      "h_01HJ1SD7HM6TH51KC6AE7SF325": "other-issues-accessing-minecraft-events"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/22504327329165",
+    "path": "help/Minecraft-Bedrock-Edition-Guides/Universal-Studios-Event-FAQ.md",
+    "hashMap": {
+      "h_01HJ1TQDBCFAFX6BS45Y8YRFTE": "what-is-the-universal-studios-event-in-minecraft",
+      "h_01HJ1TQPVNNJZNYHSXM2HQF68R": "how-can-i-join-the-universal-studios-event",
+      "h_01HJ1TRQ3JCXN7THG7ZYHY0YG3": "how-long-is-the-universal-studios-event-active-in-minecraft",
+      "h_01HJ1TRSC0WFY5RA9HX0HQQBGS": "do-i-need-to-pay-to-join-the-universal-studios-event",
+      "h_01HJ1TRZ6HRAYS7VD7ESG0ZXBF": "what-platforms-can-i-join-the-universal-studios-event-on"
+    }
+  },
+  {
     "url": "https://help.minecraft.net/hc/en-us/articles/360029644312",
     "path": "help/Minecraft-Java-Realms/How-do-I-Join-Someone-s-Minecraft-Java-Realm.md",
     "hashMap": {

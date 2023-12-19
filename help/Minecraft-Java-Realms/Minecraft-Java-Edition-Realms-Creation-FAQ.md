@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition Realms Creation FAQ "
 date: 2021-09-14T22:37:59Z
-updated: 2023-12-18T20:34:28Z
+updated: 2023-12-19T20:24:49Z
 categories: Minecraft Java Realms
 tags:
   - title_minecraft_java_edition
@@ -84,4 +84,4 @@ By selecting the **Reset World** button, you can load content to your cu
 
 ### UPLOAD WORLD 
 
-You can upload any local (single player) world to one of the three first world slots by selecting the **Upload World** option. Please note that Realms works only with unmodded worlds using the latest release game version.
+You can upload any local (single player) world that is less than 4 GB to one of the three first world slots by selecting the **Upload World** option. Please note that Realms works only with unmodded worlds using the latest release game version.
