@@ -5102,18 +5102,7 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/19615552270221",
-    "path": "help/Java-Migration/Post-Migration-Process-FAQ.md",
-    "hashMap": {
-      "h_01HAPW0D9HTCD4W2672R9WQW6X": "in-this-article",
-      "h_01HAN3HSNGX3234WCNJ1G35BDK": "i-missed-my-chance-to-migrate-what-now",
-      "h_01HAN3HSNG0VY7SDV1WM4B4ZB2": "what-do-i-do-if-i-havent-received-my-email-confirmation-code",
-      "h_01HAN3HSNGW7XRAPRAK2Q53DA3": "can-i-complete-the-post-migration-process-with-a-microsoft-account-that-already-owns-minecraft-bedrock-edition-or-minecraft-java-edition",
-      "h_01HAN3HSNGDE5WHN3JFM8D3PPK": "additional-post-migration-questions",
-      "h_01HAN3HSNGEW8M1NBEMQ33FV5Y": "why-did-users-need-to-migrate",
-      "h_01HAN3HSNGMVTFDNE23WS9N7FT": "what-happened-to-my-capes-skins-username-and-other-content",
-      "h_01HAN3SBW4FY922SEJ114KQ6AJ": "what-about-my-java-worlds",
-      "h_01HAN3HSNGNTZ86M330CAFN7YB": "what-do-i-gain-from-going-through-the-post-migration-process"
-    }
+    "path": "help/Java-Migration/Post-Migration-Process-FAQ.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/19633473939981",
@@ -5215,6 +5204,85 @@
     }
   },
   {
+    "url": "https://help.minecraft.net/hc/en-us/articles/20686744908429",
+    "path": "help/Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Technical-FAQ.md",
+    "hashMap": {
+      "h_01HHZFVS72CGFB2PVW5HZSYMXN": "in-this-article",
+      "h_01HHZFVHTZ3EMP0PJSBVC3A9G7": "can-i-upload-my-worlds-onto-a-realm",
+      "h_01HHZFYNN41PVHHE3761SRRDNK": "do-realms-servers-support-modding",
+      "h_01HHZFZ8N10HH8PAFYEJRT5H53": "are-there-any-specific-settings-needed-to-play-on-a-realm",
+      "h_01HHZG2H6YQTQFAN1B95QS9QHK": "how-does-mojang-backup-your-realm"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/20686901046669",
+    "path": "help/Minecraft-Realms-Plus/How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md",
+    "hashMap": {
+      "h_01HHZJ8DK8ARDWHZDS4SEWBZ56": "administrative-options",
+      "h_01HHZJHW81DP305JB0AK0EM56G": "world-management",
+      "h_01HHZJMKV9RVW3WBET6XB7M838": "realm-backups",
+      "h_01HHZJPJRF4NGHVGHN4C0SG9WJ": "world-management-issues",
+      "h_01HHZJSRFZR5Z9JE5XMSQA1SJH": "realms-feed"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/20687129531149",
+    "path": "help/Minecraft-Realms-Plus/How-to-Create-a-Minecraft-Bedrock-Edition-Realm.md",
+    "hashMap": {
+      "h_01HHZK6HEJ9RVZYX596CEA1XHN": "how-to-create-your-realm",
+      "h_01HHZKAZC5TEZPPJ0B5N2A7X8Q": "choosing-a-realm-name-and-size",
+      "h_01HHZKCZ16MB72XD95VB1F4WCF": "invite-friends",
+      "h_01HHZKDPQEEQ51JP4MPV485HER": "admin-options-for-realms",
+      "h_01HHZKFRM5PEV4XQT8PV5B2V92": "technical-questions-for-realms"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/20687461045645",
+    "path": "help/Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md",
+    "hashMap": {
+      "h_01HHZHM4FZTV16XWHHVC5BS122": "how-does-mojang-backup-your-realm",
+      "h_01HHZHNC0SX5TNPTC4PNXVBEBP": "how-to-download-or-restore-a-realms-world-from-a-backup",
+      "h_01HHZHQYWY6BTAMPB35TFX34E6": "how-to-download-or-replace-a-world-from-your-realm"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/20687555493133",
+    "path": "help/Minecraft-Java-Realms/How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md",
+    "hashMap": {
+      "h_01HHZH3P46JQ12W1JPFKWFCK82": "how-to-find-your-realms-backups-and-restore-them",
+      "h_01HHZH60PNMN56EA3BWG744B1S": "uploading-a-backup-world-to-your-realm",
+      "h_01HHZH99DRVXBF482H3KATBKPG": "how-does-mojang-backup-your-realm",
+      "h_01HHZHAJBH92RW22EMN1W3VR2D": "can-i-export-my-minecraft-map-from-my-realm",
+      "h_01HHZHBFXCYGGAWF248DFD5G1R": "can-i-upload-my-minecraft-map-onto-a-realm"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/20688488192013",
+    "path": "help/Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-General-FAQ.md",
+    "hashMap": {
+      "h_01HHZGH3QYG4GJMMF7ZS7W26FB": "what-are-realms",
+      "h_01HHZGKTX5CFY1BRT8TW9767D2": "how-many-people-can-join-my-realm",
+      "h_01HHZGMXJSB3B6SHAESXZHSM5J": "which-versions-of-minecraft-support-minecraft-realms",
+      "h_01HHZGNQYVQQRXFN6W0ZCKCRN2": "can-i-play-on-a-realm-if-i-have-joined-the-minecraft-betapreview-program",
+      "h_01HHZGPZC97W4XGJHD5FW2AGC5": "can-i-play-on-a-realm-with-players-on-different-devices",
+      "h_01HHZGR9W666FNDPDJ58QZZQBD": "do-my-friends-need-a-realms-subscription-to-play-on-my-realm",
+      "h_01HHZGRMXZ9M6W3EE4Z172RTR1": "what-are-clubs",
+      "h_01HHZGTPCG6V8WX8C8TTANZNYY": "what-is-realms-plus",
+      "h_01HHZGVHN291W0688W9B38PPWM": "why-are-there-two-versions-of-realms-servers"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/20712000178317",
+    "path": "help/Minecraft-Java-Realms/Managing-your-Minecraft-Java-Edition-Realm.md",
+    "hashMap": {
+      "h_01HHZEWGWC378V7FSR750TE5M3": "realms-admin-options",
+      "h_01HHZEVCXNCYA0S01TP9DTXY6A": "have-multiple-worlds",
+      "h_01HHZEXG1TMWSY6B3MHERBCNT3": "close-the-server",
+      "h_01HHZEZXSBA9B9RQE731NAMNJY": "players",
+      "h_01HHZF2EJ7WHF3JRAMVTGMMVV8": "subscription"
+    }
+  },
+  {
     "url": "https://help.minecraft.net/hc/en-us/articles/21224579082253",
     "path": "help/Minecraft-Java-Edition-Technical/Caves-Cliffs-Part-ll-FAQ-Upgrading-Worlds-Bedrock-Beta.md"
   },
@@ -5298,6 +5366,27 @@
       "h_01HHZD71T92MCE9695EDMKFGFR": "xbox-live-friends-list",
       "h_01HHZD71T90FVQBW5DYM4RQ6CK": "find-friends",
       "h_01HHZD71T96W391E3CE3SCDKE1": "share-link"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/22471397285901",
+    "path": "help/Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Subscriptions-FAQ.md",
+    "hashMap": {
+      "h_01HHZDHSGVG77GMCA14JHV8WPT": "in-this-article",
+      "h_01HHZDHSGVJ6Z0KXX3VDEHA03E": "how-much-is-a-realms-subscription",
+      "h_01HHZDHSGV7FB6GEMH0F1B7YEA": "what-is-realms-plus",
+      "h_01HHZDHSGVPXEMFK1R5MK575CW": "how-much-does-a-realms-plus-subscription-cost",
+      "h_01HHZDHSGWZHX1KCCXDPZF6J1W": "how-long-will-my-subscription-last",
+      "h_01HHZDHSGWS4X6YEW9NE5VGM4M": "what-happens-to-my-realms-and-worlds-when-my-subscription-to-realms-plus-ends",
+      "h_01HHZDHSGWXJS7W1935FDPH0W0": "do-i-need-xbox-game-pass-or-another-subscription-to-play-on-a-realm",
+      "h_01HHZDHSGWP4QTFGNZVDDQR0K0": "how-do-i-cancel-my-recurring-subscription",
+      "h_01HHZDHSGW91W557W9M1KYAYFG": "can-i-use-my-realms-plus-packs-offline",
+      "h_01HHZDHSGWC0VCN4FXYCD96Z8G": "can-i-host-my-realms-plus-worlds-texture-packs-skins-and-mash-ups-on-my-realm",
+      "h_01HHZDHSGWDH4852ZFDKH5DTC5": "how-often-are-new-packs-added-to-realms-plus",
+      "h_01HHZDHSGW0TG7BJ45C3W5MD8G": "how-long-do-i-have-access-to-packs-within-realms-plus",
+      "h_01HHZDHSGWHMAK5MQQPX60M7D7": "if-i-download-a-pack-can-i-access-it-after-it-leaves-realms-plus",
+      "h_01HHZDHSGWCJWWZ03C69XNHEW0": "where-do-these-packs-come-from",
+      "h_01HHZDHSGX180ABC8FQSEH3ZRN": "how-many-world-templates-can-i-play-with-realms-plus"
     }
   },
   {

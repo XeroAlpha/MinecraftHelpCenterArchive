@@ -1,7 +1,7 @@
 ---
 title: I Missed my Chance to Migrate. What Happens to my Account?
 date: 2023-09-19T14:29:08Z
-updated: 2023-11-02T20:57:59Z
+updated: 2023-12-18T23:34:35Z
 categories: Java Migration
 tags:
   - title_minecraft_java_edition
@@ -22,17 +22,19 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-my-Chance-to-Migrate-What-Happens-to-my-Account-
 ---
 
+**As of December 18, 2023, the post-migration process for Mojang accounts has officially ended. If you successfully completed the post-migration process, you should now have access to both Java and Bedrock editions.**
+
+**As the migration period has concluded, Minecraft Support will no longer assist with migration-related queries. Visit [this link to learn about making a new Microsoft account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf).**
+
 If you’ve missed your chance to migrate, you might have a few questions regarding what happens to your Minecraft: Java Edition account. Please read on for more information.
 
 ## What happens to my Java Edition account?
 
-You no longer have access to your Java Edition account or Minecraft: Java Edition. To continue playing Minecraft, you will have to [buy Minecraft: Java & Bedrock Edition](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md) using a Microsoft account or successfully go through the post-migration process.
+You no longer have access to your Java Edition account or Minecraft: Java Edition. To continue playing Minecraft, you will have to [buy Minecraft: Java & Bedrock Edition](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md) using a Microsoft account.
 
 ## What happens to my worlds?
 
-Your single-player Java worlds are stored on your hard drive, but you will not be able to play on them until you go through the post-migration process or buy Minecraft: Java Edition using a Microsoft account.
-
-Once you go through the post-migration process, your worlds should be accessible with your new version of the game. However, any pets will not respond to your character, and you will have to re-tame them.
+Your single-player Java worlds are stored on your hard drive, but you will not be able to play on them until you buy Minecraft: Java Edition using a Microsoft account.
 
 Because you have a new Microsoft account, multiplayer worlds are a different story. You will be joining these worlds as a new player, spawning in at the world’s default spawn point with no items. However, if you have a base with items in it, you can head there to regain your items and resume play.
 

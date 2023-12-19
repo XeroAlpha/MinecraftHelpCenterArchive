@@ -1,7 +1,7 @@
 ---
 title: "How Do I Join Someone's Minecraft: Bedrock Edition Realm?"
 date: 2021-09-30T23:13:51Z
-updated: 2023-12-18T20:53:08Z
+updated: 2023-12-18T21:53:01Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -36,7 +36,7 @@ Minecraft Realms is a multiplayer service that enables you to play Minecraft: Be
 
 ## How to Join a Realm
 
-From the Friends tab on the Play screen in Minecraft: Bedrock Edition, you can view a list of Realms that are available to you. Joining a Realm requires an invitation through a direct invitation or via an invite link. For more on inviting someone to a Realm, please refer to this article.
+From the Friends tab on the Play screen in Minecraft: Bedrock Edition, you can view a list of Realms that are available to you. Joining a Realm requires an invitation through a direct invitation or via an invite link. For more on inviting someone to a Realm, please refer to [this article](./How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
 
 After you accept a Realm invite, it will be available for you to join. Make sure that you have the [latest public release of the game](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md#how-to-manually-update-minecraft-bedrock-edition).
 
