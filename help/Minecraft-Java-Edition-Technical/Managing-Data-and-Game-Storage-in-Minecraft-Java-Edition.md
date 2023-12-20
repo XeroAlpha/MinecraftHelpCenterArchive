@@ -1,7 +1,7 @@
 ---
 title: "Managing Data and Game Storage in Minecraft: Java Edition"
 date: 2021-09-13T22:15:55Z
-updated: 2023-10-13T19:38:44Z
+updated: 2023-12-20T18:45:41Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -29,25 +29,25 @@ This article details everything you need to know about managing data and game st
 
 # In This Article:
 
-- [**Back up Minecraft Worlds**](#back-up-minecraft-worlds)
+- [**Backup Minecraft Worlds**](#backup-minecraft-worlds)
 - **[Where are Minecraft Files Stored?](#where-are-minecraft-files-stored)**
 - **[Transfer Minecraft: Java Edition to another computer](#transfer-minecraft-java-edition-to-another-computer)**
 - **[How to Fix a Corrupted World Save](#how-to-fix-a-corrupted-world-save)**
 
 **Note: Be sure to preserve your world. Worlds can get corrupted at any time, and the only way to recover them is through a backup. To minimize risk, use your device's cloud-saving capabilities, or make a manual backup using the steps below.**
 
-## Back up Minecraft Worlds
+## Backup Minecraft Worlds
 
-It is recommended to back up your Minecraft worlds to prevent them from being lost. This is especially important if you want to try out an experimental version of Minecraft such as a snapshot or beta.   
+It is recommended to backup your Minecraft worlds to prevent them from being lost. This is especially important if you want to try out an experimental version of Minecraft such as a snapshot or beta.   
   
 Backing up Minecraft: Java Edition worlds is as easy as copying the world folders. You can save copies of your world folders on the same computer or store them on any other storage media.  See below for information about where to locate your worlds and how to transfer them, see [Transfer Minecraft: Java Edition to another computer. ](#transfer-minecraft-java-edition-to-another-computer)
 
 If you receive an error report that you are almost out of storage space, go into the saved game data in-game settings to delete files manually. To do so follow the steps below: 
 
-- Sign into your account. 
-- Choose the world or Realm you would like to delete. 
-- Select the edit icon to the right of the world or Realm name. 
-- On the game settings screen, scroll to the bottom and select **Delete**. 
+1.  Sign into your account. 
+2.  Choose the world or Realm you would like to delete. 
+3.  Select the edit icon to the right of the world or Realm name. 
+4.  On the game settings screen, scroll to the bottom and select **Delete**. 
 
 Resource packs, textures, skins, and mods are also stored in your local storage and account for total data size per local profile.  
 
@@ -61,8 +61,8 @@ The file to run the launcher is wherever you saved it. This may or may not defau
 
 ### Find additional launcher files 
 
-- Launch Minecraft, then log in. 
-- Go to **Launch Options**, choose a launch configuration, and then click the green arrow next to **Game Directory**. 
+1.  Launch Minecraft, then log in. 
+2.  Go to **Launch Options**, choose a launch configuration, and then click the green arrow next to **Game Directory**. 
 
 **Tip:** **Latest Release** is the default launch configuration. 
 
