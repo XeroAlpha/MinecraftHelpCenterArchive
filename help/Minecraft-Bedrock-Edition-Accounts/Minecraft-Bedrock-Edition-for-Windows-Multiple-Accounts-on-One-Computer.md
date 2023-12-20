@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition for Windows - Multiple Accounts on One Computer"
 date: 2021-09-28T23:14:40Z
-updated: 2023-07-17T16:18:55Z
+updated: 2023-12-20T18:34:38Z
 categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - section_12617594906509
@@ -17,10 +17,10 @@ To use multiple Microsoft accounts on one computer, you can create a different c
 
 **Note: Each Minecraft: Bedrock Edition purchase will use a different Microsoft account login.**
 
-- Click the **Start button** in Windows, click **Settings (cogwheel)**, go to **Accounts**, and then click **Other Users**.
-- Click **Add someone else to this PC** and fill in their information. You can choose to create a user with a Microsoft account or make a local user without an account. 
-- *Do not use an exclamation mark or Minecraft: Bedrock Edition will not run.*
-- Log in to the other Microsoft account associated with the Minecraft: Bedrock Edition profile you want to use for this computer user account.
-- Download Minecraft: Bedrock Edition from the Microsoft Store.
+1.  Click the **Start button** in Windows, click **Settings (cogwheel)**, go to **Accounts**, and then click **Other Users**.
+2.  Click **Add someone else to this PC** and fill in their information. You can choose to create a user with a Microsoft account or make a local user without an account. 
+3.  ***Do not use an exclamation mark or Minecraft: Bedrock Edition will not run.***
+4.  Log in to the other Microsoft account associated with the Minecraft: Bedrock Edition profile you want to use for this computer user account.
+5.  Download Minecraft: Bedrock Edition from the Microsoft Store.
 
-For more information, please visit the [Windows help site](https://support.microsoft.com/help/4026923/windows-10-create-a-local-user-or-administrator-account).
+For more information, please visit [How to Download and Play Minecraft Through Family Share on PC](../Minecraft-Bedrock-Edition-Technical/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).

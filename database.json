@@ -7193,7 +7193,12 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4410248686733",
-    "path": "help/Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Multiple-Accounts-on-One-Computer.md"
+    "path": "help/Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Multiple-Accounts-on-One-Computer.md",
+    "hashMap": {
+      "h_01HJ485HQ6EFK7QK9B9FXKN901": "windows",
+      "h_01HJ485HQ641XZZA9G8X6AD76D": "mac",
+      "h_01HJ485HQ6A74A5WRE3J0HYTJS": "linux"
+    }
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4410248806669",
