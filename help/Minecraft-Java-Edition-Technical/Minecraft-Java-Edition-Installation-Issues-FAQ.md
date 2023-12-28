@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition Installation Issues FAQ"
 date: 2021-09-14T17:14:22Z
-updated: 2023-11-15T21:25:29Z
+updated: 2023-12-28T21:10:06Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -144,7 +144,28 @@ From the main launcher screen, select your profile in the top-left portion of th
 
 ### Is the launcher also available on Mac and Linux? 
 
-While the updated launcher is available for players on Mac and Linux, Minecraft: Bedrock Edition, Minecraft Dungeons, and Minecraft Legends are unfortunately not playable on these devices. 
+While the updated launcher is available for players on Mac and Linux, Minecraft: Bedrock Edition, Minecraft Dungeons, and Minecraft Legends are unfortunately not playable on these devices.
+
+### My game installation is stalling or stopping part of the way through
+
+You can try uninstalling and reinstalling the game or even the Launcher. If that doesn’t work, you can try resetting the Microsoft Store using the following steps:   
+
+1.  Press the Windows key + R simultaneously  
+2.  A window will appear. Type in WSReset and hit enter  
+
+You can also try repairing and resetting the Launcher using the following steps:   
+
+1.  Go to the Start Menu
+2.  Right click on the Minecraft Launcher
+3.  Select **More**
+4.  Open **App Settings**
+5.  Within these settings, click on ****Repair**** and ****Reset****
+
+### I don’t want to install on my C Drive. How do I install Minecraft on a different drive on my PC?
+
+You will need to set up the other drive to allow Minecraft to be installed on them. Go into your PC settings - go to **Settings**\>**System**\>**Storage**\>**Change where new content is saved**. In that menu, go to the **New apps will save to dropdown** and select the drive you'd like to install Minecraft on.  
+Once you select the other drive in that setting, the option to install to the new drive (or another drive) will become available in the Minecraft Launcher.****  
+****
 
 ## Transferring Minecraft: Java Edition to Another Computer 
 

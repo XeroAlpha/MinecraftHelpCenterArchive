@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Installation Issues FAQ"
 date: 2021-09-14T00:17:35Z
-updated: 2023-09-19T14:23:54Z
+updated: 2023-12-28T21:21:29Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -41,6 +41,9 @@ link: https://help.minecraft.net/hc/en-us/articles/4409172223501-Minecraft-Bedro
   - [Windows 10 and above   ](#minecraft-bedrock-edition-for-windows-10and-above)
   - [Xbox  ](#xbox-1)
   - [Chromebook](#chromebook)
+- [My game installation is stalling or stopping part of the way through](#my-game-installation-is-stalling-or-stopping-part-of-the-way-through)
+- [The Install button in the Launcher turns into three dots and the game never finishes installing](#the-install-button-in-the-launcher-turns-into-three-dots-and-the-game-never-finishes-installing)
+- [I don’t want to install on my C Drive. How do I install Minecraft on a different drive on my PC?](#i-dont-want-to-install-on-my-c-drive-how-do-i-install-minecraft-on-a-different-drive-on-my-pc)
 - [Uninstall Minecraft: Bedrock Edition Versions ](#uninstall-minecraft-bedrock-edition)
   - [Mobile devices  ](#mobile-devices)
   - [Console  ](#console)
@@ -181,7 +184,34 @@ All of your installed applications should update (including Minecraft: Bedrock E
 4.  Select **Manage game & add-ons** 
 5.  Select **Updates**  
 
-Any updates will be available here. If no updates are available here, your game is fully updated!  
+Any updates will be available here. If no updates are available here, your game is fully updated! 
+
+## My game installation is stalling or stopping part of the way through
+
+You can try uninstalling and reinstalling the game or even the Launcher. If that doesn’t work, you can try resetting the Microsoft Store using the following steps:   
+
+1.  Press the Windows key + R simultaneously  
+2.  A window will appear. Type in WSReset and hit enter  
+
+You can also try repairing and resetting the Launcher using the following steps:   
+
+1.  Go to the Start Menu
+2.  Right click on the Minecraft Launcher
+3.  Select More
+4.  Open App Settings
+5.  Within these settings, click on Repair and Reset  
+
+## The Install button in the Launcher turns into three dots and the game never finishes installing
+
+First, be sure you’ve stopped the download from the Launcher and have cleared your download queue. You can double check this by loading up the Microsoft Store app and navigating to **Library**, which will show your list of installed applications and anything actively being installed.    
+
+Once you’re sure that’s cleared, try downloading the Xbox app and installing Bedrock there, or directly from the Bedrock page in the Store.
+
+### I don’t want to install on my C Drive. How do I install Minecraft on a different drive on my PC?
+
+You will need to set up the other drive to allow Minecraft to be installed on them. Go into your PC settings - go to Settings\>System\>Storage\>Change where new content is saved. In that menu, go to the 'New apps will save to' dropdown, and select the drive you'd like to install Minecraft on. 
+
+Once you select the other drive in that setting, the option to install to the new drive (or another drive) will become available in the Minecraft Launcher.
 
 ## Uninstall Minecraft: Bedrock Edition 
 
