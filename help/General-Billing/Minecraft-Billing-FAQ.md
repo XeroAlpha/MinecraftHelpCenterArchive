@@ -1,7 +1,7 @@
 ---
 title: Minecraft Billing FAQ
 date: 2021-09-09T17:22:53Z
-updated: 2023-10-05T17:54:34Z
+updated: 2023-12-29T15:29:03Z
 categories: General Billing
 tags:
   - title_minecraft_java_edition
@@ -26,14 +26,13 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4408864211853-Minecraft-Billing-FAQ
 ---
 
-Intro
+This article covers various questions related to billing on various Minecraft games.
 
 # In This Article:
 
 - [Where Can I Buy Minecraft: Java Edition?](#where-can-i-buy-minecraft-java-edition)
 - [Where Can I Buy the Minecraft: Bedrock Edition?](#where-can-i-buy-the-minecraft-bedrock-edition)
 - [Educational Discounts](#educational-discounts)
-- [Do I Need to Buy Minecraft Again?](#do-i-need-to-buy-minecraft-again)
 - [Minecraft: Java Edition](#minecraft-java-edition)
 - [Minecraft: Bedrock Edition for Chromebook and Android](#minecraft-bedrock-edition-for-chromebook-and-android)
 - [Minecraft: Bedrock Edition for iOS](#minecraft-bedrock-edition-for-ios)
@@ -72,12 +71,6 @@ Visit <http://minecraft.net/prepaid> for store locations. Prepaid cards are 
 ## Educational Discounts
 
 If you represent a school, museum, library, or other organization that wishes to use Minecraft for educational purposes, visit [Minecraft Education](https://education.minecraft.net/en-us/homepage) for information about bulk and educational discounts.
-
-## Do I Need to Buy Minecraft Again?
-
-If you haven’t played for a while or you’ve switched devices, you do not have to buy Minecraft again.
-
-If you need to download the game again, visit our [Download](https://www.minecraft.net/en-us/download) page and follow the instructions for the version you prefer (or all of them, if you want).
 
 ## Minecraft: Java Edition
 
