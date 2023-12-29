@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition Installation Issues FAQ"
 date: 2021-09-14T17:14:22Z
-updated: 2023-12-28T21:10:06Z
+updated: 2023-12-29T17:05:34Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -55,40 +55,7 @@ A computer with the minimum requirements should enable gameplay for Minecraft: J
 
 **Note: If you are unsure of whether or not your computer is powerful enough to run Minecraft, it is highly recommended that you try Minecraft in [demo mode](./Minecraft-Java-Edition-Demo-Mode.md) before purchase. **
 
-### Minimum Requirements 
-
-CPU: Intel Core i3-3210 3.2 GHz / AMD A8-7600 APU 3.1 GHz / Apple M1 or equivalent  
-
-RAM: 4 GB  
-
-OS: Windows 10 **or **macOS: 10.14.5 Mojave and up ([Minecraft: Java Edition versions later than 1.18 are no longer supported on Mac OS below version 10.14.5](./Minecraft-Java-Edition-Versions-and-MacOS.md))  
-\**Linux varies by OS, but for screen read functionality we require Orca 3.32 or higher*
-
-VIDEO CARD: Integrated: Intel HD Graphics 4000 (Ivy Bridge) or AMD Radeon R5 series (Kaveri line) with OpenGL 4.41Discrete: Nvidia GeForce 400 Series or AMD Radeon HD 7000 series with OpenGL 4.4  
-
-PIXEL SHADER: 5.0  
-
-VERTEX SHADER: 5.0  
-
-FREE DISK SPACE: At least 1 GB  
-
-### Recommended Requirements  
-
-CPU: Intel Core i5-4690 3.5GHz / AMD A10-7800 APU 3.5 GHz or equivalent  
-
-RAM: 4 GB  
-
-OS: Windows 10 (and above) **or** macOS: 10.14.5 Mojave and up
-
-VIDEO CARD: GeForce 700 Series or AMD Radeon Rx 200 Series (excluding integrated chipsets) with OpenGL 4.5  
-
-PIXEL SHADER: 5.0  
-
-VERTEX SHADER: 5.0  
-
-FREE DISK SPACE: 4 GB  
-
-DEDICATED VIDEO RAM: 256 MB  
+For current minimum and recommended system requirement information, you can visit the [Minecraft: Java & Bedrock Edition purchase page](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc#accordionv1-b6c8df09da-item-7739893325).
 
 For desktop and laptops, you can run either version Java or Windows 10 (and above). Minecraft for Windows can be installed from the Microsoft Store. Minecraft: Java Edition can be installed from [our website](https://www.minecraft.net/en-us/). 
 
