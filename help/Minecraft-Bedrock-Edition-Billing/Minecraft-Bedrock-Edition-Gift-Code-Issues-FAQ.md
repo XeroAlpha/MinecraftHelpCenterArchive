@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Gift Code Issues FAQ  "
 date: 2021-09-21T21:40:08Z
-updated: 2023-07-10T19:04:30Z
+updated: 2023-12-29T20:01:46Z
 categories: "Minecraft: Bedrock Edition Billing"
 tags:
   - section_12617899093133
@@ -9,6 +9,8 @@ link: https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Bedro
 ---
 
 *This article addresses Minecraft: Bedrock Edition gift code issues, see [Minecraft: Java Edition Gift Code Issues FAQ](../Minecraft-Java-Edition-Billing/Minecraft-Java-Edition-Gift-Code-Issues-FAQ.md) for Minecraft: Java Edition gift code issues.*
+
+***Note: Java and Bedrock are now bundled on PC, so you can buy gift cards that give you or whoever redeems the code access to both versions of Minecraft.***
 
 # In This Article:
 
@@ -20,6 +22,16 @@ link: https://help.minecraft.net/hc/en-us/articles/4409745793677-Minecraft-Bedro
 ## What are prepaid Minecraft codes and gift codes?
 
 Minecraft prepaid cards can be used on a Microsoft account (that is not already associated with a copy of the game) and entitle the cardholder to one Minecraft license (in other words, one copy of Minecraft).  
+
+## Where to get Minecraft gift codes?
+
+You can purchase a Minecraft gift card from many retailers that sell digital code gift cards like Amazon, Best Buy, GameStop, Walmart, and Target.
+
+**Note: Minecraft gift cards are region locked, so if the person redeeming the code lives in another country, it will not work for them.**
+
+## How to redeem a Minecraft gift card
+
+See our [article dedicated to redeeming pre-paid cards](./Redeeming-a-Prepaid-Card-for-Minecraft-Java-Bedrock-Edition-for-PC.md) if you need help using your gift card.
 
 ## Minecraft Prepaid Minecoin Cards 
 

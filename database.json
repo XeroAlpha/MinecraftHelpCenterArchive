@@ -7044,12 +7044,18 @@
     "url": "https://help.minecraft.net/hc/en-us/articles/4409745793677",
     "path": "help/Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md",
     "hashMap": {
+      "h_01HJVJ1R88YVS0R29BDEFJ22BZ": "in-this-article",
       "h_01FG54KZFYDBFMZH7SFDS4JZME": "what-are-prepaidminecraftcodes-and-gift-codes",
+      "h_01HJVJ6F4PDRXFFK9MS6V8P921": "where-to-get-minecraft-gift-codes",
+      "h_01HJVJCN0M1SKDKHS9C1C07HZH": "how-to-redeem-a-minecraft-gift-card",
       "h_01FG54M9E8TRZ1B61G7BSS3ANC": "minecraft-prepaid-minecoin-cards",
+      "h_01HJVJ1R88A0XC3XMHQ0FGZSZQ": "redeem-a-minecoin-prepaid-card",
       "h_01FG54MNJPQZFATPDWR75NMY2D": "prepaid-card-and-gift-code-redemption-issues",
-      "the-card-has-already-been-redeemed.": "the-card-has-already-been-redeemed",
-      "this-pin-code-is-invalid.": "this-pin-code-is-invalid",
-      "general-error-that-code-doesnt-work.": "general-error-that-code-doesnt-work"
+      "h_01HJVJ1R88XVQ6P1ESYW3Y605G": "error-messages-when-redeeming-your-card",
+      "h_01HJVJ1R88MNCJXEGXTDB40BHD": "the-card-has-already-been-redeemed",
+      "h_01HJVJ1R88WJX3MEDV1ZVEN6PB": "this-pin-code-is-invalid",
+      "h_01HJVJ1R88FS5628DHVPY526T2": "general-error-that-code-doesnt-work",
+      "h_01HJVJ1R887H65PDCS59D2CNMA": "we-are-currently-unable-to-redeem-prepaid-cards"
     }
   },
   {
