@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.60.24
 date: 2024-01-04T15:45:01Z
-updated: 2024-01-04T15:55:36Z
+updated: 2024-01-05T09:07:10Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/22915685759373-Minecraft-Beta-Preview-1-20-60-24
 ---
@@ -93,7 +93,7 @@ Here’s a list of what’s new in the latest Minecraft Preview and Beta. As alw
 
 ## Vanilla Parity
 
-- Trail Ruins will now be placed in the same location and configuration as in Java
+- Trail Ruins will now be placed in the same location and configuration as in Java ([MCPE-169988)](https://bugs.mojang.com/browse/MCPE-169988)
 
 ## Villages
 
