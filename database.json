@@ -1478,6 +1478,22 @@
     }
   },
   {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/23082413763341",
+    "path": "feedback/Beta-and-Preview-Information-and-Changelogs/Minecraft-Beta-Preview-1-20-60-25.md",
+    "hashMap": {
+      "h_01HBVR6KM8JCTEG8SDY8V3WBB3": "information-on-the-minecraft-preview-and-beta",
+      "h_01HKSX5AVV6NVMCEQ8VM9EWZ3A": "experimental-features",
+      "h_01HKSX5DPTHMFXCY9S391CY44Y": "trial-spawner",
+      "h_01HKSX5J4H9EBQP0HK0DB80GZD": "breeze",
+      "h_01HKSX5PY11VS7FJ4X9SVRQ7T7": "features-and-bug-fixes",
+      "h_01HKSX5TXZGAX6J0JWTM8B2XA8": "blocks",
+      "h_01HKSX5XS3SN2T0RHWPM1CZYEG": "double-chest--double-trapped-chest",
+      "h_01HKSX61GEHCSR9VHKB7MNTP75": "general",
+      "h_01HKSX64NA6DDT4MF1EZR6156K": "items",
+      "blocks": "blocks-1"
+    }
+  },
+  {
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360003401232",
     "path": "feedback/Feedback-Website/Posting-Guidelines.md"
   },
