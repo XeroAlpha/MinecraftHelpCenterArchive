@@ -6720,37 +6720,7 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4409155824269",
-    "path": "help/Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md",
-    "hashMap": {
-      "h_01HAMVXBMRVH3752Q18PAW0QXX": "in-this-article",
-      "h_01FFGD3JV3P2B0TQ65RMKZAQ8D": "minecraft-java-edition-account-types",
-      "h_01HAMVXBMRW5SEF9PQAE56VF7K": "minecraft-account",
-      "h_01HAMVXBMRFCVZZT6AR5F1ME52": "mojang-account",
-      "h_01HAMVXBMRXZ8ZQDN7GEVXW873": "microsoft-account",
-      "h_01GEQANTW7D0BTETBNV5AN7B99": "unlinking-a-minecraft-java-edition-account-and-a-microsoft-account",
-      "h_01HAMVXBMSGDW4P2YJ155BDSZN": "if-you-created-a-minecraft-accountprior-to-november-2012legacy-account-the-following-may-apply-to-you",
-      "h_01HAMVXBMSP7S020TT7N0HPMT1": "you-had-a-legacy-or-premium-minecraft-account",
-      "h_01HAMVXBMS8KKCC1VVF2G0G85B": "you-had-an-unpaidminecraftaccount",
-      "h_01HAMVXBMSN64JBNJWPRQ2XXBA": "faqs",
-      "h_01FFGD3RVJ0CDFJP8RC2RP81RT": "do-i-login-with-my-email-address-or-my-java-profile-name",
-      "h_01FFGD4VMHFW7CYMZHWH9VK9YW": "iforgot-my-password",
-      "h_01FFGD51T117QBT4J839F59RXB": "iforgot-the-email-address-used-for-my-account",
-      "h_01FFGD5AK5WXBX4YC19E6G44EG": "ineedtochangetheemailaddressusedformyaccount",
-      "h_01FFGD63H3CJPNWSC6N03WV6H9": "i-remember-my-email-address-but-not-my-java-profile-name",
-      "h_01FFGD6A878303HFCYCA5KRRJR": "im-getting-an-error-that-says-login-failed-invalid-java-profile-name-or-password",
-      "h_01FFGD6H7DVX852M2Q0G891HPZ": "im-havingtrouble-with-my-security-questions",
-      "h_01FFGD6YT9V7XPQJRRZH121DSX": "i-need-to-change-or-recover-my-registered-email-address",
-      "h_01FFGD7AMH9BC14R0C5BA6X96B": "im-notreceivingemailsfrommojang-studios",
-      "h_01HAMVXBMSF4D9GVS5PN4TGMTT": "verifyyouremailaddress",
-      "h_01FFGD7XP8NAT92B5H05N1XTHF": "i-cant-logintomy-mojang-account",
-      "h_01HAMVXBMSG43NEQKKT69CX37B": "my-java-profile-name-and-password-are-correctbutistill-cant-login",
-      "h_01HAMVXBMSPJJ3FZ5RSHK1JRPP": "encountering-an-error-while-creating-your-account",
-      "h_01HAMVXBMS0W4PBAVFBDTXPF76": "forgot-password-and-donthave-access-to-your-original-account-email",
-      "h_01HAMVXBMS197KDKR17R848H68": "send-uswhat-youcan",
-      "h_01FFGD87DAJER0HX7PKMYRYM60": "i-can-only-play-the-demo",
-      "h_01FFGD8G12K5A9N2FVPA693E3Z": "i-changed-computers-myaccount-is-gone",
-      "h_01HAMVXBMSDT45V5TWG8HXM23J": "ivetried-the-above-but-istillneedhelp"
-    }
+    "path": "help/Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4409159214605",
