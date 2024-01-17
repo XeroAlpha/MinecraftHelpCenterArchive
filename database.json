@@ -1494,6 +1494,31 @@
     }
   },
   {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/23286907829261",
+    "path": "feedback/Snapshot-Information-and-Changelogs/Minecraft-Java-Edition-Snapshot-24W03A.md",
+    "hashMap": {
+      "h_01HMBZH35ED5J40W0YBKJ2AA00": "new-features",
+      "h_01HMBZH35E2XNG5YP54W79NZDF": "armadillo",
+      "h_01HMBZH35EC3791PST7YHWV8NB": "armadillo-rolling-up-behavior",
+      "h_01HMBZH35E0QMQYAET3P48WG0M": "changes",
+      "h_01HMBZH35E2PWG0Y81BF57Q5FM": "accessibility",
+      "h_01HMBZH35E5Y0GE38DGF8C4WKS": "technical-changes",
+      "h_01HMBZH35E6Q1Y8X4XBKBET2YA": "transfer-packets",
+      "h_01HMBZH35ERNN8JDEGHXJKRN4R": "cookie-packets",
+      "h_01HMBZH35EE4RPR5AJDGKEZSV6": "spawn-chunk-changes",
+      "h_01HMBZH35EDCGW1GA6F333460D": "data-pack-version-28",
+      "h_01HMBZH35EJ3WD3MV982QGSZRG": "tags",
+      "h_01HMBZH35E7N5AWKCMDA0TVRBK": "item-tags",
+      "h_01HMBZH35EYFF727YCVS97Z3B0": "entity-type-tags",
+      "h_01HMBZH35E5CPNVX8JBQV13GWX": "resource-pack-24",
+      "h_01HMBZH35EKK5EYCRCGNXFS307": "experimental-features",
+      "h_01HMBZH35EVYFSZXAXW8GPNTD8": "breeze",
+      "h_01HMBZH35E8FP1FDEQ6XG09YFP": "trade-rebalance",
+      "h_01HMBZH35E84GQJ8B1NPTSZ6DK": "fixed-bugs-in-snapshot-24w03a",
+      "h_01HMBZH35F2G93KBFHG81HY7KS": "get-the-snapshot"
+    }
+  },
+  {
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360003401232",
     "path": "feedback/Feedback-Website/Posting-Guidelines.md"
   },
@@ -6322,7 +6347,7 @@
       "h_01HB9PPC7JWQ19J5RVJBE4VPVA": "how-to-write-helpful-bug-reports",
       "h_01FF6B1MMT7GDCQ1YWZFGABB03": "project-specific-guidelines",
       "h_01HB9PPC7JCT91J57PJ8VHFCAE": "minecraft-java-edition",
-      "h_01HB9PPC7JNA0509J1P09BZCJX": "minecraft-bedrock-edition-and-minecraft-dungeons",
+      "h_01HB9PPC7JNA0509J1P09BZCJX": "minecraft-bedrock-edition",
       "h_01HB9PPC7KGQ4QSB5A3574W5PX": "minecraft-realms",
       "h_01FF6B26Q7A5BTZT7RGCBX9WC4": "example-template",
       "h_01HB9PPC7K6SFJEFJ89T2N7KXE": "example-bug-reports",

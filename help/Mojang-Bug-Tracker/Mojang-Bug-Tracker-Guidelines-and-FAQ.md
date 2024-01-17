@@ -1,7 +1,7 @@
 ---
 title: Mojang Bug Tracker Guidelines and FAQ
 date: 2021-09-09T22:04:45Z
-updated: 2023-10-13T19:34:38Z
+updated: 2024-01-17T15:28:42Z
 categories: Mojang Bug Tracker
 tags:
   - section_12619044068621
@@ -118,8 +118,8 @@ When creating a bug report, keep the following guidelines in mind:
 - Report the issue to the correct project:
   - **MC**: [Minecraft: Java Edition](https://bugs.mojang.com/browse/MC) – Windows, Mac, and Linux
   - **MCPE**: [Minecraft (Bedrock codebase)](https://bugs.mojang.com/browse/MCPE) – Amazon Fire TV, Android, iOS, Nintendo Switch, PlayStation®, Windows 10 and above (from the Microsoft store), and Xbox.
-  - **MCD**: *As of September 28, 2023, the Minecraft Dungeons Bug Tracker will no longer be accepting new bugs. For more information, check out our [latest announcement](https://www.minecraft.net/en-us/article/dungeons--25-million-players) about Minecraft Dungeons.*
-  - **MCLG**: [Minecraft Legends](https://bugs.mojang.com/browse/MCLG) 
+  - **MCD**: T*he Minecraft Dungeons Bug Tracker is no longer accepting new bugs. For more information, check out our [latest announcement](https://www.minecraft.net/en-us/article/dungeons--25-million-players) about Minecraft Dungeons.*
+  - **MCLG**: *The Minecraft Legends bug tracker is no longer active for new bug reports and comments.*
   - **MCL**: [Minecraft Launcher](https://bugs.mojang.com/browse/MCL) – Launcher for Minecraft: Java Edition and Minecraft Dungeons
   - **REALMS**: [Minecraft Realms](https://bugs.mojang.com/browse/REALMS) – Issues with Realms management or that only occur on a Realm
   - **BDS**: [Bedrock Dedicated Server](https://bugs.mojang.com/browse/BDS) – Issues that only occur on Bedrock Dedicated Servers
@@ -151,7 +151,7 @@ To help ensure that your bug report is effective, it is highly recommended that 
 - If you create a bug report about a server-side performance issue, include the debug profile and report to the bug report. You can create them by using the /debug command.
 - If you create a bug report about a client-side performance issue, provide detailed information about your system specifications and the circumstances in which the performance issue occurs. Bug reports about general performance issues (for example “Minecraft always has low FPS”) are usually not accepted.
 
-### Minecraft: Bedrock Edition and Minecraft Dungeons
+### Minecraft: Bedrock Edition
 
 - Always specify exactly what device (platform) you are using.
 - Crash logs are automatically collected and reported to Mojang Studios. Only report a crash if you can provide a list of steps to reproduce the crash.
