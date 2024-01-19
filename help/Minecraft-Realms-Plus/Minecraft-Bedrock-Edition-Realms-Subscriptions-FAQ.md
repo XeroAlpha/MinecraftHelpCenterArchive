@@ -1,6 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Subscriptions FAQ"
 date: 2023-12-18T21:43:01Z
+updated: 2024-01-19T20:46:33Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -25,20 +26,20 @@ Minecraft: Bedrock Edition Realms comes with a few subscription tiers and variou
 
 # In This Article:
 
-- [How much is a Realms subscription?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGVJ6Z0KXX3VDEHA03E)
-- [What is Realms Plus?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGV7FB6GEMH0F1B7YEA)
-- [How much does a Realms Plus subscription cost?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGVPXEMFK1R5MK575CW)
-- [How long will my subscription last?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWZHX1KCCXDPZF6J1W)
-- [What happens to my Realms and worlds when my subscription to Realms Plus ends?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWS4X6YEW9NE5VGM4M)
-- [Do I need Xbox Game Pass or another subscription to play on a Realm?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWXJS7W1935FDPH0W0)
-- [How do I cancel my recurring subscription?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWP4QTFGNZVDDQR0K0)
-- [Can I use my Realms Plus packs offline?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGW91W557W9M1KYAYFG)
-- [Can I host my Realms Plus worlds, texture packs, skins, and mash-ups on my realm?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWC0VCN4FXYCD96Z8G)
-- [How often are new packs added to Realms Plus?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWDH4852ZFDKH5DTC5)
-- [How long do I have access to packs within Realms Plus?  ](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGW0TG7BJ45C3W5MD8G)
-- [If I download a pack, can I access it after it leaves Realms Plus?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWHMAK5MQQPX60M7D7)
-- [Where do these packs come from?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGWCJWWZ03C69XNHEW0)
-- [How many world templates can I play with Realms Plus?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HHZDHSGX180ABC8FQSEH3ZRN)
+- [How much is a Realms subscription?](#how-much-is-a-realms-subscription)
+- [What is Realms Plus?](#what-is-realms-plus)
+- [How much does a Realms Plus subscription cost?](#how-much-does-a-realms-plus-subscription-cost)
+- [How long will my subscription last?](#how-long-will-my-subscription-last)
+- [What happens to my Realms and worlds when my subscription to Realms Plus ends?](#what-happens-to-my-realms-and-worlds-when-my-subscription-to-realms-plus-ends)
+- [Do I need Xbox Game Pass or another subscription to play on a Realm?](#do-i-need-xbox-game-pass-or-another-subscription-to-play-on-a-realm)
+- [How do I cancel a subscription or restart a canceled subscription?](#how-do-i-cancel-a-subscription-or-restart-a-canceled-subscription)
+- [Can I use my Realms Plus packs offline?](#can-i-use-my-realms-plus-packs-offline)
+- [Can I host my Realms Plus worlds, texture packs, skins, and mash-ups on my realm?](#can-i-host-my-realms-plus-worlds-texture-packs-skins-and-mash-ups-on-my-realm)
+- [How often are new packs added to Realms Plus?](#how-often-are-new-packs-added-to-realms-plus)
+- [How long do I have access to packs within Realms Plus?  ](#how-long-do-i-have-access-to-packs-within-realms-plus)
+- [If I download a pack, can I access it after it leaves Realms Plus?](#if-i-download-a-pack-can-i-access-it-after-it-leaves-realms-plus)
+- [Where do these packs come from?](#where-do-these-packs-come-from)
+- [How many world templates can I play with Realms Plus?](#how-many-world-templates-can-i-play-with-realms-plus)
 
 ## How much is a Realms subscription?
 
@@ -97,7 +98,7 @@ Playing on a Realm requires an Xbox Game Pass Core or Xbox Game Pass Ultimate su
 
 A Nintendo Switch Online subscription is required for playing multiplayer on Nintendo Switch. A PlayStation Plus membership is required for playing multiplayer on PlayStation.  
 
-## How do I cancel my recurring subscription?    
+## How do I cancel a subscription or restart a canceled subscription?
 
 See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) for information on canceling recurring Minecraft Realms subscriptions.  
 
