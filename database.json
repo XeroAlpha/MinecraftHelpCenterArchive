@@ -5523,6 +5523,61 @@
     }
   },
   {
+    "url": "https://help.minecraft.net/hc/en-us/articles/23430310790413",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/Troubleshooting-Minecraft-Launcher-Startup-and-Login-Issues.md",
+    "hashMap": {
+      "h_01HMSBNVJE5Q3RFENFGW4N87F8": "in-this-article",
+      "h_01HMSBQY5PGYXHETE9XY27KSS4": "how-do-i-switch-between-my-microsoft-accounts-to-play-my-games",
+      "h_01HMSBRZ6JBCHT8D20130TRAE3": "i-cant-sign-in-to-my-launcher",
+      "h_01HMSBTA6G3PDNMAJWD5VS7MMX": "launcher-wont-start-up-or-crashes-during-sign-in",
+      "h_01HMSBYEW5JGE1SVPFPNT5XWP1": "my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/23430683774221",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/Troubleshooting-Installing-the-Minecraft-Launcher.md",
+    "hashMap": {
+      "h_01HMSCCJZJ1XZSVCG6TMBTFQ2W": "in-this-article",
+      "h_01HMSCDZNCBBE3PX0Z5077H58J": "i-try-to-install-the-launcher-through-the-microsoft-store-but-the-installation-fails",
+      "h_01HMSCH61Y9TT8PF5E0DB920YP": "the-minecraft-launcher-is-failing-to-install-after-downloading-it-from-minecraftnet"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/23431114561037",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/Troubleshooting-Launching-Minecraft-from-the-Minecraft-Launcher.md",
+    "hashMap": {
+      "h_01HMSD393FBNS0PJ8EYJ3G2JN1": "in-this-article",
+      "h_01HMSD3MCHG5CQ46G0Y8A0VC3Z": "minecraft-is-installed-but-the-game-or-the-launcher-crashes-when-i-click-play",
+      "h_01HMSD4767T1FZ2BXR75WDYZ5P": "java-edition",
+      "h_01HMSD5P4JQSF0P7R6224EEXAG": "bedrock-and-other-minecraft-games"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/23431742854413",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/Troubleshooting-Accessing-Games-from-the-Minecraft-Launcher.md",
+    "hashMap": {
+      "h_01HMSDKBGDG95VT9V6PFK4YTGT": "in-this-article",
+      "h_01HMSDKT4CHR2E9N71FAC28PS1": "i-can-play-minecraft-bedrock-edition-but-not-java",
+      "h_01HMSDT99AES765JPV7VHTY334": "i-dont-see-my-games-or-a-play-button-to-press-how-can-i-play",
+      "h_01HMSDXRB0N51XKP0ZDA2W01QM": "i-get-sent-to-the-windows-store-when-i-try-to-launch-a-game-from-the-minecraft-launcher",
+      "h_01HMSE1VBGK37GYRYAZ0WT1HNV": "i-own-bedrock-but-when-i-try-to-run-java-i-cant-create-a-profile"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/23432418934925",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/Common-Minecraft-Launcher-Error-Codes.md",
+    "hashMap": {
+      "h_01HMSEEK698DB185PMAS64P27P": "in-this-article",
+      "h_01HMSEEWYX37F3TH7XNP7A3ZPX": "java-profile-creation-failed-error",
+      "h_01HMSEH1JVR22Q52APB54XA98F": "minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001",
+      "h_01HMSEK3Z50Y55WCBG5C2NNTQ3": "unable-to-update-native-launcher-error",
+      "h_01HMSEPCKH1CZ2QGPGXRWK9MKM": "error-0x80131500-when-trying-to-install-the-launcher",
+      "h_01HMSET4M1NBEFA64PTMZANVBC": "cant-connect-to-minecraft-services-error-after-sign-in",
+      "h_01HMSF318T74CHXQ87F93YXN63": "error-0x80242020-after-installing-bedrock-edition",
+      "h_01HMSF5044HM9DWH3ZBNCBA5B0": "you-must-complete-adult-verification-on-the-xbox-homepage-error"
+    }
+  },
+  {
     "url": "https://help.minecraft.net/hc/en-us/articles/360029644312",
     "path": "help/Minecraft-Java-Realms/How-do-I-Join-Someone-s-Minecraft-Java-Realm.md",
     "hashMap": {
@@ -7552,59 +7607,9 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/6662588435597",
-    "path": "help/Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-Troubleshooting-FAQ.md",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-Troubleshooting-Common-Issues.md",
     "hashMap": {
-      "h_01H93SAVJNWTCV5WJCVNQNM387": "most-common-problems",
-      "h_01H93S9SZPZRSEDBT79TBHCG41": "im-having-a-problem-with-my-launcher-andor-with-running-minecraft-what-should-i-do",
-      "h_01H93S9SZPA47GBGR8CYVKAESP": "in-this-article",
-      "h_01H5J7B4JN8QF1H9M83C0G327E": "if-you-are-getting-a-java-profile-creation-failed-error-in-the-launcher",
-      "h_01H93S9SZPN9EHNS4TTAMCG0GG": "trouble-downloading-the-minecraft-launcher-from-the-microsoft-store",
-      "h_01H93S9SZPKFF4375HWWT0XFXF": "trouble-downloading-the-minecraft-launcher-from-minecraftnet",
-      "h_01H93S9SZPQ2HBZ2GCGZ0NA4HN": "trouble-loading-up-the-minecraft-launcher",
-      "h_01H93S9SZPAT8TZ4N68F67PEJQ": "trouble-logging-into-the-minecraft-launcher",
-      "h_01H93S9SZP2KK6JY7Q983BPDFZ": "trouble-installing-the-game-from-the-minecraft-launcher",
-      "h_01H93S9SZP9ZTPG32TBX1461R4": "trouble-launching-the-game-from-the-minecraft-launcher",
-      "h_01H93S9SZQ84V63AVX3KACXZH0": "i-own-bedrock-on-my-account-but-when-i-try-to-run-java-edition-i-am-unable-to-create-a-profile-and-therefore-unable-to-play-the-game",
-      "h_01H93S9SZQ33BE1TTENNE7X7RC": "",
-      "h_01H93S9SZQXXR6Q05NSDZXS8HR": "im-getting-a-you-must-complete-adult-verification-on-the-xbox-homepage-error",
-      "h_01H93S9SZQYPKQWC0YM90X66CE": "if-you-are-getting-a-java-profile-creation-failed-error-in-the-launcher-1",
-      "h_01GAHKDDEQM3WG1SWYE25P04CE": "trouble-downloading-the-minecraft-launcher-from-the-microsoft-store-1",
-      "h_01GAHKDNBRG25BYQ1P091P60VA": "i-click-get-to-install-the-launcher-but-the-installation-fails",
-      "h_01GAHKDWEKS8JMH6W5KW7KAY2Y": "ive-received-the-error-minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001",
-      "h_01GAHKE2052F4YMFVTCV912378": "i-cannot-download-the-minecraft-launcher-and-im-being-told-to-renew-my-xbox-live-subscription",
-      "h_01HGDSWB1F7H8FCKASTN7095P2": "i-see-a-message-in-the-launcher-saying-security-update-available-what-does-that-mean",
-      "h_01GAHKE7EKKH5Z57532NKWAMSZ": "im-getting-the-error-unable-to-update-native-launcher",
-      "h_01GAHKEGECG1PJ271MMGZZ1135": "trouble-downloading-the-minecraft-launcher-from-minecraftnet-1",
-      "h_01GAHKEQKSV93FVKBMPFYEG5A8": "im-trying-to-install-the-minecraft-launcher-after-downloading-it-from-minecraftnet-but-its-failing-to-install",
-      "h_01GAHKEXTQFV60MQ7KFQF29871": "im-receiving-error-0x80131500-when-trying-to-install-the-launcher",
-      "h_01GAHKF93Y7WBN902BC98T5QRY": "trouble-loading-up-the-minecraft-launcher-1",
-      "h_01GAHKFGANHSNBGETWHQXD1E9T": "my-launcher-never-gets-to-the-login-screen-it-just-loads-forever",
-      "h_01GAHKFPYNB3TW36SY4XJHM961": "my-launcher-fails-to-startup-and-i-get-a-system-error-this-app-cant-open",
-      "h_01GAHKFXS083J405YYH14JN334": "my-launcher-is-failing-to-visibly-startup",
-      "h_01GAHKG6RD37N2ZK6Y5E0B9AZJ": "trouble-logging-into-the-minecraft-launcher-1",
-      "h_01GAHKGJ46Y07ZSEV5G7TXV5YV": "i-clicked-login-and-entered-my-credentials-but-am-getting-an-error-something-went-wrong-in-the-login-process-if-the-problem-persists-check-your-internet-connection",
-      "h_01GAHKGSVBHM19CCJVFWT7YYC5": "my-launcher-crashes-during-login",
-      "h_01H93S9SZQPK8WKM1K368ZJAJG": "reset-store",
-      "h_01H93S9SZQNK21EA62ZKHBFXQT": "repairreset-the-launcher",
-      "h_01GAHKH23AJANSNZPGCTQ7YQ3T": "my-launcher-works-but-i-cant-successfully-login",
-      "h_01GAHKJXWWAQP5ECRTPH827095": "my-launcher-is-working-and-i-can-login-but-i-have-to-re-enter-my-credentials-every-time",
-      "h_01GAHKK8YDS9R30G2PB8N2TY75": "i-can-log-into-the-launcher-but-i-cant-access-any-of-the-games-i-own",
-      "h_01GAHKKSD8473DKZFGKS0BF5SA": "ive-logged-into-the-launcher-and-am-getting-the-error-cant-connect-to-minecraft-services",
-      "h_01GAHKM2M072KD3P2YJ8YT0YYY": "trouble-installing-the-game-from-the-minecraft-launcher-1",
-      "h_01GW2GEYZ3CYCJ5PFCDTME2FMP": "my-game-installation-is-stalling-or-stopping-part-of-the-way-through",
-      "h_01GW2GFHT85PZ06HB87WS3372T": "im-installing-bedrock-from-the-microsoft-store-and-getting-the-error-0x80242020",
-      "h_01GW2GG8FX6F5TCB89PW72AW30": "i-try-to-install-bedrock-from-inside-the-launcher-by-clicking-install-but-the-button-turns-into-3-dots-and-the-game-never-finishes-installing",
-      "h_01GW2GGGWRCGVRSXW8WKZPDPSF": "my-launcher-is-crashing",
-      "h_01H78M8TXAAEQZVJ2G38J7D2XD": "i-dont-want-to-install-on-my-c-drive-how-do-i-install-on-a-different-drive-on-my-pc",
-      "h_01GW2GH2NVNTTMMC8N8EQC8NAY": "trouble-launching-the-game-from-the-minecraft-launcher-1",
-      "h_01GAHKM9PD9CQKDQNJHYX8T2RW": "the-game-is-properly-installed-i-click-play-and-the-game-crashes",
-      "h_01GAHKNZ5KQYBPPDQM2EQJWZE6": "the-game-is-properly-installed-i-click-play-and-the-launcher-crashes",
-      "h_01GAHKMH93WEKJKH6E3B0KB0ES": "the-game-is-properly-installed-but-the-launcher-cant-connect-to-servicesappears-offline",
-      "h_01GAHKNA98W7G4GC4XBKNK0HAK": "i-want-to-review-the-launcher-but-the-popup-keeps-spinning-without-resolution",
-      "h_01GAHKPAD6PX53DBBARP4CHS7Q": "the-launcher-wont-open-and-im-getting-error-code-0x8007042b",
-      "h_01GW2G2XQA6YDHMJA5C34Y0328": "i-get-sent-to-the-store-whenever-i-try-to-launch-a-game-from-within-the-launcher",
-      "h_01GAHKPJ3ADTA6VE60JHPH1V6N": "i-own-bedrock-on-my-account-but-when-i-try-to-run-java-edition-i-am-unable-to-create-a-profile-and-therefore-unable-to-play-the-game-1",
-      "h_01GAHKPRJPH6YCKFCF6EFDYWZH": "im-getting-a-you-must-complete-adult-verification-on-the-xbox-homepage-error-1"
+      "h_01HMSFFS7JH9MTQ41A4VC9RNNX": "minecraft-launcher-troubleshooting-articles"
     }
   },
   {
