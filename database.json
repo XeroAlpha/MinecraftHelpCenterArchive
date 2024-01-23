@@ -6510,12 +6510,11 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4408896232461",
-    "path": "help/Minecraft-Bedrock-Edition-Technical/Android-Technical-Support-FAQ.md",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md",
     "hashMap": {
-      "h_01HAMD1SH2GP70RSDDRK91MBEY": "update-on-amazon-devices-1202023",
-      "h_01HAMD1SH2KQGABBJZRWV9EWHA": "update-on-android-devices",
-      "h_01HAMD1SH33H3N76HBQY26PJMM": "i-purchased-minecraft-bedrock-edition-but-it-is-not-appearing-in-my-google-play-family-library",
-      "h_01HAMD1SH38MP1DSDHXE13BVTF": "i-cannot-launch-minecraft-bedrock-edition-even-though-it-is-listed-in-my-family-library"
+      "h_01HMVX21THQY6G0H8XAPNQS4JC": "what-are-the-minimum-specifications-to-play-minecraft",
+      "h_01HMVX3DRSPDJT9REW0SRKXN4Z": "my-device-is-still-supported-but-i-have-performance-problems-what-can-i-do",
+      "h_01HMVX5TWA37VE7VDJVWR1WFDE": "my-device-is-no-longer-supported-what-can-i-do"
     }
   },
   {
