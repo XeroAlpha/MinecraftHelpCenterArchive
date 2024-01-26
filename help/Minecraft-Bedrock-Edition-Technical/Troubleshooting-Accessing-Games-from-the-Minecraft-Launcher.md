@@ -1,6 +1,7 @@
 ---
 title: Troubleshooting Accessing Games from the Minecraft Launcher
 date: 2024-01-22T20:38:35Z
+updated: 2024-01-26T16:58:16Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -87,3 +88,5 @@ Install and sign in to the following applications:
 - [Xbox Identity Provider](https://aka.ms/XboxIdentityProvider)
 - [Xbox Live In-Game Experience](https://aka.ms/XboxLiveInGame)
 - [Feedback Hub](https://aka.ms/DLFeedbackHub)
+
+You can also try using the [Gaming Services Repair Tool](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool).
