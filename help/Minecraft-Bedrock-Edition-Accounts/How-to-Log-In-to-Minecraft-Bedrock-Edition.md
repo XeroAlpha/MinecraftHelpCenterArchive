@@ -1,7 +1,7 @@
 ---
 title: "How to Log In to Minecraft: Bedrock Edition"
 date: 2020-07-14T23:11:19Z
-updated: 2023-09-27T15:23:15Z
+updated: 2024-01-26T21:57:29Z
 categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - title_minecraft
@@ -103,8 +103,6 @@ More information is available in this guide for [how to sign out of your Xbox c
 2.  Open the Xbox app.  
 3.  Log in to the account you want to play with.  
 4.  Try signing in again on your Xbox/PC/device.  
-
-[More information regarding logging in on Minecraft: Bedrock Edition](https://help.minecraft.net/hc/en-us/articles/360034635232-Minecraft-Log-In).  
 
 [Information about changing or forgotten passwords](https://support.microsoft.com/en-us/account-billing/reset-a-forgotten-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37). 
 
