@@ -1,7 +1,7 @@
 ---
 title: " Minecraft Beta & Preview - 1.20.70.20"
 date: 2024-01-23T17:59:03Z
-updated: 2024-01-23T21:32:03Z
+updated: 2024-01-29T14:05:58Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/23458154786829--Minecraft-Beta-Preview-1-20-70-20
 ---
@@ -91,7 +91,7 @@ Here’s a list of what’s new in the latest Minecraft Preview and Beta. As alw
       - Moved *getEquipmentSlot* from *beta* to *1.9.0*
     - Moved *BlockStateType* from *beta* to *1.9.0*
     - Moved *BlockStates* from *beta* to *1.9.0*
-    - Moved *BlockSignComponent* from *beta* to *9.0*
+    - Moved *BlockSignComponent* from *beta* to *1.9.0*
     - Moved *DyeColor* from *beta* to *1.9.0*
     - Moved *SignSide* from *beta* to *1.9.0*
     - Moved *ContainerSlot* from *beta* to *1.9.0*
