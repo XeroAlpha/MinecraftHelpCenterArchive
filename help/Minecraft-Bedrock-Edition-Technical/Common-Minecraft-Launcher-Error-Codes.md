@@ -1,6 +1,7 @@
 ---
 title: Common Minecraft Launcher Error Codes
 date: 2024-01-22T20:56:52Z
+updated: 2024-01-30T19:02:24Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -52,7 +53,9 @@ Ensure that you’re properly logged into the same account on both the Microso
 
 ## Minecraft Launcher license is currently not available for your account (0X803F8001)
 
-Try installing the Minecraft Launcher [directly from the Microsoft Store](https://aka.ms/NewMCLauncher) and log in using the Microsoft account you used to log into the Launcher. If you still receive this error, reset the store.
+First, make sure you are signed into the same account on the Minecraft Launcher, Microsoft Store, and Xbox app.
+
+If you are, try installing the Minecraft Launcher [directly from the Microsoft Store](https://aka.ms/NewMCLauncher) and log in using the Microsoft account you used to log into the Launcher. If you still receive this error, reset the store.
 
 **Reset the Microsoft Store**
 

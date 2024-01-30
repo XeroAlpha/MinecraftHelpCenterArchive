@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Accessing Games from the Minecraft Launcher
 date: 2024-01-22T20:38:35Z
-updated: 2024-01-26T16:58:16Z
+updated: 2024-01-30T18:46:06Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -31,7 +31,7 @@ This article focuses on issues that may be preventing you from having access to 
 
 ## I can play Minecraft: Bedrock Edition, but not Java
 
-**Note: If you’re trying to access Java Edition through family sharing with a parent account, you will not be able to do so. Only accounts that own the game or are subscribed to Xbox Game Pass for PC will have access to Java Edition.**
+**Note: If you’re trying to access Java Edition through family sharing with a parent account, you will not be able to do so. Only accounts that own the game or are subscribed to Xbox Game Pass for PC will have access to Java Edition. To learn more about family sharing, visit [How to Download and Play Minecraft Through Family Share on PC](./How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).**
 
 You’re likely signed into the wrong Microsoft account. Sign out of the Microsoft Store and then sign in using the account you used to buy the Minecraft licenses.
 

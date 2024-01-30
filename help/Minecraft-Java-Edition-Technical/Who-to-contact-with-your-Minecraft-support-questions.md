@@ -1,7 +1,7 @@
 ---
 title: Who to contact with your Minecraft support questions
 date: 2023-09-14T20:59:33Z
-updated: 2024-01-11T18:40:09Z
+updated: 2024-01-30T21:12:11Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -26,6 +26,7 @@ tags:
   - subject_microsoft_sign_in_questions
   - category_refund
   - category_presale_questions
+  - popular
   - section_12618019146893
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19506833026829-Who-to-contact-with-your-Minecraft-support-questions
@@ -37,7 +38,7 @@ We know you want to get back into your Minecraft world as quickly as possible. I
 
 If you are experiencing issues trying to log in to Minecraft with your Xbox, PlayStation, or Nintendo account, you should contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
 
-As of December 18, 2023, the migration of Mojang accounts to Microsoft accounts officially ended. If you successfully completed the post-migration process, you should now have access to both Java and Bedrock editions. Please visit these pages for help with your Microsoft account:
+As of December 18, 2023, the migration of Mojang accounts to Microsoft accounts officially ended. If you successfully completed the post-migration process, you should now have access to both Java and Bedrock for PC editions. Please visit these pages for help with your Microsoft account:
 
 - New Accounts: [How to create a new Microsoft account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf)
 - Existing Accounts: [Get help with your Microsoft account](https://support.microsoft.com/en-us/account-billing/get-help-with-your-microsoft-account-ace6f3b3-e2d3-aeb1-6b96-d2e9e7e52133)
@@ -52,8 +53,8 @@ If you are having [trouble getting a friend to join your Minecraft Realms world]
 
 Having problems accessing other [Marketplace content](../Minecraft-Bedrock-Edition-Billing/Minecraft-Marketplace-FAQ.md) you have purchased? Minecraft Support should be your go-to.
 
-For subscription changes, [refund requests](../General-Billing/Mojang-Studios-Refund-Policy.md), or if you’re being overcharged for any purchase, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
+For subscription changes, [refund requests](../General-Billing/Mojang-Studios-Refund-Policy.md), or if you have unrecognized charges, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
 
 ## GDPR/Data Deletion requests
 
-All [GDPR/Data Deletion requests](https://www.minecraft.net/en-us/privacy/gdpr) can be handled through Minecraft Support.
+Visit [GDPR/Data Deletion requests](https://www.minecraft.net/en-us/privacy/gdpr) to delete your Mojang profile. Once complete, visit [Microsoft Support](https://support.microsoft.com/en-us/contactus) to delete the rest of your data.

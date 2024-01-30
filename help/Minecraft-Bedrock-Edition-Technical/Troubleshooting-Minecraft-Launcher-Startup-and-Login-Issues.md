@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Launcher Startup and Login Issues
 date: 2024-01-22T20:02:48Z
-updated: 2024-01-22T20:13:31Z
+updated: 2024-01-30T18:58:34Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -31,6 +31,8 @@ This page covers issues you may encounter with the Minecraft Launcher not starti
 ## How do I switch between my Microsoft accounts to play my games?
 
 You can click your username in the top left corner. From the drop down, select **Switch Account**. This will bring up a new window allowing you to sign into another Microsoft account. If multiple accounts have been added, this button will allow you to switch between them. You can also open Settings and look under the **Accounts** tab. This will also allow you to switch accounts or add new ones. Please note that you can only be signed in to one Microsoft account at a time.
+
+If you are running into issues when trying to play Minecraft, make sure you are signed into the same Microsoft account on the Microsoft Store, the Xbox app, and the Minecraft Launcher.
 
 ## I can’t sign in to my Launcher
 

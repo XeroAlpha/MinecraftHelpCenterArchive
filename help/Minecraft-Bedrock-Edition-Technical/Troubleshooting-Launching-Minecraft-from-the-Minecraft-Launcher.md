@@ -1,6 +1,7 @@
 ---
 title: Troubleshooting Launching Minecraft from the Minecraft Launcher
 date: 2024-01-22T20:21:50Z
+updated: 2024-01-30T19:15:22Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -29,7 +30,7 @@ This article is dedicated to helping you fix any problems in starting Minecraft 
 
 ### Java Edition
 
-If you are trying to play Minecraft: Java Edition and it keeps crashing, you may have a mod that is messing up your game. We recommend first backing up your save, which you can learn more about on our [managing data and game storage page,](../Minecraft-Java-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md) and then creating a new Java installation.
+If you are trying to play Minecraft: Java Edition and it keeps crashing, you may have a mod that is messing up your game. We recommend first making sure that you are running the latest version release of Java Edition.  If you are, try backing up your save, which you can learn more about on our [managing data and game storage page,](../Minecraft-Java-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md) and then creating a new Java installation.
 
 **How to create a new Java installation**
 
@@ -45,4 +46,6 @@ If you keep getting met with crashes when trying to play Bedrock or other Minecr
 **Reset the Microsoft Store**
 
 1.  Press the **Windows key** + **R** simultaneously 
-2.  A window will appear. Type in **WSReset** and hit enter
+2.  A window will appear. Type in **WSReset** and hit enter 
+
+If the above did not help, make sure your operating system and video/graphics drivers are updated.
