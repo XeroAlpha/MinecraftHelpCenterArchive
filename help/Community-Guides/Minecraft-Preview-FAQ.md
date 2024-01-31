@@ -1,7 +1,7 @@
 ---
 title: Minecraft Preview FAQ
 date: 2022-01-31T18:12:02Z
-updated: 2023-12-13T21:26:28Z
+updated: 2024-01-31T18:48:39Z
 categories: Community Guides
 tags:
   - title_minecraft
@@ -79,7 +79,6 @@ On Xbox, you can copy your existing worlds from Minecraft: Bedrock Edition using
 
 - Cross-platform multiplayer does not work for all platforms yet
 - Marketplace is not available on iOS
-- Realms / Featured Servers
 - Achievements
 
 ## How do I Leave Minecraft Preview?

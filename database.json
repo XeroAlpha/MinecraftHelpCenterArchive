@@ -1602,6 +1602,35 @@
     }
   },
   {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/23693972754957",
+    "path": "feedback/Beta-and-Preview-Information-and-Changelogs/Minecraft-Beta-Preview-1-20-70-21.md",
+    "hashMap": {
+      "h_01HNG7NYQBZ0YBS3K63A5FSGFH": "information-on-the-minecraft-preview-and-beta",
+      "h_01HNG81NVW9R87QKR59K2XD2QT": "experimental-features",
+      "h_01HNG81NVX0ENFC0DES9PA8SSD": "vault",
+      "h_01HNG81NVX9FFFNRTRZGSKWPS9": "armadillo",
+      "h_01HNG81NVXSXWFSKW6SPBPW10V": "breeze",
+      "h_01HNG81NVX3H7CWCVN30DBGRQV": "features-and-bug-fixes",
+      "h_01HNG81NVXDA3MTS9GJM8JKDSP": "commands",
+      "h_01HNG81NVX63EYC9PC16F3JNZQ": "items",
+      "h_01HNG81NVXSKZ51CJ4QYXCHHKG": "marketplace",
+      "h_01HNG81NVX100280Q8QMD0JP9X": "mobs",
+      "h_01HNG81NVX6F1JWDGBBZHTZBGA": "realms",
+      "h_01HNG81NVXH8CWE2VYYJ1CBQKK": "technical-updates",
+      "h_01HNG81NVXZ77198QWE3JDQ5EC": "blocks",
+      "h_01HNG81NVXV1EVQCQ3JM101RPG": "components",
+      "h_01HNG81NVX3VTWDAZN0SJRFTWB": "editor",
+      "h_01HNG81NVXSVBQDXC3KYGEHYWR": "entity-filters",
+      "h_01HNG81NVXVHCGRWCZ2VADTGGJ": "items-1",
+      "h_01HNG81NVX82VJ9Q29A4H0SACV": "molang",
+      "h_01HNG81NVXFB16VFR51QH4ERJJ": "stability-and-performance",
+      "h_01HNG81NVXH80JP3QA0TS46E68": "experimental-technical-updates",
+      "h_01HNG81NVX6JDQ9NDSM42A0F98": "api",
+      "h_01HNG81NVX6AA0FKS7GR1HBEEP": "dimension",
+      "h_01HNG81NVXM2HTN0FW63ZZR0FZ": "graphical"
+    }
+  },
+  {
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360003401232",
     "path": "feedback/Feedback-Website/Posting-Guidelines.md"
   },
