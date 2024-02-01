@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.70.21
 date: 2024-01-31T17:10:20Z
-updated: 2024-01-31T18:40:01Z
+updated: 2024-02-01T14:34:37Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/23693972754957-Minecraft-Beta-Preview-1-20-70-21
 ---
@@ -114,7 +114,10 @@ Fixes this week:
 
 ## Items
 
-- Custom armor trim patterns can now be defined and applied to custom armor items
+- Custom armor attachables can now be trimmed with vanilla trims, and modified vanilla patterns can be applied to custom armor attachables and items  
+  - Vanilla trim textures can be overridden via the attachable component
+  - Vanilla trims can be applied to custom geo armor via the attachable component
+  - Modified vanilla trim patterns (to fit the new geo armor) can be applied via the attachable component
   - Armor trim patterns on custom armor requires the 1.20.60+ format version for the attachable and item
 
 ## Molang
