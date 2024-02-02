@@ -1,7 +1,7 @@
 ---
 title: Content Creation and Broadcasting Terms of Use and Guidelines
 date: 2021-09-10T17:35:37Z
-updated: 2023-07-24T18:15:13Z
+updated: 2024-02-02T17:58:12Z
 categories: Community Guides
 tags:
   - section_12618645881229
@@ -12,15 +12,13 @@ We love seeing what our players create online! However, we do ask you to follow 
 
 ## Brand Use Guidelines
 
-Players are free to create, build, and mod within Minecraft if the branding usage guidelines are followed. Fan art, logos, videos, and screen shots are acceptable if they are not used to falsely represent Mojang Studios Minecraft assets.  If you intend to use any portion of the name in relation to services, products, or distribution, you must adhere to the following requirements. 
+Players are free to create, build, and mod within Minecraft if the Minecraft Usage Guidelines are followed. Fan art, logos, videos, and screen shots are acceptable if they are not used to falsely represent Mojang Studios Minecraft assets.  If you intend to use any portion of the name in relation to services, products, or distribution, you must adhere to the following requirements. 
 
-Mojang Studio's terms of service and brand guidelines are designed to let you know in plain terms what you can and cannot do with your game, the Mojang Studios brand, or Mojang Studios assets.
+Microsoft Services Agreement and Microsoft Terms of Use documents are designed to let you know in plain terms what you can and cannot do with your game, the Mojang Studios brand, or Mojang Studios assets.
 
-- Mojang account [Terms and Conditions](https://account.mojang.com/terms#website)
-- Minecraft [Brand and Asset Usage Guidelines](https://account.mojang.com/documents/brand_guidelines)
-- Minecraft [EULA](https://account.mojang.com/documents/minecraft_eula) (End User License Agreement)
-- Xbox can be found on [xbox.com](https://xbox.com/)
-- Caller’s Bane (formerly Scrolls) 
+- [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines)
+- [Microsoft Services Agreement](https://www.microsoft.com/en-us/servicesagreement)
+- [Microsoft Terms of Use \| Microsoft Legal](https://www.microsoft.com/en-us/legal/terms-of-use)
 
 ## Video Monetization Guidelines
 
