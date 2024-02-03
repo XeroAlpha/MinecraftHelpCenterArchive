@@ -2,7 +2,7 @@
 title: How to Manage Parental Consent, Family Settings and Realms/Multiplayer
   Access for a Child Account
 date: 2021-09-10T22:08:35Z
-updated: 2023-11-28T18:27:58Z
+updated: 2024-02-03T00:06:41Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - title_minecraft_java_edition
@@ -30,6 +30,7 @@ tags:
   - subject_microsoft_sign_in_questions
   - multijugador
   - amigos
+  - trending
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/4408968616077-How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account
 ---
@@ -37,20 +38,6 @@ link: https://help.minecraft.net/hc/en-us/articles/4408968616077-How-to-Manage-P
 Minecraft: Bedrock Edition, Minecraft: Java Edition, Minecraft Dungeons and Minecraft Realms (Bedrock and Java Edition) require an Xbox Live or Microsoft account even if you're not playing on Xbox or another Microsoft platform. Parents can set up and manage these accounts for their kids too.
 
 *Please note that Minecraft: Bedrock Edition players on Xbox consoles are required to have an Xbox Game Pass Core or Xbox Game Pass Ultimate subscription in order to access multiplayer features.*
-
-# In This Article:
-
-- [What is a Microsoft Account?](#what-is-a-microsoft-account)
-- [Sign Up for a free Microsoft Account ](#signup-for-afree-microsoftaccount)
-- [Set Up and Manage Your Child’s Xbox Live or Microsoft Account ](#set-up-and-manage-your-childs-xbox-live-and-microsoft-account)
-- [Family Account Management and Child Account Set-up](#family-account-managementand-child-account-set-up)
-  - [How to create a family group](#how-to-create-a-family-group)
-- [Xbox Family Settings App](#xbox-family-settings-app)
-- [Set and Edit Parental Controls for Your Child’s Accounts ](#set-andeditparentalcontrols-foryourchildsaccount)
-- [Account Setup to Enable Join Multiplayer Games, Join Clubs, and Access Realms](#accountset-up-to-enable-join-multiplayer-games-join-clubs-or-access-realms)
-- [To enable chat for people not on the child's friends list](#to-enable-chat-for-people-not-on-thechilds-friends-list)
-- [Account Set up to Enable Adding and Removing Friends ](#account-set-up-to-enable-adding-and-removing-friends)
-- [How to Enable 'Require Approval for Every Purchase'](#how-to-enable-require-approval-for-every-purchase)
 
 **IMPORTANT:** Child accounts are all accounts for those under the age of 16 for the US & EU, 19 for South Korea. If there isn't an adult account associated with the child account, the adult must make a Microsoft account and associate the already-created child account with it. Only parent accounts can modify settings. 
 
@@ -70,33 +57,32 @@ Your Microsoft account lets you manage everything all in one place. If you need
 
 ## Sign Up for a Free Microsoft Account 
 
-1.  Go to [https://xbox.com](https://xbox.com/) and click **Sign In**, at the top right of the page.  
+1.  Go to  [account.microsoft.com](https://account.microsoft.com/)[ ](https://xbox.com/)and click **Sign In**, at the top right of the page.  
 2.  In the **Sign In** box, click **Create one!** 
 3.  Choose an email account to use. To create a new email account, choose **Get a new email address**.   
 4.  Follow the instructions to create your account. 
 5.  Verify that the notification email you receive shows the correct email address for the account. 
-6.  Log in to Xbox.com with your new email address and password. You should see your Gamertag in the top right.  
 
 ## Set Up and Manage Your Child’s Xbox Live and Microsoft Account 
 
-  Click <https://account.microsoft.com/family/>. 
+1.  Go to [Getting started with Microsoft Family Safety](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344).
+2.  Select the **Create a family group** section and click **Sign in**.
+3.  Click **Add a family member** in the top right.
+4.  Create or sign in with the child account.
+5.  Once signed in, edit the parental settings as needed. 
 
-1.  Click **Create a family group**.  
-2.  In the **Add Someone** box, click **Create an account**,  
-3.  Start in the **Create an account for child** box and then follow the instructions to create the account. 
-4.  Once created, edit the parental settings as needed. 
+## Adjust Xbox Live privacy settings
 
-**Once your family accounts are set up, you also will need to adjust Xbox Live privacy settings below.**
-
-1.  The parent goes to [Xbox Live Account settings](https://account.xbox.com/en-us/Settings/Home/?rtc=1) \> Privacy & online safety
-2.  Click on the child account profile being affected
-3.  Click Xbox/Windows 10 Online Safety tab under your profile picture
-4.  Set
+1.  Go to [Xbox Live Account settings](https://account.xbox.com/en-us/Settings/Home/?rtc=1) and sign in with the parent account.
+2.  Click Privacy & online safety
+3.  Click on the child account profile being affected
+4.  Click Xbox/Windows 10 Online Safety tab under your profile picture
+5.  Set
     1.  **You can create and join clubs** to allow
     2.  **You can join multiplayer games** to allow
     3.  **You can play with people outside of Xbox Live** to allow if you want to be able to cross play on other consoles
-5.  Click Submit and wait for the page to reload
-6.  If you want the child account to be able to make purchases on the Minecraft Marketplace or Realms, be sure to disable or set an appropriate spending limit under [family settings](https://account.microsoft.com/family/home) and see the following [spending limit FAQ](https://support.microsoft.com/en-us/account-billing/spending-limits-in-family-safety-f30d6801-165d-9f86-3fe7-063245c0449b) for more info.
+6.  Click Submit and wait for the page to reload
+7.  If you want the child account to be able to make purchases on the Minecraft Marketplace or Realms, be sure to disable or set an appropriate spending limit under [family settings](https://account.microsoft.com/family/home) and see the following [spending limit FAQ](https://support.microsoft.com/en-us/account-billing/spending-limits-in-family-safety-f30d6801-165d-9f86-3fe7-063245c0449b) for more info.
 
 Once above is completed:
 
@@ -106,11 +92,11 @@ Once above is completed:
 
 ## Family Account Management and Child Account Set Up 
 
-The Parent/Guardian must be signed in with MSA to Manage a Family Account, to then access the page where they will create a Family Group, to begin with.  
+The Parent/Guardian must be signed in with their parent Microsoft Account to Manage a Family Account.
 
-### How to create a family group?  
+### How to create a family group 
 
-1.  Click <https://account.microsoft.com/family/>.  
+1.  Go to <https://account.microsoft.com/family/>.  
 2.  Click **Create a family group**.   
 3.  In the **Add Someone** box, click **Create an account**,   
 4.   Start in the **Create an account for child** box and then follow the instructions to create the account.  
@@ -140,8 +126,6 @@ You can revoke this access at any time by repeating these steps. For more info a
 ## Xbox Family Settings App 
 
 The Xbox Family Settings app is an easy way for adults to manage their children’s gaming activities on Xbox consoles and PC. You can modify your family group settings and access additional parental controls for your children from the app. See [Xbox Family Settings](https://www.xbox.com/en-US/apps/family-settings-app) App for more information. 
-
-## Set and Edit Parental Controls for Your Child’s Account 
 
 **Note: For assistance configuring parental controls for Minecraft: Java Edition, see our [Minecraft: Java Edition Parental Control Features FAQ](../Minecraft-Java-Edition/Minecraft-Java-Edition-Parental-Control-Features-FAQ.md). **
 
