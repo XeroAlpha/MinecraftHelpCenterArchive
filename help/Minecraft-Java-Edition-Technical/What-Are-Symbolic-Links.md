@@ -1,23 +1,9 @@
 ---
 title: What Are Symbolic Links?
 date: 2023-05-26T17:44:29Z
-updated: 2023-09-14T21:37:49Z
+updated: 2024-02-05T20:54:43Z
 categories: "Minecraft: Java Edition Technical"
-tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - section_12618019146893
-  - new
-  - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/16165590199181-What-Are-Symbolic-Links-
+link: https://help.minecraft.net/hc/en-us/articles/16165590199181-What-Are-Symbolic-Links
 ---
 
 A symbolic link (sometimes called a “symlink”) is a way to make a file name in one place on a file system refer to a different file, elsewhere. Symbolic links are supported by all operating systems Minecraft runs on.

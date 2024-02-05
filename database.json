@@ -5184,7 +5184,11 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/16165590199181",
-    "path": "help/Minecraft-Java-Edition-Technical/What-Are-Symbolic-Links.md"
+    "path": "help/Minecraft-Java-Edition-Technical/What-Are-Symbolic-Links.md",
+    "hashMap": {
+      "h_01HNXGT5ZPCT1W2XMG4XDVBP6F": "how-can-symbolic-links-be-dangerous",
+      "h_01HNXGT5ZPYKJ1E79ECF1W6Y7G": "how-can-i-enable-symbolic-links-in-minecraft-java-edition"
+    }
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/16254801392141",
