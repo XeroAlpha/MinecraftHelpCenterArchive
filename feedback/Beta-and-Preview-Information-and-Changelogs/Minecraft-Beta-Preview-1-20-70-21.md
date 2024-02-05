@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.70.21
 date: 2024-01-31T17:10:20Z
-updated: 2024-02-01T14:34:37Z
+updated: 2024-02-05T09:32:43Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/23693972754957-Minecraft-Beta-Preview-1-20-70-21
 ---
@@ -95,7 +95,7 @@ Here’s a list of what’s new. As always, we love to hear your feedback, so pl
 
 ## Components
 
-- "damage_sensor" component's "damage_modifier" and "damage_multiplier" fields are now properly considered during damage immunity calculations, so that damage adjusted to be lesser or equal to the highest damage received during an entity's immunity period will be accurately ignored 
+- "damage_sensor" component's "damage_modifier" and "damage_multiplier" fields are now properly considered during damage immunity calculations, so that damage adjusted to be lesser or equal to the highest damage received during an entity's immunity period will be accurately ignored ([MCPE-167651](https://bugs.mojang.com/browse/MCPE-167651))
   - This requires a world version of 1.20.70 or higher
 
 ## Editor
