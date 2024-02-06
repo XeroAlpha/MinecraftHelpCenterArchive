@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.20.60 (Bedrock)
 date: 2024-02-05T20:01:43Z
-updated: 2024-02-06T16:59:28Z
+updated: 2024-02-06T21:12:02Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/23875745708557-Minecraft-1-20-60-Bedrock
 ---
@@ -212,15 +212,10 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Fixed Beacon UI buttons going outside the window on smaller resolutions ([MCPE-173649](https://bugs.mojang.com/browse/MCPE-173649))
 - Items from the inventory have the durability bar adjusted so it matches the one from the hotbar ([MCPE-128532](https://bugs.mojang.com/browse/MCPE-128532))
 - Adjusted cost text in the Pocket Anvil UI to match the classic version ([MCPE-101740](https://bugs.mojang.com/browse/MCPE-101740))
-- Added the first iteration of the new Friends drawer feature
-  - Online/offline friends as a single list
-  - Add friends button has been renamed “Search for players”
-  - Improved text to speech support
 - Updated the information about Conduits in the Encyclopedia ([MCPE-65038](https://bugs.mojang.com/browse/MCPE-65038))
 - Added Netherite as a block type in the Encyclopedia’s Beacon tab ([MCPE-175929](https://bugs.mojang.com/browse/MCPE-175929))
 - Last highlighted button will not get pressed when the window regains focus anymore ([MCPE-170377](https://bugs.mojang.com/browse/MCPE-170377))
-- Not enough storage space on Nintendo Switch now has a clearer message about the platform only allowing for 2GB of storage per user account ([MCPE-36670](https://bugs.mojang.com/browse/MCPE-36670))
-- The Friends drawer on the Play screen now makes sounds when opened and closed  
+- Not enough storage space on Nintendo Switch now has a clearer message about the platform only allowing for 2GB of storage per user account ([MCPE-36670](https://bugs.mojang.com/browse/MCPE-36670))  
     
 
 **Technical Updates**
