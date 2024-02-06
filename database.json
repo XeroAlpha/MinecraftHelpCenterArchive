@@ -5142,25 +5142,34 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/15518267480461",
-    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PC-Mac-Chromebook-and-Linux.md",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Back-Up-Your-Minecraft-World-to-the-Cloud-on-PC-Mac-Chromebook-and-Linux.md",
     "hashMap": {
+      "h_01HNXP1VPG0VY12QY3S3MF2DXH": "in-this-article",
       "h_01GZPC0797RMVYPZ7NYJTDM4CR": "minecraft-bedrock-edition",
       "h_01GZPC0GAHAEQX20KCVSQVMXQD": "minecraft-java-edition",
       "h_01GZPC0P4MVNZ8YPB4SRBF69CH": "minecraft-dungeons",
-      "h_01GZPC0VENNC8W7TDWVY8GSYM9": "minecraft-legends"
+      "h_01HNXP1VPGW7XFYRGXDY84YZJ1": "xbox-app-or-windows-store",
+      "h_01HNXP1VPG4TZG400GBFJHX5GV": "steam",
+      "h_01GZPC0VENNC8W7TDWVY8GSYM9": "minecraft-legends",
+      "h_01HNXP1VPHSQS3VH60GSPMEYDG": "xbox-app-or-windows-store-1",
+      "h_01HNXP1VPHBKGNTPVCWNRFBK2P": "steam-1"
     }
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/15518925987981",
-    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-Xbox.md"
+    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Back-Up-Your-Minecraft-World-to-the-Cloud-on-Xbox.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/15518966498061",
-    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-PlayStation.md"
+    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Back-Up-Your-Minecraft-World-to-the-Cloud-on-PlayStation.md",
+    "hashMap": {
+      "h_01HNXNWCRKQZ8Y88B8JMP39NYD": "playstation-4",
+      "h_01HNXNWCRMYEXXJZZFFD0S6BET": "playstation-5"
+    }
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/15519102826765",
-    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Manage-Cloud-Saves-for-Minecraft-Bedrock-Edition-and-Other-Minecraft-Games-on-Nintendo-Switch.md"
+    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Back-Up-Your-Minecraft-World-to-the-Cloud-on-Nintendo-Switch.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/15827523222413",
