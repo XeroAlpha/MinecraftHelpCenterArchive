@@ -5325,18 +5325,7 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/18511975781645",
-    "path": "help/Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Quick-Play-FAQ.md",
-    "hashMap": {
-      "01H7TH24TJEGFVNBYTB8R385YS": "in-this-article",
-      "01H7TH1ZY61KVV5RM9EDQG9XW5": "what-is-java-quick-play",
-      "01H7TH1ZY6CD4T4GQ2XT09XGN2": "how-do-i-use-quick-play",
-      "01H7TH1ZY6NH4Z1G8RY920VB8F": "how-do-i-add-a-world-to-the-quick-play-bar",
-      "01H7TH1ZY6T1P3V7VREESGNPBT": "how-do-i-remove-worlds-from-the-quick-play-bar",
-      "01H7TH1ZY6Y6TQCXG0F62NAJEE": "can-i-use-quick-play-with-minecraft-bedrock-edition",
-      "01H7TH1ZY69P9BB1HNE3GSM0MM": "what-versions-of-minecraft-java-edition-support-quick-play",
-      "01H7TH1ZY6323Z7Z4R7CPZB334": "does-quick-play-support-all-world-types",
-      "01H7TH1ZY7VNH975Q9E5ZN360M": "where-is-quick-play-data-stored"
-    }
+    "path": "help/Minecraft-Java-Edition-Technical/How-to-Use-Quick-Play-in-the-Minecraft-Launcher.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/19076550280717",
@@ -5726,6 +5715,22 @@
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/23907917790093",
     "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Download-and-Install-the-Minecraft-Launcher.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24069202046349",
+    "path": "help/Minecraft-Marketplace/How-to-Buy-Content-From-the-Minecraft-Marketplace.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24069466555661",
+    "path": "help/Minecraft-Marketplace/How-to-Purchase-Minecoins-in-the-Minecraft-Marketplace.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24069589393549",
+    "path": "help/Minecraft-Marketplace/How-to-Access-the-Minecraft-Marketplace.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24069927866381",
+    "path": "help/Minecraft-Marketplace/Invalid-Session-Error-in-Minecraft-Marketplace.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/360029644312",
@@ -6234,15 +6239,7 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/360059025451",
-    "path": "help/Minecraft-Bedrock-Edition-Billing/How-to-Use-Minecraft-Marketplace.md",
-    "hashMap": {
-      "01H8M84TVJTSHMNP1QDZGQJSBS": "in-this-article",
-      "h_01GJ62PBSREEHW3C8DAGTM1G0D": "navigating-the-marketplace",
-      "h_01GYWNV6B5GZJWACN8Y858GVH9": "using-the-wishlist-feature",
-      "h_01GJ62PZKAQ3DZFVTCKZV4XF9Z": "downloadingdeletingcontent",
-      "h_01GJ62Q46STPTHEDCVWMDJ5ADJ": "equipping-skinstextures",
-      "01H8M82JEDJV7K5GN86XEQMK06": "i-purchased-something-and-i-want-to-give-the-creator-feedback-about-it"
-    }
+    "path": "help/Minecraft-Marketplace/How-to-Find-Content-Missing-from-Minecraft-Marketplace.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/360059146051",
@@ -6751,34 +6748,7 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4408963926541",
-    "path": "help/Minecraft-Bedrock-Edition-Billing/Minecraft-Marketplace-FAQ.md",
-    "hashMap": {
-      "01H8M86ZWEHN4Y7QA0BS46VM0R": "in-this-article",
-      "h_01GJ624YJYD05N5H5MRTZXC5FX": "what-is-minecraft-marketplace",
-      "h_01GJ6256J5B2PVNSZ14RK1QW83": "which-devices-is-minecraft-marketplace-available-on",
-      "h_01GJ625D85TPESANC51QZPQJS0": "supported-systems-and-devices",
-      "h_01GJ625JKDG7EK87TMQMPB2J4Y": "do-i-need-an-xbox-live-account-to-make-purchases-in-marketplace",
-      "h_01GJ625S4CB5KCRDGGJ7YMSB7A": "how-do-i-know-what-account-to-use-for-minecraft",
-      "h_01GJ625YNJB2YRT95SWPDRFSJ0": "how-do-i-purchase-minecoins",
-      "h_01GJ6267PYV6ZZY0BABV2XP54X": "what-platforms-do-minecoin-and-marketplace-content-codes-work-on",
-      "h_01GJ626EY8R6D5QK1NZG78QE7E": "what-can-i-spend-minecoins-on",
-      "h_01GYWPCV2Q0BHBF6YW0VHNHCRQ": "can-i-save-things-to-purchase-later-on-a-wishlist",
-      "01H8M82JEDJV7K5GN86XEQMK06": "i-purchased-something-and-i-want-to-give-the-creator-feedback-about-it",
-      "h_01FF8TBWEZRCYSC42KE1TTX3X2": "i-didnt-receive-the-minecoins-that-i-purchased-what-should-i-do",
-      "h_01GJ626YXVGTQBDSNWW1FWW3F9": "can-minecoins-be-refunded",
-      "h_01GJ6279AQ8QSD43B3QPAQTBBQ": "can-i-convert-my-minecoins-back-to-real-currency",
-      "h_01GJ627FKZZCFYFMFXAWDSCE7E": "can-i-give-minecoins-to-someone-as-a-gift",
-      "h_01GJ627REZCT4CD8YFXKPPMZQ0": "i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong-what-should-i-do",
-      "h_01GJ627YX02RYTCJSCJ42435NW": "i-purchased-the-wrong-minecraft-world-by-mistake-can-i-get-a-refund",
-      "h_01GJ6288SEZPA5NBX5NHBMYF86": "why-is-some-content-in-the-marketplace-grayed-out-what-does-it-mean-when-it-says-that-this-content-is-not-compatible-with-your-device-due-to-low-memory",
-      "h_01GJ628J0EY0AQ28YSCX65X758": "where-are-my-purchases-stored",
-      "h_01GJ628SPHFG38BDY12P1PTV9V": "i-redeemed-a-content-code-but-cant-find-my-content-where-should-i-look",
-      "h_01GJ6292CGKR1TWZ6B7S65MVY2": "i-cant-redeem-my-code-what-should-i-do",
-      "h_01GJ629AM44QVYD6JVRCMTB8D7": "i-have-missing-marketplace-items-where-can-i-find-them",
-      "h_01GJ629G71D4S8RGKQTYVXQXX6": "i-noticed-a-problem-with-something-i-purchased-in-the-marketplace-how-do-i-let-you-know",
-      "h_01GJ629PSWWS2YYQR94K8PSWYZ": "how-do-i-become-a-minecraft-partner-and-create-content-for-the-marketplace",
-      "h_01GJ629WMVSBRKWXHASQVFBYBH": "i-have-more-questions"
-    }
+    "path": "help/Minecraft-Marketplace/How-to-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4408964729869",
