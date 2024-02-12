@@ -7044,22 +7044,7 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4409165790605",
-    "path": "help/Minecraft-Bedrock-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md",
-    "hashMap": {
-      "01H84V4WVS2FP2GG0PFZA1JXJ3": "in-this-article",
-      "h_01FG9YQZTD4SQM2XEP4GC28PW3": "back-up-minecraft-bedrock-edition-worlds",
-      "01H84V4WVVSTA21G4CDEGF5RP0": "minecraft-bedrock-edition-microsoft-windows-10-and-above-nintendo-switch-sony-playstation-4-and-5-chromebook-xbox-one-and-series-xs",
-      "h_01FG9YRBYAEM57PRKSHW99GM4S": "where-are-minecraft-bedrock-edition-files-stored",
-      "01H84V4WVVCC378X2BZVKSZRH9": "android--amazon-fire-os",
-      "01H84V4WVV9J8MNX6Q3C3769Q6": "apple-ios",
-      "01H84V4WVVR6FNK8BA0RJ1T867": "minecraft-bedrock-edition-for-windows--windows-phone",
-      "01H84V4WVVF37AQTQ42Y0Y5F76": "xbox-one",
-      "h_01GZ4EYFWNGS8TZDC5Z5BJYMT9": "installing-the-game-on-a-different-drive",
-      "h_01FG9YRQBDPNJ8JYNKVGXK04FX": "transfer-minecraft-bedrock-edition-worlds-to-another-device",
-      "01H84V4WVVX9H09FXW4DEVNZFT": "transfer-your-world-using-a-realm",
-      "01H84V4WVV1HNHPRHH5JP9RWJZ": "transfer-your-world-using-the-icloud-method-ios-devices-only",
-      "h_01FG9YS2KTQENFAN4DT675ZTN0": "howtofixacorruptedworldsave"
-    }
+    "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4409170005261",
