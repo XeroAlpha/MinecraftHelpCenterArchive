@@ -1,7 +1,7 @@
 ---
 title: Minecraft Realms Safety
 date: 2023-09-28T19:33:06Z
-updated: 2023-09-28T19:33:30Z
+updated: 2024-02-13T21:06:39Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - title_minecraft_java_edition
@@ -76,7 +76,7 @@ Since the migration of all Minecraft and Mojang accounts to Microsoft accounts, 
 
 Also, Microsoft accounts benefit from parental controls that empower parents to choose what their kids can do in Minecraft online experiences, including what they can access~~,~~ and who can they chat with.
 
-Visit [this page](https://help.minecraft.net/hc/en-us/articles/4409983667085-Minecraft-Parental-Control-Features-FAQ) to learn about configuring parental controls for the Bedrock Minecraft client, including mobile devices, consoles, and Windows 10.
+Visit our page on [How to Manage Parental Consent](./How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md) to learn about configuring parental controls for the Bedrock Minecraft client, including mobile devices, consoles, and Windows 10.
 
 Visit [this page](../Minecraft-Java-Edition/Minecraft-Java-Edition-Parental-Control-Features-FAQ.md) to learn about configuring parental controls for Minecraft: Java Edition.
 

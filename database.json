@@ -5752,8 +5752,7 @@
       "h_01GB5XCK2VBDNPYWYPY5Q5FPVC": "i-can-only-play-the-demo",
       "h_01GB5XD1C3TWFZ4N86AC5P21V9": "im-havingtroublewithmypassword",
       "h_01GB5XD8AERBJZPT1CTJFDET89": "im-havingtroublewithmysecurityquestions",
-      "h_01GB5XDDQA30E8MCB5J2J1DKZG": "i-needtochangeorrecovermyregisteredemailaddress",
-      "h_01GB5XDJJ60M46R3EGWJH4AXZW": "im-notreceivingemailsfrommojang-studios"
+      "h_01GB5XDDQA30E8MCB5J2J1DKZG": "i-needtochangeorrecovermyregisteredemailaddress"
     }
   },
   {
@@ -6177,7 +6176,11 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/360058534412",
-    "path": "help/Community-Guides/Differences-Between-Minecraft-Java-Edition-and-Minecraft-Bedrock-Edition.md"
+    "path": "help/Community-Guides/Differences-Between-Minecraft-Java-Edition-and-Minecraft-Bedrock-Edition.md",
+    "hashMap": {
+      "h_01HPJ28MD5ZETWA5ENCBAQ00QT": "minecraft-java-edition",
+      "h_01HPJ28MD5955W95HZQD8JCW2B": "minecraft-bedrock-edition"
+    }
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/360058604512",

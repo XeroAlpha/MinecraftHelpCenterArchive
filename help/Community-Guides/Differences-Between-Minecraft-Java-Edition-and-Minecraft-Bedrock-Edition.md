@@ -1,7 +1,7 @@
 ---
 title: "Differences Between Minecraft: Java Edition and Minecraft: Bedrock Edition"
 date: 2021-03-24T21:40:40Z
-updated: 2023-07-24T18:22:46Z
+updated: 2024-02-13T20:27:49Z
 categories: Community Guides
 tags:
   - title_minecraft_java_edition
@@ -33,7 +33,7 @@ While every version of Minecraft is still Minecraft, the differences between Min
 - Customize your own skin – You can download any skin online or make your own and upload it to use in-game! 
 - PC only – Minecraft: Java Edition will run on Windows, macOS, and Linux 
 - Mods – Download community-made mods to change your gameplay experience 
-- Resource Intensive – Minecraft: Java Edition requires [higher computer specifications](https://help.minecraft.net/hc/en-us/articles/360035131371-Minecraft-Java-Edition-system-requirements-) to run smoothly 
+- Resource Intensive – Minecraft: Java Edition requires [higher computer specifications](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md#what-are-the-device-requirements-to-run-minecraft-java-edition)[ ](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md#what-are-the-device-requirements-to-run-minecraft-java-edition)to run smoothly 
 - No Cross-Play – Minecraft: Java Edition users can only play with other Java users 
 - Community – There are countless online servers and communities with all kinds of variations and mods to change up the multiplayer experience 
 
