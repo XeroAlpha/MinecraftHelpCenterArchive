@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition Realms Creation FAQ "
 date: 2021-09-14T22:37:59Z
-updated: 2023-12-19T20:24:49Z
+updated: 2024-02-12T23:04:18Z
 categories: Minecraft Java Realms
 tags:
   - title_minecraft_java_edition
@@ -23,14 +23,18 @@ tags:
   - platform_windows_10/11
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ
 ---
 
 This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md).
 
 ## How to create your Realm
 
-Only the owner of a realm must pay for a subscription. The owner can invite any number of friends, but only 10 players plus the owner can play at the same time. After you make a purchase, your Realms subscription starts. After your payment is complete, open Minecraft, select **Minecraft Realms**, and then choose the option to create and configure your Realm. You'll see an option to enter a world name or to start with a preexisting world or map. You can change any setup options. 
+Only the owner of a realm must pay for a subscription. The owner can invite any number of friends, but only 10 players plus the owner can play at the same time.
+
+You can now purchase a Realms subscription directly from the Minecraft Launcher. Go to the **Minecraft: Java Edition **page and enter the **Realms** tab where you can select **Subscribe Now **to use a saved payment method to purchase your Realm.
+
+After your payment is complete, open Minecraft, select **Minecraft Realms**, and then choose the option to create and configure your Realm. You'll see an option to enter a world name or to start with a preexisting world or map. You can change any setup options. 
 
 To continue with a standard survival world, you can double-click your Realm. Alternatively, you can select **Configure** to open an additional menu of options.  
 
