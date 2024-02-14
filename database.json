@@ -5787,6 +5787,21 @@
     "path": "help/Minecraft-Marketplace/Invalid-Session-Error-in-Minecraft-Marketplace.md"
   },
   {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24122512131213",
+    "path": "help/Minecraft-Bedrock-Edition-Technical/How-Do-I-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24123767171469",
+    "path": "help/Minecraft-Java-Realms/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24124939590413",
+    "path": "help/Realms-Troubleshooting-and-Billing/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md",
+    "hashMap": {
+      "h_01HPMJASZTTDDXB3DT67G9K8RN": "managing-your-subscription-on-each-platform"
+    }
+  },
+  {
     "url": "https://help.minecraft.net/hc/en-us/articles/360029644312",
     "path": "help/Minecraft-Java-Realms/How-do-I-Join-Someone-s-Minecraft-Java-Realm.md",
     "hashMap": {
@@ -7424,34 +7439,11 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4410000696077",
-    "path": "help/Realms-Troubleshooting-and-Billing/Minecraft-Java-Edition-Realms-Billing-Issues-FAQ.md",
-    "hashMap": {
-      "h_01HHYZP980HMCJRZ05925F0N20": "in-this-article",
-      "h_01HHYZXA34FKR07NK1P7YDZZQ9": "why-are-there-two-versions-of-realm-servers",
-      "h_01HHYZRMEZR50V6SAXAHM84Z8T": "are-there-trials-available-for-minecraft-realms",
-      "h_01HHYZS6ASV1TGWWE3H9SD65H5": "how-do-i-renew-my-expired-realm",
-      "h_01HHYZTAP4D9CH46BW4JBWK757": "how-do-i-cancel-my-minecraft-realms-subscription"
-    }
+    "path": "help/Minecraft-Java-Realms/How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4410001194765",
-    "path": "help/Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md",
-    "hashMap": {
-      "h_01HHYX0GD4Z048H4MZYXKEQQ5P": "in-this-article",
-      "h_01HHYX1ZR5ZYKZCF9SQQQKV54N": "are-theretrialsavailable-for-minecraft-realmsplus",
-      "h_01HHYX32GTRG33PTWVC2469TD8": "howdoirenewmyexpiredrealm",
-      "h_01HHYX7KJH4RSJ4DM9J8DC1820": "i-paid-my-realm-subscription-but-my-realm-is-expired",
-      "h_01HHYX8JQTZZF87N7BZK0789RJ": "couldnt-create-realm-right-now-error",
-      "h_01HHYX8W6FSN4CRYN6ZR5A1TAM": "howdoicancelmyrealmssubscription",
-      "h_01HHYX9RQMTHTV3QN3JQBC3HWX": "managing-your-subscription-on-each-platform",
-      "h_01HHYX9W2PEDR53WR31HQFQPAF": "android--chromebook--google-play",
-      "h_01HHYXAE5PQ4H4HPJDXG7TPTJX": "amazon",
-      "h_01HHYXB4ERZR9V0AMTR48HZBZ9": "ios",
-      "h_01HHYXC5QY9C4NBXAJDTAT8AM3": "nintendoswitch",
-      "h_01HHYXD24GGGVXTK53DTJ19AAT": "playstation",
-      "h_01HHYXGVN16D29H1MTPC75SN0B": "windows10-and-above",
-      "h_01HHYXHGNM3J75S60RVHSVD49B": "xbox"
-    }
+    "path": "help/Realms-Troubleshooting-and-Billing/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4410237831565",
@@ -7487,22 +7479,11 @@
     "url": "https://help.minecraft.net/hc/en-us/articles/4410316619533",
     "path": "help/Minecraft-Bedrock-Edition-Technical/How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md",
     "hashMap": {
-      "h_01HA7TYYVQ6D3YD3ENM8NCYZ5T": "in-this-article",
-      "h_01FGSN7J5XN4AAVSCVSBNGVS90": "playing-on-a-local-area-network-lan",
-      "h_01HA7TYYVQ6D491B9MTP285HWV": "before-you-start",
-      "h_01HA7TYYVQEAYPDTW66NKB578D": "start-a-lan-game",
-      "h_01HA7TYYVQ5M8W0MPJ70KE3KC2": "join-a-lan-game",
-      "h_01FGSN86E5S5VJTWCSWJ3JRAG2": "playing-on-an-online-server",
-      "h_01HA7TYYVR6V3BPXECBBFNQR5W": "join-a-server",
-      "h_01HA7TYYVR03C8RYPXB8QGQH82": "add-an-external-server",
-      "h_01HGBV98G3VRGGXPMA17SCVP7X": "where-to-find-servers",
-      "h_01FGSN8N4KT0YY0MKZQ13Y5FA0": "splitscreen",
-      "h_01HA7TYYVR2Z8FSY992M4V6FS4": "playingsplit-screen",
-      "h_01FGW4RM6RN52032P35NWR62A5": "troubleshooting-multiplayer-connection-issues",
-      "h_01HA7TYYVR737H375549VX63CE": "problems-playing-while-using-a-child-account",
-      "h_01HA7TYYVRJWRZ6JN6PFW8KEC9": "prevented-from-online-access-to-microsoft-account",
-      "h_01HA7TYYVRZGPS4PBFE6ZR1ZNN": "marketplace-doesnt-display-anything",
-      "h_01FGW5GE7F9B6CV7V0WMV3M1C9": "didnt-find-the-answer"
+      "h_01HPMFFRZ1C372CKRSD87NWZQ6": "in-this-article",
+      "h_01HPMFG1AN30KDZ2FHP2H4MR9C": "how-to-play-with-a-friend-online",
+      "h_01HPMFJD576CFF7E9S46X8HQRW": "how-to-play-in-splitscreen-consoles-only",
+      "h_01HPMFKDWB5W242Q03E1HADCQH": "how-to-play-on-an-online-server",
+      "h_01HPMFNN82STVDV758HN8J57YQ": "how-to-play-on-a-local-area-network-lan"
     }
   },
   {
