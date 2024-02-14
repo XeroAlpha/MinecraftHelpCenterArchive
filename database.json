@@ -1665,6 +1665,60 @@
     }
   },
   {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/24116545955213",
+    "path": "feedback/Snapshot-Information-and-Changelogs/Minecraft-Java-Edition-Snapshot-24w06a.md",
+    "hashMap": {
+      "h_01HPM5NQQBRWA7ZHDFG3FFKJQ8": "experimental-features",
+      "h_01HPM5NQQBVY87E7PFSN9FE1X1": "wind-charge",
+      "h_01HPM5NQQBNJMF83K923W0KXM2": "vault",
+      "h_01HPM5NQQBKEHC0R261T4MK755": "changes",
+      "h_01HPM5NQQBEDCFRV100JEYK6ZK": "armadillo",
+      "h_01HPM5NQQBY0YX2W06BYPN0H3K": "tamed-wolves-health-and-damage",
+      "h_01HPM5NQQB5PGFC3HMYCGTNTEY": "japanese-font-variants",
+      "h_01HPM5NQQBM93N0EPSXCS6GYED": "technical-changes",
+      "h_01HPM5NQQBVXGJJTREAMRM6NS1": "data-pack-version-31",
+      "h_01HPM5NQQBPT0J5X0WA1GDWTM8": "tags",
+      "h_01HPM5NQQB1TWH4VM679GMA9ET": "block-tags",
+      "h_01HPM5NQQBTN185XG3B7C2AZH7": "resource-pack-version-26",
+      "h_01HPM5NQQB6GV0X9SYY54WJ20G": "font-variant-filters",
+      "h_01HPM5NQQBG2QW3XE9GDPE7DQV": "fixed-bugs-in-24w06a",
+      "h_01HPM5NQQB4DYCMWKM3VJZ8SJS": "get-the-snapshot"
+    }
+  },
+  {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/24116603621005",
+    "path": "feedback/Snapshot-Information-and-Changelogs/Minecraft-Java-Edition-Snapshot-24w05b.md",
+    "hashMap": {
+      "h_01HPM5QKG5R8525D0AADYA49D3": "technical-changes",
+      "h_01HPM5QKG6CDCTDX7NKWZ823HA": "fixed-bugs-in-24w05b",
+      "h_01HPM5QKG6P83NY2M12HYQY2XN": "get-the-snapshot"
+    }
+  },
+  {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/24116610402061",
+    "path": "feedback/Snapshot-Information-and-Changelogs/Minecraft-Java-Edition-Snapshot-24w03b.md",
+    "hashMap": {
+      "h_01HPM5S5BED6MAD0K26HM21R1E": "experimental-features",
+      "h_01HPM5S5BERV2SWFWMBZ774M07": "breeze",
+      "h_01HPM5S5BEKW5JVX58GK9K4GRX": "fixed-bugs-in-snapshot-24w03b",
+      "h_01HPM5S5BFAM4Q9WV23VQRA5K7": "get-the-snapshot"
+    }
+  },
+  {
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/24117322935565",
+    "path": "feedback/Snapshot-Information-and-Changelogs/Minecraft-Java-Edition-Snapshot-24w07a.md",
+    "hashMap": {
+      "h_01HPM6W9BR91M9T5MKAM7PEBVQ": "known-issues",
+      "h_01HPM6W9BRH149MYQZR6M2EWKT": "experimental-features",
+      "h_01HPM6W9BRH5EQQKNM360TSHJ5": "bogged",
+      "h_01HPM6W9BRTSGWB7W8P77WPVPE": "changes",
+      "h_01HPM6W9BR0PPFSGERP3QXS3VN": "technical-changes",
+      "h_01HPM6W9BRCVCCN1D7D92JA63W": "data-pack-version-32",
+      "h_01HPM6W9BRSBR8240SRKAFGSSY": "fixed-bugs-in-24w07a",
+      "h_01HPM6W9BRFCQ21X0PZN9PXFVJ": "get-the-snapshot"
+    }
+  },
+  {
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360003401232",
     "path": "feedback/Feedback-Website/Posting-Guidelines.md"
   },
