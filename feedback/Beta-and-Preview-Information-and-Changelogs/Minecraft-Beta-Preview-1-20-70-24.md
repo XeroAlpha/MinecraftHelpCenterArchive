@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.70.24
 date: 2024-02-15T12:37:44Z
-updated: 2024-02-15T13:53:51Z
+updated: 2024-02-15T18:45:50Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24139781551117-Minecraft-Beta-Preview-1-20-70-24
 ---
@@ -146,5 +146,4 @@ Updates this week:
   - Added function *place(structure: string \| StructureTemplate, dimension: Dimension, location: Vector3, options?: StructurePlaceOptions)* - Places a structure in the world
 - StructureTemplate
   - Added read-only property *id: string* - Returns the name of the structure
-  - Moved *effectAdd* from *beta* to 1.9.0
   - Moved *effectAdd* from *beta* to 1.9.0
