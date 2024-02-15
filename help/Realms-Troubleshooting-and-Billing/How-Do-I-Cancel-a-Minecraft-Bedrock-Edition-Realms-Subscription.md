@@ -1,7 +1,7 @@
 ---
 title: "How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription?"
 date: 2024-02-14T19:53:56Z
-updated: 2024-02-14T22:40:39Z
+updated: 2024-02-15T17:57:48Z
 categories: Realms Troubleshooting and Billing
 tags:
   - title_minecraft
@@ -32,4 +32,4 @@ Your payment method is managed by the store you bought your Realms subscription 
 2.  On the title screen, click **Settings**.
 3.  On the left, scroll down and select **Subscriptions.**
 4.  Find the Realm you want to update your payment method for and click **Manage**.
-5.  This will open the store management page for that subscription for you to change.
+5.  This will open the store management page for that subscription.
