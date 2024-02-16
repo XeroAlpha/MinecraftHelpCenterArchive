@@ -1,7 +1,7 @@
 ---
 title: I'm Getting an Error When Trying to Play Multiplayer with a Child Account
 date: 2020-04-22T23:12:57Z
-updated: 2023-10-20T16:49:12Z
+updated: 2024-02-15T22:43:42Z
 categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - title_minecraft_java_edition
@@ -27,39 +27,16 @@ link: https://help.minecraft.net/hc/en-us/articles/360042221252-I-m-Getting-an-E
 
 If you're getting an error when trying to play multiplayer with a child account, this article should assist you no matter the version you're playing.
 
-# In This Article:
+Before you can give kids online and multiplayer access, you need to take a few steps. The account will need to have multiplayer, and online communication turned on in order to play AND an online multiplayer subscription to play online. You should also make sure your account payment method is current. 
 
-- [For Bedrock and Dungeons ](#for-minecraft-bedrock-edition-and-dungeons)
-  - [How to enable Realms ](#how-to-enable-realms)
-- [For Java Edition ](#for-minecraft-java-edition)
-  - [Features of Minecraft that are restricted without parental verification/consent ](#features-of-minecraft--java-edition-that-are-restricted-without-parental-verificationconsent)
-  - [Playing online with a child account ](#playingonlinewithachildaccount)
-  - [More Help ](#morehelp)
-
-## For Minecraft: Bedrock Edition and Dungeons 
-
-Your friends at Minecraft Support have been seeing questions from players who are receiving COPPA or GDPR messaging when trying to access Realms. You might also see a vague message about privacy (we're working on this, we swear!). 
-
-Before you can give kids online and multiplayer access, you need to take a few steps. The account will need to have multiplayer, and online communication turned on in order to play AND an online multiplayer subscription to play online (if your platform requires a subscription). You should also make sure your account payment method is current. 
-
-If you haven’t already done so, read about [setting up your Xbox Live or Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md). 
-
-**Note: You do not need Clubs access to play on Realms.** 
+Note: You do not need Clubs access to play on Realms. 
 
 ### How to Enable Realms 
 
 1.  Log in to [Xbox settings](https://account.xbox.com/settings) with the parent Microsoft account. 
 2.  Select the child account's profile. 
-3.  Select **Xbox One/Windows 10 Online** and choose **Allow** for **Join multiplayer games**(first picture below). 
-4.  To enable chat for people not on the person's friends list, they will need to go to their privacy settings and enable **Others can communicate** (second picture below). 
-
-![Set](https://minecrafthelp.zendesk.com/hc/article_attachments/16722130953357)
-
-![Privacy](https://minecrafthelp.zendesk.com/hc/article_attachments/16722130963213)
-
-If you still need help, please reach out to [Xbox support](https://beta.support.xbox.com/). 
-
-**Note: If your child is trying to participate in a Realm's Feed, please make sure that their account permissions have 'You can create and join clubs' set to 'Allow.'**
+3.  Select **Xbox Series X\|S, Xbox One, and Windows 10 Online Devices **tab and choose **Allow** for **Join multiplayer games**. 
+4.  To enable chat for people not on the child's friends list, select the **Privacy** tab and select **Enable** for  **Others can communicate with voice, text, or invites.**
 
 ## For Minecraft: Java Edition 
 
