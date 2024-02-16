@@ -1,7 +1,7 @@
 ---
 title: Player and Server Griefing Issues FAQ
 date: 2021-09-13T19:38:56Z
-updated: 2023-09-18T19:33:22Z
+updated: 2024-02-16T19:48:12Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - section_15463792344973
@@ -28,9 +28,9 @@ We occasionally get requests to moderate player behavior or server content and a
 
 ## How do I know if a server violates the Minecraft Usage Guidelines? 
 
-Familiarize yourself with our [Minecraft Usage Guidelines](https://account.mojang.com/terms#commercial). These guidelines explain how we allow commercial use of the Minecraft name, brand, and assets, including Minecraft servers. 
+Familiarize yourself with our [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines). These guidelines explain how we allow commercial use of the Minecraft name, brand, and assets, including Minecraft servers. 
 
-**Note: If you are not certain if a server violates these guidelines, don’t send a report. **
+**Note: **If you are not certain if a server violates these guidelines, don’t send a report. 
 
 To learn more about servers and how to find a variety of safe options available to play on check out [this page](../Minecraft-Bedrock-Edition-Technical/Minecraft-Dedicated-and-Partner-Servers-FAQ.md).
 
@@ -52,7 +52,7 @@ If you see someone selling Microsoft accounts, capes, or bragging about stealing
 
 You can help in the following ways: 
 
-- Don’t buy accounts from third-party sellers, resellers, social media, or from your friends. You're likely going to lose your money and still have no fancy account. We can't help you with those (even if you buy it from a "friend") because this violates our [Terms of Service](https://account.mojang.com/terms#website). So just don’t do this. 
+- Don’t buy accounts from third-party sellers, resellers, social media, or from your friends. You're likely going to lose your money and still have no fancy account. We can't help you with those (even if you buy it from a "friend") because this violates our [Terms of Service](https://www.minecraft.net/en-us/usage-guidelines). So just don’t do this. 
 - If you see something, say something. Let us know if you see people selling accounts on social media or third-party sellers. Take screenshots. We investigate every single claim. 
 - Don't get mad at your friend and accuse them of stealing your account. That's a rude thing to do and can get you both blocked from playing.  
 - Keep your account information safe. Use two-factor authentication on your email, use strong passwords on all your accounts, and change passwords frequently. 
@@ -60,11 +60,10 @@ You can help in the following ways: 
 
 ## What do I do if I Think my Account Has Been Stolen? 
 
-**Note:** **In many cases where people believe that their accounts have been stolen or compromised, the issue is caused by a ****[login issue](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md). **
+**Note:** In many cases where people believe that their accounts have been stolen or compromised, the issue is caused by a [login issue](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md). 
 
 Here are some steps to take: 
 
 - [Change the password](https://www.microsoft.com/account) that’s associated with your account.  
 - Log out of anything that you're logged into (websites, game launcher, etc.), then if you were able to change the password, try to log in with the new password. 
-- If you are not sure if you should use your email address or Java profile name to log in, see our article on [Minecraft: Java Edition account types](https://help.minecraft.net/hc/en-us/articles/4408867060621-Minecraft-Java-Edition-Account-Types).  
 - If you do not receive password reset emails within a few minutes, or you are sure that your account was compromised, locate your [transaction ID or gift code](../General-Billing/What-is-a-Transaction-ID.md) and contact [Minecraft Support](https://aka.ms/Minecraft-Support).

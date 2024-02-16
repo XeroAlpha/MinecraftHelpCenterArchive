@@ -4931,8 +4931,16 @@
     "url": "https://help.minecraft.net/hc/en-us/articles/13803752803725",
     "path": "help/Minecraft-Bedrock-Edition-Technical/Minecraft-for-Chromebook-FAQ.md",
     "hashMap": {
-      "i-played-the-trial-version-of-minecraft-for-chromebook.-will-my-worlds-transfer-over": "i-played-the-trial-version-of-minecraft-for-chromebook-will-my-worlds-transfer-over",
-      "i-found-a-bug-in-minecraft-for-chromebook.": "i-found-a-bug-in-minecraft-for-chromebook"
+      "h_01HPSN1J9DT6ENP0ZJETD2VGAM": "whats-in-the-chromebook-version-of-minecraft",
+      "h_01HPSN1J9E0B2F0A3YR4ERV3YS": "chromebook-system-requirements",
+      "h_01HPSN1J9ENYJAC0T8BNG3VNG1": "minimum-requirements",
+      "h_01HPSN1J9EZPVHQ6PNT0KT58WT": "recommended-requirements",
+      "h_01HPSN1J9EM4QHR4WKKC488A6Q": "will-existing-worlds-transfer-to-minecraft-for-chromebook",
+      "h_01HPSN1J9EZF4GEARVF6BQ2SP5": "will-a-previous-purchase-of-minecraft-transfer-to-my-chromebook",
+      "h_01HPSN1J9EMV57MRWPVN3ZVZXT": "do-i-need-a-microsoft-account-to-play-minecraft-on-chromebook",
+      "h_01HPSN1J9E2TRY8RBEHABKQ803": "i-had-a-trial-for-minecraft-when-will-my-worlds-transfer",
+      "h_01HPSN1J9EBTN6WVS1GR0289KQ": "how-to-report-bugs",
+      "h_01HPSN1J9E2ZXR4RRP1ET6J5D0": "refunds"
     }
   },
   {
@@ -5829,6 +5837,14 @@
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/24124939590413",
     "path": "help/Realms-Troubleshooting-and-Billing/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24186093545357",
+    "path": "help/Minecraft-Java-Realms/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Java-Edition.md"
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24186425321741",
+    "path": "help/Realms-Troubleshooting-and-Billing/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Bedrock-Edition.md"
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/360029644312",
@@ -7377,7 +7393,6 @@
     "url": "https://help.minecraft.net/hc/en-us/articles/4409745793677",
     "path": "help/Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md",
     "hashMap": {
-      "h_01HJVJ1R88YVS0R29BDEFJ22BZ": "in-this-article",
       "h_01FG54KZFYDBFMZH7SFDS4JZME": "what-are-prepaidminecraftcodes-and-gift-codes",
       "h_01HJVJ6F4PDRXFFK9MS6V8P921": "where-to-get-minecraft-gift-codes",
       "h_01HJVJCN0M1SKDKHS9C1C07HZH": "how-to-redeem-a-minecraft-gift-card",

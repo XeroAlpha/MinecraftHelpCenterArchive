@@ -1,7 +1,7 @@
 ---
 title: Minecraft Billing FAQ
 date: 2021-09-09T17:22:53Z
-updated: 2023-12-29T15:29:03Z
+updated: 2024-02-16T19:39:39Z
 categories: General Billing
 tags:
   - title_minecraft_java_edition
@@ -47,7 +47,7 @@ This article covers various questions related to billing on various Minecraft ga
 
 Minecraft: Java Edition can be played only on PC: Windows, MacOS, and Linux
 
-You can buy Minecraft: Java Edition (through the Minecraft: Java & Bedrock Edition bundle) from [minecraft.net](https://minecraft.net/store) for \$29.99 USD or local currency equivalent. This is a one-time purchase. You can buy an account for yourself or [buy a code](../Minecraft-Java-Edition-Billing/Minecraft-Java-Edition-Gift-Code-Issues-FAQ.md) to gift to someone else. Gift codes may not be available in all areas.
+You can buy Minecraft: Java Edition (through the Minecraft: Java & Bedrock Edition bundle) from [minecraft.net.](https://minecraft.net/store) This is a one-time purchase. You can buy an account for yourself or [buy a code](../Minecraft-Bedrock-Edition-Billing/How-to-Gift-Minecraft-and-Other-Minecraft-Games-Through-Minecraft-net.md) to gift to someone else. Gift codes may not be available in all areas.
 
 If you're interested in trying the game before making a purchase, visit our article on [Minecraft's demo mode.](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Demo-Mode.md)
 
@@ -123,8 +123,6 @@ Select the Xbox button to open the guide (the menu on the Xbox console), and the
 Under **Games**, you will see all games you own.
 
 If a game you own has not yet been installed on your console, you will see a download icon on the game title. Selecting the title will prompt you to install the game.
-
-For information about worlds and saved play, visit [Minecraft: Java Edition - Changed Computers, Account Is Gone.](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md#i-changed-computers-myaccount-is-gone)
 
 If you are not able to find a copy on your device, please make sure you are logged into the correct account.
 
