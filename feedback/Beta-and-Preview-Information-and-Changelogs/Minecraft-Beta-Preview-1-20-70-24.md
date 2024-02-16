@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.70.24
 date: 2024-02-15T12:37:44Z
-updated: 2024-02-15T18:45:50Z
+updated: 2024-02-16T09:35:27Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24139781551117-Minecraft-Beta-Preview-1-20-70-24
 ---
@@ -132,18 +132,8 @@ Updates this week:
 
 ## API
 
-- Moved *setDynamicProperty* from *beta* to 1.9.0
-- Moved *getDynamicProperty* from *beta* to 1.9.0
-- Moved *getDynamicPropertyIds* from *beta* to 1.9.0
-- Moved *getDynamicPropertyTotalByteCount* from *beta* to 1.9.0
-- Moved *clearDynamicProperties* from *beta* to 1.9.0
-- Added *structureManager* - A *StructureManager* instance that allows you to create, load and place structures in the world
-- StructureManager
-  - Added function *createEmpty(identifier: string, size: Vector3, saveMode?: StructureSaveMode): StructureTemplate* - Creates a new empty structure
-  - Added function *createFromWorld(identifier: string, dimension: Dimension, blockVolume: BlockVolume, options?: StructureCreateOptions): StructureTemplate* - Creates a new structure from blocks in the world
-  - Added function *delete(structure: string \| StructureTemplate): boolean* - Deletes the structure
-  - Added function *get(identifier: string): StructureTemplate \| undefined* - Gets the structure with the specified identifier
-  - Added function *place(structure: string \| StructureTemplate, dimension: Dimension, location: Vector3, options?: StructurePlaceOptions)* - Places a structure in the world
-- StructureTemplate
-  - Added read-only property *id: string* - Returns the name of the structure
-  - Moved *effectAdd* from *beta* to 1.9.0
+- Added function *createEmpty(identifier: string, size: Vector3, saveMode?: StructureSaveMode): StructureTemplate* - Creates a new empty structure
+- Added function *createFromWorld(identifier: string, dimension: Dimension, blockVolume: BlockVolume, options?: StructureCreateOptions): StructureTemplate* - Creates a new structure from blocks in the world
+- Added function *delete(structure: string \| StructureTemplate): boolean* - Deletes the structure
+- Added function *get(identifier: string): StructureTemplate \| undefined* - Gets the structure with the specified identifier
+- Added function *place(structure: string \| StructureTemplate, dimension: Dimension, location: Vector3, options?: StructurePlaceOptions)* - Places a structure in the world
