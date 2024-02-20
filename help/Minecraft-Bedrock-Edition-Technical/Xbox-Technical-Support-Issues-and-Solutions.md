@@ -1,18 +1,14 @@
 ---
 title: Xbox Technical Support Issues and Solutions
 date: 2021-09-09T18:17:25Z
-updated: 2023-07-12T21:10:06Z
+updated: 2024-02-19T22:59:32Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4408865823245-Xbox-Technical-Support-Issues-and-Solutions
 ---
 
-**If you have questions about Minecraft's October 5th Xbox update, please refer to [this article](./Xbox-Minecraft-Performance-Update-Details.md).**
-
 If you're on Windows or Xbox and are experiencing an error code, try checking the [Xbox Support list of codes](https://support.xbox.com/en-US/help/errors/error-code-search-guide) in tandem with this article to help solve your issue. 
-
-This article details various Xbox technical support issues and how you can solve them.
 
 # In This Article:
 
