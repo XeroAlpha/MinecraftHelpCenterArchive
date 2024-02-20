@@ -5827,6 +5827,38 @@
     "path": "help/Minecraft-Marketplace/Invalid-Session-Error-in-Minecraft-Marketplace.md"
   },
   {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24120525083533",
+    "path": "help/Minecraft-Marketplace/How-to-activate-Minecraft-Add-Ons.md",
+    "hashMap": {
+      "h_01HPMVDZHG97RAN1HSN5HFEHZK": "how-to-install-an-add-on-with-a-new-world",
+      "h_01HPMVFQ6GNW6ZRCSM352AVPBN": "how-to-install-your-add-on-in-an-existing-world",
+      "h_01HPMVKKT2KCDS2XCPCK486PPX": "how-to-use-add-ons-in-realms",
+      "h_01HPMVQRP8EKE6K02J82HTPRJN": "related-articles"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24120973871501",
+    "path": "help/Minecraft-Marketplace/Troubleshooting-Minecraft-Add-Ons.md",
+    "hashMap": {
+      "h_01HPMW2G9TMEAQ18R46X5CP8AG": "making-a-backup",
+      "h_01HPMW2G9T0ZMW4TJCKHXR30VE": "finding-a-missing-add-on",
+      "h_01HPMW9T5CVT678T82748WMNMT": "sideload-add-ons-from-third-party-websites-or-apps",
+      "h_01HPMW2G9TNNWZGE03E1BV416A": "stacking-multiple-add-ons",
+      "h_01HPMW2G9TW2T91JHJHBYDGYWP": "using-add-ons-on-other-content-from-the-marketplace",
+      "h_01HPMW2G9THH9BFBQHP1V03MJC": "reporting-bugs",
+      "h_01HPMW713ZBEGJMBWQA88EWDYG": "",
+      "h_01HPMW713ZJA0Z2G5DSG0JWXAN": "-1",
+      "h_01HPMW2G9TSW2VZTACANDG92Y7": "related-articles"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24121220131597",
+    "path": "help/Minecraft-Marketplace/Disabling-Minecraft-Add-Ons.md",
+    "hashMap": {
+      "h_01HPMWNYWKKGY1REXNWEV1NMVD": "related-articles"
+    }
+  },
+  {
     "url": "https://help.minecraft.net/hc/en-us/articles/24122512131213",
     "path": "help/Minecraft-Bedrock-Edition-Technical/How-Do-I-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md"
   },
@@ -6971,7 +7003,11 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4409140076813",
-    "path": "help/Minecraft-Bedrock-Edition-Guides/Minecraft-Bedrock-Edition-Add-ons-FAQ.md"
+    "path": "help/Minecraft-Marketplace/What-are-Minecraft-Add-Ons.md",
+    "hashMap": {
+      "h_01HPMV91K4AGK5B3X4ZMEHEJXH": "minecraft-add-ons-can-introduce",
+      "h_01HPMV8V1YPTPSGBZQSCW8CYQ0": "related-articles"
+    }
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4409145073165",
