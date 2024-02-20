@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition Realms Creation FAQ "
 date: 2021-09-14T22:37:59Z
-updated: 2024-02-12T23:04:18Z
+updated: 2024-02-20T19:12:25Z
 categories: Minecraft Java Realms
 tags:
   - title_minecraft_java_edition
@@ -29,6 +29,8 @@ link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-
 This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md).
 
 ## How to create your Realm
+
+Before you can create a Minecraft Realm, you must have a Microsoft account linked to your game. If you don't have one yet, you can [create a Microsoft account](https://account.microsoft.com/account).
 
 Only the owner of a realm must pay for a subscription. The owner can invite any number of friends, but only 10 players plus the owner can play at the same time.
 

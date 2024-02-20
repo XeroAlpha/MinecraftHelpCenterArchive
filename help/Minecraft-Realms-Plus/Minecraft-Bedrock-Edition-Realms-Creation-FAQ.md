@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Creation FAQ"
 date: 2021-09-14T23:14:55Z
-updated: 2023-12-05T21:17:02Z
+updated: 2024-02-20T19:14:14Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft_java_edition
@@ -28,14 +28,13 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - popular
   - section_12618443219469
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ
 ---
 
-*This article refers to Realms for Minecraft: Bedrock Edition. If you need help with your subscription to Realms for Minecraft: Java Edition, See: [**Minecraft: Java Edition Realms Creation FAQ**](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#downloading-your-realms-world)*
+*This article refers to Realms for Minecraft: Bedrock Edition. If you need help with your subscription to Realms for Minecraft: Java Edition, See: [**Minecraft: Java Edition Realms Creation FAQ**](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK88ASN27R4JKF1CKN3K695)*
 
 **Note: Sharp-eyed players might notice a new Realms subscription in their Microsoft Store purchase history. If you see this, worry not! We're testing something on the backend, but your subscription will remain unaffected. **
 
@@ -93,7 +92,7 @@ Your friends don’t need a Realms Plus subscription to join a Realm. You can in
 
 ### Can I play on a Realm with other players on different devices? 
 
-Yes. Minecraft: Bedrock Edition allows players to get together, regardless of which device they're on. Anyone playing on, Android, Amazon Fire tablets, Gear VR, iPhone, iPad, Nintendo Switch, PlayStation<sup>®</sup>4, PlayStation<sup>®</sup>5, Windows 10 (and above) Windows Phone, Xbox One, and Xbox Series X\|S. or can play together.  
+Yes. Minecraft: Bedrock Edition allows players to get together, regardless of which device they're on. You must have a Microsoft account linked to your game for this functionality. Anyone playing on Android, Amazon Fire tablets, Gear VR, iPhone, iPad, Nintendo Switch, PlayStation<sup>®</sup>4, PlayStation<sup>®</sup>5, Windows 10 (and above) Windows Phone, Xbox One, and Xbox Series X\|S. or can play together.
 
 Players of Minecraft: Java Edition can only play with each other.  
 
@@ -153,7 +152,7 @@ A Nintendo Switch Online subscription is required for playing multiplayer on Nin
 
 ### How do I cancel my recurring subscription?   
 
-See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md#howdoicancelmyrealmssubscription) for information on canceling recurring Minecraft Realms subscriptions. 
+See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) for information on canceling recurring Minecraft Realms subscriptions. 
 
 ### Realms Plus Packs
 
@@ -310,7 +309,7 @@ In your Realm, you have three different world slots you can use. You can have th
 
 ### Change Realm Slot
 
-If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md#back-up-minecraft-bedrock-edition-worlds). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **  
+If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **  
 **
 
 ### Adjust the Overall Settings for Your Realms Server

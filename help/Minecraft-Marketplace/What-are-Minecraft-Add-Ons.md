@@ -1,7 +1,7 @@
 ---
 title: What are Minecraft Add-Ons?
 date: 2021-09-13T18:58:31Z
-updated: 2024-02-20T18:07:22Z
+updated: 2024-02-20T18:57:08Z
 categories: Minecraft Marketplace
 tags:
   - trending
@@ -27,5 +27,8 @@ Add-Ons work on any platform that runs Minecraft: Bedrock Edition.
 
 ### Related Articles
 
-[How to Buy Content from the Minecraft Marketplace](https://minecrafthelp.zendesk.com/hc/en-us/articles/24069202046349)  
+[How to Buy Content from the Minecraft Marketplace](https://minecrafthelp.zendesk.com/hc/en-us/articles/24069202046349)
+
 [How to activate Minecraft Add-Ons](./How-to-activate-Minecraft-Add-Ons.md)
+
+[Let's talk about Add-Ons! - Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/24051477904781-Let-s-talk-about-Add-Ons)

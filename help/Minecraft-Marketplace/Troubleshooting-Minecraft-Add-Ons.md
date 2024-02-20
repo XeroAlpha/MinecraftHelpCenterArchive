@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Add-Ons
 date: 2024-02-14T17:59:52Z
-updated: 2024-02-20T18:31:39Z
+updated: 2024-02-20T19:03:49Z
 categories: Minecraft Marketplace
 tags:
   - section_24069904400141
@@ -52,6 +52,10 @@ If you’ve found an issue with Minecraft: Bedrock Edition that you’d like to 
 
 [How to activate Minecraft Add-Ons](https://minecrafthelp.zendesk.com/hc/en-us/articles/24120525083533)
 
+[Disabling Minecraft Add-Ons](https://minecrafthelp.zendesk.com/hc/en-us/articles/24121220131597)
+
 [Who to Contact with your Minecraft Support Questions](https://minecrafthelp.zendesk.com/hc/en-us/articles/19506833026829)
 
 [Learn to be a Minecraft Creator Using Add-Ons](https://www.minecraft.net/en-us/creator)
+
+[Let's talk about Add-Ons! - Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/24051477904781-Let-s-talk-about-Add-Ons)
