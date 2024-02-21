@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 import { stringify as stringifyYaml, parse as parseYaml } from 'yaml';
 import { listArticles, listSections } from './zendesk.js';
 import { analyzeHtml, convertHtmlToMarkdown } from './html2md.js';
+import { Parallel } from './parallel.js';
 
 async function arrayFromAsync(asyncIterator) {
     const ret = [];
@@ -39,51 +40,53 @@ function listLocalArticles(path) {
     return articles;
 }
 
-class LinkDatabase {
-    constructor(path) {
-        this.path = path;
-        this.links = existsSync(path) ? JSON.parse(readFileSync(path, 'utf-8')) : [];
-    }
-
-    addLink(url, path, hashMap) {
-        const foundIndex = this.links.findIndex((e) => e.url === url);
-        const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
-        const opt = { url, path: pathRelative, hashMap: Object.keys(hashMap).length > 0 ? hashMap : undefined };
-        if (foundIndex >= 0) {
-            this.links[foundIndex] = opt;
-        } else {
-            this.links.push(opt);
-        }
-    }
-
-    findLink(url, hash) {
-        const found = this.links.find((e) => e.url === url);
-        if (found) {
-            const foundPath = resolvePath(projectRoot, found.path);
-            if (hash) {
-                const { hashMap } = found;
-                return [foundPath, hashMap?.[hash] ?? hash];
-            } else {
-                return [foundPath];
-            }
-        }
-        return null;
-    }
-
-    save() {
-        this.links.sort((a, b) => a.url > b.url ? 1 : a.url < b.url ? -1 : 0);
-        writeFileSync(this.path, JSON.stringify(this.links, null, 2));
-    }
-}
-
 function simplifyArticleUrl(articleUrl) {
     const urlObj = new URL(articleUrl);
     return `${urlObj.origin}${urlObj.pathname.replace(/(\/\d+)[^/]*$/, '$1')}${urlObj.hash}`;
 }
 
-async function updateArticles({ zendeskOptions, path, databaseFile, incremental, baseUrlRewrite }) {
+class LinkDatabase {
+    constructor() {
+        this.index = [];
+    }
+
+    loadFromFile(path) {
+        const articles = listLocalArticles(path);
+        articles.forEach(({ path, frontmatter }) => this.addLink(path, frontmatter));
+    }
+
+    addLink(path, frontmatter) {
+        let found = this.index.find((e) => e.path === path);
+        if (!found) {
+            found = { path };
+            this.index.push(found);
+        }
+        found.url = simplifyArticleUrl(frontmatter.link);
+        found.hashMap = frontmatter.hash;
+    }
+
+    getByUrl(url) {
+        const simplifiedUrl = simplifyArticleUrl(url);
+        return this.index.find((e) => e.url === simplifiedUrl);
+    }
+
+    resolveLink(url, hash) {
+        const found = this.getByUrl(url);
+        if (found) {
+            if (hash) {
+                const { hashMap } = found;
+                return [found.path, hashMap?.[hash] ?? hash];
+            } else {
+                return [found.path];
+            }
+        }
+        return null;
+    }
+}
+
+async function listArticleData({ zendeskOptions, database, incremental, baseUrlRewrite }) {
+    const result = [];
     let sections = null;
-    const database = new LinkDatabase(databaseFile);
     const findSection = async (id) => {
         if (!sections) {
             sections = await arrayFromAsync(listSections({
@@ -93,128 +96,143 @@ async function updateArticles({ zendeskOptions, path, databaseFile, incremental,
         }
         return sections.find((e) => e.id === id);
     }
-    mkdirSync(path, { recursive: true });
-    const localArticles = listLocalArticles(path);
     const articleIter = listArticles({
         ...zendeskOptions,
         sortBy: 'edited_at',
         sortOrder: 'desc',
         pageSize: 100
     });
-    const added = [];
-    const edited = [];
     for await (const article of articleIter) {
         let articleUrl = article.html_url; // Canonical form
         if (baseUrlRewrite) {
             articleUrl = baseUrlRewrite(articleUrl);
         }
-        const simplifiedArticleUrl = simplifyArticleUrl(articleUrl);
-        const localCopyIndex = localArticles.findIndex(({ frontmatter }) => articleUrl === frontmatter.link && article.edited_at === frontmatter.updated);
-        if (localCopyIndex >= 0) {
-            if (incremental) {
-                break; // Assume articles that updated before it has been updated
-            }
-            localArticles.splice(localCopyIndex, 1);
+        const localCopy = database.getByUrl(articleUrl);
+        if (incremental && localCopy && localCopy.frontmatter.update === article.edited_at) {
+            break; // Assume articles that updated before it has been updated
         }
-        const matchSection = article.section_id ? await findSection(article.section_id) : undefined;
-        const articleMarkdownRelative = joinPath(matchSection ? titleToId(matchSection.name) : 'others', `${titleToId(article.name)}.md`);
-        const articleMarkdownPath = resolvePath(path, articleMarkdownRelative);
-        const markdownExisted = existsSync(articleMarkdownPath);
-        const convertContext = analyzeHtml(article.body);
-        database.addLink(simplifiedArticleUrl, articleMarkdownPath, convertContext.hashMap);
-        const articleBodyMarkdown = convertHtmlToMarkdown(convertContext.json, {
-            normalizeUrl: (urlObj) => {
-                if (!urlObj.origin || urlObj.origin === 'null') return urlObj.toString();
-                const hash = urlObj.hash;
-                const urlToRequest = simplifyArticleUrl(`${urlObj.origin}${urlObj.pathname}`);
-                const linkTarget = database.findLink(urlToRequest, hash.replace(/^#/, ''));
-                if (linkTarget) {
-                    const [linkPath, linkHash] = linkTarget;
-                    let linkPathRelative = relativePath(resolvePath(articleMarkdownPath, '..'), linkPath).replaceAll(pathSep, pathSepPosix);
-                    if (!linkPathRelative.startsWith('../')) {
-                        linkPathRelative = `./${linkPathRelative}`;
-                    }
-                    if (urlToRequest === simplifiedArticleUrl) {
-                        return `#${linkHash}`;
-                    }
-                    if (linkHash) {
-                        return `${linkPathRelative}#${linkHash}`;
-                    }
-                    return linkPathRelative;
+        const section = article.section_id ? await findSection(article.section_id) : undefined;
+        result.push({
+            url: articleUrl,
+            article,
+            section
+        });
+    }
+    return result;
+}
+
+async function analyzeArticleNetwork({ url, section, article }, database, basePath) {
+    const { json, hashMap } = await analyzeHtml(article.body);
+    const frontmatter = {
+        title: article.title,
+        date: article.created_at,
+        updated: article.created_at !== article.edited_at ? article.edited_at : undefined,
+        categories: section ? section.name : undefined,
+        tags: article.label_names?.length ? article.label_names : undefined,
+        link: url,
+        hash: Object.keys(hashMap).length > 0 ? hashMap : undefined
+    };
+    const pathRelative = joinPath(section ? titleToId(section.name) : 'others', `${titleToId(article.name)}.md`);
+    const path = resolvePath(basePath, pathRelative);
+    database.addLink(path, frontmatter);
+    return { path, json, frontmatter };
+}
+
+async function saveArticle({ url, article }, { path, json, frontmatter }, database) {
+    const simplifiedUrl = simplifyArticleUrl(url);
+    const articleBodyMarkdown = await convertHtmlToMarkdown(json, {
+        normalizeUrl: (urlObj) => {
+            if (!urlObj.origin || urlObj.origin === 'null') return urlObj.toString();
+            const hash = urlObj.hash;
+            const urlToRequest = simplifyArticleUrl(`${urlObj.origin}${urlObj.pathname}`);
+            const linkTarget = database.resolveLink(urlToRequest, hash.replace(/^#/, ''));
+            if (linkTarget) {
+                const [linkPath, linkHash] = linkTarget;
+                let linkPathRelative = relativePath(resolvePath(path, '..'), linkPath).replaceAll(pathSep, pathSepPosix);
+                if (!linkPathRelative.startsWith('../')) {
+                    linkPathRelative = `./${linkPathRelative}`;
                 }
-                return urlObj.toString();
-            },
-            baseUrl: articleUrl
-        });
-        const articleMarkdown = [
-            '---',
-            stringifyYaml({
-                title: article.title,
-                date: article.created_at,
-                updated: article.created_at !== article.edited_at ? article.edited_at : undefined,
-                categories: matchSection ? matchSection.name : undefined,
-                tags: article.label_names && article.label_names.length ? article.label_names : undefined,
-                link: articleUrl,
-            }).trim(),
-            '---',
-            '',
-            articleBodyMarkdown.trim(),
-            ''
-        ].join('\n');
-        mkdirSync(resolvePath(articleMarkdownPath, '..'), { recursive: true });
-        writeFileSync(articleMarkdownPath, articleMarkdown);
-        utimesSync(articleMarkdownPath, new Date(article.created_at), new Date(article.updated_at));
-        process.stdout.write(`${articleMarkdownRelative}\n`)
-        if (markdownExisted) {
-            edited.push(article.title);
-            const localArticleIndex = localArticles.findIndex(({ path }) => path === articleMarkdownPath);
-            if (localArticleIndex >= 0) {
-                localArticles.splice(localArticleIndex, 1); // File is updated
+                if (urlToRequest === simplifiedUrl) {
+                    return `#${linkHash}`;
+                }
+                if (linkHash) {
+                    return `${linkPathRelative}#${linkHash}`;
+                }
+                return linkPathRelative;
             }
-        } else {
-            added.push(article.title);
-        }
-    }
-    database.save();
-    if (!incremental) {
-        const removed = localArticles.map((e) => e.frontmatter.title);
-        localArticles.forEach((e) => {
-            rmSync(e.path);
-        });
-        return [added, edited, removed];
-    }
-    return [added, edited];
+            return urlObj.toString();
+        },
+        baseUrl: url
+    });
+    const articleMarkdown = [
+        '---',
+        stringifyYaml(frontmatter).trim(),
+        '---',
+        '',
+        articleBodyMarkdown.trim(),
+        ''
+    ].join('\n');
+    mkdirSync(resolvePath(path, '..'), { recursive: true });
+    writeFileSync(path, articleMarkdown);
+    utimesSync(path, new Date(article.created_at), new Date(article.updated_at));
 }
 
 async function main(fullUpdate) {
     const incremental = fullUpdate !== 'full';
-    const databaseFile = resolvePath(projectRoot, 'database.json');
-    const feedbackStat = await updateArticles({
-        zendeskOptions: {
-            host: 'minecraftfeedback',
-            lang: 'en-us'
+    const optionList = [
+        {
+            zendeskOptions: {
+                host: 'minecraftfeedback',
+                lang: 'en-us'
+            },
+            basePath: resolvePath(projectRoot, 'feedback')
         },
-        path: resolvePath(projectRoot, 'feedback'),
-        databaseFile,
-        incremental
-    });
-    const helpStat = await updateArticles({
-        zendeskOptions: {
-            host: 'minecrafthelp',
-            lang: 'en-us'
-        },
-        path: resolvePath(projectRoot, 'help'),
-        databaseFile,
-        incremental,
-        baseUrlRewrite: (url) => url.replace(/^https:\/\/minecrafthelp\.zendesk\.com\//, 'https://help.minecraft.net/')
-    });
-    const stat = [
-        feedbackStat[0].length + helpStat[0].length,
-        feedbackStat[1].length + helpStat[1].length,
-        feedbackStat[2]?.length + helpStat[2]?.length
+        {
+            zendeskOptions: {
+                host: 'minecrafthelp',
+                lang: 'en-us'
+            },
+            basePath: resolvePath(projectRoot, 'help'),
+            baseUrlRewrite: (url) => url.replace(/^https:\/\/minecrafthelp\.zendesk\.com\//, 'https://help.minecraft.net/')
+        }
     ];
-    if (stat[0] + stat[1] > 0) {
-        process.stdout.write(`Added ${stat[0]} article(s), updated ${stat[1]} article(s)\n`);
+    const database = new LinkDatabase();
+    optionList.forEach(({ basePath: path }) => database.loadFromFile(path));
+    const notVisited = new Set(database.index.map(({ path }) => path));
+    const analysisData = [];
+    for (let i = 0; i < optionList.length; i++) {
+        const { zendeskOptions, basePath, baseUrlRewrite } = optionList[i];
+        const articleDataList = await listArticleData({ zendeskOptions, database, incremental, baseUrlRewrite });
+        const articleAnalysisResults = await Parallel.map(articleDataList, async (e) => {
+            const localCopyPath = database.getByUrl(e.url)?.path;
+            const articleAnalysisResult = await analyzeArticleNetwork(e, database, basePath);
+            return [e, localCopyPath, articleAnalysisResult];
+        });
+        analysisData.push(...articleAnalysisResults);
+    }
+    const pendingJobs = [];
+    for (const [articleData, localCopyPath, articleAnalysisResult] of analysisData) {
+        pendingJobs.push(Parallel.run(async () => {
+            const { path } = articleAnalysisResult;
+            const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
+            if (localCopyPath) {
+                process.stdout.write(`[M]${pathRelative}\n`);
+                rmSync(localCopyPath);
+                notVisited.delete(localCopyPath);
+            } else {
+                process.stdout.write(`[A]${pathRelative}\n`);
+            }
+            notVisited.delete(path);
+            await saveArticle(articleData, articleAnalysisResult, database);
+        }));
+    }
+    await Promise.all(pendingJobs);
+    if (!incremental && notVisited.size > 0) {
+        notVisited.forEach((path) => {
+            const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
+            process.stdout.write(`[D]${pathRelative}\n`);
+            rmSync(path);
+        });
     }
 }
 

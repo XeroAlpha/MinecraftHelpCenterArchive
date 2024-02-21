@@ -1,4 +1,4 @@
-import { execSync } from 'child_process';
+import { exec } from 'child_process';
 import GithubSlugger from 'github-slugger';
 
 /**
@@ -200,8 +200,21 @@ function simpleFlattenInlines(inlines) {
     return texts.join('');
 }
 
-export function analyzeHtml(html) {
-    const input = execSync('pandoc -f html -t json', {
+function execPromisify(command, options) {
+    return new Promise((resolve, reject) => {
+        const proc = exec(command, options, (err, stdout) => {
+            if (err) return reject(err);
+            resolve(stdout);
+        });
+        if (options.input) {
+            proc.stdin.write(options.input);
+        }
+        proc.stdin.end();
+    });
+}
+
+export async function analyzeHtml(html) {
+    const input = await execPromisify('pandoc -f html -t json', {
         input: html
     });
 
@@ -225,7 +238,7 @@ export function analyzeHtml(html) {
     return { json, hashMap };
 }
 
-export function convertHtmlToMarkdown(json, options) {
+export async function convertHtmlToMarkdown(json, options) {
     const normalizeUrl = (urlStr) => {
         const url = new URL(urlStr, options.baseUrl);
         if (options.normalizeUrl) {
@@ -255,7 +268,7 @@ export function convertHtmlToMarkdown(json, options) {
         return node;
     }).document(json);
 
-    return execSync('pandoc -f json -t gfm --wrap=none', {
+    return (await execPromisify('pandoc -f json -t gfm --wrap=none', {
         input: JSON.stringify(json)
-    }).toString().replace(/\r\n/g, '\n');
+    })).toString().replace(/\r\n/g, '\n');
 }
