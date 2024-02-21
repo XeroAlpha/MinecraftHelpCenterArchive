@@ -7,7 +7,7 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859587017101
-link: https://help.minecraft.net/hc/en-us/articles/14745476548877-Minecraft-Legends-Improvement-Hub-Upgrades-
+link: https://help.minecraft.net/hc/en-us/articles/14745476548877-Minecraft-Legends-Improvement-Hub-Upgrades
 ---
 
 **Note: This article spoils some of the Improvement Hub upgrades that you unlock later in the game. If you want the upgrades to remain a surprise, we suggest you play through the game before reading onward.**

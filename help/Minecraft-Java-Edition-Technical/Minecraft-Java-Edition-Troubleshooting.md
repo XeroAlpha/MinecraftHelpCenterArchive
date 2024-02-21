@@ -6,6 +6,13 @@ categories: "Minecraft: Java Edition Technical"
 tags:
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting
+hash:
+  h_01HAAHWQX2J4Q6HFKVJCXFEQ9V: in-this-article
+  h_01GHKWW7CC1NRVSZYRN72A242K: i-cannot-connect-to-gameservices-on-minecraft-java-edition
+  h_01GHKWWCKXP2P94PY1RQ34887Z: minecraft-java-edition-support-resources
+  h_01GHKWY25D6H4Q9R0CDGRGY6ER: mojang-bug-tracker
+  h_01HAAHWQX22VZ3X2NZX8YPQTJR: internal-exception-error
+  h_01GHKWY6S9A9W97A8K4Y4V3P4N: minecraft-realms
 ---
 
 *This article applies to Minecraft: Java Edition. If you need help with Minecraft for Windows, Xbox One, or mobile, see this* [*Minecraft support resources*](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Support-Resources.md)* page.*
@@ -51,7 +58,7 @@ If you're receiving the io.netty.handler.codec.decodeexception error when connec
 
 ## Minecraft Realms
 
-For general questions about Realms, the first place you should check is our [Minecraft: Java Edition Realms Creation](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#general-questions) [FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#general-questions). 
+For general questions about Realms, the first place you should check is our [Minecraft: Java Edition Realms Creation](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK7Y11GJ40A28MYPKXHSS0M) [FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK7Y11GJ40A28MYPKXHSS0M). 
 
 For connection issues with Realms, see [Realms Connection Issues.](../Realms-Troubleshooting-and-Billing/Minecraft-Java-Edition-Realms-Troubleshooting.md)  
 

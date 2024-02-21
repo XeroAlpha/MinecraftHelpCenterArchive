@@ -6,6 +6,9 @@ categories: Community Guides
 tags:
   - section_12618645881229
 link: https://help.minecraft.net/hc/en-us/articles/4408904068621-Feedback-and-Fan-Mail
+hash:
+  h_01HCJKGQPYVXRH7TEX93JKTC24: where-can-isend-minecraftfanmail
+  h_01HCJKGQPYDZM4JRH64K0ZZZ0S: where-can-i-submit-suggestions
 ---
 
 ## Where can I send Minecraft fan mail?  

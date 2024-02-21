@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.18.10.21 (Xbox One/Windows 10/Android)
 date: 2021-12-01T16:10:31Z
 updated: 2021-12-01T17:10:10Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4415247692173-Minecraft-Beta-1-18-10-21-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4415247692173-Minecraft-Beta-1-18-10-21-Xbox-One-Windows-10-Android
 ---
 
 **Posted:** 1 December 2021

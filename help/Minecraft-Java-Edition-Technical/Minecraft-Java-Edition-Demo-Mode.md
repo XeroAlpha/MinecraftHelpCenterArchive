@@ -19,7 +19,17 @@ tags:
   - subject_problems_migrating
   - platform_PC
   - section_12618019146893
-link: https://help.minecraft.net/hc/en-us/articles/4408948974989-Minecraft-Java-Edition-Demo-Mode-
+link: https://help.minecraft.net/hc/en-us/articles/4408948974989-Minecraft-Java-Edition-Demo-Mode
+hash:
+  h_01HAMTPR0J9NYHGWEV345E8KPM: in-this-article
+  h_01GHMAQ9W4829X7RJ6C4978K9Z: if-you-are-stuck-on-the-demo-of-minecraft-java-edition
+  h_01HAMTPR0JP5SJ75S4QD18875N: there-are-two-possible-scenarios-here-that-will-appear-in-the-launcher-as-such
+  h_01GHMAQVR3CJA5NXTXX7XZNFDB: troubleshooting
+  h_01GHMAR09M7NFQBF23NX568SGS: you-just-purchasedminecraft
+  h_01GHMAR5T6PDMF7TAT7GASR8C1: you-purchasedminecraft-under-a-different-email-address-or-the-email-address-has-beenchanged
+  h_01GHMARNH86873C7591CDA1YFG: you-have-an-unmigrated-legacy-minecraft-account
+  h_01GHMARW5B7NZR7MPK4V6YBZ3B: your-purchase-was-refunded-in-this-case-you-will-have-received-an-email-from-mojangstudios
+  h_01GHMAS3X7YS2FDGX9KJAGE0BH: didntfindwhatyouwerelookingfor
 ---
 
 If you would like to try Minecraft: Java Edition before deciding to purchase the game, [download the Minecraft launcher](https://minecraft.net/download). The demo mode lasts five in-game days or about 100 minutes in real-time. 

@@ -3,7 +3,7 @@ title: Minecraft - 1.14.20 (Bedrock)
 date: 2020-01-27T16:40:51Z
 updated: 2020-02-07T16:11:33Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360038848252-Minecraft-1-14-20-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360038848252-Minecraft-1-14-20-Bedrock
 ---
 
 **Posted:** January 28, 2020

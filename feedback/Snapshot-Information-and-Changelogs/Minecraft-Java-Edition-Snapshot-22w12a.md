@@ -3,7 +3,7 @@ title: "Minecraft: Java Edition - Snapshot 22w12a "
 date: 2022-03-25T08:13:16Z
 updated: 2022-03-25T08:13:21Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/5059715633933-Minecraft-Java-Edition-Snapshot-22w12a-
+link: https://feedback.minecraft.net/hc/en-us/articles/5059715633933-Minecraft-Java-Edition-Snapshot-22w12a
 ---
 
 Waaaaaaaaaaah! It's Wal... wait that's not it. It's the warden! The spooky, unfriendly (maybe it just wants a hug?) mob is making its way into our latest snapshot. 

@@ -7,6 +7,8 @@ tags:
   - section_24069904400141
   - Add-Ons
 link: https://help.minecraft.net/hc/en-us/articles/24121220131597-Disabling-Minecraft-Add-Ons
+hash:
+  h_01HPMWNYWKKGY1REXNWEV1NMVD: related-articles
 ---
 
 To deactivate Add-Ons from a World follow these steps:

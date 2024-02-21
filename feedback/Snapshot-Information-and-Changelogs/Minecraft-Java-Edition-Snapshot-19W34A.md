@@ -8,6 +8,8 @@ tags:
   - buzz
   - 19W34A
 link: https://feedback.minecraft.net/hc/en-us/articles/360032831011-Minecraft-Java-Edition-Snapshot-19W34A
+hash:
+  bee-nests-bee-hives: bee-nests--bee-hives
 ---
 
 22 August 2019

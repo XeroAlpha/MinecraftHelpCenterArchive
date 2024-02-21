@@ -21,6 +21,15 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/23432418934925-Common-Minecraft-Launcher-Error-Codes
+hash:
+  h_01HMSEEK698DB185PMAS64P27P: in-this-article
+  h_01HMSEEWYX37F3TH7XNP7A3ZPX: java-profile-creation-failed-error
+  h_01HMSEH1JVR22Q52APB54XA98F: minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001
+  h_01HMSEK3Z50Y55WCBG5C2NNTQ3: unable-to-update-native-launcher-error
+  h_01HMSEPCKH1CZ2QGPGXRWK9MKM: error-0x80131500-when-trying-to-install-the-launcher
+  h_01HMSET4M1NBEFA64PTMZANVBC: cant-connect-to-minecraft-services-error-after-sign-in
+  h_01HMSF318T74CHXQ87F93YXN63: error-0x80242020-after-installing-bedrock-edition
+  h_01HMSF5044HM9DWH3ZBNCBA5B0: you-must-complete-adult-verification-on-the-xbox-homepage-error
 ---
 
 If you are trying to play Minecraft through the Minecraft Launcher on PC but are running into an error code, this article will go over various error codes and how to fix them. For more troubleshooting solutions in the Minecraft Launcher, please visit the [Minecraft Launcher Troubleshooting hub](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).

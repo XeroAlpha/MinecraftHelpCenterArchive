@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.18.2 Pre-Release 3 "
 date: 2022-02-24T10:33:54Z
 updated: 2022-02-24T10:33:59Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4486589327629-Minecraft-Java-Edition-1-18-2-Pre-Release-3-
+link: https://feedback.minecraft.net/hc/en-us/articles/4486589327629-Minecraft-Java-Edition-1-18-2-Pre-Release-3
+hash:
+  fixed-bugs-in-1.18.2-pre-release-3: fixed-bugs-in-1182-pre-release-3
 ---
 
 We've now released 1.18.2 pre-release 3 to fix a few more bugs.

@@ -6,7 +6,7 @@ categories: Frequently Asked Questions
 tags:
   - 3DS
   - FAQ
-link: https://feedback.minecraft.net/hc/en-us/articles/360004166711-How-to-update-your-game-3DS-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004166711-How-to-update-your-game-3DS
 ---
 
 Having trouble getting the latest patch? The steps below will help you on your way!

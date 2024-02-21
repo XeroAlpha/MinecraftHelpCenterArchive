@@ -8,18 +8,18 @@ tags:
   - platform_windows_10
   - platform_linux
   - platform_macos
-  - category_migration_support
   - subject_problems_migrating
   - subject_how_do_i_migrate
   - subject_when_can_i_migrate
-  - popular
-  - trending
   - section_12617909134221
   - section_12617963662861
   - section_12618019146893
-  - new
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-my-Chance-to-Migrate-What-Happens-to-my-Account-
+link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-my-Chance-to-Migrate-What-Happens-to-my-Account
+hash:
+  h_01HAPXBF024JESJANV49D39CB5: what-happens-to-my-java-edition-account
+  h_01HAPXBF025WFW7HJ4JRQCR68Q: what-happens-to-my-worlds
+  h_01HAPXBF0332Y0D7MV4XW2D46G: what-about-my-capes-skins-and-username
 ---
 
 **As of December 18, 2023, the post-migration process for Mojang accounts has officially ended. If you successfully completed the post-migration process, you should now have access to both Java and Bedrock editions.**

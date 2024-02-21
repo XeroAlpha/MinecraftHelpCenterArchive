@@ -6,6 +6,8 @@ categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - section_12618581961357
 link: https://help.minecraft.net/hc/en-us/articles/360059615491-Minecraft-Bedrock-Edition-Rare-Structures
+hash:
+  examples-of-rare-structures: examples-ofrarestructures
 ---
 
 The world of Minecraft is a vast and endless realm where players should expect the unexpected while exploring. With the many different biomes and regions there is also the chance that a structure or building will generate. Now, what they are can vary from villages with houses and roads, to dungeons with endless hallways, and so on.  

@@ -3,7 +3,7 @@ title: "MInecraft: Java Edition Snapshot - 22w18a "
 date: 2022-05-09T08:37:25Z
 updated: 2022-05-09T08:37:37Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6095998423565-MInecraft-Java-Edition-Snapshot-22w18a-
+link: https://feedback.minecraft.net/hc/en-us/articles/6095998423565-MInecraft-Java-Edition-Snapshot-22w18a
 ---
 
 Another snapshot is now available for Minecraft: Java Edition. This snapshot brings a few gameplay changes and some technical tidbits, such as the place command and cryptographically signed chat commands.

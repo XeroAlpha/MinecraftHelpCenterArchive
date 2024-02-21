@@ -3,7 +3,12 @@ title: "Minecraft: Java Edition - 1.17.1 Pre-release 1 "
 date: 2021-06-18T13:23:38Z
 updated: 2021-06-18T13:24:16Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4403307412365-Minecraft-Java-Edition-1-17-1-Pre-release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/4403307412365-Minecraft-Java-Edition-1-17-1-Pre-release-1
+hash:
+  changes-in-1.17.1-pre-release-1: changes-in-1171-pre-release-1
+  the-caves-cliffs-preview: the-caves--cliffs-preview
+  technical-changes-in-1.17.1-pre-release-1: technical-changes-in-1171-pre-release-1
+  fixed-bugs-in-1.17.1-pre-release-1: fixed-bugs-in-1171-pre-release-1
 ---
 
 Happy Friday! The first pre-release for 1.17.1 is now available for download. This pre-release introduces a few changes to some gameplay mechanics, and it also fixes a bunch of bugs.

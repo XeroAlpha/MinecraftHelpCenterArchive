@@ -4,6 +4,10 @@ date: 2023-08-30T12:36:37Z
 updated: 2023-08-30T12:38:31Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19021184057229-Minecraft-Java-Edition-Snapshot-23w35a
+hash:
+  h_01H9372VRFMQ6QY1K106YR1008: technical-changes
+  h_01H9372VRFR3Q271Q4XWS51QZE: fixed-bugs-in-23w35a
+  h_01H9372VRGNNRVAQZWAWBR34S0: get-the-snapshot
 ---
 
 We are releasing a new snapshot that contains updates to support libraries, and a whole bundle of bug fixes!

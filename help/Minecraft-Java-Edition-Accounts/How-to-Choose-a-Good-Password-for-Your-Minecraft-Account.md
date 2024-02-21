@@ -6,6 +6,14 @@ categories: "Minecraft: Java Edition Accounts"
 tags:
   - section_12617963662861
 link: https://help.minecraft.net/hc/en-us/articles/360034754192-How-to-Choose-a-Good-Password-for-Your-Minecraft-Account
+hash:
+  h_01HAMSMXXWH2ZFAHHVZQQ6CBAB: in-this-article
+  h_01GH9GW344Z859GKTTYB8N27JQ: whats-a-good-password
+  h_01GH9GW8TCAZVQJ3H2YV5X9TPW: use-a-unique-password
+  h_01GH9GWE67NQNC84ET9S6RRXRZ: use-a-password-that-is-hard-to-guess-for-others
+  h_01GH9GWK3DE36Z70GY2VGWZDG1: keep-your-password-safe
+  h_01GH9GWRKA3D85KP9QSC2G29VH: change-your-password
+  h_01GH9GWXJ3WMM1QAFFDNJ6M7MM: add-extra-security-to-your-account
 ---
 
 Your password is what protects your account from unauthorized use. When registering for a Microsoft account (or any other web-based service, for that matter), it is important that you choose a good password.
@@ -49,7 +57,7 @@ If you store the password on your computer, don't store it in a file named "pass
 
 ## Change your password
 
-If you suspect that someone else has been accessing your account, [immediately change your password](./Minecraft-Java-Edition-Login-Issues-FAQ.md#iforgot-my-password)! Changing your password will only take a minute. Restoring your lost account is a tedious task (and sometimes not even possible).
+If you suspect that someone else has been accessing your account, [immediately change your password](./Minecraft-Java-Edition-Login-Issues-FAQ.md#h_01FFGD4VMHFW7CYMZHWH9VK9YW)! Changing your password will only take a minute. Restoring your lost account is a tedious task (and sometimes not even possible).
 
 ## Add extra security to your account
 

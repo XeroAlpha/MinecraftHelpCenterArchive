@@ -6,6 +6,8 @@ categories: Snapshot Information and Changelogs
 tags:
   - 19W02A
 link: https://feedback.minecraft.net/hc/en-us/articles/360021795911-Minecraft-Java-Edition-Snapshot-19W02A
+hash:
+  january-2018: 9-january-2018
 ---
 
 ## **9 January 2018**

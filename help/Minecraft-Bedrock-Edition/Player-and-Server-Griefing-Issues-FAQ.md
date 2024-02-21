@@ -6,6 +6,14 @@ categories: "Minecraft: Bedrock Edition"
 tags:
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/4409161646989-Player-and-Server-Griefing-Issues-FAQ
+hash:
+  h_01HAMWDX8H2MBASJSY2EX0WQJN: in-this-article
+  h_01GD1E5TYX0B9SZA4PDZ3T3EH1: im-having-an-issue-with-a-player-on-a-server
+  h_01GD1E60B0E47NV3C68GC5FK28: how-do-i-know-if-a-server-violates-the-minecraft-usage-guidelines
+  h_01GD1E654JF4S43FHXP0Q4RZH2: wherecanisubmitareport
+  h_01GD1E6AAJWTH8JG2G74R6BD27: will-i-hear-back-about-my-report-how-will-the-commercial-use-guidelines-be-enforced
+  h_01GD1E6NV629PSS0ZMDBGTMYD8: i-want-to-report-a-bad-guy-who-do-i-contact-
+  h_01GD1E6V3ZH181APYREHHENJH2: what-do-i-do-if-i-think-my-account-has-been-stolen
 ---
 
 Minecraft is a game that people of all ages can enjoy, but due to the open nature of the Internet, you may sometimes run into problems with other players. This article details how to deal with player and server griefing issues. 

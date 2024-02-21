@@ -4,6 +4,64 @@ date: 2023-09-21T15:13:30Z
 updated: 2023-09-21T15:13:36Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19703470383757-Minecraft-Java-Edition-1-20-2
+hash:
+  h_01HAW4RT2BA1WR1K7NZ3P2F2KF: new-features
+  h_01HAW4RT2BF6WG3GCS84MV7AJE: player-skin--name-reporting
+  h_01HAW4RT2B2DARJD7GG06XD2QT: changes
+  h_01HAW4RT2CD07XZ323NHJ4TD7Y: mob-attack-reach-changes
+  h_01HAW4RT2C38R2G3H3NBEYR3MC: networked-play
+  h_01HAW4RT2CE8H725P4M027Z00X: vibrations
+  h_01HAW4RT2CXS1R4TAZYF1BVMCH: miscellaneous-minor-tweaks
+  h_01HAW4SYDYJSVRYCGQEWCS87K9: technical-changes
+  h_01HAW4SYDYXNG4A6P85C42XE73: command-history
+  h_01HAW4SYDYJ85MA1R56095VJ9E: network-optimizations
+  h_01HAW4SYDYHCTS08H5KBC477CE: multi-version-packs
+  h_01HAW4SYDYYGQ6719HDJKD86CY: pack-metadata
+  h_01HAW4SYDZSQE7C0AHG3MZ04N9: overlays
+  h_01HAW4SYDZF1A2EA57M730WX5C: symbolic-link-validation
+  h_01HAW4SYDZC8PYXW4Q1N9GBMHF: network-protocol
+  h_01HAW4SYDZNHE5BHRG1H0JMV59: secure-chat
+  h_01HAW4SYDZCMXM7KJ8C0YWGHPQ: serverproperties
+  h_01HAW4SYDZFC2THF07CPWATZY2: telemetry
+  h_01HAW4SYDZ771VXZMBXB7G75H7: resource-pack-version-16
+  h_01HAW4SYDZ2B4FN2P8F8G1N9Y7: gui-sprite-sheet
+  h_01HAW4SYDZNTFJR7ZWRA2QMEJY: gui-sprite-mcmeta
+  h_01HAW4SYDZAKDAWNTHD5TGSWBX: resource-pack-version-17
+  h_01HAW4SYDZXTFCY0EJRAM8JT9Q: resource-pack-version-18
+  h_01HAW4SYDZ1FF4WXMMN5PTMH18: data-pack-version-16
+  h_01HAW4SYDZ4G57VHRMGB7JE3GJ: commands
+  h_01HAW4SYDZH0J8BRAYBBWHMZBH: random
+  h_01HAW4SYDZ71RN0MAR9PJQJK05: functions
+  h_01HAW4SYDZF9BHKR6A6V5WS4DH: macros
+  h_01HAW4SYDZPF244AP77N12A1MQ: calling-function-macros
+  h_01HAW4SYDZ0THF2ZDX6XTSXFX7: performance-considerations
+  h_01HAW4SYDZFSMJFEPVTTXPBDJ7: display-entity-interpolation
+  h_01HAW4SYDZPEB6YZGDVDPEB70A: attributes
+  h_01HAW4SYDZZYTQGPJWXDVQ9V41: game-events
+  h_01HAW4SYDZAQARCR46E9QEBR7Z: tags
+  h_01HAW4SYE0DSXBD54NJQ63XZAD: data-pack-version-17
+  h_01HAW4SYE0TRWYRA1QZWT8WMW9: mob-effect-storage-changes
+  h_01HAW4SYE0FX0SFEM250VKGGNJ: mob-effect-instance
+  h_01HAW4SYE07677ZS63H8C09RF8: items
+  h_01HAW4SYE0SH02GNJ3EYDZHVDH: potionlingering_potionsplash_potiontipped_arrow
+  h_01HAW4SYE0VKTYB0RB9AZXPVMN: suspicous_stew
+  h_01HAW4SYE0Y0FBGNRSY9NQF3ZZ: entities
+  h_01HAW4SYE0M86BZ0NW2M0MW23W: mooshroom
+  h_01HAW4SYE0YPWZQ9XR1GHKVYMG: area_effect_cloud
+  h_01HAW4SYE03SA2PGPWHPDYC0H7: arrow
+  h_01HAW4SYE0T4HC88NV8127HPRN: players-armor-stands-and-mobs
+  h_01HAW4SYE0BJE79ATEZBYDW9MX: block-entities
+  h_01HAW4SYE02Q45YVXZ611W240V: loot-tables
+  h_01HAW4SYE03TNB8ZG08DNWMEB6: data-pack-version-18
+  h_01HAW4TPX7MDYZFVFFBVAH0EW6: experimental-features
+  h_01HAW4TPX77GP6M9G0EJF0SGR2: villager-trade-rebalance
+  h_01HAW4TPX7QA2ZGNDEMS7GX4ZQ: librarian-changes
+  h_01HAW4TPX75TNWTZVFF9J8WJBB: cartographer-changes
+  h_01HAW4TPX74Z4FGDPVVQZ2JY36: wandering-trader-changes
+  h_01HAW4TPX79A177PSHHCGWH4SK: armorer-changes
+  h_01HAW4TPX76DXCRESZ5W4GQXED: structure-loot
+  h_01HAW4TPX7MP72DCRA1GE9MZRF: fixed-bugs-in-1202
+  h_01HAW4TPX702NWDW6RER20F419: get-the-release
 ---
 
 We're now releasing 1.20.2 for Minecraft: Java Edition. This release comes with more diamond ore in the deep regions of the world and changes to mob attack reach as well as optimizations to the game's networking performance enabling smoother online play even on low-bandwidth connections.

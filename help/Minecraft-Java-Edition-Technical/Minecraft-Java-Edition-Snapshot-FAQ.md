@@ -13,6 +13,13 @@ tags:
   - platform_windows_10/11
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/20364354829709-Minecraft-Java-Edition-Snapshot-FAQ
+hash:
+  h_01HCMZW5MT4FZHW6H979BP5GGC: in-this-article
+  h_01HCMZVXGNV04K5YXNW6QY7WS6: what-is-a-minecraft-java-edition-snapshot
+  h_01HCMZVXGN0QWH2603XTC5GH55: are-java-edition-snapshots-free
+  h_01HCMZVXGN3WQY0GJA17451MJ2: how-do-i-install-a-java-edition-snapshot
+  h_01HCMZVXGN69ATBR7X4QVXNAN8: what-platforms-offer-a-java-edition-snapshot
+  h_01HCMZVXGNQXF3C5YR62DT83Y3: how-do-i-report-bugs-in-java-edition-snapshot-releases
 ---
 
 This page is dedicated to the Minecraft: Java Edition Snapshot program. For Minecraft: Bedrock Edition’s Preview, check out the [Minecraft Preview FAQ](../Community-Guides/Minecraft-Preview-FAQ.md).

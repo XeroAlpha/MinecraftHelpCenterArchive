@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.20 Pre-Release 3, 4 "
 date: 2023-05-22T07:22:04Z
 updated: 2023-05-22T07:22:07Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/16003384350605-Minecraft-Java-Edition-1-20-Pre-Release-3-4-
+link: https://feedback.minecraft.net/hc/en-us/articles/16003384350605-Minecraft-Java-Edition-1-20-Pre-Release-3-4
+hash:
+  fixed-bugs-in-1.20-pre-release-3: fixed-bugs-in-120-pre-release-3
 ---
 
 We've now released 1.20 Pre-release 3, containing even more bug fixes.

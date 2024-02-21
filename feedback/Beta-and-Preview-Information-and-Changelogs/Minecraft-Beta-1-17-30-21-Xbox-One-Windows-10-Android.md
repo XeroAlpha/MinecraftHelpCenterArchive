@@ -7,7 +7,10 @@ tags:
   - beta
   - beta_changelog
   - caves&cliffs
-link: https://feedback.minecraft.net/hc/en-us/articles/4406948851213-Minecraft-Beta-1-17-30-21-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4406948851213-Minecraft-Beta-1-17-30-21-Xbox-One-Windows-10-Android
+hash:
+  user-interface-and-hud: user-interfaceand-hud
+  data-driven-blocks---experimental-features: data-driven-blocks--experimental-features
 ---
 
 **Posted:** 12 August 2021

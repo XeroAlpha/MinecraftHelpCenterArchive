@@ -3,7 +3,7 @@ title: Minecraft - The Wild Update - 1.19.0 (Bedrock)
 date: 2022-06-01T18:59:47Z
 updated: 2022-06-07T16:48:07Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6613754674829-Minecraft-The-Wild-Update-1-19-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/6613754674829-Minecraft-The-Wild-Update-1-19-0-Bedrock
 ---
 
 **Posted:** June 7, 2022

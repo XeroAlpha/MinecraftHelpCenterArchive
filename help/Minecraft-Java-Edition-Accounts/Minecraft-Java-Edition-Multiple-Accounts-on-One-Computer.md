@@ -15,6 +15,10 @@ tags:
   - platform_PC
   - section_12617963662861
 link: https://help.minecraft.net/hc/en-us/articles/4410248686733-Minecraft-Java-Edition-Multiple-Accounts-on-One-Computer
+hash:
+  h_01HJ485HQ6EFK7QK9B9FXKN901: windows
+  h_01HJ485HQ641XZZA9G8X6AD76D: mac
+  h_01HJ485HQ6A74A5WRE3J0HYTJS: linux
 ---
 
 If multiple Minecraft accounts log in via the same *computer user account*, they will be able to access each other’s saved worlds. You can change this, though it requires a bit of advanced setup. To keep things clear, the following three terms are used:

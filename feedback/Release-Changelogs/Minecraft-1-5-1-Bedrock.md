@@ -12,7 +12,7 @@ tags:
   - ios
   - switch
   - 1.5.1
-link: https://feedback.minecraft.net/hc/en-us/articles/360007536772-Minecraft-1-5-1-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360007536772-Minecraft-1-5-1-Bedrock
 ---
 
 **Fixes:**

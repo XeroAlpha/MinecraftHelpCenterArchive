@@ -26,6 +26,10 @@ tags:
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/16476513292813-Trails-Tales-Update-The-Sniffer
+hash:
+  h_01HAWKT6TEMAEGG0N41EHRN4S5: what-is-the-sniffer
+  h_01HAWKT6TEH9CAW8DQ8HZWP4GQ: how-do-i-find-the-sniffer
+  h_01HAWKT6TEAEAT82HJAY1SXHEH: what-does-the-sniffer-do
 ---
 
 The Trails & Tales Update brings with an ancient new mob, the Sniffer! Read on for more details.

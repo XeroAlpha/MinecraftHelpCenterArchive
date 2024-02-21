@@ -8,6 +8,56 @@ tags:
   - title_legends
   - section_14970444349069
 link: https://help.minecraft.net/hc/en-us/articles/14790575702925-Minecraft-Legends-Marketplace-FAQ
+hash:
+  section: ""
+  section-1: "-1"
+  section-2: "-2"
+  section-3: "-3"
+  section-4: "-4"
+  section-5: "-5"
+  will-my-existing-marketplace-content-skins-textures-etc.-carry-over-to-minecraft-legends:
+    will-my-existing-marketplace-content-skins-textures-etc-carry-over-to-minecraft-legends
+  section-6: "-6"
+  i-didnt-receive-the-minecoins-that-i-purchased.-what-should-i-do: i-didnt-receive-the-minecoins-that-i-purchased-what-should-i-do
+  section-7: "-7"
+  section-8: "-8"
+  section-9: "-9"
+  section-10: "-10"
+  i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong.-what-should-i-do:
+    i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong-what-should-i-do
+  section-11: "-11"
+  i-purchased-the-wrong-content-by-mistake.-can-i-get-a-refund: i-purchased-the-wrong-content-by-mistake-can-i-get-a-refund
+  section-12: "-12"
+  section-13: "-13"
+  section-14: "-14"
+  section-15: "-15"
+  section-16: "-16"
+  i-noticed-a-problem-with-something-i-purchased-in-the-marketplace.-how-do-i-let-you-know:
+    i-noticed-a-problem-with-something-i-purchased-in-the-marketplace-how-do-i-let-you-know
+  section-17: "-17"
+  section-18: "-18"
+  h_01GXXJKAD3K50VS9JPTNY7QWGB: what-is-the-minecraft-marketplace-1
+  h_01GXXJKJ3FCM3KV2EZWDHNG0B4: which-devices-is-minecraft-marketplace-available-on-1
+  h_01GXXJMAWGE6J8ZD7QB4EM1BRC: supported-systems-and-devices
+  h_01GXXJMRN76M533C5XFDJKEEJ6: do-i-need-an-xbox-live-account-to-make-purchases-in-minecraft-marketplace-1
+  h_01GXXJN015S76PFAS61KKJ0R1Y: how-do-i-know-what-account-to-use-for-minecraft-legends-1
+  h_01GXXJN6S5432KHK4NT2N6X587: how-do-i-purchase-minecoins-1
+  h_01GXXJNFFYMCZQ5CPBX69KK21E: what-can-i-spend-minecoins-on-1
+  h_01GXXJNQASX0VST230B27A6G7J: will-my-minecoins-or-tokens-from-minecraft-carry-over-1
+  h_01GXXJP3KVZ8GZ5T5X9CAXDMM3: will-my-existing-marketplace-content-skins-textures-etc-carry-over-to-minecraft-legends-1
+  h_01GXXJPHJSMKDCBEP0GE3ZY7YT: i-didnt-receive-the-minecoins-that-i-purchased-what-should-i-do-1
+  h_01GXXJPTQR1WVD5JR16GA3A652: can-minecoins-be-refunded-1
+  h_01GXXJQ1AVJCSEPKGH6DYWNWJ3: can-i-convert-my-minecoins-back-to-real-currency-1
+  h_01GXXJQAMKVJD036XMW6FGZ5WV: can-i-give-minecoins-to-someone-as-a-gift-1
+  h_01GXXJQJHAPEHV0V2YAGR8Y1QS: i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong-what-should-i-do-1
+  h_01GXXJQZ19YVF2KDG5S4CVJKCS: i-purchased-the-wrong-content-by-mistake-can-i-get-a-refund-1
+  h_01GXXJRCFVBRB77FZ4XB3W65A4: where-are-my-purchases-stored-1
+  h_01GXXJRMJKZATAXAEFC439Y2HT: i-redeemed-a-content-code-but-cant-find-my-content-where-should-i-look-1
+  h_01GXXJRVXCSMZPSNPCDBCNPYRW: i-cant-redeem-my-code-what-should-i-do-1
+  h_01GXXJS2FTAJN8594692JR52MV: i-have-missing-marketplace-items-where-can-i-find-them-1
+  h_01GXXJS7YPQYZSH0DC7RQAJ8RW: i-noticed-a-problem-with-something-i-purchased-in-the-marketplace-how-do-i-let-you-know-1
+  h_01GXXJSDJ9VASA0X5V1PF1YEZF: how-do-i-become-a-minecraft-marketplace-partner-and-create-content-for-minecraft-legends-1
+  h_01GXXJSSX5AXQMCQKWNABN09RK: i-have-more-questions-1
 ---
 
 This article includes all sorts of information about the Minecraft Marketplace and interacting with it through Minecraft Legends.
@@ -186,7 +236,7 @@ Minecoins are available only on the account where they were purchased. They cann
 
 The most common problem preventing an in-game purchase is that there aren’t enough coins. Check the top-right corner of Microsoft Store to make sure you have enough coins to make the purchase. If not, you can click the + icon to purchase more.
 
-If you tried to purchase more coins but you don’t see them in your wallet, follow the steps in the previous section titled [I didn't receive the coins that I purchased. What do I do?](../Minecraft-Bedrock-Edition-Billing/Minecraft-Marketplace-FAQ.md#i-didnt-receive-the-minecoins-that-i-purchased-what-should-i-do)
+If you tried to purchase more coins but you don’t see them in your wallet, follow the steps in the previous section titled [I didn't receive the coins that I purchased. What do I do?](../Minecraft-Bedrock-Edition-Billing/Minecraft-Marketplace-FAQ.md#h_01FF8TBWEZRCYSC42KE1TTX3X2)
 
 ## I purchased the wrong content by mistake. Can I get a refund?
 

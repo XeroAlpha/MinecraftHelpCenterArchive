@@ -7,6 +7,10 @@ tags:
   - FAQ
   - category_account_support
 link: https://feedback.minecraft.net/hc/en-us/articles/360004166751-Marketplace-FAQ
+hash:
+  why-some-content-in-the-marketplace-grayed-outi-cant-see-it-other-content-questions.:
+    why-some-content-in-the-marketplace-grayed-outi-cant-see-it--other-content-questions
+  i-think-ive-found-a-problem-in-the-game.-how-do-i-report-it: i-think-ive-found-a-problem-in-the-game-how-do-i-report-it
 ---
 
 (Please note this page is currently being revised and some links or information may be out of date.)

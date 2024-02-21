@@ -4,6 +4,11 @@ date: 2022-06-30T16:29:53Z
 updated: 2022-06-30T16:29:56Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/7321196374413-Minecraft-Java-Edition-1-19-1-Pre-Release-2
+hash:
+  changes-in-1.19.1-pre-release-2: changes-in-1191-pre-release-2
+  technical-changes-in-1.19.1-pre-release-2: technical-changes-in-1191-pre-release-2
+  server.properties: serverproperties
+  fixed-bugs-in-1.19.1-pre-release-2: fixed-bugs-in-1191-pre-release-2
 ---
 
 Hey everyone! As a few of you might have noticed, we’ve made the decision to postpone the release of 1.19.1 and we're now going back into pre-release mode. This is in order to address a few of our more noticeable issues. We've yet to fully decide on a new release date, but it won't be too far in the future.

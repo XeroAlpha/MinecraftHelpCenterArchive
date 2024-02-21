@@ -22,6 +22,13 @@ tags:
   - platform_pc
   - section_12618581961357
 link: https://help.minecraft.net/hc/en-us/articles/360058732972-Minecraft-Enchantments-101
+hash:
+  h_01HCN7V1AC20CVW72VJYHE7XVK: how-to-use-the-command-in-creative
+  h_01HCN7V1ACX6JS0YV7983V23CR: basic-crafting-recipes-for-survival
+  h_01HCN7V1ACBNCTW37BTMX4PK8K: enchanting-table
+  h_01HCN7V1ACJ1Y0W0CZ7T4HN6H3: book
+  h_01HCN7V1ACRQ0WG1TRJE774GCF: bookshelves
+  h_01HCN7V1ACEWHTZ3VDJH9ZSQK2: anvil
 ---
 
 Enchanting is an in-game mechanic that allows you to give special abilities to tools and armor. You will need an enchanting table in survival mode, but you can use the ‘/enchant’ command if you are in creative mode with cheats enabled. 

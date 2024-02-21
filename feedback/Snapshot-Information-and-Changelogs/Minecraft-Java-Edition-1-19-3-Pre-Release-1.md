@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.19.3 Pre-Release 1 "
 date: 2022-11-22T16:17:12Z
 updated: 2022-11-22T16:17:29Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/10828563145357-Minecraft-Java-Edition-1-19-3-Pre-Release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/10828563145357-Minecraft-Java-Edition-1-19-3-Pre-Release-1
+hash:
+  technical-changes-in-1.19.3-pre-release-1: technical-changes-in-1193-pre-release-1
+  fillbiome-command: fillbiomecommand
+  fixed-bugs-in-1.19.3-pre-release-1: fixed-bugs-in-1193-pre-release-1
 ---
 
 We’re now releasing the first pre-release for Minecraft 1.19.3. This pre-release fixes a few bugs, contains a few tweaks, and it has some technical changes.

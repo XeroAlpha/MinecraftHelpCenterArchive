@@ -4,6 +4,8 @@ date: 2021-04-28T14:35:15Z
 updated: 2021-04-28T14:35:34Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360060534911-Minecraft-Java-Edition-Snapshot-21w16a
+hash:
+  changes-to-the-caves-cliffs-preview: changes-to-the-caves--cliffs-preview
 ---
 
 Snapshot 21w16a introduces some changes to azaleas and dripstone. On top of that, we've tweaked the textures of raw ores. There are also a few additions to the Caves & Cliffs preview datapack.

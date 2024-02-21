@@ -22,6 +22,13 @@ tags:
   - cuenta
   - section_12617594906509
 link: https://help.minecraft.net/hc/en-us/articles/360029681732-Having-Trouble-Accessing-Your-Minecraft-Account
+hash:
+  h_01HAMWPWDR7YN1JCJ4A59EDZQ6: in-this-article
+  h_01GB5XCDMQ3MQ69DXC53YDQ8G7: im-getting-an-error-that-says-login-failed-invalid-username-or-password
+  h_01GB5XCK2VBDNPYWYPY5Q5FPVC: i-can-only-play-the-demo
+  h_01GB5XD1C3TWFZ4N86AC5P21V9: im-havingtroublewithmypassword
+  h_01GB5XD8AERBJZPT1CTJFDET89: im-havingtroublewithmysecurityquestions
+  h_01GB5XDDQA30E8MCB5J2J1DKZG: i-needtochangeorrecovermyregisteredemailaddress
 ---
 
 This article covers the most common reasons for not being able to access your account on Windows, MacOS, Chromebooks, or Linux, regardless of account type. 

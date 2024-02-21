@@ -4,6 +4,26 @@ date: 2024-01-17T15:10:37Z
 updated: 2024-01-31T16:23:44Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/23286907829261-Minecraft-Java-Edition-Snapshot-24w03a
+hash:
+  h_01HMBZH35ED5J40W0YBKJ2AA00: new-features
+  h_01HMBZH35E2XNG5YP54W79NZDF: armadillo
+  h_01HMBZH35EC3791PST7YHWV8NB: armadillo-rolling-up-behavior
+  h_01HMBZH35E0QMQYAET3P48WG0M: changes
+  h_01HMBZH35E2PWG0Y81BF57Q5FM: accessibility
+  h_01HMBZH35E5Y0GE38DGF8C4WKS: technical-changes
+  h_01HMBZH35E6Q1Y8X4XBKBET2YA: transfer-packets
+  h_01HMBZH35ERNN8JDEGHXJKRN4R: cookie-packets
+  h_01HMBZH35EE4RPR5AJDGKEZSV6: spawn-chunk-changes
+  h_01HMBZH35EDCGW1GA6F333460D: data-pack-version-28
+  h_01HMBZH35EJ3WD3MV982QGSZRG: tags
+  h_01HMBZH35E7N5AWKCMDA0TVRBK: item-tags
+  h_01HMBZH35EYFF727YCVS97Z3B0: entity-type-tags
+  h_01HMBZH35E5CPNVX8JBQV13GWX: resource-pack-24
+  h_01HMBZH35EKK5EYCRCGNXFS307: experimental-features
+  h_01HMBZH35EVYFSZXAXW8GPNTD8: breeze
+  h_01HMBZH35E8FP1FDEQ6XG09YFP: trade-rebalance
+  h_01HMBZH35E84GQJ8B1NPTSZ6DK: fixed-bugs-in-snapshot-24w03a
+  h_01HMBZH35F2G93KBFHG81HY7KS: get-the-snapshot
 ---
 
 New year, new Snapshot - we're now releasing the third Snapshot of Minecraft 1.20.5. This time around, we're bringing some updates to the Armadillo, the Breeze, as well as accessibility improvements.

@@ -18,6 +18,13 @@ tags:
   - section_12618581961357
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/22504134081549-Minecraft-Special-Event-Access-Troubleshooting
+hash:
+  h_01HJ1SBZS06JEHR6RM66QHPGZC: in-this-article
+  h_01HJ1SC4CV2C6YJ8A4PFT9W8B1: are-you-signed-into-a-microsoft-account
+  h_01HJ1SCGW486R017CJCXWZCV5H: are-you-trying-to-join-the-right-game
+  h_01HJ1SCY5DJQ3TA8FRD35EA16N: are-you-using-a-child-account
+  h_01HJ1SD35M88XASFP1HNWD06BH: is-your-game-up-to-date
+  h_01HJ1SD7HM6TH51KC6AE7SF325: other-issues-accessing-minecraft-events
 ---
 
 From time to time, Minecraft will host special events that allow players to join special-made worlds for some limited-time fun. If you are having issues getting into the world, here are some possible solutions.

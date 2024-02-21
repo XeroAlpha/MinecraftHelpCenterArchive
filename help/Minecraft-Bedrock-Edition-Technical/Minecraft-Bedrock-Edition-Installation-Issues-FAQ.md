@@ -27,6 +27,31 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4409172223501-Minecraft-Bedrock-Edition-Installation-Issues-FAQ
+hash:
+  h_01HAPX5NTCC9JYAFX2N5AHV5K0: in-this-article
+  h_01FFGQHFARYP67X5MV72G1T8TN: what-are-the-device-requirements-to-run-minecraft-bedrock-edition
+  h_01HAPX5NTCQNJ5VG86GK29Z9K0: androiddevices
+  h_01HAPX5NTCMR7NZP7VH55ZV715: iosipados-devices
+  h_01HAPX5NTCGF5GAGT7WJA7FCTE: nintendo
+  h_01HAPX5NTCXZP6WP57171BSDPG: playstation
+  h_01HAPX5NTC8HA5KJB0AJ5HBX51: minecraft-bedrock-edition-for-windows
+  h_01HAPX5NTC501X3S5JE55B6EH1: minimum-requirements
+  h_01HAPX5NTCDSN632TPZCR6EHT6: recommended-requirements
+  h_01HAPX5NTDQX739BWA8JA5GQAV: xbox
+  h_01GVK1A33C3DRNKJAWZSWHYMFW: chromebook
+  h_01FFGQHMP7SE5T5JQHB3068226: how-to-manually-update-minecraft-bedrock-edition
+  h_01GK56Q5S2N0XE3Z7726YQXMQE: how-do-i-find-my-current-version-number
+  h_01GK56QNWA5EZ7TCM9SWZHMDD8: iosandroid
+  h_01GK56R2B0G586WZMGMWJDWK53: playstation-1
+  h_01GK56R7GYEQH7W0N2Z1MB7769: minecraft-bedrock-edition-for-windows-10and-above
+  h_01GK56RG9VK5V1MDXPXBE9QR1E: xbox-1
+  h_01HJS4QNCRXGSFKT5C94N1ZRR3: my-game-installation-is-stalling-or-stopping-part-of-the-way-through
+  h_01HJS4QWFXBTTBA4C7WK7T2CKX: the-install-button-in-the-launcher-turns-into-three-dots-and-the-game-never-finishes-installing
+  h_01HJS4QJB7XZ09GG4MK76KWBP9: i-dont-want-to-install-on-my-c-drive-how-do-i-install-minecraft-on-a-different-drive-on-my-pc
+  h_01FFGQHTYVH5M7K1KNCYR070HR: uninstall-minecraft-bedrock-edition
+  h_01GK56PH4PK9M9WQC8R5EC4MQJ: mobile-devices
+  h_01GK56PV3EE3EQ4GPS4115SGMB: console
+  h_01GK56PZR7NK68W4QGMH37CDTF: minecraft-bedrock-edition-for-windows-1
 ---
 
 *This article addresses installation and update issues for Minecraft: Bedrock Edition. If you need assistance with Minecraft: Java Edition installation* issues,* See the [Java Installation Issues FAQ](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md).*

@@ -7,7 +7,7 @@ tags:
   - 1.2.14
   - release_changelog
   - ios
-link: https://feedback.minecraft.net/hc/en-us/articles/360004167311-Minecraft-1-2-14-iOS-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004167311-Minecraft-1-2-14-iOS-Only
 ---
 
 This update was released only on iOS devices. It is still multiplayer compatible with other devices running version 1.2.13.  

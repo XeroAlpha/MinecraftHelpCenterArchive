@@ -9,6 +9,9 @@ tags:
   - section_24069904400141
   - Add-Ons
 link: https://help.minecraft.net/hc/en-us/articles/4409140076813-What-are-Minecraft-Add-Ons
+hash:
+  h_01HPMV91K4AGK5B3X4ZMEHEJXH: minecraft-add-ons-can-introduce
+  h_01HPMV8V1YPTPSGBZQSCW8CYQ0: related-articles
 ---
 
 Minecraft Add-Ons are identified by the hammer icon ![HammerIcon.png](https://minecrafthelp.zendesk.com/hc/article_attachments/24129485188877) when viewing featured content rows or searching the Marketplace or PlayStation Store in Minecraft: Bedrock Edition. 

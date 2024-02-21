@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.20 Pre-Release 5 "
 date: 2023-05-23T14:30:07Z
 updated: 2023-05-23T14:30:10Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/16053481940621-Minecraft-Java-Edition-1-20-Pre-Release-5-
+link: https://feedback.minecraft.net/hc/en-us/articles/16053481940621-Minecraft-Java-Edition-1-20-Pre-Release-5
+hash:
+  fixed-bugs-in-1.20-pre-release-5: fixed-bugs-in-120-pre-release-5
 ---
 
 Summer is around the corner here at the office, and what better time to stay inside and try out the new pre-release?!

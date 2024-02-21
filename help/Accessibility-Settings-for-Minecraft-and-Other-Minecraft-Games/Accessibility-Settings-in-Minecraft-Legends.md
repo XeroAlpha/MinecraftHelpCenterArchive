@@ -6,7 +6,7 @@ categories: Accessibility Settings for Minecraft and Other Minecraft Games
 tags:
   - title_minecraft_legends
   - section_12618985151885
-link: https://help.minecraft.net/hc/en-us/articles/14745168206733-Accessibility-Settings-in-Minecraft-Legends-
+link: https://help.minecraft.net/hc/en-us/articles/14745168206733-Accessibility-Settings-in-Minecraft-Legends
 ---
 
 Minecraft Legends will provide you with a few accessibility settings upon start-up, which you can further alter in the Settings screen during gameplay.

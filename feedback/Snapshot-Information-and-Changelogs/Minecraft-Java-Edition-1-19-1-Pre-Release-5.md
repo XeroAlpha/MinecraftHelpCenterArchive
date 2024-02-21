@@ -4,6 +4,10 @@ date: 2022-09-15T14:06:04Z
 updated: 2022-09-15T14:08:05Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/9186831932173-Minecraft-Java-Edition-1-19-1-Pre-Release-5
+hash:
+  changes-in-1.19.1-pre-release-5: changes-in-1191-pre-release-5
+  technical-changes-in-1.19.1-pre-release-5: technical-changes-in-1191-pre-release-5
+  bugs-fixed-in-1.19.1-pre-release-5: bugs-fixed-in-1191-pre-release-5
 ---
 
 We are now releasing pre-release 5 for Minecraft 1.19.1. This pre-release includes the remaining fixes for a known exploit regarding player report context and several improvements to chat preview. It also fixes some other crashes and bugs.

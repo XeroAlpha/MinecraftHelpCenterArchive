@@ -4,6 +4,8 @@ date: 2022-02-03T08:24:36Z
 updated: 2022-02-03T08:24:42Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4424036120717-Minecraft-Java-Edition-Snapshot-22w05a
+hash:
+  changes-in-22w05a: changes-in22w05a
 ---
 
 While we work on some larger changes that aren't quite ready yet, here's snapshot 22w05a which contains a small squishing (that's a word, right?) of bugs. 

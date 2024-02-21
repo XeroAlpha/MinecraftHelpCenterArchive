@@ -3,7 +3,7 @@ title: Minecraft - 1.14.1 (Bedrock)
 date: 2019-12-16T17:31:39Z
 updated: 2019-12-19T16:43:23Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360037581632-Minecraft-1-14-1-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360037581632-Minecraft-1-14-1-Bedrock
 ---
 
 **Posted:** December 18, 2019

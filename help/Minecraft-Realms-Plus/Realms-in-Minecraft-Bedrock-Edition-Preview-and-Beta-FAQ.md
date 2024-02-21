@@ -27,6 +27,15 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/20264295053709-Realms-in-Minecraft-Bedrock-Edition-Preview-and-Beta-FAQ
+hash:
+  h_01HCDJHHW6D0S2VM3XY3YR1NMR: in-this-article
+  h_01HCDJDVPSHEM4FSJ9AQX9K05E: where-can-i-learn-more-about-minecraft-preview
+  h_01HCDHYEF87JB2H2XZ5EKWVPJH: how-to-use-realms-in-preview
+  h_01HCDJAJEWDJBVCN33YFCWKPDD: what-is-different-in-minecraft-realms-in-preview
+  h_01HCDJB7GP8F8H9A3M8H05SR89: will-this-change-increase-my-realms-subscription-price
+  h_01HCDJCPK7T9HAFNGPBXSPETW5: can-i-transfer-worlds-between-a-preview-realm-and-my-regular-realm
+  h_01HCDJCW4RTW91H8RW5SFEWHR1: are-preview-realms-and-java-edition-snapshot-realms-the-same-or-are-they-cross-platform-with-each-other
+  h_01HCDJSA7HK93DVNYKBS9288Z6: steps-for-creating-a-minecraft-preview-realm
 ---
 
 We’re excited to announce that as of October 11th, Realms are available in Preview and Beta in Minecraft: Bedrock Edition! Preview/Beta Realms are available to any active Bedrock Realms subscribers. Read below to learn how Preview/Beta Realms work and how they are different from your regular Realm. 

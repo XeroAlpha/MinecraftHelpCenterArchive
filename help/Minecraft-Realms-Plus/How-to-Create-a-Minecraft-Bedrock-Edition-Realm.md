@@ -17,9 +17,15 @@ tags:
   - section_12618443219469
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20687129531149-How-to-Create-a-Minecraft-Bedrock-Edition-Realm
+hash:
+  h_01HHZK6HEJ9RVZYX596CEA1XHN: how-to-create-your-realm
+  h_01HHZKAZC5TEZPPJ0B5N2A7X8Q: choosing-a-realm-name-and-size
+  h_01HHZKCZ16MB72XD95VB1F4WCF: invite-friends
+  h_01HHZKDPQEEQ51JP4MPV485HER: admin-options-for-realms
+  h_01HHZKFRM5PEV4XQT8PV5B2V92: technical-questions-for-realms
 ---
 
-If you’re looking to create a Minecraft: Bedrock Edition Realm, this article provides all the steps necessary to get started. For more information on Minecraft Realms, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20688488192013).
+If you’re looking to create a Minecraft: Bedrock Edition Realm, this article provides all the steps necessary to get started. For more information on Minecraft Realms, please refer to [this article](./Minecraft-Bedrock-Edition-Realms-General-FAQ.md).
 
 ## How To Create Your Realm  
 
@@ -56,7 +62,7 @@ Your realm can be one of two sizes, divided into tiers:  
 - 2 Users allows for two players simultaneously, plus the owner  
 - 10 Users allows for ten players simultaneously, plus the owner  
 
-For more information on Minecraft Realms subscriptions, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/22471397285901).
+For more information on Minecraft Realms subscriptions, please refer to [this article](./Minecraft-Bedrock-Edition-Realms-Subscriptions-FAQ.md).
 
 Once you’ve decided your Realm size, you can name your Realm.
 
@@ -68,8 +74,8 @@ You can always invite friends later from the players Settings menu. For more i
 
 ## Admin Options for Realms  
 
-Realms owners have various admin options available for further customization. For more information on administrative options for Realms, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20686901046669).
+Realms owners have various admin options available for further customization. For more information on administrative options for Realms, please refer to [this article](./How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md).
 
 ## Technical Questions for Realms
 
-For any technical questions you may have regarding your Realm, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20686744908429).
+For any technical questions you may have regarding your Realm, please refer to [this article](../Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Technical-FAQ.md).

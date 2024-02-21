@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.19.1 Release Candidate 1 "
 date: 2022-06-23T17:38:29Z
 updated: 2022-06-23T17:38:33Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/7153455261837-Minecraft-Java-Edition-1-19-1-Release-Candidate-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/7153455261837-Minecraft-Java-Edition-1-19-1-Release-Candidate-1
+hash:
+  changes-in-1.19.1-release-candidate-1: changes-in-1191-release-candidate-1
+  technical-changes-in-1.19.1-release-candidate-1: technical-changes-in-1191-release-candidate-1
+  fixed-bugs-in-1.19.1-release-candidate-1: fixed-bugs-in-1191-release-candidate-1
 ---
 
 We're now releasing the first (and hopefully only) release candidate for Minecraft 1.19.1. We have also now created a help article on chat reporting, available [here](https://help.minecraft.net/hc/articles/7149823936781).

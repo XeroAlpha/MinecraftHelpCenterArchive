@@ -7,7 +7,29 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859587017101
-link: https://help.minecraft.net/hc/en-us/articles/14784573904525-Minecraft-Legends-PvP-Guide-
+link: https://help.minecraft.net/hc/en-us/articles/14784573904525-Minecraft-Legends-PvP-Guide
+hash:
+  h_01HA7TYV7A67RYENFV91Q4061Q: in-this-article
+  h_01HA7TYV7AYAK7F90S3S239VZN: minecraft-legends-player-vs-player-guide
+  h_01HA7TYV7A0R34BM7G7DTPF3Q0: how-many-people-can-play-against-each-other-in-minecraft-legends
+  h_01HA7TYV7AK1B20XCPVX1HAA0G: does-pvp-use-dedicated-servers
+  h_01HA7TYV7AY2BW2HZQXCC6NM45: is-minecraft-legends-cross-platform
+  h_01HA7TYV7AQXDJYMK1TR2N45A4: does-the-game-have-split-screen-multiplayer
+  h_01HA7TYV7AC957N75G43E49JH1: do-i-need-an-online-membership-to-play-minecraft-legends-pvp
+  h_01HA7TYV7AVG0EX4BVR8SE83X5: how-to-start-pvp-in-minecraft-legends
+  h_01HA7TYV7AZZ3X6RSSJA757ZV7: minecraft-legends-pvp-tips-and-tricks
+  h_01GXV7WV1CJWXREXRZ32BJCQ8V: minecraft-legends-player-vs-player-guide-1
+  h_01GXV7X0EAJF7G5EX5PCFJ7C7F: how-many-people-can-play-against-each-other-in-minecraft-legends-1
+  h_01GXV7X5P3G85046K0CPDC3869: does-pvp-use-dedicated-servers-1
+  h_01GXV7XCAJ25PWJDCE4S23GYBM: is-minecraft-legends-cross-platform-1
+  h_01GXV7XJV9314PR50VDNZBZ97A: does-the-game-have-split-screen-multiplayer-1
+  h_01GXV7XTAN31WHT563CDZ6VDNX: do-i-need-an-online-membership-to-play-minecraft-legends-pvp-1
+  h_01GXV7YCV7MZPJDASEEDE0BP86: windows-1011-and-steam
+  h_01GXV7YX8QMC7TENG4PF4S7TJ2: xbox-one-and-xbox-series-xs
+  h_01GXV7Z2R71V9766NVMXYVS86E: playstation-4-and-5
+  h_01GXV7Z8AYDCRE632EJPXGBKPG: nintendo-switch
+  h_01GXV7ZEC6QXVCQ0KYBAZR0VRV: how-to-start-pvp-in-minecraft-legends-1
+  h_01GXV7ZMGWH3V0DQ1PB2GFGT6C: minecraft-legends-pvp-tips-and-tricks-1
 ---
 
 This article details everything you need to know about the Minecraft Legends PvP experience.

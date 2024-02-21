@@ -6,6 +6,10 @@ categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4408896232461-Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting
+hash:
+  h_01HMVX21THQY6G0H8XAPNQS4JC: what-are-the-minimum-specifications-to-play-minecraft
+  h_01HMVX3DRSPDJT9REW0SRKXN4Z: my-device-is-still-supported-but-i-have-performance-problems-what-can-i-do
+  h_01HMVX5TWA37VE7VDJVWR1WFDE: my-device-is-no-longer-supported-what-can-i-do
 ---
 
 This article provides Android technical support processes for you to follow as well as general knowledge about Minecraft: Bedrock Edition on Android devices.

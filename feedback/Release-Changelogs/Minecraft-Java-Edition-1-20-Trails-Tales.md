@@ -3,7 +3,13 @@ title: "Minecraft: Java Edition - 1.20 (Trails & Tales) "
 date: 2023-06-07T15:05:28Z
 updated: 2023-06-07T15:06:55Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/16499677456781-Minecraft-Java-Edition-1-20-Trails-Tales-
+link: https://feedback.minecraft.net/hc/en-us/articles/16499677456781-Minecraft-Java-Edition-1-20-Trails-Tales
+hash:
+  new-unihex-glyph-provider: newunihexglyph-provider
+  new-reference-glyph-provider: newreferenceglyph-provider
+  removed-legacy_unicode-glyph-provider: removedlegacy_unicodeglyph-provider
+  server.properties: serverproperties
+  fixed-bugs-in-1.20: fixed-bugs-in-120
 ---
 
 What, is there something special happening today? Hold on, let me grab my calendar book from my chiseled bookshelf.

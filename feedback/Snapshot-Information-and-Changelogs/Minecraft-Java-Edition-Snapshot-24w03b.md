@@ -4,6 +4,11 @@ date: 2024-02-14T16:04:37Z
 updated: 2024-02-14T16:04:45Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24116610402061-Minecraft-Java-Edition-Snapshot-24w03b
+hash:
+  h_01HPM5S5BED6MAD0K26HM21R1E: experimental-features
+  h_01HPM5S5BERV2SWFWMBZ774M07: breeze
+  h_01HPM5S5BEKW5JVX58GK9K4GRX: fixed-bugs-in-snapshot-24w03b
+  h_01HPM5S5BFAM4Q9WV23VQRA5K7: get-the-snapshot
 ---
 
 We are releasing Snapshot 24w03b to fix a crash, along with some bug fixes and minor changes.

@@ -3,7 +3,7 @@ title: Minecraft - 1.18.31 (Bedrock)
 date: 2022-04-27T20:49:10Z
 updated: 2022-04-29T16:36:55Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/5842521639693-Minecraft-1-18-31-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/5842521639693-Minecraft-1-18-31-Bedrock
 ---
 
 **Posted:** April 27, 2022

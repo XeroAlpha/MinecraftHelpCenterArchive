@@ -4,6 +4,10 @@ date: 2021-11-22T18:00:06Z
 updated: 2021-11-22T18:00:10Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4414372344205-Minecraft-Java-Edition-1-18-Pre-Release-6
+hash:
+  changes-in-1.18-pre-release-6: changes-in-118-pre-release-6
+  technical-changes-in-1.18-pre-release-6: technical-changes-in-118-pre-release-6
+  fixed-bugs-in-1.18-pre-release-6: fixed-bugs-in-118-pre-release-6
 ---
 
 The sixth pre-release for 1.18 is now available. This pre-releases squashes some more bugs. Additionally, we now save the game more often, similar how to you should remember to save backups more often.

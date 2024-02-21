@@ -8,6 +8,10 @@ tags:
   - category_account_support
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/360034754072-Minecraft-Bedrock-Edition-Support-Resources
+hash:
+  01GGAS9Z3YYQ67X16XQ4V499QE: technical-support-for-minecraft-bedrock-edition
+  01GGAS9Z3Y3XSWC114FA96PFZ4: minecraft-bedrock-edition-bug-tracker
+  01GGAS9Z3YWYWEDRDP73QZ37K6: xbox-live-account-support
 ---
 
 If you're on Windows or Xbox and are experiencing an error code, try checking the [Xbox Support list of codes](https://support.xbox.com/en-US/help/errors/error-code-search-guide) in tandem with this article to help solve your issue. 

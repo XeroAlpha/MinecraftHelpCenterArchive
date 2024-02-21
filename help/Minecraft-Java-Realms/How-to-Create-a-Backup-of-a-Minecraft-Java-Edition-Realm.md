@@ -15,6 +15,12 @@ tags:
   - section_12618497714061
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm
+hash:
+  h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them
+  h_01HHZH60PNMN56EA3BWG744B1S: uploading-a-backup-world-to-your-realm
+  h_01HHZH99DRVXBF482H3KATBKPG: how-does-mojang-backup-your-realm
+  h_01HHZHAJBH92RW22EMN1W3VR2D: can-i-export-my-minecraft-map-from-my-realm
+  h_01HHZHBFXCYGGAWF248DFD5G1R: can-i-upload-my-minecraft-map-onto-a-realm
 ---
 
 Creating a backup of a world is simple and easy. Creating backups is a good habit and can help you make sure you always keep your world safe. 

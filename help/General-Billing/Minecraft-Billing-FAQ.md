@@ -24,6 +24,20 @@ tags:
   - platform_pc
   - section_12619005712013
 link: https://help.minecraft.net/hc/en-us/articles/4408864211853-Minecraft-Billing-FAQ
+hash:
+  h_01HC0FJRQ21ZBN8QRHRM6N3WH5: in-this-article
+  h_01H64N4Y6Y0NS3NF4MB09QEQQP: where-can-i-buy-minecraft-java-edition
+  h_01H64N5A1C4CJZ775B4BNZQ3JP: where-can-i-buy-the-minecraft-bedrock-edition
+  h_01H64N5E97SFW0RNNXQP0MNQG0: educational-discounts
+  h_01H64NDJP3WJN84BH4658YM1DJ: minecraft-java-edition
+  h_01H64NDTD7WPNZ5CE21ATB4K0T: minecraft-bedrock-edition-for-chromebook-and-android
+  h_01H64NE0XTSSSP3VXZBN24X5RP: minecraft-bedrock-edition-for-ios
+  h_01H64NE725TX7KY186TRZ3T8BZ: minecraft-bedrock-edition-for-nintendo-switch
+  h_01H64NEETK5QWQYK2HD0GAZD4M: minecraft-bedrock-edition-for-playstation
+  h_01H64NEN0HDAMJYT69TGSXTDM6: minecraft-bedrock-edition-for-windows
+  h_01H64NET3B9M607S83EXW7990Z: minecraft-bedrock-edition-for-xbox
+  h_01H64NF94341J4QG7BRZQ6P3JR: i-purchased-minecraft-from-an-unauthorized-seller-can-i-get-a-refund
+  h_01H64NFEDBPDS3PMWFCW60H7AH: authorized-digital-sellers-of-minecraft
 ---
 
 This article covers various questions related to billing on various Minecraft games.

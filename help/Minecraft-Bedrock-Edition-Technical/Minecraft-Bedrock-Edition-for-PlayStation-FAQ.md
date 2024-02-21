@@ -16,6 +16,52 @@ tags:
   - amigo
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/360037725571-Minecraft-Bedrock-Edition-for-PlayStation-FAQ
+hash:
+  h_01HB6V24Q0HR6DT1RT858N486Q: in-this-article
+  h_01FANTJ5HE05XVRKTBP5BN1WCT: accounts-and-connecting
+  h_01HB6V24Q0K2YT5X70FKNM29KF: whats-a-microsoft-account-and-why-do-i-need-it-for-ps45
+  h_01HB6V24Q0WMBD0KQS4HMAJDKH: whatis-a-microsoft-account
+  h_01HB6V24Q0FPNXMHK7JXBQN9ZP: linking-a-microsoft-account-to-a-playstationaccount
+  h_01HB6V24Q067ZWQ10PWRTA2AN7: i-have-a-microsoft-account-how-do-i-sign-in-on-myplaystation
+  h_01HB6V24Q12MQDQC8GFY7RYX9W: sign-in-to-psn-with-your-microsoft-account
+  h_01HB6V24Q1RQB9WV2CJ1DEQQAX: how-do-i-find-my-friends-on-their-microsoft-accounts
+  h_01HB6V24Q15Z6RN7T575QAK6F0: whycant-i-find-my-friends-gamertag
+  h_01HB6V24Q1DZ15A055EJA7QJ1Y: how-many-microsoft-accounts-can-you-tie-to-yourplaystationnetwork-account
+  h_01HB6V24Q1ZJAKC878Y3ZD6E6M: what-happens-when-i-unlink-my-microsoft-account
+  h_01HB6V24Q176KSHZFT0HWPZJ3G: why-cant-i-connect-accounts
+  h_01HB6V24Q16BDXCYHTQ5Z8BK21: failed-to-log-inscenarioone
+  h_01HB6V24Q1JFWEHDRSSPBYJWAD: failed-to-log-inscenario-two
+  h_01FANTJMTM2689F8H1VA2F559Y: minecraft-andplaystationversions
+  h_01HB6V24Q176MFXJVQVDGCKNVS: what-is-minecraft-bedrock-edition
+  h_01HB6V24Q1QAKPE6PPB6P1MY6M: how-is-this-version-different-than-the-one-i-already-own
+  h_01HB6V24Q1MF0E9DCZHT425WTT: when-did-this-launch
+  h_01HB6V24Q1RC8YJHTTKNG6114W: i-already-own-a-minecraftps4edition-how-do-i-get-the-current-version
+  h_01HB6V24Q1ME1H157E9J6CD24V: will-my-copy-ofminecraftps4editiongo-away-do-i-have-to-use-the-new-one
+  h_01HB6V24Q13YTT6GMNZ69N5FEF: do-i-need-to-pay-a-subscription-fee-like-xbox-live-gold-to-play-online
+  h_01FANTJTM7FPEG6KSNPZRDKX7Q: gameplay
+  h_01HB6V24Q1Y9V9MPQGTF8N7EEP: do-my-existing-worlds-transfer
+  h_01HB6V24Q1GS0ZYZ2S6370HCMC: how-do-i-transfer-existing-worlds
+  h_01HB6V24Q168R6WVFVWATKE3XZ: transfer-existing-worlds-fromminecraftps4editiontominecraft-bedrock-edition
+  h_01HB6V24Q1EGA98FPHP21PN6W2: how-big-are-worlds-in-minecraft-for-ps
+  h_01HB6V24Q15PCWYEGACZECV02K: im-playing-in-a-world-that-was-transferred-from-the-previous-version-are-there-limitations-on-world-size
+  h_01HB6V24Q1317TP9E6B663V3N2: can-i-connect-to-a-custom-server-not-in-the-server-list
+  h_01HB6V24Q1H0MEKDX393BFNA6G: i-have-a-custom-skin-on-another-bedrock-platform-can-i-use-it-on-a-ps
+  h_01HB6V24Q2ED1C04TDVMNPZHX7: does-minecraft-bedrock-edition-support-playstationvr
+  h_01HB6V24Q2TP58A9MQYY386RV4: does-minecraft-bedrock-edition-on-playstation-have-the-new-render-dragon-graphics-engine-for-bedrock
+  h_01HB6V24Q2GD26NZ6C2NZ0Q352: how-do-i-play-split-screen-without-a-playstation-plus-subscription
+  h_01HB6V24Q2YWABDPN9MN1D3B5H: i-see-a-message-that-i-dont-have-enough-storage-to-play-minecraft-bedrock-edition-on-playstation-what-should-i-do
+  h_01HB6V24Q2HGTZ0H1RBTYT1MTN: downloadable-content-minecraft-store-and-more
+  h_01HB6V24Q29JNEGXYX05XD53C9: will-downloadable-content-dlc-i-own-transfer-over-to-minecraft-bedrock-edition
+  h_01HB6V24Q27YR5WVMRV8262QCG: what-is-the-minecraft-store
+  h_01HB6V24Q2X1G4CMAC1JX30PSN: what-are-tokens
+  h_01HB6V24Q20182D334N9XY21Z8: can-i-use-my-minecoins-on-ps
+  h_01HB6V24Q21TBF27S58H6ZMSCT: how-do-i-link-my-previous-purchases-on-other-minecraft-bedrock-versions-to-my-ps-game
+  h_01HB6V24Q258XRG8WJJ13NF4TS: i-own-minecraft-ps4-edition-and-ive-bought-previous-downloadable-content-how-do-i-get-it-to-sync-to-minecraft-bedrock-edition
+  h_01HB6V24Q2YE5S80GV6323BZRF: does-minecraft-bedrock-edition-for-ps-support-mouse-and-keyboard-input
+  h_01HB6V24Q2VT0GEPVMP2FYWE81: will-you-be-running-beta-versions-in-minecraft-bedrock-edition-for-ps
+  h_01HB6V24Q2YZPJEDXD05B4K6YR: can-players-unlock-xbox-achievements-in-minecraft-bedrock-edition-for-ps
+  h_01HB6V24Q257PK9FX3CEN1GRPM: if-i-download-the-update-can-i-revert-to-the-prior-update
+  h_01HB6V24Q29XMR3MAAAKJAMWNX: does-the-update-reset-your-trophies
 ---
 
 # In this article: 

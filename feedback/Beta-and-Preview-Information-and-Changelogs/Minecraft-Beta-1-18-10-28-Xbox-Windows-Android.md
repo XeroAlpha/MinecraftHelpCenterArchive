@@ -6,7 +6,7 @@ categories: Beta and Preview Information and Changelogs
 tags:
   - beta
   - beta_changelog
-link: https://feedback.minecraft.net/hc/en-us/articles/4422108163725-Minecraft-Beta-1-18-10-28-Xbox-Windows-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4422108163725-Minecraft-Beta-1-18-10-28-Xbox-Windows-Android
 ---
 
 **Posted:** 20 January 2022

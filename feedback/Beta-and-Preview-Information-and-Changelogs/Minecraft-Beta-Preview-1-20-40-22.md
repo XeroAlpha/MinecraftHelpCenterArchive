@@ -4,6 +4,24 @@ date: 2023-09-19T20:35:32Z
 updated: 2023-09-19T20:55:28Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19648957981965-Minecraft-Beta-Preview-1-20-40-22
+hash:
+  h_01HAQJSX6DBW59BBY4TCS3M9KZ: features-and-bug-fixes
+  h_01HAQK1SVQTG342KDF0EH9D39G: blocks
+  h_01HAQK1HGDQ7YVTEMFW9X1CPMW: education-toggle
+  h_01HAQK3PB5N5EAJWTW574VSXGR: game-rules
+  h_01HAQK1HGDXZSHDEQK52D85EH1: gameplay
+  h_01HAQK1HGD8QHX1CSKTQ9R9B7M: mobs
+  h_01HAQK1HGDQ790RNBX8XXTWJHC: user-interface
+  h_01HAQK1HGD1YNEMQH73V6CPQKC: vanilla-parity
+  h_01HAQK7PQRNMVH5MR9XPCX8GPS: technical-updates
+  h_01HAQK80AY07QZMENXXGCWGJ2C: api
+  h_01HAQK7PQRR7BKHQD00DP02WAG: editor
+  h_01HAQK7PQRZ2H7JGJ3DXY8K249: entity-components
+  h_01HAQK7PQRTAW87JHFCMWHVX0E: mobs-1
+  h_01HAQK7PQRDH9R921K67T19CA5: stability-and-performance
+  h_01HAQK7PQRDQEPBECCB3ZG2B96: experimental-technical
+  h_01HAQK7PQRES2CTV6MCF1QS7FF: api-1
+  h_01HAQK7PQRRDXZHHZ8AVAKN5YQ: stability-and-performance-1
 ---
 
 **Posted:** 20 September 2023

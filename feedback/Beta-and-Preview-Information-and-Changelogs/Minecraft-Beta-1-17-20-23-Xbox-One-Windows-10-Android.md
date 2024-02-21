@@ -7,7 +7,10 @@ tags:
   - beta
   - beta_changelog
   - caves&cliffs
-link: https://feedback.minecraft.net/hc/en-us/articles/4405541243405-Minecraft-Beta-1-17-20-23-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4405541243405-Minecraft-Beta-1-17-20-23-Xbox-One-Windows-10-Android
+hash:
+  gametest-framework-experimental: gametestframework-experimental
+  user-interface-1: userinterface
 ---
 
 **Posted:** 22 July 2021

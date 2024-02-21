@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.19.4 Pre-Release 2 "
 date: 2023-03-01T08:16:27Z
 updated: 2023-03-01T08:16:31Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/13555654250253-Minecraft-Java-Edition-1-19-4-Pre-Release-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/13555654250253-Minecraft-Java-Edition-1-19-4-Pre-Release-2
+hash:
+  fixed-bugs-in-1.19.4-pre-release-2: fixed-bugs-in-1194-pre-release-2
 ---
 
 We are now releasing the second pre-release for Minecraft 1.19.4. This pre-release contains bug fixes, as well as an updated model for the decorated pot.

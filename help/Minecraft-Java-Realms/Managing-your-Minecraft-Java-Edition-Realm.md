@@ -14,6 +14,12 @@ tags:
   - section_12618497714061
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20712000178317-Managing-your-Minecraft-Java-Edition-Realm
+hash:
+  h_01HHZEWGWC378V7FSR750TE5M3: realms-admin-options
+  h_01HHZEVCXNCYA0S01TP9DTXY6A: have-multiple-worlds
+  h_01HHZEXG1TMWSY6B3MHERBCNT3: close-the-server
+  h_01HHZEZXSBA9B9RQE731NAMNJY: players
+  h_01HHZF2EJ7WHF3JRAMVTGMMVV8: subscription
 ---
 
 This article is dedicated to managing an already made Minecraft: Java Edition Realm. For questions regarding creating a Java Realm, [see this article](./Minecraft-Java-Edition-Realms-Creation-FAQ.md).

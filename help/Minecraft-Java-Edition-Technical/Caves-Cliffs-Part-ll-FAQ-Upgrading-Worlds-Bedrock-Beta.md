@@ -19,7 +19,7 @@ tags:
   - section_12618019146893
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/21224579082253-Caves-Cliffs-Part-ll-FAQ-Upgrading-Worlds-Bedrock-Beta-
+link: https://help.minecraft.net/hc/en-us/articles/21224579082253-Caves-Cliffs-Part-ll-FAQ-Upgrading-Worlds-Bedrock-Beta
 ---
 
 **Important:** The information on this page is about a feature currently under development.

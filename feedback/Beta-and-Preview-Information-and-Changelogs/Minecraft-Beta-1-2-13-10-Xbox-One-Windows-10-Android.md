@@ -9,7 +9,7 @@ tags:
   - windows_10
   - android
   - 1.2.13.10
-link: https://feedback.minecraft.net/hc/en-us/articles/360004165251-Minecraft-Beta-1-2-13-10-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004165251-Minecraft-Beta-1-2-13-10-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

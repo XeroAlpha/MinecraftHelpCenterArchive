@@ -6,6 +6,11 @@ categories: Caves and Cliffs Update
 tags:
   - section_12618686416909
 link: https://help.minecraft.net/hc/en-us/articles/4415053738893-Caves-Cliffs-Part-II-FAQ
+hash:
+  will-i-be-able-to-update-my-existing-worlds-with-the-new-caves-cliffs-part-ii-world-generation:
+    will-i-be-able-to-update-my-existing-worlds-with-the-new-caves--cliffs-part-ii-world-generation
+  are-custom-biome-packs-compatible-with-caves-cliffs-part-ii-worlds: are-custom-biome-packs-compatible-with-caves--cliffs-part-ii-worlds
+  are-the-deep-dark-and-warden-coming-out-with-caves-cliffs-part-ii: are-the-deep-dark-and-warden-coming-out-with-caves--cliffs-part-ii
 ---
 
 The Caves & Cliffs Update is one of our most ambitious Minecraft updates yet! Alongside the new blocks, mobs and items that were introduced in Part I (1.17), Caves & Cliffs Part II (1.18) focuses on sweeping changes to how the world will generate around and below you.

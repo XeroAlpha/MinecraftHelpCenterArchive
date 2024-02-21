@@ -3,7 +3,7 @@ title: Minecraft - 1.16.42 (PlayStation®VR)
 date: 2020-09-18T18:33:07Z
 updated: 2020-09-22T15:01:43Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360049439612-Minecraft-1-16-42-PlayStation-VR-
+link: https://feedback.minecraft.net/hc/en-us/articles/360049439612-Minecraft-1-16-42-PlayStation-VR
 ---
 
 **Posted:** September 22, 2020

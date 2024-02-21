@@ -10,6 +10,9 @@ tags:
   - section_12618581961357
   - section_360058532812
 link: https://help.minecraft.net/hc/en-us/articles/360058532812-Official-Minecraft-Sites
+hash:
+  social-media: socialmedia
+  game-feedback-ideas: game-feedback--ideas
 ---
 
 ## Official Websites: 

@@ -4,6 +4,9 @@ date: 2021-11-25T15:58:43Z
 updated: 2021-11-25T15:58:54Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4414681768077-Minecraft-Java-Edition-1-18-Release-Candidate-1
+hash:
+  technical-changes-in-1.18-release-candidate-1: technical-changes-in-118-release-candidate-1
+  fixed-bugs-in-1.18-release-candidate-1: fixed-bugs-in-118-release-candidate-1
 ---
 
 We're now releasing the first (and hopefully only) release candidate for Caves & Cliffs: Part II. If there are no major issues following this release, no further changes will be done before the full release. 

@@ -3,7 +3,13 @@ title: Minecraft - 1.20.40 (Bedrock)
 date: 2023-10-23T16:00:24Z
 updated: 2023-10-24T16:49:17Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/20637099144333-Minecraft-1-20-40-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/20637099144333-Minecraft-1-20-40-Bedrock
+hash:
+  h_01HDENPFC5H3N4YE6VDTEK4JZA: vanilla-parity
+  h_01HDENPFC5GFVYW20NGGVX7SXQ: experimental-features
+  h_01HDENPFC5NSX7140DRQ4VP00H: fixes-and-changes
+  h_01HDENPFC5FYTGYKNQR8VE5C8H: technical-updates
+  h_01HDENPFC7X0GNQ0BTN7K901HB: experimental-technical-updates
 ---
 
 **Posted:** October 24, 2023

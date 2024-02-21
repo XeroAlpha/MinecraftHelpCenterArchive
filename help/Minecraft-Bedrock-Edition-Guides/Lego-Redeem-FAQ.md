@@ -5,7 +5,21 @@ updated: 2023-01-23T17:27:04Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - section_12618581961357
-link: https://help.minecraft.net/hc/en-us/articles/360042547152-Lego-Redeem-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/360042547152-Lego-Redeem-FAQ
+hash:
+  how-can-i-get-the-lego-minecraft-dragon-slayer-character-skin: howcanigetthelegominecraftdragonslayercharacterskin
+  what-will-i-get-from-redeeming-the-code: whatwilligetfromredeemingthecode
+  how-does-the-code-work: howdoesthecodework
+  how-do-i-get-a-code: howdoigetacode
+  where-do-i-find-my-code-in-the-box: wheredoifindmycodeinthebox
+  what-do-i-do-if-there-is-no-unique-code-in-my-box: whatdoidoifthereisnouniquecodeinmybox
+  how-do-i-redeem-my-code-step-by-step-guide: howdoiredeemmycodestep-by-stepguide
+  what-do-i-do-if-my-code-is-not-recognized-or-not-valid: whatdoidoifmycodeisnotrecognizedornotvalid
+  do-i-need-a-microsoft-account: doineedamicrosoftaccount
+  do-i-need-a-special-version-of-minecraft-to-redeem-the-code: doineedaspecialversionofminecrafttoredeemthecode
+  how-do-i-activate-my-character-skin-in-the-game: howdoiactivatemycharacterskininthegame
+  does-the-code-work-worldwide: doesthecodeworkworldwide
+  how-do-i-get-help: howdoigethelp
 ---
 
 ## How can I get the LEGO® Minecraft Dragon Slayer character skin? 

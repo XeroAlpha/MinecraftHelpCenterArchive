@@ -3,7 +3,7 @@ title: "Minecraft: Java Edition Snapshot - 22w24a "
 date: 2022-06-16T06:48:46Z
 updated: 2022-06-16T06:48:49Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6968038003085-Minecraft-Java-Edition-Snapshot-22w24a-
+link: https://feedback.minecraft.net/hc/en-us/articles/6968038003085-Minecraft-Java-Edition-Snapshot-22w24a
 ---
 
 New snapshot! We're now heading towards 1.19.1, which will add Allay duplication, the ability to report chat, and, of course, fix a few bugs. 

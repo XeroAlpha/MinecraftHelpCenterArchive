@@ -3,7 +3,7 @@ title: "Minecraft: Java Edition Snapshot - 22w19a "
 date: 2022-05-12T18:21:49Z
 updated: 2022-05-12T18:22:12Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6189944134541-Minecraft-Java-Edition-Snapshot-22w19a-
+link: https://feedback.minecraft.net/hc/en-us/articles/6189944134541-Minecraft-Java-Edition-Snapshot-22w19a
 ---
 
 Thursday snapshot! Apart from some bugfixes and some changes to fancy tags and commands, we're introducing "chat preview" as a way to cryptographically sign chat messages that have been dynamically styled by servers. And for this snapshot only, we've left in our testing option test-rainbow-chat in server.properties, which can be set to true together with the new previews-chat option for testing. If this is something that interests you, and especially if you run a server, we would love your feedback on it.

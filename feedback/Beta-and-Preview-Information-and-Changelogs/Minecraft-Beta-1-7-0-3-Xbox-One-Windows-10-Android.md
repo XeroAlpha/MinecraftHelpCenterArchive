@@ -9,7 +9,7 @@ tags:
   - android
   - beta_changelog
   - 1.7.0.3
-link: https://feedback.minecraft.net/hc/en-us/articles/360015150092-Minecraft-Beta-1-7-0-3-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360015150092-Minecraft-Beta-1-7-0-3-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

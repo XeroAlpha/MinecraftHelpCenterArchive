@@ -4,6 +4,12 @@ date: 2020-06-10T18:03:19Z
 updated: 2020-06-10T18:03:49Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360044790531-Minecraft-Java-Edition-1-16-PRE-2
+hash:
+  fixed-bugs-in-1.16-pre-release-2: fixed-bugs-in-116-pre-release-2
+  new-features-in-1.16-pre-release-1: new-features-in-116-pre-release-1
+  changes-in-1.16-pre-release-1: changes-in116-pre-release-1
+  technical-changes-in-1.16-pre-release-1: technical-changes-in116-pre-release-1
+  fixed-bugs-in-1.16-pre-release-1: fixed-bugs-in116-pre-release-1
 ---
 
 03 June 2020 (PRE-1), 05 June 2020 (PRE-2)

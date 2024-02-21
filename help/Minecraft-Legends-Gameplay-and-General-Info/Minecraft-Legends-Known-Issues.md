@@ -8,6 +8,10 @@ tags:
   - title_legends
   - section_14859587017101
 link: https://help.minecraft.net/hc/en-us/articles/14928408926477-Minecraft-Legends-Known-Issues
+hash:
+  h_01HB6V8S35M96DKPFTFWF7AM06: update---may-17-2023
+  h_01HB6V8S35HN26T3GD8S514VVK: update---may-5-2023
+  h_01HB6V8S35KHKX8QXZ2YAF86QT: launch-day-issues---april-18-2023
 ---
 
 **Last updated:** May 17, 2023
@@ -18,7 +22,7 @@ The following are known issues that can occur when playing Minecraft Legends. Fi
 
 - **Steam Deck performance issues.**
 - **The 8001 (or 0x803F8001) Xbox App error.**
-  - **If you're experiencing the Xbox App error, please refer to the first few sections of our [Minecraft Launcher Troubleshooting FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-Troubleshooting-FAQ.md#ive-received-the-error-minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001) for additional help.**
+  - **If you're experiencing the Xbox App error, please refer to the first few sections of our [Minecraft Launcher Troubleshooting FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-Troubleshooting-Common-Issues.md#h_01GAHKDWEKS8JMH6W5KW7KAY2Y) for additional help.**
   - **If that doesn't help, please try updating your Game Services through Windows [via this article](https://support.xbox.com/en-US/help/games-apps/troubleshooting/troubleshoot-games-windows-10).**
 - **The Legends window opening and then suddenly crashing.**
 - **Physical and Digital Deluxe Edition Carrot Commander downloadable content (DLC) Error Code redemption.**

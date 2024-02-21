@@ -5,7 +5,7 @@ updated: 2018-10-10T23:04:50Z
 categories: Beta and Preview Information and Changelogs
 tags:
   - 1.8.0.8
-link: https://feedback.minecraft.net/hc/en-us/articles/360016529492-Minecraft-Beta-1-8-0-8-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360016529492-Minecraft-Beta-1-8-0-8-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

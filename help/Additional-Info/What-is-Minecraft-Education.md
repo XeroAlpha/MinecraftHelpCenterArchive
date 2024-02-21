@@ -5,7 +5,10 @@ updated: 2023-10-05T17:48:58Z
 categories: Additional Info
 tags:
   - section_12618421132813
-link: https://help.minecraft.net/hc/en-us/articles/360046600691-What-is-Minecraft-Education-
+link: https://help.minecraft.net/hc/en-us/articles/360046600691-What-is-Minecraft-Education
+hash:
+  h_01HC0F0BASJGAVXF7H1M25B0PY: minecraft-educationfeatures
+  h_01HC0F0BATAJB75VNFCA904D2N: tryingout-minecraft-education-for-free
 ---
 
 Minecraft Education is a version of Minecraft designed for education in a classroom setting. Education allows teachers to offer a fun and interactive lesson for their students through playing the game of Minecraft. Students of all ages can learn from this edition. Educators can create their own lesson plans using the resources available to them in-game. In addition, there are multiple lesson plans already available that cover a variety of subjects like language arts, science, history and culture, computer science, art and design, and math. To learn more about these lesson plans, see our [Subject Kits page](https://education.minecraft.net/class-resources/lessons/).

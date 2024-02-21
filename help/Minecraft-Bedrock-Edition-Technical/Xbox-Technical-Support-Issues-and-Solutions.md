@@ -6,6 +6,19 @@ categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4408865823245-Xbox-Technical-Support-Issues-and-Solutions
+hash:
+  01GK57E6FT17SYRB2DA95MB9E7: in-this-article
+  01GGAS3JXBPXZ4YPRKPX2N3DSM: xbox-one-how-to-fix-error0x82d40003
+  01GGAS3JXBQBJQVJTBYJ4TAPXM: power-cycleyour-xbox
+  01GGAS3JXBKTYQY9ZBM36QNNBN: signinwith-the-account-that-purchased-the-game-or-insert-the-game-disc
+  01GGAS3JXBMGQNZPSFW4Q2RGRS: verifyyourhome-console
+  01GGAS3JXBV25MTQRMYGEJCP1R: removeand-re-addaffectedaccountsfromyour-xbox-one
+  01GGAS3JXB58382CHEZJM8Q84C: removethe-account-from-yourxbox
+  01GGAS3JXCQ04XY3NWSSEBB48T: add-theaccount-backtoxbox
+  01GGAS3JXCHKFBA51VA2BK5QYX: uninstall-and-reinstall-minecraft-bedrock-edition
+  01GGAS3JXCSNF387MGKK5B5S8F: transfer-minecraft-worlds-on-xbox-consoles
+  01GGAS3JXC4VAVSD69W82HZ697: how-do-i-transfer-my-saved-worlds-from-xbox-360-to-xbox-one-edition
+  01GGAS3JXCRFS8RZG1FT5TB9HM: how-do-i-transfer-my-saved-worlds-from-minecraft-xbox-one-edition-to-minecraft-bedrock-edition-for-xbox-one
 ---
 
 If you're on Windows or Xbox and are experiencing an error code, try checking the [Xbox Support list of codes](https://support.xbox.com/en-US/help/errors/error-code-search-guide) in tandem with this article to help solve your issue. 

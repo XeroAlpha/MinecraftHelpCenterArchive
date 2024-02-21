@@ -7,6 +7,8 @@ tags:
   - trending
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/24302243825677-Managing-spending-for-child-accounts-in-Minecraft-Marketplace
+hash:
+  h_01HQ47CXPXBE0RHM52SRDV6GZC: related-articles
 ---
 
 Follow these steps on your Microsoft Family homepage to approve in-game purchases and set spending limits.
@@ -23,5 +25,5 @@ You can also manage spending on the [Xbox Family App](https://support.xbox.com/e
 
 ### Related Articles
 
-[Managing multiplayer game access for a child account in Minecraft](https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-multiplayer-game-access-for-a-child-account-in-Minecraft)  
+[Managing multiplayer game access for a child account in Minecraft](./Managing-multiplayer-game-access-for-a-child-account-in-Minecraft.md)  
 [Microsoft Family Safety FAQ](https://prod.support.services.microsoft.com/en-us/account-billing/microsoft-family-safety-faq-bad45b7f-ee38-45fb-b1d2-7976e87a5526)

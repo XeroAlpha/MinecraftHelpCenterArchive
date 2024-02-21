@@ -4,6 +4,8 @@ date: 2022-06-01T14:50:42Z
 updated: 2022-06-01T14:50:47Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/6606633731853-Minecraft-Java-Edition-1-19-Pre-Release-5
+hash:
+  fixed-bugs-in-1.19-pre-release-5: fixed-bugs-in-119-pre-release-5
 ---
 
 In case you missed it, we just announced the release date for The Wild Update (June 7th). You can read more about that [here](https://www.minecraft.net/article/the-wild-update-coming).

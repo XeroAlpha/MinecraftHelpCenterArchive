@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.19.3 Release Candidate 1 "
 date: 2022-12-08T08:09:30Z
 updated: 2022-12-08T08:09:36Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/11280145835917-Minecraft-Java-Edition-1-19-3-Release-Candidate-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/11280145835917-Minecraft-Java-Edition-1-19-3-Release-Candidate-1
+hash:
+  fixed-bugs-in-1.19.3-release-candidate-1: fixed-bugs-in-1193-release-candidate-1
 ---
 
 We're now releasing the first (and hopefully only) release candidate for Minecraft 1.19.3. If there are no major issues following this release candidate, no further changes will be done before the full release.  

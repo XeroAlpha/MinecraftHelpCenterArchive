@@ -4,6 +4,15 @@ date: 2023-08-17T15:14:35Z
 updated: 2023-08-17T15:15:33Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/18623099025677-Minecraft-Java-Edition-Snapshot-23w33a
+hash:
+  01H82107AKCG34RME3WC2NW7FM: new-features
+  01H82107AK2XH3SFEA6DGNZZAR: player-skin--name-reporting
+  01H82107AK2XDPASMNAG2GK04Q: changes
+  01H82107AKFVWQM77YP01SQAG2: mob-attack-reach-changes
+  01H82107AM7YX28ZCWZQKS4AMV: technical-changes
+  01H82107AM8BYH23CZT0M19N3D: data-pack-changes
+  01H82107AM1XE51DWHTZHH0ZZF: fixed-bugs-in-23w33a
+  01H82107AMVW2XPKNH6AA86C7Z: get-the-snapshot
 ---
 
 We are making some important updates to our Player Reporting Tool in this Snapshot to better protect the online safety of our players.

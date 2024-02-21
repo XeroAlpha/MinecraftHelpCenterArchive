@@ -25,6 +25,12 @@ tags:
   - multijugador
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4410316619533-How-to-Play-Minecraft-Bedrock-Edition-Multiplayer
+hash:
+  h_01HPMFFRZ1C372CKRSD87NWZQ6: in-this-article
+  h_01HPMFG1AN30KDZ2FHP2H4MR9C: how-to-play-with-a-friend-online
+  h_01HPMFJD576CFF7E9S46X8HQRW: how-to-play-in-splitscreen-consoles-only
+  h_01HPMFKDWB5W242Q03E1HADCQH: how-to-play-on-an-online-server
+  h_01HPMFNN82STVDV758HN8J57YQ: how-to-play-on-a-local-area-network-lan
 ---
 
 # In This Article:
@@ -36,9 +42,9 @@ link: https://help.minecraft.net/hc/en-us/articles/4410316619533-How-to-Play-Min
 
 ## How to play with a friend online
 
-- To join a friend’s world, see [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](https://help.minecraft.net/hc/en-us/articles/24122512131213)
+- To join a friend’s world, see [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](./How-Do-I-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
 - To join a Realm, see [How Do I Join Someone’s Minecraft: Bedrock Edition Realm?](../Minecraft-Realms-Plus/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md)
-- For issues trying to join a multiplayer world, go to [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](./Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- For issues trying to join a multiplayer world, go to [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](./Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues.md)
 
 ## How to play in splitscreen (consoles only)
 

@@ -4,6 +4,24 @@ date: 2023-09-27T14:32:53Z
 updated: 2023-09-28T13:40:16Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19883048087693-Minecraft-Beta-Preview-1-20-40-23
+hash:
+  h_01HBBGVQD2C4ZDZY3ZSSAAYJT8: features-and-bug-fixes
+  h_01HBBGVQD2TY6J2WV44DZYSBJ1: audio
+  h_01HBBGVQD2XWM4XYGK92YYGFGF: blocks
+  h_01HBBGVQD2BSP3DHB63RM699DV: gameplay
+  h_01HBBGVQD2YAFTBZKYKWV3SVKP: graphical
+  h_01HBBGVQD2BD0JHV7NTT2AYHEV: graphics
+  h_01HBBGVQD2BS5WFZDJ0DJWHHGA: items
+  h_01HBBGVQD2SQPX9X739WW708T0: mobs
+  h_01HBBGVQD21DNFN4B2KC0XEAJD: stability-and-performance
+  h_01HBBGVQD2Y7MC1P2X0DPXP6BN: user-interface
+  h_01HBBGVQD2QN0ZMDVZJTGWZD97: technical-updates
+  h_01HBBGVQD22D3Q0RZ1CZC16MHM: edu-features
+  h_01HBBGVQD2GJPV52HZ4FB0YGJE: editor
+  h_01HBBGVQD2SEANVZ4ET10N4V2A: entity-components
+  h_01HBBGVQD2GB5JSWCXWN9A2SQZ: experimental-technical-features
+  h_01HBBGVQD2AXMS9EMNBJ8RKD4B: api
+  h_01HBBGVQD2XZ14JHHENB2FWYHV: graphical-1
 ---
 
 **Posted:** 27 September 2023

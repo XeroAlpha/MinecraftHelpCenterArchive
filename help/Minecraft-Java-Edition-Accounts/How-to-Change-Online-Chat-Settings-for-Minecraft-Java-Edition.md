@@ -18,7 +18,7 @@ tags:
   - section_12617963662861
   - section_12618746386189
   - section_15463793799181
-link: https://help.minecraft.net/hc/en-us/articles/6985971367309-How-to-Change-Online-Chat-Settings-for-Minecraft-Java-Edition-
+link: https://help.minecraft.net/hc/en-us/articles/6985971367309-How-to-Change-Online-Chat-Settings-for-Minecraft-Java-Edition
 ---
 
 While playing Minecraft: Java Edition with other players online, you may want to customize your online chat experience. This article will discuss where to go to change your online chat setting, and what each setting means so you can have full control over your Minecraft: Java Edition online chat experience. 

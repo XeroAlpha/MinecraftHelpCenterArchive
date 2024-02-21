@@ -15,6 +15,9 @@ tags:
   - platform_PC
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/360034754032-Minecraft-Java-Edition-is-Slow
+hash:
+  computer-processing-low-framerate: computerprocessing-low-framerate
+  network-connection-latency-or-lag: networkconnection-latencyor-lag
 ---
 
 *This article applies to Minecraft: Java Edition. If you’re experiencing slow gameplay in Minecraft Realms, please see *[Minecraft Realms Plus Troubleshooting](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Plus-Troubleshooting.md)*.*

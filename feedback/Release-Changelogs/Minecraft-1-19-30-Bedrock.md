@@ -3,7 +3,7 @@ title: Minecraft - 1.19.30 (Bedrock)
 date: 2022-09-19T15:24:40Z
 updated: 2022-10-04T13:53:08Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/9272494067469-Minecraft-1-19-30-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/9272494067469-Minecraft-1-19-30-Bedrock
 ---
 
 We're excited to share Bedrock version 1.19.30 with you all! If any of you were worried about eating the bowl along with your stew, worry not: you can keep your bowl now.

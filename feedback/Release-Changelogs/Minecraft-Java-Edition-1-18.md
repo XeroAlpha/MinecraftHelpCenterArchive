@@ -4,6 +4,9 @@ date: 2021-11-30T16:08:09Z
 updated: 2021-11-30T16:08:32Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4415128577293-Minecraft-Java-Edition-1-18
+hash:
+  set_contents-set_loot_table: set_contentsset_loot_table
+  fixed-bugs-in-1.18: fixed-bugs-in-118
 ---
 
 It’s been quite the trek, but we’re here. At the summit. The Caves & Cliffs Update: Part II is out today, completing the much anticipated cave update. What better way to celebrate than by climbing to the top of a higher than ever mountain. Let’s take a moment and just take in that view. Wait. What’s that sound. Don’t tell me that goat is back.

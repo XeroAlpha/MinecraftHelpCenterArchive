@@ -22,6 +22,11 @@ tags:
   - platform_PC
   - section_12617594906509
 link: https://help.minecraft.net/hc/en-us/articles/4408902716557-Skins-for-Minecraft-Bedrock-Edition
+hash:
+  h_01GB3J79ZBX27M723HBXJEXFT6: why-are-there-black-lines-on-my-skins-arms
+  h_01GB3J7FP1NC1FEZ15ZJZ1FGB4: using-skins-in-minecraft-bedrock-edition
+  h_01GB3J7MCKEVSV7243AZZA7GS4: getting-started-in-the-character-creator
+  h_01GB3J7T8311GY5WCTRFN08P1H: uploading-custom-skins-to-minecraft-bedrock-edition
 ---
 
 ***This article applies to Minecraft: Bedrock Edition only. For information on Minecraft: Java Edition see [Minecraft: Java Edition Skins](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Skins.md) article.***

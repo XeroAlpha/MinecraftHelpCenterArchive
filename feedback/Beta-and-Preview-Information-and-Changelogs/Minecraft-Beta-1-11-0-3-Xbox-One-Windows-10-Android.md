@@ -12,7 +12,7 @@ tags:
   - ravager
   - outposts
   - sweet berries
-link: https://feedback.minecraft.net/hc/en-us/articles/360024397612-Minecraft-Beta-1-11-0-3-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360024397612-Minecraft-Beta-1-11-0-3-Xbox-One-Windows-10-Android
 ---
 
 **28 February 2019**

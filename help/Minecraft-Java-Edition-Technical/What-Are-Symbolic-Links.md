@@ -4,6 +4,9 @@ date: 2023-05-26T17:44:29Z
 updated: 2024-02-05T20:54:43Z
 categories: "Minecraft: Java Edition Technical"
 link: https://help.minecraft.net/hc/en-us/articles/16165590199181-What-Are-Symbolic-Links
+hash:
+  h_01HNXGT5ZPCT1W2XMG4XDVBP6F: how-can-symbolic-links-be-dangerous
+  h_01HNXGT5ZPYKJ1E79ECF1W6Y7G: how-can-i-enable-symbolic-links-in-minecraft-java-edition
 ---
 
 A symbolic link (sometimes called a “symlink”) is a way to make a file name in one place on a file system refer to a different file, elsewhere. Symbolic links are supported by all operating systems Minecraft runs on.

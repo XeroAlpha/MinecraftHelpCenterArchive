@@ -7,7 +7,9 @@ tags:
   - beta
   - beta_changelog
   - caves&cliffs
-link: https://feedback.minecraft.net/hc/en-us/articles/360060537511-Minecraft-Beta-1-17-0-52-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360060537511-Minecraft-Beta-1-17-0-52-Xbox-One-Windows-10-Android
+hash:
+  general-tweaks-and-bug-fixes: generaltweaks-and-bug-fixes
 ---
 
 **Posted:** April 28, 2021

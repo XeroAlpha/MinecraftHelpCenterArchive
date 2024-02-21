@@ -3,7 +3,7 @@ title: Minecraft - 1.11.3 (Bedrock)
 date: 2019-05-15T16:51:19Z
 updated: 2019-05-17T16:00:45Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360028439431-Minecraft-1-11-3-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360028439431-Minecraft-1-11-3-Bedrock
 ---
 
 **NOTE: **This hotfix is not available on Nintendo Switch as we are still working on addressing several crash issues for a future update. Multiplayer is still compatible with versions 1.11.0 through 1.11.3

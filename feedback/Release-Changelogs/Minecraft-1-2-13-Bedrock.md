@@ -7,7 +7,7 @@ tags:
   - bedrock_release
   - release_changelog
   - 1.2.13
-link: https://feedback.minecraft.net/hc/en-us/articles/360004167331-Minecraft-1-2-13-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004167331-Minecraft-1-2-13-Bedrock
 ---
 
 **Release Date:** April 3, 2018  

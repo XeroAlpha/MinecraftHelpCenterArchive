@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.19.1 Pre-Release 3 "
 date: 2022-07-07T08:05:18Z
 updated: 2022-07-07T08:05:22Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/7483603308813-Minecraft-Java-Edition-1-19-1-Pre-Release-3-
+link: https://feedback.minecraft.net/hc/en-us/articles/7483603308813-Minecraft-Java-Edition-1-19-1-Pre-Release-3
+hash:
+  changes-in-1.19.1-pre-release-3: changes-in-1191-pre-release-3
+  technical-changes-in-1.19.1-pre-release-3: technical-changes-in-1191-pre-release-3
+  fixed-bugs-in-1.19.1-pre-release-3: fixed-bugs-in-1191-pre-release-3
 ---
 
 Hi everyone,  

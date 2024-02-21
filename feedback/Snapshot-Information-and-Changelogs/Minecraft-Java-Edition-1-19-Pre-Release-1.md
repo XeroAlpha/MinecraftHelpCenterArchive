@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.19 Pre-Release 1 "
 date: 2022-05-18T16:09:47Z
 updated: 2022-05-18T16:10:29Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6319694424845-Minecraft-Java-Edition-1-19-Pre-Release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/6319694424845-Minecraft-Java-Edition-1-19-Pre-Release-1
+hash:
+  changes-in-1.19-pre-release-1: changes-in-119-pre-release-1
+  technical-changes-in-1.19-pre-release-1: technical-changes-in-119-pre-release-1
+  fixed-bugs-in-1.19-pre-release-1: fixed-bugs-in-119-pre-release-1
 ---
 
 Presenting the first pre-release of 1.19: The Wild Update!

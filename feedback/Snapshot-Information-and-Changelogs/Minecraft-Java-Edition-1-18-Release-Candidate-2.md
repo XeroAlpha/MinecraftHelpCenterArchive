@@ -4,6 +4,8 @@ date: 2021-11-26T13:13:16Z
 updated: 2021-11-26T13:13:19Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4414729537421-Minecraft-Java-Edition-1-18-Release-Candidate-2
+hash:
+  fixed-bugs-in-1.18-release-candidate-2: fixed-bugs-in-118-release-candidate-2
 ---
 
 1.18 release candidate 2 is now available, which fixes an issue with lava lakes.

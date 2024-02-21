@@ -17,6 +17,12 @@ tags:
   - section_12618486785805
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20686744908429-Minecraft-Bedrock-Edition-Realms-Technical-FAQ
+hash:
+  h_01HHZFVS72CGFB2PVW5HZSYMXN: in-this-article
+  h_01HHZFVHTZ3EMP0PJSBVC3A9G7: can-i-upload-my-worlds-onto-a-realm
+  h_01HHZFYNN41PVHHE3761SRRDNK: do-realms-servers-support-modding
+  h_01HHZFZ8N10HH8PAFYEJRT5H53: are-there-any-specific-settings-needed-to-play-on-a-realm
+  h_01HHZG2H6YQTQFAN1B95QS9QHK: how-does-mojang-backup-your-realm
 ---
 
 Realms in Minecraft: Bedrock Edition can seem complex at first. This article provides everything you need to know about Realms’ more technical aspects.

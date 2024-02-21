@@ -26,6 +26,8 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19882462609677-How-to-Survive-your-First-Night-in-Minecraft
+hash:
+  h_01HBBFX870S14JP7QQXXBV75DD: prepare-for-the-night
 ---
 
 Starting a new world in Minecraft is an exciting time. You know you have an infinite amount of adventure ahead of you, filled with ores to mine, biomes to see, and various things to build. However, if you are new to the game, your first night can be overwhelming if you are not prepared. Here are some tips to survive the first night in Minecraft.

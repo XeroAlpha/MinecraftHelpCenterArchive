@@ -17,6 +17,16 @@ tags:
   - section_14859582819853
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/15518267480461-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-PC-Mac-Chromebook-and-Linux
+hash:
+  h_01HNXP1VPG0VY12QY3S3MF2DXH: in-this-article
+  h_01GZPC0797RMVYPZ7NYJTDM4CR: minecraft-bedrock-edition
+  h_01GZPC0GAHAEQX20KCVSQVMXQD: minecraft-java-edition
+  h_01GZPC0P4MVNZ8YPB4SRBF69CH: minecraft-dungeons
+  h_01HNXP1VPGW7XFYRGXDY84YZJ1: xbox-app-or-windows-store
+  h_01HNXP1VPG4TZG400GBFJHX5GV: steam
+  h_01GZPC0VENNC8W7TDWVY8GSYM9: minecraft-legends
+  h_01HNXP1VPHSQS3VH60GSPMEYDG: xbox-app-or-windows-store-1
+  h_01HNXP1VPHBKGNTPVCWNRFBK2P: steam-1
 ---
 
 This article details how to manage cloud saves for Minecraft: Bedrock Edition, Minecraft: Java Edition, Minecraft Legends, and Minecraft Dungeons on PC, Mac, Chromebook, and Linux.
@@ -30,11 +40,11 @@ This article details how to manage cloud saves for Minecraft: Bedrock Edition, M
 
 ## Minecraft: Bedrock Edition
 
-Players with a Minecraft Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on Windows 10/11 or on Chromebook. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md) for more information.
+Players with a Minecraft Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on Windows 10/11 or on Chromebook. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md) for more information.
 
 ## Minecraft: Java Edition
 
-Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md) for more information.
+Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md) for more information.
 
 ## Minecraft Dungeons
 

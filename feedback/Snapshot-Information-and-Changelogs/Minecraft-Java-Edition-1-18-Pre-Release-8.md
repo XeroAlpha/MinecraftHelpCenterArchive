@@ -4,6 +4,8 @@ date: 2021-11-24T15:42:56Z
 updated: 2021-11-24T15:43:00Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4414575065741-Minecraft-Java-Edition-1-18-Pre-Release-8
+hash:
+  fixed-bugs-in-1.18-pre-release-8: fixed-bugs-in-118-pre-release-8
 ---
 
 Pre-release 8 for Minecraft 1.18 is now available which contains more fixes for crashes and bugs.

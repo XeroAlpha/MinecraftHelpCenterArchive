@@ -3,6 +3,9 @@ title: "Minecraft: Java Edition - 1.15.2"
 date: 2020-01-24T18:32:40Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360038800232-Minecraft-Java-Edition-1-15-2
+hash:
+  changes-in-1.15.2: changes-in-1152
+  fixed-bugs-in-1.15.2: fixed-bugs-in-1152
 ---
 
 21 January 2020

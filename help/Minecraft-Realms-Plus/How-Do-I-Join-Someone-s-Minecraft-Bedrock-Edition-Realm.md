@@ -27,7 +27,12 @@ tags:
   - section_12618443219469
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4410386197133-How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm-
+link: https://help.minecraft.net/hc/en-us/articles/4410386197133-How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm
+hash:
+  h_01HHZAZBEVK8685JVD1BZS58JN: how-to-join-a-realm
+  h_01HHZB1W5M8AGZB7JKJCXMDK66: trouble-accepting-invites-or-joining-realms
+  h_01HHZB3CYAE9HZ1ZY01F2NBJ5M: leaving-a-realm
+  h_01HHZB7E1GH67JPJ76974YACA3: troubleshooting
 ---
 
 *This article is for Minecraft Realms Plus on Minecraft: Bedrock Edition for mobile, Chromebook, Nintendo Switch, Sony PlayStation® 4 and 5, PC, Windows 10 and above, and Xbox One and Series X\|S. If you want to create a Realm for Minecraft: Java Edition, go to [Minecraft: Java Edition Realms Creation FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md).  *

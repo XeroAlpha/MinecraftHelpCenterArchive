@@ -4,6 +4,35 @@ date: 2023-12-13T12:57:23Z
 updated: 2023-12-13T14:50:22Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/22307322045197-Minecraft-Beta-Preview-1-20-60-23
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  h_01HHHQJSE6ZG709W6316GE9541: experimental-features
+  h_01HHHQJSE6EY2RKBTQV739W4AV: armadillo
+  h_01HHHQJSE6F6YWFHW19HS8W26R: armadillo-scutes
+  h_01HHHQJSE670PXD402T06XX2G9: wolf-armor
+  h_01HHHQJSE6ZPPKN8NHHZ7ZYFDX: blocks
+  h_01HHHQJSE6TQ95HHCESQXDEGTT: copper-grate
+  h_01HHHQJSE6Z7K4TS8QN5N81K7R: breeze
+  h_01HHHQJSE64HRE36N7BNFBFR2R: commands
+  h_01HHHQJSE6584KJ7ZGPDDGQWTH: features-and-bug-fixes
+  h_01HHHQJSE6705B75P7RK1RKK05: gameplay
+  h_01HHHQJSE6VP5G926ZQH666K5Y: mobs
+  h_01HHHQJSE62XMK8EHXZA1MVFCT: graphical
+  h_01HHHQJSE6Z2TKZ1CDV1RKTCJY: user-interface
+  h_01HHHQJSE67WGY6FAD0W58KP29: updated-edit-world-screen
+  h_01HHHQQRD1YQ6DHPVHA5MGDB3M: realms
+  h_01HHHQQRD19GRWV7PA32C7NECR: technical-updates
+  h_01HHHQQRD113M011EQHAZTGHRM: add-ons-and-script-engine
+  h_01HHHQQRD1V7WXMH03HR89WS54: general
+  h_01HHHQQRD1NHCNJZYSYHK28FHR: api
+  h_01HHHQQRD1KAVRE9N1VMRYKYR5: components
+  h_01HHHQQRD1Y9DN7XGKN1F3P8CD: editor
+  h_01HHHQQRD161CKVVGGXEYGKJKE: molang
+  h_01HHHQQRD1SDQYG6W2GDAFBVGQ: experimental-technical-features
+  h_01HHHQQRD13Z0JWXW60WZNP9GQ: add-ons-and-script-engine-1
+  h_01HHHQQRD2PSM7MAFSVPBC0VC9: api-1
+  h_01HHHQQRD243258SQBMYPDTYRX: molang-1
+  h_01HHHQQRD2QQSA1EK1E533NKMM: graphical-1
 ---
 
 **Posted:** 13 December 2023

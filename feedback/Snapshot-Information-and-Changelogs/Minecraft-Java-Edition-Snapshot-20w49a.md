@@ -3,7 +3,7 @@ title: "Minecraft: Java Edition - Snapshot 20w49a "
 date: 2020-12-02T17:51:44Z
 updated: 2020-12-02T17:51:49Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360053198311-Minecraft-Java-Edition-Snapshot-20w49a-
+link: https://feedback.minecraft.net/hc/en-us/articles/360053198311-Minecraft-Java-Edition-Snapshot-20w49a
 ---
 
 Another snapshot is going out, and this one introduces the sculk. They're a bit creepy, but don't let that put you off. Pick up some good vibrations!

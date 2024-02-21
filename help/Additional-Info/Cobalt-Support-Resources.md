@@ -6,6 +6,15 @@ categories: Additional Info
 tags:
   - section_12618421132813
 link: https://help.minecraft.net/hc/en-us/articles/360035130431-Cobalt-Support-Resources
+hash:
+  h_01HCN844G1K22PVKVS7RMA1FMJ: whatiscobalt
+  h_01HCN844G1X5S7NYPJH50PZFR1: spacehamsterswherecanibuythis
+  h_01HCN844G1S7YFDDJ9ESTAE0X5: butialreadyboughtcobaltwhenitwasinalphawherecanigetmyfreesteamcode
+  h_01HCN844G1RCCZ9GR4K8FQSQAW: ive-hadanissuewithmyfreesteamcode
+  h_01HCN844G1AQW38126TAGZDS80: whatiscobaltwasd
+  h_01HCN844G1E99ZZHH4DWZWN4MT: ineedbillingandaccountsupportwhocanicontact
+  h_01HCN844G1GS5N880XGH0BJNGP: wherecanilearnmoreaboutcobaltandcobaltwasd
+  h_01HCN844G1BCVZQZES9EZG33HB: i-want-to-meet-other-cobalt-and-cobalt-wasd-players-where-can-i-find-them
 ---
 
 **Note: Mojang is no longer supporting Cobalt on Steam or any other platforms. Thank you.**

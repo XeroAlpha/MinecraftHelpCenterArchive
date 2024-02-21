@@ -8,7 +8,7 @@ tags:
   - release_changelog
   - 1.2.5
   - archive
-link: https://feedback.minecraft.net/hc/en-us/articles/360004168331-Minecraft-1-2-5-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004168331-Minecraft-1-2-5-Bedrock
 ---
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.

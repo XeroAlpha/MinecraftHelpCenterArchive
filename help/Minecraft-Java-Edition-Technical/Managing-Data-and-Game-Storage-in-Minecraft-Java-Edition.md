@@ -21,9 +21,19 @@ tags:
   - section_12618019146893
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4409159214605-Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition
+hash:
+  h_01HCN8R6KRAK3JC05MTD3JVS5B: in-this-article
+  h_01FGA90M9Z3A1CMGWJ2S6KANDY: backup-minecraft-worlds
+  h_01FGA90Z06DE00GT8E81SWX9SE: where-are-minecraft-files-stored
+  h_01HCN8R6KS12RVDYR1YG5QHW01: find-additional-launcher-files
+  h_01HCN8R6KSF7VC8EX5BAMNNDR8: linux
+  h_01HCN8R6KSSDB9XGM5K2MDKHGV: os-x
+  h_01HCN8R6KSXFXGA8QQ632XTAGM: windows
+  h_01FGA9289T0T4RD76MX90B81HZ: transfer-minecraft-java-edition-to-another-computer
+  h_01FGA92HXE74SDG702DQZ9QENC: how-to-fix-a-corrupted-world-save
 ---
 
-*This article applies to Minecraft: Java Edition only. Click [here for Minecraft Bedrock versions](../Minecraft-Bedrock-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md).* 
+*This article applies to Minecraft: Java Edition only. Click [here for Minecraft Bedrock versions](../Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md).* 
 
 This article details everything you need to know about managing data and game storage in Minecraft: Java Edition.
 

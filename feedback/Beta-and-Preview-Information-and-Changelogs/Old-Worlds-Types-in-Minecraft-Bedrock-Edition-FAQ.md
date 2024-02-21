@@ -3,7 +3,7 @@ title: "Old Worlds Types in Minecraft: Bedrock Edition - FAQ "
 date: 2021-10-20T11:54:14Z
 updated: 2021-10-29T12:50:19Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4411688594317-Old-Worlds-Types-in-Minecraft-Bedrock-Edition-FAQ-
+link: https://feedback.minecraft.net/hc/en-us/articles/4411688594317-Old-Worlds-Types-in-Minecraft-Bedrock-Edition-FAQ
 ---
 
 * *

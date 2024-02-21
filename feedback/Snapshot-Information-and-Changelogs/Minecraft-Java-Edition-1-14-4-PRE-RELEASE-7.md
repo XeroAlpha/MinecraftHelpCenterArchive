@@ -4,6 +4,21 @@ date: 2019-07-10T13:07:29Z
 updated: 2019-07-18T14:52:44Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360030491732-Minecraft-Java-Edition-1-14-4-PRE-RELEASE-7
+hash:
+  changes-in-1.14.4-pre-release-7: changes-in-1144-pre-release-7
+  fixed-bugs-in-1.14.4-pre-release-7: fixed-bugs-in-1144-pre-release-7
+  changes-in-1.14.4-pre-release-6: changes-in-1144-pre-release-6
+  fixed-bugs-in-1.14.4-pre-release-6: fixed-bugs-in-1144-pre-release-6
+  changes-in-1.14.4-pre-release-5: changes-in-1144-pre-release-5
+  fixed-bugs-in-1.14.4-pre-release-5: fixed-bugs-in-1144-pre-release-5
+  changes-in-1.14.4-pre-release-4: changes-in-1144-pre-release-4
+  fixed-bugs-in-1.14.4-pre-release-4: fixed-bugs-in-1144-pre-release-4
+  changes-in-1.14.4-pre-release-3: changes-in-1144-pre-release-3
+  fixed-bugs-in-1.14.4-pre-release-3: fixed-bugs-in-1144-pre-release-3
+  changes-in-1.14.4-pre-release-2: changes-in-1144-pre-release-2
+  fixed-bugs-in-1.14.4-pre-release-2: fixed-bugs-in-1144-pre-release-2
+  changes-in-1.14.4-pre-release-1: changes-in-1144-pre-release-1
+  fixed-bugs-in-1.14.4-pre-release-1: fixed-bugs-in-1144-pre-release-1
 ---
 
 **Update: **Pre-Release 7 is now available and we intend for it to be the last pre-release for Minecraft 1.14.4. Please let us know on the [issue tracker](https://bugs.mojang.com/projects/MC/) if there are any major bugs.

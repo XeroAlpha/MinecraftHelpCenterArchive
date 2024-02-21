@@ -3,7 +3,7 @@ title: Minecraft - 1.20.41 (Bedrock)
 date: 2023-11-01T22:36:28Z
 updated: 2023-11-02T16:49:13Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/20938188181517-Minecraft-1-20-41-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/20938188181517-Minecraft-1-20-41-Bedrock
 ---
 
 **Posted:** November 2, 2023

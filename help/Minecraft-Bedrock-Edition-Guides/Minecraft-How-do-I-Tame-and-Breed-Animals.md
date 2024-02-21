@@ -20,7 +20,16 @@ tags:
   - platform_oculus
   - platform_pc
   - section_12618581961357
-link: https://help.minecraft.net/hc/en-us/articles/360046353891-Minecraft-How-do-I-Tame-and-Breed-Animals-
+link: https://help.minecraft.net/hc/en-us/articles/360046353891-Minecraft-How-do-I-Tame-and-Breed-Animals
+hash:
+  h_01HF4Z7ZRS7QQZZ445F04FD437: in-this-article
+  h_01HA574T5ZAVBGB6VJNJQC0WAM: taming
+  h_01HA57RX715YW2GKMTC988CGYG: wolf
+  h_01HA57T1S8ZSNGKHT632RPEQ3J: cat
+  h_01HA58VNF8TDGNJ45PBXM80JQE: horses-donkeys-and-mules
+  h_01HA59E6N660GH5E41CYJGDC4X: llamas
+  h_01HA59ECW92HYXS834H66GZYED: parrots
+  h_01HA574T5Z8PY6FZG5RSYJT9F9: breeding
 ---
 
 # In This Article:

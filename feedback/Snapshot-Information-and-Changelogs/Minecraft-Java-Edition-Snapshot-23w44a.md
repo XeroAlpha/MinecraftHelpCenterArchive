@@ -4,6 +4,17 @@ date: 2023-11-01T16:08:46Z
 updated: 2023-11-01T16:08:50Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20923516732301-Minecraft-Java-Edition-Snapshot-23w44a
+hash:
+  h_01HE5T8CA2KQGJMN15E89BRRGV: changes
+  h_01HE5T8CA3ZQQQ3Q1NQNGSD9SB: technical-changes
+  h_01HE5T8CA3CR29E5TKH7EGHMZ7: data-pack-version-23
+  h_01HE5T8CA3K8GNDNNTW0TN3GZ3: commands
+  h_01HE5T8CA3E831QK0XA8JM4ET7: tick
+  h_01HE5T8CA3EHN0EDX1G91RZGX5: return
+  h_01HE5T8CA3FJSGHFP6FS9GAJPB: function
+  h_01HE5T8CA3TGT5GJEEF95KMC58: execute-ifunless-function
+  h_01HE5T8CA3FK4PYNRK81JA15GB: fixed-bugs-in-snapshot-23w44a
+  h_01HE5T8CA3M0CPEVKS7YTNTN84: get-the-snapshot
 ---
 
 In this week's Snapshot we're taking a break from new features to improve ones we've already added, including fixes to Commands and the ability to use Loot Tables with Decorated Pots.

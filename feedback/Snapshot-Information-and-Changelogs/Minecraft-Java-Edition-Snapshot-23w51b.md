@@ -4,6 +4,21 @@ date: 2023-12-19T08:38:10Z
 updated: 2023-12-19T08:45:16Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/22483937701517-Minecraft-Java-Edition-Snapshot-23w51b
+hash:
+  h_01HJ0KYVRJJSVDKN0TDD6FHC99: bugs-fixed-in-23w51b
+  h_01HJ0KZE7Z0V1MCFFZP9HY956B: new-features
+  h_01HJ0KZE7ZSH1D8H8EHH3HVG97: armadillo
+  h_01HJ0KZE7ZG7NA6XYAP7ESYNWP: armadillo-rolling-up-behavior
+  h_01HJ0KZE7ZJP0HQRYEMC8J3QT0: armadillo-scutes
+  h_01HJ0KZE7Z0RN2VVHXRRGAHJ46: wolf-armor
+  h_01HJ0KZE7Z4YTY88MTV3R5RR1M: changes
+  h_01HJ0KZE7ZZ1F561C7TY8FCWK6: technical-changes
+  h_01HJ0KZE7ZJMWTTYTQFHD1MEKC: data-pack-27
+  h_01HJ0KZE7ZTA0QE73MD67GM6ZZ: experimental-features
+  h_01HJ0KZE7ZEWEHABJSVRGAS7XS: breeze
+  h_01HJ0KZE7ZAW65FWT5RVAJZVSA: trial-spawner
+  h_01HJ0KZE7Z9C73K5J754XTVXZS: fixed-bugs-in-23w51a
+  h_01HJ0KZE7Z1464SGNMGJA39K07: get-the-snapshot
 ---
 
 **Update: **Coming in hot, here is Snapshot 23w51b, fixing a crash in 23w51a.

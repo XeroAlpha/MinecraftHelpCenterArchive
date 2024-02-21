@@ -3,6 +3,9 @@ title: "Minecraft: Java Edition - 1.20.2 Pre-Release 3"
 date: 2023-09-12T13:13:24Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19413082653325-Minecraft-Java-Edition-1-20-2-Pre-Release-3
+hash:
+  h_01HA4RCB9RAM8S7AJ1TJPKB9RB: fixed-bugs-in-1202-pre-release-3
+  h_01HA4RCB9RMVANWWZM3MSBAJRQ: get-the-pre-release
 ---
 
 We are now releasing the third pre-release for 1.20.2. As we are now on the final stabilisation stretch of 1.20.2, this pre-release contains some bug and crash fixes.

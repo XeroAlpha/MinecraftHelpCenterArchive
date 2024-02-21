@@ -3,7 +3,10 @@ title: "Minecraft - Caves & Cliffs: Part 1 - 1.17 (Java) "
 date: 2021-06-08T15:06:08Z
 updated: 2021-06-14T20:02:38Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4402626897165-Minecraft-Caves-Cliffs-Part-1-1-17-Java-
+link: https://feedback.minecraft.net/hc/en-us/articles/4402626897165-Minecraft-Caves-Cliffs-Part-1-1-17-Java
+hash:
+  trade-loot-table-additions: trade--loot-table-additions
+  fixed-bugs-in-1.17: fixed-bugs-in-117
 ---
 
 It’s here. The Cave Update, with a side of cliffs. That’s right, The Caves & Cliffs Update: Part I is launching today!

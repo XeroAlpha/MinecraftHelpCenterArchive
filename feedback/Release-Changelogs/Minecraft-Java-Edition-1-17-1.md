@@ -4,6 +4,10 @@ date: 2021-07-06T15:31:39Z
 updated: 2021-10-15T13:05:21Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4404449719949-Minecraft-Java-Edition-1-17-1
+hash:
+  changes-in-1.17.1: changes-in-1171
+  technical-changes-in-1.17.1: technical-changes-in-1171
+  fixed-bugs-in-1.17.1: fixed-bugs-in-1171
 ---
 
 We’re now releasing Minecraft: Java Edition 1.17.1. This release changes some behaviours of the features added in Caves & Cliffs: Part I, and it also fixes a few bugs and critical issues.

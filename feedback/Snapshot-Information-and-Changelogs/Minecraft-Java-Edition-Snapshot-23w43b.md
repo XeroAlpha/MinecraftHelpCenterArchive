@@ -4,6 +4,9 @@ date: 2023-10-27T13:52:06Z
 updated: 2023-10-27T13:52:09Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20772271745933-Minecraft-Java-Edition-Snapshot-23w43b
+hash:
+  h_01HDRPFJVRRRA1KAB1H3VQJZGX: bug-fixes
+  h_01HDRPFJVRXWEB0KZYW3R978EQ: get-the-snapshot
 ---
 
 We're now releasing a second snapshot for the week to fix some crashes.

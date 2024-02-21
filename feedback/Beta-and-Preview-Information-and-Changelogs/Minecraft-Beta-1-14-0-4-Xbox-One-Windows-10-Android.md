@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.14.0.4 (Xbox One/Windows 10/Android)
 date: 2019-10-30T15:56:19Z
 updated: 2019-10-30T15:57:14Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360035697731-Minecraft-Beta-1-14-0-4-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360035697731-Minecraft-Beta-1-14-0-4-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta**:

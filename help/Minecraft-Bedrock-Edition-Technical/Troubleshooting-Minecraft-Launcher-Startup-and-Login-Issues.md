@@ -17,6 +17,12 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/23430310790413-Troubleshooting-Minecraft-Launcher-Startup-and-Login-Issues
+hash:
+  h_01HMSBNVJE5Q3RFENFGW4N87F8: in-this-article
+  h_01HMSBQY5PGYXHETE9XY27KSS4: how-do-i-switch-between-my-microsoft-accounts-to-play-my-games
+  h_01HMSBRZ6JBCHT8D20130TRAE3: i-cant-sign-in-to-my-launcher
+  h_01HMSBTA6G3PDNMAJWD5VS7MMX: launcher-wont-start-up-or-crashes-during-sign-in
+  h_01HMSBYEW5JGE1SVPFPNT5XWP1: my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time
 ---
 
 This page covers issues you may encounter with the Minecraft Launcher not starting or letting you login and access your games. For other Launcher issues, please visit the [Minecraft Launcher Troubleshooting Common Issues page](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).

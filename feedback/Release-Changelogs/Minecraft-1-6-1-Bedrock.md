@@ -3,7 +3,7 @@ title: Minecraft - 1.6.1 (Bedrock)
 date: 2018-09-10T22:53:14Z
 updated: 2018-09-17T15:43:21Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360015779511-Minecraft-1-6-1-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360015779511-Minecraft-1-6-1-Bedrock
 ---
 
 **Bedrock Dedicated Server Alpha Test: **

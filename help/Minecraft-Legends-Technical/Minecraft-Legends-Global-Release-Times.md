@@ -14,7 +14,7 @@ tags:
   - title_legends
   - platform_windows_11
   - section_12618077269261
-link: https://help.minecraft.net/hc/en-us/articles/14424604578317-Minecraft-Legends-Global-Release-Times-
+link: https://help.minecraft.net/hc/en-us/articles/14424604578317-Minecraft-Legends-Global-Release-Times
 ---
 
 This map details Minecraft Legends' global release times on April 18th, 2023. 

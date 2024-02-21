@@ -14,6 +14,9 @@ tags:
   - platform_pc
   - section_12617963662861
 link: https://help.minecraft.net/hc/en-us/articles/360035131531-MINECON-Capes-for-Minecraft-Java-Edition
+hash:
+  previous-years-capes: previousyearscapes
+  other-issues: otherissues
 ---
 
 MINECON is an annual fan festival celebrating Minecraft. In the past attendees have received an exclusive in-game cape for the Java Edition of Minecraft. Mojang cape redemption URLs are redeemed on the Mojang account that is currently logged in on your web browser. 

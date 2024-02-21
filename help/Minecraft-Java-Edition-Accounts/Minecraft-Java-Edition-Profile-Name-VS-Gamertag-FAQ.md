@@ -15,6 +15,20 @@ tags:
   - platform_PC
   - section_12617963662861
 link: https://help.minecraft.net/hc/en-us/articles/4408950195341-Minecraft-Java-Edition-Profile-Name-VS-Gamertag-FAQ
+hash:
+  h_01HADDPVJR0TAEWSD1BKQ6KTJ2: in-this-article
+  h_01GE5JW8MA37PGXEZNJA8PMNRC: gamertags
+  h_01GE5JWG2HCPKHCV3R7T7DMXQR: why-do-i-need-a-gamertag
+  h_01GE5JWN8T888EHWSWTXJ7BEXH: where-can-i-find-my-java-profile-name
+  h_01HADE0HQ3493D28BSC3NM023M: blobid2jpg
+  h_01GE5JWW0210X02JZN2FP9CREC: java-profile-names
+  h_01GE5JX1Z0CZ833A7S54Y195KV: what-are-the-requirements-for-creating-a-java-profile-name
+  h_01GE5JX8RMR61CZGRN8K51HSVS: can-i-change-my-java-profile-name
+  h_01GE5JXEMK5DFNYBPJ33XDZCT7: how-often-can-i-change-my-java-profile-name
+  h_01GE5JY2PEXT0KHEXRS7WMDG7H: after-i-changed-my-java-profile-name-i-got-the-error-message-not-authenticated-with-minecraftnet-what-should-i-do
+  h_01GE5JYA5JYJW5SARR2PZ6S1VT: how-to-log-out-and-log-back-in
+  h_01GE5K1C8BMP3WW41NB3WAJ4YW: if-i-ban-someone-on-my-server-and-they-change-their-java-profile-name-do-they-remain-banned
+  h_01GE5K1HVD1HV0SS4AHFNN58KH: is-there-java-profile-name-moderation-can-i-report-someone
 ---
 
 This article details everything you need to know about Minecraft: Java Edition profile name vs gamertags.

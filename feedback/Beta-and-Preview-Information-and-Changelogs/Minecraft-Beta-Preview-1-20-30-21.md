@@ -4,6 +4,25 @@ date: 2023-08-09T14:40:18Z
 updated: 2023-08-11T08:24:29Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/18365310423565-Minecraft-Beta-Preview-1-20-30-21
+hash:
+  01H7HV4NCAASD9EKVBE13TMZ8X: features-and-bug-fixes
+  01H7HV4NCBAWBG522QX1NY02KJ: audio
+  01H7HV4NCB5J59ZJ862ZXPWYBX: marketplace
+  01H7HV4NCBNAEJY4G46QAR34N2: gameplay
+  01H7HV4NCB7M4XFGW5VBX79730: village-raids
+  01H7HV4NCB4AX22NXE7MEBA6G1: vanilla-parity
+  01H7HV4NCB0RKR42S9XA0SJ8QD: user-interface
+  01H7HV4NCB51PA6WABQCTN4GP2: structures
+  01H7HV4NCB5Y0CYC37CK1ZFZ1G: sculk-vibrations
+  01H7HV4NCBQ2KVMWWT55WS0D9M: technical-updates
+  01H7HV4NCBSAHM77TYMC12VWQH: graphics
+  01H7HV4NCBZB44QMQNWW111DTN: editor
+  01H7HV4NCBGR4MX33HQPM221G4: stability-and-performance
+  01H7HV4NCBTV72CR7BAEAKK5W3: experimental-technical-features
+  01H7HV4NCBFEPF2CBZCE73P36Z: api
+  01H7HV4NCBN1BHAE87183G3N0V: graphical
+  01H7HV4NCBG0J0RG3MESRFJPZ1: items
+  01H7HV4NCB72K9TDD66AC34QSC: scripting
 ---
 
 **Posted:** 9 August 2023

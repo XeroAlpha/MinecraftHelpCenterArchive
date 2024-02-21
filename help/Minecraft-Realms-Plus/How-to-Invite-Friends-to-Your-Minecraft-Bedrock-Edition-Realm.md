@@ -21,6 +21,11 @@ tags:
   - section_12618443219469
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/22471067820429-How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm
+hash:
+  h_01HHZD71T97PR81J622FHW1YE3: how-to-invite-friends-to-your-minecraft-bedrock-edition-realm
+  h_01HHZD71T92MCE9695EDMKFGFR: xbox-live-friends-list
+  h_01HHZD71T90FVQBW5DYM4RQ6CK: find-friends
+  h_01HHZD71T96W391E3CE3SCDKE1: share-link
 ---
 
 Once you’ve created your Minecraft: Bedrock Edition Realm, you’ll want to invite your friends to play along. This article details everything you need to know about inviting friends to your Minecraft: Bedrock Edition Realm.

@@ -4,6 +4,9 @@ date: 2019-09-18T15:13:40Z
 updated: 2019-09-19T19:14:51Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360033496792-Minecraft-Java-Edition-Snapshot-19W38B
+hash:
+  block-and-fluid: blockandfluid
+  time_check-condition: time_checkcondition
 ---
 
 19 September 2019

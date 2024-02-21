@@ -4,6 +4,10 @@ date: 2019-12-10T17:30:59Z
 updated: 2019-12-10T17:31:18Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360037384972-Minecraft-Java-Edition-Buzzy-Bees
+hash:
+  bee-nests-beehives: bee-nests--beehives
+  block-and-fluid: blockandfluid
+  time_check-condition: time_checkcondition
 ---
 
 10 December 2019

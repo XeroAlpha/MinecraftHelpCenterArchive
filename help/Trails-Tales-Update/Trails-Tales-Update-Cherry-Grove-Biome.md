@@ -26,7 +26,7 @@ tags:
   - platform_chromebook
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/16476035452941-Trails-Tales-Update-Cherry-Grove-Biome-
+link: https://help.minecraft.net/hc/en-us/articles/16476035452941-Trails-Tales-Update-Cherry-Grove-Biome
 ---
 
 This beautiful new biome brings a pink tint to the trees of Minecraft. Discover the cherry grove biome for a peaceful change of scenery.

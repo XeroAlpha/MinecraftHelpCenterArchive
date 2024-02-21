@@ -3,7 +3,7 @@ title: Minecraft - 1.13.3 (iOS Only)
 date: 2019-11-20T16:53:46Z
 updated: 2019-11-20T16:58:01Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360036461291-Minecraft-1-13-3-iOS-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360036461291-Minecraft-1-13-3-iOS-Only
 ---
 
 **Posted: **November 20, 2019

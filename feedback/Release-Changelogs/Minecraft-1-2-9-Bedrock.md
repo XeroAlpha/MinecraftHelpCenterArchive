@@ -7,7 +7,7 @@ tags:
   - bedrock_release
   - 1.2.9
   - release_changelog
-link: https://feedback.minecraft.net/hc/en-us/articles/360004127072-Minecraft-1-2-9-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004127072-Minecraft-1-2-9-Bedrock
 ---
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.

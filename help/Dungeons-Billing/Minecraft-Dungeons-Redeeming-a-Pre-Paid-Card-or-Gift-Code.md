@@ -6,6 +6,8 @@ categories: Dungeons Billing
 tags:
   - section_12618268841485
 link: https://help.minecraft.net/hc/en-us/articles/360046911212-Minecraft-Dungeons-Redeeming-a-Pre-Paid-Card-or-Gift-Code
+hash:
+  redeeming-minecraft-dungeons-on-pc-launcher-version: redeeming-minecraft-dungeons-onpc-launcher-version
 ---
 
 *This article applies only to Minecraft Dungeons pre-paid cards and gift codes. For information about redeeming other Minecraft gift codes, see *[Minecraft Pre-Paid Codes](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md)*.* 

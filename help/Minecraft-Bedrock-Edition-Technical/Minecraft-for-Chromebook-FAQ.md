@@ -10,6 +10,17 @@ tags:
   - section_12617893243277
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/13803752803725-Minecraft-for-Chromebook-FAQ
+hash:
+  h_01HPSN1J9DT6ENP0ZJETD2VGAM: whats-in-the-chromebook-version-of-minecraft
+  h_01HPSN1J9E0B2F0A3YR4ERV3YS: chromebook-system-requirements
+  h_01HPSN1J9ENYJAC0T8BNG3VNG1: minimum-requirements
+  h_01HPSN1J9EZPVHQ6PNT0KT58WT: recommended-requirements
+  h_01HPSN1J9EM4QHR4WKKC488A6Q: will-existing-worlds-transfer-to-minecraft-for-chromebook
+  h_01HPSN1J9EZF4GEARVF6BQ2SP5: will-a-previous-purchase-of-minecraft-transfer-to-my-chromebook
+  h_01HPSN1J9EMV57MRWPVN3ZVZXT: do-i-need-a-microsoft-account-to-play-minecraft-on-chromebook
+  h_01HPSN1J9E2TRY8RBEHABKQ803: i-had-a-trial-for-minecraft-when-will-my-worlds-transfer
+  h_01HPSN1J9EBTN6WVS1GR0289KQ: how-to-report-bugs
+  h_01HPSN1J9E2ZXR4RRP1ET6J5D0: refunds
 ---
 
 Minecraft: Bedrock Edition is on Chromebook! Read this article for more information on which devices can support Minecraft: Bedrock Edition, how to acquire Minecraft for Chromebook, and more.

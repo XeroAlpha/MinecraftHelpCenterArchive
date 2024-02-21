@@ -7,7 +7,7 @@ tags:
   - 1.2.15
   - release_changelog
   - ios
-link: https://feedback.minecraft.net/hc/en-us/articles/360004167231-Minecraft-1-2-15-iOS-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004167231-Minecraft-1-2-15-iOS-Only
 ---
 
 This update was released only on iOS devices. It is still multiplayer compatible with other devices running version 1.2.13.  

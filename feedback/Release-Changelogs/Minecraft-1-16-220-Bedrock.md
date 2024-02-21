@@ -3,7 +3,7 @@ title: Minecraft - 1.16.220 (Bedrock)
 date: 2021-04-05T18:44:21Z
 updated: 2021-04-06T15:45:41Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360059426071-Minecraft-1-16-220-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360059426071-Minecraft-1-16-220-Bedrock
 ---
 
 **Posted: **April 6, 2021

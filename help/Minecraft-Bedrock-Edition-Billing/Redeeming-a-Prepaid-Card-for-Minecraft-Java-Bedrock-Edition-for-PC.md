@@ -15,6 +15,8 @@ tags:
   - section_12617899093133
   - section_12618006481549
 link: https://help.minecraft.net/hc/en-us/articles/5846082805645-Redeeming-a-Prepaid-Card-for-Minecraft-Java-Bedrock-Edition-for-PC
+hash:
+  redeeming-minecraft-java-bedrock-edition-on-pc-launcher-version: redeeming-minecraft-java--bedrock-edition-on-pc-launcher-version
 ---
 
 *This article applies only to Minecraft: Java and Bedrock Edition for PC pre-paid cards and gift codes. For information about redeeming other Minecraft gift codes, see *[Minecraft Pre-Paid Codes](./Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md)*.*

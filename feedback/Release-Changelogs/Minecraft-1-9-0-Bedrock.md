@@ -7,7 +7,7 @@ tags:
   - release_changelog
   - 1.9.0
   - bedrock
-link: https://feedback.minecraft.net/hc/en-us/articles/360021523671-Minecraft-1-9-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360021523671-Minecraft-1-9-0-Bedrock
 ---
 
 **New Features:**

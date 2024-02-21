@@ -4,6 +4,9 @@ date: 2022-02-10T08:14:32Z
 updated: 2022-02-10T08:14:53Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4424961893389-Minecraft-Java-Edition-Snapshot-22w06a
+hash:
+  changes-in-22w06a: changes-in22w06a
+  technical-changes-in-22w06a: technical-changes-in22w06a
 ---
 
 Today we're happy to share snapshot 22w06a with you. It contains compliance updates for South Korean players and is Totally Teeming with Technical Tag Tastiness.

@@ -31,7 +31,7 @@ If you and your friend are playing on the same console, you can add each other t
 4.  Enter your friends gamertag (their Microsoft account username) to add them as a friend
 5.  Once added, any joinable world that they are playing in will show up in the **Friends** tab
 
-If the world is not showing up, have the world owner go into their world settings. In the **Multiplayer tab**, make sure that **Multiplayer Game** is turned on (toggled to the right). For more troubleshooting, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](./Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+If the world is not showing up, have the world owner go into their world settings. In the **Multiplayer tab**, make sure that **Multiplayer Game** is turned on (toggled to the right). For more troubleshooting, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](./Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues.md)
 
 **Note:** if you are playing Minecraft multiplayer on a console, you must be subscribed to either Xbox Game Pass Core, Nintendo Switch Online, or PlayStation Plus to be able to play with friends.
 

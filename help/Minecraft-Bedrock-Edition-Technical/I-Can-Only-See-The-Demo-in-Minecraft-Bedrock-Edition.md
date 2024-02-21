@@ -14,6 +14,10 @@ tags:
   - platform_xbox_series_x/s
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition
+hash:
+  h_01HNK973H32VZPZGK93EZ7XV7P: in-this-article
+  h_01GPBWGC8PQ9NWZZEAN4F6X3A5: what-is-the-demo-in-minecraft-bedrock-edition
+  h_01GPBWFBG5XE45VWEEPGBACE6Y: i-can-only-play-demo-mode-in-minecraft-bedrock-edition
 ---
 
 If you're trying to play Minecraft: Bedrock Edition and only have access to the 'demo' or 'trial' for the game, this article is for you.

@@ -5,7 +5,7 @@ updated: 2020-09-01T16:14:54Z
 categories: Beta and Preview Information and Changelogs
 tags:
   - beta
-link: https://feedback.minecraft.net/hc/en-us/articles/360048469152-Minecraft-with-RTX-Beta-1-16-30-52-Windows-10-
+link: https://feedback.minecraft.net/hc/en-us/articles/360048469152-Minecraft-with-RTX-Beta-1-16-30-52-Windows-10
 ---
 
 **Posted:** 1 September 2020

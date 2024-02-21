@@ -10,7 +10,7 @@ tags:
   - "060619"
   - xbox one
   - windows 10
-link: https://feedback.minecraft.net/hc/en-us/articles/360028906632-Minecraft-Beta-1-12-0-10-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360028906632-Minecraft-Beta-1-12-0-10-Xbox-One-Windows-10-Android
 ---
 
 Posted: June 6, 2019

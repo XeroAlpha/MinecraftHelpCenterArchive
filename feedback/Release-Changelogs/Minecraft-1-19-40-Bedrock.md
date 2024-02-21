@@ -3,7 +3,7 @@ title: Minecraft - 1.19.40 (Bedrock)
 date: 2022-10-24T16:09:12Z
 updated: 2022-10-25T16:27:53Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/10108618123405-Minecraft-1-19-40-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/10108618123405-Minecraft-1-19-40-Bedrock
 ---
 
 A new update is available for Minecraft, bringing a variety of gameplay improvements, vanilla parity changes, and bug fixes.

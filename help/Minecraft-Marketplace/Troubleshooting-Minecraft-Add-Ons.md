@@ -7,6 +7,16 @@ tags:
   - section_24069904400141
   - Add-Ons
 link: https://help.minecraft.net/hc/en-us/articles/24120973871501-Troubleshooting-Minecraft-Add-Ons
+hash:
+  h_01HPMW2G9TMEAQ18R46X5CP8AG: making-a-backup
+  h_01HPMW2G9T0ZMW4TJCKHXR30VE: finding-a-missing-add-on
+  h_01HPMW9T5CVT678T82748WMNMT: sideload-add-ons-from-third-party-websites-or-apps
+  h_01HPMW2G9TNNWZGE03E1BV416A: stacking-multiple-add-ons
+  h_01HPMW2G9TW2T91JHJHBYDGYWP: using-add-ons-on-other-content-from-the-marketplace
+  h_01HPMW2G9THH9BFBQHP1V03MJC: reporting-bugs
+  h_01HPMW713ZBEGJMBWQA88EWDYG: ""
+  h_01HPMW713ZJA0Z2G5DSG0JWXAN: "-1"
+  h_01HPMW2G9TSW2VZTACANDG92Y7: related-articles
 ---
 
 Always restart your Minecraft client if experiencing Add-Ons crashing or failing to load.

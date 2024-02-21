@@ -4,6 +4,14 @@ date: 2023-03-01T15:18:52Z
 updated: 2023-03-01T15:18:55Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/13572953374349-Minecraft-Java-Edition-1-19-4-Pre-Release-3
+hash:
+  changes-in-1.19.4-pre-release-3: changes-in-1194-pre-release-3
+  technical-changes-in-1.19.4-pre-release-3: technical-changes-in-1194-pre-release-3
+  experimental-feature-changes-in-1.19.4-pre-release-3: experimental-feature-changes-in-1194-pre-release-3
+  fixed-bugs-in-1.19.4-pre-release-3: fixed-bugs-in-1194-pre-release-3
+  technical-changes-in-1.19.4-pre-release-2: technical-changes-in-1194-pre-release-2
+  changes-for-experimental-features-in-1.19.4-pre-release-2: changes-for-experimental-features-in-1194-pre-release-2
+  fixed-bugs-in-1.19.4-pre-release-2: fixed-bugs-in-1194-pre-release-2
 ---
 
 We've now released 1.19.4 pre-release 3.

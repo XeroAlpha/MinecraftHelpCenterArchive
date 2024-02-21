@@ -7,7 +7,7 @@ tags:
   - bedrock_release
   - release_changelog
   - 1.4.2
-link: https://feedback.minecraft.net/hc/en-us/articles/360004235051-Minecraft-1-4-2-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004235051-Minecraft-1-4-2-Bedrock
 ---
 
 **Fixes:**

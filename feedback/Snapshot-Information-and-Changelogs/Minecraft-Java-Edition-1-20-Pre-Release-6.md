@@ -4,6 +4,9 @@ date: 2023-05-25T16:09:16Z
 updated: 2023-05-25T16:09:20Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/16127775677965-Minecraft-Java-Edition-1-20-Pre-Release-6
+hash:
+  technical-changes-in-1.20-pre-release-6: technical-changes-in-120-pre-release-6
+  fixed-bugs-in-1.20-pre-release-6: fixed-bugs-in-120-pre-release-6
 ---
 
 The sixth pre-release of the 1.20 update is here, yet again containing more bug fixes.

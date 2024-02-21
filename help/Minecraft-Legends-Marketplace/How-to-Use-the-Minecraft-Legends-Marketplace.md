@@ -8,6 +8,11 @@ tags:
   - title_legends
   - section_14970444349069
 link: https://help.minecraft.net/hc/en-us/articles/14822163201549-How-to-Use-the-Minecraft-Legends-Marketplace
+hash:
+  h_01HB6VCYZZ9M7AAXAF46WNA36V: purchasing-minecoins
+  h_01HB6VCYZZDNW0HE3MYG1HP986: navigating-the-marketplace
+  h_01HB6VCYZZ6WTKV8GW67KHQJ36: downloading-content
+  h_01HB6VCYZZ7WW4NWXM5D06YYQ7: equipping-heroes-and-mount-skins
 ---
 
 *The Minecraft Marketplace is an in-game store for community-made and official creations that include skin and texture packs for your heroes and mounts, Lost Legends, and Myths. You can purchase these downloadable content (DLC) creations using Minecoins, which can be bought within the Minecraft Legends marketplace or the game store. Not all community-made content requires Minecoins; some packs and worlds can be downloaded for free.*

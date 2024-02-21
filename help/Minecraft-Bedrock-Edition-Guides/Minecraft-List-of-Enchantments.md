@@ -22,6 +22,12 @@ tags:
   - platform_pc
   - section_12618581961357
 link: https://help.minecraft.net/hc/en-us/articles/360058730912-Minecraft-List-of-Enchantments
+hash:
+  h_01HCN5XRYYCPHQS3EQDEFK2HPP: all-purpose
+  h_01HCN5XRYYGYS0WT5K1WK65WT6: armor
+  h_01HCN5XRYYF0DF7PVCMKEQVAKS: melee-weapons
+  h_01HCN5XRYY6S56KRNHTY5RPYH0: ranged-weapons
+  h_01HCN5XRYYRTZX4DPW4CGC02NM: tools
 ---
 
 Enchanting your tools can give your gear a huge boost or new abilities! Enchantments can be broken down into a few major groups based on what you are enchanting. Some are only available for armor while some are restricted to tools. Here we will break down what each enchantment can be applied to and a description of the effects. 

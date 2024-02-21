@@ -10,7 +10,7 @@ tags:
   - subject_how_to_play
   - platform_macos
   - section_12618019146893
-link: https://help.minecraft.net/hc/en-us/articles/4420326353933-Minecraft-Java-Edition-Versions-and-MacOS-
+link: https://help.minecraft.net/hc/en-us/articles/4420326353933-Minecraft-Java-Edition-Versions-and-MacOS
 ---
 
 If you're looking to play Minecraft: Java Edition on MacOS, this article can assist you.

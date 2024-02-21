@@ -3,7 +3,7 @@ title: "Minecraft: Java Edition - Snapshot 22w14a "
 date: 2022-04-06T16:02:46Z
 updated: 2022-09-16T16:33:41Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/5346567775885-Minecraft-Java-Edition-Snapshot-22w14a-
+link: https://feedback.minecraft.net/hc/en-us/articles/5346567775885-Minecraft-Java-Edition-Snapshot-22w14a
 ---
 
 Mangrove trees! Warm frogs! Mud blocks! More mangrove trees! Today, we’re happy to bring you the most mud-tastic Java snapshot to date! 

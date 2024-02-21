@@ -5,19 +5,10 @@ updated: 2024-01-11T18:11:48Z
 categories: Java Migration
 tags:
   - title_minecraft_java_edition
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
   - category_migration_support
   - subject_problems_migrating
   - subject_how_do_i_migrate
   - subject_when_can_i_migrate
-  - popular
-  - trending
-  - section_12617909134221
-  - section_12617963662861
-  - section_12618019146893
-  - new
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19615552270221-Post-Migration-Process-FAQ
 ---

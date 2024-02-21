@@ -3,7 +3,7 @@ title: Minecraft - 1.19.51 (Bedrock)
 date: 2022-12-12T21:59:04Z
 updated: 2022-12-14T18:46:39Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/11394437843341-Minecraft-1-19-51-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/11394437843341-Minecraft-1-19-51-Bedrock
 ---
 
 **Posted:** December 13, 2022

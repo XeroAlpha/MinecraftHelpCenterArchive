@@ -3,7 +3,7 @@ title: "Minecraft: Java Edition Snapshot - 22w17a "
 date: 2022-05-09T08:36:40Z
 updated: 2022-05-09T08:36:43Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6096035381773-Minecraft-Java-Edition-Snapshot-22w17a-
+link: https://feedback.minecraft.net/hc/en-us/articles/6096035381773-Minecraft-Java-Edition-Snapshot-22w17a
 ---
 
 Prepare to drop some sick bleats in the latest Minecraft: Java Edition snapshot! We're bringing in the sweet sounds of the goat horn. There are also some changes to the warden and the allay. 

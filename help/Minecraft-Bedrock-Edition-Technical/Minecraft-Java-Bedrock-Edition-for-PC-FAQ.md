@@ -16,6 +16,24 @@ tags:
   - section_12617963662861
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/6657208607501-Minecraft-Java-Bedrock-Edition-for-PC-FAQ
+hash:
+  01H84NWRZDMY7CBCQMXKRYNKS1: how-do-i-run-or-play-either-version-of-minecraft
+  01H84NWRZDBF6AFMZR0T7TBTAM: what-are-the-differences-between-minecraft-bedrock-edition-and-minecraft-java-edition
+  01H84NWRZDB3Y45FH614KVXKBS: minecraft-bedrock-edition
+  01H84NWRZDNCBPNHSC46G51WVR: minecraft-java-edition
+  01H84NWRZD8TXD4WBDZA8SKMCK: in-this-article
+  01H84NWRZD0D48V6FCY4CVG144: minecraft-java--bedrock-edition-for-pc-faq
+  h_01GB3FXGMQZ01AX0SZV9KP80C5: what-is-the-minecraft-java--bedrock-edition-for-pc-product
+  h_01GB3FXQCFY7CMCAF7HHKXSVM1: i-already-own-minecraft-bedrock-or-minecraft-java-edition-what-does-this-product-mean-for-me
+  h_01GB3FY3S0M0PR9QYFR0FJZNCX: i-already-own-both-minecraft-java-edition-and-minecraft-bedrock-edition-on-my-microsoft-account-what-does-this-change-mean-for-me
+  h_01GB3G4CC4GX50HBKJZXQ5T0ZE: i-already-own-both-versions-of-minecraft-but-on-different-microsoft-accounts-what-should-i-do
+  h_01GB3G57F4FT8RJHJ9GWQ3GC9F: i-dont-own-either-minecraft-version-but-i-play-both-on-game-pass-will-i-be-affected
+  h_01GB3G5ESBM7678NNAGTSEFBS2: i-have-been-playing-minecraft-java-edition-on-mac-or-linux-can-i-now-play-minecraft-bedrock-edition-as-well
+  h_01GB3G5VY33KTERRY15Y7Y12WQ: i-have-a-minecraft-java-edition-or-minecraft-bedrock-edition-code-or-gift-card-to-redeem-how-do-these-work-after-the-change
+  h_01GB3G63TQFJK7DG13AMTQ70KT: i-have-minecraft-bedrock-edition-on-switchmobileplaystationanother-platform-besides-pc-mac-or-linux-do-i-get-java-edition-for-free
+  h_01GB3G6CN3WE2VBRTT2FKY04EK: im-having-trouble-logging-into-or-accessing-minecraft-through-the-launcher
+  h_01GB3G6R1FJP8FSTJFJEQPE928: i-family-share-my-account-with-my-children-will-they-get-both-versions-of-minecraft
+  h_01GB3G6Y5X20QNMWES948D8G1M: can-a-child-account-buy-minecraft-java-and-bedrock-edition-with-funds-in-their-account
 ---
 
 We’ve been working on some big changes, and we’re excited to announce that [Minecraft: Java Edition](https://minecraft.net/download) and Minecraft: Bedrock Edition are now being sold as a single product! What does this mean for you? Well, if you’ve never bought Minecraft before, you can now get both Java and Bedrock for one low price, also called Minecraft: Java & Bedrock Edition for PC.
@@ -108,7 +126,7 @@ Minecraft: Java & Bedrock Edition for PC is only for the PC, Mac, and Linux plat
 
 ### I'm having trouble logging into or accessing Minecraft through the Launcher.
 
-If you're having trouble logging into or accessing Minecraft through the Minecraft Launcher, double-check to ensure you're logged in with the MSA that owns Minecraft: Java and Bedrock Edition for PC. For other Launcher log-in issues, check out our [Launcher troubleshooting guide](./Minecraft-Launcher-Troubleshooting-FAQ.md). For more login help, you can [contact Xbox Support](https://support.xbox.com/en-US/contact-us).
+If you're having trouble logging into or accessing Minecraft through the Minecraft Launcher, double-check to ensure you're logged in with the MSA that owns Minecraft: Java and Bedrock Edition for PC. For other Launcher log-in issues, check out our [Launcher troubleshooting guide](./Minecraft-Launcher-Troubleshooting-Common-Issues.md). For more login help, you can [contact Xbox Support](https://support.xbox.com/en-US/contact-us).
 
 ### I family-share my account with my children. Will they get both versions of Minecraft?
 

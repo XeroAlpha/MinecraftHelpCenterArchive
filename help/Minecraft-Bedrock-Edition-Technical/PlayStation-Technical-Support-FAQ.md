@@ -10,8 +10,87 @@ tags:
   - subject_sign_in_questions
   - platform_sony_playstation_4
   - subject_microsoft_sign_in_questions
+  - popular
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4409145073165-PlayStation-Technical-Support-FAQ
+hash:
+  01H8MPSSEHA6QYX6Y9SKM9RM5R: in-this-article
+  h_01FFG4RY64WR29D8JAMJH4AYRC: minecraft-bedrock-edition-and-playstation-versions
+  01H8MPSSEHEBJHF08JBF0SZ2D7: transfer-from-ps3-to-ps4vita
+  01H8MPSSEHNRF782F6GAY8C3FT: what-is-minecraft-bedrock-edition
+  01H8MPSSEH9KEN9NT1GVWPBKZK: how-is-this-version-different-than-the-one-i-already-own
+  01H8MPSSEH4W1476R52SJSV7JN: when-did-this-launch
+  01H8MPSSEHT0JT0JGWCXBK31P4: do-i-need-to-pay-a-subscription-fee-like-xbox-game-pass-core-to-play-online
+  01H8MPSSEJVE94CPMV4870HZZ6: i-already-own-a-minecraft-ps4-edition-how-do-i-get-the-current-version
+  01H8MPSSEJZ9P1XGH96PJTYEAQ: will-my-copy-ofminecraft-ps4-edition-go-away-do-i-have-to-use-the-new-one
+  h_01FFG4WGWYJ9D1JQPH6T2GWDWG: account-information
+  01H8MPSSEJCR03243W1R4SE4X9: whats-a-microsoft-account-and-why-do-i-need-it-for-ps4tm
+  01H8MPSSEJ4CWWTXE2YMEZ9W1Q: whatis-a-microsoft-account
+  01H8MPSSEJBY1RTC6MBEYGNN5R: linking-a-microsoft-account-to-a-playstation-account
+  01H8MPSSEJ178NRH7NWQH0ZC6T: i-have-a-microsoft-account-how-do-i-sign-in-on-my-ps4-or-ps5
+  01H8MPSSEJYBSNZ04YQSTWZ46D: sign-in-to-ps4-or-ps5-with-your-microsoft-account
+  01H8MPSSEJJ8SBT9K0V5YENDEB: how-do-i-find-my-friends-on-their-microsoft-accounts
+  01H8MPSSEJFPQX2C5YV4H75H6E: why-cant-i-find-my-friends-gamertag
+  01H8MPSSEJ3AP9HD7W1AND60PZ: how-many-microsoft-accounts-can-you-tie-to-your-playstationtm-network-account
+  01H8MPSSEJH6FFC8A87AYVCR34: what-happens-when-i-unlink-my-microsoft-account
+  01H8MPSSEJZQXDFQVF0F6N1EVJ: why-cant-i-connect-accounts
+  h_01FFG4X85BZ1GCW5VGQY8PX0XG: login-and-lag-issues
+  01H8MPSSEJJ8HP5C0ANHYHN948: failed-to-loginscenario-one
+  01H8MPSSEJYBN4Y13K29F0QX4Z: failed-to-loginscenario-two
+  01H8MPSSEJXB7EVZNY0E9NRV5H: issues-with-lagging-or-crashing-for-playstation-4tmor-ps5
+  01H8MPSSEJTAAGVB6ERQ48A889: you-are-out-of-local-data-storage-issue
+  h_01FFG4XY7K1J9ZR6DMK6T0CCK7: gameplay
+  01H8MPSSEJPP32P765PT2QG580: do-my-existing-worlds-transfer
+  01H8MPSSEJ2PNZR8N9CSGYBR2H: how-do-i-transfer-existing-worlds
+  01H8MPSSEJ7YB4RTCD3FZH2QHS: transfer-existing-worlds-fromminecraftps4editiontominecraft
+  01H8MPVTK3PWYNYDGXSKZZ6TZ4: copying-a-world-save-from-playstation-to-usb
+  01H8MPSSEJKXZWJ1ZW1NDCH1P4: cloud-savesbackups
+  01H8MPSSEJT5PPPNMRRVA4GR5Z: how-big-are-worlds-in-minecraft-for-ps4
+  01H8MPSSEJ0Y8ZHNP7JE43PMG4: im-playing-in-a-world-that-was-transferred-from-the-previous-version-are-there-limitations-on-world-size
+  01H8MPSSEJ73QEDE32R8W8BQXD: can-i-connect-to-a-custom-server-not-in-the-server-list
+  01H8MPSSEJYZYEADS6AZA3V41Y: i-have-a-custom-skin-on-another-minecraft-bedrock-edition-platform-can-i-use-it-on-a-ps4-or-ps5
+  h_01FFG4YXR6GEKKYDBSRQXMGCBY: minecraft-for-psvr
+  01H8MPSSEJVVY87Q250EJ4WSHY: does-minecraft-bedrock-edition-support-playstationvr
+  01H8MPSSEJVWVQPXPQ3SHZKRKP: how-do-i-get-minecraft-bedrock-edition-for-playstation-vr
+  01H8MPSSEJ8K3RJXQVAA9366AZ: can-i-play-in-vr-with-other-players-that-are-not-in-vr
+  01H8MPSSEJ6QEDXPMXYF95D1ZB: is-minecraft-store-content-such-as-worlds-and-texture-packs-playable-in-vr
+  01H8MPSSEJT09VF7D7J3GWQBZQ: can-you-explain-the-different-settings
+  01H8MPSSEJ6KG1RJBRX62JC6D0: living-room-mode
+  01H8MPSSEK1PF9A27P8C04DECS: immersive-mode
+  01H8MPSSEKDEEJNW04MW8FD43R: center-cursor
+  01H8MPSSEKRJ497DMJT235525Z: camera-movement
+  01H8MPSSEK2Q6FD00AEE58YFF5: snap-angle
+  01H8MPSSEKNE6RNKDRFMRKH2M1: variable-snap-angle
+  01H8MPSSEK3CDRMVB01W4VMY4X: snap-sound
+  01H8MPSSEKBRZG9VYYAJJWPN27: movement
+  01H8MPSSEK81P7KRD8FAEA6YME: jump
+  01H8MPSSEK7MPTMF5ADS339E7G: immersive-mode-auto-jump
+  01H8MPSSEKEP4N6C9X6C714GKS: head-steering
+  01H8MPSSEKW90VCMM9H7VS3518: sticky-mining
+  01H8MPSSEK8J5QVGQQNP3F98K6: hud-position
+  01H8MPSSEKF9EAC7TEYAESPKEQ: hud-distance
+  01H8MPSSEKTJF49T8JZMHK9MV4: what-are-the-differences-between-living-room-mode-and-immersive-mode
+  01H8MPSSEKMHYKGNJA01NA26ND: how-do-i-toggle-between-immersive-mode-and-living-room-mode
+  01H8MPSSEK3GZ45VHE6N35QYXA: toggle-between-immersive-and-living-room-modes
+  01H8MPSSEKPZB4K7VBG1WV6AEG: reset-toggling-between-modes
+  01H8MPSSEKCKH5GEJJAVJB24P4: are-playstation-move-controllers-supported
+  01H8MPSSEKFYJMVMA7EKQJD600: what-settings-can-be-adjusted-to-customize-the-vr-experience
+  01H8MPSSEKE1BHER262RNQS9VS: where-can-i-get-more-help
+  01H8MPSSEK3Y9VDYJ0JGV5REWC: does-minecraft-bedrock-edition-on-playstation-have-the-new-render-dragon-graphics-engine-for-bedrock
+  01H8MPSSEKHE95QRDPZQW98CKB: how-do-i-play-split-screen-without-a-playstation-plus-subscription
+  01H8MPSSEK5PCCW9A52AKYSYJ3: i-see-a-message-that-i-dont-have-enough-storage-to-play-minecraft-bedrock-edition-on-playstation-4-what-should-i-do
+  h_01FFG512GCAXPDHDXAS07ESP92: downloadable-content-minecraft-store-and-more
+  01H8MPSSEK67ZQJYBTS4TAXJ4E: will-downloadable-content-i-own-transfer-over-to-the-new-version-of-minecraft
+  01H8MPSSEKFQYMRKVNNCFWPWJY: what-is-the-minecraft-store
+  01H8MPSSEKSVPX8GYY0CF3SB21: what-are-tokens
+  01H8MPSSEMEQ3SF0MXTM21CTGJ: can-i-use-my-minecoins-on-ps4-and-ps5
+  01H8MPSSEMHPMFCRH5Y4R0SPMZ: how-do-i-link-my-previous-purchased-on-other-minecraft-bedrock-editions-to-my-ps4-or-ps5-game
+  01H8MPSSEM4S9S5JRTNN0BS9PR: i-own-minecraft-ps4-edition-and-ive-bought-previous-downloadable-content-how-do-i-get-it-to-sync-to-minecraft-bedrock-edition
+  01H8MPSSEMS03FCNWKBGRQWHG6: does-minecraft-for-ps4-and-ps5-support-mouse-and-keyboard-input
+  01H8MPSSEMMWBNSPVRJDY9C51F: will-you-be-running-beta-versions-in-minecraft-for-ps4-and-ps5
+  01H8MPSSEMFY7PHJSRVHH6N0YG: can-players-unlock-xbox-achievements-in-minecraft-for-ps4-and-ps5
+  01H8MPSSEM19NQ6JSG858K1CJK: if-i-download-the-update-can-i-revert-to-the-prior-update
+  01H8MPSSEMYYY9XT7PF1B0H976: does-the-update-reset-your-trophies
 ---
 
 This article details PlayStation technical support and information that can help you with any PlayStation technical issues.

@@ -3,7 +3,7 @@ title: Minecraft - 1.20.14 (PlayStation Only)
 date: 2023-08-07T17:59:57Z
 updated: 2023-08-16T16:26:52Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/18301047429901-Minecraft-1-20-14-PlayStation-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/18301047429901-Minecraft-1-20-14-PlayStation-Only
 ---
 
 **Posted:** August 8, 2023

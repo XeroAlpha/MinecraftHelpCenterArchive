@@ -4,6 +4,35 @@ date: 2023-11-02T14:03:35Z
 updated: 2023-11-02T14:06:34Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20951835532429-Minecraft-Beta-Preview-1-20-50-23
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  h_01HE85M0Y1GG8MA5GX4471FFXR: experimental-features
+  h_01HE85M0Y1N0QYQX2VKCRK98KZ: chiseled-copper
+  h_01HE85M0Y1473TX4VC0CGDJW1G: crafter
+  h_01HE85M0Y14ZR714YNCN8X1SKT: tuff-blocks
+  h_01HE85M0Y1495R4MGGGSFWF520: waxed-chiseled-copper
+  h_01HE85M0Y106N80MDHKN839627: waxed-copper-doors
+  h_01HE85M0Y15XYGM080BTESSH8R: waxed-copper-grates
+  h_01HE85M0Y1TB6XT8QX7YFC0WYJ: waxed-copper-trapdoors
+  h_01HE85M0Y1E4TTGG28D2C50X6G: textures
+  h_01HE85M0Y1WVREWWDZ4YMBF9XM: features-and-bug-fixes
+  h_01HE85M0Y1MFSY97A93N7K7NNP: blocks
+  h_01HE85M0Y1HVYKRHM95J2TFNXQ: crafting-and-inventory-screen
+  h_01HE85M0Y19ZHQ26WVK9N2XH7Z: gameplay
+  h_01HE85M0Y1ZHDVMSQCKNXMPTX9: general
+  h_01HE85M0Y17K5JHERR3H1EJBVF: graphical
+  h_01HE85M0Y1FDEF4YV9AG6GP1D1: marketplace
+  h_01HE85M0Y106XPFS07WDSD6FV9: mobs
+  h_01HE85M0Y1708ZKTFQHK1WHCHH: molang
+  h_01HE85M0Y1CAK09V3AMWW4E10T: character-creator
+  h_01HE85M0Y16TM3ZJEEMAN7DYCM: realms
+  h_01HE85M0Y1QV319FWG2PP187HV: user-interface
+  h_01HE85M0Y1NBKX1XGR6VM8XP4Y: technical-updates
+  h_01HE85M0Y1N6KQ2VTZEBZYPD5D: api
+  h_01HE85M0Y1SE39EE96MCJ0FRHT: items
+  h_01HE85M0Y1Y90M2ZH6FN4EJ836: experimental-technical-features
+  h_01HE85M0Y1QXER83Q411308TXT: api-1
+  h_01HE85M0Y2BH6DBXWK1R45DRRX: gametest
 ---
 
 **Posted:** 2 November 2023

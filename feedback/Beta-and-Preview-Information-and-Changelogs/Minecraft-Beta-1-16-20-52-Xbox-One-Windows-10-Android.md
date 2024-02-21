@@ -5,7 +5,7 @@ updated: 2020-07-13T15:55:05Z
 categories: Beta and Preview Information and Changelogs
 tags:
   - beta
-link: https://feedback.minecraft.net/hc/en-us/articles/360045710751-Minecraft-Beta-1-16-20-52-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360045710751-Minecraft-Beta-1-16-20-52-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

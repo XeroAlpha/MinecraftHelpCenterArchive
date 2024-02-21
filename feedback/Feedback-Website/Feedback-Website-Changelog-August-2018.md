@@ -3,7 +3,7 @@ title: Feedback Website Changelog (August 2018)
 date: 2018-08-20T16:41:56Z
 updated: 2018-08-23T22:25:07Z
 categories: Feedback Website
-link: https://feedback.minecraft.net/hc/en-us/articles/360013989071-Feedback-Website-Changelog-August-2018-
+link: https://feedback.minecraft.net/hc/en-us/articles/360013989071-Feedback-Website-Changelog-August-2018
 ---
 
 **What's New (23 August)**

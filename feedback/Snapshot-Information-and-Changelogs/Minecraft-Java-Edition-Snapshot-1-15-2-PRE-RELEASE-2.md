@@ -4,6 +4,11 @@ date: 2020-01-15T18:47:27Z
 updated: 2020-01-16T15:18:04Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360038856031-Minecraft-Java-Edition-Snapshot-1-15-2-PRE-RELEASE-2
+hash:
+  changes-in-1.15.2-pre-release-2: changes-in-1152-pre-release-2
+  fixed-bugs-in-1.15.2-pre-release-2: fixed-bugs-in-1152-pre-release-2
+  changes-in-1.15.2-pre-release-1: changes-in-1152-pre-release-1
+  fixed-bugs-in-1.15.2-pre-release-1: fixed-bugs-in-1152-pre-release-1
 ---
 
 # CHANGES IN 1.15.2 PRE-RELEASE 2

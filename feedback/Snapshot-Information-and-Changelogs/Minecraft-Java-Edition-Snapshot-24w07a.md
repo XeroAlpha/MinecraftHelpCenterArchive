@@ -4,6 +4,15 @@ date: 2024-02-14T16:23:44Z
 updated: 2024-02-14T16:23:50Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24117322935565-Minecraft-Java-Edition-Snapshot-24w07a
+hash:
+  h_01HPM6W9BR91M9T5MKAM7PEBVQ: known-issues
+  h_01HPM6W9BRH149MYQZR6M2EWKT: experimental-features
+  h_01HPM6W9BRH5EQQKNM360TSHJ5: bogged
+  h_01HPM6W9BRTSGWB7W8P77WPVPE: changes
+  h_01HPM6W9BR0PPFSGERP3QXS3VN: technical-changes
+  h_01HPM6W9BRCVCCN1D7D92JA63W: data-pack-version-32
+  h_01HPM6W9BRSBR8240SRKAFGSSY: fixed-bugs-in-24w07a
+  h_01HPM6W9BRFCQ21X0PZN9PXFVJ: get-the-snapshot
 ---
 
 We are now releasing 24w07a, containing bug fixes and a new skeleton variant called Bogged.

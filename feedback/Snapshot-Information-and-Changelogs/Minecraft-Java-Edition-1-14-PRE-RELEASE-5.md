@@ -10,6 +10,17 @@ tags:
   - 1.14 PRE-4
   - 1.14 PRE-5
 link: https://feedback.minecraft.net/hc/en-us/articles/360026407492-Minecraft-Java-Edition-1-14-PRE-RELEASE-5
+hash:
+  changes-in-1.14-pre-release-5: changes-in-114-pre-release-5
+  fixed-bugs-in-1.14-pre-release-5: fixed-bugs-in-114-pre-release-5
+  changes-in-1.14-pre-release-4: changes-in-114-pre-release-4
+  fixed-bugs-in-1.14-pre-release-4: fixed-bugs-in-114-pre-release-4
+  changes-in-1.14-pre-release-3: changes-in-114-pre-release-3
+  fixed-bugs-in-1.14-pre-release-3: fixed-bugs-in-114-pre-release-3
+  changes-in-1.14-pre-release-2: changes-in-114-pre-release-2
+  fixed-bugs-in-1.14-pre-release-2: fixed-bugs-in-114-pre-release-2
+  changes-in-1.14-pre-release-1: changes-in-114-pre-release-1
+  fixed-bugs-in-1.14-pre-release-1: fixed-bugs-in-114-pre-release-1
 ---
 
 **19 April 2019**

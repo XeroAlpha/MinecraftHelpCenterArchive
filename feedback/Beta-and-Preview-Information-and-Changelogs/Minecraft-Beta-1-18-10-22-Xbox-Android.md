@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.18.10.22 (Xbox / Android)
 date: 2021-12-09T15:59:09Z
 updated: 2021-12-09T21:37:57Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4416062048397-Minecraft-Beta-1-18-10-22-Xbox-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4416062048397-Minecraft-Beta-1-18-10-22-Xbox-Android
 ---
 
 **Posted:** 9 December 2021

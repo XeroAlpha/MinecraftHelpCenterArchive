@@ -3,7 +3,10 @@ title: "Minecraft: Java Edition - 1.17.1 Release Candidate 1 "
 date: 2021-07-01T16:39:52Z
 updated: 2021-07-05T15:33:31Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4404167880717-Minecraft-Java-Edition-1-17-1-Release-Candidate-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/4404167880717-Minecraft-Java-Edition-1-17-1-Release-Candidate-1
+hash:
+  the-caves-cliffs-preview: the-caves--cliffs-preview
+  fixed-bugs-in-1.17-release-candidate-1: fixed-bugs-in-117-release-candidate-1
 ---
 
 A first and hopefully only Release Candidate for Minecraft: Java Edition 1.17.1 is now available in the launcher, fixing a few more crashes and bugs. If nothing critical is found, we expect this to be released as the full version of 1.17.1 on Tuesday, July 6th.

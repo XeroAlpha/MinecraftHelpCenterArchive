@@ -16,6 +16,13 @@ tags:
   - platform_PC
   - section_12618340057613
 link: https://help.minecraft.net/hc/en-us/articles/360043504492-Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes
+hash:
+  h_01FANRWT26AY1R5H25QXP2F0VS: cloud-saving
+  h_01FANRXBTCCFGNTVSR9YHTBW3N: upload-heroes
+  h_01FANRXGYA9C05HZW6HRMG6W8Y: download-heroes
+  h_01FANRXQ178YKPZRGJW890FH6J: deleteheroes-from-cloud-saves
+  h_01FANRXVRE7H4VYPBRFWJTSPYG: manually-back-up-characters-on-pc
+  h_01FANRY27XG4VPJFE38V9CEGVN: local-saved-data-cloud-saves-on-consoles
 ---
 
 **In This Article** 

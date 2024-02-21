@@ -9,7 +9,7 @@ tags:
   - windows_10
   - android
   - 1.5.01
-link: https://feedback.minecraft.net/hc/en-us/articles/360004124692-Minecraft-Beta-1-5-0-1-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004124692-Minecraft-Beta-1-5-0-1-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.19.3 Pre-Release 3 "
 date: 2022-11-29T16:09:08Z
 updated: 2022-11-29T16:09:11Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/10996846049421-Minecraft-Java-Edition-1-19-3-Pre-Release-3-
+link: https://feedback.minecraft.net/hc/en-us/articles/10996846049421-Minecraft-Java-Edition-1-19-3-Pre-Release-3
+hash:
+  fixed-bugs-in-1.19.3-pre-release-3: fixed-bugs-in-1193-pre-release-3
 ---
 
 We're now releasing pre-release 3 for Minecraft 1.19.3 with more bug fixes. Happy mining!

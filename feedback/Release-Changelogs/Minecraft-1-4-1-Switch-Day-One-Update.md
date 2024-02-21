@@ -8,7 +8,7 @@ tags:
   - release_changelog
   - 1.4.1
   - switch
-link: https://feedback.minecraft.net/hc/en-us/articles/360005021491-Minecraft-1-4-1-Switch-Day-One-Update-
+link: https://feedback.minecraft.net/hc/en-us/articles/360005021491-Minecraft-1-4-1-Switch-Day-One-Update
 ---
 
 Minecraft is now available on the Nintendo Switch! Utilizing the Bedrock Engine, players can now experience great features like cross-platform play with other devices. For those who purchase the game on cartridge, a day one update is available that introduces Update Aquatic Phase One and stability improvements. Connect your Nintendo Switch to the internet to receive the update. This update is multiplayer compatible with other devices running Minecraft 1.4. Check out the [Minecraft for Nintendo Switch FAQ](../Frequently-Asked-Questions/Minecraft-for-Nintendo-Switch-Bedrock.md) article for more information.  

@@ -3,7 +3,7 @@ title: Minecraft - 1.16.10 (Bedrock)
 date: 2020-07-21T15:48:28Z
 updated: 2020-07-23T15:24:19Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360046591051-Minecraft-1-16-10-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360046591051-Minecraft-1-16-10-Bedrock
 ---
 
 **Posted:** July 21, 2020

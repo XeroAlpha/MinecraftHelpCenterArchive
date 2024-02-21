@@ -8,6 +8,21 @@ tags:
   - title_legends
   - section_14859587017101
 link: https://help.minecraft.net/hc/en-us/articles/14745678174861-Minecraft-Legends-Types-of-Structures
+hash:
+  01H7DQJPGV5F3VAY4JY0BQAKZ4: extendable-wall
+  01H7DQJPGWGYET6YZ0AHNV3FNJ: ramp
+  01H7DQJPGWMJP61WY555RYH7V4: gate
+  01H7DQJPGWGYR6WV7P16R87TBG: arrow-tower
+  01H7DQJPGWKYR8FHF9HAQTJWQZ: carpenter-hut
+  01H7DQJPGWBDNRE30WF38GA2JG: ice-trap
+  01H7DQJPGWX515Q5TZNXEYQY95: masonry
+  01H7DQJPGWS2N0SW3BPE8A3PCV: scatter-tower
+  01H7DQJPGWSNBQ9KGC42VV4HEG: protecter-tower
+  01H7DQJPGWB9T6WZKG08WSH4FP: redstone-launcher
+  01H7DQJPGWV4RFRS6NT6PGEH6P: kaboomery
+  01H7DQJPGWB7MS6K2AXBWCTJ7H: spyglass-overlook
+  01H7DQJPGWQSJBTJG5YMPKMMPG: battle-drum
+  01H7DQJPGWYEMMKH52SJRC6Q6B: lapis-flag
 ---
 
 Minecraft Legends features all types of structures for you to build, adding to your defensive and offensive capabilities. Read on for an extensive list of structures you can build.

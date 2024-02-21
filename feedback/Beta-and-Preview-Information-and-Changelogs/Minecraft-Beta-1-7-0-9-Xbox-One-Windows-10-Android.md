@@ -6,7 +6,7 @@ categories: Beta and Preview Information and Changelogs
 tags:
   - beta
   - 1.7.0.9
-link: https://feedback.minecraft.net/hc/en-us/articles/360016292391-Minecraft-Beta-1-7-0-9-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360016292391-Minecraft-Beta-1-7-0-9-Xbox-One-Windows-10-Android
 ---
 
 # PLEASE READ before participating in the Minecraft Beta:

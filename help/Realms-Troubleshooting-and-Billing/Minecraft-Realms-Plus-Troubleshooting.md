@@ -22,6 +22,18 @@ tags:
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Minecraft-Realms-Plus-Troubleshooting
+hash:
+  h_01HA83T9JRWWF3S7ZC93D4180T: in-this-article
+  h_01FGWAJGN0M6SW5D02X1BYDWHP: quick-tips
+  h_01FGWAJT830V76J477JDM3YV18: troubleshooting
+  h_01HA83T9JRG3E9ZBBEPMWA00RX: port-forwarding
+  h_01HA83T9JR7W8VJF40FMDA6DTF: problems-playing-while-using-a-child-account
+  h_01HA83T9JRKSCVR0F2QQMB781J: not-displaying-any-realms-list
+  h_01HA83T9JR79M0GEJR0D1B2990: not-displaying-servers
+  h_01HA83T9JRB57T14PQJAYB312T: marketplace-doesnt-display-anything
+  h_01HA83T9JR5QR7STD0TXN8KA9G: owner-of-realm-stuck-on-building-terrain--realm-loads-immediately-for-friends-but-not-for-owner
+  h_01HA83T9JRQ3EP09099PAQ1EC0: prevented-from-online-access-of-microsoft-account
+  h_01FGWAKA2T64GAQZ14898CQM2G: didnt-find-the-answer
 ---
 
 This article provides general troubleshooting for connection issues for Minecraft Realms Plus. For information on Minecraft: Java Edition Realms multiplayer issues, see: [Minecraft: Java Edition Realms Multiplayer Troubleshooting](./Minecraft-Java-Edition-Realms-Troubleshooting.md).

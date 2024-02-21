@@ -3,7 +3,12 @@ title: Minecraft Beta - 1.17.0.56 (Xbox One/Windows 10/Android)
 date: 2021-05-13T14:15:35Z
 updated: 2021-05-13T15:46:43Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360061218671-Minecraft-Beta-1-17-0-56-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360061218671-Minecraft-Beta-1-17-0-56-Xbox-One-Windows-10-Android
+hash:
+  caves-cliffs-experimental: cavescliffsexperimental
+  small-dripleaf: smalldripleaf
+  lightning-rod: lightningrod
+  player-animations: playeranimations
 ---
 
 **Posted:** May 13, 2021

@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.18.0.23 (Android)
 date: 2021-10-22T19:28:59Z
 updated: 2021-10-22T19:52:49Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4411874922509-Minecraft-Beta-1-18-0-23-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4411874922509-Minecraft-Beta-1-18-0-23-Android
 ---
 
 **Posted:** October 22, 2021

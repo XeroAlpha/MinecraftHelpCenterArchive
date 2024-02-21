@@ -11,6 +11,15 @@ tags:
   - section_12617899093133
   - section_12618006481549
 link: https://help.minecraft.net/hc/en-us/articles/6661712171405-I-Want-to-Buy-Minecraft-on-a-Non-Windows-Device
+hash:
+  h_01GB3FN7GV89Y8PM1JG8SYES9T: i-want-to-buy-minecraft-from-the-microsoft-store
+  h_01GB3FNENV53CRY2W2QSN4QJ2T: i-want-to-buy-minecraft-from-minecraftnet
+  h_01GB3FNWDT9M3Z3QC1JEM1SWGE: i-want-to-buy-minecraft-from-the-minecraft-launcher
+  h_01GB3FPF7SC91762BNWWMXKJ7X: i-want-to-buy-minecraft-with-a-gift-card
+  h_01GB3FPMQC1AK4BKMCW87BHTC9: i-bought-minecraft-from-the-ms-store-and-want-to-return-the-product-for-a-refund
+  h_01GB3FQ4G10K46AJS9KSQD9ZWY: i-bought-minecraft-from-minecraftnet-and-want-to-return-the-product-for-a-refund
+  h_01GB3FQA4R6M20CEVAVSWGV3SN: i-want-to-see-what-games-i-own-on-minecraftnet
+  h_01GB3FQGPN24NGAE6STW3PRQB7: i-want-to-see-what-games-i-own-on-the-ms-store
 ---
 
 We’ve been working on some big changes, and we’re excited to announce that Minecraft: Java Edition and Minecraft: Bedrock Edition are now being sold as a single product! What does this mean for you? Well, if you’ve never bought Minecraft before, you can now get both Java and Bedrock for one low price, also known as Minecraft: Java & Bedrock Edition.

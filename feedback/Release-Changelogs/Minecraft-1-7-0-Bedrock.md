@@ -6,7 +6,7 @@ categories: Release Changelogs
 tags:
   - 1.7.0
   - Bedrock
-link: https://feedback.minecraft.net/hc/en-us/articles/360017865652-Minecraft-1-7-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360017865652-Minecraft-1-7-0-Bedrock
 ---
 
 # New Features:

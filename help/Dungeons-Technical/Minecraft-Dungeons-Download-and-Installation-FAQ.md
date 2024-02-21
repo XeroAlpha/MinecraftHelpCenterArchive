@@ -6,6 +6,25 @@ categories: Dungeons Technical
 tags:
   - section_12618340057613
 link: https://help.minecraft.net/hc/en-us/articles/4409826812173-Minecraft-Dungeons-Download-and-Installation-FAQ
+hash:
+  h_01FG7WE0BXF0HRB6K9NMWNY9GN: minecraftdungeons-signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation
+  h_01FG7WEBBKY6KRF2182166QGDT: minecraftunifiedlauncher
+  what-is-the-unified-minecraft-launcher: whatistheunifiedminecraftlauncher
+  how-can-i-get-this-new-unified-launcher: howcanigetthisnewunifiedlauncher
+  do-i-have-to-upgrade-to-this-new-launcher: doihavetoupgradetothisnewlauncher
+  i-own-the-game-on-the-microsoft-store.-where-is-the-launcher: iownthegameonthemicrosoftstorewhereisthelauncher
+  how-do-i-sign-into-my-accounts: howdoisignintomyaccounts
+  microsoft-account: microsoftaccount
+  mojang-account: mojangaccount
+  how-do-i-switch-between-my-accounts-to-play-my-games: howdoiswitchbetweenmyaccountstoplaymygames
+  what-happens-to-my-current-save-files-for-minecraft-dungeons: whathappenstomycurrentsavefilesforminecraftdungeons
+  does-the-new-launcher-automatically-give-me-access-to-both-games: doesthe-new-launcherautomaticallygivemeaccesstobothgames
+  is-the-unified-launcher-also-available-on-mac-and-linux: istheunifiedlauncheralsoavailableonmacandlinux
+  h_01FG7WEN7BM1GT5NQW3HHP7791: manuallyupdate-minecraft-dungeons
+  how-do-i-find-my-current-version-number: how-do-ifindmycurrentversionnumber
+  h_01FG7YV7K7EH5V6H1J6ZH67X8Z: how-to-install-downloadable-content-and-hero-pass-content
+  windows-10-and-above-1: windows-10and-above
+  xbox-one-xbox-series-xs: xbox-one--xbox-series-xs
 ---
 
 In This Article

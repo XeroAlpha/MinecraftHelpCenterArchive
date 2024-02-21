@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.18.2 Release Candidate 1 "
 date: 2022-02-25T14:49:33Z
 updated: 2022-02-25T14:53:00Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4501898081933-Minecraft-Java-Edition-1-18-2-Release-Candidate-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/4501898081933-Minecraft-Java-Edition-1-18-2-Release-Candidate-1
+hash:
+  fixed-bugs-in-1.18.2-release-candidate-1: fixed-bugs-in-1182-release-candidate-1
 ---
 
 We’re now releasing the first (and hopefully only) release candidate for Minecraft 1.18.2. This release candidate fixes two world generation bugs that could cause a server to stop running. If there are no major issues following this release, no further changes will be done before the full release, which is planned for February 28th.  

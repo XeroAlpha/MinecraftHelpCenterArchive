@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.6.0.30 (Xbox One/Windows 10/Android)
 date: 2018-08-08T15:11:29Z
 updated: 2018-08-08T15:20:54Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360012768951-Minecraft-Beta-1-6-0-30-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360012768951-Minecraft-Beta-1-6-0-30-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

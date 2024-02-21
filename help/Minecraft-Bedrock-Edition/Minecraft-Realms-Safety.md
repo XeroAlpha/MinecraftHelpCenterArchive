@@ -30,6 +30,15 @@ tags:
   - section_15463793799181
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety
+hash:
+  h_01HBEMFSSYJQ900NC34ZCFJ3XN: in-this-article
+  h_01HBEM21DBQ9XK427B7P1A8EWA: community-guidelines
+  h_01HBEM25WP8E9ANC167ZC5MMED: safety-features
+  h_01HBEM2AMZ2193CQ7VKBJBQ9JP: proactive-moderation
+  h_01HBEM2FW9S55B9YQ2NPARDRXA: player-abuse-reporting
+  h_01HBEM2MJSRDZD4J6JK691XAG9: parental-controls
+  h_01HBEM2SKGB03RJNYD5DTB0NHQ: human-moderation
+  h_01HBEM2Z2EGJVF8XZE0FQ6KKGB: xbox-clubs-safety
 ---
 
 A Minecraft Realm is a subscription to your own personal Minecraft server, where you can easily and safely play online with friends in shared worlds across devices.

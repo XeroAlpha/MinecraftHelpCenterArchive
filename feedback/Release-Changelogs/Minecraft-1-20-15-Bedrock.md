@@ -3,7 +3,7 @@ title: Minecraft - 1.20.15 (Bedrock)
 date: 2023-08-16T16:27:19Z
 updated: 2023-08-18T17:01:46Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/18588428772365-Minecraft-1-20-15-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/18588428772365-Minecraft-1-20-15-Bedrock
 ---
 
 **Posted:** August 16, 2023

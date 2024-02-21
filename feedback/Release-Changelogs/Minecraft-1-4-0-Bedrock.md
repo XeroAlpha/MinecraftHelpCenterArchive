@@ -7,7 +7,7 @@ tags:
   - bedrock_release
   - release_changelog
   - 1.4.0
-link: https://feedback.minecraft.net/hc/en-us/articles/360004203351-Minecraft-1-4-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004203351-Minecraft-1-4-0-Bedrock
 ---
 
 This update contains a whole ocean of new features from Update Aquatic! More features are on their way and will be available in game updates soon. If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojang.com/)and post all thoughts and suggestions to [feedback.minecraft.net](http://feedback.minecraft.net/). Thanks for playing!   

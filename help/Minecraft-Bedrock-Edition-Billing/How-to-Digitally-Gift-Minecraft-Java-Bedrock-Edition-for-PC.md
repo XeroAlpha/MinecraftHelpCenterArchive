@@ -14,7 +14,11 @@ tags:
   - platform_macOS
   - section_12617899093133
   - section_12618006481549
-link: https://help.minecraft.net/hc/en-us/articles/8684413912461-How-to-Digitally-Gift-Minecraft-Java-Bedrock-Edition-for-PC-
+link: https://help.minecraft.net/hc/en-us/articles/8684413912461-How-to-Digitally-Gift-Minecraft-Java-Bedrock-Edition-for-PC
+hash:
+  h_01GBARNZSRA2MTED0KY890RYV2: gifting-minecraft-java--bedrock-edition-for-pc
+  h_01GBARP5DKJ5R08656JV15XW3K: gifting-through-the-windows-store
+  h_01GBARP9V7WM1HMF45YV15AVDR: gifting-through-the-amazon-store
 ---
 
 If you’d like to digitally gift Minecraft: Java & Bedrock Edition for PC, this guide is here to help.

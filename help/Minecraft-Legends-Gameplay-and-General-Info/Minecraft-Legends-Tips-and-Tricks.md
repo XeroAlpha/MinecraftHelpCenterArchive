@@ -8,6 +8,36 @@ tags:
   - title_legends
   - section_14859587017101
 link: https://help.minecraft.net/hc/en-us/articles/14783563742733-Minecraft-Legends-Tips-and-Tricks
+hash:
+  h_01HB6VB1T36X18M77FRE9JYSRT: in-this-article
+  h_01HB6VB1T3P88W6Q7NQKVMWF11: what-kind-of-game-is-minecraft-legends
+  h_01HB6VB1T3QQ0D0T6BBF6F5H57: what-are-the-modes-in-minecraft-legends
+  h_01HB6VB1T3SCJZ9EP0Q7XCTXP8: general-minecraft-legends-tips
+  h_01HB6VB1T30TPAG51TD9TK70CS: advanced-minecraft-legends-tips-and-tricks
+  h_01GXV66X3G6KCMPW4CPV2BRBKS: what-kind-of-game-is-minecraft-legends-1
+  h_01GXV67AGDPY88WRTF6DCNBV4P: what-are-the-modes-in-minecraft-legends-1
+  h_01GXV67QASXW2H7B5N2T3EADZA: campaign
+  h_01GXV681147N4WP7VGAPSQWN3K: versus
+  h_01GXV6862XXP03J4AKP05N4DDS: lost-legends-and-myths
+  h_01GXV7X0EAJF7G5EX5PCFJ7C7F: how-many-people-can-play-against-each-other-in-minecraft-legends
+  h_01GXV68C60C771NNSTYC70JMNS: general-minecraft-legends-tips-1
+  h_01H06117R2GYTG44DGT4J9TAC3: auto-save-backup
+  h_01GXV68V8XVMF6RCAXWSEBF4G2: exploration-and-navigation
+  h_01GXV6939JTT4C22MXRSWY3MM9: using-the-map
+  h_01GXV69AC88MHHHANDYMMY061P: songbook
+  h_01GXV69FSHTM6XVPDQ94NN0ASY: build-mode
+  h_01GXV69Q1PB1CSV73DA9783ZXK: combat
+  h_01GXV69X87M6X8XX3KHNAX2D1T: banner-view
+  h_01GXV6A3STEKB5S7PEACV3P795: cooperative-multiplayer
+  h_01GXV6A9PHGSNSRWDRCKMM6W17: advanced-minecraft-legends-tips-and-tricks-1
+  h_01GXV6B0R9N9CRHYCJ4TR0F197: my-village-is-being-attacked-by-piglins-how-do-i-defend-it
+  h_01GXV6B9G95J8KPZGTMB4RSB8W: i-dont-have-enough-resources-to-build-certain-structures
+  h_01GXV6BHXKT60G2GGJ4F0N6SYH: i-dont-have-enough-prismarine-to-upgrade-my-improvement-hub
+  h_01GXV6BVRT3NQ1NPB85SDBXF5M: i-cant-find-the-right-resources-for-the-build-i-want
+  h_01GXV6C3A6BQHAH0WJYRHA86X9: how-do-i-spawn-creepers-skeletons-and-zombies
+  h_01GXV6C94YTWC8GTZ5QQXRXGJE: im-struggling-with-the-horde-of-the-spore
+  h_01GXV6CEPX7B8A91CMS1VXN96Y: im-struggling-with-the-horde-of-the-bastion
+  h_01GXV6CPGZ88E7VX4BDV12E5WX: im-struggling-with-the-horde-of-the-hunt
 ---
 
 Minecraft Legends features a ton of new ways to interact with the Minecraft world. This article provides a general overview on the various features in Minecraft Legends alongside some tips and tricks to get your journey started on the right foot.

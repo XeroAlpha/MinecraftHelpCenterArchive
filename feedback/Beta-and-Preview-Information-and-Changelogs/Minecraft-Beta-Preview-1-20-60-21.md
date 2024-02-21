@@ -4,6 +4,35 @@ date: 2023-11-28T19:24:04Z
 updated: 2023-12-06T09:04:13Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/21754158247437-Minecraft-Beta-Preview-1-20-60-21
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  h_01HGBQ7QA8B4JR55SJJJ5HC9DX: experimental-features
+  h_01HGBQ7QA8J9X8C7D0GQ0HP8DX: chiseled-copper
+  h_01HGBQ7QA8BFQ55NFMBP57V88R: copper-grate
+  h_01HGBQ7QA8X0KFWHYVD73PX41Y: features-and-bug-fixes
+  h_01HGBQ7QA91AJM24Q29N3T4T9F: blocks
+  h_01HGBQ7QA9CTEM7PCN5TNJDVHZ: customizable-touch-controls
+  h_01HGBQ7QA9W152GQ1RNYDYN7BX: gameplay
+  h_01HGBQ7QA9WCBZKDT05WQKQ0TR: vanilla-parity
+  h_01HGBQ7QA9GSEC7006WTFEE0A7: graphical
+  h_01HGBQ7QA90GKEGJT05FK0C5S3: input
+  h_01HGBQ7QA9JE7ATJZTYRPCR8S1: user-interface
+  h_01HGBQ7QA9GK4TV7RDNH52EMYF: loading-screen
+  h_01HGBQB43B1H1C0ZWSJ2Z8PGRF: technical-updates
+  h_01HGBQB43BJT3FXTF5H0WFSTHM: add-ons-and-script-engine
+  h_01HGBQB43BR3X36EY7P26DA9G7: ai-goals
+  h_01HGBQB43B4YERC9E2DBB96QYQ: api
+  h_01HGBQB43B86BN6FH9EGYRCHVF: biomes
+  h_01HGBQB43BTNSHD9N582R1QED8: components
+  h_01HGBQB43BWBM9YV67TFYRESMT: editor
+  h_01HGBQB43BV35GSG8FWB9B44F0: entity-filters
+  h_01HGBQB43B0R39CZQPM683YAEB: general
+  h_01HGBQB43BHFT9TX3Q34WXRD7R: molang
+  h_01HGBQB43BA075GNY7PP3CBP14: performance-and-stability
+  h_01HGBQCRRC05YEAKV3DAKS5TMG: experimental-technical-features
+  h_01HGBT13MQ92FQN38FAB4B4Z1S: picture2jpg
+  h_01HGBQK5RXPZTV5SAW8QRYD114: graphical-1
+  01HGBQPKS4J09GWZ0DC9ED1E3X: api-1
 ---
 
 **Posted:** 29 November 2023

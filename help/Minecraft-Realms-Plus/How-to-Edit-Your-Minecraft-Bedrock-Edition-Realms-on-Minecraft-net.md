@@ -25,6 +25,13 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/15937250579213-How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net
+hash:
+  h_01HCJN5G8QBEN0JEQ6VXKVB8XZ: in-this-article
+  h_01HCJMQV27WVAV96YN6YCYE53Q: how-to-edit-your-realm-settings-in-minecraft-bedrock-edition
+  h_01HCJM9RB0NAE1T1ZG8Q0RJ6ZE: realm-name-and-description
+  h_01HCJM9RB05AND8YAQ93PPNXBT: invite-members
+  h_01HCJM9RB0M5MFRXV6MEPPHNFS: manage-members
+  h_01HCJM9RB012VJS806DQNVS18X: worlds
 ---
 
 As of May 22<sup>nd</sup>, 2023 you’ll be able to edit some of your Minecraft: Bedrock Edition Realms settings through your Minecraft.net profile page. This article details what settings are available to you.

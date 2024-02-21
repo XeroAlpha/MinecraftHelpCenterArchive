@@ -4,6 +4,10 @@ date: 2020-10-15T16:30:59Z
 updated: 2020-10-15T16:31:11Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360050583452-Minecraft-Java-Edition-1-16-4-PRE-RELEASE-1
+hash:
+  new-features-in-1.16.4-pre-release-1: new-features-in-1164-pre-release-1
+  technical-changes-in-1.16.4-pre-release-1: technical-changes-in-1164-pre-release-1
+  fixed-bugs-in-1.16.4-pre-release-1: fixed-bugs-in-1164-pre-release-1
 ---
 
 15 October

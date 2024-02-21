@@ -16,6 +16,11 @@ tags:
   - platform_PC
   - section_12618340057613
 link: https://help.minecraft.net/hc/en-us/articles/360044268272-Minecraft-Dungeons-Patch-Notes
+hash:
+  h_01HB9JK3BRY1DBNPATKYB5B07C: 11700---november-30-2022
+  h_01HB9JK3BTHTR5DKPTBKD38QMJ: 1200---june-22-2020
+  h_01HB9JK3BTNV0SYH5T4HWE4ESZ: windowsfixes
+  h_01HB9JK3BTE08B6X8Z546AH3MM: xbox-one-fixes
 ---
 
 **![patchnotes_1.17.0.0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/10971416444301)**

@@ -3,7 +3,7 @@ title: Minecraft - 1.8.0 (Bedrock)
 date: 2018-12-06T16:56:57Z
 updated: 2018-12-13T19:35:53Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360020386452-Minecraft-1-8-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360020386452-Minecraft-1-8-0-Bedrock
 ---
 
 **11 December 2018**

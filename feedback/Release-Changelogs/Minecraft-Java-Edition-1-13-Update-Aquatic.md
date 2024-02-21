@@ -7,7 +7,7 @@ tags:
   - java
   - release_changelog
   - "1.13"
-link: https://feedback.minecraft.net/hc/en-us/articles/360007323492-Minecraft-Java-Edition-1-13-Update-Aquatic-
+link: https://feedback.minecraft.net/hc/en-us/articles/360007323492-Minecraft-Java-Edition-1-13-Update-Aquatic
 ---
 
 ## GENERAL

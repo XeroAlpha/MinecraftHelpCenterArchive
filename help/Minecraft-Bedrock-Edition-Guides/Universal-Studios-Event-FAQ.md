@@ -19,6 +19,12 @@ tags:
   - section_12618581961357
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/22504327329165-Universal-Studios-Event-FAQ
+hash:
+  h_01HJ1TQDBCFAFX6BS45Y8YRFTE: what-is-the-universal-studios-event-in-minecraft
+  h_01HJ1TQPVNNJZNYHSXM2HQF68R: how-can-i-join-the-universal-studios-event
+  h_01HJ1TRQ3JCXN7THG7ZYHY0YG3: how-long-is-the-universal-studios-event-active-in-minecraft
+  h_01HJ1TRSC0WFY5RA9HX0HQQBGS: do-i-need-to-pay-to-join-the-universal-studios-event
+  h_01HJ1TRZ6HRAYS7VD7ESG0ZXBF: what-platforms-can-i-join-the-universal-studios-event-on
 ---
 
 ## What is the Universal Studios Event in Minecraft?
@@ -35,7 +41,7 @@ To join the special Universal Studios Minecraft world, open Minecraft: Bedrock E
 
 ![](https://minecrafthelp.zendesk.com/hc/article_attachments/22504977700365)
 
-If you do not see the Universal Studios world, exit Minecraft and make sure you are playing the latest version of the game. For more problems accessing the Universal world, visit the [Minecraft Special Event Access Troubleshooting page.](https://help.minecraft.net/hc/en-us/articles/22504134081549)
+If you do not see the Universal Studios world, exit Minecraft and make sure you are playing the latest version of the game. For more problems accessing the Universal world, visit the [Minecraft Special Event Access Troubleshooting page.](./Minecraft-Special-Event-Access-Troubleshooting.md)
 
 ## How long is the Universal Studios Event active in Minecraft?
 

@@ -30,6 +30,11 @@ tags:
   - section_12618019146893
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19506833026829-Who-to-contact-with-your-Minecraft-support-questions
+hash:
+  h_01HAAPPA12ETYZNZDTZVA48V29: account-support
+  h_01HAAPPA12GMHNA79XPDXHBCH0: technical-support
+  h_01HAAPPA13GC4FKFB4AW0XZ2Q3: minecraft-realms-subscription-and-marketplace-concerns
+  h_01HAAPPA1392973JJ6BDFE5CDW: gdprdata-deletion-requests
 ---
 
 We know you want to get back into your Minecraft world as quickly as possible. If you are dealing with a particular issue, here is a breakdown on what support team can get you back into your game the fastest.

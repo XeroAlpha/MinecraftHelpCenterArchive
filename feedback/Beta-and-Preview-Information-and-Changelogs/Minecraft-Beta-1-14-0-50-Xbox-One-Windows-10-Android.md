@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.14.0.50 (Xbox One/Windows 10/Android)
 date: 2019-11-13T17:55:20Z
 updated: 2019-11-13T23:37:36Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360035860332-Minecraft-Beta-1-14-0-50-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360035860332-Minecraft-Beta-1-14-0-50-Xbox-One-Windows-10-Android
 ---
 
 **Posted: **November 13, 2019

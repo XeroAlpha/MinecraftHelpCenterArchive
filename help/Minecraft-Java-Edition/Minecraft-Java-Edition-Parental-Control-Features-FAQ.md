@@ -7,6 +7,22 @@ tags:
   - section_12618746386189
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/4409976432013-Minecraft-Java-Edition-Parental-Control-Features-FAQ
+hash:
+  h_01HAMX4VCW765JZNC1AETAVG9H: in-this-article
+  h_01GD1CFFPAX8DJ9SWGHTTJN336: minecraft-java-edition-player-safety-features
+  h_01GD1CFN4BE5EK2WJDP5TBYV8S: overview-of-the-player-safety-features-for-minecraft-java-edition
+  h_01GD1CJ5GMV47HYETBFXCHSTTB: newer-game-versions-1164-and-up
+  h_01GD1CMT3MK5RZ184X15PM5ZKB: mojang-accounts-for-users-under-13
+  h_01GD1CPNJPKPWRNZW6PM4G8PKZ: why-is-mojangstudiosasking-mojang-account-owners-to-verify-their-ages-and-provide-a-credit-card
+  h_01GD1CPXJ3E49DCM23M7KK2EQ3: what-features-are-lockedforplayers-13-and-under
+  h_01GD1CYDS15JJV3QYJTQ2BE9P3: are-there-two-different-kinds-of-accounts-one-for-children-and-one-for-adults
+  h_01GD1CYN4XR7HRN4ND15F1XA63: what-is-coppa
+  h_01GD1CYVBFWVH9W9VTG158EMAV: who-must-comply-with-coppa
+  h_01GD1CZ0RCMXAT1T6QFJQ5FNRQ: why-are-you-requesting-a-credit-card-number-to-verify-parental-consent
+  h_01GD1CZ6NXQ8EAM9Z5CHR650A2: are-parents-charged-for-each-child-they-sign-up
+  h_01GD1CZE2MEMZN6V4Z6AW6MXAE: are-you-making-money-from-this
+  h_01GD1CZQ528PJKY45S8DE07H4X: will-the-parents-credit-card-number-be-stored-or-remain-on-the-account
+  h_01GD1D00GMFNE9XZ3F4K4S4PJA: do-other-companies-charge-this-fee
 ---
 
 This article covers instructions for configuring parental controls for Minecraft: Java Edition. For assistance configuring parental controls for Minecraft: Bedrock Edition, see this article: [How To Manage Parental Consent, Family Settings And Realms/Multiplayer Access For A Child Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md)

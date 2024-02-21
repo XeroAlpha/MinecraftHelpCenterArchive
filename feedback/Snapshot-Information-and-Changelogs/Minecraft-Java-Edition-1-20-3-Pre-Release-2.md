@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.20.3 Pre-Release 2 "
 date: 2023-11-22T15:05:27Z
 updated: 2023-11-22T15:05:31Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/21575693780237-Minecraft-Java-Edition-1-20-3-Pre-Release-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/21575693780237-Minecraft-Java-Edition-1-20-3-Pre-Release-2
+hash:
+  h_01HFVS0AFZTXSN1JSYNDT7S5KG: changes
+  h_01HFVS0AFZ507SR5HXT2Q8MDVW: fixed-bugs-in-1203-pre-release-2
+  h_01HFVS0AFZ5MPP82W4J8TB0YY6: get-the-pre-release
 ---
 
 Hello again! The stabilization phase for 1.20.3 release continues. This Pre-Release brings more bug fixes.

@@ -4,6 +4,9 @@ date: 2019-07-04T14:50:24Z
 updated: 2019-07-04T14:50:41Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360030412311-Minecraft-Java-Edition-1-14-4-PRE-RELEASE-1
+hash:
+  changes-in-1.14.4-pre-release-1: changes-in-1144-pre-release-1
+  fixed-bugs-in-1.14.4-pre-release-1: fixed-bugs-in-1144-pre-release-1
 ---
 
 We're now releasing the first pre-release of 1.14.4 which fixes a few bugs. Please report any bugs you find on our [bug tracker](https://bugs.mojang.com/browse/MC), it helps a lot!

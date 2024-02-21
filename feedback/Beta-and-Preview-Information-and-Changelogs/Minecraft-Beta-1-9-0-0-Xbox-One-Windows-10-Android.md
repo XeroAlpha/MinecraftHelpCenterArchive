@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.9.0.0 (Xbox One/Windows 10/Android)
 date: 2018-11-14T00:25:39Z
 updated: 2018-11-15T17:21:41Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360019773811-Minecraft-Beta-1-9-0-0-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360019773811-Minecraft-Beta-1-9-0-0-Xbox-One-Windows-10-Android
 ---
 
 15 November 2018

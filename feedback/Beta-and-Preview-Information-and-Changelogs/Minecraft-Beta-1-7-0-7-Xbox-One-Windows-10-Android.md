@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.7.0.7 (Xbox One/Windows 10/Android)
 date: 2018-09-17T19:32:02Z
 updated: 2018-09-18T16:04:47Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360016051851-Minecraft-Beta-1-7-0-7-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360016051851-Minecraft-Beta-1-7-0-7-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

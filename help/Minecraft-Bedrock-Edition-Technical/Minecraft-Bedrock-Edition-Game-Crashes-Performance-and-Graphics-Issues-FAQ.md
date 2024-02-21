@@ -29,7 +29,15 @@ tags:
   - platform_sony_playstation_5
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4409145165965-Minecraft-Bedrock-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4409145165965-Minecraft-Bedrock-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ
+hash:
+  01GK54ZV5FCGSCS8TQDM0C1ZS5: in-this-article
+  01GGAS8TFXG4GJ5VWD1AKM4PKT: technical-graphical-or-performance-issues
+  01GGAS8TFX6PYVRFYCR0069ZFW: windows
+  01GGAS8TFYMBCKNJ7BX191PTQM: common-driver-download-links
+  01GGAS8TFYYH8CATK5G57YEQ5G: windows-1
+  01GGAS8TFZD22HE9J1EC27AC40: pinkand-black-checkered-boxesappearwhere-textures-should-be-how-do-i-fix-this
+  01GGAS8TFZDEBKD29D1X3603YW: minecraft-bedrock-edition-for-windows
 ---
 
 *This article addresses Minecraft: Bedrock Edition technical issues only (Console, Mobile, PC, Chromebook). See [Java Edition technical issues](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ.md) articles for help with Minecraft: Java Edition.* 

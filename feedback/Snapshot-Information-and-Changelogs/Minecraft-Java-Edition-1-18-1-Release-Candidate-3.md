@@ -3,7 +3,7 @@ title: "Minecraft: Java Edition - 1.18.1 Release Candidate 3 "
 date: 2021-12-10T08:16:03Z
 updated: 2021-12-10T08:16:27Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4416147563661-Minecraft-Java-Edition-1-18-1-Release-Candidate-3-
+link: https://feedback.minecraft.net/hc/en-us/articles/4416147563661-Minecraft-Java-Edition-1-18-1-Release-Candidate-3
 ---
 
 We've now released 1.18.1 release candidate 3, fixing a critical security issue.

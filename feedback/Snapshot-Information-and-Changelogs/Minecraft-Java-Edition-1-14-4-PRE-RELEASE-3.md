@@ -3,6 +3,13 @@ title: "Minecraft: Java Edition - 1.14.4 PRE-RELEASE 3"
 date: 2019-07-08T14:19:36Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360030339032-Minecraft-Java-Edition-1-14-4-PRE-RELEASE-3
+hash:
+  changes-in-1.14.4-pre-release-3: changes-in-1144-pre-release-3
+  fixed-bugs-in-1.14.4-pre-release-3: fixed-bugs-in-1144-pre-release-3
+  changes-in-1.14.4-pre-release-2: changes-in-1144-pre-release-2
+  fixed-bugs-in-1.14.4-pre-release-2: fixed-bugs-in-1144-pre-release-2
+  changes-in-1.14.4-pre-release-1: changes-in-1144-pre-release-1
+  fixed-bugs-in-1.14.4-pre-release-1: fixed-bugs-in-1144-pre-release-1
 ---
 
 **Update: **We've now released 1.14.4 Pre-Release 3.

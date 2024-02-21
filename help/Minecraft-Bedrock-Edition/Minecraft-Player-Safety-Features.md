@@ -23,6 +23,12 @@ tags:
   - section_12943861488909
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/360052763631-Minecraft-Player-Safety-Features
+hash:
+  h_01HAMY3NYHC3BJMWMZBRHF65RN: overview-of-the-player-safety-features-in-eachversion
+  h_01HAMY3NYH4VKFNS8QRYRWAHWW: newer-game-versions-1191-and-up-using-amicrosoft-account
+  h_01HAMY3NYH0MAKF7PC3DQE26F4: newergameversions-1164-and-upusing-amicrosoft-account
+  h_01HAMY3NYH2FVSMPKC401SBYD1: older-game-versions-earlier-than-1164
+  h_01HAMY3NYHN3CV7YDBK3ZHJNQG: modded-game-versions
 ---
 
 We want Minecraft to be a safe place for everyone, that’s why we’ve added several player safety features to the game and will continue to add more in the future. This article applies to both Minecraft: Java Edition and Minecraft: Bedrock Edition.

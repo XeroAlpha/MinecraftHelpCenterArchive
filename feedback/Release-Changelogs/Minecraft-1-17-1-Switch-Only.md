@@ -3,7 +3,7 @@ title: Minecraft - 1.17.1 (Switch Only)
 date: 2021-06-11T16:19:57Z
 updated: 2021-06-14T20:01:06Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4402856034573-Minecraft-1-17-1-Switch-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/4402856034573-Minecraft-1-17-1-Switch-Only
 ---
 
 This hotfix is available only for Nintendo Switch. Multiplayer is still fully compatible with players running on other devices with version 1.17.0.  

@@ -5,7 +5,56 @@ updated: 2023-11-15T19:44:24Z
 categories: Dungeons Accounts
 tags:
   - section_12618263208845
-link: https://help.minecraft.net/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4409170005261-Minecraft-Dungeons-FAQ
+hash:
+  h_01HB6T7J8CKWW4DKC364F6SEB4: in-this-article
+  h_01FFGNRXY30ZS9DAENSGM2S500: general-information
+  h_01HB6T7J8CFWE5VYF2SK1JTFJQ: whatisminecraft-dungeons
+  h_01HB6T7J8CF0H8HXKEKHNKZHZS: does-the-game-have-online-and-local-multiplayer-functionality
+  h_01HB6T7J8CS5AQYEVS7X6HD02Y: does-minecraft-dungeons-support-cross-platform-saves-and-multiplayer
+  h_01HB6T7J8CZRGDJA7DAZJM8V30: how-can-i-get-minecraft-dungeons
+  h_01HB6T7J8DB3H0JQV3P57A1ZG8: what-is-included-in-the-minecraft-dungeons-ultimate-dlc-bundle
+  h_01HB6T7J8DF0WCGMPZQGBM464R: is-a-physical-release-of-minecraft-dungeons-available
+  h_01HB6T7J8D85FA7JSX4RPNTR7B: is-minecraft-dungeons-included-in-xbox-game-pass
+  h_01HB6T7J8D72YJKEBCWHPZAK9N: is-the-game-enhanced-for-xbox-one-x-or-playstation4-pro
+  h_01HB6T7J8DCQW88QBYXKTFXNYC: i-want-to-be-a-part-of-the-minecraft-dungeons-community-where-can-i-find-that
+  h_01HBEFB1E7VQREK52N5SE29TS5: can-i-submit-bugs
+  h_01HB6T7J8DJ0N92M7SWGV1NNCN: gameplay
+  h_01HB6T7J8D7BMWDGVYM89J4Z1B: what-are-daily-trials
+  h_01HB6T7J8DXFKV6V0WE6C5T4EV: how-does-combat-work
+  h_01HB6T7J8DWB7SCW15JNHEK96C: can-characters-be-customized
+  h_01HB6T7J8D2E4BAM400P542GJ0: do-missions-change-from-one-game-to-the-next
+  h_01HB6T7J8D8VZ4J0DPYM94HQ15: are-there-any-accessibility-options-in-the-game
+  h_01HB6T7J8D2PK2YTS821YMP7HC: are-there-achievements-in-minecraft-dungeons
+  h_01HB6T7J8DZ3R5BNPHC9ECT8TK: is-there-mod-support
+  h_01HB6T7J8DM1HMN230QSEPRPET: is-there-online-matchmaking
+  h_01FFGNT3HQK2KSES27X9BXRCPM: technical-information
+  h_01HB6T7J8D73AH6A6B4YJG3AQB: how-do-i-backup-my-save-files
+  h_01HB6T7J8D0ZCKTF0F6WB89FVY: why-is-the-launcher-showing-buy-now-when-i-have-already-purchased-minecraft-dungeons
+  h_01HB6T7J8DWJRG1C9SXJET2A58: how-can-i-fix-the-error-for-game-ownership-not-established
+  h_01HB6T7J8DG8Y76067HRM57S5A: how-can-i-play-with-my-friends
+  h_01HB6T7J8DH9465ZX1EEKXC44R: what-can-i-do-when-i-see-the-message-online-play-is-restricted
+  h_01HB6T7J8D9X5W23TE3WQKGFAY: why-did-my-game-crash
+  h_01HB6T7J8DD8QWH7GC51QQVMHG: minecraft-dungeons-wont-start-on-my-pc-what-should-i-do
+  h_01HB6T7J8D91H1YDD5QQZJEAFC: do-i-need-to-pay-a-subscription-fee-like-xbox-live-gold-to-play-online
+  h_01HB6T7J8D9YEKQQHPMME47Y4F: can-i-use-minecoins-or-rubies-to-purchase-dlc-for-minecraft-dungeons
+  h_01HB6T7J8DXTHR83XB18RV2Q02: where-can-i-get-more-help
+  h_01FFGNV2BJF3AS86DM7G363ZJ4: minecraft-dungeons-on-cloud-gaming-and-xbox-game-pass-ultimate
+  h_01HB6T7J8DTNZ48AFC0FCJY305: how-do-i-play-minecraft-dungeons-through-cloud-gaming-beta
+  h_01HB6T7J8D06A54FSGEQJA6QFM: what-input-methods-caniuse-to-play
+  h_01HB6T7J8DSKPZANEST7D6CC52: acceptedcontrollersforminecraftdungeons
+  h_01HB6T7J8DDCN5KFYKQ0E6B53Z: pc-windows-10-and-above
+  h_01HB6T7J8DZKN2WW3TCED0DQ4Z: xboxone
+  h_01HB6T7J8EKVDEND8M2WNHD2BF: playstation4
+  h_01HB6T7J8E9CRVW13JGT5NHS0T: nintendoswitch
+  h_01HB6T7J8EZ7WA0BWZ345FGY1V: how-does-multiplayer-work-with-cloud-gaming
+  h_01HB6T7J8EXP9ZWJ990FJ61WT8: how-do-save-files-work-with-cloud-gaming
+  h_01HB6T7J8EHV4YRGGHDY8EZGD3: does-my-existingdownloadable-content-dlccarry-over-to-cloud-gaming
+  h_01FFGNVVNPBZS8WKD5G4N9HEZY: minecraftdungeonsretailrelease
+  h_01HB6T7J8E2G2A9G9SAW3RN0C2: whenwillthephysicalversionofminecraftdungeonsbereleased
+  h_01HB6T7J8EGHVT4HW8YSVZCFB7: whatisincludedinthephysicalversionofminecraftdungeons
+  h_01HB6T7J8ESK88CY1MT06SGJ0R: do-i-need-an-internet-connection-to-update-my-game-and-access-extra-content
+  h_01HB6T7J8E9AVHVSQYT9TS56EB: isthestandardeditionofminecraftdungeonsavailableasaphysicalversion
 ---
 
 # In this article: 

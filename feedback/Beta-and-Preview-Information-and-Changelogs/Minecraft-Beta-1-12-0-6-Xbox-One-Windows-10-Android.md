@@ -7,7 +7,7 @@ tags:
   - beta
   - Bedrock
   - 1.12.0.5
-link: https://feedback.minecraft.net/hc/en-us/articles/360028058852-Minecraft-Beta-1-12-0-6-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360028058852-Minecraft-Beta-1-12-0-6-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta**:

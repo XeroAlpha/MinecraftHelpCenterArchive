@@ -50,6 +50,6 @@ You can also moderate your Realm through Minecraft.net. Check out the following 
 
 For more information on Realms administrative options, you can visit our Realms Admin Options articles.  
 
-For **Minecraft: Java Edition**, see [What Admin Options are Available](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#realms-admin-options) 
+For **Minecraft: Java Edition**, see [What Admin Options are Available](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK85CMTH28B8YHKA40WDV7A) 
 
 For **Minecraft Bedrock Edition**, see [Realms Plus Admin Options](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md#adminoptions-for-realms)

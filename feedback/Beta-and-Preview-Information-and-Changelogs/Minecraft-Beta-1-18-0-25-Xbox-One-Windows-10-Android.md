@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.18.0.25 (Xbox One/Windows 10/Android)
 date: 2021-11-04T14:20:06Z
 updated: 2021-11-04T16:17:35Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4412728960141-Minecraft-Beta-1-18-0-25-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4412728960141-Minecraft-Beta-1-18-0-25-Xbox-One-Windows-10-Android
 ---
 
 **Posted:** 4 November 2021

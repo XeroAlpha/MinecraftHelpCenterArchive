@@ -3,6 +3,8 @@ title: "Minecraft: Java Edition: 1.16.3, Release Candidate 1"
 date: 2020-09-08T18:00:30Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360048833892-Minecraft-Java-Edition-1-16-3-Release-Candidate-1
+hash:
+  fixed-bugs-in-1.16.3-release-candidate-1: fixed-bugs-in-1163-release-candidate-1
 ---
 
 7 September 2020

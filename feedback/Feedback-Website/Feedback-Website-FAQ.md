@@ -4,6 +4,19 @@ date: 2018-08-02T22:28:12Z
 updated: 2020-07-10T17:25:25Z
 categories: Feedback Website
 link: https://feedback.minecraft.net/hc/en-us/articles/360011793092-Feedback-Website-FAQ
+hash:
+  how-long-will-it-be-there-its-taking-a-long-time.: how-long-will-it-be-there-its-taking-a-long-time
+  you-rejected-my-post-for-no-reasonit-sat-in-pending-approval-and-disappeared-and-i-wasnt-notified.:
+    you-rejected-my-post-for-no-reasonit-sat-in-pending-approval-and-disappeared-and-i-wasnt-notified
+  my-post-wasnt-similar-its-an-entirely-new-way-to-do-x.: my-post-wasnt-similar-its-an-entirely-new-way-to-do-x
+  i-got-a-message-but-the-your-post-is-rejected-message-is-so-general.: i-got-a-message-but-the-your-post-is-rejected-message-is-so-general
+  my-post-was-on-the-site-and-then-fell-into-the-moderation-queue.-why: my-post-was-on-the-site-and-then-fell-into-the-moderation-queue-why
+  my-post-was-on-the-site-for-a-while-and-got-removed.-it-had-votes: my-post-was-on-the-site-for-a-while-and-got-removed-it-had-votes
+  i-have-a-super-long-post-and-you-removed-it.-can-you-get-my-text-back: i-have-a-super-long-post-and-you-removed-it-can-you-get-my-text-back
+  i-think-your-filter-and-search-engine-need-improvement.: i-think-your-filter-and-search-engine-need-improvement
+  questions-problems-and-further-issues: questions-problems-and-furtherissues
+  this-person-posted-some-content-that-offends-methey-copied-my-postwhy-did-that-get-approved-its-not-appropriate.:
+    this-person-posted-some-content-that-offends-methey-copied-my-postwhy-did-that-get-approved-its-not-appropriate
 ---
 
 **Updated 10 July 2020 **

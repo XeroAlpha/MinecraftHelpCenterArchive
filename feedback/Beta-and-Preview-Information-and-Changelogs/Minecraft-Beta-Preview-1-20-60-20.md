@@ -4,6 +4,35 @@ date: 2023-11-15T13:32:02Z
 updated: 2023-11-15T14:01:43Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/21354522496525-Minecraft-Beta-Preview-1-20-60-20
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  h_01HF9MJ4D5YFF3YRSZWW1APM8J: experimental-features
+  h_01HF9MJ4D5BVJPB5YM3R62GHVQ: added-breeze-mob
+  h_01HF9MJ4D59P55V7MCYWH2G560: known-parity-breaks
+  h_01HF9MJ4D5EV6H641ZJQ1M9HJ7: trial-spawner
+  h_01HF9MJ4D5DDVK0G0TMJBKFBZN: trial-chambers
+  h_01HF9MJ4D6YW6MSA7803B2222S: known-issues
+  h_01HF9MJ4D6RC7F221RS2A1V8FP: trial-key
+  h_01HF9MJ4D6C480T18CDMYMMBN2: crafter
+  h_01HF9MJ4D6XBF7ZSWC6ZXGK4DN: tuff-bricks
+  h_01HF9MJ4D6Q49D2JVGK6ZA0BD4: features-and-bug-fixes
+  h_01HF9MJ4D6WB1QA47T1S93K2BP: boat
+  h_01HF9MJ4D6F6TXJJKX5SFKM9ED: gameplay
+  h_01HF9MJ4D61FBN4Z2VSFG863H0: general
+  h_01HF9MJ4D6RDG67YJPHAQZ3DN9: character-creator
+  h_01HF9MJ4D6T4JSHA522M3PSKF4: how-to-play-section
+  h_01HF9MJ4D65QEAA96ZQMZPC4ZH: items
+  h_01HF9MJ4D626X577N3MWS93QCB: realms
+  h_01HF9MJ4D6792WHM0F4PWJ7HBX: user-interface
+  h_01HF9MJ4D66FZSXJ1EH77B4Z40: technical-updates
+  h_01HF9MJ4D6SKC1SGRY5ZS9VTT7: api
+  h_01HF9MJ4D6Z02QCKVE9ZCF4BP7: editor
+  h_01HF9MJ4D6E87GPSGBTP9PSPGD: entity-components
+  h_01HF9MJ4D6E3JNGDC40KVRHMHD: items-1
+  h_01HF9MJ4D6J21MQ39THNYX068V: loot-tables
+  h_01HF9MJ4D61TTYN4E5WP0ZJH62: experimental-technical-features
+  h_01HF9MJ4D64BH36X3MYH4MNEC3: graphical
+  h_01HF9MJ4D6HE3EM96X5HREN2SX: api-1
 ---
 
 **Posted:** 15 November 2023

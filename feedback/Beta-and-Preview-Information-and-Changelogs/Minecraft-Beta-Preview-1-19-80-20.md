@@ -4,6 +4,8 @@ date: 2023-03-08T14:05:34Z
 updated: 2023-03-09T11:47:03Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/13817573176461-Minecraft-Beta-Preview-1-19-80-20
+hash:
+  sneak: 15-sneak
 ---
 
 **Posted:** 8 March, 2023

@@ -3,7 +3,10 @@ title: Minecraft - 1.16.1 (Bedrock)
 date: 2020-06-29T16:07:47Z
 updated: 2020-07-21T15:46:02Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360045602971-Minecraft-1-16-1-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360045602971-Minecraft-1-16-1-Bedrock
+hash:
+  th-july-2020---1.16.1-hotfix-update-playstation-4: 16th-july-2020---1161-hotfix-update-playstation-4
+  th-july-2020---1.16.1-hotfix-update-playstation-4-1: 8th-july-2020---1161-hotfix-update-playstation-4
 ---
 
 **Posted:** June 29, 2020

@@ -5,7 +5,35 @@ updated: 2023-09-25T19:04:41Z
 categories: Dungeons Billing
 tags:
   - section_12618268841485
-link: https://help.minecraft.net/hc/en-us/articles/4408969821197-Minecraft-Dungeons-Billing-Information-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4408969821197-Minecraft-Dungeons-Billing-Information-FAQ
+hash:
+  h_01HB6VKNBZT1DP4H0QT3QKTCWH: in-this-article
+  h_01FF8YZZ5Z564TCGXNE26JTCC4: ipaidforthegamemoney-wasdeductedfrommyaccountbut-idonthave-acopyofmygame
+  h_01FF8Z0A95GZTZYV0WZ9B4B9XH: i-purchased-minecraft-dungeons-on-the-wrong-account-can-i-transfer-the-purchase-to-the-correct-one
+  h_01FHE0BESK9WRZ0SHRE3E1Y2TP: i-purchased-minecraft-dungeons-on-xbox-can-i-play-on-another-platform-or-device-without-repurchasing-the-game
+  h_01FF8Z0N9S2VCZB80W83XC34J9: whereismy-minecraft-dungeonspurchasehistorylocated
+  h_01FF8Z12B8V293072VT0X9WQBC: minecraft-dungeons-supportlinks
+  h_01FF8Z1DDCH30XERGEW4DDKTFC: redeeming-a-pre-paid-card-or-gift-code
+  h_01FF8Z1YKNZFJX7G9M29TA0EBX: redeeming-minecraft-dungeons-onpc-launcher-version
+  h_01FF8Z2D32NCWF2CY8HB733JVT: minecraft-dungeons-and-xbox-game-pass
+  h_01HB6VKNC0KP746F46TSD98JTG: access-minecraft-dungeonswithxboxgame-pass
+  h_01FF8Z3447CCCHJ85SVRE751MG: how-long-willxbox-game-pass-give-me-access-to-minecraft-dungeons
+  h_01FF8Z5MFTX2P4519MNM4R0DA8: versionsof-minecraft-dungeons
+  h_01HB6VKNC0RD8GESDNHFH5CAVM: minecraft-dungeons-standard-edition
+  h_01HB6VKNC028W89D84TTG1GDPX: minecraft-dungeons-ultimate-edition
+  h_01HB6VKNC0A6DHM72AB71NQ4RK: minecraft-dungeons-ultimate-dlc-bundle
+  h_01HB6VKNC0JT201NFRWARFSXZC: whathappenstomyminecraft-dungeonssavefilesifmyxbox-game-passsubscriptionends
+  h_01HB6VKNC0H4PPPMJFN5T739CH: whathappenstomy-minecraft-dungeonsclientaftermy-xbox-game-passsubscriptionends
+  h_01HB6VKNC0T2718FDJ1SQ5K84X: can-iget-theultimate-dlc-bundlecontent-even-though-iplaythe-gamewithxboxgame-pass
+  h_01HB6VKNC0NMB05FYMZ4VDPGX0: what-isxbox-game-pass
+  h_01HB6VKNC0SXF6JKRD1YADY30K: upgradingminecraft-dungeons-to-the-ultimate-edition
+  h_01HB6VKNC04E4QC7BF2HC9XKRH: playstation4
+  h_01HB6VKNC0BSZ9DSRSM3SH33K8: nintendo-switch
+  h_01HB6VKNC0RF11518HST31PH83: windows-10-and-above
+  h_01HB6VKNC0A852XVC4ADBTBHFG: minecraft-launcher
+  h_01HB6VKNC01K2NF9PMB98JAJNC: upgrade-minecraft-dungeons-standard-editionon-xbox-one-and-xbox-series-xs
+  h_01HB6VKNC0A29G3V5MJ0NE6GKA: the-hero-passupgrade-can-also-be-purchased-directly-from-yourxboxconsole
+  h_01FF8Z4BFV2A0GCG5C2ZT30PGR: upgrade-minecraft-dungeons-through-xboxgame-pass
 ---
 
 This article details billing information about Minecraft Dungeons.

@@ -6,6 +6,18 @@ categories: Accessibility Settings for Minecraft and Other Minecraft Games
 tags:
   - section_12618985151885
 link: https://help.minecraft.net/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons
+hash:
+  h_01GD3VSWJQYKA0X0P5DE2S5AW8: accessibility-settings
+  h_01GD3VT2086YHWNQZC8HBA0Z32: settings-available-on-the-accessibility-start-menu
+  h_01GD3VT8DPHZ6CB8SQ7RN4CXZ5: accessible-menu-navigation-and-narration
+  h_01GD3VTDDNW86FZ3QZQAKBK7ZQ: about-menu-ui-narration
+  h_01GD3VTKBHA5YR17XZHHYAHTKX: tips-on-navigating-menus
+  h_01GD3VTRBT7MCZST2Q8KT5HN2T: tips-on-navigating-the-minecraft-launcher
+  h_01GD3VVXWAXC6CVAAC4GQ3GAGX: enabling-friends-menu-in-multiplayer
+  h_01GD3VW71Y52EV9RY67SZRN82C: reconnecting-online
+  h_01GD3VWEDBCEAA8YDCK37GRBK6: accessible-chat-using-text-to-speech
+  h_01GD3VWKWXSYFCRK8FJWGW18CA: tips-on-using-text-to-speech-for-chat
+  h_01GD3VWZNS9X3SPCF51HWCPHVH: future-accessibility-features
 ---
 
 We believe everyone should be empowered and enabled to play Minecraft Dungeons. This article will focus on accessibility options available in Minecraft Dungeons.    

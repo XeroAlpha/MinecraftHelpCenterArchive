@@ -20,7 +20,7 @@ tags:
   - platform_oculus
   - platform_pc
   - section_12618581961357
-link: https://help.minecraft.net/hc/en-us/articles/360045950932-Minecraft-Getting-Started-with-Redstone-
+link: https://help.minecraft.net/hc/en-us/articles/360045950932-Minecraft-Getting-Started-with-Redstone
 ---
 
 Redstone is one of the more advanced elements in Minecraft. You can obtain it either by mining a block of redstone ore or by acquiring it from mob/dungeon loot. Redstone occurs across certain biomes in lower levels of the terrain. You are more likely to see redstone ore in caverns in cube-shaped veins. 

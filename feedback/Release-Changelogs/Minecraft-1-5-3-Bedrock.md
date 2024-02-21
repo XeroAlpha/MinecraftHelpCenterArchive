@@ -12,7 +12,7 @@ tags:
   - ios
   - switch
   - 1.5.3
-link: https://feedback.minecraft.net/hc/en-us/articles/360012149892-Minecraft-1-5-3-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360012149892-Minecraft-1-5-3-Bedrock
 ---
 
 **Missing Inventories after Updating to 1.5.0:**

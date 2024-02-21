@@ -23,11 +23,45 @@ tags:
   - platform_PC
   - platform_macOS
   - platform_xbox_series_x/s
-  - trending
   - section_12618497714061
   - section_12618848019981
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ
+hash:
+  01H7ZSFQEZHSAAKQWV3K2AMQW4: what-is-player-abuse-reporting
+  01H7ZSFQF0KRWNR1815R335PD6: why-has-this-feature-been-implemented
+  01H7ZSQ23Y7GZJXJHSZRKXXHA9: how-do-i-report-a-player
+  01H7ZSFQF0FB7JBYB54V2K9D6X: what-can-i-be-banned-for
+  01H7ZSFQF0ZY5J5SGH3PQ819EA: can-i-get-banned-for-cussing-or-swearing
+  01H7ZSFQF0B539JDKTAPP6BNM4: -can-i-get-banned-for-what-i-say-in-singleplayer
+  01H7ZSFQF0TYM4FFEHEX1Q306G: will-you-ban-people-for-talking-about-suicide
+  01H7ZSFQF0ENSWCXZWQQ9ZHZEC: why-does-mojang-need-to-be-involved-in-third-party-server-player-reporting-why-not-just-realms
+  01H7ZSFQF0Z24HSTKEWSV30JGR: banningsuspending
+  01H7ZSQ23ZRA18HKAVTJ05PAMQ: if-i-dont-find-it-offensive-and-my-other-friends-dont-find-it-offensive-why-can-i-be-banned-for-it
+  01H7ZSRRMMPRAYRYM4V07XEY3W: can-i-get-banned-for-using-a-custom-skin
+  01H7ZSFQF00FZP1EYTQF27Z2YN: what-does-it-mean-if-my-account-is-bannedsuspended
+  01H7ZSFQF0XCGBGN4RAH4PBEHA: will-i-know-why-my-account-has-been-banned
+  01H7ZTBDX2MMKWJCFGNT03J3GD: what-does-it-mean-if-my-skin-is-banned
+  01H7ZTESZDY4S8TWQKRNATW71N: i-only-play-singleplayer-why-do-i-have-a-default-skin
+  01H7ZTESZDKMG2X2RZZS4WCERG: what-does-it-mean-if-my-name-is-banned
+  01H7ZSFQF08KP4SFEFG8CBGR4F: can-i-appeal
+  01H7ZSFQF0NXRWVSED6V6WBMA0: are-all-bans-permanent
+  01H7ZSFQF0MEQH4VJ9109G8V2N: why-is-this-an-account-ban-and-not-an-individual-server-ban
+  01H7ZSFQF0HXJFWQABVAFAER21: will-i-get-banned-without-my-case-being-reviewed-by-a-human-
+  01H7ZSFQF0B56PKMKW9GQ1T375: false-bans--abuse-of-the-feature
+  01H7ZSFQF0EZPH2X9RSPTW32NT: are-you-spying-on-my-personal-or-third-party-server
+  01H7ZSFQF0YR46Z7HZC8HM7YJX: is-this-a-player-censoring-chat-filter
+  01H7ZSFQF0JFFNQ0N961310DWV: can-someone-create-a-chat-report-without-evidence
+  01H7ZSFQF0F3YAKWWD84J2AVX4: can-my-messages-be-taken-out-of-context-in-a-chat-report
+  01H7ZSFQF0WXS9F4R5CY8RSEZ3: what-about-the-context-of-in-game-actions-beyond-chat
+  01H7ZSFQF0WPPC8ST4G2SDZPGZ: what-technical-measures-are-there-to-prevent-messages-being-forged
+  01H7ZTQGSGWJFD9783SR64T0G5: how-will-context-be-considered-in-a-skin-or-name-report
+  01H7ZTSE0GVVW1W5C0A07EKPWE: cant-malicious-players-just-change-their-skin
+  01H7ZTT6K0KFGK6A62EPQZA69X: is-the-creator-of-a-skin-responsible-if-the-skin-has-been-banned
+  01H7ZTV4K5YTABK8551ZEXZBMA: what-if-a-custom-server-replaces-or-disguises-my-skin
+  01H7ZSFQF0252MMZ8AGMZ41T1Z: will-i-be-automatically-banned-if-i-am-reported-by-a-lot-of-players-what-about-creators-or-famous-individuals-getting-targeted
+  01H7ZSFQF0KEMR291MRKN7HYH6: what-if-someone-creates-a-mod-that-spamsfakes-reports
+  01H7ZSFQF08WFKSMP7JAAH8CW8: but-what-if-somebody-gains-access-to-my-account
 ---
 
 # What is player abuse reporting? 

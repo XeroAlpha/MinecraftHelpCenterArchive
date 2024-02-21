@@ -20,7 +20,31 @@ tags:
   - platform_other
   - section_12617893243277
   - platform_chromebook
-link: https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Partner-Servers-FAQ
+hash:
+  h_01HE3RWXZ59BNRYDRDVSSMX8X6: in-this-article
+  h_01HE3RY9HPD7RY92E66CQPRGPS: dedicated-servers-for-minecraft-bedrock-edition
+  h_01HE3RYHSA3T5PNG66RRP4V0XT: what-is-a-dedicated-minecraft-bedrock-edition-server
+  h_01HE3RZV4ADDZCA8RD6BATHH7D: what-can-i-do-with-my-dedicated-minecraft-bedrock-edition-server
+  h_01HE3S05BYA9V697PJY5HN07Q8: who-can-play-on-my-dedicated-server
+  h_01HE3S0B62PXM9RWKYCN1PK48M: how-do-i-download-the-dedicatedminecraft-bedrock-editionserver-software
+  h_01HE3S0X2GZ92M9VHT7NCCJTYB: how-do-i-start-up-the-server
+  h_01HE3S13NT0GVXE8BBKBGB7XCH: for-linux
+  h_01HE3S170XYK2CQV34YJ1QPTKT: for-windows
+  h_01HE3S1DZQYFB1PTPWHG6Z3RS1: how-do-player-enforcementallowlists-work
+  h_01HE3S1TBYAGNT041C6DD45AGT: where-can-i-find-more-support
+  h_01HE3S24X09ZKK5ENYT1XKXJZB: partner-servers-forminecraft-bedrock-edition
+  h_01HE3S2MZ6AC4PXMCCC8A9YPH7: what-are-partner-servers
+  h_01HE3S38APBFZNZ858FTGV6H2G: are-the-partner-servers-free-to-play
+  h_01HE3S3DNMXFBNWZCDCF5GE4FB: can-i-purchase-content-in-a-server-store-and-bring-it-back-to-myminecraft-bedrock-editionworlds
+  h_01HE3S3HNR8AHE676DSBD6JXZK: on-which-platforms-are-servers-available
+  h_01HE3S3Y7Z497VEC6Q31W8Q5H6: what-version-ofminecraft-bedrock-editiondo-i-need-to-play-servers
+  h_01HE3S471KZ188ZR0WX47X6T4Y: how-can-iconnect-to-a-partner-server
+  h_01HE3S5PHH9TR56S5SQ6RCDE56: what-is-an-xbox-live-account-and-why-do-i-need-one
+  h_01HE3S5VPZ2JS6E0Q174BQVHCP: are-partner-servers-safe-to-play-on
+  h_01HE3S6ABZFDHMVX24E3K7HC0M: community-servers-for-minecraft
+  h_01HE3S6DQHXV23F4DF31W699S4: what-are-community-servers
+  h_01HE3S7E0C8PGJKE3S8JGV4ERK: where-can-i-learn-more-about-community-servers
 ---
 
 *This help article refers to Minecraft: Bedrock Edition for Xbox One, mobile, Windows, Chromebook, and Nintendo Switch. For help with setting up a Minecraft: Java Edition server, please go to *[*Download the Minecraft: Java Edition Server*](https://minecraft.net/en-us/download/server)*.*

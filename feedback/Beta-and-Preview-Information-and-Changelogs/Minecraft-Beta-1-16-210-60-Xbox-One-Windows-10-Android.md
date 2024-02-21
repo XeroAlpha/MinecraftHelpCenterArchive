@@ -3,7 +3,10 @@ title: Minecraft Beta - 1.16.210.60 (Xbox One/Windows 10/Android)
 date: 2021-02-18T13:46:12Z
 updated: 2021-02-18T16:42:07Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360057279331-Minecraft-Beta-1-16-210-60-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360057279331-Minecraft-Beta-1-16-210-60-Xbox-One-Windows-10-Android
+hash:
+  update-on-experimental-features: update-onexperimental-features
+  technical-fixes-and-changes: technicalfixes-andchanges
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

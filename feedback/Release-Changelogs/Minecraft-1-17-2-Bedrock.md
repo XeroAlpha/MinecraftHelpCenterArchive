@@ -3,7 +3,7 @@ title: Minecraft - 1.17.2 (Bedrock)
 date: 2021-06-22T15:32:41Z
 updated: 2021-06-22T15:37:39Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4403547028237-Minecraft-1-17-2-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/4403547028237-Minecraft-1-17-2-Bedrock
 ---
 
 **Fixes:**

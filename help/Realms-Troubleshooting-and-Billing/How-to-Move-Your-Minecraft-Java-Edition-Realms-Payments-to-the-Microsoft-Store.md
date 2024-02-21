@@ -20,7 +20,14 @@ tags:
   - section_12618006481549
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/19751491773453-How-to-Move-Your-Minecraft-Java-Edition-Realms-Payments-to-the-Microsoft-Store-
+link: https://help.minecraft.net/hc/en-us/articles/19751491773453-How-to-Move-Your-Minecraft-Java-Edition-Realms-Payments-to-the-Microsoft-Store
+hash:
+  h_01HB934KPVTHTYR9PJNM1GHMTN: in-this-article
+  h_01HAZ4F0N4DK1QM5DJ2XFHJFK9: how-to-move-your-java-realms-payments-to-the-microsoft-store
+  h_01HAZ6R1DDQCJPQ1YDYM89EM80: why-are-java-realms-payments-moving-to-the-microsoft-store
+  h_01HAZ6R1DDYXZWAZKXTV546XG8: ive-purchased-a-java-realms-subscription-before-the-shift-but-i-havent-set-it-up
+  h_01HAZ6R1DD38681CWF2ZCXGN34: do-i-get-anything-for-completing-the-java-realms-payment-migration-process
+  h_01HAZ6R1DDWAK6C02CRBPCA0ZV: what-happens-to-my-worlds-if-my-subscription-expires
 ---
 
 As of September 26th, Minecraft: Java Edition Realms subscriptions are moving to the Microsoft Store. This means the payment processor (the company conducting the monthly payment for Minecraft) is changing from Braintree to the Microsoft Store.
@@ -99,4 +106,4 @@ We’re offering 30 free days of Java Realms if you complete the payment migrati
 
 ## What happens to my worlds if my subscription expires?
 
-We will not be deleting any worlds based on players failing to complete the payment migration process. Please refer to [this article](./Minecraft-Java-Edition-Realms-Billing-Issues-FAQ.md#h_01FGCSSR72S26SBJTE7EVVKN98:~:text=for%20further%20assistance.-,HOW%20DOES%20MOJANG%20BACKUP%20YOUR%20REALM%3F,-A%20Realm%20world) for more information on how we manage worlds past a Realm’s expiration date.
+We will not be deleting any worlds based on players failing to complete the payment migration process. Please refer to [this article](../Minecraft-Java-Realms/How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md#h_01FGCSSR72S26SBJTE7EVVKN98:~:text=for%20further%20assistance.-,HOW%20DOES%20MOJANG%20BACKUP%20YOUR%20REALM%3F,-A%20Realm%20world) for more information on how we manage worlds past a Realm’s expiration date.

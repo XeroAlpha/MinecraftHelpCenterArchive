@@ -3,7 +3,7 @@ title: Minecraft - 1.18.11 (Switch Only)
 date: 2022-02-09T21:45:47Z
 updated: 2022-02-11T17:15:05Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4424805981069-Minecraft-1-18-11-Switch-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/4424805981069-Minecraft-1-18-11-Switch-Only
 ---
 
 **Posted:** February 11, 2022

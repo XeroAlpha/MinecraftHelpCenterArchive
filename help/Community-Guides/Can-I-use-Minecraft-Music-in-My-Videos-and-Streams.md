@@ -22,7 +22,11 @@ tags:
   - section_12618645881229
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/21984449056781-Can-I-use-Minecraft-Music-in-My-Videos-and-Streams-
+link: https://help.minecraft.net/hc/en-us/articles/21984449056781-Can-I-use-Minecraft-Music-in-My-Videos-and-Streams
+hash:
+  h_01HGY3RC25RYWEPSB9AKK2SR9G: has-anything-changed
+  h_01HGY3S57T8PAPVZ27X17DH2QK: approved-minecraft-owned-music
+  h_01HGY3SD25KPDN928WEDQRMK70: licensed-music
 ---
 
 Over the years, Mojang Studios has released a large library of music tracks for our different games and projects. It’s a library that grows with at least one chiseled bookshelf every year, and each new game and update adds even more music to the collection. If you’re a content creator, you’ve probably wondered *what* you’re allowed to use from this list, and *how* you are allowed to use it. Wonder no more! Today, we’d like to help clarify those questions.

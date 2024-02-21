@@ -5,7 +5,21 @@ updated: 2023-09-25T18:46:11Z
 categories: Dungeons Billing
 tags:
   - section_12618268841485
-link: https://help.minecraft.net/hc/en-us/articles/4408300602125-Minecraft-Dungeons-on-Steam-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4408300602125-Minecraft-Dungeons-on-Steam-FAQ
+hash:
+  h_01HB6TGE5PG9YZSCRFDA8VV4XB: how-can-i-create-a-steam-account
+  h_01HB6TGE5P65VDNFXEZH5K7ZDB: blobid0pngifialready-have-this-on-pc-is-it-the-same-willihavetorebuy
+  h_01HB6TGE5PRP7PFSNXE6GG5Y2R: if-i-already-own-the-downloadable-content-on-another-platform-will-it-transfer-to-the-steam-version
+  h_01HB6TGE5PY7S1T4JB9JN9P7DT: how-will-achievements-work-if-i-already-own-the-game
+  h_01HB6TGE5Q4V2ZASM92AESZG6J: do-i-need-to-be-online-to-play
+  h_01HB6TGE5QGH1FK2FFZS7DB608: cani-still-use-the-unified-launcher
+  h_01HB6TGE5QH90AEVXYKQ50BZDX: is-steam-workshop-be-supported
+  h_01HB6TGE5QPY20GKV711KCYPEM: can-i-use-my-steam-controller
+  h_01HB6TGE5Q2VTHYEA55BM3BJRF: where-do-i-go-if-i-need-refund-or-technical-support
+  h_01HB6TGE5QRPJVSW564DK8942C: is-there-cross-platform-play
+  h_01HB6TGE5Q7YS8XTFDA6P3KG3T: what-aboutcross-platform-saves
+  h_01HB6TGE5QX25DPAK4VQX31DEY: do-i-need-a-microsoft-account
+  h_01HB6TGE5Q2PNQ10KPFP8ZT148: what-do-i-get-withultimate-edition-and-theultimatedlcbundle
 ---
 
 *Prepare for battle: Minecraft Dungeons is coming to Steam on September 22, 2021! We know you may have questions about Dungeons on Steam, so we made this nifty guide to help.* 

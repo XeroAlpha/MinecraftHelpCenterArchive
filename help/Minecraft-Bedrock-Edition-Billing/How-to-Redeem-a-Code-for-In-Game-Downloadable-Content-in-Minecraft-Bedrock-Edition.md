@@ -7,6 +7,19 @@ categories: "Minecraft: Bedrock Edition Billing"
 tags:
   - section_12617899093133
 link: https://help.minecraft.net/hc/en-us/articles/4404604459405-How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft-Bedrock-Edition
+hash:
+  h_01HB6T2DZPCGWAS6YHAAARXAX3: in-this-article
+  h_01GJ62HYWG561T8HR95TWZ6Z1K: how-do-i-get-a-dlc-code
+  h_01GJ62J3FQBY9Z537MBMVQSFHG: how-does-the-code-work
+  h_01GJ62J90TDPCEHTJEWX3W1E7C: do-i-need-a-microsoft-account
+  h_01GJ62JG4B67H7PWDQ335EJ3TC: how-do-i-redeem-my-dlc-code
+  h_01GJ62JNH1M3GEWFADXTG732NE: where-do-i-find-my-downloadable-content-in-game
+  h_01GJ62JWJX2KMRGS6ZEKENAEPP: how-do-i-equip-my-in-game-dlc-item
+  h_01GJ62K3DRMR05BHB94E0SC6VS: to-equip-your-item-in-minecraft-bedrock-edition
+  h_01GJ62KFY2E7WHMPZH02T0T1KC: do-i-need-a-special-version-of-minecraft-bedrock-edition-to-redeem-a-dlc-code
+  h_01GJ62KPZETBXMCX91MV2KSNXY: how-to-enable-a-childs-account-to-redeem-dlc-codes
+  h_01GJ62KWPZBFTH95PJGR6REMNM: what-do-i-do-if-my-code-is-not-recognizedvalid
+  h_01GJ62MCZ0E1MXAHGNGYBGVSD0: how-do-i-get-additional-help
 ---
 
 *Japanese version here/日本語はこちら: [ゲーム内 DLC のコードの引き換え方法について](https://help.minecraft.net/hc/en-us/articles/4411178613005)*

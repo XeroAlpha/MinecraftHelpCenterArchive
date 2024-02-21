@@ -4,6 +4,8 @@ date: 2021-04-28T14:39:38Z
 updated: 2021-04-28T14:39:57Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360060535111-Minecraft-Java-Edition-Snapshot-21w17a
+hash:
+  changes-to-the-caves-cliffs-preview: changes-to-the-caves--cliffs-preview
 ---
 
 A delicious snapshot appears! This snapshot introduces some tweaks to the raw ore textures, a few copper changes, and the introduction of noodle caves in the Caves & Cliffs Preview datapack.

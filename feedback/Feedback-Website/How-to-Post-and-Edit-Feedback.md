@@ -4,6 +4,8 @@ date: 2018-08-03T17:42:01Z
 updated: 2020-05-21T16:07:08Z
 categories: Feedback Website
 link: https://feedback.minecraft.net/hc/en-us/articles/360012134952-How-to-Post-and-Edit-Feedback
+hash:
+  step-six-follow-posts-you-like-and-be-nice-to-the-ones-you-dont.: step-six-follow-posts-you-like-and-be-nice-to-the-ones-you-dont
 ---
 
 **Updated 21 May 2020**

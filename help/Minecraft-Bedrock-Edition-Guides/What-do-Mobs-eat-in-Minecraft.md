@@ -19,7 +19,7 @@ tags:
   - section_12618583497869
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/19827173448589-What-do-Mobs-eat-in-Minecraft-
+link: https://help.minecraft.net/hc/en-us/articles/19827173448589-What-do-Mobs-eat-in-Minecraft
 ---
 
 There are plenty of mobs you will see as you explore your world in Minecraft. Hostile foes like zombies, skeletons, and creepers will have you working to protect yourself, but passive and friendly mobs that like to be around you can help you in various ways. Whether it is to heal them, get them to breed, or something else, you can feed most passive mobs. Here is a complete list of what those creatures like to eat.

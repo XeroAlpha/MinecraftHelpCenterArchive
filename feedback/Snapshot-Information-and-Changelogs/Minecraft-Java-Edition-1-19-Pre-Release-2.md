@@ -2,7 +2,11 @@
 title: "Minecraft: Java Edition - 1.19 Pre-Release 2 "
 date: 2022-05-24T16:41:22Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6445257309069-Minecraft-Java-Edition-1-19-Pre-Release-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/6445257309069-Minecraft-Java-Edition-1-19-Pre-Release-2
+hash:
+  changes-in-1.19-pre-release-2: changes-in-119-pre-release-2
+  technical-changes-in-1.19-pre-release-2: technical-changes-in-119-pre-release-2
+  fixed-bugs-in-1.19-pre-release-2: fixed-bugs-in-119-pre-release-2
 ---
 
 The second pre-release for 1.19 is now available and it comes with a bunch of bugfixes!

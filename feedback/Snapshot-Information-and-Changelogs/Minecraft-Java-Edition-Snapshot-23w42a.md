@@ -4,6 +4,20 @@ date: 2023-10-18T15:00:52Z
 updated: 2023-10-18T15:00:55Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20496721748493-Minecraft-Java-Edition-Snapshot-23w42a
+hash:
+  h_01HD1MTP2AD0MVFCY1B6AM1M8R: experimental-features
+  h_01HD1MTP2AHM5R9WR02X21H3GF: crafter
+  h_01HD1MTP2A4WER1CS7TBVPMS07: crafter-ui
+  h_01HD1MTP2A1YDCCSETA7WHDNXX: crafter-interaction-with-other-blocks
+  h_01HD1MTP2AX107GETJVWZ89QZR: changes
+  h_01HD1MTP2ASZ8SGPD5RE1R0TRB: technical-changes
+  h_01HD1MTP2AD6EWYH38D7S2YE02: chat-components
+  h_01HD1MTP2AC7SC3WMMRFP9E3H7: serialization
+  h_01HD1MTP2AW1AK0GMKXTGEHNAG: data-pack-version-21
+  h_01HD1MTP2APTFR40DVQ88T8FA3: jigsaw-pool-aliases
+  h_01HD1MTP2ANSG999SYGC47WSXB: resource-pack-version-19
+  h_01HD1MTP2AGERS03E80EPG4D23: fixed-bugs-in-snapshot-23w34a
+  h_01HD1MTP2ATR7SE7W9MT1Z7A7V: get-the-snapshot
 ---
 
 Hey! Today we bring you the first of the features we've shown you during Minecraft Live last weekend: the Crafter!

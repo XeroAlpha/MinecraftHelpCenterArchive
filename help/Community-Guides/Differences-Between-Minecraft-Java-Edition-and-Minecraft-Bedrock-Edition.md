@@ -24,6 +24,9 @@ tags:
   - platform_pc
   - section_12618645881229
 link: https://help.minecraft.net/hc/en-us/articles/360058534412-Differences-Between-Minecraft-Java-Edition-and-Minecraft-Bedrock-Edition
+hash:
+  h_01HPJ28MD5ZETWA5ENCBAQ00QT: minecraft-java-edition
+  h_01HPJ28MD5955W95HZQD8JCW2B: minecraft-bedrock-edition
 ---
 
 While every version of Minecraft is still Minecraft, the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition can be quite extensive. To answer the question of which version is right for you, you will need to consider what features are most important to you. This article will break down the major differences and features of each version. 

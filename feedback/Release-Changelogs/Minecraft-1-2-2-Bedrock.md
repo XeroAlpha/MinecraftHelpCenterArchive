@@ -8,7 +8,7 @@ tags:
   - 1.2.2
   - release_changelog
   - archive
-link: https://feedback.minecraft.net/hc/en-us/articles/360004168431-Minecraft-1-2-2-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004168431-Minecraft-1-2-2-Bedrock
 ---
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.

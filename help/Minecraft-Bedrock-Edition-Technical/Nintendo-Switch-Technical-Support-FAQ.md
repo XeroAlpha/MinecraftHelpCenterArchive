@@ -6,6 +6,34 @@ categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4408894129933-Nintendo-Switch-Technical-Support-FAQ
+hash:
+  h_01HA83TBTREZKMB0YMVVM6S6ZX: in-this-article
+  h_01GK58W05ZYMWZMVV6GTQPYZMC: minecraft-on-nintendo-consoles
+  h_01GK58W57QPG6WR6SKM10GAY74: where-can-i-buyminecraftfor-nintendo-switch
+  h_01GK58WA5C8NFE1BPJMS3XSWNR: what-features-does-it-have
+  h_01GK58WGQGD61YRNPW92N9SQAE: wherecani-gethelp-with-the-nintendo-editions-of-minecraft
+  h_01GK58WQPZT35YP4E04RB968NP: what-is-minecraft-bedrock-edition
+  h_01GK58WZGF5YY1FATVY465ABGR: how-does-this-version-differ-from-the-one-i-already-own
+  h_01GK58X4XK0PAGZQMMKXYQ1VNZ: ialreadyown-minecraft-nintendoswitchedition-so-how-do-i-get-this-new-version
+  h_01GK58XBRA4SQ6GZV8W0E46KGJ: will-downloadable-content-dlc-i-currently-own-transfer-over-to-the-new-version-of-minecraft-bedrock-edition
+  h_01GK58XR39A4VZN9HX4BG769JV: whats-a-microsoft-account-and-why-do-i-need-it-for-a-nintendo-switch
+  h_01GK58XY9SSH50BQ8DBX26YY2Q: nowthat-ihave-amicrosoftaccounthow-do-i-sign-into-it-from-my-nintendo-switch
+  h_01GK58Y6Y2S66Y5WT9DVT6BTV1: how-do-i-find-my-friends-on-their-microsoft-account
+  h_01GK58YM7ZKR180PMVZX21XHX3: i-keep-entering-my-friends-gamertag-into-cross-platformfriendsandcant-findthem-why
+  h_01GK58YYXSEBHX9QHQPDDK0ZM5: do-i-need-to-pay-a-subscription-fee-like-xbox-game-pass-core-to-play-online
+  h_01GK58Z8KCYJG362C3VVT9TJXF: what-is-minecraft-marketplace
+  h_01GK591V6EPJEB9GJZV8HP77RZ: what-areminecoins
+  h_01GK5923CZ3EPZJMK6SQQCZE83: do-my-existing-worlds-transfer
+  h_01GK592WBRT6SVD6RF8DYNQ18K: how-to-transfer-worlds-from-wii-u-to-nintendo-switch
+  h_01GK593EMX87A5JS4C5Y0AB1FM: how-do-i-transfer-existing-worlds-from-minecraft-bedrock-edition-for-nintendo-switch-to-another-version-of-minecraft
+  h_01GK593R8Q63DZE8318NETV2Q0: how-big-are-worlds-in-this-version-of-minecraft-bedrock-edition-for-nintendo-switch
+  h_01GK5940PPV56GWP1E9Q11QY93: im-playing-in-a-world-that-was-transferred-from-the-previous-version-does-it-have-any-size-limitations
+  h_01GK594AGT2DE4W27P84WBMADV: can-i-play-realms-on-this-edition
+  h_01GK594JS1RQMYGF39SRT9J1ST: what-additional-content-isincluded
+  h_01GK594S07R889GJG6NB5PTC51: can-my-friends-on-xbox-play-the-super-mario-mash-up
+  h_01GK5950M08PHGN6ZSR9XYG7GG: how-do-i-link-my-previous-purchases-on-other-minecraft-bedrock-editions-to-my-switch-version
+  h_01GK595A1WJ95937GNZTASE894: i-own-minecraft-nintendo-switch-edition-and-ive-purchased-previous-dlc-how-do-i-get-it-to-sync-to-minecraft-bedrock-edition
+  h_01GK595K6MBPNA3ZAW93CSHPZ5: issues-with-lagging-or-crashing-for-nintendo-switch
 ---
 
 ***Note: As of June 21, 2018, Minecraft: Nintendo Switch Edition (2017) is no longer available for purchase from the Nintendo eShop. Existing owners can continue to play and be able to download this version again if needed.* **

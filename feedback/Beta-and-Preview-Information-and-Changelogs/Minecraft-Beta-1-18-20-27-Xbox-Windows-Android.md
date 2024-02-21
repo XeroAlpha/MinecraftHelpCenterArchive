@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.18.20.27 (Xbox / Windows / Android)
 date: 2022-02-17T15:23:18Z
 updated: 2022-02-17T16:45:57Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4438936661517-Minecraft-Beta-1-18-20-27-Xbox-Windows-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4438936661517-Minecraft-Beta-1-18-20-27-Xbox-Windows-Android
 ---
 
 **Posted:** 17 February 2022

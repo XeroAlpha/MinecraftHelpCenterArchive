@@ -15,6 +15,40 @@ tags:
   - platform_PC
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4408865164173-Minecraft-Bedrock-Edition-with-Ray-Tracing-and-Advanced-Graphics-FAQ
+hash:
+  h_01FF6AC4H9QPYCR24FCTB962KK: what-changes-were-made-to-minecraft-for-windows-with-this-update
+  h_01FF6ACHC03SVK470XZDW80TKM: enter-therenderdragon
+  h_01FF6ACPDP0YFFPKK65NRBP3ZW: what-israytracing
+  h_01FFR0R4CEVEY4BBVCT6728RF8: what-are-the-minimum-requirements-to-experience-physically-based-rendering-pbr-and-ray-tracing-in-minecraft-for-windows
+  h_01FF6AD16HGMK6824BP7449V2G: what-isuniqueaboutraytracing-in-minecraftwhat-ispathtracing
+  h_01FF6AD7FKJFBYNTFQ6D5GTYPC: what-are-shader-modsand-lighting-mods-how-do-they-compareto-ray-tracing-on-minecraft-for-windows
+  h_01FF6ADKQJ6MHQ11KB2F5XWX4W: does-render-dragon-support-community-shaders
+  h_01FF6ADRF50KFF2S55DA8R6BK6: what-is-rtx
+  h_01FF6ADX52XF2MYT2DHNYJE97S: what-is-dxr
+  h_01FF6AE1Y8YJFQ1PBAF7YZNK8H: what-is-nvidia-dlss
+  h_01FF6AE8NWX34MYHRFSA01Z6ZS: what-isphysicallybasedrendering-pbr-howdoes-itimpact-minecraft
+  h_01FF6AEJ1Q7FBT9VBA0R2HRT4M: is-ray-tracing-a-special-version-of-minecraft-bedrock-edition
+  h_01FF6AF0CB35YBVH2GYW8DT6EA: is-minecraft-bedrock-edition-with-ray-tracing-free
+  h_01FF6AF7DC9M6T1NEE1JTFRHVW: are-pbr-orraytracingfeaturescoming-to-minecraft-java-editionorotherhardwareplatforms
+  h_01FF6AFNHYMPEZ0CTM3DQWV823: raytracing-andphysicallybasedmaterialssoundprettyfancy-doyouhaveanymorebeforeafterpictures-toshow-us-thedifference
+  h_01FF6AH7DWMKSHRQNAM2X90FQ1: arethereplans-tosupport-the-nvidia-geforce-gtxseriescards
+  sounds-awesome-how-do-i-experience-it: soundsawesome-how-do-iexperience-it
+  h_01FF6AHN11QXQ7AR9JCHS0990Y: otherhandydocumentation
+  using-fog-in-resource-packs: usingfog-inresourcepacks
+  ray-tracing-texture-set-documentation: ray-tracingtexturesetdocumentation
+  examples-of-.texture_set.json-files: examples-oftexture_setjsonfiles
+  invalid-.texture_set.json: invalidtexture_setjson
+  i-had-the-ray-tracing-beta-installed.-what-do-i-do-to-get-the-latest-version: i-had-theraytracingbetainstalled-what-do-i-do-toget-thelatestversion
+  how-do-i-turn-ray-tracing-features-on-and-off-in-the-game: how-do-iturnraytracingfeatures-on-and-off-in-thegame
+  why-is-render-distance-different-when-ray-tracing-is-turned-on: why-isrenderdistancedifferentwhenraytracing-isturned-on
+  what-is-the-upscaling-toggle: what-is-the-upscalingtoggle
+  h_01FFNHYXTENBW97EG5RNPWYF95: what-are-graphics-drivers-why-am-i-being-informed-that-mine-may-be-out-of-date-how-do-i-update-my-graphics-drivers
+  how-can-i-create-my-own-pbr-resource-pack-and-play-with-ray-tracing: howcan-icreate-myown-pbrresourcepack-andplay-withraytracing
+  why-arent-all-light-emitting-blocks-glowing-in-ray-tracing-worlds: whyarent-alllight-emittingblocksglowing-inraytracingworlds
+  i-have-a-new-feature-request: ihave-anewfeaturerequest
+  i-think-i-found-a-bug: ithink-ifound-abug
+  top-known-issues-when-ray-tracing-is-enabled: topknownissueswhenraytracing-isenabled
+  other-known-issues: otherknownissues
 ---
 
 This article details information about Minecraft: Bedrock Edition with ray tracing as well as some advanced information about Minecraft: Bedrock Edition's graphics settings.

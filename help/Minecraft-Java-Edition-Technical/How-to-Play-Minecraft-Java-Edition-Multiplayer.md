@@ -14,6 +14,13 @@ tags:
   - platform_pc
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/4410317081741-How-to-Play-Minecraft-Java-Edition-Multiplayer
+hash:
+  h_01GH9N2WH0HBF3NJAPWREF80JE: do-i-have-the-right-version
+  h_01FGSNQW64PVTP6P03M9GJXWE2: playing-on-a-local-area-network-lan
+  h_01FGSNR6EWBJE37XZ71G15S59T: playing-on-an-online-server
+  h_01GH9N3HC031GH7GAWFSDTDF3T: connect-to-another-players-server
+  h_01FGW4RM6RN52032P35NWR62A5: -troubleshooting-multiplayer-connection-issues
+  h_01FGW4XH56RR4BH61B75Z6VQHR: didnt-find-the-answer
 ---
 
 *This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft Multiplayer.](../Minecraft-Bedrock-Edition-Technical/How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md)***

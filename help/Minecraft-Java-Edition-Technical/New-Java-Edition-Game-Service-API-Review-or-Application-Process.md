@@ -16,7 +16,7 @@ tags:
   - platform_windows_10/11
   - section_12618019146893
   - new
-link: https://help.minecraft.net/hc/en-us/articles/16254801392141-New-Java-Edition-Game-Service-API-Review-or-Application-Process-
+link: https://help.minecraft.net/hc/en-us/articles/16254801392141-New-Java-Edition-Game-Service-API-Review-or-Application-Process
 ---
 
 Mojang is improving the Minecraft: Java Edition ecosystem regarding third-party applications that interact with the Java Edition game service APIs. While many of these third-party applications integrate successfully into our services, some attempt to maliciously exploit our users through methods such as phishing attempts.   

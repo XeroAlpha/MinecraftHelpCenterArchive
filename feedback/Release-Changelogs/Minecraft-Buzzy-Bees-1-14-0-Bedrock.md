@@ -3,7 +3,7 @@ title: Minecraft - Buzzy Bees - 1.14.0 (Bedrock)
 date: 2019-12-03T17:13:30Z
 updated: 2019-12-16T16:16:16Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360037105792-Minecraft-Buzzy-Bees-1-14-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360037105792-Minecraft-Buzzy-Bees-1-14-0-Bedrock
 ---
 
 **Posted: **December 10, 2019

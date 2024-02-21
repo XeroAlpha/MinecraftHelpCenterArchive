@@ -8,6 +8,11 @@ tags:
   - section_24069904400141
   - Add-Ons
 link: https://help.minecraft.net/hc/en-us/articles/24120525083533-How-to-activate-Minecraft-Add-Ons
+hash:
+  h_01HPMVDZHG97RAN1HSN5HFEHZK: how-to-install-an-add-on-with-a-new-world
+  h_01HPMVFQ6GNW6ZRCSM352AVPBN: how-to-install-your-add-on-in-an-existing-world
+  h_01HPMVKKT2KCDS2XCPCK486PPX: how-to-use-add-ons-in-realms
+  h_01HPMVQRP8EKE6K02J82HTPRJN: related-articles
 ---
 
 Add-Ons are available through the Marketplace or PlayStation Store in Minecraft: Bedrock Edition.  

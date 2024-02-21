@@ -4,6 +4,9 @@ date: 2023-05-10T14:15:29Z
 updated: 2023-05-10T14:15:33Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/15649443624973-Minecraft-Java-Edition-1-20-Pre-release-1
+hash:
+  server.properties: serverproperties
+  fixed-bugs-in-1.20-pre-release-1: fixed-bugs-in-120-pre-release-1
 ---
 
 It is now time for the first Pre-release for Minecraft 1.20: The Trails and Tales update!

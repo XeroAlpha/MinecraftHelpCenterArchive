@@ -11,7 +11,13 @@ tags:
   - platform_windows_10/11
   - section_12617893243277
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ
+hash:
+  h_01GV11RPT4W5DPM5X0S11DNG44: what-platforms-is-minecraft-bedrock-edition-editor-available-on
+  h_01GV11RWEFFQZPCB4ZP5FSWG76: how-do-i-install-minecraft-editor
+  h_01GV11S1RDBAM4FB4GYBP9Y2R6: is-minecraft-editor-available-in-the-minecraft-launcher
+  h_01GV11S7NRPZVXQC0CT51WA6HE: where-can-i-give-feedback-and-report-bugs
+  h_01GV11SCM02PXD8CXY5SM4FD00: where-can-i-find-documentation
 ---
 
 ![Minecraft_Editor.png](https://minecrafthelp.zendesk.com/hc/article_attachments/13766866906893)

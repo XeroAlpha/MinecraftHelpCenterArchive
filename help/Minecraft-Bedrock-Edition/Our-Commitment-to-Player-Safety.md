@@ -7,6 +7,15 @@ tags:
   - section_15463792344973
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety
+hash:
+  h_01G95X5MTT2JGYSAGTRGZ833Z7: player-safety
+  h_01G95X64EPHDASXYREN1JJ4JCZ: our-safety-approach
+  h_01G95X6EP66CSAKHQH6YA1J3RW: prevention-and-proactive-action
+  h_01G95X6ZSKYQ6SGC8D6AB7XCNB: community-guidelines
+  h_01G95X76WR1PM97XBXDE7G25KE: proactive-moderation
+  h_01G95X7G582VXENHV2W7Q7JE6Q: human-approaches
+  h_01G95X80K9GJGEJF96T75GVXHK: human-moderation
+  h_01G95X87Z1SR8PVQYRNJ2BYM04: whats-next
 ---
 
 This article details Mojang and Minecraft's dedication to creating the safest player experience possible.

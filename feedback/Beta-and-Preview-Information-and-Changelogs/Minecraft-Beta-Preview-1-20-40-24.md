@@ -4,6 +4,9 @@ date: 2023-10-03T20:59:18Z
 updated: 2023-10-04T15:52:43Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20073657838989-Minecraft-Beta-Preview-1-20-40-24
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  01HBVR81WG039T9FJPMN775R4B: fixes
 ---
 
 **Posted:** October 4, 2023

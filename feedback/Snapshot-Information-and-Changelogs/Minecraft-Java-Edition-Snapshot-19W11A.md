@@ -4,6 +4,8 @@ date: 2019-03-13T15:36:31Z
 updated: 2019-03-13T15:37:09Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360024978852-Minecraft-Java-Edition-Snapshot-19W11A
+hash:
+  march-2019: 13-march-2019
 ---
 
 #### **13 March 2019**

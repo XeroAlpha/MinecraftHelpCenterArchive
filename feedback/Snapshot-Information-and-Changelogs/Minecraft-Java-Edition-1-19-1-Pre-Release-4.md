@@ -4,6 +4,9 @@ date: 2022-07-08T13:08:53Z
 updated: 2022-07-08T13:08:58Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/7525860212749-Minecraft-Java-Edition-1-19-1-Pre-Release-4
+hash:
+  technical-changes-in-1.19.1-pre-release-4: technical-changes-in-1191-pre-release-4
+  fixed-bugs-in-1.19.1-pre-release-4: fixed-bugs-in-1191-pre-release-4
 ---
 
 We've now released 1.19.1 pre-release 4. This pre-release fixes an exploit found regarding contextual chat evidence when creating a Player Report.

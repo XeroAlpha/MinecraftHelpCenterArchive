@@ -3,7 +3,12 @@ title: "Minecraft: Java Edition - 1.18.2 "
 date: 2022-02-28T14:07:36Z
 updated: 2022-02-28T14:07:39Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4531177623437-Minecraft-Java-Edition-1-18-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/4531177623437-Minecraft-Java-Edition-1-18-2
+hash:
+  changes-in-1.18.2: changes-in-1182
+  technical-changes-in-1.18.2: technical-changes-in-1182
+  placefeature-command: placefeaturecommand
+  fixed-bugs-in-1.18.2: fixed-bugs-in-1182
 ---
 
 We're now releasing 1.18.2 for Minecraft: Java Edition. This release adds universal tags and the placefeature command. It also introduces the possibility for experimental data packs to customize cave generation and to add new custom structures to worlds.

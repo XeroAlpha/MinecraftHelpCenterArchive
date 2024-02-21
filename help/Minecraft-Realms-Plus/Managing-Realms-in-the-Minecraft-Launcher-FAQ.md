@@ -22,6 +22,8 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/17987026917133-Managing-Realms-in-the-Minecraft-Launcher-FAQ
+hash:
+  i-am-not-a-realms-subscriber.-how-do-i-subscribe: i-am-not-a-realms-subscriber-how-do-i-subscribe
 ---
 
 Realms are now accessible in the Minecraft Launcher! Please read on for more information on how to manage invites, subscriptions, and more.

@@ -18,6 +18,12 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/23431742854413-Troubleshooting-Accessing-Games-from-the-Minecraft-Launcher
+hash:
+  h_01HMSDKBGDG95VT9V6PFK4YTGT: in-this-article
+  h_01HMSDKT4CHR2E9N71FAC28PS1: i-can-play-minecraft-bedrock-edition-but-not-java
+  h_01HMSDT99AES765JPV7VHTY334: i-dont-see-my-games-or-a-play-button-to-press-how-can-i-play
+  h_01HMSDXRB0N51XKP0ZDA2W01QM: i-get-sent-to-the-windows-store-when-i-try-to-launch-a-game-from-the-minecraft-launcher
+  h_01HMSE1VBGK37GYRYAZ0WT1HNV: i-own-bedrock-but-when-i-try-to-run-java-i-cant-create-a-profile
 ---
 
 This article focuses on issues that may be preventing you from having access to Minecraft games in the Minecraft Launcher. For other troubleshooting topics, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).

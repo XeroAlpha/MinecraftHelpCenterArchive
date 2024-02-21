@@ -4,6 +4,29 @@ date: 2024-02-15T12:37:44Z
 updated: 2024-02-16T09:35:27Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24139781551117-Minecraft-Beta-Preview-1-20-70-24
+hash:
+  h_01HPPG8XE6PEBHP6K6M5DGQMRH: information-on-the-minecraft-preview-and-beta
+  h_01HPPCAHC3Q1ST8CJJJYXBG7ZE: experimental-features
+  h_01HPPCAHC3B7B55KR84FZFRQGK: wind-charge
+  h_01HPPCAHC3J4FNWPJSB205TT7H: bogged
+  h_01HPPCAHC321NAN6CT9ANBG6E2: breeze
+  h_01HPPCAHC3SFZ2TH38H10ZE7DH: trial-chambers
+  h_01HPPCAHC3G03ZW6E506XRJHT0: bug-fixes
+  h_01HPPCAHC3RD55EK4KNPW6P1T5: features-and-bug-fixes
+  h_01HPPCAHC3JRE41EF2RKST6ETV: blocks
+  h_01HPPCAHC3QMQ5ZDQT5TNHW9N1: commands
+  h_01HPPCAHC387625PRAHXH67H7C: game-tips
+  h_01HPPCAHC3SKEGEBSQ68THWW05: realms
+  h_01HPPCAHC3RNKZ1VSQ363WY829: stability-and-performance
+  h_01HPPCAHC3MK5DA1FED2YSWAPB: user-interface
+  h_01HPPCAHC3TDXVYDM66PAZSY1A: technical-updates
+  h_01HPPCAHC37W4Y2S2GEPJEMMT9: add-ons-and-script-engine
+  h_01HPPCAHC3TH89E8ZZXV7FRCGP: editor
+  h_01HPPCAHC4YEQPM7B4MARGW7BQ: marketplace-server-driven-layouts-sdl
+  h_01HPPCAHC4W1A3H4J51TTDC59X: character-creator
+  h_01HPPCAHC431AT9CTVQKH9DX4Z: stability-and-performance-1
+  h_01HPPCAHC472ET87S60HTQFT4T: experimental-technical-updates
+  h_01HPPCAHC44TA8GHJ16JT5XEV4: api
 ---
 
 **Posted:** 15 February 2024

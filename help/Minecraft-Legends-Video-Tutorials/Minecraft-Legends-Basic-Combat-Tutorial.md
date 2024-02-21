@@ -8,6 +8,9 @@ tags:
   - title_legends
   - section_14816440560653
 link: https://help.minecraft.net/hc/en-us/articles/14817936862349-Minecraft-Legends-Basic-Combat-Tutorial
+hash:
+  this-article-goes-alongside-a-video-tutorial-for-minecraft-legends.-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video.:
+    this-article-goes-alongside-a-video-tutorial-for-minecraft-legends-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video
 ---
 
 ## This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside **[this video](https://youtu.be/kM0JSr6aKuo)**. 

@@ -3,7 +3,7 @@ title: "Minecraft - Caves & Cliffs: Part I - 1.17.0 (Bedrock)"
 date: 2021-06-04T20:39:53Z
 updated: 2021-06-14T13:37:11Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4402427632013-Minecraft-Caves-Cliffs-Part-I-1-17-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/4402427632013-Minecraft-Caves-Cliffs-Part-I-1-17-0-Bedrock
 ---
 
 Delve into Part I of the Caves & Cliffs update with fun mobs, blocks, and items! Go underwater to team up with the Axolotl and swim alongside the Glow Squid. When you reach higher ground, tread carefully because the Goats might ram you! Want to build a settlement that changes over time? Mine Copper and use it to build structures that will age right before your eyes. Have some spare Copper? Craft a Lightning Rod or go mining in an Amethyst Geode and make a Spyglass! If you want even more blocks, the Wandering Trader might have a lush surprise for you. This is a BIG changelog, so let’s jump in!

@@ -14,6 +14,8 @@ tags:
   - platform_xbox_series_x/s
   - section_12618340057613
 link: https://help.minecraft.net/hc/en-us/articles/9983172714893-Minecraft-Dungeons-Season-3-FAQ
+hash:
+  player-tower-co-op: 4-player-tower-co-op
 ---
 
 This article answers everything you need to know about Minecraft Dungeons Season 3.

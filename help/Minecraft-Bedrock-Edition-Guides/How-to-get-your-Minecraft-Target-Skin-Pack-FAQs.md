@@ -20,6 +20,12 @@ tags:
   - platform_oculus
   - section_12618581961357
 link: https://help.minecraft.net/hc/en-us/articles/360049975351-How-to-get-your-Minecraft-Target-Skin-Pack-FAQs
+hash:
+  h_01HC0FN7VFYCWX2ERYT6BDRQ9E: how-do-i-get-that-special-minecraft-skin-pack-i-saw-in-the-target-holiday-kids-catalog
+  h_01HC0FN7VFB1M04RAYYNV8N67N: do-i-need-a-microsoft-xbox-live-account-to-redeem-the-target-holiday-skin-pack
+  h_01HC0FN7VFWB3RHZV1X4FX8V1P: where-do-i-find-my-downloadable-content-in-game
+  h_01HC0FN7VFWJWVJ4H6Z77V0GFM: how-do-i-activate-my-character-skin-in-the-game
+  h_01HC0FN7VF8W4Z3XN8R41Z0J8P: do-i-need-a-special-version-of-minecraft-to-redeem-the-code
 ---
 
 ## How do I get that special Minecraft skin pack I saw in the Target Holiday Kids Catalog?

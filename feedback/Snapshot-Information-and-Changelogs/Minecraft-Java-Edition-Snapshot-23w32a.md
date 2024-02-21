@@ -4,6 +4,29 @@ date: 2023-08-30T12:37:42Z
 updated: 2023-08-30T12:38:28Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19021208991885-Minecraft-Java-Edition-Snapshot-23w32a
+hash:
+  h_01H9375TM2V3JBZYV8Y33J92Z8: changes
+  h_01H9375TM26VG3TQ6VCHH7ZZMH: vibrations
+  h_01H9375TM2JCD0928FAW20EVT4: technical-changes
+  h_01H9375TM29F8TZJABRT44WCME: resource-pack-version-17
+  h_01H9375TM23ETDKWKEQGXDPTBG: data-pack-version-17
+  h_01H9375TM2WNZW5BF96SGGYVFG: mob-effect-storage-changes
+  h_01H9375TM2951DRFXK09QM726W: mob-effect-instance
+  h_01H9375TM246CAGZ0873S7GVWZ: items
+  h_01H9375TM2P3CX51PPQFMZD874: potionlingering_potionsplash_potiontipped_arrow
+  h_01H9375TM3P7DCNQFVQ435BKPC: suspicous_stew
+  h_01H9375TM323PBND3860QZVF2N: entities
+  h_01H9375TM3WZJYV1GTZ8QZAN19: mooshroom
+  h_01H9375TM3YVB9TF4MKPE7JPEE: area_effect_cloud
+  h_01H9375TM3VNBGTVNQYQPNKZKM: arrow
+  h_01H9375TM3A97KWFYWFSCPEF31: players-armor-stands-and-mobs
+  h_01H9375TM3KF9X7GSQ82MM5FBY: block-entities
+  h_01H9375TM3V3X3JEY1SVQH0E3Y: beacon
+  h_01H9375TM3DQGT39A5AGK1Z3S6: loot-tables
+  h_01H9375TM34N51SE85ZR1MC014: network-optimizations
+  h_01H9375TM3CWKKXDMEPS9NKSR9: secure-chat
+  h_01H9375TM3647JF4TRP08299B5: fixed-bugs-in-snapshot-23w32a
+  h_01H9375TM3QQHVK5R2YQ12S3YP: get-the-snapshot
 ---
 
 Hello! This very technical snapshot contains vibration changes, data pack and resource pack changes, some network optimizations, new debug tools, and a some bug fixes. Enjoy!

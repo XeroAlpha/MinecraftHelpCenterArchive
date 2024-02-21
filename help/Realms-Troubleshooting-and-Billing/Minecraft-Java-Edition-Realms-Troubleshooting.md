@@ -21,6 +21,10 @@ tags:
   - section_12618486785805
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4410380333453-Minecraft-Java-Edition-Realms-Troubleshooting
+hash:
+  h_01FGWAZ2E2FAZ1DP039NS3ABZQ: quick-tips
+  h_01FGWAZCP29GNQQ91Y3JYJHAFD: troubleshooting
+  h_01FGWAZVY8FCAA96D69PHXGFS1: didnt-find-the-answer
 ---
 
 *This article provides general troubleshooting for connection issues for Minecraft: Java Edition Realms. See:* [*Minecraft Realms Plus Multiplayer Troubleshooting*](./Minecraft-Realms-Plus-Troubleshooting.md) *for information on Minecraft Realms Plus multiplayer issues.*

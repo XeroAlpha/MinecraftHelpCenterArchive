@@ -15,6 +15,20 @@ tags:
   - section_4408801942541
   - section_12618645881229
 link: https://help.minecraft.net/hc/en-us/articles/4423653831821-Minecraft-Preview-FAQ
+hash:
+  h_01HGV6MCEMN7H5W5PJT985K2EP: what-is-minecraft-preview
+  h_01HGV6MCEM00QQNRZSGH99JQJY: in-this-article
+  h_01GAM57101QRKR166W0K784RER: what-platforms-is-minecraft-preview-available-on
+  h_01GAM576H69GTQFESB5SHDG73Q: is-minecraft-preview-coming-to-other-platforms
+  h_01GAM57C3YJRTCQCJ01DVSCBHM: is-minecraft-beta-still-available
+  h_01GAM57KZ9H0HN953KNQ1PXNX2: how-do-i-install-minecraft-preview
+  h_01GAM57T4MY8BBF9E6MC5CEK84: do-xbox-game-pass-players-get-to-participate-in-minecraft-preview
+  h_01GAM581438QEANVE5HTMAQ8BK: is-minecraft-preview-available-in-the-minecraft-launcher
+  h_01GAM5885C7B9RGXGE002KB5NE: what-happened-to-the-minecraft-beta
+  h_01GAM58EFM4VK9PHPBYGX63S53: can-minecraft-worlds-be-imported-into-minecraft-preview
+  h_01GAM58M9QQJM6ZR89XXESSVF8: what-features-arent-available-in-minecraft-preview
+  h_01H4KZXVDGSN47ZW5QHZFW0PQP: how-do-i-leave-minecraft-preview
+  h_01GAM58S6MYF65AYNWMPEG4XBY: where-can-i-give-feedback-and-report-bugs
 ---
 
 ![MCMKT_PreviewKeyArt_2-to-1_Banner_2000x1000.jpg](https://minecrafthelp.zendesk.com/hc/article_attachments/4423647884557)

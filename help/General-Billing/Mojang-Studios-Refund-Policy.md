@@ -33,6 +33,10 @@ tags:
   - section_12619005712013
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-Studios-Refund-Policy
+hash:
+  purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations.:
+    purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations
+  refunds-for-minecoin-or-token-purchases: refunds-forminecoinor-tokenpurchases
 ---
 
 1.  Eligibility: All Minecraft products are eligible for a refund within 14 days of purchase. All purchases for **Minecraft: Java & Bedrock Edition for PC made on or after July 25th, 2022, will be handled through Microsoft for refund support here: **[**Request a refund for digital games \| Xbox Support**](https://support.xbox.com/en-US/help/subscriptions-billing/buy-games-apps/refund-orders "https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders")

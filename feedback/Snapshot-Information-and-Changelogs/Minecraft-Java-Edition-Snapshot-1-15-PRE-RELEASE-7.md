@@ -7,6 +7,21 @@ tags:
   - java
   - snapshot
 link: https://feedback.minecraft.net/hc/en-us/articles/360036947092-Minecraft-Java-Edition-Snapshot-1-15-PRE-RELEASE-7
+hash:
+  changes-in-1.15-pre-release-7: changes-in-115-pre-release-7
+  fixed-bugs-in-1.15-pre-release-7: fixed-bugs-in-115-pre-release-7
+  changes-in-1.15-pre-release-6: changes-in-115-pre-release-6
+  fixed-bugs-in-1.15-pre-release-6: fixed-bugs-in-115-pre-release-6
+  changes-in-1.15-pre-release-5: changes-in-115-pre-release-5
+  fixed-bugs-in-1.15-pre-release-5: fixed-bugs-in-115-pre-release-5
+  changes-in-1.15-pre-release-4: changes-in-115-pre-release-4
+  fixed-bugs-in-1.15-pre-release-4: fixed-bugs-in-115-pre-release-4
+  changes-in-1.15-pre-release-3: changes-in-115-pre-release-3
+  fixed-bugs-in-1.15-pre-release-3: fixed-bugs-in-115-pre-release-3
+  changes-in-1.15-pre-release-2: changes-in-115-pre-release-2
+  fixed-bugs-in-1.15-pre-release-2: fixed-bugs-in-115-pre-release-2
+  changes-in-1.15-pre-release-1: changes-in-115-pre-release-1
+  fixed-bugs-in-1.15-pre-release-1: fixed-bugs-in-115-pre-release-1
 ---
 
 # CHANGES IN 1.15 PRE-RELEASE 7

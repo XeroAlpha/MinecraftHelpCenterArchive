@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.19 Release Candidate 2 "
 date: 2022-06-03T12:55:41Z
 updated: 2022-06-03T12:55:46Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6651784979085-Minecraft-Java-Edition-1-19-Release-Candidate-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/6651784979085-Minecraft-Java-Edition-1-19-Release-Candidate-2
+hash:
+  fixed-bugs-in-1.19-release-candidate-1: fixed-bugs-in-119-release-candidate-1
 ---
 
 We're now releasing the first (and hopefully only) release candidate for The Wild Update. If there are no major issues following this release, no further changes will be done before the full release. 

@@ -20,6 +20,22 @@ tags:
   - platform_chromebook
   - subject_new_or_existing_subscription_questions
 link: https://help.minecraft.net/hc/en-us/articles/22471397285901-Minecraft-Bedrock-Edition-Realms-Subscriptions-FAQ
+hash:
+  h_01HHZDHSGVG77GMCA14JHV8WPT: in-this-article
+  h_01HHZDHSGVJ6Z0KXX3VDEHA03E: how-much-is-a-realms-subscription
+  h_01HHZDHSGV7FB6GEMH0F1B7YEA: what-is-realms-plus
+  h_01HHZDHSGVPXEMFK1R5MK575CW: how-much-does-a-realms-plus-subscription-cost
+  h_01HHZDHSGWZHX1KCCXDPZF6J1W: how-long-will-my-subscription-last
+  h_01HHZDHSGWS4X6YEW9NE5VGM4M: what-happens-to-my-realms-and-worlds-when-my-subscription-to-realms-plus-ends
+  h_01HHZDHSGWXJS7W1935FDPH0W0: do-i-need-xbox-game-pass-or-another-subscription-to-play-on-a-realm
+  h_01HHZDHSGWP4QTFGNZVDDQR0K0: how-do-i-cancel-a-subscription-or-restart-a-canceled-subscription
+  h_01HHZDHSGW91W557W9M1KYAYFG: can-i-use-my-realms-plus-packs-offline
+  h_01HHZDHSGWC0VCN4FXYCD96Z8G: can-i-host-my-realms-plus-worlds-texture-packs-skins-and-mash-ups-on-my-realm
+  h_01HHZDHSGWDH4852ZFDKH5DTC5: how-often-are-new-packs-added-to-realms-plus
+  h_01HHZDHSGW0TG7BJ45C3W5MD8G: how-long-do-i-have-access-to-packs-within-realms-plus
+  h_01HHZDHSGWHMAK5MQQPX60M7D7: if-i-download-a-pack-can-i-access-it-after-it-leaves-realms-plus
+  h_01HHZDHSGWCJWWZ03C69XNHEW0: where-do-these-packs-come-from
+  h_01HHZDHSGX180ABC8FQSEH3ZRN: how-many-world-templates-can-i-play-with-realms-plus
 ---
 
 Minecraft: Bedrock Edition Realms comes with a few subscription tiers and various other benefits. If you’re feeling overwhelmed by the amount on offer, this article details everything you need to know. 
@@ -100,7 +116,7 @@ A Nintendo Switch Online subscription is required for playing multiplayer on Nin
 
 ## How do I cancel a subscription or restart a canceled subscription?
 
-See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) for information on canceling recurring Minecraft Realms subscriptions.  
+See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) for information on canceling recurring Minecraft Realms subscriptions.  
 
 ## Can I use my Realms Plus packs offline?  
 

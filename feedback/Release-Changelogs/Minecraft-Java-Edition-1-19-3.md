@@ -4,6 +4,13 @@ date: 2022-12-08T08:12:40Z
 updated: 2022-12-08T08:12:44Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/11280166737293-Minecraft-Java-Edition-1-19-3
+hash:
+  new-features-in-1.19.3: new-features-in-1193
+  changes-in-1.19.3: changes-in-1193
+  technical-changes-in-1.19.3: technical-changes-in-1193
+  worldloaded-worldunloaded: worldloaded--worldunloaded
+  experimental-features-in-1.19.3: experimental-features-in-1193
+  fixed-bugs-in-1.19.3: fixed-bugs-in-1193
 ---
 
 We're now releasing 1.19.3 for Minecraft: Java Edition. This release gives the Vex a brand new look as well as containing technical improvements and bug fixes.

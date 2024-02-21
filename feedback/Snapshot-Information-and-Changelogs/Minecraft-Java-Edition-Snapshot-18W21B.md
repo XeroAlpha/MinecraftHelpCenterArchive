@@ -8,6 +8,8 @@ tags:
   - snapshot
   - 18W22A
 link: https://feedback.minecraft.net/hc/en-us/articles/360004288472-Minecraft-Java-Edition-Snapshot-18W21B
+hash:
+  changes-in-18w21b: fixed-bugs-in-18w21b
 ---
 
 # CHANGES IN 18W21A

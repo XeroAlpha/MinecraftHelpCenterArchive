@@ -3,7 +3,18 @@ title: "Minecraft: Java Edition - 1.20.2 Pre-Release 1 "
 date: 2023-09-05T14:40:54Z
 updated: 2023-09-05T14:44:14Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/19208108934925-Minecraft-Java-Edition-1-20-2-Pre-Release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/19208108934925-Minecraft-Java-Edition-1-20-2-Pre-Release-1
+hash:
+  h_01H9JWN2GSSWMSXGV2R7R38GDK: changes
+  h_01H9JWN2GSCAK7SQXD72Y9MQCD: technical-changes
+  h_01H9JWN2GSN5TNF7P9VVQYBM4B: data-pack-version-18
+  h_01H9JWN2GSC78N5CYJA7TB20MX: experimental-features
+  h_01H9JWN2GS3VXJNG310DS2BXMZ: villager-trade-rebalance-part-2
+  h_01H9JWN2GS3325E3SJ80RSCMPE: cartographer
+  h_01H9JWNQS5J3VSACKN8N5XVVT4: armorer
+  h_01H9JWP86W676KK31PBTR4TG15: structure-loot
+  h_01H9JWP86WT8V2BS8XXX3N8VNM: fixed-bugs-in-1202-pre-release-1
+  h_01H9JWP86WJFPZZ0XPGAENDYV9: get-the-pre-release
 ---
 
 Are you prepared for Pre-release 1 of 1.20.2? Moving into pre-releases means that, moving forward, you won't see any significant changes besides bug fixes and tweaks until the next snapshot cycle. It also means that we will be releasing more frequently than just Wednesdays, so keep your eyes peeled! However, Pre-release 1 brings new changes to the 'Villager Trade Rebalance' experiment, updates to Recipe Book search, command changes, and a new game rule!

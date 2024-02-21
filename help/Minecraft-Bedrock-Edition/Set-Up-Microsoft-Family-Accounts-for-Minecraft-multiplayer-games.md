@@ -32,6 +32,9 @@ tags:
   - trending
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games
+hash:
+  h_01HQ44H80QWE5ED40D6GSFSGBB: follow-these-steps-to-set-up-your-family-accounts
+  h_01HQ44H26X4CH76GE47HYA6389: related-articles
 ---
 
 Child accounts are all accounts for those under the age of 16 for the US & EU, or 19 for South Korea. If there isn't an adult account associated with the child account, the adult must make a Microsoft account and associate the already-created child account with it. Only parent accounts can modify settings.
@@ -52,9 +55,9 @@ See Managing multiplayer game access for a child account in Minecraft to learn m
 
 ### Related Articles
 
-[Managing spending for child accounts in the Minecraft Marketplace](https://help.minecraft.net/hc/en-us/articles/24302243825677-Managing-spending-for-child-accounts-in-Minecraft-Marketplace)
+[Managing spending for child accounts in the Minecraft Marketplace](./Managing-spending-for-child-accounts-in-Minecraft-Marketplace.md)
 
-[Managing multiplayer game access for a child account in Minecraft](https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-multiplayer-game-access-for-a-child-account-in-Minecraft)
+[Managing multiplayer game access for a child account in Minecraft](./Managing-multiplayer-game-access-for-a-child-account-in-Minecraft.md)
 
 [Manage a member’s content in the Xbox Family Settings app](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app)
 

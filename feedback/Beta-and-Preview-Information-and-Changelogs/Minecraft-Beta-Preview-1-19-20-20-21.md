@@ -4,6 +4,9 @@ date: 2022-06-29T13:04:55Z
 updated: 2022-08-09T16:43:31Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/7285705024909-Minecraft-Beta-Preview-1-19-20-20-21
+hash:
+  mangrove-azalea-leaves: mangrove--azalea-leaves
+  stability-performance: stability--performance
 ---
 
 **Posted:** 29<sup>th</sup> June 2022

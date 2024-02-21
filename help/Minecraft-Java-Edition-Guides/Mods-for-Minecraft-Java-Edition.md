@@ -13,7 +13,7 @@ tags:
   - platform_pc
   - platform_PC
   - section_12618583497869
-link: https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition-
+link: https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition
 ---
 
 *This article applies to Minecraft: Java Edition only. See our [Minecraft Add-Ons for Bedrock Versions](../Minecraft-Bedrock-Edition-Guides/Minecraft-Bedrock-Edition-Add-ons-FAQ.md)* *article for Minecraft: Bedrock Edition customization.*

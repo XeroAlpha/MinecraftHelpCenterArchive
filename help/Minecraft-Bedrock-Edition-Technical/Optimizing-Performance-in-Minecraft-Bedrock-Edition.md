@@ -6,6 +6,14 @@ categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft-Bedrock-Edition
+hash:
+  h_01GK54HFS60T1J2DKPJ08EF4DT: general-guidance-for-optimizing-performance-in-minecraft-bedrock-edition
+  h_01GK54HM90C48PZ090SVGDA1PC: optimizations
+  h_01GK54HS8GBX3E56AZR0A0WY0T: in-game
+  h_01GK54HZBMP88TBN8FMWBZK0Y9: out-of-game
+  h_01GK54J4H5ZXWGF0MC95ZSN315: changes-to-render-distance-
+  h_01GK54J9W3225RN4Q21NHC9Q5C: new-user-accounts-pc-consoles-mobile-devices
+  h_01GK54JF3VR2VR3VB8AZQGN2WW: existing-player-accounts-all-platforms-except-playstation
 ---
 
 *This article addresses changes in performance settings for Minecraft: Bedrock Edition, Minecraft for Chromebooks, consoles such as PlayStation®, Nintendo Switch, Xbox, and mobile devices.*

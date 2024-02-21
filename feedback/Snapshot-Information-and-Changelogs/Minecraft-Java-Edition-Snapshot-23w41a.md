@@ -4,6 +4,21 @@ date: 2023-10-11T15:15:21Z
 updated: 2023-10-11T15:15:32Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20298295897229-Minecraft-Java-Edition-Snapshot-23w41a
+hash:
+  h_01HCFMVZY2HTB7SNENNNX2S3W3: new-features
+  h_01HCFMVZY2PQEJH30Y538XQQRR: snapshot-realms
+  h_01HCFMVZY2A0HZSECMQS1Q2RYM: changes
+  h_01HCFMVZY20A3X642EEESBVD99: decorated-pots
+  h_01HCFMVZY2QG8NHYJSA343YNPQ: technical-changes
+  h_01HCFMVZY2X43ZTKBKWJEWK315: data-pack-version-20
+  h_01HCFMVZY24GATZJHQBV8G66HE: commands
+  h_01HCFMVZY2PHQE9FRJPZKT4G37: functions
+  h_01HCFMVZY2J088TKTSK1CDN1ZW: limits
+  h_01HCFMVZY3V4R3AGX7SESVVES1: execute-if-function
+  h_01HCFMVZY3T59WGF15CMBTNAV1: matching
+  h_01HCFMVZY3PD7YYJ08GJEW23DG: return-run
+  h_01HCFMVZY3H3G74X22CXCG9NB1: fixed-bugs-in-snapshot-23w41a
+  h_01HCFMVZY3RP0B6W2Y5BHWQV2K: get-the-snapshot
 ---
 
 For this week's Snapshot, we've made improvements to the Decorated Pots!

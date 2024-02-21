@@ -18,9 +18,13 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/23430683774221-Troubleshooting-Installing-the-Minecraft-Launcher
+hash:
+  h_01HMSCCJZJ1XZSVCG6TMBTFQ2W: in-this-article
+  h_01HMSCDZNCBBE3PX0Z5077H58J: i-try-to-install-the-launcher-through-the-microsoft-store-but-the-installation-fails
+  h_01HMSCH61Y9TT8PF5E0DB920YP: the-minecraft-launcher-is-failing-to-install-after-downloading-it-from-minecraftnet
 ---
 
-This article covers problems installing the Minecraft Launcher for Windows and MacOS. For other Launcher issues, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Troubleshooting-FAQ.md).
+This article covers problems installing the Minecraft Launcher for Windows and MacOS. For other Launcher issues, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).
 
 # In This Article:
 

@@ -32,6 +32,67 @@ tags:
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Bedrock-Edition-Realms-Creation-FAQ
+hash:
+  01H7X5FC4GW49EHPKWEAR7GCSX: in-this-article
+  h_01FGCRM0DSZBBFH3525BBFJ9E9: general-questions
+  01H7X5FC4GMB1HW9K8X9V6PQPV: what-are-realms
+  01H7X5FC4G0X8YAZEV2YJYV46D: why-are-there-two-versions-of-realms-servers
+  01H7X5FC4GEPE9TS19YR66S38X: what-is-realms-plus
+  01H7X5FC4G7M110BQM26TDHYE5: which-versions-of-minecraft-bedrock-edition-support-realms-plus
+  01H7X5FC4G9ZC4PSMX6C8BAJBN: im-playing-on-windows-10-or-above-which-version-do-i-need
+  01H7X5FC4GD152AB89ZYB7H55E: can-i-use-my-realms-plus-on-any-device
+  01H7X5FC4GEX3GFAE5MRK40ZAK: do-my-friends-need-to-have-realms-plus-to-play-on-my-realm
+  01H7X5FC4GDRFSQTTWGF9WP7NK: can-i-play-on-a-realm-with-other-players-on-different-devices
+  01H7X5FC4GQNTVCHG474FHV64M: what-are-clubs
+  01H7X5FC4GXTAKGH46WAQ913MS: can-i-play-on-a-realm-if-i-have-joined-the-minecraft-beta-on-windows-or-xbox
+  01H7X5FC4GABCXAY3AVBC912VG: does-the-owner-of-a-realm-have-any-special-privileges
+  01H7X5FC4GRVMZNWCYG94XYHC3: what-isxbox-liveand-why-do-i-need-it-to-play-on-a-realm
+  h_01FFK8VHZ9WTGRYHZEXN01PFG4: about-subscriptions
+  01H7X5FC4GP9WMSZX0MWCKTS11: how-much-does-a-realms-plus-subscription-cost
+  01H7X5FC4GZPAJ5PYEBC8F5STZ: how-long-will-my-subscription-last
+  01H7X5FC4GQR7XJ98N1SBS4MNH: what-happens-to-my-realms-and-worlds-when-my-subscription-to-realms-plus-ends
+  01H7X5FC4GDBX7184M2VG2D0F3: do-i-need-xbox-live-gold-or-another-subscription-to-play-on-a-realm
+  01H7X5FC4HY61QCGJAA0AF56X5: how-do-i-cancel-my-recurring-subscription
+  h_01HENM49KB41C93GCRKQ7G0CSN: realms-plus-packs
+  01H7X5FC4HVTEPZTQRK1Z3X4VS: can-i-use-my-realms-plus-packs-offline
+  01H7X5FC4HZKWNVQA58X9MWHQY: can-i-host-my-realms-plus-worlds-texture-packs-skins-and-mash-ups-on-my-realm
+  01H7X5FC4HGZ5TGYHBFBVXKQ2M: how-often-are-new-packs-added-to-realms-plus
+  01H7X5FC4HDWD3R6YRED6SWNRT: how-long-do-i-have-access-to-packs-within-realms-plus
+  01H7X5FC4HRDB0RFRENA2XRP1C: if-i-download-a-pack-can-i-access-it-after-it-leaves-realms-plus
+  01H7X5FC4HP8X5N9Y7M9FF8ZD3: where-do-these-packs-come-from
+  01H7X5FC4HYHRTS9WWYBWVZ2Z6: how-many-world-templates-can-i-play-with-realms-plus
+  h_01GJ3SPZ4DMFXZX1PA3TBRPAFS: digital-pre-paid-realms-cards
+  01H7X5FC4HG9A9QE5SPFM3BQY4: what-do-i-get-for-buying-a-digital-pre-paid-realms-card
+  01H7X5FC4HGCSTNXD6YVVGSPGG: what-platforms-will-realms-pre-paid-cards-work-on
+  01H7X5FC4H4A0850QEC0Q6GHT2: where-do-i-redeem-my-pre-paid-realms-card
+  01H7X5FC4HNRG9CHWGR9H0PTDX: now-that-i-have-redeemed-my-card-how-do-i-activate-my-realm
+  01H7X5FC4HXZQFNPMEHFE2DY3V: i-bought-a-digital-pre-paid-realms-card-but-i-want-to-refund-it
+  01H7X5FC4HN6ZW3Y1V41YQWCS7: where-can-i-buy-digital-pre-paid-realms-cards
+  h_01FFK8W57748322MN871CH2DZJ: technical-questions
+  01H7X5FC4HRTH98G87M2DRHZYB: can-i-export-my-realms-worlds
+  01H7X5FC4HXP6A6ZBW10VJ2Q5N: can-i-upload-my-worlds-onto-a-realm
+  01H7X5FC4HM7YGWAQQGVCP0ZCR: do-realms-servers-support-modding
+  01H7X5FC4HYH23HGVW8XT4HQ6B: are-there-any-specific-settings-needed-to-play-on-a-realm
+  01H7X5FC4HSNMK36KCVS5WRQ08: can-i-use-admin-commands
+  h_01FFK8WJWHNEPFY2PGBGGKS94H: howtocreateyourrealm
+  01H7X5FC4HF1DKHFQ71JCVEZR8: findtherealmsmenu
+  01H7X5FC4H3ARNAGRZYF1C3HY2: chooseanameandasize
+  01H7X5FC4HJ01Q2HGYF1YEB1E9: invitefriends
+  h_01FFK8X2TH88BXM85AK4Y53Y05: adminoptions-for-realms
+  01H7X5FC4HDP16V4WR5JCNQK9J: havemultipleworlds
+  01H7X5FC4H1ABG696JEDFJ5TNR: change-realm-slot
+  01H7X5FC4HJS1GR8WHE4E14PV7: adjust-the-overall-settings-for-your-realms-server
+  01H7X5FC4H664DYMZXQ84T9S00: turn-the-server-on-or-off
+  01H7X5FC4HW2VNE5NZRXP2XDGY: players
+  01H7X5FC4HZJYSQNQSBTCSZG3Q: invite-player
+  01H7X5FC4HPTN1E76SBEFPAK4Y: remove-a-player
+  01H7X5FC4H5FY634YAVAZA3CGR: making-a-player-an-operator-op
+  01H7X5FC4HFK6D4388V2N2SAZR: settings
+  01H7X5FC4HZ107CWZKR6Y4S3BR: subscription
+  01H7X5FC4HJR2SS9HDN4QVG4NH: adjust-settings-for-individual-worlds
+  01H7X5FC4HHZBRWKYZYCFT5FVF: backups
+  01H7X5FC4HRRQ9Q5XPHNGCJWX3: reset
+  h_01H0JYT6EDNX7N0Y86V1J10YWS: how-does-mojang-backup-your-realm
 ---
 
 *This article refers to Realms for Minecraft: Bedrock Edition. If you need help with your subscription to Realms for Minecraft: Java Edition, See: [**Minecraft: Java Edition Realms Creation FAQ**](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK88ASN27R4JKF1CKN3K695)*

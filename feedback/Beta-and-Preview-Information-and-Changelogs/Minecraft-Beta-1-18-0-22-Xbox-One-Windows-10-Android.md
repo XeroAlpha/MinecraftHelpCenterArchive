@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.18.0.22 (Xbox One/Windows 10/Android)
 date: 2021-10-21T13:36:05Z
 updated: 2021-10-21T16:44:08Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4411774334605-Minecraft-Beta-1-18-0-22-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4411774334605-Minecraft-Beta-1-18-0-22-Xbox-One-Windows-10-Android
 ---
 
 **Posted:** 21 October 2021

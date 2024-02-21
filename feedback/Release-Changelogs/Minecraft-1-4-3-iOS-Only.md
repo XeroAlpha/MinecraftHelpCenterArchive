@@ -8,7 +8,7 @@ tags:
   - release_changelog
   - ios
   - 1.4.3
-link: https://feedback.minecraft.net/hc/en-us/articles/360004506952-Minecraft-1-4-3-iOS-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004506952-Minecraft-1-4-3-iOS-Only
 ---
 
 <div style="direction: ltr; border-width: 100%;">

@@ -3,7 +3,56 @@ title: Minecraft - 1.20.30 (Bedrock)
 date: 2023-09-15T23:22:07Z
 updated: 2023-09-29T09:34:13Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/19545277817357-Minecraft-1-20-30-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/19545277817357-Minecraft-1-20-30-Bedrock
+hash:
+  h_01HADJQD9N36DM7GJ3Z51V6Z6D: new-features
+  h_01HADJQD9NKEJPHM40K3T60ZKV: updated-you-died-experience
+  h_01HADJQD9N1PC4E971341DXR1F: crawling
+  h_01HADJQD9NYWZPB40WGHVG3Q5K: recipe-unlocking
+  h_01HADJZM1H67G4G4GMWFEA3C53: recipe-book-search
+  h_01HADJZYXCS19CAHR6YT7RRND8: sleeping-percentage-gamerule
+  h_01HADJQD9N2NATSB38TA4W2PJK: vanilla-parity
+  h_01HADK03WC9B1F93GXNZ2A7WKG: block-breaking
+  h_01HADK06SKHE27HYT2W8VQKDAD: gameplay
+  h_01HADK09NZSW32GCKG2KCMQQP1: blocks
+  h_01HADJQD9NYJ1DATMYQ6Q9MBQW: audio
+  h_01HADJQD9NW498GD191MQ8BGBD: experimental-features
+  h_01HADJQD9NH98M0B070AKRN2JV: experimental-trade-changes
+  h_01HADK0JAKYG7EYYC0ETMSH8DN: librarian
+  h_01HADJQD9NDN3YYKBZF2AB0B12: wandering-trader
+  h_01HADJQD9NHZGDR4P8KA5DHZ3Z: fixes-and-changes
+  h_01HADJQD9NYK4VG5FXP2VZQA5H: diamond-ore-distribution
+  h_01HADJQD9N2YJ12FP8XH1BH96N: performance-and-stability
+  h_01HADJQD9N0Z3YPK86VB34EMAF: gameplay-1
+  h_01HADJQD9N4JMMRVHRRB73NK3V: mobs
+  h_01HADK1AGTZ5B9DQNHRY8PN2RM: blocks-1
+  h_01HADK1DENKXAP49VT2F70AC4Z: items
+  h_01HADK1G1YKVZ1T4ZS6RM8F0NH: sculk-vibrations
+  h_01HADJQD9NKSZC3EMAR8AMWEEQ: realms
+  h_01HADJQD9NKT54MXJ97QPN3VQZ: accessibility
+  h_01HADJQD9P16EPTV6KTTTF4FVE: touch-controls
+  h_01HADJQD9PK7QK17CAFY9VS7K8: user-interface
+  h_01HADJQD9PJ4X8FYSKZ40FT6T2: audio-1
+  h_01HADJQD9PB87CDK479J14PH0Q: graphical
+  h_01HADJQD9P6T0QT18S1H9CJD9B: marketplace
+  h_01HADK1XDP28QQ5Z9P71NSDAEN: minimum-supported-mobile-hardware
+  h_01HADJQD9PZXS59Y3ZBYK85D4D: technical-updates
+  h_01HADJQD9PQQM7C4TYKCS8Z077: updated-add-on-template-packs
+  h_01HADK24MHWWSRJVZD4T6B561J: general
+  h_01HADJQD9P0763XQKPQHWEZE3V: dedicated-server
+  h_01HADJQD9P98ZA41YC9H8J3HP7: commands
+  h_01HADK2CCMF595P1YEB1QCJH7X: sound
+  h_01HADJQD9PAHFATC4M6JB7XR9F: items-1
+  h_01HADJQD9P20SPFA7CNFM28PBW: add-ons-and-script-engine
+  h_01HADJQD9P4Q4DM10PZZJ1ZFGC: mobs-1
+  h_01HADJQD9PE6N924HH3PF6ZHXJ: script-api
+  h_01HADK2JGSR1DTQBQG3KR1P9GX: molang
+  h_01HADJQD9QPATSJJFQHYM7T3F3: experimental-technical-features
+  h_01HADJQD9QN7SABRCTAGCRQ1Q7: api
+  h_01HADJQD9QF0A8ZWKKXS6SKMSP: blocks-2
+  h_01HADJQD9QPJPF2PTS19N6ASS1: items-2
+  h_01HADK2Y33AYTQTJXN3B9QE1E2: block-destroy-time-changes---full-list
+  h_01HADK3G9X5DP1CBQ45XY4KC2J: remaining-parity-breaks
 ---
 
 **Posted:** September 19, 2023
@@ -331,7 +380,7 @@ For Android, as of February 2024, **devices require greater than 1 GB RAM, run O
 
 Please refer to our Minecraft Help Center articles for further details:
 
-- [iOS Technical Support Issues](../../help/Minecraft-Bedrock-Edition-Technical/iOS-Technical-Support-Issues.md)
+- [iOS Technical Support Issues](../../help/Minecraft-Bedrock-Edition-Technical/iOS-Technical-Support-Issues-for-Minecraft.md)
 - [Android Technical Support FAQ](../../help/Minecraft-Bedrock-Edition-Technical/Android-Technical-Support-FAQ.md)  
     
 

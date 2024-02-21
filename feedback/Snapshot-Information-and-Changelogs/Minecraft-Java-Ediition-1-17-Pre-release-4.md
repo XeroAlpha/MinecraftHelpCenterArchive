@@ -3,7 +3,11 @@ title: "Minecraft: Java Ediition - 1.17 Pre-release 4 "
 date: 2021-06-03T09:45:16Z
 updated: 2021-06-03T09:45:51Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360062544351-Minecraft-Java-Ediition-1-17-Pre-release-4-
+link: https://feedback.minecraft.net/hc/en-us/articles/360062544351-Minecraft-Java-Ediition-1-17-Pre-release-4
+hash:
+  changes-in-1.17-pre-release-4: changes-in-117-pre-release-4
+  the-caves-cliffs-preview: the-caves--cliffs-preview
+  fixed-bugs-in-1.17-pre-release-4: fixed-bugs-in-117-pre-release-4
 ---
 
 It's Monday and it's time for another pre-release! This one fixed a few bugs and crashes.

@@ -12,7 +12,10 @@ tags:
   - platform_windows_10
   - platform_android
   - section_12617893243277
-link: https://help.minecraft.net/hc/en-us/articles/360040841471-How-Do-I-Join-and-Leave-Minecraft-Preview-
+link: https://help.minecraft.net/hc/en-us/articles/360040841471-How-Do-I-Join-and-Leave-Minecraft-Preview
+hash:
+  opting-into-and-out-of-beta: optingintoandoutofbeta
+  detailed-xbox-opt-out-steps: detailed-xbox-opt-outsteps
 ---
 
 **Note: If you're interested in testing new Minecraft features ahead of time, check out [this article](https://www.minecraft.net/en-us/article/testing-new-minecraft-features) to learn more.**
@@ -51,7 +54,7 @@ In order to leave the Beta program on Android devices, please take the following
 
 1.  Click this link [here](https://play.google.com/apps/testing/com.mojang.minecraftpe) for Minecraft Beta Enrollment
 2.  Click the "Unenroll" button (this button was previously the "Become a Tester" button!)
-3.  [Back up your worlds](./Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md#back-up-minecraft-bedrock-edition-worlds)
+3.  [Back up your worlds](./How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3)
 4.  Uninstall and reinstall the app.
 
 ### Multiple Users on One Device 

@@ -3,7 +3,7 @@ title: Minecraft - 1.16.21 (Switch Only)
 date: 2020-08-20T19:34:00Z
 updated: 2020-08-21T01:04:50Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360048475071-Minecraft-1-16-21-Switch-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360048475071-Minecraft-1-16-21-Switch-Only
 ---
 
 **Posted:** August 20, 2020

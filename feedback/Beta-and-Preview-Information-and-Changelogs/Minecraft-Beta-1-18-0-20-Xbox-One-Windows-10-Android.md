@@ -3,7 +3,9 @@ title: Minecraft Beta - 1.18.0.20 (Xbox One/Windows 10/Android)
 date: 2021-10-06T14:42:38Z
 updated: 2021-10-06T16:24:34Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4410756779405-Minecraft-Beta-1-18-0-20-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4410756779405-Minecraft-Beta-1-18-0-20-Xbox-One-Windows-10-Android
+hash:
+  caves-cliffs: caves--cliffs
 ---
 
 **Posted:** 6 October 2021

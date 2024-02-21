@@ -3,7 +3,7 @@ title: Minecraft - 1.14.41 (PS4 Only)
 date: 2020-03-03T17:33:45Z
 updated: 2020-03-03T17:38:25Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360040449071-Minecraft-1-14-41-PS4-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360040449071-Minecraft-1-14-41-PS4-Only
 ---
 
 **Posted:** March 3, 2020

@@ -3,7 +3,7 @@ title: "How To: Make a brand new Biome (or Dimension)!"
 date: 2019-03-08T16:56:57Z
 updated: 2019-06-27T16:40:46Z
 categories: Feedback Website
-link: https://feedback.minecraft.net/hc/en-us/articles/360025050211-How-To-Make-a-brand-new-Biome-or-Dimension-
+link: https://feedback.minecraft.net/hc/en-us/articles/360025050211-How-To-Make-a-brand-new-Biome-or-Dimension
 ---
 
 ![alexsmall.png](https://feedback.minecraft.net/hc/article_attachments/360023442811/alexsmall.png)

@@ -3,7 +3,7 @@ title: Minecraft - Trails & Tales - 1.20.0 (Bedrock)
 date: 2023-06-05T15:21:22Z
 updated: 2023-06-07T23:09:39Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/16421714461453-Minecraft-Trails-Tales-1-20-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/16421714461453-Minecraft-Trails-Tales-1-20-0-Bedrock
 ---
 
 **Posted:** June 7, 2023

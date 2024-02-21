@@ -5,7 +5,7 @@ updated: 2018-10-01T15:11:55Z
 categories: Release Changelogs
 tags:
   - 1.6.2
-link: https://feedback.minecraft.net/hc/en-us/articles/360016523391-Minecraft-1-6-2-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360016523391-Minecraft-1-6-2-Bedrock
 ---
 
 Minecraft 1.6.2 is a hotfix to address several crash issues that affected the game exclusively on iOS devices. This update is only on iOS and is multiplayer compatible with devices running Minecraft 1.6.1

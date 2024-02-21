@@ -21,7 +21,7 @@ tags:
   - platform_oculus
   - platform_pc
   - section_12619084042637
-link: https://help.minecraft.net/hc/en-us/articles/360029728812-When-is-the-Next-Game-Update-
+link: https://help.minecraft.net/hc/en-us/articles/360029728812-When-is-the-Next-Game-Update
 ---
 
 Game updates usually happen when the developers feel that they're playable, fun, and ready for release. 

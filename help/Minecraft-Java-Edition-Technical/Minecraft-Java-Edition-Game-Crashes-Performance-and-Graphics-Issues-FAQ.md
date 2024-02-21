@@ -20,7 +20,23 @@ tags:
   - platform_windows_10/11
   - section_12618019146893
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Minecraft-Java-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Minecraft-Java-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ
+hash:
+  h_01FFGBNA0SS99Y8QQ99V0VHSDH: issues-with-frame-orpixelformat
+  h_01GYZBKA411W6EKEBJKFM51VH1: windows-arm64-does-not-appear-to-support-opengl
+  h_01FFNR5S1APTFHGR9K2W3JANZ4: update-your-video-card-drivers
+  common-driver-download-links: commondriverdownload-links
+  h_01FFGBNGPYP591FWEZ6911REJ9: how-tofix-a-missing-dll-error
+  h_01FFGBNN2RA9C2RDTZ5XNCM3S5: launcher-failure
+  try-an-alternative-minecraft-launcher: tryanalternative-minecraft-launcher
+  uninstall-and-reinstall-minecraft-java-edition: uninstall-and-reinstall-minecraftjava-edition
+  h_01FFGBNV3EXMB0288AJPRBSP99: error-or-crash-when-loading-resource-packs
+  h_01FFGBP0NPTJHVHS5W6SHNMYRV: pinkandblack-checkered-boxesappearwhere-textures-should-be
+  minecraft-java-edition: minecraftjavaedition
+  h_01GHMA01NY9J2P62FDF6J2KVA8: troubleshoot-memory-issues
+  rebootrestart-your-computer: rebootrestartyourcomputer
+  change-settings-to-free-up-memory: change-settings-tofree-up-memory
+  checking-the-allotted-ram-with-your-deviceserver: checking-theallotted-ram-with-yourdeviceserver
 ---
 
 *This article addresses Minecraft: Java Edition technical issues only. See [Minecraft technical issues](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ.md) articles for help.* 

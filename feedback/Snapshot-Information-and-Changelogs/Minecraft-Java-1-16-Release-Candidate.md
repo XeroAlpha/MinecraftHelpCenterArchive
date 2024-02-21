@@ -4,6 +4,8 @@ date: 2020-06-18T15:39:13Z
 updated: 2020-08-11T18:32:28Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360045163631-Minecraft-Java-1-16-Release-Candidate
+hash:
+  fixed-bugs-in-1.16-release-candidate-1: fixed-bugs-in116-release-candidate-1
 ---
 
 18 June 2020

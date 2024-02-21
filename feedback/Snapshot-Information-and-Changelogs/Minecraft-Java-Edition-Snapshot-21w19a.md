@@ -4,6 +4,8 @@ date: 2021-05-12T12:36:09Z
 updated: 2021-05-12T12:37:06Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360060771772-Minecraft-Java-Edition-Snapshot-21w19a
+hash:
+  changes-to-the-caves-cliffs-preview: changes-to-the-caves--cliffs-preview
 ---
 
 Now with twice as much Java version.

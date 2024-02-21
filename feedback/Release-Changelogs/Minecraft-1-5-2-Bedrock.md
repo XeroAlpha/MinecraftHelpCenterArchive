@@ -10,7 +10,7 @@ tags:
   - release_changelog
   - ios
   - 1.5.2
-link: https://feedback.minecraft.net/hc/en-us/articles/360008485871-Minecraft-1-5-2-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360008485871-Minecraft-1-5-2-Bedrock
 ---
 
 **Fixes:**

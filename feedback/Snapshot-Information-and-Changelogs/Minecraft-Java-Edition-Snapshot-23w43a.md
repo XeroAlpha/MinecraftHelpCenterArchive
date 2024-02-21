@@ -4,6 +4,23 @@ date: 2023-10-25T15:09:28Z
 updated: 2023-10-25T15:09:32Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20707371679117-Minecraft-Java-Edition-Snapshot-23w43a
+hash:
+  h_01HDKP3HB8TK7GX1GW86GQZ9RD: experimental-features
+  h_01HDKP3HB8SKQPGWX2ZZWPB173: copper-family
+  h_01HDKP3HB89BM9M9HQKXW81QH5: chiseled-copper
+  h_01HDKP3HB8YSEPYHQF3BYQ5W3D: copper-grate
+  h_01HDKP3HB88PYBPS75VA3RG25J: copper-bulb
+  h_01HDKP3HB84S7HBW1ZSASWA8P4: copper-doors-and-trapdoors
+  h_01HDKP3HB8YWZY65TA93V44EDR: tuff-family
+  h_01HDKP3HB8KGVPND0ZX8T3GHKX: changes
+  h_01HDKP3HB8ZJ55W2DK8PCTNXCM: bat
+  h_01HDKP3HB84JAEJACFB6WW1SD3: technical-changes
+  h_01HDKP3HB9G780HPC67M38H4RD: data-pack-version-22
+  h_01HDKP3HB9ZXN5MMMXQGHDR4AA: tickcommand
+  h_01HDKP3HB9VS63K1DCPGXQTW6Y: jigsaw-selection--placement-priority
+  h_01HDKP3HB9EP3CAVGGP7EYEYPE: resource-pack-version-20
+  h_01HDKP3HB9KZ7VGBKZ2PQCMAQ4: fixed-bugs-in-snapshot-23w43a
+  h_01HDKP3HB90DWX72AM9M1MN50T: get-the-snapshot
 ---
 
 In this week's snapshot we're extending the Update 1.21 experiment with ALL the new blocks! And how about a bat makeover just in time for spooky fall? Happy crafting!

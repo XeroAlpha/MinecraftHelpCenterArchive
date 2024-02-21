@@ -4,6 +4,8 @@ date: 2023-05-29T14:50:25Z
 updated: 2023-05-29T14:50:29Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/16224502352141-Minecraft-Java-Edition-1-20-Pre-release-7
+hash:
+  fixed-bug-in-1.20-pre-release-7: fixed-bug-in-120-pre-release-7
 ---
 
 Pre-release 7 for Minecraft 1.20 is now available in the Minecraft Launcher. This pre-release adds validation of symbolic links and fixes a bug.

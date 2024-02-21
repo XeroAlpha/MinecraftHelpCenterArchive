@@ -12,6 +12,10 @@ tags:
   - title_minecraft_legends
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/21854073838989-How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC
+hash:
+  h_01HGJYNQC72MCQ54DWJ9M4F3YW: how-to-set-up-family-share-on-your-pc
+  h_01HGJYPFHK192PGC7YRHPGBYB9: how-to-download-minecraft-through-family-share-with-a-childs-account
+  h_01HGJYS19QXCS1908QGG4J3WGQ: which-games-can-be-shared-across-family-accounts
 ---
 
 Did you know that you can share your digital Minecraft games with your family members? This will allow multiple accounts, including child accounts, to access Minecraft without having to buy the game multiple times! Here is everything you need to know about how to download and play Minecraft with family share.

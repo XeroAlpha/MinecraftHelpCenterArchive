@@ -4,6 +4,8 @@ date: 2021-05-19T16:44:22Z
 updated: 2021-05-19T16:44:52Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360061471771-Minecraft-Java-Edition-Snapshot-21w20a
+hash:
+  changes-to-the-caves-cliffs-preview: changes-to-the-caves--cliffs-preview
 ---
 
 Another snapshot is now going out. This time around, we fixed quite a few bugs, and we also introduced some changes to some Caves & Cliffs features, and additionally, we added some extra context for the narrator..

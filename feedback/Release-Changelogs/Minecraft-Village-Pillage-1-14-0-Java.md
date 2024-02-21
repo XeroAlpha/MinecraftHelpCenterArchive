@@ -3,7 +3,11 @@ title: Minecraft - Village & Pillage - 1.14.0 (Java)
 date: 2019-04-23T15:18:46Z
 updated: 2019-04-23T15:18:51Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360027306551-Minecraft-Village-Pillage-1-14-0-Java-
+link: https://feedback.minecraft.net/hc/en-us/articles/360027306551-Minecraft-Village-Pillage-1-14-0-Java
+hash:
+  village-pillage-changelog: village--pillage-changelog
+  rewrite-of-book-quill-editing: rewrite-of-book--quill-editing
+  server.properties: serverproperties
 ---
 
 # VILLAGE & PILLAGE CHANGELOG

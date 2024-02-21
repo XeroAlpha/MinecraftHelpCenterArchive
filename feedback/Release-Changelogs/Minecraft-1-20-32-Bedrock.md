@@ -3,7 +3,7 @@ title: Minecraft - 1.20.32 (Bedrock)
 date: 2023-10-03T23:20:56Z
 updated: 2023-10-04T20:01:12Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/20077082600077-Minecraft-1-20-32-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/20077082600077-Minecraft-1-20-32-Bedrock
 ---
 
 **Posted:** October 5, 2023

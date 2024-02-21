@@ -4,6 +4,21 @@ date: 2023-09-12T17:31:51Z
 updated: 2023-09-12T17:35:57Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19424781869837-Minecraft-Beta-Preview-1-20-40-21
+hash:
+  h_01HA57AKDPSZZM52SPJ6BTFD7G: experimental-features
+  h_01HA57AKDP5BPRXCKBTYCDNN3A: villager-trade-rebalancing
+  h_01HA57AKDPP25W7Q2V2VJHTAKE: features-and-bug-fixes
+  h_01HA57AKDPTMTJAHQQXCNDPFG2: performance--stability
+  h_01HA57AKDPRJH2NMR6YVTCSRCK: vanilla-parity
+  h_01HA57AKDP4SVWEPAE724RJ48Y: gameplay
+  h_01HA57AKDPJQS2JV9JW8DSTBFY: items
+  h_01HA57AKDP7R8V4EJQNB2J1JQB: touch-controls
+  h_01HA57AKDP4GDGZQCTS5J9WPGR: technical-updates
+  h_01HA57AKDPXGHHB3JMZN41CBW4: add-ons-and-script-engine
+  h_01HA57AKDPV161CE4C9QE9ZAG5: api
+  h_01HA57AKDPTDDXM4KE4AZMZRMC: experimental-technical-updates
+  h_01HA57AKDPMMJ6XFKJG57CYD9J: graphical
+  h_01HA57AKDQC2DCHR4DJP10X32F: items-1
 ---
 
 **Posted:** 13 September 2023

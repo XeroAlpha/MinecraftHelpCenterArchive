@@ -3,7 +3,16 @@ title: "Minecraft: Java Edition - 23w40a "
 date: 2023-10-05T06:07:28Z
 updated: 2023-10-05T11:49:19Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/20117441815949-Minecraft-Java-Edition-23w40a-
+link: https://feedback.minecraft.net/hc/en-us/articles/20117441815949-Minecraft-Java-Edition-23w40a
+hash:
+  h_01HBZ72FXFT5DYZH54FT592T9R: changes
+  h_01HBZ72FXFWHEKBYX8ABHF4BFX: technical-changes
+  h_01HBZ72FXFVRPJKDXWFQKVN56A: chat-components
+  h_01HBZ72FXFG6N7D1BM5RSVBTH1: serialization
+  h_01HBZ72FXFV9FCYCV4DN930RGY: data-pack-version-19
+  h_01HBZ72FXFYGK6EFT9GHR0MCC4: tags
+  h_01HBZ72FXF4MD0YBW2TWJA4MPF: fixed-bugs-in-23w40a
+  h_01HBZ72FXG3CD92NR7S4NKHR8X: get-the-snapshot
 ---
 
 We are now releasing Snapshot 23w40a, the first snapshot for 1.20.3! This snapshot contains improvements for shields, changes to chat component serialization and bug fixes.

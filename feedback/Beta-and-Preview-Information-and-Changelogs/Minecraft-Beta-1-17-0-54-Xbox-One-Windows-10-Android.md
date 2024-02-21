@@ -3,7 +3,10 @@ title: Minecraft Beta - 1.17.0.54 (Xbox One/Windows 10/Android)
 date: 2021-05-06T15:23:36Z
 updated: 2021-05-06T16:08:16Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360060922491-Minecraft-Beta-1-17-0-54-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360060922491-Minecraft-Beta-1-17-0-54-Xbox-One-Windows-10-Android
+hash:
+  caves-cliffs---experimental-features: caves--cliffs---experimental-features
+  caves-cliffs---non-experimental: caves--cliffs---non-experimental
 ---
 
 **Posted:** May 06, 2021

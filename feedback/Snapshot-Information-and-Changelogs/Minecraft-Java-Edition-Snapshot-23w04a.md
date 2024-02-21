@@ -4,6 +4,8 @@ date: 2023-01-24T16:07:15Z
 updated: 2023-01-24T16:08:28Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/12514780107661-Minecraft-Java-Edition-Snapshot-23w04a
+hash:
+  trim-patterns-materials: trim-patterns--materials
 ---
 
 Tuesday is the new Wednesday, did you know? Here is snapshot 23w04a with a new experimental Armor Trim Smithing feature in the Update_1_20 experimental pack.

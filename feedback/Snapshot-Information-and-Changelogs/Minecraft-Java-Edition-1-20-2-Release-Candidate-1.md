@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.20.2 Release Candidate 1 "
 date: 2023-09-15T13:50:53Z
 updated: 2023-09-15T13:51:01Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/19524557739789-Minecraft-Java-Edition-1-20-2-Release-Candidate-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/19524557739789-Minecraft-Java-Edition-1-20-2-Release-Candidate-1
+hash:
+  h_01HACHQ58TMJXN3T7MC2Q8GHA8: changes
+  h_01HACHQ58TJ57D2K8NB81MBRQF: fixed-bugs-in-1202-release-candidate-1
+  h_01HACHQ58TKP9Q1EKTCMXE977B: get-the-release-candidate
 ---
 
 Here is the first (and hopefully last) release candidate for 1.20.2. Unless something critical pops up, no further changes will be made for the full release, which is planned for next week.

@@ -4,6 +4,19 @@ date: 2024-01-24T16:04:14Z
 updated: 2024-01-24T16:06:40Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/23489515647117-Minecraft-Java-Edition-Snapshot-24w04a
+hash:
+  h_01HMY3H83946JVR09634G646F4: changes
+  h_01HMY3H83A4VT02EMHCPWSWJW9: technical-changes
+  h_01HMY3H83A2H6S8FGTBTVD625S: region-file-compression-algorithm
+  h_01HMY3H83A83NB3DSMKYDC058V: world-optimizing-changes
+  h_01HMY3H83APAKX831S3V2Y9DF2: improved-the-server-tps-debug-chart
+  h_01HMY3H83AEEDZ9PWRESYJ8045: data-pack-version-29
+  h_01HMY3H83A04E4DFQ5TN5XGRGM: transfercommand
+  h_01HMY3H83AXCHAP63DQVN6DM7B: experimental-features
+  h_01HMY3H83AGX42N8VVWPA67QNG: breeze
+  h_01HMY3H83AX2GC5AZBSD86V78R: copper-grates
+  h_01HMY3H83A3Z0NEXZTWN6T1EKE: fixed-bugs-in-snapshot-24w04a
+  h_01HMY3H83AMY6JQJEQ3TXRHEYR: get-the-snapshot
 ---
 
 Hello again! Here is another snapshot bringing you some Armadillo changes, experimental feature changes, and a bunch of technical changes.We have some server-side performance improvements and improved debug tools along with a new transfer command. Enjoy!

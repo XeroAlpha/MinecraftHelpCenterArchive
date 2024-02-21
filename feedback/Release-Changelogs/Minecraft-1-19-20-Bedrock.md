@@ -3,7 +3,7 @@ title: Minecraft - 1.19.20 (Bedrock)
 date: 2022-08-08T18:34:10Z
 updated: 2022-08-09T17:23:57Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/8268517593485-Minecraft-1-19-20-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/8268517593485-Minecraft-1-19-20-Bedrock
 ---
 
 **Posted:** August 9, 2022

@@ -11,7 +11,7 @@ tags:
   - ios
   - switch
   - 1.6.0
-link: https://feedback.minecraft.net/hc/en-us/articles/360015202451-Minecraft-1-6-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360015202451-Minecraft-1-6-0-Bedrock
 ---
 
 If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](http://feedback.minecraft.net/). You can talk to us about the release at [discord.gg/Minecraft](https://discord.gg/Minecraft). Thanks for playing!

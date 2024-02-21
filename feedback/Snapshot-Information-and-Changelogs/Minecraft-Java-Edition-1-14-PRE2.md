@@ -4,6 +4,11 @@ date: 2019-05-07T15:32:39Z
 updated: 2019-05-09T14:51:20Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360027735772-Minecraft-Java-Edition-1-14-PRE2
+hash:
+  changes-in-1.14.1-pre-release-2: changes-in-1141-pre-release-2
+  fixed-bugs-in-1.14.1-pre-release-2: fixed-bugs-in-1141-pre-release-2
+  changes-in-1.14.1-pre-release-1: changes-in-1141-pre-release-1
+  fixed-bugs-in-1.14.1-pre-release-1: fixed-bugs-in-1141-pre-release-1
 ---
 
 9 May 2019

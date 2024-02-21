@@ -3,7 +3,7 @@ title: Minecraft - 1.18.32 (Android & Switch)
 date: 2022-05-05T20:23:06Z
 updated: 2022-05-06T16:49:50Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/6031356127117-Minecraft-1-18-32-Android-Switch-
+link: https://feedback.minecraft.net/hc/en-us/articles/6031356127117-Minecraft-1-18-32-Android-Switch
 ---
 
 **Posted:** May 5, 2022

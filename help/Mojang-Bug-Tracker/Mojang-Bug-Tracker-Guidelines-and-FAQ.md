@@ -6,6 +6,47 @@ categories: Mojang Bug Tracker
 tags:
   - section_12619044068621
 link: https://help.minecraft.net/hc/en-us/articles/4408887473421-Mojang-Bug-Tracker-Guidelines-and-FAQ
+hash:
+  h_01HB9PPC7HN0M0PDVN694XV818: in-this-article
+  h_01HB9PPC7JQMVP1KGCJ1F99SK0: guidelines
+  h_01HB9PPC7J2BH84FP8N90BSN98: what-can-be-reported-on-the-bug-tracker-and-what-cannot
+  h_01FF67F3750SYT9SPDT1HDMPYC: how-to-use-the-bug-trackers-search-efficiently
+  h_01GHE6AGRHQM3WJVCMNQVA6S34: resolution-statuses
+  h_01FF6B0GPYQJR44QAMJN7YEXXR: contributing-guidelines
+  h_01HB9PPC7JD5ANCR9N3JQAYYA8: general
+  h_01HB9PPC7JNXDP92DTTRJSR1DW: comments
+  h_01HB9PPC7J28QS0EM8HGW1A4M5: general-bug-report-guidelines
+  h_01HB9PPC7JWQ19J5RVJBE4VPVA: how-to-write-helpful-bug-reports
+  h_01FF6B1MMT7GDCQ1YWZFGABB03: project-specific-guidelines
+  h_01HB9PPC7JCT91J57PJ8VHFCAE: minecraft-java-edition
+  h_01HB9PPC7JNA0509J1P09BZCJX: minecraft-bedrock-edition
+  h_01HB9PPC7KGQ4QSB5A3574W5PX: minecraft-realms
+  h_01FF6B26Q7A5BTZT7RGCBX9WC4: example-template
+  h_01HB9PPC7K6SFJEFJ89T2N7KXE: example-bug-reports
+  h_01FF6B673YQG4259E0V0NF353X: where-can-i-view-or-submit-bugs
+  h_01FF668Y1JTCW25FJHWBBQ6T7M: faqs
+  h_01HB9PPC7KWVNKWFWASXRC2TZ7: what-are-labels-and-how-should-i-use-them
+  h_01FF6B6ZHQ3J58994836RP5KNQ: why-cant-i-log-in-to-the-mojang-bug-tracker
+  h_01HB9PPC7K4ABWGTMCJ4RJRJBJ: what-account-do-i-need-to-log-in-with-to-use-the-bug-tracker
+  h_01HB9PPC7KQ6XA7HB6HG8S7W40: why-do-i-need-to-specify-my-full-name-when-i-sign-up-for-an-account
+  h_01HB9PPC7KHYEV9S3Q5NX1SQ75: now-that-i-have-reported-my-bug-what-should-i-do
+  h_01HB9PPC7KD6N298DMAC9Y0W83: what-happens-to-my-bug-report-after-it-is-submitted
+  h_01HB9PPC7KY0TVQ5JFPDR7VQM2: how-long-will-it-take-for-my-bug-to-be-fixed
+  h_01HB9PPC7KAWKFVV225CG5MY2W: why-was-my-bug-report-resolved-but-the-problem-still-happens
+  h_01HB9PPC7K3ZF9ZWQCR175D0ZC: do-you-have-some-more-tips-on-how-to-use-the-search-function
+  h_01HB9PPC7K8YYZDYAJPCQ9Y759: i-believe-my-bug-report-was-resolved-incorrectly-where-can-i-appeal
+  h_01HB9PPC7KDSAX9YSHZHYTH0KZ: i-want-to-discuss-this-issue-can-i-comment-on-it
+  h_01HB9PPC7K1MBVR3PPXBBZPBJX: what-does-voting-for-an-issue-do
+  h_01FF68NT3PW1FPTD8ZP61H9H5A: what-does-confirmation-status-mean
+  h_01HB9PPC7MTPYPZT5K5B8T75D8: my-attachments-file-size-is-too-large-what-should-i-do
+  h_01FF68FS0Z431HZXCP3BW9MXXP: what-do-the-different-link-types-mean
+  h_01HB9PPC7MT0GX74ZBEA31Y4FP: what-does-mojang-priority-mean
+  h_01HB9PPC7M8MRJM5HPSYJC1EGD: what-is-the-chk-field-used-for
+  h_01HB9PPC7MJ0TXMZVGSFV4VD8Z: i-found-more-than-one-unresolved-bug-report-that-seems-to-describe-the-same-issue-which-one-is-the-main-report
+  h_01HB9PPC7MQMSY8SZFZS4GJD95: what-else-can-i-do-to-help
+  h_01HB9PPC7MNYHHHKNYMJZFV46J: who-are-the-helpers-and-moderators-what-do-they-do-and-how-did-they-become-helpersmoderators
+  h_01HB9PPC7MB3N9SCWMZP3G9QZM: what-does-mojira-mean
+  h_01FF65PCEV48PB58C9GPDGFZXJ: i-have-more-questions-where-can-i-ask-them
 ---
 
 This article details the Mojang Bug Tracker and how to use it.

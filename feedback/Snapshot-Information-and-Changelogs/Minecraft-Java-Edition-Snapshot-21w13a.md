@@ -4,6 +4,8 @@ date: 2021-03-31T17:06:45Z
 updated: 2021-03-31T17:13:26Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360059253111-Minecraft-Java-Edition-Snapshot-21w13a
+hash:
+  trade-loot-table-additions: trade--loot-table-additions
 ---
 
 Another snapshot hits the streets, and it's dropping some sick bleats. That's right, Goats are leaping into this snapshot!

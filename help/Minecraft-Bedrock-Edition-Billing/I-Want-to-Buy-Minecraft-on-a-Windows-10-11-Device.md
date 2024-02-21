@@ -12,6 +12,15 @@ tags:
   - section_12617899093133
   - section_12618006481549
 link: https://help.minecraft.net/hc/en-us/articles/6660924652557-I-Want-to-Buy-Minecraft-on-a-Windows-10-11-Device
+hash:
+  h_01GB3FSZ068VPGPYMV3P0RMYC0: how-to-get-minecraft-through-the-microsoft-store
+  h_01GB3FT3RCEDM3DCETN2ABVVDJ: how-to-get-minecraft-through-minecraftnet
+  h_01GB3FT8NC7D426P8JCXB6T25X: how-to-get-minecraft-through-the-minecraft-launcher
+  h_01GB3FTENZB2XV6STAYDQ2ZPX4: how-to-get-minecraft-with-a-gift-card
+  h_01GB3FTMV2SHHQD1F0Z02KXESZ: i-bought-minecraft-from-the-ms-store-and-want-to-return-the-product-for-a-refund
+  h_01GB3FTTGP2QC3NK5P5EDB96WV: i-bought-minecraft-from-minecraftnet-and-want-to-return-the-product-for-a-refund
+  h_01GB3FV29N0RJTC234RWVK96BS: i-want-to-see-what-games-i-own-on-minecraftnet
+  h_01GB3FV89SHX305SW4J6T42FEY: i-want-to-see-what-games-i-own-on-the-ms-store
 ---
 
 We’ve been working on some big changes, and we’re excited to announce that Minecraft: Java Edition and Minecraft: Bedrock Edition are now being sold as a single product! What does this mean for you? A streamlined buying (or refund) experience where you can now get both Java Edition and Bedrock Edition for one low price.

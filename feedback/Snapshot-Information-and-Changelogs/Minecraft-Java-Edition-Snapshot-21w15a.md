@@ -4,6 +4,9 @@ date: 2021-04-14T15:19:27Z
 updated: 2021-04-14T15:27:44Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360059421212-Minecraft-Java-Edition-Snapshot-21w15a
+hash:
+  caves-cliffs-world-generation: caves--cliffs-world-generation
+  the-caves-cliffs-prototype-data-pack: the-caves--cliffs-prototype-data-pack
 ---
 
 In today’s snapshot, we’re making a few needed changes that directly relate to our [recent announcement](https://www.minecraft.net/article/a-caves---cliffs-announcement.html). If you haven’t yet read it, we strongly recommend you do. You can also check out [this Caves & Cliffs video](https://youtu.be/6YgKUZnUyak) from Agnes and Henrik to learn more about our plans for the update.

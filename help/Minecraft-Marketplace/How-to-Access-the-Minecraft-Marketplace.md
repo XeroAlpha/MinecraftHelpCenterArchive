@@ -31,4 +31,4 @@ The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) is an i
 2.  On the title screen, make sure you are signed into the correct Microsoft account
 3.  Select **Marketplace**
 
-Provided that you are connected to the internet, you will have full access to everything currently available for purchase. For getting the currency to buy this content, go to [How to purchase Minecoins in the Minecraft Marketplace](https://help.minecraft.net/hc/en-us/articles/24069466555661).
+Provided that you are connected to the internet, you will have full access to everything currently available for purchase. For getting the currency to buy this content, go to [How to purchase Minecoins in the Minecraft Marketplace](./How-to-Purchase-Minecoins-in-the-Minecraft-Marketplace.md).

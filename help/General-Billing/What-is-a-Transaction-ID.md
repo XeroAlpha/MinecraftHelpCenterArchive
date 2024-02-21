@@ -26,7 +26,18 @@ tags:
   - platform_pc
   - platform_PC
   - section_12619005712013
-link: https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID-
+link: https://help.minecraft.net/hc/en-us/articles/360029977371-What-is-a-Transaction-ID
+hash:
+  h_01H44FMVRDT7TR44V082554179: where-do-i-find-my-transaction-id
+  h_01H44FN0WGWWY3X7JSS1K8SRAZ: i-lost-my-transaction-id
+  h_01H44FN575EEJKX6P03GYMRYYQ: payment-methods
+  h_01H44FNAR807WRSR4CMC0KWSZP: paypal
+  h_01H44FNFEQR8DF9QVVKD4XKQ8H: credit-or-debit-card
+  h_01H44FNKYFE8ZACGYFKCNHN4WB: none-of-the-above
+  h_01H44FP1GQKVRBDY7W4E9BH0F1: digital-gift-code
+  h_01H44FP6R56VPTKCBC5YB2V318: prepaid-pin
+  h_01H44FPB8Z0GN8TT811GNTZ8CF: mojang-studios-order-number
+  h_01H44FPJ5E9K4SVN7YDT2GXB3M: minecraft-for-windows-codes
 ---
 
 Mojang Studios player support uses transaction IDs to verify ownership of an account.

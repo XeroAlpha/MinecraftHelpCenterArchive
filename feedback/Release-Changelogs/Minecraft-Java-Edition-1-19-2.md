@@ -4,6 +4,8 @@ date: 2022-08-05T13:47:57Z
 updated: 2022-08-05T14:05:05Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/8204540058253-Minecraft-Java-Edition-1-19-2
+hash:
+  fixed-bugs-in-1.19.2: fixed-bugs-in-1192
 ---
 
 We're now releasing 1.19.2 for Minecraft: Java Edition. This release fixes a critical issue related to server connectivity with secure chat.

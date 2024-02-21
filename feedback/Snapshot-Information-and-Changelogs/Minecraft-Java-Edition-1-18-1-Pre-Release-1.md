@@ -3,7 +3,10 @@ title: "Minecraft: Java Edition - 1.18.1 Pre-Release 1 "
 date: 2021-12-03T14:57:12Z
 updated: 2021-12-03T14:57:16Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4415474142605-Minecraft-Java-Edition-1-18-1-Pre-Release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/4415474142605-Minecraft-Java-Edition-1-18-1-Pre-Release-1
+hash:
+  technical-changes-in-1.18.1-pre-release-1: technical-changes-in-1181-pre-release-1
+  fixed-bugs-in-1.18.1-pre-release-1: fixed-bugs-in-1181-pre-release-1
 ---
 
 We're now releasing the first pre-release for Minecraft 1.18.1. This will be a fairly small release that will fix a few stability issues and a few bugs. We aim to release this version at the end of next week.

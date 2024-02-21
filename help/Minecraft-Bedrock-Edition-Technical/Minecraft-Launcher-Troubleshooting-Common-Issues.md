@@ -18,14 +18,16 @@ tags:
   - section_12617893243277
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-Common-Issues
+hash:
+  h_01HMSFFS7JH9MTQ41A4VC9RNNX: minecraft-launcher-troubleshooting-articles
 ---
 
 If you’re having trouble with the Minecraft Launcher, refer to the resources below to help you get back into the game.
 
 ## Minecraft Launcher Troubleshooting Articles
 
-- [Troubleshooting Accessing Games from the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/23431742854413)
+- [Troubleshooting Accessing Games from the Minecraft Launcher](./Troubleshooting-Accessing-Games-from-the-Minecraft-Launcher.md)
 - [Troubleshooting Installing the Minecraft Launcher](./Troubleshooting-Installing-the-Minecraft-Launcher.md)
-- [Troubleshooting Launching Minecraft from the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/23431114561037)
-- [Troubleshooting Minecraft Launcher Startup and Login Issues](https://help.minecraft.net/hc/en-us/articles/23430310790413)
-- [Common Minecraft Launcher Error Codes](https://help.minecraft.net/hc/en-us/articles/23432418934925)
+- [Troubleshooting Launching Minecraft from the Minecraft Launcher](./Troubleshooting-Launching-Minecraft-from-the-Minecraft-Launcher.md)
+- [Troubleshooting Minecraft Launcher Startup and Login Issues](./Troubleshooting-Minecraft-Launcher-Startup-and-Login-Issues.md)
+- [Common Minecraft Launcher Error Codes](./Common-Minecraft-Launcher-Error-Codes.md)

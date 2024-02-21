@@ -3,6 +3,8 @@ title: "Minecraft: Java Edition - 1.16.2"
 date: 2020-08-11T18:43:19Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360047630831-Minecraft-Java-Edition-1-16-2
+hash:
+  spawnpoint-setworldspawn: spawnpoint--setworldspawn
 ---
 
 11 August 2020

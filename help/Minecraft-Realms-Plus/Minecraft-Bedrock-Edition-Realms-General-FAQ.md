@@ -17,6 +17,16 @@ tags:
   - section_12618443219469
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20688488192013-Minecraft-Bedrock-Edition-Realms-General-FAQ
+hash:
+  h_01HHZGH3QYG4GJMMF7ZS7W26FB: what-are-realms
+  h_01HHZGKTX5CFY1BRT8TW9767D2: how-many-people-can-join-my-realm
+  h_01HHZGMXJSB3B6SHAESXZHSM5J: which-versions-of-minecraft-support-minecraft-realms
+  h_01HHZGNQYVQQRXFN6W0ZCKCRN2: can-i-play-on-a-realm-if-i-have-joined-the-minecraft-betapreview-program
+  h_01HHZGPZC97W4XGJHD5FW2AGC5: can-i-play-on-a-realm-with-players-on-different-devices
+  h_01HHZGR9W666FNDPDJ58QZZQBD: do-my-friends-need-a-realms-subscription-to-play-on-my-realm
+  h_01HHZGRMXZ9M6W3EE4Z172RTR1: what-are-clubs
+  h_01HHZGTPCG6V8WX8C8TTANZNYY: what-is-realms-plus
+  h_01HHZGVHN291W0688W9B38PPWM: why-are-there-two-versions-of-realms-servers
 ---
 
 Minecraft: Bedrock Edition Realms are a fantastic way to play online with your friends. This article includes everything you need to understand the basics of Realms.
@@ -34,7 +44,7 @@ Your realm can be one of two sizes, divided into tiers:  
 
 While the 2 and 10 numbers refer to how many people can be on that Realm at one time, you can invite as many people as you want to have access to your Realm.
 
-For more information on Realm sizes, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/22471397285901).
+For more information on Realm sizes, please refer to [this article](./Minecraft-Bedrock-Edition-Realms-Subscriptions-FAQ.md).
 
 ## Which versions of Minecraft support Minecraft Realms?
 

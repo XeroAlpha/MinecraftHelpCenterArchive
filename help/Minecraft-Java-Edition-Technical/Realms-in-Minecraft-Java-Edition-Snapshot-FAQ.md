@@ -17,7 +17,16 @@ tags:
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
   - subject_new_or_existing_subscription_questions
-link: https://help.minecraft.net/hc/en-us/articles/20143730191245-Realms-in-Minecraft-Java-Edition-Snapshot-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/20143730191245-Realms-in-Minecraft-Java-Edition-Snapshot-FAQ
+hash:
+  h_01HCD9913WA04P07Z53559GG97: in-this-article
+  h_01HCFWM181CT9Y4X8T461BCCSD: where-can-i-learn-more-about-java-snapshot
+  h_01HCD8K7YGF2DK0F0BN9EBKVPQ: how-to-use-realms-in-snapshots
+  h_01HCD8K7YG3D2VP3ZNNG9N3798: what-is-different-in-minecraft-java-edition-realms-in-snapshot
+  h_01HCD8K7YGWZB013X4P6XCAHDE: will-this-change-increase-my-realms-subscription-price
+  h_01HCD8K7YGSZF5CEFDHPKX30YX: can-i-transfer-worlds-between-a-java-snapshot-realm-and-my-regular-realm
+  h_01HCD8K7YGK385WHP0XCRYDG2W: are-java-edition-snapshot-realms-and-bedrock-edition-preview-realms-the-same-or-are-they-cross-platform-with-each-other
+  h_01HCDH68FZ33S9ET6YJ7MHCXWR: steps-for-creating-a-java-snapshot-realm
 ---
 
 We’re excited to announce that as of October 11th, Realms are available in Minecraft: Java Edition Snapshots! Snapshot Realms are available to any active Java Realms subscribers. Read below to learn how Snapshot Realms work and how they are different from your regular Java Realm. 

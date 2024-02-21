@@ -17,6 +17,23 @@ tags:
   - platform_oculus
   - section_12618985151885
 link: https://help.minecraft.net/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition
+hash:
+  h_01GDKH9PQ7WEFEWXJJ0DVYE16X: minecraft-bedrock-edition-accessibility-menu
+  h_01GDKH9W0JEMA1AH5AAJ1PSH6S: accessible-menu-navigation-and-narration
+  h_01GDKHA1A06KKMXJVZ1GC8B9V9: about-menu-ui-narration
+  h_01GDKHA71AG0ADJ6S48EKB66W2: tips-on-navigating-menus
+  h_01GDKHAD5W8B24S163Q6HTM714: text-to-speech-volume
+  h_01GDKHAJE1P02233YQ9NWH6J33: accessible-chat-using-text-to-speech
+  h_01GDKHAQNH44976EY81AJ8FFKT: to-enable-text-to-speech-for-chat
+  h_01GDKHAZ1YA06VRQPB1Y6WP70E: tips-on-using-text-to-speech-for-chat
+  h_01GDKHB4XS9DDPVGS0ER5T638X: other-settings-in-the-accessibility-menu
+  h_01GDKHBBVEJHC8YCD98ADECVTW: text-background-opacity
+  h_01GDKHBMA4YB4TW0K2JDWWAY0Y: camera-shake
+  h_01GDKHBTCDRWY1DYYXK4KJ7XAF: other-accessibility-settings-in-minecraft-bedrock-edition
+  h_01GDKHC09G570D99BT1GVMXZVC: chat-text-styles
+  h_01GDKHC68PG0Y2H5W04B30GX53: auto-jump
+  h_01GDKHCBXYFRGFGY2YQCJAGPB5: audio-settings
+  h_01GDKHCH8A7BT5YGZFS6W0XZSX: re-map-controls
 ---
 
 We believe everyone should be empowered and enabled to play Minecraft: Bedrock Edition. This article will focus on options available in Minecraft: Bedrock Edition on Xbox, Windows, Switch, Chromebook, PlayStation, and a few other platforms.

@@ -4,6 +4,9 @@ date: 2020-01-02T19:49:14Z
 updated: 2020-08-11T19:44:22Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360038054332-Minecraft-Java-Edition-1-15-1
+hash:
+  changes-in-1.15.1: changes-in-1151
+  fixed-bugs-in-1.15.1: fixed-bugs-in-1151
 ---
 
 17 December 2019

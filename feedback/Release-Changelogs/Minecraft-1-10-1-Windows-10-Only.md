@@ -3,7 +3,7 @@ title: Minecraft - 1.10.1 (Windows 10 Only)
 date: 2019-03-28T17:19:43Z
 updated: 2019-03-28T17:19:59Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360025955991-Minecraft-1-10-1-Windows-10-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360025955991-Minecraft-1-10-1-Windows-10-Only
 ---
 
 **Fixes:**

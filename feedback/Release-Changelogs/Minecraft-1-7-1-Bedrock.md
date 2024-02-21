@@ -3,7 +3,7 @@ title: Minecraft - 1.7.1 (Bedrock)
 date: 2018-11-02T15:55:05Z
 updated: 2018-11-07T19:47:43Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360019026771-Minecraft-1-7-1-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360019026771-Minecraft-1-7-1-Bedrock
 ---
 
 November 7, 2018

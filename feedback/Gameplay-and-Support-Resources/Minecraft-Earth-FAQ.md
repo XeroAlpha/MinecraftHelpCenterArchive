@@ -10,6 +10,11 @@ tags:
   - loot boxes
   - no loot boxes
 link: https://feedback.minecraft.net/hc/en-us/articles/360028241152-Minecraft-Earth-FAQ
+hash:
+  which-platforms-will-minecraft-earth-be-on: whichplatforms-will-minecraft-earth-be-on
+  how-do-i-get-into-the-minecraft-earth-beta: how-do-i-get-into-theminecraft-earthbeta
+  what-about-player-safety: what-aboutplayer-safety
+  the-sign-up-form-is-asking-for-a-lot-of-data.-what-will-you-do-with-it: thesign-upform-is-asking-for-a-lot-of-data-what-will-you-do-with-it
 ---
 
 ### **WHAT IS MINECRAFT EARTH?**

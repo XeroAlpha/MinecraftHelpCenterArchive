@@ -3,7 +3,7 @@ title: Minecraft - 1.20.1 (Bedrock)
 date: 2023-06-20T20:03:10Z
 updated: 2023-06-21T15:50:00Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/16921792287757-Minecraft-1-20-1-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/16921792287757-Minecraft-1-20-1-Bedrock
 ---
 
 **Posted:** June 21, 2023

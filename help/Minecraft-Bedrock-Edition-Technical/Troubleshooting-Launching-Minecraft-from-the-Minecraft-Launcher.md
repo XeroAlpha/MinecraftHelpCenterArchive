@@ -18,6 +18,11 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Troubleshooting-Launching-Minecraft-from-the-Minecraft-Launcher
+hash:
+  h_01HMSD393FBNS0PJ8EYJ3G2JN1: in-this-article
+  h_01HMSD3MCHG5CQ46G0Y8A0VC3Z: minecraft-is-installed-but-the-game-or-the-launcher-crashes-when-i-click-play
+  h_01HMSD4767T1FZ2BXR75WDYZ5P: java-edition
+  h_01HMSD5P4JQSF0P7R6224EEXAG: bedrock-and-other-minecraft-games
 ---
 
 This article is dedicated to helping you fix any problems in starting Minecraft from the Minecraft Launcher on your PC. For more troubleshooting topics, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).

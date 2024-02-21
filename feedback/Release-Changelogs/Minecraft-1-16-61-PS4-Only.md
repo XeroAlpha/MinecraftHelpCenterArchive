@@ -3,7 +3,7 @@ title: Minecraft - 1.16.61 (PS4 Only)
 date: 2020-09-24T23:30:19Z
 updated: 2020-09-25T17:53:00Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360050155151-Minecraft-1-16-61-PS4-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360050155151-Minecraft-1-16-61-PS4-Only
 ---
 
 **Posted:** September 25, 2020

@@ -7,7 +7,7 @@ tags:
   - switch
   - bedrock
   - nintendo switch
-link: https://feedback.minecraft.net/hc/en-us/articles/360004818752-Minecraft-for-Nintendo-Switch-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004818752-Minecraft-for-Nintendo-Switch-Bedrock
 ---
 
 <div>

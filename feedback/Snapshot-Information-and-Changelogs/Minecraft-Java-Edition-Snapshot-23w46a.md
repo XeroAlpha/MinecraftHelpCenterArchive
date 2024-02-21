@@ -4,6 +4,17 @@ date: 2023-11-16T16:26:47Z
 updated: 2023-11-16T16:26:58Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/21396856976141-Minecraft-Java-Edition-Snapshot-23w46a
+hash:
+  h_01HFCF7Y6SJQX12ZFDTDWVX3JE: changes
+  h_01HFCF7Y6S5KYQT405Y3B0V73Q: technical-changes
+  h_01HFCF7Y6SKHY6HXWQ4198DA1X: data-pack-version-25
+  h_01HFCF7Y6SNWB11QBR9GHWF30F: commands
+  h_01HFCF7Y6SG3BQCWC1MTR22950: scoreboard
+  h_01HFCF7Y6S5A87RA8JJQPADDAC: display-names
+  h_01HFCF7Y6S0F8HVT0AD5E2SFJ0: display-name-auto-update
+  h_01HFCF7Y6S3XVC108Z4P6DA712: number-formatting
+  h_01HFCF7Y6SGVS6JWDMWTDRK0S0: fixed-bugs-in-snapshot-23w46a
+  h_01HFCF7Y6S9NDDKPMXK7ZZDBHX: get-the-snapshot
 ---
 
 This snapshot brings about a few redstone-focused changes. Notably, we’re tweaking the tick delay behavior of the crafter and the copper bulb while they’re still in experimental development.

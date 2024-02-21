@@ -3,7 +3,9 @@ title: Minecraft Beta & Preview - 1.19.30.24 (iOS Only)
 date: 2022-08-29T18:21:49Z
 updated: 2022-08-29T18:23:16Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/8773103650573-Minecraft-Beta-Preview-1-19-30-24-iOS-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/8773103650573-Minecraft-Beta-Preview-1-19-30-24-iOS-Only
+hash:
+  ios-preview-1.19.30.24: ios-preview-1193024
 ---
 
 **Posted:** 26th August 2022

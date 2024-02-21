@@ -17,6 +17,10 @@ tags:
   - section_12618443219469
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20687461045645-Minecraft-Bedrock-Edition-Realms-Backup-FAQ
+hash:
+  h_01HHZHM4FZTV16XWHHVC5BS122: how-does-mojang-backup-your-realm
+  h_01HHZHNC0SX5TNPTC4PNXVBEBP: how-to-download-or-restore-a-realms-world-from-a-backup
+  h_01HHZHQYWY6BTAMPB35TFX34E6: how-to-download-or-replace-a-world-from-your-realm
 ---
 
 ## How does Mojang backup your Realm?

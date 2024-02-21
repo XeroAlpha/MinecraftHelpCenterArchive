@@ -19,6 +19,10 @@ tags:
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19754515644941-How-to-get-started-in-Minecraft
+hash:
+  h_01HAZE7PKYA5722Q0Z43P77ZP1: starting-a-home-base
+  h_01HAZE7PKYCT9BMDTSH00PWXT1: prepare-plenty-of-food
+  h_01HAZE7PKY7KECB11QVM43F341: get-to-digging
 ---
 
 So, you decided to take your first steps in Minecraft. Your first world has generated, and you have absolute freedom to do what you want. Now what? With so many choices, it can be difficult to prioritize what you do in the beginning portions of your game. Here are some suggestions to get you started in your Minecraft world.

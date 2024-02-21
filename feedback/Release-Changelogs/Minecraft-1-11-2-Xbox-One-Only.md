@@ -3,7 +3,7 @@ title: Minecraft - 1.11.2 (Xbox One Only)
 date: 2019-05-02T22:28:37Z
 updated: 2019-05-02T23:07:20Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360027611172-Minecraft-1-11-2-Xbox-One-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360027611172-Minecraft-1-11-2-Xbox-One-Only
 ---
 
 **Posted:** May 2, 2019

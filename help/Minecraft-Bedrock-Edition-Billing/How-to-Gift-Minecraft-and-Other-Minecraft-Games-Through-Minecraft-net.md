@@ -25,6 +25,15 @@ tags:
   - section_15283929326733
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/21230708993421-How-to-Gift-Minecraft-and-Other-Minecraft-Games-Through-Minecraft-net
+hash:
+  h_01HEXMDVK1JCVZJN7C3QXSN2EJ: how-to-send-a-gift-on-minecraftnet
+  h_01HEXMDVK1DAC70JGMQCCG2M73: how-to-receive-a-gift-through-minecraftnet
+  h_01HEXMDVK1R1JV5B5SBDN2TV85: can-i-gift-other-minecraft-games-through-this-process
+  h_01HEXMDVK1R83JQNRT3SYEQKDN: ive-redeemed-my-gift-code-now-what
+  h_01HEXMDVK13VCNP584SD4MNF46: can-i-redeem-a-gift-code-without-a-microsoft-account
+  h_01HEXMDVK2W926KBMPX8HR2NY9: can-i-redeem-a-gift-code-through-a-child-microsoft-account
+  h_01HEXMDVK2Q64MD08MBZ418PQX: what-if-my-microsoft-account-is-banned
+  h_01HEXMDVK2Z5RS22Q62ZNWE5MT: my-friend-didnt-want-the-code-can-i-send-it-to-someone-else
 ---
 
 You can now gift Minecraft and other Minecraft games through Minecraft.net. This article details everything you need to know about the gifting process.

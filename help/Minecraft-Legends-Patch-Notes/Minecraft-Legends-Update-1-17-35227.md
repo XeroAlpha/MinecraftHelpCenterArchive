@@ -7,7 +7,7 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_15257946888973
-link: https://help.minecraft.net/hc/en-us/articles/16564123433741-Minecraft-Legends-Update-1-17-35227-
+link: https://help.minecraft.net/hc/en-us/articles/16564123433741-Minecraft-Legends-Update-1-17-35227
 ---
 
 **Posted:** June 13, 2023

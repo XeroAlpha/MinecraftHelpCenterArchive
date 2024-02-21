@@ -3,7 +3,7 @@ title: Minecraft - 1.16.50 (iOS Only)
 date: 2020-09-18T18:25:33Z
 updated: 2020-09-22T15:50:46Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360049438972-Minecraft-1-16-50-iOS-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360049438972-Minecraft-1-16-50-iOS-Only
 ---
 
 **Posted:** September 22, 2020

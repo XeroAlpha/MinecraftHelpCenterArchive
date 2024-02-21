@@ -21,6 +21,26 @@ tags:
   - trending
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
+hash:
+  h_01HQ3XERRAF21NFDXA247P6H7C: common-error-codes
+  h_01HQ3XERRAKBJN83958BFWE3NK: bat
+  h_01HQ3XERRAWSW2CD6AV0DNY7PZ: cauldron
+  h_01HQ3XERRAR3362H8721XPTWA1: cobblestone
+  h_01HQ3XERRA1XYA1SV6NVFPE58X: creeper
+  h_01HQ3XERRB5668Z9AZJ1J6RZPV: crossbow
+  h_01HQ3XERRBAY5W3JHZ2Q7S434S: drowned
+  h_01HQ3XERRBWNMT46BZYQ72DQC1: ghast
+  h_01HQ3XERRB064X6AMJMKAFTD1X: glowstone
+  h_01HQ3XERRB25XKV4HXGHMMX24N: haybale
+  h_01HQ3XERRBPV5R5JXJPE5X9WV6: piglin
+  h_01HQ3XERRBGM8WBRA50PR422R2: pufferfish
+  h_01HQ3XERRBAKDKXZ6XBVZMPADX: sugar-cane
+  h_01HQ3XERRB2YBPNQ4JHTHSZBX1: terracotta
+  h_01HQ3XERRBYWQERR58HG4MNADW: marketplace-errors-starting-with-l--d--s--or-p-
+  h_01HQ3XERRBJDGVM3W8T72BC0KX: general-error-code-troubleshooting
+  h_01HQ3XERRB7GP1AVW2ZT1DDKSX: further-troubleshooting-suggestions
+  h_01HQ3XERRB0EPN199FK4E05CQC: uninstall-and-reinstall-minecraft-bedrock-edition
+  h_01HQ3XERRBKJ2HQK15TF6TW23D: device-troubleshooting
 ---
 
 *This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition.  

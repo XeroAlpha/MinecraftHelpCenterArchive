@@ -3,7 +3,7 @@ title: Minecraft - Village & Pillage - 1.11.0 (Bedrock)
 date: 2019-04-22T15:25:19Z
 updated: 2019-04-23T15:55:54Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360026977492-Minecraft-Village-Pillage-1-11-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360026977492-Minecraft-Village-Pillage-1-11-0-Bedrock
 ---
 
 Posted April 23, 2019

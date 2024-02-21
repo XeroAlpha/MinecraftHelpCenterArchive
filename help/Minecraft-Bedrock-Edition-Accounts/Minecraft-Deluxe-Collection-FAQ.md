@@ -14,7 +14,14 @@ tags:
   - section_12617594906509
   - section_12617963662861
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/11211565784589-Minecraft-Deluxe-Collection-FAQ
+hash:
+  h_01HB6TYB67T1TFNQFAESXSX9AA: in-this-article
+  h_01GKJTSHZ5C8B4GDX9GYP2E30V: what-are-theminecraft-deluxe-collectionandminecraft-java--bedrock-edition-deluxe-collections
+  h_01GKJTSPZ4XAZKNS3N3FR9NG4V: where-can-i-buyminecraft-deluxe-collection-and-minecraft-java--bedrock-edition-deluxe-collection
+  h_01GKJTSWKFC4EVNHRXFZF1HHV2: what-dominecraft-deluxe-collectionandminecraft-java--bedrock-edition-deluxe-collectioncost
+  h_01GKJTT3ETDAKF649H9AA4SGE3: what-platforms-is-minecraft-deluxe-collectionavailable-on
+  h_01GKJTT9TSYSQHC05B1QE9E6GH: what-dlc-content-is-included-inminecraft-deluxe-collectionandminecraft-java--bedrock-edition-deluxe-collection
 ---
 
 This article details everything you need to know about the new Minecraft: Deluxe Edition and Minecraft: Java & Bedrock Edition Deluxe Collection packages. 

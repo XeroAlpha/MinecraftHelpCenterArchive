@@ -4,6 +4,9 @@ date: 2021-06-30T16:36:55Z
 updated: 2021-06-30T16:38:29Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4404091800077-Minecraft-Java-Edition-1-17-1-Pre-release-3
+hash:
+  the-caves-cliffs-preview: the-caves--cliffs-preview
+  fixed-bugs-in-1.17.1-pre-release-3: fixed-bugs-in-1171-pre-release-3
 ---
 
 The third pre-release for 1.17.1 is now available in your launcher. This pre-release fixes a few more bugs.

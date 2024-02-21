@@ -3,7 +3,10 @@ title: "Minecraft: Java Edition - 1.20.3 Release Candidate 1 "
 date: 2023-12-01T08:37:34Z
 updated: 2023-12-01T08:37:38Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/21843584957709-Minecraft-Java-Edition-1-20-3-Release-Candidate-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/21843584957709-Minecraft-Java-Edition-1-20-3-Release-Candidate-1
+hash:
+  h_01HGJ8C0VEPW8M6Y96RETYGWBS: fixed-bugs-in-1203-release-candidate-1
+  h_01HGJ8C0VEH04V5AJ9RWQ3Y1NW: get-the-release-candidate
 ---
 
 We're now releasing the first (and hopefully last) release candidate for 1.20.3. Unless something critical pops up, no further changes will be made for the full release, which is planned for next week.

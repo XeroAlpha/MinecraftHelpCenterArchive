@@ -9,6 +9,7 @@ tags:
   - category_technical_support
   - subject_downloads_and_installations
   - platform_android
+  - trending
   - section_12618686416909
 link: https://help.minecraft.net/hc/en-us/articles/4414144725389-Minecraft-Bedrock-Edition-External-Storage-Update-on-Android
 ---

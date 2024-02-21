@@ -22,6 +22,14 @@ tags:
   - platform_xbox_series_x/s
   - section_12617594906509
 link: https://help.minecraft.net/hc/en-us/articles/360045828292-How-to-Log-In-to-Minecraft-Bedrock-Edition
+hash:
+  h_01HBBKQGZD46EECTC0BSQV2F40: in-this-article
+  h_01GB5X8SVE2NNNXF3FBDVJY1ZM: minecraft-bedrock-edition-for-windows
+  h_01GB5X8Z3VKP9AGCPVECF2424K: minecraft-bedrock-edition-for-xbox
+  h_01GB5X9GWD1WJJY5N4TBKV84CQ: if-another-profile-is-signed-into-the-console-or-you-need-to-switch-profiles
+  h_01GB5X9TTC8H22ZRVGA43JCF6B: minecraft-bedrock-edition-for-playstation--nintendo-switch
+  h_01GB5X9ZJ35QM1NQX7B3HNYM6X: minecraft-bedrock-edition-for-mobile-android-ios-and-kindle-fire
+  h_01GB5XA5QN5PE269YB57RR84M1: if-you-experience-issues-when-attempting-to-log-in-try-using-the-xbox-app
 ---
 
 *This article applies to Minecraft for Windows, Chromebooks, Xbox One and Series consoles, PlayStation, Nintendo Switch, mobile, and other Bedrock Edition devices. For help signing in for Minecraft: Java Edition, see *[I Can’t Log In to My Minecraft: Java Edition](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Login-Issues-FAQ.md)* account.* 

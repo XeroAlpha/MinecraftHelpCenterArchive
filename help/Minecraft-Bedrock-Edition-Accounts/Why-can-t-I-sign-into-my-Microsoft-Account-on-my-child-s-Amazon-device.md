@@ -5,7 +5,7 @@ updated: 2023-01-23T17:26:08Z
 categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - section_12617594906509
-link: https://help.minecraft.net/hc/en-us/articles/360054743172-Why-can-t-I-sign-into-my-Microsoft-Account-on-my-child-s-Amazon-device-
+link: https://help.minecraft.net/hc/en-us/articles/360054743172-Why-can-t-I-sign-into-my-Microsoft-Account-on-my-child-s-Amazon-device
 ---
 
 Some players are having difficulty signing into their Microsoft account on Amazon devices when using Amazon Kids (formerly Freetime). The following may help you resolve the issue: 

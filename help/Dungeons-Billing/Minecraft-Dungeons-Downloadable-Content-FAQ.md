@@ -6,6 +6,47 @@ categories: Dungeons Billing
 tags:
   - section_12618268841485
 link: https://help.minecraft.net/hc/en-us/articles/4409165154445-Minecraft-Dungeons-Downloadable-Content-FAQ
+hash:
+  h_01HB6SQV5NER617VGFXHZ161A3: in-this-article
+  h_01HB6SQV5NXTY4X3YEBVT2A73B: doesthedlchavetobepurchasedforeachplatform
+  h_01HB6SQV5NKYR0K4GYXHRMM7WM: how-do-i-install-dlc-packs
+  h_01HB6SQV5NEHPS4F3RGXM8XGF2: how-do-i-install-game-updates
+  h_01HB6SQV5NXBK5YS9VPV32DGFX: does-everyone-need-to-own-the-dlc-to-play-new-missions-together
+  h_01HB6SQV5NWJ92NHDBB7D2TY8C: how-do-i-access-dlc-content-missions-do-i-have-to-complete-the-main-story-first
+  h_01HB6SQV5NV6YGECYT5X1RPSEF: where-can-i-find-patch-notes-for-the-latest-update
+  h_01HB6SQV5NDT38KH9493R26ZE1: where-can-i-get-help
+  h_01FFGJ6SHFTZGW4HDDEAK03GR8: echoing-void-dlc
+  h_01HB6SQV5P7P720KY0N9DPMMCY: what-is-included-with-echoing-void
+  h_01HB6SQV5PGDWVQR7FP9152VS8: what-free-content-is-coming-alongside-echoing-void
+  h_01FFGJ7Z82V5F1EY2K0041E9C5: flames-of-the-nether-dlc
+  h_01HB6SQV5P0TZZN2FHC2DEWC0T: what-is-included-with-flames-of-the-nether
+  h_01HB6SQV5PEFVMAGS9GJP8M1SP: what-free-content-is-included-coming-alongside-flames-of-the-nether
+  h_01HB6SQV5PJFM1D6N37EEM3FFC: ancient-hunts
+  h_01HB6SQV5PQ66HAFRFH4MZX345: gilded-gear
+  h_01HB6SQV5PFRCFF37ZNYJQHTKW: gold-currency-and-piglin-merchant
+  h_01FFGJ8ZAKPBME653D9AJRECR2: hidden-depths-dlc
+  h_01HB6SQV5P5H55EGZYQEEMDCG0: what-is-included-with-hidden-depths
+  h_01HB6SQV5PRJGN07YNN34ZRD1T: what-free-content-is-coming-alongside-hidden-depths
+  h_01FFGJ9QFW2QJ73W2JPFER0GBD: howling-peaks-dlc
+  h_01HB6SQV5PG9YY7XS911G3YZRE: what-is-included-with-howling-peaks
+  h_01FFGJAC38ZBX9BNRKK372ZG49: jungleawakensandcreepingwinterdlc
+  h_01HB6SQV5PS6GS2G3B5M2DTEKZ: whatdownloadablecontentdlcisavailablenowforminecraftdungeons
+  h_01HB6SQV5PNGT924N6SCHF2CEF: what-can-i-doincreepingwinter
+  h_01HB6SQV5PPN3NT9TZ5XE63AY1: whatcan-i-do-injungleawakens
+  h_01HB6SQV5PMMMA57FQENGXWX3N: arejungleawakensandcreepingwintersoldseparately
+  h_01HB6SQV5P2C59SQGBT9BAB3DQ: arejungleawakensandcreepingwinterincludedinthephysicalretailversion-of-minecraft-dungeons
+  h_01FFGJB2ZW95A5VMJC4F77Y2WW: minecraft-dungeonsseasonpass
+  h_01HB6SQV5PC77CP3ZQ70JJD80J: whatistheminecraftdungeonsseasonpass
+  h_01HB6SQV5PDWVG3BG37QRNB9S4: howdoestheseasonpassdifferfromtheheropass
+  h_01HB6SQV5P1GJGV9ADTJ3A5QAP: whatwillthenextdlcpacksbe
+  h_01HB6SQV5PS87K0WQ2C84JS6H3: doesthedlcorseasonpasshavetobepurchasedforeachplatform
+  h_01FFGJBSTV24VQKPSZTMFSPN63: minecraft-dungeons-ultimate-edition
+  h_01HB6SQV5P0C05GNRQGZH0WQCS: what-is-included-in-ultimate-edition-and-the-ultimate-dlc-bundle
+  h_01HB6SQV5PRMY2RQENVCNGP49B: ultimate-edition
+  h_01HB6SQV5P3M6BAYBV479VRCPG: ultimate-dlc-bundle
+  h_01HB6SQV5QG1MGDGGVFK9B1G5A: if-i-already-own-minecraft-dungeons-can-i-still-buy-all-the-dlc-packs-together
+  h_01HB6SQV5Q5248G572GMPH8SMT: i-have-a-physical-code-for-the-hero-pass-upgrade-will-that-still-be-redeemable
+  h_01HB6SQV5QW39TZY9NKDEKD3CE: i-previously-purchasedalready-own-the-hero-edition-hero-pass-or-season-pass-will-i-lose-access-to-my-content
 ---
 
 This article provides information on Minecraft Dungeons' downloadable content (DLC).

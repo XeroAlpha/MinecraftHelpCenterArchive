@@ -6,6 +6,13 @@ categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - section_12618581961357
 link: https://help.minecraft.net/hc/en-us/articles/360058743992-Minecraft-Differences-Between-Creative-Survival-and-Hardcore-Game-Modes
+hash:
+  h_01HFA0404FS6B6K71W6X84MJGN: creative-mode
+  h_01HFA0404F4W02J907YBJZPC39: included-increative-mode
+  h_01HFA0404FY9W0R5SCW8Y23JME: survival-mode
+  h_01HFA0404FPPNR8MVJBAZA35DN: adventure-mode-java-edition-and-bedrock-edition
+  h_01HFA0404FH506AMQF4EEQ45MZ: spectator-mode
+  h_01HFA0404FQ2C7W6B1A0TXC1SN: hardcore-mode-java-edition-only
 ---
 
 When purchasing Minecraft: Bedrock Edition for either PC, consoles, Chromebooks, or mobile devices, you may encounter different game modes each tailored to a unique type of play style. Some of these modes are available in Minecraft: Java Edition as well. This article will discuss each game mode and what they have in common as well as how they differ. 

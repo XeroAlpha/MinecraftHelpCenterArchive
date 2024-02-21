@@ -4,6 +4,8 @@ date: 2023-02-15T16:17:17Z
 updated: 2023-02-15T16:17:23Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/13137448106125-Minecraft-Java-Edition-Snapshot-23w07a
+hash:
+  execute-on-with-interactions: execute-onwith-interactions
 ---
 
 This week we're bringing you the Sniffer, Archaeology, and the Cherry Blossom biome as experimental features for the 1.20 update.

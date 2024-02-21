@@ -1,7 +1,7 @@
 ---
 title: Where Do I Get Support for Minecraft Marketplace Purchases?
 date: 2024-01-31T15:53:46Z
-categories: "Minecraft: Bedrock Edition Technical"
+categories: Minecraft Marketplace
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -15,9 +15,9 @@ tags:
   - platform_macos
   - platform_kindle_fire
   - platform_pc
-  - section_12617893243277
   - platform_chromebook
   - new
+  - section_24069904400141
 link: https://help.minecraft.net/hc/en-us/articles/23690665811981-Where-Do-I-Get-Support-for-Minecraft-Marketplace-Purchases
 ---
 

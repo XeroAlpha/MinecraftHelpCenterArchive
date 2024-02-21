@@ -3,7 +3,7 @@ title: Minecraft - 1.18.30 (Bedrock)
 date: 2022-04-13T18:55:17Z
 updated: 2022-04-19T15:45:03Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/5520890863245-Minecraft-1-18-30-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/5520890863245-Minecraft-1-18-30-Bedrock
 ---
 
 **Posted:** April 19, 2022

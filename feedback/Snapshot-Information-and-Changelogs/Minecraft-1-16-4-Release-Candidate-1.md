@@ -4,6 +4,9 @@ date: 2020-10-27T18:20:33Z
 updated: 2020-10-27T18:21:25Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360051195192-Minecraft-1-16-4-Release-Candidate-1
+hash:
+  changes-in-1.16.4-release-candidate-1: changes-in-1164-release-candidate-1
+  fixed-bugs-in-1.16.4-release-candidate-1: fixed-bugs-in-1164-release-candidate-1
 ---
 
 We have now released 1.16.4 Release Candidate 1. If no further critical issues are found, we expect this version to be the full release of 1.16.4 on Thursday.

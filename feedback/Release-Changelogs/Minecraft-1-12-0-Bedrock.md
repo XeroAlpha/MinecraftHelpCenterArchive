@@ -3,7 +3,10 @@ title: Minecraft - 1.12.0 (Bedrock)
 date: 2019-07-08T23:06:34Z
 updated: 2019-07-09T15:18:22Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360030428752-Minecraft-1-12-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360030428752-Minecraft-1-12-0-Bedrock
+hash:
+  script-engine-updates-currently-available-on-windows-10-with-experimental-gameplay-enabled:
+    script-engine-updatescurrently-available-on-windows-10-with-experimental-gameplay-enabled
 ---
 
 # **Posted:** July 9, 2019

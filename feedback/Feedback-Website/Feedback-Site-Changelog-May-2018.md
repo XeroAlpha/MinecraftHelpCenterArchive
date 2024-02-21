@@ -5,7 +5,7 @@ updated: 2018-06-26T16:53:18Z
 categories: Feedback Website
 tags:
   - feedback_changelog
-link: https://feedback.minecraft.net/hc/en-us/articles/360004473191-Feedback-Site-Changelog-May-2018-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004473191-Feedback-Site-Changelog-May-2018
 ---
 
 ## **We have a fresh new system of categories! Woo!**

@@ -26,6 +26,11 @@ tags:
   - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/16474890051981-Trails-Tales-Update-Bamboo
+hash:
+  h_01HAZB5NN2KZQ9QZRSTRZZ06VJ: what-is-bamboo
+  h_01HAZB5NN3JR1HKQ8TS78HHPJW: what-can-i-make-with-the-bamboo-wood-set
+  h_01HAZB5NN30F6MQ4FTTES6BPZC: how-do-i-make-bamboo
+  h_01HAZB5NN3NFT6FHWFNYW5B1WD: can-i-use-bamboo-like-other-wood-types
 ---
 
 Prepare for an exciting new material set. The bamboo set brings you new materials for building structures, and even a raft for exploring the seas.

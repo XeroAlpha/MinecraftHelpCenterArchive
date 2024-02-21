@@ -3,7 +3,9 @@ title: "Minecraft: Java Edition - 1.18.1 Release Candidate 2 "
 date: 2021-12-08T13:38:47Z
 updated: 2021-12-08T13:38:51Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4415950969613-Minecraft-Java-Edition-1-18-1-Release-Candidate-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/4415950969613-Minecraft-Java-Edition-1-18-1-Release-Candidate-2
+hash:
+  fixed-bugs-in-1.18.1-release-candidate-2: fixed-bugs-in-1181-release-candidate-2
 ---
 
 We've now released 1.18.1 release candidate 2.

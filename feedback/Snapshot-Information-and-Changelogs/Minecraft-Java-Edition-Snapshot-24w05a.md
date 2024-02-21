@@ -4,6 +4,17 @@ date: 2024-01-31T16:21:43Z
 updated: 2024-01-31T16:22:53Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/23691791633677-Minecraft-Java-Edition-Snapshot-24w05a
+hash:
+  h_01HNG55VMZXXG0KEKNCB8QMN2J: technical-changes
+  h_01HNG55VMZA7NEAT0WDG8AX25H: region-file-compression-algorithm
+  h_01HNG55VMZ81W9BHAWYQ46MDSS: reserved-compression-id-for-third-party-servers
+  h_01HNG55VMZMVTQCSYH93C5A8BR: data-pack-version-30
+  h_01HNG55VN0R8MJ0ZJMYWY7SNB9: resource-pack-version-25
+  h_01HNG55VN08NYAGKQW223W99DW: experimental-features
+  h_01HNG55VN0KZZ07JHMW55E2HKR: vault
+  h_01HNG55VN003VE3VVS2X8P9E3S: trial-key
+  h_01HNG55VN0DDPWTPXH7RPED9VT: fixed-bugs-in-snapshot-24w05a
+  h_01HNG55VN0P4AHZE1R3J608NN7: get-the-snapshot
 ---
 
 Hi everyone! We're back with yet another snapshot for 1.20.5, which includes a collection of technical changes, bug fixes and a new experimental feature for Trial Chambers, the Vault Block!

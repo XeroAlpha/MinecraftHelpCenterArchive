@@ -3,7 +3,7 @@ title: Minecraft with RTX Beta - 1.15.0.9 (Windows 10)
 date: 2020-04-27T22:09:43Z
 updated: 2020-04-28T17:11:21Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360042828671-Minecraft-with-RTX-Beta-1-15-0-9-Windows-10-
+link: https://feedback.minecraft.net/hc/en-us/articles/360042828671-Minecraft-with-RTX-Beta-1-15-0-9-Windows-10
 ---
 
 **Posted:** April 28, 2020

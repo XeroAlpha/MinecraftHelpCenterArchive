@@ -6,7 +6,7 @@ tags:
   - android
   - release_changelog
   - 1.4.1
-link: https://feedback.minecraft.net/hc/en-us/articles/360004158932-Minecraft-1-4-1-Android-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004158932-Minecraft-1-4-1-Android-Only
 ---
 
 This update was released only on Android devices. It is still multiplayer compatible with other devices running version 1.4.0.  

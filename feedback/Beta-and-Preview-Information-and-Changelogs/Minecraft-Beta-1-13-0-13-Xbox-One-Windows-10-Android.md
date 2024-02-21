@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.13.0.13 (Xbox One/Windows 10/Android)
 date: 2019-09-12T15:20:23Z
 updated: 2019-09-12T16:31:23Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360033322932-Minecraft-Beta-1-13-0-13-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360033322932-Minecraft-Beta-1-13-0-13-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta**:

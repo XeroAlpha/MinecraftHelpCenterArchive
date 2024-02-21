@@ -3,7 +3,7 @@ title: Minecraft - 1.13.0 (Bedrock)
 date: 2019-10-28T15:17:58Z
 updated: 2019-10-29T16:05:38Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360035247792-Minecraft-1-13-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360035247792-Minecraft-1-13-0-Bedrock
 ---
 
 **Posted:** October 29, 2019

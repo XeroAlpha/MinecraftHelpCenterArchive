@@ -8,6 +8,11 @@ tags:
   - section_12617893243277
   - section_12618686416909
 link: https://help.minecraft.net/hc/en-us/articles/4411299967629-Minecraft-Bedrock-Edition-Worlds-Lost-When-Using-External-Storage-on-Android-Devices
+hash:
+  h_01GK548CNH7F1ZFQ5JNSCZBXD4: method-1-moving-your-worlds-directly-to-their-new-location
+  h_01GK548Q38FZHZR9XQYDSSPMGD: method-1a-use-a-usb-connection-and-a-windows-computer
+  h_01GK548VRP4WA3W9KPWQD8X0DG: method-1b-use-a-file-manager-on-your-android-device
+  h_01GK5490A1SDGYQRAB98YJ60HT: method-2-package-your-world-as-a-mcworld-and-import-it-into-minecraft
 ---
 
 Starting with the Caves and Cliffs Part 2 update, Minecraft: Bedrock Edition will make required Android storage updates that may make player worlds disappear. The worlds are still on the device, but they must be moved manually for the game to continue to access them.

@@ -10,6 +10,11 @@ tags:
   - platform_windows_10
   - section_12618340057613
 link: https://help.minecraft.net/hc/en-us/articles/360041102892-Minecraft-Dungeons-for-Windows-Doesn-t-Start-Due-to-Missing-Files
+hash:
+  h_01F79ZXNC6KM6ZRZNH52M0PV1Z: encountering-the-problem
+  h_01F79ZXTDWTN4CS7R43TYR8TM8: solution-1
+  h_01F79ZXZ1Z3MMZZ0KX2GCRC8JJ: solution-2
+  h_01F79ZY41DTJ9WGYJWNJXGWZVP: solution-3
 ---
 
 Some players on Minecraft Dungeons for Windows have received an error message referring to missing files when trying to start the game. If you see this error, try the solutions below to install the missing files: 

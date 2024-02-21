@@ -6,7 +6,10 @@ categories: Beta and Preview Information and Changelogs
 tags:
   - beta
   - beta_changelog
-link: https://feedback.minecraft.net/hc/en-us/articles/360059595471-Minecraft-Beta-1-16-230-54-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360059595471-Minecraft-Beta-1-16-230-54-Xbox-One-Windows-10-Android
+hash:
+  caves-cliffs-experimental-features: caves-cliffsexperimental-features
+  general-bug-fixes-and-tweaks: generalbug-fixes-and-tweaks
 ---
 
 **Posted:** 8th April 2021

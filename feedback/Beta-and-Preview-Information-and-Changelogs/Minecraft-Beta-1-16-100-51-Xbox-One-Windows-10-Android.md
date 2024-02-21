@@ -6,7 +6,7 @@ categories: Beta and Preview Information and Changelogs
 tags:
   - beta
   - beta_changelog
-link: https://feedback.minecraft.net/hc/en-us/articles/360047675171-Minecraft-Beta-1-16-100-51-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360047675171-Minecraft-Beta-1-16-100-51-Xbox-One-Windows-10-Android
 ---
 
 **12 August 2020**

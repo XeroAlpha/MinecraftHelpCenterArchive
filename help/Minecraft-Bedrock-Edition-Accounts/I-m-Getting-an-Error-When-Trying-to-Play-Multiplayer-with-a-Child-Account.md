@@ -23,6 +23,12 @@ tags:
   - platform_pc
   - section_12617594906509
 link: https://help.minecraft.net/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account
+hash:
+  h_01GB5XGYSW4EWFJKVC0YCRBG9N: how-to-enable-realms
+  h_01GB5XH62MBGTWFXE2MJ207KE0: for-minecraft-java-edition
+  h_01GB5XHBD37SQEGSZWCPNQKXZ0: features-of-minecraft--java-edition-that-are-restricted-without-parental-verificationconsent
+  h_01GB5XHHE3Y1H6F7JKVQJVJRE9: playingonlinewithachildaccount
+  h_01GB5XHP0J5DT95EQ8XF3QGQGQ: morehelp
 ---
 
 If you're getting an error when trying to play multiplayer with a child account, this article should assist you no matter the version you're playing.

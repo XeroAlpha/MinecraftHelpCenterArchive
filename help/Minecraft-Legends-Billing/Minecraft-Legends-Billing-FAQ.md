@@ -12,7 +12,9 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_15283929326733
-link: https://help.minecraft.net/hc/en-us/articles/14855092370061-Minecraft-Legends-Billing-FAQ-
+link: https://help.minecraft.net/hc/en-us/articles/14855092370061-Minecraft-Legends-Billing-FAQ
+hash:
+  authorized-digital-sellers-of-minecraft-legends: authorized-digital-sellers-of-minecraftlegends
 ---
 
 ## Where Can I Buy Minecraft Legends?

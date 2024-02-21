@@ -6,6 +6,14 @@ categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/4408895540365-iOS-Technical-Support-Issues-for-Minecraft
+hash:
+  h_01HAMCKHMMZTM4H1T0QZH1FJF9: in-this-article
+  h_01GK59CA9JHXSWEE23P9KN4N1N: ios13-or-above-required-for-minecraft-bedrock-edition
+  h_01GK59CF232QG53VNM8MNCCGMJ: jurassic-world-on-ios
+  h_01GK59CM28H4SVR0DV94FNYXDC: howtorecovermissingworldsiosonly
+  h_01GK59CS6B8R1PQ2YDZ09HHQ62: recoveryfromicloud
+  h_01GK59CYBV4V0VDEG7NNM88CN2: recoveryfromitunes
+  h_01GK59D35BW6M442XEMNNPJW4T: ios14sign-inissue
 ---
 
 This article details iOS technical support issues and how to address them.

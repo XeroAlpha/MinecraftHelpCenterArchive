@@ -3,7 +3,18 @@ title: "Minecraft: Java Edition - 1.20.3 Pre-Release 1 "
 date: 2023-11-20T16:20:56Z
 updated: 2023-11-20T16:21:01Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/21502506063245-Minecraft-Java-Edition-1-20-3-Pre-Release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/21502506063245-Minecraft-Java-Edition-1-20-3-Pre-Release-1
+hash:
+  h_01HFPRGR5GMPTVAV3CFK5H2JDV: technical-changes
+  h_01HFPRGR5GDC6M1NWRS9B1EBF4: world-resource-packs
+  h_01HFPRGR5GDXANFTENQDA9W925: ui
+  h_01HFPRGR5G52FGDEVE7MHEVPC6: local-storage
+  h_01HFPRGR5G4YK8P4RN610X7D5K: server-config
+  h_01HFPRGR5GZVRM6RTBNGGTR0G3: packets
+  h_01HFPRGR5GC07QYFNRKVC5XJMB: data-pack-version-26
+  h_01HFPRGR5G5RK28NGQ18SME3TN: resource-pack-version-22
+  h_01HFPRGR5G5QMD1ZCRE57D8A4Z: fixed-bugs-in-1203-pre-release-1
+  h_01HFPRGR5GM47T38Q507D58RAR: get-the-pre-release
 ---
 
 We're bringing you the first Pre-Release of 1.20.3 with updates to server resource pack handling and bug fixes!

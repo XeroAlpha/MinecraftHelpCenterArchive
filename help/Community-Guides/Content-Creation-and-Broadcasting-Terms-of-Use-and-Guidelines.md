@@ -6,6 +6,11 @@ categories: Community Guides
 tags:
   - section_12618645881229
 link: https://help.minecraft.net/hc/en-us/articles/4408934440589-Content-Creation-and-Broadcasting-Terms-of-Use-and-Guidelines
+hash:
+  h_01HJPSGR1DP0CJFTCH7WF0DXVM: brand-use-guidelines
+  h_01HJPSGR1DB2Q02Z23R9JAMKNR: video-monetization-guidelines
+  h_01HJPSGR1DW65FR9JB1GMY8N7Q: creating-videos-of-mojang-studios-games
+  h_01HJPSGR1D0FR3E5Q90KNGJDBV: using-the-music-in-mojang-studios-games
 ---
 
 We love seeing what our players create online! However, we do ask you to follow a few rules when creating content.

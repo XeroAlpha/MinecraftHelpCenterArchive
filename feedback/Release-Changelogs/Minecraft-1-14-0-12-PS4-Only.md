@@ -3,7 +3,7 @@ title: Minecraft - 1.14.0.12 (PS4 Only)
 date: 2019-12-14T02:43:12Z
 updated: 2019-12-14T02:45:38Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360037910991-Minecraft-1-14-0-12-PS4-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/360037910991-Minecraft-1-14-0-12-PS4-Only
 ---
 
 **Posted: **December 13, 2019

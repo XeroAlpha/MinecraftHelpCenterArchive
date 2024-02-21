@@ -3,7 +3,7 @@ title: Minecraft - 1.17.33 (Amazon)
 date: 2021-10-04T15:21:08Z
 updated: 2021-10-04T16:01:03Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4410607953677-Minecraft-1-17-33-Amazon-
+link: https://feedback.minecraft.net/hc/en-us/articles/4410607953677-Minecraft-1-17-33-Amazon
 ---
 
 **Posted:** October 4, 2021

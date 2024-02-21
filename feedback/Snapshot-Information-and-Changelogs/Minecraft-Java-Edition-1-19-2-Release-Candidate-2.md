@@ -4,6 +4,9 @@ date: 2022-08-04T13:20:23Z
 updated: 2022-08-05T09:21:30Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/8176815944973-Minecraft-Java-Edition-1-19-2-Release-Candidate-2
+hash:
+  fixed-bugs-in-1.19.2-release-candidate-2: fixed-bugs-in-1192-release-candidate-2
+  fixed-bugs-in-1.19.2-release-candidate-1: fixed-bugs-in-1192-release-candidate-1
 ---
 
 We're now releasing the first (and hopefully only) release candidate for Minecraft 1.19.2. This release candidate fixes a critical issue related to server connectivity with secure chat. If there are no major issues following this release, no further changes will be done before the full release.

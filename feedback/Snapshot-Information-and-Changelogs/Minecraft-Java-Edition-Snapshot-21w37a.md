@@ -4,6 +4,8 @@ date: 2021-09-15T16:53:13Z
 updated: 2021-09-15T16:54:03Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4409293520269-Minecraft-Java-Edition-Snapshot-21w37a
+hash:
+  set_contents-set_loot_table: set_contentsset_loot_table
 ---
 
 Marvellous mountains and colossal caves, this snapshot has it all! Today we're bringing the Overworld revamp to regular snapshots. If you've been playing or checking out the experimental snapshots that we've been releasing, you should be familiar with what you're seeing. If not, you're in for a treat! 

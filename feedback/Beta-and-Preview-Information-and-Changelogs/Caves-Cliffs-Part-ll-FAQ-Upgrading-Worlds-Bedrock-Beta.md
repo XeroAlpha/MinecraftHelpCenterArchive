@@ -3,7 +3,7 @@ title: "Caves & Cliffs Part ll FAQ: Upgrading Worlds (Bedrock Beta) "
 date: 2021-09-22T09:14:45Z
 updated: 2021-10-29T07:38:25Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4409799312141-Caves-Cliffs-Part-ll-FAQ-Upgrading-Worlds-Bedrock-Beta-
+link: https://feedback.minecraft.net/hc/en-us/articles/4409799312141-Caves-Cliffs-Part-ll-FAQ-Upgrading-Worlds-Bedrock-Beta
 ---
 
 **Important:** The information on this page is about a feature currently under development.

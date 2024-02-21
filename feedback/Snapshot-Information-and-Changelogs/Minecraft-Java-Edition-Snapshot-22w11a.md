@@ -4,6 +4,8 @@ date: 2022-03-16T16:51:10Z
 updated: 2022-03-16T16:53:39Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4849829699597-Minecraft-Java-Edition-Snapshot-22w11a
+hash:
+  d-directional-audio: 3d-directional-audio
 ---
 
 Minecraft: Java Edition is jumping on the Wild Update train! The first snapshot for 1.19 is now available. It contains frogs, the Deep Dark, and a bunch of new blocks. We've also entered the era of 3D directional audio. Keeping up with the times!

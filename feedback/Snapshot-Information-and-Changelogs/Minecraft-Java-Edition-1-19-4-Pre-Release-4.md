@@ -3,7 +3,12 @@ title: "Minecraft: Java Edition - 1.19.4 Pre-Release 4 "
 date: 2023-03-08T15:02:17Z
 updated: 2023-03-08T15:03:06Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/13819340688013-Minecraft-Java-Edition-1-19-4-Pre-Release-4-
+link: https://feedback.minecraft.net/hc/en-us/articles/13819340688013-Minecraft-Java-Edition-1-19-4-Pre-Release-4
+hash:
+  changes-in-1.19.4-pre-release-4: changes-in-1194-pre-release-4
+  technical-changes-in-1.19.4-pre-release-4: technical-changes-in-1194-pre-release-4
+  experimental-feature-changes-in-1.19.4-pre-release-4: experimental-feature-changes-in-1194-pre-release-4
+  fixed-bugs-in-1.19.4-pre-release-4: fixed-bugs-in-1194-pre-release-4
 ---
 
 We are now releasing the fourth pre-release for Minecraft 1.19.4. This pre-release contains bug fixes, some cherry texture tweaks, and a button in the options menu to view the game credits.  

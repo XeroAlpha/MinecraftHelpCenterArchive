@@ -4,6 +4,19 @@ date: 2023-11-08T15:24:30Z
 updated: 2023-11-08T15:24:33Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/21146865750157-Minecraft-Java-Edition-Snapshot-23w45a
+hash:
+  h_01HEQRGDZB11Q3EP5HPZP2GMV9: changes
+  h_01HEQRGDZBH7YGR0FQ5TH6KZJ8: technical-changes
+  h_01HEQRGDZBTDN0HKCH0YSKWY09: data-pack-version-24
+  h_01HEQRGDZBHH00XQD668DSWNWS: resource-pack-version-21
+  h_01HEQRGDZB37AFZG9D40XS699F: breeze-mob
+  h_01HEQRGDZB4SMKEPZCNXTWWTRR: added-breeze-mob
+  h_01HEQRGDZBTV116R8G9FP9ZF9V: trial-spawner
+  h_01HEQRGDZBEWHWY2WQCR5BKMBP: trial-chambers
+  h_01HEQRGDZB6TXSHF4RFD09QBS3: known-issues
+  h_01HEQRGDZBV2Q2DCHM2S4QC1NB: trial-key
+  h_01HEQRGDZBT90M5JSCQG7EG6YH: fixed-bugs-in-snapshot-23w45a
+  h_01HEQRGDZB541E2J455XR1GKAN: get-the-snapshot
 ---
 
 We're happy to share another snapshot, this time offering an early look at some exciting new adventures waiting for you underground in the form of Trial Chambers!

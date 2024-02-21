@@ -3,7 +3,10 @@ title: "Minecraft: Java Edition - 1.19.1 Pre-Release 1 "
 date: 2022-06-21T18:23:07Z
 updated: 2022-06-21T18:23:11Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/7096495929997-Minecraft-Java-Edition-1-19-1-Pre-Release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/7096495929997-Minecraft-Java-Edition-1-19-1-Pre-Release-1
+hash:
+  changes-in-1.19.1-pre-release-1: changes-in-1191-pre-release-1
+  fixed-bugs-in-1.19.1-pre-release-1: fixed-bugs-in-1191-pre-release-1
 ---
 
 The first pre-release for 1.19.1 is now available. This release contains a few bugfixes, an increased cooldown for Allay duplication, and it also contains a new UI if you have been banned for violating the Minecraft [Community Standards](https://www.minecraft.net/community-standards).  

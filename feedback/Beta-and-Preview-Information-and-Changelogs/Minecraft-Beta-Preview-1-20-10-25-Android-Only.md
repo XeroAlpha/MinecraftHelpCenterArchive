@@ -3,7 +3,7 @@ title: Minecraft Beta & Preview - 1.20.10.25 (Android Only)
 date: 2023-06-23T22:29:24Z
 updated: 2023-06-23T22:33:22Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/17027817308045-Minecraft-Beta-Preview-1-20-10-25-Android-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/17027817308045-Minecraft-Beta-Preview-1-20-10-25-Android-Only
 ---
 
 **Posted:** June 23, 2023

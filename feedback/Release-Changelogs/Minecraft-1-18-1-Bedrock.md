@@ -3,7 +3,7 @@ title: Minecraft - 1.18.1 (Bedrock)
 date: 2021-12-02T19:28:18Z
 updated: 2021-12-06T16:31:54Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4415394258317-Minecraft-1-18-1-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/4415394258317-Minecraft-1-18-1-Bedrock
 ---
 
 **Posted:** December 2, 2021

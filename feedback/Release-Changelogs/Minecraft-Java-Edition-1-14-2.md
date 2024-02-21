@@ -4,6 +4,10 @@ date: 2019-05-29T15:52:14Z
 updated: 2019-10-28T15:19:20Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360028919851-Minecraft-Java-Edition-1-14-2
+hash:
+  may-2019: 28-may-2019
+  changes-in-1.14.2: changes-in-1142
+  fixed-bugs-in-1.14.2: fixed-bugs-in-1142
 ---
 
 ### **28 May 2019**

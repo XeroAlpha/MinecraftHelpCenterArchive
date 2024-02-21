@@ -7,7 +7,7 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859587017101
-link: https://help.minecraft.net/hc/en-us/articles/14755561356685-Minecraft-Legends-Unit-Types-
+link: https://help.minecraft.net/hc/en-us/articles/14755561356685-Minecraft-Legends-Unit-Types
 ---
 
 Minecraft Legends features a vast array of units to command. Beating the piglins requires a deep understanding of each unit’s strengths and weaknesses. This article details the various unit types you can acquire and how they’re best used to win any encounter!

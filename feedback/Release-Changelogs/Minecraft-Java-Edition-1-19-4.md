@@ -4,6 +4,10 @@ date: 2023-03-14T16:13:27Z
 updated: 2023-03-14T16:13:30Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/13987663727757-Minecraft-Java-Edition-1-19-4
+hash:
+  execute-on-with-interactions: execute-onwith-interactions
+  trim-patterns-materials: trim-patterns--materials
+  fixed-bugs-in-1.19.4: fixed-bugs-in-1194
 ---
 
 We're now releasing 1.19.4 for Minecraft: Java Edition. This release comes with improvements to horse breeding and jukeboxes, new visuals for potions, new accessibility features and many new technical capabilities like the damage and ride commands and display and interaction entities.

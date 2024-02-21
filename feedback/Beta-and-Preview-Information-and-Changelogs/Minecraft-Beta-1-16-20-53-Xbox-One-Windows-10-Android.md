@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.16.20.53 (Xbox One/Windows 10/Android)
 date: 2020-07-16T14:50:55Z
 updated: 2020-07-16T15:34:52Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360045908892-Minecraft-Beta-1-16-20-53-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360045908892-Minecraft-Beta-1-16-20-53-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

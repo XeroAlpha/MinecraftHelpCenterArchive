@@ -21,6 +21,16 @@ tags:
   - platform_PC
   - section_12618686416909
 link: https://help.minecraft.net/hc/en-us/articles/360059400852-Minecraft-Caves-Cliffs-Update-FAQ
+hash:
+  when-will-the-caves-cliffs-update-be-released: when-will-the-caves--cliffs-update-be-released
+  why-is-the-caves-cliffs-update-releasing-in-two-parts: why-is-the-caves--cliffs-update-releasing-in-two-parts
+  what-updates-are-releasing-in-the-first-and-second-parts-of-the-caves-cliffs-update:
+    what-updates-are-releasing-in-the-first-and-second-parts-of-the-caves--cliffs-update
+  can-i-try-out-the-caves-cliffs-part-ii-features-now: can-i-try-out-the-caves--cliffs-part-ii-features-now
+  is-the-deep-dark-and-warden-coming-out-with-caves-cliffs-part-ii: is-the-deep-dark-and-warden-coming-out-with-caves--cliffs-part-ii
+  are-custom-biome-packs-compatible-with-caves-cliffs-part-ii-worlds: are-custom-biome-packs-compatible-with-caves--cliffs-part-ii-worlds
+  the-sculk-sensor-block-i-had-in-my-world-is-replaced-with-a-placeholder-block-and-the-goat-horn-item-is-gone.-how-do-i-get-them-working-again:
+    the-sculk-sensor-block-i-had-in-my-world-is-replaced-with-a-placeholder-block-and-the-goat-horn-item-is-gone-how-do-i-get-them-working-again
 ---
 
 Earlier this spring we announced that the much-anticipated Minecraft: Caves & Cliffs Update will now release in two parts instead of a singular update. 

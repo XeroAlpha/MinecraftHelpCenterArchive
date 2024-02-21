@@ -17,6 +17,12 @@ tags:
   - section_12617963662861
   - section_12618006481549
 link: https://help.minecraft.net/hc/en-us/articles/4409234093581-Minecraft-Java-Edition-Account-Billing-FAQ
+hash:
+  h_01FFK27T17JV6VRAVHWWPD6ZRH: account-billing-issues
+  h_01FFK28B6YWNH1WAJB97ACRARA: savedpaymentinformation
+  h_01FFK290BJEHVS95WA3HH0T73Y: iwas-charged-but-did-not-receive-the-game
+  crossplay-with-other-platforms-or-consoles: crossplaywithotherplatforms-orconsoles
+  change-the-version-purchased: change-theversionpurchased
 ---
 
 **Note: Minecraft: Java Edition and Minecraft: Bedrock Edition are now sold as one bundle under the Minecraft: Java & Bedrock Edition for PC label, meaning this article is now outdated. For information on buying Minecraft, please [refer to this article](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**

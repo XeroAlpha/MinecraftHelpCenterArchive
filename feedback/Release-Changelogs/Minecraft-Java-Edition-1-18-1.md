@@ -3,7 +3,10 @@ title: "Minecraft: Java Edition 1.18.1 "
 date: 2021-12-10T10:25:49Z
 updated: 2021-12-10T10:25:54Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4416161161101-Minecraft-Java-Edition-1-18-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/4416161161101-Minecraft-Java-Edition-1-18-1
+hash:
+  technical-changes-in-1.18.1: technical-changes-in-1181
+  fixed-bugs-in-1.18.1: fixed-bugs-in-1181
 ---
 
 We’re now releasing Minecraft: Java Edition 1.18.1. This release fixes a critical security issue for multiplayer servers, changes how the world fog works to make more of the world visible, and fixes a couple of other bugs.

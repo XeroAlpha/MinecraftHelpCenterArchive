@@ -4,6 +4,36 @@ date: 2023-10-25T10:50:17Z
 updated: 2023-10-25T18:38:51Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20699536679309-Minecraft-Beta-Preview-1-20-50-22
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  h_01HDKGHEPQSWMFBJ5HHWZ44QKX: experimental-features
+  h_01HDKGHEPQ6HS70Y2G83EPPR5G: copper-block-family
+  h_01HDKGHEPQB6J3TZNS5ZE1CH1B: chiseled-copper
+  h_01HDKGHEPQCA0580ZXAJTZ0B2Y: copper-grate
+  h_01HDKGHEPQP6R769AB0GYSDTE5: copper-bulb
+  h_01HDKGHEPQKMNJ3P3486RHJTNB: copper-doors-and-trapdoors
+  h_01HDKGHEPQ61MAM0R3HYYM01KV: tuff-block-family
+  h_01HDKGHEPQVQ61Q0NNA4BFMXBD: known-issues-for-these-experimental-blocks
+  h_01HDKGHEPQKB850C3YT22ZWFF9: features-and-bug-fixes
+  h_01HDKGHEPQZJCY13AEFQV845WE: bat
+  h_01HDKGHEPQ3TVCFJ2GSDKCH6YZ: blocks
+  h_01HDKGHEPQT0KTT3JACTREZH9T: decorated-pots
+  h_01HDKGHEPQMW3ST6X45ZT7CD3B: gameplay
+  h_01HDKGHEPQBAMSGQK70WJ0JMDH: mobs
+  h_01HDKGHEPQM9JCWM6216ZP6CJC: touch-controls
+  h_01HDKGHEPQQQWJE7VE5XRJQ09Z: user-interface
+  h_01HDKGHEPQN9TYMHPKBGPQBH10: technical-updates
+  h_01HDKGHEPQD9DSFGKZ1DTGVHEH: cameras
+  h_01HDKGHEPQPXZS1AA61STA86BK: add-ons-and-script-engine
+  h_01HDKGHEPQM7FVQAFKK18N5YH7: api
+  h_01HDKGHEPQTNKKBT12GXN3HE6A: editor
+  h_01HDKGHEPQY725ZSM1D1SEW6VY: graphical
+  h_01HDKGHEPQC0N90W0ZNA0WDXHE: items
+  h_01HDKGHEPQAV9N482K6TAQPGQX: experimental-technical-features
+  h_01HDKGHEPQFN2SGP4Z2JQ7WD31: gametest
+  h_01HDKGHEPQBEDFKG7W52CPTTNR: graphical-1
+  h_01HDKGHEPRFARAHH67KR29K6QH: script-api
+  h_01HDKGHEPRQSTW9WFQFFTKQSES: api-1
 ---
 
 **Posted:** 25 October 2023

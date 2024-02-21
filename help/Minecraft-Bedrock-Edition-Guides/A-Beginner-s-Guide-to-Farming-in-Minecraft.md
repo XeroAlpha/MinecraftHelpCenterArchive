@@ -21,7 +21,11 @@ tags:
   - platform_oculus
   - platform_pc
   - section_12618581961357
-link: https://help.minecraft.net/hc/en-us/articles/360046311411-A-Beginner-s-Guide-to-Farming-in-Minecraft-
+link: https://help.minecraft.net/hc/en-us/articles/360046311411-A-Beginner-s-Guide-to-Farming-in-Minecraft
+hash:
+  h_01HAZDSBS85D97CJ818M2Y04YE: what-can-i-grow-in-minecraft
+  h_01HAZDSBS8R676HC02DMM4PTEH: how-to-gather-supplies-to-make-a-farm-in-minecraft
+  h_01HAZDSBS8RPDGPG3ZRC9BCPN3: maintaining-your-farm
 ---
 
 Managing your food in Minecraft will ensure you can explore longer without needing to worry about your hunger. The last thing you want to do is stop a journey early because you forgot to feed yourself. To make sure you’re always prepared, you may want to take up farming. Here is a beginner’s look at getting into farming in Minecraft.

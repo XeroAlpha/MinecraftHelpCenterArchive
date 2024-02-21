@@ -4,6 +4,9 @@ date: 2022-01-26T14:47:34Z
 updated: 2022-01-26T14:47:38Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4423007627405-Minecraft-Java-Edition-Snapshot-22w03a
+hash:
+  changes-in-22w03a: changes-in22w03a
+  technical-changes-in-22w03a: technical-changes-in22w03a
 ---
 
 Happy New Year!  It's time for the first snapshot of 2022 to hit the shelves. This snapshot series will be leading up to the release of 1.18.2. With this release we aim to address a few issues before moving on and starting with the Wild Update snapshots.

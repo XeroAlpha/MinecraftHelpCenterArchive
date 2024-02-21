@@ -17,7 +17,9 @@ tags:
   - platform_macOS
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/360029644312-How-do-I-Join-Someone-s-Minecraft-Java-Realm-
+link: https://help.minecraft.net/hc/en-us/articles/360029644312-How-do-I-Join-Someone-s-Minecraft-Java-Realm
+hash:
+  how-to-manually-update-minecraft: how-tomanuallyupdate-minecraft
 ---
 
 From the Minecraft Realms menu in Minecraft, you can view a list of Realms that are available to you. Each Realm that you join first requires an invitation, indicated by the flashing mail icon. After you accept it, that player's Realm will be available to you. Make sure that you have the latest public release of the game.

@@ -4,6 +4,27 @@ date: 2023-12-06T14:07:39Z
 updated: 2023-12-06T14:13:34Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/21999492368781-Minecraft-Beta-Preview-1-20-60-22
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  h_01HGZQAQEYS6RBN8QD678GE07M: experimental-features
+  h_01HGZQAQEYQ351H4T0YXXP0PH4: copper-door
+  h_01HGZQAQEY0QZ1PH15RNAE47VD: breeze
+  h_01HGZQAQEYPDCV3MHF4TETTVB0: features-and-bug-fixes
+  h_01HGZQAQEYA6J8AJX77QSXGAA8: blocks
+  h_01HGZQAQEZ2VNYNBBAVC86Y1NZ: general
+  h_01HGZQAQEZH3SMSE36TV7GWM0M: character-creator
+  h_01HGZQAQEZQ6TR6A2SNPFW7YZH: user-interface
+  h_01HGZQCQEW4QT21QYFVTHKRENJ: technical-updates
+  h_01HGZQCQEWP7D0QMBWWCEP0NQ6: api
+  h_01HGZQCQEWYHPCNTFT3X8PKHMQ: blocks-1
+  h_01HGZQD8XBG0VZG0T6MWG80BT2: components
+  h_01HGZQD8XB3M0HF6D27ATBN0RD: editor
+  h_01HGZQD8XBH6YDARPFWSXXBX0M: graphical
+  h_01HGZQD8XB41CEP51S0WRN902T: stability-and-performance
+  h_01HGZQD8XBF8AST3Z7XGG9NP0C: experimental-technical-updates
+  h_01HGZQD8XB24D6J9SXH2EQ74RD: api-1
+  h_01HGZQD8XBTBSF64VBA0BFZ513: graphical-1
+  h_01HGZQD8XBX75PS9PJDCBAQ6N2: scripting
 ---
 
 **Posted:** 6 December 2023

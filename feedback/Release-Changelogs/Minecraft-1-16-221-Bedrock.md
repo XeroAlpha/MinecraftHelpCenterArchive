@@ -3,7 +3,7 @@ title: Minecraft - 1.16.221 (Bedrock)
 date: 2021-04-21T21:01:08Z
 updated: 2021-04-22T15:53:34Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360059800372-Minecraft-1-16-221-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360059800372-Minecraft-1-16-221-Bedrock
 ---
 
 **Posted:** April 22, 2021

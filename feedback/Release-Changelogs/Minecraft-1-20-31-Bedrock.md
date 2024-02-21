@@ -3,7 +3,9 @@ title: Minecraft - 1.20.31 (Bedrock)
 date: 2023-09-25T18:52:50Z
 updated: 2023-09-27T15:43:46Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/19819587578893-Minecraft-1-20-31-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/19819587578893-Minecraft-1-20-31-Bedrock
+hash:
+  h_01HB6V2C25AQTTKVTFYZXZKZFR: fixes
 ---
 
 **Posted:** September 26, 2023

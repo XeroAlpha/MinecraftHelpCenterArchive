@@ -3,7 +3,10 @@ title: "Minecraft: Java Edition - 1.18 Pre-Release 2 "
 date: 2021-11-16T17:37:31Z
 updated: 2021-11-16T17:38:00Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4413713019277-Minecraft-Java-Edition-1-18-Pre-Release-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/4413713019277-Minecraft-Java-Edition-1-18-Pre-Release-2
+hash:
+  technical-changes-in-1.18-pre-release-2: technical-changes-in-118-pre-release-2
+  fixed-bugs-in-1.18-pre-release-2: fixed-bugs-in-118-pre-release-2
 ---
 
 The second pre-release for Minecraft Java is now available. In this pre-release, we've upgraded the Java version that is bundled with the game, and the game now uses Java 17. Other than this, we've mostly been busy fixing bugs.

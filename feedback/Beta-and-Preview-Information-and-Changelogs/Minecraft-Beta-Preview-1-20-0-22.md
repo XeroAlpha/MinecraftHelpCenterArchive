@@ -4,6 +4,8 @@ date: 2023-04-26T13:32:11Z
 updated: 2023-04-26T14:58:42Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/15239921044109-Minecraft-Beta-Preview-1-20-0-22
+hash:
+  pitcher-plant-pitcher-crop: pitcher-plant--pitcher-crop
 ---
 
 **Posted:** 26 April, 2023

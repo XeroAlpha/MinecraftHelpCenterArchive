@@ -10,7 +10,7 @@ tags:
   - ios
   - switch
   - 1.5.0
-link: https://feedback.minecraft.net/hc/en-us/articles/360007164271-Minecraft-1-5-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360007164271-Minecraft-1-5-0-Bedrock
 ---
 
 Update Aquatic is now complete with the addition of Phase Two! There are many new features like The Drowned, Sea Turtles, Bubble Columns, and over 150 bug fixes. If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](http://feedback.minecraft.net/). Thanks for playing!

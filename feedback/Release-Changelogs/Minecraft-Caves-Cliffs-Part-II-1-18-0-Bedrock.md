@@ -3,7 +3,7 @@ title: "Minecraft - Caves & Cliffs: Part II - 1.18.0 (Bedrock)"
 date: 2021-11-21T21:16:54Z
 updated: 2021-12-01T16:58:51Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4414284658701-Minecraft-Caves-Cliffs-Part-II-1-18-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/4414284658701-Minecraft-Caves-Cliffs-Part-II-1-18-0-Bedrock
 ---
 
 **Posted:** November 30, 2021

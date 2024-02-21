@@ -3,6 +3,11 @@ title: Minecraft Java Edition - 1.16.2 PRE-RELEASE 1
 date: 2020-07-29T15:14:08Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360046610752-Minecraft-Java-Edition-1-16-2-PRE-RELEASE-1
+hash:
+  new-features-in-1.16.2-pre-release-1: new-features-in-1162-pre-release-1
+  changes-in-1.16.2-pre-release-1: changes-in-1162-pre-release-1
+  technical-changes-in-1.16.2-pre-release-1: technical-changes-in-1162-pre-release-1
+  fixed-bugs-in-1.16.2-pre-release-1: fixed-bugs-in-1162-pre-release-1
 ---
 
 29 July 2020

@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.17.30.25 (Xbox One/Windows 10/Android)
 date: 2021-09-09T14:17:27Z
 updated: 2021-09-09T15:51:45Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4408868323213-Minecraft-Beta-1-17-30-25-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/4408868323213-Minecraft-Beta-1-17-30-25-Xbox-One-Windows-10-Android
 ---
 
 **Posted:** 9 September 2021

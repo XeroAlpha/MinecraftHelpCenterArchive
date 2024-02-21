@@ -8,6 +8,59 @@ tags:
   - title_legends
   - section_14744023370893
 link: https://help.minecraft.net/hc/en-us/articles/14751500900877-Minecraft-Legends-Account-FAQ
+hash:
+  h_01HA7TYW5Z2Q58S49YEBQNEBP9: in-this-article
+  h_01HA7TYW605QPGCZNHP2Q9GFHK: creating-an-account-for-minecraft-legends
+  h_01HA7TYW60602GPPX8TG1AFN9G: purchasing-your-copy-of-minecraft-legends
+  h_01HA7TYW600MYD2146MQRDX1PB: how-can-i-change-my-minecraft-legends-in-gamename
+  h_01HA7TYW60P1D8MNCJCA5BZ0HQ: game-save-data
+  h_01HA7TYW60XJVFH6NASCK9A338: ""
+  h_01HA7TYW60RBJ5Z1KJSN0C66ST: signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation
+  h_01HA7TYW6075NX48RBXNH46PHV: "-1"
+  h_01HA7TYW603C9JRRWYB3VK66R7: setup-an-xbox-live-or-microsoft-account-includesmultiplayer-access-for-child-accounts
+  h_01HA7TYW60R4QGJRTCVT7G2K1J: "-2"
+  h_01HA7TYW60JM3BNC5PYJ2K4YZ9: what-is-a-microsoft-account
+  h_01HA7TYW60YXKC0NMM1YG7NNB0: "-3"
+  h_01HA7TYW60XNX7DQYWH354Y85S: sign-up-for-a-free-microsoft-account
+  h_01HA7TYW60B30B1MYKX0QV83QA: "-4"
+  h_01HA7TYW604Y3P5TNC14VHJH3N: set-up-and-manage-your-childs-xbox-live-or-microsoft-account
+  h_01HA7TYW60ZMHTT9MQAWCXRYZH: "-5"
+  h_01HA7TYW60KVMFZJP2J0T8Z3MM: set-and-edit-parental-controls-for-your-childs-account
+  h_01HA7TYW60WJHMCW45WY5V2H6J: "-6"
+  h_01HA7TYW60V7W0AXGTBWX9D58P: child-account-set-up-for-join-multiplayer-games-or-join-clubs
+  h_01HA7TYW60SSRPVRJNZXPSX9XA: "-7"
+  h_01HA7TYW60R9EXTKD7Z0FG8M9N: minecraft-legends-account-settings-and-login-issues
+  h_01GXV53HMAMKDFS5BB24MH3XE5: creating-an-account-for-minecraft-legends-1
+  h_01GXV55CRZXZCD4EP3W3AS213N: windows-1011-or-xbox-game-pass-for-pc-requirements
+  h_01GXV55JZBXTMAF7D09DNHH3GH: xbox-one-or-xbox-game-pass-requirements
+  h_01GXV55RVHPJVYEMVPQ4TD5RZ5: playstation-4-and-5-requirements
+  h_01GXV55Y95BHQ4AVSJ9CYWSH0J: nintendo-switch-requirements
+  h_01GXV564D69EF028B1WN50PQZC: steam-requirements
+  h_01GXV56PGMCNSK9SQS1B3NA83F: purchasing-your-copy-of-minecraft-legends-1
+  h_01GXV57A8RVBDFQHVX3GDBE7WW: windows-1011-or-xbox-game-pass-for-pc
+  h_01GXV57W5EJZY4A0GZ5JXXAC3H: xbox-onexbox-series-xs-or-xbox-game-pass
+  h_01GXV585VHDK20SEG1E9SJF66N: playstation-4-and-5
+  h_01GXV58GZ7MQSSTSW7KNEQDK9K: nintendo-switch
+  h_01GXV58QENSNM0MH45NP56M2X8: steam
+  h_01GXV596CPDKDZXHPVQVPFQE6D: how-can-i-change-my-minecraft-legends-in-gamename-1
+  h_01GXV59J2THJPKQWBVQVRKX277: pcs-and-steam
+  h_01GXV59XCKN4P6Y28MMCJWQXYR: xbox-one
+  h_01GXV5A4X64JSDQ0WARHT1SV9A: playstation
+  h_01GXV5ACRSQD3J3EQ36Y9T0HG2: nintendo-switch-1
+  h_01GXV5AXHX9T35HRR02GEE6M9S: game-save-data-1
+  h_01HA7TYW60X16ZF1BNC0WC9FNV: achievements-in-minecraft-legends
+  h_01GXV5BBA7Z0WWQPZBRFWQCGF7: signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation-1
+  h_01GXV5E0HR477865E9EGHZF37R: setup-an-xbox-live-or-microsoft-account-includesmultiplayer-access-for-child-accounts-1
+  h_01GXV5EEJGSXAT860KACT65JYT: what-is-a-microsoft-account-1
+  h_01GXV5ENQZ9K7S5TPHSBARM5KA: sign-up-for-a-free-microsoft-account-1
+  h_01GXV5FT3TDR10AV5AWN08ZZ4N: set-up-and-manage-your-childs-xbox-live-or-microsoft-account-1
+  h_01GXV5G88Z130ED2EW0616HSZV: set-and-edit-parental-controls-for-your-childs-account-1
+  h_01GXV5GVN00GCCJCNME9765W7Q: child-account-set-up-for-join-multiplayer-games-or-join-clubs-1
+  h_01GXV5H52BV8PGZFH1YPH6YYMM: minecraft-legends-account-settings-and-login-issues-1
+  h_01GXV5HTQ26BFHQHCXXRWTBRWS: windows-or-xbox-onexbox-series-xs-consoles
+  h_01GXV5J3W9HETMBQDCX2AQD5FJ: playstation-4-or-5
+  h_01GXV5JAEQNGDNE14DCJKDR3W4: nintendo-switch-2
+  h_01GXV5JMX6GS8VXVP5XD3T8B0T: steam-1
 ---
 
 This article details everything you need to know about your Minecraft Legends account.
@@ -179,7 +232,7 @@ Minecraft Legends features achievements on Xbox Consoles and through gameplay on
 
 To play online multiplayer and cross-platform play in Minecraft Legends on Nintendo Switch and PlayStation® consoles, you need to log in to the game using a Microsoft Account.
 
-If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md#signup-for-afree-microsoftaccount). 
+If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md#h_01FF8W4Y7MWC8RH3R5BHZE6YDA). 
 
 **Note: A valid [Nintendo Switch Online](https://www.nintendo.com/switch/online-service) membership is also required to play online on Nintendo Switch, or a [PlayStation®Plus](https://www.playstation.com/ps-plus) membership for PlayStation® consoles.**
 

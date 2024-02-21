@@ -4,6 +4,8 @@ date: 2020-06-23T17:37:12Z
 updated: 2020-06-29T16:03:54Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360044911972-Minecraft-Java-Edition-Nether-Release
+hash:
+  f3-n-toggle-spectator: f3--n-toggle-spectator
 ---
 
 23 June 2020

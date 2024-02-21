@@ -3,7 +3,7 @@ title: Minecraft - 1.20.13 (iOS Only)
 date: 2023-07-21T16:39:03Z
 updated: 2023-07-21T16:43:37Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/17824860671117-Minecraft-1-20-13-iOS-Only-
+link: https://feedback.minecraft.net/hc/en-us/articles/17824860671117-Minecraft-1-20-13-iOS-Only
 ---
 
 **Posted:** July 24, 2023

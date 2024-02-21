@@ -7,6 +7,11 @@ tags:
   - java
   - 20W20A
 link: https://feedback.minecraft.net/hc/en-us/articles/360043132532-Minecraft-Java-Edition-Snapshot-20W20B
+hash:
+  f3-n-toggle-spectator: f3--n-toggle-spectator
+  thrown_item_picked_up_by_entity-trigger-type: thrown_item_picked_up_by_entitytrigger-type
+  player_generates_container_loot-trigger-type: player_generates_container_loottrigger-type
+  item_used_on_block-trigger-type: item_used_on_blocktrigger-type
 ---
 
 14 May 2020

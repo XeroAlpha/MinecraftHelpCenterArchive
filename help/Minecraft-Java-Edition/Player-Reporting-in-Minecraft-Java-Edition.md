@@ -11,10 +11,18 @@ tags:
   - platform_pc
   - platform_PC
   - platform_macOS
-  - trending
   - section_12618848019981
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition
+hash:
+  01H7ZQDK2J8J7YNTDRN0C0V2MV: in-this-article
+  h_01GD13NWHWSNVAFQTJGYQ3A97P: empowering-fun-welcoming-and-safe-experiences
+  h_01GD13P1DAPG37N3A8MQP40J50: submitting-a-player-report-in-minecraft-java-edition
+  h_01GD13PAD0EQ3S6T0N3EGVXPGH: player-report-categories
+  h_01GD13PG9R60SYNDV88FKFSHRH: the-lifetime-of-a-player-report
+  h_01GD13PPJXHD69G8XSYZXDRYR4: reviewing-reports
+  01H7ZQSH1ZFEDEKX83XV3FP555: if-you-are-suspended-name-or-skin-banned
+  h_01GD13PWZ72G0H8TEH9R9RXSEC: abuse-of-the-player-reporting-system
 ---
 
 Our games bring millions of players together from around the world, all united by the goal of crafting, exploring, and having fun. That’s why it’s so important that our games are a safe and welcoming place for all players.  

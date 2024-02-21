@@ -5,7 +5,9 @@ updated: 2023-07-24T18:42:14Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - section_15463792344973
-link: https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-
+link: https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft
+hash:
+  what-happens-when-im-banned: whathappenswhen-imbanned
 ---
 
 We want players to have fun and be safe when playing Minecraft online with others, and as such, we have implemented moderation features such as permanent bans for the most egregious violations. Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms (please review the [**Realms End User License Agreement**](https://www.minecraft.net/en-us/realms/terms)). Personal worlds will not be reviewed. 
@@ -35,7 +37,7 @@ Violations that may result in bans include:
 
 If your account has been banned and you have a Realms Plus subscription, you should cancel your subscription so you will not be charged for content you cannot access.
 
-See our [How do I cancel my Minecraft Realms Plus subscription](../Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Billing-Issues-FAQ.md#howdoicancelmyrealmssubscription) article for instructions to cancel.
+See our [How do I cancel my Minecraft Realms Plus subscription](../Realms-Troubleshooting-and-Billing/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) article for instructions to cancel.
 
 If you have been banned and would like more information, please submit a review via [this link](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452), or scroll to the bottom of any page in our Help Center and select ' Case Review' to send a ticket to the appropriate team.  
 

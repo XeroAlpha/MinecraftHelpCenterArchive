@@ -8,6 +8,31 @@ tags:
   - platform_oculus
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/360057619052-Minecraft-Bedrock-Edition-in-Virtual-Reality
+hash:
+  h_01HPQ3RWYP6MW05QP53PQKPRAV: launching-minecraft-bedrock-edition-in-vr
+  h_01HPQ3RWYPM34ENQZZHPXPPFQ0: setting-up-a-custom-shortcut
+  h_01HPQ3RWYPSHF782W47K2ZRTMJ: enhanced-options-for-vr
+  h_01HPQ3RWYPX6V4D94RB7WZFXG1: vr-controls-recommended-or-the-classic-control-scheme
+  h_01HPQ3RWYP37CSA80VZYGCKK43: virtual-living-room
+  h_01HPQ3RWYP17KKXCMVPFCM69M3: options-vr-menu
+  h_01HPQ3RWYPQXTYEA3QBZAQXZKQ: vr-controls
+  h_01HPQ3RWYQ0T9DP57D9VEXQSK5: show-control-selection-screen
+  h_01HPQ3RWYQC4H7M1NZM4SHPGWJ: vr-turning
+  h_01HPQ3RWYQGE9P9PTB7MN2G8GJ: vr-turn-by-time
+  h_01HPQ3RWYQ3QVX5XZCT2XM7X64: vr-turning-sound
+  h_01HPQ3RWYQC0DY6QVYDVPT7WPY: head-steering
+  h_01HPQ3RWYQG0TVH6SM5Y8H5HKA: 3d-rendering
+  h_01HPQ3RWYQFV68WHVK68P7RZNV: linear-jump
+  h_01HPQ3RWYQP7XNCHDAZRNMR89R: hud-drift
+  h_01HPQ3RWYQRHG9TMN1YZTWG5X8: linear-motion
+  h_01HPQ3RWYQ59NYDKBR7482YBV1: sticky-mining
+  h_01HPQ3RWYQ74AK3ZFNJY1GKDYJ: options-controls
+  h_01HPQ3RWYQF42HVS8TCX13AX4K: vr-sensitivity
+  h_01HPQ3RWYQHSNZ6VY3WYCHHKZX: vr-auto-jump
+  h_01HPQ3RWYQCKV9YMZSJ7Y4WAZD: options-graphics
+  h_01HPQ3RWYQP289AEDEDKY21AGM: vr-brightness
+  h_01HPQ3RWYQNSQWZMY84VJV4EAM: vr-render-distance
+  h_01HPQ3RWYQDX9KKS9JSHST2N88: texel-anti-aliasing
 ---
 
 We want you to be as comfortable as possible while playing Minecraft: Bedrock Edition, so we’ve made loads of clever tweaks to bring the game to VR!

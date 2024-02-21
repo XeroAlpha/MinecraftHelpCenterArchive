@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.15.0.54  (Xbox One/Windows 10/Android)
 date: 2020-02-27T12:45:29Z
 updated: 2020-02-27T18:07:30Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360040273531-Minecraft-Beta-1-15-0-54-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360040273531-Minecraft-Beta-1-15-0-54-Xbox-One-Windows-10-Android
 ---
 
 **PLEASE READ before participating in the Minecraft Beta:**

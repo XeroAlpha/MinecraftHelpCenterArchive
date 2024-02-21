@@ -6,6 +6,9 @@ categories: Minecraft Dungeons Guides
 tags:
   - section_12618602222733
 link: https://help.minecraft.net/hc/en-us/articles/360059196792-Minecraft-Dungeons-Secret-Levels
+hash:
+  secret-levels-on-the-mainland-and-jungle-island: secret-levels-on-the-mainland-andjungleisland
+  creepy-crypt: creepycrypt
 ---
 
 There are many secret levels throughout Minecraft Dungeons, on the mainland and on the surrounding islands. These secret levels are not easy to come by and there is no guarantee that its location will appear when you play. This article gives you an overall description of the secret levels and what areas they can be found in. 

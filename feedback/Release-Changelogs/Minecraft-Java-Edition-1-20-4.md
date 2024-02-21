@@ -4,6 +4,9 @@ date: 2023-12-07T15:22:18Z
 updated: 2023-12-07T15:22:32Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/22046600558221-Minecraft-Java-Edition-1-20-4
+hash:
+  h_01HH2DWMYVSXCDXJ89JC0K8P1Z: fixed-bugs-in-1204
+  h_01HH2DWMYVXZ1NF7DRV7Q2Q5M1: get-the-release
 ---
 
 Minecraft 1.20.4 is a hotfix release for Java Edition which fixes a critical bug that could cause items to vanish after being stored in a Decorated Pot.

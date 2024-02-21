@@ -4,6 +4,8 @@ date: 2021-05-05T19:40:37Z
 updated: 2021-05-05T19:41:06Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360060468912-Minecraft-Java-Edition-Snapshot-21w18a
+hash:
+  changes-to-the-caves-cliffs-preview: changes-to-the-caves--cliffs-preview
 ---
 
 Hey-hoo! Will you look at that! It's Wednesday once again, which means we get to share updates about all the Minecraft bits and bobs. This week, we're distributing an ore distribution Snapshot for all you lovely Snapshot connoisseurs to feast upon. Enjoy!

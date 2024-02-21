@@ -3,7 +3,7 @@ title: Minecraft - 1.18.12 (Bedrock)
 date: 2022-02-16T09:00:00Z
 updated: 2022-02-16T16:45:12Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4432393403149-Minecraft-1-18-12-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/4432393403149-Minecraft-1-18-12-Bedrock
 ---
 
 **Posted:** February 16, 2022

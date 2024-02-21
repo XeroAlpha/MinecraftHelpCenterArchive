@@ -7,7 +7,7 @@ tags:
   - bedrock_release
   - 1.2.11
   - release_changelog
-link: https://feedback.minecraft.net/hc/en-us/articles/360004167871-Minecraft-1-2-11-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360004167871-Minecraft-1-2-11-Bedrock
 ---
 
 If you find any bugs, be sure to report them at bugs.mojang.com! feedback.minecraft.net is the place to go to give us feedback and tell us what you think about the update.

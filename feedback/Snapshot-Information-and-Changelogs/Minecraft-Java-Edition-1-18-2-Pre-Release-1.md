@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.18.2 Pre-Release 1 "
 date: 2022-02-21T08:11:35Z
 updated: 2022-02-21T08:11:46Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4457624338317-Minecraft-Java-Edition-1-18-2-Pre-Release-1-
+link: https://feedback.minecraft.net/hc/en-us/articles/4457624338317-Minecraft-Java-Edition-1-18-2-Pre-Release-1
+hash:
+  changes-in-1.18.2-pre-release-1: changes-in-1182-pre-release-1
+  technical-changes-in-1.18.2-pre-release-1: technical-changes-in-1182-pre-release-1
+  fixed-bugs-in-1.18.2-pre-release-1: fixed-bugs-in-1182-pre-release-1
 ---
 
 We're now releasing the first pre-release for Minecraft 1.18.2. This pre-release introduces the possibility for data packs to customize cave generation and to add new custom structures to worlds. 

@@ -18,7 +18,9 @@ tags:
   - platform_windows_10/11
   - platform_sony_playstation_5
   - section_15283929326733
-link: https://help.minecraft.net/hc/en-us/articles/14363631092365-Minecraft-Legends-Redeeming-a-Pre-Paid-Card-or-Gift-Code-
+link: https://help.minecraft.net/hc/en-us/articles/14363631092365-Minecraft-Legends-Redeeming-a-Pre-Paid-Card-or-Gift-Code
+hash:
+  redeeming-minecraft-legends-on-pc-launcher-version: redeeming-minecraft-legends-onpc-launcher-version
 ---
 
 This article applies only to Minecraft Legends pre-paid cards and gift codes. For information about redeeming other Minecraft gift codes, see [Minecraft Pre-Paid Codes](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md). 

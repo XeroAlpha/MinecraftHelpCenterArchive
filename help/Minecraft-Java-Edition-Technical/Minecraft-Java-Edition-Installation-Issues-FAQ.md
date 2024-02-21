@@ -27,6 +27,26 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4409225939853-Minecraft-Java-Edition-Installation-Issues-FAQ
+hash:
+  h_01HAMT0PEJN51T1AWC1JCE10PH: in-this-article
+  h_01FFJMSQWJH31CH16H63GX4YKE: what-are-the-device-requirements-to-run-minecraft-java-edition
+  h_01HAMT0PEKYKXTNCSXGH7G1EZ3: software-requirements
+  h_01FG7Q83AFFF9VYKTQ4JD28W5T: how-do-i-install-minecraft-java-edition
+  h_01FFJMSJY0EPCAJ7J8GGANP0QM: how-to-manually-update-minecraft-java-edition
+  h_01HAMT0PEKTF1J5CP654FH0HXK: how-do-i-find-my-current-version-number
+  h_01HAMT0PEKR9KTW9R55G75BW4D: minecraft-java-edition-pcmaclinux
+  h_01FG7Q8PH2N8Q4129187TKQ3B4: minecraft-launcher
+  h_01HAMT0PEKZ8VB1KXKNX21VFY1: what-is-the-minecraft-launcher
+  h_01HAMT0PEK745928R410394FC2: do-i-have-to-upgrade-to-this-launcher
+  h_01HAMT0PEK9SMC9K2R1Q4EH5R1: howdoiswitchbetweenmyaccountstoplaymygames
+  h_01HAMT0PEKYAPVE532PH0WWR1C: is-the-launcher-also-available-on-mac-and-linux
+  h_01HJS3SSHSR26P8BF7WZQWHAH3: my-game-installation-is-stalling-or-stopping-part-of-the-way-through
+  h_01HJS431MCHY565857S8F1CB9E: i-dont-want-to-install-on-my-c-drive-how-do-i-install-minecraft-on-a-different-drive-on-my-pc
+  h_01FG7Q9JYB4MHW407N3KZKJADX: transferringminecraftjavaeditiontoanother-computer
+  h_01FFJMSEED8RNP3YA5NYGEK14R: uninstall-minecraft
+  h_01HAMT0PEKVJ76ZATMDM4V7RPZ: windows
+  h_01HAMT0PEKE1B3ZH515788T274: macos
+  h_01HAMT0PEK7GFZH6CS73RTBT8D: linux
 ---
 
 *This article addresses installation and update issues for Minecraft: Java Edition. If you need assistance with Bedrock versions of Minecraft installation issues, See the [Minecraft Installation Issues FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md). *

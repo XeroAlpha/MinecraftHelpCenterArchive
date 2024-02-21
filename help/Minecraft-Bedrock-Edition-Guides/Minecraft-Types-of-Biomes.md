@@ -22,6 +22,30 @@ tags:
   - platform_PC
   - section_12618581961357
 link: https://help.minecraft.net/hc/en-us/articles/360046470431-Minecraft-Types-of-Biomes
+hash:
+  h_01HA2M2FFWNZ3W6M2VN5MSCYQZ: do-minecraft-bedrock-edition-and-minecraft-java-edition-share-the-same-biomes
+  h_01HA2M2FFWBA56VVGSKJZ4NMCT: what-is-a-biome
+  h_01HA2M2FFWH7QBZVW7GZVPJSQ5: what-is-a-mob
+  h_01HA2M2FFWTJEWPH1KT26Q3TQD: current-biomes-in-minecraft
+  h_01HA2M2FFWRDYPNPX2D1STRP1T: plains
+  h_01HA2M2FFWW8V3VA7BSMNEA83N: forests
+  h_01HA2M2FFWCSYN2GXJR7JB6SQE: jungles
+  h_01HA2M2FFW0WBGCFVWNFGEM75J: windswept-hills
+  h_01HA2M2FFW6JTFWNQ7BG58BWKV: deserts
+  h_01HA2M2FFWHCZFA6K26G11C61D: taiga
+  h_01HCWRW9YA9PW90KZMZ9SRZBJ3: cherry-grove
+  h_01HA2M2FFWDG2N3A1WVVYT7WT3: snowy-plains
+  h_01HA2M2FFWCEGV95SR4D42Z3AX: ice-spikes
+  h_01HA2M2FFWS1N48EVAZYS9BPH5: swamps
+  h_01HA2M2FFWDSXEV8H761CV0SPX: savannahs
+  h_01HA2M2FFWNHHMC09KXX2RYPCX: badlands
+  h_01HA2M2FFWH3RZF807WZBDQ0QQ: beaches
+  h_01HA2M2FFWJ25Y3SC3BJXEH5B4: stony-shore
+  h_01HA2M2FFWCDZ4JPRNYBS5DSRC: rivers
+  h_01HA2M2FFWFX76RENBGMCM8968: oceans
+  h_01HA2M2FFWM2SSDM8DHE729Q65: mushroom-islands
+  h_01HA2M2FFWS2YA12BGS6ZN2RQV: the-nether
+  h_01HA2M2FFWETXSNSS4VV0FM5CM: the-end
 ---
 
 ## Do Minecraft: Bedrock Edition and Minecraft: Java Edition share the same biomes? 

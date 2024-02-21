@@ -4,6 +4,8 @@ date: 2021-11-29T16:06:56Z
 updated: 2021-11-29T16:07:01Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4415032123533-Minecraft-Java-Edition-1-18-Release-Candidate-4
+hash:
+  changes-in-1.18-release-candidate-4: changes-in-118-release-candidate-4
 ---
 
 A fourth release candidate is now available.

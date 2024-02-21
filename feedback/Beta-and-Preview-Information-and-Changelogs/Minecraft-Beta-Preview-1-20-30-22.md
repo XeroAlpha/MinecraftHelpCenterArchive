@@ -4,6 +4,22 @@ date: 2023-08-17T14:05:41Z
 updated: 2023-08-17T14:18:03Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/18619357250701-Minecraft-Beta-Preview-1-20-30-22
+hash:
+  01H81X5SYBVY1Z7HY8NGCMCQT8: features-and-bug-fixes
+  01H81X5SYBGK6777W0X1SD72CM: updated-play-screen
+  01H81XGKBVBKQZFVC5BTFVSJNA: blocks
+  01H81XGKBV3VRE86D1CSRA6PK1: stability-and-performance
+  01H81XGKBV3ZKD60YK24ADEEB8: user-interface
+  01H81XGKBVYYW10CG5E779B2PQ: text-to-speech
+  01H81XGKBVG56FVRXMV4YP1157: commands
+  01H81XGQT9Q0MG8YS6E2GGHF4W: game-rules
+  01H81XGTGCD4HVMFJFHTFN8CPE: gameplay
+  01H81XGKBV3SM618TT29BDZW84: technical-updates
+  01H81XGKBVFW1ZJ6JY5BTDRVNJ: editor
+  01H81XGKBVA89420WW9QC5VTEX: items
+  01H81XGKBVZTZ9WD8X8E725740: experimental-technical-features
+  01H81XGKBVW7BJKBXEWZ9PM0XB: api
+  01H81XGKBV57RWGBC9FJK20MTC: graphical
 ---
 
 **Posted:** 17 August 2023

@@ -4,6 +4,29 @@ date: 2023-09-06T13:20:52Z
 updated: 2023-09-07T15:41:59Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19244682051341-Minecraft-Beta-Preview-1-20-40-20
+hash:
+  h_01H9QCWRGC7NSXFY3CFG8KQX3H: experimental-features
+  h_01H9QCWRGC2MEFKER6NTFNYN0F: villager-trade-rebalancing-part-2
+  h_01H9QCZBYYWARZWB0TNGG8C9WM: features-and-bug-fixes
+  h_01H9QCZT9HGCK007D4YQMSGQ5F: accessibility
+  h_01H9QD21XE1NG9SRMNEM3Y2NFS: audio
+  h_01H9QD21XEJ9PJBW4T9ZV9P5V1: gameplay
+  h_01H9QD21XFWF3WWKY245TFPESF: general
+  h_01H9QD21XFSX71RN0A6H2F6E0A: graphical
+  h_01H9QD21XFA8QK6H26Y0KQHHT4: mobs
+  h_01H9QD21XFEAPW8BAQP5XFJDRH: vanilla-parity
+  h_01H9QD21XFS1GS9CEY9ZDQBAK1: user-interface
+  h_01H9QD21XFQRPB88VTWWA0SH9R: technical-updates
+  h_01H9QD21XF05WF7AQ53RXDCE0K: add-ons-and-script-engine
+  h_01H9QD21XFM43QZ0CYYVZY9WXY: commands
+  h_01H9QD21XFSF222MJHYC8ZFRDR: components
+  h_01H9QD21XF58NMJJK55V3GFKTE: molang
+  h_01H9QD21XF97HF2TMFNKEQ6M5X: trade-tables
+  h_01H9QD21XF674ZEY6WPMTJ6F9T: experimental-technical-updates
+  h_01H9QD21XF54EHNCS5S1R7KHQV: script-api
+  h_01H9QD3AADYNNJ1RBVP5KS6X2E: graphical-1
+  h_01H9QD3AAE23Q6DNCA327550GN: stability-and-performance
+  h_01H9QD3AAEF8R54HX9CEA4KN8B: user-interface-1
 ---
 
 **Posted:** 7 September 2023

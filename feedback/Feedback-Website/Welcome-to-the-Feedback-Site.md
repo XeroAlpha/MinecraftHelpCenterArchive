@@ -7,7 +7,11 @@ tags:
   - feedback
   - website
   - FAQ
-link: https://feedback.minecraft.net/hc/en-us/articles/360003470871-Welcome-to-the-Feedback-Site-
+link: https://feedback.minecraft.net/hc/en-us/articles/360003470871-Welcome-to-the-Feedback-Site
+hash:
+  what-happened-to...: what-happened-to
+  world-seeds-realm-advertisements-gamertags-and-the-look-here-for-new-friends-to-play-with-on-xbox-live-thread:
+    world-seedsrealm-advertisements-gamertags-and-the-look-here-for-new-friends-to-play-with-on-xbox-live-thread
 ---
 
 **(Most recent update: 7 April 2020)**

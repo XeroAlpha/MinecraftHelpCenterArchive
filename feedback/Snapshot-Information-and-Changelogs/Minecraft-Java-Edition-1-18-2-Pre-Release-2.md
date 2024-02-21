@@ -3,7 +3,10 @@ title: "Minecraft: Java Edition - 1.18.2 Pre-Release 2 "
 date: 2022-02-23T08:40:04Z
 updated: 2022-02-23T08:40:09Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4475725115277-Minecraft-Java-Edition-1-18-2-Pre-Release-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/4475725115277-Minecraft-Java-Edition-1-18-2-Pre-Release-2
+hash:
+  technical-changes-in-1.18.2-pre-release-2: technical-changes-in-1182-pre-release-2
+  fixed-bugs-in-1.18.2-pre-release-2: fixed-bugs-in-1182-pre-release-2
 ---
 
 The second pre-release for 1.18.2 is now out! This pre-release adds a spline density function and fixes a few bugs.

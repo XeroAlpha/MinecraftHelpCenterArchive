@@ -3,7 +3,7 @@ title: Minecraft - 1.17.40 (Bedrock)
 date: 2021-10-14T17:17:21Z
 updated: 2021-10-21T22:25:04Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4411311573133-Minecraft-1-17-40-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/4411311573133-Minecraft-1-17-40-Bedrock
 ---
 
 **Posted:** October 19, 2021

@@ -6,7 +6,7 @@ categories: Feedback Website
 tags:
   - search
   - removed_posts
-link: https://feedback.minecraft.net/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site-
+link: https://feedback.minecraft.net/hc/en-us/articles/360035667771-Making-Great-Searches-on-the-Feedback-Site
 ---
 
 The **search box** is located on every single page of the Feedback site. Just enter a word or two about the topic you want to post about and hit return. Helpful hint: if you have more than one word, use quotes around each word to get the best results! Like “kelp” “tea” instead of “kelp tea”. It's amazing what you can find with one word.

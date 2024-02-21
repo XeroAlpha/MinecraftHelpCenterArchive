@@ -7,6 +7,8 @@ tags:
   - trending
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-multiplayer-game-access-for-a-child-account-in-Minecraft
+hash:
+  h_01HQ48AQA222X3Q8S3ZPS30SNX: related-articles
 ---
 
 Follow these steps to update child account settings that control access to multiplayer games such as Minecraft Realms and Minecraft Dungeons and manage online communication permissions.  

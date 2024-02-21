@@ -15,6 +15,13 @@ tags:
   - platform_xbox_series_x/s
   - section_12618268841485
 link: https://help.minecraft.net/hc/en-us/articles/4405075936013-Minecraft-Dungeons-Ultimate-Edition-FAQ
+hash:
+  h_01HB6T5X246SRNJETJA722SKHQ: what-is-included-in-ultimate-edition-and-the-ultimate-dlc-bundle
+  h_01HB6T5X249PRK0W2CPHRVR0AA: ultimate-edition
+  h_01HB6T5X24DXRTV3P365WYQMX2: ultimate-dlc-bundle
+  h_01HB6T5X24ASDYW1QSCE96Q5ZW: if-i-already-own-minecraft-dungeons-can-i-still-buy-all-the-dlc-packs-together
+  h_01HB6T5X24VRZHWA491FTKCCFG: i-have-a-physical-code-for-the-hero-pass-upgrade-will-that-still-be-redeemable
+  h_01HB6T5X2487SCYH15ZBQ8JNGK: i-already-own-the-hero-editionhero-passor-season-pass-will-i-lose-access-to-my-content
 ---
 
 Minecraft Dungeons Ultimate Edition is here and contains all the previously released downloadable content (DLC) content in one package! This means you will receive all six previously released DLC packs, plus the Hero Pass Cosmetics.  

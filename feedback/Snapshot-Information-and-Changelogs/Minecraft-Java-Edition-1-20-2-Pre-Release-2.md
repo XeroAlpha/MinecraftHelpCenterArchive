@@ -3,7 +3,13 @@ title: "Minecraft: Java Edition - 1.20.2 Pre-Release 2 "
 date: 2023-09-08T09:55:04Z
 updated: 2023-09-08T09:55:11Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/19307683945101-Minecraft-Java-Edition-1-20-2-Pre-Release-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/19307683945101-Minecraft-Java-Edition-1-20-2-Pre-Release-2
+hash:
+  h_01H9T3DDS8FC6MPDV254XX64XF: recipe-book-search-revert
+  h_01H9T3DDS8JT8YR2254T48RKWH: technical-changes-in-1202-pre-release-2
+  h_01H9T3DDS8B0RDQTYRET0P05S0: fixed-bugs-in-1202-pre-release-2
+  h_01H9T3DDS8XVD2BA4NCNWQCHAH: changes-in-1202-pre-release-1
+  h_01H9T3EJFH7QW6F66VZ8A7JWHW: get-the-pre-release
 ---
 
 We've now released 1.20.2 Pre-release 2.

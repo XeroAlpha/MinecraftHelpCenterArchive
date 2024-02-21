@@ -24,6 +24,8 @@ tags:
   - subject_microsoft_sign_in_questions
   - section_12617594906509
 link: https://help.minecraft.net/hc/en-us/articles/360058974711-How-to-Change-Your-Gamertag
+hash:
+  what-is-a-default-gamertag: what-is-adefaultgamertag
 ---
 
 Minecraft: Bedrock Edition for Windows 10 (and higher), Chromebooks, consoles, mobile devices, and Minecraft: Java Edition accounts (specifically Java accounts purchased after Dec 1st, 2020) require that you create an Xbox/Microsoft account to login. 

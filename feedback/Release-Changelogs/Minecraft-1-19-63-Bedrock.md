@@ -3,7 +3,7 @@ title: Minecraft - 1.19.63 (Bedrock)
 date: 2023-02-23T19:18:52Z
 updated: 2023-02-24T17:56:23Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/13374653039501-Minecraft-1-19-63-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/13374653039501-Minecraft-1-19-63-Bedrock
 ---
 
 **Posted: **February 24, 2023

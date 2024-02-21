@@ -18,6 +18,32 @@ tags:
   - platform_PC
   - section_12618263208845
 link: https://help.minecraft.net/hc/en-us/articles/4409836530189-Minecraft-Dungeons-Account-Issues-FAQ
+hash:
+  h_01HA7TZ0H2S3JGHXGBXT5WF9EG: in-this-article
+  h_01FG8113WTQC2TQ5GT9GA0B2X5: creatinganaccountforminecraftdungeons
+  h_01HA7TZ0H2S4B1NBCW8EXRF2CF: windows-10-and-above-or-xbox-game-pass-for-pc-requirements
+  h_01HA7TZ0H2VJH5ZNVEDNJ8QBA4: xbox-one-or-xbox-game-pass-requirements
+  h_01HA7TZ0H2JEQN6K2JPX5HTVR7: playstation-4-requirements
+  h_01HA7TZ0H25D3CXD1E6GDEDX78: nintendo-switch-requirements
+  h_01FG811DVS7P11F16M2JG47C6K: purchasingyourcopyofminecraftdungeons
+  h_01HA7TZ0H2WNDM5RSVPVQP5EV0: windows-10-or-xbox-game-pass-for-pc
+  h_01HA7TZ0H27V9DVDDE54K0S2N9: xbox-one-or-xbox-game-pass
+  h_01HA7TZ0H2VZ9BNW9MKEFM9REX: xbox-game-pass-ultimate
+  h_01HA7TZ0H2YA02QNA02NBNV04C: playstation-4
+  h_01HA7TZ0H2PGP717SCQWF3TMRZ: nintendo-switch
+  h_01HA7TZ0H2849G638C12EA02JB: cani-transfera-minecraft-dungeons-license-to-amojangorminecraftaccount
+  h_01HA7TZ0H2YEJGYWZEWCY8C46B: howcanichangemyminecraftdungeonsin-gamename
+  h_01FG811RVSQAD27ZFVY036A5EQ: signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation
+  h_01FG81243FJR7T7XKZKG76345H: setup-an-xbox-live-or-microsoft-account-includesmultiplayer-access-for-child-accounts
+  h_01HA7TZ0H2C6911AYFS9MZ5CMF: what-is-a-microsoft-account
+  h_01HA7TZ0H2NZ3KXP6TE9ZTZ8T6: signup-for-afree-microsoftaccount
+  h_01HA7TZ0H3VJYHJ6ECBZZGGN4N: setup-andmanageyourchilds-xbox-live-or-microsoftaccount
+  h_01HA7TZ0H3BMT4XY7YB3K0MPX4: set-andeditparentalcontrols-foryourchildsaccount
+  h_01HA7TZ0H3PX9EFFEP20KGAPKZ: child-accountset-up-for-join-multiplayer-games-or-join-clubs
+  h_01HA7TZ0H3PFRPS380BYHWTDFX: minecraft-dungeons-account-settings-and-login-issues
+  h_01HA7TZ0H3HMNWMFD44TQNW11V: windowsorxboxone
+  h_01HA7TZ0H3A8EQ71ZY3E7Y4ZGA: playstation-4-1
+  h_01HA7TZ0H3RE8G6RAWCNEX8KN9: nintendoswitch
 ---
 
 # In This Article:
@@ -100,7 +126,7 @@ The in-game name you see in Minecraft Dungeons will be the name associated with 
 
 To play online multiplayer and cross-platform play in Minecraft Dungeons on Nintendo Switch and PlayStation® consoles, you need to log in to the game using a Microsoft Account. This article explains how to log in and begin adding friends to play together online. 
 
-If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md#signup-for-afree-microsoftaccount). 
+If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md#h_01FF8W4Y7MWC8RH3R5BHZE6YDA). 
 
 **Note: A valid [Nintendo Switch Online](https://www.nintendo.com/switch/online-service) membership is also required to play online on Nintendo Switch, or a [PlayStation®Plus](https://www.playstation.com/ps-plus) membership for PlayStation® consoles. **
 

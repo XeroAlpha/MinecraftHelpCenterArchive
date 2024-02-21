@@ -3,7 +3,7 @@ title: Minecraft - Nether Update - 1.16.0 (Bedrock)
 date: 2020-06-12T22:54:30Z
 updated: 2020-06-23T17:28:05Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360044928311-Minecraft-Nether-Update-1-16-0-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/360044928311-Minecraft-Nether-Update-1-16-0-Bedrock
 ---
 
 **Posted:** June 23, 2020

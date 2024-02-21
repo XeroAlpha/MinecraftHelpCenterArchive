@@ -19,6 +19,12 @@ tags:
   - section_12618443219469
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20686901046669-How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm
+hash:
+  h_01HHZJ8DK8ARDWHZDS4SEWBZ56: administrative-options
+  h_01HHZJHW81DP305JB0AK0EM56G: world-management
+  h_01HHZJMKV9RVW3WBET6XB7M838: realm-backups
+  h_01HHZJPJRF4NGHVGHN4C0SG9WJ: world-management-issues
+  h_01HHZJSRFZR5Z9JE5XMSQA1SJH: realms-feed
 ---
 
 As the owner of your Minecraft: Bedrock Edition Realm, various administrative and management options are available to you. This article details everything you need to know about how to manage your Minecraft: Bedrock Edition Realm.
@@ -35,7 +41,7 @@ You’re provided with the following Realms management options:
   - By clicking on Manage Realm, you’ll see three Realm management options. Game Settings, Members, and Subscription.
     - **Note: You can also manage your Realms on Minecraft.net. Please refer to [this article](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md) for more information.**
 - Game Settings
-  - Here, you can adjust your Realm Name, your Realm Description, and manage your Realm’s Feed. For more on your Realm’s Feed, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/20688488192013).
+  - Here, you can adjust your Realm Name, your Realm Description, and manage your Realm’s Feed. For more on your Realm’s Feed, please refer to [this article](./Minecraft-Bedrock-Edition-Realms-General-FAQ.md).
   - You can also choose to unlock recipes for players within your Realm.
 - Members
   - The Members tab allows you to view your Realm’s current members, adjust their permissions, invite new members, and adjust a player’s default permission status when accepting a Realms invite.
@@ -56,11 +62,11 @@ For more information on Realm world management, please refer to [this article](h
 
 ## Realm backups
 
-Visit the [Realms Backup FAQ](https://help.minecraft.net/hc/en-us/articles/20687461045645) for more information.
+Visit the [Realms Backup FAQ](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md) for more information.
 
 ## World management issues
 
-If a world in your Realm is misbehaving, cannot be opened/closed, or seems broken in any way, try moving that world to a different world slot. Before changing world slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Bedrock-Edition.md#back-up-minecraft-bedrock-edition-worlds). If the slot remains broken, go into Edit World for that slot and click Reset World. This should fix the slot and you can upload your backed up save to use it again.
+If a world in your Realm is misbehaving, cannot be opened/closed, or seems broken in any way, try moving that world to a different world slot. Before changing world slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3). If the slot remains broken, go into Edit World for that slot and click Reset World. This should fix the slot and you can upload your backed up save to use it again.
 
 More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world).  
 

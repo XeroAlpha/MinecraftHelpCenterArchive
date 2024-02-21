@@ -7,6 +7,8 @@ tags:
   - snapshot
   - 19W03A
 link: https://feedback.minecraft.net/hc/en-us/articles/360022057231-Minecraft-Java-Edition-Snapshot-19W03C
+hash:
+  january-2019: 18-january-2019
 ---
 
 ### **18 January 2019**

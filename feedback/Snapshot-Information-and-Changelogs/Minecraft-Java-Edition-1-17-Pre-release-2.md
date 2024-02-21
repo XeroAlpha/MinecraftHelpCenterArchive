@@ -4,6 +4,9 @@ date: 2021-06-01T18:32:18Z
 updated: 2021-06-01T18:34:49Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360062431311-Minecraft-Java-Edition-1-17-Pre-release-2
+hash:
+  the-caves-cliffs-preview: the-caves--cliffs-preview
+  fixed-bugs-in-1.17-pre-release-2: fixed-bugs-in-117-pre-release-2
 ---
 
 It's Monday and it's time for another pre-release! This one fixed a few bugs and crashes.

@@ -17,7 +17,12 @@ tags:
   - subject_microsoft_sign_in_questions
   - platform_PC
   - section_12617594906509
-link: https://help.minecraft.net/hc/en-us/articles/4607523809933-Buy-the-Minecraft-PC-Bundle-Get-Both-Games-
+link: https://help.minecraft.net/hc/en-us/articles/4607523809933-Buy-the-Minecraft-PC-Bundle-Get-Both-Games
+hash:
+  h_01HAMZYY2CWW9WZ2Y1DHNW57BC: whats-happening
+  h_01HAMZYY2C9QAFVJWCWJ5NH3GV: will-previous-purchases-be-eligible-for-this-offer
+  h_01HAMZYY2D0TWCB5J6Z4BXEGP4: if-i-already-own-one-of-the-two-games-how-will-i-be-able-to-redeem-this-offer-to-get-the-other-game
+  h_01HAMZYY2DG8T11KCN9F5P144J: what-platforms-does-this-apply-to
 ---
 
 **Note: Minecraft: Java & Bedrock Edition for PC is here! For more information on the product, please [refer to this FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**

@@ -4,6 +4,22 @@ date: 2024-02-14T16:02:47Z
 updated: 2024-02-14T16:02:52Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24116545955213-Minecraft-Java-Edition-Snapshot-24w06a
+hash:
+  h_01HPM5NQQBRWA7ZHDFG3FFKJQ8: experimental-features
+  h_01HPM5NQQBVY87E7PFSN9FE1X1: wind-charge
+  h_01HPM5NQQBNJMF83K923W0KXM2: vault
+  h_01HPM5NQQBKEHC0R261T4MK755: changes
+  h_01HPM5NQQBEDCFRV100JEYK6ZK: armadillo
+  h_01HPM5NQQBY0YX2W06BYPN0H3K: tamed-wolves-health-and-damage
+  h_01HPM5NQQB5PGFC3HMYCGTNTEY: japanese-font-variants
+  h_01HPM5NQQBM93N0EPSXCS6GYED: technical-changes
+  h_01HPM5NQQBVXGJJTREAMRM6NS1: data-pack-version-31
+  h_01HPM5NQQBPT0J5X0WA1GDWTM8: tags
+  h_01HPM5NQQB1TWH4VM679GMA9ET: block-tags
+  h_01HPM5NQQBTN185XG3B7C2AZH7: resource-pack-version-26
+  h_01HPM5NQQB6GV0X9SYY54WJ20G: font-variant-filters
+  h_01HPM5NQQBG2QW3XE9GDPE7DQV: fixed-bugs-in-24w06a
+  h_01HPM5NQQB4DYCMWKM3VJZ8SJS: get-the-snapshot
 ---
 
 Poof! Here's snapshot 24w06a with the new experimental Wind Charge item and optimizations for Hoppers... among other changes!

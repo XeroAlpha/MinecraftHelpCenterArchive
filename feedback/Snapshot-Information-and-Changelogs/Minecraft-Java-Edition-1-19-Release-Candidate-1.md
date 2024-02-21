@@ -4,6 +4,9 @@ date: 2022-06-02T14:24:39Z
 updated: 2022-06-02T14:24:43Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/6630883799821-Minecraft-Java-Edition-1-19-Release-Candidate-1
+hash:
+  minecraft-1.19-release-candidate-1: minecraft-119-release-candidate-1
+  fixed-bugs-in-1.19-release-candidate-1: fixed-bugs-in-119-release-candidate-1
 ---
 
 <div>

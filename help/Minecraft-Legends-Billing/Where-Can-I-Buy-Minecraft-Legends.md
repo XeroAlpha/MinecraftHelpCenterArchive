@@ -7,7 +7,10 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_15283929326733
-link: https://help.minecraft.net/hc/en-us/articles/14782568843405-Where-Can-I-Buy-Minecraft-Legends-
+link: https://help.minecraft.net/hc/en-us/articles/14782568843405-Where-Can-I-Buy-Minecraft-Legends
+hash:
+  authorized-digital-sellers-of-minecraft-legends: authorized-digital-sellers-of-minecraftlegends
+  h_01GXV7X0EAJF7G5EX5PCFJ7C7F: how-many-people-can-play-against-each-other-in-minecraft-legends
 ---
 
 Minecraft Legends is available on the following platforms:

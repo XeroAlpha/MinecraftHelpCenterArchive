@@ -13,6 +13,9 @@ tags:
   - section_14859582819853
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/15518966498061-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-PlayStation
+hash:
+  h_01HNXNWCRKQZ8Y88B8JMP39NYD: playstation-4
+  h_01HNXNWCRMYEXXJZZFFD0S6BET: playstation-5
 ---
 
 Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on PlayStation **will need a PlayStation Plus Essential subscription or higher** to take advantage of cloud saving.

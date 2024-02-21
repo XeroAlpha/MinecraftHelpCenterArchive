@@ -3,7 +3,7 @@ title: Minecraft - 1.19.83 (Bedrock)
 date: 2023-05-16T19:40:07Z
 updated: 2023-05-16T19:41:03Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/15837147699853-Minecraft-1-19-83-Bedrock-
+link: https://feedback.minecraft.net/hc/en-us/articles/15837147699853-Minecraft-1-19-83-Bedrock
 ---
 
 **Posted:** May 17, 2023

@@ -14,6 +14,13 @@ tags:
   - subject_microsoft_sign_in_questions
   - section_12617909134221
 link: https://help.minecraft.net/hc/en-us/articles/360052640132-How-to-Purchase-Minecraft-Java-Edition-with-a-Microsoft-Account
+hash:
+  h_01HPQ39Z7ZF4YV2DQJFBPDBAV2: ""
+  h_01FAKNQH0H5BYR4TF1GA2VRAV3: use-a-microsoft-account-to-purchase-minecraft-java-edition
+  h_01FAKNQXD32YKSW7YS96KK5PYW: purchasing-minecraft-java-edition-faq
+  h_01HAQMM721D7W9TH0ZRXCQ1C84: can-i-use-my-existing-microsoft-account-to-buy-minecraft-java-edition
+  h_01HAQMM721ZEQ4BHN1P3QJBVWN: why-cant-i-use-my-work-or-school-email-to-sign-up-for-a-microsoft-account
+  h_01HAQMM7215SJYA02EJ53D9YQX: can-i-have-multiple-minecraft-javaeditionaccounts-linked-to-one-microsoft-account
 ---
 
 *Note: Minecraft: Java Edition is now part of the Minecraft: Java & Bedrock Edition for PC bundle. For more information on purchasing Minecraft, please follow [this link](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).*

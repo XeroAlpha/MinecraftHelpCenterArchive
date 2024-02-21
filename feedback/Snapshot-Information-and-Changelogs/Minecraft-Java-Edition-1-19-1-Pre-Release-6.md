@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.19.1 Pre-Release 6 "
 date: 2022-09-15T14:07:03Z
 updated: 2022-09-15T14:08:22Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/9186873342989-Minecraft-Java-Edition-1-19-1-Pre-Release-6-
+link: https://feedback.minecraft.net/hc/en-us/articles/9186873342989-Minecraft-Java-Edition-1-19-1-Pre-Release-6
+hash:
+  changes-in-1.19.1-pre-release-6: changes-in-1191-pre-release-6
+  technical-changes-in-1.19.1-pre-release-6: technical-changes-in-1191-pre-release-6
+  bugs-fixed-in-1.19.1-pre-release-6: bugs-fixed-in-1191-pre-release-6
 ---
 
 We are now releasing pre-release 6 for Minecraft 1.19.1 with some small tweaks to sculk sensors and catalysts as well as bug fixes and improvements to the chat signing system.

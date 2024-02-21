@@ -7,7 +7,7 @@ tags:
   - beta
   - bedrock
   - 1.11.0.4
-link: https://feedback.minecraft.net/hc/en-us/articles/360024624412-Minecraft-Beta-1-11-0-4-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360024624412-Minecraft-Beta-1-11-0-4-Xbox-One-Windows-10-Android
 ---
 
 **7 March 2019**

@@ -5,7 +5,23 @@ updated: 2023-06-15T17:20:07Z
 categories: Accessibility Settings for Minecraft and Other Minecraft Games
 tags:
   - section_12618985151885
-link: https://help.minecraft.net/hc/en-us/articles/360061018612-Accessibility-Settings-for-Minecraft-Java-Edition-
+link: https://help.minecraft.net/hc/en-us/articles/360061018612-Accessibility-Settings-for-Minecraft-Java-Edition
+hash:
+  h_01GD3TMQAHBGGD74J5HJRHZJ9Y: minecraft-accessibility-menu
+  h_01GD3TMW9XPCYF3FF7YSPVB05B: accessible-menu-navigation-and-narration
+  h_01GD3TN1FHNXPGZY5R6J3R8SMJ: navigation
+  h_01GD3TN8GDMWGNPBVSAH02Q5H3: narration
+  h_01GD3TNDF865Q0WDWENA56TDK4: subtitles
+  h_01GD3TNKBSHG8NDSA9B0KFC33Z: text-background-and-spacing
+  h_01GD3TNS2D66MEARS1J12ZN8SS: auto-jump
+  h_01GD3TNZ89RWVGT301G0YZ45GD: action-toggles
+  h_01GD3TP5YXZVF4717QZS7AZ08S: effects-sliders
+  h_01GD3TPCWQRAGHFBDFRDXMQJCW: other-accessibility-settings
+  h_01GD3TPKJ5JVK7SCTVKD67XJ15: chat-settings
+  h_01GD3TPSTMKYTP56HJHQBG1ZSF: music--sound-options
+  h_01GD3TQ00X0A6BWJSK3D127SET: re-map-controls
+  h_01GD3TQ657VCR8AQ97QK5NZTWH: minecraft-launcher
+  h_01GD3TQFECXJSDE97WZKEJGWJM: tips-on-navigating-the-minecraft-launcher
 ---
 
 We believe everyone should be empowered and enabled to play Minecraft. This article will focus on options available in the Java edition of Minecraft – which includes Mac, Windows, and Linux platforms.    

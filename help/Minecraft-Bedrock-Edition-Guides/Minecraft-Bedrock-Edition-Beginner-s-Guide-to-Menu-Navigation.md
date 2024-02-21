@@ -18,6 +18,11 @@ tags:
   - platform_other
   - section_12618581961357
 link: https://help.minecraft.net/hc/en-us/articles/360059154851-Minecraft-Bedrock-Edition-Beginner-s-Guide-to-Menu-Navigation
+hash:
+  h_01HAW64T046KNWYD48R482GQDM: play
+  h_01HAW572FCVE2KKV9AE3HJHG96: dressing-room
+  h_01HAW4ZAPNZC4P87ZYSJKAJPRQ: marketplace
+  h_01HAW4ZAPN0C5PPET413DGQM9X: settings
 ---
 
 If you are just starting out a new world on Minecraft: Bedrock Edition for the first time, let us start by saying welcome! We are glad to have you give Minecraft a try. We hope you enjoy the game and are able to have all kinds of fun and adventure either on your own or with friends.
@@ -26,7 +31,7 @@ Before you jump into that world, it will be beneficial to you to understand what
 
 ## Play
 
-Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Minecraft-Realms-Plus/Minecraft-Realms-Plus-How-do-I-Join-Someone-s-Minecraft-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
+Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Minecraft-Realms-Plus/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
 
 To make your own world, select Create New at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let's select Create New World at the top.
 

@@ -7,7 +7,11 @@ tags:
   - beta
   - bedrock
   - 1.11.0.1
-link: https://feedback.minecraft.net/hc/en-us/articles/360024285231-Minecraft-Beta-1-11-0-1-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360024285231-Minecraft-Beta-1-11-0-1-Xbox-One-Windows-10-Android
+hash:
+  section: ""
+  section-1: "-1"
+  section-2: "-2"
 ---
 
 ## PLEASE READ before participating in the Minecraft Beta:

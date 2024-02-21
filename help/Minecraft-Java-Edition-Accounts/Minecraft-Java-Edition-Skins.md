@@ -12,6 +12,19 @@ tags:
   - platform_PC
   - section_12617963662861
 link: https://help.minecraft.net/hc/en-us/articles/4408894664461-Minecraft-Java-Edition-Skins
+hash:
+  h_01HAMW01TCTP8Y1EZ63ZD2PJ4D: in-this-article
+  h_01GEQADKB1QVMZX9SMR85VZVZ4: add-an-outer-or-second-skin-layer
+  h_01FG23G9KBQWK9CFPD90V0DYN9: how-to-update-minecraft
+  h_01GEQADWRBCY9GC6CF6PVACCSQ: how-do-i-find-my-current-version-number
+  h_01GEQAE23BMBJ5DM1SGG8M1DGD: minecraft-java-edition-pcmac
+  h_01GEQAE90AKCZDRFN2M0YQQ9FR: learn-about-standard-and-slim-skin-models
+  h_01GEQAEEEPCJP36WXBVXS61BQG: upload-a-player-skin-for-minecraft-java-edition
+  h_01GEQAEKRS5K2XK319SDH0P7RX: troubleshooting-minecraft-skins
+  h_01GEQAESTB5FDRR3JJCV4VRE15: why-does-the-website-say-that-i-have-to-pay-to-change-my-skin
+  h_01GEQAF41CMS0Q8X9E3J13GQTK: why-dont-i-see-my-skin-in-multiplayer
+  h_01GEQAF9JGPZ95M37AYHCFGHBJ: i-uploaded-a-new-skin-why-didnt-my-skin-change
+  h_01GEQAFJ9S9XFP6AF7AB5F5N59: why-are-there-black-lines-on-my-skins-arms
 ---
 
 ***This article applies to Minecraft: Java Edition only. For information on Minecraft: Bedrock Edition, see the [Minecraft Skins for Bedrock Version](../Minecraft-Bedrock-Edition-Accounts/Skins-for-Minecraft-Bedrock-Edition.md)[ ](../Minecraft-Bedrock-Edition-Accounts/Skins-for-Minecraft-Bedrock-Edition.md)******article for Bedrock skins.***

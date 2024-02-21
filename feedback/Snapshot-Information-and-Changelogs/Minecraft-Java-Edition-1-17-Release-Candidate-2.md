@@ -3,7 +3,11 @@ title: "Minecraft: Java Edition - 1.17 Release Candidate 2 "
 date: 2021-06-07T12:27:44Z
 updated: 2021-06-07T12:29:37Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/4402560495373-Minecraft-Java-Edition-1-17-Release-Candidate-2-
+link: https://feedback.minecraft.net/hc/en-us/articles/4402560495373-Minecraft-Java-Edition-1-17-Release-Candidate-2
+hash:
+  the-caves-cliffs-preview: the-caves--cliffs-preview
+  fixed-bugs-in-1.17-release-candidate-2: fixed-bugs-in-117-release-candidate-2
+  fixed-bugs-in-1.17-release-candidate-1: fixed-bugs-in-117-release-candidate-1
 ---
 
 We're now releasing the first (and hopefully only) release candidate for Caves & Cliffs: Part I. If there are no major issues following this release, no further changes will be done before the full release. 

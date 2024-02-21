@@ -3,7 +3,7 @@ title: Minecraft Beta - 1.11.0.5 (Xbox One/Windows 10/Android)
 date: 2019-03-14T14:50:02Z
 updated: 2019-03-20T16:49:15Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360025031632-Minecraft-Beta-1-11-0-5-Xbox-One-Windows-10-Android-
+link: https://feedback.minecraft.net/hc/en-us/articles/360025031632-Minecraft-Beta-1-11-0-5-Xbox-One-Windows-10-Android
 ---
 
 **14 March 2019**

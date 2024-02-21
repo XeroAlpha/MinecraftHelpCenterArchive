@@ -7,7 +7,10 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_14859582819853
-link: https://help.minecraft.net/hc/en-us/articles/14745297123725-What-Platforms-is-Minecraft-Legends-Available-on-
+link: https://help.minecraft.net/hc/en-us/articles/14745297123725-What-Platforms-is-Minecraft-Legends-Available-on
+hash:
+  h_01GXV7X0EAJF7G5EX5PCFJ7C7F: how-many-people-can-play-against-each-other-in-minecraft-legends
+  h_01GXV68C60C771NNSTYC70JMNS: ""
 ---
 
 ## Gaming Platforms for Minecraft Legends

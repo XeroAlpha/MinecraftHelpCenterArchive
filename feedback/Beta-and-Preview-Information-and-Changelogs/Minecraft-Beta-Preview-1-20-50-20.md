@@ -4,6 +4,39 @@ date: 2023-10-11T14:51:42Z
 updated: 2023-10-12T18:25:48Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/20297322879245-Minecraft-Beta-Preview-1-20-50-20
+hash:
+  h_01HBVR6KM8JCTEG8SDY8V3WBB3: information-on-the-minecraft-preview-and-beta
+  h_01HCFMBNSDJVTS0N2EW3KT2K66: experimental-features
+  h_01HCFMBNSDZAGP7ARXA58T2BPZ: villager-trade-rebalancing
+  h_01HCFMBNSDGJVZ8YN7GZA5CCMV: features-and-bug-fixes
+  h_01HCFMBNSDCTFF7A68ZE127NMB: realms
+  h_01HCFMBNSDG6DCZW8F407JNBGE: how-to-play
+  h_01HCFMBNSDY3AHD6WSQFVKM7M4: improvements-to-decorated-pots
+  h_01HCFMBNSDPFCKY4T9PGPFKJN4: gameplay
+  h_01HCFMBNSD097P87720RZP2589: village-raids
+  h_01HCFMBNSEAASV34A7MTBJXF2V: general
+  h_01HCFMBNSEMBAYQFFAQH3YG336: graphical
+  h_01HCFMBNSE2JNTZ5ED9VP8GJDA: touch-controls
+  h_01HCFMBNSE2FJNY0QT4G9YXWJN: user-interface
+  h_01HCFMBNSE7T7J6BAP7X1SWH3T: vanilla-parity
+  h_01HCFMBNSEHM4SGCC2P7CFHBZM: world-generation
+  h_01HCFMBNSEMJYR89PWWAAVZ86M: technical-updates
+  h_01HCFMBNSE0TE9KH9S9Y30HMDA: editor
+  h_01HCFMBNSEH03Z80Z92M8FRRXF: add-ons-and-script-engine
+  h_01HCFMBNSEM588HGDW9H5RE3YG: animations
+  h_01HCFMBNSEHQ1KVPC8QWSVKFR6: blocks
+  h_01HCFMBNSE6WRC22KXAZY96N7V: cameras
+  h_01HCFMBNSEYY4GCWH19H3DTXD0: ai-goal-components
+  h_01HCFMBNSEYVZE1GS382WWSJXT: api
+  h_01HCFMBNSEN0HEVN0D0WE25MJ4: components
+  h_01HCFMBNSE8Z1A91GSYHERT0R4: items
+  h_01HCFMBNSERAA51SGHGEP4Q1CY: mobs
+  h_01HCFMBNSE4YKFSHA9K1DBKEKG: molang
+  h_01HCFMBNSERWBF6W6XW1TFRK9X: stability-and-performance
+  h_01HCFMBNSE0DXZ6CZW4X49D9BH: experimental-technical-features
+  h_01HCFMBNSETD6088RMR6R4ZEZE: api-1
+  h_01HCFMBNSED475S39ATBCJEEXM: graphical-1
+  h_01HCFMBNSEK1PECARJQP0H5Y43: performance-and-stability
 ---
 
 **Posted:** October 11, 2023

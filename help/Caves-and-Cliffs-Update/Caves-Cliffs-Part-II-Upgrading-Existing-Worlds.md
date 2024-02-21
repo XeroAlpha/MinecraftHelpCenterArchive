@@ -25,6 +25,15 @@ tags:
   - platform_PC
   - section_12618686416909
 link: https://help.minecraft.net/hc/en-us/articles/4415035909261-Caves-Cliffs-Part-II-Upgrading-Existing-Worlds
+hash:
+  how-does-this-impact-my-existing-worlds: how-does-thisimpactmy-existingworlds
+  i-have-upgraded-my-world-but-still-see-bedrock-at-y0-instead-of-deepslate.-why-is-this-happening:
+    i-have-upgraded-my-world-but-still-see-bedrock-at-y0-instead-of-deepslate-why-is-this-happening
+  what-happens-to-flat-worlds-when-they-are-updated-to-caves-cliffs-part-ii: what-happens-to-flat-worlds-when-they-are-updated-tocaves--cliffs-part-ii
+  what-happens-to-minecraft-bedrock-edition-old-style-worlds-with-the-caves-cliffs-part-ii-update:
+    what-happens-to-minecraft-bedrock-edition-old-style-worlds-with-the-caves--cliffs-part-ii-update
+  why-am-i-being-asked-to-back-up-my-world-before-updating-to-caves-cliffs-part-ii:
+    why-am-i-being-asked-to-back-up-my-world-before-updating-to-caves--cliffspart-ii
 ---
 
 ## What’s changing with the new update?

@@ -4,6 +4,8 @@ date: 2022-12-14T15:58:59Z
 updated: 2022-12-15T10:15:07Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/11448661481229-Minecraft-Beta-Preview-1-19-60-24
+hash:
+  vex-allay: vex--allay
 ---
 
 **Posted:** 14 December, 2022
