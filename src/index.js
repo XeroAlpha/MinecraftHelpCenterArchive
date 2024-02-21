@@ -61,6 +61,7 @@ class LinkDatabase {
             found = { path };
             this.index.push(found);
         }
+        found.updated = frontmatter.updated || frontmatter.date;
         found.url = simplifyArticleUrl(frontmatter.link);
         found.hashMap = frontmatter.hash;
     }
@@ -108,7 +109,7 @@ async function listArticleData({ zendeskOptions, database, incremental, baseUrlR
             articleUrl = baseUrlRewrite(articleUrl);
         }
         const localCopy = database.getByUrl(articleUrl);
-        if (incremental && localCopy && localCopy.frontmatter.update === article.edited_at) {
+        if (incremental && localCopy && localCopy.updated === article.edited_at) {
             break; // Assume articles that updated before it has been updated
         }
         const section = article.section_id ? await findSection(article.section_id) : undefined;
