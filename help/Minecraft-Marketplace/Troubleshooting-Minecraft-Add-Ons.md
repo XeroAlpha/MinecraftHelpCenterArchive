@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Add-Ons
 date: 2024-02-14T17:59:52Z
-updated: 2024-02-20T19:03:49Z
+updated: 2024-02-21T17:57:54Z
 categories: Minecraft Marketplace
 tags:
   - section_24069904400141
@@ -10,6 +10,7 @@ link: https://help.minecraft.net/hc/en-us/articles/24120973871501-Troubleshootin
 hash:
   h_01HPMW2G9TMEAQ18R46X5CP8AG: making-a-backup
   h_01HPMW2G9T0ZMW4TJCKHXR30VE: finding-a-missing-add-on
+  h_01HQ6CT5S4SBD0V1BAY5C14RX5: add-on-wont-finish-downloading
   h_01HPMW9T5CVT678T82748WMNMT: sideload-add-ons-from-third-party-websites-or-apps
   h_01HPMW2G9TNNWZGE03E1BV416A: stacking-multiple-add-ons
   h_01HPMW2G9TW2T91JHJHBYDGYWP: using-add-ons-on-other-content-from-the-marketplace
@@ -37,6 +38,12 @@ Start by ensuring you’ve downloaded the Add-on to your system.
 
 1.  Navigate to the Marketplace and open the product detail page for the Add-On you want to activate.
 2.  Click the **Download** button. A prompt will be displayed asking you to confirm the download. 
+
+## Add-On won't finish downloading
+
+1.  Navigate to Settings and select **Storage**.
+2.  Click **Clear Marketplace Cache**.
+3.  Restart Minecraft and retry your download.
 
 ## Sideload Add-Ons from third-party websites or apps
 

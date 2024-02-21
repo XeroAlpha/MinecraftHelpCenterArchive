@@ -1,7 +1,7 @@
 ---
 title: Managing multiplayer game access for a child account in Minecraft
 date: 2024-02-20T22:11:14Z
-updated: 2024-02-20T22:13:08Z
+updated: 2024-02-21T21:35:12Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - trending
@@ -13,7 +13,7 @@ hash:
 
 Follow these steps to update child account settings that control access to multiplayer games such as Minecraft Realms and Minecraft Dungeons and manage online communication permissions.  
   
-1. Go to [Xbox Privacy & Online Safety Page](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab) and sign in with the parent account[.](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab)
+1. Go to [Xbox Privacy & Online Safety Page](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab) and sign in with the parent account.
 
 2\. Select the child’s account among the family members at the top.
 
