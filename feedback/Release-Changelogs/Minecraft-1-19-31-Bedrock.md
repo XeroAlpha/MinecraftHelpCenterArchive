@@ -16,7 +16,7 @@ As always, we appreciate all your help and input, please report any new bugs atÂ
 **Changes:**
 
 - As of October 5, 2022, players on the Xbox versions of Minecraft will begin receiving an update that improves game performance, alongside a few other changes. You can read more about this in our [FAQ Article  
-  ](../../help/Minecraft-Bedrock-Edition-Technical/Xbox-Minecraft-Performance-Update-Details.md)
+  ](https://help.minecraft.net/hc/en-us/articles/8386720596365-Minecraft-Performance-Update-Details)
 
 **  
 New Mobile Touch Controls:**

@@ -78,7 +78,7 @@ Realms Plus is a subscription that combines Realms servers with a curated catalo
 - 150+ Minecraft worlds, resources packs, skin packs, and mash-ups
 - A monthly set of character creator items
 
-**Note: For more information on resource packs, skins packs, and other add-ons, please refer to** [this article](../Minecraft-Bedrock-Edition-Guides/Minecraft-Bedrock-Edition-Add-ons-FAQ.md)**.**
+**Note: For more information on resource packs, skins packs, and other add-ons, please refer to** [this article](../Minecraft-Marketplace/What-are-Minecraft-Add-Ons.md)**.**
 
 New marketplace content is added regularly to your Realms Plus subscription in the form of content packs. Content packs are optional add-ons to your Realms experience, and can be anything from new weapons, items, mobs, game modes, maps, and so much more. Your Realms Plus subscription comes with a rotating set of 150+ content packs at no extra cost! 
 
@@ -88,7 +88,7 @@ To search for new content packs, navigate to the **Marketplace** and select the 
 
 **Note: Content rotates in and out of the marketplace often. If a pack is rotated out of the marketplace, it will be removed from your download list. Also, any worlds with that pack applied will be unavailable unless you buy the pack itself. However, any Character Creator items redeemed through your Realms Plus subscription are yours to keep.**
 
-For more information on Minecraft add-ons, please refer to [this article](../Minecraft-Bedrock-Edition-Guides/Minecraft-Bedrock-Edition-Add-ons-FAQ.md).
+For more information on Minecraft add-ons, please refer to [this article](../Minecraft-Marketplace/What-are-Minecraft-Add-Ons.md).
 
 ## How much does a Realms Plus subscription cost?  
 

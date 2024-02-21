@@ -153,7 +153,7 @@ To recover a gift code that you can no longer access, ask the person who gave it
 
 Codes purchased on Amazon must be retrieved by [contacting Amazon](https://www.amazon.com/gp/help/customer/contact-us). 
 
-**Note: Please refer to** [**this article**](../Minecraft-Java-Edition-Billing/Minecraft-Java-Edition-Gift-Code-Issues-FAQ.md) **for more information on Minecraft: Java Edition Gift Codes or** [**this article**](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md) **for Minecraft: Bedrock Edition codes.** 
+**Note: Please refer to** [**this article**](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ) **for more information on Minecraft: Java Edition Gift Codes or** [**this article**](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md) **for Minecraft: Bedrock Edition codes.** 
 
 ## Prepaid Pin 
 
@@ -174,4 +174,4 @@ This order number is generated for all purchases in the Mojang account system. I
 
 ## Minecraft for Windows Codes 
 
-Minecraft Windows codes do not verify ownership of a Mojang account. Visit the Help article on [Minecraft for Windows](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-for-Windows-FAQ.md) for issues with these codes.
+Minecraft Windows codes do not verify ownership of a Mojang account. Visit the Help article on [Minecraft for Windows](https://help.minecraft.net/hc/en-us/articles/4408874603533-Minecraft-for-Windows-FAQ) for issues with these codes.

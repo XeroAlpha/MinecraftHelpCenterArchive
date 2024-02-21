@@ -43,7 +43,7 @@ In This Article
 
 To play online multiplayer and cross-platform play in Minecraft Dungeons on Nintendo Switch and PlayStation® consoles, you need to log in to the game using a Microsoft Account. This section explains how to log in and begin adding friends to play together online. 
 
-If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md). 
+If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md). 
 
 **Note:** A valid [Nintendo Switch Online](https://www.nintendo.com/switch/online-service) membership is also required to play online on Nintendo Switch, or a [PlayStation Plus](https://www.playstation.com/ps-plus) membership for PlayStation® consoles. 
 
@@ -91,7 +91,7 @@ As of January 18, 2021, the new launcher is required to access Minecraft Dungeon
 
 #### **I own the game on the Microsoft Store. Where is the launcher?** 
 
-The launcher is not available for players who purchased the game from the Microsoft Store or anyone playing through Xbox Game Pass for PC. The launcher is a delivery vehicle for getting the game onto your computer. Because the Microsoft Store handles all downloading, installing, and updating, the Unified Launcher is not available there. However, you can use the [Minecraft Launcher for Windows](../Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-for-Windows.md) to access the Microsoft Store and Game Pass versions of Dungeons.
+The launcher is not available for players who purchased the game from the Microsoft Store or anyone playing through Xbox Game Pass for PC. The launcher is a delivery vehicle for getting the game onto your computer. Because the Microsoft Store handles all downloading, installing, and updating, the Unified Launcher is not available there. However, you can use the [Minecraft Launcher for Windows](https://help.minecraft.net/hc/en-us/articles/4412261881229-Minecraft-Launcher-for-Windows-) to access the Microsoft Store and Game Pass versions of Dungeons.
 
 #### **How do I sign into my accounts?** 
 

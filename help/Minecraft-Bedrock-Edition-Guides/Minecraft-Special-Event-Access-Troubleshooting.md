@@ -57,7 +57,7 @@ If you’re playing on a child account, you may need a parent’s assistance wit
 
 Whether you’re connecting to the event on Xbox, PlayStation, Nintendo, or our various other Bedrock Edition platforms, ensure your Microsoft and PlayStation/Nintendo account (if applicable) has the proper parental controls enabled so you can join an online game. 
 
-See [How to Manage Parental Consent](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md) for more information on parental settings and controls. 
+See [How to Manage Parental Consent](../Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md) for more information on parental settings and controls. 
 
 ## Is your game up to date? 
 
@@ -65,4 +65,4 @@ Ensure that your game is up to date. If it is not, update it and try accessing t
 
 ## Other issues accessing Minecraft events
 
-If you’re still experiencing issues accessing a Minecraft event, check out this article for more assistance: [Minecraft: Bedrock Edition Multiplayer Connectivity Issues \| Minecraft Help](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Multiplayer-Connectivity-Issues.md)
+If you’re still experiencing issues accessing a Minecraft event, check out this article for more assistance: [Minecraft: Bedrock Edition Multiplayer Connectivity Issues \| Minecraft Help](../Minecraft-Bedrock-Edition-Technical/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)

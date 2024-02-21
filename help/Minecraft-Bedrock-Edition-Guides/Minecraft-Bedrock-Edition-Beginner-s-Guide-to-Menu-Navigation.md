@@ -55,7 +55,7 @@ On this page, you can create and [customize Minecraft skins](https://www.minecra
 
 ## Marketplace 
 
-[The Marketplace](../Minecraft-Bedrock-Edition-Billing/How-to-Use-Minecraft-Marketplace.md) is your one-stop shop to get access to all kinds of new content in Minecraft! You can look through and find all kinds of interesting worlds, skin packs, textures, and more all made by Minecraft creators and featuring some of your favorite franchises! [The Marketplace](https://www.minecraft.net/en-us/article/what-minecraft-marketplace) is constantly getting new content, so be sure to check back to see what is in the store.
+[The Marketplace](../Minecraft-Marketplace/How-to-Find-Content-Missing-from-Minecraft-Marketplace.md) is your one-stop shop to get access to all kinds of new content in Minecraft! You can look through and find all kinds of interesting worlds, skin packs, textures, and more all made by Minecraft creators and featuring some of your favorite franchises! [The Marketplace](https://www.minecraft.net/en-us/article/what-minecraft-marketplace) is constantly getting new content, so be sure to check back to see what is in the store.
 
 ## Settings
 

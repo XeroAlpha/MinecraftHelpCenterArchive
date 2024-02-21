@@ -58,7 +58,7 @@ Payment errors are often difficult to track down; they can happen in different s
 3.  If you are still not able to make a purchase, you may be able to buy a **Minecraft prepaid card** from a retail store and use that. Minecraft prepaid cards can be used on a Microsoft account (that does not already own a copy of the game) and entitle the cardholder to one Minecraft license (one copy of Minecraft).
     - If you have purchased a Minecraft: Java Edition prepaid card at a retail store, you can redeem your code by visiting our site at [minecraft.net/redeem](https://www.minecraft.net/en-us/redeem/) and clicking **REDEEM JAVA EDITION**. You will be prompted to login or create a Microsoft account. Once this is complete you can redeem your code and finish setting up your Minecraft profile.
 
-If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift Code Redemption Issues](../Minecraft-Java-Edition-Billing/Minecraft-Java-Edition-Gift-Code-Issues-FAQ.md#h_01FG55B88ZZ02B559E7Q30BAEV).
+If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift Code Redemption Issues](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ#h_01FG55B88ZZ02B559E7Q30BAEV).
 
 ### Troubleshoot Making a Realms Purchase
 

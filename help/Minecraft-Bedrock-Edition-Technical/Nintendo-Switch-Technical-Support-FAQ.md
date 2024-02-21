@@ -120,7 +120,7 @@ All existing DLC content will be transferred automatically from Minecraft: Ninte
 
 A Microsoft account is a free account you use to sign in on a device that allows Minecraft: Bedrock Edition players on Switch to play with others on non-Nintendo devices such as iOS, Android, Xbox One, and Windows 10 (and above) via cross-play, Realms, or Servers.
 
-Having a Microsoft account also enables the portability of your Minecoins and Marketplace purchases to other devices and platforms. For more information go to the Xbox.com article, [Minecraft for Nintendo Switch FAQ](https://support.xbox.com/en-GB/help/games-apps/game-titles/minecraft-switch-edition-faq). To create an account, go to the [How to Manage Parental Consent, Family Settings and Realms/Multiplayer Access for a Child Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md) page. 
+Having a Microsoft account also enables the portability of your Minecoins and Marketplace purchases to other devices and platforms. For more information go to the Xbox.com article, [Minecraft for Nintendo Switch FAQ](https://support.xbox.com/en-GB/help/games-apps/game-titles/minecraft-switch-edition-faq). To create an account, go to the [How to Manage Parental Consent, Family Settings and Realms/Multiplayer Access for a Child Account](../Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md) page. 
 
 ### Now that I have a Microsoft account, how do I sign into it from my Nintendo Switch? 
 

@@ -236,7 +236,7 @@ Minecoins are available only on the account where they were purchased. They cann
 
 The most common problem preventing an in-game purchase is that there aren’t enough coins. Check the top-right corner of Microsoft Store to make sure you have enough coins to make the purchase. If not, you can click the + icon to purchase more.
 
-If you tried to purchase more coins but you don’t see them in your wallet, follow the steps in the previous section titled [I didn't receive the coins that I purchased. What do I do?](../Minecraft-Bedrock-Edition-Billing/Minecraft-Marketplace-FAQ.md#h_01FF8TBWEZRCYSC42KE1TTX3X2)
+If you tried to purchase more coins but you don’t see them in your wallet, follow the steps in the previous section titled [I didn't receive the coins that I purchased. What do I do?](../Minecraft-Marketplace/How-to-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md#h_01FF8TBWEZRCYSC42KE1TTX3X2)
 
 ## I purchased the wrong content by mistake. Can I get a refund?
 

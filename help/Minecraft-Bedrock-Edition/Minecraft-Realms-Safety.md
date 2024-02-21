@@ -85,7 +85,7 @@ Since the migration of all Minecraft and Mojang accounts to Microsoft accounts, 
 
 Also, Microsoft accounts benefit from parental controls that empower parents to choose what their kids can do in Minecraft online experiences, including what they can access~~,~~ and who can they chat with.
 
-Visit our page on [How to Manage Parental Consent](./How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md) to learn about configuring parental controls for the Bedrock Minecraft client, including mobile devices, consoles, and Windows 10.
+Visit our page on [How to Manage Parental Consent](./Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md) to learn about configuring parental controls for the Bedrock Minecraft client, including mobile devices, consoles, and Windows 10.
 
 Visit [this page](../Minecraft-Java-Edition/Minecraft-Java-Edition-Parental-Control-Features-FAQ.md) to learn about configuring parental controls for Minecraft: Java Edition.
 

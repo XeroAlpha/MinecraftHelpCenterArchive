@@ -25,7 +25,7 @@ hash:
   h_01GD1D00GMFNE9XZ3F4K4S4PJA: do-other-companies-charge-this-fee
 ---
 
-This article covers instructions for configuring parental controls for Minecraft: Java Edition. For assistance configuring parental controls for Minecraft: Bedrock Edition, see this article: [How To Manage Parental Consent, Family Settings And Realms/Multiplayer Access For A Child Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md)
+This article covers instructions for configuring parental controls for Minecraft: Java Edition. For assistance configuring parental controls for Minecraft: Bedrock Edition, see this article: [How To Manage Parental Consent, Family Settings And Realms/Multiplayer Access For A Child Account](../Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md)
 
 # In This Article:
 

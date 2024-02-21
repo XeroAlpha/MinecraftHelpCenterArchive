@@ -26,7 +26,7 @@ The steps in this article cover redeeming a Minecraft Dungeons pre-paid card pur
 ## Redeeming Minecraft Dungeons on PC (Launcher version) 
 
 1.  Navigate to [minecraft.net/redeem/dungeons](https://minecraft.net/redeem/dungeons).
-2.  Log in to an existing Microsoft account or [create a new one](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md).
+2.  Log in to an existing Microsoft account or [create a new one](../Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md).
 3.  After you have logged in to your Microsoft account, you can redeem your pre-paid card or gift code.   
     Scratch off the silver area and enter the code found on the back of your pre-paid card into the **Code** field.   
     If you run into any problems, see our support article on [pre-paid card errors](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md#prepaid-card-and-gift-code-redemption-issues).

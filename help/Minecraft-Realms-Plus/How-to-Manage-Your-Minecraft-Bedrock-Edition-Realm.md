@@ -54,7 +54,7 @@ Your Realm comes with three different world slots. You can only have one slot ac
 
 ![A screenshot of a video game Description automatically generated](https://minecrafthelp.zendesk.com/hc/article_attachments/22474007445773)
 
-Each world slot has its own world settings, which you can adjust by clicking on that world slot and selecting **Edit World**. The **Edit World** screen is similar to that of a single-player world, and allows you to adjust in-game settings, Resource Packs, and Behavior Packs. You can also require a player to accept your chosen Resource Pack before they can join your Realm. For more on adding Resource and Behavior Packs to your Realm, please refer to [this article](../Minecraft-Bedrock-Edition-Guides/Minecraft-Bedrock-Edition-Add-ons-FAQ.md).
+Each world slot has its own world settings, which you can adjust by clicking on that world slot and selecting **Edit World**. The **Edit World** screen is similar to that of a single-player world, and allows you to adjust in-game settings, Resource Packs, and Behavior Packs. You can also require a player to accept your chosen Resource Pack before they can join your Realm. For more on adding Resource and Behavior Packs to your Realm, please refer to [this article](../Minecraft-Marketplace/What-are-Minecraft-Add-Ons.md).
 
 To adjust which world is active, select the world slot containing your preferred world and click **Activate Realm**.
 

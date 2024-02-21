@@ -232,7 +232,7 @@ Minecraft Legends features achievements on Xbox Consoles and through gameplay on
 
 To play online multiplayer and cross-platform play in Minecraft Legends on Nintendo Switch and PlayStation® consoles, you need to log in to the game using a Microsoft Account.
 
-If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md#h_01FF8W4Y7MWC8RH3R5BHZE6YDA). 
+If you do not have a Microsoft Account, you can create one for free by following the directions in our article on [Setting Up a Microsoft Account](../Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md#h_01FF8W4Y7MWC8RH3R5BHZE6YDA). 
 
 **Note: A valid [Nintendo Switch Online](https://www.nintendo.com/switch/online-service) membership is also required to play online on Nintendo Switch, or a [PlayStation®Plus](https://www.playstation.com/ps-plus) membership for PlayStation® consoles.**
 
