@@ -5879,6 +5879,20 @@
     "path": "help/Realms-Troubleshooting-and-Billing/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Bedrock-Edition.md"
   },
   {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24302243825677",
+    "path": "help/Minecraft-Bedrock-Edition/Managing-spending-for-child-accounts-in-Minecraft-Marketplace.md",
+    "hashMap": {
+      "h_01HQ47CXPXBE0RHM52SRDV6GZC": "related-articles"
+    }
+  },
+  {
+    "url": "https://help.minecraft.net/hc/en-us/articles/24302916594701",
+    "path": "help/Minecraft-Bedrock-Edition/Managing-multiplayer-game-access-for-a-child-account-in-Minecraft.md",
+    "hashMap": {
+      "h_01HQ48AQA222X3Q8S3ZPS30SNX": "related-articles"
+    }
+  },
+  {
     "url": "https://help.minecraft.net/hc/en-us/articles/360029644312",
     "path": "help/Minecraft-Java-Realms/How-do-I-Join-Someone-s-Minecraft-Java-Realm.md",
     "hashMap": {
@@ -6947,21 +6961,10 @@
   },
   {
     "url": "https://help.minecraft.net/hc/en-us/articles/4408968616077",
-    "path": "help/Minecraft-Bedrock-Edition/How-to-Manage-Parental-Consent-Family-Settings-and-Realms-Multiplayer-Access-for-a-Child-Account.md",
+    "path": "help/Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md",
     "hashMap": {
-      "h_01FF8W4KE48P9MSM2Y0WW4PVDH": "what-is-a-microsoft-account",
-      "h_01FF8W4Y7MWC8RH3R5BHZE6YDA": "signup-for-afree-microsoftaccount",
-      "h_01FF8W5BQ06536NJVVTJH4N74H": "set-up-and-manage-your-childs-xbox-live-and-microsoft-account",
-      "h_01HNP2PBZCM4J055CB6Z58NE7Y": "adjust-xbox-live-privacy-settings",
-      "h_01FF8W5Q0CDHH1CE3XMNWTGF6D": "family-account-managementand-child-account-set-up",
-      "h_01FF8W63NGC342MFZ82176SR8V": "how-to-create-a-family-group",
-      "h_01GTJ6M0HCCVGPBQ5AWXYYQSAS": "family-group-multiplayer-features",
-      "h_01FF8W6N0A56YY89DZDKY79KHT": "xbox-family-settings-app",
-      "h_01GD1DWZNRW7JYKWDYCEX6DKS0": "additional-parental-controls",
-      "h_01FF8W7WP5QZT4K5QPFEMFG2T1": "accountset-up-to-enable-join-multiplayer-games-join-clubs-or-access-realms",
-      "h_01FF8W9XWRJ299NJ3BWCP7M6X3": "to-enable-chat-for-people-not-on-thechilds-friends-list",
-      "h_01G4NVE5H85PTRET8223EMVGPE": "account-set-up-to-enable-adding-and-removing-friends",
-      "h_01G4NV9FZFYQH57H9J1388ZRD4": "how-to-enable-require-approval-for-every-purchase"
+      "h_01HQ44H80QWE5ED40D6GSFSGBB": "follow-these-steps-to-set-up-your-family-accounts",
+      "h_01HQ44H26X4CH76GE47HYA6389": "related-articles"
     }
   },
   {
