@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.70.25
 date: 2024-02-21T22:22:24Z
-updated: 2024-02-22T18:37:47Z
+updated: 2024-02-22T21:28:55Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24339260310029-Minecraft-Beta-Preview-1-20-70-25
 hash:
@@ -38,7 +38,7 @@ You are also able to add and edit your own custom server (on PC and mobile), set
 
 **Changes:**
 
-- Play Screen/Servers Tab is being updated with improved navigation, and a new look and feel that matches the new style in the screens. It’ll be rolled out gradually across Android, iOS, Windows, and Xbox in the following days.
+- Play Screen/Servers Tab is being updated with improved navigation, and a new look and feel that matches the new style in the screens. **It will be rolled out gradually across Android, iOS, Windows, and Xbox in the following days.**
 
 We’re still working on some things, like support for other platforms, and some minor bugs and improvements. We would love to hear what you think! Share your feedback on the [Feedback Site](https://aka.ms/serverstabfeedback) and put “Servers Tab” in the title so we can find it.  
   

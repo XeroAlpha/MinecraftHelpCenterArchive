@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Creation FAQ"
 date: 2021-09-14T23:14:55Z
-updated: 2024-02-20T19:14:14Z
+updated: 2024-02-22T20:23:40Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft_java_edition
@@ -92,7 +92,6 @@ hash:
   01H7X5FC4HJR2SS9HDN4QVG4NH: adjust-settings-for-individual-worlds
   01H7X5FC4HHZBRWKYZYCFT5FVF: backups
   01H7X5FC4HRRQ9Q5XPHNGCJWX3: reset
-  h_01H0JYT6EDNX7N0Y86V1J10YWS: how-does-mojang-backup-your-realm
 ---
 
 *This article refers to Realms for Minecraft: Bedrock Edition. If you need help with your subscription to Realms for Minecraft: Java Edition, See: [**Minecraft: Java Edition Realms Creation FAQ**](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK88ASN27R4JKF1CKN3K695)*
@@ -108,7 +107,7 @@ hash:
 - **[Technical Questions](#technical-questions)**
 - **[How to Create Your Realm](#howtocreateyourrealm)**
 - **[Admin Options for Realms](#adminoptions-for-realms)**
-- **[How does Mojang backup your Realm?](#how-does-mojang-backup-your-realm)**
+- **[How does Mojang backup your Realm?](#h_01H0JYT6EDNX7N0Y86V1J10YWS)**
 
 ## General Questions 
 
@@ -408,20 +407,8 @@ Select **Subscription** to see your Minecraft Realms subscription status or 
 
 ### Backups
 
-Enables you to see and switch between your backups as well as download the currently loaded backup. 
+Enables you to see and switch between your backups as well as download the currently loaded backup. See [Minecraft: Bedrock Edition Realms Backup FAQ](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md) for more. 
 
 ### Reset
 
 This option lets you generate a new world, load a premade world template, or upload your own world. Note that resetting your world with any of these options will delete your current world and all backups.
-
-## How does Mojang backup your Realm?
-
-A Realm world is downloadable within 18 months, but the world backups associated with that Realm may have been removed depending on our retention policy. In general, we take a backup every 30 minutes while you are playing, and at the end of a play session. We can’t keep all of your backups around forever though. If a Realm world is used actively, the following retention policy is in effect:  
-
-- In the last 24 hours: We retain all backups.
-- 1 day to 8 days ago: We retain one backup per day.
-- 9 days to 36 days ago: We retain one backup a week.
-- 37 days to 121 days ago: We retain one backup a month.
-- 122+ days ago: No backups are retained.*** ***
-
-**Note: If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed.**

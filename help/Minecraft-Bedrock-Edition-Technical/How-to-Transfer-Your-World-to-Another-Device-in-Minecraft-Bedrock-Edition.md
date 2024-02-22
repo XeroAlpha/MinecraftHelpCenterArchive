@@ -1,7 +1,7 @@
 ---
-title: "How to transfer your world to another device in Minecraft: Bedrock Edition"
+title: "How to Transfer Your World to Another Device in Minecraft: Bedrock Edition"
 date: 2021-09-13T22:15:53Z
-updated: 2024-02-12T18:28:07Z
+updated: 2024-02-22T20:19:32Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - subject_progress_and_saved_games
@@ -31,7 +31,7 @@ tags:
   - platform_sony_playstation_5
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4409165790605-How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4409165790605-How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition
 ---
 
 If you are playing Minecraft: Bedrock Edition, the only way to transfer that world to another device is to use Realms. You can use a Realms or Realms Plus subscription to do this. If you have not subscribed before, you can also use a free 30-day trial to move your world quickly. For more information about Realms, visit [Minecraft: Bedrock Edition Realms Creation FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md).

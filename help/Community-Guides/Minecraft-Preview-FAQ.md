@@ -1,7 +1,7 @@
 ---
 title: Minecraft Preview FAQ
 date: 2022-01-31T18:12:02Z
-updated: 2024-01-31T18:48:39Z
+updated: 2024-02-22T21:39:34Z
 categories: Community Guides
 tags:
   - title_minecraft
@@ -35,7 +35,7 @@ hash:
 
 ## What is Minecraft Preview?
 
-Minecraft Preview is an evolution of the Minecraft: Bedrock Edition Beta program. While our Betas were limited to Xbox, Windows, and Android, Minecraft Preview will let us expand to additional platforms. Minecraft Preview is also a separate app/game that you can play without impacting your standard Minecraft: Bedrock Edition experience, and it will let you test out the latest and greatest features.
+Minecraft Preview is an evolution of the Minecraft: Bedrock Edition Beta program. While our Betas were limited to only a few platforms, Minecraft Preview lets us expand to additional platforms. Minecraft Preview is also a separate app/game that you can play without impacting your standard Minecraft: Bedrock Edition experience, and it will let you test out the latest and greatest features.
 
 # In This Article:
 
@@ -53,7 +53,7 @@ Minecraft Preview is an evolution of the Minecraft: Bedrock Edition Beta program
 
 ## What platforms is Minecraft Preview available on?
 
-Minecraft Preview is on several of our Bedrock platforms, such as iOS, Xbox, and Windows 10/11.
+Minecraft Preview is on several of our Bedrock platforms, such as iOS, Xbox, PlayStation 4, and Windows 10/11.
 
 ## Is Minecraft Preview coming to other platforms?
 
@@ -72,6 +72,8 @@ Installing Minecraft Preview will be a bit different on each platform. Let’s c
   - A few players have reported the install button never appearing – if you encounter this issue try using [this link](https://www.microsoft.com/store/productId/9P5X4QVLC2XR) and clicking “Open” to go directly to the Microsoft Store page for Minecraft Preview to install.
   - For Game Pass subscribers, you can also find Minecraft Preview in the GAME PASS section of the [Xbox application](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z?hl=en-us&gl=US).
 - On Xbox, anyone who owns Minecraft: Bedrock Edition or has a subscription to Game Pass can search for Minecraft Preview and click Install on the resulting product page – it's as simple as that! You can also find Minecraft Preview in the Xbox Game Pass library and app.
+- On PlayStation 4, load into Minecraft, navigate to Settings, and select Preview in the sidebar to open the download page on PlayStation Store.
+  - Please note that Minecraft Preview is not available for disk owners of Minecraft.
 
 ## Do Xbox Game Pass players get to participate in Minecraft Preview?
 
@@ -92,7 +94,7 @@ On Xbox, you can copy your existing worlds from Minecraft: Bedrock Edition using
 ## What features aren’t available in Minecraft Preview?
 
 - Cross-platform multiplayer does not work for all platforms yet
-- Marketplace is not available on iOS
+- Marketplace is not available on iOS or PlayStation 4
 - Achievements
 
 ## How do I Leave Minecraft Preview?

@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Technical FAQ"
 date: 2023-10-24T20:53:20Z
-updated: 2023-12-18T22:17:47Z
+updated: 2024-02-22T20:18:10Z
 categories: Realms Troubleshooting and Billing
 tags:
   - title_minecraft
@@ -18,7 +18,6 @@ tags:
   - platform_chromebook
 link: https://help.minecraft.net/hc/en-us/articles/20686744908429-Minecraft-Bedrock-Edition-Realms-Technical-FAQ
 hash:
-  h_01HHZFVS72CGFB2PVW5HZSYMXN: in-this-article
   h_01HHZFVHTZ3EMP0PJSBVC3A9G7: can-i-upload-my-worlds-onto-a-realm
   h_01HHZFYNN41PVHHE3761SRRDNK: do-realms-servers-support-modding
   h_01HHZFZ8N10HH8PAFYEJRT5H53: are-there-any-specific-settings-needed-to-play-on-a-realm
@@ -26,8 +25,6 @@ hash:
 ---
 
 Realms in Minecraft: Bedrock Edition can seem complex at first. This article provides everything you need to know about Realms’ more technical aspects.
-
-# In this article:
 
 ## Can I upload my worlds onto a Realm?  
 
@@ -61,12 +58,4 @@ To change these settings, log in to your Xbox Live account on your Xbox console 
 
 ## How does Mojang backup your Realm?
 
-A Realm world is downloadable within 18 months of the end of your subscription, but the world backups associated with that Realm may have been removed depending on our retention policy. In general, we take a backup every 30 minutes while you are playing, and at the end of a play session. We can’t keep all of your backups around forever, though. If a Realm world is used actively, the following retention policy is in effect: 
-
-- In the last 24 hours: We retain all backups.
-- 1 day to 8 days ago: We retain one backup per day.
-- 9 days to 36 days ago: We retain one backup a week.
-- 37 days to 121 days ago: We retain one backup a month.
-- 122+ days ago: No backups are retained.
-
-**Note: If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed.**
+See [Minecraft: Bedrock Edition Realms Backup FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md).
