@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync, utimesSync, existsSync, readFileSync, readdirSync, rmSync } from 'fs';
+import { writeFileSync, mkdirSync, utimesSync, existsSync, readFileSync, readdirSync, rmSync, rmdirSync } from 'fs';
 import { resolve as resolvePath, join as joinPath, relative as relativePath, sep as pathSep } from 'path';
 import { sep as pathSepPosix } from 'path/posix';
 import { fileURLToPath } from 'url';
@@ -40,6 +40,21 @@ function listLocalArticles(path) {
     return articles;
 }
 
+function removeEmptyDirectory(path) {
+    const children = readdirSync(path, { withFileTypes: true });
+    const childDirectoryIsRemoved = children
+        .filter((e) => e.isDirectory())
+        .map((e) => removeEmptyDirectory(resolvePath(path, e.name)));
+    if (childDirectoryIsRemoved.length < children.length) {
+        return false;
+    }
+    if (childDirectoryIsRemoved.every((e) => e)) {
+        rmdirSync(path);
+        return true;
+    }
+    return false;
+}
+
 function simplifyArticleUrl(articleUrl) {
     const urlObj = new URL(articleUrl);
     return `${urlObj.origin}${urlObj.pathname.replace(/(\/\d+)[^/]*$/, '$1')}${urlObj.hash}`;
@@ -55,6 +70,10 @@ class LinkDatabase {
         articles.forEach(({ path, frontmatter }) => this.addLink(path, frontmatter));
     }
 
+    getTrackingFiles() {
+        return this.index.map(({ path }) => path);
+    }
+
     addLink(path, frontmatter) {
         let found = this.index.find((e) => e.path === path);
         if (!found) {
@@ -64,6 +83,13 @@ class LinkDatabase {
         found.updated = frontmatter.updated || frontmatter.date;
         found.url = simplifyArticleUrl(frontmatter.link);
         found.hashMap = frontmatter.hash;
+    }
+
+    deleteLink(path) {
+        const foundIndex = this.index.find((e) => e.path === path);
+        if (foundIndex >= 0) {
+            this.index.splice(foundIndex, 1);
+        }
     }
 
     getByUrl(url) {
@@ -167,7 +193,7 @@ async function saveArticle({ url, article }, { path, json, frontmatter }, databa
     });
     const articleMarkdown = [
         '---',
-        stringifyYaml(frontmatter).trim(),
+        stringifyYaml(frontmatter, { lineWidth: 0 }).trim(),
         '---',
         '',
         articleBodyMarkdown.trim(),
@@ -199,7 +225,7 @@ async function main(fullUpdate) {
     ];
     const database = new LinkDatabase();
     optionList.forEach(({ basePath: path }) => database.loadFromFile(path));
-    const notVisited = new Set(database.index.map(({ path }) => path));
+    const notVisited = new Set(database.getTrackingFiles());
     const analysisData = [];
     for (let i = 0; i < optionList.length; i++) {
         const { zendeskOptions, basePath, baseUrlRewrite } = optionList[i];
@@ -207,9 +233,18 @@ async function main(fullUpdate) {
         const articleAnalysisResults = await Parallel.map(articleDataList, async (e) => {
             const localCopyPath = database.getByUrl(e.url)?.path;
             const articleAnalysisResult = await analyzeArticleNetwork(e, database, basePath);
+            notVisited.delete(articleAnalysisResult.path);
             return [e, localCopyPath, articleAnalysisResult];
         });
         analysisData.push(...articleAnalysisResults);
+    }
+    if (!incremental && notVisited.size > 0) {
+        notVisited.forEach((path) => {
+            const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
+            process.stdout.write(`[D]${pathRelative}\n`);
+            database.deleteLink(path);
+            rmSync(path, { force: true });
+        });
     }
     const pendingJobs = [];
     for (const [articleData, localCopyPath, articleAnalysisResult] of analysisData) {
@@ -217,9 +252,12 @@ async function main(fullUpdate) {
             const { path } = articleAnalysisResult;
             const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
             if (localCopyPath) {
-                process.stdout.write(`[M]${pathRelative}\n`);
-                rmSync(localCopyPath);
-                notVisited.delete(localCopyPath);
+                if (localCopyPath !== path) {
+                    process.stdout.write(`[R]${pathRelative}\n`);
+                    rmSync(localCopyPath, { force: true }); // incremental only
+                } else {
+                    process.stdout.write(`[M]${pathRelative}\n`);
+                }
             } else {
                 process.stdout.write(`[A]${pathRelative}\n`);
             }
@@ -228,13 +266,7 @@ async function main(fullUpdate) {
         }));
     }
     await Promise.all(pendingJobs);
-    if (!incremental && notVisited.size > 0) {
-        notVisited.forEach((path) => {
-            const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
-            process.stdout.write(`[D]${pathRelative}\n`);
-            rmSync(path);
-        });
-    }
+    optionList.forEach(({ basePath }) => removeEmptyDirectory(basePath));
 }
 
 main(...process.argv.slice(2)); 
