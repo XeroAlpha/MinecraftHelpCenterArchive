@@ -1,6 +1,7 @@
 ---
 title: "How to view a Realms subscription renewal date for Minecraft: Java Edition"
 date: 2024-02-16T19:50:24Z
+updated: 2024-02-22T17:36:21Z
 categories: Minecraft Java Realms
 tags:
   - title_minecraft_java_edition
@@ -20,7 +21,7 @@ You can view your current subscription renewal date and verify or update your pa
 **How to see when your Minecraft: Java Edition Realm expires**
 
 1.  Sign into your [Microsoft account](https://account.microsoft.com/?refd=account.microsoft.com).
-2.  In the top right, click **View all subscriptions**.
+2.  Click **View all subscriptions**.
 3.  Find your Java Realms subscription. The date for your next automatic renewal payment appears under the title.
 
 **How to update your payment method for Minecraft: Java Edition Realms**
