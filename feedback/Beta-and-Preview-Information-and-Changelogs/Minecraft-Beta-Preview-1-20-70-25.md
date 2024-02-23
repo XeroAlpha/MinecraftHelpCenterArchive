@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.70.25
 date: 2024-02-21T22:22:24Z
-updated: 2024-02-22T21:28:55Z
+updated: 2024-02-23T17:24:25Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24339260310029-Minecraft-Beta-Preview-1-20-70-25
 hash:
@@ -29,19 +29,16 @@ hash:
 
 # Updated 'Servers Tab' Experience
 
-The latest Bedrock Preview introduces a new way of playing on Featured Servers and others of your own. You will get to enjoy Featured Servers from our partners with exclusive environments, in a new visual style.
+**Update on Feb 23: **We're not quite ready to flip the switch on the new Servers tab but keep an eye out for it soon in an upcoming Preview release!  
+  
+
+An upcoming Preview will introduce a new way of playing on Featured Servers and others of your own. You will get to enjoy Featured Servers from our partners with exclusive environments, in a new visual style.
 
 Some other features in this new design are the Server Activities and News.
 
-You are also able to add and edit your own custom server (on PC and mobile), setting all the parameters needed to invite your friends and have an enjoyable experience!  
-  
+You will also be able to add and edit your own custom server (on PC and mobile), setting all the parameters needed to invite your friends and have an enjoyable experience!
 
-**Changes:**
-
-- Play Screen/Servers Tab is being updated with improved navigation, and a new look and feel that matches the new style in the screens. **It will be rolled out gradually across Android, iOS, Windows, and Xbox in the following days.**
-
-We’re still working on some things, like support for other platforms, and some minor bugs and improvements. We would love to hear what you think! Share your feedback on the [Feedback Site](https://aka.ms/serverstabfeedback) and put “Servers Tab” in the title so we can find it.  
-  
+ 
 
 # Fixes
 
