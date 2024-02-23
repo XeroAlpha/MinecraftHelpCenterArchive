@@ -1,7 +1,7 @@
 ---
 title: "Realms in Minecraft: Bedrock Edition Preview and Beta FAQ"
 date: 2023-10-10T17:12:23Z
-updated: 2023-10-24T17:04:26Z
+updated: 2024-02-23T19:31:22Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -65,7 +65,7 @@ If you're looking for Minecraft: Java Edition Snapshot Realms, please refer to [
 Every Bedrock Realms subscription now comes with the ability to create a Preview Realm. If you have an active Realms subscription and are part of a Preview program on any of the following platforms, you will have the option to create a Preview Realm tied to each of your active subscriptions: 
 
 - Beta on Android  
-- Preview on iOS, Xbox, or Windows  
+- Preview on iOS, PlayStation 4, Xbox, and Windows  10/11
 
 Having your Preview Realm linked to your subscription ties it to the regular Realm generated from that subscription. If you cancel your subscription, it will cancel both your regular Realm and your associated Preview Realm.   
 
