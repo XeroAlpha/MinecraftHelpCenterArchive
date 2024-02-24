@@ -1,6 +1,5 @@
 ---
-title: How to Back Up Your Minecraft Save to the Cloud on PC, Mac, Chromebook,
-  and Linux
+title: How to Back Up Your Minecraft Save to the Cloud on PC, Mac, Chromebook, and Linux
 date: 2023-05-05T16:36:26Z
 updated: 2024-02-09T22:44:08Z
 categories: "Minecraft: Bedrock Edition Technical"
@@ -40,11 +39,11 @@ This article details how to manage cloud saves for Minecraft: Bedrock Edition, M
 
 ## Minecraft: Bedrock Edition
 
-Players with a Minecraft Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on Windows 10/11 or on Chromebook. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md) for more information.
+Players with a Minecraft Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on Windows 10/11 or on Chromebook. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) for more information.
 
 ## Minecraft: Java Edition
 
-Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md) for more information.
+Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [this article](./How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) for more information.
 
 ## Minecraft Dungeons
 

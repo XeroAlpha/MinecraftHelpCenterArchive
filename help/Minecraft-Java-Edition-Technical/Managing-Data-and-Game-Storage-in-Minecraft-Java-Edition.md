@@ -33,7 +33,7 @@ hash:
   h_01FGA92HXE74SDG702DQZ9QENC: how-to-fix-a-corrupted-world-save
 ---
 
-*This article applies to Minecraft: Java Edition only. Click [here for Minecraft Bedrock versions](../Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md).* 
+*This article applies to Minecraft: Java Edition only. Click [here for Minecraft Bedrock versions](../Minecraft-Bedrock-Edition-Technical/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).* 
 
 This article details everything you need to know about managing data and game storage in Minecraft: Java Edition.
 

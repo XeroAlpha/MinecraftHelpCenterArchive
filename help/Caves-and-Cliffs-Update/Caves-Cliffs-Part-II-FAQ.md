@@ -7,8 +7,7 @@ tags:
   - section_12618686416909
 link: https://help.minecraft.net/hc/en-us/articles/4415053738893-Caves-Cliffs-Part-II-FAQ
 hash:
-  will-i-be-able-to-update-my-existing-worlds-with-the-new-caves-cliffs-part-ii-world-generation:
-    will-i-be-able-to-update-my-existing-worlds-with-the-new-caves--cliffs-part-ii-world-generation
+  will-i-be-able-to-update-my-existing-worlds-with-the-new-caves-cliffs-part-ii-world-generation: will-i-be-able-to-update-my-existing-worlds-with-the-new-caves--cliffs-part-ii-world-generation
   are-custom-biome-packs-compatible-with-caves-cliffs-part-ii-worlds: are-custom-biome-packs-compatible-with-caves--cliffs-part-ii-worlds
   are-the-deep-dark-and-warden-coming-out-with-caves-cliffs-part-ii: are-the-deep-dark-and-warden-coming-out-with-caves--cliffs-part-ii
 ---

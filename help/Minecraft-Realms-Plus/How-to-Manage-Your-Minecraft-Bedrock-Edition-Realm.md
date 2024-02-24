@@ -66,7 +66,7 @@ Visit the [Realms Backup FAQ](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md) 
 
 ## World management issues
 
-If a world in your Realm is misbehaving, cannot be opened/closed, or seems broken in any way, try moving that world to a different world slot. Before changing world slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3). If the slot remains broken, go into Edit World for that slot and click Reset World. This should fix the slot and you can upload your backed up save to use it again.
+If a world in your Realm is misbehaving, cannot be opened/closed, or seems broken in any way, try moving that world to a different world slot. Before changing world slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3). If the slot remains broken, go into Edit World for that slot and click Reset World. This should fix the slot and you can upload your backed up save to use it again.
 
 More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world).  
 

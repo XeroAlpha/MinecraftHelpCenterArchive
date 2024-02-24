@@ -1,6 +1,5 @@
 ---
-title: "How to Move Your Minecraft: Java Edition Realms Payments to the
-  Microsoft Store "
+title: "How to Move Your Minecraft: Java Edition Realms Payments to the Microsoft Store "
 date: 2023-09-22T20:10:16Z
 updated: 2023-09-28T15:51:34Z
 categories: Realms Troubleshooting and Billing

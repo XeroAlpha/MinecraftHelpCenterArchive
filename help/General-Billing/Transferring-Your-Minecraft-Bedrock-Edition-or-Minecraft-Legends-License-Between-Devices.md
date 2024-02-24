@@ -1,6 +1,5 @@
 ---
-title: "Transferring Your Minecraft: Bedrock Edition or Minecraft Legends
-  License Between Devices"
+title: "Transferring Your Minecraft: Bedrock Edition or Minecraft Legends License Between Devices"
 date: 2021-09-10T18:18:54Z
 updated: 2023-07-24T19:06:12Z
 categories: General Billing
@@ -9,7 +8,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4408945065357-Transferring-Your-Minecraft-Bedrock-Edition-or-Minecraft-Legends-License-Between-Devices
 ---
 
-*If you're looking for how to transfer your Minecraft: Bedrock Edition worlds between devices, please go to* [Managing Data And Game Storage In Minecraft: Bedrock Edition](../Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md#h_01FG9YRQBDPNJ8JYNKVGXK04FX).
+*If you're looking for how to transfer your Minecraft: Bedrock Edition worlds between devices, please go to* [Managing Data And Game Storage In Minecraft: Bedrock Edition](../Minecraft-Bedrock-Edition-Technical/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md#h_01FG9YRQBDPNJ8JYNKVGXK04FX).
 
 ## Minecraft: Bedrock Edition
 

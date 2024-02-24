@@ -15,16 +15,14 @@ hash:
   section-3: "-3"
   section-4: "-4"
   section-5: "-5"
-  will-my-existing-marketplace-content-skins-textures-etc.-carry-over-to-minecraft-legends:
-    will-my-existing-marketplace-content-skins-textures-etc-carry-over-to-minecraft-legends
+  will-my-existing-marketplace-content-skins-textures-etc.-carry-over-to-minecraft-legends: will-my-existing-marketplace-content-skins-textures-etc-carry-over-to-minecraft-legends
   section-6: "-6"
   i-didnt-receive-the-minecoins-that-i-purchased.-what-should-i-do: i-didnt-receive-the-minecoins-that-i-purchased-what-should-i-do
   section-7: "-7"
   section-8: "-8"
   section-9: "-9"
   section-10: "-10"
-  i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong.-what-should-i-do:
-    i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong-what-should-i-do
+  i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong.-what-should-i-do: i-tried-to-use-minecoins-to-make-an-in-game-purchase-but-something-went-wrong-what-should-i-do
   section-11: "-11"
   i-purchased-the-wrong-content-by-mistake.-can-i-get-a-refund: i-purchased-the-wrong-content-by-mistake-can-i-get-a-refund
   section-12: "-12"
@@ -32,8 +30,7 @@ hash:
   section-14: "-14"
   section-15: "-15"
   section-16: "-16"
-  i-noticed-a-problem-with-something-i-purchased-in-the-marketplace.-how-do-i-let-you-know:
-    i-noticed-a-problem-with-something-i-purchased-in-the-marketplace-how-do-i-let-you-know
+  i-noticed-a-problem-with-something-i-purchased-in-the-marketplace.-how-do-i-let-you-know: i-noticed-a-problem-with-something-i-purchased-in-the-marketplace-how-do-i-let-you-know
   section-17: "-17"
   section-18: "-18"
   h_01GXXJKAD3K50VS9JPTNY7QWGB: what-is-the-minecraft-marketplace-1

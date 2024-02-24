@@ -9,8 +9,7 @@ tags:
   - section_14816440560653
 link: https://help.minecraft.net/hc/en-us/articles/14818774175629-Minecraft-Legends-Map-and-Village-Under-Attack-Tutorial
 hash:
-  this-article-goes-alongside-a-video-tutorial-for-minecraft-legends.-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video.:
-    this-article-goes-alongside-a-video-tutorial-for-minecraft-legends-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video
+  this-article-goes-alongside-a-video-tutorial-for-minecraft-legends.-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video.: this-article-goes-alongside-a-video-tutorial-for-minecraft-legends-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video
 ---
 
 ## This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside **[this video](https://youtu.be/SN5ZlfBpBEs)**. 

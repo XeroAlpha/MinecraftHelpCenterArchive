@@ -1,6 +1,5 @@
 ---
-title: "How to Redeem a Code for In-Game Downloadable Content in Minecraft:
-  Bedrock Edition"
+title: "How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition"
 date: 2021-07-08T17:09:20Z
 updated: 2023-11-01T17:45:44Z
 categories: "Minecraft: Bedrock Edition Billing"

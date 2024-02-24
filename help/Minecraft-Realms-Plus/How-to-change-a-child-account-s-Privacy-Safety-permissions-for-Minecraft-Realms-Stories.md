@@ -1,6 +1,5 @@
 ---
-title: How to change a child account’s Privacy & Safety permissions for
-  Minecraft Realms Stories
+title: How to change a child account’s Privacy & Safety permissions for Minecraft Realms Stories
 date: 2023-10-25T20:06:23Z
 updated: 2023-11-16T22:56:36Z
 categories: Minecraft Realms Plus

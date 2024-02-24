@@ -1,6 +1,5 @@
 ---
-title: "Minecraft: Bedrock Edition Worlds Lost When Using External Storage on
-  Android Devices"
+title: "Minecraft: Bedrock Edition Worlds Lost When Using External Storage on Android Devices"
 date: 2021-10-14T15:57:30Z
 updated: 2023-06-29T19:36:39Z
 categories: "Minecraft: Bedrock Edition Technical"

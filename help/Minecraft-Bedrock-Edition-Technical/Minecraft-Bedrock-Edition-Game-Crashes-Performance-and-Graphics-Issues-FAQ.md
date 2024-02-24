@@ -1,6 +1,5 @@
 ---
-title: "Minecraft: Bedrock Edition Game Crashes, Performance, and Graphics
-  Issues FAQ "
+title: "Minecraft: Bedrock Edition Game Crashes, Performance, and Graphics Issues FAQ "
 date: 2021-09-13T18:10:41Z
 updated: 2023-06-29T20:16:18Z
 categories: "Minecraft: Bedrock Edition Technical"

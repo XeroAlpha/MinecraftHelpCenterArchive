@@ -34,8 +34,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-Studios-Refund-Policy
 hash:
-  purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations.:
-    purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations
+  purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations.: purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations
   refunds-for-minecoin-or-token-purchases: refunds-forminecoinor-tokenpurchases
 ---
 

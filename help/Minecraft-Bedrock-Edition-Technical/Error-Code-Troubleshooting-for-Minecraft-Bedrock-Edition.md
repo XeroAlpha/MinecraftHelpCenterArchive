@@ -172,7 +172,7 @@ If you find the issue persists after this point, we have a few additional sugges
 ### Uninstall and Reinstall Minecraft: Bedrock Edition
 
 1.  Refer to your device support site for guidance on uninstalling and reinstalling purchased applications. 
-2.  **DISCLAIMER:** This will delete your local saves, so please back up any files you wish to keep. If you need assistance, see [Backing up Minecraft Worlds](./How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3).
+2.  **DISCLAIMER:** This will delete your local saves, so please back up any files you wish to keep. If you need assistance, see [Backing up Minecraft Worlds](./How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3).
 
 ### Device Troubleshooting 
 

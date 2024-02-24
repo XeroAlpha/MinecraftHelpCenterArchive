@@ -369,7 +369,7 @@ In your Realm, you have three different world slots you can use. You can have th
 
 ### Change Realm Slot
 
-If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/How-to-transfer-your-world-to-another-device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **  
+If a Realm is misbehaving, cannot be opened/closed, or seems broken in any way, changing the world slot can often help mitigate the problems. Before changing Realms slots, make sure to [backup/save your world data](../Minecraft-Bedrock-Edition-Technical/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3). More information can be found in [this guide](https://www.minecraft.net/en-us/realms/change-realm-world). **  
 **
 
 ### Adjust the Overall Settings for Your Realms Server

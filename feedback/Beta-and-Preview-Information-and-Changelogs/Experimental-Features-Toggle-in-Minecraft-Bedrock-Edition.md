@@ -7,13 +7,11 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4403610710797-Experimenta
 hash:
   h_01F9ES0RVG6WGDEGKYKA6C33YZ: what-is-an-experimental-features-toggle
   h_01F9ES2SRXCPMNN2Q835BB9WJ9: how-do-i-activate-an-experimental-features-toggle-for-my-world
-  when-using-an-existing-world-note-while-a-copy-of-your-world-is-generated-automatically-when-activating-an-experimental-feature-toggle-in-the-event-of-something-going-wrong-youre-also-able-to-create-copies-of-your-world-manually-as-an-extra-precaution.:
-    when-using-an-existing-worldnote-while-a-copy-of-your-world-is-generated-automatically-when-activating-an-experimental-feature-toggle-in-the-event-of-something-going-wrong-youre-also-able-to-create-copies-of-your-world-manually-as-an-extra-precaution
+  when-using-an-existing-world-note-while-a-copy-of-your-world-is-generated-automatically-when-activating-an-experimental-feature-toggle-in-the-event-of-something-going-wrong-youre-also-able-to-create-copies-of-your-world-manually-as-an-extra-precaution.: when-using-an-existing-worldnote-while-a-copy-of-your-world-is-generated-automatically-when-activating-an-experimental-feature-toggle-in-the-event-of-something-going-wrong-youre-also-able-to-create-copies-of-your-world-manually-as-an-extra-precaution
   h_01F9ES1H7QBS575K02SQFN4B75: how-do-i-know-if-my-world-has-experimental-features-enabled
   h_01F9ES4J44GMNNN6WGYN6NE0DM: will-it-be-possible-to-make-an-experimental-world-non-experimental-later
   h_01F9ES4SKJXY6AVK9FMFVCXMBQ: which-experimental-feature-toggles-are-available-in-minecraft-bedrock-edition
-  note-the-caves-cliffs-experimental-features-toggle-has-now-been-removed-from-beta.-upcoming-caves-cliffs-part-ii-features-will-now-be-accessible-in-bedrock-edition-beta-builds-by-default.:
-    note-the-caves--cliffs-experimental-features-toggle-has-now-been-removed-from-beta-upcoming-caves--cliffs-part-ii-features-will-now-be-accessible-in-bedrock-edition-beta-builds-by-default
+  note-the-caves-cliffs-experimental-features-toggle-has-now-been-removed-from-beta.-upcoming-caves-cliffs-part-ii-features-will-now-be-accessible-in-bedrock-edition-beta-builds-by-default.: note-the-caves--cliffs-experimental-features-toggle-has-now-been-removed-from-beta-upcoming-caves--cliffs-part-ii-features-will-now-be-accessible-in-bedrock-edition-beta-builds-by-default
 ---
 
 The Experimental Features toggle is available in beta and retail versions of Minecraft Bedrock Edition.
