@@ -1,7 +1,7 @@
 ---
 title: "How Do I Join Someone's Minecraft: Bedrock Edition Realm?"
 date: 2021-09-30T23:13:51Z
-updated: 2023-12-18T21:53:01Z
+updated: 2024-02-28T17:46:02Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -60,7 +60,7 @@ To check which resource pack you’re using, switch to the standard Minecraft ga
 1.  Select **Settings**
 2.  Select **Global Resources**
 
-**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to this article.**
+**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [this article](../Minecraft-Bedrock-Edition/Managing-multiplayer-game-access-for-a-child-account-in-Minecraft.md).**
 
 ## Leaving a Realm
 

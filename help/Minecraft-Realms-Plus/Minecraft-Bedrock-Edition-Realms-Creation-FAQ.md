@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Creation FAQ"
 date: 2021-09-14T23:14:55Z
-updated: 2024-02-22T20:23:40Z
+updated: 2024-02-28T18:00:01Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft_java_edition
@@ -212,7 +212,7 @@ A Nintendo Switch Online subscription is required for playing multiplayer on Nin
 
 ### How do I cancel my recurring subscription?   
 
-See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) for information on canceling recurring Minecraft Realms subscriptions. 
+See [Minecraft Realms Plus Billing Issues FAQ](../Realms-Troubleshooting-and-Billing/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md) for information on canceling recurring Minecraft Realms subscriptions. 
 
 ### Realms Plus Packs
 
@@ -245,8 +245,6 @@ The different packs in Realms Plus are from the Minecraft Marketplace, creat
 You can play and save all the packs included in Realms Plus on your local device. You can also host one of your world templates on a Realm for your friends to join for free. You can change which world you load on your Realm at any time.
 
 ## Digital Pre-Paid Realms Cards
-
-From November 24th, onward, Minecraft: Bedrock Edition will begin selling digital Realms pre-paid cards for Minecraft Realms Plus on Xbox and Windows 10 through online retailers such as Amazon. 
 
 ### What do I get for Buying a Digital Pre-Paid Realms Card?
 
