@@ -1,7 +1,7 @@
 ---
 title: "How to Play Minecraft: Java Edition Multiplayer"
 date: 2021-09-29T21:02:52Z
-updated: 2024-02-28T18:06:07Z
+updated: 2024-02-28T22:12:47Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -15,25 +15,20 @@ tags:
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/4410317081741-How-to-Play-Minecraft-Java-Edition-Multiplayer
 hash:
-  h_01GH9N2WH0HBF3NJAPWREF80JE: do-i-have-the-right-version
+  h_01GH9N2WH0HBF3NJAPWREF80JE: ensure-minecraft-java-edition-is-on-the-correct-version
   h_01FGSNQW64PVTP6P03M9GJXWE2: playing-on-a-local-area-network-lan
   h_01FGSNR6EWBJE37XZ71G15S59T: playing-on-an-online-server
-  h_01GH9N3HC031GH7GAWFSDTDF3T: connect-to-another-players-server
-  h_01FGW4RM6RN52032P35NWR62A5: -troubleshooting-multiplayer-connection-issues
-  h_01FGW4XH56RR4BH61B75Z6VQHR: didnt-find-the-answer
 ---
 
-*This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft Multiplayer.](../Minecraft-Bedrock-Edition-Technical/How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md)***
+*This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft: Bedrock Edition Multiplayer.](../Minecraft-Bedrock-Edition-Technical/How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md)***
 
-When playing Minecraft, you can play a single-player or multiplayer game. If you'd like to play with other people, this article outlines the different ways to play multiplayer and provides some troubleshooting steps if you have difficulty.
+When playing Minecraft, you can play a single-player or multiplayer game. If you'd like to play with other people, this article outlines the different ways to play multiplayer.
 
-## Do I have the right version? 
+## Ensure Minecraft: Java Edition is on the Correct Version 
 
 When playing Minecraft: Java Edition, a player's game version must be the same as the server version to play on that server, whether it's LAN or hosted online. You can see your game version number at the bottom of your main menu. 
 
 For more information, see [Change Game Versions.](./Change-Game-Version-for-Minecraft-Java-Edition.md)
-
-For Minecraft on all other platforms, Minecraft can be updated by going to your device’s store. 
 
 ## Playing on a Local Area Network (LAN) 
 
@@ -51,27 +46,12 @@ This requires opening your home or local area network (LAN) to others who are al
 
 This requires locating and connecting to the IP address of a multiplayer server. Minecraft Java: Edition does not require an Xbox Live subscription.
 
-A multiplayer server allows two or more players to play Minecraft together. You can either download the server file needed to set up your own server from [Minecraft.net](https://minecraft.net/download/server) or connect to another person’s server. **Note:** To access a server you need to run the same version of Minecraft as the server. For more information, see [Changing game version](./Change-Game-Version-for-Minecraft-Java-Edition.md). 
+A multiplayer server allows two or more players to play Minecraft together. You can either download the server file needed to set up your own server from [Minecraft.net](https://minecraft.net/download/server) or connect to another person’s server.
 
-### Connect to another player’s server: 
+Follow these steps to connect to another player’s server: 
 
 1.  Log into **Minecraft** and click **Multiplayer** on the main menu,  
 2.  Click **Add Server** and enter the IP or web address of the server.    
     **Tip:** If you don't know the IP of a server, thousands of public servers can be located by doing a web search for something that suits your style of play. 
 
-##   Troubleshooting Multiplayer Connection Issues
-
-- Close Minecraft: Java Edition and reopen it.
-- Restart your computer or device and see if this fixes the issue. Restarting can often clear errors in connections.
-- Log out of your Microsoft or Mojang account, close the game, and then log in again.
-- If you are using a wireless connection, ensure that you have a stable connection to your router. You may need to reset or restart your router.
-- Check your currently running programs for anything that is using your Internet bandwidth and close those programs.
-- If you have a firewall, antivirus software, or are using a VPN, check the settings to be sure that it is not blocking or slowing your connection.
-- Configure your router to use moderate or open Network Address Translation (NAT).
-- If you’re on a stationary device, try connecting using an Ethernet cable instead of using Wi-Fi.
-- Try reverting to a previous save of your world.
-- Switch the world slot and open a new world.
-
-## Didn’t Find the Answer?
-
-The troubleshooters above are general but work on most issues. If you have other technical issues, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and briefly describe the issue, and don't forget to include your Minecraft Java profile name.
+You can also [Get Help with Minecraft: Java Edition Multiplayer](https://minecrafthelp.zendesk.com/hc/en-us/articles/24543695465357) or [Contact Minecraft Support](https://minecrafthelp.zendesk.com/hc/en-us/articles/19506833026829).
