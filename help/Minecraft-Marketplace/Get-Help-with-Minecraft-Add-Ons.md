@@ -1,12 +1,12 @@
 ---
-title: Troubleshooting Minecraft Add-Ons
+title: Get Help with Minecraft Add-Ons
 date: 2024-02-14T17:59:52Z
-updated: 2024-02-21T17:57:54Z
+updated: 2024-02-29T17:10:32Z
 categories: Minecraft Marketplace
 tags:
   - section_24069904400141
   - Add-Ons
-link: https://help.minecraft.net/hc/en-us/articles/24120973871501-Troubleshooting-Minecraft-Add-Ons
+link: https://help.minecraft.net/hc/en-us/articles/24120973871501-Get-Help-with-Minecraft-Add-Ons
 hash:
   h_01HPMW2G9TMEAQ18R46X5CP8AG: making-a-backup
   h_01HPMW2G9T0ZMW4TJCKHXR30VE: finding-a-missing-add-on
