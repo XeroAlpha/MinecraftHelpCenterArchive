@@ -1,7 +1,7 @@
 ---
 title: "How to Edit Your Minecraft: Java Edition Realms on Minecraft.net"
 date: 2023-05-19T20:40:03Z
-updated: 2023-05-22T21:39:49Z
+updated: 2024-03-01T16:56:24Z
 categories: Minecraft Java Realms
 tags:
   - title_minecraft_java_edition
@@ -18,6 +18,11 @@ tags:
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/15938089626253-How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net
+hash:
+  h_01HQXE8AK0H24EW7533DGF95BW: realm-name-and-description
+  h_01HQXE8AK01B726YRVAVK3NQF9: invite-players
+  h_01HQXE8AK0P9BNNTDRPJ2WNXBS: manage-players
+  h_01HQXE8AK0WS04GHT71CZ9H448: worlds
 ---
 
 As of May 22<sup>nd</sup>, 2023 you’ll be able to edit some of your Realms settings for Minecraft: Java Edition through your Minecraft.net profile page. This article details what settings are available to you.
@@ -26,9 +31,9 @@ As of May 22<sup>nd</sup>, 2023 you’ll be able to edit some of your Realms set
 
 To edit your Realms settings for Minecraft: Java Edition on Minecraft.net, follow these steps:
 
-1.  Head to Minecraft.net and log in with your Microsoft account through the ‘Log In’ button on the top right.
-2.  Click on ‘My Profile’ and navigate to the ‘My Games’ tab.
-3.  Click on your Realm name under ‘Minecraft: Java Edition.’
+1.  Head to [Minecraft.net](https://www.minecraft.net/en-us) and log in with your Microsoft account.
+2.  Now you should be on your profile in the **My Games** section. Scroll down to the Java Edition section.
+3.  Select your Realm.
 4.  Adjust the following settings as you please.
 
 ## Realm Name and Description

@@ -1,7 +1,7 @@
 ---
 title: "How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net"
 date: 2023-05-19T20:22:48Z
-updated: 2023-10-12T19:21:45Z
+updated: 2024-03-01T16:58:29Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -50,9 +50,9 @@ As of May 22<sup>nd</sup>, 2023 you’ll be able to edit some of your Minecraft:
 
 To edit your Realms settings for Minecraft: Bedrock Edition on Minecraft.net, follow these steps:
 
-1.  Head to Minecraft.net and log in with your Microsoft account through the ‘Log In’ button on the top right.
-2.  Click on ‘My Profile’ and navigate to the ‘My Games’ tab.
-3.  Click on your Realm name under ‘Minecraft: Bedrock Edition.’
+1.  Head to [Minecraft.net](https://www.minecraft.net/en-us) and log in with your Microsoft account.
+2.  Now you should be on your profile in the **My Games** section. Scroll down to the Bedrock Edition section.
+3.  Select your Realm.
 4.  Adjust the following settings as you please.
 
 ## Realm Name and Description
