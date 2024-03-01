@@ -264,6 +264,9 @@ export async function convertHtmlToMarkdown(json, options) {
                 node.c[0] = ['', [], []];
                 node.c[2][0] = normalizeUrl(node.c[2][0]);
                 break;
+            case 'Div':
+                node.c[0] = ['', [], []];
+                return node.c[1];
         }
         return node;
     }).document(json);

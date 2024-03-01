@@ -1,5 +1,7 @@
 ## Minecraft Feedback & Help Archive Project
 
+[![Update](https://github.com/XeroAlpha/MinecraftHelpCenterArchive/actions/workflows/update.yml/badge.svg)](https://github.com/XeroAlpha/MinecraftHelpCenterArchive/actions/workflows/update.yml)
+
 This repository is solely for archiving articles from [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us) and [Minecraft Help](https://help.minecraft.net/hc/en-us).
 
 The copyright of the articles in this repository belongs to Mojang Studios. Any use of this repository for commercial purposes is strictly prohibited without permission from Mojang Studios.

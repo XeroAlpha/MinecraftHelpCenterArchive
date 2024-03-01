@@ -67,3 +67,8 @@ export function listArticles(options) {
         pagination: createPaginationOptions('articles')
     });
 }
+
+export function showArticle(options) {
+    const url = `https://${options.host}.zendesk.com/api/v2/help_center${options.lang ? `/${options.lang}` : ''}/articles/${options.articleId}`;
+    return got(url).json();
+}
