@@ -71,9 +71,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Players are again able to push mobs into minecarts & boats.
 - Blazes should no longer be able to one-hit kill players with a small fireball. (We hope this fixed it!)
 - /fill command changes should now be saved.
-
-<div>
-
- 
-
-</div>

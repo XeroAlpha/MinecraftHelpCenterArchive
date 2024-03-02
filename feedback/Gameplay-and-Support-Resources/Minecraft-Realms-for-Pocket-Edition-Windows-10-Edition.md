@@ -21,9 +21,3 @@ How to create a new Realm:
 <https://help.mojang.com/customer/portal/articles/2461089>
 
 Have feedback? Go to our official feedback site here & give your feedback to the Realms team.
-
-<div>
-
- 
-
-</div>

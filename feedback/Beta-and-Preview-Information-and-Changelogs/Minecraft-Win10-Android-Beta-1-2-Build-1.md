@@ -300,9 +300,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed and issue that caused frosted ice not to form when walking very slowly and sneaking while wearing Frost Walker boots
 - Fixed End Portal block top texture rotating when being placed
 - Beds, pistons, and enchantment tables will now render properly on the edge of the screen
-
-<div>
-
- 
-
-</div>

@@ -30,7 +30,7 @@ If you’ve missed your chance to migrate, you might have a few questions regard
 
 ## What happens to my Java Edition account?
 
-You no longer have access to your Java Edition account or Minecraft: Java Edition. To continue playing Minecraft, you will have to [buy Minecraft: Java & Bedrock Edition](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md) using a Microsoft account.
+You no longer have access to your Java Edition account or Minecraft: Java Edition. To continue playing Minecraft, you will have to [buy Minecraft: Java & Bedrock Edition](../Minecraft-Bedrock-Edition-Technical/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md) using a Microsoft account.
 
 ## What happens to my worlds?
 

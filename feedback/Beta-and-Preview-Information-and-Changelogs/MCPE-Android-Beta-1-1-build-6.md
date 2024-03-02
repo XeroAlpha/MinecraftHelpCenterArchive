@@ -15,9 +15,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed a crash when downloading texture packs from the Global Resources or Resource Packs tab.
 - Fixed a crash that could occur when trying to access XBL.
 - Hitting an Enderman with a potion of invisibility no longer also makes the block it is holding disappear.
-
-<div>
-
- 
-
-</div>

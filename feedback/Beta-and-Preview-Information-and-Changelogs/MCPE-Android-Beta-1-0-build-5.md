@@ -20,9 +20,3 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 - The Ender dragon now goes towards the crystal actually closest to it.
 - Fixed a crash when a player loaded a large resource pack and tried to apply it to a new world.
 - Fixed a crash on some Android devices that was due to an ExceptionHolder error.
-
-<div>
-
- 
-
-</div>

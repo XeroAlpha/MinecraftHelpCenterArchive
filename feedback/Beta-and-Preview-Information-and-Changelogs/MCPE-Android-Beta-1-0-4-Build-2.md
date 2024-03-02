@@ -9,39 +9,19 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 
 **New Features:**
 
-<div>
-
-<div>
-
 - Added the Storage screen in Settings to manage worlds, resource packs, and behavior packs
 - Music and sounds can now be changed using resource packs
-
-</div>
-
-</div>
 
  
 
 **Tweaks:**
 
-<div>
-
-<div>
-
 - Addition of CDN to reduce game file sizes
 - Added low render distance options for older devices
-
-</div>
-
-</div>
 
  
 
 **Bug Fixes:**
-
-<div>
-
-<div>
 
 - Achievements will no longer unlock in Survival if Behavior Packs are used
 - Field of View will now increase properly when sprinting and Field of View is set to max in the settings
@@ -72,13 +52,3 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 - Fixed a drop in performance when holding a Map
 - Armor will render properly in worlds that no longer have resource packs applied
 - Fixed texture overlapping with Enchanted Books when trading with Villagers
-
-</div>
-
-</div>
-
-<div>
-
- 
-
-</div>

@@ -15,11 +15,7 @@ Important note: If you are participating in the 1.0 Beta, you will not have acce
 
 If you find any bugs, be sure to report them here! Click here to give us feedback because we need your thoughts on what you think about this update! As this Beta is for Android only, some of the features & fixes may not apply as they are for other versions but it will give something for those players to look for in future updates.
 
-<div>
-
  
-
-</div>
 
 Tweaks:
 
@@ -205,9 +201,3 @@ Bug Fixes:
 - Fixed the looped sound for the ignite action.
 - Fixed a crash that occurred when hostile mobs die.
 - Fixed a crash when you returned to your world after the credits ended.
-
-<div>
-
- 
-
-</div>

@@ -17,11 +17,7 @@ Click here to give us feedback & tell us what you think about the update.
 
 **New Features**
 
-<div>
-
  
-
-</div>
 
 - Ocean monuments
 - Prismarine
@@ -38,11 +34,7 @@ Click here to give us feedback & tell us what you think about the update.
 
 **Bug Fixes**
 
-<div>
-
  
-
-</div>
 
 - Improved stability and performance
 - Improved visibility in caves

@@ -48,9 +48,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Mounted mobs no longer die from fall damage before reaching the ground
 - Turning Operator permissions off now automatically turns off Teleport
 - Fixed several menu alignment issues
-
-<div>
-
- 
-
-</div>

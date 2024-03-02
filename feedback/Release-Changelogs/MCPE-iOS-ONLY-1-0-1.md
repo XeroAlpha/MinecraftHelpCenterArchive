@@ -19,9 +19,3 @@ If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/ "Li
 
 - Fixed a crash that occurred when a player tapped the Mojang logo when launching the game
 - Fixed assorted other crashes due to back-end issues
-
-<div>
-
- 
-
-</div>

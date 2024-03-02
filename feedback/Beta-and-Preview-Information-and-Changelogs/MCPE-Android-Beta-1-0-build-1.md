@@ -117,9 +117,3 @@ Bug Fixes:
 - Fixed a bug where the villager reproduction rate was capped by something other than door count.
 - Fixed a bug where game would hang on a black screen during launch (Fire TV only).
 - Fixed a bug where endermen would get angry even if you only looked at their torso.
-
-<div>
-
- 
-
-</div>

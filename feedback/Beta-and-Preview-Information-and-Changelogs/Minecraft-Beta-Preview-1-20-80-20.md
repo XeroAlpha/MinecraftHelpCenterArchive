@@ -33,14 +33,8 @@ hash:
   h_01HQSPSHHDS9F8RD202A4RCEB0: api-1
 ---
 
-<div class="StyledEllipsis-sc-1u4uqmy-0 fZckDr" style="box-sizing: inherit; font-weight: inherit; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; direction: ltr;" title="Minecraft Beta &amp; Preview - 1.20.70.25" garden-id="typography.ellipsis" garden-version="8.73.4">
-
 **Posted:** February 29, 2024  
   
-
-</div>
-
-<div class="StyledEllipsis-sc-1u4uqmy-0 fZckDr" style="box-sizing: inherit; font-weight: inherit; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; direction: ltr;" title="Minecraft Beta &amp; Preview - 1.20.70.25" garden-id="typography.ellipsis" garden-version="8.73.4">
 
 **Information on Minecraft Preview and Beta:**
 
@@ -142,19 +136,9 @@ Since the initial release of the Wolf Armor, we have been working on improving i
 - Flying item animation is no longer missing in touch-screen versions of Beacon, Cartography, and Smithing Table screens  
     
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); color: #323232; font-family: adobe-clean, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 # Technical Updates
 
-</div>
-
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## API
-
-</div>
 
 - Removed *EntityHealableComponent.filters* as they currently have no backing implementation
 - Fixing some component *isValid *methods where they didn’t properly return false in cases where the component had been removed from the Entity.
@@ -162,20 +146,12 @@ Since the initial release of the Wolf Armor, we have been working on improving i
 - Added *ItemColor2Component *to *beta *for reading *minecraft:color2*
 - Setting a dynamic property with a key larger than 32kb now will result in an exception
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## Blocks
-
-</div>
 
 - “sapling” block is now split into unique instances: “oak_sapling”, “spruce_sapling”, “birch_sapling”, “jungle_sapling”, “acacia_sapling” and “dark_oak_sapling”.
 - “coral_fan” block is now split into unique instances: “tube_coral_fan”, “brain_coral_fan”, “bubble_coral_fan”, “fire_coral_fan” and “horn_coral_fan”
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## Cameras
-
-</div>
 
 - Added the “extend_player_rendering” camera component which allows for players (and any entities they are connected to through riding and leashes) to be rendered even if they are beyond the max entity render distance
 - Added “extend_player_rendering” component to the “minecraft:free” camera
@@ -191,64 +167,34 @@ Since the initial release of the Wolf Armor, we have been working on improving i
   - This change requires a world version of 1.20.80 or higher
 - Added “repair_entity_item” field to the “interact” component, which allows to repair an item in one of the entity’s inventory or armor slots
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## Editor
-
-</div>
 
 - Added support for addImage to property pane
 - Added icon property to IPropertyItemOptionsButton API to display icons in buttons
 - Added the concept of WidgetManager and CustomWidget - allowing the server to instantiate in-world widgets which should facilitate manipulation of world tools. We currently only support CustomWidgets (which are server driven Custom Entities)
 - Adjusted default editor UI scale to optimize screen space
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## Entity Filters
-
-</div>
 
 - Added new entity filter “is_sitting”, which checks if the entity is sitting
 - Added new entity filter “has_damaged_equipment”, which checks if the entity has a certain damaged piece of equipment in the specified slot
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## Molang
-
-</div>
 
 - Added new query “query.armor_slot_damage”, which returns the damage value of the armor item in the specified slot
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## Stability and Performance
-
-</div>
 
 - Removed *FilterTextPacket*  
     
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 # Experimental Technical Updates
-
-</div>
-
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
 
 ## Blocks
 
-</div>
-
 - Added ‘minecraft:custom_components’ block component under the Beta APIs feature flag
 
-<div style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-
 ## Commands
-
-</div>
 
 - Fixed /hud command so that changes only effect the targeted player(s)
 
@@ -274,9 +220,3 @@ Since the initial release of the Wolf Armor, we have been working on improving i
   - Added function *getBlockPermutation(location: Vector3): BlockPermutation \| undefined;* - Returns the block permutation at the given location within the structure
   - Added function *isValid(): boolean* - Returns false if the structure has been deleted
   - Added function *getIsWaterlogged(location: Vector3): boolean;* - Returns whether the block at the given location is waterlogged
-
-</div>
-
-</div>
-
-</div>

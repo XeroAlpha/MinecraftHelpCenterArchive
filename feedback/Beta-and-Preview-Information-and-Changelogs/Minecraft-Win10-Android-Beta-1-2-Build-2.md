@@ -71,9 +71,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Smoothed the animation of falling asleep
 - The game will now launch in the language selected as the default device language with Android OS 6.0 and 7.0 (Android only)
 - Pressing RB will no longer scroll through all skins in the skin picker
-
-<div>
-
- 
-
-</div>

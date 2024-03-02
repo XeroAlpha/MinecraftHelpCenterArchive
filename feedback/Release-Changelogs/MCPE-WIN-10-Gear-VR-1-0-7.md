@@ -36,9 +36,3 @@ If you find any bugs, be sure to [report them here!](https://bugs.mojang.com/sec
 - Crashes shouldn't cause you to lose a lot of your progress anymore
 - Fixed the quartz slab in the Candy texture pack
 - Minecarts no longer bounce indefinitely on slime blocks
-
-<div>
-
- 
-
-</div>

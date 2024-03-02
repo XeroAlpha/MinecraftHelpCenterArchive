@@ -61,11 +61,7 @@ Minecraft Live 2022 only wrapped a few days ago but we are all ready to try out 
 
 # **Non-Experimental Features and Bug Fixes**
 
-<div class="p-rich_text_section">
-
 ### Dressing Room
-
-</div>
 
 - Added 7 new friends for Steve & Alex to the cast: Ari, Efe, Zuri, Sunny, Makena, Kai, and Noor
 - Added a new first-time modal to the dressing room introducing the cast

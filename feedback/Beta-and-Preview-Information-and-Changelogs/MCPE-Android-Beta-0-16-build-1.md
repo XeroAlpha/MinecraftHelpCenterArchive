@@ -90,9 +90,3 @@ Bug Fixes:
 - Pressing the Z button to invoke the status effect window now works.
 - Fixed an issue where breaking a bed wouldn't reset a player's spawn point.
 - When riding a pig/horse, the animal's health now displays correctly when the animal is poisoned.
-
-<div>
-
- 
-
-</div>

@@ -69,9 +69,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Controller hints will now say ""Place"" while sneaking and aiming at a container
 - Fixed the rendering of borders on the Skin Picker screen
 - Scroll bars are now visible after switching tabs on the Settings screen
-
-<div>
-
- 
-
-</div>

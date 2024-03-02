@@ -27,9 +27,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed lag on Android devices when accessing resource packs
 - Fixed some crashes occurring when launching the game
 - Fixed a crash when loading into a world while holding a compass or clock
-
-<div>
-
- 
-
-</div>

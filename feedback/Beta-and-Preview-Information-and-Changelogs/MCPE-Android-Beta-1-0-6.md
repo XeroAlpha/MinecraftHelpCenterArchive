@@ -29,9 +29,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **Known Issues:**
 
 - Some texture issues occur with the Festive Mash-Up 2016 Skin Pack and will be fixed in the next update
-
-<div>
-
- 
-
-</div>

@@ -44,9 +44,3 @@ Click here to give us feedback & tell us what you think about the update.
 - Fixed position of zombie jockeys
 - Fixed crash when shooting an arrow from a dispenser at a TNT minecart
 - Fixed assorted issues causing games to crash
-
-<div>
-
- 
-
-</div>

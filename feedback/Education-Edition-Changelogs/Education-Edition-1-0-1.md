@@ -63,9 +63,3 @@ For more information about Minecraft: Education Edition, please visit [education
 - Fixed the unlock icon so it no longer appears when choosing a skin
 - Placeholder checkboard squares are no longer displayed in Portfolio.
 - Fixed inventory slots can now be set when using the /setfixedinvslot command through Classroom Mode
-
-<div>
-
- 
-
-</div>

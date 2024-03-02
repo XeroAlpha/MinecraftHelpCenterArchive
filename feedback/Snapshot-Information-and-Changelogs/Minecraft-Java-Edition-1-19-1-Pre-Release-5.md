@@ -47,8 +47,6 @@ We are now releasing pre-release 5 for Minecraft 1.19.1. This pre-release includ
 - [MC-253997](https://bugs.mojang.com/browse/MC-253997)- “The current description of ““Imminent harm - Threat to harm others”” report category seems not matching its title”
 - [MC-254089](https://bugs.mojang.com/browse/MC-254089)- “Chat Preview components allow server to ““hide”” content”
 
-<div>
-
 # GET THE PRE-RELEASE
 
 Pre-releases are available for Minecraft: Java Edition. To install the pre-release, open up the [Minecraft Launcher](https://www.minecraft.net/en-us/download) and enable snapshots in the "Installations" tab.
@@ -66,5 +64,3 @@ Report bugs here:
 Want to give feedback?
 
 - Head over to our [feedback website](https://aka.ms/snapshotfeedback) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
-
-</div>

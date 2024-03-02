@@ -20,8 +20,6 @@ This biome doesn’t generate naturally yet since it is designed for the upcomin
 - Contains plenty of pointed dripstone on the floors, ceilings, and small pools of water.
 - In some places, you’ll find larger stalagmites, stalactites, and columns built from dripstone blocks.
 
-<div bi-id="c1c1c1c1c1c1m2r3a3" bi-name="c1c1c1c1c1c1m2r3a3">
-
 ## SCULK SENSORS
 
 - Introducing the bizarre, tendril-filled world of sculk – prepare for sculk sensors to creep you out with their unique ability to detect vibrations nearby.
@@ -36,8 +34,6 @@ This biome doesn’t generate naturally yet since it is designed for the upcomin
 - The efficient tool to mine sculk sensors is the hoe.
 - They can be waterlogged.
 
-<div bi-id="c1c1c1c1c1c1c1m2r3a3" bi-name="c1c1c1c1c1c1c1m2r3a3">
-
 ### REDSTONE EMISSION
 
 - Sculk sensors emit a redstone signal when they are activated.
@@ -50,8 +46,6 @@ This biome doesn’t generate naturally yet since it is designed for the upcomin
 - Sculk sensors have a unique interaction with comparators.
 - Each vibration in the game falls under a certain frequency value, and this value can be measured with a comparator.
 - With the right contraption, this allows you to detect when a certain action has occurred nearby.
-
-<div bi-id="c1c1c1c1c1c1c1c1m2r3a3" bi-name="c1c1c1c1c1c1c1c1m2r3a3">
 
 | Vibration Type          | Frequency Value |
 |-------------------------|-----------------|
@@ -91,12 +85,6 @@ This biome doesn’t generate naturally yet since it is designed for the upcomin
 | Explosion               | 15              |
 | Lightning Strike        | 15              |
 
-</div>
-
-</div>
-
-</div>
-
 ###  WOOL OCCLUSION
 
 - Wool has a special interaction with sculk sensors.
@@ -112,8 +100,6 @@ This biome doesn’t generate naturally yet since it is designed for the upcomin
 - The fullness of a bundle now shows up regardless of whether advanced tooltips are on or off.
 - Stalactites and stalagmites merge if the tips are next to each other unless you press shift while placing.
 
-<div bi-id="c2c1c1c1c1c1m2r3a3" bi-name="c2c1c1c1c1c1m2r3a3">
-
 # TECHNICAL CHANGES IN 20W49A
 
 - A new game event system has been implemented to support Sculk Sensors detecting vibrations.
@@ -122,8 +108,6 @@ This biome doesn’t generate naturally yet since it is designed for the upcomin
 - Added occludes_vibration_signals block tag. Anything in this tag will occlude vibrations, and inherits wool tag entries by default.
 - New particle types: vibration and dust_color_transition
 - A new game event system has been implemented to support Sculk Sensors detecting vibrations.
-
-<div bi-id="c1c2c1c1c1c1c1m2r3a3" bi-name="c1c2c1c1c1c1c1m2r3a3">
 
 ## GAME EVENTS
 
@@ -167,8 +151,6 @@ The following is a list of the initial game events:
 - `minecraft:eating_finish`
 - `minecraft:lightning_strike`
 
-<div bi-id="c1c1c2c1c1c1c1c1m2r3a3" bi-name="c1c1c2c1c1c1c1c1m2r3a3">
-
 ### TAGS
 
 There are also game event tags that come with this and can be modified by data packs. They can be found under `data/minecraft/tags/game_events`.
@@ -181,10 +163,6 @@ The following game events are in `ignore_vibrations_stepping_carefully` by def
 - `minecraft:step`
 - `minecraft:hit_ground`
 - `minecraft:projectile_shoot`
-
-</div>
-
-</div>
 
 # FIXED BUGS IN 20W49A
 
@@ -232,5 +210,3 @@ Report bugs here:
 Want to give feedback?
 
 - Head over to our [feedback website](https://aka.ms/CavesCliffsFeedback?ref=minecraftnet) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
-
-</div>

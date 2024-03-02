@@ -7,37 +7,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360034174292-Minecraft-Ja
 
 27 September 2019
 
-<div bi-id="m1r3a3" bi-name="m1r3a3">
-
-<div class="container" bi-id="c1m1r3a3" bi-name="c1m1r3a3">
-
-<div class="row justify-content-center text-center" bi-id="c1c1m1r3a3" bi-name="c1c1m1r3a3">
-
-<div class="col-12 col-md-8 col-lg-6" bi-id="c1c1c1m1r3a3" bi-name="c1c1c1m1r3a3">
-
 # MINECRAFT SNAPSHOT 19W39A
 
 A Minecraft Java Snapshot
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="m2r3a3" bi-name="m2r3a3">
-
-<div class="text parbase aem-GridColumn aem-GridColumn--default--12" bi-id="c1m2r3a3" bi-name="c1m2r3a3">
-
-<div class="container article-paragraph text-generic" bi-id="c1c1m2r3a3" bi-name="c1c1m2r3a3">
-
-<div class="row justify-content-center" bi-id="c1c1c1m2r3a3" bi-name="c1c1c1m2r3a3">
-
-<div class="col-md-8 col-lg-6" bi-id="c1c1c1c1m2r3a3" bi-name="c1c1c1c1m2r3a3">
-
-<div class="end-with-block" bi-id="c1c1c1c1c1m2r3a3" bi-name="c1c1c1c1c1m2r3a3">
 
 A slightly later snapshot than usual this week, but it addresses a few bugs that we wanted to get rid of. 
 
@@ -128,15 +100,3 @@ Report bugs here:
 Want to give feedback?
 
 - Head over to our [feedback website](http://aka.ms/snapshotfeedback) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

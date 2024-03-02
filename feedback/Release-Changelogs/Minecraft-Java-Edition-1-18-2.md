@@ -85,11 +85,7 @@ The game now generates and stores data-driven configured structures.
 
 # FIXED BUGS IN 1.18.2
 
-<div>
-
 In addition to crashes and other stability improvements, around 100 player-reported bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=26771).
-
-</div>
 
 # GET THE RELEASE
 

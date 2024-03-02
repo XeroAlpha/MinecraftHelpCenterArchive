@@ -56,9 +56,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   -         Removed many extra crab entities from around the giant crab
   -         Thinned out many pirate encampments, for balance purposes
   -         Some items left floating in the world removed
-
-<div>
-
- 
-
-</div>

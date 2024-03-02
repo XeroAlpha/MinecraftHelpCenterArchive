@@ -74,9 +74,3 @@ Bug Fixes:
 - Elder guardian now attacks the player.
 - Player no longer gets disconnected from the Realm after suspending & resuming the device/game.
 - Fixed a crash when skeleton horse trap got triggered on peaceful.
-
-<div>
-
- 
-
-</div>

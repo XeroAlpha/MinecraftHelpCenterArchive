@@ -17,11 +17,7 @@ If you find any bugs, be sure to report them here!
 Click here to give us feedback & tell us what you think about the update.  
   
 
-<div>
-
  
-
-</div>
 
 New Features:
 

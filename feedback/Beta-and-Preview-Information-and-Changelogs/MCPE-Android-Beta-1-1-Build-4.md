@@ -17,9 +17,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 - Dyeing a Shulker Box no longer removes all items contained in the box
 - The Festive Mash-up Pack will now be properly unlocked, if it is owned
-
-<div>
-
- 
-
-</div>

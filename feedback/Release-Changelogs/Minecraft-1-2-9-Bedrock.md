@@ -57,9 +57,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   - Graphical artifacts no longer appear in split-screen when riding a pig
   - Fixed the labels of 'Back' buttons on menu screens
   - Book & Quill text is now readable with the Natural texture pack
-
-<div>
-
- 
-
-</div>

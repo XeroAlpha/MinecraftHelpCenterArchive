@@ -89,9 +89,3 @@ For more information about Minecraft: Education Edition, please visit [education
 - Fixed a crash when traveling to the Nether or the End for the first time
 - Fixed a crash when updating a world from 0.16 to 0.17
 - Added a description in the Help menu for the '/me' command
-
-<div>
-
- 
-
-</div>

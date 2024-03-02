@@ -47,7 +47,7 @@ If you are having difficulty playing a game purchased through Mojang Studios, ar
 
 Otherwise, check out [minecraft.net](https://help.minecraft.net/hc/en-us) for technical troubleshooting for the particular version of your game. 
 
-**Both versions of Minecraft are now available for one price via the Minecraft: Java & Bedrock Edition for PC bundle. It is no longer possible to buy one version or the other. For more information, please refer to the [Minecraft: Java & Bedrock Edition for PC FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**
+**Both versions of Minecraft are now available for one price via the Minecraft: Java & Bedrock Edition for PC bundle. It is no longer possible to buy one version or the other. For more information, please refer to the [Minecraft: Java & Bedrock Edition for PC FAQ](../Minecraft-Bedrock-Edition-Technical/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md).**
 
 **If you purchased Minecraft: Java & Bedrock Edition for PC on or after July 25th, 2022, please contact Microsoft for refund support here: [Request a refund for digital games \| Xbox Support](https://support.xbox.com/en-US/help/subscriptions-billing/buy-games-apps/refund-orders)**
 

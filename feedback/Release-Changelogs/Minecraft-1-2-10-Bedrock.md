@@ -27,9 +27,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Opening the chat screen with ""/"" no longer places the cursor before the slash
 - Changed the error message that appeared when attempting to purchase content and not having enough Minecoins
 - Players can no longer accidentally purchase marketplace content from the patch notes screen by repeatedly mashing the A button
-
-<div>
-
- 
-
-</div>

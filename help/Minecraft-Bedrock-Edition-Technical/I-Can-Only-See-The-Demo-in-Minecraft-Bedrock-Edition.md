@@ -44,4 +44,4 @@ Please buy the full version of Minecraft: Bedrock Edition to remove these restri
 
 If you're trying to play Minecraft: Bedrock Edition, but only have access to the Trial or Demo version, you might be signed into an account that does not own Minecraft. If you are on Xbox or PC and usually subscribe to Xbox Game Pass, ensure that your subscription is active.
 
-If you're on PC and want to buy Minecraft, we now offer Minecraft: Bedrock Edition and Minecraft: Java Edition in the same bundle! [Use this article](./Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md) to get started.
+If you're on PC and want to buy Minecraft, we now offer Minecraft: Bedrock Edition and Minecraft: Java Edition in the same bundle! [Use this article](./I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md) to get started.

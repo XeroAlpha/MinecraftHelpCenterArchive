@@ -43,9 +43,3 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127812-MCPE-WIN-10-
 - Fixed an issue with End Gateway textures on mobile devices
 - Fixed an issue where buttons & other Redstone devices could get locked when a Redstone Lamp activated
 - Fixed some rendering geometry which created weird results
-
-<div>
-
- 
-
-</div>

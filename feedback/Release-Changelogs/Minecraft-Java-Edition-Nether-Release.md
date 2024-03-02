@@ -62,30 +62,14 @@ Enjoy the update!
 - When a Villager is struck by lightning, the witch it is converted to will no longer despawn
 - When fishing, treasure loot can now only be obtained by fishing in open waters
 
-<div bi-id="c6c1c1c1c1c1c1c1m2r3a3" bi-name="c6c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c6c1c1c1c1c1c1c1m2r3a3" bi-name="c1c6c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## ACCESSIBILITY
 
 - Added "Line Spacing" chat and accessibility option
 - Added "Chat Delay" accessibility option
 
-<div bi-id="c7c1c1c1c1c1c1c1m2r3a3" bi-name="c7c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c7c1c1c1c1c1c1c1m2r3a3" bi-name="c1c7c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## ADVANCEMENTS
 
@@ -94,15 +78,7 @@ Enjoy the update!
 - Obtaining blackstone now also counts for the `Stone Age` advancement
 - Breeding Striders now counts for `The Parrots and the Bats` and is now required for `Two by Two`
 
-<div bi-id="c8c1c1c1c1c1c1c1m2r3a3" bi-name="c8c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c8c1c1c1c1c1c1c1m2r3a3" bi-name="c1c8c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### NEW ADVANCEMENTS
 
@@ -118,27 +94,11 @@ Enjoy the update!
 - `War Pigs` unlocks when looting a chest in a bastion
 - `Oh Shiny` unlocks when distracting an angry Piglin with gold
 
-<div bi-id="c9c1c1c1c1c1c1c1m2r3a3" bi-name="c9c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c9c1c1c1c1c1c1c1m2r3a3" bi-name="c1c9c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BASALT DELTAS
 
-<div bi-id="c10c1c1c1c1c1c1c1m2r3a3" bi-name="c10c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c10c1c1c1c1c1c1c1m2r3a3" bi-name="c1c10c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Basalt Deltas can now be found in the Nether!
 
@@ -147,27 +107,11 @@ Basalt Deltas can now be found in the Nether!
 - Magma cubes finally have their own home and spawn very frequently here
 - A new block, blackstone, can be found here in large patches
 
-<div bi-id="c11c1c1c1c1c1c1c1m2r3a3" bi-name="c11c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c11c1c1c1c1c1c1c1m2r3a3" bi-name="c1c11c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BASTION REMNANTS
 
-<div bi-id="c12c1c1c1c1c1c1c1m2r3a3" bi-name="c12c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c12c1c1c1c1c1c1c1m2r3a3" bi-name="c1c12c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 What's made of blackstone and full of Piglins and Hoglins? Bastion remnants!
 
@@ -175,68 +119,28 @@ What's made of blackstone and full of Piglins and Hoglins? Bastion remnants!
 - You can find these sizable structures in all Nether biomes, except the treacherous ash-dusted regions of Basalt Deltas
 - Explore, loot, and conquer a bastion remnant to call it your home – but beware! Piglins don't take kindly to intruders stealing their possessions
 
-<div bi-id="c13c1c1c1c1c1c1c1m2r3a3" bi-name="c13c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c13c1c1c1c1c1c1c1m2r3a3" bi-name="c1c13c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BEES
 
 - Reduced the maximum distance a bee can wander away from its home hive to ~22 blocks
 
-<div bi-id="c14c1c1c1c1c1c1c1m2r3a3" bi-name="c14c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c14c1c1c1c1c1c1c1m2r3a3" bi-name="c1c14c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BLOCK RENAMES
 
-<div bi-id="c15c1c1c1c1c1c1c1m2r3a3" bi-name="c15c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c15c1c1c1c1c1c1c1m2r3a3" bi-name="c1c15c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Some blocks have been renamed. Turns out singular fungus in the Nether attempted to falsely present itself as many fungi – so sneaky!
 
 - Crimson fungi is now called crimson fungus
 - Warped fungi is now called warped fungus
 
-<div bi-id="c16c1c1c1c1c1c1c1m2r3a3" bi-name="c16c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c16c1c1c1c1c1c1c1m2r3a3" bi-name="c1c16c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BLOCKS
 
-<div bi-id="c17c1c1c1c1c1c1c1m2r3a3" bi-name="c17c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c17c1c1c1c1c1c1c1m2r3a3" bi-name="c1c17c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Many new blocks have been added, and changes have been made to a few existing ones.
 
@@ -268,15 +172,7 @@ Many new blocks have been added, and changes have been made to a few existing on
 - Nether sprouts can be harvested with shears
 - Food can now be placed on unlit campfires
 
-<div bi-id="c18c1c1c1c1c1c1c1m2r3a3" bi-name="c18c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c18c1c1c1c1c1c1c1m2r3a3" bi-name="c1c18c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## CREATIVE MODE
 
@@ -284,27 +180,11 @@ Many new blocks have been added, and changes have been made to a few existing on
 - You can now get stew from Mooshrooms in creative mode
 - When using an empty bucket on water in creative mode, you now get a bucket of water. If you have a bucket of water in your inventory already, no additional water buckets will be added when you use your empty bucket on water
 
-<div bi-id="c19c1c1c1c1c1c1c1m2r3a3" bi-name="c19c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c19c1c1c1c1c1c1c1m2r3a3" bi-name="c1c19c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## CRIMSON FOREST
 
-<div bi-id="c20c1c1c1c1c1c1c1m2r3a3" bi-name="c20c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c20c1c1c1c1c1c1c1m2r3a3" bi-name="c1c20c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Crimson Forests can now be found in the Nether!
 
@@ -316,15 +196,7 @@ Crimson Forests can now be found in the Nether!
 - Hoglins wander these forests
 - Crimson spores swirl through the air
 
-<div bi-id="c21c1c1c1c1c1c1c1m2r3a3" bi-name="c21c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c21c1c1c1c1c1c1c1m2r3a3" bi-name="c1c21c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## DISPENSERS
 
@@ -335,42 +207,18 @@ Crimson Forests can now be found in the Nether!
 - Dispensers can now shear a Mooshroom
 - Dispensers can now shear snow golems
 
-<div bi-id="c22c1c1c1c1c1c1c1m2r3a3" bi-name="c22c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c22c1c1c1c1c1c1c1m2r3a3" bi-name="c1c22c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## F3 + N (TOGGLE SPECTATOR)
 
-<div bi-id="c23c1c1c1c1c1c1c1m2r3a3" bi-name="c23c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c23c1c1c1c1c1c1c1m2r3a3" bi-name="c1c23c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 A small change has been made to this debug combination.
 
 - By default, using this key would return you to Creative after toggling from Spectator. It now will toggle back to the previous game mode you had
 - As an example, if you were in Survival, then toggled to Spectator and back, you would be set back to Survival
 
-<div bi-id="c24c1c1c1c1c1c1c1m2r3a3" bi-name="c24c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c24c1c1c1c1c1c1c1m2r3a3" bi-name="c1c24c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## FARMERS
 
@@ -378,27 +226,11 @@ A small change has been made to this debug combination.
   - Bone meal is used by the farmers to grow crops
 - Farmers share excess wheat to other farmers, so more farmers can make bread
 
-<div bi-id="c25c1c1c1c1c1c1c1m2r3a3" bi-name="c25c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c25c1c1c1c1c1c1c1m2r3a3" bi-name="c1c25c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## GAME MODE SWITCHER
 
-<div bi-id="c26c1c1c1c1c1c1c1m2r3a3" bi-name="c26c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c26c1c1c1c1c1c1c1m2r3a3" bi-name="c1c26c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 New F3 debug feature which allows you to switch game modes with traditional "tabbing" functionality.
 
@@ -407,27 +239,11 @@ New F3 debug feature which allows you to switch game modes with traditional "tab
 - Release F3 to apply
 - Your last game mode is remembered and will be the first selected option, so you can quickly toggle between two game modes with a single press of F3 + F4!
 
-<div bi-id="c27c1c1c1c1c1c1c1m2r3a3" bi-name="c27c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c27c1c1c1c1c1c1c1m2r3a3" bi-name="c1c27c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## HOE CHANGES
 
-<div bi-id="c28c1c1c1c1c1c1c1m2r3a3" bi-name="c28c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c28c1c1c1c1c1c1c1m2r3a3" bi-name="c1c28c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 We've made some changes to hoes to make them more useful in the Nether.
 
@@ -436,15 +252,7 @@ We've made some changes to hoes to make them more useful in the Nether.
 - Those enchantments can now be provided through enchanting table
 - Hoes are now the appropriate tool for mining hay, targets, dried kelp blocks, leaves, Shroomlights, Nether wart blocks, warped wart blocks, sponges, and wet sponges.
 
-<div bi-id="c29c1c1c1c1c1c1c1m2r3a3" bi-name="c29c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c29c1c1c1c1c1c1c1m2r3a3" bi-name="c1c29c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## HOGLINS
 
@@ -458,42 +266,18 @@ We've made some changes to hoes to make them more useful in the Nether.
 - Want to keep Hoglins off your back? Pro tip: Hoglins hate the smell of warped fungi
 - Hoglins that somehow end up in the Overworld become Zoglins fairly quickly – but who would ever bring a Hoglin to the Overworld?
 
-<div bi-id="c30c1c1c1c1c1c1c1m2r3a3" bi-name="c30c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c30c1c1c1c1c1c1c1m2r3a3" bi-name="c1c30c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## LODESTONE
 
-<div bi-id="c31c1c1c1c1c1c1c1m2r3a3" bi-name="c31c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c31c1c1c1c1c1c1c1m2r3a3" bi-name="c1c31c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 A new block that can help you get your bearings!
 
 - Crafted from a Netherite ingot and chiseled stone bricks
 - Use a compass on a lodestone to create a lodestone compass, which will point to that lodestone
 
-<div bi-id="c32c1c1c1c1c1c1c1m2r3a3" bi-name="c32c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c32c1c1c1c1c1c1c1m2r3a3" bi-name="c1c32c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## MOBS
 
@@ -501,15 +285,7 @@ A new block that can help you get your bearings!
 - Added gamerule universalAnger (disabled by default), which makes angered neutral mobs attack any nearby player – not just the player that angered them. Works best if you disable forgiveDeadPlayers
 - Added gamerule forgiveDeadPlayers (enabled by default), which makes angered neutral mobs stop being angry when the targeted player dies nearby
 
-<div bi-id="c33c1c1c1c1c1c1c1m2r3a3" bi-name="c33c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c33c1c1c1c1c1c1c1m2r3a3" bi-name="c1c33c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### FORGIVE DEAD PLAYERS
 
@@ -517,27 +293,11 @@ A new block that can help you get your bearings!
 - If both forgiveDeadPlayers and universalAnger are enabled, an angered neutral mob will stop being angry when their target dies. They won't seek any new targets after that
   - Notable exception: Angered Zombified Piglins continuously spread anger. So even if one Zombified Piglin stops being angry because its target died, other angered Zombified Piglins nearby are likely to make it angry again. The only way to stop the anger is if none of the angered Zombified Piglins see a player for a while
 
-<div bi-id="c34c1c1c1c1c1c1c1m2r3a3" bi-name="c34c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c34c1c1c1c1c1c1c1m2r3a3" bi-name="c1c34c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### NEUTRAL MOB ANGER
 
-<div bi-id="c35c1c1c1c1c1c1c1m2r3a3" bi-name="c35c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c35c1c1c1c1c1c1c1m2r3a3" bi-name="c1c35c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Updated anger management for most neutral mobs (polar bear, wolf, bee, Enderman, Piglin, Zombified Piglin).
 
@@ -550,27 +310,11 @@ Updated anger management for most neutral mobs (polar bear, wolf, bee, Enderman,
   - Notable exception: If a beehive or nest is broken, the bees will be angry at all nearby players
 - Some mobs spread anger (wolf, Zombified Piglin, Piglin, bee). If a player attacks one, all nearby mobs of the same type will get angry at that player
 
-<div bi-id="c36c1c1c1c1c1c1c1m2r3a3" bi-name="c36c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c36c1c1c1c1c1c1c1m2r3a3" bi-name="c1c36c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### UNIVERSAL ANGER
 
-<div bi-id="c37c1c1c1c1c1c1c1m2r3a3" bi-name="c37c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c37c1c1c1c1c1c1c1m2r3a3" bi-name="c1c37c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Universal anger is basically guilt by association. A neutral mob attacked by players will be angry at players in general, regardless of who attacked them. More specifically:
 
@@ -582,15 +326,7 @@ Universal anger is basically guilt by association. A neutral mob attacked by pla
 - Mobs that spread anger will also spread universal anger. So if a player attacks a Zombified Piglin, all other Zombified Piglins within sight will be universally angry and attack their nearest player
 - An angered neutral mob will stop being angry if it can't see any eligible target for a while
 
-<div bi-id="c38c1c1c1c1c1c1c1m2r3a3" bi-name="c38c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c38c1c1c1c1c1c1c1m2r3a3" bi-name="c1c38c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### ZOMBIFIED PIGLINS
 
@@ -599,43 +335,19 @@ Universal anger is basically guilt by association. A neutral mob attacked by pla
 - Zombified Piglins stop being angry if the targeted player dies nearby (unless you disable gamerule forgiveDeadPlayers)
 - Zombified Piglins continuously spread to other Zombified Piglins, as long as they see their target
 
-<div bi-id="c39c1c1c1c1c1c1c1m2r3a3" bi-name="c39c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c39c1c1c1c1c1c1c1m2r3a3" bi-name="c1c39c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## NETHER BIOME FOG
 
 - Biome fog color smoothly blends between biomes. Smooth!
 
-<div bi-id="c40c1c1c1c1c1c1c1m2r3a3" bi-name="c40c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c40c1c1c1c1c1c1c1m2r3a3" bi-name="c1c40c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## NETHERITE
 
 - A new high-level material found in the Nether. Use it to upgrade your diamond gear!
 
-<div bi-id="c41c1c1c1c1c1c1c1m2r3a3" bi-name="c41c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c41c1c1c1c1c1c1c1m2r3a3" bi-name="c1c41c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### HOW TO MAKE NETHERITE
 
@@ -644,15 +356,7 @@ Universal anger is basically guilt by association. A neutral mob attacked by pla
 - Refine it into Netherite scrap in a furnace or blast furnace
 - Use a smithing table to fuse the Netherite ingot with your diamond weapon, tool, or armor
 
-<div bi-id="c42c1c1c1c1c1c1c1m2r3a3" bi-name="c42c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c42c1c1c1c1c1c1c1m2r3a3" bi-name="c1c42c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### NETHERITE EFFECTS
 
@@ -665,44 +369,20 @@ Universal anger is basically guilt by association. A neutral mob attacked by pla
 - Netherite blocks can be used as the base of a beacon and Netherite ingots can be used as the fuel for a beacon. Weird flex but ok
 - ...and it looks cool!
 
-<div bi-id="c43c1c1c1c1c1c1c1m2r3a3" bi-name="c43c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c43c1c1c1c1c1c1c1m2r3a3" bi-name="c1c43c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## PARITY
 
 - Changed ambient block lighting in the Nether for parity with Bedrock edition
 
-<div bi-id="c44c1c1c1c1c1c1c1m2r3a3" bi-name="c44c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c44c1c1c1c1c1c1c1m2r3a3" bi-name="c1c44c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## PARROT
 
 - Parrots imitate hostile mobs less often
 - Parrots do not randomly imitate hostile mobs when gamemode is on peaceful
 
-<div bi-id="c45c1c1c1c1c1c1c1m2r3a3" bi-name="c45c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c45c1c1c1c1c1c1c1m2r3a3" bi-name="c1c45c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## PIGLINS
 
@@ -723,27 +403,11 @@ Universal anger is basically guilt by association. A neutral mob attacked by pla
   - ...and they like to play with Baby Hoglins
 - Added a Piglin banner pattern that can be found in bastion remnants
 
-<div bi-id="c46c1c1c1c1c1c1c1m2r3a3" bi-name="c46c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c46c1c1c1c1c1c1c1m2r3a3" bi-name="c1c46c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## REDSTONEWIRE
 
-<div bi-id="c47c1c1c1c1c1c1c1m2r3a3" bi-name="c47c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c47c1c1c1c1c1c1c1m2r3a3" bi-name="c1c47c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 The blockstate, rendering, and behavior of redstone wire are more in line with each other. Redstone will provide power to blocks on all sides it shows a visual connection to, and not do so on those sides without a visual connection.
 
@@ -754,68 +418,28 @@ The blockstate, rendering, and behavior of redstone wire are more in line with e
 - A wire that is redirected to go over a block will now always provide power to the block. This is most noticeable when the wire has signal strength 1
 - When right-clicking a single piece of redstone, it will toggle between a the cross and the dot
 
-<div bi-id="c48c1c1c1c1c1c1c1m2r3a3" bi-name="c48c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c48c1c1c1c1c1c1c1m2r3a3" bi-name="c1c48c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### TARGET BLOCK
 
 - The target block now conducts redstone signals
 
-<div bi-id="c49c1c1c1c1c1c1c1m2r3a3" bi-name="c49c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c49c1c1c1c1c1c1c1m2r3a3" bi-name="c1c49c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## RUINED PORTALS
 
-<div bi-id="c50c1c1c1c1c1c1c1m2r3a3" bi-name="c50c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c50c1c1c1c1c1c1c1m2r3a3" bi-name="c1c50c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Shattered remains of ancient Nether portals. Wonder who built them?
 
 - They can be found in any Overworld or Nether biome
 - Some are hidden underground, under the sea, or buried in sand
 
-<div bi-id="c51c1c1c1c1c1c1c1m2r3a3" bi-name="c51c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c51c1c1c1c1c1c1c1m2r3a3" bi-name="c1c51c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## SOUL SPEED
 
-<div bi-id="c52c1c1c1c1c1c1c1m2r3a3" bi-name="c52c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c52c1c1c1c1c1c1c1m2r3a3" bi-name="c1c52c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Never suffer again drudging through Soul Sand Valleys – Soul Speed has you covered!
 
@@ -823,27 +447,11 @@ Never suffer again drudging through Soul Sand Valleys – Soul Speed has you cov
 - However, there's a downside: enchantments will slowly degrade your boots each soul block you walk on
 - Can only be obtained by bartering with those pesky Piglins
 
-<div bi-id="c53c1c1c1c1c1c1c1m2r3a3" bi-name="c53c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c53c1c1c1c1c1c1c1m2r3a3" bi-name="c1c53c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## SOULSAND VALLEY
 
-<div bi-id="c54c1c1c1c1c1c1c1m2r3a3" bi-name="c54c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c54c1c1c1c1c1c1c1m2r3a3" bi-name="c1c54c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Soulsand Valleys can now be found in the Nether!
 
@@ -854,15 +462,7 @@ Soulsand Valleys can now be found in the Nether!
 - A light blue glow envelopes the valley
 - Beware of skeletons here
 
-<div bi-id="c55c1c1c1c1c1c1c1m2r3a3" bi-name="c55c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c55c1c1c1c1c1c1c1m2r3a3" bi-name="c1c55c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## SOUNDS
 
@@ -872,27 +472,11 @@ Soulsand Valleys can now be found in the Nether!
 - New mood detection algorithm for cave sounds
 - Added a new music disc titled "Pigstep" by Lena Raine, which can only be found in bastion remnants
 
-<div bi-id="c56c1c1c1c1c1c1c1m2r3a3" bi-name="c56c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c56c1c1c1c1c1c1c1m2r3a3" bi-name="c1c56c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## STRIDER
 
-<div bi-id="c57c1c1c1c1c1c1c1m2r3a3" bi-name="c57c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c57c1c1c1c1c1c1c1m2r3a3" bi-name="c1c57c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 A new mob living the lava lakes of the Nether.
 
@@ -900,27 +484,11 @@ A new mob living the lava lakes of the Nether.
 - Can be saddled, but has a will of its own
 - Really likes the smell of warped fungi – might even be convinced to follow it
 
-<div bi-id="c58c1c1c1c1c1c1c1m2r3a3" bi-name="c58c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c58c1c1c1c1c1c1c1m2r3a3" bi-name="c1c58c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## TARGET BLOCK
 
-<div bi-id="c59c1c1c1c1c1c1c1m2r3a3" bi-name="c59c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c59c1c1c1c1c1c1c1m2r3a3" bi-name="c1c59c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Because let's face it, your aim could use some practice!
 
@@ -928,15 +496,7 @@ Because let's face it, your aim could use some practice!
 - Test your skills with a variety of projectiles, including eggs, snowballs, tridents, and more
 - You will need one hay block and four redstone for this recipe
 
-<div bi-id="c60c1c1c1c1c1c1c1m2r3a3" bi-name="c60c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c60c1c1c1c1c1c1c1m2r3a3" bi-name="c1c60c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## VILLAGER WORKSTATION LOGIC
 
@@ -946,27 +506,11 @@ Because let's face it, your aim could use some practice!
 - Villagers can no longer claim workstations or professions during raids or night time
 - Villagers will check and make sure their workstation is valid at all times of day as long as they are within 16 blocks of their workstation
 
-<div bi-id="c61c1c1c1c1c1c1c1m2r3a3" bi-name="c61c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c61c1c1c1c1c1c1c1m2r3a3" bi-name="c1c61c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## WARPED FOREST
 
-<div bi-id="c62c1c1c1c1c1c1c1m2r3a3" bi-name="c62c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c62c1c1c1c1c1c1c1m2r3a3" bi-name="c1c62c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Warped Forests can now be found in the Nether!
 
@@ -978,29 +522,13 @@ Warped Forests can now be found in the Nether!
 - Warped spores swirl through the air
 - The Warped Forests are strange, but also the least hostile place in the Nether
 
-<div bi-id="c63c1c1c1c1c1c1c1m2r3a3" bi-name="c63c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c63c1c1c1c1c1c1c1m2r3a3" bi-name="c1c63c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## WEEPING VINES
 
 - Weeping vines are now climbable!
 
-<div bi-id="c64c1c1c1c1c1c1c1m2r3a3" bi-name="c64c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c64c1c1c1c1c1c1c1m2r3a3" bi-name="c1c64c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## WORLD GENERATION
 
@@ -1008,15 +536,7 @@ Warped Forests can now be found in the Nether!
 - Shipwrecks and ocean ruins are now a bit less common, so you get more excited when you find one!
 - Patches of blackstone and gravel now generate in all Nether biomes, and patches of soul sand now generate in Soul Sand Valleys
 
-<div bi-id="c65c1c1c1c1c1c1c1m2r3a3" bi-name="c65c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c65c1c1c1c1c1c1c1m2r3a3" bi-name="c1c65c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## ZOGLINS
 
@@ -1024,15 +544,7 @@ Warped Forests can now be found in the Nether!
 - Unlike Hoglins, they can't be bred or fed, and they don't care about warped fungus
 - Beware – these beasts are raving mad and attack just about everything they see!
 
-<div bi-id="c66c1c1c1c1c1c1c1m2r3a3" bi-name="c66c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c66c1c1c1c1c1c1c1m2r3a3" bi-name="c1c66c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 # TECHNICAL
 
@@ -1069,39 +581,15 @@ Warped Forests can now be found in the Nether!
 - "Singleplayer" button will jump directly to "Create World" screen if there are no worlds to select
 - Temporarily removed structure settings from flat level preset strings (workaround: use import/export settings functionality)
 
-<div bi-id="c67c1c1c1c1c1c1c1m2r3a3" bi-name="c67c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c67c1c1c1c1c1c1c1m2r3a3" bi-name="c1c67c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## ADVANCEMENTS
 
-<div bi-id="c68c1c1c1c1c1c1c1m2r3a3" bi-name="c68c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c68c1c1c1c1c1c1c1m2r3a3" bi-name="c1c68c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### EXTENDED ENTITY CHECKS
 
-<div bi-id="c69c1c1c1c1c1c1c1m2r3a3" bi-name="c69c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c69c1c1c1c1c1c1c1m2r3a3" bi-name="c1c69c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Entity checks in triggers can now use loot table condition syntax. Old notation: \`\`\`json { "trigger": "minecraft:player*killed*entity", "conditions": { "entity": { "type": "minecraft:blaze" } } } \`\`\` is now equivalent to: \`\`\`json { "trigger": "minecraft:player*killed*entity", "conditions": { "entity": \[ { "condition": "minecraft:entity_properties", "predicate": { "type": "minecraft:blaze" }, "entity": "this" } \] } } \`\`\` **Note 1**: Like in loot tables, all conditions in top level array must be met for whole condition to trigger. **Note 2**: To access new functionality, top level element must be JSON array. JSON object are interpreted as old notation.  
 Full list of extended triggers:
@@ -1120,15 +608,7 @@ Full list of extended triggers:
 - `target_hit` - `projectile`
 - `villager_trade` - `villager`
 
-<div bi-id="c70c1c1c1c1c1c1c1m2r3a3" bi-name="c70c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c70c1c1c1c1c1c1c1m2r3a3" bi-name="c1c70c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### MISCELLANEOUS TRIGGER CHANGES
 
@@ -1136,15 +616,7 @@ Full list of extended triggers:
 - `location` got a new property `smokey` which checks if the location is closely above a campfire
 - `entity_properties` got new properties `vehicle` and `targetedEntity` which match the vehicle or the entity targeted by a mob
 
-<div bi-id="c71c1c1c1c1c1c1c1m2r3a3" bi-name="c71c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c71c1c1c1c1c1c1c1m2r3a3" bi-name="c1c71c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### NEW TRIGGER
 
@@ -1161,27 +633,11 @@ Full list of extended triggers:
   - `location` matches the location at the center of the block the item was used on
   - `item` matches the item used on the block
 
-<div bi-id="c72c1c1c1c1c1c1c1m2r3a3" bi-name="c72c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c72c1c1c1c1c1c1c1m2r3a3" bi-name="c1c72c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## ATTRIBUTES
 
-<div bi-id="c73c1c1c1c1c1c1c1m2r3a3" bi-name="c73c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c73c1c1c1c1c1c1c1m2r3a3" bi-name="c1c73c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Attributes have been moved to game registry. That means few changes: Renames:
 
@@ -1199,15 +655,7 @@ Attributes have been moved to game registry. That means few changes: Renames:
 - `generic.attackSpeed` 🡆 `generic.attack_speed`
 - `generic.armorToughness` 🡆 `generic.armor_toughness`
 
-<div bi-id="c74c1c1c1c1c1c1c1m2r3a3" bi-name="c74c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c74c1c1c1c1c1c1c1m2r3a3" bi-name="c1c74c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BLOCK PLACEMENT
 
@@ -1215,66 +663,26 @@ Attributes have been moved to game registry. That means few changes: Renames:
 - Doors, rails, buttons, pressure plates, redstone, and more can now be placed on soulsand and full-block of snow layers
 - Soulsand with a rail on top will no longer slow down minecarts
 
-<div bi-id="c75c1c1c1c1c1c1c1m2r3a3" bi-name="c75c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c75c1c1c1c1c1c1c1m2r3a3" bi-name="c1c75c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BLOCK STORAGE
 
-<div bi-id="c76c1c1c1c1c1c1c1m2r3a3" bi-name="c76c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c76c1c1c1c1c1c1c1m2r3a3" bi-name="c1c76c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 `BlockStates` in `Sections` elements no longer contain values stretching over multiple 64-bit fields. If number of bits per block is not power of two (i.e. single 64-bit value can't fill whole number of blockstates) some bits will not be used. For example, if single block state takes 5 bits, highest 4 bits of every 64-bit field will be unused. That also means slight increase in storage size (in case of 5 bits, from 320 to 342 64-bit fields).
 
-<div bi-id="c77c1c1c1c1c1c1c1m2r3a3" bi-name="c77c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c77c1c1c1c1c1c1c1m2r3a3" bi-name="c1c77c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## BLOCK TAGS
 
 - `minecraft:climbable` is now a block tag that allows datapacks to determine which blocks are, well, climbable
 - `minecraft:soul_speed_blocks` is any block that the soul speed enchantment increases speed on
 
-<div bi-id="c78c1c1c1c1c1c1c1m2r3a3" bi-name="c78c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c78c1c1c1c1c1c1c1m2r3a3" bi-name="c1c78c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## CHAT COMPONENTS
 
-<div bi-id="c79c1c1c1c1c1c1c1m2r3a3" bi-name="c79c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c79c1c1c1c1c1c1c1m2r3a3" bi-name="c1c79c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### HOVER EVENT ARGUMENT
 
@@ -1284,39 +692,15 @@ Attributes have been moved to game registry. That means few changes: Renames:
   - For `show_entity` - object with fields: `id` (UUID), `name` (chat component), and `type` (entity type resource location)
 - Old style `value` argument is now deprecated (but still supported)
 
-<div bi-id="c80c1c1c1c1c1c1c1m2r3a3" bi-name="c80c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c80c1c1c1c1c1c1c1m2r3a3" bi-name="c1c80c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## COMMANDS
 
-<div bi-id="c81c1c1c1c1c1c1c1m2r3a3" bi-name="c81c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c81c1c1c1c1c1c1c1m2r3a3" bi-name="c1c81c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### ATTRIBUTE
 
-<div bi-id="c82c1c1c1c1c1c1c1m2r3a3" bi-name="c82c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c82c1c1c1c1c1c1c1m2r3a3" bi-name="c1c82c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Adds modifies attribute on single entity. Possible syntax: Parameters:
 
@@ -1331,103 +715,39 @@ Adds modifies attribute on single entity. Possible syntax: Parameters:
 - `name` - string (in optional quotes) describing human-readable name of modifier
 - `value` - floating point value (note: certain attributes have limits on final value, so your change might not be noticeable)
 
-<div bi-id="c83c1c1c1c1c1c1c1m2r3a3" bi-name="c83c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c83c1c1c1c1c1c1c1m2r3a3" bi-name="c1c83c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### LOCATEBIOME
 
-<div bi-id="c84c1c1c1c1c1c1c1m2r3a3" bi-name="c84c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c84c1c1c1c1c1c1c1m2r3a3" bi-name="c1c84c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 New command that locates a specified biome. Useful in creative mode when you're looking for a specific biome and don't want to fly around randomly searching for it. Syntax: `locatebiome` Parameters:
 
 - `biome` - The id of the biome to find
 
-<div bi-id="c85c1c1c1c1c1c1c1m2r3a3" bi-name="c85c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c85c1c1c1c1c1c1c1m2r3a3" bi-name="c1c85c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### SPAWNPOINT
 
-<div bi-id="c86c1c1c1c1c1c1c1m2r3a3" bi-name="c86c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c86c1c1c1c1c1c1c1m2r3a3" bi-name="c1c86c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 The spawnpoint command now supports being run in any dimension.
 
-<div bi-id="c87c1c1c1c1c1c1c1m2r3a3" bi-name="c87c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c87c1c1c1c1c1c1c1m2r3a3" bi-name="c1c87c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### SPREADPLAYERS
 
-<div bi-id="c88c1c1c1c1c1c1c1m2r3a3" bi-name="c88c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c88c1c1c1c1c1c1c1m2r3a3" bi-name="c1c88c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Added an optional argument to specify maximum height. New syntax: `spreadplayers <center> [under ]`
 
 - `maxHeight` - Specifies the maximum height for resulting positions
 
-<div bi-id="c89c1c1c1c1c1c1c1m2r3a3" bi-name="c89c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c89c1c1c1c1c1c1c1m2r3a3" bi-name="c1c89c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### UUIDS IN NBT
 
-<div bi-id="c90c1c1c1c1c1c1c1m2r3a3" bi-name="c90c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c90c1c1c1c1c1c1c1m2r3a3" bi-name="c1c90c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 UUIDs stored in NBT are now represented as an array of four integers. Example: `{UUID:[I;1498693494,1027158888,1898994005,860320107]}` Along with that a couple of fields have been renamed:
 
@@ -1435,15 +755,7 @@ UUIDs stored in NBT are now represented as an array of four integers. Example: 
 - `TrustedUUIDs` of foxes is now `Trusted`
 - `target_uuid` of conduits is now `Target`
 
-<div bi-id="c91c1c1c1c1c1c1c1m2r3a3" bi-name="c91c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c91c1c1c1c1c1c1c1m2r3a3" bi-name="c1c91c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## CUSTOM WORLDS
 
@@ -1454,30 +766,14 @@ UUIDs stored in NBT are now represented as an array of four integers. Example: 
 - Flat level preset string lost structure settings (they are now stored in a common format for all worlds), we will restore some form of this functionality soon
 - Buffet world can no longer be created from server.properties, flat level settings changed a bit; better support for custom world creation on the server is coming soon
 
-<div bi-id="c92c1c1c1c1c1c1c1m2r3a3" bi-name="c92c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c92c1c1c1c1c1c1c1m2r3a3" bi-name="c1c92c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## DATA PACK SELECTION
 
 - Data packs can now be selected before world is created
 - "Re-Create" option will also copy data packs present in source world
 
-<div bi-id="c93c1c1c1c1c1c1c1m2r3a3" bi-name="c93c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c93c1c1c1c1c1c1c1m2r3a3" bi-name="c1c93c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## DATAPACK LOADING
 
@@ -1487,150 +783,62 @@ UUIDs stored in NBT are now represented as an array of four integers. Example: 
 - Added `--safeMode` option to server to load only with vanilla datapack
 - Game will now detect critical datapack issues, like missing required tags and prevent world from being loaded
 
-<div bi-id="c94c1c1c1c1c1c1c1m2r3a3" bi-name="c94c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c94c1c1c1c1c1c1c1m2r3a3" bi-name="c1c94c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## EFFECTS
 
 - Increased view distance in lava slightly while having the fire resistance effect
 
-<div bi-id="c95c1c1c1c1c1c1c1m2r3a3" bi-name="c95c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c95c1c1c1c1c1c1c1m2r3a3" bi-name="c1c95c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## ENTITY BROADCASTING
 
-<div bi-id="c96c1c1c1c1c1c1c1m2r3a3" bi-name="c96c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c96c1c1c1c1c1c1c1m2r3a3" bi-name="c1c96c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 It is now possible to control at what range the server sends data about entities to clients.
 
 - Added an `entity-broadcast-range-percentage` server property controlling how close entities need to be before being sent to clients. Higher values means entities are visible further away from players but cause more network traffic. Specifies percentage of default value, so for example `50` specifies half of the default range
 
-<div bi-id="c97c1c1c1c1c1c1c1m2r3a3" bi-name="c97c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c97c1c1c1c1c1c1c1m2r3a3" bi-name="c1c97c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## FONTS
 
 - `Force Unicode` option now switches between normal and alternative font (called `uniform.json`) – no reload needed
 
-<div bi-id="c98c1c1c1c1c1c1c1m2r3a3" bi-name="c98c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c98c1c1c1c1c1c1c1m2r3a3" bi-name="c1c98c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## IO OPERATIONS
 
-<div bi-id="c99c1c1c1c1c1c1c1m2r3a3" bi-name="c99c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c99c1c1c1c1c1c1c1m2r3a3" bi-name="c1c99c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### SYNCHRONOUS WRITES
 
-<div bi-id="c100c1c1c1c1c1c1c1m2r3a3" bi-name="c100c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c100c1c1c1c1c1c1c1m2r3a3" bi-name="c1c100c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Region files are now opened in synchronous mode to prevent data loss and corruption after crash. For performance reasons this feature is disabled by default on non-Windows clients. Status of this feature can be manually controlled by following options:
 
 - For dedicated servers: `sync-chunk-writes` within `server.properties`
 - For clients: `syncChunkWrites` within `options.txt`
 
-<div bi-id="c101c1c1c1c1c1c1c1m2r3a3" bi-name="c101c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c101c1c1c1c1c1c1c1m2r3a3" bi-name="c1c101c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### WORLD SAVE FORMAT
 
 - Saving `level.dat` now uses randomly-named temporary files (instead of using `level.dat_new` every time)
 - `player/*.dat` are now saved in a way similar to `level.dat` (including leaving `.dat_old` files)
 
-<div bi-id="c102c1c1c1c1c1c1c1m2r3a3" bi-name="c102c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c102c1c1c1c1c1c1c1m2r3a3" bi-name="c1c102c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## ITEM FRAMES
 
-<div bi-id="c103c1c1c1c1c1c1c1m2r3a3" bi-name="c103c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c103c1c1c1c1c1c1c1m2r3a3" bi-name="c1c103c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### NEW TAGS
 
 - `Invisible` - makes item frame invisible (item inside frame remains visible)
 - `Fixed` - prevents item frame from being broken and item inside from being removed
 
-<div bi-id="c104c1c1c1c1c1c1c1m2r3a3" bi-name="c104c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c104c1c1c1c1c1c1c1m2r3a3" bi-name="c1c104c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## JIGSAW BLOCK
 
@@ -1640,133 +848,53 @@ Region files are now opened in synchronous mode to prevent data loss and corrupt
 - `attachement_type` has been split into `name` (on parent block) and `target` (on child block)
 - Added a button in the GUI that generates a jigsaw structure starting from the jigsaw block, using given generation depth
 
-<div bi-id="c105c1c1c1c1c1c1c1m2r3a3" bi-name="c105c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c105c1c1c1c1c1c1c1m2r3a3" bi-name="c1c105c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## JMX MONITORING
 
-<div bi-id="c106c1c1c1c1c1c1c1m2r3a3" bi-name="c106c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c106c1c1c1c1c1c1c1m2r3a3" bi-name="c1c106c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 It is now possible to monitor the server tick times though JMX. The rationale for this is that JMX is a well known and supported monitoring technology with existing integrations and tools. This enables server admins to hook alerts and graphing tools using ordinary JMX clients and dashboards.
 
-<div bi-id="c107c1c1c1c1c1c1c1m2r3a3" bi-name="c107c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c107c1c1c1c1c1c1c1m2r3a3" bi-name="c1c107c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### ENABLING JMX MONITORING
 
 - A new flag `enable-jmx-monitoring` has been added to the server.properties file which if set to `true` will expose an MBean with the Object name `net.minecraft.server:type=Server` and two attributes `averageTickTime` and `tickTimes` exposing the tick times in milliseconds
 - In order for enabling JMX on the Java runtime you also need to add a couple of JVM flags to the startup as documented [here](https://docs.oracle.com/javase/8/docs/technotes/guides/management/agent.html)
 
-<div bi-id="c108c1c1c1c1c1c1c1m2r3a3" bi-name="c108c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c108c1c1c1c1c1c1c1m2r3a3" bi-name="c1c108c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## LOOT TABLES
 
-<div bi-id="c109c1c1c1c1c1c1c1m2r3a3" bi-name="c109c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c109c1c1c1c1c1c1c1m2r3a3" bi-name="c1c109c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### ENTITY PREDICATE
 
 - Added `fishing_hook` sub-predicate
 
-<div bi-id="c110c1c1c1c1c1c1c1m2r3a3" bi-name="c110c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c110c1c1c1c1c1c1c1m2r3a3" bi-name="c1c110c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 #### FISHING_HOOK
 
-<div bi-id="c111c1c1c1c1c1c1c1m2r3a3" bi-name="c111c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c111c1c1c1c1c1c1c1m2r3a3" bi-name="c1c111c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Check properties of the fishing hook
 
-<div bi-id="c112c1c1c1c1c1c1c1m2r3a3" bi-name="c112c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c112c1c1c1c1c1c1c1m2r3a3" bi-name="c1c112c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ##### Parameters
 
 - `in_open_water` - Matches whether the fishing location is open water fishing or not. A fishing location is considered to be open water if the fishing hook is in water, there are no blocks besides lily pads above water and all water blocks are source blocks with no solid underwater blocks around
 
-<div bi-id="c113c1c1c1c1c1c1c1m2r3a3" bi-name="c113c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c113c1c1c1c1c1c1c1m2r3a3" bi-name="c1c113c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## PACK SELECTION SCREEN
 
 - Packs can now be dropped directly on data and resource pack selection screens
 - Dropped files and directories will be copied to appropriate places
 
-<div bi-id="c114c1c1c1c1c1c1c1m2r3a3" bi-name="c114c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c114c1c1c1c1c1c1c1m2r3a3" bi-name="c1c114c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## PARTICLES
 
@@ -1774,15 +902,7 @@ Check properties of the fishing hook
 - New particle types: dripping*obsidian*tear, falling*obsidian*tear, and landing*obsidian*tear
 - New particle type: soul
 
-<div bi-id="c115c1c1c1c1c1c1c1m2r3a3" bi-name="c115c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c115c1c1c1c1c1c1c1m2r3a3" bi-name="c1c115c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## RENDERING
 
@@ -1792,27 +912,11 @@ Check properties of the fishing hook
 - Added new "Fabulous!" graphics option
   - This uses per-pixel blending layers for some transparent elements
 
-<div bi-id="c116c1c1c1c1c1c1c1m2r3a3" bi-name="c116c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c116c1c1c1c1c1c1c1m2r3a3" bi-name="c1c116c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## SMITHING RECIPES
 
-<div bi-id="c117c1c1c1c1c1c1c1m2r3a3" bi-name="c117c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c117c1c1c1c1c1c1c1m2r3a3" bi-name="c1c117c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 There's now a `smithing` recipe type. Recipes of this type are used in the smithing table to upgrade one item type into another type, maintaining tags.
 
@@ -1820,137 +924,49 @@ There's now a `smithing` recipe type. Recipes of this type are used in the smi
 - `addition` - Ingredient specifying valid items to trigger the upgrade
 - `result` - Item specifying the resulting type of the upgraded item
 
-<div bi-id="c118c1c1c1c1c1c1c1m2r3a3" bi-name="c118c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c118c1c1c1c1c1c1c1m2r3a3" bi-name="c1c118c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## TEXT STYLE
 
-<div bi-id="c119c1c1c1c1c1c1c1m2r3a3" bi-name="c119c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c119c1c1c1c1c1c1c1m2r3a3" bi-name="c1c119c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### COLORS
 
-<div bi-id="c120c1c1c1c1c1c1c1m2r3a3" bi-name="c120c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c120c1c1c1c1c1c1c1m2r3a3" bi-name="c1c120c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 `color` property can now contain RGB value prefixed by `#`. For example `#55ff55` will result in the same color as `green`
 
-<div bi-id="c121c1c1c1c1c1c1c1m2r3a3" bi-name="c121c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c121c1c1c1c1c1c1c1m2r3a3" bi-name="c1c121c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ### CUSTOM FONTS
 
-<div bi-id="c122c1c1c1c1c1c1c1m2r3a3" bi-name="c122c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c122c1c1c1c1c1c1c1m2r3a3" bi-name="c1c122c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Chat component style now supports `font` property, which is resource location for font in resource pack. No entry is equivalent to `minecraft:default`
 
-<div bi-id="c123c1c1c1c1c1c1c1m2r3a3" bi-name="c123c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c123c1c1c1c1c1c1c1m2r3a3" bi-name="c1c123c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ## FIXED BUGS
 
-<div bi-id="c124c1c1c1c1c1c1c1m2r3a3" bi-name="c124c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c124c1c1c1c1c1c1c1m2r3a3" bi-name="c1c124c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 [Nearly 500 bugs](https://bugs.mojang.com/issues/?filter=24954) fixed in this release.
 
-<div bi-id="c125c1c1c1c1c1c1c1m2r3a3" bi-name="c125c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c125c1c1c1c1c1c1c1m2r3a3" bi-name="c1c125c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 # GET THE RELEASE
 
-<div bi-id="c126c1c1c1c1c1c1c1m2r3a3" bi-name="c126c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c126c1c1c1c1c1c1c1m2r3a3" bi-name="c1c126c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 ​To install the release, open up the [Minecraft Launcher](https://www.minecraft.net/download) and click play!
 
-<div bi-id="c127c1c1c1c1c1c1c1m2r3a3" bi-name="c127c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c127c1c1c1c1c1c1c1m2r3a3" bi-name="c1c127c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Cross-platform server jar:
 
 - [Minecraft server jar](https://launcher.mojang.com/v1/objects/7361a24df069a06748844cc7483c35d4abd2d80c/server.jar)
 
-<div bi-id="c128c1c1c1c1c1c1c1m2r3a3" bi-name="c128c1c1c1c1c1c1c1m2r3a3">
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12" bi-id="c1c128c1c1c1c1c1c1c1m2r3a3" bi-name="c1c128c1c1c1c1c1c1c1m2r3a3">
-
  
-
-</div>
-
-</div>
 
 Report bugs here:
 

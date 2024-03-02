@@ -11,9 +11,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **Bug Fixes:**
 
 - Continued fixes for crashes and stability
-
-<div>
-
- 
-
-</div>

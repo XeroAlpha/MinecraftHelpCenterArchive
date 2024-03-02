@@ -203,9 +203,3 @@ This beta also includes changes and fixes from the 1.2.10 Beta
   - Items will now be received immediately and correctly when using '/give' command with a Chain Command Block
   - Fixed 'End_gateway' and 'End_portal' having placeholder images in command auto-complete
   - Teleporting a horse while it's being ridden now works as intended
-
-<div>
-
- 
-
-</div>

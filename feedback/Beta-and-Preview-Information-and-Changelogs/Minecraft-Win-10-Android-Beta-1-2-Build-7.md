@@ -59,9 +59,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Creepers start hissing a bit earlier now
 - Slightly decreased Creeper explosion damage
 - Nether portal blocks are now breakable in Creative mode when the default game mode was Survival
-
-<div>
-
- 
-
-</div>

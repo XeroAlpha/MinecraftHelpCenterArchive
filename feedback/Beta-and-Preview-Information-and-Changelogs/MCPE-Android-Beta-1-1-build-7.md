@@ -71,9 +71,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Players no longer suffocate while riding horses underneath blocks that aren't actually suffocating the player.
 - Fixed a few bugs regarding horses suffocating & taking damage when they shouldn't be doing either.
 - You can again exit the Exit World menu with the escape key.
-
-<div>
-
- 
-
-</div>

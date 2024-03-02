@@ -81,9 +81,3 @@ If you find any bugs, be sure to [report them here!](https://bugs.mojang.com/sec
 - Items can no longer be duplicated using item frames
 - Chorus plants will now play the proper sound when they grow
 - Maps zoomed out on an anvil now work the same for all players
-
-<div>
-
- 
-
-</div>

@@ -137,9 +137,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - - Using 'detect' with '/execute' is now much more reliable
   - Teleporting a non-host player no longer causes entities riding that player to dismount
   - Teleporting entities to or from a ticking area will no longer fail to render or be non-interactive
-
-<div>
-
- 
-
-</div>

@@ -31,9 +31,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Updated resource and behavior packs are available on minecraft.net/addons
 - Various updates and fixes to the documentation can be found in the behavior pack
 - Polar Bears, Endermites, Vex, and Area Cloud Effect will now properly load with behavior packs
-
-<div>
-
- 
-
-</div>

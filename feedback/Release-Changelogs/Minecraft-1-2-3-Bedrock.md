@@ -148,9 +148,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed low-speed movement occurring after controller thumbstick is released (VR only)
 - When pressing tab to complete a command, the choices are now sorted correctly
 - Adding a 'damage_sensor' to an entity type no longer prevents '/kill' from working
-
-<div>
-
- 
-
-</div>

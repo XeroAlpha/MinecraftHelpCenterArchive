@@ -9,37 +9,9 @@ hash:
   fixed-bugs-in-1.19-release-candidate-1: fixed-bugs-in-119-release-candidate-1
 ---
 
-<div>
-
-<div class="container">
-
-<div class="row justify-content-center text-center">
-
-<div class="col-12 col-md-8 col-lg-6">
-
 # MINECRAFT 1.19 RELEASE CANDIDATE 1
 
 A Minecraft Java Release Candidate
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
-
-<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
-
-<div class="container article-paragraph text-generic">
-
-<div class="row justify-content-center">
-
-<div class="col-md-8 col-lg-6">
-
-<div class="end-with-block">
 
 We're now releasing the first (and hopefully only) release candidate for The Wild Update. If there are no major issues following this release, no further changes will be done before the full release. 
 
@@ -66,15 +38,3 @@ Report bugs here:
 Want to give feedback?
 
 - Head over to our [feedback website](https://aka.ms/snapshotfeedback) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

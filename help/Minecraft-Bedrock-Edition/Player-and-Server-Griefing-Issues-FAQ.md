@@ -40,7 +40,7 @@ Familiarize yourself with our [Minecraft Usage Guidelines](https://www.minecraf
 
 **Note: **If you are not certain if a server violates these guidelines, don’t send a report. 
 
-To learn more about servers and how to find a variety of safe options available to play on check out [this page](../Minecraft-Bedrock-Edition-Technical/Minecraft-Dedicated-and-Partner-Servers-FAQ.md).
+To learn more about servers and how to find a variety of safe options available to play on check out [this page](../Minecraft-Bedrock-Edition-Technical/How-to-Download-Dedicated-Minecraft-Server-Software.md).
 
 ## Where can I submit a report?  
 

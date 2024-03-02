@@ -77,9 +77,3 @@ A handful of features from Update Aquatic have been added to the beta via Experi
 - Torches can once again be placed in the same block occupied by a player
 - You now descend more slowly in water
 - Fixed world updates occasionally not rendering
-
-<div>
-
- 
-
-</div>

@@ -88,9 +88,3 @@ Cross-platform server jar:
 Report bugs here:
 
 - Minecraft issue tracker!
-
-<div>
-
- 
-
-</div>

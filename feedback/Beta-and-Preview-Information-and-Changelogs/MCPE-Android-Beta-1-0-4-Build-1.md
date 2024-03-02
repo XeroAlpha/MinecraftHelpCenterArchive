@@ -55,10 +55,4 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 - Fixed crashes when launching a world with Behavior Packs and Resource Packs that had errors in the pack manifests
 - Fixed the End Gateway in The End regenerating repeatedly 
 - ""The End… Again…"" achievement will now unlock properly 
-- Villagers no longer wander too far away from their Village 
-
-<div>
-
- 
-
-</div>
+- Villagers no longer wander too far away from their Village

@@ -11,12 +11,6 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004506952-Minecraft-1-4-3-iOS-Only
 ---
 
-<div style="direction: ltr; border-width: 100%;">
-
-<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.109in;">
-
-<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.109in;">
-
 This hotfix is available only on iOS devices and is still compatible with other devices running version 1.4.2  
   
 
@@ -30,9 +24,3 @@ In Kingdom Survival you can explore a huge kingdom of castles, houses and wizard
   
 
 Please enjoy the free map and thank you again for your patience!
-
-</div>
-
-</div>
-
-</div>

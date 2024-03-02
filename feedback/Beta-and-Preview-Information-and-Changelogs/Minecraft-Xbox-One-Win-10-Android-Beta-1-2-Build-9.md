@@ -70,9 +70,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 - Cake now has a stack size of 64
 - /execute…detect now has the right position offsets
-
-<div>
-
- 
-
-</div>

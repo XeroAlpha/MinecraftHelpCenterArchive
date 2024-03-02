@@ -140,8 +140,6 @@ The rattling tendrils of the Sculk Sensors had to come from somewhere, right? In
 - Both namespace and path can be omited. Missing field matches every value.
 - For example, adding pack with this section in pack.mcmeta after vanilla pack will hide all recipes and advancements defined by vanilla pack
 
-<div>
-
 ``` has-line-data
 "filter": {
     "block": [
@@ -156,8 +154,6 @@ The rattling tendrils of the Sculk Sensors had to come from somewhere, right? In
     ]
 }
 ```
-
-</div>
 
 ## WORLD PRESETS
 

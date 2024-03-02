@@ -25,7 +25,7 @@ hash:
   change-the-version-purchased: change-theversionpurchased
 ---
 
-**Note: Minecraft: Java Edition and Minecraft: Bedrock Edition are now sold as one bundle under the Minecraft: Java & Bedrock Edition for PC label, meaning this article is now outdated. For information on buying Minecraft, please [refer to this article](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**
+**Note: Minecraft: Java Edition and Minecraft: Bedrock Edition are now sold as one bundle under the Minecraft: Java & Bedrock Edition for PC label, meaning this article is now outdated. For information on buying Minecraft, please [refer to this article](../Minecraft-Bedrock-Edition-Technical/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md).**
 
 # In This Article: 
 

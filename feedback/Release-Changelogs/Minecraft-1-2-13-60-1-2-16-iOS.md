@@ -24,9 +24,3 @@ While the version numbers differ between iOS and other platforms, the game is st
 - Japanese text will now be entered into text fields correctly
 - Command Blocks no longer lose their data when closing a world
 - Previous Output for Command Blocks now updates correctly
-
-<div>
-
- 
-
-</div>

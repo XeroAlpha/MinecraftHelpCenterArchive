@@ -6,35 +6,7 @@ categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/5824877514509-Minecraft-Java-Edition-Snapshot-22w16a-22w16b
 ---
 
-<div>
-
-<div class="container">
-
-<div class="row justify-content-center text-center">
-
-<div class="col-12 col-md-8 col-lg-6">
-
 # MINECRAFT SNAPSHOT 22W16B  
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
-
-<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
-
-<div class="container article-paragraph text-generic">
-
-<div class="row justify-content-center">
-
-<div class="col-md-8 col-lg-6">
-
-<div class="end-with-block">
 
 A  chance to re-live the good old times appears in snapshot 22w16a with the ability to de-fragment a Disc – a new Music Disc, to be precise! This snapshot also comes with even more new music, tweaks to the Allay, and to top it all off some random gameplay events are slightly more predictable.
 
@@ -160,15 +132,3 @@ Report bugs here:
 Want to give feedback?
 
 - Head over to our [feedback website](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

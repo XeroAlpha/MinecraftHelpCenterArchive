@@ -36,13 +36,7 @@ Isn’t that exciting? Finally! Wait. What? We already have logs in the game? Bu
 
 - The game may crash when opening Settings on some Windows devices
   - Workaround: We have verified on multiple devices that enabling Full Language Packages, including the text-to-speech component, can resolve the crash
-
-  - <div class="p-rich_text_section">
-
-    **Steps on how to Install the Full Language Package**
-
-    </div>
-
+  - **Steps on how to Install the Full Language Package**
     1.  Launch Windows device
     2.  Sign in
     3.  Open Start Menu \> Settings
@@ -52,7 +46,6 @@ Isn’t that exciting? Finally! Wait. What? We already have logs in the game? Bu
     7.  Select your language of choice to install
     8.  Ensure that the “Text-to-speech” component is selected
     9.  Select “Install”
-
   - Please be sure to also run Windows Update to install the latest updates for your Windows 10/11 device, as this has helped with resolving the crash
 
 # **Experimental Features**

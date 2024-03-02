@@ -99,9 +99,3 @@ Bug Fixes:
 - Saddled pigs now drop the saddle when killed.
 - Dropped items no longer damage farmland (feedback from Android beta).
 - Inventory no longer lost when language is changed to or from Japanese or Traditional Chinese.
-
-<div>
-
- 
-
-</div>

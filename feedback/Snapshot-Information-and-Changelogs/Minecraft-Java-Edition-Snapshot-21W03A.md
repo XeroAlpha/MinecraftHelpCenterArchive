@@ -21,11 +21,7 @@ Today's Caves & Cliffs snapshot is particularly shiny! You could almost say it's
 
 ## GLOW SQUID
 
-<div bi-id="c1c1c1c1c1c1m2r3a3" bi-name="c1c1c1c1c1c1m2r3a3">
-
 Glow squids have been added, but do not yet spawn naturally. You can find spawn eggs for them in the creative inventory.
-
-</div>
 
 - Glow Squids are well-lit and can be seen from even far distances!
 - When killed, glow squids drop glow ink sacs.

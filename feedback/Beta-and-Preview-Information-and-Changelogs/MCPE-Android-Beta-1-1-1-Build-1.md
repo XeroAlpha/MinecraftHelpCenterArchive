@@ -17,9 +17,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - TNT explosions now apply the right amount of force to players
 - Mutated biomes will now decorate properly
 - Various fixes to Marketplace screens
-
-<div>
-
- 
-
-</div>

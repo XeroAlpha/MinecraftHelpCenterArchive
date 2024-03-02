@@ -25,7 +25,7 @@ hash:
   h_01HAMZYY2DG8T11KCN9F5P144J: what-platforms-does-this-apply-to
 ---
 
-**Note: Minecraft: Java & Bedrock Edition for PC is here! For more information on the product, please [refer to this FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).**
+**Note: Minecraft: Java & Bedrock Edition for PC is here! For more information on the product, please [refer to this FAQ](../Minecraft-Bedrock-Edition-Technical/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md).**
 
 ## What’s happening? 
 

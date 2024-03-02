@@ -64,9 +64,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Items replaced by a command are now visible instantly in the inventory
 - The ""Choose Skin"" text no longer flickers on the Skin Picker (Android only)
 - Adding a 'damage_sensor' to an entity type no longer prevents '/kill' from working
-
-<div>
-
- 
-
-</div>

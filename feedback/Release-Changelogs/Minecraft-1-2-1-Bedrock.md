@@ -108,9 +108,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed banners that were created before conversion not stacking with new banners
 - Fixed a crash when loading a converted world in the End after defeating the dragon
 - Firework stars no longer have the black firework star icon after conversion
-
-<div>
-
- 
-
-</div>

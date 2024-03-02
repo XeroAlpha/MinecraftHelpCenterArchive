@@ -22,11 +22,7 @@ Edit: We have published a fix for a crash issue in this Snapshot. If you are exp
 - Added native support for ARM64 machine architecture on Windows
   - To try this out, you need to manually specify a native Java Executable in the launcher
 
-<div>
-
  
-
-</div>
 
 ## SNIFFER
 

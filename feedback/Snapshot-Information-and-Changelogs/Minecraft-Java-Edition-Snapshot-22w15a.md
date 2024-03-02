@@ -6,37 +6,9 @@ categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/5824867258509-Minecraft-Java-Edition-Snapshot-22w15a
 ---
 
-<div>
-
-<div class="container">
-
-<div class="row justify-content-center text-center">
-
-<div class="col-12 col-md-8 col-lg-6">
-
 # MINECRAFT SNAPSHOT 22W15A
 
 A Minecraft Java Snapshot
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
-
-<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
-
-<div class="container article-paragraph text-generic">
-
-<div class="row justify-content-center">
-
-<div class="col-md-8 col-lg-6">
-
-<div class="end-with-block">
 
 Let me tell you a little story about hubris. Well, not so much a story as a lament. Because some of you have been thinking that the warden was a little too easy. I won’t name names, but I know you’re out there. Why else would we be adding ranged attacks for this already terrifying mob? Was the sniffing not enough? When will it end? Not today, apparently. 
 
@@ -172,15 +144,3 @@ Report bugs here:
 Want to give feedback?
 
 - Head over to our [feedback website](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

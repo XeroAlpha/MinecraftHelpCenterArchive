@@ -133,19 +133,8 @@ As always, we appreciate all your help and input, please report any new bugs atÂ
 **Graphical**
 
 - Player textures and UI elements should no longer turn pink after playing for an extended period time on highly populated servers ([MCPE-105487](https://bugs.mojang.com/browse/MCPE-105487))
-
 - Fixed an issue where certain water textures with waterlogged blocks displayed the wrong texture ([MCPE-156281](https://bugs.mojang.com/browse/MCPE-156281))
-
-- <div>
-
-  <div>
-
-  Fixed an issue with flowing Lava and Water textures not animating on some iOS devices
-
-  </div>
-
-  </div>
-
+- Fixed an issue with flowing Lava and Water textures not animating on some iOS devices
 - Sky in The End dimension will no longer look like static upon entry while it is raining in the Overworld ([MCPE-148843](https://bugs.mojang.com/browse/MCPE-148843))  
     
 
@@ -181,32 +170,11 @@ As always, we appreciate all your help and input, please report any new bugs atÂ
 **Commands**
 
 - Added a paste button to the Command Block screen
-
 - Added a waterlog field to theÂ */structure* command and the load tab of Structure Blocks to allow players to properly waterlog a structure when it's being placed under water
-
 - The "/execute at" command now properly executes filters from the specified 'at' position ([MCPE-156283](https://bugs.mojang.com/browse/MCPE-156283))
-
 - The "/execute if block" command now displays integer values for block positions ([MCPE-156285](https://bugs.mojang.com/browse/MCPE-156285))
-
-- <div>
-
-  <div>
-
-  Fixed a bug where a "%" was prepended to player names in the chat output of "/scoreboard players reset" ([MCPE-151389](https://bugs.mojang.com/browse/MCPE-151389))
-
-  </div>
-
-  </div>
-
-- <div>
-
-  <div>
-
-  Attempting to kill a player in Creative Mode using the "/kill" command now displays a message informing the player that it cannot be done ([MCPE-16732](https://bugs.mojang.com/browse/MCPE-16732))
-
-  </div>
-
-  </div>
+- Fixed a bug where a "%" was prepended to player names in the chat output of "/scoreboard players reset" ([MCPE-151389](https://bugs.mojang.com/browse/MCPE-151389))
+- Attempting to kill a player in Creative Mode using the "/kill" command now displays a message informing the player that it cannot be done ([MCPE-16732](https://bugs.mojang.com/browse/MCPE-16732))
 
 **GameTest Framework**
 

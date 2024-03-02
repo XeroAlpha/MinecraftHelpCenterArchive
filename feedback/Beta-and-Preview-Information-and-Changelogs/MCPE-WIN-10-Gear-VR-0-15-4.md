@@ -78,9 +78,3 @@ Since now everyone else is also getting the 0.15.3 update that only went out for
 - Fixed position of zombie jockeys
 - Fixed crash when shooting an arrow from a dispenser at a TNT minecart
 - Fixed assorted issues causing games to crash
-
-<div>
-
- 
-
-</div>

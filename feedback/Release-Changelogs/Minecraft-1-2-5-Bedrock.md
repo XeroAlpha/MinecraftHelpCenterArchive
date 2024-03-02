@@ -202,9 +202,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   - Mobs can now be rotated using the 'xRot' and 'yRot' arguments when using teleport commands
   - Names of players outside of render distance will now appear in auto-complete when typing commands
   - Fixed an incorrect error message when the '/replaceitem' command has an out of range value
-
-<div>
-
- 
-
-</div>

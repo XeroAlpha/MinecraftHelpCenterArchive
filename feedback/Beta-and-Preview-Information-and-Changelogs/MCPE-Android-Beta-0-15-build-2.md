@@ -40,9 +40,3 @@ Click here to sign up to the beta. Click here to give us feedback.
 - Bug fixes for sticky pistons
 - You can chat while sleeping in a bed again!
 - Fixed graphics glitches while riding a horse.
-
-<div>
-
- 
-
-</div>

@@ -151,12 +151,7 @@ Content logs now show in dedicated server console window with a configurable log
 
 **Add-Ons and Script Engine**
 
-- <div class="p-rich_text_section">
-
-  Added PlacementPosition (“minecraft:placement_position”) BlockTrait block trait
-
-  </div>
-
+- Added PlacementPosition (“minecraft:placement_position”) BlockTrait block trait
   - Adds states “minecraft:block_face” and/or “minecraft: vertical_half”
   - “minecraft:block_face” is a six value string state ("down", "up", "north", "south", "east", "west") that contains info on which block face the player clicked on when the block was placed
   - “minecraft:vertical_half” is a 2 value string state ("bottom", "top") with info on whether the block was placed in the lower or upper half of the block position

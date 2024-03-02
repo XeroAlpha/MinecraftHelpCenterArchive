@@ -76,9 +76,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - The paper doll on the inventory screen no longer flips while using Elytra wings
 - Naturally spawned villagers will now have the full range of professions
 - Using Carrot on a Stick to break blocks will no longer decrease its durability
-
-<div>
-
- 
-
-</div>

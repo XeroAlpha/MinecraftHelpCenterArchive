@@ -532,9 +532,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 - Fixed an issue with the size of TNT explosions changing
 - Fixed mob spawning issues and cleared the map of the wrong mobs
-
-<div>
-
- 
-
-</div>

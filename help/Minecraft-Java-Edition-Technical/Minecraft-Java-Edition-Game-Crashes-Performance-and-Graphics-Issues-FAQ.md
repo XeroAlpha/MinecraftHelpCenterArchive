@@ -39,7 +39,7 @@ hash:
   checking-the-allotted-ram-with-your-deviceserver: checking-theallotted-ram-with-yourdeviceserver
 ---
 
-*This article addresses Minecraft: Java Edition technical issues only. See [Minecraft technical issues](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Game-Crashes-Performance-and-Graphics-Issues-FAQ.md) articles for help.* 
+*This article addresses Minecraft: Java Edition technical issues only. See [Minecraft technical issues](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Solutions-to-Graphic-Issues.md) articles for help.* 
 
 This article includes everything you need to know about Minecraft: Java Edition game crashes, graphical issues, and performance issues. 
 

@@ -19,11 +19,7 @@ There's an important note about this snapshot for those of you with older comput
 
 ## LUSH CAVES BIOME
 
-<div bi-id="c1c1c1c1c1c1m2r3a3" bi-name="c1c1c1c1c1c1m2r3a3">
-
 The Lush Caves underground biome now exists for use in single-biome worlds. It does not yet generate in other world types.
-
-</div>
 
 - Moss covers the floors and ceilings
 - Spore Blossoms grow from the ceiling and drip particles

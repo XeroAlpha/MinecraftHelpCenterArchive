@@ -187,9 +187,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed the throwing rate of snowballs to be consistent with the host of a game session
 - Command blocks will now show all lines in the Previous Output field
 - Fixed players having no sound when joining an Xbox Live game
-
-<div>
-
- 
-
-</div>

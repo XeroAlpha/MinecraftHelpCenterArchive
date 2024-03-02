@@ -109,9 +109,3 @@ Want to know exactly what this command does? Let's take a look!
 **Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
 Cross-platform server jar:  
 Minecraft server jar
-
-<div>
-
- 
-
-</div>

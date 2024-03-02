@@ -14,9 +14,3 @@ Please note that due a glitch in this release, it is possible for beta testers t
 - Chorus plants will now play the proper sound when they grow
 - Maps zoomed out on an anvil now work the same for all players 
 - Fixed a crash when attempting to place any irrelevant item in Horse Armor slot using '/replaceitem' command
-
-<div>
-
- 
-
-</div>

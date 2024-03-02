@@ -56,9 +56,3 @@ For those of you on iOS, we're also including the changelog for 0.15.1 below as 
 - Fixed some issues with pistons not properly pushing or moving items.
 - ""Leave bed"" button now working on touch controls.
 - Fixed some login issues on Android.
-
-<div>
-
- 
-
-</div>

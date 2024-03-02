@@ -18,9 +18,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 - Nametags should again work as expected
 - Fixed a crash when connecting to servers
-
-<div>
-
- 
-
-</div>

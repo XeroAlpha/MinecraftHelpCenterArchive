@@ -33,9 +33,3 @@ Please remember that this beta is for Android only. The bug fixes and changes ma
 - Fixed an issue where realms members that were not your friends were not being displayed
 - Bats should spawn more often!
 - Fixed an issue with End Gateway textures on mobile devices
-
-<div>
-
- 
-
-</div>

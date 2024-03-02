@@ -123,16 +123,4 @@ Update this week:
 ## **Graphical**
 
 - Fixed an issue causing caves to appear illuminated by the sun (aka “Light Leaking”) in the Deferred Technical Preview
-- Volumetric fog is no longer affected by sunlight in enclosed spaces in the Deferred Technical Preview 
-
- 
-
-<div style="box-sizing: border-box; color: #000000; font-family: ' Segoe UI VSS (Regular)' , ' Segoe UI' , -apple-system, BlinkMacSystemFont, Roboto, ' Helvetica Neue' , Helvetica, Ubuntu, Arial, sans-serif, ' Apple Color Emoji' , ' Segoe UI Emoji' , ' Segoe UI Symbol' font-size:14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-
-<div style="box-sizing: border-box;">
-
- 
-
-</div>
-
-</div>
+- Volumetric fog is no longer affected by sunlight in enclosed spaces in the Deferred Technical Preview

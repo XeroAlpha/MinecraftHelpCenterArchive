@@ -91,9 +91,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - After a world with a resource pack is uploaded to a Realm, the resource pack is again displayed
 - Pressing the play button in the Edit World screen after applying Resource or Behavior packs to a previously vanilla world no longer closes the Edit World screen & returns to World Select instead of loading the game
 - Fixed the screen getting cut-off on smaller screens for the Redstone Mansion store description
-
-<div>
-
- 
-
-</div>

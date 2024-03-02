@@ -68,9 +68,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed overlap issues with the Players Permission dropdown menu
 - Fixed incorrect controller tooltips appearing on several menu screens
 - Fixed Old worlds crashing and taking too long to load
-
-<div>
-
- 
-
-</div>

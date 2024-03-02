@@ -47,9 +47,3 @@ If you find any bugs, be sure to [report them here!](https://bugs.mojang.com/sec
 - End Portal blocks are no longer solid and have the correct particles
 - Fixed a crash when attempting to join a full multiplayer game
 - Fixed players having no sound when joining an Xbox Live game
-
-<div>
-
- 
-
-</div>

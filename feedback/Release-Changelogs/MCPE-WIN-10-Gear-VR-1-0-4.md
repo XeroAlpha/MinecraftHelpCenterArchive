@@ -92,9 +92,3 @@ Click here to give us feedback & tell us what you think about the update.
 - Middle mouse clicking on a leaf block will always give you the right type of leaf now
 - Various texture fixes
 - Armor will render properly in worlds that no longer have resource packs applied
-
-<div>
-
- 
-
-</div>

@@ -51,11 +51,7 @@ Enjoy!
 
 ## MULTIPLAYER SECURE CHAT SIGNING
 
-<div>
-
 This is the first step in a process to provide more security and player safety features for in-game chat. We'd love to hear your thoughts, but keep in mind that many features such as server-driven styling of chat messages are still missing.
-
-</div>
 
 - Chat messages between players are now cryptographically signed
 - Players are given a Mojang provided key-pair on startup

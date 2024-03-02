@@ -22,9 +22,3 @@ Bug Fixes:
 
 - Fixed the book on the Enchantro skin's back.
 - Fixed the textures for the clock, compass, and lily pad in the Plastic and City texture packs.
-
-<div>
-
- 
-
-</div>

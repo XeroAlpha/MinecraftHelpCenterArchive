@@ -33,9 +33,3 @@ Bug Fixes:
 - Mouse clicks no longer cause keyboard input to stop. (VR only)
 - Fixed issue where Minecraft would not shut down completely when launching another app in the Oculus store. (Win 10 Oculus only)
 - Added in bug fixes for VR that were previously in the 0.16 betas (click here for 0.16 build 1 changelog, click here for 0.16 build 3 changelog.)
-
-<div>
-
- 
-
-</div>

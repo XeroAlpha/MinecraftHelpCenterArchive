@@ -15,11 +15,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004125832-MCPE-WIN-10-
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.  
   
 
-<div>
-
  
-
-</div>
 
 New Features:
 
@@ -74,9 +70,3 @@ Bug Fixes:
 - You can again open a crafting table multiple times on mobile (MCPE only).
 - Horses no longer lose their equipment when importing a 0.15.9 world.
 - Fixed a crash caused by fire arrows.
-
-<div>
-
- 
-
-</div>

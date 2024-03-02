@@ -90,9 +90,3 @@ Bug Fixes:
 - You can use the ""C"" button on your keyboard to switch between television mode & immersive mode.
 - Fixed some localization fonts (all editions).
 - Fixed a minor crash issue on Gear VR edition.
-
-<div>
-
- 
-
-</div>

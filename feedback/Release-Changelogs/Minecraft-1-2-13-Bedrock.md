@@ -362,9 +362,3 @@ Updated templates for 1.2.13 with new assets and behaviors can be downloaded at 
 - 'behavior.hurt_by_target' no longer triggers if an entity is not actually hurt by its target
 - All parameters of 'minecraft:breathable' now function properly
 - Name Tags can now be always visible if they are set to do so through a Behavior Pack
-
-<div>
-
- 
-
-</div>

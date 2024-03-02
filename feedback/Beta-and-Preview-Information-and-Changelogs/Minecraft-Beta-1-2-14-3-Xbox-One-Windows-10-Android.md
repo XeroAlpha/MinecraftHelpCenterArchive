@@ -101,9 +101,3 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 - Snow covered leaves no longer appear red when Smooth Lighting is disabled
 - Commands in chains of Command Blocks will now run sequentially when other chains are running nearby
 - Fixed the 'Disconnected from server' prompt being too large on Gear VR
-
-<div>
-
- 
-
-</div>

@@ -43,9 +43,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - **Graphical / Audio**
 
 - - Enchanted items no longer flicker and appear correctly
-
-<div>
-
- 
-
-</div>

@@ -15,23 +15,11 @@ Also, we advise all of our beta players to make back-ups of their saved games be
 
 **Tweaks:**
 
-<div>
-
-<div>
-
 - Adjusted the levitation amplifier parameters when using the '/effect' command
-
-</div>
-
-</div>
 
  
 
 **Bug Fixes:**
-
-<div>
-
-<div>
 
 - Saved worlds, previously added servers & any installed Add-Ons now appear again
 - Villagers no longer pick up your items when you die
@@ -61,15 +49,3 @@ Also, we advise all of our beta players to make back-ups of their saved games be
 - Fixed the spawn time of Mob Spawners to be randomized instead of constant
 - Mob Spawners will no longer always spawn the maximum number of mobs
 - Items can no longer be duplicated using item frames
-
-</div>
-
-</div>
-
- 
-
-<div>
-
- 
-
-</div>

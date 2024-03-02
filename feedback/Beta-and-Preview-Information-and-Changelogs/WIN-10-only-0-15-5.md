@@ -14,9 +14,3 @@ Minecraft: Windows 10 Edition Beta release only
   
 
 - Minor bug fix
-
-<div>
-
- 
-
-</div>

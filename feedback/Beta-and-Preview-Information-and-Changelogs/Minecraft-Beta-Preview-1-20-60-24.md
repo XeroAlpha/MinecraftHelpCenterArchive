@@ -107,8 +107,6 @@ Here’s a list of what’s new in the latest Minecraft Preview and Beta. As alw
 
 - Renamed "Scute" to "Turtle Scute"
 
-<div>
-
 ## Mobs
 
 - Villagers who were mistakenly assigned to the same bed or workstation as others will now actively seek out a new bed or workstation ([MCPE-176528](https://bugs.mojang.com/browse/MCPE-176528)) 
@@ -179,15 +177,7 @@ Updates this week:
 
 ## Add-Ons and Script Engine
 
-</div>
-
-<div>
-
 - The block component "minecraft:random_ticking" is now supported again
-
-</div>
-
-<div>
 
 ## API
 
@@ -214,5 +204,3 @@ Updates this week:
 
 - Added *ScriptBiomeTypes* and *ScriptBiomeType* to allow Scripting API to enumerate the BiomeRegistry.
 - Added a *findClosestBiome* function to *Dimension* to find the closest biome of a specified type, to a given position in the world.
-
-</div>

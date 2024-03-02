@@ -20,9 +20,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 - Fixed several crashes and improved stability
 - The game will no longer crash when blocks are placed on the edge of old worlds
-
-<div>
-
- 
-
-</div>

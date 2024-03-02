@@ -26,12 +26,8 @@ Happy mining!
 - The locate command now uses a namespaced id parameter
 - Added command: placefeature
 
-<div>
-
   
 placefeature
-
-</div>
 
 New command that places a configured feature at a given location. Syntax: placefeature \<id\> \[pos\]
 

@@ -720,11 +720,7 @@ Cross-platform server jar:
 
 - [Minecraft server jar](https://launcher.mojang.com/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar)
 
-<div bi-id="c1c1c1c1c1c1m2r3a3" bi-name="c1c1c1c1c1c1m2r3a3">
-
 The Caves & Cliffs: Part II Preview:
-
-</div>
 
 - If you want to check out a few of the things that are upcoming in part II, you can [download this data pack](https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip)
 

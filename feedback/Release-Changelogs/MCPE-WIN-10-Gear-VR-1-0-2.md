@@ -41,9 +41,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed the time it takes for chickens to lay eggs
 - Mobs can no longer be hit after they die
 - Fixed an issue when '.mctemplate' and '.mcaddon' files were not associated with Minecraft during import (iOS only)
-
-<div>
-
- 
-
-</div>

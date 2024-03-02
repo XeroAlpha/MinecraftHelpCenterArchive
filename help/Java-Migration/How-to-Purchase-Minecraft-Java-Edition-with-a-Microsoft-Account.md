@@ -23,7 +23,7 @@ hash:
   h_01HAQMM7215SJYA02EJ53D9YQX: can-i-have-multiple-minecraft-javaeditionaccounts-linked-to-one-microsoft-account
 ---
 
-*Note: Minecraft: Java Edition is now part of the Minecraft: Java & Bedrock Edition for PC bundle. For more information on purchasing Minecraft, please follow [this link](../Minecraft-Bedrock-Edition-Technical/Minecraft-Java-Bedrock-Edition-for-PC-FAQ.md).*
+*Note: Minecraft: Java Edition is now part of the Minecraft: Java & Bedrock Edition for PC bundle. For more information on purchasing Minecraft, please follow [this link](../Minecraft-Bedrock-Edition-Technical/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md).*
 
 Minecraft: Java Edition is aligning with the rest of the Minecraft family and will share a common sign-up process. We can get you started with your purchase. To make your purchase, you’ll need a Microsoft account. [Sign up for your free Microsoft account here.](https://account.microsoft.com/account/Account?refd=support.microsoft.com&ru=https%3A%2F%2Faccount.microsoft.com%2F%3Frefd%3Dsupport.microsoft.com&destrt=home-index)
 

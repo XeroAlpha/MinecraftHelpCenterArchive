@@ -82,9 +82,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Slightly increased the spawn rate of Ocelots
 - Players without block breaking permissions can no longer break crops by jumping
 - Fixed an incorrect error message when the '/replaceitem' command has an out of range value
-
-<div>
-
- 
-
-</div>

@@ -23,9 +23,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **Bug Fixes:**
 
 - Fixed a crash that occurred when playing the Fallout Mash-up world
-
-<div>
-
- 
-
-</div>

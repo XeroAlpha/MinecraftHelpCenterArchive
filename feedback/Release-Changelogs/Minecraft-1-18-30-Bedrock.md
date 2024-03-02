@@ -187,16 +187,7 @@ For more information, please see the article about enabling experimental feature
 
 **Known Issues:**
 
-- <div>
-
-  <div>
-
-  Teleporting entities into unloaded chunks removes them from the world. This will be fixed in an upcoming update
-
-  </div>
-
-  </div>
-
+- Teleporting entities into unloaded chunks removes them from the world. This will be fixed in an upcoming update
 - Players are unable to invert the camera Y-axis when playing with touch controls. This will be fixed in an upcoming update  
     
 

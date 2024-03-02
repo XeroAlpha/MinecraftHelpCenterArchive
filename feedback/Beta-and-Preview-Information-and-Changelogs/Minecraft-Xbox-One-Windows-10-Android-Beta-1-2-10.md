@@ -189,9 +189,3 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   - Players no longer received unknown map items in the offhand slot when using '/replaceitem'
   - The screen will no longer shake when standing on Magma blocks after applying Regeneration effect of 255 or more
   - Banners placed with '/fill' command are no longer random colors on Realms
-
-<div>
-
- 
-
-</div>

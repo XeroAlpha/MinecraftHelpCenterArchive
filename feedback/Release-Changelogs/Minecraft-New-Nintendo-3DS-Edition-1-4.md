@@ -17,21 +17,13 @@ Click here to give us feedback & tell us what you think about the update.
 
 **New Features**
 
-<div>
-
  
-
-</div>
 
 - Added support for 2 player multiplayer using Local Play
 
 **Bug Fixes**
 
-<div>
-
  
-
-</div>
 
 - Improved stability and performance
 - Numerous bug fixes from previous builds
