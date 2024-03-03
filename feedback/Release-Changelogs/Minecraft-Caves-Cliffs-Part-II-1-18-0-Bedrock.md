@@ -85,7 +85,7 @@ Check out the [FAQ article](https://aka.ms/CCFeaturesFAQ) for a deep dive on the
   - Sculk Catalyst
   - Sculk Shrieker
   - Sculk Sensor
-- Be sure to backup your worlds before enabling experimental toggles and see our [updated FAQ](../../help/Caves-and-Cliffs-Update/Minecraft-Caves-Cliffs-Update-FAQ.md) on how to enable Experiments
+- Be sure to backup your worlds before enabling experimental toggles and see our [updated FAQ](https://help.minecraft.net/hc/en-us/articles/360059400852-Minecraft-Caves-Cliffs-Update-FAQ) on how to enable Experiments
 
 **"Old" World Type**
 

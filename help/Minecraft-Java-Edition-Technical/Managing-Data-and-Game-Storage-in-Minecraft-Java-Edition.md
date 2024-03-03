@@ -63,7 +63,7 @@ Resource packs, textures, skins, and mods are also stored in your local storage 
 
 Downloaded content and add-ons must be stored locally for fast loading. 
 
-\*As of the Caves & Cliffs Part II update, players loading up an existing world after updating to version 1.18 will be prompted to create a backup before playing. A backup is recommended in the event that you would like to revert back to pre-update world generation features for that world. For more information about Caves & Cliffs Part II, read the dedicated [FAQ.](../Caves-and-Cliffs-Update/Caves-Cliffs-Part-II-FAQ.md)
+\*As of the Caves & Cliffs Part II update, players loading up an existing world after updating to version 1.18 will be prompted to create a backup before playing. A backup is recommended in the event that you would like to revert back to pre-update world generation features for that world. For more information about Caves & Cliffs Part II, read the dedicated [FAQ.](https://help.minecraft.net/hc/en-us/articles/4415053738893)
 
 ## Where are Minecraft files stored? 
 
