@@ -1,7 +1,7 @@
 ---
-title: How to link your Microsoft account to Minecraft on Nintendo Switch
+title: How to Link Your Microsoft Account to Minecraft on Nintendo Switch
 date: 2021-09-09T22:41:11Z
-updated: 2024-03-04T18:15:49Z
+updated: 2024-03-04T18:45:21Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -10,7 +10,7 @@ tags:
   - category_account_support
   - subject_sign_in_questions
   - section_12617893243277
-link: https://help.minecraft.net/hc/en-us/articles/4408894129933-How-to-link-your-Microsoft-account-to-Minecraft-on-Nintendo-Switch
+link: https://help.minecraft.net/hc/en-us/articles/4408894129933-How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch
 ---
 
 If you want access to crossplay in Minecraft on your Nintendo Switch, you need to link a Microsoft account. See [How to create a new Microsoft account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf#:~:text=How%20to%20Set%20Up%20a%20Microsoft%20Account%201,%2C%20and%20then%20follow%20the%20instructions.%20See%20More.) if you do not have one yet. If you have a Microsoft account ready to go, follow the below steps.

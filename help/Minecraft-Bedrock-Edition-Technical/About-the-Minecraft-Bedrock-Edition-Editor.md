@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Bedrock Edition Editor FAQ "
+title: "About the Minecraft: Bedrock Edition Editor"
 date: 2023-03-06T20:06:29Z
-updated: 2023-07-12T20:08:50Z
+updated: 2024-03-04T18:41:50Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -11,8 +11,10 @@ tags:
   - platform_windows_10/11
   - section_12617893243277
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/13766868873613-About-the-Minecraft-Bedrock-Edition-Editor
 hash:
+  h_01HR5C9PS9FNCQJJNK8E7P881T: what-is-the-minecraft-bedrock-edition-editor
+  h_01HR5C9PS96CMMJGP4GZKK250N: in-this-article
   h_01GV11RPT4W5DPM5X0S11DNG44: what-platforms-is-minecraft-bedrock-edition-editor-available-on
   h_01GV11RWEFFQZPCB4ZP5FSWG76: how-do-i-install-minecraft-editor
   h_01GV11S1RDBAM4FB4GYBP9Y2R6: is-minecraft-editor-available-in-the-minecraft-launcher
