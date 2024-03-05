@@ -15,6 +15,9 @@ function createPaginationOptions(fieldName) {
     };
 }
 
+/**
+ * https://developer.zendesk.com/api-reference/help_center/help-center-api/sections/#list-sections
+ */
 export function listSections(options) {
     const url = `https://${options.host}.zendesk.com/api/v2/help_center${options.lang ? `/${options.lang}` : ''}/sections`;
     return got.paginate(url, {
@@ -28,6 +31,9 @@ export function listSections(options) {
     });
 }
 
+/**
+ * https://developer.zendesk.com/api-reference/help_center/help-center-api/categories/#list-categories
+ */
 export function listCategories(options) {
     const url = `https://${options.host}.zendesk.com/api/v2/help_center${options.lang ? `/${options.lang}` : ''}/categories`;
     return got.paginate(url, {
@@ -41,6 +47,9 @@ export function listCategories(options) {
     });
 }
 
+/**
+ * https://developer.zendesk.com/api-reference/help_center/help-center-api/articles/#list-articles
+ */
 export function listArticles(options) {
     let url;
     const urlPrefixWithLang = `https://${options.host}.zendesk.com/api/v2/help_center${options.lang ? `/${options.lang}` : ''}`;
@@ -68,6 +77,9 @@ export function listArticles(options) {
     });
 }
 
+/**
+ * https://developer.zendesk.com/api-reference/help_center/help-center-api/articles/#show-article
+ */
 export function showArticle(options) {
     const url = `https://${options.host}.zendesk.com/api/v2/help_center${options.lang ? `/${options.lang}` : ''}/articles/${options.articleId}`;
     return got(url).json();

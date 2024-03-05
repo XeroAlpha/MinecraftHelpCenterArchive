@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync, utimesSync, existsSync, readFileSync, readdirSync, rmSync, rmdirSync } from 'fs';
+import { writeFileSync, mkdirSync, utimesSync, readFileSync, readdirSync, rmSync, rmdirSync } from 'fs';
 import { resolve as resolvePath, join as joinPath, relative as relativePath, sep as pathSep } from 'path';
 import { sep as pathSepPosix } from 'path/posix';
 import { fileURLToPath } from 'url';
@@ -97,6 +97,16 @@ class LinkDatabase {
         return this.index.find((e) => e.url === simplifiedUrl);
     }
 
+    getByPath(path) {
+        return this.index.find((e) => e.path === path);
+    }
+
+    isConflict(path, url) {
+        const simplifiedUrl = simplifyArticleUrl(url);
+        const file = this.getByPath(path);
+        return file !== undefined && file.url !== simplifiedUrl;
+    }
+
     resolveLink(url, hash) {
         const found = this.getByUrl(url);
         if (found) {
@@ -148,7 +158,13 @@ async function listArticleData({ zendeskOptions, database, incremental, baseUrlR
     return result;
 }
 
-async function analyzeArticleNetwork({ url, section, article }, database, basePath) {
+function generatePath({ section, article }, basePath, deduplicate) {
+    const suffix = deduplicate ? `.${article.id}` : '';
+    const pathRelative = joinPath(section ? titleToId(section.name) : 'others', `${titleToId(article.name)}${suffix}.md`);
+    return resolvePath(basePath, pathRelative);
+}
+
+async function analyzeArticleNetwork({ url, section, article }) {
     const { json, hashMap } = await analyzeHtml(article.body);
     const frontmatter = {
         title: article.title,
@@ -159,10 +175,7 @@ async function analyzeArticleNetwork({ url, section, article }, database, basePa
         link: url,
         hash: Object.keys(hashMap).length > 0 ? hashMap : undefined
     };
-    const pathRelative = joinPath(section ? titleToId(section.name) : 'others', `${titleToId(article.name)}.md`);
-    const path = resolvePath(basePath, pathRelative);
-    database.addLink(path, frontmatter);
-    return { path, json, frontmatter };
+    return { json, frontmatter };
 }
 
 async function saveArticle({ url, article }, { path, json, frontmatter }, database) {
@@ -204,6 +217,19 @@ async function saveArticle({ url, article }, { path, json, frontmatter }, databa
     utimesSync(path, new Date(article.created_at), new Date(article.updated_at));
 }
 
+function getDuplicatedItems(items, getKey) {
+    const map = new Map();
+    items.forEach((e) => {
+        const key = getKey(e);
+        if (map.has(key)) {
+            map.get(key).push(e);
+        } else {
+            map.set(key, [e]);
+        }
+    });
+    return [...map.values()].filter((e) => e.length > 1).flat(1);
+}
+
 async function main(fullUpdate) {
     const incremental = fullUpdate !== 'full';
     const optionList = [
@@ -231,13 +257,43 @@ async function main(fullUpdate) {
         const { zendeskOptions, basePath, baseUrlRewrite } = optionList[i];
         const articleDataList = await listArticleData({ zendeskOptions, database, incremental, baseUrlRewrite });
         const articleAnalysisResults = await Parallel.map(articleDataList, async (e) => {
-            const localCopyPath = database.getByUrl(e.url)?.path;
-            const articleAnalysisResult = await analyzeArticleNetwork(e, database, basePath);
-            notVisited.delete(articleAnalysisResult.path);
-            return [e, localCopyPath, articleAnalysisResult];
+            const articleAnalysisResult = await analyzeArticleNetwork(e);
+            const localPath = database.getByUrl(e.url)?.path;
+            let path;
+            if (incremental) {
+                path = localPath ?? generatePath(e, basePath);
+                if (database.isConflict(path, e.url)) {
+                    path = generatePath(e, basePath, true);
+                }
+            } else {
+                path = generatePath(e, basePath);
+            }
+            articleAnalysisResult.localPath = localPath;
+            articleAnalysisResult.path = path;
+            return [e, articleAnalysisResult];
+        });
+        const duplicatedList = getDuplicatedItems(articleAnalysisResults, ([, { path }]) => path);
+        duplicatedList.forEach(([articleData, articleAnalysisResult]) => {
+            articleAnalysisResult.path = generatePath(articleData, basePath, true);
         });
         analysisData.push(...articleAnalysisResults);
     }
+    analysisData.forEach(([, articleAnalysisResult]) => {
+        const { path, localPath, frontmatter } = articleAnalysisResult;
+        const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
+        database.addLink(path, frontmatter);
+        if (localPath) {
+            if (localPath !== path) {
+                process.stdout.write(`[R]${pathRelative}\n`);
+                rmSync(localPath, { force: true }); // incremental only
+            } else {
+                process.stdout.write(`[M]${pathRelative}\n`);
+            }
+        } else {
+            process.stdout.write(`[A]${pathRelative}\n`);
+        }
+        notVisited.delete(path);
+    });
     if (!incremental && notVisited.size > 0) {
         notVisited.forEach((path) => {
             const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
@@ -247,21 +303,8 @@ async function main(fullUpdate) {
         });
     }
     const pendingJobs = [];
-    for (const [articleData, localCopyPath, articleAnalysisResult] of analysisData) {
+    for (const [articleData, articleAnalysisResult] of analysisData) {
         pendingJobs.push(Parallel.run(async () => {
-            const { path } = articleAnalysisResult;
-            const pathRelative = relativePath(projectRoot, path).replaceAll(pathSep, pathSepPosix);
-            if (localCopyPath) {
-                if (localCopyPath !== path) {
-                    process.stdout.write(`[R]${pathRelative}\n`);
-                    rmSync(localCopyPath, { force: true }); // incremental only
-                } else {
-                    process.stdout.write(`[M]${pathRelative}\n`);
-                }
-            } else {
-                process.stdout.write(`[A]${pathRelative}\n`);
-            }
-            notVisited.delete(path);
             await saveArticle(articleData, articleAnalysisResult, database);
         }));
     }
