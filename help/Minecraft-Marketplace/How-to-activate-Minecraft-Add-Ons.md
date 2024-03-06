@@ -1,7 +1,7 @@
 ---
 title: How to activate Minecraft Add-Ons
 date: 2024-02-14T17:47:55Z
-updated: 2024-03-05T22:46:39Z
+updated: 2024-03-06T16:15:27Z
 categories: Minecraft Marketplace
 tags:
   - popular
@@ -15,7 +15,7 @@ hash:
   h_01HPMVQRP8EKE6K02J82HTPRJN: related-articles
 ---
 
-Add-Ons are available through the Marketplace or PlayStation Store in Minecraft: Bedrock Edition, and are intended only for worlds hosted on Realms.
+Add-Ons are available through the Marketplace or PlayStation Store in Minecraft: Bedrock Edition.
 
 ## How to install an Add-On with a new world 
 
