@@ -1,7 +1,7 @@
 ---
 title: Get Help with Minecraft Add-Ons
 date: 2024-02-14T17:59:52Z
-updated: 2024-02-29T17:10:32Z
+updated: 2024-03-05T22:45:05Z
 categories: Minecraft Marketplace
 tags:
   - section_24069904400141
@@ -11,6 +11,7 @@ hash:
   h_01HPMW2G9TMEAQ18R46X5CP8AG: making-a-backup
   h_01HPMW2G9T0ZMW4TJCKHXR30VE: finding-a-missing-add-on
   h_01HQ6CT5S4SBD0V1BAY5C14RX5: add-on-wont-finish-downloading
+  h_01HR8CJCR6DX30GM5FRTPCJ0GP: missing-dependency-error
   h_01HPMW9T5CVT678T82748WMNMT: sideload-add-ons-from-third-party-websites-or-apps
   h_01HPMW2G9TNNWZGE03E1BV416A: stacking-multiple-add-ons
   h_01HPMW2G9TW2T91JHJHBYDGYWP: using-add-ons-on-other-content-from-the-marketplace
@@ -44,6 +45,16 @@ Start by ensuring you’ve downloaded the Add-on to your system.
 1.  Navigate to Settings and select **Storage**.
 2.  Click **Clear Marketplace Cache**.
 3.  Restart Minecraft and retry your download.
+
+## Missing dependency error
+
+Some Add-Ons require both Resource and Behavior packs. Ensure both are enabled and restart your game.
+
+1.  Open Minecraft and click the **Play** button.
+2.  Click the pencil icon ![PencilIcon.png](https://minecrafthelp.zendesk.com/hc/article_attachments/24728932754957) to edit the world you’d like to activate an Add-On for.
+3.  Select the **Resource Packs** tab. Currently downloaded packs will show in My Packs.
+4.  Once you’ve identified the Add-On you’d like to activate, hit the **Activate** button. This will move that Add-On to the Active category. 
+5.  Repeat this for **Behavior Packs**.
 
 ## Sideload Add-Ons from third-party websites or apps
 
