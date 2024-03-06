@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.80.21
 date: 2024-03-05T15:55:21Z
-updated: 2024-03-06T16:38:28Z
+updated: 2024-03-06T18:36:17Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24711734982925-Minecraft-Beta-Preview-1-20-80-21
 hash:
@@ -54,8 +54,6 @@ The variant is determined by the biome they spawn in:
 **Updated ‘Servers Tab’ Experience in Bedrock Preview**
 
 The latest Bedrock Preview revamps the Server Tab in the Play Screen presenting Featured Servers and other servers you add. You will get to enjoy Featured Servers from our partners with exclusive environments, in a new visual style.
-
-![servers-tab.png](https://feedback.minecraft.net/hc/article_attachments/24713807911693)
 
 Some other features in this new design are the Server Activities and News. You will also be able to add and edit your own custom server (on PC and mobile), setting all the parameters needed to invite your friends and have an enjoyable experience!
 
@@ -134,6 +132,13 @@ Some other features in this new design are the Server Activities and News. You w
 
 ## **Editor**
 
+The Editor and its corresponding API are in early development, and available for keyboard/mouse on Windows PC Bedrock Preview builds. Tag us on social channels with **\#BedrockEditor.**
+
+Learn [how to use](https://aka.ms/LearnEditor) the Editor, join the [GitHub Discussion](https://github.com/Mojang/minecraft-editor/discussions) forum to engage with the team, and get started building extensions via the [starter kit](https://github.com/Mojang/minecraft-editor-extension-starter-kit) and [samples](https://github.com/Mojang/minecraft-editor-extension-samples).
+
+Fixes this week:
+
+- Added a “Reload” button that allows for reloading of the UI when an Ore UI error occurs
 - Line tool bar icon updated to correct design icon  
     
 
@@ -177,6 +182,7 @@ Some other features in this new design are the Server Activities and News. You w
   - Added *submitButton* method for setting the text of the form’s submit button
 - Structure APIs
   - Added function *setBlockPermutation(location: Vector3, blockPermutation?: BlockPermutation, waterlogged?: boolean): void* - Sets the block permutation at a given location within the structure
+- StructureManager 
   - Added function *saveToWorld(): void* - Persists the structure as part of the broader world storage
   - Added function *saveAs(identifier: string, saveMode?: StructureSaveMode): Structure* - Saves a copy of the structure with a new identifier
 - EntityHitBlockAfterEvent
