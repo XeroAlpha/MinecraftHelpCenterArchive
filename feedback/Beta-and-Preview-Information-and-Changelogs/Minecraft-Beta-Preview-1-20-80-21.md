@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.80.21
 date: 2024-03-05T15:55:21Z
-updated: 2024-03-06T18:36:17Z
+updated: 2024-03-06T19:20:07Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24711734982925-Minecraft-Beta-Preview-1-20-80-21
 hash:
@@ -54,6 +54,8 @@ The variant is determined by the biome they spawn in:
 **Updated ‘Servers Tab’ Experience in Bedrock Preview**
 
 The latest Bedrock Preview revamps the Server Tab in the Play Screen presenting Featured Servers and other servers you add. You will get to enjoy Featured Servers from our partners with exclusive environments, in a new visual style.
+
+![Screenshot 2024-03-06 101529.png](https://feedback.minecraft.net/hc/article_attachments/24756432856845)
 
 Some other features in this new design are the Server Activities and News. You will also be able to add and edit your own custom server (on PC and mobile), setting all the parameters needed to invite your friends and have an enjoyable experience!
 
