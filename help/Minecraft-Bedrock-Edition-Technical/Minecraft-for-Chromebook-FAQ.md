@@ -1,41 +1,21 @@
 ---
-title: Minecraft for Chromebook FAQ
+title: Minecraft for Chromebook System Requirements
 date: 2023-03-07T23:00:10Z
-updated: 2024-02-16T19:11:15Z
+updated: 2024-03-07T20:03:26Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
   - category_technical_support
+  - subject_game_performance
   - subject_content_questions
   - section_12617893243277
   - platform_chromebook
-link: https://help.minecraft.net/hc/en-us/articles/13803752803725-Minecraft-for-Chromebook-FAQ
-hash:
-  h_01HPSN1J9DT6ENP0ZJETD2VGAM: whats-in-the-chromebook-version-of-minecraft
-  h_01HPSN1J9E0B2F0A3YR4ERV3YS: chromebook-system-requirements
-  h_01HPSN1J9ENYJAC0T8BNG3VNG1: minimum-requirements
-  h_01HPSN1J9EZPVHQ6PNT0KT58WT: recommended-requirements
-  h_01HPSN1J9EM4QHR4WKKC488A6Q: will-existing-worlds-transfer-to-minecraft-for-chromebook
-  h_01HPSN1J9EZF4GEARVF6BQ2SP5: will-a-previous-purchase-of-minecraft-transfer-to-my-chromebook
-  h_01HPSN1J9EMV57MRWPVN3ZVZXT: do-i-need-a-microsoft-account-to-play-minecraft-on-chromebook
-  h_01HPSN1J9E2TRY8RBEHABKQ803: i-had-a-trial-for-minecraft-when-will-my-worlds-transfer
-  h_01HPSN1J9EBTN6WVS1GR0289KQ: how-to-report-bugs
-  h_01HPSN1J9E2ZXR4RRP1ET6J5D0: refunds
+link: https://help.minecraft.net/hc/en-us/articles/13803752803725-Minecraft-for-Chromebook-System-Requirements
 ---
 
-Minecraft: Bedrock Edition is on Chromebook! Read this article for more information on which devices can support Minecraft: Bedrock Edition, how to acquire Minecraft for Chromebook, and more.
+To get the best possible experience out of Minecraft on your Chromebook, you will want to have either the minimum or recommended system requirements listed below:
 
-## What's in the Chromebook Version of Minecraft?
-
-The Chromebook version of Minecraft: Bedrock Edition includes crossplay, access to the Minecraft Marketplace, Realms, and more. It’s the full version of Minecraft available on other devices.
-
-**Note:** When trying to buy the game on Chromebook, some players viewing the Google Play Store on their browser may not see an option to purchase the game. If you're facing this issue, try heading to the native Play Store app to buy and install the game.
-
-## Chromebook System Requirements
-
-Devices that meet these minimum and recommended requirements can run the game:
-
-### Minimum Requirements
+**Minimum requirements**
 
 - Operating System: ChromeOS 111
 - System Architecture: 64-bit (x86_64, arm64-v8a)
@@ -43,36 +23,11 @@ Devices that meet these minimum and recommended requirements can run the game:
 - Memory: 4 GB RAM
 - Storage: Minimum of 1 GB game installation, maps, and other files 
 
-### Recommended Requirements
+**Recommended processors**
 
-- Operating System: ChromeOS 111
-- System Architecture: 64-bit (x86_64, arm64-v8a)
-- Processor: AMD Ryzen 3 3250C, Intel Celeron N4500, Intel i3-7130U, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
-- Memory: 4 GB RAM
-- Storage: Minimum of 1 GB game installation, maps, and other files
+In addition to the processors listed in the minimum requirements, the following are recommended processors for better Minecraft performance:
 
-If you meet these requirements and are looking to optimize your game further, please follow [this guide](./Optimizing-Performance-in-Minecraft-Bedrock-Edition.md) for some tips.
+- AMD Ryzen 3 3250C
+- Intel Celeron N4500
 
-## Will existing worlds transfer to Minecraft for Chromebook?
-
-No. You will have to create a new world when playing Minecraft for Chromebook.
-
-## Will a previous purchase of Minecraft transfer to my Chromebook?
-
-It will not. To play Minecraft for Chromebook, you must purchase this version through the Google Play store.
-
-## Do I need a Microsoft Account to play Minecraft on Chromebook?
-
-You do not need a Microsoft Account to play Minecraft for Chromebook offline. However, you will need a Microsoft Account to connect to Realms services or to play on any servers.
-
-## I had a trial for Minecraft, when will my worlds transfer?
-
-Your worlds from the trial version of Minecraft for Chromebook will not transfer over to the full version.
-
-## How to report bugs
-
-Please report all bugs [using this link](https://www.minecraft.net/en-us/bugs).
-
-## Refunds
-
-Minecraft for Chromebook refunds must go through the Google Play store using [this link](https://support.google.com/googleplay/answer/2479637?hl=en).
+If you meet these requirements and are looking to optimize your game further, see [Optimizing Performance in Minecraft: Bedrock Edition](./Optimizing-Performance-in-Minecraft-Bedrock-Edition.md).
