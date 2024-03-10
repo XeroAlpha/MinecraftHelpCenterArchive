@@ -21,7 +21,7 @@ The steps in this article cover redeeming a Minecraft Dungeons pre-paid card pur
 - [Redeeming on Minecraft for Windows ](https://support.xbox.com/help/subscriptions-billing/redeem-codes-gifting/redeem-prepaid-codes)
 - [Redeeming on Xbox One](https://support.xbox.com/help/subscriptions-billing/redeem-codes-gifting/redeem-prepaid-codes) 
 - [Redeeming on Nintendo Switch](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22429/~/how-to-redeem-a-download-code-on-nintendo-switch-eshop#:~:text=%20How%20to%20Redeem%20a%20Download%20Code%20on,with%20a%20limited%20version%20of%20Nintendo...%20More%20) 
-- [Redeeming on PlayStation® 4 and PlayStation® 5 ](https://support.playstation.com/s/article/How-to-redeem-codes-from-vouchers-and-PlayStation-Network-Cards?language=en_US%22%20%5Ct%20%22_blank)
+- [Redeeming on PlayStation® 4 and PlayStation® 5 ](https://support.playstation.com/s/article/How-to-redeem-codes-from-vouchers-and-PlayStation-Network-Cards?language=en_US%22%20\t%20%22_blank)
 
 ## Redeeming Minecraft Dungeons on PC (Launcher version) 
 
