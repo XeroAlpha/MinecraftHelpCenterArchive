@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Subscriptions FAQ"
 date: 2023-12-18T21:43:01Z
-updated: 2024-01-19T20:46:33Z
+updated: 2024-03-11T18:03:57Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -68,15 +68,16 @@ The cost varies depending on the tier you choose, and is shown in game. If you w
 
 Subscribing to Realms Plus provides you with additional features detailed below.
 
-## What is Realms Plus?  
+## What is Realms Plus? 
 
-Realms Plus is a subscription that combines Realms servers with a curated catalog of Minecraft Marketplace content. For one low monthly price, enjoy unlimited access to:   
+Realms Plus is a subscription that combines Realms servers with access to the same curated catalog of Minecraft Marketplace content available to Marketplace Pass subscribers.  For one low monthly price, enjoy unlimited access to:
 
-- A personal Realms server supporting the Realm owner and up to ten friends 
-- Cloud storage for your worlds   
-- Cross-platform multiplayer for your server across all Bedrock devices
-- 150+ Minecraft worlds, resources packs, skin packs, and mash-ups
-- A monthly set of character creator items
+- 150+ Minecraft worlds
+- texture packs, skin packs, and mash-ups
+- a personal Realms server supporting up to 10 simultaneous players
+- cloud storage for your worlds 
+
+New Marketplace content is added regularly to your Realms Plus subscription. To link new content to your account, make sure you navigate to the content and click **download**.
 
 **Note: For more information on resource packs, skins packs, and other add-ons, please refer to** [this article](../Minecraft-Marketplace/What-are-Minecraft-Add-Ons.md)**.**
 

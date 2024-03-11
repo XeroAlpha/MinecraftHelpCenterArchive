@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms General FAQ"
 date: 2023-10-24T21:42:42Z
-updated: 2023-12-18T22:32:01Z
+updated: 2024-03-11T18:06:19Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -25,7 +25,6 @@ hash:
   h_01HHZGPZC97W4XGJHD5FW2AGC5: can-i-play-on-a-realm-with-players-on-different-devices
   h_01HHZGR9W666FNDPDJ58QZZQBD: do-my-friends-need-a-realms-subscription-to-play-on-my-realm
   h_01HHZGRMXZ9M6W3EE4Z172RTR1: what-are-clubs
-  h_01HHZGTPCG6V8WX8C8TTANZNYY: what-is-realms-plus
   h_01HHZGVHN291W0688W9B38PPWM: why-are-there-two-versions-of-realms-servers
 ---
 
@@ -74,20 +73,7 @@ However, you must make sure to have your You can create and join clubs permissio
 
 You can access your Realms Clubs from the Realms page in Minecraft: Bedrock Edition. If you encounter any issues with using Clubs, please [contact Microsoft Support](https://support.xbox.com/en-US/). 
 
-**Note: Clubs are not available with Minecraft: Java Edition.    **
-
-## What is Realms Plus?
-
-Realms Plus is a subscription that combines Realms servers with a curated catalog of Minecraft Marketplace content.  For one low monthly price, enjoy unlimited access to:   
-
-- A personal Realms server supporting the Realm owner and up to ten friends
-- Cloud storage for your worlds   
-- Cross-platform functionality for your server
-- 150+ Minecraft worlds  
-- Texture packs, skin packs, and mash-ups 
-- A monthly set of character creator items  
-
-**Note: Realms Plus is only available for Minecraft: Bedrock Edition Realms.**
+**Note: Clubs are not available with Minecraft: Java Edition. **
 
 ## Why are there two versions of realms servers? 
 
