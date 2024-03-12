@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T21:02:17Z
-updated: 2023-12-18T23:17:57Z
+updated: 2024-03-11T18:18:38Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -53,7 +53,7 @@ You can create a Realm on the following platforms: 
 12. Select **Subscribe Now**
 13. You’ll be taken to the platform store to complete your purchase.
 
-Once your Realm is created, you can join it at any time via the ‘Worlds’ tab in Minecraft.
+**Note:** If you are a Marketplace Pass subscriber, you can upgrade to a Realms Plus subscription. However, you’ll want to cancel your Marketplace Pass subscription after upgrading as both subscriptions include the same Marketplace content.
 
 ## Choosing A Realm Name and Size  
 
