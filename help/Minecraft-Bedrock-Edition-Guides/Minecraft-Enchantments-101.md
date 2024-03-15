@@ -1,7 +1,7 @@
 ---
 title: Minecraft - Enchantments 101
 date: 2021-03-29T21:56:51Z
-updated: 2023-10-13T19:24:02Z
+updated: 2024-03-15T17:54:26Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - title_minecraft_java_edition
@@ -37,38 +37,51 @@ Enchanting through the enchantment table requires player experience or levels an
 
 ## How to Use the Command in Creative 
 
-/enchant \[Player name\] \[name of enchantment\], \[level of enchantment\]  
+**/enchant \[Player name\] \[name of enchantment\], \[level of enchantment\]  **
 
 ## Basic Crafting Recipes for Survival 
 
 ### Enchanting Table 
 
-1 Book, 2 Diamonds, 4 Obsidian 
+Ingredients:
+
+- 1 Book
+- 2 Diamonds
+- 4 Obsidian
+
+![enchantment-table.png](https://minecrafthelp.zendesk.com/hc/article_attachments/25040459945741)
 
 This is the starting point for enchanting. Once you have an enchanting table placed down you will be able to access the lower tier enchantments. Placing bookshelves around the crafting table will give you access to the higher tier enchantments. 
 
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995352)
-
 ### Book 
 
-3 Paper 1 Leather  
+Ingredients:
+
+- 3 Paper
+- 1 Leather
+
+![book.png](https://minecrafthelp.zendesk.com/hc/article_attachments/25040459966093)
 
 If you would like to make enchanted books you can find them or craft them. You can enchant them with one book and three Lapis Lazuli in an enchanting table. You can also obtain them randomly from fishing as well. 
 
-![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995372)
-
 ### Bookshelves 
 
-6 Planks and 3 Books 
+Ingredients:
+
+- 6 Wooden Planks
+- 3 Books
+
+![bookshelf.png](https://minecrafthelp.zendesk.com/hc/article_attachments/25040467675021)
 
 Placing this around an enchanting table will allow you to get higher tier enchantments. 15 bookshelves will max out your enchanting table. The ideal position of the bookshelves is a square of 15 placed in a 5x5-block outline, with the enchantment table in the middle. 
 
-![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090967211)
-
 ### Anvil 
 
-3 Iron Blocks and 4 Iron Ingots 
+Ingredients:
 
-Anvils will let you repair enchanted tools and combine two tools/items of the same kind together, giving you one tool with all the previous enchantments (unless two enchantments conflict with each other). Additionally, you can combine enchanted books with a tool/item to add the enchantment. 
+- 3 Iron Blocks
+- 4 Iron Ingots
 
-![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090995452)
+![anvil.png](https://minecrafthelp.zendesk.com/hc/article_attachments/25040467682061)
+
+Anvils will let you repair enchanted tools and combine two tools/items of the same kind together, giving you one tool with all the previous enchantments (unless two enchantments conflict with each other). Additionally, you can combine enchanted books with a tool/item to add the enchantment.
