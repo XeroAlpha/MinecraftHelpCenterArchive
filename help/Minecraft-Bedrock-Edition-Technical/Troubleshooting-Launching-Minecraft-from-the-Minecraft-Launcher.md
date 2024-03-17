@@ -35,7 +35,7 @@ This article is dedicated to helping you fix any problems in starting Minecraft 
 
 ### Java Edition
 
-If you are trying to play Minecraft: Java Edition and it keeps crashing, you may have a mod that is messing up your game. We recommend first making sure that you are running the latest version release of Java Edition.  If you are, try backing up your save, which you can learn more about on our [managing data and game storage page,](../Minecraft-Java-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md) and then creating a new Java installation.
+If you are trying to play Minecraft: Java Edition and it keeps crashing, you may have a mod that is messing up your game. We recommend first making sure that you are running the latest version release of Java Edition.  If you are, try backing up your save, which you can learn more about on our [managing data and game storage page,](../Minecraft-Java-Edition-Technical/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) and then creating a new Java installation.
 
 **How to create a new Java installation**
 

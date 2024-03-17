@@ -29,7 +29,6 @@ tags:
   - subject_microsoft_sign_in_questions
   - multijugador
   - amigos
-  - trending
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games
 hash:

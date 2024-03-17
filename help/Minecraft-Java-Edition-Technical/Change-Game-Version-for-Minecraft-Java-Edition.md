@@ -22,7 +22,7 @@ This article details how to change your game version for Minecraft: Java Edition
 
 By default, Minecraft is set to the most current version of the game. Changing the version requires creating a launcher configuration with the desired version and then set the game to use that configuration.   
    
-**WARNING:** Before changing your game version, it’s strongly recommended that you back up your worlds. If you try to play on one of your current worlds and you access that world using an older version of the game, you may permanently damage that world**. **It’s strongly recommended that you back up your worlds by [locating](./Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md) them and then making a copy of your game files. 
+**WARNING:** Before changing your game version, it’s strongly recommended that you back up your worlds. If you try to play on one of your current worlds and you access that world using an older version of the game, you may permanently damage that world**. **It’s strongly recommended that you back up your worlds by [locating](./Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) them and then making a copy of your game files. 
 
 ## Change the game version 
 

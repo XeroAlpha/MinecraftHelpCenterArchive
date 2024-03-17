@@ -380,7 +380,7 @@ For Android, as of February 2024, **devices require greater than 1 GB RAM, run O
 
 Please refer to our Minecraft Help Center articles for further details:
 
-- [iOS Technical Support Issues](../../help/Minecraft-Bedrock-Edition-Technical/iOS-Technical-Support-Issues-for-Minecraft.md)
+- [iOS Technical Support Issues](../../help/Minecraft-Bedrock-Edition-Technical/How-to-Recover-Missing-Minecraft-Worlds-on-Apple-Devices.md)
 - [Android Technical Support FAQ](../../help/Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md)  
     
 

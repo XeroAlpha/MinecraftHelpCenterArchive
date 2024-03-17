@@ -157,7 +157,7 @@ You can play Minecraft: Bedrock Edition for Xbox One on the following Xbox con
 
 **Note: When trying to buy the game on Chromebook, some players viewing the Google Play Store on their browser may not see an option to purchase the game. If you're facing this issue, try heading to the native Play Store app to buy and install the game.**
 
-Minecraft: Bedrock Edition is [now on Chromebook](./Minecraft-for-Chromebook-FAQ.md)! As a result, devices that meet these minimum requirements can run the game:
+Minecraft: Bedrock Edition is [now on Chromebook](./Minecraft-for-Chromebook-System-Requirements.md)! As a result, devices that meet these minimum requirements can run the game:
 
 - Operating System: ChromeOS 111
 - System Architecture: 64-bit (x86_64, arm64-v8a)

@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Creation FAQ"
 date: 2021-09-14T23:14:55Z
-updated: 2024-02-28T18:00:01Z
+updated: 2024-03-11T18:12:22Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft_java_edition
@@ -37,7 +37,7 @@ hash:
   h_01FGCRM0DSZBBFH3525BBFJ9E9: general-questions
   01H7X5FC4GMB1HW9K8X9V6PQPV: what-are-realms
   01H7X5FC4G0X8YAZEV2YJYV46D: why-are-there-two-versions-of-realms-servers
-  01H7X5FC4GEPE9TS19YR66S38X: what-is-realms-plus
+  h_01HRQAD75RJ5274TYQHYQWHAE8: what-is-realms-plus
   01H7X5FC4G7M110BQM26TDHYE5: which-versions-of-minecraft-bedrock-edition-support-realms-plus
   01H7X5FC4G9ZC4PSMX6C8BAJBN: im-playing-on-windows-10-or-above-which-version-do-i-need
   01H7X5FC4GD152AB89ZYB7H55E: can-i-use-my-realms-plus-on-any-device
@@ -59,7 +59,6 @@ hash:
   01H7X5FC4HGZ5TGYHBFBVXKQ2M: how-often-are-new-packs-added-to-realms-plus
   01H7X5FC4HDWD3R6YRED6SWNRT: how-long-do-i-have-access-to-packs-within-realms-plus
   01H7X5FC4HRDB0RFRENA2XRP1C: if-i-download-a-pack-can-i-access-it-after-it-leaves-realms-plus
-  01H7X5FC4HP8X5N9Y7M9FF8ZD3: where-do-these-packs-come-from
   01H7X5FC4HYHRTS9WWYBWVZ2Z6: how-many-world-templates-can-i-play-with-realms-plus
   h_01GJ3SPZ4DMFXZX1PA3TBRPAFS: digital-pre-paid-realms-cards
   01H7X5FC4HG9A9QE5SPFM3BQY4: what-do-i-get-for-buying-a-digital-pre-paid-realms-card
@@ -121,16 +120,16 @@ We've developed two separate versions of Minecraft to optimize game performance�
 
 **Note: A Minecraft: Bedrock Edition Realms subscription is separate from a Minecraft: Java Edition Realms subscription.** **Realms subscriptions do not carry over between game versions. If you would like a Realm in Bedrock Edition and one in Java Edition, you need to set up two separate subscriptions. **
 
-### What is Realms Plus? 
+## What is Realms Plus?
 
-Realms Plus is a subscription that combines Realms servers with a curated catalog of Minecraft Marketplace content.  For one low monthly price, enjoy unlimited access to:  
+Realms Plus is a subscription that combines Realms servers with access to the same curated catalog of Minecraft Marketplace content available to Marketplace Pass subscribers.  For one low monthly price, enjoy unlimited access to:
 
-- 100+ Minecraft worlds 
-- texture packs, skin packs, and mash-ups 
-- a personal Realms server supporting up to 10 simultaneous players 
-- cloud storage for your worlds  
+- 150+ Minecraft worlds
+- texture packs, skin packs, and mash-ups
+- a personal Realms server supporting up to 10 simultaneous players
+- cloud storage for your worlds 
 
-New marketplace content is added regularly to your Realms Plus subscription. To link new content to your account, make sure you navigate to the content and click 'download.
+New Marketplace content is added regularly to your Realms Plus subscription. To link new content to your account, make sure you navigate to the content and click **download**.
 
 **Note: Content rotates in and out of the marketplace often. If a pack is rotated out of the marketplace, it will be removed from your download list.**
 
@@ -234,17 +233,15 @@ Realms Plus members enjoy unlimited access to 100+ Minecraft worlds, texture p
 
 ### If I download a pack, can I access it after it leaves Realms Plus? 
 
-Once a world, texture pack, skin pack, or mash-up leaves Realms Plus, you will need to purchase a copy from the store to continue playing. You will be notified prior to a pack leaving Realms Plus. Packs will not be deleted from your local storage unless you delete them.   
-
-### Where do these packs come from?   
-
-The different packs in Realms Plus are from the Minecraft Marketplace, created by a combination of our great community of creators like yourself, and the team here at Mojang Studios. All content in the Minecraft Marketplace is tested for quality and content standards.  
+Once a world, texture pack, skin pack, or mash-up leaves Realms Plus, you will need to purchase a copy from the store to continue playing. You will be notified prior to a pack leaving Realms Plus. Packs will not be deleted from your local storage unless you delete them. 
 
 ### How many world templates can I play with Realms Plus? 
 
 You can play and save all the packs included in Realms Plus on your local device. You can also host one of your world templates on a Realm for your friends to join for free. You can change which world you load on your Realm at any time.
 
 ## Digital Pre-Paid Realms Cards
+
+**Note:** as of March 28, Pre-paid Realms cards will no longer be available for sale from retailers. If you have bought a pre-paid Realms card before this date, you can still redeem your code.
 
 ### What do I get for Buying a Digital Pre-Paid Realms Card?
 

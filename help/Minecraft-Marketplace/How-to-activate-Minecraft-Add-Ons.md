@@ -4,7 +4,6 @@ date: 2024-02-14T17:47:55Z
 updated: 2024-03-06T16:15:27Z
 categories: Minecraft Marketplace
 tags:
-  - popular
   - section_24069904400141
   - Add-Ons
 link: https://help.minecraft.net/hc/en-us/articles/24120525083533-How-to-activate-Minecraft-Add-Ons

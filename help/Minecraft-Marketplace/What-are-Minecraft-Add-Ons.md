@@ -4,7 +4,6 @@ date: 2021-09-13T18:58:31Z
 updated: 2024-03-05T22:39:28Z
 categories: Minecraft Marketplace
 tags:
-  - trending
   - new
   - section_24069904400141
   - Add-Ons

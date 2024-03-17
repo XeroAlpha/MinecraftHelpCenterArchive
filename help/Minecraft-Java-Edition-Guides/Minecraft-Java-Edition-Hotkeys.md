@@ -21,7 +21,7 @@ Here is a list of the default hotkeys when playing Minecraft: Java Edition:
 1.  **Scroll -** Scrolls through your quick bar and the chat when opened. 
 2.  **Esc **- Opens the game menu and allows cursor control. It also pauses single-player games. 
 3.  **F1 -** Toggles HUD 
-4.  **F2 -** Takes screenshots and stores them in your [.minecraft](../Minecraft-Java-Edition-Technical/Managing-Data-and-Game-Storage-in-Minecraft-Java-Edition.md) folder 
+4.  **F2 -** Takes screenshots and stores them in your [.minecraft](../Minecraft-Java-Edition-Technical/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) folder 
 5.  **Shift + Left Mouse Button **   
     **Interactions:** 
     - - Clicking an item or stack will move it between inventory and stack. 
