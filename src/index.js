@@ -86,7 +86,7 @@ class LinkDatabase {
     }
 
     deleteLink(path) {
-        const foundIndex = this.index.find((e) => e.path === path);
+        const foundIndex = this.index.findIndex((e) => e.path === path);
         if (foundIndex >= 0) {
             this.index.splice(foundIndex, 1);
         }

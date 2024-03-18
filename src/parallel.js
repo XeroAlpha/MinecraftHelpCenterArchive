@@ -24,17 +24,22 @@ export const Parallel = {
         process.nextTick(() => this.tryDrainQueue());
     },
     async run(f) {
-        const handle = await Parallel.acquire();
-        const result = await f();
-        Parallel.release(handle);
-        return result;
+        const handle = await this.acquire();
+        try {
+            return await f();
+        } finally {
+            this.release(handle);
+        }
     },
     wrap(f) {
+        const parallel = this;
         return async function(...args) {
-            const handle = await Parallel.acquire();
-            const result = await f.apply(this, args);
-            Parallel.release(handle);
-            return result;
+            const handle = await parallel.acquire();
+            try {
+                return await f.apply(this, args);
+            } finally {
+                parallel.release(handle);
+            }
         };
     },
     map(arr, cb) {
