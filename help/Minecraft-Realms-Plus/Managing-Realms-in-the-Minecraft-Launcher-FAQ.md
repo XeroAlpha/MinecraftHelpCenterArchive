@@ -1,7 +1,7 @@
 ---
-title: Managing Realms in the Minecraft Launcher FAQ
+title: How to Manage Your Realms in the Minecraft Launcher
 date: 2023-07-27T15:13:19Z
-updated: 2023-07-27T15:14:15Z
+updated: 2024-03-18T21:24:18Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft_java_edition
@@ -21,54 +21,35 @@ tags:
   - section_12618443219469
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/17987026917133-Managing-Realms-in-the-Minecraft-Launcher-FAQ
-hash:
-  i-am-not-a-realms-subscriber.-how-do-i-subscribe: i-am-not-a-realms-subscriber-how-do-i-subscribe
+link: https://help.minecraft.net/hc/en-us/articles/17987026917133-How-to-Manage-Your-Realms-in-the-Minecraft-Launcher
 ---
 
-Realms are now accessible in the Minecraft Launcher! Please read on for more information on how to manage invites, subscriptions, and more.
+The Minecraft Launcher has a section that allows you to manage and jump directly into your Realms. To find it:
 
-![Realms in the Launcher.png](https://minecrafthelp.zendesk.com/hc/article_attachments/17987026869645)
+1.  Open the Minecraft Launcher.
+2.  Make sure you are signed in with your Microsoft account.
+3.  Select either **Minecraft: Java Edition** or **Minecraft for Windows**.
+4.  Click the **Realms** tab.
 
-The official Minecraft Launcher now includes a “Realms” tab on the Minecraft: Java Edition and Bedrock product pages, respectively. The Realms tab should automatically show up in your Launcher. 
+When in this section, you can do the following:
 
-![Realms in the Launcher 2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/17987009594253)
-
-In this tab, you can:
-
-- View any Realms you’re currently a part of. 
+- View any Realms you’re currently a part of.
 - Accept or deny any pending Realms invites.
 - View a Realm’s description.
-- See how many players are in-game per Realm. 
-- View any expired Realms subscriptions. 
+- See how many players are in-game per Realm.
+- View any expired Realms subscriptions.
 - Begin a Realms trial.
-- Access shortcuts to join a Minecraft: Java Edition Realm if the Realm subscription is active. 
+- Access shortcuts to join a Minecraft: Java Edition Realm if the Realm subscription is active.
 - Leave a Realm.
 
-![Realms in the Launcher 3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/17987039036301)
+To cancel your Realm or manage it in other ways, click **Manage Realms** to be taken to the Minecraft.net site where you can sign in. Visit the below links for more info:
 
-We are still working on Realms page improvements & updates and would like to hear your feedback and suggestions around Realms in the Launcher. If you have any feedback, please contact [Minecraft Support](https://feedback.minecraft.net/hc/en-us/requests/new).
+**Java**
 
-## Managing Realms in the Minecraft Launcher
+- [How to Edit Your Minecraft: Java Edition Realms on Minecraft.net \| Minecraft Help](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md)
+- [How Do I Cancel a Minecraft: Java Edition Realm Subscription? \| Minecraft Help](../Minecraft-Java-Realms/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)
 
-Here are some frequently asked questions regarding the Realms tab in the Minecraft Launcher.
+**Bedrock**
 
-### How do I make the Realms tabs show up in the Minecraft Launcher? 
-
-You shouldn’t have to take any additional action – the Realms tab for both games should just appear when you load up the Launcher. This should be true regardless of whether or not you own Minecraft: Java Edition or Bedrock .  
-
-### I am not a Realms subscriber. How do I subscribe? 
-
-To sign up for Minecraft: Java Edition Realms, [click here](https://aka.ms/JavaRealmsWebLink) to go to Minecraft.net to subscribe. For Bedrock Realms, [click here](https://aka.ms/BedrockRealmsWebLink) or launch Bedrock and go to the Realms page in the Marketplace to subscribe.  
-
-### Can I link directly to my Realm from the Launcher? 
-
-Right now, you can link directly to your Minecraft: Java Edition Realms. However, this functionality is not yet available for Bedrock. Instead, Bedrock’s ‘Play’ button just launches the game. 
-
-### Can I manage my Realms Settings from the Launcher? 
-
-You cannot currently edit your Realms settings from within the Launcher. Please refer to [this article](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md) if you wish to manage an active Minecraft: Java Edition subscription or [this one](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md) to manage a Bedrock Realms subscription. 
-
-### Can I Send or Accept Realms Invites From the Launcher?
-
-You can currently only accept invites that have been sent to you in the Minecraft Launcher. To send invitations, you must go into either game.
+- [How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net \| Minecraft Help](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md)
+- [How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription? \| Minecraft Help](../Realms-Troubleshooting-and-Billing/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md)

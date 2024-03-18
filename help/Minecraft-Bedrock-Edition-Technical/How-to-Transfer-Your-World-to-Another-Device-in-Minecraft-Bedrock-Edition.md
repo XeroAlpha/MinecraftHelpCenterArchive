@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your World to Another Device in Minecraft: Bedrock Edition"
 date: 2021-09-13T22:15:53Z
-updated: 2024-02-22T20:19:32Z
+updated: 2024-03-18T20:51:10Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - subject_progress_and_saved_games
@@ -34,7 +34,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409165790605-How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition
 ---
 
-If you are playing Minecraft: Bedrock Edition, the only way to transfer that world to another device is to use Realms. You can use a Realms or Realms Plus subscription to do this. If you have not subscribed before, you can also use a free 30-day trial to move your world quickly. For more information about Realms, visit [Minecraft: Bedrock Edition Realms Creation FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md).
+If you are playing Minecraft: Bedrock Edition, the easiest way to transfer that world to another device is to use Realms. You can use a Realms or Realms Plus subscription to do this. If you have not subscribed before, you can also use a free 30-day trial to move your world quickly. For more information about Realms, visit [Minecraft: Bedrock Edition Realms Creation FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md).
 
 After you get a Realms subscription, follow the steps below to move your world.
 
@@ -55,4 +55,11 @@ If the above method does not work, ensure that both versions of Minecraft you ar
 
 **Where can I find my Bedrock world files?**
 
-Bedrock world files cannot be manually accessed by going into your system’s files or folders. The only way to transfer your Bedrock world files, including on PC and mobile, is to use the Realms method above.
+If you are on PC and would rather manually move your Minecraft worlds between folders and USB drives, you can find your world files by doing the following:
+
+1.  Press the **Windows key** and **R** simultaneously.
+2.  Type **%appdata% **and press **Ok**.
+3.  Open **.minecraft.**
+4.  Open the **saves** folder.
+
+From here, you can manually backup and move your world folders.
