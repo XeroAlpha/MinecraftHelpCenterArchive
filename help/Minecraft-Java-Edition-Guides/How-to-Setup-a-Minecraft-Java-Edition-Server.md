@@ -1,7 +1,7 @@
 ---
 title: "How to Setup a Minecraft: Java Edition Server"
 date: 2021-03-24T19:23:34Z
-updated: 2023-01-23T17:25:06Z
+updated: 2024-03-19T14:58:23Z
 categories: "Minecraft: Java Edition Guides"
 tags:
   - title_minecraft_java_edition
@@ -30,7 +30,7 @@ As a prerequisite, you should make sure you have [Java](https://www.java.com/en
 4.  While you have the file browser open, open command prompt from the start menu.  
 5.  You can check if Java is installed in command prompt by typing without quotes “java -version”. 
 6.  To start the server, you will need to change the directory to the location where you have the Minecraft Server folder and the .jar file located in it. 
-7.  You can find the directory in Windows by simply clicking on the browser directory in file browser here. ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090550171/blobid0.png)(The theme and color of your file browser will appear different due to your personalization settings)   
+7.  You can find the directory in Windows by simply clicking on the browser directory in file browser here. ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090550171)(The theme and color of your file browser will appear different due to your personalization settings)   
     Copy this address to your clipboard. 
 8.  Type without quotes “cd” hit space and then paste the address you just copied, then hit enter. 
     - This should look like “***cd C:\Users\Admin\Desktop\Minecraft Server***” 
@@ -53,7 +53,7 @@ Now you just have to rerun the launch command in the command prompt and the ser
 
 Making sure you are in the Minecraft Server file directory and enter ***java -jar “your jar name”.jar*** into command prompts 
 
-For more details on all the settings for the server.properties file you can go [here](https://minecraft.gamepedia.com/Server.properties). Make sure to scroll down to the “Java Edition”. 
+For more details on all the settings for the server.properties file you can go [here](https://minecraft.wiki/w/Server.properties). Make sure to scroll down to the “Java Edition”. 
 
 **You will also need to ****forward the port** listed in server.properties **query.port.** The** **default it is 25565 so in your router settings you will need to specify that port to forward. This process will vary from different router manufacturers. If you need assistance in forwarding a port, please refer to your router’s help site/manual. 
 
