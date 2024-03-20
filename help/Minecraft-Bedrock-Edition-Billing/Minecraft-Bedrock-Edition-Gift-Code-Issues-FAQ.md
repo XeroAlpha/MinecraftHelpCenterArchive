@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Gift Code Issues FAQ  "
 date: 2021-09-21T21:40:08Z
-updated: 2024-02-16T19:26:21Z
+updated: 2024-03-20T19:25:00Z
 categories: "Minecraft: Bedrock Edition Billing"
 tags:
   - section_12617899093133
@@ -21,8 +21,6 @@ hash:
 ---
 
 **Note:** Java and Bedrock are now bundled on PC, so you can buy gift cards that give you or whoever redeems the code access to both versions of Minecraft.
-
- 
 
 ## What are prepaid Minecraft codes and gift codes?
 
@@ -55,9 +53,7 @@ Once you have redeemed your Minecoins, they will be linked to your Xbox Live acc
 
 **Note:** Gift codes for Minecraft: Bedrock Edition are redeemed in the Microsoft Store, not on the Minecraft site If you need help with your code for Minecraft: Bedrock Edition, visit [Microsoft Support](http://support.microsoft.com/help/10604/microsoft-account-redeem-gift-card-or-code). 
 
-## Prepaid Card and Gift Code Redemption Issues 
-
-**Note:** Gift codes can no longer be purchased from our site; today, gift codes can be digitally purchased through Amazon and physical cards can be purchased at various retail outlets.
+## Prepaid Card and Gift Code Redemption Issues
 
 ## Error Messages When Redeeming Your Card 
 

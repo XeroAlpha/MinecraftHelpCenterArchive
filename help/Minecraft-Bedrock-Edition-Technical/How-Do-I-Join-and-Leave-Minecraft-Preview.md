@@ -1,7 +1,7 @@
 ---
 title: How Do I Join (and Leave) Minecraft Preview?
 date: 2020-03-11T15:08:34Z
-updated: 2023-07-05T21:37:59Z
+updated: 2024-03-20T20:55:51Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -14,8 +14,12 @@ tags:
   - section_12617893243277
 link: https://help.minecraft.net/hc/en-us/articles/360040841471-How-Do-I-Join-and-Leave-Minecraft-Preview
 hash:
-  opting-into-and-out-of-beta: optingintoandoutofbeta
-  detailed-xbox-opt-out-steps: detailed-xbox-opt-outsteps
+  h_01HSET7TT52DC3H1CJRAMG9N85: essential-information-before-participating-in-minecraft-preview
+  h_01HSET7TT62D48SNR5VVVWEDYP: optingintoandoutofbeta
+  h_01HSET7TT6YFF9M9TZX6DKGHMJ: detailed-xbox-opt-outsteps
+  h_01HSET7TT6KXF7EN29F7Q9V4NX: detailed-windows-opt-out-steps
+  h_01HSET7TT6ASQ3S05GX6T2882R: detailed-android-opt-out-steps
+  h_01HSET7TT63J2HXM505GRXZJ8K: multiple-users-on-one-device
 ---
 
 **Note: If you're interested in testing new Minecraft features ahead of time, check out [this article](https://www.minecraft.net/en-us/article/testing-new-minecraft-features) to learn more.**
@@ -23,7 +27,8 @@ hash:
 ## Essential Information Before Participating in Minecraft Preview
 
 - Bedrock Editions of the game have a version called Minecraft Preview for testing features ahead of time. On Android, this version is called Beta.
-- You will not have access to Realms and will not be able to join non-Preview players while you're in Minecraft Preview. 
+- You will only have access to Preview Realms if you have an active Realms subscription. Normal Minecraft Realms are not available when playing in Minecraft Preview.
+- To play with friends in Preview, everyone must be enrolled in Preview.
 - Preview builds will likely be unstable and are not representative of the final version quality. Please back up your Worlds before joining Minecraft Preview. 
 - Finished releases may not include all changes and fixes from Preview to preserve stability and may slip to a later release. 
 - Report bugs to the [Mojang Bug Tracker](https://bugs.mojang.com/secure/Dashboard.jspa) and all feedback to [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us). 
