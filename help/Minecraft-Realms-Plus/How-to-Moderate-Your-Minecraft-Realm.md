@@ -54,9 +54,9 @@ We are not able to view and assist with moderation issues on your Realm directly
 
 **Remove and block players**: You also have the option to remove and block players in your Realm if you wish to restrict realm access.
 
-**Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [How To Create A Backup Of A Minecraft: Java Edition Realm](../Minecraft-Java-Realms/How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Minecraft: Bedrock Edition Realms Backup FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md).
+**Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [How To Create A Backup Of A Minecraft: Java Edition Realm](../Minecraft-Java-Realms/How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Minecraft: Bedrock Edition Realms Backup FAQ](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md).
 
 You can also moderate your Realm through Minecraft.net. Check out the following articles for more information:
 
-- [How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net](../Minecraft-Realms-Plus/How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md)
+- [How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md)
 - [How to Edit Your Minecraft: Java Edition Realms on Minecraft.net](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md)
