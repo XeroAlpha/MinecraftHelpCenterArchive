@@ -1,8 +1,9 @@
 ---
-title: "MInecraft: Java Edition - Snapshot 24w12a"
+title: "Minecraft: Java Edition - Snapshot 24w12a"
 date: 2024-03-20T16:19:02Z
+updated: 2024-03-25T13:59:06Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/25179169128205-MInecraft-Java-Edition-Snapshot-24w12a
+link: https://feedback.minecraft.net/hc/en-us/articles/25179169128205-Minecraft-Java-Edition-Snapshot-24w12a
 hash:
   h_01HSEAGEKE4V8WM6HK7J6FQJRP: experimental-features
   h_01HSEAGEKE7JYBZ4AP6CDPB0GX: trial-chambers
