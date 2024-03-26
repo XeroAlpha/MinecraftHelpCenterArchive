@@ -1,7 +1,7 @@
 ---
 title: " Minecraft - 1.20.72 (Bedrock)"
 date: 2024-03-19T16:29:32Z
-updated: 2024-03-22T17:32:28Z
+updated: 2024-03-25T23:06:10Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/25142927462925--Minecraft-1-20-72-Bedrock
 ---
@@ -11,7 +11,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/25142927462925--Minecraft
 
 **Posted:** March 19, 2024
 
-A new update is now available to address stability issues introduced with the 1.20.70 update. The update is currently available on Android, iOS, and PlayStation 4, and other platforms will receive the update soon.
+A new update is now available to address stability issues introduced with the 1.20.70 update.  
+  
 
 **Fixes:**
 
