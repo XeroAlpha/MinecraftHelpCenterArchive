@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Java Edition Realms Creation FAQ "
+title: "How to Create a Minecraft: Java Edition Realm"
 date: 2021-09-14T22:37:59Z
-updated: 2024-02-20T19:12:25Z
+updated: 2024-03-27T21:26:40Z
 categories: Minecraft Java Realms
 tags:
   - title_minecraft_java_edition
@@ -23,9 +23,9 @@ tags:
   - platform_windows_10/11
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Minecraft-Java-Edition-Realms-Creation-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409253767821-How-to-Create-a-Minecraft-Java-Edition-Realm
 hash:
-  h_01HHZ9JH0FZVKR5PCG5D56BK69: how-to-create-your-realm
+  h_01HHZ9JH0FZVKR5PCG5D56BK69: how-to-create-a-minecraft-java-edition-realm
   h_01HHZ9R8M8CMC7SQ068NJ4ZMJ7: howtoloadcontent-toyour-realm
   h_01HHZ9RFDFK8JQ8QMKW4SZ8Z98: choosingaworldslot
   h_01HHZ9RMMN442JN6ZXGYGG0H00: minigame
@@ -35,7 +35,7 @@ hash:
 
 This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Creation-FAQ.md).
 
-## How to create your Realm
+## How to create a Minecraft: Java Edition Realm
 
 Before you can create a Minecraft Realm, you must have a Microsoft account linked to your game. If you don't have one yet, you can [create a Microsoft account](https://account.microsoft.com/account).
 
