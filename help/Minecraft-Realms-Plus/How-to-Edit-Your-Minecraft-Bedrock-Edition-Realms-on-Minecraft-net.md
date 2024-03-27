@@ -1,7 +1,7 @@
 ---
-title: "How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net"
+title: How To Edit Your Realms on Minecraft.net
 date: 2023-05-19T20:22:48Z
-updated: 2024-03-01T16:58:29Z
+updated: 2024-03-27T18:22:46Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -24,59 +24,22 @@ tags:
   - platform_sony_playstation_5
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/15937250579213-How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net
-hash:
-  h_01HCJN5G8QBEN0JEQ6VXKVB8XZ: in-this-article
-  h_01HCJMQV27WVAV96YN6YCYE53Q: how-to-edit-your-realm-settings-in-minecraft-bedrock-edition
-  h_01HCJM9RB0NAE1T1ZG8Q0RJ6ZE: realm-name-and-description
-  h_01HCJM9RB05AND8YAQ93PPNXBT: invite-members
-  h_01HCJM9RB0M5MFRXV6MEPPHNFS: manage-members
-  h_01HCJM9RB012VJS806DQNVS18X: worlds
+link: https://help.minecraft.net/hc/en-us/articles/15937250579213-How-To-Edit-Your-Realms-on-Minecraft-net
 ---
 
-As of May 22<sup>nd</sup>, 2023 you’ll be able to edit some of your Minecraft: Bedrock Edition Realms settings through your Minecraft.net profile page. This article details what settings are available to you.
+You are able to edit some information for your Minecraft Realms whether they are attached to Java or Bedrock Edition. It’s all pretty easy too! Here is how to do it:
 
-**Note: If you're looking for Minecraft: Java Edition Realms settings, refer to [this article instead](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md).**
+**How to edit your Realms on Minecraft.net**
 
-# In This Article:
+1.  [Log in to your Microsoft account on Minecraft.net.](https://www.minecraft.net/en-us/login)
+2.  Now you will be in the **My Games** section.
+3.  Scroll down to either the Java or Bedrock Edition.
+4.  Select the Realm you want to edit.
 
-- [How to edit your Realm settings in Minecraft: Bedrock Edition](#how-to-edit-your-realm-settings-in-minecraft-bedrock-edition)
-- [Realm Name and Description](#realm-name-and-description)
-- [Invite Members](#invite-members)
-- [Manage Members](#manage-members)
-- [Worlds](#worlds)
+**What Realms settings you can edit on Minecraft.net**
 
-## How to edit your Realm settings in Minecraft: Bedrock Edition
-
-To edit your Realms settings for Minecraft: Bedrock Edition on Minecraft.net, follow these steps:
-
-1.  Head to [Minecraft.net](https://www.minecraft.net/en-us) and log in with your Microsoft account.
-2.  Now you should be on your profile in the **My Games** section. Scroll down to the Bedrock Edition section.
-3.  Select your Realm.
-4.  Adjust the following settings as you please.
-
-## Realm Name and Description
-
-Adjust the name and description of your Realm here.
-
-![Name_Edit.png](https://minecrafthelp.zendesk.com/hc/article_attachments/15937036872845)
-
-**Note: Don’t forget to save your changes after editing a Realm name or description.**
-
-## Invite Members
-
-Here you can invite members via their Gamertag, adjust their permission upon accepting an invite, and find your Realm share link.
-
-![Invite_Members.png](https://minecrafthelp.zendesk.com/hc/article_attachments/15937096924173)
-
-## Manage Members
-
-Here you can manage members that are already a part of your Realm and adjust or revoke their permissions. You can also see who you’ve invited to the Realm, and who you’ve blocked from the Realm.
-
-![Manage_Members.png](https://minecrafthelp.zendesk.com/hc/article_attachments/15937080524941)
-
-## Worlds
-
-Here is a list of worlds you’ve added to your Realm, as well as adjust which world is currently active.
-
-![Worlds.png](https://minecrafthelp.zendesk.com/hc/article_attachments/15937080626573)
+- Name and description.
+- Invite players to your Realm.
+- Manage current members.
+- Select a world slot to activate.
+  - Changing the world in each slot must be done in the game.

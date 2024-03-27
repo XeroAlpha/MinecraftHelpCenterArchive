@@ -1,8 +1,8 @@
 ---
-title: "Minecraft: Bedrock Edition Realms Technical FAQ"
+title: How to Upload Worlds onto a Minecraft Realm
 date: 2023-10-24T20:53:20Z
-updated: 2024-02-22T20:18:10Z
-categories: Realms Troubleshooting and Billing
+updated: 2024-03-27T18:15:37Z
+categories: Minecraft Realms Plus
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -14,48 +14,29 @@ tags:
   - subject_other_realms_questions
   - platform_sony_playstation_4
   - platform_pc
-  - section_12618486785805
+  - section_12618443219469
   - platform_chromebook
-link: https://help.minecraft.net/hc/en-us/articles/20686744908429-Minecraft-Bedrock-Edition-Realms-Technical-FAQ
-hash:
-  h_01HHZFVHTZ3EMP0PJSBVC3A9G7: can-i-upload-my-worlds-onto-a-realm
-  h_01HHZFYNN41PVHHE3761SRRDNK: do-realms-servers-support-modding
-  h_01HHZFZ8N10HH8PAFYEJRT5H53: are-there-any-specific-settings-needed-to-play-on-a-realm
-  h_01HHZG2H6YQTQFAN1B95QS9QHK: how-does-mojang-backup-your-realm
+link: https://help.minecraft.net/hc/en-us/articles/20686744908429-How-to-Upload-Worlds-onto-a-Minecraft-Realm
 ---
 
-Realms in Minecraft: Bedrock Edition can seem complex at first. This article provides everything you need to know about Realms’ more technical aspects.
+If you don’t want to start a Minecraft Realm from scratch, you can upload one of your already created worlds. Here is how to do it:
 
-## Can I upload my worlds onto a Realm?  
+**How to upload a world onto a Minecraft: Bedrock Edition Realm**
 
-Yes, you can upload your own worlds to a Realm. We currently support worlds up to 4GB in size. That’s a substantial amount of allotted space! To upload one of your existing worlds to your Realm, click the pencil button next to the world on the Play screen. Then click **Play on Realm**.
+1.  Start Minecraft.
+2.  Select **Play**.
+3.  Select the **Edit** icon next to the Realm you want to upload the world to.
+4.  Select either an empty world slot or you can replace a currently occupied slot by selecting **Edit World**.
+5.  In Game Settings, scroll to the bottom and select **Replace World**.
+6.  Select the world you want to upload onto the Realm up to 4 GB in size.
+    - **Note:** If the world you want to upload is on a different platform, you will need to [transfer your world](../Minecraft-Bedrock-Edition-Technical/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) or upload it on that platform.
 
-To use a world template from the Minecraft Marketplace, follow these steps:
+**How to upload a world onto a Minecraft: Java Edition Realm**
 
-1.  Navigate to the pack of your choosing.
-2.  Select **Create this World!**
-3.  Adjust any settings as you’d like.
-4.  Click **Create on Realm Server**
-5.  Choose which Realm you’d like to place the world in
-6.  Select a **World Slot** to place it in
-
-## Do realms servers support modding? 
-
-Realms servers support Add-Ons and Marketplace maps, textures, and skins, as well as the use of Character Creator items. However, full modding support is not available.    
-
-## Are there any specific settings needed to play on a realm? 
-
-Yes, your [Xbox Live account](https://www.xbox.com/en-US/live) needs to have two settings enabled:
-
-- Join Multiplayer games
-- Additionally, if you want to participate in a Realm’s Stories, you will need to enable the “You can create and join clubs” setting. 
-
-![](https://minecrafthelp.zendesk.com/hc/article_attachments/22472498528269)
-
-**Note: Child accounts do not have these settings enabled by default, so if you have a child account you need parental consent to play on Realms.**
-
-To change these settings, log in to your Xbox Live account on your Xbox console or at <http://account.xbox.com/settings>. For Xbox Live account assistance contact[ Xbox Support](https://support.xbox.com/en-US/). 
-
-## How does Mojang backup your Realm?
-
-See [Minecraft: Bedrock Edition Realms Backup FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md).
+1.  Start Minecraft.
+2.  Select **Minecraft Realms**.
+3.  Select the Realm you want to change and press **Configure**.
+4.  Select an empty world slot or select an existing one and press **Reset World**.
+5.  Select **Upload World**.
+6.  Select the world you want to upload onto the Realm up to 4 GB in size.
+    - If transferring your world from a different device, see [Locating Minecraft: Java Edition Files For Backup Or Transfer](../Minecraft-Java-Edition-Technical/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md).
