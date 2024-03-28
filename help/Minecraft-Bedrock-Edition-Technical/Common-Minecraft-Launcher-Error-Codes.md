@@ -1,7 +1,7 @@
 ---
 title: Common Minecraft Launcher Error Codes
 date: 2024-01-22T20:56:52Z
-updated: 2024-01-30T19:02:24Z
+updated: 2024-03-28T19:15:10Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft_java_edition
@@ -18,6 +18,7 @@ tags:
   - platform_pc
   - title_minecraft_legends
   - section_12617893243277
+  - section_12618019146893
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/23432418934925-Common-Minecraft-Launcher-Error-Codes
@@ -30,6 +31,7 @@ hash:
   h_01HMSET4M1NBEFA64PTMZANVBC: cant-connect-to-minecraft-services-error-after-sign-in
   h_01HMSF318T74CHXQ87F93YXN63: error-0x80242020-after-installing-bedrock-edition
   h_01HMSF5044HM9DWH3ZBNCBA5B0: you-must-complete-adult-verification-on-the-xbox-homepage-error
+  h_01HT36E56S1HT2S0FBSJ566YJY: resolving-minecraft-launcherdll-error
 ---
 
 If you are trying to play Minecraft through the Minecraft Launcher on PC but are running into an error code, this article will go over various error codes and how to fix them. For more troubleshooting solutions in the Minecraft Launcher, please visit the [Minecraft Launcher Troubleshooting hub](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).
@@ -43,10 +45,11 @@ If you are trying to play Minecraft through the Minecraft Launcher on PC but are
 - [Can’t connect to Minecraft services error after login](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSET4M1NBEFA64PTMZANVBC)
 - [Error 0X80242020 after installing Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSF318T74CHXQ87F93YXN63)
 - [You must complete adult verification on the Xbox homepage error](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSF5044HM9DWH3ZBNCBA5B0)
+- [Launcher.dll Error](#resolving-minecraft-launcherdll-error)
 
 ## Java Profile Creation Failed Error
 
-Ensure that you’re properly logged into the same account on both the Microsoft Store and in the Minecraft Launcher. 
+Ensure that you’re properly logged into the same account on both the Microsoft Store and in the Minecraft Launcher.
 
 **View your account in the Microsoft Store**
 
@@ -102,9 +105,9 @@ If those steps don’t work, try running the Minecraft Launcher in administrator
 **Update your Internet Options**
 
 1.  Open **Internet Options** in Control Panel
-2.  Select the **Advanced** tab 
+2.  Select the **Advanced** tab
 3.  Scroll to the Bottom of the List where you can see **Use SSL/TLS**
-4.  Un-Select **SSL 3.0** and **TLS 1.0 and 1.1** 
+4.  Un-Select **SSL 3.0** and **TLS 1.0 and 1.1**
 5.  Select **TLS 1.2** and (if available) **TLS 1.3 **
 6.  Click **Apply**
 7.  Click **OK**
@@ -124,14 +127,14 @@ Ensure that you’re properly connected to the internet and logged into the same
 1.  Install and sign into the [Xbox App](https://aka.ms/DLXboxApp)
 2.  If any dependencies are missing, the Xbox app should show you a list and recommend installation actions to fix these problems
 3.  Install missing dependencies that are recommended
-    - Examples include: 
+    - Examples include:
       - [Xbox Identity Provider](https://aka.ms/XboxIdentityProvider)
       - [Xbox Live In-Game Experience](https://aka.ms/XboxLiveInGame)
       - [Feedback Hub](https://aka.ms/DLFeedbackHub)
 
 **Reset the Microsoft Store**
 
-1.  Press the **Windows key** + **R** simultaneously 
+1.  Press the **Windows key** + **R** simultaneously
 2.  Type in **WSReset** and hit enter
 
 ## Error 0X80242020 after installing Bedrock Edition
@@ -146,4 +149,10 @@ Ensure that you’re properly connected to the internet and logged into the same
 
 This error appears when the country/region set on your Xbox Live account is different than the country/region set on your Microsoft account. Visit [Update your Microsoft account](https://support.xbox.com/en-US/help/account-profile/manage-account/update-microsoft-account-country-region) if you’re moving to a new country or region to learn more.
 
-**Note: If you're based in South Korea, you'll need to complete the required South Korean age verification to restore access to your account.**
+**Note: **If you're based in South Korea, you'll need to complete the required South Korean age verification to restore access to your account.
+
+## Resolving Minecraft Launcher.dll error
+
+If you see a **launcher.dll: LoadErrorNotPresent** error message when you try to open the Minecraft: Java Edition launcher, it means a file is missing. 
+
+Manually update the Minecraft launcher. See [Minecraft: Java Edition Installation Issues](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md) for instructions.
