@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Achievements FAQ"
 date: 2021-09-14T21:36:49Z
-updated: 2024-01-05T20:15:16Z
+updated: 2024-03-28T16:46:29Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
@@ -25,7 +25,7 @@ This article covers information about achievements you can earn in Minecraft: Be
 
 ## What are achievements?
 
-Achievements are optional goals laid out for players who want a bit of direction while playing Minecraft: Java Edition. These can be as simple as crafting a wooden pickaxe and range to something as creative as flying a pig off of a cliff.
+Achievements are optional goals laid out for players who want a bit of direction while playing Minecraft: Bedrock Edition. These can be as simple as crafting a wooden pickaxe and range to something as creative as flying a pig off of a cliff.
 
 ## Where can I earn achievements?
 
