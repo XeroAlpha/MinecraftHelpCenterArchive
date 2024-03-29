@@ -1,7 +1,7 @@
 ---
-title: "Optimizing Performance in Minecraft: Bedrock Edition"
+title: Optimizing Performance in Minecraft
 date: 2021-09-28T21:43:13Z
-updated: 2024-03-05T20:18:04Z
+updated: 2024-03-29T20:28:21Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -21,13 +21,13 @@ tags:
   - section_12617893243277
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft
 hash:
   h_01HR844RHA2XNTP2KQW5K7FCRN: tips-to-optimize-video-settings-in-minecraft
   h_01HR84685B13DD95GMFVKAVW75: other-tips-to-optimize-minecraft-performance
 ---
 
-If you’re experiencing crashes or reduced game performance playing Minecraft on iOS, the following suggestions may help.
+If you’re experiencing crashes or reduced game performance playing Minecraft, the following suggestions may help.
 
 ## Tips to optimize video settings in Minecraft
 
