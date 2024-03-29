@@ -1,7 +1,7 @@
 ---
-title: How to Install Minecraft Preview/Beta
+title: How to Install Minecraft Preview
 date: 2022-01-31T18:12:02Z
-updated: 2024-03-28T21:42:56Z
+updated: 2024-03-29T18:07:40Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -14,7 +14,7 @@ tags:
   - platform_sony_playstation_4
   - platform_pc
   - section_12617893243277
-link: https://help.minecraft.net/hc/en-us/articles/4423653831821-How-to-Install-Minecraft-Preview-Beta
+link: https://help.minecraft.net/hc/en-us/articles/4423653831821-How-to-Install-Minecraft-Preview
 hash:
   h_01HT3FS2G1GEFAFARBJ66TS40F: how-to-install-minecraft-previewbeta
   h_01HT3FYPGGYMZ37YTRKKW9XSGP: android
@@ -30,13 +30,18 @@ Minecraft Preview is played through a separate client from the normal Minecraft:
 
 Locate your platform in the list below for installation instructions for Minecraft Preview/Beta.
 
-- **Enrollment required:** You need to enroll in Preview. See [How Do I Join Minecraft Preview](../Minecraft-Bedrock-Edition-Technical/How-Do-I-Join-and-Leave-Minecraft-Preview.md)?
 - **Not a Trial:** You must either own Minecraft on the platform you want to play Preview on or be an Xbox Game Pass Ultimate or Game Pass for PC subscriber to have access.
 - **Download purchase only:** Minecraft Preview is not available for players who only own a disc version of Minecraft.
 
 ### Android
 
-If you have signed up for Minecraft Beta on Android, the Beta version will automatically update and replace your standard Minecraft game.
+**Note:** Minecraft Beta on Android will replace your normal Minecraft client. Be sure to [back up](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md) or [transfer your worlds](../Minecraft-Bedrock-Edition-Technical/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) to another device!
+
+1.  Start the Google Play Store app.
+2.  Enter the Minecraft page.
+3.  Scroll down to find a button to enroll in Minecraft Beta.
+4.  The beta app will automatically replace your normal Minecraft app.
+    - You can leave Minecraft Beta at any time by returning to the Google Play Store page on your device.
 
 ### iOS
 
