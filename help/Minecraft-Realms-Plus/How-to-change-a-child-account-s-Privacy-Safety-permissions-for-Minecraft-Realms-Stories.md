@@ -40,4 +40,4 @@ Once you’re signed into the family organizer’s account, follow these steps t
 
 1.  Be sure to scroll to the bottom and click Submit to save your changes. Now the child account should have access to Minecraft Realms and be able to experience Realm Stories! If they are still getting an in-game message saying they need permission to join this content, try restarting Minecraft.
 
-Still having issues? See [Minecraft Realms Plus Troubleshooting](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Plus-Troubleshooting.md).
+Still having issues? See [Minecraft Realms Plus Troubleshooting](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Connection-Troubleshooting.md).

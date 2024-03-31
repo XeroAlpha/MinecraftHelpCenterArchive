@@ -165,7 +165,7 @@ Minecraft: Bedrock Edition is [now on Chromebook](./Minecraft-for-Chromebook-Sys
 - Memory: 4 GB RAM
 - Storage: Minimum of 1 GB game installation, maps, and other files
 
-If you meet these requirements and are looking to optimize your game further, please follow [this guide](./Optimizing-Performance-in-Minecraft-Bedrock-Edition.md) for some tips.
+If you meet these requirements and are looking to optimize your game further, please follow [this guide](./Optimizing-Performance-in-Minecraft.md) for some tips.
 
 ## How to Manually Update Minecraft: Bedrock Edition
 

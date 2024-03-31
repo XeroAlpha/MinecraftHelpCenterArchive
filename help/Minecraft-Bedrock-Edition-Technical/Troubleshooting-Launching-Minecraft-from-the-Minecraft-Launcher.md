@@ -15,6 +15,7 @@ tags:
   - platform_pc
   - title_minecraft_legends
   - section_12617893243277
+  - section_12618019146893
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Troubleshooting-Launching-Minecraft-from-the-Minecraft-Launcher

@@ -43,7 +43,7 @@ Your realm can be one of two sizes, divided into tiers:  
 
 While the 2 and 10 numbers refer to how many people can be on that Realm at one time, you can invite as many people as you want to have access to your Realm.
 
-For more information on Realm sizes, please refer to [this article](./Minecraft-Bedrock-Edition-Realms-Subscriptions-FAQ.md).
+For more information on Realm sizes, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/22471397285901).
 
 ## Which versions of Minecraft support Minecraft Realms?
 

@@ -58,8 +58,8 @@ If you're receiving the io.netty.handler.codec.decodeexception error when connec
 
 ## Minecraft Realms
 
-For general questions about Realms, the first place you should check is our [Minecraft: Java Edition Realms Creation](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK7Y11GJ40A28MYPKXHSS0M) [FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Realms-Creation-FAQ.md#h_01FFK7Y11GJ40A28MYPKXHSS0M). 
+For general questions about Realms, the first place you should check is our [Minecraft: Java Edition Realms Creation](../Minecraft-Java-Realms/How-to-Create-a-Minecraft-Java-Edition-Realm.md#h_01FFK7Y11GJ40A28MYPKXHSS0M) [FAQ](../Minecraft-Java-Realms/How-to-Create-a-Minecraft-Java-Edition-Realm.md#h_01FFK7Y11GJ40A28MYPKXHSS0M). 
 
-For connection issues with Realms, see [Realms Connection Issues.](../Realms-Troubleshooting-and-Billing/Minecraft-Java-Edition-Realms-Troubleshooting.md)  
+For connection issues with Realms, see [Realms Connection Issues.](https://help.minecraft.net/hc/en-us/articles/4410380333453)  
 
 For other technical issues with Realms, contact [Minecraft Support](https://aka.ms/Minecraft-Support), briefly describe the issue, and provide your Minecraft Java profile name and the name of the Realm.

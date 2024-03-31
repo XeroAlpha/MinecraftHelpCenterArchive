@@ -14,7 +14,6 @@ tags:
   - platform_pc
   - platform_PC
   - platform_macOS
-  - popular
   - section_12617893243277
   - section_12618019146893
 link: https://help.minecraft.net/hc/en-us/articles/6662588435597-Minecraft-Launcher-Troubleshooting-Common-Issues

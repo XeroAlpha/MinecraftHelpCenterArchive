@@ -22,7 +22,7 @@ hash:
   h_01HCMZVXGNQXF3C5YR62DT83Y3: how-do-i-report-bugs-in-java-edition-snapshot-releases
 ---
 
-This page is dedicated to the Minecraft: Java Edition Snapshot program. For Minecraft: Bedrock Edition’s Preview, check out the [Minecraft Preview FAQ](../Community-Guides/Minecraft-Preview-FAQ.md).
+This page is dedicated to the Minecraft: Java Edition Snapshot program. For Minecraft: Bedrock Edition’s Preview, check out the [Minecraft Preview FAQ](../Minecraft-Bedrock-Edition-Technical/How-to-Install-Minecraft-Preview.md).
 
 # In This Article:
 

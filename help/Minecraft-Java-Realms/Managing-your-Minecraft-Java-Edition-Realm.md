@@ -22,7 +22,7 @@ hash:
   h_01HHZF2EJ7WHF3JRAMVTGMMVV8: subscription
 ---
 
-This article is dedicated to managing an already made Minecraft: Java Edition Realm. For questions regarding creating a Java Realm, [see this article](./Minecraft-Java-Edition-Realms-Creation-FAQ.md).
+This article is dedicated to managing an already made Minecraft: Java Edition Realm. For questions regarding creating a Java Realm, [see this article](./How-to-Create-a-Minecraft-Java-Edition-Realm.md).
 
 ## Realms Admin Options
 
@@ -54,7 +54,7 @@ In the Settings menu, you can choose to close your server and take it offline. C
 Select Subscription to see your Minecraft Realms subscription status or to extend your subscription. 
 
 - Options
-  - For game options for the active world, see the [How to Create Your Realm article](./Minecraft-Java-Edition-Realms-Creation-FAQ.md).
+  - For game options for the active world, see the [How to Create Your Realm article](./How-to-Create-a-Minecraft-Java-Edition-Realm.md).
 - Backups
   - Enables you to see and switch between your backups as well as download the currently loaded backup. For more, see the How to Create a Backup of a Minecraft: Java Edition Realm article.
 - Reset

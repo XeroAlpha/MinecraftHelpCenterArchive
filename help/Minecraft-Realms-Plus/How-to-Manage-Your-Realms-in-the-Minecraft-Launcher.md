@@ -46,10 +46,10 @@ To cancel your Realm or manage it in other ways, click **Manage Realms** to be t
 
 **Java**
 
-- [How to Edit Your Minecraft: Java Edition Realms on Minecraft.net \| Minecraft Help](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md)
+- [How to Edit Your Minecraft: Java Edition Realms on Minecraft.net \| Minecraft Help](https://help.minecraft.net/hc/en-us/articles/15938089626253)
 - [How Do I Cancel a Minecraft: Java Edition Realm Subscription? \| Minecraft Help](../Minecraft-Java-Realms/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)
 
 **Bedrock**
 
-- [How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net \| Minecraft Help](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md)
+- [How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net \| Minecraft Help](./How-To-Edit-Your-Realms-on-Minecraft-net.md)
 - [How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription? \| Minecraft Help](../Realms-Troubleshooting-and-Billing/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md)

@@ -39,7 +39,7 @@ You’re provided with the following Realms management options:
 
 - Realm management
   - By clicking on Manage Realm, you’ll see three Realm management options. Game Settings, Members, and Subscription.
-    - **Note: You can also manage your Realms on Minecraft.net. Please refer to [this article](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md) for more information.**
+    - **Note: You can also manage your Realms on Minecraft.net. Please refer to [this article](./How-To-Edit-Your-Realms-on-Minecraft-net.md) for more information.**
 - Game Settings
   - Here, you can adjust your Realm Name, your Realm Description, and manage your Realm’s Feed. For more on your Realm’s Feed, please refer to [this article](./Minecraft-Bedrock-Edition-Realms-General-FAQ.md).
   - You can also choose to unlock recipes for players within your Realm.

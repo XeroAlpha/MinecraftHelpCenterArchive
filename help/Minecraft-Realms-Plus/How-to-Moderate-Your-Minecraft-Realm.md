@@ -58,5 +58,5 @@ We are not able to view and assist with moderation issues on your Realm directly
 
 You can also moderate your Realm through Minecraft.net. Check out the following articles for more information:
 
-- [How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net](./How-to-Edit-Your-Minecraft-Bedrock-Edition-Realms-on-Minecraft-net.md)
-- [How to Edit Your Minecraft: Java Edition Realms on Minecraft.net](../Minecraft-Java-Realms/How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net.md)
+- [How to Edit Your Minecraft: Bedrock Edition Realms on Minecraft.net](./How-To-Edit-Your-Realms-on-Minecraft-net.md)
+- [How to Edit Your Minecraft: Java Edition Realms on Minecraft.net](https://help.minecraft.net/hc/en-us/articles/15938089626253-How-to-Edit-Your-Minecraft-Java-Edition-Realms-on-Minecraft-net)

@@ -62,4 +62,4 @@ If these steps do not resolve your issue, try reaching out to the creator of the
 
  
 
-If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](../Minecraft-Bedrock-Edition-Technical/Optimizing-Performance-in-Minecraft-Bedrock-Edition.md).
+If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](../Minecraft-Bedrock-Edition-Technical/Optimizing-Performance-in-Minecraft.md).

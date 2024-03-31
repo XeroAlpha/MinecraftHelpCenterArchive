@@ -62,7 +62,7 @@ Your realm can be one of two sizes, divided into tiers:  
 - 2 Users allows for two players simultaneously, plus the owner  
 - 10 Users allows for ten players simultaneously, plus the owner  
 
-For more information on Minecraft Realms subscriptions, please refer to [this article](./Minecraft-Bedrock-Edition-Realms-Subscriptions-FAQ.md).
+For more information on Minecraft Realms subscriptions, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/22471397285901).
 
 Once you’ve decided your Realm size, you can name your Realm.
 
@@ -78,4 +78,4 @@ Realms owners have various admin options available for further customization. 
 
 ## Technical Questions for Realms
 
-For any technical questions you may have regarding your Realm, please refer to [this article](../Realms-Troubleshooting-and-Billing/Minecraft-Bedrock-Edition-Realms-Technical-FAQ.md).
+For any technical questions you may have regarding your Realm, please refer to [this article](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md).
