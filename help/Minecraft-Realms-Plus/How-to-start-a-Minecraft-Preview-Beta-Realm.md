@@ -1,7 +1,7 @@
 ---
-title: How to start a Minecraft Preview/Beta Realm
+title: How to Start a Minecraft Preview/Beta Realm
 date: 2023-10-10T17:12:23Z
-updated: 2024-03-20T22:00:05Z
+updated: 2024-04-01T19:28:01Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -21,12 +21,12 @@ tags:
   - section_12618443219469
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/20264295053709-How-to-start-a-Minecraft-Preview-Beta-Realm
+link: https://help.minecraft.net/hc/en-us/articles/20264295053709-How-to-Start-a-Minecraft-Preview-Beta-Realm
 ---
 
 Preview and Beta Realms are available to any active Minecraft: Bedrock Edition Realms subscribers. Normal Minecraft and Minecraft Preview/Beta are two separate games. You must join the Preview/Beta program and download and install the Preview/Beta version of Minecraft to create and play in Preview/Beta Realms. See these articles for information:
 
-- [How Do I Join (And Leave) Minecraft Preview?](../Minecraft-Bedrock-Edition-Technical/How-Do-I-Join-and-Leave-Minecraft-Preview.md)
+- [What to Know About Minecraft Preview](../Minecraft-Bedrock-Edition-Technical/How-Do-I-Join-and-Leave-Minecraft-Preview.md)
 - [Minecraft Preview FAQ](../Minecraft-Bedrock-Edition-Technical/How-to-Install-Minecraft-Preview.md)
 
 **How to create a Minecraft Preview/Beta Realm**

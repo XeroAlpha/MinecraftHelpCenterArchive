@@ -1,7 +1,7 @@
 ---
 title: Get Help with your Minecraft Account
 date: 2019-06-27T20:41:11Z
-updated: 2024-02-22T23:25:34Z
+updated: 2024-04-01T19:49:17Z
 categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - title_minecraft_java_edition
@@ -33,6 +33,7 @@ Get back into your game! This information covers the most common solutions for n
 - [Resolve a Locked Account](https://support.microsoft.com/en-us/account-billing/account-has-been-locked-805e8b0d-4141-29b2-7b65-df6ff6c9ce27)
 - [Family Account Settings](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344)
 - [Update Your Gamertag](https://support.xbox.com/en-US/help/account-profile/profile/change-xbox-live-gamertag)
+- [Get Help switching between Microsoft Accounts to play Minecraft](../Minecraft-Java-Edition-Accounts/Get-Help-switching-between-Microsoft-Accounts-to-play-Minecraft.md)
 
  
 
