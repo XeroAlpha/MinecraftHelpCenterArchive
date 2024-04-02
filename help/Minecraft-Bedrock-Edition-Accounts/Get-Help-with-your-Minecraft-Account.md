@@ -1,7 +1,7 @@
 ---
 title: Get Help with your Minecraft Account
 date: 2019-06-27T20:41:11Z
-updated: 2024-04-01T19:49:17Z
+updated: 2024-04-02T20:38:32Z
 categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - title_minecraft_java_edition
@@ -34,6 +34,7 @@ Get back into your game! This information covers the most common solutions for n
 - [Family Account Settings](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344)
 - [Update Your Gamertag](https://support.xbox.com/en-US/help/account-profile/profile/change-xbox-live-gamertag)
 - [Get Help switching between Microsoft Accounts to play Minecraft](../Minecraft-Java-Edition-Accounts/Get-Help-switching-between-Microsoft-Accounts-to-play-Minecraft.md)
+- [Create a new Microsoft Account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf)
 
  
 
