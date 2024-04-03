@@ -1,7 +1,7 @@
 ---
-title: How to change a child account’s Privacy & Safety permissions for Minecraft Realms Stories
+title: How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories
 date: 2023-10-25T20:06:23Z
-updated: 2023-11-16T22:56:36Z
+updated: 2024-04-03T16:32:59Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -15,7 +15,7 @@ tags:
   - platform_sony_playstation_4
   - platform_pc
   - section_12618443219469
-link: https://help.minecraft.net/hc/en-us/articles/20720109328269-How-to-change-a-child-account-s-Privacy-Safety-permissions-for-Minecraft-Realms-Stories
+link: https://help.minecraft.net/hc/en-us/articles/20720109328269-How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories
 hash:
   h_01HFD5F4PGH3QQWE2XNGEPQ49D: changing-permissions-for-your-familys-microsoft-accounts-on-a-web-browser
 ---
@@ -32,12 +32,10 @@ Once you’re signed into the family organizer’s account, follow these steps t
 
 1.  To change the permissions for anyone within your family group, the family organizer will need to go to the [Privacy & Online Safety page](https://account.xbox.com/en-us/settings?gamertag=REV+X+SHADOWS&activetab=main%3aprivacytab) and sign in with the family organizer account. 
 2.  Select the account within the family that you want to adjust. Below that selection, click on **Xbox Series X\|S, Xbox One, and Windows 10 devices Online Safety.**
-3.  In the list below the Online Safety tab are numerous settings that decide how much that account can interact with other online accounts. For the purposes of Minecraft Realms Stories, you will want to set the two following sections to *Allow*:
+3.  In the list below the Online Safety tab are numerous settings that decide how much that account can interact with other online accounts. For the purposes of Minecraft Realms Stories, you will want to set the two following sections to **Allow**:
     1.  **You can create and join clubs**
     2.  **You can join multiplayer games**
 
 ![](https://minecrafthelp.zendesk.com/hc/article_attachments/21412047830285)
 
-1.  Be sure to scroll to the bottom and click Submit to save your changes. Now the child account should have access to Minecraft Realms and be able to experience Realm Stories! If they are still getting an in-game message saying they need permission to join this content, try restarting Minecraft.
-
-Still having issues? See [Minecraft Realms Plus Troubleshooting](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Connection-Troubleshooting.md).
+1.  Be sure to scroll to the bottom and click **Submit** to save your changes. Now the child account should have access to Minecraft Realms and be able to experience Realm Stories! If they are still getting an in-game message saying they need permission to join this content, try restarting Minecraft.

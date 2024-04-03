@@ -1,12 +1,12 @@
 ---
-title: Managing spending for child accounts in Minecraft Marketplace
+title: Managing Spending For Child Accounts in Minecraft Marketplace
 date: 2024-02-20T21:52:23Z
-updated: 2024-02-20T22:14:33Z
+updated: 2024-04-03T16:30:50Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - trending
   - section_15463792344973
-link: https://help.minecraft.net/hc/en-us/articles/24302243825677-Managing-spending-for-child-accounts-in-Minecraft-Marketplace
+link: https://help.minecraft.net/hc/en-us/articles/24302243825677-Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace
 hash:
   h_01HQ47CXPXBE0RHM52SRDV6GZC: related-articles
 ---
@@ -20,8 +20,6 @@ Follow these steps on your Microsoft Family homepage to approve in-game purchase
 5.  Select the toggle on **Require approval** after every purchase. This gives no spending limit but requires each transaction to be approved. You will need to add the spending card directly to the child’s account.
 
 You can also manage spending on the [Xbox Family App](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app).
-
- 
 
 ### Related Articles
 
