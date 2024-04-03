@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.0.20
 date: 2024-04-03T14:40:55Z
-updated: 2024-04-03T15:11:54Z
+updated: 2024-04-03T16:51:41Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/25581734759309-Minecraft-Beta-Preview-1-21-0-20
 hash:
@@ -20,6 +20,7 @@ hash:
   h_01HTJ62VZB94T6KZ6NAAYGFVDR: blocks
   h_01HTJ62VZBHK1J9PTAJKWCZK8M: cobweb
   h_01HTJ62VZBJYTXA5XBY7GFRT3M: wind-charge
+  h_01HTJDWHF73N88MZ2K4XMKJA4N: hardcore-mode
   h_01HTJ62VZBSHNBT2ZYRFS0KQ87: features-and-bug-fixes
   h_01HTJ68FK66CRVE3YBC5EXJAXS: accessibility
   h_01HTJ68FK6MDA09KSN0H5E301W: accessibility-features
@@ -186,11 +187,21 @@ This week we’re talking about mob effects, squashing bugs, and drinking from b
 - Wind Charges no longer collide with nor destroy End Crystals ([MCPE-179304](https://bugs.mojang.com/browse/MCPE-179304))
 - Wind Charges also no longer collide with other Wind Charges ([MCPE-179193](https://bugs.mojang.com/browse/MCPE-179193))
 
+## **Hardcore Mode**
+
+- The toggle for this feature can be found and enabled in the 'create new world' screen in the latest Preview
+- Added the Hardcore mode in-game HUD UI
+- The gameplay for this feature is still in development, so expect a few issues while it's in Preview
+- Hardcore mode worlds can be uploaded to Realms
+- Out of game menu screens currently do not display when a Hardcore mode world is loaded on a Realm
+
 # **Features and Bug Fixes**
 
 **Updated Player Profile in Bedrock Preview!**
 
-In the latest Bedrock Preview we updated the player Profile page. See your own profile or the profiles of other players! In the new Profile Screen, you can view achievement progress, compare stats, access the dressing room, and manage friends, with more features coming later this year. Please try it out and let us know what you think at [aka.ms/MCPreviewProfileFeedback](https://aka.ms/MCPreviewProfileFeedback)!
+**Important Note:** We've had to turn off the new Player Profile screens in this week's Preview after all, while we iron out a few more things. However, please have a read through the following to see what's planned!
+
+See your own profile or the profiles of other players! In the new Profile Screen, you can view achievement progress, compare stats, access the dressing room, and manage friends, with more features coming later this year. Please try it out and let us know what you think at [aka.ms/MCPreviewProfileFeedback](https://aka.ms/MCPreviewProfileFeedback)!
 
 ![Picture1.png](https://feedback.minecraft.net/hc/article_attachments/25581724071181)
 
