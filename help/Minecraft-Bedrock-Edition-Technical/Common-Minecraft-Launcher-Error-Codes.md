@@ -155,4 +155,4 @@ This error appears when the country/region set on your Xbox Live account is diff
 
 If you see a **launcher.dll: LoadErrorNotPresent** error message when you try to open the Minecraft: Java Edition launcher, it means a file is missing. 
 
-Manually update the Minecraft launcher. See [Minecraft: Java Edition Installation Issues](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md) for instructions.
+Manually update the Minecraft launcher. See [Minecraft: Java Edition Installation Issues](../Minecraft-Java-Edition-Technical/System-Requirements-for-Minecraft-Java-Edition.md) for instructions.

@@ -54,7 +54,7 @@ hash:
   h_01GK56PZR7NK68W4QGMH37CDTF: minecraft-bedrock-edition-for-windows-1
 ---
 
-*This article addresses installation and update issues for Minecraft: Bedrock Edition. If you need assistance with Minecraft: Java Edition installation* issues,* See the [Java Installation Issues FAQ](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md).*
+*This article addresses installation and update issues for Minecraft: Bedrock Edition. If you need assistance with Minecraft: Java Edition installation* issues,* See the [Java Installation Issues FAQ](../Minecraft-Java-Edition-Technical/System-Requirements-for-Minecraft-Java-Edition.md).*
 
 # In This Article: 
 

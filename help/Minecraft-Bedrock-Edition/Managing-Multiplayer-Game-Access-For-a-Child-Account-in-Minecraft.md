@@ -32,6 +32,6 @@ You can also manage child account settings on the [Xbox Family App](https://supp
 
 ### Related Articles
 
-- [Manage Spending in the Marketplace](./Managing-spending-for-child-accounts-in-Minecraft-Marketplace.md)
+- [Manage Spending in the Marketplace](./Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
 - [Manage a member’s content in the Xbox Family Settings app](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app)
 - [Microsoft Family Safety FAQ](https://prod.support.services.microsoft.com/en-us/account-billing/microsoft-family-safety-faq-bad45b7f-ee38-45fb-b1d2-7976e87a5526)

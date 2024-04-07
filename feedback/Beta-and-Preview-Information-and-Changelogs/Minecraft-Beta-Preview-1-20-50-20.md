@@ -65,7 +65,7 @@ Here’s a list of what’s new in this week’s Minecraft Preview and Beta! As 
 
 ## Realms
 
-Realms are now available in Preview and Beta! Any player who has an active Realms subscription is eligible to create a free Realm in Preview/Beta. This Preview Realm will be separate from your regular Realm to prevent any issues from impacting your regular Realm. For more information on how Preview Realms work, please see [Realms in Minecraft: Bedrock Edition Preview and Beta FAQ](../../help/Minecraft-Realms-Plus/How-to-start-a-Minecraft-Preview-Beta-Realm.md).
+Realms are now available in Preview and Beta! Any player who has an active Realms subscription is eligible to create a free Realm in Preview/Beta. This Preview Realm will be separate from your regular Realm to prevent any issues from impacting your regular Realm. For more information on how Preview Realms work, please see [Realms in Minecraft: Bedrock Edition Preview and Beta FAQ](../../help/Minecraft-Realms-Plus/How-to-Start-a-Minecraft-Preview-Beta-Realm.md).
 
 We are excited for you to try out any new gameplay features released in Preview on your Realm moving forward. (Psst, that includes some cool new Realms features that will be making their way to Preview soon!)
 

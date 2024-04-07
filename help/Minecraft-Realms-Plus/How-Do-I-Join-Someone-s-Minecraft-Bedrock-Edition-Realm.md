@@ -60,7 +60,7 @@ To check which resource pack you’re using, switch to the standard Minecraft ga
 1.  Select **Settings**
 2.  Select **Global Resources**
 
-**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [this article](../Minecraft-Bedrock-Edition/Managing-multiplayer-game-access-for-a-child-account-in-Minecraft.md).**
+**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [this article](../Minecraft-Bedrock-Edition/Managing-Multiplayer-Game-Access-For-a-Child-Account-in-Minecraft.md).**
 
 ## Leaving a Realm
 

@@ -23,5 +23,5 @@ You can also manage spending on the [Xbox Family App](https://support.xbox.com/e
 
 ### Related Articles
 
-[Managing multiplayer game access for a child account in Minecraft](./Managing-multiplayer-game-access-for-a-child-account-in-Minecraft.md)  
+[Managing multiplayer game access for a child account in Minecraft](./Managing-Multiplayer-Game-Access-For-a-Child-Account-in-Minecraft.md)  
 [Microsoft Family Safety FAQ](https://prod.support.services.microsoft.com/en-us/account-billing/microsoft-family-safety-faq-bad45b7f-ee38-45fb-b1d2-7976e87a5526)

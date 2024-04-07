@@ -51,7 +51,7 @@ Minecraft Realms is available for Minecraft: Bedrock Edition on Xbox consoles, W
 
 ## Can I play on a Realm if I have joined the Minecraft Beta/Preview Program?
 
-Yes! If you have a Realms subscription, you are also entitled to a Preview/Beta Realm on Minecraft Preview or Minecraft Beta. Your Preview/Beta realm comes with all the same features as your regular Realm. For more information, see the [Realms in Minecraft: Bedrock Edition Preview FAQ](./How-to-start-a-Minecraft-Preview-Beta-Realm.md).
+Yes! If you have a Realms subscription, you are also entitled to a Preview/Beta Realm on Minecraft Preview or Minecraft Beta. Your Preview/Beta realm comes with all the same features as your regular Realm. For more information, see the [Realms in Minecraft: Bedrock Edition Preview FAQ](./How-to-Start-a-Minecraft-Preview-Beta-Realm.md).
 
 ## Can I play on a Realm with players on different devices?
 

@@ -48,7 +48,7 @@ If you are having trouble with Minecraft Realms, refer to the resources below to
 
 - [How to Create a Minecraft: Bedrock Edition Realm](../Minecraft-Realms-Plus/How-to-Create-a-Minecraft-Bedrock-Edition-Realm.md)
 - [How to Create a Minecraft: Java Edition Realm](../Minecraft-Java-Realms/How-to-Create-a-Minecraft-Java-Edition-Realm.md)
-- [How to start a Minecraft Preview/Beta Realm](../Minecraft-Realms-Plus/How-to-start-a-Minecraft-Preview-Beta-Realm.md)
+- [How to start a Minecraft Preview/Beta Realm](../Minecraft-Realms-Plus/How-to-Start-a-Minecraft-Preview-Beta-Realm.md)
 
 ## Joining a Realm
 
@@ -74,4 +74,4 @@ If you are having trouble with Minecraft Realms, refer to the resources below to
 
 - [Minecraft Realms Connection Troubleshooting](./Minecraft-Realms-Connection-Troubleshooting.md)
 - [How to Turn Off the Minecraft: Java Edition Realms Profanity Filter](../Minecraft-Java-Realms/How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter.md)
-- [How to change a child account’s Privacy & Safety permissions for Minecraft Realms Stories](../Minecraft-Realms-Plus/How-to-change-a-child-account-s-Privacy-Safety-permissions-for-Minecraft-Realms-Stories.md)
+- [How to change a child account’s Privacy & Safety permissions for Minecraft Realms Stories](../Minecraft-Realms-Plus/How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)

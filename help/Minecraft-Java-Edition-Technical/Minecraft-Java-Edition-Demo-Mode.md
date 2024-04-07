@@ -40,8 +40,8 @@ Other possible issues could be:
 - You purchased Minecraft under a different email address, or the email address has been changed. Be sure to check your [account page](https://www.minecraft.net/en-us/profile) to verify your purchase of Minecraft.
 - Your purchase was refunded. In this case, you will have received an email from Minecraft and will need to re-purchase the game from the [Minecraft Store](https://www.minecraft.net/de-de/store/min...).
 - You just purchased Minecraft while the account was logged into the launcher, or you have not yet chosen a Java profile name. Be sure to restart your launcher and re-try.
-- Make sure your system meets the [system requirements](./Minecraft-Java-Edition-Installation-Issues-FAQ.md#what-are-the-device-requirements-to-run-minecraft-java-edition). 
+- Make sure your system meets the [system requirements](./System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE). 
 
 ## Didn't find what you were looking for?
 
-Explore the [Minecraft: Java Edition Troubleshooting](./Minecraft-Java-Edition-Troubleshooting.md) page or [Contact Minecraft Support](./Who-to-contact-with-your-Minecraft-support-questions.md).
+Explore the [Minecraft: Java Edition Troubleshooting](./Get-Help-with-Minecraft-Java-Edition-game-connection-errors.md) page or [Contact Minecraft Support](./Who-to-contact-with-your-Minecraft-support-questions.md).

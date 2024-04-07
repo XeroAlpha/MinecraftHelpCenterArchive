@@ -147,7 +147,7 @@ You can also check out our [Bug Reports](https://bugs.mojang.com/secure/Dashboar
 
 ## General Error Code Troubleshooting
 
-Always make sure that your game is [up to date and running the latest version of Minecraft](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Installation-Issues-FAQ.md).
+Always make sure that your game is [up to date and running the latest version of Minecraft](../Minecraft-Java-Edition-Technical/System-Requirements-for-Minecraft-Java-Edition.md).
 
 Additionally, please confirm that your Minecraft account is attached to a Microsoft account. You can check this by going to the main menu, then clicking the sign-in button at the bottom right.
 
