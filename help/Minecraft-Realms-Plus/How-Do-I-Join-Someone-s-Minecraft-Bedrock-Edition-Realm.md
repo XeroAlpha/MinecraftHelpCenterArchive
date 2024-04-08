@@ -1,7 +1,7 @@
 ---
 title: "How Do I Join Someone's Minecraft: Bedrock Edition Realm?"
 date: 2021-09-30T23:13:51Z
-updated: 2024-02-28T17:46:02Z
+updated: 2024-04-08T17:36:30Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -34,8 +34,6 @@ hash:
   h_01HHZB3CYAE9HZ1ZY01F2NBJ5M: leaving-a-realm
   h_01HHZB7E1GH67JPJ76974YACA3: troubleshooting
 ---
-
-*This article is for Minecraft Realms Plus on Minecraft: Bedrock Edition for mobile, Chromebook, Nintendo Switch, Sony PlayStation® 4 and 5, PC, Windows 10 and above, and Xbox One and Series X\|S. If you want to create a Realm for Minecraft: Java Edition, go to [Minecraft: Java Edition Realms Creation FAQ](../Minecraft-Java-Realms/How-to-Create-a-Minecraft-Java-Edition-Realm.md).  *
 
 Minecraft Realms is a multiplayer service that enables you to play Minecraft: Bedrock Edition online with two or up to ten of your friends. For more information, check out [Minecraft.net/Realms](https://www.minecraft.net/en-us/realms).  
 
