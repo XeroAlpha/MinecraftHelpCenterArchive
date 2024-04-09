@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your World to Another Device in Minecraft: Bedrock Edition"
 date: 2021-09-13T22:15:53Z
-updated: 2024-03-18T20:51:10Z
+updated: 2024-04-09T15:32:36Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - subject_progress_and_saved_games
@@ -58,8 +58,13 @@ If the above method does not work, ensure that both versions of Minecraft you ar
 If you are on PC and would rather manually move your Minecraft worlds between folders and USB drives, you can find your world files by doing the following:
 
 1.  Press the **Windows key** and **R** simultaneously.
-2.  Type **%appdata% **and press **Ok**.
-3.  Open **.minecraft.**
-4.  Open the **saves** folder.
+2.  Copy and paste **%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang** and press **Ok**.
+3.  Open **minecraftWorlds**.
 
-From here, you can manually backup and move your world folders.
+From here, you can manually backup and move your world folders. You can also export your worlds on PC in-game by doing the following:
+
+1.  Start Minecraft.
+2.  Select **Play**.
+3.  Click the **Edit World** icon next to the world you want to export.
+4.  Scroll to the bottom of **Game Settings**.
+5.  Select **Export World**.
