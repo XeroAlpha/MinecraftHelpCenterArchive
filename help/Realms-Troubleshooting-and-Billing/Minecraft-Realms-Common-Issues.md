@@ -1,7 +1,7 @@
 ---
-title: Minecraft Realms Common Issues
+title: Minecraft Realms Support
 date: 2021-09-14T23:14:55Z
-updated: 2024-03-28T20:03:55Z
+updated: 2024-04-10T21:27:21Z
 categories: Realms Troubleshooting and Billing
 tags:
   - title_minecraft_java_edition
@@ -33,16 +33,16 @@ tags:
   - section_12618486785805
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Common-Issues
+link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Support
 hash:
   h_01HT38HTGHV9RD4ZAZ2MG5WC8A: creating-a-realm
   h_01HT38J801SW209HGX04EK8HM7: joining-a-realm
   h_01HT38JNPGRNYFXC4JVRFGJHDB: realm-world-management
-  h_01HT38K4W9GC7RQKBSQS6S3C6F: billing
+  h_01HT38K4W9GC7RQKBSQS6S3C6F: subscriptions--billing
   h_01HT38KREXYKT8STYH0SQD5GM2: troubleshooting
 ---
 
-If you are having trouble with Minecraft Realms, refer to the resources below to potentially find a solution.
+If you want to learn more about Minecraft Realms, how to join a game, or manage an existing Realms subscription, refer to the resources below.
 
 ## Creating a Realm
 
@@ -55,15 +55,17 @@ If you are having trouble with Minecraft Realms, refer to the resources below to
 - [How to Invite Friends to Your Minecraft: Bedrock Edition Realm](../Minecraft-Realms-Plus/How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md)
 - [How do I Join Someone's Minecraft Java Realm?](../Minecraft-Java-Realms/How-do-I-Join-Someone-s-Minecraft-Java-Realm.md)
 
-## Realm world management
+## Realm World Management
 
 - [How to Create a Backup of a Minecraft: Java Edition Realm](../Minecraft-Java-Realms/How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
 - [Minecraft: Bedrock Edition Realms Backup FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md)
 - [How to Manage Your Minecraft: Bedrock Edition Realm](../Minecraft-Realms-Plus/How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
 - [How to Upload Worlds onto a Minecraft Realm](../Minecraft-Realms-Plus/How-to-Upload-Worlds-onto-a-Minecraft-Realm.md)
 
-## Billing
+## Subscriptions & Billing
 
+- [How To View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition](./How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Bedrock-Edition.md)
+- [How To View a Realms Subscription Renewal Date for Minecraft: Java Edition](../Minecraft-Java-Realms/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Java-Edition.md)
 - [How Do I Cancel a Minecraft: Java Edition Realm Subscription?](../Minecraft-Java-Realms/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)
 - [How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription?](./How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md)
 - [How Do I Renew an Expired Minecraft: Java Edition Realm Subscription?](../Minecraft-Java-Realms/How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md)
