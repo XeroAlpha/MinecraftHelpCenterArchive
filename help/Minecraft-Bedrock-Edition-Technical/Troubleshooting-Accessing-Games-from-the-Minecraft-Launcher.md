@@ -26,7 +26,7 @@ hash:
   h_01HMSE1VBGK37GYRYAZ0WT1HNV: i-own-bedrock-but-when-i-try-to-run-java-i-cant-create-a-profile
 ---
 
-This article focuses on issues that may be preventing you from having access to Minecraft games in the Minecraft Launcher. For other troubleshooting topics, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).
+This article focuses on issues that may be preventing you from having access to Minecraft games in the Minecraft Launcher. For other troubleshooting topics, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Support.md).
 
 # In This Article:
 

@@ -22,7 +22,7 @@ The following are known issues that can occur when playing Minecraft Legends. Fi
 
 - **Steam Deck performance issues.**
 - **The 8001 (or 0x803F8001) Xbox App error.**
-  - **If you're experiencing the Xbox App error, please refer to the first few sections of our [Minecraft Launcher Troubleshooting FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-Troubleshooting-Common-Issues.md#h_01GAHKDWEKS8JMH6W5KW7KAY2Y) for additional help.**
+  - **If you're experiencing the Xbox App error, please refer to the first few sections of our [Minecraft Launcher Troubleshooting FAQ](../Minecraft-Bedrock-Edition-Technical/Minecraft-Launcher-Support.md#h_01GAHKDWEKS8JMH6W5KW7KAY2Y) for additional help.**
   - **If that doesn't help, please try updating your Game Services through Windows [via this article](https://support.xbox.com/en-US/help/games-apps/troubleshooting/troubleshoot-games-windows-10).**
 - **The Legends window opening and then suddenly crashing.**
 - **Physical and Digital Deluxe Edition Carrot Commander downloadable content (DLC) Error Code redemption.**

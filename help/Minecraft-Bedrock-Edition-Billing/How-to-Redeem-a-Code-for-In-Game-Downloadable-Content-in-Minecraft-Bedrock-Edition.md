@@ -21,7 +21,7 @@ hash:
   h_01GJ62MCZ0E1MXAHGNGYBGVSD0: how-do-i-get-additional-help
 ---
 
-*Japanese version here/日本語はこちら: [ゲーム内 DLC のコードの引き換え方法について](https://help.minecraft.net/hc/en-us/articles/4411178613005)*
+*Japanese version here/日本語はこちら: [ゲーム内 DLC のコードの引き換え方法について](./DLC.md)*
 
 *This article will focus on how to redeem in-game downloadable content (DLC) codes for Minecraft: Bedrock Edition. *
 

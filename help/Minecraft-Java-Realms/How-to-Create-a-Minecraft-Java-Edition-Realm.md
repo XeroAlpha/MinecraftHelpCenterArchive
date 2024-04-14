@@ -33,7 +33,7 @@ hash:
   h_01HHZ9SFPF0V9PTS2XTEPZSBKD: uploadworld
 ---
 
-This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Common-Issues.md).
+This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Support.md).
 
 ## How to create a Minecraft: Java Edition Realm
 

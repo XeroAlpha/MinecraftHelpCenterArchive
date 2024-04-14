@@ -26,7 +26,7 @@ hash:
   h_01HMSD5P4JQSF0P7R6224EEXAG: bedrock-and-other-minecraft-games
 ---
 
-This article is dedicated to helping you fix any problems in starting Minecraft from the Minecraft Launcher on your PC. For more troubleshooting topics, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).
+This article is dedicated to helping you fix any problems in starting Minecraft from the Minecraft Launcher on your PC. For more troubleshooting topics, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Support.md).
 
 # In This Article:
 

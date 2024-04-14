@@ -2,7 +2,7 @@
 title: "Additional Minecraft: Bedrock Edition Parental Controls for All Platforms"
 date: 2020-07-14T19:32:10Z
 updated: 2023-09-27T20:22:23Z
-categories: "Minecraft: Bedrock Edition Technical"
+categories: "Minecraft: Bedrock Edition"
 tags:
   - title_minecraft
   - category_technical_support
@@ -27,7 +27,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360045816952-Additional-Minec
 
 *This article covers links to configuring parental controls for Minecraft: Bedrock Edition for mobile devices, Nintendo Switch, PlayStation, Windows, Chromebook, and Xbox One/Series consoles.* 
 
-See, parental controls for [Minecraft](../Minecraft-Bedrock-Edition/Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md).
+See, parental controls for [Minecraft](./Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md).
 
 See, family and online safety for [Xbox](https://support.xbox.com/en-US/help/family-online-safety/browse).
 

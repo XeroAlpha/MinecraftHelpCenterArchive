@@ -34,7 +34,7 @@ hash:
   h_01HT36E56S1HT2S0FBSJ566YJY: resolving-minecraft-launcherdll-error
 ---
 
-If you are trying to play Minecraft through the Minecraft Launcher on PC but are running into an error code, this article will go over various error codes and how to fix them. For more troubleshooting solutions in the Minecraft Launcher, please visit the [Minecraft Launcher Troubleshooting hub](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).
+If you are trying to play Minecraft through the Minecraft Launcher on PC but are running into an error code, this article will go over various error codes and how to fix them. For more troubleshooting solutions in the Minecraft Launcher, please visit the [Minecraft Launcher Troubleshooting hub](./Minecraft-Launcher-Support.md).
 
 # In This Article:
 

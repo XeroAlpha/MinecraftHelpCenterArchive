@@ -25,7 +25,7 @@ hash:
   h_01HMSBYEW5JGE1SVPFPNT5XWP1: my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time
 ---
 
-This page covers issues you may encounter with the Minecraft Launcher not starting or letting you login and access your games. For other Launcher issues, please visit the [Minecraft Launcher Troubleshooting Common Issues page](./Minecraft-Launcher-Troubleshooting-Common-Issues.md).
+This page covers issues you may encounter with the Minecraft Launcher not starting or letting you login and access your games. For other Launcher issues, please visit the [Minecraft Launcher Troubleshooting Common Issues page](./Minecraft-Launcher-Support.md).
 
 # In This Article:
 
