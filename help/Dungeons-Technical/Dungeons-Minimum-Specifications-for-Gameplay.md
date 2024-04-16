@@ -1,7 +1,7 @@
 ---
-title: Dungeons Minimum Specifications for Gameplay
+title: Minecraft Dungeons Minimum Specifications for Gameplay
 date: 2020-01-29T19:16:16Z
-updated: 2023-11-15T18:28:51Z
+updated: 2024-04-16T21:12:03Z
 categories: Dungeons Technical
 tags:
   - category_technical_support
@@ -9,7 +9,7 @@ tags:
   - title_minecraft_dungeons
   - platform_windows_10
   - section_12618340057613
-link: https://help.minecraft.net/hc/en-us/articles/360038937032-Dungeons-Minimum-Specifications-for-Gameplay
+link: https://help.minecraft.net/hc/en-us/articles/360038937032-Minecraft-Dungeons-Minimum-Specifications-for-Gameplay
 ---
 
 **Windows PC Requirements** 
