@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T21:02:17Z
-updated: 2024-03-11T18:18:38Z
+updated: 2024-04-17T19:02:49Z
 categories: Minecraft Realms Plus
 tags:
   - title_minecraft
@@ -59,10 +59,8 @@ You can create a Realm on the following platforms: 
 
 Your realm can be one of two sizes, divided into tiers:  
 
-- 2 Users allows for two players simultaneously, plus the owner  
-- 10 Users allows for ten players simultaneously, plus the owner  
-
-For more information on Minecraft Realms subscriptions, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/22471397285901).
+- 2 Users allows for two players simultaneously, plus the owner.
+- 10 Users allows for ten players simultaneously, plus the owner.
 
 Once you’ve decided your Realm size, you can name your Realm.
 
