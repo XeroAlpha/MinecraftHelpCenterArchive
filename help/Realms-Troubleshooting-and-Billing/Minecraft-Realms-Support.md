@@ -55,7 +55,7 @@ If you want to learn more about Minecraft Realms, how to join a game, or manage 
 - [How to Invite Friends to Your Minecraft: Bedrock Edition Realm](../Minecraft-Realms-Plus/How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md)
 - [How Do I Join Someone's Minecraft: Bedrock Edition Realm?](../Minecraft-Realms-Plus/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md)
 - [How To Invite Friends To Your Minecraft: Java Edition Realm](../Minecraft-Java-Realms/How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)
-- [How Do I Join Someone's Minecraft: Java Edition Realm?](../Minecraft-Java-Realms/How-do-I-Join-Someone-s-Minecraft-Java-Realm.md)
+- [How Do I Join Someone's Minecraft: Java Edition Realm?](../Minecraft-Java-Realms/How-Do-I-Join-Someone-s-Minecraft-Java-Edition-Realm.md)
 
 ## Realm World Management
 

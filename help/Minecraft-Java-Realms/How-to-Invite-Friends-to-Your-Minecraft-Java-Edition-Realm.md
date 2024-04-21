@@ -24,4 +24,4 @@ To join a Realm, you will need to receive an invite from the host of said Realm.
 6.  Input the player's Profile Name.
 7.  Select **Invite**.
 
-To accept the invite, see [How Do I Join Someone's Minecraft: Java Edition Realm?](./How-do-I-Join-Someone-s-Minecraft-Java-Realm.md)
+To accept the invite, see [How Do I Join Someone's Minecraft: Java Edition Realm?](./How-Do-I-Join-Someone-s-Minecraft-Java-Edition-Realm.md)
