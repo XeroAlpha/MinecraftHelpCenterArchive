@@ -1,8 +1,8 @@
 ---
 title: "How to Create a Backup of a Minecraft: Java Edition Realm"
 date: 2023-10-24T21:14:02Z
-updated: 2024-03-04T18:26:58Z
-categories: Minecraft Java Realms
+updated: 2024-04-22T19:18:48Z
+categories: Manage or Troubleshoot Realms
 tags:
   - title_minecraft_java_edition
   - platform_windows_10
@@ -12,8 +12,8 @@ tags:
   - platform_macos
   - platform_pc
   - platform_macOS
-  - section_12618497714061
   - platform_chromebook
+  - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm
 hash:
   h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them
@@ -55,8 +55,8 @@ Beyond auto-saving the main save file, we also take a backup every time we save.
 
 We can’t keep all of your backups around forever, though, so the following retention policy is in place:
 
-- The four most recent backups are retained, regardless of age
-- In the last 24 hours: We retain one backup per hour, up to a maximum of 4.
+- The four most recent backups are retained, regardless of age.
+- In the last 24 hours: We retain one backup per every 4 hours.
 - 1 day to 8 days ago: We retain one backup per day.
 - 9 days to 36 days ago: We retain one backup a week.
 - 37 days to 121 days ago: We retain one backup a month.

@@ -1,8 +1,8 @@
 ---
 title: "Minecraft: Bedrock Edition Realms Backup FAQ"
 date: 2023-10-24T21:10:46Z
-updated: 2024-03-04T18:30:35Z
-categories: Minecraft Realms Plus
+updated: 2024-04-22T19:19:50Z
+categories: Manage or Troubleshoot Realms
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -14,8 +14,8 @@ tags:
   - subject_other_realms_questions
   - platform_sony_playstation_4
   - platform_pc
-  - section_12618443219469
   - platform_chromebook
+  - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20687461045645-Minecraft-Bedrock-Edition-Realms-Backup-FAQ
 hash:
   h_01HHZHM4FZTV16XWHHVC5BS122: how-does-mojang-backup-your-realm
@@ -31,8 +31,8 @@ Beyond auto-saving the main save file, we also take a backup every time we save.
 
 We can’t keep all of your backups around forever, though, so the following retention policy is in place:
 
-- The four most recent backups are retained, regardless of age
-- In the last 24 hours: We retain one backup per hour, up to a maximum of 4.
+- The four most recent backups are retained, regardless of age.
+- In the last 24 hours: We retain one backup per every 4 hours.
 - 1 day to 8 days ago: We retain one backup per day.
 - 9 days to 36 days ago: We retain one backup a week.
 - 37 days to 121 days ago: We retain one backup a month.
