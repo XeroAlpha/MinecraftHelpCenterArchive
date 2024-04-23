@@ -215,7 +215,8 @@ function execPromisify(command, options) {
 
 export async function analyzeHtml(html) {
     const input = await execPromisify('pandoc -f html -t json', {
-        input: html
+        input: html,
+        maxBuffer: 16 * 1024 * 1024 // 16M
     });
 
     /** @type {PandocJSON} */
@@ -272,6 +273,7 @@ export async function convertHtmlToMarkdown(json, options) {
     }).document(json);
 
     return (await execPromisify('pandoc -f json -t gfm --wrap=none', {
-        input: JSON.stringify(json)
+        input: JSON.stringify(json),
+        maxBuffer: 16 * 1024 * 1024 // 16M
     })).toString().replace(/\r\n/g, '\n');
 }
