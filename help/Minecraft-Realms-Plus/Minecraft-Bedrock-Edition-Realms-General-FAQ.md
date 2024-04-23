@@ -1,8 +1,8 @@
 ---
 title: "Minecraft: Bedrock Edition Realms General FAQ"
 date: 2023-10-24T21:42:42Z
-updated: 2024-03-11T18:06:19Z
-categories: Minecraft Realms Plus
+updated: 2024-04-22T21:41:27Z
+categories: Create or Join Realms
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -14,8 +14,8 @@ tags:
   - subject_other_realms_questions
   - platform_sony_playstation_4
   - platform_pc
-  - section_12618443219469
   - platform_chromebook
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/20688488192013-Minecraft-Bedrock-Edition-Realms-General-FAQ
 hash:
   h_01HHZGH3QYG4GJMMF7ZS7W26FB: what-are-realms
@@ -43,7 +43,7 @@ Your realm can be one of two sizes, divided into tiers:  
 
 While the 2 and 10 numbers refer to how many people can be on that Realm at one time, you can invite as many people as you want to have access to your Realm.
 
-For more information on Realm sizes, please refer to [this article](https://help.minecraft.net/hc/en-us/articles/22471397285901).
+For more information on Realm sizes, please refer to [the Minecraft Realms page](https://www.minecraft.net/en-us/realms/bedrock).
 
 ## Which versions of Minecraft support Minecraft Realms?
 
