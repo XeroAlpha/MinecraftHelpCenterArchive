@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition 1.20.5 - Armored Paws"
 date: 2024-04-23T15:03:42Z
-updated: 2024-04-24T07:35:58Z
+updated: 2024-04-24T13:35:32Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26136167989005-Minecraft-Java-Edition-1-20-5-Armored-Paws
 hash:
@@ -2141,7 +2141,14 @@ The Resource Pack version is now 32. These are the changes compared to version 2
 - The following textures have been updated: gui/footer_separator, gui/header_separator
 - The following sprites have been updated: widget/tab, widget/tab_highlighted, widget/tab_selected, widget/tab_selected_highlighted
 - The widget/scroller_background sprite has been added
-- The following textures in Realms have been removed: gui/sprites/backup/changes, gui/sprites/backup/changes_highlighted, gui/sprites/backup/restore, gui/sprites/backup/restore_highlighted, gui/sprites/player_list/make_operator_highlighted, gui/sprites/player_list/remove_operator_highlighted, gui/sprites/player_list/remove_player_highlighted
+- The following textures in Realms have been removed: 
+  - gui/sprites/backup/changes, 
+  - gui/sprites/backup/changes_highlighted, 
+  - gui/sprites/backup/restore,
+  -  gui/sprites/backup/restore_highlighted,
+  -  gui/sprites/player_list/make_operator_highlighted, 
+  - gui/sprites/player_list/remove_operator_highlighted, 
+  - gui/sprites/player_list/remove_player_highlighted
 - Added gui/tab_header_background texture, which is rendered behind the tab buttons in the Create World Screen
 - Added misc/credits_vignette texture, which is rendered behind the poem and the credits
 - Split map decoration atlas into separate files
