@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Java Edition 1.20.5 (Armored Paws)"
+title: "Minecraft: Java Edition 1.20.5 - Armored Paws"
 date: 2024-04-23T15:03:42Z
-updated: 2024-04-23T15:03:49Z
+updated: 2024-04-24T07:35:58Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26136167989005-Minecraft-Java-Edition-1-20-5-Armored-Paws
 hash:
@@ -217,6 +217,8 @@ Happy scute brushing!
 - Added Wolf Armor
 - Added Wolf variants
 
+![](https://feedback.minecraft.net/hc/article_attachments/26157234923149)
+
 ### ARMADILLO
 
 - The Armadillo is a new passive mob
@@ -239,11 +241,15 @@ Happy scute brushing!
     - If no threats are detected for 4 seconds, it will unroll
 - Spiders and Cave Spiders will run away from Armadillos that are not in a rolled up state
 
+![](https://feedback.minecraft.net/hc/article_attachments/26157218747149)
+
 #### ARMADILLO SCUTES
 
 - Armadillo Scutes are dropped by Armadillos periodically or when an Armadillo is brushed
 - Armadillo Scutes can be used to craft Wolf Armor
 - Dispensers can be used to brush Armadillo Scutes off Armadillos
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218750477)
 
 ### WOLF ARMOR
 
@@ -255,6 +261,8 @@ Happy scute brushing!
 - Wolf Armor can only be equipped on a tame adult Wolf
 - Only the Wolf's owner can equip, repair, and shear Wolf Armor
 - Dispensers cannot equip nor remove Wolf Armor
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218751885)
 
 ### WOLF VARIANTS
 
@@ -275,6 +283,8 @@ When summoned in other ways (e.g. using the Spawn Egg or using the summon comm
 - Rusty Wolf: will be selected in all Jungle-like biomes, including Jungle and Bamboo Jungle Biomes
 - Spotted Wolf: will be selected in all Savanna-like biomes, including Savanna and Windswept Savanna Biomes
 - Striped Wolf: will be selected in all Badlands-like biomes, including Badlands and Eroded Badlands Biomes
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218755725)
 
 ### ADVANCEMENTS
 
@@ -302,6 +312,8 @@ When summoned in other ways (e.g. using the Spawn Egg or using the summon comm
 ### UI UPDATES
 
 The UI has been updated to sport a fresher look and to be more consistent when it comes to the layout of different UI elements, all while retaining the essence and feel of the old screens.
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218757773)
 
 - The menu background dirt texture has been replaced by a darkened background
   - The dirt background can be restored by using the built-in Programmer Art Resource Pack
@@ -334,6 +346,8 @@ The UI has been updated to sport a fresher look and to be more consistent when i
 - They no longer take half of the damage from most environmental sources like they used to do
   - In most cases, this change will make no difference given the health boost, but they can now withstand more damage from players and arrows
 - Feeding a Wolf now heals twice as many health points
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218760589)
 
 ### MINOR TWEAKS TO BLOCKS, ITEMS AND ENTITIES
 
@@ -440,6 +454,8 @@ The UI has been updated to sport a fresher look and to be more consistent when i
   - This will create fresh and defragmented region files
   - Using this parameter after changing the region-file-compression server property will recompress all region filesin the new format
 
+![](https://feedback.minecraft.net/hc/article_attachments/26157234942989)
+
 ### IMPROVED THE SERVER TPS DEBUG CHART
 
 - As before, it is accessible by pressing F3 + 2
@@ -471,6 +487,8 @@ The Data Pack version used by the game is now 41. These are the changes compared
 - Recipe results can now specify component data
 - Added data-driven registries for Banner Patterns and Wolf Variants
 - Particle representation in commands and area effect clouds has been changed
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218762125)
 
 ### ITEM DATA FORMAT
 
@@ -620,6 +638,8 @@ These are item stack components that replace existing functionality that was for
   - e.g. dyed_color={rgb:16711680}
   - Alternatively, can be defined as an inline integer RGB value
     - e.g. dyed_color=16711680
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218764173)
 
 ##### minecraft:attribute_modifiers
 
@@ -1005,7 +1025,8 @@ These are item stack components that replace existing functionality that was for
 - Copied to Decorated Pot block when placed
 - Replaces BlockEntityTag.sherds tag of same format
 - Format: list of sherd item ids
-  - e.g. \['arms_up_pottery_sherd','angler_pottery_sherd','danger_pottery_sherd','shelter_pottery_sherd'\]
+  - e.g.  
+    \['arms_up_pottery_sherd','angler_pottery_sherd','danger_pottery_sherd','shelter_pottery_sherd'\]
 - On Decorated Pots, has an implicit default value of: \['minecraft:brick','minecraft:brick','minecraft:brick','minecraft:brick'\]
 
 ##### minecraft:container
@@ -1086,6 +1107,8 @@ These are new components that did not exist in the previous item tag, and suppor
   - If true, an item without an enchantment glint will display a glint
   - If false, an item with a glint will not display this glint (either from enchantments or intrinsic properties of the item)
   - e.g: enchantment_glint_override=true
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218766989)
 
 ##### minecraft:food
 
@@ -1423,19 +1446,17 @@ Parameters:
 
 Example:
 
-```
-{
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-        "slots": {
-            "container.*": {
-                "items": "dirt"
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "slots": {
+                "container.*": {
+                    "items": "dirt"
+                }
             }
         }
     }
-}
-```
 
 ##### wolf type-specific entity predicate
 
@@ -1485,7 +1506,8 @@ Item predicate format has been updated:
   - Fields:
     - damage - optional bounds for value of minecraft:damage component
     - durability - optional bounds for durability (max damage minus value of minecraft:damage)
-- Predicates minecraft:enchantments, minecraft:stored_enchantments, minecraft:potion_contents and minecraft:damage require matching component to exist on item
+- Predicates minecraft:enchantments, minecraft:stored_enchantments, minecraft:potion_contents  
+  and minecraft:damage require matching component to exist on item
   - That means that, for example, matching for empty enchantment list will not pass on items without minecraft:damage component
   - Note: some components, like minecraft:enchantments have default values, so they will always match
 - These sub-predicates can also be referenced in commands such as /clear and /execute if\|unless items
@@ -1498,25 +1520,8 @@ Item predicate format has been updated:
 
 Before:
 
-```
-"item": {
-  "enchantments": [
-    {
-      "enchantment": "minecraft:silk_touch",
-      "levels": {
-        "min": 1
-      }
-    }
-  ]
-}
-```
-
-After:
-
-```
-"item": {
-  "predicates": {
-    "minecraft:enchantments": [
+    "item": {
+      "enchantments": [
         {
           "enchantment": "minecraft:silk_touch",
           "levels": {
@@ -1524,9 +1529,22 @@ After:
           }
         }
       ]
-  }
-}
-```
+    }
+
+After:
+
+    "item": {
+      "predicates": {
+        "minecraft:enchantments": [
+            {
+              "enchantment": "minecraft:silk_touch",
+              "levels": {
+                "min": 1
+              }
+            }
+          ]
+      }
+    }
 
 ##### General Rules of Component Predicates
 
@@ -1880,7 +1898,8 @@ After:
 - It works by setting fields like show_in_tooltip without changing other values
 - Format:
   - toggles - a map of supported item component type to boolean value
-- Supported components: trim, dyed_color, enchantments, stored_enchantments, unbreakable, can_break, can_place_on, attribute_modifiers
+- Supported components: trim, dyed_color, enchantments, stored_enchantments, unbreakable,  
+  can_break, can_place_on, attribute_modifiers
 - Example:
   - {function:"toggle_tooltips","toggles":{"enchantments":false}} will hide enchantments tooltip
 
@@ -1889,6 +1908,8 @@ After:
 - Recipe types crafting_shaped, crafting_shapeless, stonecutting and smithing_transform now accept components for the result item stack
 - The result field for recipe types smelting, blasting, smoking and campfire_cooking is now an item stack format without a count, which means you'll need to specify an object with an id field
   - This result now also accepts components data
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157234947725)
 
 ### ATTRIBUTES
 
@@ -1904,6 +1925,8 @@ After:
 - Renamed horse.jump_strength to generic.jump_strength, and now applies to all entities
   - This controls the base impulse from a jump (before jump boost or modifier on block)
 - Added player.block_break_speed attribute that acts as a multiplier over block breaking speed for players (default: \`1.0)
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218771213)
 
 ### PARTICLES
 
@@ -1959,8 +1982,11 @@ Added the following particle types:
 #### BLOCK TAGS
 
 - Added minecraft:does_not_block_hoppers for blocks that will never disable a Hopper when placed above one
-- Added minecraft:blocks_wind_charge_explosions for blocks not impacted by the explosion when hit by Wind Charge
-- Added minecraft:incorrect_for_wooden_tool, minecraft:incorrect_for_gold_tool, minecraft:incorrect_for_stone_tool, minecraft:incorrect_for_iron_tool, minecraft:incorrect_for_diamond_tool, minecraft:incorrect_for_netherite_tool
+- Added minecraft:blocks_wind_charge_explosions for blocks not impacted by the explosion  
+  when hit by Wind Charge
+- Added minecraft:incorrect_for_wooden_tool, minecraft:incorrect_for_gold_tool,  
+  minecraft:incorrect_for_stone_tool,minecraft:incorrect_for_iron_tool,   
+  minecraft:incorrect_for_diamond_tool, minecraft:incorrect_for_netherite_tool
   - These tags combine the existing needs_diamond_tool, needs_iron_tool, and needs_stone_tool tags for each specific tool tier
 
 #### ITEM TAGS
@@ -2206,6 +2232,8 @@ The following changes only apply when their respective Experiment is turned on, 
 - Added Bogged mob
 - Added 6 new mob effects
 
+![](https://feedback.minecraft.net/hc/article_attachments/26157234950797)
+
 ### MACE
 
 - A new heavy weapon to smash your enemies!
@@ -2224,6 +2252,9 @@ The following changes only apply when their respective Experiment is turned on, 
   - Bane of Arthropods
   - Fire Aspect
   - Curse of Vanishing
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157234952589)
+
 - Three new enchantments have been introduced that are unique to the Mace:
   - Density:
     - Common Enchantment, accessible in the Enchanting Table and on Enchanted Books in loot
@@ -2260,6 +2291,8 @@ The following changes only apply when their respective Experiment is turned on, 
 - Breeze no longer retaliates against attacks from the following mobs: Skeletons, Strays, Zombies, Husks, Spiders, Cave Spiders, Slimes
   - The above mobs will not retaliate when hurt by the Breeze's Wind Charge Projectile
 - Updated the model, texture, and animation of the Wind Charge projectile to give it a more dynamic look and feel
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157218777997)
 
 ### WIND CHARGE
 
@@ -2337,6 +2370,8 @@ Known issue:
   - It is no longer given to players that defeat a Raid Captain outside a Raid
     - Instead, players can gain access to Bad Omen by consuming a new Ominous Bottle
 
+![](https://feedback.minecraft.net/hc/article_attachments/26157234955533)
+
 #### OMINOUS BOTTLE
 
 - An item which can be consumed by players to receive the Bad Omen effect for 1 hour and 40 minutes
@@ -2344,6 +2379,8 @@ Known issue:
   - The bottle breaks when consumed
   - Can be stacked to 64
 - Ominous Bottles can be found uncommonly in any Vaults that are unlocked with Trial Keys, and are dropped by Raid Captains when defeated outside a Raid
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157234957837)
 
 ### OMINOUS TRIALS
 
@@ -2378,16 +2415,22 @@ Known issue:
   - It will stay Ominous until it has been defeated and its cooldown has finished
 - When defeated, it will eject a different set of loot compared to normal Trial Spawners
 
+![](https://feedback.minecraft.net/hc/article_attachments/26157218784909)
+
 #### OMINOUS TRIAL KEY
 
 - A new variant of the Trial Key which can only be obtained by defeating an Ominous Trial Spawner
 - They can be used to unlock Ominous Vaults
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157234958989)
 
 #### OMINOUS VAULT
 
 - A variant of Vaults that have a different texture and emit soul flames instead of normal flames
 - These can be found throughout the Trial Chambers in harder to find places and require an Ominous Trial Key to unlock
   - These Vaults hold a more valuable set of rewards than the standard Vaults unlocked by Trial Keys
+
+![](https://feedback.minecraft.net/hc/article_attachments/26157234960269)
 
 ### BOGGED
 
