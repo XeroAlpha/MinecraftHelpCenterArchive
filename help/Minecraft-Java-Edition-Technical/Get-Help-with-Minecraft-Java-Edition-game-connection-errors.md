@@ -1,11 +1,11 @@
 ---
-title: "Get Help with Minecraft: Java Edition game connection errors"
+title: "Get Help with Minecraft: Java Edition Game Connection Errors"
 date: 2021-09-10T20:45:00Z
-updated: 2024-04-01T21:50:10Z
+updated: 2024-04-24T16:12:35Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - section_12618019146893
-link: https://help.minecraft.net/hc/en-us/articles/4408949606541-Get-Help-with-Minecraft-Java-Edition-game-connection-errors
+link: https://help.minecraft.net/hc/en-us/articles/4408949606541-Get-Help-with-Minecraft-Java-Edition-Game-Connection-Errors
 hash:
   h_01HTDT080MJXNDX07FF7NHSKEE: i-cannot-connect-to-game-services
   h_01HTDT0GB13FCC781CA0XMBDKM: internal-exception-error

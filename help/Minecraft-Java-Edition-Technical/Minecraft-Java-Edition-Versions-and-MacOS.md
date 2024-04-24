@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Java Edition Versions and MacOS  "
+title: "Minecraft: Java Edition Versions and MacOS "
 date: 2022-01-12T15:55:36Z
-updated: 2024-04-01T21:25:37Z
+updated: 2024-04-24T16:04:31Z
 categories: "Minecraft: Java Edition Technical"
 tags:
   - title_minecraft_java_edition

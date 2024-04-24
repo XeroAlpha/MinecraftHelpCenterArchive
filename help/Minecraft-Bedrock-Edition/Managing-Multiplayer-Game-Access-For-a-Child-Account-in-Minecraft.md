@@ -1,12 +1,12 @@
 ---
-title: Managing Multiplayer Game Access For a Child Account in Minecraft
+title: Managing Multiplayer Game Access for a Child Account in Minecraft
 date: 2024-02-20T22:11:14Z
-updated: 2024-04-03T16:30:06Z
+updated: 2024-04-24T16:36:56Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - trending
   - section_15463792344973
-link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-For-a-Child-Account-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft
 hash:
   h_01HQ48AQA222X3Q8S3ZPS30SNX: related-articles
 ---
@@ -20,13 +20,17 @@ Follow these steps to update child account settings that control access to multi
 
 4\. Choose the following settings:
 
-- Set create and join clubs to **allow**
-- Set join multiplayer games to **allow**
-- Set play with players outside of Xbox Live to **allow** if you want to be able to crossplay on other consoles
+- Set **Join multiplayer games** to **allow**.
 
-5\. Click **Submit** and wait for the page to reload.
+- Set **Play with players outside of Xbox Live** to **allow** if you want to be able to crossplay on other consoles.
 
-Note: If the child account that was adjusted was playing Minecraft while the settings were being updated, you will need to close and restart Minecraft for the changes to take effect.
+- Set **Create and join clubs** to **allow** to access to Realms Stories.
+
+- Set **You can upload captures to Xbox Live** to **allow** if you want to post screenshots on Realms Stories.
+
+5\. Click **Submit** and wait for the page to reload. After you save these settings, restart Minecraft for them to take effect in your game.
+
+**Note:** If the child account that was adjusted was playing Minecraft while the settings were being updated, you will need to close and restart Minecraft for the changes to take effect.
 
 You can also manage child account settings on the [Xbox Family App](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app).
 
