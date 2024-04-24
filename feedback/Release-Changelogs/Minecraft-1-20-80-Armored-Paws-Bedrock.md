@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.20.80 - Armored Paws (Bedrock)
 date: 2024-04-22T18:23:30Z
-updated: 2024-04-24T16:27:29Z
+updated: 2024-04-24T16:55:44Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26107776674445-Minecraft-1-20-80-Armored-Paws-Bedrock
 ---
@@ -97,7 +97,7 @@ When summoned in other ways (e.g. using the Spawn Egg or using the summon comm
     - The Members tab – shows a list of all Realm members and their permission levels
     - Realm Events – Stories that get posted automatically when certain player actions are taken in the Realm. There are 19 unique Realm Events so far – can you discover all of them?
 - Known issues:
-  - We need a little more time to deliver the best possible experience for iOS & Android, and will be rolling out Realms Stories on these platform in the near future.
+  - We need a little more time to deliver the best possible experience for iOS & Android, and will be rolling out Realms Stories on these platforms in the near future.
   - Xbox-only: If multiple users are signed into an Xbox, then the users might not be able to post to Realms Stories from that Xbox (unless all users besides the primary user log out).
   - Xbox-only: If multiple users are signed into an Xbox, Realm Events will not be posted, but they will be recorded. If all users but the primary user sign out of Xbox, and the primary user returns to the Minecraft play screen, the Realm Events that were recorded before should get posted. However, the Realm Events may be credited to the wrong user.
   - If users are in split-screen mode, only the primary user will be able to open Realms Stories.
