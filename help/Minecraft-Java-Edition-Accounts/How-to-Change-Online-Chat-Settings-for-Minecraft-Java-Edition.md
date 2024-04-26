@@ -1,7 +1,7 @@
 ---
 title: "How to Change Online Chat Settings for Minecraft: Java Edition "
 date: 2022-06-16T19:39:34Z
-updated: 2023-03-29T19:25:42Z
+updated: 2024-04-26T21:17:40Z
 categories: "Minecraft: Java Edition Accounts"
 tags:
   - title_minecraft_java_edition
@@ -19,6 +19,8 @@ tags:
   - section_12618746386189
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/6985971367309-How-to-Change-Online-Chat-Settings-for-Minecraft-Java-Edition
+hash:
+  h_01HWE4A4RK69FBXXAWCE4SRD00: how-to-find-and-change-your-minecraft-java-edition-online-chat-settings
 ---
 
 While playing Minecraft: Java Edition with other players online, you may want to customize your online chat experience. This article will discuss where to go to change your online chat setting, and what each setting means so you can have full control over your Minecraft: Java Edition online chat experience. 
@@ -27,7 +29,7 @@ While playing Minecraft: Java Edition with other players online, you may want to
 
 As you may know, you need a Microsoft Account to play Minecraft: Java Edition. Because of this connection, your Minecraft: Java Edition online chat settings are found in your [Xbox Live account settings,](https://account.xbox.com/en-gb/settings) as online chat services and online Minecraft gameplay are powered by Xbox Live. 
 
-To change the Minecraft: Java Edition chat experience, click on the **Privacy** tab on the top of the page. Scroll down to the **Others can:** section, and find the **Others can communicate with voice, text or invites **option.  
+To change the Minecraft: Java Edition chat experience, click on the **Privacy & Online Safety** tab on the top of the page. Scroll down to the **Others can:** section, and find the **Others can communicate with voice, text or invites **option.  
 
 From here, you’ll find the following options. However, Minecraft: Java Edition has no distinction between ‘Friends’ or ‘Everyone.’ Instead, you must choose between ‘Block’ to block all chat in Minecraft: Java Edition, or ‘Everyone’ to enable chat in the game. 
 
