@@ -2,7 +2,7 @@
 title: "Minecraft: Java Edition Player Reporting FAQ"
 date: 2022-06-30T14:32:52Z
 updated: 2023-08-17T14:53:09Z
-categories: Minecraft Java Realms
+categories: Manage or Troubleshoot Realms
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -23,9 +23,7 @@ tags:
   - platform_PC
   - platform_macOS
   - platform_xbox_series_x/s
-  - section_12618497714061
-  - section_12618848019981
-  - section_15463793799181
+  - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ
 hash:
   01H7ZSFQEZHSAAKQWV3K2AMQW4: what-is-player-abuse-reporting

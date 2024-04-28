@@ -26,4 +26,4 @@ link: https://help.minecraft.net/hc/en-us/articles/25119263189517-How-Do-I-Appea
 
 If you have been banned or suspended from Minecraft and feel that it was done in error, you can appeal the ruling by filling out the [Case Review form on this page](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452).
 
-To learn more about actions that can get you suspended or read up on the player report system visit [Minecraft: Java Edition Player Reporting FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md).
+To learn more about actions that can get you suspended or read up on the player report system visit [Minecraft: Java Edition Player Reporting FAQ](../Manage-or-Troubleshoot-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md).

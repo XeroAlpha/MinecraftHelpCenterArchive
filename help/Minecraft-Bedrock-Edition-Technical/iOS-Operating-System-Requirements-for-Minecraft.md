@@ -29,6 +29,6 @@ For optimal game play performance and access to all features and gameplay modes,
 
 ## Compatibility with Multiplayer and Realms
 
-As of February 2024 updates, devices running iOS 12 or older will no longer be compatible with Minecraft Realms. Your Realm will continue to work for up to six months post-sunset. Within that timeframe, you can access the Realm on a device running iOS 13 or later, [backup the world](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md), or cancel your subscription through the Settings menu in Subscriptions on the device the Realm was created.
+As of February 2024 updates, devices running iOS 12 or older will no longer be compatible with Minecraft Realms. Your Realm will continue to work for up to six months post-sunset. Within that timeframe, you can access the Realm on a device running iOS 13 or later, [backup the world](../Manage-or-Troubleshoot-Realms/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md), or cancel your subscription through the Settings menu in Subscriptions on the device the Realm was created.
 
 If you need more assistance in updating your version of iOS, [contact Apple’s support team](https://support.apple.com/en-us/HT210327).

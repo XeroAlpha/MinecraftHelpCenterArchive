@@ -20,7 +20,7 @@ hash:
 
 Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on PlayStation **will need a PlayStation Plus Essential subscription or higher** to take advantage of cloud saving.
 
-**Note: Alongside the following processes, Minecraft Dungeons has an in-game cloud saving process as well. Please follow [this guide](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md)** **for more information.**
+**Note: Alongside the following processes, Minecraft Dungeons has an in-game cloud saving process as well. Please follow [this guide](../Dungeons-Technical/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md)** **for more information.**
 
 On both PlayStation 4 and PlayStation 5, cloud saving is typically on by default. However, you can manually manage cloud saves on both consoles via these steps:
 

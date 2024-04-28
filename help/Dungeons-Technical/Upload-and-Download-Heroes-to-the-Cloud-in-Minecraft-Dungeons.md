@@ -18,7 +18,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/360043504492-Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons
 ---
 
-If you have a hero that you have put a lot of hard work into building up in Minecraft Dungeons, you should be able to continue using them even if you are playing the game on a different platform. Luckily, Minecraft Dungeons has cloud saves. To make use of this feature, you will need to sign into a Microsoft account when you play the game. See [Enable Multiplayer and Cross-Platform Play for Minecraft Dungeons](./Minecraft-Dungeons-Download-and-Installation-FAQ.md) for more info.
+If you have a hero that you have put a lot of hard work into building up in Minecraft Dungeons, you should be able to continue using them even if you are playing the game on a different platform. Luckily, Minecraft Dungeons has cloud saves. To make use of this feature, you will need to sign into a Microsoft account when you play the game. See [Enable Multiplayer and Cross-Platform Play for Minecraft Dungeons](./Enable-Multiplayer-and-Cross-Platform-Play-for-Minecraft-Dungeons.md) for more info.
 
 **How to upload a hero to the cloud in Minecraft Dungeons**
 

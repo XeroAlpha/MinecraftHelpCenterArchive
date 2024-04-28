@@ -2,7 +2,7 @@
 title: "How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription?"
 date: 2024-02-14T19:53:56Z
 updated: 2024-03-21T17:47:32Z
-categories: Realms Troubleshooting and Billing
+categories: Manage Realms Subscriptions
 tags:
   - title_minecraft
   - subject_change_account_information
@@ -18,9 +18,9 @@ tags:
   - platform_macos
   - platform_kindle_fire
   - platform_pc
-  - section_12618486785805
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
+  - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/24124939590413-How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription
 ---
 

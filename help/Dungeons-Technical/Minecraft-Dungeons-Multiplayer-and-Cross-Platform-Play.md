@@ -21,7 +21,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360043512112-Minecraft-Dungeo
 
 Team up with friends across consoles and PCs. Create a multiplatform alliance and battle together with the cross-platform play-free game update to Minecraft Dungeons. This update allows for cross-platform multiplayer playing across Nintendo Switch, PlayStation® 4 and 5, Windows PC, and Xbox. 
 
-Make sure that your Minecraft Dungeons game is updated to the latest version before playing multiplayer. To ensure you’re up to date, to find out how to locate your version number and more, see [How to Update Minecraft Dungeons](./Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons).
+Make sure that your Minecraft Dungeons game is updated to the latest version before playing multiplayer. To ensure you’re up to date, to find out how to locate your version number and more, see [How to Update Minecraft Dungeons](./Enable-Multiplayer-and-Cross-Platform-Play-for-Minecraft-Dungeons.md#h_01FG7WEN7BM1GT5NQW3HHP7791).
 
 Nintendo Switch accounts and PlayStation™ Network accounts must be linked to a Microsoft account. See our articles on [linking accounts](../Dungeons-Accounts/Minecraft-Dungeons-Account-Issues-FAQ.md#signing-into-a-microsoft-account-for-online-multiplayer-on-nintendo-switch-and-playstation) and [multiplayer subscription requirements](../Dungeons-Accounts/Minecraft-Dungeons-Account-Issues-FAQ.md#creatinganaccountforminecraftdungeons) for more details. 
 
@@ -32,7 +32,7 @@ Cross-platform multiplayer on PlayStation® can be enabled or disabled within Ga
 
 **Cloud Saves** 
 
-Cloud Saves are now available in Minecraft Dungeons and can be used between Nintendo Switch, PlayStation® 4 and PlayStation® 5, Windows PC, Xbox One, and Xbox Series X\|S. See our article on [Cloud Saves and Backing Up Heroes](./Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) for details on how to use this feature. 
+Cloud Saves are now available in Minecraft Dungeons and can be used between Nintendo Switch, PlayStation® 4 and PlayStation® 5, Windows PC, Xbox One, and Xbox Series X\|S. See our article on [Cloud Saves and Backing Up Heroes](./Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md) for details on how to use this feature. 
 
   
 

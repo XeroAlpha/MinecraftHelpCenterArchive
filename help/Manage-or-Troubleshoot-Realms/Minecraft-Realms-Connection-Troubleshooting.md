@@ -2,7 +2,7 @@
 title: Minecraft Realms Connection Troubleshooting
 date: 2021-09-30T21:40:55Z
 updated: 2024-03-27T18:30:07Z
-categories: Realms Troubleshooting and Billing
+categories: Manage or Troubleshoot Realms
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -18,9 +18,9 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - section_12618486785805
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
+  - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Minecraft-Realms-Connection-Troubleshooting
 ---
 

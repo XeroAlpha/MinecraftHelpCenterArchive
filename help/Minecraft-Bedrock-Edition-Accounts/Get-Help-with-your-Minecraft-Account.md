@@ -38,6 +38,6 @@ Get back into your game! This information covers the most common solutions for n
 
  
 
-If your issue is not addressed here, please take a look at our [technical support resources](../Minecraft-Java-Edition-Technical/Get-Help-with-Minecraft-Java-Edition-game-connection-errors.md). 
+If your issue is not addressed here, please take a look at our [technical support resources](../Minecraft-Java-Edition-Technical/Get-Help-with-Minecraft-Java-Edition-Game-Connection-Errors.md). 
 
 Be sure to learn more on [How to keep your Microsoft account secure](https://support.microsoft.com/en-us/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9).

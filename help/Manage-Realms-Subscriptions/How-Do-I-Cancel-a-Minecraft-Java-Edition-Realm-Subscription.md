@@ -1,7 +1,7 @@
 ---
 title: "How Do I Cancel a Minecraft: Java Edition Realm Subscription?"
 date: 2024-02-14T19:17:39Z
-categories: Minecraft Java Realms
+categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
   - subject_change_account_information
@@ -9,8 +9,8 @@ tags:
   - category_realms_support
   - subject_other_realms_questions
   - platform_pc
-  - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
+  - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/24123767171469-How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription
 ---
 

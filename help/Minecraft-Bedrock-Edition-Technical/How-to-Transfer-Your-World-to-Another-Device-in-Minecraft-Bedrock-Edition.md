@@ -34,7 +34,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409165790605-How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition
 ---
 
-If you are playing Minecraft: Bedrock Edition, the easiest way to transfer that world to another device is to use Realms. You can use a Realms or Realms Plus subscription to do this. If you have not subscribed before, you can also use a free 30-day trial to move your world quickly. For more information about Realms, visit [How to Create a Minecraft: Bedrock Edition Realm](../Minecraft-Realms-Plus/How-to-Create-a-Minecraft-Bedrock-Edition-Realm.md).
+If you are playing Minecraft: Bedrock Edition, the easiest way to transfer that world to another device is to use Realms. You can use a Realms or Realms Plus subscription to do this. If you have not subscribed before, you can also use a free 30-day trial to move your world quickly. For more information about Realms, visit [How to Create a Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/How-to-Create-a-Minecraft-Bedrock-Edition-Realm.md).
 
 After you get a Realms subscription, follow the steps below to move your world.
 
@@ -43,7 +43,7 @@ After you get a Realms subscription, follow the steps below to move your world.
 1.  Start Minecraft on the device the world currently resides on
 2.  Select **Play**
 3.  Click the **pencil** icon In the **Realms** section at the top of your world list to enter the edit menu
-4.  Select a world slot and press **Edit World. Note:** Backup your existing worlds or make sure to use an empty slot. See [Minecraft: Bedrock Edition Realms Backup FAQ](../Minecraft-Realms-Plus/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md)
+4.  Select a world slot and press **Edit World. Note:** Backup your existing worlds or make sure to use an empty slot. See [Minecraft: Bedrock Edition Realms Backup FAQ](../Manage-or-Troubleshoot-Realms/Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md)
 5.  Select **Upload World** at the bottom of the **Game Settings** section
 6.  Confirm you want to replace the world in the current slot and select the world you want transferred
 7.  Now that your world is on the Realm, login to Minecraft on another device with your Microsoft account

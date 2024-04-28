@@ -2,7 +2,7 @@
 title: "How Do I Join Someone's Minecraft: Bedrock Edition Realm?"
 date: 2021-09-30T23:13:51Z
 updated: 2024-04-15T19:06:01Z
-categories: Minecraft Realms Plus
+categories: Create or Join Realms
 tags:
   - title_minecraft
   - subject_connectivity
@@ -24,9 +24,9 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - section_12618443219469
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/4410386197133-How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01HHZAZBEVK8685JVD1BZS58JN: how-to-join-a-realm-in-bedrock
@@ -60,7 +60,7 @@ To check which resource pack you’re using, switch to the standard Minecraft ga
 1.  Select **Settings.**
 2.  Select **Global Resources.**
 
-**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [this article](../Minecraft-Bedrock-Edition/Managing-Multiplayer-Game-Access-For-a-Child-Account-in-Minecraft.md).**
+**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [this article](../Minecraft-Bedrock-Edition/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).**
 
 ## Leaving a Realm
 
@@ -72,4 +72,4 @@ If you'd like to leave a Realm, do the following steps:
 
 ## Troubleshooting
 
-For Realms Plus troubleshooting, please refer to [this article](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Connection-Troubleshooting.md).
+For Realms Plus troubleshooting, please refer to [this article](../Manage-or-Troubleshoot-Realms/Minecraft-Realms-Connection-Troubleshooting.md).

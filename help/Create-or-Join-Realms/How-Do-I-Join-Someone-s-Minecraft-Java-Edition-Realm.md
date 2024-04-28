@@ -2,7 +2,7 @@
 title: "How Do I Join Someone's Minecraft: Java Edition Realm?"
 date: 2019-06-27T01:08:30Z
 updated: 2024-04-15T19:16:22Z
-categories: Minecraft Java Realms
+categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
   - category_technical_support
@@ -15,8 +15,8 @@ tags:
   - platform_pc
   - platform_PC
   - platform_macOS
-  - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/360029644312-How-Do-I-Join-Someone-s-Minecraft-Java-Edition-Realm
 hash:
   h_01HVHHCS8DN3SDAJRJHWE4N73R: how-to-join-a-realm-in-java
@@ -44,4 +44,4 @@ If you're having trouble accepting invites or joining Realms, please make sure
 2.  Select **Minecraft Realms**.
 3.  Highlight the Realm and select **Leave Realm**.
 
-If you own the Realm, you must cancel your subscription and wait for the time on it to run out. [See How Do I Cancel A Minecraft: Java Edition Realm Subscription?](./How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)
+If you own the Realm, you must cancel your subscription and wait for the time on it to run out. [See How Do I Cancel A Minecraft: Java Edition Realm Subscription?](../Manage-Realms-Subscriptions/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)

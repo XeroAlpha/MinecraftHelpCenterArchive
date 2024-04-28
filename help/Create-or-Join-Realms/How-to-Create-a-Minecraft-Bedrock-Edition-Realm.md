@@ -2,7 +2,7 @@
 title: "How to Create a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T21:02:17Z
 updated: 2024-04-17T19:02:49Z
-categories: Minecraft Realms Plus
+categories: Create or Join Realms
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -14,8 +14,8 @@ tags:
   - category_realms_support
   - platform_sony_playstation_4
   - platform_pc
-  - section_12618443219469
   - platform_chromebook
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/20687129531149-How-to-Create-a-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01HHZK6HEJ9RVZYX596CEA1XHN: how-to-create-your-realm
@@ -72,8 +72,8 @@ You can always invite friends later from the players Settings menu. For more i
 
 ## Admin Options for Realms  
 
-Realms owners have various admin options available for further customization. For more information on administrative options for Realms, please refer to [this article](./How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md).
+Realms owners have various admin options available for further customization. For more information on administrative options for Realms, please refer to [this article](../Manage-or-Troubleshoot-Realms/How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md).
 
 ## Technical Questions for Realms
 
-For any technical questions you may have regarding your Realm, please refer to [this article](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md).
+For any technical questions you may have regarding your Realm, please refer to [this article](../Manage-or-Troubleshoot-Realms/How-to-Upload-Worlds-onto-a-Minecraft-Realm.md).

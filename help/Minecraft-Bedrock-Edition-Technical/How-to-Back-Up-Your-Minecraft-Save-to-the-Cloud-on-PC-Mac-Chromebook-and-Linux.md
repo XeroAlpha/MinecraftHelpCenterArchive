@@ -49,7 +49,7 @@ Players with a Minecraft: Java Edition Realms subscription will have their Realm
 
 ### Xbox App or Windows Store
 
-Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons’ built-in cloud storage solution. For more information, please refer to [this guide](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md).
+Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons’ built-in cloud storage solution. For more information, please refer to [this guide](../Dungeons-Technical/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md).
 
 ### Steam
 

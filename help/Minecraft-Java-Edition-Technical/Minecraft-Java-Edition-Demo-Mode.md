@@ -44,4 +44,4 @@ Other possible issues could be:
 
 ## Didn't find what you were looking for?
 
-Explore the [Minecraft: Java Edition Troubleshooting](./Get-Help-with-Minecraft-Java-Edition-game-connection-errors.md) page or [Contact Minecraft Support](./Who-to-contact-with-your-Minecraft-support-questions.md).
+Explore the [Minecraft: Java Edition Troubleshooting](./Get-Help-with-Minecraft-Java-Edition-Game-Connection-Errors.md) page or [Contact Minecraft Support](./Who-to-contact-with-your-Minecraft-support-questions.md).

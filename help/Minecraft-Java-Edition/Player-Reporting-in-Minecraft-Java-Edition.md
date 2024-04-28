@@ -29,7 +29,7 @@ Our games bring millions of players together from around the world, all united b
 
 To achieve that, we have a dedicated team of passionate people that work every day to celebrate and protect our community’s creativity and passion while ensuring interactions remain safe. As a part of that work, Mojang Studios moderates harmful content and behaviors that don’t follow the [Microsoft Services Agreement](https://www.microsoft.com/en-us/servicesagreement/) as explained in the Community Standards for [Minecraft](https://www.minecraft.net/en-us/community-standards) and [Xbox](https://www.xbox.com/en-CA/legal/community-standards), but we can’t be everywhere at once. That’s where you, our players, come in. You are our community, and you help us keep Minecraft: Java Edition fun and safe. 
 
-We have also written up a [Frequently Asked Questions page](../Minecraft-Java-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md) about Player Reporting. 
+We have also written up a [Frequently Asked Questions page](../Manage-or-Troubleshoot-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md) about Player Reporting. 
 
 # In This Article:
 
@@ -117,4 +117,4 @@ You can change your name at any time at [this link](https://www.minecraft.net/en
 
 You are responsible for the reports you submit. Knowingly sending incorrect reports to try to get another player banned, excessively sending irrelevant reports, or otherwise abusing the player reporting system can lead to repercussions for your account. Do not incite others into using the player reporting system for your sake. 
 
-If you have more questions, you can check out the [Frequently Asked Questions page](../Minecraft-Java-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md) for Player Reporting.
+If you have more questions, you can check out the [Frequently Asked Questions page](../Manage-or-Troubleshoot-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md) for Player Reporting.

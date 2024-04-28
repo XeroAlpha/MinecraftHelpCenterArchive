@@ -2,7 +2,7 @@
 title: How to Start a Minecraft Preview/Beta Realm
 date: 2023-10-10T17:12:23Z
 updated: 2024-04-05T16:50:02Z
-categories: Minecraft Realms Plus
+categories: Create or Join Realms
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -18,9 +18,9 @@ tags:
   - platform_pc
   - platform_PC
   - platform_macOS
-  - section_12618443219469
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/20264295053709-How-to-Start-a-Minecraft-Preview-Beta-Realm
 ---
 

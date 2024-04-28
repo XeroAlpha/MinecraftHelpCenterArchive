@@ -2,7 +2,7 @@
 title: How To Edit Your Realms on Minecraft.net
 date: 2023-05-19T20:22:48Z
 updated: 2024-03-27T18:22:46Z
-categories: Minecraft Realms Plus
+categories: Manage or Troubleshoot Realms
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -20,10 +20,10 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - section_12618443219469
   - platform_sony_playstation_5
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
+  - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/15937250579213-How-To-Edit-Your-Realms-on-Minecraft-net
 ---
 

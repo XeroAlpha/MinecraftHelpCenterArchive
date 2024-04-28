@@ -2,7 +2,7 @@
 title: "How to view a Realms subscription renewal date for Minecraft: Java Edition"
 date: 2024-02-16T19:50:24Z
 updated: 2024-02-22T17:36:21Z
-categories: Minecraft Java Realms
+categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
   - subject_cannot_find_purchase
@@ -11,12 +11,12 @@ tags:
   - subject_other_realms_questions
   - subject_extending_a_realm
   - platform_pc
-  - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
+  - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/24186093545357-How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Java-Edition
 ---
 
-You can view your current subscription renewal date and verify or update your payment method for Minecraft: Java Edition Realms through the Microsoft Store. If you are using a Legacy Realms subscription, see [How to Move Your Minecraft: Java Edition Realms Payments to the Microsoft Store](../Realms-Troubleshooting-and-Billing/How-to-Move-Your-Minecraft-Java-Edition-Realms-Payments-to-the-Microsoft-Store.md).
+You can view your current subscription renewal date and verify or update your payment method for Minecraft: Java Edition Realms through the Microsoft Store. If you are using a Legacy Realms subscription, see [How to Move Your Minecraft: Java Edition Realms Payments to the Microsoft Store](./How-to-Move-Your-Minecraft-Java-Edition-Realms-Payments-to-the-Microsoft-Store.md).
 
 **How to see when your Minecraft: Java Edition Realm expires**
 

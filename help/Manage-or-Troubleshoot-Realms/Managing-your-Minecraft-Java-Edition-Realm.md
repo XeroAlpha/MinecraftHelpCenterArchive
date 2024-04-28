@@ -2,7 +2,7 @@
 title: "Managing your Minecraft: Java Edition Realm"
 date: 2023-10-25T17:03:24Z
 updated: 2023-12-18T22:07:10Z
-categories: Minecraft Java Realms
+categories: Manage or Troubleshoot Realms
 tags:
   - title_minecraft_java_edition
   - platform_windows_10
@@ -11,8 +11,8 @@ tags:
   - platform_linux
   - platform_macos
   - platform_pc
-  - section_12618497714061
   - platform_chromebook
+  - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20712000178317-Managing-your-Minecraft-Java-Edition-Realm
 hash:
   h_01HHZEWGWC378V7FSR750TE5M3: realms-admin-options
@@ -22,7 +22,7 @@ hash:
   h_01HHZF2EJ7WHF3JRAMVTGMMVV8: subscription
 ---
 
-This article is dedicated to managing an already made Minecraft: Java Edition Realm. For questions regarding creating a Java Realm, [see this article](./How-to-Create-a-Minecraft-Java-Edition-Realm.md).
+This article is dedicated to managing an already made Minecraft: Java Edition Realm. For questions regarding creating a Java Realm, [see this article](../Create-or-Join-Realms/How-to-Create-a-Minecraft-Java-Edition-Realm.md).
 
 ## Realms Admin Options
 
@@ -54,7 +54,7 @@ In the Settings menu, you can choose to close your server and take it offline. C
 Select Subscription to see your Minecraft Realms subscription status or to extend your subscription. 
 
 - Options
-  - For game options for the active world, see the [How to Create Your Realm article](./How-to-Create-a-Minecraft-Java-Edition-Realm.md).
+  - For game options for the active world, see the [How to Create Your Realm article](../Create-or-Join-Realms/How-to-Create-a-Minecraft-Java-Edition-Realm.md).
 - Backups
   - Enables you to see and switch between your backups as well as download the currently loaded backup. For more, see the How to Create a Backup of a Minecraft: Java Edition Realm article.
 - Reset

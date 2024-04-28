@@ -2,7 +2,7 @@
 title: "How to Move Your Minecraft: Java Edition Realms Payments to the Microsoft Store "
 date: 2023-09-22T20:10:16Z
 updated: 2023-09-28T15:51:34Z
-categories: Realms Troubleshooting and Billing
+categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
   - platform_windows_10
@@ -16,9 +16,8 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - section_12618006481549
-  - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
+  - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/19751491773453-How-to-Move-Your-Minecraft-Java-Edition-Realms-Payments-to-the-Microsoft-Store
 hash:
   h_01HB934KPVTHTYR9PJNM1GHMTN: in-this-article
@@ -105,4 +104,4 @@ We’re offering 30 free days of Java Realms if you complete the payment migrati
 
 ## What happens to my worlds if my subscription expires?
 
-We will not be deleting any worlds based on players failing to complete the payment migration process. Please refer to [this article](../Minecraft-Java-Realms/How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md#h_01FGCSSR72S26SBJTE7EVVKN98:~:text=for%20further%20assistance.-,HOW%20DOES%20MOJANG%20BACKUP%20YOUR%20REALM%3F,-A%20Realm%20world) for more information on how we manage worlds past a Realm’s expiration date.
+We will not be deleting any worlds based on players failing to complete the payment migration process. Please refer to [this article](./How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md#h_01FGCSSR72S26SBJTE7EVVKN98:~:text=for%20further%20assistance.-,HOW%20DOES%20MOJANG%20BACKUP%20YOUR%20REALM%3F,-A%20Realm%20world) for more information on how we manage worlds past a Realm’s expiration date.

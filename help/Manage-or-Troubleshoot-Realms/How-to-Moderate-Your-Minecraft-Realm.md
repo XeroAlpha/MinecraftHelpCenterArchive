@@ -2,7 +2,7 @@
 title: How to Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
 updated: 2024-03-18T21:34:55Z
-categories: Minecraft Realms Plus
+categories: Manage or Troubleshoot Realms
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -21,8 +21,8 @@ tags:
   - platform_oculus
   - platform_pc
   - platform_PC
-  - section_12618443219469
   - title_minecraft_java_bedrock_for_pc
+  - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/360058604512-How-to-Moderate-Your-Minecraft-Realm
 hash:
   h_01HS9QFKDH66JJX5FYGC5D83NA: how-to-find-realms-settings
@@ -54,7 +54,7 @@ We are not able to view and assist with moderation issues on your Realm directly
 
 **Remove and block players**: You also have the option to remove and block players in your Realm if you wish to restrict realm access.
 
-**Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [How To Create A Backup Of A Minecraft: Java Edition Realm](../Minecraft-Java-Realms/How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Minecraft: Bedrock Edition Realms Backup FAQ](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md).
+**Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [How To Create A Backup Of A Minecraft: Java Edition Realm](./How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Minecraft: Bedrock Edition Realms Backup FAQ](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md).
 
 You can also moderate your Realm through Minecraft.net. Check out the following articles for more information:
 

@@ -2,7 +2,7 @@
 title: "How Do I Renew an Expired Minecraft: Java Edition Realm Subscription?"
 date: 2021-09-24T21:00:46Z
 updated: 2024-02-14T19:17:35Z
-categories: Minecraft Java Realms
+categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
   - subject_game_refund
@@ -19,8 +19,8 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
+  - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/4410000696077-How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription
 ---
 

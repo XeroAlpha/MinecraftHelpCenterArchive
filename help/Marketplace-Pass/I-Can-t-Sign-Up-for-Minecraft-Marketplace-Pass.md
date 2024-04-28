@@ -50,4 +50,4 @@ Marketplace Pass only works in Preview/Beta after you have already subscribed th
 
 ## I’m a Realms Plus subscriber
 
-If you’re a current Realms Plus subscriber, you will be blocked from subscribing to Marketplace Pass. Marketplace Pass benefits are included in your Realms Plus subscription. To sign-up for only Marketplace Pass, you will need to [cancel your Realms Plus subscription](../Realms-Troubleshooting-and-Billing/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md) and wait for the subscription period to end.
+If you’re a current Realms Plus subscriber, you will be blocked from subscribing to Marketplace Pass. Marketplace Pass benefits are included in your Realms Plus subscription. To sign-up for only Marketplace Pass, you will need to [cancel your Realms Plus subscription](../Manage-Realms-Subscriptions/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md) and wait for the subscription period to end.

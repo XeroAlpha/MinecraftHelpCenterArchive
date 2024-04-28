@@ -81,7 +81,7 @@ Local cooperative play and online multiplayer cannot be played simultaneously.
 
 Team up with friends across consoles and Windows PCs. Create a multiplatform alliance and battle together with the cross-platform play free update to Minecraft Dungeons. See our article on [cross-platform multiplayer](../Dungeons-Technical/Minecraft-Dungeons-Multiplayer-and-Cross-Platform-Play.md) for more. 
 
-Cloud Saves are also available, so you can upload Heroes to the cloud and use them across all Minecraft Dungeons supported devices. See [Cloud Saves and Backing Up Heroes](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) for the full details on how to use this feature. 
+Cloud Saves are also available, so you can upload Heroes to the cloud and use them across all Minecraft Dungeons supported devices. See [Cloud Saves and Backing Up Heroes](../Dungeons-Technical/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md) for the full details on how to use this feature. 
 
 ## How can I get Minecraft Dungeons? 
 
@@ -181,7 +181,7 @@ No. Minecraft Dungeons is designed to be played together with your friends, eit
 
 ### How do I backup my save files? 
 
-There are several different ways of handling saved data for characters in Minecraft Dungeons, including Cloud Saves. See our article on  [Cloud Saves and Backing Up Heroes](../Dungeons-Technical/Minecraft-Dungeons-Cloud-Saves-and-Backing-Up-Heroes.md) for the full details on how to use this feature.
+There are several different ways of handling saved data for characters in Minecraft Dungeons, including Cloud Saves. See our article on  [Cloud Saves and Backing Up Heroes](../Dungeons-Technical/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md) for the full details on how to use this feature.
 
 ### Why is the launcher showing “Buy Now” when I have already purchased Minecraft Dungeons? 
 
@@ -334,7 +334,7 @@ The physical versions include everything that is included in their digital count
 
 With Minecraft Dungeons Ultimate Edition, you do not need to update the game to access extra content. All content is already contained on the disk/cartridge.
 
-With Minecraft Dungeons Hero Edition, yes, you must download an online update to access Hero Pass content, Jungle Awakens, and Creeping Winter, as well as the latest features and bug fixes. Please see [How to Update Minecraft Dungeons](../Dungeons-Technical/Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons) for details on how to update the game for your platform.
+With Minecraft Dungeons Hero Edition, yes, you must download an online update to access Hero Pass content, Jungle Awakens, and Creeping Winter, as well as the latest features and bug fixes. Please see [How to Update Minecraft Dungeons](../Dungeons-Technical/Enable-Multiplayer-and-Cross-Platform-Play-for-Minecraft-Dungeons.md#h_01FG7WEN7BM1GT5NQW3HHP7791) for details on how to update the game for your platform.
 
 ### Is the standard edition of Minecraft Dungeons available as a physical version? 
 

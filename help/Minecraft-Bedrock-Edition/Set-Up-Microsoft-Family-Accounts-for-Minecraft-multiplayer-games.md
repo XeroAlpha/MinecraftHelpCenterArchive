@@ -48,7 +48,7 @@ Child accounts are all accounts for those under the age of 16 for the US & EU, o
 
 Be sure to download the [Xbox Family app](https://www.xbox.com/en-US/apps/family-settings-app) for easy account management.
 
-See [Managing multiplayer game access for a child account in Minecraft](./Managing-Multiplayer-Game-Access-For-a-Child-Account-in-Minecraft.md) to learn more on enabling multiplayer and communication settings.
+See [Managing multiplayer game access for a child account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to learn more on enabling multiplayer and communication settings.
 
  
 

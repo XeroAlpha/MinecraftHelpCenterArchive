@@ -67,7 +67,7 @@ These standards set the tone and values our players expect during their experien
 
 Realms features a proactive chat filtering system. We use this system to classify, filter, and escalate online harms such as harassment, abuse, and hate speech. Once escalated, our team manually reviews and moderates these harms to promote safe and welcoming interactions. We also leverage this filter to ensure Realms’ names and descriptions are appropriate.
 
-**Note: For more information about profanity filtering in Minecraft: Java Edition Realms and how to toggle the profanity filter, please visit [Minecraft: Java Edition Realms Profanity Filter FAQ \| Minecraft Help](../Minecraft-Java-Realms/How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter.md)**
+**Note: For more information about profanity filtering in Minecraft: Java Edition Realms and how to toggle the profanity filter, please visit [Minecraft: Java Edition Realms Profanity Filter FAQ \| Minecraft Help](../Manage-or-Troubleshoot-Realms/How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter.md)**
 
 ### Player Abuse Reporting
 
@@ -75,7 +75,7 @@ The goal of having effective and intuitive Player Reporting mechanisms in our ga
 
 In addition to reporting in the game client, players can also utilize the [report a concern form](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565) to report another player in Minecraft: Bedrock Edition.
 
-**Note: Minecraft: Java Edition Realms players can also see this [article](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) and the [Reporting FAQ](../Minecraft-Java-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md)to learn more about the Player Abuse Reporting feature in that edition.**
+**Note: Minecraft: Java Edition Realms players can also see this [article](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) and the [Reporting FAQ](../Manage-or-Troubleshoot-Realms/Minecraft-Java-Edition-Player-Reporting-FAQ.md)to learn more about the Player Abuse Reporting feature in that edition.**
 
 **Additional note: If you are aware of a server that is violating our Community Guidelines, you can [report it here](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=11289976570893)**.
 

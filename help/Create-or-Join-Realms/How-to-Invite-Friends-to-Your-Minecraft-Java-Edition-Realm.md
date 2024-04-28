@@ -1,7 +1,7 @@
 ---
 title: "How to Invite Friends to Your Minecraft: Java Edition Realm"
 date: 2024-04-15T19:13:45Z
-categories: Minecraft Java Realms
+categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
   - subject_join_or_leave_realm
@@ -9,8 +9,8 @@ tags:
   - platform_linux
   - platform_macos
   - platform_pc
-  - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/25916625786509-How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm
 ---
 

@@ -2,7 +2,7 @@
 title: "How to Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
 updated: 2024-03-12T20:44:00Z
-categories: Minecraft Realms Plus
+categories: Create or Join Realms
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -19,9 +19,9 @@ tags:
   - platform_oculus
   - platform_pc
   - platform_windows10/11
-  - section_12618443219469
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/22471067820429-How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition - Beginner's Guide to Menu Navigation"
 date: 2021-03-29T22:47:37Z
-updated: 2023-09-21T16:59:49Z
+updated: 2024-04-22T20:36:54Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - title_minecraft
@@ -21,6 +21,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360059154851-Minecraft-Bedroc
 hash:
   h_01HAW64T046KNWYD48R482GQDM: play
   h_01HAW572FCVE2KKV9AE3HJHG96: dressing-room
+  h_01HW39VQXEC9K54JCCWTFKASRT: find-friends
   h_01HAW4ZAPNZC4P87ZYSJKAJPRQ: marketplace
   h_01HAW4ZAPN0C5PPET413DGQM9X: settings
 ---
@@ -31,7 +32,7 @@ Before you jump into that world, it will be beneficial to you to understand what
 
 ## Play
 
-Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Minecraft-Realms-Plus/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
+Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Create-or-Join-Realms/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
 
 To make your own world, select Create New at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let's select Create New World at the top.
 
@@ -52,6 +53,20 @@ Our lovable Steve is the default starting skin, but you have so many choices for
 ![Minecraft-Character-Creator.png](https://minecrafthelp.zendesk.com/hc/article_attachments/19707492398093)
 
 On this page, you can create and [customize Minecraft skins](https://www.minecraft.net/en-us/article/what-is-minecraft-skin) or select a pre-made skin in the Classic Skins tab. If you have purchased some Minecoins for the Marketplace, you can also equip skins made by other creators. Whether you want to make something unique or want to rep your favorite character from another property, be sure to explore your options!
+
+## Find Friends
+
+Play with your friends in their Minecraft world, or invite them to your own!
+
+1.  From the Minecraft title screen, press **Play**.
+2.  Go to the **Friends** tab.
+3.  Click **Add Friend**.
+4.  On this page you can add your friend in multiple ways:   
+    - Click **Search Gamertag** and enter their Microsoft Account Gamertag.
+    - Have your friend use their mobile device to scan your QR code to navigate to your Xbox where they can add you as a friend.
+    - Press **Share** to send your friend your own Gamertag via chat or email so your friend can add you.
+    - Press **Copy** to copy your own Gamertag to share via chat, text, or email so your friend can search for you.
+5.  Once added, any joinable world your friend is playing in will show up in the **Friends** tab.
 
 ## Marketplace 
 

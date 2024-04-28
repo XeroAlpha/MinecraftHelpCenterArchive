@@ -2,7 +2,7 @@
 title: "How to Create a Minecraft: Java Edition Realm"
 date: 2021-09-14T22:37:59Z
 updated: 2024-03-27T21:26:40Z
-categories: Minecraft Java Realms
+categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -21,8 +21,8 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
+  - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/4409253767821-How-to-Create-a-Minecraft-Java-Edition-Realm
 hash:
   h_01HHZ9JH0FZVKR5PCG5D56BK69: how-to-create-a-minecraft-java-edition-realm
@@ -33,7 +33,7 @@ hash:
   h_01HHZ9SFPF0V9PTS2XTEPZSBKD: uploadworld
 ---
 
-This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Realms-Troubleshooting-and-Billing/Minecraft-Realms-Support.md).
+This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Manage-or-Troubleshoot-Realms/Minecraft-Realms-Support.md).
 
 ## How to create a Minecraft: Java Edition Realm
 

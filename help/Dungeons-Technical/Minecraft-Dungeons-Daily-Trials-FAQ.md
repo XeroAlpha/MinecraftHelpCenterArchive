@@ -30,7 +30,7 @@ Daily Trials can be completed alone, or you can team up with others 
 
 **Do I need an internet connection to play the latest trials?** 
 
-Yes, you need an active internet connection to access new trials every day after logging in to the game. If trials do not appear, make sure that your game is [updated to the latest version](./Minecraft-Dungeons-Download-and-Installation-FAQ.md#manuallyupdate-minecraft-dungeons). 
+Yes, you need an active internet connection to access new trials every day after logging in to the game. If trials do not appear, make sure that your game is [updated to the latest version](./Enable-Multiplayer-and-Cross-Platform-Play-for-Minecraft-Dungeons.md#h_01FG7WEN7BM1GT5NQW3HHP7791). 
 
 **Nintendo Switch Players:** You need to [log in to a Microsoft Account](../Minecraft-Bedrock-Edition-Technical/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md) for Daily Trials to appear on the map, as Daily Trials are a part of our online services. 
 
