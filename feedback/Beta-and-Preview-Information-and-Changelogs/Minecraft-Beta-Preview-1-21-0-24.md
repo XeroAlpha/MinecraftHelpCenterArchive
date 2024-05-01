@@ -1,14 +1,13 @@
 ---
 title: Minecraft Beta & Preview - 1.21.0.24
 date: 2024-05-01T10:41:30Z
-updated: 2024-05-01T16:01:27Z
+updated: 2024-05-01T16:47:32Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26354480452109-Minecraft-Beta-Preview-1-21-0-24
 hash:
   h_01HWT2XHEF1ADQHSP2HEBYTZEA: features-and-bug-fixes
   h_01HWT2XHEF2DZ8VT5YW38ZGWYE: new-music
   h_01HWT2XHEFNMVHCQYQXBD3S7FJ: paintings
-  h_01HWT2XHEFFZ35K0QAHX7X32GR: updated-player-profile
   h_01HWT2XHEF819ATJE2566784CQ: air-bubbles
   h_01HWT2XHEFF7HDH72YKQHGJ07N: blocks
   h_01HWT2XHEFVZ9ZZBQVRE5C5S08: copper-doors-and-trapdoors
@@ -90,10 +89,6 @@ It's time for yet another exciting Minecraft: Bedrock Edition Beta and Preview u
   - *pond*
   - *sunflowers*
   - *tides*
-
-## Updated Player Profile
-
-- The updated the Player Profile page is now available for all platforms in Preview. Please try it out and let us know what you think at [aka.ms/MCPreviewProfileFeedback](https://aka.ms/MCPreviewProfileFeedback)!
 
 ## Air bubbles
 
