@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.0.24
 date: 2024-05-01T10:41:30Z
-updated: 2024-05-01T16:47:32Z
+updated: 2024-05-02T09:37:38Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26354480452109-Minecraft-Beta-Preview-1-21-0-24
 hash:
@@ -212,6 +212,9 @@ It's time for yet another exciting Minecraft: Bedrock Edition Beta and Preview u
 
 - Moved *entity*from *beta* to *1.11.0*
 - Moved *EntityTameMountComponent*and method *tame* from *beta* to *1.11.0*
+- Moved EntityAddRiderComponent from *beta* to *1.11.0*
+- Moved Seat from *beta* to *1.11.0*
+- Moved EntityRidingComponent from *beta* to *1.11.0*
 
 ## Editor
 
@@ -237,29 +240,3 @@ It's time for yet another exciting Minecraft: Bedrock Edition Beta and Preview u
 - Added method *getTopmostBlock*which will perform a raycast from the top of the world downwards, trying to find the first solid block
 - Added method *getBlockAbove*which will perform a raycast from a given position, trying to find the first solid block above
 - Added method *getBlockBelow*which will perform a raycast from a given position, trying to find the first solid block below
-- EntityAddRiderComponent
-  - Moved property *readonly entityType: string*from *beta* to *1.11.0*
-  - Moved property *readonly spawnEvent: string*from *beta* to *1.11.0*
-- EntityRideableComponent
-  - Moved property *readonly setCount: number*from *beta* to *1.11.0*
-  - Moved property *readonly crouchingSkipInteract: boolean*from *beta* to *1.11.0*
-  - Moved property *readonly interactText: string*from *beta* to *1.11.0*
-  - Moved property *readonly controllingSeat: number*from *beta* to *1.11.0*
-  - Moved property *readonly passengerMaxWidth: number*from *beta* to *1.11.0*
-  - Moved property *readonly pullInEntities: boolean*from *beta* to *1.11.0*
-  - Moved property *readonly riderCanInteract: boolean*from *beta* to *1.11.0*
-  - Moved property *readonly seatCount: number*from *beta* to *1.11.0*
-  - Moved function *addRider(rider: Entity): boolean*from *beta* to *1.11.0*
-  - Moved function *ejectRider(rider: Entity): void*from *beta* to *1.11.0*
-  - Moved function *ejectRiders(): void*from *beta* to *1.11.0*
-  - Moved function *getFamilyTypes(): string\[\]*from *beta* to *1.11.0*
-  - Moved function *getRiders(): Entity\[\]*from *beta* to *1.11.0*
-  - Moved function *getSeats(): Seat\[\]*from *beta* to *1.11.0*
-- Seat
-  - Moved property *readonly lockRiderRotation: number*from *beta* to *1.11.0*
-  - Moved property *readonly maxRiderCount: number*from *beta* to *1.11.0*
-  - Moved property *readonly minRiderCount: number*from *beta* to *1.11.0*
-  - Moved property *readonly position: Vector3*from *beta* to *1.11.0*
-  - Moved property *readonly seatRotation: number*from *beta* to *1.11.0*
-- EntityRidingComponent
-  - Moved property *readonly entityRidingOn: Entity*from *beta* to *1.11.0*
