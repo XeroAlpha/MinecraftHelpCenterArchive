@@ -1,7 +1,7 @@
 ---
 title: What are Minecraft Add-Ons?
 date: 2021-09-13T18:58:31Z
-updated: 2024-03-05T22:39:28Z
+updated: 2024-05-02T19:40:40Z
 categories: Minecraft Marketplace
 tags:
   - new
@@ -24,6 +24,8 @@ Minecraft Add-Ons are identified by the hammer icon ![HammerIcon.png](https://mi
 
   
 Add-Ons work on any platform that runs Minecraft: Bedrock Edition, but are not supported on personal, non-Realms servers.
+
+Visit the [Creator Learning Portal](https://www.minecraft.net/en-us/creator) to learn more about developing Add-Ons!
 
  
 
