@@ -1,19 +1,22 @@
 ---
 title: Our Commitment to Player Safety
 date: 2022-07-29T20:44:56Z
-updated: 2023-07-24T18:39:24Z
+updated: 2024-05-03T18:28:07Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - section_15463792344973
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety
 hash:
+  h_01HWZV81KQH5VCRV3J7ZF43PQS: in-this-article
   h_01G95X5MTT2JGYSAGTRGZ833Z7: player-safety
   h_01G95X64EPHDASXYREN1JJ4JCZ: our-safety-approach
   h_01G95X6EP66CSAKHQH6YA1J3RW: prevention-and-proactive-action
+  h_01HWZV81KQEWGWGX2HWBPVR9GH: parental-controls
   h_01G95X6ZSKYQ6SGC8D6AB7XCNB: community-guidelines
   h_01G95X76WR1PM97XBXDE7G25KE: proactive-moderation
   h_01G95X7G582VXENHV2W7Q7JE6Q: human-approaches
+  h_01HWZV81KQG5E6X5PWEWGGD08D: player-abuse-reporting
   h_01G95X80K9GJGEJF96T75GVXHK: human-moderation
   h_01G95X87Z1SR8PVQYRNJ2BYM04: whats-next
 ---
@@ -29,7 +32,7 @@ This article details Mojang and Minecraft's dedication to creating the safest pl
     - [Community Guidelines](#community-guidelines)
     - [Proactive Moderation](#proactive-moderation)
   - [Human Approaches](#human-approaches)
-    - [Player Abuse Reporting](#h_01G95X7RE7KQVBNNVGXN2RFT5X)
+    - [Player Abuse Reporting](#player-abuse-reporting)
     - [Human Moderation](#human-moderation)
 - [What’s next](#whats-next)
 
@@ -57,9 +60,7 @@ Since the migration of all Minecraft and Mojang accounts to Microsoft accounts, 
 
 Also, Microsoft accounts benefit from parental controls that empower parents to choose what their kids can do in Minecraft online experiences, including what they can access, and who can they chat with.
 
-Visit [this page](https://help.minecraft.net/hc/en-us/articles/4409983667085-Minecraft-Parental-Control-Features-FAQ) to learn about configuring parental controls for the Minecraft: Bedrock Edition client, including mobile devices, consoles, Chromebooks, and Windows 10 and up.
-
-Visit [this page](../Minecraft-Java-Edition/Minecraft-Java-Edition-Parental-Control-Features-FAQ.md) to learn about configuring parental controls for Minecraft: Java Edition.
+For configuring parental controls, visit [Managing Multiplayer Game Access For A Child Account In Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
 
 ### Community Guidelines
 
