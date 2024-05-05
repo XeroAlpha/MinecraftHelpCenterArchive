@@ -12,39 +12,22 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **New Features:**
 
 - Minecraft Marketplace
-
 - Skyrim Mash-up Pack
-
 - Llamas
-
 - Shulker Boxes
-
 - Woodland Mansions
-
 - Cartographer Villager & Exploration Maps
-
 - Illagers (Evokers & Vindicators)
-
 - Vex
-
 - Concrete & concrete powder
-
 - Glazed terracotta blocks
-
 - Dyeable beds (and you can jump on them, too!)
-
 - Iron and Gold tools can now be smelted into Iron Nuggets and Gold Nuggets
-
 - Adventure Mode
-
-- - New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle
-
+  - New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle
 - New achievements
-
 - Mending & Frostwalking enchantments
-
 - Totem of Undying
-
 - Off-hand slot (only works for arrows & Totem of Undying)
 
   
@@ -75,21 +58,13 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **Add-Ons:**
 
 - New Vanilla Resource and Behavior Packs are available for download from minecraft.net/addons
-
 - Add-Ons Documentation: All Components, Attributes, Properties, and Filters will be properly documented with their name, description, parameters, and default values. This documentation will be updated with every release
-
 - New Components:
-
-- - minecraft:spawn_entity, minecraft:behavior.float_wander, minecraft:behavior.send_event, minecraft:behavior.summon_entity, minecraft:can_climb, minecraft:can_fly, minecraft:can_power_jump, minecraft:input_ground_controlled, minecraft:jump.static, minecraft:jump.dynamic, minecraft:movement.basic, minecraft:movement.skip, minecraft:movement.sway, minecraft:navigation.climb, minecraft:navigation.float, minecraft:navigation.swim, minecraft:navigation.walk
-
+  - minecraft:spawn_entity, minecraft:behavior.float_wander, minecraft:behavior.send_event, minecraft:behavior.summon_entity, minecraft:can_climb, minecraft:can_fly, minecraft:can_power_jump, minecraft:input_ground_controlled, minecraft:jump.static, minecraft:jump.dynamic, minecraft:movement.basic, minecraft:movement.skip, minecraft:movement.sway, minecraft:navigation.climb, minecraft:navigation.float, minecraft:navigation.swim, minecraft:navigation.walk
 - Data-driven path navigation
-
 - Data-driven movement controls
-
 - Data-driven jump controls
-
 - Miscellaneous Add-Ons Cleanup: Attributes, Properties and Components are now compatible with more entities and won't crash when added to an incompatible entity. Please continue to report any compatibility issues or crashes to bugs.mojang.com!
-
 - Entity Upgrade System: Your old Add-Ons will continue to work on this version, no need to add any new components to them
 
   

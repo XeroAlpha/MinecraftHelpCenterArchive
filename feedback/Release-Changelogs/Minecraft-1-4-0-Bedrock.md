@@ -16,65 +16,38 @@ This update contains a whole ocean of new features from Update Aquatic! More fea
 **New Features:**
 
 - Water has a completely new look and increased visibility while underwater
-
 - Dolphins
-
 - Tropical Fish
-
 - Cod, Salmon, and Pufferfish mobs
-
 - New ocean biomes of varying depths and temperatures
-
 - Shipwrecks
-
 - Ocean ravines and caves
-
 - Icebergs
-
 - Underwater ruins
-
 - Coral reefs
-
 - Buried Treasure and Treasure Maps
-
 - Swimming animation while sprinting in water
-
 - Heart of the Sea: Be sure to collect these for later to construct a Conduit that will be introduced in an upcoming update!
-
 - Trident weapon with new enchantments
-
-- - Channeling
+  - Channeling
   - Loyalty
   - Riptide
   - Impaling
-
 - New water behavior
-
-- - A water source block can be placed inside of most non-solid blocks
+  - A water source block can be placed inside of most non-solid blocks
   - Flowing water will still not flow into non-solid blocks
   - Blocks can be placed underwater without creating pockets of air around them
-
 - Coral, Coral Fans, and Coral Blocks
-
 - Kelp, Dried Kelp, and Dried Kelp Blocks
-
 - Blue Ice blocks
-
 - Seagrass and Tall Seagrass
-
 - Sea Pickles can now be found on the ocean floor as a source of light
-
 - Stripped Wood
-
 - Wood variants for Buttons, Pressure Plates, and Trapdoors
-
 - Prismarine Stairs and Slabs
-
 - Fish can now be scooped into buckets
-
 - New Achievements
-
-- - Atlantis? - Find an underwater ruin (20G)
+  - Atlantis? - Find an underwater ruin (20G)
   - Ahoy! - Find a shipwreck (20G)
   - Castaway - Eat nothing but dried kelp for three in-game days (20G)
   - Me Gold! - Dig up a buried treasure (30G)
@@ -82,11 +55,8 @@ This update contains a whole ocean of new features from Update Aquatic! More fea
   - Sail the 7 Seas - Visit all ocean biomes (40G)
   - Sleep with the Fishes - Stay underwater for one day without a potion (30G)
   - I'm a Marine Biologist - Collect a fish in a bucket (20G)
-
 - Added an Inventory section to the Store to manage all your acquired content
-
 - Added sorting and filtering to the Store
-
 - Minecraft: Education Edition Chemistry features can now be enabled under Cheats! For tips on getting started, check out the [Chemistry Lab Journal](https://education.minecraft.net/wp-content/uploads/ChemistryLab_Journal.pdf)
 
 **  
@@ -121,70 +91,64 @@ A handful of features from Update Aquatic have been added through Experimental G
   
 **Bug Fixes:**
 
-- - **Crashes/Performance**
-
-  - - Fixed several of the top crashes that occurred during gameplay
-    - Fixed a crash that occurred when importing an Add-On with an invalid manifest file
-    - Fixed a crash that occurred after rating content in the Marketplace
-    - Fixed a crash that occurred when using the '/fill' command directly after '/clone' in the same tick
-    - Reduced the delay when placing or destroying blocks
-    - Improved load times in the Skin Picker and when applying Resource Packs
-    - Improvements to Store load times
-
- 
-
-- - **General**
-
-  - - 'Delicious Fish' achievement can now be unlocked after cooking and eating Salmon
-    - Activated resource packs will now stay active upon downloading any other resource pack during world creation
-    - Several fixes to joining as a second player on Xbox One split-screen
-    - Split-screen controls are no longer mixed up when the game is launched while using keyboard and mouse input on Xbox One
-    - Disconnecting a controller while making input no longer continues that input until the controller is reconnected
+- **Crashes/Performance**
+  - Fixed several of the top crashes that occurred during gameplay
+  - Fixed a crash that occurred when importing an Add-On with an invalid manifest file
+  - Fixed a crash that occurred after rating content in the Marketplace
+  - Fixed a crash that occurred when using the '/fill' command directly after '/clone' in the same tick
+  - Reduced the delay when placing or destroying blocks
+  - Improved load times in the Skin Picker and when applying Resource Packs
+  - Improvements to Store load times
 
  
 
-- - **Gameplay**
-
-  - - Fishing will now give the proper chance of catching a stack of 10 Ink Sacs
-    - Items can no longer be duplicated by rapidly dropping them while playing multiplayer
-    - Lava with a block on top no longer prevents fire damage to entities and will fix Chicken cookers
-    - Fire Resistance potions now protect Snow Golems from dying in warm biomes
-    - Soul Sand and Gravel once again generate in the Nether
-    - Fixed the crafting recipes of Prismarine Bricks and Dark Prismarine being swapped
-    - When riding a boat and hitting a mob with the Knockback enchantment, the mob will no longer always be knocked toward the East
-    - Zombies and Skeletons now burn in daylight while in boats
-    - Players can once again build straight down while holding the jump and place buttons simultaneously
-    - Fixed Villager trades becoming deactivated in certain cases when using touch controls
-    - Curse of Binding and Vanishing books can no longer be acquired by trading with a Librarian Villager
+- **General**
+  - 'Delicious Fish' achievement can now be unlocked after cooking and eating Salmon
+  - Activated resource packs will now stay active upon downloading any other resource pack during world creation
+  - Several fixes to joining as a second player on Xbox One split-screen
+  - Split-screen controls are no longer mixed up when the game is launched while using keyboard and mouse input on Xbox One
+  - Disconnecting a controller while making input no longer continues that input until the controller is reconnected
 
  
 
-- - **Graphical**
-
-  - - Cocoa Beans now display correctly when using HD Resource Packs
-    - Farmland and Grass Paths no longer have water textures when seen underwater
-    - Disconnected water flows no longer visually show as connected
-    - Water source blocks surrounding Glass, Slime blocks, and Sea Lanterns no longer turn into flowing water blocks
-    - Snow covered leaves no longer appear red when Smooth Lighting is disabled
-    - Fixed the appearance of bubbles around the Guardian laser attack
+- **Gameplay**
+  - Fishing will now give the proper chance of catching a stack of 10 Ink Sacs
+  - Items can no longer be duplicated by rapidly dropping them while playing multiplayer
+  - Lava with a block on top no longer prevents fire damage to entities and will fix Chicken cookers
+  - Fire Resistance potions now protect Snow Golems from dying in warm biomes
+  - Soul Sand and Gravel once again generate in the Nether
+  - Fixed the crafting recipes of Prismarine Bricks and Dark Prismarine being swapped
+  - When riding a boat and hitting a mob with the Knockback enchantment, the mob will no longer always be knocked toward the East
+  - Zombies and Skeletons now burn in daylight while in boats
+  - Players can once again build straight down while holding the jump and place buttons simultaneously
+  - Fixed Villager trades becoming deactivated in certain cases when using touch controls
+  - Curse of Binding and Vanishing books can no longer be acquired by trading with a Librarian Villager
 
  
 
-- - **User Interface**
+- **Graphical**
+  - Cocoa Beans now display correctly when using HD Resource Packs
+  - Farmland and Grass Paths no longer have water textures when seen underwater
+  - Disconnected water flows no longer visually show as connected
+  - Water source blocks surrounding Glass, Slime blocks, and Sea Lanterns no longer turn into flowing water blocks
+  - Snow covered leaves no longer appear red when Smooth Lighting is disabled
+  - Fixed the appearance of bubbles around the Guardian laser attack
 
-  - - "Destroy Block (vibrate)" toggle once again appears in Touch settings
-    - The Paper Doll is no longer in a running pose on the main menu
-    - Firework Rockets now appear in the Recipe Book when being searched for in Survival
-    - Initiating World Template screen now shows a progress bar
-    - Fixed the 'Disconnected from server' prompt being too large on Gear VR
-    - Fixed some toggles and buttons staying highlighted in Settings when they shouldn't
-    - Chroma Hills HD Texture Pack fonts now apply correctly
+ 
+
+- **User Interface**
+  - "Destroy Block (vibrate)" toggle once again appears in Touch settings
+  - The Paper Doll is no longer in a running pose on the main menu
+  - Firework Rockets now appear in the Recipe Book when being searched for in Survival
+  - Initiating World Template screen now shows a progress bar
+  - Fixed the 'Disconnected from server' prompt being too large on Gear VR
+  - Fixed some toggles and buttons staying highlighted in Settings when they shouldn't
+  - Chroma Hills HD Texture Pack fonts now apply correctly
 
  
 
 - **Commands**
-
-- - '/clear' will now clear items held in hand when playing in Classic UI
+  - '/clear' will now clear items held in hand when playing in Classic UI
   - Commands in chains of Command Blocks will now run sequentially when other chains are running nearby
   - Selectors targeting players in '/title' commands will now properly show the player's name
 

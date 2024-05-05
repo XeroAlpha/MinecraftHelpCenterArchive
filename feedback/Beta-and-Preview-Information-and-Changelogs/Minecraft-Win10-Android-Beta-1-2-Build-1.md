@@ -17,48 +17,28 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **New Features:**
 
 - Stained Glass
-
 - Fireworks (with Elytra boosting!)
-
 - Parrots
-
 - Banners
-
 - Armor Stands
-
 - Jukebox and music discs
-
 - Recipe Book
-
 - Book and Quill
-
 - Ravines
-
 - Coarse Dirt
-
 - New world start options:
-
-- - Starting Map
+  - Starting Map
   - Bonus Chest
   - Trust Players
-
 - New game rules:
-
-- - TNT Explodes
+  - TNT Explodes
   - Natural Regeneration
-
 - Added '/tickingarea' command to create areas that still update when no players are there
-
 - Player permissions
-
 - Zombie Villager spawn egg
-
 - In-game host options
-
 - New loading screens with funny and helpful tips
-
 - How to Play screen
-
 - Remix 3D export functionality (Windows 10 only)
 
   

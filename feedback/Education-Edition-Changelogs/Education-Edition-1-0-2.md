@@ -16,67 +16,38 @@ For more information about Minecraft: Education Edition, please visit [education
 **New Features:**
 
 - Magma blocks can now be found in the Nether
-
 - Underground fossils to excavate made from Bone blocks
-
 - Nether Wart blocks
-
 - Red Nether Brick
-
 - Stained Glass
-
 - Fireworks (with Elytra boost!)
-
 - Parrots
-
 - Banners
-
 - Armor Stands
-
 - Jukebox and music discs
-
 - Recipe Book
-
 - Book & Quill
-
 - Expanded portfolio editing with PhotoStorage sync
-
 - Ravines
-
 - Coarse Dirt
-
 - New world start options:
-
-- - Starting Map
+  - Starting Map
   - Bonus Chest
   - Trust Players
-
 - New game rules:
-
-- - Show Coordinates
+  - Show Coordinates
   - TNT Explodes
   - Natural Regeneration
-
 - Added '/tickingarea' command to create areas that still update when no players are there
-
 - Zombie Villager spawn egg
-
 - Paper doll viewer
-
 - Outline selection toggle
-
 - In-game player names toggle
-
 - HUD opacity toggle
-
 - Sprint button mapping for controllers
-
 - Expanded world settings
-
 - New loading screens with funny and helpful tips
-
 - How to Play screen
-
 - Added a free cursor to the inventory screen when navigating with a controller
 
   

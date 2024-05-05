@@ -78,51 +78,30 @@ Please note: We have added several new blocks that will generate in the lush cav
 ## **Copper and Lightning Rod**
 
 - Copper ore Block textures are oriented correctly ([MCPE-116068](https://bugs.mojang.com/browse/MCPE-116068))
-
 - Copper Ingots can now only be crafted from unoxidized copper blocks on the crafting table ([MCPE-116091](https://bugs.mojang.com/browse/MCPE-116091))
-
 - The block state ambiguity concerning the states 'dripstone_thickness' and 'copper_oxidation' is resolved ([MCPE-116756](https://bugs.mojang.com/browse/MCPE-116756))
-
 - Copper Blocks, Slabs, and Stairs are registered using separate BlockIDs ([MCPE-116754](https://bugs.mojang.com/browse/MCPE-116754))
-
 - Sound of walking/running on Copper blocks is now assigned to 'Players' audio category
-
 - Waxed Copper blocks can now be cut in Stonecutter
-
 - Weathered Cut Copper Block cannot be cut into slabs in Stonecutter has been resolved
-
 - Crafting Slabs from Copper blocks in a Stonecutter will now yield two slabs
-
 - Copper Blocks, Stairs, and Slabs now have correct map colors
-
 - Lightning strikes target entities and blocks in the same priority order as Java
-
 - Copper Oxidation now using Random Tick to change state, parity with Java
-
 - Stonecutter can be used to get cut, slab, and stair variants using Copper Block or Cut Copper Block
-
 - Right clicking on Copper while holding an Axe will de-wax copper, scraping off patina one step at a time
-
 - Waxed copper block variants cannot be de-waxed using furnaces or blast furnaces
-
 - Particles get emitted around Copper Block when:
-
-- - Waxed by the player
+  - Waxed by the player
   - Waxed by a dispenser
   - Waxing off by player
   - Scraping off patina layer
   - Hit by lightning
-
 - Lightning Rods struck by lightning will decrement the oxidation age of nearby copper blocks
-
 - Leaves surrounded by blocks no longer turn opaque when a lightning rod is placed on top of them ([MCPE-116256](https://bugs.mojang.com/browse/MCPE-116256))
-
 - Lightning Rods no longer connect to fences or walls ([MCPE-116150](https://bugs.mojang.com/browse/MCPE-116150))
-
 - Lightning Rods are now waterloggable, which in turn solves a culling issue with water ([MCPE-116541](https://bugs.mojang.com/browse/MCPE-116541))
-
 - The lightning rod emits particles during a thunder storm if there is nothing above it
-
 - Players can interact with other blocks when holding a Lightning Rod in hand ([MCPE-116074](https://bugs.mojang.com/browse/MCPE-116074))
 
 ## **General**

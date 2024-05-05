@@ -13,18 +13,12 @@ hash:
 # **Changes:**
 
 - Increased the frequency and volume of the ambient mob sounds made during raids, to make them easier to locate
-
 - Added new Wandering Trader sounds ([MCPE-41191](https://bugs.mojang.com/browse/MCPE-41191))
-
 - Updated the main menu splash text
-
 - Updated the default main menu panorama from Aquatic to Village & Pillage
-
 - The "Store" button on the main menu has been renamed to "Marketplace"
-
 - Realm owners can now set relevant permissions for players invited to their Realm
-
-- - Default settings can be set for all new members entering a Realm
+  - Default settings can be set for all new members entering a Realm
   - The owner can set permissions for an invited player to either visitor, member or operator
   - When resetting a world, or uploading a new world, already set permissions stay in place
 
@@ -65,8 +59,7 @@ hash:
 <!-- -->
 
 - **General**
-
-- - Removed an unnecessary Xbox Live sign-in notification
+  - Removed an unnecessary Xbox Live sign-in notification
   - Fixed an issue where consuming the last item in a stack to unlock an achievement could cause the achievement not to unlock
   - The Haggler achievement once again unlocks when requirements are met
   - The Zombie Doctor achievement now unlocks when curing a zombie villager ([MCPE-46271](https://bugs.mojang.com/browse/MCPE-46271))
@@ -83,8 +76,7 @@ hash:
 <!-- -->
 
 - **Gameplay**
-
-- - Fixed several related issues with End Gateway portals. These should now teleport the player to the correct safe location when used ([MCPE-19699](https://bugs.mojang.com/browse/MCPE-19699), [MCPE-43176](https://bugs.mojang.com/browse/MCPE-43176), [MCPE-43177](https://bugs.mojang.com/browse/MCPE-43177))
+  - Fixed several related issues with End Gateway portals. These should now teleport the player to the correct safe location when used ([MCPE-19699](https://bugs.mojang.com/browse/MCPE-19699), [MCPE-43176](https://bugs.mojang.com/browse/MCPE-43176), [MCPE-43177](https://bugs.mojang.com/browse/MCPE-43177))
   - Villager trading now properly takes away items from the second slot, when applicable ([MCPE-45506](https://bugs.mojang.com/browse/MCPE-45506))
   - Only players who fought in a raid now receive the Hero of the Village effect in Realms
   - The Bad Omen effect is now only received when killing an Illager Captain, not when dealing non-fatal damage with a bow or potion

@@ -17,8 +17,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360034989811-Minecraft-Be
 ### **New Features:**
 
 - **Added Bees!**
-
-- - Bees are cute, fuzzy, neutral mobs
+  - Bees are cute, fuzzy, neutral mobs
   - Don’t hurt them, they don’t want to hurt you
   - If a bee does sting you, it will leave its stinger in you and eventually die, dropping nothing :(
   - Bees love pretty flowers and spend their lives gathering pollen from them

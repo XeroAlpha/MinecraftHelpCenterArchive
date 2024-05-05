@@ -46,13 +46,10 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **Relics of the Privateers 1.2.5:**
 
 - Behavior Pack:
-
-- -         Updated the behavior files of remaining used mobs to 1.1.0 format
+  -         Updated the behavior files of remaining used mobs to 1.1.0 format
   -         Fixed an issue with small crabs not moving or attacking
-
 - World:
-
-- -         Removed many extra colonials from Portalina and Brinewall to reduce lag
+  -         Removed many extra colonials from Portalina and Brinewall to reduce lag
   -         Removed many extra crab entities from around the giant crab
   -         Thinned out many pirate encampments, for balance purposes
   -         Some items left floating in the world removed

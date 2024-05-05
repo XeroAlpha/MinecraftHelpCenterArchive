@@ -24,9 +24,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360016529492-Minecraft-Be
 
 <!-- -->
 
-- - Cats can be tamed using fish
-  - Ocelots are no longer tamable
-  - Players can now feed ocelots to gain their trust
+- Cats can be tamed using fish
+- Ocelots are no longer tamable
+- Players can now feed ocelots to gain their trust
 
 <!-- -->
 
@@ -46,13 +46,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360016529492-Minecraft-Be
 
 <!-- -->
 
-- - /gamerule showcoordinates
-  - /gamerule dofiretick
-  - /gamerule tntexplodes
-  - /gamerule domobloot
-  - /gamerule naturalregeneration
-  - /gamerule dotiledrops
-  - /gamerule pvp
+- /gamerule showcoordinates
+- /gamerule dofiretick
+- /gamerule tntexplodes
+- /gamerule domobloot
+- /gamerule naturalregeneration
+- /gamerule dotiledrops
+- /gamerule pvp
 
 <!-- -->
 

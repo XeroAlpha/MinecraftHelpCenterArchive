@@ -21,10 +21,8 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 **New Features:**
 
 - Phantom mobs will now spawn in the night skies if a player hasn't slept in over three in-game days. (Please note that there is a bug currently where phantoms may not swoop down- we will be fixing this bug as soon as we can!)
-
 - Barrier Blocks
-
-- - Great for map makers to limit players and mobs to certain areas of the world
+  - Great for map makers to limit players and mobs to certain areas of the world
   - Can be placed in Creative mode and are invisible in Survival and Adventure modes
   - Can only be obtained using commands and do not appear in the Creative inventory
 
@@ -40,8 +38,7 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 **Fixes:**
 
 - **Crashes/Performance**
-
-- - Fixed several crashes that occurred during gameplay
+  - Fixed several crashes that occurred during gameplay
   - Fixed a crash that occurred when using Pick Block in a spot where a mob just died
   - Fixed a crash that occurred when players were spawning and the spawn point was getting set every tick
   - Fixed a crash that occurred when joining a game and downloading Greek Mythology textures
@@ -50,8 +47,7 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 <!-- -->
 
 - **General**
-
-- - Fixed the "Ahoy” and "Atlantis" achievements not unlocking on Nintendo Switch
+  - Fixed the "Ahoy” and "Atlantis" achievements not unlocking on Nintendo Switch
   - Fixed an issue that caused touch screen actions to repeat after touch release
   - Fixed controls becoming unresponsive after resuming the game from standby ([MCPE-22195](https://bugs.mojang.com/browse/MCPE-22195))
   - Operator permissions are now granted to players when the host creates a world with Trust Player Permissions set to Operator
@@ -60,8 +56,7 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 <!-- -->
 
 - **Gameplay**
-
-- - Firework Rockets once again give the proper boost when using Elytra ([MCPE-30821](https://bugs.mojang.com/browse/MCPE-30821))
+  - Firework Rockets once again give the proper boost when using Elytra ([MCPE-30821](https://bugs.mojang.com/browse/MCPE-30821))
   - Crouching on ladders will no longer stop when opening the pause menu or inventory screen
   - Fixed the speed boost given by Dolphins being too slow when wearing armor with Depth Strider
   - The Resistance effect will now protect against the Wither effect ([MCPE-21515](https://bugs.mojang.com/browse/MCPE-21515))
@@ -71,16 +66,14 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 <!-- -->
 
 - **Items**
-
-- - Buckets now stack properly when getting ejected from crafting output
+  - Buckets now stack properly when getting ejected from crafting output
   - Fixed an exploit that allowed players to obtain a 'Water' item ([MCPE-28883](https://bugs.mojang.com/browse/MCPE-28883))
   - Fixed an exploit that allowed items to be duplicated using the Recipe Book ([MCPE-36167](https://bugs.mojang.com/browse/MCPE-36167))
 
 <!-- -->
 
 - **Mobs**
-
-- - Guardians no longer attack fish (125705)
+  - Guardians no longer attack fish (125705)
   - Fixed Guardians spawning even when Mob Spawning is disabled ([MCPE-34027](https://bugs.mojang.com/browse/MCPE-34027))
   - Fixed issues with the Ender Dragon disappearing or dying for little to no reason
   - Drowned now have a much easier time attacking players that are swimming above them
@@ -100,8 +93,7 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 <!-- -->
 
 - **Blocks**
-
-- - Underwater plants can now be placed in water columns that originate from the top water source blocks
+  - Underwater plants can now be placed in water columns that originate from the top water source blocks
   - Kelp now mimics Seagrass in its placement and can be placed on most blocks underwater ([MCPE-33747](https://bugs.mojang.com/browse/MCPE-33747))
   - Kelp that is planted by players will now grow over time
   - Chemistry blocks in a world uploaded to a Realm are no longer corrupted
@@ -117,21 +109,18 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 <!-- -->
 
 - **Realms**
-
-- - The owner of a Realm, once again, no longer counts towards the player limit of a Realm
+  - The owner of a Realm, once again, no longer counts towards the player limit of a Realm
   - Improved error messaging when attempting to join a Realm via invite link with an outdated version of the game
 
 <!-- -->
 
 - **World Generation**
-
-- - Fixed floating Rails that generated in abandoned mineshafts ([MCPE-23189](https://bugs.mojang.com/browse/MCPE-23189))
+  - Fixed floating Rails that generated in abandoned mineshafts ([MCPE-23189](https://bugs.mojang.com/browse/MCPE-23189))
 
 <!-- -->
 
 - **Graphical**
-
-- - Improved the Trident throwing animation
+  - Improved the Trident throwing animation
   - Visibility now increases over time when submerged in flowing water
   - Cocoa Beans now display correctly when using HD Resource Packs ([MCPE-30552](https://bugs.mojang.com/browse/MCPE-30552))
   - Field of View can once again be adjusted when the "FOV Can Be Altered by Gameplay" option is disabled ([MCPE-32403](https://bugs.mojang.com/browse/MCPE-32403))
@@ -151,15 +140,13 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 <!-- -->
 
 - **Audio**
-
-- - Lowered the volume of the 'punching air' and 'punching mobs' sound effects
+  - Lowered the volume of the 'punching air' and 'punching mobs' sound effects
   - Fixed the sounds of items breaking twice for Boats, Minecarts, Paintings, and Armor Stands
 
 <!-- -->
 
 - **User Interface**
-
-- - Items can once again be crafted from the Recipe Book while the Craftable filter is disabled and the player only has enough materials to craft a single recipe
+  - Items can once again be crafted from the Recipe Book while the Craftable filter is disabled and the player only has enough materials to craft a single recipe
   - Quickly moving a stack of items in the inventory with a controller no longer leaves items behind ([MCPE-34694](https://bugs.mojang.com/browse/MCPE-34694))
   - Fixed the Cancel button not appearing on Windows 10 devices when joining a cross-platform world
   - Opening Book & Quill on touch devices no longer causes blocks to break ([MCPE-29752](https://bugs.mojang.com/browse/MCPE-29752))
@@ -176,8 +163,7 @@ If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojan
 <!-- -->
 
 - **Commands**
-
-- - Using '/fill doors' now fills the chosen area with doors instead of air blocks
+  - Using '/fill doors' now fills the chosen area with doors instead of air blocks
   - Using the '/setblock' command on Redstone components will now properly update and power the mechanism ([MCPE-21218](https://bugs.mojang.com/browse/MCPE-21218))
   - Cloning containers no longer removes their custom names
   - Slabs with 'can_place_on' tags can once again be placed by players in Adventure mode

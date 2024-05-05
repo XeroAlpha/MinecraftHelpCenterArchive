@@ -66,8 +66,7 @@ I am feeling particularly crafty today. Is it because I spent the morning scribb
 ## API
 
 - Events
-
-- - Moved *PlayerInteractWithBlockAfterEvent* from *beta* to *1.7.0*
+  - Moved *PlayerInteractWithBlockAfterEvent* from *beta* to *1.7.0*
   - Moved *PlayerInteractWithBlockBeforeEvent* from *beta* to *1.7.0*
   - Moved *PlayerInteractWithEntityAfterEvent* from *beta* to *1.7.0*
   - Moved *PlayerInteractWithEntityBeforeEvent* from *beta* to *1.7.0*
@@ -87,10 +86,8 @@ I am feeling particularly crafty today. Is it because I spent the morning scribb
 ## API
 
 - Moved *PlayerLeaveBeforeEvent* from *beta* to *1.7.0*
-
 - Moved *NumberRange* interface to *minecraft/common*
-
-- - Moved *heightRange: NumberRange* from *beta* to *1.7.0*
+  - Moved *heightRange: NumberRange* from *beta* to *1.7.0*
   - Moved *matches* from *beta* to *1.7.0*
   - Moved function *clearDynamicProperties* from *beta* to *1.7.0*
   - Moved function *getDynamicProperties* from *beta* to *1.7.0*
@@ -102,10 +99,8 @@ I am feeling particularly crafty today. Is it because I spent the morning scribb
   - Moved function *getDynamicPropertyIds* from *beta* to *1.7.0*
   - Moved function *getDynamicPropertyTotalByteCount* from *beta* to *1.7.0*
   - Moved function *setDynamicProperty* from *beta* to *1.7.0*
-
 - TicksPerSecond
-
-- - Moved from beta to *1.7.0*
+  - Moved from beta to *1.7.0*
   - Moved *offset* from *beta* to *1.7.0*
   - Moved *above* from *beta* to *1.7.0*
   - Moved *below* from *beta* to *1.7.0*

@@ -136,9 +136,7 @@ We are excited for you to try out any new gameplay features released in Preview 
 ### **Editor**
 
 - Added eventing support for *ExtensionContext* API
-
-- - Added new after event *ModeChangeAfterEvent* and signal *ModeChangeAfterEventSignal*
-
+  - Added new after event *ModeChangeAfterEvent* and signal *ModeChangeAfterEventSignal*
 - Fixed a bug where Cube Brush preview wasn't getting cleared when swapping to Crosshair mid-brush painting 
 
 ## Add-Ons and Script Engine
@@ -164,8 +162,7 @@ We are excited for you to try out any new gameplay features released in Preview 
 ## AI Goal Components
 
 - Added "minecraft:behavior.melee_box_attack" behavior which functions the same as "minecraft:behavior.melee_attack" but uses bounds based attack reach calculations
-
-- - The *reach_multiplier* attribute is removed and replaced with *box_increase*
+  - The *reach_multiplier* attribute is removed and replaced with *box_increase*
   - Reach is calculated by increasing the bounds of the attacking mobs in the xz-plane by *box_increase* blocks to create an "attack box". If the attack box intersects with the target's bounds the attacking mob can reach it
 
 ## API
@@ -189,7 +186,6 @@ We are excited for you to try out any new gameplay features released in Preview 
 ## Molang
 
 - Fixed animation controller loading to use the pack's *min_engine_version* rather than the file's *format_version* to determine the Molang Version. This fix applies to animation controllers in packs with a *min_engine_version* of 1.20.50 or higher 
-
 - The following Molang queries are Deprecated and will no longer be available in packs with a *min_engine_version *of 1.20.50 or higher
   - Replaced with *query.timer_flag_1*, set by *behavior.timer_flag_1*
 
@@ -206,7 +202,9 @@ We are excited for you to try out any new gameplay features released in Preview 
   - It was only used to adjust the head animation of the camel as it came out of dash cooldown
   - Camel animation uses *variable.dash_cooldown_progress* in camel.entity.json now
 
-- - *query.is_scenting*
+  <!-- -->
+
+  - *query.is_scenting*
   - *query.is_rising*
   - *query.is_feeling_happy*
   - *query.dash_cooldown_progress*

@@ -17,98 +17,59 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **New Features:**
 
 - Stained Glass
-
 - Cross-platform play between Xbox One, Windows 10, and mobile devices
-
 - Server Partners (inPVP, Lifeboat, and Mineplex)
-
 - Fireworks (with Elytra boost!)
-
 - Parrots
-
 - Banners
-
 - Armor Stands
-
 - Jukebox and music discs
-
 - Recipe Book
-
 - Book & Quill
-
 - Ravines
-
 - Coarse Dirt
-
 - New world start options:
-
-- - Starting Map
+  - Starting Map
   - Bonus Chest
   - Trust Players
-
 - New game rules:
-
-- - Show Coordinates
+  - Show Coordinates
   - TNT Explodes
   - Natural Regeneration
-
 - Added '/tickingarea' command to create areas that still update when no players are there
-
 - Player permissions
-
 - Zombie Villager spawn egg
-
 - In-game host options
-
 - New achievements
-
 - Realms invite links
-
 - Paper doll viewer
-
 - Outline selection toggle
-
 - In-game player names toggle
-
 - HUD opacity toggle
-
 - Sprint button mapping for controllers
-
 - Expanded Xbox Live multiplayer world settings
-
 - New loading screens with funny and helpful tips
-
 - How to Play screen
-
 - Remix 3D export functionality (Windows 10 only)
-
 - Mash-up Packs and Texture Packs will now decorate the main menu and in-game HUD
-
 - Updated Add-On resource and behavior packs are available on minecraft.net/addons
 
   
 **New Marketplace Content:**
 
 - Worlds
-
-- - Sunnyside Academy by Imagiverse
+  - Sunnyside Academy by Imagiverse
   - Abstraction: SOLAR by Jigarbov
   - Halfling Burrows by Razzleberries
   - Dinosaur Survival by PixelHeads
   - Sunset Coast by Blockworks
-
 - Resource Packs
-
-- - Beyond the Lands by Tomaxed
-
+  - Beyond the Lands by Tomaxed
 - Mash-Up Packs
-
-- - Halo (with NEW gameplay!)
+  - Halo (with NEW gameplay!)
   - Halloween
-
 - Skin Packs
-
-- - Battle & Beasts 2
+  - Battle & Beasts 2
   - Mini Game Heroes
   - Mini Game Masters
   - Star Wars Classic

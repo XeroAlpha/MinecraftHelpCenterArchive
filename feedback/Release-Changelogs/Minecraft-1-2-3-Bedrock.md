@@ -22,23 +22,18 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **New Marketplace Content:**
 
 - Adventure Maps
-
-- - Block & Seek by Polymaps
+  - Block & Seek by Polymaps
   - Dr. Splice’s Lab Escape by 57Digital
   - Mystery Lands: Scary Chunks by Pathway Studios
   - The Cube Theater by Qwertyuiopthepie
   - The Haunted Neighborhood by PixelHeads
-
 - Worlds
-
-- - Fall Fest by Blockception
+  - Fall Fest by Blockception
   - FightMe! By Pathway Studios
   - Land's End by Blockworks
   - SkyFair by Blockworks
-
 - Skin Packs
-
-- - Boo! by 57Digital
+  - Boo! by 57Digital
   - Cute But Spoopy by Eneija
   - Onsie by Eneija
   - The Boo Crew by Razzleberries

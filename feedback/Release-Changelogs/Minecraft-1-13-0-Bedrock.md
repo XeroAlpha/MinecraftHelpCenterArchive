@@ -11,48 +11,30 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035247792-Minecraft-1-
 **New Features:**
 
 - **Foxes!**
-
-- - Keep your chickens safe and your belongings close, otherwise you’ll find them dead or gone - especially come nightfall. Foxes are more active at night and seek shade to sleep during the day. However, if you’re patient enough to feed two of them Sweet Berries, you can end up with a trusty one!
-
+  - Keep your chickens safe and your belongings close, otherwise you’ll find them dead or gone - especially come nightfall. Foxes are more active at night and seek shade to sleep during the day. However, if you’re patient enough to feed two of them Sweet Berries, you can end up with a trusty one!
 - **Brown Mooshroom**
-
-- - Transforms whenever a red Mooshroom is struck by lightning
+  - Transforms whenever a red Mooshroom is struck by lightning
   - Feed them flowers and use a bowl to harvest Suspicious Stew!
-
 - **Suspicious Stew**
-
-- - Craft stew with different flowers to grant different potion effects for a short period of time
+  - Craft stew with different flowers to grant different potion effects for a short period of time
   - Share the suspiciousness with your friends and see how they like Suspicious Stew!
-
 - **Wither Rose**
-
-- - A new, scary looking flower that is planted wherever a living entity dies to the Wither
+  - A new, scary looking flower that is planted wherever a living entity dies to the Wither
   - Might be useful when crafting Suspicious Stew?
-
 - **Item Frames can now be placed on the floor and ceiling!**
-
 - **Added abandoned villages**
-
 - **Added a celebration event that occurs if Pillagers successfully raid a village**
-
 - **New Note Block instruments**
-
-- - Make some sweet new jams by placing certain blocks under Note Blocks!
+  - Make some sweet new jams by placing certain blocks under Note Blocks!
   - Discover the new instruments with Glowstone, Haybale, Block of Emerald, Pumpkin, Soul Sand, Block of Iron, Bone Block, Wool, Packed Ice, Clay, and Block of Gold
-
 - **Added five dead coral types**
-
 - **Added the Light Block for mapmakers**
-
-- - Supports auxiliary data from 0 to 15 for light level
+  - Supports auxiliary data from 0 to 15 for light level
   - Light blocks are supported via /give, /fill, and /setblock
   - The invisible End Rod (variant 6) is now automatically updated to the new Light Block
-
 - **Added new in-game chat settings to improve accessibility**
-
 - **Added game credits**
-
-- - A way to see all the lovely people that work on the game!
+  - A way to see all the lovely people that work on the game!
   - The credits can be viewed after defeating the Ender Dragon, and also through a new button found in the Settings menu
 
 **Character Creator:**

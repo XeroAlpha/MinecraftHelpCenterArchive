@@ -153,16 +153,12 @@ Here’s a list of what’s new in this week’s Preview and Beta! As ever, we�
 ## API
 
 - DataDrivenEntityTriggerAfterEvent 
-
-- - Renamed property *id* to *eventId* for clarity
+  - Renamed property *id* to *eventId* for clarity
   - Changed *getModifier* to work in read-only mode
-
 - Changed *DefinitionModifier* from a *class* to an *interface* with properties
-
 - Made *EntityTypes.get* properly reflect that it can return *EntityType \| undefined* instead of just *EntityType*
 
 ## Gametest
 
 - Dynamic Properties
-
-- - NBT change: Dynamic properties are now stored using the behavior pack manifest UUID, rather than the module UUID. Existing worlds using dynamic properties will continue to work, and will be migrated to the new format when properties are read or modified
+  - NBT change: Dynamic properties are now stored using the behavior pack manifest UUID, rather than the module UUID. Existing worlds using dynamic properties will continue to work, and will be migrated to the new format when properties are read or modified

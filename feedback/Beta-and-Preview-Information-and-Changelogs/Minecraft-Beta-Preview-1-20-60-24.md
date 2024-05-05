@@ -161,8 +161,7 @@ Updates this week:
 ## Entity Event Responses
 
 - Added the "emit_vibration" entity event response, which allows the entity to emit a vibration having the entity itself as its source
-
-- - The "vibration" field allows to specify the vibration to be emitted
+  - The "vibration" field allows to specify the vibration to be emitted
   - The allowed values are "shear", "entity_act", and "entity_interact"
 
 ## Molang
@@ -182,14 +181,10 @@ Updates this week:
 ## API
 
 - system.runJob()
-
 - system.clearJob()
-
-- - Added runJob and clearJob for optimizing long running tasks using JavaScript generators. system.runJob takes a generator function and returns a jobId. See documentation for usage examples.
-
+  - Added runJob and clearJob for optimizing long running tasks using JavaScript generators. system.runJob takes a generator function and returns a jobId. See documentation for usage examples.
 - *@minecraft/server.BlockPermutation*
-
-- - Moved getState and withStates APIs from beta to stable
+  - Moved getState and withStates APIs from beta to stable
 
 ## Graphical
 

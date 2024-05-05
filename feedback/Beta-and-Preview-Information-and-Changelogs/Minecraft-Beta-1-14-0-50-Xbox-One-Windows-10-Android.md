@@ -30,9 +30,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035860332-Minecraft-Be
 
 <!-- -->
 
-- - Fixed an issue that could sometimes cause split-screen to see a flickering screen when joining a world on Xbox One 
-  - Downloading the free Minecraft Music Pack will no long show an error message in the Marketplace
-  - The loading screen tips now load in correctly when using the Japanese language option  
+- Fixed an issue that could sometimes cause split-screen to see a flickering screen when joining a world on Xbox One 
+- Downloading the free Minecraft Music Pack will no long show an error message in the Marketplace
+- The loading screen tips now load in correctly when using the Japanese language option  
 
 <!-- -->
 
@@ -49,10 +49,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035860332-Minecraft-Be
 
 <!-- -->
 
-- - Buckets can once again be used to milk cows ([MCPE-54623](https://bugs.mojang.com/browse/MCPE-54623))
-  - Milk buckets can again be used to craft cakes ([MCPE-52774](https://bugs.mojang.com/browse/MCPE-52774))
-  - Milk buckets no longer play the drinking animation continuously, when the 'use' button is held down ([MCPE-54555](https://bugs.mojang.com/browse/MCPE-54555))
-  - Fixed an issue that was causing sugar cane to break when a nearby water source became waterlogged ([MCPE-52314](https://bugs.mojang.com/browse/MCPE-52314)) 
+- Buckets can once again be used to milk cows ([MCPE-54623](https://bugs.mojang.com/browse/MCPE-54623))
+- Milk buckets can again be used to craft cakes ([MCPE-52774](https://bugs.mojang.com/browse/MCPE-52774))
+- Milk buckets no longer play the drinking animation continuously, when the 'use' button is held down ([MCPE-54555](https://bugs.mojang.com/browse/MCPE-54555))
+- Fixed an issue that was causing sugar cane to break when a nearby water source became waterlogged ([MCPE-52314](https://bugs.mojang.com/browse/MCPE-52314)) 
 
 <!-- -->
 
@@ -60,4 +60,4 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035860332-Minecraft-Be
 
 <!-- -->
 
-- - Leashed Bees can no longer sting the player twice ([MCPE-55068](https://bugs.mojang.com/browse/MCPE-55068))
+- Leashed Bees can no longer sting the player twice ([MCPE-55068](https://bugs.mojang.com/browse/MCPE-55068))

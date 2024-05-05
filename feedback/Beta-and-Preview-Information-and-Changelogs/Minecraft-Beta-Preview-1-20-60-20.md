@@ -52,24 +52,17 @@ What do trial chambers, trial spawners, and the breeze all have in common? As we
 ## Added Breeze mob
 
 - The Breeze is a cunning, hostile mob that can spawn via Trial Spawner in some rooms within the Trial Chambers
-
 - The Breeze moves primarily by leaping around the target, sometimes jumping quite long distances
-
 - An aggressive adversary, the Breeze shoots volatile wind energy in the form of wind charge projectiles at its target
-
 - Wind charges deal a small amount of damage when colliding directly with an entity
-
 - After colliding with an entity or a block, wind charge projectiles produce a wind burst, which knocks back entities in the area by several blocks
-
 - Wind bursts also have the effect of 'activating' certain blocks:
-
-- - Non-Iron Doors and Trapdoors are flipped
+  - Non-Iron Doors and Trapdoors are flipped
   - Fence Gates are flipped
   - Buttons are pressed
   - Levers are flipped
   - Bells are rung and swung
   - Lit Candles (both standalone and on cake) are extinguished
-
 - Wind bursts do not have any effect on Iron Doors, Iron Trapdoors, or any block being held in its position by a Redstone signal
 
 ## Known Parity Breaks
@@ -81,67 +74,44 @@ What do trial chambers, trial spawners, and the breeze all have in common? As we
 ## Trial Spawner
 
 - Trial Spawner is a new variant of Monster Spawners that ejects rewards upon completion and can have variable levels of challenge in multiplayer
-
 - The challenge level will increase for each new player a Trial Spawner notices nearby
-
-- - Challenge level will not decrease until it is reset during a Trial Spawner's cooldown
-
+  - Challenge level will not decrease until it is reset during a Trial Spawner's cooldown
 - Unlike normal spawners, a Trial Spawner will spawn a limited number of mobs proportional to its current challenge level
-
-- - It can only spawn a mob at positions that are within line of sight
+  - It can only spawn a mob at positions that are within line of sight
   - It can spawn a mob regardless of any light level requirement the mob has
   - Spawned mobs are persistent
-
 - Once all mobs are defeated, the Trial Spawner will eject a set of rewards proportional to the current challenge level
-
-- - After the rewards have been ejected, the Trial Spawner goes into cooldown for 30 minutes during which it will no longer spawn mobs
-
+  - After the rewards have been ejected, the Trial Spawner goes into cooldown for 30 minutes during which it will no longer spawn mobs
 - Trial Spawners cannot be crafted nor obtained by players in Survival - instead, they can be found naturally placed throughout Trial Chambers
-
 - Trial Spawners are extremely slow to mine and resistant to explosions, and will not drop even with Silk Touch
-
 - When placed in Creative, Trial Spawners have no mob type set by default
-
-- - The mob type can be set by interacting with it while holding a Spawn Egg
-
+  - The mob type can be set by interacting with it while holding a Spawn Egg
 - Creative and Spectator players cannot be detected or noticed by Trial Spawners
 
 ## Trial Chambers
 
 - Trial Chambers are a new structure in the Overworld where players can explore and take on combat challenges during the mid-game
-
-- - Trial Chambers are made out of a variety of Copper and Tuff blocks and can be found in different sizes from large to small
+  - Trial Chambers are made out of a variety of Copper and Tuff blocks and can be found in different sizes from large to small
   - Trial Chambers are a relatively common find throughout the Deepslate layer of the underground
-
 - The layout of each Trial Chamber is procedurally generated, and can include traps, reward chests and a variety of combat spaces
-
-- - Supply chests can be found between different rooms, and give you blocks and items which help you navigate your trials
+  - Supply chests can be found between different rooms, and give you blocks and items which help you navigate your trials
   - Reward chests are guarded by challenges in each room, and can be a source of enchanted books and equipment
   - The loot found in reward chests are still being iterated, and are absolutely not final
-
 - Each Trial Chamber will include Trial Spawners with a melee, small melee, or ranged category:
-
-- - Melee
-
-  - - Zombie
+  - Melee
+    - Zombie
     - Husk
     - Slime
-
   - Small Melee
-
-  - - Spider
+    - Spider
     - Cave Spider
     - Baby Zombie
     - Silverfish
-
   - Ranged
-
-  - - Skeleton
+    - Skeleton
     - Stray
-
 - Each Trial Spawner category will only use one mob for the entire structure when generated, and these mobs are randomized for each Trial Chamber
-
-- - For example, one Trial Chamber might only spawn Zombies, Cave Spiders and Strays, while another might only spawn Slimes, Silverfish and Skeletons
+  - For example, one Trial Chamber might only spawn Zombies, Cave Spiders and Strays, while another might only spawn Slimes, Silverfish and Skeletons
   - The exceptions to this are some Trial Spawners in unique rooms which always spawn Breezes
 
 ## Known issues
@@ -248,11 +218,8 @@ Updates this week:
 ## API
 
 - PlayerPlaceBlockBeforeEvent
-
-- - Removed *itemStack: ItemStack* from event
+  - Removed *itemStack: ItemStack* from event
   - Added *readonly permutationBeingPlaced: BlockPermutation* to event
   - Updating *createExplosion(location: Vector3, radius: number, explosionOptions?: ExplosionOptions)* to return a boolean. True if the explosion is successful and false if the explosion is unsuccessful or is cancelled.
-
 - Class Player
-
 - Added method *spawnParticle(effectName: string, location: Vector3, molangVariables?: MolangVariableMap): void;*.

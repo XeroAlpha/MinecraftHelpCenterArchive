@@ -50,12 +50,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360031240811-Minecraft-Be
 
 <!-- -->
 
-- - Fixed an issue with in-game patch notes not always showing up correctly
-  - Fixed an issue with some damageable items (such as armour, tools) not being suggested in recipe book
-  - Armour stands and players can again wear helmets with secondary layers
-  - Items no longer appear as mobs when held by armour stands ([MCPE-48629](https://bugs.mojang.com/browse/MCPE-48629))
-  - Arrows now render correctly when held by armour stands
-  - Removed the “Create Realm” button from beta versions of the game
+- Fixed an issue with in-game patch notes not always showing up correctly
+- Fixed an issue with some damageable items (such as armour, tools) not being suggested in recipe book
+- Armour stands and players can again wear helmets with secondary layers
+- Items no longer appear as mobs when held by armour stands ([MCPE-48629](https://bugs.mojang.com/browse/MCPE-48629))
+- Arrows now render correctly when held by armour stands
+- Removed the “Create Realm” button from beta versions of the game
 
 <!-- -->
 
@@ -102,7 +102,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360031240811-Minecraft-Be
   - Experimental UI is registered as trusted pack ([MCPE-47818](https://bugs.mojang.com/browse/MCPE-47818))
   - Fixed horse rein positioning and rotation in certain packs
 
-- - Fixed an issue with nested behaviour pack definitions not running correctly
+  <!-- -->
+
+  - Fixed an issue with nested behaviour pack definitions not running correctly
   - Fixed an issue with minimum compatible versions of certain packs not working correctly 
   - Timer component now works on vanilla projectiles
   - ‘minecraft:spell_effects’ no longer trigger a second timer 

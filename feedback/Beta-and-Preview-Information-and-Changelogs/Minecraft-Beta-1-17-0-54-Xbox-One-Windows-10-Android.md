@@ -141,12 +141,12 @@ General
   - \[Removed\] function setColor(color : Number)
   - property value : Number - Gets or sets the color of the entity
 
-- - Added additional component interfaces. movement, navigation, healable, breathable, ageable, and tameable components can be referenced via entity.getComponent(componentName : string).
+  <!-- -->
+
+  - Added additional component interfaces. movement, navigation, healable, breathable, ageable, and tameable components can be referenced via entity.getComponent(componentName : string).
   - minecraft:color
-
 - Container - New interface for interacting with entity containers. Can be referenced via entity.getComponent("inventory").container
-
-- - function setItem(slot : Number, itemStack : ItemStack) - Adds itemStack to the container at the given slot
+  - function setItem(slot : Number, itemStack : ItemStack) - Adds itemStack to the container at the given slot
   - function getItem(slot : Number) : ItemStack - Gets the itemStack at the given slot
   - function addItem(itemStack : ItemStack) - Adds the given itemStack to the first available slot of the container
   - function transferItem(fromSlot : Number, toSlot : Number, toContainer : Container) - Transfers an ItemStack from fromSlot of the container to toSlot of toContainer

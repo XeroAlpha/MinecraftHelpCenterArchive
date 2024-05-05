@@ -26,12 +26,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360033322932-Minecraft-Be
 
 <!-- -->
 
-- - The game no longer crashes while typing out the execute command
-  - Devices with lower available memory now support the new Note Block sounds 
-  - Fixed a crash that could sometimes occur when a player leaves a multiplayer game 
-  - Fixed a crash that could occur if a player tried to open chat just as they were leaving a multiplayer game (250587)
-  - Light blocks with invalid auxiliary values no longer cause the game to crash ([MCPE-51191](https://bugs.mojang.com/browse/MCPE-51191))
-  - Improved chunk loading performance when flying** **
+- The game no longer crashes while typing out the execute command
+- Devices with lower available memory now support the new Note Block sounds 
+- Fixed a crash that could sometimes occur when a player leaves a multiplayer game 
+- Fixed a crash that could occur if a player tried to open chat just as they were leaving a multiplayer game (250587)
+- Light blocks with invalid auxiliary values no longer cause the game to crash ([MCPE-51191](https://bugs.mojang.com/browse/MCPE-51191))
+- Improved chunk loading performance when flying** **
 
 <!-- -->
 
@@ -62,8 +62,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360033322932-Minecraft-Be
 <!-- -->
 
 - **User Interface**
-
-- - Fixed the spacing between "Feedback" and "Save & Quit" buttons in the pause menu  
+  - Fixed the spacing between "Feedback" and "Save & Quit" buttons in the pause menu  
 
 <!-- -->
 

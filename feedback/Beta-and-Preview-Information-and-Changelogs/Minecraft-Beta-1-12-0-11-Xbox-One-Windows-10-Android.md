@@ -22,18 +22,14 @@ Posted: June 11, 2019
   - Improved FPS performance related to various particles:
     - Enderman's teleporting particles no longer cause consistent FPS drop, especially during boss fights
     - Improved performance related to bubble columns, improving FPS during underwater exploration 
-
 - **General**
   - Fixed several more issues where the player's skin would revert to a default one if the network connection changed
   - Skins equipped from the 'Recently used' section are now correctly applied when selected 
   - Minecoin offers now display correct amount of coins given in offer
-
 - **Gameplay**
   - Floating blocks no longer turn grass to dirt at night ([MCPE-46035](https://bugs.mojang.com/browse/MCPE-46035), [MCPE-45751](https://bugs.mojang.com/browse/MCPE-45751), [MCPE-45698](https://bugs.mojang.com/browse/MCPE-45698))
-
 - **Mobs**
-
-- - V2 zombie villagers now have the correct name in death messages instead of a placeholder name ([MCPE-45932](https://bugs.mojang.com/browse/MCPE-45932))
+  - V2 zombie villagers now have the correct name in death messages instead of a placeholder name ([MCPE-45932](https://bugs.mojang.com/browse/MCPE-45932))
 
 <!-- -->
 

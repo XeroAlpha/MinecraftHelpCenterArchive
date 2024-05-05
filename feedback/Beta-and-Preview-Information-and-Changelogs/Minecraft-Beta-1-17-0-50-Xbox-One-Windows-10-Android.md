@@ -35,43 +35,30 @@ You can leave us your feedback for these features in the threads at [aka.ms/Cave
 ### Amethysts and Geodes
 
 - Amethyst Geodes have been added to the game!
-
-- - These huge geodes can be found anywhere underground in the Overworld
+  - These huge geodes can be found anywhere underground in the Overworld
   - Amethyst geodes have an outer layer of a new block called Smooth Basalt
   - Amethyst geodes have a second layer of another new block called Calcite
   - Amethyst geodes have an inner layer of various Amethyst blocks
-
 - Calcite, Tuff, and Smooth Basalt have been added to the game!
-
-- - Just smelt basalt to obtain smooth basalt!
-
+  - Just smelt basalt to obtain smooth basalt!
 - Amethyst Clusters have been added to the game!
-
-- - Amethyst Clusters grow from Budding Amethyst, which can be found inside geodes
+  - Amethyst Clusters grow from Budding Amethyst, which can be found inside geodes
   - Clusters have four growth stages: Small Amethyst Bud, Medium Amethyst Bud, Large Amethyst Bud, and Amethyst Cluster
   - Clusters can only grow when they are placed on Budding Amethyst blocks
   - Fully-grown Amethyst Clusters drop four Amethyst Shards (or more with Fortune) when an Iron Pickaxe or higher is used, and otherwise drop nothing when broken
   - Clusters can be Silk Touched at any stage
-
 - Budding Amethyst has been added to the game!
-
-- - On any side of a Budding Amethyst block where there is air or a water source block, a Small Amethyst Bud will eventually grow
+  - On any side of a Budding Amethyst block where there is air or a water source block, a Small Amethyst Bud will eventually grow
   - Amethyst Buds can only grow when attached to Budding Amethyst, and will grow until they become Amethyst
-
 - Clusters Amethyst Blocks have been added to the game!
-
-- - Amethyst comes in block form inside the geodes in two ways: Block of Amethyst and Budding Amethyst
+  - Amethyst comes in block form inside the geodes in two ways: Block of Amethyst and Budding Amethyst
   - All types of Amethyst blocks (clusters included) create beautiful sounds when you walk on them, break them, place them, or hit them with a projectile – go make some music!
-
 - Tinted Glass has been added to the game!
-
-- - Tinted Glass is a type of glass that does not allow light to pass through
+  - Tinted Glass is a type of glass that does not allow light to pass through
   - Tinted Glass is crafted by putting a Glass block in the middle of four Amethyst Shards
   - Tinted Glass can be obtained without Silk Touch; it does not shatter like normal glass
-
 - Amethyst Shards have been added to the game!
-
-- - Amethyst Clusters drop four Amethyst Shards (or more with Fortune)
+  - Amethyst Clusters drop four Amethyst Shards (or more with Fortune)
 
 ### Spyglass
 
@@ -144,23 +131,15 @@ You can leave us your feedback for these features in the threads at [aka.ms/Cave
 ### Lush Caves
 
 - Lush Cave biomes now randomly generate underground
-
 - Azalea and Flowering Azalea leaves now have a chance to drop Azalea or Flowering Azalea when broken ([MCPE-122165](https://bugs.mojang.com/browse/MCPE-122165))
-
 - Moss Carpet now has Block Placing sound ([MCPE-121663](https://bugs.mojang.com/browse/MCPE-121663))
-
 - Azalea and Flowering Azalea now have ambient occlusion ([MCPE-121660](https://bugs.mojang.com/browse/MCPE-121660))
-
 - Bonemealing Small Dripleaves now creates Big Dripleaves of a random height between 1-5
-
 - Changed which blocks some world generation features can replace with Moss blocks and Lush Ground:
-
-- - Moss blocks can replace: Dirt, Podzol, Rooted Dirt, Stone, Cave Vines
+  - Moss blocks can replace: Dirt, Podzol, Rooted Dirt, Stone, Cave Vines
   - Lush Ground can replace: Dirt, Podzol, Rooted Dirt, Stone, Cave Vines, Clay, Moss Block, Sand, Gravel
-
 - Moss block bonemealing behavior tweaks:
-
-- - Bonemealing a Moss block can now also replace Grass and Mycelium
+  - Bonemealing a Moss block can now also replace Grass and Mycelium
   - The maximum radius covered by Moss bonemealing has been reduced by 1
   - The chance of growing vegetation when bonemealing a Moss block has been decreased
 

@@ -24,62 +24,36 @@ Minecraft is now available on the Nintendo Switch! Utilizing the Bedrock Engine,
 **New Features:**
 
 - Water has a completely new look and increased visibility while underwater
-
 - Dolphins
-
 - Tropical Fish
-
 - Cod, Salmon, and Pufferfish mobs
-
 - New ocean biomes of varying depths and temperatures
-
 - Shipwrecks
-
 - Ocean ravines and caves
-
 - Icebergs
-
 - Underwater ruins
-
 - Coral reefs
-
 - Buried Treasure and Treasure Maps
-
 - Swimming animation while sprinting in water
-
 - Heart of the Sea: Be sure to collect these for later to construct a Conduit that will be introduced in an upcoming update!
-
 - Trident weapon with new enchantments
-
-- - Channeling
+  - Channeling
   - Loyalty
   - Riptide
   - Impaling
-
 - New water behavior
-
-- - A water source block can be placed inside of most non-solid blocks
+  - A water source block can be placed inside of most non-solid blocks
   - Flowing water will still not flow into non-solid blocks
   - Blocks can be placed underwater without creating pockets of air around them
-
 - Coral, Coral Fans, and Coral Blocks
-
 - Kelp, Dried Kelp, and Dried Kelp Blocks
-
 - Blue Ice blocks
-
 - Seagrass and Tall Seagrass
-
 - Sea Pickles can now be found on the ocean floor as a source of light
-
 - Stripped Wood
-
 - Wood variants for Buttons, Pressure Plates, and Trapdoors
-
 - Prismarine Stairs and Slabs
-
 - Fish can now be scooped into buckets
-
 - Minecraft: Education Edition Chemistry features can now be enabled under Cheats! For tips on getting started, check out the [Chemistry Lab Journal](https://education.minecraft.net/wp-content/uploads/ChemistryLab_Journal.pdf)
 
 **  
@@ -113,23 +87,20 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 **Fixes:**
 
 - **Performance / Stability**
-
-- - Many optimizations to chunk rendering and game performance
+  - Many optimizations to chunk rendering and game performance
   - Chunk generation is now prioritized first to the chunks closest to the player
   - Fixed several of the top crashes that occurred during gameplay
 
 <!-- -->
 
 - **General**
-
-- - 'Delicious Fish' achievement can now be unlocked after cooking and eating Salmon
+  - 'Delicious Fish' achievement can now be unlocked after cooking and eating Salmon
   - Disconnecting a controller while making input no longer continues that input until the controller is reconnected
 
 <!-- -->
 
 - **Gameplay**
-
-- - Crops can now be harvested continuously
+  - Crops can now be harvested continuously
   - Fixed Villager trade items not being replenished
   - Fixed some Villager trades not granting XP
   - Bows will now inflict the same amount of damage to players and mobs
@@ -145,8 +116,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Items**
-
-- - Fixed items losing durability when used on other players and the PvP game rule is disabled
+  - Fixed items losing durability when used on other players and the PvP game rule is disabled
   - Enchanted Apples can now be found in loot chests
   - Name Tags can now be found from Villager trading and fishing
   - Diamonds will now appear in the loot chests of Jungle Temples and Strongholds
@@ -159,8 +129,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Blocks**
-
-- - Extra blocks will no longer be placed when placing a block straight down
+  - Extra blocks will no longer be placed when placing a block straight down
   - Glass Panes now align to Stairs
   - Increased the hitbox of Soul Sand
   - Grass blocks will now turn into Dirt if Grass Path blocks are placed above them
@@ -175,8 +144,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Redstone**
-
-- - Automated Chicken cookers using slabs will now function properly
+  - Automated Chicken cookers using slabs will now function properly
   - Fixed Redstone not powering horizontally adjacent blocks
   - Hoppers and Droppers can now only put Music Discs inside Jukeboxes
   - Minecart with Hopper and TNT will no longer shake on Activator Rails
@@ -195,8 +163,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Mobs**
-
-- - Baby Chickens no longer get stuck in the corners of fences
+  - Baby Chickens no longer get stuck in the corners of fences
   - Fixed mobs shaking while riding in Minecarts
   - Horses can no longer be steered in deep water
   - Llamas now form a caravan when following Llamas on a Lead instead of acting silly and running around in circles
@@ -233,8 +200,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Crafting**
-
-- - Enchanted Apples can no longer be crafted (Golden Apples are still craftable)
+  - Enchanted Apples can no longer be crafted (Golden Apples are still craftable)
   - Crafting items that used ingredients in the hotbar no longer causes the hotbar to get shuffled when using a controller
   - Mossy Stone Bricks can no longer be crafted from themselves and no longer results in loss of blocks
   - Bucket, Water Bucket, Lava Bucket, and Milk have been moved to the 'Items' inventory tab
@@ -242,8 +208,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Exploits**
-
-- - Players can no longer attack others with bows when Friendly Fire is disabled
+  - Players can no longer attack others with bows when Friendly Fire is disabled
   - Minecart with Hopper can no longer duplicate items
   - Items can no longer be duplicated using Item Frames and Hoppers
   - Exploding Creepers and Beds in the Nether can no longer ignite TNT in worlds that have 'TNT Explodes' turned off
@@ -259,8 +224,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Graphical**
-
-- - The line is now properly connected to the Fishing Rod and floater
+  - The line is now properly connected to the Fishing Rod and floater
   - Rain is now visible through glass
   - Sugar Cane now has proper biome coloring
   - Beacons will now shine through lava
@@ -302,8 +266,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Audio**
-
-- - Fixed the sound effect not playing when equipping armor from the hotbar
+  - Fixed the sound effect not playing when equipping armor from the hotbar
   - Fixed missing sound when moving through End Gateways
   - The proper sound effects will now play when using Ender Chests, Brewing Stands, Armor Stands, Furnaces
   - Thrown entities no longer play footstep sounds
@@ -313,8 +276,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **User Interface**
-
-- - Fixed world names not being editable if they contained over 24 characters
+  - Fixed world names not being editable if they contained over 24 characters
   - The oxygen bar is no longer misplaced when getting out of a boat and diving underwater
   - Several improvements to navigating menus while using a controller
   - World save size is now properly reported immediately after saving and exiting
@@ -347,8 +309,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 <!-- -->
 
 - **Commands**
-
-- - Cloned Banners no longer appear as blank black Banners
+  - Cloned Banners no longer appear as blank black Banners
   - The "Facing" component of '/teleport' is no longer executed before teleporting a player
   - Redstone Dust can no longer be placed in air, or blocks not suited for it, using commands
   - Players can now be killed using '/kill' when they have a resistance effect of 4 or higher

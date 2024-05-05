@@ -20,8 +20,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360020324051-Minecraft-Be
 ### **Experimental Gameplay:** (Only available when Experimental Gameplay is enabled in world settings)
 
 - Added new blocks:
-
-- - Cartography Table
+  - Cartography Table
   - Fletching Table
   - Grindstone
   - Bell

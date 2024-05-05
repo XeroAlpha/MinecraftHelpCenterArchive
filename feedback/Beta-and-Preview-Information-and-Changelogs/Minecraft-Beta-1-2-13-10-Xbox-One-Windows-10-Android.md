@@ -27,18 +27,13 @@ A handful of features from Update Aquatic have been added to the beta via Experi
 'Use Experimental Gameplay' can be toggled in World Settings. This may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.
 
 - Added Drowned mobs
-
 - Added new swimming animation
-
 - Added the Trident and new enchantments
-
-- - Channeling
+  - Channeling
   - Loyalty
   - Riptide
   - Impaling
-
 - Added Stripped Wood
-
 - Added Slabs and Stairs for Prismarine, Prismarine Brick, and Dark Prismarine
 
   

@@ -10,33 +10,19 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **New Features:**
 
 - Llamas
-
 - Shulker Boxes
-
 - Illagers (Evokers & Vindicators)
-
 - Vex
-
 - Woodland Mansions
-
 - Concrete & concrete powder
-
 - Glazed terracotta blocks
-
 - Dyeable beds (and you can jump on them, too!)
-
 - Iron and Gold tools can now be smelted into Iron Nuggets and Gold Nuggets
-
 - Adventure Mode
-
-- - New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle
-
+  - New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle
 - Totem of Undying
-
 - Off-hand slot (only works for arrows & the Totem of Undying)
-
 - Mending & Frostwalking enchantments
-
 - Added a setting to toggle Smooth Lighting
 
   

@@ -231,10 +231,8 @@ This week we are officially closing the v0.4.X semantic iterations and consideri
 ## API
 
 - Updated function *addEffect* to return the added effect (or undefined if it failed). This change is in beta and does not affect the currently released versions of this function.
-
 - Added item dynamic properties
-
-- - Added function *clearDynamicProperties(): void* - Removes all dynamic properties from the item stack
+  - Added function *clearDynamicProperties(): void* - Removes all dynamic properties from the item stack
   - Added function *getDynamicProperty(identifier: string): boolean \| number \| string \| Vector3 \| undefined* - Returns the value of the dynamic property with the given identifier if it exists, otherwise returns undefined
   - Added function *getDynamicPropertyIds(): string\[\]* - Returns an array of all dynamic property identifiers on the item stack
   - Added function *getDynamicPropertyTotalByteCount(): number* - Returns the total byte count of all dynamic properties on the item stack
@@ -244,9 +242,7 @@ This week we are officially closing the v0.4.X semantic iterations and consideri
   - Added function *getDynamicPropertyIds(): string\[\]* - Returns an array of all dynamic property identifiers on the item stack
   - Added function *getDynamicPropertyTotalByteCount(): number* - Returns the total byte count of all dynamic properties on the item stack
   - Added function *setDynamicProperty(identifier: string, value?: boolean \| number \| string \| Vector3): void* - Sets the value of the dynamic property with the given identifier. If the value is undefined, the dynamic property will be removed
-
 - Added class *EntityProjectileComponent*. This component is used to shoot a projectile entity and modify its properties
-
 - Added interface *ProjectileShootOptions*. This interface is used with function *EntityProjectileComponent.shoot* to optionally modify the accuracy of the projectile when shot
 
 ## Molang

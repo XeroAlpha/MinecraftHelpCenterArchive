@@ -57,8 +57,7 @@ It’s October in Sweden, and the leaves outside are changing from green to oran
 ## Copper Block Family
 
 - The Copper family of blocks has been expanded, including:
-
-- - Chiseled Copper
+  - Chiseled Copper
   - Copper Grate
   - Copper Bulb
   - Copper Door
@@ -73,14 +72,10 @@ It’s October in Sweden, and the leaves outside are changing from green to oran
 ## Copper Grate
 
 - A new type of decorative block unique to the Copper family
-
 - Crafted with 4 Copper Blocks of a shared oxidation level
-
-- - Can be crafted in the Stonecutter
-
+  - Can be crafted in the Stonecutter
 - Properties:
-
-- - Transparent and allows light to pass through
+  - Transparent and allows light to pass through
   - Mobs cannot suffocate inside them
   - Cannot conduct Redstone
   - Hostile mobs cannot naturally spawn on them
@@ -88,28 +83,19 @@ It’s October in Sweden, and the leaves outside are changing from green to oran
 ## Copper Bulb
 
 - A light-emitting block that can toggle its light emission through Redstone pulses
-
 - Oxidizes like other Copper blocks, and emits less light the more oxidized they are
-
-- - Copper Bulb: Light level 15
+  - Copper Bulb: Light level 15
   - Exposed Copper Bulb: Light level 12
   - Weathered Copper Bulb: Light level 8
   - Oxidized Copper Bulb: Light level 4
-
 - When placed, its light is off by default
-
-- - While the Copper Bulb is unpowered, it will toggle its light on or off when it receives a Redstone pulse
+  - While the Copper Bulb is unpowered, it will toggle its light on or off when it receives a Redstone pulse
   - Copper Bulb light will stay on even when the Redstone source is removed until it receives another Redstone pulse to toggle it off
-
 - A Redstone crystal will glow in the center of Copper Bulbs while it is powered by a Redstone signal
-
 - Comparators will read a signal strength of 15 if the Copper Bulb's light is on
-
 - Does not conduct Redstone power
-
 - Can craft 4 Copper Bulbs with:
-
-- - 3 Copper Blocks of a shared oxidation level
+  - 3 Copper Blocks of a shared oxidation level
   - 1 Blaze Rod
   - 1 Redstone Dust
 
@@ -122,11 +108,9 @@ It’s October in Sweden, and the leaves outside are changing from green to oran
 ## Tuff Block Family
 
 - Tuff has been expanded to have its own family of blocks, including:
-
-- - Stair, Slab, Wall, and Chiseled variants
+  - Stair, Slab, Wall, and Chiseled variants
   - Tuff Bricks with Stair, Slab, Wall, and Chiseled variants
   - Polished Tuff with Stair, Slab, and Wall variants
-
 - All Tuff variants can be crafted in the Stonecutter
 
 ## Known Issues for these Experimental Blocks:
@@ -160,12 +144,9 @@ It’s October in Sweden, and the leaves outside are changing from green to oran
 ## Mobs
 
 - Leads will no longer break if a leashed mob is not in the same chunk as the leash holder upon reloading a world ([MCPE-157182](https://bugs.mojang.com/browse/MCPE-157182))
-
 - Mobs on fire no longer spread fire to their target when holding something in their main hand 
-
 - The calculations to determine whether a mob can attack a player or other mobs have been changed. Previously a mob's horizontal width was used to determine their attack reach and their height had no effect. The area where a mob can attack is now their bounding box extended in horizontal directions. 
-
-- - The mobs affected by this change are Axolotl, Bee, Blaze, Cave Spider, Dolphin, Drowned, Enderman, Endermite, Fox, Hoglin, Husk, Iron Golem, Panda, Piglin, Piglin Brute, Pillager, Silverfish, Skeleton, Spider, Stray, Vindicator, Warden, Wither Skeleton, Wolf, Zoglin, Zombie, Zombie Pigman, and Zombie Villager
+  - The mobs affected by this change are Axolotl, Bee, Blaze, Cave Spider, Dolphin, Drowned, Enderman, Endermite, Fox, Hoglin, Husk, Iron Golem, Panda, Piglin, Piglin Brute, Pillager, Silverfish, Skeleton, Spider, Stray, Vindicator, Warden, Wither Skeleton, Wolf, Zoglin, Zombie, Zombie Pigman, and Zombie Villager
   - The new reach calculation is the attacking mob's bounding box extended by 0.8 blocks horizontally. If this extended box overlaps the target's bounding box, then the attack can reach
   - This change does not affect the reach of players
 
@@ -200,13 +181,9 @@ Learn [how to use](https://aka.ms/LearnEditor) the Editor, join the [GitHub 
 Updates this week:
 
 - Added API class SettingsManager which will contain settings categories as properties.
-
-- - Added property settings: SettingsManager to ExtensionContext API.
-
+  - Added property settings: SettingsManager to ExtensionContext API.
 - Added API class GraphicsSettings with get, getAll, set and setAll functions to manage graphics settings properties.
-
 - Added API enum GraphicsSettingsProperty and type GraphicsSettingsPropertyTypeMap for available graphics settings properties.
-
 - Updated Grapple “Quick Teleport” functionality to use Camera API. Grapple to fast teleport to a target block using “G.” Grapple to frame up a Selection using “F.”
 
 ## Graphical
@@ -223,8 +200,7 @@ Updates this week:
 ## Gametest
 
 - *SimulatedPlayer*
-
-- - *stopUsingItem* now returns the item that was being used
+  - *stopUsingItem* now returns the item that was being used
 
 ## Graphical
 
@@ -237,20 +213,12 @@ Updates this week:
 ## API
 
 - Fixed *target* property to be of type *Entity* or *undefined* as the entity may not have a target 
-
 - EntityHitInformation
-
-- - Fixed *entity* property to be of type *Entity* or *undefined* as the entity may be undefined 
-
+  - Fixed *entity* property to be of type *Entity* or *undefined* as the entity may be undefined 
 - EntityInventoryComponent
-
-- - *container* member variable now correctly reflects it can be a Container or undefined 
+  - *container* member variable now correctly reflects it can be a Container or undefined 
   - *entity* member variable now correctly reflects it can be a Entity or undefined 
-
 - *ItemStartUseOnAfterEvent*
-
-- - *itemStack* is now optional
-
+  - *itemStack* is now optional
 - *ItemStopUseAfterEvent*
-
-- - *itemStack* is now optional
+  - *itemStack* is now optional

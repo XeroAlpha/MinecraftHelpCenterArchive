@@ -18,31 +18,20 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 **New Features:**
 
 - Realms are now available on Nintendo Switch
-
 - The Drowned - These dangerous, underwater zombies lurk in dark, deep water and will come up to the shore at night
-
 - Sea Turtles - These gentle creatures can be found swimming in oceans and tanning on beaches. Protect their eggs so more can hatch!
-
 - Turtle Shell and Scute items
-
 - Potion of the Turtle Master
-
 - Nautilus Shells - Can be found while fishing or held by the Drowned
-
 - Conduits can now be constructed underwater and give players the Conduit Power effect. Craft them with Nautilus Shells & Heart of the Sea
-
 - Bubble Columns - Magma Blocks create downward flowing columns and Soul Sand creates upward flowing bubbles
-
 - New Achievements
-
-- - One Pickle, Two Pickle, Sea Pickle, Four - Place four Sea Pickles in a group (20G)
+  - One Pickle, Two Pickle, Sea Pickle, Four - Place four Sea Pickles in a group (20G)
   - Echolocation - Feed a dolphin fish to have it lead you to treasure (20G)
   - Do a Barrel Roll! - Use Riptide to give yourself a boost (30G)
   - Moskstraumen - Activate a Conduit (50G)
-
 - Added new commands that only affect worlds with Education Edition enabled:
-
-- - /ability - Sets a player's ability
+  - /ability - Sets a player's ability
   - /immutableworld - Sets the immutable state of the world
   - /worldbuilder - Toggle World Builder status of caller 
 
@@ -70,8 +59,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 **Fixes:**
 
 - **Crashes/Performance**
-
-- - Fixed several crashes that occurred during gameplay
+  - Fixed several crashes that occurred during gameplay
   - Fixed a crash that occurred when suspending the game during world generation
   - Fixed a crash that occurred when a Piston moved a Cauldron underwater
   - Fixed a crash that occurred when playing Truffletop Town and dying while using Elytra and Fireworks
@@ -82,8 +70,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **General**
-
-- - Personal Game Mode is now fully applied in Game Settings when switched from Survival to Creative
+  - Personal Game Mode is now fully applied in Game Settings when switched from Survival to Creative
   - The first mouse click after re-mapping an action to a key is now recognized
   - Players will no longer inherit the host's spawn, inventory, and location when rejoining a world with a Resource Pack removed
   - Fixed players not able to join worlds hosted by players who previously joined another player's world
@@ -98,8 +85,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **Gameplay**
-
-- - Flying speed now stays constant while descending in Creative mode
+  - Flying speed now stays constant while descending in Creative mode
   - Players will no longer gradually drift up or down when swimming straight ahead
   - Fixed experience orbs not always being picked up by players
   - Bone Meal is now depleted when used on Kelp from a Dispenser
@@ -127,8 +113,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **Items**
-
-- - The Trident will now be thrown the direction the cursor is pointing when playing in VR
+  - The Trident will now be thrown the direction the cursor is pointing when playing in VR
   - Fixed Tridents damaging multiple mobs in a single throw
   - Tridents can no longer be destroyed by explosions
   - Tridents thrown into Soul Sand now land properly and no longer prevent Loyalty from working ([MCPE-32412](https://bugs.mojang.com/browse/MCPE-32412))
@@ -148,8 +133,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **Mobs**
-
-- - The Ender Dragon will no longer get stuck if the player moves too far away. Silly dragon! ([MCPE-31765](https://bugs.mojang.com/browse/MCPE-31765))
+  - The Ender Dragon will no longer get stuck if the player moves too far away. Silly dragon! ([MCPE-31765](https://bugs.mojang.com/browse/MCPE-31765))
   - Dolphins and Cod no longer get the jitters when swimming in groups
   - Silverfish can once again enter Stone blocks
   - Increased the collision size of fish mobs
@@ -169,8 +153,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **Blocks**
-
-- - Fixed the hitbox of Coral Fans
+  - Fixed the hitbox of Coral Fans
   - Blocks can no longer be placed with no other block to support it when sprint-flying underwater in Creative mode
   - Command Blocks can now be modified when set to 'Repeat' and 'Always Active'
   - Fixed blocks that were removed underwater not creating source water blocks
@@ -192,8 +175,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **World Generation**
-
-- - Ice bergs, Sea Grass, and Kelp can no longer replace blocks of an Ocean Monument when generated
+  - Ice bergs, Sea Grass, and Kelp can no longer replace blocks of an Ocean Monument when generated
   - Mutated Savanna Plateau and Mutated Mesa Plateau biomes now convert properly from old worlds
   - All overhangs and floating islands will once again generate with grass or snow under them ([MCPE-32572](https://bugs.mojang.com/browse/MCPE-32572))
   - Bryce Mesa biomes will now generate correctly ([MCPE-30612](https://bugs.mojang.com/browse/MCPE-30612))
@@ -201,8 +183,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **Graphical**
-
-- - The surface of water can now be seen when viewing from behind glass underwater
+  - The surface of water can now be seen when viewing from behind glass underwater
   - Fixed water not rendering when swimming against the bottom of a block
   - Fixed water not rendering when viewed at certain angles near the surface
   - Rain no longer severely limits view distance
@@ -242,16 +223,14 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **Audio**
-
-- - Fixed some Update Aquatic sound effects not playing on low memory devices ([MCPE-30843](https://bugs.mojang.com/browse/MCPE-30843))
+  - Fixed some Update Aquatic sound effects not playing on low memory devices ([MCPE-30843](https://bugs.mojang.com/browse/MCPE-30843))
   - Beacons now have sound effects
   - The drinking sound is no longer played twice when drinking a potion or Milk
 
 <!-- -->
 
 - **User Interface**
-
-- - The 'Sign In' button will now disappear from the main menu after signing in
+  - The 'Sign In' button will now disappear from the main menu after signing in
   - Pressing the 'Default Settings' button will now only affect the control scheme that is selected
   - Improved messaging when there are no Old Worlds to sync
   - A controller tooltip will now appear when it is possible to place blocks underwater
@@ -271,8 +250,7 @@ Update Aquatic is now complete with the addition of Phase Two! There are many ne
 <!-- -->
 
 - **Commands**
-
-- - The coordinates of Buried Treasure are now accurate when using the '/locate' command
+  - The coordinates of Buried Treasure are now accurate when using the '/locate' command
   - Seagrass obtained by commands is now functional and stackable
   - Special symbols in a player’s nickname no longer cause a syntax error when trying to teleport that player from the Host Options tab
   - Using the '/spreadplayers' command will no longer set entities or players at y=255

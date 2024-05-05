@@ -28,50 +28,30 @@ We have released a small hotfix to address players getting stuck on the loading/
 **New Features:**
 
 - New ocean biomes of varying depths and temperatures
-
 - Tropical Fish
-
 - Cod, Salmon, and Pufferfish mobs
-
 - Shipwrecks
-
 - Ocean ravines
-
 - Coral reefs
-
 - Coral, Coral Fans, and Coral Blocks
-
 - Kelp, Dried Kelp, and Dried Kelp Blocks
-
 - Seagrass and Tall Seagrass
-
 - Buried Treasure and Treasure Maps
-
 - Icebergs
-
 - Blue Ice blocks
-
 - Trident and new enchantments
-
-- - Channeling
+  - Channeling
   - Loyalty
   - Riptide
   - Impaling
-
 - New water behavior
-
-- - A water source block can be place inside of most non-solid blocks
+  - A water source block can be place inside of most non-solid blocks
   - Flowing water will still not flow into non-solid blocks
   - Blocks can be placed underwater without creating pockets of air around them
-
 - Stripped Wood
-
 - Prismarine Stairs and Slabs
-
 - New wood variants for Buttons, Pressure Plates and Trapdoors
-
 - Swimming animation while sprinting in water
-
 - Added an Inventory section to the Store to manage all your acquired content
 
   

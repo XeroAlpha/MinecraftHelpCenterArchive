@@ -17,20 +17,15 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **New Marketplace Content:**
 
 - Worlds
-
-- - Silvermist by Pathway Studios
+  - Silvermist by Pathway Studios
   - Wizard's Retreat by Imagiverse
   - Forbidden Forest by Blockception
   - Abstraction: GRID by Jigarbov
-
 - Adventure Maps
-
-- - Wildlife: Savanna by PixelHeads
+  - Wildlife: Savanna by PixelHeads
   - Autumn Mini-Games Festival by Noxcrew
-
 - Skin Packs
-
-- - 12 Wonders Skin Pack by Toyaplays
+  - 12 Wonders Skin Pack by Toyaplays
   - Adventure Together by Pathway Studios
   - Mineplex Heroes by Mineplex
   - Foodies by 57 Digital

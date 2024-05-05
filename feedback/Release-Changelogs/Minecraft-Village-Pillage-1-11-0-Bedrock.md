@@ -84,30 +84,26 @@ Posted April 23, 2019
 **New Features:**
 
 - **Campfire**
-
-- - A new light source to cozy up your village
+  - A new light source to cozy up your village
   - Works great as a fireplace in a home, with no fire spread to worry about
   - Throw some food on it and become a campfire cooking pro!
 
 <!-- -->
 
 - **Sweet Berries**
-
-- - A new source of food
+  - A new source of food
   - Sweet Berry Bushes can be found in Taiga biomes
   - Watch out for thorns!
 
 <!-- -->
 
 - **Bamboo Jungle**
-
-- - Bamboo is now generated in Jungles and more densely in the new Bamboo Jungle biome
+  - Bamboo is now generated in Jungles and more densely in the new Bamboo Jungle biome
 
 <!-- -->
 
 - **New Achievements**
-
-- - Plethora of Cats - Befriend twenty stray cats (20G)
+  - Plethora of Cats - Befriend twenty stray cats (20G)
   - Kill the Beast! - Defeat a Ravager (30G)
   - Buy Low, Sell High - Trade for the best possible price (50G)
   - Disenchanted - Use a Grindstone to get experience from an enchanted item (20G)
@@ -118,15 +114,13 @@ Posted April 23, 2019
 <!-- -->
 
 - **Roaming Skin Choice**
-
-- - When choosing a skin from a skin pack, the selected skin will now be selected automatically on other Bedrock devices using the same account
+  - When choosing a skin from a skin pack, the selected skin will now be selected automatically on other Bedrock devices using the same account
   - Some skin packs may not be eligible for roaming selection
 
 <!-- -->
 
 - **Accessibility Features**
-
-- - Text to Speech can now be enabled to read in-game chat
+  - Text to Speech can now be enabled to read in-game chat
   - UI Screen Reader can be enabled to say the name of interface controls and their current state
   - Accessibility features can be enabled in Settings  
       
@@ -134,21 +128,14 @@ Posted April 23, 2019
 **Changes:**
 
 - **Note on World Generation:** In order to deliver the coolest generated villages possible, some world seeds may have villages generate in different areas than they used to before this update
-
 - A fresh new batch of seeds are now available in the Seed Picker when creating a new world
-
 - Added even more new textures to blocks and items, including stained glass
-
 - Increased the amount of scaffolding that can be placed out from its initial support
-
 - Changes to the way cats spawn in villages:
-
-- - Cats now respawn based on number of beds in the village
+  - Cats now respawn based on number of beds in the village
   - The number of cats = 1/4 the number of beds
   - Cat total caps at 10 cats per village
-
 - Lecterns now emit a redstone signal when turning pages
-
 - Darkened portions of the game's menus to provide stronger contrast for accessibility  
     
 

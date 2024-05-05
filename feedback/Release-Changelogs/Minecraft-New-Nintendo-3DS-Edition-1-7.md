@@ -14,21 +14,16 @@ Welcome to Version 1.7! If you find any bugs, be sure to [report them here!](h
  
 
 - New Features:
-
-- - The End
+  - The End
   - End City
   - End Ship
-
 - New Content available for purchase
-
-- - Natural Texture Pack
+  - Natural Texture Pack
   - Villains Skin Pack
   - Star Wars Prequel Skin Pack
   - Stranger Things Skin Pack
-
 - New Blocks/Items
-
-- - Ender Chest
+  - Ender Chest
   - Dragon Head
   - End Portal
   - End Stone Brick
@@ -50,18 +45,13 @@ Welcome to Version 1.7! If you find any bugs, be sure to [report them here!](h
   - Exit Portal
   - Spawn Eggs(Endermite, Polar Bear, Shulker)
   - Elytra
-
 - New Entities
-
-- - Ender Dragon
+  - Ender Dragon
   - Endermite
   - Polar Bear
   - Shulker
-
 - Additional Achievements
-
 - Improved stability and performance
-
 - Numerous bug fixes from previous builds
 
  

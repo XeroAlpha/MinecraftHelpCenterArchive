@@ -17,5 +17,4 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 **Bug Fixes:**
 
 - **Crashes/Performance**
-
-- - Fixed a UI/performance issue with the in-game store on partnered servers
+  - Fixed a UI/performance issue with the in-game store on partnered servers

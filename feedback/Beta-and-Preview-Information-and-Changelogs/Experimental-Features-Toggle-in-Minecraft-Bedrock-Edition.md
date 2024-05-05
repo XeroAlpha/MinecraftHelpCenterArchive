@@ -51,7 +51,6 @@ So, if you're planning to build an amazing castle that you want to impress your 
         ![Worlds_List_2.PNG](https://feedback.minecraft.net/hc/article_attachments/4404216888077/Worlds_List_2.PNG)  
           
     2.  Under “Game” settings, scroll down to "Experiments" and choose your toggle.
-
 2.    
     ![mceclip0.png](https://feedback.minecraft.net/hc/article_attachments/5944752458125/mceclip0.png)  
     1.  When you get the popup asking "Activate Experimental Gameplay?", click "Activate Experiments".  

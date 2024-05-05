@@ -282,18 +282,12 @@ Entity predicate now accepts flags field. Available tests: is_on_fire, is_sn
 **DATA**
 
 - data modify \<block or entity\> \<path\> \<operation\> \<source\>
-
-- - Apply operation to selected fields
-
+  - Apply operation to selected fields
   - Basic operation: set - replaces value
-
   - List operations: insert before index \|insert after index\|prepend\|append
-
   - Object operations: merge
-
   - Sources:
-
-  - - from \<block or entity\> \<path\> - copies value from existing tag
+    - from \<block or entity\> \<path\> - copies value from existing tag
     - value \<nbt\> - uses NBT literal
 
 **DROP**
@@ -325,8 +319,7 @@ General syntax: drop \<target\> \<source\>
 **EXECUTE**
 
 - execute if data \<block or entity\> \<path\> (and execute unless)
-
-- - when used as command, return count of matched elements
+  - when used as command, return count of matched elements
   - when used as part of command, continues on non-zero(if) or zero(unless) count
 
 **SCHEDULE**
@@ -336,17 +329,11 @@ Schedules function or tag to run in \<time\> gametime ticks. Returns trigger t
 **NBT PATHS**
 
 - Can now return multiple values. When used as target, modification will be applied to every element
-
 - When setting location and no elements are found, new matching element will be created:
-
-- - For example writing to Items\[{Slot:10b}\] will either found element in Items for slot 10 or create new one
-
+  - For example writing to Items\[{Slot:10b}\] will either found element in Items for slot 10 or create new one
 - Add \[{k1=v1,k2=v2}\] to match objects in list that have matching fields
-
 - Add {k1=v1,k2=v2} to match objects (selects 0 or 1 elements, mostly as safeguard against mismatched entries)
-
 - Allow negative indices in \[index\] to select element from end (i.e. \[-1\] is last element, \[-2\] second to last, etc)
-
 - Add \[\] to select all elements from list
 
 **LIGHT ENGINE**
@@ -482,18 +469,13 @@ Applies one of predefined bonus formulas.
 **Formulas (based on existing fortune bonuses):**
 
 - binomial_with_bonus_count:
-
-- - parameters: extraRounds : int, probability : float
+  - parameters: extraRounds : int, probability : float
   - adds random value using binomial distribution with n \<- level + extraRounds and p \<- probabilty
-
 - uniform_bonus_count
-
-- - parameters: bonusMultiplier
+  - parameters: bonusMultiplier
   - adds random value using uniform distribution from 0 to bonusMultiplier \* level
-
 - ore_drops
-
-- - no parameters
+  - no parameters
   - applies formula count \* (max(0, random(0..1) - 1) + 1)
 
 **COPY_NAME**
@@ -511,8 +493,7 @@ Limits count of every item stack to range.
 **Parameters**
 
 - limit:
-
-- - min - optional
+  - min - optional
   - max - optional
 
 **SET_CONTENTS**

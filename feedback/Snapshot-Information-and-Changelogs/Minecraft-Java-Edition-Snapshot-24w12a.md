@@ -76,9 +76,7 @@ Trial Chambers now generate slightly more rarely and a bit more spaced out from 
 ## TECHNICAL CHANGES
 
 - The Data Pack version is now 36
-
 - The Resource Pack version is now 30
-
 - - Particle entity_effect takes color argument when spawned from command
   - /particle entity_effect \<r\> \<g\> \<b\> \<a\>
   - 4 float values ranging from 0.0 to 1.0 representing RGBA

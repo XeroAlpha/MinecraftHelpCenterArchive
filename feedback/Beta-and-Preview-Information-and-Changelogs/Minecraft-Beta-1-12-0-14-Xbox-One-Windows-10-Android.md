@@ -17,15 +17,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360029857071-Minecraft-Be
 ## **Fixes:**
 
 - Crashes/Performance
-
-- - Fixed several crashes that could occur during gameplay
+  - Fixed several crashes that could occur during gameplay
   - Made several performance improvements and optimizations
   - Improved performance and fixed FPS drops when flying with Elytra in The End in Survival mode 
 
 <!-- -->
 
 - General
-
-- - Improved beta debug display text render
+  - Improved beta debug display text render
   - Fixed custom bow size in certain marketplace packs
   - Fixed an issue with invalid characters being used in some marketplace packs, causing geometry and textures errors

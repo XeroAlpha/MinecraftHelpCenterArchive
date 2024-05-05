@@ -17,31 +17,20 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360032515012-Minecraft-Be
 ## **New Features:**
 
 - Added Wither Rose
-
 - Added Suspicious Stew
-
 - Item Frames can now be placed on the floor and ceiling! 
-
 - Added the Brown Mooshroom
-
-- - Forged by lightning bolts!
-
+  - Forged by lightning bolts!
 - Added abandoned Villages
-
 - Added the Light Block for mapmakers
-
-- - This supports auxiliary data from 0 to 15 for light level
+  - This supports auxiliary data from 0 to 15 for light level
   - The invisible end rod (variant 6) is now auto-upgraded to the new light block
   - Light blocks are supported via /give, /fill, and /setblock.
-
 - Added successful Village Raid celebration 
-
 - Added game credits
   - These can be viewed after defeating the Ender Dragon, and also through a new button found in the Settings menu
-
 - New note block sounds!
-
-- - Added note block functionality for glowstone, haybale, block of emerald, pumpkin, soul sand, block of Iron, bone block, wool, packed ice, clay, and block of gold** **
+  - Added note block functionality for glowstone, haybale, block of emerald, pumpkin, soul sand, block of Iron, bone block, wool, packed ice, clay, and block of gold** **
 
 ## **Changes:**
 

@@ -62,14 +62,10 @@ General syntax: loot \<target\> \<source\>
 **TARGETS**
 
 - spawn \<position\> - drops in world
-
 - replace - works similar to /replaceitem. If count is missing, command will try to place all returned items. If count is higher than number of items, remaining slots will be cleared.
-
-- - entity \<entity selector\> \<start slot\> \[\<count\>\] - replaces range of slots.
+  - entity \<entity selector\> \<start slot\> \[\<count\>\] - replaces range of slots.
   - block \<position\> \<start slot\> \[\<count\>\] - replaces range of slots.
-
 - give \<player selector\> - inserts items into player's inventory (similar to /give)
-
 - insert \<position\> - inserts items into container (similar to shift left-click)
 
 **FIXED BUGS IN 18W45A**

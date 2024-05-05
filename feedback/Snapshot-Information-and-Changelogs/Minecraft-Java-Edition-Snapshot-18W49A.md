@@ -45,13 +45,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360020603951-Minecraft-Ja
 **PARAMETERS**
 
 - source - may be this, killer, killer_player or block_entity
-
 - ops - list of copy operations:
-
-- - source - source path (same as /data commands)
+  - source - source path (same as /data commands)
   - target - target path
   - op - replace, append (for lists), merge - for compound tags
-
 - entity - source of profile (see note about entity target parameter for values, will do nothing if it's not player).
 
 **FIXED BUGS IN 18W49A**

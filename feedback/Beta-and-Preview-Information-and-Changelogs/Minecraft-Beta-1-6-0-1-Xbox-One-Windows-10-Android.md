@@ -24,10 +24,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004787312-Minecraft-Be
 **New Features:**
 
 - Phantom mobs will now spawn in the night skies if a player hasn't slept in over three in-game days
-
 - Barrier Blocks
-
-- - Great for map makers to limit players to certain areas of the world
+  - Great for map makers to limit players to certain areas of the world
   - Can be placed in Creative mode and are invisible in Survival and Adventure modes
   - Can only be obtained using commands and do not appear in the Creative inventory  
      

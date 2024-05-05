@@ -17,8 +17,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360018040232-Minecraft-Be
 **Experimental Gameplay:** (Only available when Experimental Gameplay is enabled in world settings)
 
 - Crossbow weapon with new enchantments
-
-- - Multishot
+  - Multishot
   - Piercing
   - Quick Charge  
       
@@ -26,23 +25,16 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360018040232-Minecraft-Be
 **Changes:**
 
 - Panda improvements
-
-- - Pandas can now be fed by hand
+  - Pandas can now be fed by hand
   - Added additional sounds to pandas
   - Pandas now sit and snack when you give them bamboo, even if they're angry or scared of you
   - Increased damage dealt by aggressive pandas
   - Pandas now drop the extra bamboo they have in their inventory
-
 - Added a crafting recipe for packed ice
-
 - Added sounds for scaffolding
-
 - Improvements to how and when spawn positions are moved to safe locations
-
 - Content can now be sorted by 'Updates Available' in the Marketplace inventory
-
 - Content can now be sorted and filtered by rating in the Marketplace
-
 - Information on scaffolding can now be found in the How to Play menu  
     
 
