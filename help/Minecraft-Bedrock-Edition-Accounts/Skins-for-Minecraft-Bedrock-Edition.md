@@ -1,8 +1,8 @@
 ---
-title: "Skins for Minecraft: Bedrock Edition"
+title: How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft
 date: 2021-09-09T23:20:19Z
-updated: 2023-07-17T16:16:46Z
-categories: "Minecraft: Bedrock Edition Accounts"
+updated: 2024-05-10T18:38:29Z
+categories: Minecraft Marketplace
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -20,42 +20,25 @@ tags:
   - platform_other
   - platform_pc
   - platform_PC
-  - section_12617594906509
-link: https://help.minecraft.net/hc/en-us/articles/4408902716557-Skins-for-Minecraft-Bedrock-Edition
+  - section_24069904400141
+  - section_26562723671949
+link: https://help.minecraft.net/hc/en-us/articles/4408902716557-How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft
 hash:
-  h_01GB3J79ZBX27M723HBXJEXFT6: why-are-there-black-lines-on-my-skins-arms
-  h_01GB3J7FP1NC1FEZ15ZJZ1FGB4: using-skins-in-minecraft-bedrock-edition
-  h_01GB3J7MCKEVSV7243AZZA7GS4: getting-started-in-the-character-creator
-  h_01GB3J7T8311GY5WCTRFN08P1H: uploading-custom-skins-to-minecraft-bedrock-edition
+  h_01HXFB7REJMMEHYVWTTH06JAGF: how-to-use-the-dressing-room-in-minecraft
 ---
 
-***This article applies to Minecraft: Bedrock Edition only. For information on Minecraft: Java Edition see [Minecraft: Java Edition Skins](../Minecraft-Java-Edition-Accounts/Minecraft-Java-Edition-Skins.md) article.***
+You can change the look of your character in Minecraft at any time! Here is how to equip new items to your character in the dressing room.
 
-# In This Article:
+**Note:** The Dressing Room is exclusive to Minecraft: Bedrock Edition.
 
-- [Why are there black lines on my skin's arms?](#why-are-there-black-lines-on-my-skins-arms)
-- [Using Skins in Minecraft: Bedrock Edition](#using-skins-in-minecraft-bedrock-edition)
-- [Getting Started in the Character Creator](#getting-started-in-the-character-creator)
-- [Uploading Custom Skins to Minecraft: Bedrock Edition](#uploading-custom-skins-to-minecraft-bedrock-edition)
+## How to use the Dressing Room in Minecraft
 
-## Why are there black lines on my skin's arms?
+1.  Start Minecraft: Bedrock Edition. 
+2.  Select **Dressing Room**. 
+3.  Select the character you want to edit. 
+4.  Select **Edit Character**. 
+5.  Open the **Body** or **Style** tab. 
+6.  Find the item in the proper section. 
+7.  Click **Equip**.
 
-You'll see black lines on your skin’s arms if you uploaded and applied a slim-armed skin to a standard model or vice versa. To fix this, upload the correct skin type for the model you've selected.
-
-## Using Skins in Minecraft: Bedrock Edition
-
-There are both free and purchasable skin packs that can be obtained in the Minecraft Marketplace. After downloading these skins, you can equip them through the **Profile** menu.
-
-### Getting Started in the Character Creator
-
-- Click **Edit Character** to equip skins that you have downloaded through the **Classic Skins** tab.
-- On the **Character Creator** tab you can make your own skin, choosing both the body and style features of the skin, along with custom colors.
-- You can have up to 5 saved skins to switch between.
-
-### Uploading Custom Skins to Minecraft: Bedrock Edition
-
-For Minecraft: Bedrock Edition on Windows 10, mobile, and Chromebook, you can upload your own custom skin by going to **Profile** \> **Classic Skins** \> **Owned** \> **Import**.
-
-**Note: Custom uploaded skins cannot roam to other devices.**
-
-![mceclip0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4408894962573)
+You can always purchase new character creator items from the Minecraft Marketplace. See [How to Buy Content from the Minecraft Marketplace](../Minecraft-Marketplace/How-to-Buy-Content-From-the-Minecraft-Marketplace.md).
