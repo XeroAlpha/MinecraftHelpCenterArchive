@@ -52,24 +52,24 @@ As we continue to consider feedback from the community, some changes to the freq
   
 ​
 
-|                                                                            |                 |
-|----------------------------------------------------------------------------|-----------------|
-| Vibration Types                                                            | Frequency Value |
-| Step                                                                       | 1               |
-| Flap                                                                       | 2               |
-| Swim                                                                       | 3               |
-| Elytra Free Fall                                                           | 4               |
-| Hit Ground                                                                 | 5               |
-| Splash, Wolf Shaking                                                       | 6               |
-| Projectile Shoot                                                           | 7               |
-| Projectile Land, Eating Finish, Entity Hit                                 | 8               |
-| Armor Stand Add Item                                                       | 9               |
-| Block Close, Block Unswitch, Block Unpress, Block Detach, Dispense Fail    | 10              |
-| Block Open, Block Switch, Block Press, Block Attach                        | 11              |
-| Block Place, Fluid Place, Flint And Steel Use                              | 12              |
-| Block Destroy, Fluid Pickup                                                | 13              |
-| Fishing Rod Reel-In, Container Close, Piston Contract                      | 14              |
-| Fishing Rod Cast, Container Open, Explode, Lightning Strike, Piston Extend | 15              |
+|  |  |
+|----|----|
+| Vibration Types | Frequency Value |
+| Step | 1 |
+| Flap | 2 |
+| Swim | 3 |
+| Elytra Free Fall | 4 |
+| Hit Ground | 5 |
+| Splash, Wolf Shaking | 6 |
+| Projectile Shoot | 7 |
+| Projectile Land, Eating Finish, Entity Hit | 8 |
+| Armor Stand Add Item | 9 |
+| Block Close, Block Unswitch, Block Unpress, Block Detach, Dispense Fail | 10 |
+| Block Open, Block Switch, Block Press, Block Attach | 11 |
+| Block Place, Fluid Place, Flint And Steel Use | 12 |
+| Block Destroy, Fluid Pickup | 13 |
+| Fishing Rod Reel-In, Container Close, Piston Contract | 14 |
+| Fishing Rod Cast, Container Open, Explode, Lightning Strike, Piston Extend | 15 |
 
 #  TECHNICAL CHANGES IN 20W51A
 

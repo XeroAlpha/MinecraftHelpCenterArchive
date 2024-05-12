@@ -75,31 +75,31 @@ No, worlds that use the experimental features toggle cannot be restored to a non
 
 ## **Which experimental feature toggles are available in Minecraft Bedrock Edition? **
 
-|                                        |                                                                                                                                                         |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ** Minecraft Bedrock Edition Toggles** | ** Features**                                                                                                                                           |
-|  The Wild Update                       | Features that are under development and intended to release in The Wild Update.                                                                         |
-|  Spectator Mode                        | Enables a very early and in progress version of Spectator Mode.                                                                                         |
-|  Vanilla Experiments                   | Contains experimental game features that are still under development for future Minecraft updates.                                                      |
-|  Holiday Creator Features              | Data-driven block and item features. We are receiving feedback on these features from Marketplace creators and map-makers.                              |
-|  Custom Biomes                         | Exposing parameters for biome generation to creators, enabling them to create their own unique biome configurations.                                    |
-|  Upcoming Creator Features             | Experimental features including actor properties and fog volumes. We are receiving feedback on these features from Marketplace creators and map-makers. |
-|  GameTest Framework                    | Provides capabilities for creators to validate their worlds and add-ons in Minecraft through a series of contained tests.                               |
-|  Molang Features                       | New container for Molang experimental queries and language features that aren't tied to other experimental toggles.                                     |
+|  |  |
+|----|----|
+| ** Minecraft Bedrock Edition Toggles** | ** Features** |
+|  The Wild Update | Features that are under development and intended to release in The Wild Update. |
+|  Spectator Mode | Enables a very early and in progress version of Spectator Mode. |
+|  Vanilla Experiments  | Contains experimental game features that are still under development for future Minecraft updates. |
+|  Holiday Creator Features  | Data-driven block and item features. We are receiving feedback on these features from Marketplace creators and map-makers.  |
+|  Custom Biomes | Exposing parameters for biome generation to creators, enabling them to create their own unique biome configurations.  |
+|  Upcoming Creator Features | Experimental features including actor properties and fog volumes. We are receiving feedback on these features from Marketplace creators and map-makers. |
+|  GameTest Framework  | Provides capabilities for creators to validate their worlds and add-ons in Minecraft through a series of contained tests.  |
+|  Molang Features | New container for Molang experimental queries and language features that aren't tied to other experimental toggles. |
 
  
 
-|                                               |                                                                                                                                                         |
-|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ** Minecraft Bedrock Edition (Beta) Toggles** | ** Features**                                                                                                                                           |
-|  The Wild Update                              | Features that are under development and intended to release in The Wild Update.                                                                         |
-|  Spectator Mode                               | Enables a very early and in progress version of Spectator Mode.                                                                                         |
-|  Vanilla Experiments                          | Contains experimental game features that are still under development for future Minecraft updates.                                                      |
-|  Holiday Creator Features                     | Data-driven block and item features. We are receiving feedback on these features from Marketplace creators and map-makers.                              |
-|  Creation of Custom Biomes                    | Exposing parameters for biome generation to creators, enabling them to create their own unique biome configurations.                                    |
-|  Upcoming Creator Features                    | Experimental features including actor properties and fog volumes. We are receiving feedback on these features from Marketplace creators and map-makers. |
-|  Enable GameTest Framework                    | Provides capabilities for creators to validate their worlds and add-ons in Minecraft through a series of contained tests.                               |
-|  Experimental Molang Features                 | New container for Molang experimental queries and language features that aren't tied to other experimental toggles.                                     |
+|  |  |
+|----|----|
+| ** Minecraft Bedrock Edition (Beta) Toggles** | ** Features** |
+|  The Wild Update | Features that are under development and intended to release in The Wild Update. |
+|  Spectator Mode | Enables a very early and in progress version of Spectator Mode. |
+|  Vanilla Experiments  | Contains experimental game features that are still under development for future Minecraft updates. |
+|  Holiday Creator Features  | Data-driven block and item features. We are receiving feedback on these features from Marketplace creators and map-makers.  |
+|  Creation of Custom Biomes | Exposing parameters for biome generation to creators, enabling them to create their own unique biome configurations.  |
+|  Upcoming Creator Features | Experimental features including actor properties and fog volumes. We are receiving feedback on these features from Marketplace creators and map-makers. |
+|  Enable GameTest Framework  | Provides capabilities for creators to validate their worlds and add-ons in Minecraft through a series of contained tests. |
+|  Experimental Molang Features | New container for Molang experimental queries and language features that aren't tied to other experimental toggles. |
 
  
 

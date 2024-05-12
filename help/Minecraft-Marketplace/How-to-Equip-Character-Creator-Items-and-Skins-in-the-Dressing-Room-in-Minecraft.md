@@ -59,4 +59,4 @@ If you instead want to use a classic skin from something you purchased in the Ma
 
 **Note: **Classic skins cannot be customized with character creator items.
 
-You can always purchase new character creator items from the Minecraft Marketplace. See [How to Buy Content from the Minecraft Marketplace](../Minecraft-Marketplace/How-to-Buy-Content-From-the-Minecraft-Marketplace.md).
+You can always purchase new character creator items from the Minecraft Marketplace. See [How to Buy Content from the Minecraft Marketplace](./How-to-Buy-Content-From-the-Minecraft-Marketplace.md).

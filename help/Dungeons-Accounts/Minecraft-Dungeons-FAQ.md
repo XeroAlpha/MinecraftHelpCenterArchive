@@ -111,7 +111,7 @@ This includes:
 
 Players who purchased Standard Edition and want to upgrade to the benefits of Ultimate Edition can purchase the Ultimate DLC Bundle for \$19.99 USD. 
 
-More details can be found in the [Ultimate Edition FAQ](../Dungeons-Billing/Minecraft-Dungeons-Ultimate-Edition-FAQ.md). 
+More details can be found in the [Ultimate Edition FAQ](https://help.minecraft.net/hc/en-us/articles/4405075936013-Minecraft-Dungeons-Ultimate-Edition-FAQ). 
 
 [Shop for Minecraft Dungeons editions and upgrades](https://www.minecraft.net/en-us/about-dungeons). 
 

@@ -2,7 +2,7 @@
 title: How to get your Minecraft Target Skin Pack FAQs
 date: 2020-09-21T20:59:19Z
 updated: 2023-10-05T17:56:04Z
-categories: "Minecraft: Bedrock Edition Guides"
+categories: Promotions
 tags:
   - title_minecraft
   - category_technical_support
@@ -18,7 +18,7 @@ tags:
   - platform_sony_playstation_4
   - platform_kindle_fire
   - platform_oculus
-  - section_12618581961357
+  - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/360049975351-How-to-get-your-Minecraft-Target-Skin-Pack-FAQs
 hash:
   h_01HC0FN7VFYCWX2ERYT6BDRQ9E: how-do-i-get-that-special-minecraft-skin-pack-i-saw-in-the-target-holiday-kids-catalog

@@ -2,7 +2,7 @@
 title: Warden Headphones Promotional Item FAQ
 date: 2022-10-18T22:22:58Z
 updated: 2023-07-24T18:12:55Z
-categories: Community Guides
+categories: Promotions
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -15,7 +15,7 @@ tags:
   - platform_pc
   - platform_PC
   - platform_xbox_series_x/s
-  - section_12618645881229
+  - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/9983167643021-Warden-Headphones-Promotional-Item-FAQ
 ---
 

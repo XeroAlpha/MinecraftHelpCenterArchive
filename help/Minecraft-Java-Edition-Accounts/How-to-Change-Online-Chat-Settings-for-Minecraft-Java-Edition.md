@@ -33,11 +33,11 @@ To change the Minecraft: Java Edition chat experience, click on the **Privacy & 
 
 From here, you’ll find the following options. However, Minecraft: Java Edition has no distinction between ‘Friends’ or ‘Everyone.’ Instead, you must choose between ‘Block’ to block all chat in Minecraft: Java Edition, or ‘Everyone’ to enable chat in the game. 
 
-|          |                                                                                                                              |
-|----------|------------------------------------------------------------------------------------------------------------------------------|
-| Everyone | Your account can receive all text chat and receive all invites from anyone in Minecraft: Java Edition.                       |
+|  |  |
+|----|----|
+| Everyone | Your account can receive all text chat and receive all invites from anyone in Minecraft: Java Edition. |
 | Friends  | Your account can receive all text chat and receive all invites from anyone on your Friends list in Minecraft: Java Edition.  |
-| Block    | Your account will not receive any text chat or receive any invites from anyone in Minecraft: Java Edition.                   |
+| Block  | Your account will not receive any text chat or receive any invites from anyone in Minecraft: Java Edition.  |
 
 Once you've adjusted your settings, **make sure to close and relaunch the game for them to apply**. If they still haven't applied after a restart, try logging out of the launcher and then logging back in. 
 

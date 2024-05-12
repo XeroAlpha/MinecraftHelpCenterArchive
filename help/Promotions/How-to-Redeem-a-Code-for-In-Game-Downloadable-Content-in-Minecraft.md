@@ -39,6 +39,6 @@ Have you received a code giving you access to special Minecraft: Bedrock Edition
 4.  Enter the code as written and click on **Submit**.
 5.  Follow all prompts to fully redeem the code.
 
-Visit [How to Equip Character Creator Items in the Dressing Room in Minecraft](../Promotions/How-to-Equip-Character-Creator-Items-in-the-Dressing-Room-in-Minecraft.md) to learn how to access and use your items.
+Visit [How to Equip Character Creator Items in the Dressing Room in Minecraft](https://help.minecraft.net/hc/en-us/articles/26601238964621-How-to-Equip-Character-Creator-Items-in-the-Dressing-Room-in-Minecraft) to learn how to access and use your items.
 
-If you are trying to redeem the code for a child account and get a safety message, see [How to Enable a Child Account to Redeem Codes in Minecraft](../Promotions/How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md).
+If you are trying to redeem the code for a child account and get a safety message, see [How to Enable a Child Account to Redeem Codes in Minecraft](./How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md).

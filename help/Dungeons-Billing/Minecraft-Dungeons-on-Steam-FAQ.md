@@ -74,4 +74,4 @@ Yes, you still use a Microsoft account to play Dungeons on Steam. If you need to
 
 ## What do I get with Ultimate Edition and the Ultimate DLC Bundle? 
 
-Check out our FAQ for the complete contents of the [Minecraft Dungeons Ultimate Bundle](./Minecraft-Dungeons-Ultimate-Edition-FAQ.md).
+Check out our FAQ for the complete contents of the [Minecraft Dungeons Ultimate Bundle](https://help.minecraft.net/hc/en-us/articles/4405075936013-Minecraft-Dungeons-Ultimate-Edition-FAQ).

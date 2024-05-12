@@ -41,6 +41,6 @@ Microsoft Child Accounts for children under 9 years of age are not allowed to en
 4.  Select the dropdown under **Age Rating** and set it to at least **10**.
 5.  Select **Done**.
 
-After the child’s account is set to at least age 10, they will be able to redeem codes. Follow [How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition](../Minecraft-Bedrock-Edition-Billing/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft-Bedrock-Edition.md) for more.
+After the child’s account is set to at least age 10, they will be able to redeem codes. Follow [How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition](./How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md) for more.
 
 To learn about more settings on your child’s account, see [Managing Multiplayer Game Access for a Child Account in Minecraft](../Minecraft-Bedrock-Edition/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
