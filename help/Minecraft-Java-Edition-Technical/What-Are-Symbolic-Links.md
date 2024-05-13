@@ -1,31 +1,28 @@
 ---
-title: What Are Symbolic Links?
+title: "How to Enable Symbolic Links in Minecraft: Java Edition"
 date: 2023-05-26T17:44:29Z
-updated: 2024-02-05T20:54:43Z
+updated: 2024-05-13T17:08:03Z
 categories: "Minecraft: Java Edition Technical"
-link: https://help.minecraft.net/hc/en-us/articles/16165590199181-What-Are-Symbolic-Links
+tags:
+  - title_minecraft_java_edition
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_windows_10
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - section_12618019146893
+link: https://help.minecraft.net/hc/en-us/articles/16165590199181-How-to-Enable-Symbolic-Links-in-Minecraft-Java-Edition
 hash:
-  h_01HNXGT5ZPCT1W2XMG4XDVBP6F: how-can-symbolic-links-be-dangerous
-  h_01HNXGT5ZPYKJ1E79ECF1W6Y7G: how-can-i-enable-symbolic-links-in-minecraft-java-edition
+  h_01HNXGT5ZPYKJ1E79ECF1W6Y7G: how-to-enable-symbolic-links
+  h_01HNXGT5ZPCT1W2XMG4XDVBP6F: symbolic-links-and-file-security
 ---
 
 A symbolic link (sometimes called a “symlink”) is a way to make a file name in one place on a file system refer to a different file, elsewhere. Symbolic links are supported by all operating systems Minecraft runs on.
 
 Symbolic links can sometimes be useful when you want to place content in different locations but some application (in this case, Minecraft) expects those files to exist in a certain location, like for example wanting some Minecraft worlds to be placed on a separate storage device.
 
-## How Can Symbolic Links Be Dangerous?
-
-Because a symbolic link could lead anywhere on your drive, having a symbolic link show up unexpectedly could mean Minecraft could read or write files it is not supposed to. This applies especially in cases where the symbolic link came from unpacking an archive (e.g., a Zip file) from an outside source, like a Minecraft world downloaded from the internet.
-
-If Minecraft was to attempt to write a file that is a symbolic link to another important file on your drive, that file might get overwritten with the Minecraft world contents, potentially causing loss of data.
-
-Minecraft versions starting with 1.20 show an error when trying to open worlds that contain symbolic links.
-
-If you see an error message about symbolic links when opening a world you downloaded from the internet or in any other situation where you haven’t knowingly created the symbolic links yourself this might be an indication that the content you downloaded is malicious.
-
-Do not attempt to open such downloaded worlds.
-
-## How Can I Enable Symbolic Links in Minecraft Java Edition?
+## How to Enable Symbolic Links
 
 There are cases where symbolic links are useful. If you have such a use case and have created the symbolic links yourself, you can allow Minecraft to access the target of those links. To do this, you will need to create or edit a file called “allowed_symlinks.txt” in your [Minecraft folder](./Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md).
 
@@ -36,3 +33,15 @@ For instance, let’s say you want to store some of your worlds on D:\MinecraftS
 D:\MinecraftSaves
 
 If you are still getting an error, you can find out exactly which targets are being rejected by looking at the errors in your “latest.log” file under the “logs” folder.
+
+## Symbolic Links and File Security
+
+Because a symbolic link could lead anywhere on your drive, having a symbolic link show up unexpectedly could mean Minecraft could read or write files it is not supposed to. This applies especially in cases where the symbolic link came from unpacking an archive (e.g., a Zip file) from an outside source, like a Minecraft world downloaded from the internet.
+
+If Minecraft was to attempt to write a file that is a symbolic link to another important file on your drive, that file might get overwritten with the Minecraft world contents, potentially causing loss of data.
+
+Minecraft versions starting with 1.20 show an error when trying to open worlds that contain symbolic links.
+
+If you see an error message about symbolic links when opening a world you downloaded from the internet or in any other situation where you haven’t knowingly created the symbolic links yourself this might be an indication that the content you downloaded is malicious.
+
+Do not attempt to open such downloaded worlds.
