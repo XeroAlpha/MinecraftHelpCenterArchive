@@ -1,10 +1,10 @@
 ---
 title: "Minecraft Dungeons: I Lost My Character Data"
 date: 2020-08-03T16:33:23Z
-updated: 2023-01-23T17:27:04Z
-categories: Dungeons Technical
+updated: 2024-05-14T20:42:11Z
+categories: Minecraft Dungeons
 tags:
-  - section_12618340057613
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360047236831-Minecraft-Dungeons-I-Lost-My-Character-Data
 ---
 

@@ -1,41 +1,17 @@
 ---
-title: Minecraft Dungeons Daily Trials FAQ
+title: How to Access Daily Trials in Minecraft Dungeons
 date: 2020-08-18T23:11:27Z
-updated: 2023-01-23T17:27:03Z
-categories: Dungeons Technical
+updated: 2024-05-14T19:40:23Z
+categories: Minecraft Dungeons
 tags:
-  - section_12618340057613
-link: https://help.minecraft.net/hc/en-us/articles/360048248751-Minecraft-Dungeons-Daily-Trials-FAQ
+  - section_26726610890253
+link: https://help.minecraft.net/hc/en-us/articles/360048248751-How-to-Access-Daily-Trials-in-Minecraft-Dungeons
 ---
-
-**What are Daily Trials?** 
-
-Daily Trials are challenges in Minecraft Dungeons that make dramatic changes to the game mechanics that provide difficult, experimental, or fun challenges for you to overcome. They consist of modifications to the game mechanics for existing levels. Each trial has positive (green) and negative (red) modifiers to game mechanics. As the name implies, a batch of new trials are rotated in and out every day! 
-
- 
-
-**Do I get rewards for completing a trial?** 
-
-Absolutely! Rewards from Daily Trials consist of weapons, gear, and artifacts with higher power levels than what is available in normal gameplay, and they are given higher rarity levels. 
-
- 
 
 **How do I access Daily Trials?** 
 
 You can access Daily Trials from the Mission Select screen. Two trials are visible on the Mainland map per day, as well as one per owned downloadable content (DLC) on the Island Realms map. 
 
-Daily Trials can be completed alone, or you can team up with others in local and online multiplayer. 
+Daily Trials can be completed alone, or you can team up with others in local and online multiplayer.
 
- 
-
-**Do I need an internet connection to play the latest trials?** 
-
-Yes, you need an active internet connection to access new trials every day after logging in to the game. If trials do not appear, make sure that your game is [updated to the latest version](./Enable-Multiplayer-and-Cross-Platform-Play-for-Minecraft-Dungeons.md#h_01FG7WEN7BM1GT5NQW3HHP7791). 
-
-**Nintendo Switch Players:** You need to [log in to a Microsoft Account](../Minecraft-Bedrock-Edition-Technical/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md) for Daily Trials to appear on the map, as Daily Trials are a part of our online services. 
-
- 
-
-**When do trials get reset?** 
-
-Daily Trials are swapped out daily at midnight in your local time zone, meaning that every day you play Minecraft Dungeons, there will be something new to try.
+**Nintendo Switch Players:** You need to [log in to a Microsoft Account](../Minecraft-Bedrock-Edition-Technical/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md) for Daily Trials to appear on the map, as Daily Trials are a part of our online services.
