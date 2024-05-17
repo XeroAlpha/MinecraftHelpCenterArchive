@@ -1,7 +1,7 @@
 ---
 title: Set Up Microsoft Family Accounts for Minecraft multiplayer games
 date: 2021-09-10T22:08:35Z
-updated: 2024-02-21T21:34:04Z
+updated: 2024-05-17T18:39:24Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - title_minecraft_java_edition
@@ -49,8 +49,6 @@ Child accounts are all accounts for those under the age of 16 for the US & EU, o
 Be sure to download the [Xbox Family app](https://www.xbox.com/en-US/apps/family-settings-app) for easy account management.
 
 See [Managing multiplayer game access for a child account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to learn more on enabling multiplayer and communication settings.
-
- 
 
 ### Related Articles
 

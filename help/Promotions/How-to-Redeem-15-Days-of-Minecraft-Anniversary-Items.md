@@ -1,7 +1,7 @@
 ---
 title: How to Redeem 15 Days of Minecraft Anniversary Items
 date: 2024-05-08T14:56:55Z
-updated: 2024-05-17T15:35:41Z
+updated: 2024-05-17T17:41:16Z
 categories: Promotions
 tags:
   - title_minecraft_java_edition
@@ -26,7 +26,8 @@ link: https://help.minecraft.net/hc/en-us/articles/26560321236621-How-to-Redeem-
 hash:
   h_01HXJ1P9Y09CHPTNMRNCMPNPZ9: how-to-redeem-15-days-of-minecraft-items
   h_01HXYP24SJX1TC8CVE3ZM728MM: how-to-redeem-the-15th-anniversary-cape
-  h_01HXYP2KNR863MSJ8MBJBTQ9TP: how-to-equip-a-cape-in-java-edition
+  h_01HY3T6G5JBPS6SHEGDVDV598D: how-to-equip-the-cape-in-java
+  h_01HY3SDVFMN2MKDWGYS2N7BYZ3: how-to-equip-the-cape-in-bedrock
 ---
 
 Thank you for [celebrating 15 years of Minecraft with us](https://www.minecraft.net/en-us/15th-anniversary)! During the 15 Days of Minecraft, you can get your hands on all kinds of fun cosmetics. Here is how to redeem them!
@@ -54,13 +55,18 @@ While the items above are exclusive to Bedrock, the 15th anniversary cape is ava
 5.  Select **Claim the cape**.
 6.  Equip the cape using the steps below.
 
-If you’re playing Minecraft: Bedrock Edition, the cape will be in the Dressing Room. If you’re playing Minecraft: Java Edition, you can equip the cape in the Minecraft Launcher or on the [Change your Skin page on Minecraft.net](https://www.minecraft.net/en-us/msaprofile/mygames/editskin).
+## How to equip the cape in Java
 
-## How to equip a cape in Java Edition
+1.  Go to the [Change your Skin page on Minecraft.net](https://www.minecraft.net/en-us/msaprofile/mygames/editskin).
+2.  Log in to your Microsoft account if prompted.
+3.  Scroll to the bottom of the page.
+4.  Select the **15 Year Anniversary** cape.
 
-1.  Start the Minecraft Launcher.
-2.  Select the **Skins** tab in the Java section.
-3.  Click either **New Skin** or hover over an already saved skin and click **Duplicate**.
-4.  Hover over the new skin and select **...** to get the menu.
-5.  Select **Edit** from the pop-up menu and choose your cape.
-6.  Click **Save & Use**.
+## How to equip the cape in Bedrock
+
+1.  Start Minecraft.
+2.  Select **Dressing Room**.
+3.  Select your character.
+4.  Select Capes on the left side menu.
+5.  Select **15th Anniversary Cape**.
+6.  Select **Equip**.
