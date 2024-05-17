@@ -1,7 +1,7 @@
 ---
 title: "Additional Minecraft: Bedrock Edition Parental Controls for All Platforms"
 date: 2020-07-14T19:32:10Z
-updated: 2023-09-27T20:22:23Z
+updated: 2024-05-17T18:47:29Z
 categories: "Minecraft: Bedrock Edition"
 tags:
   - title_minecraft
@@ -27,14 +27,8 @@ link: https://help.minecraft.net/hc/en-us/articles/360045816952-Additional-Minec
 
 *This article covers links to configuring parental controls for Minecraft: Bedrock Edition for mobile devices, Nintendo Switch, PlayStation, Windows, Chromebook, and Xbox One/Series consoles.* 
 
-See, parental controls for [Minecraft](./Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md).
-
-See, family and online safety for [Xbox](https://support.xbox.com/en-US/help/family-online-safety/browse).
-
-See, [parental controls on the Nintendo Switch](https://www.nintendo.com/switch/parental-controls/).
-
-See, [parental controls on the PlayStation 4](https://www.playstation.com/en-nz/get-help/help-library/my-account/parental-controls/ps4-parental-controls/) (PlayStation 5 users use this as well).
-
-For parental controls on Minecraft for Chromebook, look into [Google Play support](https://support.google.com/families/answer/7103338).
-
-If you need assistance, feel free to contact [Minecraft Support](https://aka.ms/Minecraft-Support).
+- Parental controls for [Minecraft](./Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games.md).
+- Family and online safety for [Xbox](https://support.xbox.com/en-US/help/family-online-safety/browse).
+- [Parental controls on the Nintendo Switch](https://www.nintendo.com/switch/parental-controls/).
+- [Parental controls on the PlayStation 4](https://www.playstation.com/en-nz/get-help/help-library/my-account/parental-controls/ps4-parental-controls/) (PlayStation 5 users use this as well).
+- For parental controls on Minecraft for Chromebook, look into [Google Play support](https://support.google.com/families/answer/7103338).
