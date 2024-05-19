@@ -20,6 +20,7 @@ tags:
   - platform_other
   - platform_pc
   - platform_PC
+  - trending
   - section_24069904400141
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/4408902716557-How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft

@@ -2,7 +2,7 @@
 title: Enable Multiplayer and Cross-Platform Play for Minecraft Dungeons
 date: 2021-09-22T23:12:15Z
 updated: 2024-04-25T16:19:49Z
-categories: Dungeons Technical
+categories: Minecraft Dungeons
 tags:
   - category_technical_support
   - platform_xbox_one
@@ -12,7 +12,7 @@ tags:
   - subject_sign_in_questions
   - platform_sony_playstation_4
   - platform_pc
-  - section_12618340057613
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/4409826812173-Enable-Multiplayer-and-Cross-Platform-Play-for-Minecraft-Dungeons
 ---
 

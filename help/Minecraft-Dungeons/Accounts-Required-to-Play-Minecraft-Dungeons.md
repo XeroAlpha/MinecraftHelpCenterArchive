@@ -2,7 +2,7 @@
 title: Accounts Required to Play Minecraft Dungeons
 date: 2021-09-23T00:24:29Z
 updated: 2024-05-07T18:36:20Z
-categories: Dungeons Accounts
+categories: Minecraft Dungeons
 tags:
   - subject_progress_and_saved_games
   - category_technical_support
@@ -16,7 +16,7 @@ tags:
   - platform_sony_playstation_4
   - platform_pc
   - platform_PC
-  - section_12618263208845
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/4409836530189-Accounts-Required-to-Play-Minecraft-Dungeons
 hash:
   h_01HXA5ADWE3BN7R8X4R7G7FAT6: accounts-required-to-play-minecraft-dungeons

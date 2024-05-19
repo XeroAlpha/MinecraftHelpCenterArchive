@@ -19,9 +19,7 @@ tags:
   - platform_kindle_fire
   - platform_oculus
   - platform_pc
-  - trending
   - platform_chromebook
-  - new
   - title_minecraft_java_bedrock_for_pc
   - section_24090952098445
   - subject_marketplace_pass

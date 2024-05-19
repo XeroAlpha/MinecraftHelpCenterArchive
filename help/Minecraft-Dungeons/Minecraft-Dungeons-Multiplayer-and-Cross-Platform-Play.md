@@ -2,7 +2,7 @@
 title: Minecraft Dungeons Multiplayer and Cross-Platform Play
 date: 2020-05-21T21:39:36Z
 updated: 2024-05-07T18:19:54Z
-categories: Dungeons Technical
+categories: Minecraft Dungeons
 tags:
   - subject_progress_and_saved_games
   - category_technical_support
@@ -15,7 +15,7 @@ tags:
   - platform_pc
   - subject_microsoft_sign_in_questions
   - platform_PC
-  - section_12618340057613
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360043512112-Minecraft-Dungeons-Multiplayer-and-Cross-Platform-Play
 ---
 

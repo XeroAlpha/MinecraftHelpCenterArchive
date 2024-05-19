@@ -61,7 +61,7 @@ This article covers various questions related to billing on various Minecraft ga
 
 Minecraft: Java Edition can be played only on PC: Windows, MacOS, and Linux
 
-You can buy Minecraft: Java Edition (through the Minecraft: Java & Bedrock Edition bundle) from [minecraft.net.](https://minecraft.net/store) This is a one-time purchase. You can buy an account for yourself or [buy a code](../Minecraft-Bedrock-Edition-Billing/How-to-Gift-Minecraft-and-Other-Minecraft-Games-Through-Minecraft-net.md) to gift to someone else. Gift codes may not be available in all areas.
+You can buy Minecraft: Java Edition (through the Minecraft: Java & Bedrock Edition bundle) from [minecraft.net.](https://minecraft.net/store) This is a one-time purchase. You can buy an account for yourself or [buy a code](../Minecraft-Bedrock-Edition-Accounts/How-to-Gift-Minecraft-and-Other-Minecraft-Games-Through-Minecraft-net.md) to gift to someone else. Gift codes may not be available in all areas.
 
 If you're interested in trying the game before making a purchase, visit our article on [Minecraft's demo mode.](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Demo-Mode.md)
 

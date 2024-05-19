@@ -12,8 +12,6 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_12617893243277
-  - section_12618340057613
-  - section_14859582819853
 link: https://help.minecraft.net/hc/en-us/articles/15518925987981-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-Xbox
 ---
 
@@ -21,7 +19,7 @@ Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Le
 
 When using an Xbox One or Series console that’s connected to the internet, saves are automatically backed up onto the cloud. You don’t have to follow any additional steps to upload cloud saves on an Xbox One or Series console.
 
-**Note: Alongside the following processes, Minecraft Dungeons has an in-game cloud saving process as well. Please follow [this guide](../Dungeons-Technical/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md)** **for more information.**
+**Note: Alongside the following processes, Minecraft Dungeons has an in-game cloud saving process as well. Please follow [this guide](../Minecraft-Dungeons/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md)** **for more information.**
 
 To download a cloud save onto your Xbox One or Series console, follow these steps: 
 

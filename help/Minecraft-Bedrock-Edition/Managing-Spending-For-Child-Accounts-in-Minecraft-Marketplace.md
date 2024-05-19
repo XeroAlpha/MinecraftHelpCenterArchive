@@ -4,7 +4,6 @@ date: 2024-02-20T21:52:23Z
 updated: 2024-05-09T17:30:34Z
 categories: "Minecraft: Bedrock Edition"
 tags:
-  - trending
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/24302243825677-Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace
 ---

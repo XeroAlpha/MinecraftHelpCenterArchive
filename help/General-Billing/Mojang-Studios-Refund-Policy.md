@@ -101,7 +101,7 @@ If you purchased from the Xbox Marketplace, Microsoft Store, Nintendo eShop, or 
 
 ### If you purchased Minecraft Dungeons on the wrong account 
 
-If you purchased Minecraft Dungeons on the wrong account, please navigate to the [Minecraft Dungeons Billing FAQ](../Dungeons-Billing/Minecraft-Dungeons-Billing-Information-FAQ.md) for more information.
+If you purchased Minecraft Dungeons on the wrong account, please navigate to the [Minecraft Dungeons Billing FAQ](../Minecraft-Dungeons/Support-for-Minecraft-Dungeons-Purchases.md) for more information.
 
 ## Refunds for Other Minecraft Editions 
 

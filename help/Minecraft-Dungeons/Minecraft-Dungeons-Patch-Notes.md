@@ -2,7 +2,7 @@
 title: Minecraft Dungeons Patch Notes
 date: 2020-06-09T14:01:12Z
 updated: 2023-09-26T21:01:00Z
-categories: Dungeons Technical
+categories: Minecraft Dungeons
 tags:
   - category_technical_support
   - subject_how_to_play
@@ -14,7 +14,7 @@ tags:
   - platform_sony_playstation_4
   - platform_pc
   - platform_PC
-  - section_12618340057613
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360044268272-Minecraft-Dungeons-Patch-Notes
 hash:
   h_01HB9JK3BRY1DBNPATKYB5B07C: 11700---november-30-2022
@@ -2331,7 +2331,7 @@ Happy dungeon crawling!
 
 **New Features – Free For All Players:**
 
-- Daily Trials – New challenges every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards. There are four new pieces of gear to earn, exclusive to Daily Trials! Learn more at the [Daily Trials FAQ](./Minecraft-Dungeons-Daily-Trials-FAQ.md).
+- Daily Trials – New challenges every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards. There are four new pieces of gear to earn, exclusive to Daily Trials! Learn more at the [Daily Trials FAQ](./How-to-Access-Daily-Trials-in-Minecraft-Dungeons.md).
 - New camp merchants to rescue during missions, such as the Blacksmith to upgrade gear and the Gift Wrapper to gift items to other players
 - New weapons and armor exclusive to Daily Trials, as well as two new artifacts and six new enchantments spread across the game. Buzz into combat using new tools such as the Beenest, the Beenest Armor, and the Tumblebee enchantment!  
     

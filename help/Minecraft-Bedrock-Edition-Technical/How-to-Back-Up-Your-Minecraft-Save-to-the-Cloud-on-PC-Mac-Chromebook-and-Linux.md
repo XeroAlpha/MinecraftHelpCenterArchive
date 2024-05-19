@@ -11,9 +11,6 @@ tags:
   - title_minecraft_legends
   - title_legends
   - section_12617893243277
-  - section_12618019146893
-  - section_12618340057613
-  - section_14859582819853
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/15518267480461-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-PC-Mac-Chromebook-and-Linux
 hash:
@@ -49,7 +46,7 @@ Players with a Minecraft: Java Edition Realms subscription will have their Realm
 
 ### Xbox App or Windows Store
 
-Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons’ built-in cloud storage solution. For more information, please refer to [this guide](../Dungeons-Technical/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md).
+Players enjoying Minecraft Dungeons through the Xbox App or the Windows Store can use Minecraft Dungeons’ built-in cloud storage solution. For more information, please refer to [this guide](../Minecraft-Dungeons/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md).
 
 ### Steam
 

@@ -2,7 +2,7 @@
 title: How to Gift Minecraft and Other Minecraft Games Through Minecraft.net
 date: 2023-11-10T22:18:44Z
 updated: 2023-11-10T22:27:20Z
-categories: "Minecraft: Bedrock Edition Billing"
+categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -18,11 +18,8 @@ tags:
   - platform_windows10/11
   - platform_windows_11
   - platform_windows_10/11
-  - section_12617899093133
-  - section_12618006481549
-  - section_12618268841485
+  - section_12617594906509
   - platform_chromebook
-  - section_15283929326733
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/21230708993421-How-to-Gift-Minecraft-and-Other-Minecraft-Games-Through-Minecraft-net
 hash:

@@ -2,9 +2,9 @@
 title: Support for Minecraft Dungeons Purchases
 date: 2021-09-10T23:04:07Z
 updated: 2024-05-14T18:39:50Z
-categories: Dungeons Billing
+categories: Minecraft Dungeons
 tags:
-  - section_12618268841485
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/4408969821197-Support-for-Minecraft-Dungeons-Purchases
 hash:
   h_01FF8Z12B8V293072VT0X9WQBC: minecraft-dungeons-support-links
