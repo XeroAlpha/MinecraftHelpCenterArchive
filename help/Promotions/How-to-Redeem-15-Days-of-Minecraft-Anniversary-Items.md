@@ -1,7 +1,7 @@
 ---
 title: How to Redeem 15 Days of Minecraft Anniversary Items
 date: 2024-05-08T14:56:55Z
-updated: 2024-05-17T17:41:16Z
+updated: 2024-05-18T19:03:10Z
 categories: Promotions
 tags:
   - title_minecraft_java_edition
@@ -48,12 +48,15 @@ On each day of the Anniversary event, there will be one free cosmetic item avail
 
 While the items above are exclusive to Bedrock, the 15th anniversary cape is available to players on both Bedrock and Java Editions.
 
-1.  Visit the [Minecraft’s 15th Anniversary page](https://www.minecraft.net/en-us/15th-anniversary).
-2.  Scroll down the page until you see the **Get the 15th Anniversary Cape!** section.
-3.  Click **Sign in to claim**.
-4.  Sign in with the Microsoft account you use to play Minecraft.
-5.  Select **Claim the cape**.
-6.  Equip the cape using the steps below.
+1.  Close Minecraft or sign out of the game.
+2.  Visit the [Minecraft’s 15th Anniversary page](https://www.minecraft.net/en-us/15th-anniversary).
+3.  Scroll down the page until you see the **Get the 15th Anniversary Cape!** section.
+4.  Click **Sign in to claim**.
+5.  Sign in with the Microsoft account you use to play Minecraft.
+6.  Select **Claim the cape**.
+7.  Equip the cape using the steps below.
+
+**Note:** If you are signed into Minecraft when you claim the cape on Minecraft.net, you may not see the cape in the Dressing Room. Please sign out of Minecraft and restart the game if the cape is not available.
 
 ## How to equip the cape in Java
 
