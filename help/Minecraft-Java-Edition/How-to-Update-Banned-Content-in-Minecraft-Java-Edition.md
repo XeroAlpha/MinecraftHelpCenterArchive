@@ -1,6 +1,7 @@
 ---
-title: "How to Update Banned Content in Minecraft: Java Edition"
+title: "How to Update Banned Skins or Usernames in Minecraft: Java Edition"
 date: 2024-03-18T21:16:23Z
+updated: 2024-05-21T18:53:02Z
 categories: "Minecraft: Java Edition"
 tags:
   - title_minecraft_java_edition
@@ -12,7 +13,7 @@ tags:
   - platform_pc
   - section_15463793799181
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/25119638122509-How-to-Update-Banned-Content-in-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/25119638122509-How-to-Update-Banned-Skins-or-Usernames-in-Minecraft-Java-Edition
 hash:
   h_01HS9PG7FCBNSPE5FXDDZT9VBW: change-your-username-for-minecraft-java-edition
   h_01HS9PJ7QWCMK3VMMBA723J9XN: change-skins-in-minecraft-java-edition
