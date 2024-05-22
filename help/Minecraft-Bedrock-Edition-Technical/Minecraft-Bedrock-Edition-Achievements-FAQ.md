@@ -1,11 +1,17 @@
 ---
-title: "Minecraft: Bedrock Edition Achievements FAQ"
+title: "Minecraft: Bedrock Edition Achievements"
 date: 2021-09-14T21:36:49Z
-updated: 2024-03-28T16:46:29Z
-categories: "Minecraft: Bedrock Edition Technical"
+updated: 2024-05-22T17:41:24Z
+categories: "Minecraft: Bedrock Edition Guides"
 tags:
-  - section_12617893243277
-link: https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements-FAQ
+  - platform_windows_10
+  - platform_nintendo_switch
+  - platform_sony_playstation_4
+  - platform_PC
+  - platform_windows10/11
+  - section_12618581961357
+  - platform_sony_playstation_5
+link: https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements
 hash:
   h_01HHFWCY1QN9X9VSGSDDAG1H45: in-this-article
   h_01HHFWD6T5XN8M7V9K2H1BBZ51: what-are-achievements

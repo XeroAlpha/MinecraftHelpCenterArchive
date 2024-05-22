@@ -1,17 +1,17 @@
 ---
-title: "About the Minecraft: Bedrock Edition Editor"
+title: "Minecraft: Bedrock Edition Editor"
 date: 2023-03-06T20:06:29Z
-updated: 2024-03-04T18:41:50Z
-categories: "Minecraft: Bedrock Edition Technical"
+updated: 2024-05-22T17:43:55Z
+categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - title_minecraft
   - platform_windows_10
   - platform_pc
   - platform_PC
   - platform_windows_10/11
-  - section_12617893243277
+  - section_12618581961357
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/13766868873613-About-the-Minecraft-Bedrock-Edition-Editor
+link: https://help.minecraft.net/hc/en-us/articles/13766868873613-Minecraft-Bedrock-Edition-Editor
 hash:
   h_01HR5C9PS9FNCQJJNK8E7P881T: what-is-the-minecraft-bedrock-edition-editor
   h_01HR5C9PS96CMMJGP4GZKK250N: in-this-article

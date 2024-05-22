@@ -1,8 +1,8 @@
 ---
 title: I Missed my Chance to Migrate. What Happens to my Account?
 date: 2023-09-19T14:29:08Z
-updated: 2023-12-18T23:34:35Z
-categories: Java Migration
+updated: 2024-05-22T18:32:21Z
+categories: "Minecraft: Java Edition Accounts"
 tags:
   - title_minecraft_java_edition
   - platform_windows_10
@@ -11,9 +11,7 @@ tags:
   - subject_problems_migrating
   - subject_how_do_i_migrate
   - subject_when_can_i_migrate
-  - section_12617909134221
   - section_12617963662861
-  - section_12618019146893
   - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-my-Chance-to-Migrate-What-Happens-to-my-Account
 hash:
@@ -26,7 +24,7 @@ hash:
 
 **As the migration period has concluded, Minecraft Support will no longer assist with migration-related queries. Visit [this link to learn about making a new Microsoft account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf).**
 
-If you’ve missed your chance to migrate, you might have a few questions regarding what happens to your Minecraft: Java Edition account. Please read on for more information.
+If you’ve missed your chance to migrate, you might have a few questions regarding what happens to your Minecraft: Java Edition account.
 
 ## What happens to my Java Edition account?
 
