@@ -1,14 +1,16 @@
 ---
-title: "Old World Types in Minecraft: Bedrock Edition FAQ "
+title: "Old World Types in Minecraft: Bedrock Edition"
 date: 2021-11-29T18:45:03Z
-updated: 2023-07-24T18:25:27Z
-categories: Caves and Cliffs Update
+updated: 2024-05-22T15:53:53Z
+categories: "Minecraft: Bedrock Edition Technical"
 tags:
-  - section_12618686416909
-link: https://help.minecraft.net/hc/en-us/articles/4415054041357-Old-World-Types-in-Minecraft-Bedrock-Edition-FAQ
+  - section_12617893243277
+link: https://help.minecraft.net/hc/en-us/articles/4415054041357-Old-World-Types-in-Minecraft-Bedrock-Edition
 hash:
-  will-my-old-world-type-get-the-new-world-height-with-the-1.18-release: will-my-old-world-type-get-the-new-world-height-with-the-118-release
-  i-dont-want-an-infinite-world.-how-do-i-limit-my-world-similar-to-how-i-could-limit-worlds-with-the-old-world-type: i-dont-want-an-infinite-world-how-do-i-limit-my-world-similar-to-how-i-could-limit-worlds-with-the-old-world-type
+  h_01HYGFZ2Q4F9WE0P8R03B6BKWD: what-is-an-old-world-type
+  h_01HYGFZ2Q4C3TT9PBHMM6F9WDX: what-will-happen-to-my-existing-old-world-type-worlds
+  h_01HYGFZ2Q4H1NJKM2TMTVAG43D: will-my-old-world-type-get-the-new-world-height-with-the-118-release
+  h_01HYGFZ2Q4ZM19APA6J952XRTG: i-dont-want-an-infinite-world-how-do-i-limit-my-world-similar-to-how-i-could-limit-worlds-with-the-old-world-type
 ---
 
 We will be removing the possibility to create an "old” world in Minecraft: Bedrock Edition with the 1.18 release. The ‘old world type’ was originally the only world type available in Minecraft: Bedrock Edition (formerly known as Pocket Edition) but we later added ‘infinite and ‘flat worlds’ as well. 

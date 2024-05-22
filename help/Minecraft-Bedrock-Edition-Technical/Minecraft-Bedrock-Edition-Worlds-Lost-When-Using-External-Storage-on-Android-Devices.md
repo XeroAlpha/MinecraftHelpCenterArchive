@@ -1,13 +1,13 @@
 ---
 title: "Minecraft: Bedrock Edition Worlds Lost When Using External Storage on Android Devices"
 date: 2021-10-14T15:57:30Z
-updated: 2023-06-29T19:36:39Z
+updated: 2024-05-22T16:16:06Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - section_12617893243277
-  - section_12618686416909
 link: https://help.minecraft.net/hc/en-us/articles/4411299967629-Minecraft-Bedrock-Edition-Worlds-Lost-When-Using-External-Storage-on-Android-Devices
 hash:
+  h_01HYGH6TA3JP1NJPHS9JME53XX: in-this-article
   h_01GK548CNH7F1ZFQ5JNSCZBXD4: method-1-moving-your-worlds-directly-to-their-new-location
   h_01GK548Q38FZHZR9XQYDSSPMGD: method-1a-use-a-usb-connection-and-a-windows-computer
   h_01GK548VRP4WA3W9KPWQD8X0DG: method-1b-use-a-file-manager-on-your-android-device
@@ -55,7 +55,7 @@ If you have access to the new location for External Storage, you can move or cop
 
 ### Method 1b: Use a file manager on your Android device
 
-1.  Make sure you have run Minecraft: Bedrock Edition and viewed the empty Play screen at least once. This will ensure the new folder exists.
+1.  Make sure you launched Minecraft: Bedrock Edition and viewed the empty Play screen at least once. This will ensure the new folder exists.
 2.  Use your device’s file manager or download a file manager you trust from the Google Play store.
 3.  Throughout the process, you may be prompted to grant permission to access the directories you are entering. You will need to grant those permissions.
 4.  Navigate to the **OLD** file location (usually games/com.mojang/minecraftWorlds).
