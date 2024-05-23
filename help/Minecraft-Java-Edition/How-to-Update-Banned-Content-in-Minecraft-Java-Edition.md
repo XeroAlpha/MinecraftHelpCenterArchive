@@ -1,7 +1,7 @@
 ---
-title: "How to Update Banned Skins or Usernames in Minecraft: Java Edition"
+title: How to Update Banned Skins or Usernames in Minecraft
 date: 2024-03-18T21:16:23Z
-updated: 2024-05-21T18:53:02Z
+updated: 2024-05-23T17:08:12Z
 categories: "Minecraft: Java Edition"
 tags:
   - title_minecraft_java_edition
@@ -13,23 +13,24 @@ tags:
   - platform_pc
   - section_15463793799181
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/25119638122509-How-to-Update-Banned-Skins-or-Usernames-in-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/25119638122509-How-to-Update-Banned-Skins-or-Usernames-in-Minecraft
 hash:
-  h_01HS9PG7FCBNSPE5FXDDZT9VBW: change-your-username-for-minecraft-java-edition
-  h_01HS9PJ7QWCMK3VMMBA723J9XN: change-skins-in-minecraft-java-edition
+  h_01HS9PG7FCBNSPE5FXDDZT9VBW: change-your-username-for-minecraft
+  h_01HS9PJ7QWCMK3VMMBA723J9XN: change-character-skins-in-minecraft
 ---
 
 If you have used skins or a player name that does not comply with the [Minecraft Community Standards](https://www.minecraft.net/en-us/community-standards), that content in particular may be banned and removed from use by you and all other users. Here is how to make updates if content is banned and removed:
 
-## Change your username for Minecraft: Java Edition
+## Change your username for Minecraft
 
-If your Java username has been banned, you can change it by logging into your Microsoft account at the [Change Profile Name page on Minecraft.net](https://www.minecraft.net/en-us/msaprofile/mygames/editprofile). Name changes can only be done once every 30 days, so be sure to choose your new name wisely.
+If your username or gamertag violates the community standards, see these resources to make an update:
 
-## Change skins in Minecraft: Java Edition
+- **Java Edition User Name:** Sign into your Microsoft account at the [Change Profile Name page on Minecraft.net](https://www.minecraft.net/en-us/msaprofile/mygames/editprofile). You can change your name once every 30 days, so choose your new name wisely.
+- **Bedrock Edition Gamertag:** See [How to Change Your Gamertag](../Minecraft-Bedrock-Edition-Accounts/How-to-Change-Your-Gamertag.md).
 
-To change your Java skin, follow these directions:
+## Change character skins in Minecraft
 
-1.  Open the Minecraft Launcher.
-2.  Enter **Minecraft: Java Edition**.
-3.  Click the **Skins** tab.
-4.  Select a pre-made skin or upload a skin file.
+If your account was banned because of your character's appearance, see these articles to make a change: 
+
+- **Java Edition Skin:** See [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Marketplace/How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition.md).
+- **Bedrock Edition Skin:** See [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Minecraft-Marketplace/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md).
