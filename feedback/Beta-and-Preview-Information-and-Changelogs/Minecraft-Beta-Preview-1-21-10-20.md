@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.10.20
 date: 2024-05-21T12:59:47Z
-updated: 2024-05-22T15:42:06Z
+updated: 2024-05-24T09:32:37Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26899699762061-Minecraft-Beta-Preview-1-21-10-20
 hash:
@@ -242,7 +242,7 @@ Updates this week:
 
 ## Graphical
 
-- Level screenshot thumbnails now support RTX and Deferred Technical Preview worlds (
+- Level screenshot thumbnails now support RTX and Deferred Technical Preview worlds
 - Particle Emitters that use the "minecraft:particle_appearance_lighting" component now use the correct light level instead of the world's origin light level
 
 ## Items
