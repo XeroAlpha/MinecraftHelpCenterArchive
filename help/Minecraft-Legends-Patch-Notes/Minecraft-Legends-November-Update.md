@@ -1,21 +1,18 @@
 ---
-title: Minecraft Legends - November Update
+title: Minecraft Legends - November 2023 Update
 date: 2023-11-22T22:27:06Z
-updated: 2023-11-29T15:50:52Z
+updated: 2024-05-27T16:42:56Z
 categories: Minecraft Legends Patch Notes
 tags:
   - title_minecraft_legends
   - title_legends
   - section_15257946888973
-link: https://help.minecraft.net/hc/en-us/articles/21593079183117-Minecraft-Legends-November-Update
+link: https://help.minecraft.net/hc/en-us/articles/21593079183117-Minecraft-Legends-November-2023-Update
 ---
 
 **Posted:** November 29, 2023
 
 Play Minecraft Legends’ biggest update now! Hop into action with the fearless frog and lead the potion-wielding witches. Build cauldrons to buff your allies and face the clanger, a piglin so loud it stuns. There’s a lot to see, so let’s dive in!
-
-Let us know your thoughts on our Minecraft Legends Discord server at [discord.gg/MinecraftLegends](https://discord.gg/MinecraftLegends) and report bugs on [bugs.mojang.com](https://bugs.mojang.com/projects/MCLG/summary).  
-  
 
 **Versions:  
 **Xbox/Windows: 1.18.14350  
