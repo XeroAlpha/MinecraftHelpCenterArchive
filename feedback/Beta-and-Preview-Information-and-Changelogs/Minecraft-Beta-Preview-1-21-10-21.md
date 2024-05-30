@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.10.21
 date: 2024-05-29T13:04:47Z
-updated: 2024-05-29T13:36:01Z
+updated: 2024-05-30T13:06:54Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/27128575309325-Minecraft-Beta-Preview-1-21-10-21
 hash:
@@ -35,7 +35,7 @@ hash:
 
 Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview update! Please keep sending in any suggestions you have at [feedback.minecraft.net](https://feedback.minecraft.net/), and please report and upvote any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/)!
 
-We have a few known issues in this Preview and Beta that we aim to have addressed as quickly as possibly:
+We have a few known issues in this Preview and Beta that we aim to have addressed as quickly as possible:
 
 - New Preview Realms cannot be created through the Worlds tab
 - Players do not receive damage from suffocation
