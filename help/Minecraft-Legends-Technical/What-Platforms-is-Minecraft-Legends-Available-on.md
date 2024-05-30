@@ -1,42 +1,23 @@
 ---
-title: "What Platforms is Minecraft Legends Available on? "
+title: Where to Play Minecraft Legends
 date: 2023-04-11T16:26:20Z
-updated: 2023-05-09T21:35:19Z
+updated: 2024-05-30T16:00:59Z
 categories: Minecraft Legends Technical
 tags:
   - title_minecraft_legends
   - title_legends
   - section_14859582819853
-link: https://help.minecraft.net/hc/en-us/articles/14745297123725-What-Platforms-is-Minecraft-Legends-Available-on
-hash:
-  h_01GXV7X0EAJF7G5EX5PCFJ7C7F: how-many-people-can-play-against-each-other-in-minecraft-legends
-  h_01GXV68C60C771NNSTYC70JMNS: ""
+link: https://help.minecraft.net/hc/en-us/articles/14745297123725-Where-to-Play-Minecraft-Legends
 ---
 
-## Gaming Platforms for Minecraft Legends
+Minecraft Legends is an exciting strategy game that allows you to build up an army of mobs to fight off the Piglin invasion. Luckily, if you are looking to get into the game, there are quite a few ways to do it. Here are all of the platforms where you can play Minecraft Legends.
 
-Minecraft Legends is an action-strategy game launching April 18, 2023, on PlayStation 4 and 5, Xbox One, Xbox Series X\|S, Windows 10/11 via the [Microsoft Store](https://www.xbox.com/en-US/games/minecraft-legends#purchaseoptions) and Steam, and Nintendo Switch. It will also be available through Xbox Game Pass at no extra cost to subscribers.
+- Nintendo Switch
+- PlayStation 4 (also playable on PlayStation 5)
+- Steam
+- Xbox Game Pass for Console or PC
+- Xbox One (also playable on Xbox Series X\|S)
 
-**Note: Minecraft Legends on PC only supports XInput compatible controllers. This means the PlayStation 5 Dualsense controller will not work with Minecraft Legends on PC.**
+You can purchase Minecraft Legends from [the Minecraft Legends website](https://www.minecraft.net/en-us/store/legends-standard-edition).
 
-## Minecraft Legends Deluxe Edition
-
-The Deluxe Edition includes the Deluxe Skin Pack, which includes one hero skin and four alternative skins for your mount. An additional alternative skin for your mount will be available sometime after launch to owners of the Deluxe Edition.
-
-Players that purchase Minecraft Legends Standard Edition will have the opportunity to upgrade by purchasing the Minecraft Legends Deluxe Skin Pack on their platform of choice.
-
-Additionally, Minecraft Legends Deluxe Edition will be available at your local retailer on Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X\|S, as well as digitally.
-
-**Note: Minecraft Legends Standard Edition will be available on Xbox Game Pass on launch day, while the Deluxe Edition will be available for purchase.**
-
-**Additional Note: Players in some Asian countries will experience different version availability depending on their region and platform. [Click here](../Minecraft-Legends-Billing/Minecraft-Legends-Pre-Sale-Editions-in-Asian-Countries.md)** **to learn more.**
-
-## How Many People can Play Against Each Other in Minecraft Legends?
-
-Minecraft Legends can support up to eight players, with four players on each team in Versus Mode. Up to four players can play co-operative campaign.
-
-However, players on Xbox One, PlayStation 4, and Nintendo Switch cannot host more than one additional player in campaign co-op or more than four players total in a 2v2 PvP match. Players on PlayStation 5, Xbox Series X\|S, and PC can host up to 4v4 PvP sessions and up to four players in a cooperative match.
-
-Players on older generation hardware ***can join*** sessions hosted by players on more powerful hardware.
-
-##
+**Note:** Minecraft Legends on PC only supports XInput compatible controllers. This means the PlayStation 5 DualSense controller will not work with Minecraft Legends on PC.
