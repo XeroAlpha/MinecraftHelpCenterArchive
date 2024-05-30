@@ -1,28 +1,35 @@
 ---
-title: "Why Have I Been Banned from Minecraft? "
+title: Banned Minecraft Accounts and the Appeal Process
 date: 2021-09-10T22:35:24Z
-updated: 2023-07-24T18:42:14Z
-categories: "Minecraft: Bedrock Edition"
+updated: 2024-05-30T19:41:51Z
+categories: Player Reporting & Bans
 tags:
-  - section_15463792344973
-link: https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - title_minecraft_dungeons
+  - platform_windows_10
+  - platform_ios
+  - platform_android
+  - platform_nintendo_switch
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_kindle_fire
+  - platform_oculus
+  - platform_pc
+  - title_minecraft_legends
+  - platform_chromebook
+  - section_15463793799181
+  - title_minecraft_java_bedrock_for_pc
+link: https://help.minecraft.net/hc/en-us/articles/4408964729869-Banned-Minecraft-Accounts-and-the-Appeal-Process
 hash:
-  what-happens-when-im-banned: whathappenswhen-imbanned
+  h_01HZ5G3B6QAR0F2NSJPZASGSH7: results-of-a-banned-account
+  h_01HZ5G62WA17NEJA604AMDG7B7: appealing-an-account-ban
+  h_01HZ5GB8ATHCRQDNE6QKDDDHNM: player-bans-on-private-servers
 ---
 
-We want players to have fun and be safe when playing Minecraft online with others, and as such, we have implemented moderation features such as permanent bans for the most egregious violations. Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms (please review the [**Realms End User License Agreement**](https://www.minecraft.net/en-us/realms/terms)). Personal worlds will not be reviewed. 
-
-In an effort to be clearer and more transparent with you, we have updated the messages displayed when an account is suspended or banned. Our goal is to ensure you know what type of action was taken and why, as well as any other relevant details. Being clear with you is an important part of our ongoing work to make Minecraft a safe and welcoming place for everyone.
-
-![mceclip0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4408969147405)
-
-## What happens when I’m banned? 
-
-Players that have been found to be in violation of our [**Community Standards**](https://www.minecraft.net/en-us/community-standards) will see the message above when they attempt to sign in to Minecraft: Bedrock Edition on any platform (non-Java Edition). Banned players are not allowed to play on servers, join Realms, host or join multiplayer games, or use the marketplace. They are also not allowed to access Minecraft Earth. Xbox players will no longer have access to their worlds.
-
-## What causes permanent bans? 
-
-Currently, permanent bans will be issued to players found in the most severe violations of our** **[**Community Standards**](https://www.minecraft.net/en-us/community-standards)**. **We will be rolling out new moderation features in the months to come.
+We combine the best available tools with a highly trained and dedicated team of moderators that work every day to celebrate and protect our players. Violations of our [Community Standards](https://www.minecraft.net/en-us/community-standards) may result in a temporary or permanent ban of your account.
 
 Violations that may result in bans include:
 
@@ -35,18 +42,23 @@ Violations that may result in bans include:
 - Cheating/exploits (this includes anything that would negatively affect another person’s gameplay experience)
 - General commercial spamming
 
+## Results of a Banned Account
+
+Banned players are not allowed to play on servers, join Realms, or host or join multiplayer games. Bans are connected to the unique ID for your Microsoft account and not your gamertag or profile name.
+
+Permanent bans will be issued to players found in the most severe or repeated violations of the [community standards](https://www.minecraft.net/en-us/community-standards).
+
 If your account has been banned and you have a Realms Plus subscription, you should cancel your subscription so you will not be charged for content you cannot access.
 
-See our [How do I cancel my Minecraft Realms Plus subscription](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) article for instructions to cancel.
+See our [How do I Cancel my Minecraft Realms Plus Subscription](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) article for instructions to cancel.
 
-If you have been banned and would like more information, please submit a review via [this link](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452), or scroll to the bottom of any page in our Help Center and select ' Case Review' to send a ticket to the appropriate team.  
+## Appealing an Account Ban
 
-![mceclip0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4415297273997)
+Our goal is to ensure you know what type of action was taken and why, as well as any other relevant details. Being clear with you is an important part of our ongoing work to make Minecraft a safe and welcoming place for everyone.
 
- 
+- **Case Review:** If you have been banned or suspended from Minecraft, you can appeal the ruling by filling out the [Case Review form](https://aka.ms/Case-Review-Minecraft).
+- **Updating Banned Content:** If you need to change an inappropriate name or skin, see [How to Update Banned Skins or Usernames in Minecraft](../Minecraft-Java-Edition/How-to-Update-Banned-Skins-or-Usernames-in-Minecraft.md).
 
-## Why did I get banned on a Private Server?
+## Player Bans on Private Servers
 
-Each server is self-moderated and at the discretion of the server owner. If you were banned or suspended from a privately-owned server on Minecraft please reach out to the Administrator of the server to appeal your ban. We do not intervene in private servers aside from overt violations of the Minecraft EULA and our [Terms of Service](https://account.mojang.com/documents/minecraft_eula). 
-
-Be like Steve and change the world for the better by getting along with others.
+Each server is self-moderated and at the discretion of the server owner. If you were banned or suspended from a privately-owned server on Minecraft please reach out to the Administrator of the server to appeal your ban. We do not intervene in private servers aside from overt violations of the Minecraft EULA and our Terms of Service.

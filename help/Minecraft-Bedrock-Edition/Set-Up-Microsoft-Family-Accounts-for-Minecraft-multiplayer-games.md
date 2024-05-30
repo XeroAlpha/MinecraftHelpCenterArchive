@@ -1,8 +1,8 @@
 ---
-title: Set Up Microsoft Family Accounts for Minecraft multiplayer games
+title: Set Up Microsoft Family Accounts for Minecraft Multiplayer Games
 date: 2021-09-10T22:08:35Z
-updated: 2024-05-17T18:39:24Z
-categories: "Minecraft: Bedrock Edition"
+updated: 2024-05-30T18:54:34Z
+categories: "Minecraft: Bedrock Edition Accounts"
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -28,9 +28,8 @@ tags:
   - platform_pc
   - subject_microsoft_sign_in_questions
   - multijugador
-  - amigos
-  - section_15463792344973
-link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-multiplayer-games
+  - section_12617594906509
+link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games
 hash:
   h_01HQ44H80QWE5ED40D6GSFSGBB: follow-these-steps-to-set-up-your-family-accounts
   h_01HQ44H26X4CH76GE47HYA6389: related-articles
