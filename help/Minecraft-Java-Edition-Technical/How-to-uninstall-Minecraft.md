@@ -1,10 +1,10 @@
 ---
 title: How to uninstall Minecraft
 date: 2024-04-01T20:07:02Z
-categories: "Minecraft: Java Edition Technical"
+updated: 2024-05-31T16:26:25Z
+categories: Download & Install
 tags:
-  - section_12617893243277
-  - section_12618019146893
+  - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/25522394797453-How-to-uninstall-Minecraft
 hash:
   h_01HTDM5VAZ82EQKESMSCBRXK4R: windows
