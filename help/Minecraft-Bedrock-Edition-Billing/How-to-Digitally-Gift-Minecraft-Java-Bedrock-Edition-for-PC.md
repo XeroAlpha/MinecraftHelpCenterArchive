@@ -1,8 +1,8 @@
 ---
-title: "How to Digitally Gift Minecraft: Java & Bedrock Edition for PC "
+title: "How to Digitally Gift Minecraft: Java & Bedrock Edition for PC"
 date: 2022-08-25T15:10:26Z
-updated: 2023-04-18T15:57:09Z
-categories: "Minecraft: Bedrock Edition Billing"
+updated: 2024-05-31T20:39:47Z
+categories: Purchases & Billing
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -14,8 +14,10 @@ tags:
   - platform_macOS
   - section_12617899093133
   - section_12618006481549
+  - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/8684413912461-How-to-Digitally-Gift-Minecraft-Java-Bedrock-Edition-for-PC
 hash:
+  h_01HZ8605QWS0570FQ2J3EXE1TM: in-this-article
   h_01GBARNZSRA2MTED0KY890RYV2: gifting-minecraft-java--bedrock-edition-for-pc
   h_01GBARP5DKJ5R08656JV15XW3K: gifting-through-the-windows-store
   h_01GBARP9V7WM1HMF45YV15AVDR: gifting-through-the-amazon-store
@@ -43,7 +45,7 @@ There are currently two ways to digitally gift Minecraft: Java & Bedrock Edition
 5.  Select your preferred payment method and select ‘Buy as Gift.’
 6.  If you’re having issues buying a digital gift, visit the [Xbox.com support page for digital gift giving](https://support.xbox.com/en-US/help/subscriptions-billing/buy-games-apps/gifting-digital-xbox-game-help) to try and solve the problem. 
 
-### Gifting Through the Amazon Store 
+### Gifting Through the Amazon Store
 
 1.  Navigate to Amazon.com and search ‘Minecraft gift card’ or a similar term.
 2.  Click on the official ‘[Minecraft Java & Bedrock Edition: Standard - Windows 10 \[Digital Code\]](https://www.amazon.com/Minecraft-Java-Bedrock-Standard-Windows/dp/B09ZY21PM4/ref=sr_1_4?keywords=minecraft+gift+card&qid=1660678375&sr=8-4)’ product listing by Xbox.

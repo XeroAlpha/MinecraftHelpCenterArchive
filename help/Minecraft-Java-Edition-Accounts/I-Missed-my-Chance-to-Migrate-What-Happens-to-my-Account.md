@@ -1,8 +1,8 @@
 ---
-title: I Missed my Chance to Migrate. What Happens to my Account?
+title: I Missed My Chance to Migrate. What Happens to My Account?
 date: 2023-09-19T14:29:08Z
-updated: 2024-05-22T18:32:21Z
-categories: "Minecraft: Java Edition Accounts"
+updated: 2024-05-31T21:31:37Z
+categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
   - platform_windows_10
@@ -13,7 +13,8 @@ tags:
   - subject_when_can_i_migrate
   - section_12617963662861
   - title_minecraft_java_bedrock_for_pc
-link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-my-Chance-to-Migrate-What-Happens-to-my-Account
+  - section_27194059750157
+link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-My-Chance-to-Migrate-What-Happens-to-My-Account
 hash:
   h_01HAPXBF024JESJANV49D39CB5: what-happens-to-my-java-edition-account
   h_01HAPXBF025WFW7HJ4JRQCR68Q: what-happens-to-my-worlds

@@ -1,17 +1,17 @@
 ---
 title: I Want to Buy Minecraft on a Non-Windows Device
 date: 2022-06-03T19:10:03Z
-updated: 2023-07-10T18:27:03Z
-categories: "Minecraft: Bedrock Edition Billing"
+updated: 2024-05-31T20:48:27Z
+categories: Purchases & Billing
 tags:
   - title_minecraft_java_edition
   - platform_linux
   - platform_macos
   - platform_macOS
-  - section_12617899093133
-  - section_12618006481549
+  - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/6661712171405-I-Want-to-Buy-Minecraft-on-a-Non-Windows-Device
 hash:
+  h_01HZ86FKN9Y67QQ7RXDMJNVE2C: in-this-article
   h_01GB3FN7GV89Y8PM1JG8SYES9T: i-want-to-buy-minecraft-from-the-microsoft-store
   h_01GB3FNENV53CRY2W2QSN4QJ2T: i-want-to-buy-minecraft-from-minecraftnet
   h_01GB3FNWDT9M3Z3QC1JEM1SWGE: i-want-to-buy-minecraft-from-the-minecraft-launcher
@@ -85,7 +85,7 @@ If you're on a non-Windows device and want to buy Minecraft for the first time, 
 
 ## I bought Minecraft from the MS Store and want to return the product for a refund 
 
-1.  Start by logging into the MS Store with your MSA. 
+1.  Start by logging into the MS Store with your Microsoft account. 
 2.  Navigate to **Order History** on the top right of the page.
 3.  You should find the Minecraft: Java and Bedrock Edition for PC option. If you’re still eligible for a return, you will see **Request a Return **on the right side. Click it. 
 4.  You should see some refund options available to complete the refund process. 

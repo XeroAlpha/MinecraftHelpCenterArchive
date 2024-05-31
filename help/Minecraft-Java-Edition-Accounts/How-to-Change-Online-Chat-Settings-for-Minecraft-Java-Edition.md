@@ -1,8 +1,8 @@
 ---
-title: "How to Change Online Chat Settings for Minecraft: Java Edition "
+title: How to Change Online Chat Settings for Minecraft
 date: 2022-06-16T19:39:34Z
-updated: 2024-04-26T21:17:40Z
-categories: "Minecraft: Java Edition Accounts"
+updated: 2024-05-31T19:35:16Z
+categories: Account Settings
 tags:
   - title_minecraft_java_edition
   - subject_change_account_information
@@ -15,32 +15,24 @@ tags:
   - platform_PC
   - platform_macOS
   - amigo
-  - section_12617963662861
-  - section_12618746386189
-  - section_15463793799181
-link: https://help.minecraft.net/hc/en-us/articles/6985971367309-How-to-Change-Online-Chat-Settings-for-Minecraft-Java-Edition
+  - section_27194076935437
+link: https://help.minecraft.net/hc/en-us/articles/6985971367309-How-to-Change-Online-Chat-Settings-for-Minecraft
 hash:
-  h_01HWE4A4RK69FBXXAWCE4SRD00: how-to-find-and-change-your-minecraft-java-edition-online-chat-settings
+  h_01HWE4A4RK69FBXXAWCE4SRD00: how-to-change-your-minecraft-online-chat-settings
 ---
 
-While playing Minecraft: Java Edition with other players online, you may want to customize your online chat experience. This article will discuss where to go to change your online chat setting, and what each setting means so you can have full control over your Minecraft: Java Edition online chat experience. 
+While playing Minecraft with other players online, you may want to customize your online chat experience. Your in-game chat experience is managed through your Microsoft Xbox Live account settings.
 
-## How to find and change your Minecraft: Java Edition online chat settings 
+## How to change your Minecraft online chat settings 
 
-As you may know, you need a Microsoft Account to play Minecraft: Java Edition. Because of this connection, your Minecraft: Java Edition online chat settings are found in your [Xbox Live account settings,](https://account.xbox.com/en-gb/settings) as online chat services and online Minecraft gameplay are powered by Xbox Live. 
+1.  Visit your Xbox Live account settings.
+2.  Click on the **Privacy** tab on the top of the page.
+3.  Scroll down to **Others can communicate with voice, text or invites** in the **Others can** section.
 
-To change the Minecraft: Java Edition chat experience, click on the **Privacy & Online Safety** tab on the top of the page. Scroll down to the **Others can:** section, and find the **Others can communicate with voice, text or invites **option.  
+From here, you’ll find the following options.
 
-From here, you’ll find the following options. However, Minecraft: Java Edition has no distinction between ‘Friends’ or ‘Everyone.’ Instead, you must choose between ‘Block’ to block all chat in Minecraft: Java Edition, or ‘Everyone’ to enable chat in the game. 
+- **Everyone**: Your account can receive all text chat and receive all invites from anyone in Minecraft.
+- **Friends**: Your account can receive all text chat and receive all invites from anyone on your Friends list in Minecraft.
+- **Block**: Your account will not receive any text chat or receive any invites from anyone in Minecraft: Java Edition.
 
-|  |  |
-|----|----|
-| Everyone | Your account can receive all text chat and receive all invites from anyone in Minecraft: Java Edition. |
-| Friends  | Your account can receive all text chat and receive all invites from anyone on your Friends list in Minecraft: Java Edition.  |
-| Block  | Your account will not receive any text chat or receive any invites from anyone in Minecraft: Java Edition.  |
-
-Once you've adjusted your settings, **make sure to close and relaunch the game for them to apply**. If they still haven't applied after a restart, try logging out of the launcher and then logging back in. 
-
-**Note: If you created a Microsoft Account during our migration process from Mojang to Microsoft Accounts, it is likely that your chat setting will default to Block**.  
-
-If you’re still having trouble with Minecraft: Java Edition chat, be sure to contact Minecraft Support for additional assistance.
+After you adjust your settings, make sure to close and relaunch Minecraft to make sure your settings apply in-game. We also recommend signing out using the Minecraft Launcher and then signing back in when you relaunch Minecraft.

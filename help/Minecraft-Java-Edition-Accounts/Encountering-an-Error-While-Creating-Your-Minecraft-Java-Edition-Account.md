@@ -1,8 +1,8 @@
 ---
-title: "Encountering an Error While Creating Your Minecraft: Java Edition Account"
+title: "Invalid Registration Errors When Changing your Profile Name in Minecraft: Java Edition Account"
 date: 2020-07-21T17:39:34Z
-updated: 2023-06-15T17:10:10Z
-categories: "Minecraft: Java Edition Accounts"
+updated: 2024-05-31T19:51:30Z
+categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
   - subject_change_account_information
@@ -14,7 +14,8 @@ tags:
   - platform_pc
   - platform_PC
   - section_12617963662861
-link: https://help.minecraft.net/hc/en-us/articles/360046599271-Encountering-an-Error-While-Creating-Your-Minecraft-Java-Edition-Account
+  - section_27194059750157
+link: https://help.minecraft.net/hc/en-us/articles/360046599271-Invalid-Registration-Errors-When-Changing-your-Profile-Name-in-Minecraft-Java-Edition-Account
 ---
 
 *This article refers to Minecraft: Java Edition profile names.* 

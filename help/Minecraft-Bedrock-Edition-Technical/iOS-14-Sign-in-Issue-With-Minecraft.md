@@ -1,13 +1,14 @@
 ---
-title: iOS 14 Sign-in Issue With Minecraft
+title: iOS 14 Sign-In Issue with Minecraft
 date: 2024-03-05T20:26:11Z
-categories: "Minecraft: Bedrock Edition Technical"
+updated: 2024-05-31T21:33:06Z
+categories: Account Sign-In
 tags:
   - title_minecraft
   - category_technical_support
   - platform_ios
-  - section_12617893243277
-link: https://help.minecraft.net/hc/en-us/articles/24723842533389-iOS-14-Sign-in-Issue-With-Minecraft
+  - section_27194059750157
+link: https://help.minecraft.net/hc/en-us/articles/24723842533389-iOS-14-Sign-In-Issue-with-Minecraft
 ---
 
 With the update of iOS 14, Apple has introduced many new privacy features. For example, players are prompted with a notification upon opening Minecraft: Bedrock Edition for the first time. “Minecraft would like to find and connect to devices on your local network.”  

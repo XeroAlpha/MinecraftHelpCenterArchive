@@ -1,8 +1,8 @@
 ---
-title: "Minecraft: Java Edition Login Issues FAQ"
+title: "Minecraft: Java Edition Sign-In Issues Support"
 date: 2021-09-13T20:32:17Z
-updated: 2024-01-12T17:28:54Z
-categories: "Minecraft: Java Edition Accounts"
+updated: 2024-05-31T21:26:35Z
+categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
   - subject_change_account_information
@@ -13,7 +13,8 @@ tags:
   - platform_macos
   - subject_microsoft_sign_in_questions
   - section_12617963662861
-link: https://help.minecraft.net/hc/en-us/articles/4409155824269-Minecraft-Java-Edition-Login-Issues-FAQ
+  - section_27194059750157
+link: https://help.minecraft.net/hc/en-us/articles/4409155824269-Minecraft-Java-Edition-Sign-In-Issues-Support
 ---
 
 As of December 18, 2023, the post-migration process for Mojang accounts to Microsoft accounts for access to Minecraft has officially ended. If you successfully completed the post-migration process, you should now have access to both Java and Bedrock editions with your Microsoft account.

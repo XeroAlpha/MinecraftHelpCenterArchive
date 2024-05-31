@@ -1,8 +1,8 @@
 ---
-title: Get Help with your Minecraft Account
+title: Get Help with Your Minecraft Account
 date: 2019-06-27T20:41:11Z
-updated: 2024-04-02T20:38:32Z
-categories: "Minecraft: Bedrock Edition Accounts"
+updated: 2024-05-31T21:24:06Z
+categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -22,7 +22,8 @@ tags:
   - cuenta
   - section_12617594906509
   - Login
-link: https://help.minecraft.net/hc/en-us/articles/360029681732-Get-Help-with-your-Minecraft-Account
+  - section_27194059750157
+link: https://help.minecraft.net/hc/en-us/articles/360029681732-Get-Help-with-Your-Minecraft-Account
 ---
 
 Get back into your game! This information covers the most common solutions for not being able to log into your account including resetting your password, username, or security questions. All Minecraft titles use your Microsoft Account for sign-in.

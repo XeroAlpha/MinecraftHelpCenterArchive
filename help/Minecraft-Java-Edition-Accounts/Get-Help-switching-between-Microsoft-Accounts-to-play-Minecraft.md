@@ -1,11 +1,13 @@
 ---
-title: Get Help switching between Microsoft Accounts to play Minecraft
+title: Switching Between Microsoft Accounts in Launcher to Play Minecraft
 date: 2024-04-01T19:47:17Z
-categories: "Minecraft: Java Edition Accounts"
+updated: 2024-05-31T21:25:36Z
+categories: Account Sign-In
 tags:
   - section_12617594906509
   - section_12617963662861
-link: https://help.minecraft.net/hc/en-us/articles/25521490005517-Get-Help-switching-between-Microsoft-Accounts-to-play-Minecraft
+  - section_27194059750157
+link: https://help.minecraft.net/hc/en-us/articles/25521490005517-Switching-Between-Microsoft-Accounts-in-Launcher-to-Play-Minecraft
 ---
 
 If you own Minecraft on one Microsoft account and Minecraft Dungeons on a different account, you can link both accounts to the Minecraft Launcher. You will need to switch between those accounts to access the games following these steps:
