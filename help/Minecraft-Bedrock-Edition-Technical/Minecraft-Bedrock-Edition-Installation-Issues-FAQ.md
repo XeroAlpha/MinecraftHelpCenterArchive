@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Installation Issues FAQ"
 date: 2021-09-14T00:17:35Z
-updated: 2023-12-28T21:21:29Z
+updated: 2024-05-31T15:34:54Z
 categories: "Minecraft: Bedrock Edition Technical"
 tags:
   - title_minecraft
@@ -85,7 +85,7 @@ Minecraft: Bedrock Edition is playable on multiple platforms, each with its ow
 - Download and installation size varies by device 
 - Access the list of accounts in the Accounts Service   
 - Read from external storage   
-- Minimum Operating System: Android 5 "Lollipop" 
+- Minimum Operating System: Android 8
 - RAM: more than 1 GB
 - Android devices are cross-platform compatible   
 
