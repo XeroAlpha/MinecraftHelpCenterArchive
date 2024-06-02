@@ -49,7 +49,7 @@ From the Friends tab on the Play screen in Minecraft: Bedrock Edition, you can v
 4.  Select **Manage Realms membership invites**.
 5.  Accept the invite to the Realm you want to join.
 
-After you accept a Realm invite, it will be available for you to join. Make sure that you have the [latest public release of the game](../Minecraft-Bedrock-Edition-Technical/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md#how-to-manually-update-minecraft-bedrock-edition).
+After you accept a Realm invite, it will be available for you to join. Make sure that you have the [latest public release of the game](../Download-Install/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md#how-to-manually-update-minecraft-bedrock-edition).
 
 ## Trouble accepting invites or joining Realms
 
@@ -60,7 +60,7 @@ To check which resource pack you’re using, switch to the standard Minecraft ga
 1.  Select **Settings.**
 2.  Select **Global Resources.**
 
-**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [this article](../Minecraft-Bedrock-Edition/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).**
+**Note: If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [this article](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).**
 
 ## Leaving a Realm
 

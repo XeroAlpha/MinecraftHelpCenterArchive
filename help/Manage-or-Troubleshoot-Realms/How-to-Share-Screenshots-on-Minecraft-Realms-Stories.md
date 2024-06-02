@@ -35,4 +35,4 @@ If you have found something interesting or built a new epic structure in your Mi
 3.  Select the screenshot to share from your screenshot library.
 4.  Write a description if you want and click **Post**.
 
-If you cannot share to a Realm Story, you may need to adjust your permissions. Have the family organizer sign into their account and see [Managing Multiplayer Game Access For A Child Account In Minecraft](../Minecraft-Bedrock-Edition/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to adjust those settings.
+If you cannot share to a Realm Story, you may need to adjust your permissions. Have the family organizer sign into their account and see [Managing Multiplayer Game Access For A Child Account In Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to adjust those settings.

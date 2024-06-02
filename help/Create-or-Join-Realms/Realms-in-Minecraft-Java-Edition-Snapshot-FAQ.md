@@ -31,7 +31,7 @@ hash:
 
 We’re excited to announce that as of October 11th, Realms are available in Minecraft: Java Edition Snapshots! Snapshot Realms are available to any active Java Realms subscribers. Read below to learn how Snapshot Realms work and how they are different from your regular Java Realm. 
 
-For more information on Java Snapshots, please refer to [this article](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Snapshot-FAQ.md).
+For more information on Java Snapshots, please refer to [this article](../Download-Install/Minecraft-Java-Edition-Snapshot-FAQ.md).
 
 If you're looking for Minecraft: Bedrock Edition Preview/Beta Realms, please refer to [this article](./How-to-Start-a-Minecraft-Preview-Beta-Realm.md).  
 
@@ -49,7 +49,7 @@ If you're looking for Minecraft: Bedrock Edition Preview/Beta Realms, please ref
 
 ## Where can I learn more about Java Snapshot?
 
-For more information on Java Snapshots, please refer to [this article](../Minecraft-Java-Edition-Technical/Minecraft-Java-Edition-Snapshot-FAQ.md).
+For more information on Java Snapshots, please refer to [this article](../Download-Install/Minecraft-Java-Edition-Snapshot-FAQ.md).
 
 ## How to use Realms in Snapshots
 

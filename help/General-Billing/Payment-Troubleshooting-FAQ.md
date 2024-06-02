@@ -71,7 +71,7 @@ If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift
 - US Purchasing
   - You cannot make a purchase from outside of the US using a credit or debit card issued in the US. 
   - Due to US law, many or all prepaid debit cards (such as Visa Vanilla) purchased in the US will not work for purchases in our online store, as Mojang is located outside of the US.
-  - Gift codes are not available for purchase in our online store from the US. Please consider buying a [Minecraft prepaid card](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md#prepaid-card-and-gift-code-redemption-issues) or a gift code on [amazon.com](https://www.amazon.com/Minecraft-Mac-Online-Game-Code/dp/B010KYDNDG/ref=dp_olp_1?th=1). 
+  - Gift codes are not available for purchase in our online store from the US. Please consider buying a [Minecraft prepaid card](../Purchases-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md#prepaid-card-and-gift-code-redemption-issues) or a gift code on [amazon.com](https://www.amazon.com/Minecraft-Mac-Online-Game-Code/dp/B010KYDNDG/ref=dp_olp_1?th=1). 
 
 ## I’ve been charged more than once
 

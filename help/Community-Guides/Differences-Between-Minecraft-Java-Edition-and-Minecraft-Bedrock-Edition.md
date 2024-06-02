@@ -36,7 +36,7 @@ While every version of Minecraft is still Minecraft, the differences between Min
 - Customize your own skin – You can download any skin online or make your own and upload it to use in-game! 
 - PC only – Minecraft: Java Edition will run on Windows, macOS, and Linux 
 - Mods – Download community-made mods to change your gameplay experience 
-- Resource Intensive – Minecraft: Java Edition requires [higher computer specifications](../Minecraft-Java-Edition-Technical/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)[ ](../Minecraft-Java-Edition-Technical/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)to run smoothly 
+- Resource Intensive – Minecraft: Java Edition requires [higher computer specifications](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)[ ](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)to run smoothly 
 - No Cross-Play – Minecraft: Java Edition users can only play with other Java users 
 - Community – There are countless online servers and communities with all kinds of variations and mods to change up the multiplayer experience 
 

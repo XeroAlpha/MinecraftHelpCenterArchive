@@ -13,6 +13,7 @@ tags:
   - platform_pc
   - platform_PC
   - platform_macOS
+  - section_15463792344973
   - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/6160517019149-How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter
@@ -36,4 +37,4 @@ Note that the profanity filter will only affect you and your Minecraft account. 
 
 ## Profanity filter is grayed out with an adult Microsoft account
 
-If the Java Edition profanity filter is grayed out, but you’re logged into an adult Microsoft account, it’s likely that your Minecraft: Java Edition entitlement isn’t detected. Make sure you are signed into the proper account that owns Minecraft or is subscribed to Xbox Game Pass for PC. If you own Bedrock Edition, see [I Own Minecraft: Java Or Bedrock Edition For PC. How Do I Get The Other?](../Minecraft-Bedrock-Edition-Technical/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md)
+If the Java Edition profanity filter is grayed out, but you’re logged into an adult Microsoft account, it’s likely that your Minecraft: Java Edition entitlement isn’t detected. Make sure you are signed into the proper account that owns Minecraft or is subscribed to Xbox Game Pass for PC. If you own Bedrock Edition, see [I Own Minecraft: Java Or Bedrock Edition For PC. How Do I Get The Other?](../Download-Install/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md)

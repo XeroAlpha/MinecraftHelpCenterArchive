@@ -153,7 +153,7 @@ To recover a gift code that you can no longer access, ask the person who gave it
 
 Codes purchased on Amazon must be retrieved by [contacting Amazon](https://www.amazon.com/gp/help/customer/contact-us). 
 
-**Note: Please refer to** [**this article**](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ) **for more information on Minecraft: Java Edition Gift Codes or** [**this article**](../Minecraft-Bedrock-Edition-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md) **for Minecraft: Bedrock Edition codes.** 
+**Note: Please refer to** [**this article**](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ) **for more information on Minecraft: Java Edition Gift Codes or** [**this article**](../Purchases-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md) **for Minecraft: Bedrock Edition codes.** 
 
 ## Prepaid Pin 
 
@@ -166,7 +166,7 @@ A Minecraft prepaid card PIN is a ten-digit number or five sets of five letters 
 
 Once you redeem a Minecraft prepaid card, an email containing the PIN number is sent to the email address registered to your Mojang account confirming the redemption. If you cannot find this email, contact [Minecraft support](https://aka.ms/Minecraft-Support) and we may be able to assist you without your PIN.  
 
-For more information on redeeming a pre-paid card, please refer to [this article](../Minecraft-Bedrock-Edition-Billing/Redeeming-a-Prepaid-Card-for-Minecraft-Java-Bedrock-Edition-for-PC.md). 
+For more information on redeeming a pre-paid card, please refer to [this article](../Purchases-Billing/Redeeming-a-Prepaid-Card-for-Minecraft-Java-Bedrock-Edition-for-PC.md). 
 
 ## Mojang Studios Order Number 
 

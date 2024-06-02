@@ -188,7 +188,7 @@ To help ensure that your bug report is effective, it is highly recommended that 
 
 ### Minecraft: Java Edition
 
-- To report a crash, attach the crash report to the bug report. You can find crash reports in the “crash-reports” subfolder of the [.minecraft](../Minecraft-Java-Edition-Technical/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) data folder. If there is no related crash report, attach the launcher log.
+- To report a crash, attach the crash report to the bug report. You can find crash reports in the “crash-reports” subfolder of the [.minecraft](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) data folder. If there is no related crash report, attach the launcher log.
 - If you create a bug report about a server-side performance issue, include the debug profile and report to the bug report. You can create them by using the /debug command.
 - If you create a bug report about a client-side performance issue, provide detailed information about your system specifications and the circumstances in which the performance issue occurs. Bug reports about general performance issues (for example “Minecraft always has low FPS”) are usually not accepted.
 

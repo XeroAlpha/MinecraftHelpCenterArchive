@@ -14,4 +14,4 @@ You can access Daily Trials from the Mission Select screen. Two trials are visib
 
 Daily Trials can be completed alone, or you can team up with others in local and online multiplayer.
 
-**Nintendo Switch Players:** You need to [log in to a Microsoft Account](../Minecraft-Bedrock-Edition-Technical/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md) for Daily Trials to appear on the map, as Daily Trials are a part of our online services.
+**Nintendo Switch Players:** You need to [log in to a Microsoft Account](../Performance-Troubleshooting/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md) for Daily Trials to appear on the map, as Daily Trials are a part of our online services.
