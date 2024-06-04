@@ -1,6 +1,7 @@
 ---
 title: Troubleshooting Sign-in Issues
 date: 2024-05-31T20:18:34Z
+updated: 2024-06-04T18:12:40Z
 categories: Account Sign-In
 tags:
   - section_27194059750157
@@ -9,7 +10,9 @@ hash:
   h_01HZ84SBXB37D7AEJV1P7DRV47: start-by-signing-into-the-xbox-app
 ---
 
-If you are unable to sign into Minecraft, follow these steps to help get you back into game.
+If you are unable to sign into Minecraft, verify you are signing into the correct Microsoft account you purchased Minecraft with. You can confirm this by reviewing the purchase receipt for Minecraft matches your email you use to sign-in, or checking on your [Microsoft Account Page](https://account.microsoft.com/) that the game is shown as purchased with your account.
+
+If you still need help signing in, follow these steps to help get you back into game.
 
 ## Start by Signing into the Xbox App
 

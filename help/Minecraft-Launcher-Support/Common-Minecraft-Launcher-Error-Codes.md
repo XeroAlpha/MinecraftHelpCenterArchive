@@ -1,7 +1,7 @@
 ---
-title: Common Minecraft Launcher Error Codes
+title: Minecraft Launcher Error Codes & Messages
 date: 2024-01-22T20:56:52Z
-updated: 2024-03-28T19:15:10Z
+updated: 2024-06-04T18:13:43Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -20,10 +20,9 @@ tags:
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
-link: https://help.minecraft.net/hc/en-us/articles/23432418934925-Common-Minecraft-Launcher-Error-Codes
+link: https://help.minecraft.net/hc/en-us/articles/23432418934925-Minecraft-Launcher-Error-Codes-Messages
 hash:
   h_01HMSEEK698DB185PMAS64P27P: in-this-article
-  h_01HMSEEWYX37F3TH7XNP7A3ZPX: java-profile-creation-failed-error
   h_01HMSEH1JVR22Q52APB54XA98F: minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001
   h_01HMSEK3Z50Y55WCBG5C2NNTQ3: unable-to-update-native-launcher-error
   h_01HMSEPCKH1CZ2QGPGXRWK9MKM: error-0x80131500-when-trying-to-install-the-launcher
@@ -31,9 +30,10 @@ hash:
   h_01HMSF318T74CHXQ87F93YXN63: error-0x80242020-after-installing-bedrock-edition
   h_01HMSF5044HM9DWH3ZBNCBA5B0: you-must-complete-adult-verification-on-the-xbox-homepage-error
   h_01HT36E56S1HT2S0FBSJ566YJY: resolving-minecraft-launcherdll-error
+  h_01HZJ736AQ23BMSVTWYJG1NK4D: security-update-available
 ---
 
-If you are trying to play Minecraft through the Minecraft Launcher on PC but are running into an error code, this article will go over various error codes and how to fix them. For more troubleshooting solutions in the Minecraft Launcher, please visit the [Minecraft Launcher Troubleshooting hub](./Minecraft-Launcher-Support.md).
+If you are trying to play Minecraft through the Minecraft Launcher on PC but are running into an error code, this article will go over various error codes and how to fix them. For more troubleshooting solutions in the Minecraft Launcher, please visit [Minecraft Launcher Support](./Minecraft-Launcher-Support.md).
 
 # In This Article:
 
@@ -45,8 +45,9 @@ If you are trying to play Minecraft through the Minecraft Launcher on PC but are
 - [Error 0X80242020 after installing Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSF318T74CHXQ87F93YXN63)
 - [You must complete adult verification on the Xbox homepage error](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSF5044HM9DWH3ZBNCBA5B0)
 - [Launcher.dll Error](#resolving-minecraft-launcherdll-error)
+- [Security update available](#security-update-available)
 
-## Java Profile Creation Failed Error
+Java Profile Creation Failed Error
 
 Ensure that you’re properly logged into the same account on both the Microsoft Store and in the Minecraft Launcher.
 
@@ -155,3 +156,7 @@ This error appears when the country/region set on your Xbox Live account is diff
 If you see a **launcher.dll: LoadErrorNotPresent** error message when you try to open the Minecraft: Java Edition launcher, it means a file is missing. 
 
 Manually update the Minecraft launcher. See [Minecraft: Java Edition Installation Issues](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md) for instructions.
+
+## Security update available
+
+You will receive this message if you are not using the most recent version of the Launcher software. We recommend you update your Minecraft Launcher to avoid any problems with data loss, lost worlds, or any other issues that may have been identified and fixed in the software update. Click the install button to start the update.
