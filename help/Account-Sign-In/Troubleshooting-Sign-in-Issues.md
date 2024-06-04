@@ -1,29 +1,32 @@
 ---
 title: Troubleshooting Sign-in Issues
 date: 2024-05-31T20:18:34Z
-updated: 2024-06-04T18:12:40Z
+updated: 2024-06-04T21:26:35Z
 categories: Account Sign-In
 tags:
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/27201635294861-Troubleshooting-Sign-in-Issues
 hash:
-  h_01HZ84SBXB37D7AEJV1P7DRV47: start-by-signing-into-the-xbox-app
+  h_01HZJJ2D7VZCB35XJ9E4C0QGWS: verify-your-account-owns-minecraft
+  h_01HZJJ4CFBCR07XTPWEYMQGN7S: sign-into-the-xbox-app
 ---
 
-If you are unable to sign into Minecraft, verify you are signing into the correct Microsoft account you purchased Minecraft with. You can confirm this by reviewing the purchase receipt for Minecraft matches your email you use to sign-in, or checking on your [Microsoft Account Page](https://account.microsoft.com/) that the game is shown as purchased with your account.
+You need a Microsoft Account to sign-in and play Minecraft games. See [Get Help with Your Minecraft Account](./Get-Help-with-Your-Minecraft-Account.md) to learn more about resetting your password and getting support for your Microsoft Account. If you still need help signing into Minecraft, here are some tips that may help.
 
-If you still need help signing in, follow these steps to help get you back into game.
+## Verify Your Account Owns Minecraft
 
-## Start by Signing into the Xbox App
+Verify you are signing into the Microsoft account you used to purchase Minecraft. Here are two ways you can check the email address you are using for your Microsoft Account is correct:
 
-1.  Download the free Xbox app from your mobile device’s app marketplace. 
+- **Purchase Confirmation Email**: Your purchase confirmation for Minecraft games is sent to the email address on your Microsoft account. Check that you are signing in with the email address where your purchase confirmation was sent.
+- **Microsoft Account Order History**: Sign into your [Microsoft Account Page](https://account.microsoft.com/) and verify that the Minecraft game you want to play is listed in your Order History
+
+## Sign into the Xbox App
+
+Signing into the Xbox app before signing into Minecraft can sometimes solve sign-in errors if you are certain, you are using the correct Microsoft account.
+
+1.  Download the free Xbox app from your mobile device’s app marketplace or get the [Xbox app for Windows PC](https://www.xbox.com/en-US/apps/xbox-app-for-pc).
 2.  Open the Xbox app. 
-3.  Sign into the account you want to play with. 
-4.  Try signing in again on your Xbox/PC/device.
+3.  Sign in using the Microsoft account that owns Minecraft. 
+4.  Launch Minecraft and try to sign in again on your Xbox/PC/device.
 
-   
-If you are still unable to sign in, view our article for [Information about changing or forgotten passwords](https://support.microsoft.com/en-us/account-billing/reset-a-forgotten-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37).
-
-**Important**: when you reach the Xbox account page, it will display your Xbox profile photo, Gamertag, and Microsoft email. Verify that the Microsoft account information shown here is correct. If the account information is incorrect, select the **Sign in with a different account** button. You will then be redirected to a Microsoft sign in page.
-
-Note: If the Microsoft account you sign in with does not have an Xbox profile set up, you will be prompted to set up an Xbox profile and Gamertag.
+Note: When you reach the Xbox account page, it will display your Xbox profile photo, Gamertag, and Microsoft email. Verify that the Microsoft account information shown here is correct. If the account information is incorrect, select the **Sign in with a different account** button. If you need to sign out of Minecraft sign back in, see [How to Sign Out of Minecraft](./How-to-Sign-Out-of-Minecraft.md).

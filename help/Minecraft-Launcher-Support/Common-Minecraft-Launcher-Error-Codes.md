@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launcher Error Codes & Messages
 date: 2024-01-22T20:56:52Z
-updated: 2024-06-04T18:13:43Z
+updated: 2024-06-04T18:54:14Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -159,4 +159,4 @@ Manually update the Minecraft launcher. See [Minecraft: Java Edition Installatio
 
 ## Security update available
 
-You will receive this message if you are not using the most recent version of the Launcher software. We recommend you update your Minecraft Launcher to avoid any problems with data loss, lost worlds, or any other issues that may have been identified and fixed in the software update. Click the install button to start the update.
+You will receive this message if you are not using the most recent version of the Launcher software. We recommend you update your Minecraft Launcher to avoid any problems with data loss, lost worlds, or any other issues that may have been identified and fixed in the software update. Click **Install** to start the update.
