@@ -1,8 +1,8 @@
 ---
 title: "Minecraft Legends Billing FAQ "
 date: 2023-04-14T18:22:07Z
-updated: 2023-04-18T15:14:28Z
-categories: Minecraft Legends Accounts & Billing
+updated: 2024-06-04T15:27:18Z
+categories: Minecraft Legends
 tags:
   - subject_cannot_find_purchase
   - subject_change_account_information
@@ -11,7 +11,7 @@ tags:
   - subject_microsoft_sign_in_questions
   - title_minecraft_legends
   - title_legends
-  - section_15283929326733
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14855092370061-Minecraft-Legends-Billing-FAQ
 hash:
   authorized-digital-sellers-of-minecraft-legends: authorized-digital-sellers-of-minecraftlegends
