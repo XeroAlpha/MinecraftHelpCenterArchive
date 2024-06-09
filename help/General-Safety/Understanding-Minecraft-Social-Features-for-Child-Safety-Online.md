@@ -47,4 +47,4 @@ It is helpful to know how to monitor your child’s behavior while playing Mi
 
 Swear words and inappropriate language sent via realms chat, server chat, signs, book and quills will be censored. Players can be playing from a variety of different platforms which may have an additional messaging system. PlayStation players can send and receive messages via PSN. Other platforms will require you to have an Xbox Live account which you can also use to send and receive messages.  
 
-See, [how to configure parental controls for Minecraft: Bedrock Edition](../Account-Settings/Additional-Minecraft-Bedrock-Edition-Parental-Controls-for-All-Platforms.md) for more information.
+See, [how to configure parental controls for Minecraft: Bedrock Edition](../Account-Settings/Minecraft-Bedrock-Edition-Parental-Controls-for-All-Platforms.md) for more information.

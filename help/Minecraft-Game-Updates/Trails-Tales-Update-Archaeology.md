@@ -2,7 +2,7 @@
 title: Trails & Tales Update – Archaeology
 date: 2023-06-06T20:46:41Z
 updated: 2023-09-14T21:32:03Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft

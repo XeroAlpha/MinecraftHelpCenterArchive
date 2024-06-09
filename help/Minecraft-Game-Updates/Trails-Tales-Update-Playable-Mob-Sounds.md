@@ -2,7 +2,7 @@
 title: Trails & Tales Update - Playable Mob Sounds
 date: 2023-06-06T21:41:59Z
 updated: 2023-09-14T21:35:21Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft

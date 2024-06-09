@@ -2,7 +2,7 @@
 title: Trails & Tales Update - The Sniffer
 date: 2023-06-06T21:45:13Z
 updated: 2023-09-21T19:50:31Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft

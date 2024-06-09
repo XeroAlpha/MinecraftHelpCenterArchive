@@ -2,11 +2,11 @@
 title: Minecraft Legends Marketplace FAQ
 date: 2023-04-12T19:55:03Z
 updated: 2023-04-18T15:18:53Z
-categories: Minecraft Legends Marketplace
+categories: Minecraft Legends
 tags:
   - title_minecraft_legends
   - title_legends
-  - section_14970444349069
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14790575702925-Minecraft-Legends-Marketplace-FAQ
 hash:
   section: ""

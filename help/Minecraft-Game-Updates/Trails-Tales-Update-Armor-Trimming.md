@@ -2,7 +2,7 @@
 title: Trails & Tales Update – Armor Trimming
 date: 2023-06-06T20:55:42Z
 updated: 2023-09-14T21:33:36Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft

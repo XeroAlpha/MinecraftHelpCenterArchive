@@ -2,11 +2,11 @@
 title: Minecraft Legends - November 2023 Update
 date: 2023-11-22T22:27:06Z
 updated: 2024-05-27T16:42:56Z
-categories: Minecraft Legends Patch Notes
+categories: Minecraft Legends
 tags:
   - title_minecraft_legends
   - title_legends
-  - section_15257946888973
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/21593079183117-Minecraft-Legends-November-2023-Update
 ---
 

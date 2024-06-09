@@ -34,4 +34,4 @@ If you’re having trouble with the Minecraft Launcher, refer to the resources b
 - [Troubleshooting Installing the Minecraft Launcher](./Troubleshooting-Installing-the-Minecraft-Launcher.md)
 - [Troubleshooting Launching Minecraft from the Minecraft Launcher](./Troubleshooting-Launching-Minecraft-from-the-Minecraft-Launcher.md)
 - [Troubleshooting Minecraft Launcher Startup and Login Issues](./Troubleshooting-Minecraft-Launcher-Startup-and-Login-Issues.md)
-- [Common Minecraft Launcher Error Codes](./Common-Minecraft-Launcher-Error-Codes.md)
+- [Common Minecraft Launcher Error Codes](./Minecraft-Launcher-Error-Codes-Messages.md)

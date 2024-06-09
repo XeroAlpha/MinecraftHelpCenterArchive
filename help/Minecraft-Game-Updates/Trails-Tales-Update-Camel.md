@@ -2,7 +2,7 @@
 title: Trails & Tales Update – Camel
 date: 2023-06-06T21:26:51Z
 updated: 2023-09-14T21:32:32Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft

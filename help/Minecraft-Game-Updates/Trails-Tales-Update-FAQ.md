@@ -2,7 +2,7 @@
 title: Trails & Tales Update FAQ
 date: 2023-06-06T20:41:55Z
 updated: 2023-06-07T15:22:06Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft

@@ -30,7 +30,7 @@ Here is the complete list of animal mobs in Minecraft that you can feed and what
 
 - Axolotl – Bucket of tropical fish
 - Bee – Any flower
-- [Camel](../Trails-Tales-Update/Trails-Tales-Update-Camel.md) - Cactus
+- [Camel](../Minecraft-Game-Updates/Trails-Tales-Update-Camel.md) - Cactus
 - Cat/Ocelot – Raw cod, raw salmon
 - Chicken – Beetroot seed, pumpkin seed, melon seed, wheat seed, torchflower seed, pitcher pod
 - Cow/Mooshroom – Wheat
@@ -47,7 +47,7 @@ Here is the complete list of animal mobs in Minecraft that you can feed and what
 - Rabbit – Carrot, dandelion, golden carrot
 - Sheep – Wheat
   - Sheep will also eat the top of Grass blocks that are placed in the world
-- [Sniffer](../Trails-Tales-Update/Trails-Tales-Update-The-Sniffer.md) – Torchflower seeds
+- [Sniffer](../Minecraft-Game-Updates/Trails-Tales-Update-The-Sniffer.md) – Torchflower seeds
 - Strider – Warped fungus
 - Turtle - Seagrass
 - Wolf

@@ -2,7 +2,7 @@
 title: Trails & Tales Update – Hanging Signs
 date: 2023-06-06T21:35:23Z
 updated: 2023-09-14T21:36:19Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft

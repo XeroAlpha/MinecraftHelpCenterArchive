@@ -2,7 +2,7 @@
 title: "Minecraft Legends – Redeeming a Pre-Paid Card or Gift Code "
 date: 2023-03-27T22:52:05Z
 updated: 2023-04-18T20:40:45Z
-categories: Minecraft Legends Accounts & Billing
+categories: Minecraft Legends
 tags:
   - platform_xbox_one
   - platform_windows_10
@@ -17,7 +17,7 @@ tags:
   - platform_windows_11
   - platform_windows_10/11
   - platform_sony_playstation_5
-  - section_15283929326733
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14363631092365-Minecraft-Legends-Redeeming-a-Pre-Paid-Card-or-Gift-Code
 hash:
   redeeming-minecraft-legends-on-pc-launcher-version: redeeming-minecraft-legends-onpc-launcher-version

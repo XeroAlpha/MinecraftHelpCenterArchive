@@ -2,11 +2,11 @@
 title: Where to Play Minecraft Legends
 date: 2023-04-11T16:26:20Z
 updated: 2024-05-30T16:00:59Z
-categories: Minecraft Legends Technical
+categories: Minecraft Legends
 tags:
   - title_minecraft_legends
   - title_legends
-  - section_14859582819853
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14745297123725-Where-to-Play-Minecraft-Legends
 ---
 

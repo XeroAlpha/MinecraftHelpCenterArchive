@@ -2,7 +2,7 @@
 title: Trails & Tales Update – New Plants
 date: 2023-06-06T21:37:58Z
 updated: 2023-06-07T15:22:55Z
-categories: Trails & Tales Update
+categories: Minecraft Game Updates
 tags:
   - title_minecraft_java_edition
   - title_minecraft
