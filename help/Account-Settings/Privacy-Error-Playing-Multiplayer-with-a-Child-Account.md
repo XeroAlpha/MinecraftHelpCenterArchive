@@ -1,7 +1,7 @@
 ---
 title: Privacy Error Playing Multiplayer with a Child Account
 date: 2020-04-22T23:12:57Z
-updated: 2024-05-31T21:35:36Z
+updated: 2024-06-10T17:22:31Z
 categories: Account Settings
 tags:
   - title_minecraft_java_edition
@@ -25,14 +25,12 @@ hash:
   h_01HZ859JZDHV0C7JXSAM162S4V: required-online-subscriptions-for-consoles
 ---
 
-If you are playing Minecraft signed in with a child account and receive the error “You cannot play online multiplayer because of how your Microsoft account is setup,” the adult Family Account owner will need to review and change your privacy settings to join multiplayer games or Realms.
-
-See [Managing Multiplayer Game Access For A Child Account In Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) for more information.
+If you are playing Minecraft signed in with a child account on a gaming console and receive the error “You cannot play online multiplayer because of how your Microsoft account is setup,” the adult Family Account owner should start by confirming your Online Subscription for your console is active.
 
 ### Required Online Subscriptions for Consoles
-
-Game consoles also require a multiplayer subscription for online gaming. Find out more here:
 
 - [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass)
 - [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/)
 - [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/)
+
+If you still receive this error or are not playing on a console, review and change your privacy settings to join multiplayer games or Realms by visiting [Managing Multiplayer Game Access For A Child Account In Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
