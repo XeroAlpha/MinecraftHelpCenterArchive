@@ -1,10 +1,10 @@
 ---
 title: Accessibility Settings for Minecraft Dungeons
 date: 2021-05-18T19:36:27Z
-updated: 2023-01-23T17:24:11Z
-categories: Accessibility Settings for Minecraft and Other Minecraft Games
+updated: 2024-06-12T17:19:10Z
+categories: Accessibility
 tags:
-  - section_12618985151885
+  - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons
 hash:
   h_01GD3VSWJQYKA0X0P5DE2S5AW8: accessibility-settings

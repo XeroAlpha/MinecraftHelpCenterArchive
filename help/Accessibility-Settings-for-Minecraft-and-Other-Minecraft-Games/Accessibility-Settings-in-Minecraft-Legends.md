@@ -1,11 +1,11 @@
 ---
 title: Accessibility Settings in Minecraft Legends 
 date: 2023-04-11T16:22:26Z
-updated: 2023-04-18T15:14:21Z
-categories: Accessibility Settings for Minecraft and Other Minecraft Games
+updated: 2024-06-12T17:18:29Z
+categories: Accessibility
 tags:
   - title_minecraft_legends
-  - section_12618985151885
+  - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/14745168206733-Accessibility-Settings-in-Minecraft-Legends
 ---
 
