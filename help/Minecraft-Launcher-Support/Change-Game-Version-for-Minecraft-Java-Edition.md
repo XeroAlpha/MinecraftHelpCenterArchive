@@ -1,7 +1,7 @@
 ---
-title: "Change Game Version for Minecraft: Java Edition"
+title: "How to Change Game Version for Minecraft: Java Edition"
 date: 2019-10-13T23:33:49Z
-updated: 2022-11-11T21:39:24Z
+updated: 2024-06-13T19:52:27Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -13,12 +13,10 @@ tags:
   - platform_macos
   - platform_pc
   - section_27166539479437
-link: https://help.minecraft.net/hc/en-us/articles/360034754852-Change-Game-Version-for-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/360034754852-How-to-Change-Game-Version-for-Minecraft-Java-Edition
+hash:
+  h_01J09JBVVAPNQ33HFZZ8A3YNPT: change-the-game-version
 ---
-
-*This article does not apply to other Minecraft versions.* 
-
-This article details how to change your game version for Minecraft: Java Edition.
 
 By default, Minecraft is set to the most current version of the game. Changing the version requires creating a launcher configuration with the desired version and then set the game to use that configuration.   
    
@@ -26,7 +24,8 @@ By default, Minecraft is set to the most current version of the game. Changing 
 
 ## Change the game version 
 
-1.  Click **Installations** on the launcher start page, and then click **New.** 
-2.  In the **Create new installation** box, select a name for the installation and choose the game version from the **VERSION **list. 
-3.  Click **Create** to save the change, and then click **Play** on the top menu. 
-4.  On the launcher landing page, find your saved installation in the list and click it to change to that version of the game.
+1.  Click **Installations** on the launcher start page.
+2.  Click **New.** 
+3.  In the **Create new installation** box, select a name for the installation and choose the game version from the **VERSION **list. 
+4.  Click **Create** to save the change, and then click **Play** on the top menu. 
+5.  On the launcher landing page, find your saved installation in the list and click it to change to that version of the game.
