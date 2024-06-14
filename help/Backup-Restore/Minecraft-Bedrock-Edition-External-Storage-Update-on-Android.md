@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Bedrock Edition External Storage Update on Android"
+title: I Can’t Find my Minecraft World on Android
 date: 2021-11-19T22:40:09Z
-updated: 2024-05-22T15:59:26Z
+updated: 2024-06-14T21:32:52Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -10,24 +10,31 @@ tags:
   - subject_downloads_and_installations
   - platform_android
   - section_27166561402125
-link: https://help.minecraft.net/hc/en-us/articles/4414144725389-Minecraft-Bedrock-Edition-External-Storage-Update-on-Android
+link: https://help.minecraft.net/hc/en-us/articles/4414144725389-I-Can-t-Find-my-Minecraft-World-on-Android
 hash:
-  h_01HYGG9WQS2EZ2RN96RMCVNW71: cleaner-applications
-  h_01HYGG9WQSY6R3AGEED4157QMQ: uninstalling-minecraft-bedrock-edition
+  h_01J0CAJ0EDT7768TQV3Y7CBSFX: move-your-worlds-directly-to-their-new-location
+  h_01J0CAKGS2WN7DQGCTKR9P16BV: information-about-android-cleaner-applications
 ---
 
-Minecraft: Bedrock Edition on Android is required to update the location used for external storage of your data. There are some important effects of this change that Android players should consider when choosing to use External Storage with Minecraft: Bedrock Edition!
+If you play Minecraft on an Android device, you may notice that your world saves are handled a little differently than on other platforms if you use external storage. If you update your version or create a new installation, you may be prompted to migrate your data. If you find yourself without access to your worlds files in external storage, follow the instructions below.
 
-As of the Caves and Cliffs Part 2 update, users who have selected External Storage in their Profile settings will be prompted to migrate their data when they first launch Minecraft: Bedrock Edition. This is a one-time migration of your data and worlds from the existing external storage location to the new location.
+## Move your worlds directly to their new location
 
-## Cleaner Applications
+If your world is not in the proper folder, you can try moving it. Visit [How to Locate Minecraft World Files on Mobile](./How-to-Locate-Minecraft-World-Files-on-Mobile.md) for steps on finding the location of your world. To move files:
 
-A small number of Android devices ship with a “cleaner” application or may have one manually installed by the device user. Cleaner applications attempt to improve device performance by regularly terminating processes and deleting files. By default, some devices may schedule this cleaning to occur overnight, in the background, without user interaction.
+1.  Make sure you have started Minecraft on the device at least once and viewed the **Play** page so the proper folder has been created.
+2.  Find your saved worlds. They may potentially be located at the old world directory **/games/com.mojang/minecraftWorlds**.
+3.  Copy the contents.
+4.  Now navigate to the NEW minecraftWorlds directory **/Android/com.mojang.minecraftpe/files/games/com.mojang/minecraftWorlds**.
+5.  Paste the copied folders.
+6.  Launch Minecraft on your device and the worlds should now be available.
 
-These applications may mistakenly delete files migrated by Minecraft: Bedrock Edition on Android, causing the newly migrated worlds to be destroyed. This will destroy any gameplay progress in the migrated world and restart the migration process on the next launch. The Android operating system has built-in resource management, and cleaner applications may cause stability and performance problems with Minecraft.
+## Information about Android Cleaner Applications
 
-**If you have a cleaner application installed on your device**, it is recommended that you do one of the following: remove the application, prevent it from cleaning files, or create an exception for Minecraft: Bedrock Edition so that files are not deleted.
+Android cleaner applications attempt to improve device performance by regularly terminating processes and deleting files. By default, some devices may schedule this cleaning to occur overnight, in the background, without user interaction.
 
-## Uninstalling Minecraft: Bedrock Edition
+These applications may mistakenly delete files migrated by Minecraft: Bedrock Edition on Android, causing the newly migrated worlds to be destroyed. If this happens, your world cannot be recovered unless you had made a back-up prior to its deletion.
 
-Uninstalling Minecraft will now delete all data associated with Minecraft: Bedrock Edition, including your worlds. On some devices running Android 10 and above, you may be presented with an option to keep your data when uninstalling. If you receive this prompt, we recommend that you select this option to preserve your worlds. Please note that not all devices running Android 10 and above are guaranteed to show this prompt. We recommend that you perform full backups of your phone’s data frequently to avoid unexpected data loss.
+If you have a cleaner application installed on your device, it is recommended that you do one of the following: remove the application, prevent it from cleaning files, or create an exception for Minecraft: Bedrock Edition so that files are not deleted.
+
+If you have your world and would like to move it to a different device, see [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](./How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).

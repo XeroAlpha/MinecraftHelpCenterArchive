@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-02-20T18:47:13Z
+updated: 2024-06-14T21:38:16Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -22,7 +22,7 @@ tags:
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
 hash:
-  h_01HQ3XERRAF21NFDXA247P6H7C: common-error-codes
+  h_01HQ3XERRAF21NFDXA247P6H7C: error-codes-you-may-encounter-while-playing
   h_01HQ3XERRAKBJN83958BFWE3NK: bat
   h_01HQ3XERRAWSW2CD6AV0DNY7PZ: cauldron
   h_01HQ3XERRAR3362H8721XPTWA1: cobblestone
@@ -46,7 +46,7 @@ hash:
 *This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition.  
 *
 
-## Common Error Codes** **
+## Error codes you may encounter while playing** **
 
 ### Bat:
 

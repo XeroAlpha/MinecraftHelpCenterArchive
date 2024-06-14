@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Achievements"
 date: 2021-09-14T21:36:49Z
-updated: 2024-05-22T17:41:24Z
+updated: 2024-06-14T20:24:12Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - platform_windows_10
@@ -13,7 +13,6 @@ tags:
   - platform_sony_playstation_5
 link: https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements
 hash:
-  h_01HHFWCY1QN9X9VSGSDDAG1H45: in-this-article
   h_01HHFWD6T5XN8M7V9K2H1BBZ51: what-are-achievements
   01HHFWF5Q280FW3SFJDQEKZKTT: where-can-i-earn-achievements
   h_01HHFWDTZ6HF3XDVEW8361XXW0: can-i-turn-achievements-on-or-off-in-realms
@@ -21,13 +20,6 @@ hash:
 ---
 
 This article covers information about achievements you can earn in Minecraft: Bedrock Edition.
-
-# In This Article:
-
-- [What are achievements?](#what-are-achievements)
-- [Where can I earn achievements?](#where-can-i-earn-achievements)
-- [Can I turn achievements on or off in Realms?](#can-i-turn-achievements-on-or-off-in-realms)
-- [My achievements are not unlocking](#my-achievements-are-not-unlocking)
 
 ## What are achievements?
 
