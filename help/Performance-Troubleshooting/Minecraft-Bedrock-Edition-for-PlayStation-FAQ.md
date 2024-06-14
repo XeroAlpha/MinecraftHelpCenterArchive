@@ -1,7 +1,7 @@
 ---
-title: How to Link a Microsoft Account to your PlayStation Account in Minecraft
+title: "How to Link and Unlink Microsoft and PlayStation Accounts in Minecraft: Bedrock Edition"
 date: 2019-12-10T03:08:37Z
-updated: 2024-06-13T19:40:26Z
+updated: 2024-06-13T22:30:22Z
 categories: Performance & Troubleshooting
 tags:
   - subject_progress_and_saved_games
@@ -14,14 +14,14 @@ tags:
   - subject_sign_in_questions
   - platform_sony_playstation_4
   - section_27166432886285
-link: https://help.minecraft.net/hc/en-us/articles/360037725571-How-to-Link-a-Microsoft-Account-to-your-PlayStation-Account-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/360037725571-How-to-Link-and-Unlink-Microsoft-and-PlayStation-Accounts-in-Minecraft-Bedrock-Edition
 hash:
   h_01J09GJPAEXMFKTH8TX46GE84B: how-to-connect-your-microsoft-account-to-playstation-in-minecraft-bedrock-edition
   h_01J09GNBVMGEFW65BEX963NKQQ: unlinking-accounts
   h_01J09GNJ8EVF38DHRAYT6KWSRR: how-to-unlink-your-microsoft-account-in-minecraft-on-playstation
 ---
 
-If you want to play on Realms or with friends on different platforms in Minecraft on PlayStation, you will need to link a Microsoft account. Here is how to do that.
+If you want to play with friends on different platforms or join Realms on Minecraft for PlayStation, you will need to link a Microsoft account to your PlayStation account. Here is how to do that.
 
 ### How to connect your Microsoft account to PlayStation in Minecraft: Bedrock Edition
 
@@ -37,7 +37,7 @@ After your Microsoft account has been signed in, you will be able to access your
 
 ## Unlinking Accounts
 
-You can link and unlink accounts at any time. Marketplace purchases made with a Microsoft account stay with that account. You will have access to marketplace items on your PlayStation while the accounts are linked. If you decide to disconnect your Microsoft account from your PlayStation account, all entitlements to Marketplace content will remain with the Microsoft account and will no longer be accessible on PlayStation. Marketplace purchases also cannot be transferred between accounts.
+You can link and unlink accounts at any time. Marketplace purchases made with a Microsoft account stay with that account. If you decide to disconnect your Microsoft account from your PlayStation account, all entitlements to Marketplace content will remain with the Microsoft account and will no longer be accessible on PlayStation. Marketplace purchases also cannot be transferred between accounts.
 
 ### How to unlink your Microsoft account in Minecraft on PlayStation
 

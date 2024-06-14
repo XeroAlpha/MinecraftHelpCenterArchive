@@ -1,7 +1,7 @@
 ---
 title: How to Install Minecraft Preview
 date: 2022-01-31T18:12:02Z
-updated: 2024-03-29T18:07:40Z
+updated: 2024-06-14T00:26:46Z
 categories: Download & Install
 tags:
   - title_minecraft

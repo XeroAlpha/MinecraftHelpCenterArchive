@@ -1,13 +1,13 @@
 ---
-title: Do Minecraft Legends Marketplace Purchases Carry Over into Bedrock?
+title: "Difference Between Minecraft Legends and Minecraft: Bedrock Edition Purchases"
 date: 2023-04-12T19:55:03Z
-updated: 2024-06-13T20:12:41Z
+updated: 2024-06-13T23:37:23Z
 categories: Minecraft Legends
 tags:
   - title_minecraft_legends
   - title_legends
   - section_27286537389453
-link: https://help.minecraft.net/hc/en-us/articles/14790575702925-Do-Minecraft-Legends-Marketplace-Purchases-Carry-Over-into-Bedrock
+link: https://help.minecraft.net/hc/en-us/articles/14790575702925-Difference-Between-Minecraft-Legends-and-Minecraft-Bedrock-Edition-Purchases
 ---
 
 If you have hopped into Minecraft Legends, you will notice that there is a Marketplace, similar to what you would see in Minecraft: Bedrock Edition. You may be wondering if there are any similarities between them?
