@@ -121,7 +121,7 @@ This means you’ve encountered an unknown client error during sign-in.
 
 The wrong Microsoft/Xbox account is being used to sign into the current PlayStation Network account.
 
-- The PlayStation and Microsoft account link is permanent and cannot be associated with other accounts. For more information, please see our FAQ: [Minecraft for PlayStation®](./Minecraft-Bedrock-Edition-for-PlayStation-FAQ.md)
+- The PlayStation and Microsoft account link is permanent and cannot be associated with other accounts. For more information, please see our FAQ: [Minecraft for PlayStation®](./How-to-Link-and-Unlink-Microsoft-and-PlayStation-Accounts-in-Minecraft-Bedrock-Edition.md)
 
 ### Terracotta:
 

@@ -49,7 +49,7 @@ From the Friends tab on the Play screen in Minecraft: Bedrock Edition, you can v
 4.  Select **Manage Realms membership invites**.
 5.  Accept the invite to the Realm you want to join.
 
-After you accept a Realm invite, it will be available for you to join. Make sure that you have the [latest public release of the game](../Download-Install/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md#how-to-manually-update-minecraft-bedrock-edition).
+After you accept a Realm invite, it will be available for you to join. Make sure that you have the [latest public release of the game](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md#h_01FFGQHMP7SE5T5JQHB3068226).
 
 ## Trouble accepting invites or joining Realms
 

@@ -26,7 +26,7 @@ link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshooting
 
 Here are some suggestions to help you fix issues joining multiplayer worlds in Minecraft.
 
-- If using a child account, visit [I’m Getting an Error When Trying to Play Minecraft with a Child Account](../Account-Settings/Privacy-Error-Playing-Multiplayer-with-a-Child-Account.md)
+- If using a child account, visit [I’m Getting an Error When Trying to Play Minecraft with a Child Account](../Account-Settings/I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account.md)
 - Make sure **Multiplayer Game **is toggled on in the **Multiplayer** tab in the world's settings
 - Restart your device
 - Try connecting to another network connection if possible

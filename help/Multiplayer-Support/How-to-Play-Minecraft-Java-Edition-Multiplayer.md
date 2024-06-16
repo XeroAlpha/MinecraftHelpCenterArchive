@@ -28,7 +28,7 @@ When playing Minecraft, you can play a single-player or multiplayer game. If you
 
 When playing Minecraft: Java Edition, a player's game version must be the same as the server version to play on that server, whether it's LAN or hosted online. You can see your game version number at the bottom of your main menu. 
 
-For more information, see [Change Game Versions.](../Minecraft-Launcher-Support/Change-Game-Version-for-Minecraft-Java-Edition.md)
+For more information, see [Change Game Versions.](../Minecraft-Launcher-Support/How-to-Change-Game-Version-for-Minecraft-Java-Edition.md)
 
 ## Playing on a Local Area Network (LAN) 
 

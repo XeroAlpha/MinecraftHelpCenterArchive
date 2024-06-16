@@ -50,7 +50,7 @@ As of December 18, 2023, the migration of Mojang accounts to Microsoft accounts 
 
 ## Technical Support
 
-For any questions regarding Minecraft servers being down, crossplay not working, or various bugs, please contact Minecraft Support. You can also check [the Mojang Status X account](https://twitter.com/MojangStatus) or view the [Mojang Bug Tracker Guidelines and FAQ](../Mojang-Bug-Tracker/Mojang-Bug-Tracker-Guidelines-and-FAQ.md).
+For any questions regarding Minecraft servers being down, crossplay not working, or various bugs, please contact Minecraft Support. You can also check [the Mojang Status X account](https://twitter.com/MojangStatus) or view the [Mojang Bug Tracker Guidelines and FAQ](./Mojang-Bug-Tracker-Guidelines-and-FAQ.md).
 
 ## Minecraft Realms subscription and Marketplace concerns
 

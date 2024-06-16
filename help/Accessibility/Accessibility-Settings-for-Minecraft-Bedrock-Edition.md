@@ -2,7 +2,7 @@
 title: "Accessibility Settings for Minecraft: Bedrock Edition"
 date: 2021-05-18T17:42:17Z
 updated: 2023-07-24T19:30:45Z
-categories: Accessibility Settings for Minecraft and Other Minecraft Games
+categories: Accessibility
 tags:
   - title_minecraft
   - category_technical_support
@@ -15,7 +15,7 @@ tags:
   - platform_sony_playstation_4
   - platform_kindle_fire
   - platform_oculus
-  - section_12618985151885
+  - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition
 hash:
   h_01GDKH9PQ7WEFEWXJJ0DVYE16X: minecraft-bedrock-edition-accessibility-menu

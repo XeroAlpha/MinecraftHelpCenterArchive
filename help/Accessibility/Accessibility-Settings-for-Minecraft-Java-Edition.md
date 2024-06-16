@@ -2,9 +2,9 @@
 title: "Accessibility Settings for Minecraft: Java Edition "
 date: 2021-05-18T20:23:52Z
 updated: 2023-06-15T17:20:07Z
-categories: Accessibility Settings for Minecraft and Other Minecraft Games
+categories: Accessibility
 tags:
-  - section_12618985151885
+  - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/360061018612-Accessibility-Settings-for-Minecraft-Java-Edition
 hash:
   h_01GD3TMQAHBGGD74J5HJRHZJ9Y: minecraft-accessibility-menu

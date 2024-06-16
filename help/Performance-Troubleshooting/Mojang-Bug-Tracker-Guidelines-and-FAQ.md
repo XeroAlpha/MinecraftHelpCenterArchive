@@ -2,9 +2,9 @@
 title: Mojang Bug Tracker Guidelines and FAQ
 date: 2021-09-09T22:04:45Z
 updated: 2024-01-17T15:28:42Z
-categories: Mojang Bug Tracker
+categories: Performance & Troubleshooting
 tags:
-  - section_12619044068621
+  - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/4408887473421-Mojang-Bug-Tracker-Guidelines-and-FAQ
 hash:
   h_01HB9PPC7HN0M0PDVN694XV818: in-this-article

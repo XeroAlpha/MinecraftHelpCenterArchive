@@ -28,7 +28,7 @@ It's time for another Caves & Cliffs Beta! As always, please send your feedback 
 
 **Reminder:** We are still tweaking world generation and features may change, please remember **make regular backup copies** of your favourite worlds!
 
-**Android Players:** If you cannot see your worlds, please see [this article](../../help/Backup-Restore/Minecraft-Bedrock-Edition-Worlds-Lost-When-Using-External-Storage-on-Android-Devices.md) on how to retrieve them.
+**Android Players:** If you cannot see your worlds, please see [this article](https://help.minecraft.net/hc/en-us/articles/4411299967629) on how to retrieve them.
 
  
 

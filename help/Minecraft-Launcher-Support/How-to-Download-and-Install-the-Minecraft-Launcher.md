@@ -43,4 +43,4 @@ Once the app has installed, you can open it and sign into your Microsoft account
 For issues related to installing Minecraft: Java or Bedrock Edition, see the below pages.
 
 - [Minecraft: Java Edition Installation Issues FAQ \| Minecraft Help](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md)
-- [Minecraft: Bedrock Edition Installation Issues FAQ \| Minecraft Help](../Download-Install/Minecraft-Bedrock-Edition-Installation-Issues-FAQ.md)
+- [Minecraft: Bedrock Edition Installation Issues FAQ \| Minecraft Help](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md)
