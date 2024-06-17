@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Achievements"
 date: 2021-09-14T21:36:49Z
-updated: 2024-06-14T20:24:12Z
+updated: 2024-06-17T15:16:43Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - platform_windows_10
@@ -45,4 +45,16 @@ Players may occasionally find that when they reach an objective, the achievement
 - If possible, reattempt the feat that gained you the achievement.
 - Back up your save data and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
 
-If you still need assistance, please contact [Minecraft Support](https://aka.ms/Minecraft-Support).
+If playing on PC, you can also check to make sure your Xbox services are live. Follow these steps:
+
+1.  Press the **Windows key** + **R** simultaneously.
+2.  Type **services.msc**.
+3.  Press **Ok**.
+4.  Find the following services in the list:
+    - **Connected User Experiences and Telemetry**
+    - **Xbox Live Auth Manager**
+    - **Xbox Live Networking Service**
+5.  If any of the above say something under their status besides **Running**, double-click them.
+6.  Select **Automatic** under **Startup type**.
+7.  Press **Apply** then **Ok**.
+8.  Select **Start the service** on each of the services that are not running.
