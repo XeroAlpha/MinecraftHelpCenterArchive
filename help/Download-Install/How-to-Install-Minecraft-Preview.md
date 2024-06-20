@@ -1,7 +1,7 @@
 ---
 title: How to Install Minecraft Preview
 date: 2022-01-31T18:12:02Z
-updated: 2024-06-14T00:26:46Z
+updated: 2024-06-20T16:27:36Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -54,7 +54,7 @@ Spots are limited, so if it is currently full, please check back later – we fr
 1.  Start Minecraft.
 2.  Open **Settings**.
 3.  Select **Preview** at the bottom of the sidebar.
-4.  Click **Get “PlayStation 4” Preview**.
+4.  Click **Get “PlayStation 4”** or **PlayStation 5** **Preview**.
 5.  Select **Download**.
 
 ### Windows 10 and up
