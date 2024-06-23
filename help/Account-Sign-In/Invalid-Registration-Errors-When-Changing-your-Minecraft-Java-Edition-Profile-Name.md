@@ -26,4 +26,4 @@ When changing your Java Profile name, you may see this error: *IllegalArgumentEx
 
 This error occurs when a registered account already exists with the Java profile name you have selected. Normally the site will tell you the Java profile name is already taken, but in some instances, this error will show instead. You will need to select a new Java profile name and try again. 
 
-You can get more help in our article for [How to Change Your In-Game Profile Name](../Account-Settings/How-To-Change-Your-In-Game-Profile-Name.md).
+You can get more help in our article for [How to Change Your In-Game Profile Name](../Account-Settings/How-To-Change-Your-In-Game-Profile-Name-in-Minecraft.md).

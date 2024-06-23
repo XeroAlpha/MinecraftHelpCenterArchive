@@ -26,11 +26,11 @@ If you have used skins or a player name that does not comply with the [Minecraft
 If your username or gamertag violates the community standards, see these resources to make an update:
 
 - **Java Edition User Name:** Sign into your Microsoft account at the [Change Profile Name page on Minecraft.net](https://www.minecraft.net/en-us/msaprofile/mygames/editprofile). You can change your name once every 30 days, so choose your new name wisely.
-- **Bedrock Edition Gamertag:** See [How to Change Your Gamertag](../Account-Settings/How-to-Change-Your-Gamertag.md).
+- **Bedrock Edition Gamertag:** See [How to Change Your Gamertag](https://help.minecraft.net/hc/en-us/articles/360058974711).
 
 ## Change character skins in Minecraft
 
 If your account was banned because of your character's appearance, see these articles to make a change: 
 
-- **Java Edition Skin:** See [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Marketplace/How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition.md).
+- **Java Edition Skin:** See [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Java-Edition-Guides/How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition.md).
 - **Bedrock Edition Skin:** See [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Minecraft-Marketplace/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md).
