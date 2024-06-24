@@ -1,7 +1,7 @@
 ---
-title: Minecraft - List of Enchantments
+title: All Enchantments in Minecraft
 date: 2021-03-29T21:10:20Z
-updated: 2023-10-13T18:49:12Z
+updated: 2024-06-24T19:39:25Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - title_minecraft_java_edition
@@ -21,7 +21,7 @@ tags:
   - platform_other
   - platform_pc
   - section_12618581961357
-link: https://help.minecraft.net/hc/en-us/articles/360058730912-Minecraft-List-of-Enchantments
+link: https://help.minecraft.net/hc/en-us/articles/360058730912-All-Enchantments-in-Minecraft
 hash:
   h_01HCN5XRYYCPHQS3EQDEFK2HPP: all-purpose
   h_01HCN5XRYYGYS0WT5K1WK65WT6: armor

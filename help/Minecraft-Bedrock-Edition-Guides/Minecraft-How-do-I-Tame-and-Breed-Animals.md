@@ -1,7 +1,7 @@
 ---
-title: Minecraft - How do I Tame and Breed Animals?
+title: How do I Tame and Breed Animals in Minecraft?
 date: 2020-07-16T18:23:31Z
-updated: 2023-11-13T19:22:51Z
+updated: 2024-06-24T19:41:20Z
 categories: "Minecraft: Bedrock Edition Guides"
 tags:
   - title_minecraft_java_edition
@@ -20,9 +20,8 @@ tags:
   - platform_oculus
   - platform_pc
   - section_12618581961357
-link: https://help.minecraft.net/hc/en-us/articles/360046353891-Minecraft-How-do-I-Tame-and-Breed-Animals
+link: https://help.minecraft.net/hc/en-us/articles/360046353891-How-do-I-Tame-and-Breed-Animals-in-Minecraft
 hash:
-  h_01HF4Z7ZRS7QQZZ445F04FD437: in-this-article
   h_01HA574T5ZAVBGB6VJNJQC0WAM: taming
   h_01HA57RX715YW2GKMTC988CGYG: wolf
   h_01HA57T1S8ZSNGKHT632RPEQ3J: cat
@@ -31,16 +30,6 @@ hash:
   h_01HA59ECW92HYXS834H66GZYED: parrots
   h_01HA574T5Z8PY6FZG5RSYJT9F9: breeding
 ---
-
-# In This Article:
-
-- [Taming](#taming)
-  - [Wolf](#wolf)
-  - [Cat](#cat)
-  - [Horses, Donkeys, and Mules](#horses-donkeys-and-mules)
-  - [Llamas](#llamas)
-  - [Parrots](#parrots)
-- [Breeding](#breeding)
 
 Have you ever been walking around the Overworld with food in your hand and notice that a nearby animal mob is following and staring at you? That little guy would like a snack but using that food will allow you to tame and breed various animals. Here is a breakdown on how taming and breeding animals work in Minecraft.
 
