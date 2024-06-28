@@ -1,8 +1,8 @@
 ---
 title: "Minecraft - Getting Started with Redstone "
 date: 2020-07-16T23:12:58Z
-updated: 2023-01-23T17:25:09Z
-categories: "Minecraft: Bedrock Edition Guides"
+updated: 2024-06-28T19:45:34Z
+categories: Minecraft Game Guides
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -19,7 +19,7 @@ tags:
   - platform_kindle_fire
   - platform_oculus
   - platform_pc
-  - section_12618581961357
+  - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360045950932-Minecraft-Getting-Started-with-Redstone
 ---
 

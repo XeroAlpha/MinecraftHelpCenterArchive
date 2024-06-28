@@ -1,12 +1,12 @@
 ---
 title: "Minecraft: Bedrock Edition in Virtual Reality"
 date: 2021-03-08T18:47:55Z
-updated: 2024-05-22T17:53:15Z
-categories: "Minecraft: Bedrock Edition Guides"
+updated: 2024-06-28T20:04:26Z
+categories: Minecraft Game Guides
 tags:
   - title_minecraft
   - platform_oculus
-  - section_12618581961357
+  - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360057619052-Minecraft-Bedrock-Edition-in-Virtual-Reality
 hash:
   h_01HPQ3RWYP6MW05QP53PQKPRAV: launching-minecraft-bedrock-edition-in-vr
@@ -50,8 +50,6 @@ If you are unable to launch Minecraft: Bedrock Edition from your VR headset's ga
 5.  Click ‘Finish’ and your Minecraft: Bedrock Edition VR shortcut has been created! 
 
 To use this shortcut, make sure your VR headset is plugged into your computer and powered on. Clicking the shortcut you just made will launch Minecraft: Bedrock Edition in your VR headset instead of on your computer.
-
- 
 
 ## Enhanced Options for VR
 

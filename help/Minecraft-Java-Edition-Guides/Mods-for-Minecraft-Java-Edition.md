@@ -1,8 +1,8 @@
 ---
-title: "Mods for Minecraft: Java Edition "
+title: "Mods for Minecraft: Java Edition"
 date: 2021-09-13T18:38:46Z
-updated: 2023-07-24T18:09:49Z
-categories: "Minecraft: Java Edition Guides"
+updated: 2024-06-28T20:06:34Z
+categories: Community Guidelines
 tags:
   - title_minecraft_java_edition
   - category_technical_support
@@ -12,7 +12,7 @@ tags:
   - platform_macos
   - platform_pc
   - platform_PC
-  - section_12618583497869
+  - section_27983753055117
 link: https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Can I use Minecraft Music in My Videos and Streams?
 date: 2023-12-05T23:17:45Z
-updated: 2023-12-06T16:00:00Z
-categories: Community Guides
+updated: 2024-06-28T20:28:43Z
+categories: Community Guidelines
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -19,9 +19,9 @@ tags:
   - platform_other
   - platform_pc
   - title_minecraft_legends
-  - section_12618645881229
   - platform_chromebook
   - title_minecraft_java_bedrock_for_pc
+  - section_27983753055117
 link: https://help.minecraft.net/hc/en-us/articles/21984449056781-Can-I-use-Minecraft-Music-in-My-Videos-and-Streams
 hash:
   h_01HGY3RC25RYWEPSB9AKK2SR9G: has-anything-changed

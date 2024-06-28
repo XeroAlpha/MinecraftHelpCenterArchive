@@ -1,10 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Debug Menu"
 date: 2021-03-29T19:27:35Z
-updated: 2023-01-23T17:25:03Z
-categories: "Minecraft: Java Edition Guides"
+updated: 2024-06-28T20:18:51Z
+categories: Minecraft Game Guides
 tags:
-  - section_12618583497869
+  - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360059146051-Minecraft-Java-Edition-Debug-Menu
 ---
 

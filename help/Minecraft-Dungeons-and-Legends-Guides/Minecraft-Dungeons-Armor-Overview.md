@@ -1,10 +1,10 @@
 ---
 title: Minecraft Dungeons - Armor Overview
 date: 2021-04-08T17:15:21Z
-updated: 2023-01-23T17:24:13Z
-categories: Minecraft Dungeons and Legends Guides
+updated: 2024-06-28T20:25:21Z
+categories: Dungeons & Legends Game Guides
 tags:
-  - section_12618602222733
+  - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/360059602491-Minecraft-Dungeons-Armor-Overview
 ---
 
@@ -27,14 +27,14 @@ Most armor has at least two or three attributes, this does not include enchantm
 <col style="width: 20%" />
 </colgroup>
 <tbody>
-<tr class="odd" aria-rowindex="1">
+<tr aria-rowindex="1">
 <td style="width: 140.667px" data-celllook="69905"><p><strong>Armor and Rarity</strong> </p></td>
 <td style="width: 74.6667px"><p><strong>Rarity</strong></p></td>
 <td style="width: 56.6667px" data-celllook="69905"><p><strong>Health</strong> </p></td>
 <td style="width: 64.6667px"><p><strong>Power</strong></p></td>
 <td style="width: 197.333px" data-celllook="69905"><p><strong>Traits</strong> </p></td>
 </tr>
-<tr class="even" aria-rowindex="2">
+<tr aria-rowindex="2">
 <td style="width: 140.667px" data-celllook="69905"><p>Hunter's Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937111/HuntersArmor.webp" alt="HuntersArmor.webp" /></p></td>
 <td style="width: 74.6667px"><p>(Common <br />
 Rare)</p></td>
@@ -43,7 +43,7 @@ Rare)</p></td>
 <td style="width: 197.333px" data-celllook="69905"><p>+10 arrows per bundle <br />
 +30% ranged damage </p></td>
 </tr>
-<tr class="odd" aria-rowindex="3">
+<tr aria-rowindex="3">
 <td style="width: 140.667px" data-celllook="69905"><p>Scale Mail<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941832/ScaleMail_3D_.webp" alt="ScaleMail_3D_.webp" /></p></td>
 <td style="width: 74.6667px"><p>(Common <br />
 Rare)</p></td>
@@ -52,7 +52,7 @@ Rare)</p></td>
 <td style="width: 197.333px" data-celllook="69905"><p>30% damage reduction <br />
 +30% melee damage </p></td>
 </tr>
-<tr class="even" aria-rowindex="4">
+<tr aria-rowindex="4">
 <td style="width: 140.667px" data-celllook="69905"><p>Evocation Robe<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941932/blobid5.png" alt="blobid5.png" /></p></td>
 <td style="width: 74.6667px"><p>(Common <br />
 Rare) </p></td>
@@ -61,7 +61,7 @@ Rare) </p></td>
 <td style="width: 197.333px" data-celllook="69905"><p>-25% artifact cooldown <br />
 +15% move speed aura </p></td>
 </tr>
-<tr class="odd" aria-rowindex="5">
+<tr aria-rowindex="5">
 <td style="width: 140.667px" data-celllook="69905"><p>Thief Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941972/blobid6.png" alt="blobid6.png" /></p></td>
 <td style="width: 74.6667px"><p>(Common <br />
 Rare) </p></td>
@@ -69,7 +69,7 @@ Rare) </p></td>
 <td style="width: 64.6667px"><p>43</p></td>
 <td style="width: 197.333px" data-celllook="69905"><p>+25% melee attack speed </p></td>
 </tr>
-<tr class="even" aria-rowindex="6">
+<tr aria-rowindex="6">
 <td style="width: 140.667px" data-celllook="69905"><p>Wolf Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937391/blobid7.png" alt="blobid7.png" /></p></td>
 <td style="width: 74.6667px"><p>(Common <br />
 Rare)</p></td>
@@ -78,7 +78,7 @@ Rare)</p></td>
 <td style="width: 197.333px" data-celllook="69905"><p>+20% weapon damage boost aura <br />
 Health potions heal nearby allies </p></td>
 </tr>
-<tr class="odd" aria-rowindex="7">
+<tr aria-rowindex="7">
 <td style="width: 140.667px" data-celllook="69905"><p>Spelunker Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937431/blobid8.png" alt="blobid8.png" /></p></td>
 <td style="width: 74.6667px"><p>(Common <br />
 Rare)</p></td>
