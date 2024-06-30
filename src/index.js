@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync, utimesSync, readFileSync, readdirSync, rmSync, rmdirSync } from 'fs';
+import { writeFileSync, mkdirSync, utimesSync, readFileSync, readdirSync, rmSync, rmdirSync, existsSync } from 'fs';
 import { resolve as resolvePath, join as joinPath, relative as relativePath, sep as pathSep } from 'path';
 import { sep as pathSepPosix } from 'path/posix';
 import { fileURLToPath } from 'url';
@@ -36,7 +36,9 @@ function listLocalArticles(path) {
             }
         });
     }
-    visitor(path);
+    if (existsSync(path)) {
+        visitor(path);
+    }
     return articles;
 }
 
@@ -178,10 +180,13 @@ async function analyzeArticleNetwork({ url, section, article }) {
     return { json, frontmatter };
 }
 
-async function saveArticle({ url, article }, { path, json, frontmatter }, database) {
+async function saveArticle({ url, article }, { path, json, frontmatter }, database, { urlRewriter }) {
     const simplifiedUrl = simplifyArticleUrl(url);
     const articleBodyMarkdown = await convertHtmlToMarkdown(json, {
         normalizeUrl: (urlObj) => {
+            if (urlRewriter) {
+                urlObj = urlRewriter(urlObj);
+            }
             if (!urlObj.origin || urlObj.origin === 'null') return urlObj.toString();
             const hash = urlObj.hash;
             const urlToRequest = simplifyArticleUrl(`${urlObj.origin}${urlObj.pathname}`);
@@ -247,8 +252,22 @@ async function main(fullUpdate) {
             },
             basePath: resolvePath(projectRoot, 'help'),
             baseUrlRewrite: (url) => url.replace(/^https:\/\/minecrafthelp\.zendesk\.com\//, 'https://help.minecraft.net/')
+        },
+        {
+            zendeskOptions: {
+                host: 'minecrafteducationedition',
+                lang: 'en-us'
+            },
+            basePath: resolvePath(projectRoot, 'education'),
+            // baseUrlRewrite: (url) => url.replace(/^https:\/\/minecrafteducationedition\.zendesk\.com\//, 'https://educommunity.minecraft.net/')
         }
     ];
+    const urlRewriter = (urlObj) => {
+        if (urlObj.host === 'minecrafthelp.zendesk.com' && !urlObj.pathname.startsWith('/hc/article_attachments/')) {
+            urlObj.host = 'help.minecraft.net';
+        }
+        return urlObj;
+    };
     const database = new LinkDatabase();
     optionList.forEach(({ basePath: path }) => database.loadFromFile(path));
     const notVisited = new Set(database.getTrackingFiles());
@@ -305,7 +324,7 @@ async function main(fullUpdate) {
     const pendingJobs = [];
     for (const [articleData, articleAnalysisResult] of analysisData) {
         pendingJobs.push(Parallel.run(async () => {
-            await saveArticle(articleData, articleAnalysisResult, database);
+            await saveArticle(articleData, articleAnalysisResult, database, { urlRewriter });
         }));
     }
     await Promise.all(pendingJobs);

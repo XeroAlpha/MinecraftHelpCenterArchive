@@ -10,6 +10,10 @@ const Hosts = {
     help: {
         host: 'minecrafthelp',
         lang: 'en-us'
+    },
+    education: {
+        host: 'minecrafteducationedition',
+        lang: 'en-us'
     }
 };
 
