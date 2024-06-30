@@ -29,7 +29,7 @@ This article is dedicated to helping you fix any problems in starting Minecraft 
 
 # In This Article:
 
-- [Minecraft is installed but the game or the Launcher crashes when I click play](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSD3MCHG5CQ46G0Y8A0VC3Z)
+- [Minecraft is installed but the game or the Launcher crashes when I click play](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSD3MCHG5CQ46G0Y8A0VC3Z)
 
 ## Minecraft is installed but the game or the Launcher crashes when I click play
 

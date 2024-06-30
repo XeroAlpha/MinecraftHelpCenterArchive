@@ -21,24 +21,24 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   
 **New Marketplace Content:**
 
-- **Adventure Maps**
-  - Alteria by Razzleberries
-  - Jurassic Depths by Everbloom Studios
+- - **Adventure Maps**
+    - Alteria by Razzleberries
+    - Jurassic Depths by Everbloom Studios
 
  
 
-- **Worlds**
-  - Winter Mini-Games Festival by Noxcrew
-  - Dropper of Horrors by Noxcrew
+- - **Worlds**
+    - Winter Mini-Games Festival by Noxcrew
+    - Dropper of Horrors by Noxcrew
 
-  <!-- -->
+    <!-- -->
 
-  - Winter Fest by Blockception
-  - Ugah Ugah by Pathway Studios
+    - Winter Fest by Blockception
+    - Ugah Ugah by Pathway Studios
 
-  <!-- -->
+    <!-- -->
 
-  - Kingdom Assault by Blockception
+    - Kingdom Assault by Blockception
 
  
 
@@ -64,68 +64,68 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   
 **Bug Fixes:**
 
-- **Crashes/Performance**
-  - Fixed a crash that occurred when exiting a world with a ticking area
-  - Fixed a crash that occurred when world chunks were discarded
-  - Fixed a crash that occurred when resuming the application (Windows 10)
-  - Fixed a crash that occurred when changing users (Xbox One)
-  - Fixed a crash that occurred when navigating the Minecraft Store
+- - **Crashes/Performance**
+    - Fixed a crash that occurred when exiting a world with a ticking area
+    - Fixed a crash that occurred when world chunks were discarded
+    - Fixed a crash that occurred when resuming the application (Windows 10)
+    - Fixed a crash that occurred when changing users (Xbox One)
+    - Fixed a crash that occurred when navigating the Minecraft Store
 
  
 
-- **General**
-  - Free Marketplace content no longer requires signing in to Xbox Live to download
-  - Fixed an exploit that allowed players to unlock achievements when cheats were enabled
-  - Skins will now change when purchased and equipped in the in-game Skin Picker
-  - Fixed Villagers not picking up food or breed in converted worlds (Xbox One)
-  - All End Gateway portals will now convert properly from old worlds (Xbox One)
-  - Spider Jockeys no longer disappear after world conversion (Xbox One)
-  - Consumable items can now be repurchased on servers
+- - **General**
+    - Free Marketplace content no longer requires signing in to Xbox Live to download
+    - Fixed an exploit that allowed players to unlock achievements when cheats were enabled
+    - Skins will now change when purchased and equipped in the in-game Skin Picker
+    - Fixed Villagers not picking up food or breed in converted worlds (Xbox One)
+    - All End Gateway portals will now convert properly from old worlds (Xbox One)
+    - Spider Jockeys no longer disappear after world conversion (Xbox One)
+    - Consumable items can now be repurchased on servers
 
  
 
-- **Gameplay**
-  - Fixed block placement not being as easy as it should be when holding down place block
-  - Increased the joystick deadzone on Windows Mixed Reality controllers
-  - Players will no longer suffocate inside blocks after getting out of bed
-  - Boats will now be descend smoothly on ice blocks
-  - Extra layers of snow will no longer appear in snowy biomes after reloading a world
-  - Tools no longer disappear when dispensed to a player's empty inventory slot
+- - **Gameplay**
+    - Fixed block placement not being as easy as it should be when holding down place block
+    - Increased the joystick deadzone on Windows Mixed Reality controllers
+    - Players will no longer suffocate inside blocks after getting out of bed
+    - Boats will now be descend smoothly on ice blocks
+    - Extra layers of snow will no longer appear in snowy biomes after reloading a world
+    - Tools no longer disappear when dispensed to a player's empty inventory slot
 
  
 
-- **Redstone**
-  - Fixed Redstone not powering horizontally adjacent blocks
+- - **Redstone**
+    - Fixed Redstone not powering horizontally adjacent blocks
 
  
 
-- **Mobs**
-  - Animals can once again jump over blocks while being lured with food
-  - Decreased the spawn rate of Zombie Pigmen from Nether portals
+- - **Mobs**
+    - Animals can once again jump over blocks while being lured with food
+    - Decreased the spawn rate of Zombie Pigmen from Nether portals
 
  
 
-- **Crafting**
-  - Pistons will now stack in the inventory and will not be lost after crafting
+- - **Crafting**
+    - Pistons will now stack in the inventory and will not be lost after crafting
 
  
 
-- **Graphical / Audio**
-  - Black lines no longer appear on the edges of blocks when riding in a minecart
-  - Minecarts will no longer make footstep sounds
-  - Sound effects will no longer play when disconnected from a world
-  - Food particles now appear when feeding all types of animals
-  - Fixed graphic corruption on the paper doll (Windows Mixed Reality)
+- - **Graphical / Audio**
+    - Black lines no longer appear on the edges of blocks when riding in a minecart
+    - Minecarts will no longer make footstep sounds
+    - Sound effects will no longer play when disconnected from a world
+    - Food particles now appear when feeding all types of animals
+    - Fixed graphic corruption on the paper doll (Windows Mixed Reality)
 
  
 
-- **User Interface**
-  - Items no longer disappear when painted in the crafting inventory with touch controls
-  - The inventory cursor no longer gains a durability bar after dropping damaged items
-  - The Screen Size prompt slider is now active by default when loading the game for the first time
-  - Store items will no longer appear twice in the same category
-  - Menus are now properly aligned, regardless of Screen Safe Area value
-  - Fixed text when disembarking a boat with touch controls
+- - **User Interface**
+    - Items no longer disappear when painted in the crafting inventory with touch controls
+    - The inventory cursor no longer gains a durability bar after dropping damaged items
+    - The Screen Size prompt slider is now active by default when loading the game for the first time
+    - Store items will no longer appear twice in the same category
+    - Menus are now properly aligned, regardless of Screen Safe Area value
+    - Fixed text when disembarking a boat with touch controls
 
  
 

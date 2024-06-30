@@ -78,11 +78,11 @@ If you’ve found an issue with Minecraft: Bedrock Edition that you’d like to 
 
 ### Related Articles
 
-[How to activate Minecraft Add-Ons](https://minecrafthelp.zendesk.com/hc/en-us/articles/24120525083533)
+[How to activate Minecraft Add-Ons](./How-to-activate-Minecraft-Add-Ons.md)
 
-[Disabling Minecraft Add-Ons](https://minecrafthelp.zendesk.com/hc/en-us/articles/24121220131597)
+[Disabling Minecraft Add-Ons](./Disabling-Minecraft-Add-Ons.md)
 
-[Who to Contact with your Minecraft Support Questions](https://minecrafthelp.zendesk.com/hc/en-us/articles/19506833026829)
+[Who to Contact with your Minecraft Support Questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md)
 
 [Learn to be a Minecraft Creator Using Add-Ons](https://www.minecraft.net/en-us/creator)
 

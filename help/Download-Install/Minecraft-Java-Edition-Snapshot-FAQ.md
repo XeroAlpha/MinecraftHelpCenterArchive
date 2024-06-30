@@ -26,11 +26,11 @@ This page is dedicated to the Minecraft: Java Edition Snapshot program. For Mine
 
 # In This Article:
 
-- [What is a Minecraft: Java Edition Snapshot?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HCMZVXGNV04K5YXNW6QY7WS6)
-- [Are Java Edition Snapshots free?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HCMZVXGN0QWH2603XTC5GH55)
-- [How do I install a Java Edition Snapshot?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HCMZVXGN3WQY0GJA17451MJ2)
-- [What platforms offer a Java Edition Snapshot?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HCMZVXGN69ATBR7X4QVXNAN8)
-- [How do I report bugs in Java Edition Snapshot releases?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HCMZVXGNQXF3C5YR62DT83Y3)
+- [What is a Minecraft: Java Edition Snapshot?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGNV04K5YXNW6QY7WS6)
+- [Are Java Edition Snapshots free?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGN0QWH2603XTC5GH55)
+- [How do I install a Java Edition Snapshot?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGN3WQY0GJA17451MJ2)
+- [What platforms offer a Java Edition Snapshot?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGN69ATBR7X4QVXNAN8)
+- [How do I report bugs in Java Edition Snapshot releases?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGNQXF3C5YR62DT83Y3)
 
 ## What is a Minecraft: Java Edition Snapshot?
 

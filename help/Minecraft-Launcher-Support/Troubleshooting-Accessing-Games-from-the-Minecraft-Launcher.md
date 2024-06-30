@@ -30,10 +30,10 @@ This article focuses on issues that may be preventing you from having access to 
 
 # In This Article:
 
-- [I can play Minecraft: Bedrock Edition, but not Java](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSDKT4CHR2E9N71FAC28PS1)
-- [I don’t see my games or a “Play” button to press; how can I play?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSDT99AES765JPV7VHTY334)
-- [I get sent to the Windows Store when I try to launch a game from the Minecraft Launcher](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSDXRB0N51XKP0ZDA2W01QM)
-- [I own Bedrock, but when I try to run Java, I can’t create a profile](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSE1VBGK37GYRYAZ0WT1HNV)
+- [I can play Minecraft: Bedrock Edition, but not Java](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSDKT4CHR2E9N71FAC28PS1)
+- [I don’t see my games or a “Play” button to press; how can I play?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSDT99AES765JPV7VHTY334)
+- [I get sent to the Windows Store when I try to launch a game from the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSDXRB0N51XKP0ZDA2W01QM)
+- [I own Bedrock, but when I try to run Java, I can’t create a profile](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSE1VBGK37GYRYAZ0WT1HNV)
 
 ## I can play Minecraft: Bedrock Edition, but not Java
 

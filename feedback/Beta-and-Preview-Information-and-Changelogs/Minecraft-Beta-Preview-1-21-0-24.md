@@ -61,15 +61,15 @@ It's time for yet another exciting Minecraft: Bedrock Edition Beta and Preview u
 
 <!-- -->
 
-- *deeper*
-- *eld_unknown*
-- *endless*
-- *featherfall*
-- *komorebi*
-- *pokopoko*
-- *puzzlebox*
-- *watcher*
-- *yakusoku*
+- - *deeper*
+  - *eld_unknown*
+  - *endless*
+  - *featherfall*
+  - *komorebi*
+  - *pokopoko*
+  - *puzzlebox*
+  - *watcher*
+  - *yakusoku*
 
 ## Paintings
 

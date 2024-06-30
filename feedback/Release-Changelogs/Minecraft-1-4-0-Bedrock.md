@@ -91,59 +91,59 @@ A handful of features from Update Aquatic have been added through Experimental G
   
 **Bug Fixes:**
 
-- **Crashes/Performance**
-  - Fixed several of the top crashes that occurred during gameplay
-  - Fixed a crash that occurred when importing an Add-On with an invalid manifest file
-  - Fixed a crash that occurred after rating content in the Marketplace
-  - Fixed a crash that occurred when using the '/fill' command directly after '/clone' in the same tick
-  - Reduced the delay when placing or destroying blocks
-  - Improved load times in the Skin Picker and when applying Resource Packs
-  - Improvements to Store load times
+- - **Crashes/Performance**
+    - Fixed several of the top crashes that occurred during gameplay
+    - Fixed a crash that occurred when importing an Add-On with an invalid manifest file
+    - Fixed a crash that occurred after rating content in the Marketplace
+    - Fixed a crash that occurred when using the '/fill' command directly after '/clone' in the same tick
+    - Reduced the delay when placing or destroying blocks
+    - Improved load times in the Skin Picker and when applying Resource Packs
+    - Improvements to Store load times
 
  
 
-- **General**
-  - 'Delicious Fish' achievement can now be unlocked after cooking and eating Salmon
-  - Activated resource packs will now stay active upon downloading any other resource pack during world creation
-  - Several fixes to joining as a second player on Xbox One split-screen
-  - Split-screen controls are no longer mixed up when the game is launched while using keyboard and mouse input on Xbox One
-  - Disconnecting a controller while making input no longer continues that input until the controller is reconnected
+- - **General**
+    - 'Delicious Fish' achievement can now be unlocked after cooking and eating Salmon
+    - Activated resource packs will now stay active upon downloading any other resource pack during world creation
+    - Several fixes to joining as a second player on Xbox One split-screen
+    - Split-screen controls are no longer mixed up when the game is launched while using keyboard and mouse input on Xbox One
+    - Disconnecting a controller while making input no longer continues that input until the controller is reconnected
 
  
 
-- **Gameplay**
-  - Fishing will now give the proper chance of catching a stack of 10 Ink Sacs
-  - Items can no longer be duplicated by rapidly dropping them while playing multiplayer
-  - Lava with a block on top no longer prevents fire damage to entities and will fix Chicken cookers
-  - Fire Resistance potions now protect Snow Golems from dying in warm biomes
-  - Soul Sand and Gravel once again generate in the Nether
-  - Fixed the crafting recipes of Prismarine Bricks and Dark Prismarine being swapped
-  - When riding a boat and hitting a mob with the Knockback enchantment, the mob will no longer always be knocked toward the East
-  - Zombies and Skeletons now burn in daylight while in boats
-  - Players can once again build straight down while holding the jump and place buttons simultaneously
-  - Fixed Villager trades becoming deactivated in certain cases when using touch controls
-  - Curse of Binding and Vanishing books can no longer be acquired by trading with a Librarian Villager
+- - **Gameplay**
+    - Fishing will now give the proper chance of catching a stack of 10 Ink Sacs
+    - Items can no longer be duplicated by rapidly dropping them while playing multiplayer
+    - Lava with a block on top no longer prevents fire damage to entities and will fix Chicken cookers
+    - Fire Resistance potions now protect Snow Golems from dying in warm biomes
+    - Soul Sand and Gravel once again generate in the Nether
+    - Fixed the crafting recipes of Prismarine Bricks and Dark Prismarine being swapped
+    - When riding a boat and hitting a mob with the Knockback enchantment, the mob will no longer always be knocked toward the East
+    - Zombies and Skeletons now burn in daylight while in boats
+    - Players can once again build straight down while holding the jump and place buttons simultaneously
+    - Fixed Villager trades becoming deactivated in certain cases when using touch controls
+    - Curse of Binding and Vanishing books can no longer be acquired by trading with a Librarian Villager
 
  
 
-- **Graphical**
-  - Cocoa Beans now display correctly when using HD Resource Packs
-  - Farmland and Grass Paths no longer have water textures when seen underwater
-  - Disconnected water flows no longer visually show as connected
-  - Water source blocks surrounding Glass, Slime blocks, and Sea Lanterns no longer turn into flowing water blocks
-  - Snow covered leaves no longer appear red when Smooth Lighting is disabled
-  - Fixed the appearance of bubbles around the Guardian laser attack
+- - **Graphical**
+    - Cocoa Beans now display correctly when using HD Resource Packs
+    - Farmland and Grass Paths no longer have water textures when seen underwater
+    - Disconnected water flows no longer visually show as connected
+    - Water source blocks surrounding Glass, Slime blocks, and Sea Lanterns no longer turn into flowing water blocks
+    - Snow covered leaves no longer appear red when Smooth Lighting is disabled
+    - Fixed the appearance of bubbles around the Guardian laser attack
 
  
 
-- **User Interface**
-  - "Destroy Block (vibrate)" toggle once again appears in Touch settings
-  - The Paper Doll is no longer in a running pose on the main menu
-  - Firework Rockets now appear in the Recipe Book when being searched for in Survival
-  - Initiating World Template screen now shows a progress bar
-  - Fixed the 'Disconnected from server' prompt being too large on Gear VR
-  - Fixed some toggles and buttons staying highlighted in Settings when they shouldn't
-  - Chroma Hills HD Texture Pack fonts now apply correctly
+- - **User Interface**
+    - "Destroy Block (vibrate)" toggle once again appears in Touch settings
+    - The Paper Doll is no longer in a running pose on the main menu
+    - Firework Rockets now appear in the Recipe Book when being searched for in Survival
+    - Initiating World Template screen now shows a progress bar
+    - Fixed the 'Disconnected from server' prompt being too large on Gear VR
+    - Fixed some toggles and buttons staying highlighted in Settings when they shouldn't
+    - Chroma Hills HD Texture Pack fonts now apply correctly
 
  
 

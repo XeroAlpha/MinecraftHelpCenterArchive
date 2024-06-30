@@ -54,4 +54,4 @@ Follow these steps to connect to another player’s server: 
 2.  Click **Add Server** and enter the IP or web address of the server.    
     **Tip:** If you don't know the IP of a server, thousands of public servers can be located by doing a web search for something that suits your style of play. 
 
-You can also [Get Help with Minecraft: Java Edition Multiplayer](https://minecrafthelp.zendesk.com/hc/en-us/articles/24543695465357) or [Contact Minecraft Support](https://minecrafthelp.zendesk.com/hc/en-us/articles/19506833026829).
+You can also [Get Help with Minecraft: Java Edition Multiplayer](./Get-Help-with-Minecraft-Java-Edition-Multiplayer.md) or [Contact Minecraft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).

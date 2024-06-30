@@ -29,10 +29,10 @@ This page covers issues you may encounter with the Minecraft Launcher not starti
 
 # In This Article:
 
-- [How do I switch between my Microsoft accounts to play my games?](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSBQY5PGYXHETE9XY27KSS4)
-- [I can’t sign in to my Launcher](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSBRZ6JBCHT8D20130TRAE3)
-- [Launcher won’t start up or crashes during login](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSBTA6G3PDNMAJWD5VS7MMX)
-- [My Launcher is working and I can login, but I have to re-enter my credentials every time](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSBYEW5JGE1SVPFPNT5XWP1)
+- [How do I switch between my Microsoft accounts to play my games?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBQY5PGYXHETE9XY27KSS4)
+- [I can’t sign in to my Launcher](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBRZ6JBCHT8D20130TRAE3)
+- [Launcher won’t start up or crashes during login](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBTA6G3PDNMAJWD5VS7MMX)
+- [My Launcher is working and I can login, but I have to re-enter my credentials every time](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBYEW5JGE1SVPFPNT5XWP1)
 
 ## How do I switch between my Microsoft accounts to play my games?
 

@@ -33,9 +33,9 @@ The **Public** profile is used for networks that you cannot trust, such as free 
 
 If your friend cannot connect to your single-player world on LAN within your Home network, please follow these steps to apply the **Private** Network profile for your Home network. 
 
-1.  Close Minecraft: Java Edition. 
-2.  Open the **Network & Internet settings** from the Taskbar Notification area.![internet.png](https://minecrafthelp.zendesk.com/hc/article_attachments/25449959050253) 
-3.  Open the **Properties** for the Network connection you are using within your Home network. ![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/8826180371853)
-4.  Change the Network profile for your Home network to **Private**. ![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/8826193484173)
-5.  Start Minecraft, load your world, and click **Open to LAN**.![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/8826182401933)
-6.  Your friends should now be able to join your world from the Play Multiplayer screen!
+1.  1.  Close Minecraft: Java Edition. 
+    2.  Open the **Network & Internet settings** from the Taskbar Notification area.![internet.png](https://minecrafthelp.zendesk.com/hc/article_attachments/25449959050253) 
+    3.  Open the **Properties** for the Network connection you are using within your Home network. ![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/8826180371853)
+    4.  Change the Network profile for your Home network to **Private**. ![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/8826193484173)
+    5.  Start Minecraft, load your world, and click **Open to LAN**.![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/8826182401933)
+    6.  Your friends should now be able to join your world from the Play Multiplayer screen!

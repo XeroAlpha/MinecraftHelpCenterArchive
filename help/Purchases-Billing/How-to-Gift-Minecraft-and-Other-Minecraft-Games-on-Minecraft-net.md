@@ -42,7 +42,7 @@ You can now gift Minecraft and other Minecraft games through Minecraft.net. This
 2.  Select Get Minecraft on the top right corner of the webpage.![Step 1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/21230716185741)
 3.  Click Buy Now next to Windows/Mac/Linux.![Step 2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/21230738061965)
 4.  You can choose between Minecraft: Java & Bedrock Edition for PC or the Minecraft Deluxe Collection.
-    - Both options come with Minecraft: Java Edition and Minecraft: Bedrock Edition. The Deluxe Collection comes with some additional bonuses. Please refer to [this article](https://minecrafthelp.zendesk.com/hc/en-us/articles/11211565784589) for more information on the Deluxe Collection.
+    - Both options come with Minecraft: Java Edition and Minecraft: Bedrock Edition. The Deluxe Collection comes with some additional bonuses. Please refer to [this article](https://help.minecraft.net/hc/en-us/articles/11211565784589) for more information on the Deluxe Collection.
 5.  Once you’ve selected an option, click Purchase as a gift.![Purchase as Gift.png](https://minecrafthelp.zendesk.com/hc/article_attachments/21230700817293)
 6.  You’ll be taken to a Send Gift screen. Input the recipient’s email address and your name so they know who the gift is coming from. Then click Next.![Send gift.png](https://minecrafthelp.zendesk.com/hc/article_attachments/21230716189581)
     - **Note: You must log into your Microsoft account to continue the gifting process.**
@@ -97,4 +97,4 @@ If your Microsoft account is banned, you will not be able to redeem a gift code.
 
 Yes! All you need is to have your friend send you the 25-character code they received, and you can send it to anyone you’d like.
 
-For more information on gifting Minecraft and other Minecraft games, please refer to [this blog post](https://minecrafthelp.zendesk.com/hc/en-us/articles/8684413912461).
+For more information on gifting Minecraft and other Minecraft games, please refer to [this blog post](./How-to-Digitally-Gift-Minecraft-Java-Bedrock-Edition-for-PC.md).

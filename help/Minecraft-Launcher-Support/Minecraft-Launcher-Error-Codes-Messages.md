@@ -37,13 +37,13 @@ If you are trying to play Minecraft through the Minecraft Launcher on PC but are
 
 # In This Article:
 
-- [Java Profile Creation Failed Error](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSEEWYX37F3TH7XNP7A3ZPX)
-- [Minecraft Launcher license is currently not available for your account (0X803F8001)](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSEH1JVR22Q52APB54XA98F)
-- [Unable to update native launcher error](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSEK3Z50Y55WCBG5C2NNTQ3)
-- [Error 0X80131500 when trying to install the Launcher](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSEPCKH1CZ2QGPGXRWK9MKM)
-- [Can’t connect to Minecraft services error after login](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSET4M1NBEFA64PTMZANVBC)
-- [Error 0X80242020 after installing Bedrock Edition](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSF318T74CHXQ87F93YXN63)
-- [You must complete adult verification on the Xbox homepage error](https://minecrafthelp.zendesk.com/hc/en-us/articles/undefined#h_01HMSF5044HM9DWH3ZBNCBA5B0)
+- [Java Profile Creation Failed Error](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEEWYX37F3TH7XNP7A3ZPX)
+- [Minecraft Launcher license is currently not available for your account (0X803F8001)](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEH1JVR22Q52APB54XA98F)
+- [Unable to update native launcher error](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEK3Z50Y55WCBG5C2NNTQ3)
+- [Error 0X80131500 when trying to install the Launcher](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEPCKH1CZ2QGPGXRWK9MKM)
+- [Can’t connect to Minecraft services error after login](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSET4M1NBEFA64PTMZANVBC)
+- [Error 0X80242020 after installing Bedrock Edition](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSF318T74CHXQ87F93YXN63)
+- [You must complete adult verification on the Xbox homepage error](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSF5044HM9DWH3ZBNCBA5B0)
 - [Launcher.dll Error](#resolving-minecraft-launcherdll-error)
 - [Security update available](#security-update-available)
 

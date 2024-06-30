@@ -25,4 +25,4 @@ If you'd like to play Minecraft: Java Edition with other people, this article ca
 - Try reverting to a previous save of your world.
 - Switch the world slot and open a new world.
 
-You can also [Contact Minecraft Support](https://minecrafthelp.zendesk.com/hc/en-us/articles/19506833026829) for assistance.
+You can also [Contact Minecraft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md) for assistance.

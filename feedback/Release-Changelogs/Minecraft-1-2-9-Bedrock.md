@@ -21,29 +21,29 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   
 **Bug Fixes:**
 
-- **Crashes/Performance**
-  - Fixed a crash that occurred when signing into Xbox Live on Android devices
-  - Fixed a crash that occurred when moving items in Beacons and Enchanting Tables when using Pocket UI
-  - Fixed a crash that occurred when loading chunks
-  - Fixed a crash that occurred when rendering moon phases and game time was negative
-  - Fixed a crash that occurred when editing a world or Realm name that was more than six characters in length
+- - **Crashes/Performance**
+    - Fixed a crash that occurred when signing into Xbox Live on Android devices
+    - Fixed a crash that occurred when moving items in Beacons and Enchanting Tables when using Pocket UI
+    - Fixed a crash that occurred when loading chunks
+    - Fixed a crash that occurred when rendering moon phases and game time was negative
+    - Fixed a crash that occurred when editing a world or Realm name that was more than six characters in length
 
  
 
-- **General**
-  - Fixed a rare issue that caused items, experience, and player positions to change after rejoining a world
+- - **General**
+    - Fixed a rare issue that caused items, experience, and player positions to change after rejoining a world
 
  
 
-- **Gameplay**
-  - Creepers will now stop walking when they are about to explode
-  - Creepers will no longer explode after losing their line of sight of players
-  - Blocks can once again be continually placed while sneaking
-  - Wither Skeletons will once again spawn in Nether fortresses
-  - Animals are now attracted to food if the player is outside of a fenced area or standing inside a Fence block
-  - Animals can once again be lured over uneven terrain without losing interest
-  - Text entry no longer continues on the first line of a sign even after creating a new line
-  - Fixed signs with formatting (§) not being able have new lines of text
+- - **Gameplay**
+    - Creepers will now stop walking when they are about to explode
+    - Creepers will no longer explode after losing their line of sight of players
+    - Blocks can once again be continually placed while sneaking
+    - Wither Skeletons will once again spawn in Nether fortresses
+    - Animals are now attracted to food if the player is outside of a fenced area or standing inside a Fence block
+    - Animals can once again be lured over uneven terrain without losing interest
+    - Text entry no longer continues on the first line of a sign even after creating a new line
+    - Fixed signs with formatting (§) not being able have new lines of text
 
  
 

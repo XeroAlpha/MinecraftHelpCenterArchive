@@ -72,7 +72,7 @@ If you're interested in trying the game before making a purchase, visit our arti
 - PlayStation®
 - Windows 10 and above
 - Xbox (One and Series X\|S)
-- Chromebook devices ([see here](https://minecrafthelp.zendesk.com/hc/en-us/articles/13803752803725))
+- Chromebook devices ([see here](../Download-Install/Minecraft-for-Chromebook-System-Requirements.md))
 
 Here is a list of the [different Minecraft editions with prices](../Purchases-Billing/Different-Minecraft-Editions.md) and where it is available for purchase.
 

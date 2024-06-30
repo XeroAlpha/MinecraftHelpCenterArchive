@@ -26,4 +26,4 @@ When removing the Add-On, anything added such as mobs and some types of placeabl
 
 ### Related Articles
 
-[Who to Contact with your Minecraft Support Questions ](https://minecrafthelp.zendesk.com/hc/en-us/articles/19506833026829)
+[Who to Contact with your Minecraft Support Questions ](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md)

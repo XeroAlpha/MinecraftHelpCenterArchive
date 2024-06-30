@@ -113,7 +113,7 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 
 <!-- -->
 
-- As a result of this fix, we've had to revert the fix for Slabs and Stairs being placed inconsistently while continuously building ([MCPE-54855](https://bugs.mojang.com/browse/MCPE-54855)). We'll work to reintroduce a fix for this in an upcoming update
+- - As a result of this fix, we've had to revert the fix for Slabs and Stairs being placed inconsistently while continuously building ([MCPE-54855](https://bugs.mojang.com/browse/MCPE-54855)). We'll work to reintroduce a fix for this in an upcoming update
 
 <!-- -->
 
