@@ -2,7 +2,7 @@
 
 [![Update](https://github.com/XeroAlpha/MinecraftHelpCenterArchive/actions/workflows/update.yml/badge.svg)](https://github.com/XeroAlpha/MinecraftHelpCenterArchive/actions/workflows/update.yml)
 
-This repository is solely for archiving articles from [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us) and [Minecraft Help](https://help.minecraft.net/hc/en-us).
+This repository is solely for archiving articles from [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us), [Minecraft Help Center](https://help.minecraft.net/hc/en-us) and [Minecraft Education Support Center](https://educommunity.minecraft.net/hc/en-us).
 
 The copyright of the articles in this repository belongs to Mojang Studios. Any use of this repository for commercial purposes is strictly prohibited without permission from Mojang Studios.
 
@@ -10,7 +10,7 @@ The articles in this repository do not represent the views of Mojang Studios, no
 
 This archive project is not associated with Mojang Studios and has not been approved by them.
 
-本仓库仅用于存档 [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us) 与 [Minecraft Help](https://help.minecraft.net/hc/en-us) 中的文章。
+本仓库仅用于存档 [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us)、[Minecraft Help Center](https://help.minecraft.net/hc/en-us) 与 [Minecraft Education Support Center](https://educommunity.minecraft.net/hc/en-us) 中的文章。
 
 本仓库中的文章其版权属于 Mojang Studios。未经 Mojang Studios 许可，禁止以任何方式将本仓库用作商业目的。
 

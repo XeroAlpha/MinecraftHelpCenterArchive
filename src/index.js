@@ -259,7 +259,6 @@ async function main(fullUpdate) {
                 lang: 'en-us'
             },
             basePath: resolvePath(projectRoot, 'education'),
-            // baseUrlRewrite: (url) => url.replace(/^https:\/\/minecrafteducationedition\.zendesk\.com\//, 'https://educommunity.minecraft.net/')
         }
     ];
     const urlRewriter = (urlObj) => {
