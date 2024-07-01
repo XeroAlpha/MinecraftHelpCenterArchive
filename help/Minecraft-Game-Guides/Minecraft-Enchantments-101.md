@@ -1,7 +1,7 @@
 ---
-title: Minecraft - Enchantments 101
+title: Getting Started with Enchantments in Minecraft
 date: 2021-03-29T21:56:51Z
-updated: 2024-03-15T17:54:26Z
+updated: 2024-07-01T21:00:10Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft_java_edition
@@ -21,7 +21,7 @@ tags:
   - platform_other
   - platform_pc
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/360058732972-Minecraft-Enchantments-101
+link: https://help.minecraft.net/hc/en-us/articles/360058732972-Getting-Started-with-Enchantments-in-Minecraft
 hash:
   h_01HCN7V1AC20CVW72VJYHE7XVK: how-to-use-the-command-in-creative
   h_01HCN7V1ACX6JS0YV7983V23CR: basic-crafting-recipes-for-survival
@@ -31,9 +31,9 @@ hash:
   h_01HCN7V1ACEWHTZ3VDJH9ZSQK2: anvil
 ---
 
-Enchanting is an in-game mechanic that allows you to give special abilities to tools and armor. You will need an enchanting table in survival mode, but you can use the ‘/enchant’ command if you are in creative mode with cheats enabled. 
+Enchanting is an in-game mechanic that allows you to give special abilities to tools and armor. You will need an enchanting table in survival mode, but you can use the **/enchant** command if you are in creative mode with cheats enabled. 
 
-Enchanting through the enchantment table requires player experience or levels and Lapis Lazuli. Once you place the tool/armor/book, you can select from three choices of enchantments, each requiring different amounts of experience and Lapis Lazuli. Once you select one the item will be enchanted. Surrounding your enchanting table with bookshelves will increase the levels and tier of enchantments available.  
+Enchanting through the enchantment table requires player experience or levels and lapis lazuli. Once you place the tool/armor/book, you can select from three choices of enchantments, each requiring different amounts of experience and lapis lazuli. Once you select one the item will be enchanted. Surrounding your enchanting table with bookshelves will increase the levels and tier of enchantments available.  
 
 ## How to Use the Command in Creative 
 

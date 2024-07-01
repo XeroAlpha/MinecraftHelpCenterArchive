@@ -1,7 +1,7 @@
 ---
-title: "A Beginner’s Guide to Farming in Minecraft "
+title: A Beginner’s Guide to Farming in Minecraft
 date: 2020-07-15T23:43:51Z
-updated: 2023-09-26T15:07:54Z
+updated: 2024-07-01T19:36:49Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft_java_edition
@@ -35,8 +35,8 @@ Managing your food in Minecraft will ensure you can explore longer without needi
 Before you can begin making a farm in Minecraft, you need to have the proper items and be set in the right area. First, you need seeds to plant. Here are the different kind of seeds available in Minecraft:
 
 - Wheat seeds
-- Pumpkin seeds (a full pumpkin can be converted into seeds at a Crafting Table)
-- Melon seeds (watermelon slices can be converted into seeds at a Crafting Table)
+- Pumpkin seeds (a full pumpkin can be converted into seeds at a crafting table)
+- Melon seeds (watermelon slices can be converted into seeds at a crafting table)
 - Beetroot seeds
 - Torchflower seeds
 - Pitcher pods
@@ -45,7 +45,7 @@ Additionally, these items can be planted to grow more of that item:
 
 - Carrots
 - Potatoes
-- Nether wart (only grows in soul sand, does not need a Hoe to plant it)
+- Nether wart (only grows in soul sand, does not need a hoe to plant it)
 
 ## How to gather supplies to make a farm in Minecraft
 
