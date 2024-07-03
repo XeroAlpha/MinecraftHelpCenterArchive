@@ -1,20 +1,20 @@
 ---
-title: "Minecraft: Java Edition - Debug Menu"
+title: "What is in the Debug Menu in Minecraft: Java Edition?"
 date: 2021-03-29T19:27:35Z
-updated: 2024-06-28T20:18:51Z
+updated: 2024-07-03T19:45:38Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/360059146051-Minecraft-Java-Edition-Debug-Menu
+link: https://help.minecraft.net/hc/en-us/articles/360059146051-What-is-in-the-Debug-Menu-in-Minecraft-Java-Edition
+hash:
+  h_01J1X1PJV1KG98XNBXEZ4VXF0W: on-the-right-side-you-are-presented-with-some-other-helpful-information
 ---
 
-## What is in the debug menu? 
-
-At first glance looking at the debug menu can be a bit overwhelming. We will break it down for you here to try to simplify things. 
+At first glance looking at the debug menu in Minecraft: Java Edition can be a bit overwhelming. We will break it down for you here to try to simplify things. 
 
 Here is what the menu looks like in-game:
 
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090982432/blobid0.png)
+![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090982432)
 
 **\#1** Starting from the top left we have the game version. This will also show whether the game is vanilla or using a snapshot. 
 

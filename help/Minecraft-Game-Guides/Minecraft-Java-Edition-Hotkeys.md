@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Java Edition - Hotkeys"
+title: "Hotkeys in Minecraft: Java Edition"
 date: 2021-03-29T20:06:09Z
-updated: 2023-11-15T17:27:11Z
+updated: 2024-07-03T19:18:40Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft_java_edition
@@ -13,10 +13,10 @@ tags:
   - platform_pc
   - platform_PC
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/360059148111-Minecraft-Java-Edition-Hotkeys
+link: https://help.minecraft.net/hc/en-us/articles/360059148111-Hotkeys-in-Minecraft-Java-Edition
 ---
 
-Here is a list of the default hotkeys when playing Minecraft: Java Edition:
+Hotkeys are shortcuts you can use on your keyboard to do some things faster than normal. Here is a list of the default hotkeys when playing Minecraft: Java Edition:
 
 1.  **Scroll -** Scrolls through your quick bar and the chat when opened. 
 2.  **Esc **- Opens the game menu and allows cursor control. It also pauses single-player games. 
