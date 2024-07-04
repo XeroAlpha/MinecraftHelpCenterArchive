@@ -1,11 +1,11 @@
 ---
-title: Minecraft Dungeons - Secret Levels
+title: Secret Levels in Minecraft Dungeons
 date: 2021-04-08T21:00:10Z
-updated: 2024-06-28T20:23:26Z
+updated: 2024-07-04T21:06:32Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
-link: https://help.minecraft.net/hc/en-us/articles/360059196792-Minecraft-Dungeons-Secret-Levels
+link: https://help.minecraft.net/hc/en-us/articles/360059196792-Secret-Levels-in-Minecraft-Dungeons
 hash:
   secret-levels-on-the-mainland-and-jungle-island: secret-levels-on-the-mainland-andjungleisland
   creepy-crypt: creepycrypt
