@@ -18,8 +18,8 @@ tags:
   - platform_oculus
   - platform_pc
   - platform_chromebook
+  - section_16474069459597
   - title_minecraft_java_bedrock_for_pc
-  - section_27983753055117
 link: https://help.minecraft.net/hc/en-us/articles/27262720018189-Tricky-Trials-Update-Features
 hash:
   h_01HZFSC2ST0H4W3GWM7CWVJYY6: wind-charge
