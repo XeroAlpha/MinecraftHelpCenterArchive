@@ -1,6 +1,7 @@
 ---
 title: How to Download and Install the Minecraft Launcher
 date: 2024-02-06T19:18:26Z
+updated: 2024-07-08T16:20:52Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -39,8 +40,3 @@ There are multiple sources you can download the Minecraft Launcher through.
 3.  Click **Get** or **Install**
 
 Once the app has installed, you can open it and sign into your Microsoft account to access and download your Minecraft games.
-
-For issues related to installing Minecraft: Java or Bedrock Edition, see the below pages.
-
-- [Minecraft: Java Edition Installation Issues FAQ \| Minecraft Help](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md)
-- [Minecraft: Bedrock Edition Installation Issues FAQ \| Minecraft Help](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md)
