@@ -1,7 +1,7 @@
 ---
-title: Minecraft - Types of Biomes
+title: All Biomes in Minecraft
 date: 2020-07-17T21:09:39Z
-updated: 2023-11-15T21:01:17Z
+updated: 2024-07-09T15:46:10Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft_java_edition
@@ -21,163 +21,108 @@ tags:
   - platform_pc
   - platform_PC
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/360046470431-Minecraft-Types-of-Biomes
+link: https://help.minecraft.net/hc/en-us/articles/360046470431-All-Biomes-in-Minecraft
 hash:
-  h_01HA2M2FFWNZ3W6M2VN5MSCYQZ: do-minecraft-bedrock-edition-and-minecraft-java-edition-share-the-same-biomes
-  h_01HA2M2FFWBA56VVGSKJZ4NMCT: what-is-a-biome
-  h_01HA2M2FFWH7QBZVW7GZVPJSQ5: what-is-a-mob
-  h_01HA2M2FFWTJEWPH1KT26Q3TQD: current-biomes-in-minecraft
-  h_01HA2M2FFWRDYPNPX2D1STRP1T: plains
-  h_01HA2M2FFWW8V3VA7BSMNEA83N: forests
-  h_01HA2M2FFWCSYN2GXJR7JB6SQE: jungles
-  h_01HA2M2FFW0WBGCFVWNFGEM75J: windswept-hills
-  h_01HA2M2FFW6JTFWNQ7BG58BWKV: deserts
-  h_01HA2M2FFWHCZFA6K26G11C61D: taiga
-  h_01HCWRW9YA9PW90KZMZ9SRZBJ3: cherry-grove
-  h_01HA2M2FFWDG2N3A1WVVYT7WT3: snowy-plains
-  h_01HA2M2FFWCEGV95SR4D42Z3AX: ice-spikes
-  h_01HA2M2FFWS1N48EVAZYS9BPH5: swamps
-  h_01HA2M2FFWDSXEV8H761CV0SPX: savannahs
-  h_01HA2M2FFWNHHMC09KXX2RYPCX: badlands
-  h_01HA2M2FFWH3RZF807WZBDQ0QQ: beaches
-  h_01HA2M2FFWJ25Y3SC3BJXEH5B4: stony-shore
-  h_01HA2M2FFWCDZ4JPRNYBS5DSRC: rivers
-  h_01HA2M2FFWFX76RENBGMCM8968: oceans
-  h_01HA2M2FFWM2SSDM8DHE729Q65: mushroom-islands
-  h_01HA2M2FFWS2YA12BGS6ZN2RQV: the-nether
-  h_01HA2M2FFWETXSNSS4VV0FM5CM: the-end
+  h_01J2C28TYVYSCVWQM6HVW09W76: overworld-biomes
+  h_01J2C29247BR1QR4425DJ61NJP: plains
+  h_01J2C2AFG42BRDZ3CKGGZAEK39: woodlands
+  h_01J2C2E4F3S7NS8GBG1QGYNVCW: caves
+  h_01J2C2EWN0Q0JC96TWVN90SJNX: mountains
+  h_01J2C2GP9WYVF2QZFHV47W01AP: swamps
+  h_01J2C2HC7375AG5EHG2GR7DHTA: sandy-areas
+  h_01J2C2KQ9276F0MSVZQYA4RXT8: water-areas
+  h_01J2C2N0SE1NGK4WW2KB7EYDYF: the-nether-biomes
+  h_01J2C2P298K36XR5HTN03K5YNV: the-end-biomes
 ---
 
-## Do Minecraft: Bedrock Edition and Minecraft: Java Edition share the same biomes? 
-
-Yes, both Minecraft: Bedrock Edition and Minecraft: Java Edition usually have the same biomes. However, because the games are updated at different times you may see a temporary discrepancy. Other in-game locations such as villages and temples differ between versions. 
-
-## What is a biome? 
-
-A biome is a Minecraft region with unique geography, plants, and other characteristics. Biomes can have different environments, such as forests and deserts.
-
-## What is a mob? 
-
-Mobs are "mobile creatures" that can spawn in different biomes. They can be passive, neutral, and hostile, and can spawn in different biomes under certain conditions. 
-
-## Current Biomes in Minecraft 
-
-### Plains 
-
-Plains are a common biome, usually treeless. They spawn many passive mobs such as pigs, cows, sheep, and horses. They usually border forests. Sunflower plains are the only biome where you can find sunflowers. 
-
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404132999309)
-
-### Forests 
-
-Forests are great places to start because some of them have lots of trees for harvesting wood. Other variations of forest include the flower forest that grows nearly every kind of flower in Minecraft. Birch and dark oak forests are normal forests with variations in the colors of trees being light or dark.  Dark oak forests are the only biome that can spawn woodland mansions. Be careful because the mansions and forests can contain hostile mobs. You can sometimes also find large mushrooms there. 
-
-![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133008909)
-
-### Jungles 
-
-Three types of jungle biomes occur in Minecraft. The first is a normal jungle biome and the second is a sparse jungle biome. Sparse jungle biomes are essentially mixed biomes to transition from jungle biomes into others. The third variation is a bamboo jungle, which you can often find inside larger jungle biomes. You can find pandas mostly in bamboo jungles. 
-
-![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133020301)
-
-### Windswept Hills
-
-You know you're in a Windswept Hills when you see a lot of stone, floating islands, alcoves, and spires. Windswept Hills biomes are also the only places where you can find emeralds, which are great for trading with villagers. Two other mountain biomes are the gravelly and wooded mountain biomes. As the name suggests, gravelly mountain biomes have a lot of gravel blocks instead of stone. Normally trees don't grow in gravelly mountain biomes so look for trees in a wooded mountain biome. 
-
-![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133027085)
-
-### Deserts 
-
-Desert biomes are very bare. They contain sand, sandstone, dead bushes, brown rabbits, and cacti. In these biomes you can sometimes find desert villages, pillager outposts, temples, and the occasional river.
-
-![blobid4.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133033357)
-
-### Taiga 
-
-Taiga biomes combine jungle and forest biomes. They typically have spruce trees and ferns. Taigas can contain wolves, foxes, sweet berry bushes, villages, pillager outposts, and more. The old growth pine taiga variation of the taiga biome contains much larger spruce trees and podzol on the ground. Snow taiga biomes can have wolves and arctic foxes. Taiga mountain biomes are more difficult to traverse due to their mountains, hostile mobs, and occasional snow. 
-
-![blobid5.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133044493)
-
-### Cherry Grove
-
-Cherry Grove biomes are filled with Cherry Blossom trees. These plants are covered in beautiful pink blossoms that gently fall to the ground below. If you harvest the wood, you can use it to create pink wooden items for your home area. Don't forget to grab a Cherry Tree Sapling to plant anywhere you want!
-
-![Minecraft-Cherry-Grove.png](https://minecrafthelp.zendesk.com/hc/article_attachments/19387094271117)
-
-### Snowy Plains
-
-Snowy plains biomes feature vast amounts of land covered in snow. Wildlife is scarce but they do have polar bears and rabbits. 
-
-![blobid6.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404137018637)
-
-### Ice Spikes 
-
-The rare ice spikes biome presents large structures and clumps of ice scattered around almost like trees. Resources here are even more difficult to find than in the snow tundra biome, but this biome does have large amounts of ice. 
-
-![blobid7.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404137033741)
-
-### Swamps 
-
-Swamp biomes are usually one of the most dangerous biomes to survive in. Witch huts generate in these biomes and slime spawns occur naturally at night. 
-
-![blobid8.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404137035533)
-
-### Savannahs 
-
-In normal savannah biomes, you can find acacia trees, and herds of horses and llamas. Villages and pillager outposts can generate in these biomes as well. Windswept savannahs have steep mountains, deep lakes, waterfalls of lava or water, and random craters. 
-
-![blobid9.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133146381)
-
-### Badlands 
-
-Standard badlands contain large veins of gold and lots of red sand. Abandoned mineshafts are about the only structures you will find here and hostile mobs spawn at night. Eroded badlands are a rarer variation, with canyons in sight. Eroded badlands often generate on their own, unlike standard badlands that are common next to deserts. Wooded badlands are a smaller biome where you will often find oak trees in small numbers. 
-
-![blobid10.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133149965)
-
-### Beaches 
-
-Beach biomes are constructed whenever an ocean meets another biome. Aside from sand, here you can find sugar cane, shipwrecks, buried treasure, and turtles. Sometimes the beaches are snowy. 
-
-![blobid11.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133157645)
-
-### Stony Shore 
-
-Stony shore biomes often occur when a mountainous biome is generated near an ocean. These biomes are usually very small. 
-
-![blobid12.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133161869)
-
-### Rivers 
-
-River biomes usually cut through multiple biomes, and can contain sugar cane, sand, clay, squid, salmon, and drowned within them. Frozen rivers are essentially the same except with snow, and with a reduced number of hostile mobs that can spawn. 
-
-![blobid13.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133167245)
-
-### Oceans 
-
-The first of five variations of ocean biomes is a basic ocean where seagrass, kelp, and fish commonly abound. Warm ocean biomes typically look vibrant. These biomes can naturally generate coral reefs where you can find dolphins, pufferfish, and tropical fish. Lukewarm oceans do not contain coral reefs but feature more seagrass and kelp.
-
-They also gain cod, salmon, and the possibility for ocean monuments. Cold ocean biomes have less aquatic wildlife but still have cod, salmon, and dolphins. You can sometimes find ocean monuments in the water's deep-blue hue. Frozen ocean biomes contain only salmon, squid, and ocean monuments. Where there's ice, you can sometimes find polar bears on the surface of the water. 
-
-![blobid14.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133178125)
-
-![blobid15.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133184397)
-
-### Mushroom Islands 
-
-Mushroom field biomes are very rare and usually generate in the middle of the ocean, far away from any other biome. These are large islands composed of mycelium that accelerates and encourages the growth of mushrooms. You can also find mooshrooms in this biome. No hostile mobs can spawn in this biome. 
-
-![blobid16.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133189773)
-
-### The Nether 
-
-The Nether biome is separate from the Overworld. The Nether has recently updated to include multiple biomes including Soul Sand Valleys and Crimson forests. Nether fortresses contain exclusive resources. Mobs such as blaze, hoglins, piglins, and ghasts congregate here. With expanded biomes and respawn anchors you can make the Nether your permanent home. 
-
-![blobid17.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404137045389)
-
-### The End 
-
-The End biomes are usually comprised of five features. The End is separate from the Overworld and the Nether and is guaranteed to generate whenever you create an End portal. Here, a giant center island is surrounded by several smaller areas and islands. End islands are smaller islands floating between voids and larger parts of the End. You can find Endermen here. End midlands are larger areas that transition you from the center to the outer edges of the End. They contain Shulkers, Endermen, End gateway portals, and End cities. End highlands are the main biome in the End where you find End cities and chorus trees. End gateway portals are commonly found at the outermost edge of the void. You usually find End barrens toward the edges of the main areas or land in the End, like beaches in the Overworld. 
-
-![blobid18.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133203725)
-
-![blobid19.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133211405)
+A biome is a Minecraft region with unique geography, plants, and other characteristics. Biomes can have different environments, such as forests and deserts. Whether you are playing on Bedrock or Java Edition, you will see the same biomes pop up in either game. Here is a breakdown of all the biomes you can find in Minecraft.
+
+## Overworld biomes
+
+### Plains
+
+- **Plains** – A relatively flat area that may have some trees. You can find villages and farm animals like horses.
+- **Ice plains** – Also called snowy tundra. It’s a snow and ice-covered area with very few trees that is mostly flat but has some hills.
+- **Ice spike plains** – A variant of the ice plains that have large icy spikes and glaciers that reach into the sky.
+- **Sunflower plains** – The only biome where sunflowers spawn.
+- **Snowy plains** – A snow-covered area that can have rabbits, polar bears, and strays. Igloos may generate.
+- **Mushroom field** – An island made of mycelium where big mushrooms grow frequently. The only area where you can find mooshrooms.
+- **Savanna** – A flat, dry area that has acacia trees and lots of tall grass.
+
+### Woodlands
+
+- **Forest** – Areas filled with oak and birch trees. Mushrooms, flowers, and wolves can also appear.
+- **Birch forest** – Variant of the forest where only birch trees appear. Wolves do not spawn here.
+- **Dark forest** – Forest variant filled with dark oak trees. The trees are often packed close enough together that they cover the sky, letting hostile mobs spawn even during the daytime. Woodland mansions exclusively appear in this biome.
+- **Flower forest** – Less trees appear in these forests, but are replaced with tons of flowers, some exclusive to these biomes. Rabbits replace wolves in these areas.
+- **Old growth birch forest** – A birch forest, but the trees are much taller.
+- **Taiga** – A forest of spruce trees that is populated by ferns, berry bushes, foxes, and rabbits.
+- **Old growth spruce taiga** – Variant of the taiga where giant spruce trees are covered in leaf blocks.
+- **Old growth pine taiga** – Variant of the taiga that has taller and wider spruce trees. Mossy cobblestone and podzol can be found in these areas.
+- **Snowy taiga** – A taiga variant covered in snow. Igloos can generate in these areas.
+- **Jungle** – A dense area of tall jungle trees. Vines commonly drape down many blocks. You can find ocelots, parrots, pandas, cocoa, and melons in these areas.
+- **Bamboo jungle** – A jungle absolutely covered in large trees and thickets of bamboo. Pandas spawn in this area more often.
+- **Sparse jungle** – A much less dense variation of the jungle. All the same things appear, but there is more space between everything.
+- **Grove** – A forest of spruce trees that appear at the bottom of mountains when near a forest biome. There is a lot of snow and powder snow along the floor.
+- **Cherry Grove** – An area where cherry trees generated. They are easy to distinguish by their pink leave blocks that have petals that fall to the ground.
+
+### Caves
+
+- **Deep dark** – A dark area that generates far underground. It is comprised of sculk blocks and is where ancient cities and the warden reside. Be careful making noise around sensor and shrieker blocks which will summon the warden to your position.
+- **Dripstone caves** – These are the exclusive locations to find dripstone blocks.
+- **Lush caves** – Caverns filled with moss, bushes, vines, glow berries, dripleaf plants, and other vegetation. Axolotls and tropical fish can appear here. These caves are always underground below azalea trees.
+
+### Mountains
+
+- **Jagged peaks** – Found at the top-most part of the tallest mountains, often extending beyond the reach of clouds. Underneath a layer of snow, you can find stone, coal, iron, or emerald.
+- **Frozen peaks** – A not-so-jagged area filled with ice, snow, and packed ice.
+- **Stony peaks** – Peak variations that generate in warmer areas. No snow or goats appear here.
+- **Snowy slopes** – Areas in mountains that are covered in snow and snow powder. Igloos can generate in these areas, while goats and rabbits spawn here.
+- **Windswept hills** – Area filled with steep cliffs, valleys, and floating islands. Llamas and emerald can appear here.
+- **Windswept forest** – A windswept hill that generated next to a forest. Instead of stone, it has an all-grass floor with trees.
+- **Windswept gravelly hills** – Windswept hills variant that is mostly filled with gravel blocks.
+- **Meadow** – Grassy area with flowers that appear near mountains. If you find a tree here, it will always have a bee nest.
+- **Stony shores** – Appear when a mountain generates directly next to an ocean. Lots of stone and potential for buried treasure.
+- **Savanna Plateau** – A savanna that generates at a higher altitude in a mountainous area.
+- **Windswept savanna** – A savanna in a mountainous area that has very steep cliffs that can reach high into the sky.
+
+### Swamps
+
+- **Swamp** – A dark hued area with shallow waters scattered around. Trees can sometimes grow out of the water and vines drape down them. Temperate frogs, blue orchids, and swamp huts appear here.
+- **Mangrove swamp** – A swamp variant covered in more vegetation than normal swamps. Mangrove trees appear here, and mud blocks take up much of the floor. Warm frogs spawn here.
+
+### Sandy areas
+
+- **Badlands** – A desert made of red sand. Terracotta and stained terracotta can appear frequently.
+- **Wooded badlands** – Coarse dirt and oak trees appear in this badlands variant.
+- **Eroded badlands** – Badlands variant that has large spires of terracotta that shoot into the sky.
+- **Beach** – Sandy areas where water meets land. Turtles spawn here and buried treasure can appear underground.
+- **Snowy beach** – A beach variant that appears next to a frozen ocean. The sand is covered in snow and turtles do not appear here.
+- **Desert** – Large areas filled with sand, sandstone, cacti, and sometimes fossils buried away. Husks can spawn at nighttime. Desert villages, wells, and pyramids appear here.
+
+### Water areas
+
+- **River** – Stretches of water blocks that cut through land and often lead into oceans. Salmon, squid, and drowned spawn in these waters.
+- **Frozen river** – A variant of the river when it cuts through snow biomes and is covered in ice. Salmon and drowned still spawn underwater, but rabbits and polar bears appear on top of the ice.
+- **Ocean** - A basic ocean where seagrass, kelp, and fish commonly abound.
+- **Cold ocean** – Made of a deep-blue hue and less aquatic wildlife than other ocean biomes. Large groups of kelp can grow here.
+- **Deep ocean** - Deeper than regular oceans. You can find underwater ravines here with plenty of magma blocks that pull you down. There are variants of these that include lukewarm, cold, and frozen oceans.
+- **Frozen ocean** - Contains only salmon, squid, and ocean monuments. Where there's ice glaciers, you can sometimes find polar bears on the surface of the water.
+- **Lukewarm ocean** - Does not contain coral reefs but feature more seagrass, cod, salmon, and kelp.
+- **Warm ocean** - Look vibrant. These biomes can naturally generate coral reefs and where you can find dolphins, pufferfish, and tropical fish.
+
+## The Nether biomes
+
+- **Nether wastes** – The general look for The Nether. Netherrack is everywhere, with clumps of glowstone mixed in. Large lakes of lava are common, and you will see many of the usual hostile mobs like ghasts, piglins, and magma cubes appear here.
+- **Soul sand valley** – While soul sand and soul soil can pop up in various areas of The Nether, it is in abundance in this biome. Because of all the soul blocks, you will run much slower here unless you have the Soul Speed enchantment on some boots.
+- **Basalt deltas** – These areas are very gray, giving the impression of ash left over from volcanic activity. Basalt and blackstone are plentiful here and this is the only Nether biome where bastion remnants do not appear.
+- **Crimson forest** - Warped and crimson fungus are plentiful here. The fungus structures have weeping vines and shroomlights. Piglins and hoglins are plentiful here, so be sure to have gold to barter with.
+- **Warped forest** – Only striders and endermen appear in these blue fungus areas. Warped nylium, warped roots, nether sprouts, and warped wart blocks can be commonly found here.
+
+## The End biomes
+
+- **The end** – A central island of The End where the ender dragon is. End crystals sit at the top of large obsidian spires and endermen walk around the ground freely.
+- **End barrens** – Outer portion of The End that sit on the edge of islands. Nothing appears here besides endermen.
+- **End highlands** – Outer portion of The End where both end cities and chorus fruit appear. These are located at higher elevation than other biomes here.
+- **End midlands** – Outer portion of The End where end cities can appear, though chorus fruit does not.
+- **Small end islands** – These small floating islands are barren but appear packed together for you to traverse through The End.

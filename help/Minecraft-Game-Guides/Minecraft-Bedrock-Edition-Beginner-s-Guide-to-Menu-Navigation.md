@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Bedrock Edition - Beginner's Guide to Menu Navigation"
+title: "Beginner's Guide to Menu Navigation in Minecraft: Bedrock Edition"
 date: 2021-03-29T22:47:37Z
-updated: 2024-04-22T20:36:54Z
+updated: 2024-07-09T16:32:52Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft
@@ -17,7 +17,7 @@ tags:
   - platform_oculus
   - platform_other
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/360059154851-Minecraft-Bedrock-Edition-Beginner-s-Guide-to-Menu-Navigation
+link: https://help.minecraft.net/hc/en-us/articles/360059154851-Beginner-s-Guide-to-Menu-Navigation-in-Minecraft-Bedrock-Edition
 hash:
   h_01HAW64T046KNWYD48R482GQDM: play
   h_01HAW572FCVE2KKV9AE3HJHG96: dressing-room
@@ -34,13 +34,13 @@ Before you jump into that world, it will be beneficial to you to understand what
 
 Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Create-or-Join-Realms/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
 
-To make your own world, select Create New at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let's select Create New World at the top.
+To make your own world, select **Create New** at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let's select Create New World at the top.
 
 ![Minecraft-Menu-Beginners.png](https://minecrafthelp.zendesk.com/hc/article_attachments/19707492392077)
 
 Now that we are in world creation, start by thinking of a super fun and unique name for your world. If that doesn't work, you can just leave it as the default "My World."
 
-Below that, choose between playing in a [Survival or Creative world](https://www.minecraft.net/en-us/article/creative-vs-survival-mode). Survival is the base Minecraft experience that will have you working to gather resources and encountering hostile mobs. Creative is a more relaxed approach that gives you everything you want upfront to build to your heart's content. This option can be changed later in your world's settings.
+Below that, choose between playing in a [Survival or Creative world](https://www.minecraft.net/en-us/article/creative-vs-survival-mode). Survival is the base Minecraft experience that will have you working to gather resources and encountering hostile mobs. To learn more, see [All Game Modes in Minecraft](./Minecraft-Differences-Between-Creative-Survival-and-Hardcore-Game-Modes.md).
 
 Difficulty can be changed later on as well, so don't feel too stressed to make a final decision here. For your first time playing, Easy should be a great way to introduce yourself to the game while encountering hostile mobs like the explosive Creeper and managing your hunger. If you don't want that stress in your life, Peaceful will turn off hostile mobs and your hunger will not deplete.
 
@@ -56,25 +56,16 @@ On this page, you can create and [customize Minecraft skins](https://www.minecra
 
 ## Find Friends
 
-Play with your friends in their Minecraft world, or invite them to your own!
-
-1.  From the Minecraft title screen, press **Play**.
-2.  Go to the **Friends** tab.
-3.  Click **Add Friend**.
-4.  On this page you can add your friend in multiple ways:   
-    - Click **Search Gamertag** and enter their Microsoft Account Gamertag.
-    - Have your friend use their mobile device to scan your QR code to navigate to your Xbox where they can add you as a friend.
-    - Press **Share** to send your friend your own Gamertag via chat or email so your friend can add you.
-    - Press **Copy** to copy your own Gamertag to share via chat, text, or email so your friend can search for you.
-5.  Once added, any joinable world your friend is playing in will show up in the **Friends** tab.
+Play with your friends in their Minecraft world, or invite them to your own! See [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](../Multiplayer-Support/How-Do-I-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
 
 ## Marketplace 
 
-[The Marketplace](../Minecraft-Marketplace/How-to-Find-Content-Missing-from-Minecraft-Marketplace.md) is your one-stop shop to get access to all kinds of new content in Minecraft! You can look through and find all kinds of interesting worlds, skin packs, textures, and more all made by Minecraft creators and featuring some of your favorite franchises! [The Marketplace](https://www.minecraft.net/en-us/article/what-minecraft-marketplace) is constantly getting new content, so be sure to check back to see what is in the store.
+The Marketplace is your one-stop shop to get access to all kinds of new content in Minecraft! You can look through and find all kinds of interesting worlds, skin packs, textures, and more all made by Minecraft creators and featuring some of your favorite franchises! [The Marketplace](https://www.minecraft.net/en-us/article/what-minecraft-marketplace) is constantly getting new content, so be sure to check back to see what is in the store.
 
 ## Settings
 
-Here are a couple of key settings you may want to toggle or adjust when first starting out: 
+See the below articles for some helpful info on making sure you are getting the best Minecraft experience possible!
 
-- If you would like to rebind default controls, you can do that in the Keyboard & Mouse or Controller sections.
-- Under the General section in Video, scrolling down you will find the ‘Render Distance’ setting. If you are experiencing frame rate lag, adjusting this to a lower number will usually result in better performance.
+- [Accessibility Settings for Minecraft: Bedrock Edition](../Accessibility/Accessibility-Settings-for-Minecraft-Bedrock-Edition.md)
+- [Accessibility Settings for Minecraft: Java Edition](../Accessibility/Accessibility-Settings-for-Minecraft-Java-Edition.md)
+- [Optimizing Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Performance-in-Minecraft.md)
