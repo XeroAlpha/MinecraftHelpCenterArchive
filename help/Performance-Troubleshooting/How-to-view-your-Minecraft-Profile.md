@@ -1,6 +1,7 @@
 ---
 title: How to view your Minecraft Profile
 date: 2024-06-21T21:00:34Z
+updated: 2024-07-11T16:34:08Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
@@ -18,8 +19,6 @@ You can access your profile by following these steps:
 
 This information on the Overview tab can be shown or hidden from other players. You can visit [Manage who can see your Minecraft profile](./Manage-Your-Profile-on-Minecraft-Bedrock-Edition.md) to learn more.
 
-- Friends
-- Followers
 - Achievements
 - Suggested Achievements
 
