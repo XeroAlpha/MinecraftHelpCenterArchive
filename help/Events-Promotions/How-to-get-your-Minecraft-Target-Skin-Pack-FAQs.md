@@ -1,7 +1,7 @@
 ---
 title: How to get your Minecraft Target Skin Pack FAQs
 date: 2020-09-21T20:59:19Z
-updated: 2023-10-05T17:56:04Z
+updated: 2024-07-12T16:18:09Z
 categories: Events & Promotions
 tags:
   - title_minecraft
@@ -34,7 +34,7 @@ If you are currently on your Windows or mobile device and have Minecraft install
 
 ## Do I need a Microsoft Xbox Live Account to Redeem the Target Holiday Skin Pack?
 
-Yes, we use Xbox Live with your Microsoft Account to allow your character skin to be available to you on any supported platform. If you don’t have an account, you can create one by going to ‌[https://www.xbox.com/en-US/live/minecraft/sign-up](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.xbox.com%2Fen-US%2Flive%2Fminecraft%2Fsign-up&data=02%7C01%7CJennifer.Pedersen%40microsoft.com%7Ce2c82215f0d244505d6f08d858dfa18b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637357066010961902&sdata=0aCyqIfPoaiTS4VQBAk1tWht6I9vkmpEQjUkrVa0x3s%3D&reserved=0) and following the steps to create a new free account. 
+Yes, we use Xbox Live with your Microsoft Account to allow your character skin to be available to you on any supported platform. If you don’t have an account, you can create one by going to ‌[https://www.xbox.com/en-US/live/minecraft/sign-up](https://www.xbox.com/en-US/games/minecraft/sign-up) and following the steps to create a new free account. 
 
 ## Where do I find my downloadable content in-game?
 
@@ -68,4 +68,4 @@ You need to own the Minecraft game that the Minecraft Marketplace is available o
 
 ***<u>Terms & Conditions</u>***
 
-- *Get a Minecraft Skin from the Minecraft Marketplace for use in Minecraft: Bedrock Edition!  Offer valid October 1, 2020 through March 31, 2021; redeem by March 31, 2021.  Available to residents of the United States and Puerto Rico. Use of the Minecraft Skin requires internet connection and a version of Minecraft with the Minecraft Marketplace (available separately). Limit 1 per person/account. Minecraft Skin has no cash value and is subject to the [Microsoft Services Agreement](https://help.minecraft.net/hc/en-us/articles/Microsoft%20Services%20Agreement). Minecraft Marketplace is available on Windows 10, Supported iOS and supported Android devices, Amazon Kindle Fire, Amazon Fire TV, Windows Mixed Reality, PlayStation 4, PS VR, Xbox One and Nintendo Switch.  Minecraft Marketplace is not available on Minecraft: Java or Minecraft Education or on the following devices:  Xbox 360, Windows Phone 8, PlayStation, Wii U and Apple TV.*
+- *Get a Minecraft Skin from the Minecraft Marketplace for use in Minecraft: Bedrock Edition!  Offer valid October 1, 2020 through March 31, 2021; redeem by March 31, 2021.  Available to residents of the United States and Puerto Rico. Use of the Minecraft Skin requires internet connection and a version of Minecraft with the Minecraft Marketplace (available separately). Limit 1 per person/account. Minecraft Skin has no cash value and is subject to the [Microsoft Services Agreement](https://www.microsoft.com/en-us/servicesagreement). Minecraft Marketplace is available on Windows 10, Supported iOS and supported Android devices, Amazon Kindle Fire, Amazon Fire TV, Windows Mixed Reality, PlayStation 4, PS VR, Xbox One and Nintendo Switch.  Minecraft Marketplace is not available on Minecraft: Java or Minecraft Education or on the following devices:  Xbox 360, Windows Phone 8, PlayStation, Wii U and Apple TV.*

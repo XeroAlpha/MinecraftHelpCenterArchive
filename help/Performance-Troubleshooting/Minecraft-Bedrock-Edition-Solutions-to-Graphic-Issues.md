@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Solutions to Graphic Issues"
 date: 2021-09-13T18:10:41Z
-updated: 2024-03-01T20:08:18Z
+updated: 2024-07-12T16:15:07Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -72,5 +72,5 @@ If you're still experiencing performance issues and have a dedicated graphics ca
 
 **WARNING:** Following the instructions linked below may cause changes to your system, files, settings, work, etc. that may be unexpected or irreversible and should only be undertaken by experienced users. Minimize the risks by backing up your files, settings, etc. before making changes.
 
-- [NVIDIA GPUs](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnvidia.custhelp.com%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F5035%2Fkw%2Fnvidia%2520control%2520panel%2Frelated%2F1&data=05%7C02%7Cv-johnhansen%40microsoft.com%7C225aa01968454f7b94ab08dc37df9619%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638446680632879891%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ZoI8UnaqV2H4UxYEzEZQKeD9Fxhp7HpujXgyVfd7BEY%3D&reserved=0)
-- [AMD GPUs](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amd.com%2Fen%2Fsupport%2Fkb%2Ffaq%2Fgpu-110&data=05%7C02%7Cv-johnhansen%40microsoft.com%7C225aa01968454f7b94ab08dc37df9619%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638446680632890646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=%2FzNG87iTVBF2AOXj4zRkFzAeg6KyvXGvh53vYhak9es%3D&reserved=0)
+- [NVIDIA GPUs](https://nvidia.custhelp.com/app/answers/detail/a_id/5035/kw/nvidia%20control%20panel/related/1)
+- [AMD GPUs](https://www.amd.com/en/resources/support-articles/knowledge-base-search.html)

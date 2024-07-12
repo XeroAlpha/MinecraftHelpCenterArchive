@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-06-14T21:38:16Z
+updated: 2024-07-12T16:05:27Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -52,15 +52,15 @@ hash:
 
 An account provider could not be found.
 
-- Ensure the “Xbox App” is installed, which you can find [here](https://www.xbox.com/en-US/apps/xbox-app-for-pc) or by searching for “Xbox” in your platform’s store app or in the Microsoft store.
+- Make sure you have the [Xbox App](https://www.xbox.com/en-US/apps/xbox-app-for-pc) installed and you are signed in with your Microsoft account. You can find the app by searching for “Xbox” in your platform’s store app or in the Microsoft store.
 
 ### Cauldron:
 
 Minecraft: Bedrock Edition could not reach the authentication servers, or the connection has timed out. This may be caused by a temporary service outage or issues with your game or internet connection. 
 
 - If an outage has been reported, please wait until the outage has been resolved and try again later.
-  - Service issues are usually reported by [@MojangStatus](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.twitter.com%2FMojangStatus&data=04%7C01%7Cv-abjork%40microsoft.com%7C4e562032327147814e7508d9d6122f89%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637776195864235828%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Ubeo%2FRZJv5kyXx8fSqamdsVUOjpDo%2BsoD%2FFszd057k0%3D&reserved=0) on Twitter. 
-- If no outage has been reported, please follow the [general troubleshooting](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhelp.minecraft.net%2Fhc%2Fen-us%2Farticles%2F4404016313741%23%3A~%3Atext%3DGeneral%2520Error%2520Code%2520Troubleshooting&data=04%7C01%7Cv-abjork%40microsoft.com%7C4e562032327147814e7508d9d6122f89%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637776195864285377%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dhAck5qKRznjlKW%2FGDrZeEYOv2hP2Aj3nWxULEzinqA%3D&reserved=0) steps below.
+  - Service issues are usually reported by [@MojangStatus](https://x.com/MojangStatus) on Twitter. 
+- If no outage has been reported, please follow the [general troubleshooting](#general-error-code-troubleshooting) steps below.
 
 ### Cobblestone:
 
@@ -127,7 +127,7 @@ The wrong Microsoft/Xbox account is being used to sign into the current PlayStat
 
 An unspecified error has occurred.
 
-- Please follow the [general troubleshooting steps](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhelp.minecraft.net%2Fhc%2Fen-us%2Farticles%2F4404016313741%23%3A~%3Atext%3DGeneral%2520Error%2520Code%2520Troubleshooting&data=04%7C01%7Cv-abjork%40microsoft.com%7C4e562032327147814e7508d9d6122f89%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637776195864285377%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=dhAck5qKRznjlKW%2FGDrZeEYOv2hP2Aj3nWxULEzinqA%3D&reserved=0) below.
+- Please follow the [general troubleshooting steps](#general-error-code-troubleshooting) below.
 
 ## Marketplace Errors starting with L-, D-, S- or P-
 

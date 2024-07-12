@@ -1,7 +1,7 @@
 ---
 title: How to Install Minecraft Preview
 date: 2022-01-31T18:12:02Z
-updated: 2024-06-20T16:27:36Z
+updated: 2024-07-12T15:47:27Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -45,7 +45,7 @@ Locate your platform in the list below for installation instructions for Minecra
 
 ### iOS
 
-1.  Go to the [TestFlight sign up page](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftestflight.apple.com%2Fjoin%2FqC1ZnReJ&data=05%7C01%7Cv-mmoeller%40microsoft.com%7C19069cde9c8a49a609e408da9112172a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637981804127514287%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BhPH6ZDZyIRnfYEAKgbBvwsB2SVjGEGzbtiiKe5Myno%3D&reserved=0).
+1.  Go to the [TestFlight sign up page](https://testflight.apple.com/join/qC1ZnReJ).
 
 Spots are limited, so if it is currently full, please check back later – we free up spots on or around the 1st of each month. If you do get a spot, you must update and play a new version at least once a month to maintain access due to the limited space.
 

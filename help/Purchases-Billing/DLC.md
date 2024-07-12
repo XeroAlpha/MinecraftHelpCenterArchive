@@ -1,7 +1,7 @@
 ---
 title: ゲーム内 DLC のコードの引き換え方法について
 date: 2021-10-12T20:58:03Z
-updated: 2023-08-15T17:41:43Z
+updated: 2024-07-12T16:11:11Z
 categories: Purchases & Billing
 tags:
   - section_27194152473613
@@ -57,7 +57,7 @@ DLC のコード番号は特定のプロモーション アイテム等に含ま
 
 ガイドが更に必要ですか?アイテムを見つけることができませんか? Minecraft でキャラクターを変更する方法についての詳細を以下からご確認ください。 
 
-[利用規約はここから確認できます](https://account.mojang.com/terms)   
+[利用規約はここから確認できます](https://www.minecraft.net/en-us/eula)   
 
   
 
@@ -109,8 +109,8 @@ DLC のコード番号は特定のプロモーション アイテム等に含ま
 
 ## コード番号が認識されない場合や無効とみなされる場合は、どうすればいいですか? 
 
-[Minecraft サポート](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhelp.minecraft.net%2Fhc%2Fja%2Frequest%2Fnew%3Fticket_form_id%3D360001225811&data=05%7C01%7Cv-mmoeller%40microsoft.com%7Caa971ea45f994030b3fa08db9d020830%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638276404285429803%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oX3m9I%2B7nomxshAfmnVna4O2Po9TWpEm9%2Ff4cPPDfd4%3D&reserved=0)にお問い合わせください。
+[Minecraft サポート](https://nam06.safelinks.prohttps//help.minecraft.net/hc/ja/request/new?ticket_form_id=360001225811tection.outlook.com/?url=https%3A%2F%2Fhelp.minecraft.net%2Fhc%2Fja%2Frequest%2Fnew%3Fticket_form_id%3D360001225811&data=05%7C01%7Cv-mmoeller%40microsoft.com%7Caa971ea45f994030b3fa08db9d020830%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638276404285429803%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oX3m9I%2B7nomxshAfmnVna4O2Po9TWpEm9%2Ff4cPPDfd4%3D&reserved=0)にお問い合わせください。
 
 ## サポートはどうすれば受けられますか?
 
-Minecraft に関するご質問については[Minecraft サポート](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhelp.minecraft.net%2Fhc%2Fja%2Frequest%2Fnew%3Fticket_form_id%3D360001225811&data=05%7C01%7Cv-mmoeller%40microsoft.com%7Caa971ea45f994030b3fa08db9d020830%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638276404285429803%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oX3m9I%2B7nomxshAfmnVna4O2Po9TWpEm9%2Ff4cPPDfd4%3D&reserved=0)にお問い合わせください。
+Minecraft に関するご質問については[Minecraft サポート](https://help.minecraft.net/hc/ja/request/new?ticket_form_id=360001225811)にお問い合わせください。
