@@ -40,7 +40,7 @@ To make your own world, select **Create New** at the top of your world list. Fir
 
 Now that we are in world creation, start by thinking of a super fun and unique name for your world. If that doesn't work, you can just leave it as the default "My World."
 
-Below that, choose between playing in a [Survival or Creative world](https://www.minecraft.net/en-us/article/creative-vs-survival-mode). Survival is the base Minecraft experience that will have you working to gather resources and encountering hostile mobs. To learn more, see [All Game Modes in Minecraft](./Minecraft-Differences-Between-Creative-Survival-and-Hardcore-Game-Modes.md).
+Below that, choose between playing in a [Survival or Creative world](https://www.minecraft.net/en-us/article/creative-vs-survival-mode). Survival is the base Minecraft experience that will have you working to gather resources and encountering hostile mobs. To learn more, see [All Game Modes in Minecraft](./All-Game-Modes-in-Minecraft.md).
 
 Difficulty can be changed later on as well, so don't feel too stressed to make a final decision here. For your first time playing, Easy should be a great way to introduce yourself to the game while encountering hostile mobs like the explosive Creeper and managing your hunger. If you don't want that stress in your life, Peaceful will turn off hostile mobs and your hunger will not deplete.
 

@@ -49,7 +49,7 @@ Additionally, these items can be planted to grow more of that item:
 
 ## How to gather supplies to make a farm in Minecraft
 
-There are various ways to find seeds and other food items. You can gather wheat seeds from breaking tall grass or finding it in a Village alongside other food sources. These items can also be found in Chests in various structures you find around the world. You can gather torchflower seeds and pitcher pods from a [Sniffer](../Minecraft-Game-Updates/Trails-Tales-Update-The-Sniffer.md) digging them up, and nether wart is only found in The Nether, usually in Nether Fortresses.
+There are various ways to find seeds and other food items. You can gather wheat seeds from breaking tall grass or finding it in a Village alongside other food sources. These items can also be found in Chests in various structures you find around the world. You can gather torchflower seeds and pitcher pods from a [Sniffer](https://help.minecraft.net/hc/en-us/articles/16476513292813) digging them up, and nether wart is only found in The Nether, usually in Nether Fortresses.
 
 After you have the item you want to plant, you need to create a Hoe at a Crafting Table and find an area to create farmland. Farmland can only be made by using the Hoe on top of a dirt or grass block. Now, you can plant your seed in the dirt to let it start growing.
 

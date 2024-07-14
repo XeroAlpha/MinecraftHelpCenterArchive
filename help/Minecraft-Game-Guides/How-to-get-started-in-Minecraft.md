@@ -30,7 +30,7 @@ So, you decided to take your first steps in Minecraft. Your first world has gene
 
 Your first day in Minecraft can be exciting, but it’s good to keep in mind that once the sun goes down, the hostile mobs come out. That means you have a limited amount of time to find a starter home.
 
-First, we recommend surveying your surroundings. Are you in a [biome](./Minecraft-Types-of-Biomes.md) you want to build into a home? Maybe there’s a nearby Village you can move into? You can even dig into a mountain and make a home underground. 
+First, we recommend surveying your surroundings. Are you in a [biome](./All-Biomes-in-Minecraft.md) you want to build into a home? Maybe there’s a nearby Village you can move into? You can even dig into a mountain and make a home underground. 
 
 Take all of this into consideration before you build or renovate your quarters for the first night. You’ll want a bare minimum of four walls and a roof, but a bed to sleep in would be great as well. Find some Sheep to get some wool and combine three pieces with three wooden planks to have somewhere to sleep through the night and make a new spawn point.
 
