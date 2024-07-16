@@ -1,14 +1,9 @@
 ---
 title: How to Manually Update Minecraft on Consoles
 date: 2024-06-26T15:47:52Z
+updated: 2024-07-16T20:25:50Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/27914177012749-How-to-Manually-Update-Minecraft-on-Consoles
 hash:
