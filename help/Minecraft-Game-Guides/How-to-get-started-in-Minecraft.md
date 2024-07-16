@@ -1,23 +1,11 @@
 ---
-title: How to get started in Minecraft
+title: How to Get Started in Minecraft
 date: 2023-09-22T22:01:31Z
+updated: 2024-07-16T14:56:48Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_other
-  - platform_pc
-  - platform_xbox_series_x/s
-  - platform_sony_playstation_5
-  - title_minecraft_java_bedrock_for_pc
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/19754515644941-How-to-get-started-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/19754515644941-How-to-Get-Started-in-Minecraft
 hash:
   h_01HAZE7PKYA5722Q0Z43P77ZP1: starting-a-home-base
   h_01HAZE7PKYCT9BMDTSH00PWXT1: prepare-plenty-of-food
