@@ -1,17 +1,9 @@
 ---
 title: "GDPR and Minecraft: Java Edition"
 date: 2019-06-27T20:39:50Z
-updated: 2024-05-31T21:15:46Z
+updated: 2024-07-18T17:20:09Z
 categories: Account Settings
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - Minecraft Java Edition
-  - GDPR
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/360029681632-GDPR-and-Minecraft-Java-Edition
 ---

@@ -1,26 +1,10 @@
 ---
 title: How to Subscribe to Minecraft Marketplace Pass
 date: 2024-02-20T18:00:08Z
-updated: 2024-03-12T16:00:01Z
+updated: 2024-07-18T17:05:19Z
 categories: Marketplace Pass
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_marketplace_support
-  - subject_content_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_24090952098445
-  - subject_marketplace_pass
 link: https://help.minecraft.net/hc/en-us/articles/24292592537869-How-to-Subscribe-to-Minecraft-Marketplace-Pass
 ---
 

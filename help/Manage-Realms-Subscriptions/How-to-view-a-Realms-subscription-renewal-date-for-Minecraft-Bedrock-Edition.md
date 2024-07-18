@@ -1,28 +1,11 @@
 ---
-title: "How to view a Realms subscription renewal date for Minecraft: Bedrock Edition"
+title: "How to View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition"
 date: 2024-02-16T20:00:04Z
-updated: 2024-02-22T18:03:31Z
+updated: 2024-07-18T17:08:54Z
 categories: Manage Realms Subscriptions
 tags:
-  - title_minecraft
-  - subject_change_account_information
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - subject_extending_a_realm
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_26104341937421
-link: https://help.minecraft.net/hc/en-us/articles/24186425321741-How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/24186425321741-How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition
 ---
 
 **How to view your Realms subscription expiration date for Minecraft: Bedrock Edition Realms**
