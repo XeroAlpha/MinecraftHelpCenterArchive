@@ -1,20 +1,9 @@
 ---
 title: "How to Create a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T21:02:17Z
-updated: 2024-04-17T19:02:49Z
+updated: 2024-07-19T20:12:10Z
 categories: Create or Join Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - subject_creating_a_realm
-  - platform_nintendo_switch
-  - category_realms_support
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_chromebook
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/20687129531149-How-to-Create-a-Minecraft-Bedrock-Edition-Realm
 hash:

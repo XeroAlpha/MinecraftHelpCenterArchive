@@ -1,24 +1,11 @@
 ---
-title: Where Do I Get Support for Minecraft Marketplace Purchases?
+title: Get Help from Creators of Marketplace Content
 date: 2024-01-31T15:53:46Z
+updated: 2024-07-19T18:52:58Z
 categories: Minecraft Marketplace
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_marketplace_support
-  - subject_content_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_chromebook
-  - new
   - section_24069904400141
-link: https://help.minecraft.net/hc/en-us/articles/23690665811981-Where-Do-I-Get-Support-for-Minecraft-Marketplace-Purchases
+link: https://help.minecraft.net/hc/en-us/articles/23690665811981-Get-Help-from-Creators-of-Marketplace-Content
 ---
 
 If you are playing a downloaded piece of content from the Minecraft Marketplace and notice an issue, you can submit feedback directly to the creator.
@@ -30,4 +17,8 @@ If you are playing a downloaded piece of content from the Minecraft Marketplace 
 
 **Note:** The feedback button only appears for content you have downloaded. The feedback button is only available in Marketplace and will not appear in the Dressing Room.
 
-If you are having issues with Minecoins, accessing your purchased content, or Marketplace Pass and Realms Plus content, contact Minecraft Support.
+If you are having issues with Minecoins or other Marketplace content, see the links below:
+
+- [How to Get Help with Missing Minecoins in Minecraft Marketplace](./How-to-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md)
+- [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](./How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md)
+- [How to Find Content Missing from Minecraft Marketplace](./How-to-Find-Content-Missing-from-Minecraft-Marketplace.md)
