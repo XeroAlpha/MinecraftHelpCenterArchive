@@ -4,16 +4,6 @@ date: 2023-10-25T20:06:23Z
 updated: 2024-06-21T21:16:08Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_pc
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20720109328269-How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories
 hash:

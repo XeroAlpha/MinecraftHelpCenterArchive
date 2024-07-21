@@ -4,19 +4,6 @@ date: 2023-10-24T20:58:20Z
 updated: 2024-04-22T21:48:46Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - subject_join_or_leave_realm
-  - platform_ios
-  - platform_android
-  - subject_creating_a_realm
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_chromebook
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20686901046669-How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm
 hash:

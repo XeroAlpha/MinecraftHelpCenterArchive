@@ -5,7 +5,7 @@ updated: 2023-01-26T17:28:14Z
 categories: Installation
 tags:
   - alert
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047118792-Mac-Installation-Guide
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047118792-Mac-Installation-Guide
 ---
 
 Minecraft Education can be installed on individual Macs manually. This article provides information on how to install Minecraft Education on Mac.
@@ -25,7 +25,7 @@ Before installing Minecraft Education, ensure these prerequisites are met.
 
 **Example of Security & Privacy settings**
 
-![mac_install.png](https://educommunity.minecraft.net/hc/article_attachments/360076257831/mac_install.png)
+![mac_install.png](https://edusupport.minecraft.net/hc/article_attachments/360076257831/mac_install.png)
 
  
 

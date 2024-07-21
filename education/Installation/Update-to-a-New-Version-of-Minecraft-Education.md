@@ -3,7 +3,7 @@ title: Update to a New Version of Minecraft Education
 date: 2020-08-18T00:43:31Z
 updated: 2023-08-03T15:49:07Z
 categories: Installation
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047705032-Update-to-a-New-Version-of-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047705032-Update-to-a-New-Version-of-Minecraft-Education
 hash:
   section: ""
 ---
@@ -56,7 +56,7 @@ Note: If a device does not auto update, it may be because your organization has 
 
 When you open Minecraft Education, the version number is displayed in the lower right hand edge of the home screen.
 
-![version_number.png](https://educommunity.minecraft.net/hc/article_attachments/360065110572)
+![version_number.png](https://edusupport.minecraft.net/hc/article_attachments/360065110572)
 
 ##  
 

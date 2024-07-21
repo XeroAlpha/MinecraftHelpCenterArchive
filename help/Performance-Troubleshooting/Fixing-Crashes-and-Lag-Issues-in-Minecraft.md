@@ -3,24 +3,10 @@ title: Fixing Crashes and Lag Issues in Minecraft
 date: 2024-06-13T19:08:57Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
   - category_technical_support
   - subject_game_performance
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/27554449862285-Fixing-Crashes-and-Lag-Issues-in-Minecraft
 hash:
   h_01J09FYGYZPPRWEN0BFFKX3DYW: recommended-troubleshooting-for-minecraft-lag-and-crashes

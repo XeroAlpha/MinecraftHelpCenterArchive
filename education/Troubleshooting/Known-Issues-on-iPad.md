@@ -3,7 +3,7 @@ title: Known Issues on iPad
 date: 2021-08-10T13:47:34Z
 updated: 2023-03-16T00:00:18Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404976638868-Known-Issues-on-iPad
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404976638868-Known-Issues-on-iPad
 hash:
   section: ""
   cannot-import-world-files-from-icloud-drive-downloads-folder: cannot-import-world-files-from-icloud-drive--downloads-folder

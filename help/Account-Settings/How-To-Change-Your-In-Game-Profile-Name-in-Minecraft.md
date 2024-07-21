@@ -4,15 +4,6 @@ date: 2021-09-10T21:08:08Z
 updated: 2024-06-21T16:31:28Z
 categories: Account Settings
 tags:
-  - title_minecraft_java_edition
-  - subject_change_account_information
-  - platform_windows_10
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/4408950195341-How-To-Change-Your-In-Game-Profile-Name-in-Minecraft
 hash:

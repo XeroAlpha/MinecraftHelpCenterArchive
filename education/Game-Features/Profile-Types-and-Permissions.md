@@ -3,7 +3,7 @@ title: Profile Types and Permissions
 date: 2020-08-10T09:07:30Z
 updated: 2024-05-29T20:44:08Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions
 hash:
   h_01HZ306QNAYYTGPJ2J1GJ320YG: teacher-vs-student-permissions
   h_01HZ306TZBZ47XCX8K9FQWVT05: operator
@@ -27,9 +27,9 @@ Users with Office 365 Education "faculty" software will have teacher permissions
 
 ## **Operator**
 
-When a player starts or hosts a game, they begin as an Operator. If the world was created with cheats on (which is the default setting), an Operator can run [“commands”](../Teaching-With-Minecraft/Essential-Commands.md) in the world.
+When a player starts or hosts a game, they begin as an Operator. If the world was created with cheats on (which is the default setting), an Operator can run [“commands”](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-) in the world.
 
-![mceclip0\_\_1\_.png](https://educommunity.minecraft.net/hc/article_attachments/4402660948628)
+![mceclip0\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402660948628)
 
 Subsequent players who join the game do not start with this privilege. To give another player operator privileges in a multiplayer game, the host can use the command “/op”. You can also use this command in combination with targeting to give this status to more than one player at a time, for example using @a for all.
 
@@ -102,6 +102,6 @@ For IT Admins, Minecraft Education creates it's display name from the Microsoft 
 
 **Additional Resources**
 
-- Learn some [essential commands](../Teaching-With-Minecraft/Essential-Commands.md)
-- Use your worldbuilder status and [communicate with boards](./Communicating-With-Boards.md)
-- Add [non-player characters](./Adding-Non-Player-Characters-NPCs.md) and bring life to your world
+- Learn some [essential commands](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-)
+- Use your worldbuilder status and [communicate with boards](https://educommunity.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards-)
+- Add [non-player characters](https://educommunity.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs-) and bring life to your world

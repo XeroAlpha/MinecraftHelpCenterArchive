@@ -4,8 +4,6 @@ date: 2023-04-12T16:58:11Z
 updated: 2024-07-04T21:40:01Z
 categories: Dungeons & Legends Game Guides
 tags:
-  - title_minecraft_legends
-  - title_legends
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14783563742733-Minecraft-Legends-Tips-and-Tricks
 hash:

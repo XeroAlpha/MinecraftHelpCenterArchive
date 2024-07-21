@@ -4,34 +4,7 @@ date: 2019-07-09T18:56:41Z
 updated: 2023-05-25T17:13:00Z
 categories: General Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_refund_support
-  - subject_game_refund
-  - subject_cannot_find_purchase
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - Bedrock
-  - platform_nintendo_switch
-  - category_marketplace_support
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_xbox_series_x/s
-  - category_refund
   - section_12619005712013
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/360030463592-Mojang-Studios-Refund-Policy
 hash:
   purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations.: purchases-made-with-paysafecard-multibanco-qiwi-or-poli-card-are-not-refundable-due-to-technical-or-regional-limitations

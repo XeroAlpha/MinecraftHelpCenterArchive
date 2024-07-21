@@ -4,18 +4,6 @@ date: 2024-01-22T20:21:50Z
 updated: 2024-01-30T19:15:22Z
 categories: Minecraft Launcher Support
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_game_does_not_start
-  - category_technical_support
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - title_minecraft_legends
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Troubleshooting-Launching-Minecraft-from-the-Minecraft-Launcher
 hash:

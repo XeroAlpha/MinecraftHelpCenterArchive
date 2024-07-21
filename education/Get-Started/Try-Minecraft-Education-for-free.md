@@ -5,7 +5,7 @@ updated: 2024-05-22T22:03:52Z
 categories: Get Started
 tags:
   - trial
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047116432-Try-Minecraft-Education-for-free
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047116432-Try-Minecraft-Education-for-free
 hash:
   h_01HHQA7922MD464EXSD8474EQP: technical-requirements
   h_01HHQA7922T31PCAXYHFSWHVSS: about-the-freetrial
@@ -73,7 +73,7 @@ Follow these steps to try a demo lesson 
 
 ## Additional Resources 
 
-- [Learning to play Minecraft Education](./Learn-to-play-Minecraft-Education.md) 
+- [Learning to play Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047555131) 
 - Connect with other educators directly via our [website](https://education.minecraft.net/community/connect-with-others/) or [forums](https://educommunity.minecraft.net/hc/en-us/community/topics) 
 - Explore the full [Knowledge Base](https://aka.ms/MCEDUSupportCenter) 
 - Check out these [classroom management tips](https://education.minecraft.net/blog/classroom-management-tips-from-minecraft-mentors/) from teachers like you

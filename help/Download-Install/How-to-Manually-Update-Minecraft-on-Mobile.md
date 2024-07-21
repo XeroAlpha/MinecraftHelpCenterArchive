@@ -4,27 +4,6 @@ date: 2021-09-14T00:17:35Z
 updated: 2024-06-14T17:36:31Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - Bedrock
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - system requirements
-  - device requirements
-  - installation
-  - platform_PC
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/4409172223501-How-to-Manually-Update-Minecraft-on-Mobile
 hash:

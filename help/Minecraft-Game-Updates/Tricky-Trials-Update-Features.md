@@ -4,22 +4,7 @@ date: 2024-06-03T20:49:16Z
 updated: 2024-06-28T20:31:54Z
 categories: Minecraft Game Updates
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - platform_chromebook
   - section_16474069459597
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/27262720018189-Tricky-Trials-Update-Features
 hash:
   h_01HZFSC2ST0H4W3GWM7CWVJYY6: wind-charge

@@ -3,7 +3,7 @@ title: "Assessment Tools (Cameras, Portfolio, Book & Quill) "
 date: 2020-08-10T09:05:03Z
 updated: 2024-05-15T21:05:27Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555551-Assessment-Tools-Cameras-Portfolio-Book-Quill
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555551-Assessment-Tools-Cameras-Portfolio-Book-Quill
 ---
 
 Minecraft Education provides helpful items to inspire creativity in the classroom and beyond, such as cameras and portfolios. This article explains what they are and how to use them. The topics covered will be:
@@ -13,7 +13,7 @@ Minecraft Education provides helpful items to inspire creativity in the classroo
 - Book and Quill (Writable Books)
 - Additional Useful Items
 
-![mceclip0\_\_1\_.png](https://educommunity.minecraft.net/hc/article_attachments/4402652940948)
+![mceclip0\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402652940948)
 
 **Camera**
 
@@ -24,7 +24,7 @@ Features
 
 How to use
 
-[![Image of a video of how to use the camera in Minecraft Education](https://educommunity.minecraft.net/hc/article_attachments/20761925976084)](https://youtu.be/1XLRGFibFNQ)
+[![Image of a video of how to use the camera in Minecraft Education](https://edusupport.minecraft.net/hc/article_attachments/20761925976084)](https://youtu.be/1XLRGFibFNQ)
 
  
 
@@ -45,17 +45,17 @@ How to use
 
 Once you take pictures, they show up in the Portfolio. When you have it equipped, right click to bring up a two-page book of your photos in chronological order.
 
-![mceclip1.png](https://educommunity.minecraft.net/hc/article_attachments/4402652942356)
+![mceclip1.png](https://edusupport.minecraft.net/hc/article_attachments/4402652942356)
 
 You can click to type a short caption below each picture if you like. To use the photos, press the “Export Portfolio” button. It creates a .zip file with all your photos as JPGs in your specified folder.
 
-![mceclip2.png](https://educommunity.minecraft.net/hc/article_attachments/4402652943892)
+![mceclip2.png](https://edusupport.minecraft.net/hc/article_attachments/4402652943892)
 
 **Book and Quill (writable books)**
 
 The Book and Quill lets you record your adventures and tell your stories.
 
-[![Image of a video about the Book and Quill in Minecraft Education](https://educommunity.minecraft.net/hc/article_attachments/20761925991316)](https://youtu.be/8Q7ZNwLVmpw)
+[![Image of a video about the Book and Quill in Minecraft Education](https://edusupport.minecraft.net/hc/article_attachments/20761925991316)](https://youtu.be/8Q7ZNwLVmpw)
 
  
 
@@ -71,11 +71,11 @@ You can find a book and quill in your items tab, or type “/give @s writable_bo
 
 Click on the pencil item on any page for more options.
 
-![mceclip3.png](https://educommunity.minecraft.net/hc/article_attachments/4402652945940)
+![mceclip3.png](https://edusupport.minecraft.net/hc/article_attachments/4402652945940)
 
 This is what you will see if you have no pictures in your portfolio.
 
-![mceclip4.png](https://educommunity.minecraft.net/hc/article_attachments/4402660936340)
+![mceclip4.png](https://edusupport.minecraft.net/hc/article_attachments/4402660936340)
 
 When you have a picture (even just one will cause this) in your portfolio, you will have a photo option.
 
@@ -86,11 +86,11 @@ When you have a picture (even just one will cause this) in your portfolio, you w
 
 Are you done editing? Click the sign button to reach the cover. Personalize it with a title, then select sign and close to lock your book! Please note, even if you are the author, you cannot change the book text at this point.
 
-![mceclip5.png](https://educommunity.minecraft.net/hc/article_attachments/4402652947348)
+![mceclip5.png](https://edusupport.minecraft.net/hc/article_attachments/4402652947348)
 
 The book will now appear as a purple book in your inventory.
 
-![mceclip6.png](https://educommunity.minecraft.net/hc/article_attachments/4402652947988)
+![mceclip6.png](https://edusupport.minecraft.net/hc/article_attachments/4402652947988)
 
 When you click on the book in your inventory, it will open and you can export it. The default name will be (Book Title) (Author Name) and save in your documents folder.
 
@@ -102,6 +102,6 @@ Happy writing!
 
 **Additional Useful Items for Lessons**
 
-- [Adding non-player characters (NPCs)](./Adding-Non-Player-Characters-NPCs.md)
-- [Communicating with Boards](./Communicating-With-Boards.md)
-- Share your ideas on the [forums](https://educommunity.minecraft.net/hc/en-us/community/topics)
+- [Adding non-player characters (NPCs)](https://educommunity.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs-)
+- [Communicating with Boards](https://educommunity.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards-)
+- Share your ideas on the [forums](https://edusupport.minecraft.net/hc/en-us/community/topics)

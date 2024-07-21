@@ -6,7 +6,7 @@ categories: Installation
 tags:
   - deployment_guidance
   - get_started
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556351-iOS-Installation-Guide
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556351-iOS-Installation-Guide
 hash:
   h_01HHQA66VJFAE0CT16T5TGY402: before-you-begin
   h_01HHQA66VJ3742G8CBB3DTHVNN: deploying-software
@@ -42,4 +42,4 @@ This table provides a list of companion apps that are **not** supported on iOS a
 |  |  |
 |----|----|
 | **Companion app** | **Workaround** |
-| Classroom Mode | Use Classroom Settings, see [Classroom Settings](../Game-Features/Classroom-Settings.md). |
+| Classroom Mode | Use Classroom Settings, see [Classroom Settings](https://educommunity.minecraft.net/hc/en-us/articles/360061369132). |

@@ -4,12 +4,6 @@ date: 2021-09-09T17:57:22Z
 updated: 2024-02-29T20:28:11Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_game_performance
-  - platform_windows_10
-  - platform_pc
-  - platform_PC
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/4408865164173-Minimum-Requirements-for-Ray-Tracing-in-Minecraft-Bedrock-Edition-for-Windows
 ---

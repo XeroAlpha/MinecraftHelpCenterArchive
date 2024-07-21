@@ -3,7 +3,7 @@ title: Chromebook Support
 date: 2020-08-13T19:50:46Z
 updated: 2023-12-15T18:00:21Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047750851-Chromebook-Support
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047750851-Chromebook-Support
 hash:
   h_01HHQA4STH3MR9TQ6XEEEVYH2G: proxy-support-isnt-yet-available
   h_01HHQA4STHVENPCNJ1YS9H47VY: storage-requirements
@@ -22,7 +22,7 @@ Directing web traffic through proxies may function but is **not** currently supp
 
 ## Storage Requirements
 
-On Chromebooks, Minecraft Education installs a separate installation per user on the device. Keep this in mind when considering storage requirements. View our [System Requirements](../Get-Started/System-Requirements.md) page for minimum space needed per installation. 
+On Chromebooks, Minecraft Education installs a separate installation per user on the device. Keep this in mind when considering storage requirements. View our [System Requirements](https://educommunity.minecraft.net/hc/en-us/articles/360047556591) page for minimum space needed per installation. 
 
  
 

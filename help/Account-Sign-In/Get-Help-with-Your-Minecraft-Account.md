@@ -4,24 +4,7 @@ date: 2019-06-27T20:41:11Z
 updated: 2024-05-31T21:24:06Z
 categories: Account Sign-In
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_game_does_not_start
-  - category_technical_support
-  - subject_how_to_play
-  - subject_change_account_information
-  - platform_windows_10
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - subject_microsoft_sign_in_questions
-  - platform_PC
-  - platform_macOS
-  - cuenta
   - section_12617594906509
-  - Login
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/360029681732-Get-Help-with-Your-Minecraft-Account
 ---

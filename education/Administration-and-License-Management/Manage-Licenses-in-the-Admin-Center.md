@@ -3,7 +3,7 @@ title: Manage Licenses in the Admin Center
 date: 2020-08-10T11:21:41Z
 updated: 2024-06-20T22:35:14Z
 categories: Administration and License Management
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047118672-Manage-Licenses-in-the-Admin-Center
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047118672-Manage-Licenses-in-the-Admin-Center
 hash:
   h_01HKX5GAXRA6KG1YWNGHC0351M: assign-or-remove-a-minecraft-education-license-from-a-user
   01HKX5MQHRQKGX67EZ6WCV6HME: how-to-enable-auto-claim-for-minecraft-education
@@ -26,10 +26,10 @@ If your school organization has purchased a Microsoft 365 A3 or A5 plan, the Min
 2.  From the left-hand menu, select ** Users**** **
 3.  From the** Users** list, select the users you want to add or remove the license from 
 4.  Add the relevant  license if it hasn't been assigned already. Note that if the user has any kind of faculty license, the user will be assigned an instructor role in the application and will have elevated permissions.  
-    ![m365_assignment.PNG](https://educommunity.minecraft.net/hc/article_attachments/4402371614100)
+    ![m365_assignment.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402371614100)
 5.  If you assigned a Microsoft 365 subscription bundle (A3 or A5), you'll need to ensure Minecraft Education is toggled on or off, depending on if you want to add or remove Minecraft Education from the user (it will be on by default)
 
-![m365_meetoggle2.PNG](https://educommunity.minecraft.net/hc/article_attachments/4402371615508)
+![m365_meetoggle2.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402371615508)
 
 **NOTE**:  Granting a license will immediately allow the user to access the app.  Removing the Minecraft Education license can take up to 30 days for the user to lose access. Changing the A3/A5 license type from faculty to student can take up to 7 days for role change to affect Minecraft Education. 
 
@@ -55,4 +55,4 @@ In order to process a refund, you'll first need to ensure that all of your licen
 
 For a more detailed, Minecraft Education specific guide on how to cancel licenses, view our video linked below! 
 
-[![2024-06-20 15_30_45-(2449) Cancelling Minecraft Education Licenses - YouTube - Work - Microsoft​ Edg.png](https://educommunity.minecraft.net/hc/article_attachments/27762320888468)](https://youtu.be/8QpZFSOcyug)
+[![2024-06-20 15_30_45-(2449) Cancelling Minecraft Education Licenses - YouTube - Work - Microsoft​ Edg.png](https://edusupport.minecraft.net/hc/article_attachments/27762320888468)](https://youtu.be/8QpZFSOcyug)

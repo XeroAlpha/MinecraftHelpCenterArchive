@@ -4,22 +4,6 @@ date: 2020-07-15T23:43:51Z
 updated: 2024-07-01T19:36:49Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - subject_progress_and_saved_games
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360046311411-A-Beginner-s-Guide-to-Farming-in-Minecraft
 hash:

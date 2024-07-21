@@ -4,8 +4,6 @@ date: 2023-04-12T17:25:52Z
 updated: 2024-07-04T21:43:22Z
 categories: Dungeons & Legends Game Guides
 tags:
-  - title_minecraft_legends
-  - title_legends
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14784573904525-Minecraft-Legends-PvP-Tips-and-Tricks
 hash:

@@ -3,7 +3,7 @@ title: Purchase Academic Licenses Directly
 date: 2021-04-16T15:18:09Z
 updated: 2024-01-25T19:35:42Z
 categories: Purchase Licenses
-link: https://educommunity.minecraft.net/hc/en-us/articles/360059957051-Purchase-Academic-Licenses-Directly
+link: https://edusupport.minecraft.net/hc/en-us/articles/360059957051-Purchase-Academic-Licenses-Directly
 hash:
   h_01HN11MK6VBZXDK9X7Z3ZX85RD: check-if-you-have-an-academically-qualified-admin-center-account
   h_01HN11MK6VDXRYFJ0AYDB77B0Q: purchase-and-manage-licenses-in-the-microsoft-admin-center

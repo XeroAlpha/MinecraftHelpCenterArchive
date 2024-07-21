@@ -3,7 +3,7 @@ title: Minecraft Education for Remote Learning
 date: 2020-08-10T11:20:23Z
 updated: 2023-05-09T16:42:45Z
 categories: Remote Learning
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047118652-Minecraft-Education-for-Remote-Learning
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047118652-Minecraft-Education-for-Remote-Learning
 ---
 
 As COVID-19 concerns prompt school closures around the world, many parents are turning to remote learning to keep students engaged.  Features like classroom [multiplayer](./How-To-Set-Up-A-Multiplayer-Game.md) allow students to collaborate on projects in their Minecraft worlds, building, planning, learning and even chatting as they work together. When they are ready to document their work and submit their projects, students can use tools like the [Camera and Book & Quill](../Game-Features/Assessment-Tools-Cameras-Portfolio-Book-Quill.md) to take screenshots, write about their work and export their in-game portfolios in PDF format.
@@ -22,13 +22,13 @@ Visit the [Get Started page](https://education.minecraft.net/get-started/) to s
 
 After you download and launch Minecraft Education, login with your Office 365 Education school account and password.  
 
-Check out our [Basic Troubleshooting Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047118892) for any login issues.
+Check out our [Basic Troubleshooting Guide](https://edusupport.minecraft.net/hc/en-us/articles/360047118892) for any login issues.
 
  Explore free lessons and creative remote learning projects
 
 - Minecraft provides resources to help educators and families stay connected, navigate remote education and engage in creative learning activities. Visit the Minecraft Education [Distance Learning Page](https://education.minecraft.net/distance-learning/) to explore fun challenges, immersive worlds, STEM lessons, and multiplayer tutorials for both educators and parents!
 - If you’re looking for fun, engaging creative activities to engage your kids, check out the [Minecraft build challenges](https://education.minecraft.net/class-resources/challenges/) which range from STEM to art and storytelling.
-- Check out our extensive collection of lessons on the [Minecraft Education Website](https://education.minecraft.net/class-resources/lessons/) and in our new [in-game Library](https://educommunity.minecraft.net/hc/en-us/articles/360035255232-What-s-New-The-Library-Release-Version-1-12-60-).
+- Check out our extensive collection of lessons on the [Minecraft Education Website](https://education.minecraft.net/class-resources/lessons/) and in our new [in-game Library](https://edusupport.minecraft.net/hc/en-us/articles/360035255232-What-s-New-The-Library-Release-Version-1-12-60-).
 
 ## Multiplayer
 

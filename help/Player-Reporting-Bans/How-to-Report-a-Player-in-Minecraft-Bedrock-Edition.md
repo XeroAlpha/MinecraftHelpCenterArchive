@@ -4,15 +4,6 @@ date: 2023-02-10T20:14:51Z
 updated: 2024-05-30T19:50:55Z
 categories: Player Reporting & Bans
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_pc
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/13019118732429-How-to-Report-a-Player-in-Minecraft-Bedrock-Edition
 hash:

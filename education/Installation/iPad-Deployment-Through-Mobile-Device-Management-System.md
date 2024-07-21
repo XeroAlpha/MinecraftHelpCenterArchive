@@ -3,7 +3,7 @@ title: iPad Deployment Through Mobile Device Management System
 date: 2021-08-03T14:53:03Z
 updated: 2023-02-09T00:50:17Z
 categories: Installation
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404617737108-iPad-Deployment-Through-Mobile-Device-Management-System
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404617737108-iPad-Deployment-Through-Mobile-Device-Management-System
 ---
 
 Minecraft Education can be purchased in bulk and then deployed using your preferred mobile device management system. This article provides information on how to deploy Minecraft Education to your organization's iPads.

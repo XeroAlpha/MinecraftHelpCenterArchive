@@ -3,7 +3,7 @@ title: Download Minecraft Education Beta
 date: 2021-09-24T18:25:00Z
 updated: 2024-06-18T18:35:31Z
 categories: Beta
-link: https://educommunity.minecraft.net/hc/en-us/articles/4407483028116-Download-Minecraft-Education-Beta
+link: https://edusupport.minecraft.net/hc/en-us/articles/4407483028116-Download-Minecraft-Education-Beta
 hash:
   h_01HA2Z9QPMWA92FY7FYBCRNZXC: prior-to-installation
   h_01HA2Z9QPMMQY4WJ2885ZR25ED: download-instructions
@@ -50,7 +50,7 @@ Uninstall the current version completely before installing the new beta version.
 
 [Download the beta for macOS application](https://aka.ms/downloadmee-macosBeta)
 
-For general information on getting started with Minecraft Education, check out the [Get Started with Minecraft Education](../Get-Started/Getting-started-with-Minecraft-Education.md).
+For general information on getting started with Minecraft Education, check out the [Get Started with Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047557271).
 
  
 

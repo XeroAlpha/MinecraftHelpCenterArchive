@@ -3,7 +3,7 @@ title: Troubleshoot the Unable to Connect to World Error
 date: 2021-08-10T14:35:38Z
 updated: 2024-05-22T22:59:24Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404977171732-Troubleshoot-the-Unable-to-Connect-to-World-Error
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404977171732-Troubleshoot-the-Unable-to-Connect-to-World-Error
 ---
 
 Can’t connect to other worlds in multiplayer? Playing with others is fun and it can be frustrating when we can’t connect. Different things can cause connection issues. This article provides information on how to troubleshoot issues connecting to multiplayer games when Minecraft Education indicates it can’t connect to the world.
@@ -12,7 +12,7 @@ Can’t connect to other worlds in multiplayer? Playing with others is fun and i
 
 **Example message**
 
-![Unable_to_Connect_to_World_Message.png](https://educommunity.minecraft.net/hc/article_attachments/4404977166612)
+![Unable_to_Connect_to_World_Message.png](https://edusupport.minecraft.net/hc/article_attachments/4404977166612)
 
  
 
@@ -36,7 +36,7 @@ This table provides a list of potential causes and solutions.   
 <tr style="height: 99px;">
 <td style="vertical-align: top; height: 99px; width: 312px"><p>The world is not in host mode.</p></td>
 <td style="vertical-align: top; height: 99px; width: 312px"><ol>
-<li>From the <strong>Pause</strong> menu, select the <strong>Multiplayer</strong> (<img src="https://educommunity.minecraft.net/hc/article_attachments/4404970486036" alt="Multiplayer_tab.png" />) tab.</li>
+<li>From the <strong>Pause</strong> menu, select the <strong>Multiplayer</strong> (<img src="https://edusupport.minecraft.net/hc/article_attachments/4404970486036" alt="Multiplayer_tab.png" />) tab.</li>
 <li>Select <strong>Start Hosting</strong> and then <strong>Confirm</strong>.</li>
 </ol></td>
 </tr>
@@ -46,7 +46,7 @@ This table provides a list of potential causes and solutions.   
 </tr>
 <tr style="height: 89px;">
 <td style="vertical-align: top; height: 89px; width: 312px"><p>Your network is not allowing traffic to and from URLs required for multiplayer connections. Some ports may need to be opened as well.</p></td>
-<td style="vertical-align: top; height: 89px; width: 312px"><p>Add all required URLs to your network allow list. Refer to the <a href="../Administration-and-License-Management/FAQ-IT-Admin-Guide.md">FAQ: IT Admin Guide – Minecraft Education</a> article for a list of all the required URLs and ports.</p></td>
+<td style="vertical-align: top; height: 89px; width: 312px"><p>Add all required URLs to your network allow list. Refer to the <a href="https://educommunity.minecraft.net/hc/en-us/articles/360047118992">FAQ: IT Admin Guide – Minecraft Education</a> article for a list of all the required URLs and ports.</p></td>
 </tr>
 </tbody>
 </table>

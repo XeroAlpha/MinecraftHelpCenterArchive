@@ -3,14 +3,6 @@ title: "Minecraft: Java Edition Snapshot FAQ"
 date: 2023-10-13T17:17:24Z
 categories: Download & Install
 tags:
-  - title_minecraft_java_edition
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_windows_10/11
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/20364354829709-Minecraft-Java-Edition-Snapshot-FAQ
 hash:

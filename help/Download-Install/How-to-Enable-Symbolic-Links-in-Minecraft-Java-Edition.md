@@ -4,13 +4,6 @@ date: 2023-05-26T17:44:29Z
 updated: 2024-05-13T17:08:03Z
 categories: Download & Install
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - subject_downloads_and_installations
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/16165590199181-How-to-Enable-Symbolic-Links-in-Minecraft-Java-Edition
 hash:

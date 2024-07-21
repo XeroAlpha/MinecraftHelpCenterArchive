@@ -4,10 +4,6 @@ date: 2022-05-09T16:09:03Z
 updated: 2023-07-10T19:15:19Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft
-  - platform_windows_10
-  - platform_pc
-  - platform_PC
   - section_12617899093133
   - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Minecraft-Checkout-Instructions-and-FAQ

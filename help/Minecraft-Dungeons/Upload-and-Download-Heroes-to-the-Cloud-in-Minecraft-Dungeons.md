@@ -4,16 +4,6 @@ date: 2020-05-21T19:09:40Z
 updated: 2024-04-25T16:27:48Z
 categories: Minecraft Dungeons
 tags:
-  - subject_progress_and_saved_games
-  - category_technical_support
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_PC
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360043504492-Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons
 ---

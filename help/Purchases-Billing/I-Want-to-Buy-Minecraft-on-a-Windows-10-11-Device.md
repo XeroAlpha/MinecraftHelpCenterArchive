@@ -4,11 +4,6 @@ date: 2022-06-03T18:40:38Z
 updated: 2023-07-10T18:59:58Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_windows_10
-  - platform_pc
-  - platform_PC
   - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/6660924652557-I-Want-to-Buy-Minecraft-on-a-Windows-10-11-Device
 hash:

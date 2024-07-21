@@ -4,16 +4,6 @@ date: 2021-09-14T20:56:10Z
 updated: 2024-05-31T21:01:58Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft_java_edition
-  - category_refund_support
-  - subject_game_refund
-  - subject_change_account_information
-  - platform_windows_10
-  - category_account_support
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/4409234093581-How-to-Update-your-Microsoft-Payment-Information-for-Minecraft
 hash:
@@ -37,8 +27,8 @@ You can view your payment details at any time on your Microsoft Account Settings
 
 A saved credit card is required for recurring purchases, such as monthly payments of Minecraft Realms. If you'd like to switch the card that is set up for recurring payments, delete the currently saved card, then add a new card to your profile. You can view more information on your Minecraft subscriptions in these articles:
 
-[How to view a Realms subscription renewal date in Minecraft: Bedrock Edition](../Manage-Realms-Subscriptions/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Bedrock-Edition.md)  
-[How to view a Realms subscription renewal date in Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Java-Edition.md)
+[How to view a Realms subscription renewal date in Minecraft: Bedrock Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition.md)  
+[How to view a Realms subscription renewal date in Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition.md)
 
   
 If you still have questions, check out [Who to Contact with your Minecraft Questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).

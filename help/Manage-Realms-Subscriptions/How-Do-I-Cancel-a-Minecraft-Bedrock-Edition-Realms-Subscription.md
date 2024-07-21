@@ -4,22 +4,6 @@ date: 2024-02-14T19:53:56Z
 updated: 2024-03-21T17:47:32Z
 categories: Manage Realms Subscriptions
 tags:
-  - title_minecraft
-  - subject_change_account_information
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/24124939590413-How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription
 ---

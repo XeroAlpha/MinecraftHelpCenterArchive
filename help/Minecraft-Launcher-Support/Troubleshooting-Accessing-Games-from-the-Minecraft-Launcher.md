@@ -4,18 +4,6 @@ date: 2024-01-22T20:38:35Z
 updated: 2024-01-30T18:46:06Z
 categories: Minecraft Launcher Support
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_game_does_not_start
-  - category_technical_support
-  - subject_downloads_and_installations
-  - title_minecraft_dungeons
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - title_minecraft_legends
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23431742854413-Troubleshooting-Accessing-Games-from-the-Minecraft-Launcher
 hash:

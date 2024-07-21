@@ -4,18 +4,6 @@ date: 2021-09-23T00:24:29Z
 updated: 2024-05-07T18:36:20Z
 categories: Minecraft Dungeons
 tags:
-  - subject_progress_and_saved_games
-  - category_technical_support
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - subject_game_performance
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_PC
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/4409836530189-Accounts-Required-to-Play-Minecraft-Dungeons
 hash:

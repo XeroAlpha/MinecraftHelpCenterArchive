@@ -3,7 +3,7 @@ title: What's New in the Cloud Preview (v1.21.01)
 date: 2024-01-31T18:59:06Z
 updated: 2024-06-18T18:45:47Z
 categories: Beta
-link: https://educommunity.minecraft.net/hc/en-us/articles/23323615654164-What-s-New-in-the-Cloud-Preview-v1-21-01
+link: https://edusupport.minecraft.net/hc/en-us/articles/23323615654164-What-s-New-in-the-Cloud-Preview-v1-21-01
 hash:
   h_01HNZMZHNPKNGHZSZTFC74JAVD: tricky-trials-update-v1210
   01J0PAAPQYXGXMJ3BGVXG41XMS: more-from-the-trails--tales-update-from-v12013-to-v12070
@@ -17,7 +17,7 @@ hash:
 
 Welcome to the Minecraft Education Preview Cloud update (v1.21.01)! You can install this application side-by-side with the main Minecraft Education application. This preview version adds the ability to upload as well as download worlds from OneDrive for backup. Try it out and share your feedback.
 
-View our [Minecraft Education Preview program article](https://aka.ms/MCEDUPreviewFAQ) to learn more about the preview system and how to download. The Minecraft Education Preview app is supported on ChromeOS and the Windows .appx version. For the app versions not available on the [Minecraft Education Preview](./Minecraft-Education-Preview-Program.md), use the [Minecraft Education Beta](./Minecraft-Education-Beta-program.md). 
+View our [Minecraft Education Preview program article](https://aka.ms/MCEDUPreviewFAQ) to learn more about the preview system and how to download. The Minecraft Education Preview app is supported on ChromeOS and the Windows .appx version. For the app versions not available on the [Minecraft Education Preview](https://educommunity.minecraft.net/hc/en-us/articles/23498937165844), use the [Minecraft Education Beta](https://educommunity.minecraft.net/hc/en-us/articles/360061391892). 
 
 Please let us know all about the things you love, as well as challenges you run into by contributing to our [feedback forums](https://aka.ms/MEEPreviewFeedback).
 

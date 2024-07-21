@@ -4,15 +4,6 @@ date: 2023-08-14T17:21:16Z
 updated: 2024-02-12T18:43:48Z
 categories: Minecraft Launcher Support
 tags:
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/18511975781645-How-to-Use-Quick-Play-in-the-Minecraft-Launcher
 ---

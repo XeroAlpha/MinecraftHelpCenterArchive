@@ -4,16 +4,6 @@ date: 2020-06-09T14:01:12Z
 updated: 2023-09-26T21:01:00Z
 categories: Minecraft Dungeons
 tags:
-  - category_technical_support
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_PC
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360044268272-Minecraft-Dungeons-Patch-Notes
 hash:

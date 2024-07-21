@@ -4,13 +4,6 @@ date: 2023-05-05T16:52:24Z
 updated: 2024-02-09T22:45:03Z
 categories: Backup & Restore
 tags:
-  - subject_progress_and_saved_games
-  - title_minecraft
-  - category_technical_support
-  - title_minecraft_dungeons
-  - title_minecraft_java_&_bedrock_for_pc
-  - title_minecraft_legends
-  - title_legends
   - section_27166561402125
 link: https://help.minecraft.net/hc/en-us/articles/15518925987981-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-Xbox
 ---

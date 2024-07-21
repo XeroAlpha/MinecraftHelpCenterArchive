@@ -3,7 +3,7 @@ title: "Communicating With Boards "
 date: 2020-08-10T09:21:46Z
 updated: 2022-03-22T23:32:21Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards
 ---
 
 Communicate necessary information in your world to visitors by using these items. They can contain more text than [signs](https://minecraft.gamepedia.com/Sign).

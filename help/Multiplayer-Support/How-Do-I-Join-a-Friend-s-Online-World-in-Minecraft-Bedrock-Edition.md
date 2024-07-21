@@ -4,20 +4,6 @@ date: 2024-02-14T18:43:29Z
 updated: 2024-06-21T21:07:50Z
 categories: Multiplayer Support
 tags:
-  - title_minecraft
-  - category_technical_support
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
 link: https://help.minecraft.net/hc/en-us/articles/24122512131213-How-Do-I-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition
 hash:

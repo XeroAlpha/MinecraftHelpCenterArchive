@@ -3,7 +3,7 @@ title: What's New in The Wild Update (v1.19.53)
 date: 2023-03-15T21:21:54Z
 updated: 2024-05-22T23:14:12Z
 categories: Product
-link: https://educommunity.minecraft.net/hc/en-us/articles/13961617817236-What-s-New-in-The-Wild-Update-v1-19-53
+link: https://edusupport.minecraft.net/hc/en-us/articles/13961617817236-What-s-New-in-The-Wild-Update-v1-19-53
 hash:
   h_01HYH99XFGHWSJY6H939W0QPZS: the-wild-update-hotfix-v11953
   h_01HYH99XFGC2AX84Z0WPETB093: from-the-wild-update-v11952
@@ -76,7 +76,7 @@ We've updated account management to make it easier to stay signed in and switch 
 - Easier to use tooltips and control hints in-world.
 - Numbered hot bar slots help new players learn how to switch between items in their hot bar using mouse and keyboard.
 
-![LearningPrompts_e19.png](https://educommunity.minecraft.net/hc/article_attachments/13987355157396)
+![LearningPrompts_e19.png](https://edusupport.minecraft.net/hc/article_attachments/13987355157396)
 
 ## OS minimum requirement changes:
 
@@ -84,7 +84,7 @@ We've updated account management to make it easier to stay signed in and switch 
 - Windows: Windows 10
 - iOS: From v1.19 of Minecraft Education, iOS 11 or higher will be required to login to the Minecraft Education app.
 
-Read more about [System Requirements](../Get-Started/System-Requirements.md)
+Read more about [System Requirements](https://educommunity.minecraft.net/hc/en-us/articles/360047556591)
 
 ## Known Issues
 

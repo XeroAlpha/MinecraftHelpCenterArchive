@@ -4,17 +4,7 @@ date: 2022-05-11T16:53:37Z
 updated: 2024-04-26T21:29:40Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
   - section_15463792344973
-  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/6160517019149-How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter
 hash:

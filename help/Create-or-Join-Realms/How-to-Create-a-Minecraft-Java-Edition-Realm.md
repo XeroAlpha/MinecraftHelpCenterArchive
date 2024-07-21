@@ -4,24 +4,6 @@ date: 2021-09-14T22:37:59Z
 updated: 2024-03-27T21:26:40Z
 categories: Create or Join Realms
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_connectivity
-  - platform_windows_10
-  - subject_join_or_leave_realm
-  - subject_creating_a_realm
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/4409253767821-How-to-Create-a-Minecraft-Java-Edition-Realm
 hash:

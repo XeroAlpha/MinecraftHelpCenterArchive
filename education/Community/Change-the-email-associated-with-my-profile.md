@@ -3,7 +3,7 @@ title: Change the email associated with my profile
 date: 2022-10-18T18:12:41Z
 updated: 2023-10-19T19:05:05Z
 categories: Community
-link: https://educommunity.minecraft.net/hc/en-us/articles/10182147546260-Change-the-email-associated-with-my-profile
+link: https://edusupport.minecraft.net/hc/en-us/articles/10182147546260-Change-the-email-associated-with-my-profile
 hash:
   h_01HD46FV09YBY5NAKTJ1F8QWX6: create-a-new-profile
 ---

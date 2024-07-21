@@ -3,24 +3,6 @@ title: Gaining Trust from Mobs in Minecraft
 date: 2023-09-26T15:45:33Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_sony_playstation_5
-  - title_minecraft_java_bedrock_for_pc
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/19851248406285-Gaining-Trust-from-Mobs-in-Minecraft
 ---

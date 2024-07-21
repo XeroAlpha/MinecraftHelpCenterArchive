@@ -4,15 +4,6 @@ date: 2019-12-10T03:08:37Z
 updated: 2024-07-09T20:14:37Z
 categories: Account Sign-In
 tags:
-  - subject_progress_and_saved_games
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - subject_change_account_information
-  - subject_game_performance
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_sony_playstation_4
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/360037725571-How-to-Link-and-Unlink-Microsoft-and-PlayStation-Accounts-in-Minecraft-Bedrock-Edition
 hash:

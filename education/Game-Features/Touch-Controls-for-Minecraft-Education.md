@@ -3,7 +3,7 @@ title: Touch Controls for Minecraft Education
 date: 2021-01-21T14:45:17Z
 updated: 2024-04-24T21:29:43Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360055370012-Touch-Controls-for-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/360055370012-Touch-Controls-for-Minecraft-Education
 hash:
   h_01HACTKKMWJ55YAFG9258K78R5: game-controls
 ---
@@ -12,7 +12,7 @@ Minecraft Education with touch controls offers players a chance to play on an iP
 
  
 
-![minecraft-pocket-edition-gameplay-controls-500x277.jpg](https://educommunity.minecraft.net/hc/article_attachments/360082921092)
+![minecraft-pocket-edition-gameplay-controls-500x277.jpg](https://edusupport.minecraft.net/hc/article_attachments/360082921092)
 
 *Pictured above is the game control interface players will see on Minecraft Education for touch controls.*
 

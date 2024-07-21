@@ -4,25 +4,6 @@ date: 2023-05-19T20:22:48Z
 updated: 2024-03-27T18:22:46Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - subject_join_or_leave_realm
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_PC
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - platform_sony_playstation_5
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/15937250579213-How-To-Edit-Your-Realms-on-Minecraft-net
 ---

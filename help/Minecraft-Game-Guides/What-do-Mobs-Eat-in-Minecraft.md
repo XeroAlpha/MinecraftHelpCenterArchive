@@ -4,20 +4,6 @@ date: 2023-09-25T21:42:14Z
 updated: 2024-07-01T21:45:43Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_how_to_play
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_kindle_fire
-  - platform_pc
-  - platform_xbox_series_x/s
-  - platform_sony_playstation_5
-  - title_minecraft_java_bedrock_for_pc
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/19827173448589-What-do-Mobs-Eat-in-Minecraft
 hash:

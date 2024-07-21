@@ -3,7 +3,7 @@ title: Chromebook Installation Guide
 date: 2021-08-03T17:40:06Z
 updated: 2023-01-26T17:04:14Z
 categories: Installation
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404625978516-Chromebook-Installation-Guide
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404625978516-Chromebook-Installation-Guide
 ---
 
 Minecraft Education can be installed on supported devices through both the managed Google Play Store and consumer Google Play Store. This article provides information on how to install Minecraft Education on Chromebook.

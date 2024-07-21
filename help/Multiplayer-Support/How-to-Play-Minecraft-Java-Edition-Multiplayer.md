@@ -4,14 +4,6 @@ date: 2021-09-29T21:02:52Z
 updated: 2024-02-28T22:12:47Z
 categories: Multiplayer Support
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - subject_how_to_play
-  - subject_connectivity
-  - category_realms_support
-  - platform_linux
-  - platform_macos
-  - platform_pc
   - section_27166460834061
 link: https://help.minecraft.net/hc/en-us/articles/4410317081741-How-to-Play-Minecraft-Java-Edition-Multiplayer
 hash:

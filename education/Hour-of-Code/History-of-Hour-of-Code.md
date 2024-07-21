@@ -3,7 +3,7 @@ title: History of Hour of Code
 date: 2020-08-10T11:14:03Z
 updated: 2024-03-19T19:34:33Z
 categories: Hour of Code
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556811-History-of-Hour-of-Code
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556811-History-of-Hour-of-Code
 hash:
   h_01HSC32HBM7W9CSAPKWQ439FG5: "2023"
   h_01HSC2Z9YX807FKXCGGSYZ4PXH: "2022"

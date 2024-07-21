@@ -4,17 +4,6 @@ date: 2022-06-16T19:39:34Z
 updated: 2024-05-31T19:35:16Z
 categories: Account Settings
 tags:
-  - title_minecraft_java_edition
-  - subject_change_account_information
-  - platform_windows_10
-  - category_account_support
-  - platform_linux
-  - platform_macos
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - amigo
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/6985971367309-How-to-Change-Online-Chat-Settings-for-Minecraft
 hash:

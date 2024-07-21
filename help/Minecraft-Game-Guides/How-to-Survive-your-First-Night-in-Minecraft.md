@@ -3,26 +3,6 @@ title: How to Survive your First Night in Minecraft
 date: 2023-09-27T14:19:56Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_sony_playstation_5
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/19882462609677-How-to-Survive-your-First-Night-in-Minecraft
 hash:
@@ -33,7 +13,7 @@ Starting a new world in Minecraft is an exciting time. You know you have an infi
 
 ## Prepare for the night
 
-When you first spawn into your world, it will be the middle of the day and your timer before nightfall has already begun. [It’s time to get started](./How-to-get-started-in-Minecraft.md). The best course of action before the zombies, skeletons, and spiders come out is to gather resources and prepare for the night ahead.
+When you first spawn into your world, it will be the middle of the day and your timer before nightfall has already begun. [It’s time to get started](./How-to-Get-Started-in-Minecraft.md). The best course of action before the zombies, skeletons, and spiders come out is to gather resources and prepare for the night ahead.
 
 We recommend finding a place to make a little shelter first. You can gather blocks and build your own little house, dig into the ground to make some shelter, or move yourself into a nearby village. This doesn’t need to be your permanent home, just an area you can protect yourself in the short term.
 

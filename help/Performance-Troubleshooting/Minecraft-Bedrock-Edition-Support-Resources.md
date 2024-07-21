@@ -4,8 +4,6 @@ date: 2019-10-13T21:48:42Z
 updated: 2024-02-19T21:24:35Z
 categories: Performance & Troubleshooting
 tags:
-  - category_technical_support
-  - category_account_support
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/360034754072-Minecraft-Bedrock-Edition-Support-Resources
 hash:

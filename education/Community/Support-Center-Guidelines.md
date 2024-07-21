@@ -3,7 +3,7 @@ title: Support Center Guidelines
 date: 2020-08-11T00:18:44Z
 updated: 2023-05-05T23:42:21Z
 categories: Community
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047151192-Support-Center-Guidelines
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047151192-Support-Center-Guidelines
 ---
 
 The Support Forums are a great place to look for answers to your questions about Minecraft Education.  Our agents are standing by to help you out!

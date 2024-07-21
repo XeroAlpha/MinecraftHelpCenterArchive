@@ -23,13 +23,13 @@ Minecraft Education contains additional features and resources from the origin
 - **Chalkboards** Used to write messages. Chalkboards can differ in size and can be used to explain instructions or learning goals.   
 - **Non-player characters (NPCs)** Educators can create an NPC to act as a guide for students. These NPCs can be named and share messages with students. Along with messages, the NPC also can link to URLs for additional information.   
 
-Learn more about[ Minecraft Education features](../../education/Game-Features/Features-of-Minecraft-Education.md). 
+Learn more about[ Minecraft Education features](https://educommunity.minecraft.net/hc/en-us/articles/360047117032-Features-of-Minecraft-Education-Edition-). 
 
 ## Trying out Minecraft Education for Free 
 
 There are two ways to try Minecraft Education for free, through the free trial or through the demo lesson. The free trial requires you to have an account, either an Office 365 Education account or a Microsoft 365 account. The trial is limited by the number of logins (25 for teachers with an Office 365 Education account and 10 for all other users) before a paid license is required to continue playing.  
 
-[Learn more about or sign up for a free trial of Minecraft Education](../../education/Get-Started/Try-Minecraft-Education-for-free.md). 
+[Learn more about or sign up for a free trial of Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047116432). 
 
 As an alternative to support remote learning, instructors also can download this [remote learning toolkit](https://education.minecraft.net/wp-content/uploads/Remote-Learning-with-Minecraft-Education-Edition_Final.pdf) that contains 50+ lessons that educators can use while their students are in school or at home.  If you don’t have an O365 EDU account, you can try the free demo coding lesson on Minecraft Education. This Hour of Code lesson explores basic coding concepts while also teaching about artificial intelligence. Learn more about [the Hour of Code demo and how to get started](https://education.minecraft.net/hour-of-code-2020).   
 

@@ -4,21 +4,6 @@ date: 2021-09-13T22:15:55Z
 updated: 2024-03-07T18:02:07Z
 categories: Backup & Restore
 tags:
-  - title_minecraft_java_edition
-  - subject_progress_and_saved_games
-  - title_minecraft
-  - category_technical_support
-  - subject_downloads_and_installations
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - title_minecraft_java_bedrock_for_pc
   - section_27166561402125
 link: https://help.minecraft.net/hc/en-us/articles/4409159214605-Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer
 hash:

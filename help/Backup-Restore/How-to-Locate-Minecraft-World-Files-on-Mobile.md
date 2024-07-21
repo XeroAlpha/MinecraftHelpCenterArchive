@@ -4,11 +4,10 @@ date: 2024-05-20T21:07:21Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
-  - title_minecraft
-  - category_technical_support
   - platform_ios
   - platform_android
   - section_27166561402125
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/26883028637965-How-to-Locate-Minecraft-World-Files-on-Mobile
 hash:
   h_01HYBWZYQ626JYAYSCDJX7YBBY: how-to-access-minecraft-bedrock-world-files-on-ios-via-files-app

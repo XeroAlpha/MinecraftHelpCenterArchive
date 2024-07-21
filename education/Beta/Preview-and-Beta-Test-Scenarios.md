@@ -3,7 +3,7 @@ title: Preview and Beta Test Scenarios
 date: 2023-07-07T23:20:07Z
 updated: 2024-06-18T18:29:27Z
 categories: Beta
-link: https://educommunity.minecraft.net/hc/en-us/articles/17208311436180-Preview-and-Beta-Test-Scenarios
+link: https://edusupport.minecraft.net/hc/en-us/articles/17208311436180-Preview-and-Beta-Test-Scenarios
 hash:
   h_01HTGCFBXQYS9JXJW0C203JHVF: scenarios
 ---
@@ -12,7 +12,7 @@ Thank you for helping us test our latest Preview and Beta builds!  The time you
 
 ## Scenarios
 
-There are many areas of Minecraft Education to test on the latest Preview build.  If you find any bugs or behaviors that don't seem right, please post in our [beta feedback forum](https://educommunity.minecraft.net/hc/en-us/community/topics/4418855926292-Beta-Feedback) or [open a ticket](https://aka.ms/meeticket) with the Support Team.
+There are many areas of Minecraft Education to test on the latest Preview build.  If you find any bugs or behaviors that don't seem right, please post in our [beta feedback forum](https://edusupport.minecraft.net/hc/en-us/community/topics/4418855926292-Beta-Feedback) or [open a ticket](https://aka.ms/meeticket) with the Support Team.
 
 1.  Login
     - Single sign on (from device) and Remember me 

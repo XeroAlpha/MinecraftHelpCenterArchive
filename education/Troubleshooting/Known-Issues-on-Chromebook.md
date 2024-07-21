@@ -3,7 +3,7 @@ title: Known Issues on Chromebook
 date: 2021-08-10T13:34:06Z
 updated: 2024-05-22T23:07:26Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404969825044-Known-Issues-on-Chromebook
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404969825044-Known-Issues-on-Chromebook
 hash:
   h_01HYH8XMKG35SJJNEZQCHH225X: ""
   h_01HYH8XMKGEVJW3YPVM5P6H01J: exported-structure-blocks-dont-open-in-3dviewer

@@ -4,18 +4,6 @@ date: 2023-10-05T21:41:36Z
 updated: 2023-10-13T17:29:18Z
 categories: Create or Join Realms
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - subject_creating_a_realm
-  - category_realms_support
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows_10/11
-  - title_minecraft_java_bedrock_for_pc
-  - subject_new_or_existing_subscription_questions
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/20143730191245-Realms-in-Minecraft-Java-Edition-Snapshot-FAQ
 hash:

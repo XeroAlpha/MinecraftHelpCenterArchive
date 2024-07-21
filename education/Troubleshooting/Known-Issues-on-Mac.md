@@ -3,7 +3,7 @@ title: Known Issues on Mac
 date: 2021-08-10T13:52:22Z
 updated: 2023-01-27T23:15:17Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404970007700-Known-Issues-on-Mac
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404970007700-Known-Issues-on-Mac
 hash:
   some-lesson-worlds-dont-show-new-content-from-goat-update.: some-lesson-worlds-dont-show-new-content-from-goat-update
   section: ""

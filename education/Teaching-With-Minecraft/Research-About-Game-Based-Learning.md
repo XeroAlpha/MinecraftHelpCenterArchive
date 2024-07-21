@@ -3,7 +3,7 @@ title: "Research About Game-Based Learning "
 date: 2020-08-10T08:41:14Z
 updated: 2023-02-17T23:27:05Z
 categories: Teaching With Minecraft
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047116892-Research-About-Game-Based-Learning
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047116892-Research-About-Game-Based-Learning
 ---
 
 Can a video game really be educational? Do you have any data to prove this is more effective than traditional lesson plans in the classroom?
@@ -20,5 +20,5 @@ For more information about research on game-based learning, [c](https://educatio
 **Additional Resources**
 
 - [See lessons developed by the Minecraft team](https://education.minecraft.net/community/publicprofile-lessonby/?user_id=51)
-- [Get started with Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047554531-Get-started-with-Minecraft-Education-Edition-all-platforms-)
+- [Get started with Minecraft Education](https://edusupport.minecraft.net/hc/en-us/articles/360047554531-Get-started-with-Minecraft-Education-Edition-all-platforms-)
 - [Learn to Play Minecraft Education](../Get-Started/Learn-to-play-Minecraft-Education.md)

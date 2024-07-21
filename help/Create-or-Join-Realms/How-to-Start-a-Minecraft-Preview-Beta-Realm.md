@@ -4,22 +4,6 @@ date: 2023-10-10T17:12:23Z
 updated: 2024-04-05T16:50:02Z
 categories: Create or Join Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - subject_creating_a_realm
-  - platform_nintendo_switch
-  - category_realms_support
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/20264295053709-How-to-Start-a-Minecraft-Preview-Beta-Realm
 ---

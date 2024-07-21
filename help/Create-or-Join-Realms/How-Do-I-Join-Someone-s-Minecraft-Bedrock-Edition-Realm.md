@@ -4,29 +4,10 @@ date: 2021-09-30T23:13:51Z
 updated: 2024-04-15T19:06:01Z
 categories: Create or Join Realms
 tags:
-  - title_minecraft
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
   - subject_join_or_leave_realm
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
   - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - platform_PC
-  - platform_xbox_series_x/s
-  - amigos
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - platform_sony_playstation_5
-  - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4410386197133-How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01HHZAZBEVK8685JVD1BZS58JN: how-to-join-a-realm-in-bedrock

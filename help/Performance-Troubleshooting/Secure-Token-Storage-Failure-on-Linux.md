@@ -4,13 +4,6 @@ date: 2021-09-06T20:06:17Z
 updated: 2022-11-11T21:38:32Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_game_does_not_start
-  - category_technical_support
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_linux
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/4408668374925-Secure-Token-Storage-Failure-on-Linux
 ---

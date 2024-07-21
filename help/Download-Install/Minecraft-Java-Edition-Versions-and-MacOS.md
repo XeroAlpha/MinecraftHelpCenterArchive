@@ -4,12 +4,9 @@ date: 2022-01-12T15:55:36Z
 updated: 2024-04-24T16:04:31Z
 categories: Download & Install
 tags:
-  - title_minecraft_java_edition
-  - subject_game_does_not_start
-  - category_technical_support
-  - subject_how_to_play
   - platform_macos
   - section_27166490706957
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4420326353933-Minecraft-Java-Edition-Versions-and-MacOS
 ---
 

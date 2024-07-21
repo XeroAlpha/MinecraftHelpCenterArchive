@@ -4,17 +4,6 @@ date: 2024-02-20T21:52:23Z
 updated: 2024-05-09T17:30:34Z
 categories: Account Settings
 tags:
-  - title_minecraft
-  - subject_change_account_information
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_account_support
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_chromebook
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/24302243825677-Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace
 ---

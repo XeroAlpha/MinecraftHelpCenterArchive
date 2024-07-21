@@ -4,8 +4,6 @@ date: 2023-04-13T17:02:03Z
 updated: 2023-04-18T20:16:16Z
 categories: Dungeons & Legends Game Guides
 tags:
-  - title_minecraft_legends
-  - title_legends
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14818774175629-Minecraft-Legends-Map-and-Village-Under-Attack-Tutorial
 hash:

@@ -3,7 +3,7 @@ title: Hold a Digital Event in Minecraft
 date: 2020-08-10T11:17:26Z
 updated: 2024-05-09T18:19:40Z
 categories: Remote Learning
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556851-Hold-a-Digital-Event-in-Minecraft
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556851-Hold-a-Digital-Event-in-Minecraft
 hash:
   h_01HXF94RBQCT03J4X3WMT5K8C5: i-want-to-host-a-graduation-prom-or-other-large-event-using-minecraft-how-can-i-do-this
   h_01HXF94RBQR15ZQ2EKKNX468A5: how-can-i-invite-others-to-my-minecraft-event
@@ -34,7 +34,7 @@ As COVID-19 concerns prompted school closures around the world, many schools fou
 
 ## I want to host a graduation, prom or other large event using Minecraft. How can I do this?
 
-This is an awesome idea! Minecraft Education can host up to 40 players in a world.  Check out the Minecraft Education [Multiplayer guide](./How-To-Set-Up-A-Multiplayer-Game.md) to learn more. 
+This is an awesome idea! Minecraft Education can host up to 40 players in a world.  Check out the Minecraft Education [Multiplayer guide](https://educommunity.minecraft.net/hc/en-us/articles/360047555531) to learn more. 
 
 If you plan to host more than 40 players, using a custom server for your world with Minecraft Bedrock or Minecraft Java Edition will be your best option.  These versions of Minecraft can support larger gatherings with hundreds of participants.  You can download server software for Minecraft [Bedrock](https://www.minecraft.net/en-us/download/server/bedrock/) and [Java](https://www.minecraft.net/en-us/download/server/) and visit this guide to learn about [setting up a Minecraft server on Azure](https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/multiplayer-basic-game-server-hosting).
 
@@ -64,7 +64,7 @@ Since each of these Minecraft editions use distinct licensing systems, it's not 
 
 ## How can I get help building an awesome Minecraft world for my event?
 
-Minecraft has a global community of creators who can recreate your campus, school theater, or just about any venue you can imagine within Minecraft.   Visit the [Minecraft Education Content Creators](./Minecraft-Education-Content-Creators.md) page to learn more.
+Minecraft has a global community of creators who can recreate your campus, school theater, or just about any venue you can imagine within Minecraft.   Visit the [Minecraft Education Content Creators](https://educommunity.minecraft.net/hc/en-us/articles/26453473957652) page to learn more.
 
 ## How can I live broadcast my Minecraft event?
 

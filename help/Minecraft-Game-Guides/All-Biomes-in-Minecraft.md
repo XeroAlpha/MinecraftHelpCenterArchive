@@ -4,22 +4,6 @@ date: 2020-07-17T21:09:39Z
 updated: 2024-07-09T15:46:10Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - platform_PC
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360046470431-All-Biomes-in-Minecraft
 hash:

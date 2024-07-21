@@ -4,23 +4,7 @@ date: 2023-11-10T22:18:44Z
 updated: 2024-05-31T20:42:26Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - title_minecraft_legends
-  - title_legends
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
   - section_12617594906509
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/21230708993421-How-to-Gift-Minecraft-and-Other-Minecraft-Games-on-Minecraft-net
 hash:

@@ -4,17 +4,6 @@ date: 2023-10-24T20:53:20Z
 updated: 2024-03-27T18:15:37Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_chromebook
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20686744908429-How-to-Upload-Worlds-onto-a-Minecraft-Realm
 ---

@@ -4,14 +4,6 @@ date: 2022-08-31T16:01:04Z
 updated: 2024-03-29T15:26:00Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/8826295828493-Minecraft-Java-Edition-LAN-Connectivity-Issues-on-Windows
 hash:

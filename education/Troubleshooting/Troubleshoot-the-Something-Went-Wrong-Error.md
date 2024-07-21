@@ -3,7 +3,7 @@ title: Troubleshoot the Something Went Wrong Error
 date: 2021-08-10T14:21:07Z
 updated: 2023-01-27T22:56:22Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404970320148-Troubleshoot-the-Something-Went-Wrong-Error
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404970320148-Troubleshoot-the-Something-Went-Wrong-Error
 ---
 
 Uh-oh! You are probably here because something went wrong. If you got a message that something went wrong, it is generally because there is a URL you need to make sure is on your network’s allow list. This article provides information on how URL to allow to resolve this issue.
@@ -12,7 +12,7 @@ Uh-oh! You are probably here because something went wrong. If you got a message 
 
 **Example message **
 
-![Something_Went_Wrong_Mesage.png](https://educommunity.minecraft.net/hc/article_attachments/4404977019924/Something_Went_Wrong_Mesage.png)
+![Something_Went_Wrong_Mesage.png](https://edusupport.minecraft.net/hc/article_attachments/4404977019924/Something_Went_Wrong_Mesage.png)
 
  
 

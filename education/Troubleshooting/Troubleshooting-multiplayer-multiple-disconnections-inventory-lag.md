@@ -3,7 +3,7 @@ title: Troubleshooting multiplayer multiple disconnections & inventory lag
 date: 2023-08-03T19:59:27Z
 updated: 2023-10-02T18:42:37Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/17983944794260-Troubleshooting-multiplayer-multiple-disconnections-inventory-lag
+link: https://edusupport.minecraft.net/hc/en-us/articles/17983944794260-Troubleshooting-multiplayer-multiple-disconnections-inventory-lag
 hash:
   h_01HAYTRFJFNJJETWSVY58APF19: users-begin-disconnecting-andor-unable-to-join-after-the-host-reaches-a-certain-number-of-users-connected-may-be-accompanied-by-in-game-lag
 ---

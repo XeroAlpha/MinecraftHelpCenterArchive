@@ -3,7 +3,7 @@ title: How To Set Up A Multiplayer Game
 date: 2020-08-10T09:00:18Z
 updated: 2024-06-26T16:38:20Z
 categories: Remote Learning
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game
 hash:
   h_01HERH07HHTMMMB65VJACDKJVE: ""
   h_01HAYSPDR7B9X52JNHJVB56C80: about
@@ -44,8 +44,8 @@ Our support team is limited in our ability to troubleshoot unique network issues
 Here are the requirements for the best possible multiplayer experience:
 
 - Multiplayer is possible only for players within the same Office 365 tenant.
-- Players should have the most [up-to-date version](https://educommunity.minecraft.net/hc/en-us/articles/360047118732-Deploying-and-Updating-Minecraft-Education-Edition-apps-all-platforms-) of Minecraft Education
-- IT Admins will need to ensure [ports are not blocked](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md) and computers can communicate via peer to peer. 
+- Players should have the most [up-to-date version](https://edusupport.minecraft.net/hc/en-us/articles/360047118732-Deploying-and-Updating-Minecraft-Education-Edition-apps-all-platforms-) of Minecraft Education
+- IT Admins will need to ensure [ports are not blocked](https://educommunity.minecraft.net/hc/en-us/articles/360047118992) and computers can communicate via peer to peer. 
 - All players need to be running the same version of Minecraft Education to be able to host and join worlds together.
 - Server-style multiplayer is not possible and a sever license is not available.
 - Hosting multiplayer sessions with 10+ users in a single world will require a high spec device to ensure stability. 
@@ -57,19 +57,19 @@ If you have trouble connecting to a Multiplayer world, check out the [Troublesho
 
 Click **Play** on the home screen
 
-![Screenshot 2023-08-01 153854.png](https://educommunity.minecraft.net/hc/article_attachments/17923548834196)
+![Screenshot 2023-08-01 153854.png](https://edusupport.minecraft.net/hc/article_attachments/17923548834196)
 
 ### Host an existing world
 
 Choose an existing world to host from the **View My Worlds** collection.  You can also import and launch a new world from the **Library Collection. ** Follow the instructions in the [How to host a world in-progress](#how-to-host-a-game-in-progress) section to host a world that you open from the Library Collection.
 
-### ![sitemap_v2.JPG](https://educommunity.minecraft.net/hc/article_attachments/4402411288980)
+### ![sitemap_v2.JPG](https://edusupport.minecraft.net/hc/article_attachments/4402411288980)
 
 ###  
 
 Click on a world in your **My Worlds** collection and then click **Host**.
 
-![click_host_v2.png](https://educommunity.minecraft.net/hc/article_attachments/4402417995540)
+![click_host_v2.png](https://edusupport.minecraft.net/hc/article_attachments/4402417995540)
 
 Read the [Configure settings for your Multiplayer game](#configure-settings-for-your-multiplayer-game) section to learn how to access your Join Code and change settings for your hosted world.
 
@@ -77,11 +77,11 @@ Read the [Configure settings for your Multiplayer game](#configure-settings-for
 
 On the [Play screen](#how-to-host-a-world), click **Create New** and then click **New.**
 
-![click_new_v2.png](https://educommunity.minecraft.net/hc/article_attachments/4402417996820)
+![click_new_v2.png](https://edusupport.minecraft.net/hc/article_attachments/4402417996820)
 
 Select the options you would like applied to your new world, and then click **Host.**
 
-![image\_\_1\_.png](https://educommunity.minecraft.net/hc/article_attachments/4402411298196)
+![image\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402411298196)
 
 Read the [Configure settings for your Multiplayer game](#configure-settings-for-your-multiplayer-game) section to learn how to access your Join Code and change settings for your hosted world.
 
@@ -89,7 +89,7 @@ Read the [Configure settings for your Multiplayer game](#configure-settings-for
 
 Pause the game and from the **Friends** **tab** click **Start Hosting **then click **Confirm**.
 
-![Hosting_v2.JPG](https://educommunity.minecraft.net/hc/article_attachments/4402418002580)
+![Hosting_v2.JPG](https://edusupport.minecraft.net/hc/article_attachments/4402418002580)
 
 Read the [Configure settings for your Multiplayer game](#configure-settings-for-your-multiplayer-game) section to learn how to access your Join Code and change settings for your hosted world.
 
@@ -97,19 +97,19 @@ Read the [Configure settings for your Multiplayer game](#configure-settings-for
 
 Click **Play** on the Home screen and then click **Join World.**
 
-![sitemap_v2\_\_1\_.JPG](https://educommunity.minecraft.net/hc/article_attachments/4402418008852)
+![sitemap_v2\_\_1\_.JPG](https://edusupport.minecraft.net/hc/article_attachments/4402418008852)
 
 Enter the Join Code for the world you want to join by clicking on each picture in order. 
 
 If a student enters incorrect join codes repeatedly, they'll get a warning after 3 failed attempts.  After 5 failed attempts, they will be required to wait a few minutes before they can enter another Join Code. This prevents students from guessing Join Codes and entering sessions they are not invited to.
 
-![enter_join_code_v2.JPG](https://educommunity.minecraft.net/hc/article_attachments/4402411307412)
+![enter_join_code_v2.JPG](https://edusupport.minecraft.net/hc/article_attachments/4402411307412)
 
  
 
 ## Configure settings for your multiplayer game
 
-[![Image of a video about setting up multiplayer game settings](https://educommunity.minecraft.net/hc/article_attachments/20761201474196)](https://youtu.be/e_pv1PDiu0U)
+[![Image of a video about setting up multiplayer game settings](https://edusupport.minecraft.net/hc/article_attachments/20761201474196)](https://youtu.be/e_pv1PDiu0U)
 
  
 
@@ -123,13 +123,13 @@ Select the default permissions you would like players to have when they join you
 
 Hosts and teachers are able to edit the permission levels and remove other players from the world
 
-![set_permission.PNG](https://educommunity.minecraft.net/hc/article_attachments/4402655155604)
+![set_permission.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402655155604)
 
 ### Host Settings
 
 Pause your game and click the **Friends tab**.  Take note of the four pictures in your **Join Code** and share them with players that you want invite into your world.  
 
-![Screenshot 2023-08-01 154217.png](https://educommunity.minecraft.net/hc/article_attachments/17923681388820)
+![Screenshot 2023-08-01 154217.png](https://edusupport.minecraft.net/hc/article_attachments/17923681388820)
 
 ### Restricting access to your world
 
@@ -169,7 +169,7 @@ If you are able to connect to a multiplayer game but start to see decreased perf
 - It is recommended that the host computer has at least 1.5 Mbps of bandwidth.
 - Examine your network speed and ensure the amount of players is not overloading your network.
 - Turn down the render distance to 4 chunks and turn off fancy graphics in the Video area of the World Settings screen.
-- For more information on how to best utilize multiplayer with 30 or more students you can connect with other teachers in our [community forums.](https://educommunity.minecraft.net/hc/en-us/community/topics)
+- For more information on how to best utilize multiplayer with 30 or more students you can connect with other teachers in our [community forums.](https://edusupport.minecraft.net/hc/en-us/community/topics)
 - Test if hosting with fewer players results in a smoother experience.
 
 ### Connection Issues

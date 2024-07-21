@@ -4,24 +4,6 @@ date: 2021-03-25T23:05:09Z
 updated: 2024-03-18T21:34:55Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - platform_PC
-  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/360058604512-How-to-Moderate-Your-Minecraft-Realm
 hash:

@@ -3,7 +3,7 @@ title: What’s New in The Camps and Clubs Update (version 1.14.70)
 date: 2021-05-25T16:18:53Z
 updated: 2024-05-22T23:18:47Z
 categories: Product
-link: https://educommunity.minecraft.net/hc/en-us/articles/360061848571-What-s-New-in-The-Camps-and-Clubs-Update-version-1-14-70
+link: https://edusupport.minecraft.net/hc/en-us/articles/360061848571-What-s-New-in-The-Camps-and-Clubs-Update-version-1-14-70
 hash:
   h_01HYH9H48S0E2GMYFWHEPANE6G: commercialpurchase
   h_01HYH9H48SHMSKAWB3X8FJP0DB: embed-a-link-to-flipgrid-in-yourworld
@@ -32,7 +32,7 @@ Create a custom button when assigning a lesson from the Library that links to
 
 **Example of adding a Flipgrid response as a resource link**
 
-![Example_Flipgrid_Response.png](https://educommunity.minecraft.net/hc/article_attachments/360096415432)
+![Example_Flipgrid_Response.png](https://edusupport.minecraft.net/hc/article_attachments/360096415432)
 
  
 
@@ -44,7 +44,7 @@ Minecraft: Education Edition can be launched from inside your organization’s 
 
 **Example of Minecraft: Education Edition in an LMS**
 
-![Example_LMS_Link_for_Minecraft_Education_Edition.jpg](https://educommunity.minecraft.net/hc/article_attachments/360096415392)
+![Example_LMS_Link_for_Minecraft_Education_Edition.jpg](https://edusupport.minecraft.net/hc/article_attachments/360096415392)
 
  
 
@@ -54,7 +54,7 @@ Hosts of a world can now share a link that takes users directly into their world
 
  
 
-**Example of the Share a Link![Example_Share_Link.png](https://educommunity.minecraft.net/hc/article_attachments/360096403711)**
+**Example of the Share a Link![Example_Share_Link.png](https://edusupport.minecraft.net/hc/article_attachments/360096403711)**
 
  
 
@@ -72,7 +72,7 @@ Familiar in-game settings from Bedrock have been added to the Game settings tab.
 
 **Example of the Classroom settings** 
 
-![Minecraft_Classroom_Settings.png](https://educommunity.minecraft.net/hc/article_attachments/360096403691)
+![Minecraft_Classroom_Settings.png](https://edusupport.minecraft.net/hc/article_attachments/360096403691)
 
  
 
@@ -84,7 +84,7 @@ Common world management tasks including Copy, Export, and Delete have been added
 
 **Demo of World Management**
 
-![Manage_Overview.gif](https://educommunity.minecraft.net/hc/article_attachments/360096415272)
+![Manage_Overview.gif](https://edusupport.minecraft.net/hc/article_attachments/360096415272)
 
  
 
@@ -96,10 +96,10 @@ Common world management tasks including Copy, Export, and Delete have been added
 
 **Construction worker NPC skins**
 
-![Example_Construction_Worker_Skins.png](https://educommunity.minecraft.net/hc/article_attachments/360096403331)
+![Example_Construction_Worker_Skins.png](https://edusupport.minecraft.net/hc/article_attachments/360096403331)
 
  
 
 **Teacher NPC skins **
 
-![Teacher_Skins.png](https://educommunity.minecraft.net/hc/article_attachments/360096415032)
+![Teacher_Skins.png](https://edusupport.minecraft.net/hc/article_attachments/360096415032)

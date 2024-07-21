@@ -3,7 +3,7 @@ title: Best Practices for Managing Camps and Clubs
 date: 2022-01-19T00:54:19Z
 updated: 2024-04-18T17:23:51Z
 categories: Administration and License Management
-link: https://educommunity.minecraft.net/hc/en-us/articles/4416248488980-Best-Practices-for-Managing-Camps-and-Clubs
+link: https://edusupport.minecraft.net/hc/en-us/articles/4416248488980-Best-Practices-for-Managing-Camps-and-Clubs
 hash:
   h_01HVS3PWXF67XM8G217GTH41MX: how-to-re-allocate-licenses-across-your-camps-and-clubs
   h_01HVS3PWXFTRSY8FMK0KCVWQJX: unique-user-accounts-recommended

@@ -3,7 +3,7 @@ title: Why Minecraft Education
 date: 2021-08-02T13:50:55Z
 updated: 2023-09-14T16:37:07Z
 categories: Get Started
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404558086932-Why-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404558086932-Why-Minecraft-Education
 ---
 
 We're thrilled that you’re interested in teaching, learning, and innovating with Minecraft Education! Minecraft Education is a collaborative and versatile application that offers educators a transformative way to engage students and ignite their passion for learning.

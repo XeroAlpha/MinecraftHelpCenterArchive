@@ -4,11 +4,6 @@ date: 2023-03-07T23:00:10Z
 updated: 2024-03-07T20:03:26Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_game_performance
-  - subject_content_questions
-  - platform_chromebook
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/13803752803725-Minecraft-for-Chromebook-System-Requirements
 ---

@@ -3,7 +3,7 @@ title: PC Deployment Through System Management Software
 date: 2021-08-03T13:58:52Z
 updated: 2024-01-11T22:54:27Z
 categories: Installation
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404609504660-PC-Deployment-Through-System-Management-Software
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404609504660-PC-Deployment-Through-System-Management-Software
 hash:
   h_01HKXBKM3M052YQ8B0PK8QRE6Z: intune-for-education
   h_01HKXBKM3MJ65P5VHF7K61GM3F: system-center-configuration-manager-sccm

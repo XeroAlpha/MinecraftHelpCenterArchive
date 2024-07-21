@@ -4,17 +4,6 @@ date: 2023-05-30T15:53:19Z
 updated: 2023-05-30T16:51:34Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - new
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/16254801392141-New-Java-Edition-Game-Service-API-Review-or-Application-Process
 ---

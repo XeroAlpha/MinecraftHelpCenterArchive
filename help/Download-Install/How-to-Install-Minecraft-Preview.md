@@ -4,15 +4,6 @@ date: 2022-01-31T18:12:02Z
 updated: 2024-07-12T15:47:27Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_sony_playstation_4
-  - platform_pc
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/4423653831821-How-to-Install-Minecraft-Preview
 hash:

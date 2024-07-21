@@ -3,7 +3,7 @@ title: Troubleshoot the Unable to Connect to the Library Error
 date: 2021-08-10T14:24:19Z
 updated: 2023-05-11T22:55:37Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404970355988-Troubleshoot-the-Unable-to-Connect-to-the-Library-Error
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404970355988-Troubleshoot-the-Unable-to-Connect-to-the-Library-Error
 ---
 
 If you can’t connect to the in-game library, it is likely due to a network connection issue. This article provides information on how to ensure you are reconnected to the Minecraft Education library.
@@ -16,7 +16,7 @@ Some worlds may show this error when you load them on an outdated client. To res
 
 **Example message**
 
-![Unable_to_connect_to_the_Library.png](https://educommunity.minecraft.net/hc/article_attachments/4404977059348/Unable_to_connect_to_the_Library.png)
+![Unable_to_connect_to_the_Library.png](https://edusupport.minecraft.net/hc/article_attachments/4404977059348/Unable_to_connect_to_the_Library.png)
 
  
 

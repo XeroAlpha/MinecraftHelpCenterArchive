@@ -4,14 +4,6 @@ date: 2021-09-09T23:00:16Z
 updated: 2024-05-10T19:56:08Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - category_marketplace_support
-  - subject_content_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/4408894664461-How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition
 hash:

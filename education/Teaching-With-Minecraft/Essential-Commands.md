@@ -3,16 +3,16 @@ title: "Essential Commands "
 date: 2020-08-10T08:33:24Z
 updated: 2023-09-15T16:21:02Z
 categories: Teaching With Minecraft
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands
 ---
 
-Commands (often called “slash commands”) are a great way to adjust settings in your world. While many options are also available through various menus (including the [Classroom Mode](../Get-Started/Get-Started-with-Classroom-Mode.md) interface), there are certain settings only accessible through these commands. In this article, you’ll learn how commands are set up through common variables like targeting and coordinates, and we will even go through a few essential commands to get you started.
+Commands (often called “slash commands”) are a great way to adjust settings in your world. While many options are also available through various menus (including the [Classroom Mode](https://educommunity.minecraft.net/hc/en-us/articles/360047116652-Get-Started-with-Classroom-Mode-) interface), there are certain settings only accessible through these commands. In this article, you’ll learn how commands are set up through common variables like targeting and coordinates, and we will even go through a few essential commands to get you started.
 
 How to Use
 
 Commands, also referred to as “Slash Commands”, are entered via Minecraft’s chat window, which is displayed by pressing the T key (default), enter key, or / key. Slash Command entry features a predictive text system that helps players find and use commands from the list. To use most Commands in game, Activate Cheats must be enabled from the Game Settings menu.
 
-![essential_commands_one.png](https://educommunity.minecraft.net/hc/article_attachments/4402660797076)
+![essential_commands_one.png](https://edusupport.minecraft.net/hc/article_attachments/4402660797076)
 
 **(tab)**  
 Using this while typing a command will auto-complete that command or arguments for it.  
@@ -27,7 +27,7 @@ Targeting
 
 In most commands where a player may be specified as an argument, it is possible to “target” one or more players instead of specifying players by name. For example, the teleport command has options for not just destination, but other players, and rotation coordinates.
 
-![essential_2.png](https://educommunity.minecraft.net/hc/article_attachments/4402652712212)
+![essential_2.png](https://edusupport.minecraft.net/hc/article_attachments/4402652712212)
 
 **@a**  
 All players  
@@ -62,7 +62,7 @@ Syntax: /difficulty (string)
   
 This is what it looks like in the game settings menu.
 
-![essential_four.png](https://educommunity.minecraft.net/hc/article_attachments/4402652717460)
+![essential_four.png](https://edusupport.minecraft.net/hc/article_attachments/4402652717460)
 
  
 
@@ -107,7 +107,7 @@ Syntax: /gamerule (string) (value)
 - allowmobs – Mobs are living, moving creatures found within the Minecraft world. Friendly (creatures like chickens and ocelots) and not so friendly mobs (creatures like creepers) are allowed to appear in the world when this is turned on.
 - globalmute – Disables chat for all players when set to true, otherwise players in your world can communicate with each other within the world they are in via the client. Chatting is on by default.
 
- You can also set these via the [Classroom Mode](../Get-Started/Get-Started-with-Classroom-Mode.md) interface.
+ You can also set these via the [Classroom Mode](https://educommunity.minecraft.net/hc/en-us/articles/360047116652-Get-Started-with-Classroom-Mode-) interface.
 
 **Exclusive Commands for Education**
 
@@ -119,25 +119,25 @@ Syntax: /ability (target) (ability) (true or false)
 
 - mayfly – This allows players to fly around the world, or be limited to ground travel only.
 - mute – If you want to prevent a target from talking, you can set this ability to true. The user(s) will see the message “chat has been disabled”.
-- worldbuilder – You can control who is allowed to build and change the world with this command. Read more about this command [here](../Game-Features/Profile-Types-and-Permissions.md). (You can also use /wb or /worldbuilder for this.)
+- worldbuilder – You can control who is allowed to build and change the world with this command. Read more about this command [here](https://educommunity.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions-). (You can also use /wb or /worldbuilder for this.)
 
 /classroommode
 
 /code
 
-These two commands will attempt to launch and connect you to [Classroom Mode](../Get-Started/Get-Started-with-Classroom-Mode.md) and [Code Connection](https://educommunity.minecraft.net/hc/en-us/articles/360047555251-Get-Started-With-Code-Connection-), provided you have them installed, of course. As there are no additional arguments needed, just enter the above command and press return.
+These two commands will attempt to launch and connect you to [Classroom Mode](https://educommunity.minecraft.net/hc/en-us/articles/360047116652-Get-Started-with-Classroom-Mode-) and [Code Connection](https://educommunity.minecraft.net/hc/en-us/articles/360047555251-Get-Started-With-Code-Connection-), provided you have them installed, of course. As there are no additional arguments needed, just enter the above command and press return.
 
  If you do not have the required application installed, you will see an error window similar to this (macOS version is displayed for reference):
 
-![mceclip0.png](https://educommunity.minecraft.net/hc/article_attachments/4402652719380)
+![mceclip0.png](https://edusupport.minecraft.net/hc/article_attachments/4402652719380)
 
 To resolve, [download the needed application](https://education.minecraft.net/get-started/download), install, and try again.
 
 **Additional Resources**
 
-- [Specialty Blocks](./Specialty-Blocks-Allow-Deny-Border-Structure.md)
-- [Communicating with Boards](../Game-Features/Communicating-With-Boards.md)
-- [Adding non-player characters (Villagers and NPCs)](../Game-Features/Adding-Non-Player-Characters-NPCs.md)
+- [Specialty Blocks](https://educommunity.minecraft.net/hc/en-us/articles/360047116852-Specialty-Blocks-Allow-Deny-Border-Structure-)
+- [Communicating with Boards](https://educommunity.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards-)
+- [Adding non-player characters (Villagers and NPCs)](https://educommunity.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs-)
 - Learn to play with our [Tutorial World](https://education.minecraft.net/worlds/tutorial-world/)
 
  

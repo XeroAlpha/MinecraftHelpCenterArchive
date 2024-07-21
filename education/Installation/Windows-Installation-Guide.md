@@ -3,7 +3,7 @@ title: Windows Installation Guide
 date: 2023-02-10T19:44:41Z
 updated: 2023-10-05T15:57:43Z
 categories: Installation
-link: https://educommunity.minecraft.net/hc/en-us/articles/13106858087956-Windows-Installation-Guide
+link: https://edusupport.minecraft.net/hc/en-us/articles/13106858087956-Windows-Installation-Guide
 hash:
   h_01HC08XGFBCNC9R8DYBR208S1B: before-you-begin
   h_01HC08XGFBHRTXDTENRNFQFMAD: installation-options

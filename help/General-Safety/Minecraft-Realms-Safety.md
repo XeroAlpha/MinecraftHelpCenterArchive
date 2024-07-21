@@ -4,28 +4,7 @@ date: 2023-09-28T19:33:06Z
 updated: 2024-02-13T21:06:39Z
 categories: General Safety
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - platform_sony_playstation_5
-  - platform_chromebook
   - section_15463792344973
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety
 hash:
   h_01HBEMFSSYJQ900NC34ZCFJ3XN: in-this-article

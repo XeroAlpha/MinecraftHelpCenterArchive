@@ -3,7 +3,7 @@ title: Minecraft Education Content Creators
 date: 2024-05-09T18:17:19Z
 updated: 2024-05-09T18:21:42Z
 categories: Remote Learning
-link: https://educommunity.minecraft.net/hc/en-us/articles/26453473957652-Minecraft-Education-Content-Creators
+link: https://edusupport.minecraft.net/hc/en-us/articles/26453473957652-Minecraft-Education-Content-Creators
 hash:
   h_01HXF94RBQG7E2PNEAW3QQ6S6Z: how-can-i-get-help-building-an-awesome-minecraft-world
 ---
@@ -59,7 +59,7 @@ rteder@hydreon.com</p></td>
 <td style="width: 80px"><p>US</p></td>
 </tr>
 <tr>
-<td style="width: 116px"><p><a href="https://educommunity.minecraft.net/hc/en-us/articles/logicsacademy.com/tdsb-minecraft/">Logics Academy</a></p></td>
+<td style="width: 116px"><p><a href="https://edusupport.minecraft.net/hc/en-us/articles/logicsacademy.com/tdsb-minecraft/">Logics Academy</a></p></td>
 <td style="width: 164px"><p>Mario Asta<br />
 masta@logicstechnology.com</p></td>
 <td style="width: 80px"><p>CA</p></td>

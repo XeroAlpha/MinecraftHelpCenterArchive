@@ -3,7 +3,7 @@ title: " Updates to the profile and badge experience"
 date: 2023-11-20T22:26:28Z
 updated: 2023-11-21T18:08:26Z
 categories: Community
-link: https://educommunity.minecraft.net/hc/en-us/articles/21124170961684--Updates-to-the-profile-and-badge-experience
+link: https://edusupport.minecraft.net/hc/en-us/articles/21124170961684--Updates-to-the-profile-and-badge-experience
 ---
 
 Minecraft Education has updated the profile experience as part of the evolution of our educator community. Profiles on both the Minecraft Education and Support Center sites are being impacted by this change. Currently no action is required on your part.  

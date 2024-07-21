@@ -4,23 +4,9 @@ date: 2021-09-28T21:43:13Z
 updated: 2024-03-29T20:28:21Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft
-  - category_technical_support
   - subject_game_performance
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Performance-in-Minecraft
 hash:
   h_01HR844RHA2XNTP2KQW5K7FCRN: tips-to-optimize-video-settings-in-minecraft

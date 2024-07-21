@@ -3,7 +3,7 @@ title: "Country Availability "
 date: 2020-08-10T11:00:24Z
 updated: 2023-01-25T22:31:23Z
 categories: Get Started
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556651-Country-Availability
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556651-Country-Availability
 ---
 
 Minecraft Education is available for purchase in many countries.  

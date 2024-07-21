@@ -4,26 +4,6 @@ date: 2019-10-13T21:41:49Z
 updated: 2024-05-22T15:00:30Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_chromebook
   - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions
 ---

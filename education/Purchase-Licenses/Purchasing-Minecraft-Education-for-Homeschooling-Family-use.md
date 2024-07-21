@@ -3,7 +3,7 @@ title: Purchasing Minecraft Education for Homeschooling & Family use
 date: 2022-01-07T00:20:29Z
 updated: 2024-02-06T22:00:01Z
 categories: Purchase Licenses
-link: https://educommunity.minecraft.net/hc/en-us/articles/4415061129236-Purchasing-Minecraft-Education-for-Homeschooling-Family-use
+link: https://edusupport.minecraft.net/hc/en-us/articles/4415061129236-Purchasing-Minecraft-Education-for-Homeschooling-Family-use
 hash:
   h_01HAATSKSEPAJG14GN5J369W1J: 1-create-a-microsoft-365-admin-center-account-and-organization
   h_01FC3MV1XMD3RJWNTMVYNTDM36: 2-first-time-purchase-minecraft-education-licenses
@@ -20,7 +20,7 @@ Due to the business focused system that Minecraft Education lies within, the set
 
 View our video which will guide you through the instructions below
 
-[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://educommunity.minecraft.net/hc/article_attachments/23509056392724)](https://www.youtube.com/watch?v=0GF2PZajxVk)
+[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/23509056392724)](https://www.youtube.com/watch?v=0GF2PZajxVk)
 
  
 

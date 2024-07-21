@@ -3,12 +3,12 @@ title: Code Builder in Minecraft Education
 date: 2020-08-10T08:56:45Z
 updated: 2023-11-08T22:39:05Z
 categories: Teaching With Minecraft
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047116992-Code-Builder-in-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047116992-Code-Builder-in-Minecraft-Education
 ---
 
 The Minecraft Education Code Builder allows players to code inside the game!  Players can launch Code Builder using "C" if you are using a mouse/keyboard or by pressing the agent icon next to pause/chat on the top center of the screen while on touch and the following screen will appear. Below is a walk-through video guide on Code Builder.
 
-[![Image of a video about Minecraft Education Code Builder](https://educommunity.minecraft.net/hc/article_attachments/20761249841428)](https://youtu.be/pPkir8wNktY)
+[![Image of a video about Minecraft Education Code Builder](https://edusupport.minecraft.net/hc/article_attachments/20761249841428)](https://youtu.be/pPkir8wNktY)
 
  
 

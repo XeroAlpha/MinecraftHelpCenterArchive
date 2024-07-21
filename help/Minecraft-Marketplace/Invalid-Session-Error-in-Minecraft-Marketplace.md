@@ -3,24 +3,6 @@ title: Invalid Session Error in Minecraft Marketplace
 date: 2024-02-12T20:56:40Z
 categories: Minecraft Marketplace
 tags:
-  - title_minecraft
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - subject_game_crashes
-  - platform_nintendo_switch
-  - category_marketplace_support
-  - subject_content_questions
-  - subject_sign_in_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_24069904400141
 link: https://help.minecraft.net/hc/en-us/articles/24069927866381-Invalid-Session-Error-in-Minecraft-Marketplace
 ---

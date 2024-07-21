@@ -3,7 +3,7 @@ title: System Requirements
 date: 2020-08-10T10:57:43Z
 updated: 2023-11-04T00:03:54Z
 categories: Get Started
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
   h_01HAYTE3RC268F7D3H24PQRWHH: operating-system-requirements
   h_01HAYTE3RCTVTRXM777WGSAYHZ: hardware-requirements

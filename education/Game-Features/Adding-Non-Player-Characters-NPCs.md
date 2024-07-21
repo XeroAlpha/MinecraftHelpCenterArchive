@@ -3,7 +3,7 @@ title: "Adding Non-Player Characters (NPCs) "
 date: 2020-08-10T09:14:38Z
 updated: 2023-09-15T16:27:08Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs
 ---
 
 Villagers and “NPCs” are non-player characters. They are humanoid characters in your worlds that can be used to provide “life” and ambiance to your city and village settings, be interacted with by visitors to your world, and also provide additional lesson information, hints, or instructions for your students to discover. This article will cover:
@@ -14,12 +14,12 @@ Villagers and “NPCs” are non-player characters. They are humanoid characters
 
 To create these non-playable characters in your world, you can use [Spawn Eggs](https://minecraft.gamepedia.com/Spawn_Egg) to place them. Find the appropriate egg (marked with an exclamation point) and bring it to your inventory, or select it in creative mode via the “Tools” tab.
 
-![mceclip0.png](https://educommunity.minecraft.net/hc/article_attachments/4402652955028)
+![mceclip0.png](https://edusupport.minecraft.net/hc/article_attachments/4402652955028)
 
 **NPC**
 
 - Education Exclusive: Yes
-- [World Builder](./Profile-Types-and-Permissions.md) Permission Needed: Yes (placement, editing)
+- [World Builder](https://educommunity.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions-) Permission Needed: Yes (placement, editing)
 
 NPCs are more interactive than Villagers, and we have introduced a number of new features, noted below.
 
@@ -36,7 +36,7 @@ If you are a World Builder, right clicking the NPC will bring up the customize s
 
 The name of the NPC will remain visible from a distance, even through walls. When an Operator or non-World Builder right clicks on an NPC, they will see the displayed text.
 
-![mceclip1.png](https://educommunity.minecraft.net/hc/article_attachments/4402660941588)
+![mceclip1.png](https://edusupport.minecraft.net/hc/article_attachments/4402660941588)
 
 From here you can: 
 
@@ -67,7 +67,7 @@ At this point the Advanced NPC Settings window opens, and a brief description of
 
 Note: URLs launch in the user’s default web browser whether they are launched automatically or by clicking the link button.
 
-![mceclip2.png](https://educommunity.minecraft.net/hc/article_attachments/4402660943636)
+![mceclip2.png](https://edusupport.minecraft.net/hc/article_attachments/4402660943636)
 
 When a non-World Builder interacts with the NPC, the options we set up earlier will appear as buttons. Command buttons have black text, URL button text displays in the classic underlined “hyperlink blue”.
 
@@ -113,13 +113,13 @@ Nitwit
 
 Below is a sample of the villager inventory and trade window you will see when you click on them.
 
-![mceclip3.png](https://educommunity.minecraft.net/hc/article_attachments/4402652960532)
+![mceclip3.png](https://edusupport.minecraft.net/hc/article_attachments/4402652960532)
 
 For more information and details about Villagers, please refer to the [Official Minecraft wiki](https://minecraft.gamepedia.com/Villager) on this topic.
 
 **Additional Resources**
 
-- [Profile Types](./Profile-Types-and-Permissions.md) (go in depth with operator and world builder information)
-- Creating your world: Add helpful items for your visitors (like [cameras and portfolios](./Assessment-Tools-Cameras-Portfolio-Book-Quill.md))
-- Creating your world: Get familiar with [essential commands](../Teaching-With-Minecraft/Essential-Commands.md) in Minecraft Education
-- Share your world: [Setting up Multiplayer Games](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md)
+- [Profile Types](https://educommunity.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions-) (go in depth with operator and world builder information)
+- Creating your world: Add helpful items for your visitors (like [cameras and portfolios](https://educommunity.minecraft.net/hc/en-us/articles/360047555551-Assessment-Tools-Cameras-Portfolio-Book-Quill-))
+- Creating your world: Get familiar with [essential commands](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-) in Minecraft Education
+- Share your world: [Setting up Multiplayer Games](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-)

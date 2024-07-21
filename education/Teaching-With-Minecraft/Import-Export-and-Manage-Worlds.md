@@ -3,10 +3,10 @@ title: "Import, Export, and Manage Worlds "
 date: 2020-08-10T08:28:50Z
 updated: 2024-02-06T20:16:06Z
 categories: Teaching With Minecraft
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555391-Import-Export-and-Manage-Worlds
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555391-Import-Export-and-Manage-Worlds
 ---
 
-[![2024-02-06 12_14_42-Import, Export, and Manage Worlds – Minecraft Education and 18 more pages - Work.png](https://educommunity.minecraft.net/hc/article_attachments/23505761908500)](https://www.youtube.com/watch?v=Q71vShBs42A)
+[![2024-02-06 12_14_42-Import, Export, and Manage Worlds – Minecraft Education and 18 more pages - Work.png](https://edusupport.minecraft.net/hc/article_attachments/23505761908500)](https://www.youtube.com/watch?v=Q71vShBs42A)
 
  
 
@@ -51,7 +51,7 @@ Backing up your levels can help teachers measure daily progress, provide a way t
 4.  Click “Delete” 
 5.  Confirm that you want to permanently delete the world by clicking "Delete."  
 
-![ManageOverview.gif](https://educommunity.minecraft.net/hc/article_attachments/360096325591)
+![ManageOverview.gif](https://edusupport.minecraft.net/hc/article_attachments/360096325591)
 
 **Additional Notes**
 
@@ -59,6 +59,6 @@ Backing up your levels can help teachers measure daily progress, provide a way t
 - No special characters or punctuation can be used in world titles if you want to export
 - If you open a world from a file picker on your device the world will automatically generate
 - As of the 1.12 release work done with the book and quill can be exported into a PDF
-- Steps to find Minecraft Education worlds can be [found here](../Administration-and-License-Management/Location-of-World-Files.md). 
+- Steps to find Minecraft Education worlds can be [found here](https://educommunity.minecraft.net/hc/en-us/articles/4404785703316). 
 
-If you have any issues, or cannot locate your worlds via this method, please [contact support](https://educommunity.minecraft.net/hc/en-us/requests/new) or post a thread in the [“Technical Support”](https://educommunity.minecraft.net/hc/en-us/community/topics/360001721951-I-have-a-technical-problem) area of the forums.
+If you have any issues, or cannot locate your worlds via this method, please [contact support](https://edusupport.minecraft.net/hc/en-us/requests/new) or post a thread in the [“Technical Support”](https://edusupport.minecraft.net/hc/en-us/community/topics/360001721951-I-have-a-technical-problem) area of the forums.

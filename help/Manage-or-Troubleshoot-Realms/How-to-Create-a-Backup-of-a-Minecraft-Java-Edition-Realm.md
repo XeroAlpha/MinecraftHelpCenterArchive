@@ -4,15 +4,6 @@ date: 2023-10-24T21:14:02Z
 updated: 2024-04-22T19:18:48Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_macOS
-  - platform_chromebook
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm
 hash:

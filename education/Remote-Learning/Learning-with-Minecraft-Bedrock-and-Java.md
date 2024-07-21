@@ -3,7 +3,7 @@ title: Learning with Minecraft Bedrock and Java
 date: 2020-08-10T11:36:31Z
 updated: 2024-05-22T23:05:56Z
 categories: Remote Learning
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556971-Learning-with-Minecraft-Bedrock-and-Java
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556971-Learning-with-Minecraft-Bedrock-and-Java
 hash:
   h_01H9699156HF91M89VQQ1ACG3V: family-friendly-activities
   h_01H9699156K1WHJVG7VG94WMNC: educational-worlds-in-bedrock
@@ -25,7 +25,7 @@ The Minecraft Marketplace team has added a new [Education category](https://nam
 
 ### Hour of Code
 
-Many Hour of Code worlds are available to play without logging in.  You can download and [play free lessons](../Get-Started/Try-Minecraft-Education-for-free.md) without a Microsoft 365 Education account.
+Many Hour of Code worlds are available to play without logging in.  You can download and [play free lessons](https://educommunity.minecraft.net/hc/en-us/articles/360047116432) without a Microsoft 365 Education account.
 
 You can also take advantage of many [Minecraft themed coding exercises](https://code.org/minecraft) on the Code.org website.  
 
@@ -33,7 +33,7 @@ You can also take advantage of many [Minecraft themed coding exercises](https://
 
 Minecraft Education has several features designed for classroom use, to help educators and students build lessons, document their creations and explore STEM subjects. A few of these features are available in Bedrock and some can also can be replicated in the Java version.
 
-1.  To use the **Chemistry features** in Minecraft Bedrock, turn the Education Edition settings on when you create a new world. Toggle **Activate Cheats** and **Education** to the on position in the Cheats menu. We recommend using these features on a desktop device with moderate to high memory.![educational_features.png](https://educommunity.minecraft.net/hc/article_attachments/4402655311124)
+1.  To use the **Chemistry features** in Minecraft Bedrock, turn the Education Edition settings on when you create a new world. Toggle **Activate Cheats** and **Education** to the on position in the Cheats menu. We recommend using these features on a desktop device with moderate to high memory.![educational_features.png](https://edusupport.minecraft.net/hc/article_attachments/4402655311124)
 2.  Some lessons will call for the use of the [camera](https://minecraft.gamepedia.com/Camera) to assess student progress. When using other versions of Minecraft, ask students to take screenshots to capture their progress.  
 3.  Some lessons will call for students to use the [book and quill](https://minecraft.gamepedia.com/Book_and_Quill%C2%A0%C2%A0) to record observations, ideas, or reflections. If you are working in a version of Minecraft where **book and quill** is not available, have students complete written activities using a text editor like Microsoft Word or a pencil and paper. 
 

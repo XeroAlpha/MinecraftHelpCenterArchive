@@ -3,7 +3,7 @@ title: Manage Licenses for Camps, Clubs, Homeschool and Other Organizations
 date: 2021-05-25T14:36:04Z
 updated: 2023-01-24T21:40:59Z
 categories: Administration and License Management
-link: https://educommunity.minecraft.net/hc/en-us/articles/360061370372-Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations
+link: https://edusupport.minecraft.net/hc/en-us/articles/360061370372-Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations
 hash:
   view-available-licenses: viewavailablelicenses
   assign-a-license---individual-licenses: assign-alicense---individual-licenses

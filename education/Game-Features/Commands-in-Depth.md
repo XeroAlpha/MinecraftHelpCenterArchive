@@ -3,10 +3,10 @@ title: Commands in Depth
 date: 2020-08-10T09:18:09Z
 updated: 2024-05-22T22:47:52Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047117252-Commands-in-Depth
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047117252-Commands-in-Depth
 ---
 
-This article is designed for more experienced Minecraft player/Minecraft Education user and goes in depth with commands. To get started with the essential commands you need and the basics on coordinates and targeting, please visit this [page](../Teaching-With-Minecraft/Essential-Commands.md) instead.
+This article is designed for more experienced Minecraft player/Minecraft Education user and goes in depth with commands. To get started with the essential commands you need and the basics on coordinates and targeting, please visit this [page](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-) instead.
 
 This article will cover:
 
@@ -17,11 +17,11 @@ This article will cover:
 - Items (Giving and Enchanting)
 - Interacting With Players (Communication, Movement, and other)
 - New Code Builder commands (November 2018)
-- [Code Builder in Minecraft Education (version 1.7.1)](../Teaching-With-Minecraft/Code-Builder-in-Minecraft-Education.md)
+- [Code Builder in Minecraft Education (version 1.7.1)](https://educommunity.minecraft.net/hc/en-us/articles/360047116992-Code-Builder-in-Minecraft-Education-Edition)
 
 **How to use**
 
-[**![Image of a video about using slash commands in Minecraft Education](https://educommunity.minecraft.net/hc/article_attachments/20762198804244)**](https://youtu.be/4eVe1FzQfN4)
+[**![Image of a video about using slash commands in Minecraft Education](https://edusupport.minecraft.net/hc/article_attachments/20762198804244)**](https://youtu.be/4eVe1FzQfN4)
 
  
 
@@ -183,4 +183,4 @@ You can also now remove agents from the world using selectors, so \`/remove @c\`
 
 The usual type filters can also be used to target particular agents, so *\`/tp @e\[type=Agent,name=Steve.Agent\] @s\`* for instance would look through all entities for those of type agent whose name is Steve.Agent and teleport them to you. For more of a shorthand you could do *\`/tp @v\[name=Steve.Agent\] @s\`* to target a particular person's agent that's not your own
 
-For more information checkout: [Code Builder in Minecraft Education](../Teaching-With-Minecraft/Code-Builder-in-Minecraft-Education.md)
+For more information checkout: [Code Builder in Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047116992)

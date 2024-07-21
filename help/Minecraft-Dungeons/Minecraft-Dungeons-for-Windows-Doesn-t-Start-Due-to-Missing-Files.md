@@ -4,10 +4,6 @@ date: 2020-03-26T20:53:35Z
 updated: 2023-09-28T21:50:09Z
 categories: Minecraft Dungeons
 tags:
-  - subject_game_does_not_start
-  - category_technical_support
-  - title_minecraft_dungeons
-  - platform_windows_10
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360041102892-Minecraft-Dungeons-for-Windows-Doesn-t-Start-Due-to-Missing-Files
 hash:

@@ -4,18 +4,6 @@ date: 2024-02-20T22:11:14Z
 updated: 2024-06-11T23:15:09Z
 categories: Account Settings
 tags:
-  - title_minecraft
-  - subject_change_account_information
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_account_support
-  - platform_sony_playstation_4
-  - platform_pc
-  - trending
-  - platform_chromebook
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft
 hash:

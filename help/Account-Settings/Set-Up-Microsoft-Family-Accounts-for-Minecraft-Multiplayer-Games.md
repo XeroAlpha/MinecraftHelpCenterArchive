@@ -4,28 +4,6 @@ date: 2021-09-10T22:08:35Z
 updated: 2024-05-30T18:54:34Z
 categories: Account Settings
 tags:
-  - title_minecraft_java_edition
-  - subject_how_to_play
-  - subject_change_account_information
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - subject_join_or_leave_realm
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_account_support
-  - subject_sign_in_questions
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - subject_microsoft_sign_in_questions
-  - multijugador
   - section_27166460834061
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games

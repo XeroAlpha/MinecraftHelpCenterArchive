@@ -4,33 +4,7 @@ date: 2021-03-25T23:29:27Z
 updated: 2023-07-24T18:43:18Z
 categories: General Safety
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_change_account_information
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_account_support
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - platform_sony_playstation_5
   - section_15463792344973
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/360058605852-Understanding-Minecraft-Social-Features-for-Child-Safety-Online
 ---
 

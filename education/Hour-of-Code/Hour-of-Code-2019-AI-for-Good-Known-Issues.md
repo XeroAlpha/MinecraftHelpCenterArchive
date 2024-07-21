@@ -3,7 +3,7 @@ title: "Hour of Code 2019: AI for Good - Known Issues"
 date: 2023-11-06T16:42:20Z
 updated: 2024-05-23T23:15:42Z
 categories: Hour of Code
-link: https://educommunity.minecraft.net/hc/en-us/articles/20672394051348-Hour-of-Code-2019-AI-for-Good-Known-Issues
+link: https://edusupport.minecraft.net/hc/en-us/articles/20672394051348-Hour-of-Code-2019-AI-for-Good-Known-Issues
 ---
 
 **Update on “AI for Good” Hour of Code 2019 Learning Experience**

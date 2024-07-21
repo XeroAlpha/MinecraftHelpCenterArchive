@@ -4,17 +4,6 @@ date: 2022-10-18T22:22:58Z
 updated: 2023-07-24T18:12:55Z
 categories: Events & Promotions
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_marketplace_support
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_PC
-  - platform_xbox_series_x/s
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/9983167643021-Warden-Headphones-Promotional-Item-FAQ
 ---

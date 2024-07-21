@@ -4,17 +4,6 @@ date: 2024-01-22T20:02:48Z
 updated: 2024-01-30T18:58:34Z
 categories: Minecraft Launcher Support
 tags:
-  - title_minecraft
-  - category_technical_support
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - subject_sign_in_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - title_minecraft_legends
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23430310790413-Troubleshooting-Minecraft-Launcher-Startup-and-Login-Issues
 hash:

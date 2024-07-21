@@ -3,7 +3,7 @@ title: "Hour of Code 2023: Generation AI"
 date: 2023-11-13T22:48:28Z
 updated: 2024-03-19T19:32:08Z
 categories: Hour of Code
-link: https://educommunity.minecraft.net/hc/en-us/articles/20927139983124-Hour-of-Code-2023-Generation-AI
+link: https://edusupport.minecraft.net/hc/en-us/articles/20927139983124-Hour-of-Code-2023-Generation-AI
 hash:
   h_01HF5DWZSJ3V4N0QDM8C1H4DA2: welcome-to-the-hour-of-code-2023-generation-ai
   h_01HF5DWZSJ5G2JZEQWQH8JMT28: lesson-objectives

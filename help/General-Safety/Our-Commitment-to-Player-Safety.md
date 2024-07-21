@@ -4,21 +4,7 @@ date: 2022-07-29T20:44:56Z
 updated: 2024-05-30T19:26:53Z
 categories: General Safety
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_pc
-  - platform_chromebook
   - section_15463792344973
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety
 hash:
   h_01HZ5F73DYG9QG7NKW7B6XA78E: player-safety

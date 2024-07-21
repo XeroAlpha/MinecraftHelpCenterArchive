@@ -3,7 +3,7 @@ title: "What's New: Learn to Code Update (version 1.14.50)"
 date: 2020-10-28T16:28:56Z
 updated: 2024-05-22T23:19:36Z
 categories: Product
-link: https://educommunity.minecraft.net/hc/en-us/articles/360051237012-What-s-New-Learn-to-Code-Update-version-1-14-50
+link: https://edusupport.minecraft.net/hc/en-us/articles/360051237012-What-s-New-Learn-to-Code-Update-version-1-14-50
 hash:
   h_01HYH9KP7KTZ6CTM6XFKCMT3ZD: new-hour-of-code-lesson
   h_01HYH9KP7KPZ2GF1GMXGPH2BBR: notebook-style-coding-interface
@@ -14,7 +14,7 @@ hash:
   h_01HYH9KP7M5EVXSMSF3SWHP8TT: ""
 ---
 
-![edu_hoc_codeDOTorg_landing_banner_1403x448\_\_2\_.png](https://educommunity.minecraft.net/hc/article_attachments/360075084392)
+![edu_hoc_codeDOTorg_landing_banner_1403x448\_\_2\_.png](https://edusupport.minecraft.net/hc/article_attachments/360075084392)
 
 This update brings a new, login-free coding lesson, just in time for [Hack the Classroom](https://educationblog.microsoft.com/en-us/2020/10/help-your-students-grow-future-ready-skills-with-hack-the-classroom-stem-edition/ "https://educationblog.microsoft.com/en-us/2020/10/help-your-students-grow-future-ready-skills-with-hack-the-classroom-stem-edition/") in November, and Computer Science Education Week in December! Students can complete a series of fun coding activities that bring two villages together using either block-based coding in MakeCode, or coding in Python using our new, notebook-style interface.
 

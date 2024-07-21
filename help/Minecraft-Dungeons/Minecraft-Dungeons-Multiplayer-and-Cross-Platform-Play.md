@@ -4,17 +4,6 @@ date: 2020-05-21T21:39:36Z
 updated: 2024-05-07T18:19:54Z
 categories: Minecraft Dungeons
 tags:
-  - subject_progress_and_saved_games
-  - category_technical_support
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_nintendo_switch
-  - category_account_support
-  - platform_sony_playstation_4
-  - platform_pc
-  - subject_microsoft_sign_in_questions
-  - platform_PC
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360043512112-Minecraft-Dungeons-Multiplayer-and-Cross-Platform-Play
 ---

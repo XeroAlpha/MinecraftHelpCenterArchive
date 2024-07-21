@@ -3,7 +3,7 @@ title: "FAQ: Hour of Code"
 date: 2022-11-07T23:53:42Z
 updated: 2023-11-13T22:46:14Z
 categories: Hour of Code
-link: https://educommunity.minecraft.net/hc/en-us/articles/10666569394324-FAQ-Hour-of-Code
+link: https://edusupport.minecraft.net/hc/en-us/articles/10666569394324-FAQ-Hour-of-Code
 hash:
   "2020": hour-of-code-2020-faq
   "2021": hour-of-code-2021-faq
@@ -62,8 +62,8 @@ If you don't see your questions answered below, please feel free to [submit a r
 ## Do I need a Minecraft Education license to play?
 
 - No, you do not need a Minecraft Education license to play the Hour of Code lesson. 
-  - If you have a Microsoft work or school account you may licenses from an existing bundle. Otherwise, you'll be granted [free trial logins](../Get-Started/Try-Minecraft-Education-for-free.md) you can use to access Hour of Code. 
-  - If you do not have a Microsoft work or school account, you can also access Hour of Code [via the demo](../Get-Started/Try-Minecraft-Education-for-free.md). 
+  - If you have a Microsoft work or school account you may licenses from an existing bundle. Otherwise, you'll be granted [free trial logins](https://educommunity.minecraft.net/hc/en-us/articles/360047116432) you can use to access Hour of Code. 
+  - If you do not have a Microsoft work or school account, you can also access Hour of Code [via the demo](https://educommunity.minecraft.net/hc/en-us/articles/360047116432). 
 - If you have a Minecraft Education license, you can access the lesson via the in-game Library.
 
 ## What version of Minecraft Education do I need?
@@ -140,7 +140,7 @@ Check out this article for information about [allowing network access to that se
 - Select Reset, as shown in the image below.
 - Return to Minecraft Education and try the coding activity again.
 
-![makecode_reset.png](https://educommunity.minecraft.net/hc/article_attachments/19504667599508)
+![makecode_reset.png](https://edusupport.minecraft.net/hc/article_attachments/19504667599508)
 
  
 

@@ -4,15 +4,6 @@ date: 2020-07-21T17:39:34Z
 updated: 2024-06-03T16:25:30Z
 categories: Account Sign-In
 tags:
-  - title_minecraft_java_edition
-  - subject_change_account_information
-  - platform_windows_10
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_12617963662861
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/360046599271-Invalid-Registration-Errors-When-Changing-your-Minecraft-Java-Edition-Profile-Name

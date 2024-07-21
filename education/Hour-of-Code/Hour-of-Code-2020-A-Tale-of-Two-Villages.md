@@ -3,10 +3,10 @@ title: "Hour of Code 2020: A Tale of Two Villages"
 date: 2020-10-29T13:55:53Z
 updated: 2022-11-07T23:48:34Z
 categories: Hour of Code
-link: https://educommunity.minecraft.net/hc/en-us/articles/360051766251-Hour-of-Code-2020-A-Tale-of-Two-Villages
+link: https://edusupport.minecraft.net/hc/en-us/articles/360051766251-Hour-of-Code-2020-A-Tale-of-Two-Villages
 ---
 
-![edu_hoc_codeDOTorg_landing_banner_1403x448.png](https://educommunity.minecraft.net/hc/article_attachments/360074545352/edu_hoc_codeDOTorg_landing_banner_1403x448.png)
+![edu_hoc_codeDOTorg_landing_banner_1403x448.png](https://edusupport.minecraft.net/hc/article_attachments/360074545352/edu_hoc_codeDOTorg_landing_banner_1403x448.png)
 
 ### Lesson Overview
 

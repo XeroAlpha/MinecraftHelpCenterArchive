@@ -4,27 +4,7 @@ date: 2023-06-06T20:41:55Z
 updated: 2024-07-10T17:01:19Z
 categories: Minecraft Game Updates
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - platform_sony_playstation_5
-  - platform_chromebook
   - section_16474069459597
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/16474157680525-Trails-Tales-Update-Features
 hash:
   h_01J2ES411D9MJ62YC14R1GE6H9: archaeology

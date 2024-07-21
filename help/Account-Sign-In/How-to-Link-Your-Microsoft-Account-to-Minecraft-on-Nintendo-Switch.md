@@ -4,11 +4,7 @@ date: 2021-09-09T22:41:11Z
 updated: 2024-03-04T18:45:21Z
 categories: Account Sign-In
 tags:
-  - title_minecraft
-  - category_technical_support
   - platform_nintendo_switch
-  - category_account_support
-  - subject_sign_in_questions
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/4408894129933-How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch
 ---
@@ -25,4 +21,4 @@ If you want access to crossplay in Minecraft on your Nintendo Switch, you need t
 
 After your account is linked, your Xbox gamertag will appear in the corner of the screen on your Minecraft title screen. To learn how to play with your friends, visit [How to Play Minecraft: Bedrock Edition Multiplayer](../Multiplayer-Support/How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md).
 
-For support with Minecraft Marketplace purchases, visit [Where Do I Get Support for Minecraft Marketplace Purchases?](../Minecraft-Marketplace/Where-Do-I-Get-Support-for-Minecraft-Marketplace-Purchases.md)
+For support with Minecraft Marketplace purchases, visit [Where Do I Get Support for Minecraft Marketplace Purchases?](../Minecraft-Marketplace/Get-Help-from-Creators-of-Marketplace-Content.md)

@@ -3,7 +3,7 @@ title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
 updated: 2024-06-18T18:55:57Z
 categories: Beta
-link: https://educommunity.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
+link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
   h_01HTQJTKRG1RNRWT30FCKD44JP: basic-flow-of-feature
   h_01HNZN864VMT3BH6HQ19SVKXS2: requirements
@@ -18,7 +18,7 @@ hash:
   h_01HTQK89VQKAN76XB70MT1X775: troubleshooting-download-errors
 ---
 
-Download the [Minecraft Education Preview](./Minecraft-Education-Preview-Program.md) to use the new cloud storage feature.
+Download the [Minecraft Education Preview](https://educommunity.minecraft.net/hc/en-us/articles/23498937165844) to use the new cloud storage feature.
 
 Worlds are automatically saved to OneDrive upon closing the world as a backup. When the first world is uploaded, a new folder in the user’s OneDrive is created called “Minecraft Education Preview". To ensure you have OneDrive attached to your account, see the troubleshooting guide below.
 
@@ -26,7 +26,7 @@ At this time, cloud storage is available for Windows, Android, and Chromebook. A
 
  
 
-[![cloud preview video](https://educommunity.minecraft.net/hc/article_attachments/23508888310548)](https://youtu.be/5qnsKntGnXc)
+[![cloud preview video](https://edusupport.minecraft.net/hc/article_attachments/23508888310548)](https://youtu.be/5qnsKntGnXc)
 
  
 
@@ -45,7 +45,7 @@ At this time, cloud storage is available for Windows, Android, and Chromebook. A
 - User accounts must have an allowed connection to OneDrive in place.
   - To check, go to [Sign in - Microsoft OneDrive (live.com) and sign in with your school account](https://onedrive.live.com/login/).
 - Users should have the Minecraft Education Preview (or Win32 Beta) installed on their device.
-  - View our [Minecraft Education Preview Program](./Minecraft-Education-Preview-Program.md) article to learn how to download.
+  - View our [Minecraft Education Preview Program](https://educommunity.minecraft.net/hc/en-us/articles/23498937165844) article to learn how to download.
 - IT Admins will need to ensure that all recommended [URLs are unblocked](https://aka.ms/MEEURLAllowList) and computers can communicate with OneDrive online. Below are the cloud specific URLs:
   - https://graph.microsoft.com
   - https://\*.sharepoint.com
@@ -74,7 +74,7 @@ Note: The downloaded file will continue to backup to the same location if the sa
 
  
 
-![Picture1.png](https://educommunity.minecraft.net/hc/article_attachments/23498417208852)
+![Picture1.png](https://edusupport.minecraft.net/hc/article_attachments/23498417208852)
 
 ** **
 
@@ -170,7 +170,7 @@ Currently, OneDrive is the only supported cloud storage location.
 
 Yes, you can go into Settings/Cloud Storage and toggle off “Enable world backups to OneDrive”.
 
-![2024-04-04 11_58_03-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://educommunity.minecraft.net/hc/article_attachments/25303620083348)
+![2024-04-04 11_58_03-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/25303620083348)
 
  
 
@@ -184,7 +184,7 @@ You can disable cloud backups. Before you do so, check by going to [Sign in - Mi
 
 - No special characters (" \* : \< \> ? / \\ \|) or punctuation should be used in world titles. If there are restricted characters, they will be replaced automatically stripped from the file name.
 - If you open a world from a file picker on your device or from OneDrive in the cloud, the world will automatically generate a new copy on your device but will continue syncing to the original file on OneDrive.
-- Related article: [Import, Export, and Manage Worlds – Minecraft Education](../Teaching-With-Minecraft/Import-Export-and-Manage-Worlds.md)
+- Related article: [Import, Export, and Manage Worlds – Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047555391)
 
  
 
@@ -204,7 +204,7 @@ If you got this error when you closed your world:
 
 ***Error Code: 403x5***
 
-*![2024-06-18 11_52_27-Cloud Support Article R21.docx and 1 more page - Work - Microsoft​ Edge.png](https://educommunity.minecraft.net/hc/article_attachments/27680220787220)*
+*![2024-06-18 11_52_27-Cloud Support Article R21.docx and 1 more page - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/27680220787220)*
 
  
 
@@ -215,7 +215,7 @@ If you got this error when you closed your world:
 
  
 
-***![2024-04-04 12_01_21-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://educommunity.minecraft.net/hc/article_attachments/25303636899604)***
+***![2024-04-04 12_01_21-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/25303636899604)***
 
   
 Here are some steps you can take to figure out the issue:
@@ -231,7 +231,7 @@ Here are some steps you can take to figure out the issue:
 
 If you got this error when you closed your world:
 
-![2024-04-04 12_06_40-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://educommunity.minecraft.net/hc/article_attachments/25303636910228)
+![2024-04-04 12_06_40-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/25303636910228)
 
 **Upload failed**
 

@@ -4,16 +4,6 @@ date: 2024-04-19T20:46:09Z
 updated: 2024-04-22T17:16:33Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_chromebook
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/26047659081741-Realm-Events-are-Not-Showing-Up-in-Minecraft-Realm-Stories
 ---

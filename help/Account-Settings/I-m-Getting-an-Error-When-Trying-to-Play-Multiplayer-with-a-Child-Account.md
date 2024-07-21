@@ -4,21 +4,6 @@ date: 2020-04-22T23:12:57Z
 updated: 2024-06-11T21:27:32Z
 categories: Account Settings
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account
 hash:

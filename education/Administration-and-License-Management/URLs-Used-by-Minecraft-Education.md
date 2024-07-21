@@ -3,7 +3,7 @@ title: URLs Used by Minecraft Education
 date: 2021-08-06T13:22:58Z
 updated: 2023-06-02T21:15:42Z
 categories: Administration and License Management
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404784181524-URLs-Used-by-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404784181524-URLs-Used-by-Minecraft-Education
 hash:
   01GAW1D5M7R3MNFKRDV393Q99A: list-of-all-urls-used-by-minecraft-education
   01GHA5EZN99Q4PDQPK3KMRMVAS: what-is-the-full-list-of-domains-that-are-in-the-wildcards
@@ -56,7 +56,7 @@ If you are using SSL Decryption on a **Chromebook** any url that serves up certi
 
  
 
-**For more information on URLs, subdomains, and ports, see our [full IT Admin guide here. ](./FAQ-IT-Admin-Guide.md)**
+**For more information on URLs, subdomains, and ports, see our [full IT Admin guide here. ](https://educommunity.minecraft.net/hc/en-us/articles/360047118992)**
 
  
 

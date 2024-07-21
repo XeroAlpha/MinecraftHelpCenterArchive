@@ -4,18 +4,6 @@ date: 2022-06-30T14:32:52Z
 updated: 2024-05-30T19:54:06Z
 categories: Player Reporting & Bans
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/7317376541197-Guidelines-for-Reporting-Inappropriate-Player-Behavior-in-Minecraft
 hash:

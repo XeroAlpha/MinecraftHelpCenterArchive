@@ -4,8 +4,6 @@ date: 2023-04-13T16:16:40Z
 updated: 2023-04-18T19:58:55Z
 categories: Dungeons & Legends Game Guides
 tags:
-  - title_minecraft_legends
-  - title_legends
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14816568424461-Minecraft-Legends-Building-and-Movement-Tutorial
 hash:

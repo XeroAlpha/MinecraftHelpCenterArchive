@@ -10,7 +10,7 @@ tags:
   - CSPDA
   - CCPA
   - Privacy
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047118972-User-Privacy-and-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047118972-User-Privacy-and-Minecraft-Education
 ---
 
 **Data Privacy Compliance**

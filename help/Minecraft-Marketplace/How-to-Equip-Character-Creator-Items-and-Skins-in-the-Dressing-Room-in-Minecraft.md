@@ -4,23 +4,6 @@ date: 2021-09-09T23:20:19Z
 updated: 2024-05-10T18:59:59Z
 categories: Minecraft Marketplace
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_marketplace_support
-  - subject_content_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - trending
   - section_24069904400141
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/4408902716557-How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft

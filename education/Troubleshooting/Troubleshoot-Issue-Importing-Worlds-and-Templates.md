@@ -3,7 +3,7 @@ title: Troubleshoot Issue Importing Worlds and Templates
 date: 2021-08-10T14:14:40Z
 updated: 2023-01-27T22:58:15Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404970263572-Troubleshoot-Issue-Importing-Worlds-and-Templates
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404970263572-Troubleshoot-Issue-Importing-Worlds-and-Templates
 ---
 
 If you’re experiencing issues importing worlds (.mcworld files) and templates (.mctemplate files), there may be a few difference reasons. This article provides information on what may be causing the issue and how to fix it.

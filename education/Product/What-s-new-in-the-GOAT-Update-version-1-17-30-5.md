@@ -3,7 +3,7 @@ title: What's new in the GOAT Update (version 1.17.30.5)
 date: 2021-10-26T20:30:50Z
 updated: 2024-05-22T23:17:29Z
 categories: Product
-link: https://educommunity.minecraft.net/hc/en-us/articles/4409173064084-What-s-new-in-the-GOAT-Update-version-1-17-30-5
+link: https://edusupport.minecraft.net/hc/en-us/articles/4409173064084-What-s-new-in-the-GOAT-Update-version-1-17-30-5
 hash:
   h_01HYH9DQAF899Q50NG5NV8Z9G0: how-to-update
   h_01HYH9DQAF8A2J180BNXDW8SPA: from-the-nether-update
@@ -24,7 +24,7 @@ Please let us know all about the things you love, as well as challenges you run 
 
 ### How to update:
 
-Here are our [update article](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md) that discusses how to update to the latest version of Minecraft Education for our supported platforms:
+Here are our [update article](https://educommunity.minecraft.net/hc/en-us/articles/360047705032) that discusses how to update to the latest version of Minecraft Education for our supported platforms:
 
  
 

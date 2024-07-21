@@ -4,11 +4,6 @@ date: 2022-06-23T15:42:44Z
 updated: 2024-05-30T19:50:23Z
 categories: Player Reporting & Bans
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
   - section_15463793799181
 link: https://help.minecraft.net/hc/en-us/articles/7149823936781-How-to-Report-a-Player-in-Minecraft-Java-Edition
 hash:

@@ -3,18 +3,6 @@ title: How to Enable a Child Account to Redeem Codes in Minecraft
 date: 2024-05-09T19:16:03Z
 categories: Events & Promotions
 tags:
-  - title_minecraft
-  - subject_change_account_information
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - subject_content_questions
-  - category_account_support
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_chromebook
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/26602043483405-How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft
 hash:

@@ -4,13 +4,6 @@ date: 2020-03-11T15:08:34Z
 updated: 2024-04-01T19:31:34Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - subject_game_performance
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_android
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/360040841471-What-to-Know-About-Minecraft-Preview
 hash:

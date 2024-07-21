@@ -4,14 +4,6 @@ date: 2021-03-29T20:06:09Z
 updated: 2024-07-03T19:18:40Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - subject_how_to_play
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360059148111-Hotkeys-in-Minecraft-Java-Edition
 ---

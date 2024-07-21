@@ -4,14 +4,6 @@ date: 2022-04-27T23:26:52Z
 updated: 2023-06-15T16:32:27Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_windows_10
-  - category_account_support
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
   - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/5846082805645-Redeeming-a-Prepaid-Card-for-Minecraft-Java-Bedrock-Edition-for-PC
 hash:

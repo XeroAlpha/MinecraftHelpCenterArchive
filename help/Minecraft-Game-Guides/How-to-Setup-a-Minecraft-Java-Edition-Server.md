@@ -4,16 +4,6 @@ date: 2021-03-24T19:23:34Z
 updated: 2024-03-19T14:58:23Z
 categories: Minecraft Game Guides
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - subject_how_to_play
-  - subject_connectivity
-  - subject_join_or_leave_realm
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360058525452-How-to-Setup-a-Minecraft-Java-Edition-Server
 ---

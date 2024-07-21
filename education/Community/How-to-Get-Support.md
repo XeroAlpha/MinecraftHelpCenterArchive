@@ -3,7 +3,7 @@ title: How to Get Support
 date: 2020-08-24T17:28:55Z
 updated: 2024-05-23T23:21:52Z
 categories: Community
-link: https://educommunity.minecraft.net/hc/en-us/articles/360048662071-How-to-Get-Support
+link: https://edusupport.minecraft.net/hc/en-us/articles/360048662071-How-to-Get-Support
 hash:
   h_01HACVF65YJDZM9CT6EEW27ZYY: ask-our-answerbot
   h_01HACVF65YE9Z7JC84EAFJNXFG: answerbotpng
@@ -21,7 +21,7 @@ The easiest way to get an answer to your question is to use our Self Helper tool
 
 Click on the Help icon on any Community Hub page to get started.
 
-### ![answerbot.png](https://educommunity.minecraft.net/hc/article_attachments/11491587132436)
+### ![answerbot.png](https://edusupport.minecraft.net/hc/article_attachments/11491587132436)
 
 ### Search our Knowledge Base
 
@@ -31,7 +31,7 @@ The fastest way to get support is to use the search bar to browse our extensive 
 
 The **I have a technical problem** forum is monitored by the support team as well as a team of community moderators, so in most cases will be the fastest way to get an answer. Don't forget to search first - often, another educator like yourself has already asked a similar question and you can find the answer faster this way. 
 
-![mceclip0.png](https://educommunity.minecraft.net/hc/article_attachments/4411987186964)
+![mceclip0.png](https://edusupport.minecraft.net/hc/article_attachments/4411987186964)
 
 ### Submit a Support Request
 
@@ -39,11 +39,11 @@ If you are having a more complex problem that requires troubleshooting, or have 
 
 1\) You can find a link to **Submit a Request** at the bottom of any Knowledge Base article page (including this page!)
 
-![end_of_article.png](https://educommunity.minecraft.net/hc/article_attachments/360066039571)
+![end_of_article.png](https://edusupport.minecraft.net/hc/article_attachments/360066039571)
 
-2\) Click your profile picture at the top of any page in the Community Hub and choose the the [Submit a Request](https://aka.ms/MEE_New_Request) option.  If you don't have a profile, read this article to learn how to [Set up an Account and Profile in the Community Hub](./How-to-Set-Up-an-Account-and-Profile-in-the-Support-Center.md).
+2\) Click your profile picture at the top of any page in the Community Hub and choose the the [Submit a Request](https://aka.ms/MEE_New_Request) option.  If you don't have a profile, read this article to learn how to [Set up an Account and Profile in the Community Hub](https://educommunity.minecraft.net/hc/en-us/articles/360047556611).
 
-![zendesk_profile_options.png](https://educommunity.minecraft.net/hc/article_attachments/360065832572)
+![zendesk_profile_options.png](https://edusupport.minecraft.net/hc/article_attachments/360065832572)
 
 ### Best practices to get your request resolved quickly
 

@@ -3,9 +3,6 @@ title: What are Minecraft Tokens?
 date: 2024-06-13T19:02:17Z
 categories: Minecraft Marketplace
 tags:
-  - title_minecraft
-  - category_marketplace_support
-  - platform_sony_playstation_4
   - section_24069904400141
 link: https://help.minecraft.net/hc/en-us/articles/27554163215885-What-are-Minecraft-Tokens
 ---

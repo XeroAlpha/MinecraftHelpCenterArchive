@@ -4,25 +4,6 @@ date: 2021-07-08T17:09:20Z
 updated: 2024-05-09T19:21:58Z
 categories: Events & Promotions
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - subject_content_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - title_minecraft_legends
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/4404604459405-How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft
 hash:

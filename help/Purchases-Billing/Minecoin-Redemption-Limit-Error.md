@@ -4,16 +4,6 @@ date: 2023-01-17T15:54:10Z
 updated: 2024-06-18T21:54:38Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_PC
-  - platform_xbox_series_x/s
   - section_12617899093133
   - section_27194152473613
 link: https://help.minecraft.net/hc/en-us/articles/12317881023501-Minecoin-Redemption-Limit-Error

@@ -3,7 +3,7 @@ title: World Management for iPad
 date: 2020-08-10T09:16:25Z
 updated: 2023-09-15T16:29:40Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047117212-World-Management-for-iPad
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047117212-World-Management-for-iPad
 ---
 
 One of the most exciting parts about bringing Minecraft Education into the classroom can be having individuals or groups work on their own individual worlds and see what creative ideas students and teachers can come up with!
@@ -17,7 +17,7 @@ Below are some suggested steps and tips to help:
 - This can be a world that you created yourself and have exported 
 - It can also be a world that you have downloaded from our website (pictured below). Any .MCWORLD file will work
 
-![IMG_0001_1\_.PNG](https://educommunity.minecraft.net/hc/article_attachments/4402654642196)
+![IMG_0001_1\_.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402654642196)
 
  
 
@@ -34,19 +34,19 @@ Below are some suggested steps and tips to help:
   - iCloud Drive (pictured Below)
   - And many other options!
 
-![IMG_0002_1\_.PNG](https://educommunity.minecraft.net/hc/article_attachments/4402662036500)
+![IMG_0002_1\_.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402662036500)
 
  *Tip: If you are uploading the world to a shared location ensure all users have the permissions to access the location*
 
 **Access the shared location and download the world to Minecraft Education**
 
-![IMG_0003_1\_.PNG](https://educommunity.minecraft.net/hc/article_attachments/4402654945044)
+![IMG_0003_1\_.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402654945044)
 
 *iCloud Drive is pictured above and instructs to "copy" world to Minecraft Education*
 
 **Minecraft Education will start after download and the world will import**
 
-![IMG_0004_1\_.PNG](https://educommunity.minecraft.net/hc/article_attachments/4402654952980)
+![IMG_0004_1\_.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402654952980)
 
 **Alternate scenarios:**
 
@@ -66,6 +66,6 @@ Can I use AirDrop? How do I use this?
 
 **Related Articles:**
 
-- [Get Started with Minecraft Education on iOS](../Installation/iOS-Installation-Guide.md)
-- [Importing and Exporting Your Worlds](../Teaching-With-Minecraft/Import-Export-and-Manage-Worlds.md)
-- [FAQ: Game Features](./FAQ-Game-Features.md)
+- [Get Started with Minecraft Education on iOS](https://educommunity.minecraft.net/hc/en-us/articles/360047556351-Get-Started-with-Minecraft-Education-Edition-on-iPad)
+- [Importing and Exporting Your Worlds](https://educommunity.minecraft.net/hc/en-us/articles/360047555391-Importing-and-Exporting-Your-Worlds-)
+- [FAQ: Game Features](https://educommunity.minecraft.net/hc/en-us/articles/360047117692-FAQ-Game-Features)

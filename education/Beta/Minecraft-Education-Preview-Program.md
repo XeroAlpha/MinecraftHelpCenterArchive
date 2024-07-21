@@ -3,7 +3,7 @@ title: Minecraft Education Preview Program
 date: 2024-02-06T17:04:37Z
 updated: 2024-06-18T18:37:30Z
 categories: Beta
-link: https://educommunity.minecraft.net/hc/en-us/articles/23498937165844-Minecraft-Education-Preview-Program
+link: https://edusupport.minecraft.net/hc/en-us/articles/23498937165844-Minecraft-Education-Preview-Program
 hash:
   h_01HNZNMNPAX785WDRBRS4HH2J1: what-is-minecraft-education-preview
   h_01HNZNMNPAA2GT5MDPXSV5TADA: how-do-i-download-minecraft-education-preview
@@ -29,7 +29,7 @@ View our [What's New article](https://aka.ms/mewhatsnewpreview) to see the lates
 - [Download Minecraft Education Preview for Windows](https://aka.ms/downloadme-winStorePreview)
 - [Download Minecraft Education Preview for Android and Chromebook](https://aka.ms/downloadme-chromebookPreview)  
 
-Anyone who already has a license for Minecraft Education can use Minecraft Education Preview. If you are having issues installing Preview, please contact your school’s IT administrator or review our [IT Admin Guide](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md). If issues persist, your IT Admin can submit a [ticket to our support](https://aka.ms/MEE_New_Request) team.
+Anyone who already has a license for Minecraft Education can use Minecraft Education Preview. If you are having issues installing Preview, please contact your school’s IT administrator or review our [IT Admin Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047118992). If issues persist, your IT Admin can submit a [ticket to our support](https://aka.ms/MEE_New_Request) team.
 
  
 

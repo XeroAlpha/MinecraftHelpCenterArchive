@@ -4,27 +4,6 @@ date: 2021-09-14T17:14:22Z
 updated: 2024-04-01T19:00:19Z
 categories: Download & Install
 tags:
-  - title_minecraft_java_edition
-  - subject_progress_and_saved_games
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - platform_windows_10
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - subject_microsoft_sign_in_questions
-  - system requirements
-  - device requirements
-  - installation
-  - java edition
-  - platform_PC
-  - platform_macOS
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/4409225939853-System-Requirements-for-Minecraft-Java-Edition
 ---

@@ -5,32 +5,9 @@ updated: 2024-04-22T21:50:49Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
-  - title_minecraft
-  - category_technical_support
   - subject_downloads_and_installations
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - popular
-  - platform_sony_playstation_5
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166561402125
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4409165790605-How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition
 ---
 

@@ -7,7 +7,7 @@ tags:
   - deployment_guidance
   - get_started
   - teaching_guidance
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555171-Training-educators-in-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555171-Training-educators-in-Minecraft-Education
 hash:
   h_01HAAHGRRN30836RRR92C58TCD: in-person-educator-training
   h_01HAAHGRRN7WPHZQTNZXHJ0EKT: self-directed-educator-training
@@ -30,7 +30,7 @@ There are dozens of companies around the globe who are Minecraft Certified Train
 
 You can find companies in the Global Training Partner Program (GTPP) by visiting the [Microsoft Education training site](https://www.microsoft.com/en-us/education/training-and-events/trainers/default.aspx) and filtering by product. This will display a list of matching companies, along with their contact information.
 
-![Picture8.png](https://educommunity.minecraft.net/hc/article_attachments/4402652682004)
+![Picture8.png](https://edusupport.minecraft.net/hc/article_attachments/4402652682004)
 
 ## Self-directed educator training
 
@@ -53,7 +53,7 @@ There numerous resources available for helping educators and students learn abou
     
 - [Minecraft Education Ambassadors](https://education.minecraft.net/en-us/connect/minecraft-ambassador) is a directory of Minecraft experts waiting to connect with you! These are folks who are committed to helping others learn how to use Minecraft in the classroom.  
     
-- [The Support Center](https://educommunity.minecraft.net/hc/en-us/community/topics) is a great place to search for and ask questions about teaching or technical issues, as well as submit feature requests for Minecraft Education.  
+- [The Support Center](https://edusupport.minecraft.net/hc/en-us/community/topics) is a great place to search for and ask questions about teaching or technical issues, as well as submit feature requests for Minecraft Education.  
     
 - [Minecraft Education Blog](https://education.minecraft.net/blog/) is a great destination for weekly activities, stories, and examples of using Minecraft in new and innovative ways.  
     

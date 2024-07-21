@@ -4,21 +4,6 @@ date: 2021-09-13T18:03:20Z
 updated: 2024-03-28T20:09:37Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft_java_edition
-  - subject_game_does_not_start
-  - category_technical_support
-  - subject_game_performance
-  - platform_windows_10
-  - subject_game_crashes
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Get-help-with-Minecraft-Java-Edition-video-and-graphics-issues
 hash:

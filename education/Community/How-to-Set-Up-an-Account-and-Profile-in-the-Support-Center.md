@@ -3,7 +3,7 @@ title: How to Set Up an Account and Profile in the Support Center
 date: 2020-08-10T10:58:56Z
 updated: 2023-09-15T16:42:12Z
 categories: Community
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556611-How-to-Set-Up-an-Account-and-Profile-in-the-Support-Center
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556611-How-to-Set-Up-an-Account-and-Profile-in-the-Support-Center
 hash:
   h_01HACVGSR33YN7NVZP5E1Q1E2C: sign-in
   h_01HACVGSR3FWAW1E3YWVZ21J3W: my-profile
@@ -21,11 +21,11 @@ In order to participate in the Support Center, you'll first need to create an ac
 
 2\) Click the **Sign in** link at the top right of the page.
 
-![login.png](https://educommunity.minecraft.net/hc/article_attachments/4403074875540)
+![login.png](https://edusupport.minecraft.net/hc/article_attachments/4403074875540)
 
 3\) Login with either a school, organizational or personal Microsoft email address
 
-![sign_in.png](https://educommunity.minecraft.net/hc/article_attachments/4403074876820)
+![sign_in.png](https://edusupport.minecraft.net/hc/article_attachments/4403074876820)
 
 **Note**: **A School or organizational accou**nt is the account you use to sign into your school or business and Minecraft Education.  A **personal Microsoft account** is a free account such as outlook.com, hotmail.com or xbox.com (Learn how to [Create a Microsoft Account](https://account.microsoft.com/account))
 
@@ -33,11 +33,11 @@ In order to participate in the Support Center, you'll first need to create an ac
 
 4\) Click **Accept** to allow the Minecraft Education website permissions to store your profile data.
 
-![permissions_required.png](https://educommunity.minecraft.net/hc/article_attachments/4403075049876)
+![permissions_required.png](https://edusupport.minecraft.net/hc/article_attachments/4403075049876)
 
 5\) Click **Upload photo**
 
-**![select_avatar.png](https://educommunity.minecraft.net/hc/article_attachments/4403074924820)**
+**![select_avatar.png](https://edusupport.minecraft.net/hc/article_attachments/4403074924820)**
 
 Click **Select image** if you want to upload a photo to display.  The photo must be less than 500 Kb in size, and be exactly square.  You can also select one of the available Minecraft avatars.  Click **Save** to return to the profile fields.
 
@@ -45,7 +45,7 @@ Click **Select image** if you want to upload a photo to display.  The photo mus
 
 6\) Once you're back on the community hub site, you'll see **your classroom** options at the top right**.** Click on this menu, and you'll see  "My Classroom",  "My Profile", "My Resources" and "Sign Out."
 
-![my_profile.png](https://educommunity.minecraft.net/hc/article_attachments/4403080689300)
+![my_profile.png](https://edusupport.minecraft.net/hc/article_attachments/4403080689300)
 
  
 

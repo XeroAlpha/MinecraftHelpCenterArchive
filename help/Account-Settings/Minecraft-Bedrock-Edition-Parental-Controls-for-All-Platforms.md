@@ -4,23 +4,6 @@ date: 2020-07-14T19:32:10Z
 updated: 2024-06-06T00:11:49Z
 categories: Account Settings
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - subject_change_account_information
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_account_support
-  - platform_sony_playstation_4
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_chromebook
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/360045816952-Minecraft-Bedrock-Edition-Parental-Controls-for-All-Platforms
 ---

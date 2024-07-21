@@ -4,12 +4,6 @@ date: 2021-09-14T21:36:49Z
 updated: 2024-06-21T21:20:52Z
 categories: Minecraft Game Guides
 tags:
-  - platform_windows_10
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_PC
-  - platform_windows10/11
-  - platform_sony_playstation_5
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements
 hash:

@@ -4,25 +4,6 @@ date: 2021-09-29T20:49:05Z
 updated: 2024-02-14T18:59:20Z
 categories: Multiplayer Support
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - multijugador
   - section_27166460834061
 link: https://help.minecraft.net/hc/en-us/articles/4410316619533-How-to-Play-Minecraft-Bedrock-Edition-Multiplayer
 hash:

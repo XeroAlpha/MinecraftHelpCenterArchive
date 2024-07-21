@@ -4,34 +4,6 @@ date: 2021-09-14T23:14:55Z
 updated: 2024-04-15T19:14:32Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - subject_join_or_leave_realm
-  - platform_ios
-  - platform_android
-  - subject_creating_a_realm
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - subject_extending_a_realm
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - popular
-  - platform_sony_playstation_5
-  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Support
 hash:
@@ -66,8 +38,8 @@ If you want to learn more about Minecraft Realms, how to join a game, or manage 
 
 ## Subscriptions & Billing
 
-- [How To View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition](../Manage-Realms-Subscriptions/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Bedrock-Edition.md)
-- [How To View a Realms Subscription Renewal Date for Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-view-a-Realms-subscription-renewal-date-for-Minecraft-Java-Edition.md)
+- [How To View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition.md)
+- [How To View a Realms Subscription Renewal Date for Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition.md)
 - [How Do I Cancel a Minecraft: Java Edition Realm Subscription?](../Manage-Realms-Subscriptions/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)
 - [How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription?](../Manage-Realms-Subscriptions/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md)
 - [How Do I Renew an Expired Minecraft: Java Edition Realm Subscription?](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md)

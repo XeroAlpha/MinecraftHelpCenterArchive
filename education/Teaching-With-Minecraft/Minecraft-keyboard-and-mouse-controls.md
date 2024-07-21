@@ -7,7 +7,7 @@ tags:
   - controls
   - getting_started
   - new_user
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047116832-Minecraft-keyboard-and-mouse-controls
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047116832-Minecraft-keyboard-and-mouse-controls
 hash:
   Topic-1: moving-around-minecraft
   Topic-2: mouse-controls
@@ -96,8 +96,8 @@ If these keyboard settings are non-intuitive, you can change them. You can also 
 ## Additional resources
 
 - [Key Terms and Control Guide](https://education.minecraft.net/wp-content/uploads/Key-Terms-and-Control-Guide_MEE.pdf%20)
-- [Tutorial world](../Get-Started/Get-Started-with-the-Tutorial-World.md)
-- [Learn to play Minecraft Education](../Get-Started/Learn-to-play-Minecraft-Education.md)
+- [Tutorial world](https://educommunity.minecraft.net/hc/en-us/articles/360047555191)
+- [Learn to play Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047555131)
 
  
 

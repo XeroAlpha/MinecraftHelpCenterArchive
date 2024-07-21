@@ -3,12 +3,12 @@ title: "Hour of Code 2021: Timecraft"
 date: 2021-11-08T17:00:54Z
 updated: 2022-11-07T23:46:02Z
 categories: Hour of Code
-link: https://educommunity.minecraft.net/hc/en-us/articles/4409940078996-Hour-of-Code-2021-Timecraft
+link: https://edusupport.minecraft.net/hc/en-us/articles/4409940078996-Hour-of-Code-2021-Timecraft
 hash:
   section: ""
 ---
 
-![blobid0.png](https://educommunity.minecraft.net/hc/article_attachments/4409940044180/blobid0.png)
+![blobid0.png](https://edusupport.minecraft.net/hc/article_attachments/4409940044180/blobid0.png)
 
 ### **Hour of Code 2021 (TimeCraft)**
 

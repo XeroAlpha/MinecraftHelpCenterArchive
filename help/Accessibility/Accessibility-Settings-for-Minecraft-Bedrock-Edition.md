@@ -4,17 +4,6 @@ date: 2021-05-18T17:42:17Z
 updated: 2023-07-24T19:30:45Z
 categories: Accessibility
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_kindle_fire
-  - platform_oculus
   - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition
 hash:

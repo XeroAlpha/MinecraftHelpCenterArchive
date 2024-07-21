@@ -4,25 +4,6 @@ date: 2021-09-09T18:46:40Z
 updated: 2024-02-29T20:06:02Z
 categories: Multiplayer Support
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
 link: https://help.minecraft.net/hc/en-us/articles/4408873961869-How-to-Download-Dedicated-Minecraft-Server-Software
 ---

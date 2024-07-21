@@ -3,7 +3,7 @@ title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
 updated: 2024-06-28T23:33:18Z
 categories: Product
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
   h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-preview--beta-game-client-version-12101---released-61824
   01J1GK0AR07KZ7QNP83CH2JVPR: minecraft-education-preview-game-client-version-12070---released-4424
@@ -39,7 +39,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
  
 
-![MCEDU_app_icon_3D_180x180.png](https://educommunity.minecraft.net/hc/article_attachments/12443930919700)
+![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
 
@@ -188,7 +188,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 - Demo lesson (Office 365 Education account not required)
 - Misc. bug fixes
 
-![CC_App_Icon.png](https://educommunity.minecraft.net/hc/article_attachments/4402655061140)
+![CC_App_Icon.png](https://edusupport.minecraft.net/hc/article_attachments/4402655061140)
 
 ## Code Connection (version 1.X) - Released 4/11/23
 
@@ -201,7 +201,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
  
 
-![CM_App_Icon.png](https://educommunity.minecraft.net/hc/article_attachments/4402662149268)
+![CM_App_Icon.png](https://edusupport.minecraft.net/hc/article_attachments/4402662149268)
 
 ##  
 

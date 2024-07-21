@@ -4,26 +4,6 @@ date: 2021-09-13T23:22:40Z
 updated: 2023-10-12T20:29:24Z
 categories: General Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_refund_support
-  - subject_game_refund
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
   - section_12619005712013
 link: https://help.minecraft.net/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ
 hash:

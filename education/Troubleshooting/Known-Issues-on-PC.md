@@ -3,7 +3,7 @@ title: Known Issues on PC
 date: 2021-08-10T13:56:05Z
 updated: 2023-01-27T23:14:20Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404970060180-Known-Issues-on-PC
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404970060180-Known-Issues-on-PC
 hash:
   section: ""
   some-lesson-worlds-dont-show-new-content-from-latest-update.: some-lesson-worlds-dont-show-new-content-from-latest-update

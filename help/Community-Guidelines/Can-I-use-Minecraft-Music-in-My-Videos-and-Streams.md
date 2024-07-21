@@ -4,23 +4,6 @@ date: 2023-12-05T23:17:45Z
 updated: 2024-06-28T20:28:43Z
 categories: Community Guidelines
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - title_minecraft_legends
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27983753055117
 link: https://help.minecraft.net/hc/en-us/articles/21984449056781-Can-I-use-Minecraft-Music-in-My-Videos-and-Streams
 hash:

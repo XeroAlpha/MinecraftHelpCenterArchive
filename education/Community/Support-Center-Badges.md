@@ -3,7 +3,7 @@ title: Support Center Badges
 date: 2022-03-29T22:39:27Z
 updated: 2023-09-15T16:40:24Z
 categories: Community
-link: https://educommunity.minecraft.net/hc/en-us/articles/5177047072148-Support-Center-Badges
+link: https://edusupport.minecraft.net/hc/en-us/articles/5177047072148-Support-Center-Badges
 hash:
   h_01HACVD1696QNCFSAMA890H04X: support-center-badges
   h_01HACVD169C9ZF6EQT6D02A73N: support-agent
@@ -23,7 +23,7 @@ In the Minecraft Education Universe, you can earn badges for taking courses on M
 
 ### Support Agent
 
-![MCEDU_Support_Center_badge_Support_Agent_RGB.svg](https://educommunity.minecraft.net/hc/article_attachments/15485242369300)
+![MCEDU_Support_Center_badge_Support_Agent_RGB.svg](https://edusupport.minecraft.net/hc/article_attachments/15485242369300)
 
 Identifies an official Minecraft Support member.  We're here to help!
 
@@ -31,13 +31,13 @@ Identifies an official Minecraft Support member.  We're here to help!
 
 ### Moderator
 
-![MCEDU_Support_Center_badge_Moderator_RGB.svg](https://educommunity.minecraft.net/hc/article_attachments/15485249149972)
+![MCEDU_Support_Center_badge_Moderator_RGB.svg](https://edusupport.minecraft.net/hc/article_attachments/15485249149972)
 
 Our moderators work hard to answer your questions and make sure the Community is a great place to interact.
 
 ###  Beacon of Light
 
-![MCEDU_Support_Center_badge_Beacon_of_light_RGB.svg](https://educommunity.minecraft.net/hc/article_attachments/15485249082260)
+![MCEDU_Support_Center_badge_Beacon_of_light_RGB.svg](https://edusupport.minecraft.net/hc/article_attachments/15485249082260)
 
 Given to those who show expert knowledge of Minecraft Education
 
@@ -45,7 +45,7 @@ Given to those who show expert knowledge of Minecraft Education
 
 ### Super Star
 
-![MCEDU_Support_Center_badge_Superstar_RGB.svg](https://educommunity.minecraft.net/hc/article_attachments/15485242345748)
+![MCEDU_Support_Center_badge_Superstar_RGB.svg](https://edusupport.minecraft.net/hc/article_attachments/15485242345748)
 
 Given to Community members who are going above and beyond to help others in the Community.
 
@@ -53,7 +53,7 @@ Given to Community members who are going above and beyond to help others in the 
 
 ### Bug Zapper
 
-![MCEDU_Support_Center_badge_Bug_Zapper_RGB.svg](https://educommunity.minecraft.net/hc/article_attachments/15485249081492)
+![MCEDU_Support_Center_badge_Bug_Zapper_RGB.svg](https://edusupport.minecraft.net/hc/article_attachments/15485249081492)
 
 You found a bug!  
 
@@ -63,6 +63,6 @@ You found a bug!  
 
 ### Minecraft Education Ambassador
 
-![MCEDU_Status_badge_Ambassador_RGB.svg](https://educommunity.minecraft.net/hc/article_attachments/15485380044052)
+![MCEDU_Status_badge_Ambassador_RGB.svg](https://edusupport.minecraft.net/hc/article_attachments/15485380044052)
 
 Are you passionate about teaching with Minecraft? [Earn your Ambassador badge on Credly](https://www.credly.com/org/microsoft-education/badge/minecraft-education-expert) by completing the Minecraft 101 series and applying with a short video about your interest in helping others learn Minecraft Education. Note - badges do not appear on the Support Center, only via Credly.

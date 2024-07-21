@@ -3,7 +3,7 @@ title: Learn to play Minecraft Education
 date: 2020-08-10T07:36:02Z
 updated: 2024-05-22T21:52:48Z
 categories: Get Started
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555131-Learn-to-play-Minecraft-Education
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555131-Learn-to-play-Minecraft-Education
 hash:
   Topic-1: first-steps
   Topic-2: learn-how-to-play-tutorials
@@ -30,7 +30,7 @@ To get ready for the tutorial experience, simply open up your version of Minecra
 
 Select "Play" from the main menu after logging in. Once you do, you'll see the below options:
 
-![2022-04-13_15_56_40-Slack\_\_\_Andrew_Lee\_\_\_Mojang.png](https://educommunity.minecraft.net/hc/article_attachments/5559556982292)
+![2022-04-13_15_56_40-Slack\_\_\_Andrew_Lee\_\_\_Mojang.png](https://edusupport.minecraft.net/hc/article_attachments/5559556982292)
 
 - "View my Worlds" will show you all of your existing worlds you can load up. 
   - If you do not have any worlds yet, this area will be empty.
@@ -43,13 +43,13 @@ Select "Play" from the main menu after logging in. Once you do, you'll see the b
 
 ## Learn How to Play Tutorials
 
-We have several tutorials for both Keyboard and Touch controls. You can find [more info on Tutorials here](./Get-Started-with-the-Tutorial-World.md). 
+We have several tutorials for both Keyboard and Touch controls. You can find [more info on Tutorials here](https://educommunity.minecraft.net/hc/en-us/articles/360047555191). 
 
  
 
 ## A guide to useful controls in Minecraft
 
-Get familiar with the controls [here](../Teaching-With-Minecraft/Minecraft-keyboard-and-mouse-controls.md). This article explains how to move around with one of the most common interfaces for Minecraft Education, a keyboard and mouse. We encourage you to bookmark or print out this page while you are learning how to play, you’ll likely refer to it often.
+Get familiar with the controls [here](https://educommunity.minecraft.net/hc/en-us/articles/360047116832-Minecraft-keyboard-and-mouse-controls-). This article explains how to move around with one of the most common interfaces for Minecraft Education, a keyboard and mouse. We encourage you to bookmark or print out this page while you are learning how to play, you’ll likely refer to it often.
 
  
 
@@ -57,10 +57,10 @@ Get familiar with the controls [here](../Teaching-With-Minecraft/Minecraft-keybo
 
 Once you get started with Minecraft, we invite you to explore the following resources to help you continue your journey at whatever level you are comfortable with:
 
-- [Get started with the Tutorial worlds](./Get-Started-with-the-Tutorial-World.md)
+- [Get started with the Tutorial worlds](https://educommunity.minecraft.net/hc/en-us/articles/360047555191)
 - Begin [Minecraft Teacher Academy](http://aka.ms/Minecraft-teacher-academy)
-- Get familiar with the [controls](../Teaching-With-Minecraft/Minecraft-keyboard-and-mouse-controls.md) 
-- Connect with other educators directly via our [Teacher's Lounge](https://educommunity.minecraft.net/hc/en-us/articles/aka.ms/mcteacherslounge)
+- Get familiar with the [controls](https://educommunity.minecraft.net/hc/en-us/articles/360047116832-Minecraft-keyboard-and-mouse-controls-) 
+- Connect with other educators directly via our [Teacher's Lounge](https://edusupport.minecraft.net/hc/en-us/articles/aka.ms/mcteacherslounge)
 - Follow us on [Twitter](https://twitter.com/PlayCraftLearn)
 - Explore the full [Knowledge Base](https://aka.ms/MCEDUSupportCenter)
 

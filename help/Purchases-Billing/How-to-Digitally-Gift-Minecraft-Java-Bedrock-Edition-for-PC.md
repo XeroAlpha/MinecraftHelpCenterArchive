@@ -4,14 +4,6 @@ date: 2022-08-25T15:10:26Z
 updated: 2024-05-31T20:39:47Z
 categories: Purchases & Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
   - section_12617899093133
   - section_12618006481549
   - section_27194152473613

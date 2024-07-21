@@ -3,7 +3,7 @@ title: Location of World Files
 date: 2021-08-06T14:52:14Z
 updated: 2023-09-15T15:40:30Z
 categories: Administration and License Management
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404785703316-Location-of-World-Files
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404785703316-Location-of-World-Files
 hash:
   h_01HACQYTR930Y6E7YRPBPG8FH4: show-hidden-files
   h_01HACQYTRAF6A6TV5F6FWJ6DKR: path-to-world-files-by-device-platform

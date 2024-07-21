@@ -4,30 +4,6 @@ date: 2021-09-24T21:25:19Z
 updated: 2024-02-14T19:54:04Z
 categories: Manage Realms Subscriptions
 tags:
-  - title_minecraft
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - subject_creating_a_realm
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - subject_extending_a_realm
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_xbox_series_x/s
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - platform_sony_playstation_5
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/4410001194765-How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription
 ---

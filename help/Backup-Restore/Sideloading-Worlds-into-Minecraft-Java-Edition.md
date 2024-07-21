@@ -4,14 +4,6 @@ date: 2020-12-03T18:59:04Z
 updated: 2022-11-16T20:38:11Z
 categories: Backup & Restore
 tags:
-  - title_minecraft_java_edition
-  - subject_progress_and_saved_games
-  - category_technical_support
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_27166561402125
 link: https://help.minecraft.net/hc/en-us/articles/360053272471-Sideloading-Worlds-into-Minecraft-Java-Edition
 hash:

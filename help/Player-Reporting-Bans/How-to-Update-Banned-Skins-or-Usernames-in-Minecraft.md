@@ -4,15 +4,7 @@ date: 2024-03-18T21:16:23Z
 updated: 2024-05-23T17:08:12Z
 categories: Player Reporting & Bans
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - platform_windows_10
-  - subject_content_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
   - section_15463793799181
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/25119638122509-How-to-Update-Banned-Skins-or-Usernames-in-Minecraft
 hash:
   h_01HS9PG7FCBNSPE5FXDDZT9VBW: change-your-username-for-minecraft

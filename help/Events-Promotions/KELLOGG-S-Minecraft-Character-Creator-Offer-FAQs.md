@@ -4,19 +4,7 @@ date: 2024-01-08T19:53:02Z
 updated: 2024-02-23T17:48:46Z
 categories: Events & Promotions
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_kindle_fire
-  - platform_pc
   - section_12617893243277
-  - platform_chromebook
-  - Promotions
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/23026720056973-KELLOGG-S-Minecraft-Character-Creator-Offer-FAQs
 ---

@@ -4,18 +4,6 @@ date: 2024-01-22T20:10:18Z
 updated: 2024-01-22T21:10:09Z
 categories: Minecraft Launcher Support
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - subject_downloads_and_installations
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - title_minecraft_legends
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23430683774221-Troubleshooting-Installing-the-Minecraft-Launcher
 hash:

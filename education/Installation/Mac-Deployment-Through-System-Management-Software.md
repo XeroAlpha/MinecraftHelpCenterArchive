@@ -3,7 +3,7 @@ title: Mac Deployment Through System Management Software
 date: 2021-08-03T14:27:38Z
 updated: 2023-03-08T18:34:43Z
 categories: Installation
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404609914132-Mac-Deployment-Through-System-Management-Software
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404609914132-Mac-Deployment-Through-System-Management-Software
 ---
 
 To deploy Minecraft Education across a large-scale environment, you can use your organization’s preferred system management software. For guidance on your specific system management software, you will need to consult the manufacturer.

@@ -3,10 +3,6 @@ title: iOS Operating System Requirements for Minecraft
 date: 2024-03-05T20:22:52Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - category_technical_support
-  - subject_game_performance
-  - platform_ios
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/24723754023821-iOS-Operating-System-Requirements-for-Minecraft
 hash:

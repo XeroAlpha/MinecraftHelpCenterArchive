@@ -4,30 +4,6 @@ date: 2023-09-14T20:59:33Z
 updated: 2024-01-30T21:12:11Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - category_refund_support
-  - subject_game_refund
-  - subject_change_account_information
-  - subject_game_performance
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - subject_join_or_leave_realm
-  - platform_ios
-  - platform_android
-  - subject_game_crashes
-  - platform_nintendo_switch
-  - category_marketplace_support
-  - category_account_support
-  - category_realms_support
-  - platform_sony_playstation_4
-  - platform_pc
-  - subject_microsoft_sign_in_questions
-  - category_refund
-  - category_presale_questions
-  - popular
-  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/19506833026829-Who-to-contact-with-your-Minecraft-support-questions
 hash:

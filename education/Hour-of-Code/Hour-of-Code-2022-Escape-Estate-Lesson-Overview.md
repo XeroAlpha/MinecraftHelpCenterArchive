@@ -3,7 +3,7 @@ title: "Hour of Code 2022: Escape Estate Lesson Overview"
 date: 2022-11-07T23:34:08Z
 updated: 2022-11-08T17:57:14Z
 categories: Hour of Code
-link: https://educommunity.minecraft.net/hc/en-us/articles/10666140185876-Hour-of-Code-2022-Escape-Estate-Lesson-Overview
+link: https://edusupport.minecraft.net/hc/en-us/articles/10666140185876-Hour-of-Code-2022-Escape-Estate-Lesson-Overview
 ---
 
 # Welcome to the Hour of Code 2022: Escape Estate!

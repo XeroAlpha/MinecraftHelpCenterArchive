@@ -4,17 +4,6 @@ date: 2023-10-24T21:10:46Z
 updated: 2024-04-22T19:19:50Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_chromebook
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20687461045645-Minecraft-Bedrock-Edition-Realms-Backup-FAQ
 hash:

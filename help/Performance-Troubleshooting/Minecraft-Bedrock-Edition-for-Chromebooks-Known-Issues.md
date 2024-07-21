@@ -4,11 +4,6 @@ date: 2023-06-06T22:01:37Z
 updated: 2023-07-13T17:53:53Z
 categories: Performance & Troubleshooting
 tags:
-  - title_minecraft
-  - subject_game_does_not_start
-  - category_technical_support
-  - subject_game_performance
-  - platform_chromebook
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/16476985743373-Minecraft-Bedrock-Edition-for-Chromebooks-Known-Issues
 ---

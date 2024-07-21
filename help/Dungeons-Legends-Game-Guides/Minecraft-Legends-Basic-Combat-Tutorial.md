@@ -4,8 +4,6 @@ date: 2023-04-13T16:45:12Z
 updated: 2023-04-18T20:15:51Z
 categories: Dungeons & Legends Game Guides
 tags:
-  - title_minecraft_legends
-  - title_legends
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14817936862349-Minecraft-Legends-Basic-Combat-Tutorial
 hash:

@@ -8,18 +8,10 @@ tags:
   - category_technical_support
   - subject_game_performance
   - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
   - subject_game_crashes
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
   - trending
   - section_27166432886285
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
 hash:
   h_01HQ3XERRAF21NFDXA247P6H7C: error-codes-you-may-encounter-while-playing

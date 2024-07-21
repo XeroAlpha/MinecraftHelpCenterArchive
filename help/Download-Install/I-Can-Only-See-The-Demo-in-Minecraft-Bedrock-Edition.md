@@ -4,14 +4,6 @@ date: 2023-01-09T18:28:21Z
 updated: 2024-02-01T21:44:38Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_android
-  - platform_sony_playstation_4
-  - platform_pc
-  - platform_PC
-  - platform_xbox_series_x/s
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/12094603233677-I-Can-Only-See-The-Demo-in-Minecraft-Bedrock-Edition
 hash:

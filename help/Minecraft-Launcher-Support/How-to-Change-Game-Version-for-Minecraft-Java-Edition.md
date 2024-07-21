@@ -4,14 +4,6 @@ date: 2019-10-13T23:33:49Z
 updated: 2024-06-13T19:52:27Z
 categories: Minecraft Launcher Support
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - subject_game_performance
-  - platform_linux
-  - platform_macos
-  - platform_pc
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/360034754852-How-to-Change-Game-Version-for-Minecraft-Java-Edition
 hash:

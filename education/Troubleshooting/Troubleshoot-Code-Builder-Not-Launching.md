@@ -3,7 +3,7 @@ title: Troubleshoot Code Builder Not Launching
 date: 2021-08-10T14:06:16Z
 updated: 2023-09-15T15:49:32Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4404976874132-Troubleshoot-Code-Builder-Not-Launching
+link: https://edusupport.minecraft.net/hc/en-us/articles/4404976874132-Troubleshoot-Code-Builder-Not-Launching
 hash:
   h_01FCR5XPJ82TBDQRXAZZ47H23X: clear-your-cache-inside-code-builder
   h_01FCR5Y5DG3MMMB0E0C7QGF77Z: clear-your-cache-from-your-system-files-pc-only
@@ -22,7 +22,7 @@ If you are:
 
 Follow these steps to clear your cache inside code builder.
 
-1.  From the code interface, select **More** (![More.png](https://educommunity.minecraft.net/hc/article_attachments/4404970164372)).
+1.  From the code interface, select **More** (![More.png](https://edusupport.minecraft.net/hc/article_attachments/4404970164372)).
 2.  Select **Reset**.
 
  

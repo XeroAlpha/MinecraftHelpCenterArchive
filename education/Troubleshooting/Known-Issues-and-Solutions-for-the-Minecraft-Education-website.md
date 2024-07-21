@@ -3,7 +3,7 @@ title: Known Issues and Solutions for the Minecraft Education website
 date: 2021-07-15T22:48:19Z
 updated: 2023-10-23T19:09:37Z
 categories: Troubleshooting
-link: https://educommunity.minecraft.net/hc/en-us/articles/4403674152340-Known-Issues-and-Solutions-for-the-Minecraft-Education-website
+link: https://edusupport.minecraft.net/hc/en-us/articles/4403674152340-Known-Issues-and-Solutions-for-the-Minecraft-Education-website
 hash:
   h_01HDEPQJKJ5NNR3YG61PN4E873: lesson-pages-not-loading-unable-to-log-in-and-newsletter-signup-failure-on-educationminecraftnet
   h_01HDEPQJKJ5Q53TH4MTXR4KN1H: minecraft-education-app-showing-as-unverified

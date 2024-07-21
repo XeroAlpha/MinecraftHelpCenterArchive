@@ -3,7 +3,7 @@ title: Minecraft Education Beta program
 date: 2021-05-25T15:44:31Z
 updated: 2024-06-18T18:31:49Z
 categories: Beta
-link: https://educommunity.minecraft.net/hc/en-us/articles/360061391892-Minecraft-Education-Beta-program
+link: https://edusupport.minecraft.net/hc/en-us/articles/360061391892-Minecraft-Education-Beta-program
 hash:
   h_01HNZM0PP9Z95NKNWCYP21RZR3: frequency-of-betas
   h_01HNZM0PP9PFD28HZ78X7JSE3D: how-do-i-join-the-beta

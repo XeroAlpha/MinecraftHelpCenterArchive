@@ -4,10 +4,6 @@ date: 2020-01-29T19:16:16Z
 updated: 2024-04-16T21:12:03Z
 categories: Minecraft Dungeons
 tags:
-  - category_technical_support
-  - subject_how_to_play
-  - title_minecraft_dungeons
-  - platform_windows_10
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360038937032-Minecraft-Dungeons-Minimum-Specifications-for-Gameplay
 ---

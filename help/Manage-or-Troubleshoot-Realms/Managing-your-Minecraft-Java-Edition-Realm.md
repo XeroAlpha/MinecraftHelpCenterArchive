@@ -4,14 +4,6 @@ date: 2023-10-25T17:03:24Z
 updated: 2023-12-18T22:07:10Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_chromebook
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/20712000178317-Managing-your-Minecraft-Java-Edition-Realm
 hash:

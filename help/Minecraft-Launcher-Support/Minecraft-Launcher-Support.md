@@ -4,16 +4,6 @@ date: 2022-06-03T19:44:02Z
 updated: 2024-04-11T17:16:51Z
 categories: Minecraft Launcher Support
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - subject_game_does_not_start
-  - category_technical_support
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/6662588435597-Minecraft-Launcher-Support
 hash:

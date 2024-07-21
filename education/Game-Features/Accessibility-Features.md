@@ -3,7 +3,7 @@ title: Accessibility Features
 date: 2021-05-20T01:06:20Z
 updated: 2023-09-21T15:04:17Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360061503031-Accessibility-Features
+link: https://edusupport.minecraft.net/hc/en-us/articles/360061503031-Accessibility-Features
 hash:
   h_01HAQT02XFPGGTGA4RHKKZVCB6: accessibility-settings-for-minecraft-education
   h_01HAQT02XFBZCD9JNV0D65R779: minecraft-education-accessibility-menu

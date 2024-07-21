@@ -4,14 +4,6 @@ date: 2021-09-13T18:38:46Z
 updated: 2024-07-03T20:14:29Z
 categories: Community Guidelines
 tags:
-  - title_minecraft_java_edition
-  - category_technical_support
-  - subject_game_performance
-  - subject_game_crashes
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
   - section_27983753055117
 link: https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition
 ---

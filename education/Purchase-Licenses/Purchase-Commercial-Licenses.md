@@ -3,7 +3,7 @@ title: Purchase Commercial Licenses
 date: 2021-05-25T14:26:26Z
 updated: 2024-05-22T22:08:55Z
 categories: Purchase Licenses
-link: https://educommunity.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
+link: https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
 hash:
   h_01HAAV8NGH8DF7QZ9MEWVKKKKH: microsoft-365-admin-center-is-where-you-purchase-and-manage-your-licenses
   h_01FC3MT6YYSCJKWYDBBGGKHKWT: create-a-microsoft-365-admin-center-account-and-purchase-licenses
@@ -31,7 +31,7 @@ View our helpful guide below, or **[purchase Minecraft commercial licenses here.
   
 Also, view our video on how to purchase and manage Minecraft Education commercial licenses:
 
-[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://educommunity.minecraft.net/hc/article_attachments/23508996855060)](https://www.youtube.com/watch?v=0GF2PZajxVk)
+[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/23508996855060)](https://www.youtube.com/watch?v=0GF2PZajxVk)
 
  
 

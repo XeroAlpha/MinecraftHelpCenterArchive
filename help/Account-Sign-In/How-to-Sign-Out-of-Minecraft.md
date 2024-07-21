@@ -4,22 +4,6 @@ date: 2020-07-14T23:11:19Z
 updated: 2024-05-31T20:04:27Z
 categories: Account Sign-In
 tags:
-  - title_minecraft
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_sony_playstation_4
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - subject_microsoft_sign_in_questions
-  - platform_PC
-  - platform_xbox_series_x/s
   - section_12617594906509
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/360045828292-How-to-Sign-Out-of-Minecraft

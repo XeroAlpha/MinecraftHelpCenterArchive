@@ -4,10 +4,9 @@ date: 2024-03-05T20:26:11Z
 updated: 2024-05-31T21:33:06Z
 categories: Account Sign-In
 tags:
-  - title_minecraft
-  - category_technical_support
   - platform_ios
   - section_27194059750157
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/24723842533389-iOS-14-Sign-In-Issue-with-Minecraft
 ---
 

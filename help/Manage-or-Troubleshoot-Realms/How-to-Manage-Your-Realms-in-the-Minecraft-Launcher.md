@@ -4,21 +4,6 @@ date: 2023-07-27T15:13:19Z
 updated: 2024-03-18T21:24:18Z
 categories: Manage or Troubleshoot Realms
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_windows_10
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - platform_chromebook
-  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/17987026917133-How-to-Manage-Your-Realms-in-the-Minecraft-Launcher
 ---

@@ -3,7 +3,7 @@ title: "What's New Minecraft: The Chromebook Release (version 1.14.31)"
 date: 2020-08-10T10:13:30Z
 updated: 2024-05-22T23:20:33Z
 categories: Product
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047117792-What-s-New-Minecraft-The-Chromebook-Release-version-1-14-31
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047117792-What-s-New-Minecraft-The-Chromebook-Release-version-1-14-31
 hash:
   h_01HYH9N39X1N5Z7ENQV97R5DXX: chromebook-availability
   h_01HYH9N39X7GXV3H559DRZ2M4F: bedrock-features
@@ -14,7 +14,7 @@ hash:
   h_01HYH9N39XSZT1EFKMJ3KHNTZ7: ""
 ---
 
-![Bees_2000x1000_NO_LOGO.jpg](https://educommunity.minecraft.net/hc/article_attachments/4402662109844)
+![Bees_2000x1000_NO_LOGO.jpg](https://edusupport.minecraft.net/hc/article_attachments/4402662109844)
 
 This update brings Minecraft: Education Edition to Chromebook! Now you can download Minecraft: Education Edition from the Google Play Store. Additional features in this update available for all users include fun new mobs like bees and foxes, new agent actions in Code Builder and tons of new learning content in our Library. Explore digital citizenship and social-emotional learning, science lessons and updated learn-to-code curriculum in time for Back to School.
 
@@ -34,31 +34,31 @@ Features from the previous two Minecraft Bedrock updates ([R13](../../feedback/R
 
 Windows and Chromebook users can now assign lessons and worlds from the in-game Library via Microsoft Teams or Google Classroom. On all platforms, links to lessons have been optimized for easier sharing and assignment-creation in your favorite LMS.  
 
-![Share.png](https://educommunity.minecraft.net/hc/article_attachments/4402654986260)
+![Share.png](https://edusupport.minecraft.net/hc/article_attachments/4402654986260)
 
 The Library has new categories to learn about Digital Citizenship and Social-Emotional Learning.
 
-![mceclip1.png](https://educommunity.minecraft.net/hc/article_attachments/4402662112660)
+![mceclip1.png](https://edusupport.minecraft.net/hc/article_attachments/4402662112660)
 
 Tags are now displayed on all Library lesson and world pages. Click on a tag to find all items that share that tag.
 
-![mceclip2.png](https://educommunity.minecraft.net/hc/article_attachments/4402654990996)
+![mceclip2.png](https://edusupport.minecraft.net/hc/article_attachments/4402654990996)
 
 ## Keyboard and Mouse Hints
 
 New on-screen hints for keyboard and mouse users are easier to show and hide in the game. 
 
-![mceclip2\_\_1\_.png](https://educommunity.minecraft.net/hc/article_attachments/4402662115604)
+![mceclip2\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402662115604)
 
 ## NPC skins
 
 New, bee-themed NPC skins are available for world builders. 
 
-![Bee_Keepers\_\_1\_.png](https://educommunity.minecraft.net/hc/article_attachments/4402654996244)
+![Bee_Keepers\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402654996244)
 
 ## Miscellaneous 
 
-For specific information on how to update Minecraft: Education Edition please go here: [FAQ: Update to a New Version of Minecraft Education](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md)
+For specific information on how to update Minecraft: Education Edition please go here: [FAQ: Update to a New Version of Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047705032)
 
 Please add the following domains to your allow list in order to access all of the features in this update:
 

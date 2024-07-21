@@ -4,24 +4,7 @@ date: 2021-09-10T22:35:24Z
 updated: 2024-05-30T19:41:51Z
 categories: Player Reporting & Bans
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - platform_xbox_one
-  - title_minecraft_dungeons
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_pc
-  - title_minecraft_legends
-  - platform_chromebook
   - section_15463793799181
-  - title_minecraft_java_bedrock_for_pc
 link: https://help.minecraft.net/hc/en-us/articles/4408964729869-Banned-Minecraft-Accounts-and-the-Appeal-Process
 hash:
   h_01HZ5G3B6QAR0F2NSJPZASGSH7: results-of-a-banned-account

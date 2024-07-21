@@ -3,7 +3,7 @@ title: Assign or Share Worlds and Lessons
 date: 2021-05-25T13:53:24Z
 updated: 2023-02-17T21:02:19Z
 categories: Teaching With Minecraft
-link: https://educommunity.minecraft.net/hc/en-us/articles/360061811171-Assign-or-Share-Worlds-and-Lessons
+link: https://edusupport.minecraft.net/hc/en-us/articles/360061811171-Assign-or-Share-Worlds-and-Lessons
 hash:
   assign-or-share-a-world-from-the-in-game-library: assign-orshare-a-world-from-the-in-gamelibrary
 ---

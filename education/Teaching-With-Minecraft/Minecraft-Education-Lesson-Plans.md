@@ -3,7 +3,7 @@ title: Minecraft Education Lesson Plans
 date: 2020-08-10T08:31:09Z
 updated: 2024-05-22T23:03:02Z
 categories: Teaching With Minecraft
-link: https://educommunity.minecraft.net/hc/en-us/articles/360047555411-Minecraft-Education-Lesson-Plans
+link: https://edusupport.minecraft.net/hc/en-us/articles/360047555411-Minecraft-Education-Lesson-Plans
 ---
 
 We work closely with the educator community to provide a library of lesson plans that can help apply Minecraft Education to a variety of teaching and curriculum needs. These lesson plans are available in the [Class Resources](https://education.minecraft.net/class-resources/lessons/) area of the website, and we’ll continue to add more in the months ahead.
@@ -38,21 +38,21 @@ There are several locations available to create a lesson, but we will be using t
 
 Select the “Create New Lesson” option.
 
-![blobid5.png](https://educommunity.minecraft.net/hc/article_attachments/4407642293780)
+![blobid5.png](https://edusupport.minecraft.net/hc/article_attachments/4407642293780)
 
 **<u>Photo</u>**
 
 We provide a few standard photos, but the best way to make your lesson stand out to others is to provide a screenshot within your Minecraft-based (or adapted for Minecraft) lesson world.
 
-*![blobid4.png](https://educommunity.minecraft.net/hc/article_attachments/4407642279700)*
+*![blobid4.png](https://edusupport.minecraft.net/hc/article_attachments/4407642279700)*
 
 *Image via Build A Mars Rover - By: Minecraft Education *
 
 <u>Tips to try</u>
 
-- Using Creative Mode, [hit SPACE](./Minecraft-keyboard-and-mouse-controls.md) and fly above your world to take a picture with in-game tools or a screenshot utility
+- Using Creative Mode, [hit SPACE](https://educommunity.minecraft.net/hc/en-us/articles/360047116832) and fly above your world to take a picture with in-game tools or a screenshot utility
 - Experiment with different times of day, if appropriate to your world
-  - Removing the heads-up display (HUD) [with F1](./Minecraft-keyboard-and-mouse-controls.md) can help with a clear picture.
+  - Removing the heads-up display (HUD) [with F1](https://educommunity.minecraft.net/hc/en-us/articles/360047116832) can help with a clear picture.
 - Lighting can come from a [variety of resources](https://minecraft.gamepedia.com/Light) within the Minecraft world. Try being creative with lighting in your world for different results.
 - If you have connected lessons in a series, you may want to use similar images to signify they belong together, but it is not required.
 - **Accepted file types:** JPG, PNG  
@@ -60,7 +60,7 @@ We provide a few standard photos, but the best way to make your lesson stand out
   I**mage dimensions**: minimum 480 x 270
 - This image will be cropped on the site, please make sure to center your area of focus in the image
 
-![blobid3.png](https://educommunity.minecraft.net/hc/article_attachments/4407642273556)
+![blobid3.png](https://edusupport.minecraft.net/hc/article_attachments/4407642273556)
 
 *Image via International Space Station – By: Minecraft Education* 
 
@@ -101,7 +101,7 @@ Introduction: Students can explore the rich story setting and use it as a platfo
 
 (*example from:* [*The Baddlands*](https://education.minecraft.net/lessons/the-baddlands/)*,* [Simon Baddeley](https://education.minecraft.net/user/simon-baddeley))
 
-![blobid2.png](https://educommunity.minecraft.net/hc/article_attachments/4407648507284)
+![blobid2.png](https://edusupport.minecraft.net/hc/article_attachments/4407648507284)
 
 **<u>Student Ages</u>**
 
@@ -120,7 +120,7 @@ You can select up to a maximum of three skill areas.
 
 **<u>Estimated Time:</u>** You can select the average time to complete the lesson plan.
 
-![blobid1.png](https://educommunity.minecraft.net/hc/article_attachments/4407642258068)
+![blobid1.png](https://edusupport.minecraft.net/hc/article_attachments/4407642258068)
 
 **<u>Lesson Language</u>**
 
@@ -163,7 +163,7 @@ Here you can add your Minecraft World File (MCworld File) as well as external re
 
 - World File Name: The name of your Minecraft World File.
 - Description of World: This section is to add a short yet detailed description of the world file.
-- Upload World File: You can upload your world file here, using the “Upload File” button. ***Note that the file must be a .MCworld or MCtemplate file.![blobid0.png](https://educommunity.minecraft.net/hc/article_attachments/4407642253588)***
+- Upload World File: You can upload your world file here, using the “Upload File” button. ***Note that the file must be a .MCworld or MCtemplate file.![blobid0.png](https://edusupport.minecraft.net/hc/article_attachments/4407642253588)***
 - External References: Here you can add external reference links such as YouTube videos or links to webpages supporting your lesson plan. You can add multiple references by clicking the “+Add External Reference” button below the fields.
 
  
@@ -178,7 +178,7 @@ If you don’t have time to finish your lesson, please save it as a draft and co
 
 Once a lesson is submitted, it goes through two steps by our community team.
 
-- First, it is reviewed for completeness, and the links (if any) are tested, and the files are downloaded to ensure they are compatible with Minecraft Education. Please make certain your files can be used on the [supported platforms](../Get-Started/System-Requirements.md) for Education Edition. **Please be sure your email on your profile is up to date, in case we need to contact you about broken links or other missing information.**
+- First, it is reviewed for completeness, and the links (if any) are tested, and the files are downloaded to ensure they are compatible with Minecraft Education. Please make certain your files can be used on the [supported platforms](https://educommunity.minecraft.net/hc/en-us/articles/360047556591) for Education Edition. **Please be sure your email on your profile is up to date, in case we need to contact you about broken links or other missing information.**
 - Next, your lesson is reviewed by our Curriculum specialists on the team. They will provide feedback if needed to improve your lesson for our world-wide community.
 
 **<u>General Tips</u>**

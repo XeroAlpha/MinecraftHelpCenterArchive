@@ -4,20 +4,6 @@ date: 2021-09-10T20:23:23Z
 updated: 2024-02-27T20:49:46Z
 categories: Download & Install
 tags:
-  - title_minecraft_java_edition
-  - category_refund_support
-  - subject_game_refund
-  - platform_windows_10
-  - category_account_support
-  - subject_sign_in_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - subject_microsoft_sign_in_questions
-  - java edition
-  - category_migration_support
-  - subject_problems_migrating
-  - platform_PC
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/4408948974989-Minecraft-Java-Edition-Demo-Mode
 hash:

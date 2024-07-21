@@ -3,14 +3,14 @@ title: Classroom Settings
 date: 2021-05-25T14:00:22Z
 updated: 2023-02-17T23:44:49Z
 categories: Game Features
-link: https://educommunity.minecraft.net/hc/en-us/articles/360061369132-Classroom-Settings
+link: https://edusupport.minecraft.net/hc/en-us/articles/360061369132-Classroom-Settings
 ---
 
 The Classroom Settings screen includes a collection of commonly used world settings and the ability to link to an external resource like Flipgrid, Microsoft Forms, or other web tools. This article provides information on what each of the classroom settings does and how to add a link to an external resource. 
 
 **The Classroom Tab**
 
-![Minecraft_Classroom_Settings.png](https://educommunity.minecraft.net/hc/article_attachments/360096406112/Minecraft_Classroom_Settings.png)
+![Minecraft_Classroom_Settings.png](https://edusupport.minecraft.net/hc/article_attachments/360096406112/Minecraft_Classroom_Settings.png)
 
  
 
@@ -107,4 +107,4 @@ Resource links can be added from the Classroom menu or when sharing a lesson 
 
  **Example of a resource link**
 
-![Click_Record_Flipgrid_Response.png](https://educommunity.minecraft.net/hc/article_attachments/360096406272/Click_Record_Flipgrid_Response.png)
+![Click_Record_Flipgrid_Response.png](https://edusupport.minecraft.net/hc/article_attachments/360096406272/Click_Record_Flipgrid_Response.png)

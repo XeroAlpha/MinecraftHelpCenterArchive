@@ -4,12 +4,6 @@ date: 2023-03-06T20:06:29Z
 updated: 2024-07-08T20:42:03Z
 categories: Download & Install
 tags:
-  - title_minecraft
-  - platform_windows_10
-  - platform_pc
-  - platform_PC
-  - platform_windows_10/11
-  - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/13766868873613-How-to-Get-the-Minecraft-Bedrock-Edition-Editor
 hash:

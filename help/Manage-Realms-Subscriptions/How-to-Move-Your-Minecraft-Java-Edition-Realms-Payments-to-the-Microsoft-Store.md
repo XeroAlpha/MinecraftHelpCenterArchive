@@ -4,19 +4,6 @@ date: 2023-09-22T20:10:16Z
 updated: 2023-09-28T15:51:34Z
 categories: Manage Realms Subscriptions
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - category_realms_support
-  - subject_other_realms_questions
-  - platform_linux
-  - platform_macos
-  - platform_pc
-  - platform_PC
-  - platform_macOS
-  - platform_windows10/11
-  - platform_windows_11
-  - platform_windows_10/11
-  - title_minecraft_java_bedrock_for_pc
   - section_26104341937421
 link: https://help.minecraft.net/hc/en-us/articles/19751491773453-How-to-Move-Your-Minecraft-Java-Edition-Realms-Payments-to-the-Microsoft-Store
 hash:

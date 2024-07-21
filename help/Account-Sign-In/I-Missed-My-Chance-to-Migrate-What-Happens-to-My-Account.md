@@ -4,15 +4,7 @@ date: 2023-09-19T14:29:08Z
 updated: 2024-05-31T21:31:37Z
 categories: Account Sign-In
 tags:
-  - title_minecraft_java_edition
-  - platform_windows_10
-  - platform_linux
-  - platform_macos
-  - subject_problems_migrating
-  - subject_how_do_i_migrate
-  - subject_when_can_i_migrate
   - section_12617963662861
-  - title_minecraft_java_bedrock_for_pc
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-My-Chance-to-Migrate-What-Happens-to-My-Account
 hash:

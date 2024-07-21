@@ -4,22 +4,6 @@ date: 2021-09-14T22:13:00Z
 updated: 2024-02-07T20:00:30Z
 categories: Multiplayer Support
 tags:
-  - title_minecraft
-  - subject_connectivity
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - category_realms_support
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
-  - platform_PC
   - section_27166460834061
 link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft
 ---

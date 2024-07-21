@@ -4,24 +4,6 @@ date: 2021-09-09T17:22:53Z
 updated: 2024-02-16T19:39:39Z
 categories: General Billing
 tags:
-  - title_minecraft_java_edition
-  - title_minecraft
-  - category_technical_support
-  - category_refund_support
-  - subject_how_to_play
-  - subject_downloads_and_installations
-  - platform_xbox_one
-  - platform_windows_10
-  - platform_ios
-  - platform_android
-  - platform_nintendo_switch
-  - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
-  - platform_kindle_fire
-  - platform_oculus
-  - platform_other
-  - platform_pc
   - section_12619005712013
 link: https://help.minecraft.net/hc/en-us/articles/4408864211853-Minecraft-Billing-FAQ
 hash:
