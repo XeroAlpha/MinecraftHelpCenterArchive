@@ -262,8 +262,12 @@ async function main(fullUpdate) {
         }
     ];
     const urlRewriter = (urlObj) => {
-        if (urlObj.host === 'minecrafthelp.zendesk.com' && !urlObj.pathname.startsWith('/hc/article_attachments/')) {
-            urlObj.host = 'help.minecraft.net';
+        if (!urlObj.pathname.startsWith('/hc/article_attachments/')) {
+            if (urlObj.host === 'minecrafthelp.zendesk.com') {
+                urlObj.host = 'help.minecraft.net';
+            } else if (urlObj.host === 'educommunity.minecraft.net') {
+                urlObj.host = 'edusupport.minecraft.net';
+            }
         }
         return urlObj;
     };
