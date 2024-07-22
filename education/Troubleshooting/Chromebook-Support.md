@@ -22,7 +22,7 @@ Directing web traffic through proxies may function but is **not** currently supp
 
 ## Storage Requirements
 
-On Chromebooks, Minecraft Education installs a separate installation per user on the device. Keep this in mind when considering storage requirements. View our [System Requirements](https://educommunity.minecraft.net/hc/en-us/articles/360047556591) page for minimum space needed per installation. 
+On Chromebooks, Minecraft Education installs a separate installation per user on the device. Keep this in mind when considering storage requirements. View our [System Requirements](../Get-Started/System-Requirements.md) page for minimum space needed per installation. 
 
  
 

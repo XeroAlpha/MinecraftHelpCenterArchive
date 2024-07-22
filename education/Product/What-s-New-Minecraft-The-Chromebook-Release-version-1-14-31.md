@@ -58,7 +58,7 @@ New, bee-themed NPC skins are available for world builders. 
 
 ## Miscellaneous 
 
-For specific information on how to update Minecraft: Education Edition please go here: [FAQ: Update to a New Version of Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047705032)
+For specific information on how to update Minecraft: Education Edition please go here: [FAQ: Update to a New Version of Minecraft Education](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md)
 
 Please add the following domains to your allow list in order to access all of the features in this update:
 

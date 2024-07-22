@@ -50,7 +50,7 @@ Uninstall the current version completely before installing the new beta version.
 
 [Download the beta for macOS application](https://aka.ms/downloadmee-macosBeta)
 
-For general information on getting started with Minecraft Education, check out the [Get Started with Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047557271).
+For general information on getting started with Minecraft Education, check out the [Get Started with Minecraft Education](../Get-Started/Getting-started-with-Minecraft-Education.md).
 
  
 
@@ -135,4 +135,4 @@ If you are downloading the beta for Windows desktop, uninstall your current vers
 
 Want to know more about what’s in the beta?
 
-Check out our [What's New in the Beta](https://educommunity.minecraft.net/hc/en-us/articles/10939858344340) article to learn more about the beta's new features.
+Check out our [What's New in the Beta](https://edusupport.minecraft.net/hc/en-us/articles/10939858344340) article to learn more about the beta's new features.

@@ -62,8 +62,8 @@ If you don't see your questions answered below, please feel free to [submit a r
 ## Do I need a Minecraft Education license to play?
 
 - No, you do not need a Minecraft Education license to play the Hour of Code lesson. 
-  - If you have a Microsoft work or school account you may licenses from an existing bundle. Otherwise, you'll be granted [free trial logins](https://educommunity.minecraft.net/hc/en-us/articles/360047116432) you can use to access Hour of Code. 
-  - If you do not have a Microsoft work or school account, you can also access Hour of Code [via the demo](https://educommunity.minecraft.net/hc/en-us/articles/360047116432). 
+  - If you have a Microsoft work or school account you may licenses from an existing bundle. Otherwise, you'll be granted [free trial logins](../Get-Started/Try-Minecraft-Education-for-free.md) you can use to access Hour of Code. 
+  - If you do not have a Microsoft work or school account, you can also access Hour of Code [via the demo](../Get-Started/Try-Minecraft-Education-for-free.md). 
 - If you have a Minecraft Education license, you can access the lesson via the in-game Library.
 
 ## What version of Minecraft Education do I need?

@@ -84,7 +84,7 @@ We've updated account management to make it easier to stay signed in and switch 
 - Windows: Windows 10
 - iOS: From v1.19 of Minecraft Education, iOS 11 or higher will be required to login to the Minecraft Education app.
 
-Read more about [System Requirements](https://educommunity.minecraft.net/hc/en-us/articles/360047556591)
+Read more about [System Requirements](../Get-Started/System-Requirements.md)
 
 ## Known Issues
 

@@ -42,4 +42,4 @@ This table provides a list of companion apps that are **not** supported on iOS a
 |  |  |
 |----|----|
 | **Companion app** | **Workaround** |
-| Classroom Mode | Use Classroom Settings, see [Classroom Settings](https://educommunity.minecraft.net/hc/en-us/articles/360061369132). |
+| Classroom Mode | Use Classroom Settings, see [Classroom Settings](../Game-Features/Classroom-Settings.md). |

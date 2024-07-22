@@ -44,4 +44,4 @@ The tutorial world will launch.  Follow the on-screen instructions to learn to 
 
 **Additional Resources**
 
-[Learn to play Minecraft Education video playlist](https://educommunity.minecraft.net/hc/en-us/articles/360047116612)
+[Learn to play Minecraft Education video playlist](./Learn-to-play-Minecraft-Education-video-playlist.md)

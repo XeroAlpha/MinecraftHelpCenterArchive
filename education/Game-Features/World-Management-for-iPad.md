@@ -66,6 +66,6 @@ Can I use AirDrop? How do I use this?
 
 **Related Articles:**
 
-- [Get Started with Minecraft Education on iOS](https://educommunity.minecraft.net/hc/en-us/articles/360047556351-Get-Started-with-Minecraft-Education-Edition-on-iPad)
-- [Importing and Exporting Your Worlds](https://educommunity.minecraft.net/hc/en-us/articles/360047555391-Importing-and-Exporting-Your-Worlds-)
-- [FAQ: Game Features](https://educommunity.minecraft.net/hc/en-us/articles/360047117692-FAQ-Game-Features)
+- [Get Started with Minecraft Education on iOS](../Installation/iOS-Installation-Guide.md)
+- [Importing and Exporting Your Worlds](../Teaching-With-Minecraft/Import-Export-and-Manage-Worlds.md)
+- [FAQ: Game Features](./FAQ-Game-Features.md)

@@ -25,7 +25,7 @@ The Minecraft Marketplace team has added a new [Education category](https://nam
 
 ### Hour of Code
 
-Many Hour of Code worlds are available to play without logging in.  You can download and [play free lessons](https://educommunity.minecraft.net/hc/en-us/articles/360047116432) without a Microsoft 365 Education account.
+Many Hour of Code worlds are available to play without logging in.  You can download and [play free lessons](../Get-Started/Try-Minecraft-Education-for-free.md) without a Microsoft 365 Education account.
 
 You can also take advantage of many [Minecraft themed coding exercises](https://code.org/minecraft) on the Code.org website.  
 

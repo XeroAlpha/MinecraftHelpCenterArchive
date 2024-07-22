@@ -56,7 +56,7 @@ If you are using SSL Decryption on a **Chromebook** any url that serves up certi
 
  
 
-**For more information on URLs, subdomains, and ports, see our [full IT Admin guide here. ](https://educommunity.minecraft.net/hc/en-us/articles/360047118992)**
+**For more information on URLs, subdomains, and ports, see our [full IT Admin guide here. ](./FAQ-IT-Admin-Guide.md)**
 
  
 

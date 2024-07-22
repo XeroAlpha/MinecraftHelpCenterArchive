@@ -41,7 +41,7 @@ If you are having a more complex problem that requires troubleshooting, or have 
 
 ![end_of_article.png](https://edusupport.minecraft.net/hc/article_attachments/360066039571)
 
-2\) Click your profile picture at the top of any page in the Community Hub and choose the the [Submit a Request](https://aka.ms/MEE_New_Request) option.  If you don't have a profile, read this article to learn how to [Set up an Account and Profile in the Community Hub](https://educommunity.minecraft.net/hc/en-us/articles/360047556611).
+2\) Click your profile picture at the top of any page in the Community Hub and choose the the [Submit a Request](https://aka.ms/MEE_New_Request) option.  If you don't have a profile, read this article to learn how to [Set up an Account and Profile in the Community Hub](./How-to-Set-Up-an-Account-and-Profile-in-the-Support-Center.md).
 
 ![zendesk_profile_options.png](https://edusupport.minecraft.net/hc/article_attachments/360065832572)
 

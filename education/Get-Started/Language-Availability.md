@@ -27,8 +27,8 @@ Select "**Language**" and choose your preferred language
  
 
 **Additional Resources**  
-Check your eligibility ([countries](https://educommunity.minecraft.net/hc/en-us/articles/360047556651-Country-Availability-))  
-Confirm your [platform](https://educommunity.minecraft.net/hc/en-us/articles/360047556591-Supported-platforms-for-Minecraft-Education-Edition) is supported  
+Check your eligibility ([countries](./Country-Availability.md))  
+Confirm your [platform](./System-Requirements.md) is supported  
 Set up your [Office 365 for Education accounts](https://www.microsoft.com/en-us/education/products/office)  
-[Windows Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/13106858087956)  
-[Learn to play Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047555131)
+[Windows Installation Guide](../Installation/Windows-Installation-Guide.md)  
+[Learn to play Minecraft Education](./Learn-to-play-Minecraft-Education.md)

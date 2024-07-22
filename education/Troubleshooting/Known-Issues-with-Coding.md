@@ -41,7 +41,7 @@ This article contains a list of known issues for Code Builder, or coding worlds 
 </tr>
 <tr style="height: 22px;">
 <td style="text-align: right; width: 113.6px; vertical-align: top; height: 22px;"><p><strong>Workaround</strong></p></td>
-<td style="height: 22px; width: 487.4px"><p>To address these issues effectively without losing your MakeCode projects or Minecraft worlds, <a href="https://educommunity.minecraft.net/hc/en-us/articles/360046777911"><strong>please backup</strong> your code builder projects</a> before following the steps outlined below:<br />
+<td style="height: 22px; width: 487.4px"><p>To address these issues effectively without losing your MakeCode projects or Minecraft worlds, <a href="../Game-Features/Managing-Projects-in-Code-Builder-for-MakeCode.md"><strong>please backup</strong> your code builder projects</a> before following the steps outlined below:<br />
 <br />
 For Windows 10/11 Users:<br />
 Navigate to `C:\Users\USERNAME\AppData\Local\Temp\` and delete the contents within the `minecraftpe` folder.<br />
@@ -52,7 +52,7 @@ Go to `~/Library/WebKit/com.microsoft.minecraftpe` and clear the contents of thi
 For Chromebook Users:<br />
 Access `Settings` &gt; `Apps` &gt; `Manage Your Apps` &gt; `MEE` &gt; `Storage and Permissions` &gt; `Storage &amp; Cache`.<br />
 <br />
-Instead of using the "Clear Storage" option, which would remove MakeCode projects and Minecraft worlds, select "Clear Cache" to address the issue in a way that may not delete projects/worlds. <a href="https://educommunity.minecraft.net/hc/en-us/articles/360047555391">Backup first</a> just in case!<br />
+Instead of using the "Clear Storage" option, which would remove MakeCode projects and Minecraft worlds, select "Clear Cache" to address the issue in a way that may not delete projects/worlds. <a href="../Teaching-With-Minecraft/Import-Export-and-Manage-Worlds.md">Backup first</a> just in case!<br />
 </p></td>
 </tr>
 </tbody>

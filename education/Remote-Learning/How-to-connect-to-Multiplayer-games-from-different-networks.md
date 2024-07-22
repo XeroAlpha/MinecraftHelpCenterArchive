@@ -17,7 +17,7 @@ While Minecraft Education multiplayer is typically done in a classroom across th
 
  
 
-The [How to Set up a Multiplayer Game](https://educommunity.minecraft.net/hc/en-us/articles/360047555531) article walks you through many aspects of multiplayer, such as how to host and join a game, as well as managing players permission inside a game.  Read on for additional information about hosting and joining Multiplayer games from different networks.
+The [How to Set up a Multiplayer Game](./How-To-Set-Up-A-Multiplayer-Game.md) article walks you through many aspects of multiplayer, such as how to host and join a game, as well as managing players permission inside a game.  Read on for additional information about hosting and joining Multiplayer games from different networks.
 
  
 
@@ -37,7 +37,7 @@ To start a Multiplayer world, one player must host the world on their machine, a
 2.  All players, including the Host, must run the same Minecraft Education version.
 3.  (Optional) Allow list the website https://\*.minecrafteduservices.com/ in your router, and any safety software such as your content filters, firewalls or anti-virus. This is normally not necessary unless your network has been specifically locked down for unauthorized sites. For some guidance on how to do it, you can consult this external [website](https://jackboxgames.happyfox.com/kb/article/28-how-to-whitelist-and-resolve-issues-in-antivirus-software-and-firewalls/). 
 
-You can find the version number on the lower right corner of the welcome screen, right under your character.  If the game versions of all devices joining the world don't match, [update the devices](https://educommunity.minecraft.net/hc/en-us/articles/360047705032) that aren't running the latest version.
+You can find the version number on the lower right corner of the welcome screen, right under your character.  If the game versions of all devices joining the world don't match, [update the devices](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md) that aren't running the latest version.
 
 ![version_number.png](https://edusupport.minecraft.net/hc/article_attachments/360065008972)
 
@@ -45,9 +45,9 @@ You can find the version number on the lower right corner of the welcome screen,
 
 ## Host a Game Using Join Codes
 
-1.  Open Minecraft Education and then follow the instructions in the [Multiplayer Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047555531) to open a world and host it
-2.  Share the picture-based Join Code with other players, using email or another method to communicate. You can share the [Multiplayer Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047555531) with players that aren’t familiar with how to use Join Codes.
-3.  Check out the [Multiplayer Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047555531) to learn more about managing players in a hosted world, including assigning default permissions for players who join your world, and changing permissions once they are in your world.
+1.  Open Minecraft Education and then follow the instructions in the [Multiplayer Guide](./How-To-Set-Up-A-Multiplayer-Game.md) to open a world and host it
+2.  Share the picture-based Join Code with other players, using email or another method to communicate. You can share the [Multiplayer Guide](./How-To-Set-Up-A-Multiplayer-Game.md) with players that aren’t familiar with how to use Join Codes.
+3.  Check out the [Multiplayer Guide](./How-To-Set-Up-A-Multiplayer-Game.md) to learn more about managing players in a hosted world, including assigning default permissions for players who join your world, and changing permissions once they are in your world.
 4.  Watch other players join and then enjoy the world together!
 
  

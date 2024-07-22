@@ -16,7 +16,7 @@ hash:
 
 Welcome to the Trails & Tales Update (v1.20.13) for Minecraft Education! This update includes initial improvements to increase the reliability of multiplayer connections and adds a fun new feature set: camel and sniffer mobs, bamboo, bookcases, and hanging signs, plus cherry groves and archaeology sites ready for your students to explore. We’ve also upgraded the coding Agent’s range and abilities and launched a more user-friendly Templates page.
 
-Learn how to [update your device](https://educommunity.minecraft.net/hc/en-us/articles/360047705032) to the latest version.
+Learn how to [update your device](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md) to the latest version.
 
 Please let us know all about the things you love, as well as challenges you run into by contributing to our [feedback or technical forums](https://aka.ms/mcfeaturerequest). 
 
@@ -68,10 +68,10 @@ Version 1.20 brings some exciting features and changes to worlds. Here are some 
 Some users may encounter these issues. If you do, [reach out to our support team](https://aka.ms/MEE_New_Request) and we can help.
 
 - Some schools report issues where after a certain number of users join a multiplayer host (varies per host device), users begin experiencing disconnections and join failures in that session. We’re actively investigating this, but we believe wired ethernet connections and higher spec devices may alleviate this issue.
-  - See this [article for more info](https://educommunity.minecraft.net/hc/en-us/articles/17983944794260)
+  - See this [article for more info](../Troubleshooting/Troubleshooting-multiplayer-multiple-disconnections-inventory-lag.md)
 - We've seen some reports of missing worlds from users who are uninstalling old versions and reinstalling the latest v1.20 client. This is because we switched the default install on our website from the desktop app version to the Store version. These two apps have different folder setups. 
-  - To find your worlds, [view this article. ](https://educommunity.minecraft.net/hc/en-us/articles/4404785703316)
-  - To install the desktop app, [view this article](https://educommunity.minecraft.net/hc/en-us/articles/13106858087956) or [download it here](https://aka.ms/downloadmee-desktopApp). 
+  - To find your worlds, [view this article. ](../Administration-and-License-Management/Location-of-World-Files.md)
+  - To install the desktop app, [view this article](../Installation/Windows-Installation-Guide.md) or [download it here](https://aka.ms/downloadmee-desktopApp). 
 - Some users report that pressing 'C' does not start coding. 
   - Workaround: Go to Settings \> Keyboard & Mouse \> Code Builder and map the key to 'C' key. 
 

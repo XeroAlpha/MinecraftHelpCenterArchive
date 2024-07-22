@@ -167,7 +167,7 @@ Minecraft Education uses a WebRTC signaling service to establish peer-to-peer co
 
 ### What are the minimum required specs for devices to run Minecraft Education?
 
-For the latest information on [system requirements, visit this article. ](https://educommunity.minecraft.net/hc/en-us/articles/360047556591)
+For the latest information on [system requirements, visit this article. ](../Get-Started/System-Requirements.md)
 
  
 
@@ -176,10 +176,10 @@ For the latest information on [system requirements, visit this article. ](https
 Visit these Help Center pages for information about installation:
 
 - The [Minecraft Education download page](https://education.minecraft.net/get-started/download/) contains links to versions for each supported device. See OS specific guides below:  
-  - [Windows Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/13106858087956)
-  - [Chromebook Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/4404625978516)
-  - [Mac Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047118792)
-  - [iPad Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/4404623189652)
+  - [Windows Installation Guide](../Installation/Windows-Installation-Guide.md)
+  - [Chromebook Installation Guide](../Installation/Chromebook-Installation-Guide.md)
+  - [Mac Installation Guide](../Installation/Mac-Installation-Guide.md)
+  - [iPad Installation Guide](https://edusupport.minecraft.net/hc/en-us/articles/4404623189652)
 - [Deploying and Updating Minecraft Education](https://edusupport.minecraft.net/hc/en-us/articles/360047118732-Deploying-and-Updating-Minecraft-Education-Edition-apps-all-platforms-) describes how to deploy the application manually or using system management software
   - You can deploy using **Intune to Macs** with the script located [here.](https://github.com/microsoft/shell-intune-samples/blob/master/Apps/Minecraft%20Education%20Edition/README.md)
 - Use this link to get the [Minecraft Education installer package](https://aka.ms/meeclientwin10)
@@ -188,7 +188,7 @@ Visit these Help Center pages for information about installation:
 
 ### How do I update Minecraft Education?
 
-View our [Update to a New Version of Minecraft Education Edition](https://educommunity.minecraft.net/hc/en-us/articles/360047705032) article for information about how Minecraft Education Edition updates and also how IT Admins can block these updates for greater control.
+View our [Update to a New Version of Minecraft Education Edition](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md) article for information about how Minecraft Education Edition updates and also how IT Admins can block these updates for greater control.
 
  
 
@@ -196,6 +196,6 @@ View our [Update to a New Version of Minecraft Education Edition](https://educom
 
 ### Does Minecraft Education collect or store student data?
 
-Minecraft Education uses Office 365 services for authentication, and does not collect or store any personal information within the application.  The Office 365 platform is in full compliance with [COPPA, CIPA, and FERPA.](https://educommunity.minecraft.net/hc/en-us/articles/360047118972-COPPA-CIPA-and-FERPA-Information-) View our [User Privacy and Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047118972) article for more information about. 
+Minecraft Education uses Office 365 services for authentication, and does not collect or store any personal information within the application.  The Office 365 platform is in full compliance with [COPPA, CIPA, and FERPA.](../Get-Started/User-Privacy-and-Minecraft-Education.md) View our [User Privacy and Minecraft Education](../Get-Started/User-Privacy-and-Minecraft-Education.md) article for more information about. 
 
 You can also visit the [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center) for more information about privacy and security in Microsoft applications.

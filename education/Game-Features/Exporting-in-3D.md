@@ -69,6 +69,6 @@ You can also use the [Mixed Reality viewer](https://www.microsoft.com/en-us/wind
 
 **Additional Resources**
 
-- [Specialty Blocks: Structure Block](https://educommunity.minecraft.net/hc/en-us/articles/360047116852) (Knowledge Base)
+- [Specialty Blocks: Structure Block](../Teaching-With-Minecraft/Specialty-Blocks-Allow-Deny-Border-Structure.md) (Knowledge Base)
 - [Structure Block](https://minecraft.gamepedia.com/Structure_Block) (Minecraft Wiki)
 - [Windows Mixed Reality](https://www.microsoft.com/en-us/windows/windows-mixed-reality)

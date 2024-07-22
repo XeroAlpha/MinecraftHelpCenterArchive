@@ -27,7 +27,7 @@ Users with Office 365 Education "faculty" software will have teacher permissions
 
 ## **Operator**
 
-When a player starts or hosts a game, they begin as an Operator. If the world was created with cheats on (which is the default setting), an Operator can run [“commands”](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-) in the world.
+When a player starts or hosts a game, they begin as an Operator. If the world was created with cheats on (which is the default setting), an Operator can run [“commands”](../Teaching-With-Minecraft/Essential-Commands.md) in the world.
 
 ![mceclip0\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402660948628)
 
@@ -102,6 +102,6 @@ For IT Admins, Minecraft Education creates it's display name from the Microsoft 
 
 **Additional Resources**
 
-- Learn some [essential commands](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-)
-- Use your worldbuilder status and [communicate with boards](https://educommunity.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards-)
-- Add [non-player characters](https://educommunity.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs-) and bring life to your world
+- Learn some [essential commands](../Teaching-With-Minecraft/Essential-Commands.md)
+- Use your worldbuilder status and [communicate with boards](./Communicating-With-Boards.md)
+- Add [non-player characters](./Adding-Non-Player-Characters-NPCs.md) and bring life to your world

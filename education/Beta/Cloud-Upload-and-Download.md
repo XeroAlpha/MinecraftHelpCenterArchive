@@ -18,7 +18,7 @@ hash:
   h_01HTQK89VQKAN76XB70MT1X775: troubleshooting-download-errors
 ---
 
-Download the [Minecraft Education Preview](https://educommunity.minecraft.net/hc/en-us/articles/23498937165844) to use the new cloud storage feature.
+Download the [Minecraft Education Preview](./Minecraft-Education-Preview-Program.md) to use the new cloud storage feature.
 
 Worlds are automatically saved to OneDrive upon closing the world as a backup. When the first world is uploaded, a new folder in the user’s OneDrive is created called “Minecraft Education Preview". To ensure you have OneDrive attached to your account, see the troubleshooting guide below.
 
@@ -45,7 +45,7 @@ At this time, cloud storage is available for Windows, Android, and Chromebook. A
 - User accounts must have an allowed connection to OneDrive in place.
   - To check, go to [Sign in - Microsoft OneDrive (live.com) and sign in with your school account](https://onedrive.live.com/login/).
 - Users should have the Minecraft Education Preview (or Win32 Beta) installed on their device.
-  - View our [Minecraft Education Preview Program](https://educommunity.minecraft.net/hc/en-us/articles/23498937165844) article to learn how to download.
+  - View our [Minecraft Education Preview Program](./Minecraft-Education-Preview-Program.md) article to learn how to download.
 - IT Admins will need to ensure that all recommended [URLs are unblocked](https://aka.ms/MEEURLAllowList) and computers can communicate with OneDrive online. Below are the cloud specific URLs:
   - https://graph.microsoft.com
   - https://\*.sharepoint.com
@@ -184,7 +184,7 @@ You can disable cloud backups. Before you do so, check by going to [Sign in - Mi
 
 - No special characters (" \* : \< \> ? / \\ \|) or punctuation should be used in world titles. If there are restricted characters, they will be replaced automatically stripped from the file name.
 - If you open a world from a file picker on your device or from OneDrive in the cloud, the world will automatically generate a new copy on your device but will continue syncing to the original file on OneDrive.
-- Related article: [Import, Export, and Manage Worlds – Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047555391)
+- Related article: [Import, Export, and Manage Worlds – Minecraft Education](../Teaching-With-Minecraft/Import-Export-and-Manage-Worlds.md)
 
  
 

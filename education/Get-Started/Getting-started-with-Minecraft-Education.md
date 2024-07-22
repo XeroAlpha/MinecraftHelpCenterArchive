@@ -54,17 +54,17 @@ This is an embedded [Microsoft Office](https://office.com/) presentation, powere
 
 ### How is Minecraft Education different than the game, Minecraft?
 
-Minecraft Education is a special version of the game developed specifically for educational use. This version adds features and controls for classrooms, [specialty blocks](https://educommunity.minecraft.net/hc/en-us/articles/360047116852-Specialty-Blocks-Allow-Deny-Border-Structure-) and communication tools, and a [tutorial](https://educommunity.minecraft.net/hc/en-us/articles/360047555131-Learning-to-play-Minecraft-Education-Edition-) for first-time educator use. Check out the [Features of Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047117032), and bookmark our [What's New](https://edusupport.minecraft.net/hc/en-us/categories/360003907132) to see what changes, updates, and fixes have been added lately.  
+Minecraft Education is a special version of the game developed specifically for educational use. This version adds features and controls for classrooms, [specialty blocks](../Teaching-With-Minecraft/Specialty-Blocks-Allow-Deny-Border-Structure.md) and communication tools, and a [tutorial](./Learn-to-play-Minecraft-Education.md) for first-time educator use. Check out the [Features of Minecraft Education](../Game-Features/Features-of-Minecraft-Education.md), and bookmark our [What's New](https://edusupport.minecraft.net/hc/en-us/categories/360003907132) to see what changes, updates, and fixes have been added lately.  
   
 
 ### How do I get started using Minecraft Education?
 
-First, you will need to have a valid Minecraft Education subscription. You can check if your school is already licensed by asking your IT administrator. To learn more about trying Minecraft Education, check out [Try Minecraft Education for free](https://educommunity.minecraft.net/hc/en-us/articles/360047116432).  
+First, you will need to have a valid Minecraft Education subscription. You can check if your school is already licensed by asking your IT administrator. To learn more about trying Minecraft Education, check out [Try Minecraft Education for free](./Try-Minecraft-Education-for-free.md).  
   
 
 ### How do IT Admins purchase licenses?
 
-Minecraft Education licenses are [purchased](https://educommunity.minecraft.net/hc/en-us/articles/360061371532) and [managed](https://educommunity.minecraft.net/hc/en-us/articles/360047118672) through the Microsoft Admin Center on Microsoft Azure AD accounts. This platform allows IT Admins to quickly purchase, manage, and assign large amounts of licenses to various groups of teachers and students with ease.   
+Minecraft Education licenses are [purchased](../Purchase-Licenses/Purchasing-Options-for-Minecraft-Education-Licenses.md) and [managed](../Administration-and-License-Management/Manage-Licenses-in-the-Admin-Center.md) through the Microsoft Admin Center on Microsoft Azure AD accounts. This platform allows IT Admins to quickly purchase, manage, and assign large amounts of licenses to various groups of teachers and students with ease.   
   
 
 ### Where can I find training for Minecraft Education?
@@ -74,22 +74,22 @@ You can find our [Minecraft Teacher Academy training here](https://learn.microso
 
 ### What are the minimum technical requirements for the Minecraft Education software?
 
-You can find the technical requirements in our [System Requirements](https://educommunity.minecraft.net/hc/en-us/articles/360047556591) article.   
+You can find the technical requirements in our [System Requirements](./System-Requirements.md) article.   
   
 
 ### How do I install Minecraft Education?
 
 Installing Minecraft Education varies depending on what OS you're using. We have a few guides to make the process easier:
 
-- [Windows Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/13106858087956)
-- [Chromebook Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/4404625978516)
-- [iOS Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047556351)
-- [Mac Installation Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047118792)  
+- [Windows Installation Guide](../Installation/Windows-Installation-Guide.md)
+- [Chromebook Installation Guide](../Installation/Chromebook-Installation-Guide.md)
+- [iOS Installation Guide](../Installation/iOS-Installation-Guide.md)
+- [Mac Installation Guide](../Installation/Mac-Installation-Guide.md)  
     
 
 ### How do I tell what version I am on? How can I update?
 
-You can see your version number in the lower right-hand corner of the start screen. [View this article](https://educommunity.minecraft.net/hc/en-us/articles/360047705032) for more info on how to update. If you encounter difficulties with upgrading, please contact your IT admin on how to best proceed.   
+You can see your version number in the lower right-hand corner of the start screen. [View this article](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md) for more info on how to update. If you encounter difficulties with upgrading, please contact your IT admin on how to best proceed.   
   
 
 ### Educator training
@@ -118,14 +118,14 @@ Minecraft Education requires access to our service's URLs. Ensure that our URLs 
 
 Minecraft Education is available for anyone to try. If you have an Office 365 Education account or a Microsoft 365 account, you can start a free trial of Minecraft Education. The trial is a fully functional version of Minecraft Education. The only limit is the number of times you can sign in. If you don’t have an Office 365 Education account or a Microsoft 365 account, you can still try one of the demo lessons available for Minecraft Education.
 
-To learn more about trying Minecraft Education, check out [Try Minecraft Education for free](https://educommunity.minecraft.net/hc/en-us/articles/360047116432).  
+To learn more about trying Minecraft Education, check out [Try Minecraft Education for free](./Try-Minecraft-Education-for-free.md).  
   
 
 ### 4.      Purchase licenses
 
 Minecraft Education licenses are purchased via a yearly subscription. Individual licenses can be purchased directly from Microsoft or, if you’re part of an eligible educational institution, you can connect with a partner to purchase volume licenses.
 
-To learn more about purchasing Minecraft Education licenses, see [Purchasing Options for Minecraft Education Licenses](https://educommunity.minecraft.net/hc/en-us/articles/360061371532).  
+To learn more about purchasing Minecraft Education licenses, see [Purchasing Options for Minecraft Education Licenses](../Purchase-Licenses/Purchasing-Options-for-Minecraft-Education-Licenses.md).  
   
 
 ### 5.      Create users accounts and assign licenses
@@ -134,7 +134,7 @@ To play Minecraft Education, each user requires a license. The license allows th
 
 To learn more about creating user accounts, see [Add Users and Assign Licenses at the Same Time](https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/add-users?view=o365-worldwide) in the Microsoft 365 Admin Center Help.
 
-- To learn more about assigning licenses in the Microsoft 365 Admin Center, see [Manage Licenses for Camps, Clubs, Homeschool and Other Organizations](https://educommunity.minecraft.net/hc/en-us/articles/360061370372).  
+- To learn more about assigning licenses in the Microsoft 365 Admin Center, see [Manage Licenses for Camps, Clubs, Homeschool and Other Organizations](../Administration-and-License-Management/Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations.md).  
     
 
 ### 6.      Install Minecraft Education
@@ -143,10 +143,10 @@ Minecraft Education can be installed on supported devices manually or through sy
 
 To learn more about installing Minecraft Education, see the installation guides for each device:
 
-- [Windows](https://educommunity.minecraft.net/hc/en-us/articles/13106858087956)
-- [Chromebook](https://educommunity.minecraft.net/hc/en-us/articles/4404625978516)
-- [iOS](https://educommunity.minecraft.net/hc/en-us/articles/360047556351)
-- [MacOS](https://educommunity.minecraft.net/hc/en-us/articles/360047118792)
+- [Windows](../Installation/Windows-Installation-Guide.md)
+- [Chromebook](../Installation/Chromebook-Installation-Guide.md)
+- [iOS](../Installation/iOS-Installation-Guide.md)
+- [MacOS](../Installation/Mac-Installation-Guide.md)
 
 ## Next steps
 

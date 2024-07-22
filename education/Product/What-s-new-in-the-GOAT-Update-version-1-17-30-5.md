@@ -24,7 +24,7 @@ Please let us know all about the things you love, as well as challenges you run 
 
 ### How to update:
 
-Here are our [update article](https://educommunity.minecraft.net/hc/en-us/articles/360047705032) that discusses how to update to the latest version of Minecraft Education for our supported platforms:
+Here are our [update article](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md) that discusses how to update to the latest version of Minecraft Education for our supported platforms:
 
  
 

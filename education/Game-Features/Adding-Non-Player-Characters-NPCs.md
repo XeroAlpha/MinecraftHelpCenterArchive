@@ -19,7 +19,7 @@ To create these non-playable characters in your world, you can use [Spawn Eggs](
 **NPC**
 
 - Education Exclusive: Yes
-- [World Builder](https://educommunity.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions-) Permission Needed: Yes (placement, editing)
+- [World Builder](./Profile-Types-and-Permissions.md) Permission Needed: Yes (placement, editing)
 
 NPCs are more interactive than Villagers, and we have introduced a number of new features, noted below.
 
@@ -119,7 +119,7 @@ For more information and details about Villagers, please refer to the [Official 
 
 **Additional Resources**
 
-- [Profile Types](https://educommunity.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions-) (go in depth with operator and world builder information)
-- Creating your world: Add helpful items for your visitors (like [cameras and portfolios](https://educommunity.minecraft.net/hc/en-us/articles/360047555551-Assessment-Tools-Cameras-Portfolio-Book-Quill-))
-- Creating your world: Get familiar with [essential commands](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-) in Minecraft Education
-- Share your world: [Setting up Multiplayer Games](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-)
+- [Profile Types](./Profile-Types-and-Permissions.md) (go in depth with operator and world builder information)
+- Creating your world: Add helpful items for your visitors (like [cameras and portfolios](./Assessment-Tools-Cameras-Portfolio-Book-Quill.md))
+- Creating your world: Get familiar with [essential commands](../Teaching-With-Minecraft/Essential-Commands.md) in Minecraft Education
+- Share your world: [Setting up Multiplayer Games](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md)

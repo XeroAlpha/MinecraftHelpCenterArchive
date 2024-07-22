@@ -130,4 +130,4 @@ hash:
 
  
 
-We have coordinated with our localization team to localize the Hour of Code 2020 world, including MakeCode, Python and all of the text in the world itself, into all [languages the Minecraft client supports](https://educommunity.minecraft.net/hc/en-us/articles/360047556731 "https://educommunity.minecraft.net/hc/en-us/articles/360047556731"). Unfortunately, it's a large number of words, so the work most likely won't be complete until early next year 2021.
+We have coordinated with our localization team to localize the Hour of Code 2020 world, including MakeCode, Python and all of the text in the world itself, into all [languages the Minecraft client supports](../Get-Started/Language-Availability.md "https://educommunity.minecraft.net/hc/en-us/articles/360047556731"). Unfortunately, it's a large number of words, so the work most likely won't be complete until early next year 2021.

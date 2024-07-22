@@ -6,7 +6,7 @@ categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047116652-Get-Started-with-Classroom-Mode
 ---
 
-Welcome to [Classroom Mode](https://education.minecraft.net/trainings/install-use-classroom-mode-for-minecraft/) for Minecraft Education. With Classroom Mode, you can access a range of features especially designed to interact with students while hosting a [multiplayer game](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-) by managing settings from a central user interface.
+Welcome to [Classroom Mode](https://education.minecraft.net/trainings/install-use-classroom-mode-for-minecraft/) for Minecraft Education. With Classroom Mode, you can access a range of features especially designed to interact with students while hosting a [multiplayer game](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) by managing settings from a central user interface.
 
 Classroom Mode is only available to users running the Minecraft Education general availability client. Students do not need to run Classroom Mode. For options on adding additional classroom assistance to teacher’s aides or volunteers during a lesson session in Minecraft, consider granting operator status if appropriate. Classroom Mode is not compatible with Windows 7.
 
@@ -93,7 +93,7 @@ A game world map is available on the left. To navigate the map, you can scroll u
 
 Communicate with students
 
-A teacher can type in both chat and **[slash commands](https://educommunity.minecraft.net/hc/en-us/articles/360047555451-Essential-Commands-)** into the Chat Bar at the bottom of the window to communicate and affect the world. Chat logs can be found locally on your computer here: Documents\Minecraft Education Edition\ChatLogs
+A teacher can type in both chat and **[slash commands](../Teaching-With-Minecraft/Essential-Commands.md)** into the Chat Bar at the bottom of the window to communicate and affect the world. Chat logs can be found locally on your computer here: Documents\Minecraft Education Edition\ChatLogs
 
 ![mceclip5.png](https://edusupport.minecraft.net/hc/article_attachments/4402660762900)
 

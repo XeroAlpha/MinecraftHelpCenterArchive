@@ -30,17 +30,17 @@ License management is how you assign or unassign licenses to the users who will 
 <td width="200"><p>Direct purchase from the Microsoft 365 admin center or the Store for Education</p>
 <p>Add-on to your Office 365 A1, A3 or A5 plan</p></td>
 <td width="424"><p>The Microsoft 365 admin center</p>
-<p>See: <a href="https://educommunity.minecraft.net/hc/en-us/articles/360047118672">Manage Licenses in the Admin Center</a></p></td>
+<p>See: <a href="./Manage-Licenses-in-the-Admin-Center.md">Manage Licenses in the Admin Center</a></p></td>
 </tr>
 <tr>
 <td width="200"><p>Included in your Microsoft 365 A3 or A5 Plan or Direct purchase from the Admin Center.</p></td>
 <td width="424"><p>The Microsoft 365 admin center</p>
-<p>See: <a href="https://educommunity.minecraft.net/hc/en-us/articles/360047118672">Manage Licenses in the Admin Center</a></p></td>
+<p>See: <a href="./Manage-Licenses-in-the-Admin-Center.md">Manage Licenses in the Admin Center</a></p></td>
 </tr>
 <tr>
 <td><p>Purchased through the Camps and Clubs Program</p></td>
 <td><p>The Microsoft 365 admin center</p>
-<p>See: <a href="https://educommunity.minecraft.net/hc/en-us/articles/360061370372">Manage Licenses for Camps, Clubs, Homeschool and Other Organizations</a></p></td>
+<p>See: <a href="./Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations.md">Manage Licenses for Camps, Clubs, Homeschool and Other Organizations</a></p></td>
 </tr>
 </tbody>
 </table>

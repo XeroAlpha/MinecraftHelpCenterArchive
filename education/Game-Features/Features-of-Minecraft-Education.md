@@ -16,23 +16,23 @@ Immersive Reader: A feature that allows for users to have content from the game 
 
 [3D Exporting](https://edusupport.minecraft.net/hc/en-us/articles/360001429328-Exporting-in-3D-) (October 2017) Use your Minecraft Education creations in the real world and share them via [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78)!
 
-[Classroom Mode](https://educommunity.minecraft.net/hc/en-us/articles/360047116652-Get-Started-with-Classroom-Mode-) is a companion app for Minecraft Education that shows a high-level map view of the world, a list of all the students, the ability for a teacher to teleport students, and a chat window to communicate. Classroom Mode is provided for Educators who may want to observe student activity without being in the game, and is not needed for students to play.
+[Classroom Mode](../Get-Started/Get-Started-with-Classroom-Mode.md) is a companion app for Minecraft Education that shows a high-level map view of the world, a list of all the students, the ability for a teacher to teleport students, and a chat window to communicate. Classroom Mode is provided for Educators who may want to observe student activity without being in the game, and is not needed for students to play.
 
-[Code Builder](https://educommunity.minecraft.net/hc/en-us/articles/360047116992-Code-Builder-in-Minecraft-Education-Edition) is the in game coding experience that was launched with our 1.7 release. Users of Minecraft Education now just need to press "c" for in-game coding.
+[Code Builder](../Teaching-With-Minecraft/Code-Builder-in-Minecraft-Education.md) is the in game coding experience that was launched with our 1.7 release. Users of Minecraft Education now just need to press "c" for in-game coding.
 
-[Easy Classroom Collaboration](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-) Educators have told us that one of the greatest benefits of Minecraft Education is the ability for students to collaborate together to build projects and solve problems. An entire classroom of up to thirty (30) students can play in a world together with no separate server setup required. Students can work together in pairs or groups simply by joining their classmates’ world.
+[Easy Classroom Collaboration](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) Educators have told us that one of the greatest benefits of Minecraft Education is the ability for students to collaborate together to build projects and solve problems. An entire classroom of up to thirty (30) students can play in a world together with no separate server setup required. Students can work together in pairs or groups simply by joining their classmates’ world.
 
-[Special blocks](https://educommunity.minecraft.net/hc/en-us/articles/360047116852-Specialty-Blocks-Allow-Deny-Border-Structure-) allow you to control the world you have set up for a lesson. Minecraft Education includes blocks not currently found in other editions of Minecraft designed especially for educators and world creators. These specialty blocks are designed to help you preserve structures you wish to keep, prevent world visitors from wandering too far, and section off designated areas to build.
+[Special blocks](../Teaching-With-Minecraft/Specialty-Blocks-Allow-Deny-Border-Structure.md) allow you to control the world you have set up for a lesson. Minecraft Education includes blocks not currently found in other editions of Minecraft designed especially for educators and world creators. These specialty blocks are designed to help you preserve structures you wish to keep, prevent world visitors from wandering too far, and section off designated areas to build.
 
-[Non-Player Characters](https://educommunity.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs-) An educator may create an NPC (Non-Player Character) to act as a guide for students in the game, giving instruction, providing more information, and also allowing educators to insert an active web link to additional references.
+[Non-Player Characters](./Adding-Non-Player-Characters-NPCs.md) An educator may create an NPC (Non-Player Character) to act as a guide for students in the game, giving instruction, providing more information, and also allowing educators to insert an active web link to additional references.
 
-[Cameras, Portfolio, and writable books](https://educommunity.minecraft.net/hc/en-us/articles/360047555551-Assessment-Tools-Cameras-Portfolio-Book-Quill-) An important aspect of teaching with Minecraft is being able to collect evidence of learning in the game, and being able to track student progression. The camera and portfolio features allows students to take screenshots of their work and document the development of their projects.
+[Cameras, Portfolio, and writable books](./Assessment-Tools-Cameras-Portfolio-Book-Quill.md) An important aspect of teaching with Minecraft is being able to collect evidence of learning in the game, and being able to track student progression. The camera and portfolio features allows students to take screenshots of their work and document the development of their projects.
 
-[Chalkboards](https://educommunity.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards-) Creators can use chalkboards to communicate learning goals, provide additional information and give explicit instructions within the game. Chalkboards come in three different sizes – Slate (1×1), Poster (2×1), and Board (2×3).
+[Chalkboards](./Communicating-With-Boards.md) Creators can use chalkboards to communicate learning goals, provide additional information and give explicit instructions within the game. Chalkboards come in three different sizes – Slate (1×1), Poster (2×1), and Board (2×3).
 
 Simple, Secure sign-in Individual student and teacher logins with [Office 365 Education accounts](https://education.minecraft.net/support/knowledge-base/setting-up-office-365-education-accounts/) ensure data privacy & security while playing Minecraft Education.
 
-[Tutorial World](https://educommunity.minecraft.net/hc/en-us/articles/360047555191-Get-Started-with-the-Tutorial-World) For educators or students new to Minecraft, a tutorial world is available that will guide players on in-game navigation, crafting, and placing or breaking blocks.
+[Tutorial World](../Get-Started/Get-Started-with-the-Tutorial-World.md) For educators or students new to Minecraft, a tutorial world is available that will guide players on in-game navigation, crafting, and placing or breaking blocks.
 
 [Lessons](https://education.minecraft.net/class-resources/search-lessons/) Full lessons for educators to use in their classroom. These lessons are available for the Education only.
 
@@ -40,6 +40,6 @@ Simple, Secure sign-in Individual student and teacher logins with [Office 365 Ed
 
 In-Game library In game categorization of lessons and worlds allows for easy access to great content
 
-[Secure multiplayer](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-) Enjoy multiplayer games with other users on your same Office 365 tenant, and easily join others worlds quickly and securely with pictoral "join codes"
+[Secure multiplayer](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) Enjoy multiplayer games with other users on your same Office 365 tenant, and easily join others worlds quickly and securely with pictoral "join codes"
 
-[Teacher permissions](https://educommunity.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions-) Teachers are able to join worlds with operator permissions. Teachers and hosts can also change the permission levels of other players in any world they join.
+[Teacher permissions](./Profile-Types-and-Permissions.md) Teachers are able to join worlds with operator permissions. Teachers and hosts can also change the permission levels of other players in any world they join.

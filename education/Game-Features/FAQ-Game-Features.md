@@ -19,7 +19,7 @@ Our next release will contain many of the new Minecraft features that are live i
 
 ## **How do Multiplayer Games function?** 
 
-Minecraft Education multiplayer games take place connecting over IP. Multiplayer games have a capacity of 40 players, for iPad, Windows, ChromeOS, and MacOS. Check out our [Multiplayer Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-) for more information. Server style multiplayer is not available. Server licenses are not available.
+Minecraft Education multiplayer games take place connecting over IP. Multiplayer games have a capacity of 40 players, for iPad, Windows, ChromeOS, and MacOS. Check out our [Multiplayer Guide](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) for more information. Server style multiplayer is not available. Server licenses are not available.
 
  
 
@@ -31,7 +31,7 @@ No. Minecraft Education is not compatible with other versions of Minecraft such 
 
 ## **Can students play Multiplayer with players on other internet connections at home?**
 
-While this is possible if all of the requirements from the [Multiplayer Guide](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-) are met, it can be very difficult to setup and it is not recommended. Each individual network will need to satisfy network requirements. Our support team is not equipped to handle troubleshooting of individual home networks.
+While this is possible if all of the requirements from the [Multiplayer Guide](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) are met, it can be very difficult to setup and it is not recommended. Each individual network will need to satisfy network requirements. Our support team is not equipped to handle troubleshooting of individual home networks.
 
  
 
@@ -49,13 +49,13 @@ Educators and students can only use the multiplayer feature within their O365 ED
 
 **What accessibility features are in Minecraft Education?**
 
-You can learn more about the accessibility features Minecraft Education has in [our article here](https://educommunity.minecraft.net/hc/en-us/articles/360061503031). 
+You can learn more about the accessibility features Minecraft Education has in [our article here](./Accessibility-Features.md). 
 
  
 
 **Can multiple teacher accounts play in the same world?**
 
-Yes, also each teacher account will have OP by default. For more info, [view our article on profile types and permissions.](https://educommunity.minecraft.net/hc/en-us/articles/360047117072)
+Yes, also each teacher account will have OP by default. For more info, [view our article on profile types and permissions.](./Profile-Types-and-Permissions.md)
 
  
 
@@ -73,7 +73,7 @@ This allows educators and students to explore, create, and play in an immersive 
   
 **Is offline usage possible?**
 
-The only time you need to be connected is for logging in, accessing the Library, and [multiplayer](https://educommunity.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game-) games. Once you successfully login, you can play offline successfully until you close the app again. Then you'll need to login once again. 
+The only time you need to be connected is for logging in, accessing the Library, and [multiplayer](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) games. Once you successfully login, you can play offline successfully until you close the app again. Then you'll need to login once again. 
 
  
 

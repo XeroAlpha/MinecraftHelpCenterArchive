@@ -20,7 +20,7 @@ The Minecraft Education Support Center is your place to get support, connect wit
 
 ### Support Center Guidelines
 
-Before joining our Forums, review the [Support Center Guidelines](https://educommunity.minecraft.net/hc/en-us/articles/360047151192).  These are the guidelines that we live by and it's important that you understand them as well.   We'll wait while you go read them.
+Before joining our Forums, review the [Support Center Guidelines](./Support-Center-Guidelines.md).  These are the guidelines that we live by and it's important that you understand them as well.   We'll wait while you go read them.
 
 You're back?  Great!  Keep reading for everything you need to know about using our Support Center!  And if you need support, scroll down a bit more to learn how to contact the team.
 
@@ -101,7 +101,7 @@ We want you to feel comfortable and excited to:
 - **review existing issues and wishlist items** 
 - **upvote** posts you are passionate about, add new wishlist ideas
 
-Be sure you check our [Known Issues](https://educommunity.minecraft.net/hc/en-us/articles/4404970060180) page before posting as the team may already be aware of the issue you want to report. Upvote any ideas you like in the "**Wishlist and Feedback"** forum to give our product team visibility and see the popularity of this item to the community.  
+Be sure you check our [Known Issues](../Troubleshooting/Known-Issues-on-PC.md) page before posting as the team may already be aware of the issue you want to report. Upvote any ideas you like in the "**Wishlist and Feedback"** forum to give our product team visibility and see the popularity of this item to the community.  
 
 ![votes.png](https://edusupport.minecraft.net/hc/article_attachments/360064933612)
 

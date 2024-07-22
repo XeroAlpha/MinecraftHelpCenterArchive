@@ -102,6 +102,6 @@ Happy writing!
 
 **Additional Useful Items for Lessons**
 
-- [Adding non-player characters (NPCs)](https://educommunity.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs-)
-- [Communicating with Boards](https://educommunity.minecraft.net/hc/en-us/articles/360047117272-Communicating-With-Boards-)
+- [Adding non-player characters (NPCs)](./Adding-Non-Player-Characters-NPCs.md)
+- [Communicating with Boards](./Communicating-With-Boards.md)
 - Share your ideas on the [forums](https://edusupport.minecraft.net/hc/en-us/community/topics)

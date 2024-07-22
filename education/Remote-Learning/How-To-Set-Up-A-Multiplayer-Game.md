@@ -45,7 +45,7 @@ Here are the requirements for the best possible multiplayer experience:
 
 - Multiplayer is possible only for players within the same Office 365 tenant.
 - Players should have the most [up-to-date version](https://edusupport.minecraft.net/hc/en-us/articles/360047118732-Deploying-and-Updating-Minecraft-Education-Edition-apps-all-platforms-) of Minecraft Education
-- IT Admins will need to ensure [ports are not blocked](https://educommunity.minecraft.net/hc/en-us/articles/360047118992) and computers can communicate via peer to peer. 
+- IT Admins will need to ensure [ports are not blocked](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md) and computers can communicate via peer to peer. 
 - All players need to be running the same version of Minecraft Education to be able to host and join worlds together.
 - Server-style multiplayer is not possible and a sever license is not available.
 - Hosting multiplayer sessions with 10+ users in a single world will require a high spec device to ensure stability. 

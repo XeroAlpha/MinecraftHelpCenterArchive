@@ -37,7 +37,7 @@ Eligible academic institutions can purchase individual licenses for Minecraft Ed
 |  |  |
 |----|----|
 | **Option** | **Detail** |
-| Direct buy | IT administrators can [purchase licenses directly from the Admin Center](https://educommunity.minecraft.net/hc/en-us/articles/360059957051).  |
+| Direct buy | IT administrators can [purchase licenses directly from the Admin Center](./Purchase-Academic-Licenses-Directly.md).  |
 | Volume licensing via a partner | See [Purchase Academic Licenses Through Volume License](https://www.microsoft.com/en-us/licensing/licensing-programs/licensing-for-industries?rtc=1&activetab=licensing-for-industries-pivot:primaryr3) for more information on volume licensing. |
 
  
@@ -50,4 +50,4 @@ Any organization can purchase a Commercial license. This is the license option a
 
 ## Purchasing Commercial licenses
 
-Individual licenses can be purchased for use by anyone. See [Purchase Commercial Licenses](https://educommunity.minecraft.net/hc/en-us/articles/360061369812) for more information on purchasing commercial licenses.
+Individual licenses can be purchased for use by anyone. See [Purchase Commercial Licenses](./Purchase-Commercial-Licenses.md) for more information on purchasing commercial licenses.

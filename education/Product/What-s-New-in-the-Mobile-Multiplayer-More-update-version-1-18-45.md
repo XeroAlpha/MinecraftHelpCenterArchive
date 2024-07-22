@@ -33,7 +33,7 @@ Minecraft Education is now available for iPhones and Android phones and tablets!
 <tr>
 <td style="width: 100%"><h3>URL Allow List Changes </h3>
 <p>From the 1.18.31 beta and newer updates there are changes to the URLs which must be added to the allow list by your IT Admin to permit multiplayer connections. </p>
-<p>Read more about <a href="https://educommunity.minecraft.net/hc/en-us/articles/360047118992">URL allow listing for Minecraft Education</a>. </p></td>
+<p>Read more about <a href="../Administration-and-License-Management/FAQ-IT-Admin-Guide.md">URL allow listing for Minecraft Education</a>. </p></td>
 </tr>
 </tbody>
 </table>
@@ -76,7 +76,7 @@ Version 1.18 brings some exciting features and changes to worlds. Here are the h
 - Minecraft Education is now available on mobile devices, including iOS phones and Android phones and tablets!
 - We’ve made updates to how some windows and pages are displayed to make them easier to use on smaller mobile screens
 - You can adjust where Minecraft displays on the screen so it doesn’t appear in the notch of mobile devices
-- View the [System Requirements a](https://educommunity.minecraft.net/hc/en-us/articles/360047556591)rticle for the minimum required specs for mobile devices
+- View the [System Requirements a](../Get-Started/System-Requirements.md)rticle for the minimum required specs for mobile devices
 
  
 
@@ -84,7 +84,7 @@ Version 1.18 brings some exciting features and changes to worlds. Here are the h
 
 - Joining multiplayer worlds should now be easier, requiring less network configuration to successfully connect
 - *Join by IP Address* has been replaced with *Join by Connection Id*. We still recommend using join codes or sharing a join link as the easiest way to join a multiplayer session. 
-- View the [URL Allow List](https://educommunity.minecraft.net/hc/en-us/articles/360047118992) article for important configuration information required to use the new multiplayer experience
+- View the [URL Allow List](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md) article for important configuration information required to use the new multiplayer experience
 - Our multiplayer connections now utilize UDP connections (port 3478) 
 
 ### New NPC Skins
@@ -144,4 +144,4 @@ Other: 
 - Switching from the beta (1.18.30) back to a previous build (1.17.32) can cause Minecraft to crash when loading a world. Manually deleting the options.txt file in the Minecraft Application Data folder will resolve this. 
   - On Windows, the options.txt can be found at %appdata%\Minecraft Education Edition\games\com.mojang\minecraftpe\options.txt which for most users is "C:\Users\\USERNAME\]\AppData\Roaming\\.."
 
-**Windows 7 Users:** While Minecraft Education version 1.18 supports Windows 7, starting in December 2022, you will need to be using Windows 8 or newer to ensure Minecraft Education works correctly on your Windows device. View our [System Requirements article](https://educommunity.minecraft.net/hc/en-us/articles/360047556591) for more info.
+**Windows 7 Users:** While Minecraft Education version 1.18 supports Windows 7, starting in December 2022, you will need to be using Windows 8 or newer to ensure Minecraft Education works correctly on your Windows device. View our [System Requirements article](../Get-Started/System-Requirements.md) for more info.

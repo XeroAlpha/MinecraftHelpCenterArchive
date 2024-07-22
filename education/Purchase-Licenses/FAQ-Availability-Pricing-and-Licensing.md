@@ -12,7 +12,7 @@ The process for purchasing Minecraft Education depends on if you are part of an 
 
 **Is it available on Chromebook?**
 
-Yes! You can learn more [here](https://educommunity.minecraft.net/hc/en-us/articles/360047750851-Getting-started-with-Minecraft-Education-Edition-on-the-Chromebook).
+Yes! You can learn more [here](../Troubleshooting/Chromebook-Support.md).
 
 **I see you have launched on iOS. Can I play Minecraft Education on my iPhone?**
 
@@ -28,11 +28,11 @@ Yes, each user will need a Microsoft 365 account. For more information on how to
 
 **What if the students don't have email address to assign licenses to?**
 
-Minecraft Education licenses just need to be assigned to a user account in the Microsoft 365 Admin Center. These accounts don't necessarily have to have email functionality. New accounts can be created in the admin center. Once these accounts are created under your tenant, then Minecraft Education licenses can be assigned to these accounts and they can be used to login to the game. For more information on creating accounts in the admin center go [here.](https://educommunity.minecraft.net/hc/en-us/articles/360047118672)
+Minecraft Education licenses just need to be assigned to a user account in the Microsoft 365 Admin Center. These accounts don't necessarily have to have email functionality. New accounts can be created in the admin center. Once these accounts are created under your tenant, then Minecraft Education licenses can be assigned to these accounts and they can be used to login to the game. For more information on creating accounts in the admin center go [here.](../Administration-and-License-Management/Manage-Licenses-in-the-Admin-Center.md)
 
 **Is Minecraft Education available in my country? What languages can I play in?**
 
-To access the current list please view our [languages](https://educommunity.minecraft.net/hc/en-us/articles/360047556731-Language-Availability) and [countries](https://educommunity.minecraft.net/hc/en-us/articles/360047556651-Country-Availability-) offered in our Knowledge Base. If you have a suggestion for a new country or language, please post in our [community](https://edusupport.minecraft.net/hc/en-us/community/topics) to let us know you are interested and also please subscribe to our newsletter to stay updated for future availability.
+To access the current list please view our [languages](../Get-Started/Language-Availability.md) and [countries](../Get-Started/Country-Availability.md) offered in our Knowledge Base. If you have a suggestion for a new country or language, please post in our [community](https://edusupport.minecraft.net/hc/en-us/community/topics) to let us know you are interested and also please subscribe to our newsletter to stay updated for future availability.
 
 **Who is eligible to purchase Minecraft Education? Are home schools eligible?**
 
@@ -61,7 +61,7 @@ Students are able to use Minecraft Education at home by signing in using their M
 
 **If I have questions about COPPA, FERPA and CIPA as it relates to Minecraft Education and Office 365, where can I find this information?**
 
-You can find that information right [here](https://educommunity.minecraft.net/hc/en-us/articles/360047118972-COPPA-CIPA-and-FERPA-Information-).
+You can find that information right [here](../Get-Started/User-Privacy-and-Minecraft-Education.md).
 
 **What if I want a refund?**
 

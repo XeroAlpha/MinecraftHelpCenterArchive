@@ -73,7 +73,7 @@ Follow these steps to try a demo lesson 
 
 ## Additional Resources 
 
-- [Learning to play Minecraft Education](https://educommunity.minecraft.net/hc/en-us/articles/360047555131) 
-- Connect with other educators directly via our [website](https://education.minecraft.net/community/connect-with-others/) or [forums](https://educommunity.minecraft.net/hc/en-us/community/topics) 
+- [Learning to play Minecraft Education](./Learn-to-play-Minecraft-Education.md) 
+- Connect with other educators directly via our [website](https://education.minecraft.net/community/connect-with-others/) or [forums](https://edusupport.minecraft.net/hc/en-us/community/topics) 
 - Explore the full [Knowledge Base](https://aka.ms/MCEDUSupportCenter) 
 - Check out these [classroom management tips](https://education.minecraft.net/blog/classroom-management-tips-from-minecraft-mentors/) from teachers like you
