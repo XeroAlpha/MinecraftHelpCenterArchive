@@ -197,7 +197,7 @@ async function saveArticle({ url, article }, { path, json, frontmatter }, databa
                 if (!linkPathRelative.startsWith('../')) {
                     linkPathRelative = `./${linkPathRelative}`;
                 }
-                if (urlToRequest === simplifiedUrl) {
+                if (urlToRequest === simplifiedUrl && linkHash) {
                     return `#${linkHash}`;
                 }
                 if (linkHash) {
