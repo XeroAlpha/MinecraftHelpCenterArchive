@@ -1,7 +1,7 @@
 ---
 title: How to Start a Minecraft Preview/Beta Realm
 date: 2023-10-10T17:12:23Z
-updated: 2024-04-05T16:50:02Z
+updated: 2024-07-23T20:49:59Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557
@@ -21,9 +21,7 @@ Preview and Beta Realms are available to any active Minecraft: Bedrock Edition R
 
 If you have an active Realms subscription, a Preview Realm will be available for you to join and add members. New members must also be in the Preview/Beta program to play on a Preview Realm.
 
-**Note:** If you’ve switched to Preview’s new user interface, you’ll have to swap back to the old one to access this menu.  
-
-![](https://minecrafthelp.zendesk.com/hc/article_attachments/25192932793613)
+**Note:** If you’ve switched to Preview’s new user interface, you’ll have to swap back to the old one to access this menu. 
 
 Creating a Preview Realm ties that Realm to the same subscription as your regular Realm. Cancelling that subscription will cancel both your regular Realm and your Preview Realm.
 

@@ -1,8 +1,8 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2024-06-18T18:55:57Z
-categories: Beta
+updated: 2024-07-23T19:05:45Z
+categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
   h_01HTQJTKRG1RNRWT30FCKD44JP: basic-flow-of-feature
@@ -12,27 +12,20 @@ hash:
   h_01HNZNBSQNQ63SMRDSCGPTQDPX: how-to-download-a-previous-version-of-a-world
   h_01HNZNB7DZE3804N9996DW1BC2: faqs
   h_01HNZN95V2DQ238V5E79WQ9SWF: additional-notes
-  h_01HP2X216NKNHQ8DCPNGR325GT: known-issues
   h_01HP2X242P57NRRFPW9N6TZXQ9: troubleshooting-upload-errors
   h_01HTQK8W5YT6NHV1DHMPY0KNY4: ""
   h_01HTQK89VQKAN76XB70MT1X775: troubleshooting-download-errors
 ---
 
-Download the [Minecraft Education Preview](./Minecraft-Education-Preview-Program.md) to use the new cloud storage feature.
+Worlds are automatically saved to OneDrive upon closing the world as a backup. When the first world is uploaded, a new folder in the user’s OneDrive is created called “Minecraft Education". To ensure you have OneDrive attached to your account, see the troubleshooting guide below.
 
-Worlds are automatically saved to OneDrive upon closing the world as a backup. When the first world is uploaded, a new folder in the user’s OneDrive is created called “Minecraft Education Preview". To ensure you have OneDrive attached to your account, see the troubleshooting guide below.
-
-At this time, cloud storage is available for Windows, Android, and Chromebook. As we develop this feature, we welcome your feedback in the [Support forum](https://aka.ms/MEECommunityForum).
-
- 
-
-[![cloud preview video](https://edusupport.minecraft.net/hc/article_attachments/23508888310548)](https://youtu.be/5qnsKntGnXc)
+At this time, cloud storage is available for Windows, Android, and Chromebook. MacOS and iOS cloud support is coming very soon. 
 
  
 
 ## Basic flow of feature:
 
-- User saves a Minecraft Education Preview world
+- User saves a Minecraft Education world
 - Application saves world to local device and users OneDrive
 - Icon shows in My Worlds as a solid white cloud
 - User visits My Worlds
@@ -44,8 +37,8 @@ At this time, cloud storage is available for Windows, Android, and Chromebook. A
 
 - User accounts must have an allowed connection to OneDrive in place.
   - To check, go to [Sign in - Microsoft OneDrive (live.com) and sign in with your school account](https://onedrive.live.com/login/).
-- Users should have the Minecraft Education Preview (or Win32 Beta) installed on their device.
-  - View our [Minecraft Education Preview Program](./Minecraft-Education-Preview-Program.md) article to learn how to download.
+  - Once logged in, Click 'Office apps & devices' to confirm if OneDrive is enabled
+- Users should have Minecraft Education installed on their device.
 - IT Admins will need to ensure that all recommended [URLs are unblocked](https://aka.ms/MEEURLAllowList) and computers can communicate with OneDrive online. Below are the cloud specific URLs:
   - https://graph.microsoft.com
   - https://\*.sharepoint.com
@@ -55,7 +48,7 @@ At this time, cloud storage is available for Windows, Android, and Chromebook. A
 
 ## How to upload a world to OneDrive
 
-1.  Open Minecraft Education Preview and log in with your school or work account. Select the Play button.
+1.  Open Minecraft Education and log in with your school or work account. Select the Play button.
 2.  Choose an existing world to play from the View My Worlds collection.  You can also import and launch a new world from the Library Collection.
 3.  Select a world in your My Worlds collection and then select Play.
 4.  After you finish your time in your world, hit Esc and then click Save & Exit.
@@ -93,7 +86,7 @@ Note: The downloaded file will continue to backup to the same location if the sa
 
 **If my world is deleted from my device, will it be deleted from OneDrive?**
 
-No. If a Minecraft Education Preview (or Win32 Beta) world is deleted from any device, it can be downloaded to any device and recovered from OneDrive.
+No. If a Minecraft Education world is deleted from any device, it can be downloaded to any device and recovered from OneDrive.
 
  
 
@@ -113,7 +106,7 @@ Worlds uploaded to the same Microsoft account OneDrive folder can be downloaded 
 
 **My device was reset and I lost everything! Is there an easy way to restore all of my worlds at one time?**
 
-Any of the worlds that were saved since using version 12.20.6 Preview with the cloud backup feature should be saved on OneDrive. Currently, there is no way to restore all the worlds to your device at the same time. To restore a world to a device, you can individually download each world as needed.
+Any of the worlds that were saved since using version 1.21 with the cloud backup feature should be saved on OneDrive. Currently, there is no way to restore all the worlds to your device at the same time. To restore a world to a device, you can individually download each world as needed.
 
  
 
@@ -138,13 +131,13 @@ If you rename a world file on your device or on OneDrive, the world will continu
 **Can I rename or move the OneDrive folder?**
 
 We discourage changing or moving your Minecraft Education Edition cloud back up folder. If you rename the OneDrive folder, your world files will continue to upload to that folder. Newly created worlds will be uploaded to a new “Minecraft Education” folder.  
-If you move the OneDrive folder, newly created worlds will upload to a new "Minecraft Education Preview" folder.
+If you move the OneDrive folder, newly created worlds will upload to a new "Minecraft Education" folder.
 
  
 
 **What happens if I download a world from the cloud to a version of Minecraft Education which is older than the one it was last saved on?**
 
-A world cannot be opened with a version of Minecraft Education which is older than the one it was last saved on. Worlds created in Minecraft Preview cannot be used in a version prior.
+A world cannot be opened with a version of Minecraft Education which is older than the one it was last saved on. Worlds created in Minecraft cannot be used in a version prior.
 
  
 
@@ -188,10 +181,6 @@ You can disable cloud backups. Before you do so, check by going to [Sign in - Mi
 
  
 
-## Known Issues
-
-- Nothing noteworthy at this time, but we'll update this section if there's issues you should be aware of. 
-
  
 
 ## Troubleshooting Upload Errors
@@ -221,8 +210,9 @@ If you got this error when you closed your world:
 Here are some steps you can take to figure out the issue:
 
 - Confirm you are connected to the internet.
-- Confirm you have OneDrive enabled on the account you logged into Minecraft Education Preview with.
+- Confirm you have OneDrive enabled on the account you logged into Minecraft Education with.
   - To check, go to [Sign in - Microsoft OneDrive (live.com)](https://onedrive.live.com/login/)
+  - Once logged in, Click 'Office apps & devices' to confirm if OneDrive is enabled
 - Confirm your OneDrive is not full
   - [ My OneDrive says it's full - Microsoft Support](https://support.microsoft.com/en-us/office/my-onedrive-says-it-s-full-f0a8a922-d971-497e-b0c6-7b9a47c617c0?ns=groove&version=16&ui=en-us&rs=en-us&ad=us)
 - Ask your IT Administrator to ensure that all [recommended URLs are unblocked](https://aka.ms/MEEURLAllowList). 
@@ -242,8 +232,9 @@ If you got this error when you closed your world:
 Here are some steps you can take to resolve this issue:
 
 - Try again in case your internet was interrupted.
-- Confirm you have OneDrive enabled on the account you logged into Minecraft Education Preview (or Beta) with.
+- Confirm you have OneDrive enabled on the account you logged into Minecraft Education with.
   - To check, go to [Sign in - Microsoft OneDrive (live.com)](https://onedrive.live.com/login/)
+  - Once logged in, select 'Office apps & devices' to confirm if OneDrive is enabled
 - Ask a system administrator to check your OneDrive settings.
 
  
@@ -257,7 +248,7 @@ If you got this error when you closed your world:
 Here are some steps you can take to resolve this issue:
 
 - Remove large files from your OneDrive
-  - In Minecraft Education Preview (or Beta), go to Settings \| Cloud Storage
+  - In Minecraft Education, go to Settings \| Cloud Storage
   - Click the OneDrive button to see your worlds in the cloud.
   - Review your world files and determine if any should be removed
   - Look at your other OneDrive files to see if any large files could be deleted from the cloud to free up space.
@@ -275,8 +266,9 @@ If you got this error when you closed your world:
 
 Here are some steps you can take to resolve this issue:
 
-- Confirm you have OneDrive enabled on the account you logged into Minecraft Education Preview with.
+- Confirm you have OneDrive enabled on the account you logged into Minecraft Education with.
   - To check, go to [Sign in - Microsoft OneDrive (live.com)](https://onedrive.live.com/login/)
+  - Once logged in, select 'Office apps & devices' to confirm if OneDrive is enabled
 - Ask a system administrator to check your OneDrive settings.
 
  

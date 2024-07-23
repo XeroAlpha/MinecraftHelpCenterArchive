@@ -1,13 +1,14 @@
 ---
 title: "How to Invite Friends to Your Minecraft: Java Edition Realm"
 date: 2024-04-15T19:13:45Z
+updated: 2024-07-23T20:20:36Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/25916625786509-How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm
 ---
 
-To join a Realm, you will need to receive an invite from the host of said Realm. They can send you an invite by doing the following:
+To get the most out of your Realm in Minecraft: Java Edition, you will want to bring in friends to help build up the world alongside you. Here is how to invite others to your Java Realm.
 
 1.  Start Minecraft.
 2.  Select **Minecraft Realms**.

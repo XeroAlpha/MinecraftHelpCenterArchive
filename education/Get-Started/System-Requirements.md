@@ -1,7 +1,7 @@
 ---
 title: System Requirements
 date: 2020-08-10T10:57:43Z
-updated: 2023-11-04T00:03:54Z
+updated: 2024-07-23T18:42:19Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
@@ -23,11 +23,11 @@ These are the operating system (OS) that we support for Minecraft Education.
 |                        |                            |
 |------------------------|----------------------------|
 | **Device**             | **Minimum supported OS\*** |
-| Chromebook             | Chrome OS 83               |
-| Mac                    | Big Sur 11                 |
+| Chromebook             | Chrome OS 114              |
+| Mac                    | macOS 12 (Monterey)        |
 | PC                     | Windows 10                 |
 | Android Phone / Tablet | Android 8                  |
-| iPhone / iPad          | iOS 11 / iPadOS 11         |
+| iPhone / iPad          | iOS 13 / iPadOS 13         |
 
 *\***Note**: Minecraft Education should be able to run on the minimum supported operating systems, however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*
 
