@@ -1,9 +1,9 @@
 ---
-title: What's New in the Cloud Preview (v1.21.01)
+title: What's New in the Cloud Update (v1.21.03)
 date: 2024-01-31T18:59:06Z
-updated: 2024-06-18T18:45:47Z
-categories: Beta
-link: https://edusupport.minecraft.net/hc/en-us/articles/23323615654164-What-s-New-in-the-Cloud-Preview-v1-21-01
+updated: 2024-07-23T18:31:48Z
+categories: Product
+link: https://edusupport.minecraft.net/hc/en-us/articles/23323615654164-What-s-New-in-the-Cloud-Update-v1-21-03
 hash:
   h_01HNZMZHNPKNGHZSZTFC74JAVD: tricky-trials-update-v1210
   01J0PAAPQYXGXMJ3BGVXG41XMS: more-from-the-trails--tales-update-from-v12013-to-v12070
@@ -12,14 +12,9 @@ hash:
   h_01HNZMZHNQBJQR2N95E4JBCD58: moved-manage-accounts-button
   01J0PAM69PHZDHKPEVTN28DD04: other-updates
   01J0PADR07314H9C4XDD39PEKD: bug-fixes--performance-improvements
-  h_01HNZMZHNQPJT8KQJ0G3MK4PBP: known-issues
 ---
 
-Welcome to the Minecraft Education Preview Cloud update (v1.21.01)! You can install this application side-by-side with the main Minecraft Education application. This preview version adds the ability to upload as well as download worlds from OneDrive for backup. Try it out and share your feedback.
-
-View our [Minecraft Education Preview program article](https://aka.ms/MCEDUPreviewFAQ) to learn more about the preview system and how to download. The Minecraft Education Preview app is supported on ChromeOS and the Windows .appx version. For the app versions not available on the [Minecraft Education Preview](./Minecraft-Education-Preview-Program.md), use the [Minecraft Education Beta](./Minecraft-Education-Beta-program.md). 
-
-Please let us know all about the things you love, as well as challenges you run into by contributing to our [feedback forums](https://aka.ms/MEEPreviewFeedback).
+Welcome to the Minecraft Education 1.21 Cloud Update! This long-awaited update brings cloud backup with OneDrive to all users, which means now you can save your world files to cloud storage! Check out fun new features from the Tricky Trials update like trial chambers, the armadillo and the mace.
 
  
 
@@ -42,8 +37,9 @@ Please let us know all about the things you love, as well as challenges you run 
 
 ## **Cloud World Backup - Upload & Download**
 
-- Worlds are automatically uploaded and downloaded to OneDrive upon on world close and downloaded on world open.  
+- Worlds are automatically uploaded and downloaded to OneDrive upon on world close and downloaded on world open for Windows and ChromeOS.  
   - [View more info here](https://aka.ms/mceducloudkb)
+  - Support for Cloud on MacOS and iOS coming soon
 - IT Admins will need to ensure that the following URLs are allowlisted through the network:
   - https://graph.microsoft.com
   - https://\*.sharepoint.com
@@ -75,11 +71,3 @@ Please let us know all about the things you love, as well as challenges you run 
 ## **Bug Fixes & Performance Improvements**
 
 - Improvements to performance and product stability
-
- 
-
-## **Known Issues**
-
-Some users may encounter these issues. If you do, [reach out to our support team](https://aka.ms/MEE_New_Request) and we can help.
-
-- Nothing noteworthy at this time! We'll update this section if we hear of issues you should know about.

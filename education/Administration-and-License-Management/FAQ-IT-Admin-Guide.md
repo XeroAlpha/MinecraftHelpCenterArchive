@@ -1,7 +1,7 @@
 ---
-title: "FAQ: IT Admin Guide "
+title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
-updated: 2023-06-02T21:15:54Z
+updated: 2024-07-23T18:35:02Z
 categories: Administration and License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
@@ -58,6 +58,8 @@ This is the list of all the URLs used by Minecraft Education.
 | https://\*.minecrafteduservices.com       | Login/Multiplayer/Coding  |
 | https://login.microsoftonline.com         | Login                     |
 | https://aadcdn.msauth.net/                | Login                     |
+| https://graph.microsoft.com               | Cloud Saving **(New)**    |
+| https://\*.sharepoint.com                 | Cloud Saving **(New)**    |
 | https://\*.minecraft-services.net/        | Multiplayer/Library       |
 | https://\*.xboxlive.com                   | Library/Demo Lesson       |
 | https://\*.playfabapi.com                 | Library/Demo Lesson       |

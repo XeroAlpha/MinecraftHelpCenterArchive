@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2024-06-28T23:33:18Z
+updated: 2024-07-23T18:33:09Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-preview--beta-game-client-version-12101---released-61824
+  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-game-client-version-12103---released-72324
+  01J3GDREZM0GMY4677QTNM32FE: minecraft-education-preview--beta-game-client-version-12101---released-61824
   01J1GK0AR07KZ7QNP83CH2JVPR: minecraft-education-preview-game-client-version-12070---released-4424
   01HTN1HNHP1GE6YXTSZWBV2ERR: minecraft-education-preview-game-client-version-12060---released-2624
   h_01HER5FY15T8D6EB9QKB7ZASXN: minecraft-education-game-client-version-12013---released-11823
@@ -40,6 +41,16 @@ Minecraft Education periodically releases updates to our game and companion apps
  
 
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
+
+ 
+
+## Minecraft Education Game Client (version 1.21.03) - Released 7/23/24
+
+- Tricky Trials Update
+- Cloud World Backup
+- Chemistry items are now in the creative menu
+- Camera API
+- Various bug fixes and miscellaneous improvements
 
  
 
