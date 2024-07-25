@@ -1,7 +1,7 @@
 ---
 title: How To Edit Your Realms on Minecraft.net
 date: 2023-05-19T20:22:48Z
-updated: 2024-03-27T18:22:46Z
+updated: 2024-07-25T17:42:49Z
 categories: Manage or Troubleshoot Realms
 tags:
   - section_ 26104165751437
@@ -12,7 +12,7 @@ You are able to edit some information for your Minecraft Realms whether they are
 
 **How to edit your Realms on Minecraft.net**
 
-1.  [Log in to your Microsoft account on Minecraft.net.](https://www.minecraft.net/en-us/login)
+1.  [Sign in to your Microsoft account on Minecraft.net.](https://www.minecraft.net/en-us/login)
 2.  Now you will be in the **My Games** section.
 3.  Scroll down to either the Java or Bedrock Edition.
 4.  Select the Realm you want to edit.
@@ -23,4 +23,3 @@ You are able to edit some information for your Minecraft Realms whether they are
 - Invite players to your Realm.
 - Manage current members.
 - Select a world slot to activate.
-  - Changing the world in each slot must be done in the game.

@@ -1,7 +1,7 @@
 ---
 title: How to Upload Worlds onto a Minecraft Realm
 date: 2023-10-24T20:53:20Z
-updated: 2024-03-27T18:15:37Z
+updated: 2024-07-25T17:36:04Z
 categories: Manage or Troubleshoot Realms
 tags:
   - section_ 26104165751437
@@ -18,7 +18,8 @@ If you don’t want to start a Minecraft Realm from scratch, you can upload one 
 4.  Select either an empty world slot or you can replace a currently occupied slot by selecting **Edit World**.
 5.  In Game Settings, scroll to the bottom and select **Replace World**.
 6.  Select the world you want to upload onto the Realm up to 4 GB in size.
-    - **Note:** If the world you want to upload is on a different platform, you will need to [transfer your world](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) or upload it on that platform.
+
+If the world you want to upload is on a different platform, see [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).
 
 **How to upload a world onto a Minecraft: Java Edition Realm**
 
@@ -28,4 +29,5 @@ If you don’t want to start a Minecraft Realm from scratch, you can upload one 
 4.  Select an empty world slot or select an existing one and press **Reset World**.
 5.  Select **Upload World**.
 6.  Select the world you want to upload onto the Realm up to 4 GB in size.
-    - If transferring your world from a different device, see [Locating Minecraft: Java Edition Files For Backup Or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md).
+
+If transferring your world from a different device, see [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md).

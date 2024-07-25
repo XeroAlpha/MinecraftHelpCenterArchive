@@ -1,17 +1,15 @@
 ---
-title: "How to Create a Backup of a Minecraft: Java Edition Realm"
+title: "How to Find and Restore a Backup of a Minecraft: Java Edition Realm"
 date: 2023-10-24T21:14:02Z
-updated: 2024-04-22T19:18:48Z
+updated: 2024-07-25T16:54:31Z
 categories: Manage or Troubleshoot Realms
 tags:
   - section_ 26104165751437
-link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm
+link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm
 hash:
   h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them
   h_01HHZH60PNMN56EA3BWG744B1S: uploading-a-backup-world-to-your-realm
   h_01HHZH99DRVXBF482H3KATBKPG: how-does-mojang-backup-your-realm
-  h_01HHZHAJBH92RW22EMN1W3VR2D: can-i-export-my-minecraft-map-from-my-realm
-  h_01HHZHBFXCYGGAWF248DFD5G1R: can-i-upload-my-minecraft-map-onto-a-realm
 ---
 
 Creating a backup of a world is simple and easy. Creating backups is a good habit and can help you make sure you always keep your world safe. 
@@ -26,7 +24,7 @@ On this page you can select any backup and press **Restore** or the **red arrow*
 
 ## Uploading a Backup World to your Realm
 
-After purchasing a new Realm subscription and creating a new world within that Realm, you can access the Realm configuration menu to upload a backup. 
+After purchasing a new Realm subscription and creating a new world within that Realm, you can access the Realm configuration menu to upload a backup.  Any world that is up to 4 GB in size can be uploaded.
 
 1.  From the main menu select** Realms **
 2.  Find the Realm you wish to modify and select **Configure**
@@ -54,11 +52,3 @@ We can’t keep all of your backups around forever, though, so the following ret
 - 122+ days ago: No backups are retained.
 
 **Note: If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed. **
-
-## Can I export my Minecraft map from my Realm?
-
-You can export your maps from any versions of Realms at any time within an 18-month period after your subscription has expired. Once your subscription has been inactive for more than 18 months, your world will be permanently deleted from Minecraft’s servers.       
-
-## Can I upload my Minecraft map onto a Realm?
-
-Yes, you can upload your own maps to a Realm. We currently support worlds up to 4GB in size, a substantial amount for map size.
