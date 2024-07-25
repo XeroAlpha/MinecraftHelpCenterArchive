@@ -1,7 +1,7 @@
 ---
 title: How to Share Screenshots on Minecraft Realms Stories
 date: 2024-04-19T20:51:24Z
-updated: 2024-04-19T20:57:12Z
+updated: 2024-07-25T15:05:49Z
 categories: Manage or Troubleshoot Realms
 tags:
   - section_ 26104165751437
@@ -13,9 +13,9 @@ If you have found something interesting or built a new epic structure in your Mi
 **How to take a screenshot in Minecraft**
 
 1.  Enter the Realm.
-2.  Bring up the menu.
-3.  Select the **Camera** icon.
-    - Whatever you are looking at will then be saved to your screenshot library.
+2.  Position screen for what you want to capture.
+3.  Bring up the menu.
+4.  Select the **Camera** icon.
 
 **How to share a screenshot to Realms Stories**
 
