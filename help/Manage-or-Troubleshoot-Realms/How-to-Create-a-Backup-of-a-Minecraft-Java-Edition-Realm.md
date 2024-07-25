@@ -1,7 +1,7 @@
 ---
 title: "How to Find and Restore a Backup of a Minecraft: Java Edition Realm"
 date: 2023-10-24T21:14:02Z
-updated: 2024-07-25T16:54:31Z
+updated: 2024-07-25T20:40:30Z
 categories: Manage or Troubleshoot Realms
 tags:
   - section_ 26104165751437
@@ -9,10 +9,11 @@ link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Find-an
 hash:
   h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them
   h_01HHZH60PNMN56EA3BWG744B1S: uploading-a-backup-world-to-your-realm
-  h_01HHZH99DRVXBF482H3KATBKPG: how-does-mojang-backup-your-realm
 ---
 
 Creating a backup of a world is simple and easy. Creating backups is a good habit and can help you make sure you always keep your world safe. 
+
+To learn how we choose what versions of your Realm to backup, see [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
 
 ## How to find your Realms backups and restore them
 
@@ -34,21 +35,4 @@ After purchasing a new Realm subscription and creating a new�
 
 ![](https://minecrafthelp.zendesk.com/hc/article_attachments/22473194954253)
 
-If you encounter an error that prevents you from downloading your world, or if you are having difficulty uploading your world, please contact [Minecraft support ](https://help.minecraft.net/hc/en-us/requests/new)for further assistance. 
-
-## How does Mojang backup your Realm?
-
-A Realm world is downloadable within 18 months of your subscription expiring, but the world backups associated with that Realm will be deleted 30 days after your subscription expires. In general, we save your progress every 30 minutes and at the end of your play session. This protects your primary save file from losing too much progress in the case of a crash and makes sure all of progress is saved properly at the end of your session.
-
-Beyond auto-saving the main save file, we also take a backup every time we save. These backups are full copies of your primary save file from the point in time the backup was taken.
-
-We can’t keep all of your backups around forever, though, so the following retention policy is in place:
-
-- The four most recent backups are retained, regardless of age.
-- In the last 24 hours: We retain one backup per every 4 hours.
-- 1 day to 8 days ago: We retain one backup per day.
-- 9 days to 36 days ago: We retain one backup a week.
-- 37 days to 121 days ago: We retain one backup a month.
-- 122+ days ago: No backups are retained.
-
-**Note: If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. Also, we keep the most recent backup within each given window above, meaning that as backups age they may move into the next window, which could result in an older backup being removed. **
+If you encounter an error that prevents you from downloading your world, or if you are having difficulty uploading your world, please contact [Minecraft support ](https://help.minecraft.net/hc/en-us/requests/new)for further assistance.
