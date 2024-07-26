@@ -1,7 +1,7 @@
 ---
 title: What's New in the Cloud Update (v1.21.03)
 date: 2024-01-31T18:59:06Z
-updated: 2024-07-25T23:28:15Z
+updated: 2024-07-26T16:49:39Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/23323615654164-What-s-New-in-the-Cloud-Update-v1-21-03
 hash:
@@ -12,7 +12,7 @@ hash:
   h_01HNZMZHNQBJQR2N95E4JBCD58: moved-manage-accounts-button
   01J0PAM69PHZDHKPEVTN28DD04: other-updates
   01J0PADR07314H9C4XDD39PEKD: bug-fixes--performance-improvements
-  section: ""
+  h_01J3QZ251EK71XQ6APNK0G64Y2: ""
   01J3P397CG18ZZ4S2ZB7M6NSQN: known-issues
 ---
 
@@ -42,6 +42,7 @@ Welcome to the Minecraft Education 1.21 Cloud Update! This long-awaited update b
 - Worlds are automatically uploaded and downloaded to OneDrive upon on world close and downloaded on world open for Windows and ChromeOS.  
   - [View more info here](https://aka.ms/mceducloudkb)
   - Support for Cloud on MacOS and iOS coming soon
+- Teachers now only see their own worlds on a device (instead of all worlds from all users using the device). This is to make sure world upload to the correct OneDrive account.
 - IT Admins will need to ensure that the following URLs are allowlisted through the network:
   - https://graph.microsoft.com
   - https://\*.sharepoint.com
