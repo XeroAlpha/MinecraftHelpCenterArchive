@@ -31,7 +31,7 @@ If you want to learn more about Minecraft Realms, how to join a game, or manage 
 
 ## Realm World Management
 
-- [How to Create a Backup of a Minecraft: Java Edition Realm](./How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
+- [How to Create a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
 - [Minecraft: Bedrock Edition Realms Backup FAQ](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md)
 - [How to Manage Your Minecraft: Bedrock Edition Realm](./How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
 - [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md)

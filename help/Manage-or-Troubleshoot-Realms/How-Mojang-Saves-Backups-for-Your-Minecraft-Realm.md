@@ -25,4 +25,4 @@ We can’t keep all of your backups around forever, though, so the following ret
 To learn how to locate and restore these backups, see the article below for the version of Minecraft you’re playing.
 
 - [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md)
-- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Create-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
+- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)

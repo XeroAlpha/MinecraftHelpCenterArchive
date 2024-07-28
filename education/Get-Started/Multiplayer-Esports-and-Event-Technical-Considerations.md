@@ -9,7 +9,7 @@ hash:
   h_01HAA83S735K1SYBMS93WFXBGC: host-device-considerations
 ---
 
-[Esports in Minecraft Education](#undefined) can be an exciting way to unleash students' creativity in a way that challenges them and builds skills. Before beginning an esports multiplayer event, we recommend reviewing the guidance below.
+[Esports in Minecraft Education](./Multiplayer-Esports-and-Event-Technical-Considerations.md) can be an exciting way to unleash students' creativity in a way that challenges them and builds skills. Before beginning an esports multiplayer event, we recommend reviewing the guidance below.
 
  
 
