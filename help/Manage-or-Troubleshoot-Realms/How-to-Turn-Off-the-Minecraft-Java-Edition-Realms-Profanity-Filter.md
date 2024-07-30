@@ -1,7 +1,7 @@
 ---
 title: "How to Turn Off the Minecraft: Java Edition Realms Profanity Filter"
 date: 2022-05-11T16:53:37Z
-updated: 2024-04-26T21:29:40Z
+updated: 2024-07-30T18:22:55Z
 categories: Manage or Troubleshoot Realms
 tags:
   - section_15463792344973
@@ -16,7 +16,7 @@ If you’re playing on a Minecraft: Java Edition Realm and are looking to protec
 
 ## How to disable the Minecraft: Java Edition Realms profanity filter
 
-1.  [Log in with your Microsoft Account](https://www.minecraft.net/en-us/login) on Minecraft.net.  
+1.  [Sign in with your Microsoft Account](https://www.minecraft.net/en-us/login) on Minecraft.net.  
 2.  Navigate to the **My Account** tab on the side bar. 
 3.  Scroll down to find **Java Realms Profanity Filter**.
 4.  The toggle is on by default, but you can click it to switch between on and off as you wish. 
@@ -27,4 +27,4 @@ Note that the profanity filter will only affect you and your Minecraft account. 
 
 ## Profanity filter is grayed out with an adult Microsoft account
 
-If the Java Edition profanity filter is grayed out, but you’re logged into an adult Microsoft account, it’s likely that your Minecraft: Java Edition entitlement isn’t detected. Make sure you are signed into the proper account that owns Minecraft or is subscribed to Xbox Game Pass for PC. If you own Bedrock Edition, see [I Own Minecraft: Java Or Bedrock Edition For PC. How Do I Get The Other?](../Download-Install/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md)
+If the Java Edition profanity filter is grayed out, but you’re logged into an adult Microsoft account, it’s likely that your Minecraft: Java Edition entitlement isn’t detected. Make sure you are signed into the proper account that owns Minecraft or is subscribed to Xbox Game Pass for PC.

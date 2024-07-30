@@ -1,7 +1,7 @@
 ---
 title: Buying Minecraft for Windows, MacOS or Linux
 date: 2022-06-03T18:40:38Z
-updated: 2024-07-30T16:38:13Z
+updated: 2024-07-30T17:14:14Z
 categories: Purchases & Billing
 tags:
   - section_27194152473613
@@ -15,8 +15,6 @@ hash:
 
 When you buy Minecraft from the Microsoft store or on Minecraft.net, you get both Minecraft: Bedrock Edition for Windows and Minecraft: Java Edition for MacOS and Linux in the same bundle. Windows users can play either edition. Minecraft: Java Edition is compatible with MacOS and Linux. You can also select from other available Minecraft games in the same stores.
 
- 
-
 ### BUYING MINECRAFT THROUGH THE MICROSOFT STORE
 
 1.  Visit [Minecraft: Java & Bedrock Edition for PC](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010/9R83ZGNQV391) in the Microsoft/Xbox store.
@@ -27,8 +25,7 @@ When you buy Minecraft from the Microsoft store or on Minecraft.net, you get bot
 6.  Click the Buy button to complete your purchase.
 7.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md).
 8.  Start the Launcher and then select the game version for your PC platform.
-9.  Click the Play button in the Launcher to start the download and installation of your game.  
-      
+9.  Click the Play button in the Launcher to start the download and installation of your game. 
 
 ### BUYING MINECRAFT FROM MINECRAFT.NET
 
@@ -39,8 +36,7 @@ When you buy Minecraft from the Microsoft store or on Minecraft.net, you get bot
 5.  Click the Buy button to complete your purchase.
 6.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md).
 7.  Start the Launcher and then select the game version for your PC platform.
-8.  Click the Play button in the Launcher to start the download and installation of your game.  
-      
+8.  Click the Play button in the Launcher to start the download and installation of your game. 
 
 ### BUYING MINECRAFT GAMES FROM THE MINECRAFT LAUNCHER
 
@@ -48,7 +44,7 @@ When you buy Minecraft from the Microsoft store or on Minecraft.net, you get bot
 2.  Select a game from the menu and click **Buy Now**.
 3.  Follow the onscreen instructions to complete your purchase and download the game.
 
-###  VIEWING PURCHASED GAMES MINECRAFT.NET
+### VIEWING PURCHASED GAMES MINECRAFT.NET
 
 1.  Visit [Minecraft.net](https://www.minecraft.net/).
 2.  Click on Account and then select **Sign In**.

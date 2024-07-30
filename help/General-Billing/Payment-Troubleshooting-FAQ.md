@@ -1,88 +1,36 @@
 ---
-title: Payment Troubleshooting FAQ
+title: Troubleshooting Minecraft Transaction Issues
 date: 2021-09-13T23:22:40Z
-updated: 2023-10-12T20:29:24Z
+updated: 2024-07-30T17:21:37Z
 categories: General Billing
 tags:
   - section_12619005712013
-link: https://help.minecraft.net/hc/en-us/articles/4409170846477-Payment-Troubleshooting-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/4409170846477-Troubleshooting-Minecraft-Transaction-Issues
 hash:
-  h_01HCJFC1AH7ST4GYMH1VPJ47Y2: in-this-article
-  h_01FFGQDH4VJCEJ3KJDYTYG4A60: i-cant-make-a-purchase
-  h_01HCJFC1AHE71WXQ9HPQDSHW7T: troubleshoot-purchasing
-  h_01HCJFC1AHV2ZA87W6D013KAPC: troubleshoot-making-a-realms-purchase
-  h_01FFGQFJPNCFEJFGP533FAW13Y: ive-been-charged-more-than-once
-  h_01FG52AS46Z175T663PAZBPE8B: i-accidentally-disputed-charges
-  h_01HCJFC1AHQTJ1NTE0BDYXJTFA: when-will-i-receive-my-game
-  h_01HCJFC1AHDJR23M609ZSJ4SKF: troubleshoot-problems
+  h_01J3ZGKA0ENZ7TNMK7SHJ1JRED: duplicate-charges
+  h_01J3ZGM1RAWCTX2WTQ5MPB8PJB: failed-transactions
+  h_01J3ZGMDD50G8D99JTC14Z2ZRR: transaction-authorization-errors
 ---
 
-This article details various payment issues you might face, and solutions to those issues.
+If you are trying to buy Minecraft for Windows, MacOS, or Linux from the Microsoft store and get an error, try the suggestions below:
 
-# In This Article:
+- **Try a new browser**. Clear your browsing data or try your purchase on another web browser or device. Also update your browser is the most current version.
+- **Try a different payment method**. Valid payment methods may vary depending on your country or region. Check with your bank to make sure online transactions are allowed in your region.
+- **Try a prepaid Minecraft card**. You may be able to buy a Minecraft prepaid card from a retail store and use this as your payment method. You can redeem your card in the Microsoft store before buying Minecraft on your [Microsoft Account page](https://redeem.microsoft.com/).
 
-- **[I can't make a purchase](#i-cant-make-a-purchase)**
-- **[I've been charged more than once](#ive-been-charged-more-than-once)**
-- **[I accidentally disputed charges](#i-accidentally-disputed-charges)**
-- **[When will I receive my game](#h_01FFGQG2F4ZMWCEWGJF8HAG6SC)**
+### Duplicate Charges
 
-## I can’t make a purchase
+There are a couple of situations where a second charge may appear or seem to appear after a purchase. Seeing two similar transactions does not necessarily mean you were charged twice:
 
-Payment errors are often difficult to track down; they can happen in different steps of the payment process for a few reasons.
+- **Verify only one Transaction ID** - An order number may be generated when a payment fails, which can be confused with a successful purchase. Only one [transaction ID](./What-is-a-Transaction-ID.md) is generated with a successful purchase. Look for more than one unique transaction ID to confirm a duplicate purchase. If you were charged twice, [contact the store](./Mojang-Studios-Refund-Policy.md) you used to make the purchase for a refund.
+- **Check for a bank hold** - A bank or payment partner may temporarily reserve the purchase amount on your account, this can be confused with a second charge. The hold is usually resolved within 24-48 hours. Contact your bank or the payment partner for further information.
 
-### Troubleshoot Purchasing
+If you believe that you have identified a duplicate charge, contact [Microsoft Support](https://support.xbox.com/en-US/help/subscriptions-billing/browse) and provide us with the transaction IDs from both charges. We will be happy to assist so you can continue to game on!
 
-1.  Try your purchase on another web browser or device, and make sure that the browser is the most current version.
-2.  Try a different payment method in the online store. There are several different payment methods available.  
-    **Note**: Payment methods may vary depending on your country.
-3.  If you are still not able to make a purchase, you may be able to buy a **Minecraft prepaid card** from a retail store and use that. Minecraft prepaid cards can be used on a Microsoft account (that does not already own a copy of the game) and entitle the cardholder to one Minecraft license (one copy of Minecraft).
-    - If you have purchased a Minecraft: Java Edition prepaid card at a retail store, you can redeem your code by visiting our site at [minecraft.net/redeem](https://www.minecraft.net/en-us/redeem/) and clicking **REDEEM JAVA EDITION**. You will be prompted to login or create a Microsoft account. Once this is complete you can redeem your code and finish setting up your Minecraft profile.
+### Failed Transactions
 
-If you have issues using your Minecraft prepaid card, see [Prepaid Card and Gift Code Redemption Issues](https://help.minecraft.net/hc/en-us/articles/4409758085005-Minecraft-Java-Edition-Gift-Code-Issues-FAQ#h_01FG55B88ZZ02B559E7Q30BAEV).
+Occasionally there is an issue where a failed transaction sends a customer to the payment confirmation screen. If you have not received an email from us confirming a successful purchase containing a [transaction ID](./What-is-a-Transaction-ID.md), it is unlikely that the transaction was successful. Double-check your payment account to verify that you were charged.
 
-### Troubleshoot Making a Realms Purchase
+### Transaction Authorization Errors
 
-- International Purchasing
-  - Check with your card provider to allow international purchases as Mojang is based in Sweden. Also verify that you have sufficient funds and that there are no other issues with the purchase. 
-  - If you’re not in the same country as the credit or debit card was issued, the purchase may not go through. Check with your card provider.
-
-<!-- -->
-
-- US Purchasing
-  - You cannot make a purchase from outside of the US using a credit or debit card issued in the US. 
-  - Due to US law, many or all prepaid debit cards (such as Visa Vanilla) purchased in the US will not work for purchases in our online store, as Mojang is located outside of the US.
-  - Gift codes are not available for purchase in our online store from the US. Please consider buying a [Minecraft prepaid card](../Purchases-Billing/Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md#prepaid-card-and-gift-code-redemption-issues) or a gift code on [amazon.com](https://www.amazon.com/Minecraft-Mac-Online-Game-Code/dp/B010KYDNDG/ref=dp_olp_1?th=1). 
-
-## I’ve been charged more than once
-
-There are a few situations where a second charge may appear or seem to appear after a purchase:
-
-1.  An order number may be generated when a payment fails, which can be confused with a successful purchase. A [transaction ID](./What-is-a-Transaction-ID.md) is only generated with a successful purchase. Look for more than one transaction IDs to confirm a duplicate purchase.
-2.  A bank or payment partner may temporarily reserve the purchase amount on your account, this can be confused with a second charge. The hold is usually resolved within 24-48 hours. Contact your bank or the payment partner for further information.
-3.  If you have accidentally purchased the game directly as well as with a gift code; you will see the duplicate purchases in your account profile.
-
-If you believe that you have identified a duplicate charge, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and provide us with the transaction IDs from both charges. We will be happy to assist so you can continue to game on!
-
-## I Accidentally Disputed Charges
-
-Some people may not recognize charges from a Swedish company or our payment partners, and sometimes a legitimate charge is disputed and refunded. Later, they may discover that the charge was for an intended purchase of a Mojang Studios game. Because we do not store payment information, if you have disputed a charge in error, we do not have the ability to charge you again. Please simply make your purchase again, and you will have access to your game. 
-
-## When will I receive my game?
-
-After your purchase, you will receive an email with a receipt confirming your purchase. Once you have received this email, you can access the game.
-
-To manage the Minecraft games you have purchased on PC, Max, or Linux, [you can download the Minecraft Launcher](https://www.minecraft.net/en-us/download).
-
-If you have purchased a gift code, [you can redeem it on this page](https://www.minecraft.net/en-us/redeem) after signing in to your Microsoft account.
-
-## Troubleshoot Problems
-
-Occasionally there is an issue where a failed transaction sends a customer to the payment confirmation screen. If you have only received a 32-character [order number](./What-is-a-Transaction-ID.md) after a few hours, and not an email from us confirming a successful purchase containing a [transaction ID](./What-is-a-Transaction-ID.md), it is unlikely that the transaction was successful. Double-check your payment account to verify that you were charged. 
-
-**Note: Because you cannot purchase a game twice on the same account, if you were not charged, you may wish to try your purchase again.**
-
-If you've received a call from your credit card company asking if you would like to authorize an international transaction, they may have interrupted the payment process, even if they eventually let the transaction go through. First verify that your credit card was charged; it is possible that the hold caused us not to be notified of the purchase. If not, you can wait for a charge to process or try your purchase again. If you were charged, contact us and provide your [transaction ID](./What-is-a-Transaction-ID.md) or [order number](./What-is-a-Transaction-ID.md).
-
-If you were charged and you have a [transaction ID](./What-is-a-Transaction-ID.md) or order number for your purchase, contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
-
-** **
+If you've received a call from your credit card company asking if you would like to authorize an international transaction, they may have interrupted the payment process, even if they eventually let the transaction go through. First verify that your credit card was charged; it is possible that the hold caused us not to be notified of the purchase. If not, you can wait for a charge to process or try your purchase again. If you were charged, [contact Microsoft Support](https://support.xbox.com/en-US/help/subscriptions-billing/browse) and provide your [transaction ID](./What-is-a-Transaction-ID.md).
