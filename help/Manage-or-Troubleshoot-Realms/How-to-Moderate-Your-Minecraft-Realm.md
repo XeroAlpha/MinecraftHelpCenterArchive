@@ -1,7 +1,7 @@
 ---
 title: How to Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
-updated: 2024-03-18T21:34:55Z
+updated: 2024-07-30T21:03:56Z
 categories: Manage or Troubleshoot Realms
 tags:
   - section_ 26104165751437
@@ -11,7 +11,7 @@ hash:
   h_01HS9QHJE2PG5ZYBZG7BME73QD: minecraft-realm-moderation-tips
 ---
 
-We are not able to view and assist with moderation issues on your Realm directly. However, we do have a few suggestions to help you with some of the Realm moderation options built in.
+We are not able to view and assist with moderation issues on your Realm directly. However, we do have a few suggestions to help you with managing player access and permissions to your Realm.
 
 ## How to find Realms settings
 
