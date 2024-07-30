@@ -1,59 +1,52 @@
 ---
-title: Minecraft Checkout Instructions and FAQ
+title: Buying Minecraft for a Child Account on Windows, MacOS or Linux
 date: 2022-05-09T16:09:03Z
-updated: 2023-07-10T19:15:19Z
+updated: 2024-07-26T20:55:10Z
 categories: Purchases & Billing
 tags:
   - section_12617899093133
   - section_27194152473613
-link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Minecraft-Checkout-Instructions-and-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux
+hash:
+  h_01J3RCBYS2J52R7ZHN1P85T5C7: step-1-set-up-microsoft-family-accounts
+  h_01J3RCDHA8F3F6DWG1T2BCF554: step-2-enable-the-child-account-to-redeem-codes-and-make-purchases
+  h_01J3RCE53KQCW1JWB0HB2F7Y6P: step-3-buy-the-game-for-your-childs-account
+  h_01J3RCF2QJ45JESATJXPDX8QBT: step-4-install-minecraft-on-childs-device
+  h_01J3RCG9VKZ0C1AQT5KN3S8BJN: step-5-configure-settings-for-multiplayer-games-and-social-features
 ---
 
-**Note: Minecraft has a new purchasing flow based on your device. If you're looking to buy any version of Minecraft, please check out one of these two articles:**
+If your child wants to play Minecraft on Windows, MacOS or Linux, parents can use Microsoft Family Accounts to manage purchasing and game permissions. The Microsoft account used to sign into Minecraft must have access to the Minecraft license. Here are the steps you need to follow to let your child play Minecraft while maintaining parental control of purchases and access to game features:
 
-- **[I Want to Buy Minecraft on a Windows 10/11 Device – Home](./I-Want-to-Buy-Minecraft-on-a-Windows-10-11-Device.md)**
-- **[I Want to Buy Minecraft on a Non-Windows Device – Home](./I-Want-to-Buy-Minecraft-on-a-Non-Windows-Device.md)**
+### Step 1: Set up Microsoft Family Accounts
 
-There’s a new, more inclusive way to buy Minecraft! From now on, anyone from anywhere in the world can buy Minecraft in just a few steps via [Minecraft.net](https://www.minecraft.net/en-us) using their local payment methods. 
+Parents need to have a Microsoft account and then also set up a related Microsoft account for each child. See these articles for more information:
 
-## Minecraft Checkout Process 
+- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md)
+- [Getting started with Microsoft Family Safety - Microsoft Support](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344)
 
-1\. Navigate to the Minecraft.net website and select the **Base Game** or the **Starter Collection**, then click **Buy**. 
+### Step 2: Enable the Child Account to Redeem Codes and Make Purchases
 
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/6104504856589)
+Visit the [Microsoft Family homepage](https://account.microsoft.com/family/settings) and adjust the settings for the child account under Spending Payments & Purchases. This will allow your child to use a prepaid Minecraft gift code or money you add to the account to purchase Minecraft from the Microsoft store with the child account. See these articles for more information:
 
-2\. If you have a Microsoft Account, you’ll be prompted to sign in. If you don’t have a Microsoft Account, **you must**** create one** before purchasing the game. 
+- [Managing Spending For Child Accounts in Minecraft Marketplace](../Account-Settings/Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
+- [Spending limits in Family Safety - Microsoft Support](https://prod.support.services.microsoft.com/en-us/account-billing/spending-limits-in-family-safety-f30d6801-165d-9f86-3fe7-063245c0449b)
 
-3\. After creating or logging into your account, you’ll be brought to the payments method page. Select your region from the drop-down list. 
+### Step 3: Buy the Game for your Child’s Account
 
-![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/6104570195469)
+You have several options for getting a Minecraft license for a child account:
 
-4\. Add a payment method in the section below. If you already have a payment method added to your Microsoft account, it will appear here.  
+- **Send your child the gift of Minecraft**: You can sign into the Microsoft store and [buy Minecraft as a gift](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010), which will send a gift code to the email address associated with the child account. Your child can then follow the instructions in the email to redeem the gift code in the Microsoft store and download and install Minecraft. See [How to Give Minecraft as a Gift through Email](./How-to-Gift-Minecraft-and-Other-Minecraft-Games-on-Minecraft-net.md) for more information.
+- **Have your child purchase Minecraft with approval**: As mentioned before, you can add money to the Family account and allow your child to [buy Minecraft in the Microsoft store](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010). Make sure your child signs in with the email address associated with their child account.
+- **Enable app sharing through Microsoft Family Share**: If you used the parent account to buy Minecraft on your PC, you can use Microsoft Family Share to share the Minecraft license with family group members. See [How to Download and Play Minecraft Through Family Share on PC](../Download-Install/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md) for more information.
 
-![blobid3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/6104667872013)
+### Step 4: Install Minecraft on Child’s Device
 
-5\. Review and confirm your payment information, then select **Buy**. 
+The Minecraft Launcher manages installation and updates for Minecraft. You’ll be prompted to download and install the Launcher when you complete a purchase. See [Download and Install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md) for more information about how to install Minecraft on PC, Mac, or Linux.
 
-6\. The purchase will process, and you’ll be taken to a download page. Click **Download** **for Windows **and the game will begin downloading!  
+### Step 5: Configure Settings for Multiplayer Games and Social Features
 
-![blobid4.png](https://minecrafthelp.zendesk.com/hc/article_attachments/6104665669901)
+Microsoft Family Accounts allow parents to manage settings for Minecraft that allow children to access multiplayer games on Minecraft servers and share game achievements and progress with their friends. See these articles for more information about managing Minecraft permissions for child accounts:
 
-## Frequently Asked Questions 
-
-### Can I buy Minecraft without a Microsoft account? 
-
-You cannot buy Minecraft without a Microsoft account. To buy and play the game, you’ll need to create a Microsoft account before making the purchase. 
-
-### Do I need to buy Minecraft if I already have Game Pass? 
-
-Nope! Minecraft: Bedrock Edition and Minecraft: Java Edition are both included in Game Pass, though if you choose to buy one version you will get the other for free. To access Minecraft via Game Pass, head to the Game Pass app and download the Minecraft Launcher, log in, and choose which version of Minecraft you’d like to play. 
-
-If you’d like to buy Minecraft regardless, follow the steps up above. 
-
-### Can a child Microsoft account buy Minecraft? 
-
-By default, a child Microsoft account cannot buy Minecraft. If a child Microsoft account attempts to buy Minecraft, they will not be allowed to, and an e-mail will be sent to the linked parent Microsoft account for the parent or guardian to approve. The child account will receive an email confirming the purchase upon the parent account’s authorization. 
-
-A parent Microsoft account can authorize a child account to make purchases. If that is the case, a child Microsoft account can purchase Minecraft using a connected payment method. 
-
-**Note: if a parent buys Minecraft for a child account, the purchase will show up in the parent account purchase history, not the child’s account purchase history.**
+- [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
+- [How to Change Online Chat Settings for Minecraft](../Account-Settings/How-to-Change-Online-Chat-Settings-for-Minecraft.md)
+- [How to Share Screenshots on Minecraft Realms Stories](../Manage-or-Troubleshoot-Realms/How-to-Share-Screenshots-on-Minecraft-Realms-Stories.md)
