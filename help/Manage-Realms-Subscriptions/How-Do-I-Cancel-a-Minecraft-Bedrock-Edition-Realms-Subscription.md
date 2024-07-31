@@ -1,11 +1,11 @@
 ---
-title: "How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription?"
+title: "How to Cancel a Minecraft: Bedrock Edition Realms Subscription"
 date: 2024-02-14T19:53:56Z
-updated: 2024-03-21T17:47:32Z
+updated: 2024-07-31T15:48:56Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
-link: https://help.minecraft.net/hc/en-us/articles/24124939590413-How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription
+link: https://help.minecraft.net/hc/en-us/articles/24124939590413-How-to-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription
 ---
 
 For Minecraft: Bedrock Edition, your subscriptions are managed through the stores on the platform where you first activated your subscription. Here’s how to access the platform store to manage your subscription: 
