@@ -1,10 +1,11 @@
 ---
 title: Minecraft Refund Policy
 date: 2019-07-09T18:56:41Z
-updated: 2024-07-30T17:20:04Z
-categories: General Billing
+updated: 2024-07-31T21:11:57Z
+categories: Buying Minecraft Games
 tags:
-  - section_12619005712013
+  - section_27194152473613
+  - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/360030463592-Minecraft-Refund-Policy
 hash:
   h_01J42AFK5GTYYFE887JX4Q02S1: request-a-refund-from-the-microsoft-store
@@ -22,7 +23,7 @@ Each store that sells Minecraft has its own return policy. Please visit the stor
 
 Generally, Minecraft games purchased from Minecraft.net or the Microsoft/Xbox store are eligible for a refund within 14 days of the purchase date.
 
-### REQUEST A REFUND FROM THE MICROSOFT STORE
+## REQUEST A REFUND FROM THE MICROSOFT STORE
 
 1.  Visit your [Microsoft order history](https://account.microsoft.com/billing/orders) and sign in using your Microsoft account.
 2.  Click the **Request a Return** option next to any item you wish to return. Only items eligible for return will display this option.
@@ -30,6 +31,6 @@ Generally, Minecraft games purchased from Minecraft.net or the Microsoft/Xbox st
 
 After your refund is processed, you will lose access to the returned product.
 
-### REFUNDS FOR MINECRAFT REALMS
+## REFUNDS FOR MINECRAFT REALMS
 
 [Minecraft Realms](https://www.minecraft.net/en-us/realms/) is a subscription service and is not typically eligible for full or partial refunds. If we've done something that has caused you to be unable to access your Realm, contact [Minecraft Support](https://aka.ms/Minecraft-Support), and we'll try to fix it. If we can't fix it, you may be eligible for a refund. For more information about Minecraft Realms refunds, please visit the [terms for Minecraft Realms](https://minecraft.net/realms/terms/).

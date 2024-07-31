@@ -1,11 +1,13 @@
 ---
 title: How to Give Minecraft as a Gift through Email
 date: 2023-11-10T22:18:44Z
-updated: 2024-07-31T16:51:00Z
+updated: 2024-07-31T19:46:24Z
+categories: Buying Gifts & Redeeming Codes
 tags:
   - section_12617594906509
   - section_27194152473613
   - section_28871735458573
+  - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/21230708993421-How-to-Give-Minecraft-as-a-Gift-through-Email
 hash:
   h_01J3QTY8K3THFDC84X3W7CFKJN: how-to-send-a-gift-on-minecraftnet
@@ -18,7 +20,7 @@ You can give Minecraft and other Minecraft games as a gift through Minecraft.net
 
 1.  Navigate to [Minecraft.net](https://www.minecraft.net/) and select **Shop** from the top menu.
 2.  Select the Game you’d like to purchase.
-3.  Click **Purchase as a gift** and sign in to your Microsoft Account if prompted.
+3.  Click **Purchase as a gift** and sign into your Microsoft Account if prompted.
 4.  Enter the recipient’s email address in the **Sending gift to** field and enter your name in the **Sender name** field on the Send Gift screen.
 5.  Click **Next**.
 6.  Add a payment method or select an existing one.

@@ -1,14 +1,11 @@
 ---
 title: Buying Minecraft on Gaming Consoles and Mobile Devices
 date: 2022-06-03T19:10:03Z
-updated: 2024-07-30T22:07:40Z
-categories: Purchases & Billing
+updated: 2024-07-31T19:26:54Z
+categories: Buying Minecraft Games
 tags:
-  - title_minecraft_java_edition
-  - platform_linux
-  - platform_macos
-  - platform_macOS
   - section_27194152473613
+  - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/6661712171405-Buying-Minecraft-on-Gaming-Consoles-and-Mobile-Devices
 hash:
   h_01J42TP0D09SSNZ74VJFQ0HDYQ: minecraft-for-mobile
@@ -20,7 +17,7 @@ hash:
 
 If you are on a gaming console or mobile device and want to buy Minecraft for the first time, this article can help you find the right version. For questions on which edition of Minecraft is available for your device or to view which platforms allow cross-platform play, visit our article for [Different Minecraft Editions](./Different-Minecraft-Editions.md).
 
-### MINECRAFT FOR MOBILE
+## MINECRAFT FOR MOBILE
 
 Visit the App Store for your device to purchase and download Minecraft:
 
@@ -28,18 +25,18 @@ Visit the App Store for your device to purchase and download Minecraft:
 - [Android](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&utm_source=mcnet&pli=1)
 - [Amazon](https://www.amazon.com/Mojang-Minecraft-Pocket-Edition/dp/B00992CF6W)
 
-### MINECRAFT FOR XBOX
+## MINECRAFT FOR XBOX
 
 - [Xbox Store](https://www.xbox.com/en-US/games/store/minecraft/9MVXMVT8ZKWC)
 
-### MINECRAFT FOR CHROMEBOOK
+## MINECRAFT FOR CHROMEBOOK
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)
 
-### MINECRAFT FOR NINTENDO SWITCH
+## MINECRAFT FOR NINTENDO SWITCH
 
 - [Nintendo eShop](https://www.nintendo.com/us/store/products/minecraft-106679/)
 
-### MINECRAFT FOR PLAYSTATION 4 OR 5
+## MINECRAFT FOR PLAYSTATION 4 OR 5
 
 - [PlayStation Store](https://www.playstation.com/en-us/games/minecraft/)

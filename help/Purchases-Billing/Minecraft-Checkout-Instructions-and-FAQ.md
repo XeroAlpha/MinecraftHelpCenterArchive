@@ -1,11 +1,12 @@
 ---
 title: Buying Minecraft for a Child Account on Windows, MacOS or Linux
 date: 2022-05-09T16:09:03Z
-updated: 2024-07-26T20:55:10Z
-categories: Purchases & Billing
+updated: 2024-07-31T19:29:19Z
+categories: Buying Minecraft Games
 tags:
   - section_12617899093133
   - section_27194152473613
+  - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux
 hash:
   h_01J3RCBYS2J52R7ZHN1P85T5C7: step-1-set-up-microsoft-family-accounts
@@ -17,21 +18,21 @@ hash:
 
 If your child wants to play Minecraft on Windows, MacOS or Linux, parents can use Microsoft Family Accounts to manage purchasing and game permissions. The Microsoft account used to sign into Minecraft must have access to the Minecraft license. Here are the steps you need to follow to let your child play Minecraft while maintaining parental control of purchases and access to game features:
 
-### Step 1: Set up Microsoft Family Accounts
+## Step 1: Set up Microsoft Family Accounts
 
 Parents need to have a Microsoft account and then also set up a related Microsoft account for each child. See these articles for more information:
 
 - [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md)
 - [Getting started with Microsoft Family Safety - Microsoft Support](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344)
 
-### Step 2: Enable the Child Account to Redeem Codes and Make Purchases
+## Step 2: Enable the Child Account to Redeem Codes and Make Purchases
 
 Visit the [Microsoft Family homepage](https://account.microsoft.com/family/settings) and adjust the settings for the child account under Spending Payments & Purchases. This will allow your child to use a prepaid Minecraft gift code or money you add to the account to purchase Minecraft from the Microsoft store with the child account. See these articles for more information:
 
 - [Managing Spending For Child Accounts in Minecraft Marketplace](../Account-Settings/Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
 - [Spending limits in Family Safety - Microsoft Support](https://prod.support.services.microsoft.com/en-us/account-billing/spending-limits-in-family-safety-f30d6801-165d-9f86-3fe7-063245c0449b)
 
-### Step 3: Buy the Game for your Child’s Account
+## Step 3: Buy the Game for your Child’s Account
 
 You have several options for getting a Minecraft license for a child account:
 
@@ -39,11 +40,11 @@ You have several options for getting a Minecraft license for a child account:
 - **Have your child purchase Minecraft with approval**: As mentioned before, you can add money to the Family account and allow your child to [buy Minecraft in the Microsoft store](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010). Make sure your child signs in with the email address associated with their child account.
 - **Enable app sharing through Microsoft Family Share**: If you used the parent account to buy Minecraft on your PC, you can use Microsoft Family Share to share the Minecraft license with family group members. See [How to Download and Play Minecraft Through Family Share on PC](../Download-Install/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md) for more information.
 
-### Step 4: Install Minecraft on Child’s Device
+## Step 4: Install Minecraft on Child’s Device
 
 The Minecraft Launcher manages installation and updates for Minecraft. You’ll be prompted to download and install the Launcher when you complete a purchase. See [Download and Install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md) for more information about how to install Minecraft on PC, Mac, or Linux.
 
-### Step 5: Configure Settings for Multiplayer Games and Social Features
+## Step 5: Configure Settings for Multiplayer Games and Social Features
 
 Microsoft Family Accounts allow parents to manage settings for Minecraft that allow children to access multiplayer games on Minecraft servers and share game achievements and progress with their friends. See these articles for more information about managing Minecraft permissions for child accounts:
 

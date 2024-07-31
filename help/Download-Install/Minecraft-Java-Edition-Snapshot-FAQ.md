@@ -1,55 +1,28 @@
 ---
-title: "Minecraft: Java Edition Snapshot FAQ"
+title: "How to Install Minecraft: Java Edition Snapshots"
 date: 2023-10-13T17:17:24Z
+updated: 2024-07-31T18:57:15Z
 categories: Download & Install
 tags:
   - section_27166490706957
-link: https://help.minecraft.net/hc/en-us/articles/20364354829709-Minecraft-Java-Edition-Snapshot-FAQ
+link: https://help.minecraft.net/hc/en-us/articles/20364354829709-How-to-Install-Minecraft-Java-Edition-Snapshots
 hash:
-  h_01HCMZW5MT4FZHW6H979BP5GGC: in-this-article
-  h_01HCMZVXGNV04K5YXNW6QY7WS6: what-is-a-minecraft-java-edition-snapshot
-  h_01HCMZVXGN0QWH2603XTC5GH55: are-java-edition-snapshots-free
-  h_01HCMZVXGN3WQY0GJA17451MJ2: how-do-i-install-a-java-edition-snapshot
-  h_01HCMZVXGN69ATBR7X4QVXNAN8: what-platforms-offer-a-java-edition-snapshot
-  h_01HCMZVXGNQXF3C5YR62DT83Y3: how-do-i-report-bugs-in-java-edition-snapshot-releases
+  h_01J452CWERM4MSKWGWCK3ZHP7W: installing-minecraft-java-edition-snapshots
 ---
 
-This page is dedicated to the Minecraft: Java Edition Snapshot program. For Minecraft: Bedrock Edition’s Preview, check out the [Minecraft Preview FAQ](./How-to-Install-Minecraft-Preview.md).
+Minecraft: Java Edition Snapshots allow you to try out in-development versions of Minecraft before they are fully released. They contain various features that are in the testing phase, though they may not contain everything planned for the next update.
 
-# In This Article:
-
-- [What is a Minecraft: Java Edition Snapshot?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGNV04K5YXNW6QY7WS6)
-- [Are Java Edition Snapshots free?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGN0QWH2603XTC5GH55)
-- [How do I install a Java Edition Snapshot?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGN3WQY0GJA17451MJ2)
-- [What platforms offer a Java Edition Snapshot?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGN69ATBR7X4QVXNAN8)
-- [How do I report bugs in Java Edition Snapshot releases?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HCMZVXGNQXF3C5YR62DT83Y3)
-
-## What is a Minecraft: Java Edition Snapshot?
-
-Snapshots are in-development versions of Minecraft: Java Edition that players can try out before its release. They contain various features that are in testing prior to a potential future release, although these features are not finished and do not contain the entirety of the next update.
-
-## Are Java Edition Snapshots free?
-
-As long as you can play Minecraft: Java Edition, you can give the latest Snapshot a try.
-
-## How do I install a Java Edition Snapshot?
-
-You can install a Java Edition Snapshot directly from the Minecraft Launcher.
-
-1.  Select Minecraft: Java Edition and then go to the Installations tab.
-2.  Choose the versions you want to see in your directory as well as which version you want to play.
-3.  If you select ‘New installation’, you can also choose to download a previous Snapshot for the most recent update.
-
-![minecraft-java-snapshot-install.png](https://minecrafthelp.zendesk.com/hc/article_attachments/20364323482381)
-
-For the latest on Snapshot news, go to the ‘Patch Notes’ tab in your launcher and click the Snapshots box.
-
-## What platforms offer a Java Edition Snapshot?
-
-Since Snapshots are dedicated to the future of Minecraft: Java Edition, these are only available on PC, Mac, and Linux. For a look at new features in Bedrock Edition, you will want to download Minecraft Preview.
-
-## How do I report bugs in Java Edition Snapshot releases?
-
-It is important to remember that Minecraft Snapshot releases are not fully finished, and you will probably notice bugs or glitches when playing these versions. With that in mind, you can let us know about issues you find [in our bug tracker](https://minecraft.net/en-us/bugs/pc/).
+It is important to remember that Minecraft Snapshot releases are not fully finished, and you will probably notice bugs or glitches when playing these versions. With that in mind, you can let us know about issues you find in [our bug tracker](https://minecraft.net/en-us/bugs/pc/).
 
 To leave other feedback that is not related to bugs, please visit the [Minecraft Feedback page](https://feedback.minecraft.net/hc/en-us).
+
+## Installing Minecraft: Java Edition Snapshots
+
+1.  Open the Minecraft Launcher.
+2.  Select the **Minecraft: Java Edition** section.
+3.  Go to the **Installations** tab.
+4.  Select **Latest Snapshot** if you want to play the most current one.
+5.  For an older Snapshot, select **New Installation**.
+6.  Name the world and select the Snapshot you want under Version.
+
+For the latest on Snapshot news, go to the **Patch Notes** tab in the Minecraft Launcher and click the **Snapshots** box.

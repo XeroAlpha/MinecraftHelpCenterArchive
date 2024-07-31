@@ -1,14 +1,15 @@
 ---
 title: Different Minecraft Editions
 date: 2019-10-13T21:41:49Z
-updated: 2024-05-22T15:00:30Z
-categories: Purchases & Billing
+updated: 2024-07-31T21:24:17Z
+categories: Buying Minecraft Games
 tags:
   - section_27194152473613
+  - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions
 ---
 
-Most articles and support on this website cover Minecraft: Java Edition and Minecraft: Bedrock Edition, which is available on mobile devices, Windows, Chromebook, PlayStation, Nintendo Switch, and Xbox. However, different versions of the game are available on many platforms. 
+Refer to the chart below to find a version of Minecraft compatible with your gaming platform. Minecraft is available on Apple devices, Linux, mobile devices, Windows, Chromebook, PlayStation, Nintendo Switch, and Xbox.
 
 <table style="height: 1728px; width: 598px;" data-border="1px" data-cellpadding="1px" data-tablestyle="MsoNormalTable" data-tablelook="1184" aria-rowcount="17">
 <colgroup>
