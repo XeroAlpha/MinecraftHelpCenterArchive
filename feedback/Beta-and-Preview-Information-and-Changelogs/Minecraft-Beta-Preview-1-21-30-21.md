@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.30.21
 date: 2024-08-01T12:11:38Z
-updated: 2024-08-01T16:04:53Z
+updated: 2024-08-01T16:50:36Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/28896769176845-Minecraft-Beta-Preview-1-21-30-21
 hash:
@@ -240,7 +240,7 @@ Here’s what’s new in this week’s Preview and Beta:
 
 - Added new variations to the hallways, including "Encounters": Short challenges leading to a larger chamber.
 - Beds in intersections now have their colors randomized. ([MCPE-180424](https://bugs.mojang.com/browse/MCPE-180424))  
-- Replaced the empty chests at the entrance of chamber with a Hopper and Barrel to better show the players that these are meant for disposal and inventory managment!
+- Replaced the empty chests at the entrance of chamber with a Hopper and Barrel to better show the players that these are meant for disposal and inventory management!
 - Fixed multiple trial chamber templates have missing or incorrect block ([MCPE-176952](https://bugs.mojang.com/browse/MCPE-176952))
 - Fixed inaccessible traps can generate behind walls in Trial Chamber ([MCPE-180912](https://bugs.mojang.com/browse/MCPE-180912))
 - Some slime trial spawners in trial chambers won't spawn slimes without player intervention

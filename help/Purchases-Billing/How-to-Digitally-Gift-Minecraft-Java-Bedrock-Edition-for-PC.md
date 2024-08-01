@@ -1,47 +1,41 @@
 ---
-title: "How to Digitally Gift Minecraft: Java & Bedrock Edition for PC"
+title: How to Give Minecraft as a Gift through Email
 date: 2022-08-25T15:10:26Z
-updated: 2024-05-31T20:39:47Z
-categories: Purchases & Billing
+updated: 2024-08-01T16:57:21Z
+categories: Buying Minecraft Games
 tags:
-  - section_12617899093133
-  - section_12618006481549
-  - section_27194152473613
-link: https://help.minecraft.net/hc/en-us/articles/8684413912461-How-to-Digitally-Gift-Minecraft-Java-Bedrock-Edition-for-PC
+  - section_28871651550221
+link: https://help.minecraft.net/hc/en-us/articles/8684413912461-How-to-Give-Minecraft-as-a-Gift-through-Email
 hash:
-  h_01HZ8605QWS0570FQ2J3EXE1TM: in-this-article
-  h_01GBARNZSRA2MTED0KY890RYV2: gifting-minecraft-java--bedrock-edition-for-pc
-  h_01GBARP5DKJ5R08656JV15XW3K: gifting-through-the-windows-store
-  h_01GBARP9V7WM1HMF45YV15AVDR: gifting-through-the-amazon-store
+  h_01J47DNVEXAF6RCFVRFZ6QGBR9: how-to-send-a-gift-on-minecraftnet
+  h_01J47DP8MYPKK17GTZRMD95RQB: how-to-send-a-gift-on-the-microsoft-store
 ---
 
-If you’d like to digitally gift Minecraft: Java & Bedrock Edition for PC, this guide is here to help.
+You can give Minecraft and other Minecraft games as a gift through Minecraft.net. This article details everything you need to know about how to give Minecraft as a gift.
 
-# In This Article:
+ 
 
-- [Gifting Minecraft: Java & Bedrock Edition for PC ](#gifting-minecraft-java--bedrock-edition-for-pc)
-  - [Gifting Through the Windows Store ](#gifting-through-the-windows-store)
-  - [Gifting Through the Amazon Store ](#gifting-through-the-amazon-store)
+### How to Send a Gift on Minecraft.net
 
-## Gifting Minecraft: Java & Bedrock Edition for PC 
+1.  Navigate to [Minecraft.net](https://www.minecraft.net/) and select **Shop** from the top menu.
+2.  Select the Game you’d like to purchase.
+3.  Click **Purchase as a gift** and sign into your Microsoft Account if prompted.
+4.  Enter the recipient’s email address in the **Sending gift to** field and enter your name in the **Sender name** field on the Send Gift screen.
+5.  Click **Next**.
+6.  Add a payment method or select an existing one.
+7.  Check all the details on the confirmation screen and select **Buy as Gift** to complete the purchase.
 
-There are currently two ways to digitally gift Minecraft: Java & Bedrock Edition for PC.  
+### How to Send a Gift on the Microsoft Store
 
-### Gifting Through the Windows Store 
+1.  Navigate to the Buy [Minecraft: Java & Bedrock Edition for PC](https://www.xbox.com/en-us/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj) page.
+2.  Click **Sign in** on the upper right-hand corner of the page and sign in with the Microsoft account you want to use to buy the gift if you haven’t already.
+3.  Choose the game edition you want to buy as a gift.
+4.  Click the **Gift** icon button.
+5.  Enter the email address of the person you want to receive the gift in the **Sending gift to** field.
+6.  Enter your **Sender name** and click **Next**.
+7.  Add a payment method or select an existing one.
+8.  Click the **Buy As Gift** button to complete your purchase.
 
-1.  Navigate to the [Minecraft: Java & Bedrock Edition for PC Store Page](https://www.xbox.com/en-us/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj).
-2.  Select the “…” option and click ‘Buy as Gift.’
-    1.  If you’re not signed in, you’ll be prompted to log into the Microsoft Account you’d like to purchase the gift with.
-3.  Enter the email address of the account in which you’d like to send the gift.
-4.  Enter your sender name (the name the recipient will see upon receiving the gift.)
-5.  Select your preferred payment method and select ‘Buy as Gift.’
-6.  If you’re having issues buying a digital gift, visit the [Xbox.com support page for digital gift giving](https://support.xbox.com/en-US/help/subscriptions-billing/buy-games-apps/gifting-digital-xbox-game-help) to try and solve the problem. 
+You can track your order at [account.microsoft.com/billing/orders](https://account.microsoft.com/billing/orders).
 
-### Gifting Through the Amazon Store
-
-1.  Navigate to Amazon.com and search ‘Minecraft gift card’ or a similar term.
-2.  Click on the official ‘[Minecraft Java & Bedrock Edition: Standard - Windows 10 \[Digital Code\]](https://www.amazon.com/Minecraft-Java-Bedrock-Standard-Windows/dp/B09ZY21PM4/ref=sr_1_4?keywords=minecraft+gift+card&qid=1660678375&sr=8-4)’ product listing by Xbox.
-3.  Add the product to your cart and click ‘Proceed to check out.’
-4.  Once you’ve finished the checkout process, you’ll receive a digital gift code for Minecraft: Java & Bedrock Edition. Send that code to the person you wish.
-5.  Once they’ve received the code. Have them navigate to [redeem.microsoft.com](https://account.microsoft.com/billing/redeem?refd=login.microsoftonline.com).
-6.  From there, have them log into their Microsoft Account. They can then paste in the code, click ‘Redeem’ and will have the game in their library.
+Learn more on [How Redeem Minecraft as a Gift](./How-to-Redeem-Minecraft-as-a-Gift.md).
