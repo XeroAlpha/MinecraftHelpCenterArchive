@@ -1,7 +1,7 @@
 ---
 title: "How to View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition"
 date: 2024-02-16T20:00:04Z
-updated: 2024-07-18T17:08:54Z
+updated: 2024-08-02T18:35:01Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
@@ -15,14 +15,9 @@ link: https://help.minecraft.net/hc/en-us/articles/24186425321741-How-to-View-a-
 2.  Select **Subscriptions** on the left side menu.
 
 3.  Find the Realm and you will see how many days are left until your next payment is due.
-    - If your Realm is expired, see [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription?](./How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md)
-    - To cancel, see [How Do I Cancel a Minecraft: Bedrock Edition Realms Subscription?](./How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md)
 
-**How to update your payment method for Minecraft: Bedrock Edition Realms**
+If your Realm is expired, see [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription?](./How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md)
 
-Your payment method is managed by the store where you bought your Realms subscription. Here’s how to update your current payment method:
+To cancel, see [How to Cancel a Minecraft Realms Subscription](./How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md)
 
-1.  Open Minecraft on the device you bought your Realm subscription.
-2.  Select **Settings** on the title screen.
-3.  Scroll down and select **Subscriptions**.
-4.  Find the Realm you want to update and select **Manage.**
+For updating your payment method, see [How to Update Your Payment Method for Minecraft Realms](./How-to-Update-Your-Payment-Method-for-Minecraft-Realms.md).

@@ -1,24 +1,34 @@
 ---
 title: "How to Join a Friend's Minecraft: Java Edition Realm"
 date: 2019-06-27T01:08:30Z
-updated: 2024-07-31T19:23:23Z
+updated: 2024-08-02T17:32:17Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/360029644312-How-to-Join-a-Friend-s-Minecraft-Java-Edition-Realm
 hash:
-  h_01J453WBJW953BZ8JX49NQQJ0Q: how-to-join-a-realm-in-java
+  h_01J4A29P1MG05AEEWN4PN0N8ZF: how-to-accept-a-realm-invitation-in-minecraft-java-edition
+  h_01J4A2A0XBQBYQWM7V2XE16BPE: how-to-join-a-realm-in-minecraft-java-edition
 ---
 
-From the Minecraft Realms menu in Minecraft, you can view a list of Realms that are available to you. Each Realm that you join first requires an invitation, indicated by the flashing mail icon. After you accept it, that player's Realm will be available to you. For the best experience with Realms, we recommend updating to the latest version of Minecraft and not using any mods.
+The Minecraft Realms menu in Java Edition lets you view your Realm invitations and the Realms you can join. If you don’t own a Realm, you’ll need to get an invitation to join from the Realm owner. For the best experience with Realms, we recommend updating to the latest version of Minecraft and not using any mods.
 
-## How to join a Realm in Java
+## How to accept a Realm invitation in Minecraft: Java Edition
 
 After you receive an invite to a Java Realm, you can accept it by doing the following:
 
 1.  Start Minecraft: Java Edition.
-2.  Select **Minecraft Realms**.
-3.  Select the **Pending Invites** button (the letter icon).
+2.  Click **Minecraft Realms**.
+3.  Select the **Letter** icon at the top of the screen.
 4.  Accept the invite.
+
+## How to join a Realm in Minecraft Java Edition
+
+After you accept an invitation to join a Realm or start your own Realm, here’s how to enter and play:
+
+- Start Minecraft: Java Edition.
+- Click **Minecraft Realms**.
+- Select an available Realm from the list.
+- Click the **Play** button to enter the Realm.
 
 See [How to Invite Friends to Your Minecraft: Java Edition Realm](./How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md) to learn how to get your friends in your Realm.
