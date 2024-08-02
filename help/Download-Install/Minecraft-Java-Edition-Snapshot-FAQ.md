@@ -1,7 +1,7 @@
 ---
 title: "How to Install Minecraft: Java Edition Snapshots"
 date: 2023-10-13T17:17:24Z
-updated: 2024-07-31T18:57:15Z
+updated: 2024-08-02T19:59:10Z
 categories: Download & Install
 tags:
   - section_27166490706957
@@ -24,5 +24,7 @@ To leave other feedback that is not related to bugs, please visit the [Minecraft
 4.  Select **Latest Snapshot** if you want to play the most current one.
 5.  For an older Snapshot, select **New Installation**.
 6.  Name the world and select the Snapshot you want under Version.
+
+With the Snapshot installation selected, start Minecraft and create a world to use that build. You can also use this on a Realm.
 
 For the latest on Snapshot news, go to the **Patch Notes** tab in the Minecraft Launcher and click the **Snapshots** box.
