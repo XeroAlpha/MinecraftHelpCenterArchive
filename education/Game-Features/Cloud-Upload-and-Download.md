@@ -1,7 +1,7 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2024-07-23T22:09:47Z
+updated: 2024-08-01T23:18:39Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
@@ -41,6 +41,7 @@ At this time, cloud storage is available for Windows, Android, and Chromebook. M
 
 ## Requirements
 
+- Please note Onedrive access requires additional Microsoft licensing. Please check with your IT Administrator to confirm if you have access to this feature.
 - User accounts must have an allowed connection to OneDrive in place.
   - To check, go to [Sign in - Microsoft OneDrive (live.com) and sign in with your school account](https://onedrive.live.com/login/).
   - Once logged in, Click 'Office apps & devices' to confirm if OneDrive is enabled
