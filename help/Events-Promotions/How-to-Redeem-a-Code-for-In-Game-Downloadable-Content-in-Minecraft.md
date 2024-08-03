@@ -1,18 +1,20 @@
 ---
 title: How to Redeem a Code for In-Game Downloadable Content in Minecraft
 date: 2021-07-08T17:09:20Z
-updated: 2024-05-09T19:21:58Z
-categories: Events & Promotions
+updated: 2024-08-02T22:02:35Z
+categories: Redeeming Gifts & Codes
 tags:
+  - trending
   - section_26562723671949
+  - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/4404604459405-How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft
 hash:
-  h_01HXFCMSKR39MRDABNV61W456B: where-to-redeem-codes-for-minecraft-dlc
+  h_01HXFCMSKR39MRDABNV61W456B: how-to-redeem-codes-for-minecraft-downloadable-content
 ---
 
 Have you received a code giving you access to special Minecraft: Bedrock Edition content? Here is how to easily add it to your account!
 
-## Where to redeem codes for Minecraft DLC
+## How to redeem codes for Minecraft downloadable content
 
 1.  Visit the [Minecraft code redemption page](https://www.minecraft.net/en-us/redeem).
 2.  Sign in using the account you use to play Minecraft games at the top of the page before you redeem the code.

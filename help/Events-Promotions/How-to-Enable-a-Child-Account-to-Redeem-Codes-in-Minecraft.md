@@ -1,9 +1,12 @@
 ---
 title: How to Enable a Child Account to Redeem Codes in Minecraft
 date: 2024-05-09T19:16:03Z
-categories: Events & Promotions
+updated: 2024-08-02T22:09:11Z
+categories: Redeeming Gifts & Codes
 tags:
   - section_26562723671949
+  - section_27194076935437
+  - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/26602043483405-How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft
 hash:
   h_01HXFC3WAT2WA4H7R66W4XF6FS: change-content-restrictions-on-xbox-family-settings-app
@@ -15,11 +18,12 @@ Microsoft Child Accounts for children under 9 years of age are not allowed to en
 ## Change Content Restrictions on Xbox Family Settings app
 
 1.  On your phone, open the Xbox Family Settings app and sign into the family organizer’s account.
-    - You can get it on the [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.xboxfamily) or [Apple App Store](https://apps.apple.com/us/app/xbox-family-settings/id1507406707).
 2.  Click on your Child’s account.
 3.  Click on **Content Restrictions**.
 4.  Click **Allow content suitable for**.
 5.  Select at least **Age 10**.
+
+You can get the Xbox Family Settings app at the [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.xboxfamily) or [Apple App Store](https://apps.apple.com/us/app/xbox-family-settings/id1507406707).
 
 ## Change Age Rating on a browser
 

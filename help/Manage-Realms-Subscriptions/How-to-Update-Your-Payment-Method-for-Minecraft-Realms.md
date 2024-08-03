@@ -1,9 +1,11 @@
 ---
 title: How to Update Your Payment Method for Minecraft Realms
 date: 2024-08-02T18:05:35Z
+updated: 2024-08-02T22:22:46Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
+  - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/28941339414541-How-to-Update-Your-Payment-Method-for-Minecraft-Realms
 hash:
   h_01J4A4022R49S90HXRAHN3SETN: how-to-update-the-payment-method-for-a-minecraft-bedrock-edition-realm

@@ -1,10 +1,11 @@
 ---
 title: Canceling a Minecraft Marketplace Pass Subscription
 date: 2024-02-20T17:54:26Z
-updated: 2024-07-18T17:06:49Z
+updated: 2024-08-02T22:21:21Z
 categories: Marketplace Pass
 tags:
   - section_24090952098445
+  - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/24292373076749-Canceling-a-Minecraft-Marketplace-Pass-Subscription
 hash:
   h_01HQ3SN472RZNP54GYKM06Q8WF: android-and-chromebook
