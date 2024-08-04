@@ -17,7 +17,7 @@ Here are some steps to take:
 - [Change the password](https://www.microsoft.com/account) that’s associated with your account. 
 - Sign out of all related Minecraft games, apps and pages, such as games, Minecraft.net, and the launcher. Sign back in with your new password.
 
-If you do not receive password reset emails within a few minutes, cannot sign in, or you are sure that your account was compromised, locate your [transaction ID or gift code ](../General-Billing/What-is-a-Transaction-ID.md)demonstrating account ownership and contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
+If you do not receive password reset emails within a few minutes, cannot sign in, or you are sure that your account was compromised, locate your [transaction ID or gift code ](../Buying-Minecraft-Games/Locating-Your-Minecraft-Transaction-ID-for-Account-Support.md)demonstrating account ownership and contact [Minecraft Support](https://aka.ms/Minecraft-Support). 
 
 ### REPORTING STOLEN ACCOUNTS
 

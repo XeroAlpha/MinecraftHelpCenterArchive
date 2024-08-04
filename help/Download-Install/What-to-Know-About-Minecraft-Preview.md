@@ -15,7 +15,7 @@ If you are interested in trying out new Minecraft features before they are publi
 ## Essential Information Before Participating in Minecraft Preview
 
 - Bedrock Editions of the game have a version called Minecraft Preview for testing features ahead of time. On Android, this version is called Beta.
-- Preview is exclusive to Bedrock. To learn about testing pre-release Java features, see [How to Install Minecraft: Java Edition Snapshots](./Minecraft-Java-Edition-Snapshot-FAQ.md).
+- Preview is exclusive to Bedrock. To learn about testing pre-release Java features, see [How to Install Minecraft: Java Edition Snapshots](https://help.minecraft.net/hc/en-us/articles/20364354829709).
 - You will only have access to Preview Realms if you have an active Realms subscription. Normal Minecraft Realms are not available when playing in Minecraft Preview.
 - To play with friends in Preview, everyone must be enrolled in Preview.
 - Preview builds will likely be unstable and are not representative of the final version quality. Please back up your Worlds before joining Minecraft Preview. 

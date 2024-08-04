@@ -49,7 +49,7 @@ Here is a list of things you can manage here:
 
 For more on adding Resource and Behavior Packs to your Realm, please refer to [What are Minecraft Add-Ons?](../Minecraft-Marketplace/What-are-Minecraft-Add-Ons.md)
 
-For backups, see [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md) or [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
+For backups, see [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md) or [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
 
 ## How to troubleshoot Realm world errors
 

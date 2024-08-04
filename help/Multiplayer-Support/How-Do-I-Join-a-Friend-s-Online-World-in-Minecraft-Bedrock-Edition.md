@@ -30,4 +30,4 @@ If you and your friend are playing on the same console, you can add each other t
 
 Note: if you are playing Minecraft multiplayer on a console, you must be subscribed to either Xbox Game Pass Core, Nintendo Switch Online, or PlayStation Plus to be able to play with friends.
 
-To join a Realm, see [How Do I Join Someone's Minecraft: Bedrock Edition Realm?](../Create-or-Join-Realms/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md)
+To join a Realm, see [How Do I Join Someone's Minecraft: Bedrock Edition Realm?](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)

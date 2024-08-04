@@ -23,7 +23,7 @@ hash:
 
 For this week's Snapshot, we've made improvements to the Decorated Pots!
 
-Additionally, Realms is now available in Snapshots moving forward! Any player who has an active Realms subscription is eligible to create a free Snapshot Realm. This Snapshot Realm will be separate from your regular Realm to prevent any issues from impacting your regular Realm. For more information on how Snapshot Realms work, please see Realms in [Minecraft: Java Edition Snapshot FAQ](../../help/Create-or-Join-Realms/Realms-in-Minecraft-Java-Edition-Snapshot-FAQ.md).
+Additionally, Realms is now available in Snapshots moving forward! Any player who has an active Realms subscription is eligible to create a free Snapshot Realm. This Snapshot Realm will be separate from your regular Realm to prevent any issues from impacting your regular Realm. For more information on how Snapshot Realms work, please see Realms in [Minecraft: Java Edition Snapshot FAQ](../../help/Download-Install/How-to-Install-Minecraft-Java-Edition-Snapshots.md).
 
 ## NEW FEATURES
 

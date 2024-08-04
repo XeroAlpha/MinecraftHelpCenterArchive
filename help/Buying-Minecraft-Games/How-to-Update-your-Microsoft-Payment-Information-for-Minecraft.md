@@ -4,7 +4,7 @@ date: 2021-09-14T20:56:10Z
 updated: 2024-07-31T19:37:03Z
 categories: Buying Minecraft Games
 tags:
-  - section_27194152473613
+  - section_27194076935437
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/4409234093581-How-to-Update-your-Microsoft-Payment-Information-for-Minecraft
 hash:

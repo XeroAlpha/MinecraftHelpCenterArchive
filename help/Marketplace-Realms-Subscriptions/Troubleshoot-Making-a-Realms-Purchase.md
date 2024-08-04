@@ -4,9 +4,10 @@ date: 2024-07-29T19:54:41Z
 updated: 2024-07-31T21:35:49Z
 categories: Marketplace & Realms Subscriptions
 tags:
+  - subject_creating_a_realm
+  - category_realms_support
   - section_26104084764557
   - section_26104341937421
-  - section_27194152473613
   - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/28804353409805-Troubleshoot-Making-a-Realms-Purchase
 ---

@@ -10,7 +10,7 @@ hash:
   h_01FAKNQH0H5BYR4TF1GA2VRAV3: use-a-microsoft-account-to-purchase-minecraft-java-edition
 ---
 
-Minecraft: Java Edition is now part of the Minecraft: Java & Bedrock Edition for PC bundle. For more information on purchasing Minecraft, please see [Buying Minecraft for Windows, MacOS or Linux](./I-Want-to-Buy-Minecraft-on-a-Windows-10-11-Device.md).
+Minecraft: Java Edition is now part of the Minecraft: Java & Bedrock Edition for PC bundle. For more information on purchasing Minecraft, please see [Buying Minecraft for Windows, MacOS or Linux](./Buying-Minecraft-for-Windows-MacOS-or-Linux.md).
 
 ## Use a Microsoft Account to Purchase Minecraft: Java Edition 
 

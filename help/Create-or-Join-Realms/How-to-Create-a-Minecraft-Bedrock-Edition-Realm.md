@@ -5,6 +5,7 @@ updated: 2024-07-31T18:48:43Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557
+  - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/20687129531149-How-to-Create-a-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J451QBFJ9FN7Y68X06KB6Q0W: starting-a-realm-on-minecraft-bedrock-edition

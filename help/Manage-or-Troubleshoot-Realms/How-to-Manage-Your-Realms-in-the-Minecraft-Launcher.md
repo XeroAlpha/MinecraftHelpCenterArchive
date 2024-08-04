@@ -28,5 +28,5 @@ When in this section, you can do the following:
 
 To cancel your Realm or manage it in other ways, click **Manage Realms** to be taken to the Minecraft.net site where you can sign in. Visit the below links for more info:
 
-- [How to Cancel a Minecraft Realm Subscription](../Manage-Realms-Subscriptions/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)
+- [How to Cancel a Minecraft Realm Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md)
 - [How to Edit Your Realms on Minecraft.net](./How-To-Edit-Your-Realms-on-Minecraft-net.md)

@@ -5,6 +5,7 @@ updated: 2024-02-14T19:54:04Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
+  - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/4410001194765-How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription
 ---
 

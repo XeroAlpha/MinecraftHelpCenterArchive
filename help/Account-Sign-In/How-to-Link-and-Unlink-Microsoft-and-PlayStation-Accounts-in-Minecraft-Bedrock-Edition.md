@@ -4,6 +4,7 @@ date: 2019-12-10T03:08:37Z
 updated: 2024-07-09T20:14:37Z
 categories: Account Sign-In
 tags:
+  - trending
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/360037725571-How-to-Link-and-Unlink-Microsoft-and-PlayStation-Accounts-in-Minecraft-Bedrock-Edition
 hash:

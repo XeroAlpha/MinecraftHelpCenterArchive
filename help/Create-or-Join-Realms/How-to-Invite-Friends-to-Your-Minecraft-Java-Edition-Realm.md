@@ -18,4 +18,4 @@ To get the most out of your Realm in Minecraft: Java Edition, you will want to b
 6.  Input the player's Profile Name.
 7.  Select **Invite**.
 
-To accept the invite, see [How Do I Join Someone's Minecraft: Java Edition Realm?](./How-Do-I-Join-Someone-s-Minecraft-Java-Edition-Realm.md)
+To accept the invite, see [How Do I Join Someone's Minecraft: Java Edition Realm?](./How-to-Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)

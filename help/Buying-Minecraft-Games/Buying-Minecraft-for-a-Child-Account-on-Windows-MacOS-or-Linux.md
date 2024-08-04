@@ -4,8 +4,7 @@ date: 2022-05-09T16:09:03Z
 updated: 2024-07-31T19:29:19Z
 categories: Buying Minecraft Games
 tags:
-  - section_12617899093133
-  - section_27194152473613
+  - section_27194076935437
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux
 hash:
@@ -36,7 +35,7 @@ Visit the [Microsoft Family homepage](https://account.microsoft.com/family/setti
 
 You have several options for getting a Minecraft license for a child account:
 
-- **Send your child the gift of Minecraft**: You can sign into the Microsoft store and [buy Minecraft as a gift](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010), which will send a gift code to the email address associated with the child account. Your child can then follow the instructions in the email to redeem the gift code in the Microsoft store and download and install Minecraft. See [How to Give Minecraft as a Gift through Email](./How-to-Gift-Minecraft-and-Other-Minecraft-Games-on-Minecraft-net.md) for more information.
+- **Send your child the gift of Minecraft**: You can sign into the Microsoft store and [buy Minecraft as a gift](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010), which will send a gift code to the email address associated with the child account. Your child can then follow the instructions in the email to redeem the gift code in the Microsoft store and download and install Minecraft. See [How to Give Minecraft as a Gift through Email](https://help.minecraft.net/hc/en-us/articles/21230708993421) for more information.
 - **Have your child purchase Minecraft with approval**: As mentioned before, you can add money to the Family account and allow your child to [buy Minecraft in the Microsoft store](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010). Make sure your child signs in with the email address associated with their child account.
 - **Enable app sharing through Microsoft Family Share**: If you used the parent account to buy Minecraft on your PC, you can use Microsoft Family Share to share the Minecraft license with family group members. See [How to Download and Play Minecraft Through Family Share on PC](../Download-Install/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md) for more information.
 

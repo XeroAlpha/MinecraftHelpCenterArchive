@@ -25,14 +25,14 @@ If you want to learn more about Minecraft Realms, how to join a game, or manage 
 ## Joining a Realm
 
 - [How to Invite Friends to Your Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md)
-- [How to Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md)
+- [How to Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
 - [How To Invite Friends to Your Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)
-- [How to Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-Do-I-Join-Someone-s-Minecraft-Java-Edition-Realm.md)
+- [How to Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
 
 ## Realm World Management
 
 - [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
-- [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Minecraft-Bedrock-Edition-Realms-Backup-FAQ.md)
+- [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
 - [How to Manage Your Minecraft: Bedrock Edition Realm](./How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
 - [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md)
 
@@ -40,7 +40,7 @@ If you want to learn more about Minecraft Realms, how to join a game, or manage 
 
 - [How To View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition.md)
 - [How To View a Realms Subscription Renewal Date for Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition.md)
-- [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-Do-I-Cancel-a-Minecraft-Java-Edition-Realm-Subscription.md)
+- [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md)
 - [How Do I Renew an Expired Minecraft: Java Edition Realm Subscription?](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md)
 - [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md)
 

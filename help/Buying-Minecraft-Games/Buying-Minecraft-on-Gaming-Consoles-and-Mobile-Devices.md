@@ -4,7 +4,6 @@ date: 2022-06-03T19:10:03Z
 updated: 2024-07-31T19:26:54Z
 categories: Buying Minecraft Games
 tags:
-  - section_27194152473613
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/6661712171405-Buying-Minecraft-on-Gaming-Consoles-and-Mobile-Devices
 hash:

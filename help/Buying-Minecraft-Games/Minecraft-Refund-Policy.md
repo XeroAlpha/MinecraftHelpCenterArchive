@@ -4,7 +4,12 @@ date: 2019-07-09T18:56:41Z
 updated: 2024-07-31T21:11:57Z
 categories: Buying Minecraft Games
 tags:
-  - section_27194152473613
+  - category_refund_support
+  - subject_game_refund
+  - section_24069904400141
+  - section_26104341937421
+  - section_26726610890253
+  - section_27286537389453
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/360030463592-Minecraft-Refund-Policy
 hash:

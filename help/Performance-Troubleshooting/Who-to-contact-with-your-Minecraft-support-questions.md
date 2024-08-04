@@ -30,11 +30,11 @@ For any questions regarding Minecraft servers being down, crossplay not working,
 
 ## Minecraft Realms subscription and Marketplace concerns
 
-If you are having [trouble getting a friend to join your Minecraft Realms world](../Create-or-Join-Realms/How-Do-I-Join-Someone-s-Minecraft-Bedrock-Edition-Realm.md) or cannot access the Marketplace packs included in your Realms Plus subscription, Minecraft Support will help you out.
+If you are having [trouble getting a friend to join your Minecraft Realms world](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md) or cannot access the Marketplace packs included in your Realms Plus subscription, Minecraft Support will help you out.
 
 Having problems accessing other [Marketplace content](../Minecraft-Marketplace/How-to-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md) you have purchased? Minecraft Support should be your go-to.
 
-For subscription changes, [refund requests](../General-Billing/Mojang-Studios-Refund-Policy.md), or if you have unrecognized charges, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
+For subscription changes, [refund requests](../Buying-Minecraft-Games/Minecraft-Refund-Policy.md), or if you have unrecognized charges, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
 
 ## GDPR/Data Deletion requests
 

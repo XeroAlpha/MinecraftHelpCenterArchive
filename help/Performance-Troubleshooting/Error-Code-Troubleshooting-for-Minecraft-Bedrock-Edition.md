@@ -9,7 +9,7 @@ tags:
   - subject_game_performance
   - subject_connectivity
   - subject_game_crashes
-  - trending
+  - popular
   - section_27166432886285
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition

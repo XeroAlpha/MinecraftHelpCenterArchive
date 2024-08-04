@@ -5,6 +5,7 @@ updated: 2024-03-19T20:53:23Z
 categories: Marketplace Pass
 tags:
   - section_24090952098445
+  - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/24293484883853-I-Can-t-Sign-Up-for-Minecraft-Marketplace-Pass
 hash:
   h_01HQ3V8WPPYEZQ5F5RCYMFM2E2: i-cant-sign-up-for-minecraft-marketplace-pass
@@ -30,4 +31,4 @@ Marketplace Pass only works in Preview/Beta after you have already subscribed th
 
 ## I’m a Realms Plus subscriber
 
-If you’re a current Realms Plus subscriber, you will be blocked from subscribing to Marketplace Pass. Marketplace Pass benefits are included in your Realms Plus subscription. To sign-up for only Marketplace Pass, you will need to [cancel your Realms Plus subscription](../Manage-Realms-Subscriptions/How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription.md) and wait for the subscription period to end.
+If you’re a current Realms Plus subscriber, you will be blocked from subscribing to Marketplace Pass. Marketplace Pass benefits are included in your Realms Plus subscription. To sign-up for only Marketplace Pass, you will need to [cancel your Realms Plus subscription](https://help.minecraft.net/hc/en-us/articles/24124939590413) and wait for the subscription period to end.

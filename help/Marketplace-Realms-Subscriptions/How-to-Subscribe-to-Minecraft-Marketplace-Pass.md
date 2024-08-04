@@ -2,6 +2,7 @@
 title: How to Subscribe to Minecraft Marketplace Pass
 date: 2024-02-20T18:00:08Z
 updated: 2024-07-31T17:45:10Z
+categories: Marketplace & Realms Subscriptions
 tags:
   - section_24090952098445
   - section_28872593033869

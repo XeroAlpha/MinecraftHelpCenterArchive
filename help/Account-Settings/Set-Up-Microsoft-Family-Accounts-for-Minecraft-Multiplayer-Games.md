@@ -4,6 +4,7 @@ date: 2021-09-10T22:08:35Z
 updated: 2024-05-30T18:54:34Z
 categories: Account Settings
 tags:
+  - popular
   - section_27166460834061
   - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games

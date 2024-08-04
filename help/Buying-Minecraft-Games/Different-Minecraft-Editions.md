@@ -4,7 +4,6 @@ date: 2019-10-13T21:41:49Z
 updated: 2024-07-31T21:24:17Z
 categories: Buying Minecraft Games
 tags:
-  - section_27194152473613
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions
 ---

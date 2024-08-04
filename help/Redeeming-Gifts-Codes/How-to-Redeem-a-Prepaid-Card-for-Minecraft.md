@@ -4,7 +4,6 @@ date: 2022-04-27T23:26:52Z
 updated: 2024-07-31T17:11:44Z
 categories: Redeeming Gifts & Codes
 tags:
-  - section_27194152473613
   - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/5846082805645-How-to-Redeem-a-Prepaid-Card-for-Minecraft
 hash:
@@ -31,4 +30,4 @@ Minecraft: Java and Bedrock Edition for PC pre-paid cards can be used on a new
 5.  Sign into the Microsoft account that you want to use to play Minecraft.
 6.  To Download the game, navigate to the [Minecraft Launcher download page](https://www.minecraft.net/en-us/download) and click Download Launcher.
 
-**Note: ** Minecraft gift cards must be redeemed in the region in which they were purchased. If you attempt to redeem a Gift Card lives outside the region of purchase, it may not work. If you run into any problems, see our article for help [Troubleshooting Minecraft Gift Card Redemption Errors](./Minecraft-Bedrock-Edition-Gift-Code-Issues-FAQ.md).
+**Note: ** Minecraft gift cards must be redeemed in the region in which they were purchased. If you attempt to redeem a Gift Card lives outside the region of purchase, it may not work. If you run into any problems, see our article for help [Troubleshooting Minecraft Gift Card Redemption Errors](./Troubleshooting-Minecraft-Gift-Redemption-Errors.md).

@@ -2,9 +2,10 @@
 title: ゲーム内 DLC のコードの引き換え方法について
 date: 2021-10-12T20:58:03Z
 updated: 2024-07-12T16:11:11Z
-categories: Purchases & Billing
+categories: Redeeming Gifts & Codes
 tags:
-  - section_27194152473613
+  - section_24069904400141
+  - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/4411178613005
 hash:
   01H7X4GZFRBAT5N6APM93W8C8G: コード番号を入手するには

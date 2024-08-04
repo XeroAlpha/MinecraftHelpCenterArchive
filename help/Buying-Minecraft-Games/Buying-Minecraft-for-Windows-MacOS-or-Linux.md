@@ -4,7 +4,6 @@ date: 2022-06-03T18:40:38Z
 updated: 2024-07-31T19:33:19Z
 categories: Buying Minecraft Games
 tags:
-  - section_27194152473613
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/6660924652557-Buying-Minecraft-for-Windows-MacOS-or-Linux
 hash:

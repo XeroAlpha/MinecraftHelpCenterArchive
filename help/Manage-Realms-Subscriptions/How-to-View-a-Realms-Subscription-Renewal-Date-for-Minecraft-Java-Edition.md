@@ -5,6 +5,7 @@ updated: 2024-08-02T18:08:33Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
+  - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/24186093545357-How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition
 ---
 

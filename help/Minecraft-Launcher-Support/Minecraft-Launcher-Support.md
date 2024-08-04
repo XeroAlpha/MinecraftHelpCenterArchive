@@ -4,6 +4,7 @@ date: 2022-06-03T19:44:02Z
 updated: 2024-04-11T17:16:51Z
 categories: Minecraft Launcher Support
 tags:
+  - trending
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/6662588435597-Minecraft-Launcher-Support
 hash:

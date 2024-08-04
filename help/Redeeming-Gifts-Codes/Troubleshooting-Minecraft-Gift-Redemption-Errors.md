@@ -4,7 +4,6 @@ date: 2021-09-21T21:40:08Z
 updated: 2024-07-31T17:04:21Z
 categories: Redeeming Gifts & Codes
 tags:
-  - section_27194152473613
   - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/4409745793677-Troubleshooting-Minecraft-Gift-Redemption-Errors
 ---
@@ -21,4 +20,4 @@ If you received the gift of Minecraft or Minecraft content via a gift card or a 
 You can [Contact Microsoft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md) or the platform the gift was purchased from to get additional help. For instructions for redeeming gift cards and codes, see these Help pages:
 
 - [How to Redeem the Gift of Minecraft](./How-to-Redeem-Minecraft-as-a-Gift.md)
-- [How to Redeem a Pre-paid Card for Minecraft](./Redeeming-a-Prepaid-Card-for-Minecraft-Java-Bedrock-Edition-for-PC.md)
+- [How to Redeem a Pre-paid Card for Minecraft](./How-to-Redeem-a-Prepaid-Card-for-Minecraft.md)

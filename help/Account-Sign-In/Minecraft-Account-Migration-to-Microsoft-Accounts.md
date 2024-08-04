@@ -4,12 +4,11 @@ date: 2023-09-18T21:48:09Z
 updated: 2024-05-31T17:41:21Z
 categories: Account Sign-In
 tags:
-  - title_minecraft_java_edition
   - category_migration_support
   - subject_problems_migrating
   - subject_how_do_i_migrate
   - subject_when_can_i_migrate
-  - title_minecraft_java_bedrock_for_pc
+  - popular
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/19615552270221-Minecraft-Account-Migration-to-Microsoft-Accounts
 ---

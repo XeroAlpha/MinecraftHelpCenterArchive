@@ -2,9 +2,8 @@
 title: How to Redeem Minecraft as a Gift
 date: 2024-07-26T19:05:59Z
 updated: 2024-07-31T21:39:19Z
-categories: Buying Gifts & Redeeming Codes
+categories: Redeeming Gifts & Codes
 tags:
-  - section_27194152473613
   - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/28744068270221-How-to-Redeem-Minecraft-as-a-Gift
 hash:
@@ -27,4 +26,4 @@ Congratulations! Have fun shaping your world in Minecraft!
 
 ## HOW TO REDEEM ON A CHILD ACCOUNT
 
-Some child accounts might require parental permission to redeem a code. For more on managing child accounts or accounts in a family group, please refer to [How to Enable a Child Account to Redeem Codes in Minecraft](../Events-Promotions/How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md).
+Some child accounts might require parental permission to redeem a code. For more on managing child accounts or accounts in a family group, please refer to [How to Enable a Child Account to Redeem Codes in Minecraft](./How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md).
