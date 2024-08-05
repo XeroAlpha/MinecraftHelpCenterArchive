@@ -1,18 +1,18 @@
 ---
-title: How to Update your Microsoft Payment Information for Minecraft
+title: How to Update Your Microsoft Account Payment Information for Minecraft
 date: 2021-09-14T20:56:10Z
-updated: 2024-07-31T19:37:03Z
-categories: Buying Minecraft Games
+updated: 2024-08-05T17:45:23Z
+categories: Account Settings
 tags:
   - section_27194076935437
   - section_28871651550221
-link: https://help.minecraft.net/hc/en-us/articles/4409234093581-How-to-Update-your-Microsoft-Payment-Information-for-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/4409234093581-How-to-Update-Your-Microsoft-Account-Payment-Information-for-Minecraft
 hash:
   h_01HZ876KC2AFAYR522XMYE3QN4: view-or-remove-your-payment-details
   h_01HZ8771QWN1YMP1E0R9RDAMT0: changing-payment-for-recurring-subscriptions
 ---
 
-When purchasing games from the Microsoft Store, you have the option to save payment details to your account for future use. When you make a purchase, it is transmitted to our servers over a secure connection.
+When purchasing games from the Microsoft store, you have the option to save payment details to your account for future use. When you make a purchase, payment information is transmitted to our servers over a secure connection.
 
 Because this information is encrypted, Microsoft does not have direct access to your credit card details. This information can be sent to our payment partners to process a transaction but cannot be read by us. This means that if your Microsoft account were to be compromised, your card details would not be at risk.
 
