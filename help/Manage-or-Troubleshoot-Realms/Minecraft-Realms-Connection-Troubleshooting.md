@@ -1,11 +1,11 @@
 ---
-title: Minecraft Realms Connection Troubleshooting
+title: Troubleshoot Minecraft Realms Connection Errors
 date: 2021-09-30T21:40:55Z
-updated: 2024-07-18T21:06:41Z
-categories: Manage or Troubleshoot Realms
+updated: 2024-08-05T21:03:23Z
+categories: Troubleshoot Minecraft Realms
 tags:
   - section_ 26104165751437
-link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Minecraft-Realms-Connection-Troubleshooting
+link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Troubleshoot-Minecraft-Realms-Connection-Errors
 ---
 
 If you are having problems getting your Minecraft Realm to connect, here are some basic troubleshooting tips that may help:

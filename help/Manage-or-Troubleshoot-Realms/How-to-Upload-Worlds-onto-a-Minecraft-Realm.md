@@ -1,16 +1,19 @@
 ---
 title: How to Upload Worlds onto a Minecraft Realm
 date: 2023-10-24T20:53:20Z
-updated: 2024-07-25T17:36:04Z
-categories: Manage or Troubleshoot Realms
+updated: 2024-08-05T21:21:07Z
+categories: Manage Realms Settings & Worlds
 tags:
-  - section_ 26104165751437
+  - section_ 12618497714061
 link: https://help.minecraft.net/hc/en-us/articles/20686744908429-How-to-Upload-Worlds-onto-a-Minecraft-Realm
+hash:
+  h_01J4J6N70NWQGHCQQ358Q5687C: how-to-upload-a-world-onto-a-minecraft-bedrock-edition-realm
+  h_01J4J6ND8NZTG9DGYR1AHMA8EE: how-to-upload-a-world-onto-a-minecraft-java-edition-realm
 ---
 
 If you don’t want to start a Minecraft Realm from scratch, you can upload one of your already created worlds. Here is how to do it:
 
-**How to upload a world onto a Minecraft: Bedrock Edition Realm**
+## How to upload a world onto a Minecraft: Bedrock Edition Realm
 
 1.  Start Minecraft.
 2.  Select **Play**.
@@ -21,7 +24,7 @@ If you don’t want to start a Minecraft Realm from scratch, you can upload one 
 
 If the world you want to upload is on a different platform, see [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).
 
-**How to upload a world onto a Minecraft: Java Edition Realm**
+## How to upload a world onto a Minecraft: Java Edition Realm
 
 1.  Start Minecraft.
 2.  Select **Minecraft Realms**.
