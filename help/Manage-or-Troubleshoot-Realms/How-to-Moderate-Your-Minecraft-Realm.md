@@ -1,14 +1,14 @@
 ---
 title: How to Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
-updated: 2024-07-30T21:03:56Z
-categories: Manage or Troubleshoot Realms
+updated: 2024-08-05T22:13:38Z
+categories: Manage Realms Settings & Worlds
 tags:
-  - section_ 26104165751437
+  - section_12618497714061
 link: https://help.minecraft.net/hc/en-us/articles/360058604512-How-to-Moderate-Your-Minecraft-Realm
 hash:
   h_01HS9QFKDH66JJX5FYGC5D83NA: how-to-find-realms-settings
-  h_01HS9QHJE2PG5ZYBZG7BME73QD: minecraft-realm-moderation-tips
+  h_01HS9QHJE2PG5ZYBZG7BME73QD: minecraft-realms-moderation-tips
 ---
 
 We are not able to view and assist with moderation issues on your Realm directly. However, we do have a few suggestions to help you with managing player access and permissions to your Realm.
@@ -19,7 +19,7 @@ We are not able to view and assist with moderation issues on your Realm directly
 
 1.  Start Minecraft.
 2.  Select **Play**.
-3.  Select the **Pencil icon** next to the Realm you want to edit.
+3.  Select the box with a checkmark next to the Realm you want to edit.
 4.  Select **Manage Realm**.
 5.  Select **Members** to view players and adjust permissions.
 
@@ -30,7 +30,7 @@ We are not able to view and assist with moderation issues on your Realm directly
 3.  Select your Realm and click **Configure.**
 4.  Select **Players** to view players and adjust permissions.
 
-## Minecraft Realm moderation tips
+## Minecraft Realms moderation tips
 
 **Change player permissions**: Set player permissions to Visitor. Players will be unable to make any changes to the world, such as breaking blocks or griefing. Consider setting this as the default when players join from an invite.  
 
