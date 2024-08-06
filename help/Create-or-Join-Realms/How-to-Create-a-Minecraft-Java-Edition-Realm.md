@@ -1,82 +1,31 @@
 ---
 title: "How to Create a Minecraft: Java Edition Realm"
 date: 2021-09-14T22:37:59Z
-updated: 2024-03-27T21:26:40Z
+updated: 2024-08-06T16:46:49Z
 categories: Create or Join Realms
 tags:
+  - subject_creating_a_realm
   - section_26104084764557
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4409253767821-How-to-Create-a-Minecraft-Java-Edition-Realm
 hash:
-  h_01HHZ9JH0FZVKR5PCG5D56BK69: how-to-create-a-minecraft-java-edition-realm
-  h_01HHZ9R8M8CMC7SQ068NJ4ZMJ7: howtoloadcontent-toyour-realm
-  h_01HHZ9RFDFK8JQ8QMKW4SZ8Z98: choosingaworldslot
-  h_01HHZ9RMMN442JN6ZXGYGG0H00: minigame
-  h_01HHZ9RSA42WMHVCY4ET0VY9DJ: adventuresworldtemplatesexperiences
-  h_01HHZ9SFPF0V9PTS2XTEPZSBKD: uploadworld
+  h_01J4M8QSKJPNJJJT6NXA7BCCNG: starting-a-minecraft-java-edition-realm
 ---
 
-This article refers to Minecraft Realms for the Java Edition. If you need help with your subscription to Minecraft Realms for other platforms, see [Minecraft: Bedrock Edition Realms Creation FAQ](../Manage-or-Troubleshoot-Realms/Minecraft-Realms-Support.md).
+Realms are a great way to play Minecraft with your friends. An active Realms subscription will allow your friends to join the world and play without you needing to be online. Here is how you can create your own Java Realm.
 
-## How to create a Minecraft: Java Edition Realm
+## Starting a Minecraft: Java Edition Realm
 
-Before you can create a Minecraft Realm, you must have a Microsoft account linked to your game. If you don't have one yet, you can [create a Microsoft account](https://account.microsoft.com/account).
+Before you go about starting a Realm, make sure you have a Microsoft account to manage your payments for the subscription. If you don’t have one, you can [create a Microsoft account here](https://account.microsoft.com/account/CreateAccount).
 
-Only the owner of a realm must pay for a subscription. The owner can invite any number of friends, but only 10 players plus the owner can play at the same time.
+1.  Sign in with your Microsoft account on [Minecraft.net](https://www.minecraft.net/en-us/msaprofile).
+2.  Select **My Realms**.
+3.  Select **Buy Now** next to Java Realms subscription.
+4.  Agree to the EULA and follow the steps to set up your payment.
 
-You can now purchase a Realms subscription directly from the Minecraft Launcher. Go to the **Minecraft: Java Edition **page and enter the **Realms** tab where you can select **Subscribe Now **to use a saved payment method to purchase your Realm.
+After your subscription is active, you can manage it on your [Microsoft subscriptions page](https://account.microsoft.com/services?fref=home.drawers.subscriptions.view-all-subscriptions). For more Realms management, see the below articles:
 
-After your payment is complete, open Minecraft, select **Minecraft Realms**, and then choose the option to create and configure your Realm. You'll see an option to enter a world name or to start with a preexisting world or map. You can change any setup options. 
-
-To continue with a standard survival world, you can double-click your Realm. Alternatively, you can select **Configure** to open an additional menu of options.  
-
-To rename your Realm or to give it a description, select** Settings** and then enter the title you want.
-
-Selecting **World Options** lets you further customize your world in the following ways: 
-
-- PvP (On/Off)
-  - Turns player-versus-player combat on or off. When off, players will not be able to injure one another.
-- Difficulty (Peaceful, Easy, Normal, Hard)
-  - Changes the difficulty of the server. Hardcore mode is not available in Minecraft Realms. 
-- Spawn Protection (Off, 1-16)
-  - Spawn protection disallows standard players from placing or destroying blocks in a specified radius from the world's spawn area. 
-- Force Game Mode (On/Off)
-  - When enabled, this option forces all players into the server's selected default game mode when they log into the server. It is disabled by default, which preserves the game mode that a player was in when they logged out. 
-- Game Mode (Survival, Creative, Adventure)
-  - Changes the default game mode for all players on the server. The server owner or operator can use commands to change individual players' game modes in-game.
-- Spawn Animals (On/Off)
-  - Enables or disables the spawning of the game's neutral animals. 
-- Spawn Monsters (On/Off)
-  - Enables or disables the spawning of the game's aggressive monsters. 
-- Spawn NPCs (On/Off)
-  - Enables or disables the spawning of non-player characters (villagers), also known as NPCs. 
-- Command Blocks (On/Off)
-  - Enables or disables use of command blocks. You must be the owner or operator of the Realm, and in creative mode, to use a command block.
-
-**Note: Render and simulation distance maximums are locked and cannot be modified on a Realm. As such, these may be set to lower value.**
-
-## HOW TO LOAD CONTENT TO YOUR REALM 
-
-You can load content such as Minigames, Adventures, World templates, and Experiences. It’s also possible to upload your single player worlds. 
-
-### CHOOSING A WORLD SLOT 
-
-You can have up to three different worlds saved in slots to your Realm. Only one slot can be active at a time, but it is easy and quick to switch between them. This is useful when you want to switch between Minecraft Realms content. 
-
-### MINIGAME 
-
-A Minecraft Minigame is free community-made content available to any Realm owner. Loading a Minigame temporarily replaces the content currently loaded on your Minigame slot. 
-
-1.  Select **Minigame** to switch the loaded content on your current world slot to a Minigame. 
-2.  Choose a Minigame in the list and load it by selecting the **Select.**
-
-### ADVENTURES / WORLD TEMPLATES / EXPERIENCES 
-
-By selecting the **Reset World** button, you can load content to your current world slot. Note that resetting a world slot deletes the current world unless you save a backup first. The following steps will show you different types of available content: 
-
-1.  Select Reset World.
-2.  Choose which content you want to load.
-3.  Adventures, World templates, and Experiences will present you with a list of available worlds. Choose the world you want to load and click Select.
-
-### UPLOAD WORLD 
-
-You can upload any local (single player) world that is less than 4 GB to one of the three first world slots by selecting the **Upload World** option. Please note that Realms works only with unmodded worlds using the latest release game version.
+- [How to View a Realms Subscription Renewal Date for Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition.md)
+- [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md)
+- [How to Update Your Payment Method for Minecraft Realms](../Manage-Realms-Subscriptions/How-to-Update-Your-Payment-Method-for-Minecraft-Realms.md)
+- [How to Manage Your Minecraft: Java Edition Realm](../Manage-or-Troubleshoot-Realms/How-to-Manage-Your-Minecraft-Java-Edition-Realm.md)
