@@ -1,11 +1,11 @@
 ---
-title: I'm Getting an Error When Trying to Play Multiplayer with a Child Account
+title: Troubleshooting Errors Playing Minecraft Multiplayer Games with a Child Account
 date: 2020-04-22T23:12:57Z
-updated: 2024-06-11T21:27:32Z
+updated: 2024-08-07T17:56:23Z
 categories: Account Settings
 tags:
   - section_27194076935437
-link: https://help.minecraft.net/hc/en-us/articles/360042221252-I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account
+link: https://help.minecraft.net/hc/en-us/articles/360042221252-Troubleshooting-Errors-Playing-Minecraft-Multiplayer-Games-with-a-Child-Account
 hash:
   h_01HZ859JZDHV0C7JXSAM162S4V: required-online-subscriptions-for-consoles
 ---
