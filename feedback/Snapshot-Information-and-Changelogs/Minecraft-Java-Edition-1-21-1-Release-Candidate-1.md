@@ -1,7 +1,7 @@
 ---
 title: "Minecraft Java Edition: 1.21.1 Release Candidate 1"
 date: 2024-08-08T13:59:37Z
-updated: 2024-08-08T14:03:06Z
+updated: 2024-08-08T14:55:28Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/29098855177613-Minecraft-Java-Edition-1-21-1-Release-Candidate-1
 hash:
@@ -22,7 +22,7 @@ Before we get to new snapshots, today we are delivering Release Candidate 1 for 
 
 ## Get the Release Candidate
 
-Release Candidates are available for Minecraft: Java Edition. To install the Release Candidate, open up the [Minecraft Launcher](https://author-prod-minecraft.adobecqms.net/content/minecraft-net/language-masters/download.html) and enable snapshots in the "Installations" tab.
+Release Candidates are available for Minecraft: Java Edition. To install the Release Candidate, open up the [Minecraft Launcher](https://www.minecraft.net/download.html) and enable snapshots in the "Installations" tab.
 
 ### Testing versions can corrupt your world, so please backup and/or run them in a different folder from your main worlds.
 
