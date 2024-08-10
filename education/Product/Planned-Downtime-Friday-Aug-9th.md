@@ -1,10 +1,18 @@
 ---
 title: Planned Downtime Friday Aug 9th
 date: 2024-08-05T22:41:00Z
-updated: 2024-08-05T22:42:07Z
+updated: 2024-08-10T00:26:04Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/29132423241236-Planned-Downtime-Friday-Aug-9th
 ---
+
+UPDATE:
+
+The planned downtime is complete and all services are back online. Thank you for your patience and understanding as we performed this maintenance.
+
+ 
+
+Original Message:
 
 Minecraft Education will experience a brief downtime to perform required maintenance of our servers. This downtime will occur on Friday, August 9th at 10:30PM UTC / Aug 9 at 6:30 PM EDT / Aug 9 at 11:30 PM BST / Aug 10 at 8:30 AM AEST. We estimate the servers will be offline for less than 15 minutes.
 
