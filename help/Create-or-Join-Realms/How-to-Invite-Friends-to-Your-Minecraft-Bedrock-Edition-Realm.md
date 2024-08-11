@@ -43,6 +43,6 @@ The **Share Link** button generates a link you can send to others or post somewh
 Be careful about where you post a share link to your Realm. Anyone who has access to the link can join your Realm. If you use social media to invite your friends, we recommend doing it through direct message. If you are seeing unwanted players in your Realm, here’s what you can do:
 
 - Generate a new Share Link. Generating a new link will deactivate the old one so it can’t be used to join your Realm.
-- Remove or block unwanted players from your Realm. See [How to Moderate Your Minecraft Realm](../Manage-or-Troubleshoot-Realms/How-to-Moderate-Your-Minecraft-Realm.md) for more information.
+- Remove or block unwanted players from your Realm. See [How to Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/How-to-Moderate-Your-Minecraft-Realm.md) for more information.
 
 **Note:** While you can invite as many players as you’d like to a Minecraft Realm, only a certain amount can be online in your realm at one time. That number is based on your Realms subscription.

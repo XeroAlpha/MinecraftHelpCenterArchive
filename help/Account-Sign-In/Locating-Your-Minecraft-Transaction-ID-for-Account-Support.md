@@ -2,12 +2,13 @@
 title: Locating Your Minecraft Transaction ID for Account Support
 date: 2019-06-26T22:57:03Z
 updated: 2024-07-29T15:04:03Z
-categories: Buying Minecraft Games
+categories: Account Sign-In
 tags:
   - subject_change_account_information
   - category_account_support
   - subject_delete_account
   - section_27194059750157
+  - use_for_autoreply
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/360029977371-Locating-Your-Minecraft-Transaction-ID-for-Account-Support
 hash:
@@ -17,7 +18,7 @@ hash:
   h_01J3ZG6YDQKQKKTAX8C0B2HZN5: identifying-a-prepaid-card-pin
 ---
 
-Minecraft Player Care uses transaction IDs to verify ownership of Mojang accounts and Minecraft purchases made before July 25, 2022. [Microsoft Support](https://support.microsoft.com/en-us/account-billing/get-help-with-your-microsoft-account-ace6f3b3-e2d3-aeb1-6b96-d2e9e7e52133) uses transaction IDs to troubleshoot problems with Minecraft purchases made in the Microsoft store after that date. Minecraft Player Care cannot provide account support for purchases from the Microsoft store or those made from a [non-authorized website, reseller, or another player](../Account-Sign-In/Can-I-Buy-or-Sell-Minecraft-Accounts.md).
+Minecraft Player Care uses transaction IDs to verify ownership of Mojang accounts and Minecraft purchases made before July 25, 2022. [Microsoft Support](https://support.microsoft.com/en-us/account-billing/get-help-with-your-microsoft-account-ace6f3b3-e2d3-aeb1-6b96-d2e9e7e52133) uses transaction IDs to troubleshoot problems with Minecraft purchases made in the Microsoft store after that date. Minecraft Player Care cannot provide account support for purchases from the Microsoft store or those made from a [non-authorized website, reseller, or another player](./Can-I-Buy-or-Sell-Minecraft-Accounts.md).
 
 ### How to Find a Transaction ID
 

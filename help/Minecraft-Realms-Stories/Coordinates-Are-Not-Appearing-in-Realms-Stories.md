@@ -2,9 +2,9 @@
 title: Coordinates Are Not Appearing in Realms Stories
 date: 2024-04-19T20:56:14Z
 updated: 2024-04-23T20:48:59Z
-categories: Manage or Troubleshoot Realms
+categories: Minecraft Realms Stories
 tags:
-  - section_ 26104165751437
+  - section_ 12618443219469
 link: https://help.minecraft.net/hc/en-us/articles/26047957910797-Coordinates-Are-Not-Appearing-in-Realms-Stories
 ---
 

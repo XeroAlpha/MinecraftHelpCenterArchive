@@ -2,9 +2,9 @@
 title: "How to Manage Your Minecraft: Java Edition Realm"
 date: 2023-10-25T17:03:24Z
 updated: 2024-08-02T17:56:50Z
-categories: Manage or Troubleshoot Realms
+categories: Manage Realms Settings & Worlds
 tags:
-  - section_ 26104165751437
+  - section_12618497714061
 link: https://help.minecraft.net/hc/en-us/articles/20712000178317-How-to-Manage-Your-Minecraft-Java-Edition-Realm
 hash:
   h_01J4A3NZ0X93T36AJ5P5GJDCRB: how-to-access-your-java-realm-settings
@@ -33,6 +33,6 @@ For more on the above areas you can manage, see the following articles:
 
 - [How to Invite Friends to Your Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)
 - [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
+- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](../Troubleshoot-Minecraft-Realms/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
 - [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md)
 - [How to Moderate Your Minecraft Realm](./How-to-Moderate-Your-Minecraft-Realm.md)

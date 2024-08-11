@@ -4,7 +4,9 @@ date: 2021-09-30T21:40:55Z
 updated: 2024-08-05T21:03:23Z
 categories: Troubleshoot Minecraft Realms
 tags:
+  - subject_connectivity
   - section_ 26104165751437
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Troubleshoot-Minecraft-Realms-Connection-Errors
 ---
 

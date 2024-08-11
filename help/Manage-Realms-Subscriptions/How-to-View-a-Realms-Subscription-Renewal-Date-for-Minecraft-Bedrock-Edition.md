@@ -17,7 +17,7 @@ link: https://help.minecraft.net/hc/en-us/articles/24186425321741-How-to-View-a-
 
 3.  Find the Realm and you will see how many days are left until your next payment is due.
 
-If your Realm is expired, see [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription?](./How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md)
+If your Realm is expired, see [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription?](./How-to-Renew-an-Expired-Minecraft-Bedrock-Edition-Realms-Subscription.md)
 
 To cancel, see [How to Cancel a Minecraft Realms Subscription](https://help.minecraft.net/hc/en-us/articles/24124939590413-How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription)
 

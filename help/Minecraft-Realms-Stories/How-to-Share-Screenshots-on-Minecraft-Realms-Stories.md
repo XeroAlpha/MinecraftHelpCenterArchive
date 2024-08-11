@@ -2,9 +2,9 @@
 title: How to Share Screenshots on Minecraft Realms Stories
 date: 2024-04-19T20:51:24Z
 updated: 2024-07-25T15:05:49Z
-categories: Manage or Troubleshoot Realms
+categories: Minecraft Realms Stories
 tags:
-  - section_ 26104165751437
+  - section_ 12618443219469
 link: https://help.minecraft.net/hc/en-us/articles/26047812646925-How-to-Share-Screenshots-on-Minecraft-Realms-Stories
 ---
 

@@ -37,7 +37,7 @@ If you're receiving the io.netty.handler.codec.decodeexception error when connec
 
 ## OTHER HELP
 
-- [Minecraft Realms Connection Troubleshooting](../Manage-or-Troubleshoot-Realms/Minecraft-Realms-Connection-Troubleshooting.md)
+- [Minecraft Realms Connection Troubleshooting](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md)
 - [Minecraft Launcher Troubleshooting Common Issues](../Minecraft-Launcher-Support/Minecraft-Launcher-Support.md)
 
 If your issues persist, be sure to submit a bug using [Mojang Bug Tracker](https://bugs.mojang.com/secure/Dashboard.jspa) or find [Who to Contact for Minecraft Support](./Who-to-contact-with-your-Minecraft-support-questions.md).

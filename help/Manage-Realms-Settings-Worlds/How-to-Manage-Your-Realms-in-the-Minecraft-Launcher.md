@@ -2,9 +2,9 @@
 title: How to Manage Your Realms in the Minecraft Launcher
 date: 2023-07-27T15:13:19Z
 updated: 2024-08-02T18:38:14Z
-categories: Manage or Troubleshoot Realms
+categories: Manage Realms Settings & Worlds
 tags:
-  - section_ 26104165751437
+  - section_12618497714061
 link: https://help.minecraft.net/hc/en-us/articles/17987026917133-How-to-Manage-Your-Realms-in-the-Minecraft-Launcher
 ---
 
@@ -29,4 +29,4 @@ When in this section, you can do the following:
 To cancel your Realm or manage it in other ways, click **Manage Realms** to be taken to the Minecraft.net site where you can sign in. Visit the below links for more info:
 
 - [How to Cancel a Minecraft Realm Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md)
-- [How to Edit Your Realms on Minecraft.net](./How-To-Edit-Your-Realms-on-Minecraft-net.md)
+- [How to Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md)

@@ -35,31 +35,31 @@ If you want to learn more about Minecraft Realms, how to join a game, or manage 
 
 - [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
 - [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
-- [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
+- [How Mojang Saves Backups for Your Minecraft Realm](../Manage-Realms-Settings-Worlds/How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
 
 ## Realm World Management
 
-- [How to Manage Your Minecraft: Bedrock Edition Realm](./How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
-- [How to Manage Your Minecraft: Java Edition Realm](./How-to-Manage-Your-Minecraft-Java-Edition-Realm.md)
-- [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md)
-- [How to Moderate Your Minecraft Realm](./How-to-Moderate-Your-Minecraft-Realm.md)
+- [How to Manage Your Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
+- [How to Manage Your Minecraft: Java Edition Realm](../Manage-Realms-Settings-Worlds/How-to-Manage-Your-Minecraft-Java-Edition-Realm.md)
+- [How to Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/How-to-Upload-Worlds-onto-a-Minecraft-Realm.md)
+- [How to Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/How-to-Moderate-Your-Minecraft-Realm.md)
 
 ## Subscriptions & Billing
 
 - [How To View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition.md)
 - [How To View a Realms Subscription Renewal Date for Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition.md)
 - [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md)
-- [How Do I Renew an Expired Minecraft: Java Edition Realm Subscription?](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Java-Edition-Realm-Subscription.md)
-- [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md)
+- [How Do I Renew an Expired Minecraft: Java Edition Realm Subscription?](../Manage-Realms-Subscriptions/How-to-Renew-an-Expired-Minecraft-Java-Edition-Realms-Subscription.md)
+- [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription](../Manage-Realms-Subscriptions/How-to-Renew-an-Expired-Minecraft-Bedrock-Edition-Realms-Subscription.md)
 
 ## Troubleshooting
 
-- [Minecraft Realms Connection Troubleshooting](./Minecraft-Realms-Connection-Troubleshooting.md)
-- [How to Turn Off the Minecraft: Java Edition Realms Profanity Filter](./How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter.md)
-- [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](./How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)
+- [Minecraft Realms Connection Troubleshooting](./Troubleshoot-Minecraft-Realms-Connection-Errors.md)
+- [How to Turn Off the Minecraft: Java Edition Realms Profanity Filter](../Manage-Realms-Settings-Worlds/How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter.md)
+- [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](../Minecraft-Realms-Stories/How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)
 
 ## Realms Stories
 
-- [Coordinates Are Not Appearing in Realms Stories](./Coordinates-Are-Not-Appearing-in-Realms-Stories.md)
-- [Realm Events are Not Showing Up in Minecraft Realm Stories](./Realm-Events-are-Not-Showing-Up-in-Minecraft-Realm-Stories.md)
-- [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](./How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)
+- [Coordinates Are Not Appearing in Realms Stories](../Minecraft-Realms-Stories/Coordinates-Are-Not-Appearing-in-Realms-Stories.md)
+- [Realm Events are Not Showing Up in Minecraft Realm Stories](../Minecraft-Realms-Stories/Realm-Events-are-Not-Showing-Up-in-Minecraft-Realm-Stories.md)
+- [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](../Minecraft-Realms-Stories/How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)

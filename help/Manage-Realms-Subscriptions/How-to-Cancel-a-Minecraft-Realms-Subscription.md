@@ -5,7 +5,9 @@ updated: 2024-08-02T18:33:19Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
+  - use_for_autoreply
   - section_28872593033869
+  - subject_canceling_a_realm
 link: https://help.minecraft.net/hc/en-us/articles/24123767171469-How-to-Cancel-a-Minecraft-Realms-Subscription
 hash:
   h_01J4A5GX1TNZQ30580V1SEN68P: how-to-cancel-a-minecraft-bedrock-edition-realms-subscription

@@ -2,7 +2,7 @@
 title: How to Redeem a Prepaid Card or Gift Code for Minecraft Legends
 date: 2023-03-27T22:52:05Z
 updated: 2024-07-31T19:13:47Z
-categories: Minecraft Legends
+categories: Redeeming Gifts & Codes
 tags:
   - section_27286537389453
   - section_28872896387341

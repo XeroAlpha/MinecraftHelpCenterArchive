@@ -49,4 +49,4 @@ Microsoft Family Accounts allow parents to manage settings for Minecraft that al
 
 - [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
 - [How to Change Online Chat Settings for Minecraft](../Account-Settings/How-to-Change-Online-Chat-Settings-for-Minecraft.md)
-- [How to Share Screenshots on Minecraft Realms Stories](../Manage-or-Troubleshoot-Realms/How-to-Share-Screenshots-on-Minecraft-Realms-Stories.md)
+- [How to Share Screenshots on Minecraft Realms Stories](../Minecraft-Realms-Stories/How-to-Share-Screenshots-on-Minecraft-Realms-Stories.md)

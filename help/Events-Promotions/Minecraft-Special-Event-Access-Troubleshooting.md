@@ -18,7 +18,7 @@ From time to time, Minecraft will host special events that allow players to join
 - **Check account permissions:** If you’re playing on a child account, you may need a parent’s assistance with changing parental controls.  See these articles for more information:
   - [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md) 
   - [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
-  - [I'm Getting an Error When Trying to Play Multiplayer with a Child Account](../Account-Settings/I-m-Getting-an-Error-When-Trying-to-Play-Multiplayer-with-a-Child-Account.md)
+  - [I'm Getting an Error When Trying to Play Multiplayer with a Child Account](../Account-Settings/Troubleshooting-Errors-Playing-Minecraft-Multiplayer-Games-with-a-Child-Account.md)
 - **Update Minecraft:** Make sure you are using the most recent version of Minecraft: Bedrock Edition. See these articles for more information:
   - [How to Manually Update Minecraft on Windows](../Download-Install/How-to-Manually-Update-Minecraft-on-Windows.md)
   - [How to Manually Update Minecraft on Consoles](../Download-Install/How-to-Manually-Update-Minecraft-on-Consoles.md)

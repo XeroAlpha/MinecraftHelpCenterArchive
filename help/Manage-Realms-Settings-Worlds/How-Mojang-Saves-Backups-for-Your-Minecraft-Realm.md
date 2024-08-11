@@ -2,9 +2,9 @@
 title: How Mojang Saves Backups for Your Minecraft Realm
 date: 2024-07-25T20:29:46Z
 updated: 2024-08-02T17:39:11Z
-categories: Manage or Troubleshoot Realms
+categories: Manage Realms Settings & Worlds
 tags:
-  - section_ 26104165751437
+  - section_12618497714061
 link: https://help.minecraft.net/hc/en-us/articles/28717462139149-How-Mojang-Saves-Backups-for-Your-Minecraft-Realm
 hash:
   h_01J4A2P1G5DAN0P61RBF4A4GXT: realms-backup-retention-policy
@@ -32,5 +32,5 @@ If you’d like to save a copy of your world indefinitely, we suggest you downlo
 
 - [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md)
 - [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md)
-- [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
-- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
+- [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](../Troubleshoot-Minecraft-Realms/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
+- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](../Troubleshoot-Minecraft-Realms/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)

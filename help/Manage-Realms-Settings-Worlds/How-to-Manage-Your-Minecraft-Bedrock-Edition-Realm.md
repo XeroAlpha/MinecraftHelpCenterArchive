@@ -28,7 +28,7 @@ From the Manage Realm area, you can do the following:
 - Manage members on the Realm
 - Close Realm or manage your subscriptions
 
-**Note:** You can also manage your Realms on Minecraft.net. Please refer to [How to Edit Your Realms on Minecraft.net](./How-To-Edit-Your-Realms-on-Minecraft-net.md) for more information.
+**Note:** You can also manage your Realms on Minecraft.net. Please refer to [How to Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md) for more information.
 
 ## How to change or edit Realm worlds
 
@@ -49,5 +49,5 @@ Here is a list of things you can manage here:
 For more help with managing your Realm, see these articles:
 
 - **Resource and behavior packs:** [What are Minecraft Add-Ons?](../Minecraft-Marketplace/What-are-Minecraft-Add-Ons.md)
-- **Backups:** [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
+- **Backups:** [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](../Troubleshoot-Minecraft-Realms/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
 - **Troubleshooting worlds:** [Troubleshooting Realms World Slot Errors](../Troubleshoot-Minecraft-Realms/Troubleshooting-Realms-World-Slot-Errors.md)

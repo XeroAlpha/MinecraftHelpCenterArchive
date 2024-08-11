@@ -33,7 +33,7 @@ Permanent bans will be issued to players found in the most severe or repeated vi
 
 If your account has been banned and you have a Realms Plus subscription, you should cancel your subscription so you will not be charged for content you cannot access.
 
-See our [How do I Cancel my Minecraft Realms Plus Subscription](../Manage-Realms-Subscriptions/How-Do-I-Renew-an-Expired-Minecraft-Bedrock-Edition-Realm-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) article for instructions to cancel.
+See our [How do I Cancel my Minecraft Realms Plus Subscription](../Manage-Realms-Subscriptions/How-to-Renew-an-Expired-Minecraft-Bedrock-Edition-Realms-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) article for instructions to cancel.
 
 ## Appealing an Account Ban
 

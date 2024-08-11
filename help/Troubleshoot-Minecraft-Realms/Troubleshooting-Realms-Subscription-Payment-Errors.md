@@ -2,12 +2,12 @@
 title: Troubleshooting Realms Subscription Payment Errors
 date: 2024-07-29T19:54:41Z
 updated: 2024-08-05T18:06:23Z
-categories: Marketplace & Realms Subscriptions
+categories: Troubleshoot Minecraft Realms
 tags:
   - subject_creating_a_realm
   - category_realms_support
   - section_26104084764557
-  - section_26104341937421
+  - section_ 26104165751437
   - use_for_autoreply
   - section_28872593033869
 link: https://help.minecraft.net/hc/en-us/articles/28804353409805-Troubleshooting-Realms-Subscription-Payment-Errors

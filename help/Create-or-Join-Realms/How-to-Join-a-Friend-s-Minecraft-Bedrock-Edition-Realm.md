@@ -5,7 +5,6 @@ updated: 2024-08-02T17:27:11Z
 categories: Create or Join Realms
 tags:
   - subject_join_or_leave_realm
-  - category_realms_support
   - section_26104084764557
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4410386197133-How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm
@@ -36,4 +35,4 @@ After you accept a Realm invite, it will be available for you to join in the Fri
 
 **Note:** If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
 
-For Realms troubleshooting, please refer to [Minecraft Realms Connection Troubleshooting](../Manage-or-Troubleshoot-Realms/Minecraft-Realms-Connection-Troubleshooting.md).
+For Realms troubleshooting, please refer to [Minecraft Realms Connection Troubleshooting](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md).

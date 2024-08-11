@@ -2,9 +2,10 @@
 title: "How to Find and Restore a Backup of a Minecraft: Java Edition Realm"
 date: 2023-10-24T21:14:02Z
 updated: 2024-07-25T20:40:30Z
-categories: Manage or Troubleshoot Realms
+categories: Troubleshoot Minecraft Realms
 tags:
   - section_ 26104165751437
+  - section_27166561402125
 link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm
 hash:
   h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them
@@ -13,7 +14,7 @@ hash:
 
 Creating a backup of a world is simple and easy. Creating backups is a good habit and can help you make sure you always keep your world safe. 
 
-To learn how we choose what versions of your Realm to backup, see [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
+To learn how we choose what versions of your Realm to backup, see [How Mojang Saves Backups for Your Minecraft Realm](../Manage-Realms-Settings-Worlds/How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
 
 ## How to find your Realms backups and restore them
 

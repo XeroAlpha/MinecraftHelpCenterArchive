@@ -23,7 +23,7 @@ hash:
 
 ## How to play with a friend online
 
-- To join a friend’s world, see [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](./How-Do-I-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
+- To join a friend’s world, see [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](./How-to-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
 - To join a Realm, see [How Do I Join Someone’s Minecraft: Bedrock Edition Realm?](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
 - For issues trying to join a multiplayer world, go to [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](./Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 
