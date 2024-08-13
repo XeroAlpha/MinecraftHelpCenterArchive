@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-07-12T16:05:27Z
+updated: 2024-08-13T19:04:46Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -74,9 +74,7 @@ A client error occurred during sign-in.
 
 ### Drowned:
 
-This means you’ve encountered an unknown error during sign-in.
-
-- Please fully close Minecraft: Bedrock Edition, reset your device, and attempt to log in again.
+See [Drowned Error Code Troubleshooting in Minecraft: Bedrock Edition](./Drowned-Error-Code-Troubleshooting-in-Minecraft-Bedrock-Edition.md).
 
 ### Ghast:
 

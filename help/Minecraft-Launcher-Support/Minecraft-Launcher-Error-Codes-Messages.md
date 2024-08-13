@@ -1,13 +1,14 @@
 ---
 title: Minecraft Launcher Error Codes & Messages
 date: 2024-01-22T20:56:52Z
-updated: 2024-06-04T18:54:14Z
+updated: 2024-08-13T18:49:24Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23432418934925-Minecraft-Launcher-Error-Codes-Messages
 hash:
   h_01HMSEEK698DB185PMAS64P27P: in-this-article
+  h_01J56FBXCRT6RSS072A81EV8YJ: java-profile-creation-failed-error
   h_01HMSEH1JVR22Q52APB54XA98F: minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001
   h_01HMSEK3Z50Y55WCBG5C2NNTQ3: unable-to-update-native-launcher-error
   h_01HMSEPCKH1CZ2QGPGXRWK9MKM: error-0x80131500-when-trying-to-install-the-launcher
@@ -22,17 +23,17 @@ If you are trying to play Minecraft through the Minecraft Launcher on PC but are
 
 # In This Article:
 
-- [Java Profile Creation Failed Error](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEEWYX37F3TH7XNP7A3ZPX)
-- [Minecraft Launcher license is currently not available for your account (0X803F8001)](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEH1JVR22Q52APB54XA98F)
-- [Unable to update native launcher error](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEK3Z50Y55WCBG5C2NNTQ3)
-- [Error 0X80131500 when trying to install the Launcher](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSEPCKH1CZ2QGPGXRWK9MKM)
-- [Can’t connect to Minecraft services error after login](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSET4M1NBEFA64PTMZANVBC)
-- [Error 0X80242020 after installing Bedrock Edition](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSF318T74CHXQ87F93YXN63)
-- [You must complete adult verification on the Xbox homepage error](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSF5044HM9DWH3ZBNCBA5B0)
-- [Launcher.dll Error](#resolving-minecraft-launcherdll-error)
+- [Java Profile Creation Failed Error](#java-profile-creation-failed-error)
+- [Minecraft Launcher license is currently not available for your account (0X803F8001)](#minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001)
+- [Unable to update native launcher error](#unable-to-update-native-launcher-error)
+- [Error 0X80131500 when trying to install the Launcher](#error-0x80131500-when-trying-to-install-the-launcher)
+- [Can’t connect to Minecraft services error after login](#cant-connect-to-minecraft-services-error-after-sign-in)
+- [Error 0X80242020 after installing Bedrock Edition](#error-0x80242020-after-installing-bedrock-edition)
+- [You must complete adult verification on the Xbox homepage error](#you-must-complete-adult-verification-on-the-xbox-homepage-error)
+- [Resolving Minecraft Launcher.dll Error](#resolving-minecraft-launcherdll-error)
 - [Security update available](#security-update-available)
 
-Java Profile Creation Failed Error
+## Java Profile Creation Failed Error
 
 Ensure that you’re properly logged into the same account on both the Microsoft Store and in the Minecraft Launcher.
 
