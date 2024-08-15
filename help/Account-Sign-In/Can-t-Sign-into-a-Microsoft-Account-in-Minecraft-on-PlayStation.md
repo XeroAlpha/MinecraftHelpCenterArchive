@@ -1,19 +1,21 @@
 ---
 title: Can’t Sign into a Microsoft Account in Minecraft on PlayStation
 date: 2021-09-13T18:04:56Z
-updated: 2024-06-13T23:27:24Z
-categories: Account Sign-In
+updated: 2024-08-15T16:04:52Z
+categories: Linking Microsoft Accounts
 tags:
   - category_account_support
+  - subject_sign_in_questions
   - platform_sony_playstation_4
   - popular
-  - section_27194059750157
+  - use_for_autoreply
+  - section_29296773863181
 link: https://help.minecraft.net/hc/en-us/articles/4409145073165-Can-t-Sign-into-a-Microsoft-Account-in-Minecraft-on-PlayStation
 ---
 
 If you want to play Minecraft with friends on other platforms, you will need to sign in to a Microsoft account.
 
-There are two possible scenarios where you might not be able to sign into your Microsoft account in Minecraft on PlayStation.
+There are two possible scenarios where you might not be able to sign into your Microsoft account in Minecraft on PlayStation®.
 
 - **Error: The Microsoft account you are trying to sign into is linked to a different PSN account.**
   - [Try linking to a different PSN account](./How-to-Link-and-Unlink-Microsoft-and-PlayStation-Accounts-in-Minecraft-Bedrock-Edition.md). Each Microsoft account can only be linked to one PSN account and vice versa.
