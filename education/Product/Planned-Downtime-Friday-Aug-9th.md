@@ -1,19 +1,20 @@
 ---
-title: Planned Downtime Friday Aug 9th
+title: You may experience issues downloading resources from the Minecraft Education website
 date: 2024-08-05T22:41:00Z
-updated: 2024-08-10T00:26:04Z
+updated: 2024-08-16T19:06:46Z
 categories: Product
-link: https://edusupport.minecraft.net/hc/en-us/articles/29132423241236-Planned-Downtime-Friday-Aug-9th
+link: https://edusupport.minecraft.net/hc/en-us/articles/29132423241236-You-may-experience-issues-downloading-resources-from-the-Minecraft-Education-website
+hash:
+  h_01J5E8SAZXHDVSPQYD1T58SNSC: latest-update
+  h_01J5E8SFJCNKVC7RDSSNDHQRS1: issue-description
 ---
 
-UPDATE:
+## Latest update
 
-The planned downtime is complete and all services are back online. Thank you for your patience and understanding as we performed this maintenance.
+Aug 16th 12:00 PM PDT 
 
- 
+## Issue description
 
-Original Message:
+We are aware that some world and teacher resources files hosted on the education.minecraft.net website are intermittently getting 404 errors when trying to download. Our team is working to resolve this issue as quickly as possible.
 
-Minecraft Education will experience a brief downtime to perform required maintenance of our servers. This downtime will occur on Friday, August 9th at 10:30PM UTC / Aug 9 at 6:30 PM EDT / Aug 9 at 11:30 PM BST / Aug 10 at 8:30 AM AEST. We estimate the servers will be offline for less than 15 minutes.
-
-During this time sign-in, joining multiplayer sessions and coding will all be unavailable, but anyone already signed in and connected to a world should not experience problems. We apologize for any inconvenience this downtime may cause.
+Please [reach out to support](https://aka.ms/mee-support) if you need help accessing a resource and we'll do our best to get it to you.
