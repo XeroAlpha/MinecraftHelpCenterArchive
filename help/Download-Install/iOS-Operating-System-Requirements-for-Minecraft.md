@@ -1,9 +1,17 @@
 ---
 title: iOS Operating System Requirements for Minecraft
 date: 2024-03-05T20:22:52Z
+updated: 2024-08-16T17:26:41Z
 categories: Download & Install
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - subject_game_performance
+  - platform_ios
+  - subject_game_crashes
   - section_27166490706957
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/24723754023821-iOS-Operating-System-Requirements-for-Minecraft
 hash:
   h_01HR84C2HY1R68NNK8HZH4A0HE: minimum-ios-requirements-for-minecraft

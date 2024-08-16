@@ -1,10 +1,17 @@
 ---
 title: "Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition"
 date: 2024-06-21T20:09:54Z
-updated: 2024-06-21T20:43:04Z
+updated: 2024-08-16T18:33:55Z
 categories: Performance & Troubleshooting
 tags:
+  - subject_progress_and_saved_games
+  - title_minecraft
+  - category_technical_support
+  - platform_windows_10
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/27778850781837-Achievements-Not-Displaying-or-Unlocking-in-Minecraft-Bedrock-Edition
 ---
 
@@ -21,10 +28,10 @@ If playing on PC, you can also check to make sure your Xbox services are live. F
 1.  Press the **Windows key + R** simultaneously.
 2.  Type **services.msc**.
 3.  Press **Ok**.
-4.  Find the following services in the list:  
-    \* Connected User Experiences and Telemetry  
-    \* Xbox Live Auth Manager  
-    \* Xbox Live Networking Service
+4.  Find the following services in the list:
+    - Connected User Experiences and Telemetry
+    - Xbox Live Auth Manager
+    - Xbox Live Networking Service
 5.  If any of the above say something under their status besides **Running**, double-click them.
 6.  Select **Automatic** under Startup type.
 7.  Press Apply then **Ok**.

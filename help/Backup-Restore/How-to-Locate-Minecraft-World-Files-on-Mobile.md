@@ -1,9 +1,13 @@
 ---
 title: How to Locate Minecraft World Files on Mobile
 date: 2024-05-20T21:07:21Z
+updated: 2024-08-16T17:05:33Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
   - platform_ios
   - platform_android
   - section_27166561402125
