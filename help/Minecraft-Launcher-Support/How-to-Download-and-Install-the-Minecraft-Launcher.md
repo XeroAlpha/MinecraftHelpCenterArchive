@@ -1,16 +1,27 @@
 ---
 title: How to Download and Install the Minecraft Launcher
 date: 2024-02-06T19:18:26Z
-updated: 2024-07-12T15:44:10Z
+updated: 2024-08-16T16:17:29Z
 categories: Minecraft Launcher Support
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_windows_10
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
+  - section_27166490706957
   - section_27166539479437
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/23907917790093-How-to-Download-and-Install-the-Minecraft-Launcher
 ---
 
 The Minecraft Launcher is your one-stop shop for downloading and managing your Minecraft game installations on your PC, Mac, or Linux devices. Your game will update through this app and give you easy access to many other features!
 
-There are multiple sources you can download the Minecraft Launcher through.
+The Minecraft Launcher is available in several different locations.
 
 **Microsoft Store**
 

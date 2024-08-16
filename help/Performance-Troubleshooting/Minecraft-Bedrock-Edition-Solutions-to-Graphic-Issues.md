@@ -1,14 +1,17 @@
 ---
-title: "Minecraft: Bedrock Edition Solutions to Graphic Issues"
+title: "Troubleshooting Graphics Issues in Minecraft: Bedrock Edition"
 date: 2021-09-13T18:10:41Z
-updated: 2024-07-12T16:15:07Z
+updated: 2024-08-16T15:55:27Z
 categories: Performance & Troubleshooting
 tags:
+  - title_minecraft
   - category_technical_support
   - subject_game_performance
+  - platform_windows_10
+  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409145165965-Minecraft-Bedrock-Edition-Solutions-to-Graphic-Issues
+link: https://help.minecraft.net/hc/en-us/articles/4409145165965-Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition
 hash:
   h_01HQXSSPYEHKG2RS2PPZR811BA: update-minecraft-and-your-operating-system
   h_01HQXST89QH22FVKMGSRAH9AKD: recommended-game-settings

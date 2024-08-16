@@ -1,11 +1,15 @@
 ---
 title: Fixing Minecraft Installation Stalling or Stopping on Windows
 date: 2024-06-14T17:43:25Z
+updated: 2024-08-16T16:26:41Z
 categories: Download & Install
 tags:
+  - title_minecraft
   - category_technical_support
   - subject_downloads_and_installations
+  - platform_windows_10
   - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/27580697532557-Fixing-Minecraft-Installation-Stalling-or-Stopping-on-Windows
@@ -18,11 +22,9 @@ If your Windows Minecraft installation isn’t working, you can try uninstalling
 
 ## How to reset the Microsoft Store on Windows
 
-Press the **Windows key** + **R** simultaneously.
-
-Type **WSReset** into the Run window
-
-Press **Enter**.
+1.  Press the **Windows key** + **R** simultaneously.
+2.  Type **WSReset** into the Run window
+3.  Press **Enter**.
 
 ## How to reset the Minecraft Launcher
 
