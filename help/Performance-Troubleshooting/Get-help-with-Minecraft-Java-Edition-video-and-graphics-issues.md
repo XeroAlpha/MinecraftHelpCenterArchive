@@ -1,11 +1,21 @@
 ---
-title: "Get help with Minecraft: Java Edition video and graphics issues"
+title: "Troubleshooting Video and Graphics Issues in Minecraft: Java Edition"
 date: 2021-09-13T18:03:20Z
-updated: 2024-03-28T20:09:37Z
+updated: 2024-08-16T00:03:28Z
 categories: Performance & Troubleshooting
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - category_technical_support
+  - subject_game_performance
+  - platform_windows_10
+  - subject_game_crashes
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - section_27166432886285
-link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Get-help-with-Minecraft-Java-Edition-video-and-graphics-issues
+  - use_for_autoreply
+link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Troubleshooting-Video-and-Graphics-Issues-in-Minecraft-Java-Edition
 hash:
   h_01HT3AH3YKKCW4FA23SKA2K21T: issues-with-frame-or-pixel-format
   h_01HT3AMP010QFM38WZ5X7EY882: windows-arm64-does-not-appear-to-support-opengl
