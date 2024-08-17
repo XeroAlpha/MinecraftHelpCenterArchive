@@ -1,19 +1,31 @@
 ---
 title: How to Subscribe to Minecraft Marketplace Pass
 date: 2024-02-20T18:00:08Z
-updated: 2024-07-31T17:45:10Z
+updated: 2024-08-16T22:30:36Z
 categories: Marketplace & Realms Subscriptions
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_marketplace_support
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_24090952098445
+  - subject_marketplace_pass
+  - use_for_autoreply
   - section_28872593033869
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/24292592537869-How-to-Subscribe-to-Minecraft-Marketplace-Pass
 hash:
-  h_01J44WPXF94EQPHVKERS0CH2ZA: how-to-subscribe-to-minecraft-marketplace-pass
+  h_01J5EN0F46XA5JG89PF91BMDKC: how-to-subscribe-to-minecraft-marketplace-pass
 ---
 
 Marketplace Pass is a monthly subscription service that gives you access to 150+ pieces of content from Minecraft Marketplace. Visit [Minecraft Marketplace Pass](https://www.minecraft.net/en-us/marketplace/marketplace-pass) for more information.
 
-## **How to subscribe to Minecraft Marketplace Pass**
+## How to subscribe to Minecraft Marketplace Pass
 
 1.  Launch Minecraft.
 2.  Sign into the Microsoft account you want to use for Marketplace Pass on the title screen.
