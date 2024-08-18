@@ -36,4 +36,4 @@ Lag and crashes are two of a gamer’s worst enemies. If you are dealing with ei
 - [Disable Add-ons](../Minecraft-Marketplace/Disabling-Minecraft-Add-Ons.md) if multiple add-ons are installed
 - Uninstall and reinstall Minecraft.
 
-For more ways to make Minecraft run better, see [Optimizing Performance in Minecraft](./Optimizing-Performance-in-Minecraft.md).
+For more ways to make Minecraft run better, see [Optimizing Performance in Minecraft](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md).

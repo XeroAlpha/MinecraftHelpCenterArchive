@@ -8,8 +8,13 @@ tags:
   - category_technical_support
   - subject_game_performance
   - subject_connectivity
+  - platform_windows_10
   - subject_game_crashes
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - popular
+  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
@@ -111,7 +116,7 @@ This means you’ve encountered an unknown client error during sign-in.
 
 The wrong Microsoft/Xbox account is being used to sign into the current PlayStation Network account.
 
-- The PlayStation and Microsoft account link is permanent and cannot be associated with other accounts. For more information, please see our FAQ: [Minecraft for PlayStation®](../Account-Sign-In/How-to-Link-and-Unlink-Microsoft-and-PlayStation-Accounts-in-Minecraft-Bedrock-Edition.md)
+- The PlayStation and Microsoft account link is permanent and cannot be associated with other accounts. For more information, please see our FAQ: [Minecraft for PlayStation®](../Linking-Microsoft-Accounts/How-to-Link-Microsoft-and-PlayStation-Accounts-in-Minecraft.md)
 
 ### Terracotta:
 

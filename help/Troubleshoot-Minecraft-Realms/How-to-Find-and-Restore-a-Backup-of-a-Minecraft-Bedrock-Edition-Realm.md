@@ -4,8 +4,23 @@ date: 2023-10-24T21:10:46Z
 updated: 2024-08-02T17:35:21Z
 categories: Troubleshoot Minecraft Realms
 tags:
+  - subject_progress_and_saved_games
+  - title_minecraft
+  - category_technical_support
+  - platform_xbox_one
+  - platform_windows_10
+  - subject_creating_a_realm
+  - platform_nintendo_switch
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
   - section_27166561402125
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/20687461045645-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J4A2FJT07Y4E7GS15JM5KCM8: how-to-download-or-restore-a-realms-world-from-a-backup

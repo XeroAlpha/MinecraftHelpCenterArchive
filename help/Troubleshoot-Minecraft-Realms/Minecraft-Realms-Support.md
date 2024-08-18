@@ -4,7 +4,19 @@ date: 2021-09-14T23:14:55Z
 updated: 2024-08-06T14:18:41Z
 categories: Troubleshoot Minecraft Realms
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/4409247032845-Minecraft-Realms-Support
 hash:
   h_01HT38HTGHV9RD4ZAZ2MG5WC8A: creating-a-realm

@@ -4,6 +4,20 @@ date: 2019-10-13T21:41:49Z
 updated: 2024-07-31T21:24:17Z
 categories: Buying Minecraft Games
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_windows_10
+  - platform_ios
+  - platform_android
+  - platform_nintendo_switch
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
+  - use_for_autoreply
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions
 ---

@@ -4,10 +4,23 @@ date: 2021-09-24T21:00:46Z
 updated: 2024-08-05T20:59:24Z
 categories: Manage Realms Subscriptions
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - category_realms_support
   - subject_extending_a_realm
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
+  - subject_new_or_existing_subscription_questions
   - section_26104341937421
   - use_for_autoreply
   - section_28872593033869
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/4410000696077-How-to-Renew-an-Expired-Minecraft-Java-Edition-Realms-Subscription
 hash:
   h_01HPMGFMK4WYRCFWGTDVK8DBN8: how-to-renew-an-expired-realm

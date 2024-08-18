@@ -4,7 +4,18 @@ date: 2024-02-28T20:59:18Z
 updated: 2024-02-28T22:11:52Z
 categories: Multiplayer Support
 tags:
+  - title_minecraft_java_edition
+  - category_technical_support
+  - subject_how_to_play
+  - subject_connectivity
+  - platform_windows_10
+  - subject_join_or_leave_realm
+  - category_realms_support
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - section_27166460834061
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/24543695465357-Get-Help-with-Minecraft-Java-Edition-Multiplayer
 hash:
   h_01FGW4RM6RN52032P35NWR62A5: steps-to-resolve-connection-issues

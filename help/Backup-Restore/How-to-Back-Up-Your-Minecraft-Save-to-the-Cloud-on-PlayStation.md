@@ -4,12 +4,18 @@ date: 2023-05-05T16:55:24Z
 updated: 2024-02-09T22:45:25Z
 categories: Backup & Restore
 tags:
+  - subject_progress_and_saved_games
   - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
   - title_minecraft_dungeons
+  - platform_sony_playstation_4
   - title_minecraft_legends
   - title_legends
+  - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
   - section_27166561402125
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/15518966498061-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-PlayStation
 hash:
   h_01HNXNWCRKQZ8Y88B8JMP39NYD: playstation-4

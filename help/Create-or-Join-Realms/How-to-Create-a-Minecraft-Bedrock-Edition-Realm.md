@@ -4,10 +4,20 @@ date: 2023-10-24T21:02:17Z
 updated: 2024-07-31T18:48:43Z
 categories: Create or Join Realms
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
   - subject_creating_a_realm
+  - platform_nintendo_switch
+  - category_realms_support
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
   - use_for_autoreply
   - section_28872593033869
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/20687129531149-How-to-Create-a-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J451QBFJ9FN7Y68X06KB6Q0W: starting-a-realm-on-minecraft-bedrock-edition

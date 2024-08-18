@@ -4,7 +4,22 @@ date: 2024-08-05T20:55:09Z
 updated: 2024-08-05T20:55:14Z
 categories: Troubleshoot Minecraft Realms
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - subject_creating_a_realm
+  - platform_nintendo_switch
+  - category_realms_support
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/29011441596301-Troubleshooting-Couldn-t-Create-a-Realm-Right-Now-Error
 ---
 

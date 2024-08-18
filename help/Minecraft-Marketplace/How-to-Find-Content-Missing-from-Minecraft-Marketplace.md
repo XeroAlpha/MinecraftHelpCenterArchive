@@ -4,7 +4,19 @@ date: 2021-03-25T19:21:09Z
 updated: 2024-05-03T18:54:29Z
 categories: Minecraft Marketplace
 tags:
+  - title_minecraft
+  - subject_cannot_find_purchase
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_marketplace_support
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_24069904400141
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/360059025451-How-to-Find-Content-Missing-from-Minecraft-Marketplace
 hash:
   h_01HWZWS0DDFT2VR8EH11YM41VC: view-your-marketplace-content

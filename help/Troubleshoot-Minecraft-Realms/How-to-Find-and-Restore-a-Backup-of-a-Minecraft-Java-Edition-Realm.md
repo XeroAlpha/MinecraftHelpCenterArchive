@@ -4,8 +4,17 @@ date: 2023-10-24T21:14:02Z
 updated: 2024-07-25T20:40:30Z
 categories: Troubleshoot Minecraft Realms
 tags:
+  - title_minecraft_java_edition
+  - platform_windows_10
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
   - section_27166561402125
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm
 hash:
   h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them

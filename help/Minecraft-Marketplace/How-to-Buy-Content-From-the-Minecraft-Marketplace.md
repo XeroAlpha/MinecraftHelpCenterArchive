@@ -4,7 +4,19 @@ date: 2024-02-12T20:32:01Z
 updated: 2024-02-22T20:12:11Z
 categories: Minecraft Marketplace
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_marketplace_support
+  - subject_content_questions
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_24069904400141
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/24069202046349-How-to-Buy-Content-From-the-Minecraft-Marketplace
 hash:
   h_01HQ972GQDQ2XSR5BQV71NG5PA: how-to-buy-minecraft-marketplace-content

@@ -4,7 +4,17 @@ date: 2021-09-10T18:18:54Z
 updated: 2024-08-07T18:42:53Z
 categories: Download & Install
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_windows_10
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4408945065357-Transferring-Minecraft-and-Other-Minecraft-Game-Licenses-Between-Devices
 ---
 

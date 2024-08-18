@@ -4,7 +4,10 @@ date: 2024-05-31T20:42:40Z
 updated: 2024-08-14T18:22:54Z
 categories: Account Sign-In
 tags:
+  - category_account_support
+  - subject_sign_in_questions
   - section_27194059750157
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/27202503868685-Troubleshooting-Locked-Compromised-or-Stolen-Microsoft-Accounts
 hash:
   h_01J590SG84YGSSX9TEXFKB3DHW: accessing-a-locked-microsoft-account

@@ -4,7 +4,14 @@ date: 2021-09-09T23:47:44Z
 updated: 2024-01-23T19:38:42Z
 categories: Performance & Troubleshooting
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - subject_game_performance
+  - platform_android
+  - subject_game_crashes
   - section_27166432886285
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4408896232461-Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting
 hash:
   h_01HMVX21THQY6G0H8XAPNQS4JC: what-are-the-minimum-specifications-to-play-minecraft

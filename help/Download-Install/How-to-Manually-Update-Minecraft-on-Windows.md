@@ -4,7 +4,13 @@ date: 2024-04-01T19:09:34Z
 updated: 2024-04-01T21:35:26Z
 categories: Download & Install
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_windows_10
+  - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/25519964899597-How-to-Manually-Update-Minecraft-on-Windows
 ---
 

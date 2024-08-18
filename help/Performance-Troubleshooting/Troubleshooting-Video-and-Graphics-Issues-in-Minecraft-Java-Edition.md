@@ -22,7 +22,7 @@ hash:
   h_01HT3ANFGM8PYYKD1PYJE2FV2R: pink-and-black-checkered-boxes-appear-where-textures-should-be
 ---
 
-*This article addresses Minecraft: Java Edition technical issues only. Visit [Minecraft: Bedrock Edition](./Minecraft-Bedrock-Edition-Solutions-to-Graphic-Issues.md).* 
+*This article addresses Minecraft: Java Edition technical issues only. Visit [Minecraft: Bedrock Edition](./Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition.md).* 
 
  
 
@@ -57,4 +57,4 @@ If these steps do not resolve your issue, try reaching out to the creator of the
 
  
 
-If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](./Optimizing-Performance-in-Minecraft.md).
+If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md).

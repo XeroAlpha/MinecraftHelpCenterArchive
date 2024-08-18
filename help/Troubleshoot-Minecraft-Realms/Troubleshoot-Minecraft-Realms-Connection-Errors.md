@@ -4,9 +4,22 @@ date: 2021-09-30T21:40:55Z
 updated: 2024-08-05T21:03:23Z
 categories: Troubleshoot Minecraft Realms
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
   - subject_connectivity
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_realms_support
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
   - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Troubleshoot-Minecraft-Realms-Connection-Errors
 ---
 

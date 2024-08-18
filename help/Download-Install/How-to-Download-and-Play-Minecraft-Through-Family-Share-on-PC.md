@@ -4,7 +4,14 @@ date: 2023-12-01T15:57:39Z
 updated: 2024-07-17T18:06:51Z
 categories: Download & Install
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_windows_10
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/21854073838989-How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC
 hash:
   h_01HGJYNQC72MCQ54DWJ9M4F3YW: how-to-set-up-family-share-on-your-pc

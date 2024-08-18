@@ -4,6 +4,9 @@ date: 2021-09-09T23:22:59Z
 updated: 2024-03-05T20:11:06Z
 categories: Backup & Restore
 tags:
+  - subject_progress_and_saved_games
+  - title_minecraft
+  - category_technical_support
   - platform_ios
   - section_27166561402125
   - use_for_autoreply

@@ -4,7 +4,14 @@ date: 2023-05-05T16:52:24Z
 updated: 2024-02-09T22:45:03Z
 categories: Backup & Restore
 tags:
+  - subject_progress_and_saved_games
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_xbox_one
   - section_27166561402125
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/15518925987981-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-Xbox
 ---
 

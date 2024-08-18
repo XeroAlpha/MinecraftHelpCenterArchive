@@ -4,8 +4,20 @@ date: 2024-02-20T18:18:23Z
 updated: 2024-03-19T20:53:23Z
 categories: Marketplace Pass
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_marketplace_support
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_24090952098445
+  - subject_marketplace_pass
+  - use_for_autoreply
   - section_28872593033869
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/24293484883853-I-Can-t-Sign-Up-for-Minecraft-Marketplace-Pass
 hash:
   h_01HQ3V8WPPYEZQ5F5RCYMFM2E2: i-cant-sign-up-for-minecraft-marketplace-pass

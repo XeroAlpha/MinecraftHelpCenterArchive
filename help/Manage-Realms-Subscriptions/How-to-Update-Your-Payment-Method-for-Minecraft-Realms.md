@@ -4,8 +4,24 @@ date: 2024-08-02T18:05:35Z
 updated: 2024-08-02T22:22:46Z
 categories: Manage Realms Subscriptions
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_realms_support
+  - subject_extending_a_realm
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
+  - subject_new_or_existing_subscription_questions
   - section_26104341937421
+  - use_for_autoreply
   - section_28872593033869
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/28941339414541-How-to-Update-Your-Payment-Method-for-Minecraft-Realms
 hash:
   h_01J4A4022R49S90HXRAHN3SETN: how-to-update-the-payment-method-for-a-minecraft-bedrock-edition-realm

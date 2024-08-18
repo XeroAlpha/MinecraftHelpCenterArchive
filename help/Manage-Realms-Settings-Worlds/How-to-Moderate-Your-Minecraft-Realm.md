@@ -4,7 +4,22 @@ date: 2021-03-25T23:05:09Z
 updated: 2024-08-05T22:13:38Z
 categories: Manage Realms Settings & Worlds
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - section_12618497714061
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/360058604512-How-to-Moderate-Your-Minecraft-Realm
 hash:
   h_01HS9QFKDH66JJX5FYGC5D83NA: how-to-find-realms-settings

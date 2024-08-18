@@ -4,7 +4,16 @@ date: 2023-09-14T20:59:33Z
 updated: 2024-01-30T21:12:11Z
 categories: Performance & Troubleshooting
 tags:
+  - title_minecraft
+  - platform_windows_10
+  - category_account_support
+  - subject_delete_account
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - section_27166432886285
+  - section_27194059750157
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/19506833026829-Who-to-contact-with-your-Minecraft-support-questions
 hash:
   h_01HAAPPA12ETYZNZDTZVA48V29: account-support

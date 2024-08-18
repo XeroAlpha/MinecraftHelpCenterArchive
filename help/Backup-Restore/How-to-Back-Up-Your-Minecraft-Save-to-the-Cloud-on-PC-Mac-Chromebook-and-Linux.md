@@ -4,7 +4,23 @@ date: 2023-05-05T16:36:26Z
 updated: 2024-04-08T21:51:33Z
 categories: Backup & Restore
 tags:
+  - title_minecraft_java_edition
+  - subject_progress_and_saved_games
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - title_minecraft_dungeons
+  - platform_windows_10
+  - subject_game_crashes
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_legends
+  - title_legends
+  - platform_chromebook
+  - title_minecraft_java_bedrock_for_pc
   - section_27166561402125
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/15518267480461-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-PC-Mac-Chromebook-and-Linux
 hash:
   h_01HNXP1VPG0VY12QY3S3MF2DXH: in-this-article

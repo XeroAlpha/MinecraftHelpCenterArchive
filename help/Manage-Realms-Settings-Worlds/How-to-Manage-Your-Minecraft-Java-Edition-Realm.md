@@ -4,7 +4,16 @@ date: 2023-10-25T17:03:24Z
 updated: 2024-08-02T17:56:50Z
 categories: Manage Realms Settings & Worlds
 tags:
+  - title_minecraft_java_edition
+  - platform_windows_10
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - section_12618497714061
+  - title_minecraft_java_bedrock_for_pc
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/20712000178317-How-to-Manage-Your-Minecraft-Java-Edition-Realm
 hash:
   h_01J4A3NZ0X93T36AJ5P5GJDCRB: how-to-access-your-java-realm-settings

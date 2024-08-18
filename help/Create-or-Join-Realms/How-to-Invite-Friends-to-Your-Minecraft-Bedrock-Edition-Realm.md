@@ -4,7 +4,19 @@ date: 2023-12-18T21:30:49Z
 updated: 2024-07-31T19:14:06Z
 categories: Create or Join Realms
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - subject_join_or_leave_realm
+  - platform_nintendo_switch
+  - category_realms_support
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/22471067820429-How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J4536CQYERG78T25BP5NTKXN: where-to-invite-friends-to-a-minecraft-bedrock-edition-realm

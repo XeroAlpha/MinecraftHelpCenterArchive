@@ -4,7 +4,17 @@ date: 2021-09-29T21:02:52Z
 updated: 2024-02-28T22:12:47Z
 categories: Multiplayer Support
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - category_technical_support
+  - subject_how_to_play
+  - platform_windows_10
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4410317081741-How-to-Play-Minecraft-Java-Edition-Multiplayer
 hash:
   h_01GH9N2WH0HBF3NJAPWREF80JE: ensure-minecraft-java-edition-is-on-the-correct-version

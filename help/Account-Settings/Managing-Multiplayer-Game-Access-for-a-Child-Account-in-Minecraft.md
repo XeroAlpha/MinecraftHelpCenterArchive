@@ -4,7 +4,15 @@ date: 2024-02-20T22:11:14Z
 updated: 2024-06-11T23:15:09Z
 categories: Account Settings
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_how_to_play
+  - platform_windows_10
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_27194076935437
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft
 hash:
   h_01HQ48AQA222X3Q8S3ZPS30SNX: related-articles

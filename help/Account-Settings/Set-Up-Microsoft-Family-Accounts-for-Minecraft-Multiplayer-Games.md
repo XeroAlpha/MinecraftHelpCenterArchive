@@ -4,9 +4,22 @@ date: 2021-09-10T22:08:35Z
 updated: 2024-05-30T18:54:34Z
 categories: Account Settings
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - category_technical_support
+  - subject_how_to_play
+  - subject_connectivity
+  - platform_windows_10
+  - subject_join_or_leave_realm
+  - category_realms_support
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - popular
+  - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
   - section_27194076935437
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games
 hash:
   h_01HQ44H80QWE5ED40D6GSFSGBB: follow-these-steps-to-set-up-your-family-accounts

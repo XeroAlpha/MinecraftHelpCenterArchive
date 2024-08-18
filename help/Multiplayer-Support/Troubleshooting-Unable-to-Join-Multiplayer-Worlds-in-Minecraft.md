@@ -4,8 +4,17 @@ date: 2021-09-14T22:13:00Z
 updated: 2024-02-07T20:00:30Z
 categories: Multiplayer Support
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_how_to_play
+  - platform_windows_10
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_ 26104165751437
   - section_27166460834061
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft
 ---
 

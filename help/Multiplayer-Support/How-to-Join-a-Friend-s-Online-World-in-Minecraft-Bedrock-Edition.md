@@ -4,7 +4,15 @@ date: 2024-02-14T18:43:29Z
 updated: 2024-08-05T21:10:46Z
 categories: Multiplayer Support
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_how_to_play
+  - platform_nintendo_switch
+  - platform_sony_playstation_4
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/24122512131213-How-to-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition
 hash:
   h_01J4J620CG0PQT03BW15FC0J2D: how-to-add-friends-and-join-online-games

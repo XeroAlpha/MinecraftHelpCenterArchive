@@ -4,7 +4,6 @@ date: 2022-05-09T16:09:03Z
 updated: 2024-07-31T19:29:19Z
 categories: Buying Minecraft Games
 tags:
-  - section_27194076935437
   - section_28871651550221
 link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux
 hash:

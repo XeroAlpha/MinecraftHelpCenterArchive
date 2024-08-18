@@ -4,7 +4,13 @@ date: 2021-09-14T00:17:35Z
 updated: 2024-06-14T17:36:31Z
 categories: Download & Install
 tags:
+  - title_minecraft
+  - category_technical_support
+  - subject_downloads_and_installations
+  - platform_ios
+  - platform_android
   - section_27166490706957
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4409172223501-How-to-Manually-Update-Minecraft-on-Mobile
 hash:
   h_01J0BX0EQMTFTECRVQY4YT4CHM: how-to-manually-update-minecraft-on-ios

@@ -13,8 +13,8 @@ From time to time, Minecraft will host special events that allow players to join
 
 - **Sign into or link a Microsoft account:** You need to sign into Minecraft: Bedrock Edition with a Microsoft account that owns Minecraft or is subscribed to Xbox Game Pass. If you're playing on a console, link your account to your Microsoft account. See these articles for more information:
   - [Troubleshooting Minecraft Sign-in Issues](../Account-Sign-In/Troubleshooting-Minecraft-Sign-in-Issues.md)
-  - [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Account-Sign-In/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
-  - [How to Link and Unlink Microsoft and PlayStation Accounts in Minecraft: Bedrock Edition](../Account-Sign-In/How-to-Link-and-Unlink-Microsoft-and-PlayStation-Accounts-in-Minecraft-Bedrock-Edition.md)
+  - [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
+  - [How to Link and Unlink Microsoft and PlayStation Accounts in Minecraft: Bedrock Edition](../Linking-Microsoft-Accounts/How-to-Link-Microsoft-and-PlayStation-Accounts-in-Minecraft.md)
 - **Check account permissions:** If you’re playing on a child account, you may need a parent’s assistance with changing parental controls.  See these articles for more information:
   - [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md) 
   - [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)

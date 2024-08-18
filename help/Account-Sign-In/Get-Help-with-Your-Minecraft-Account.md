@@ -4,8 +4,22 @@ date: 2019-06-27T20:41:11Z
 updated: 2024-08-09T20:51:02Z
 categories: Account Sign-In
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_account_support
+  - subject_sign_in_questions
+  - subject_delete_account
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - section_12617594906509
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_27194059750157
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/360029681732-Get-Help-with-Your-Minecraft-Account
 ---
 

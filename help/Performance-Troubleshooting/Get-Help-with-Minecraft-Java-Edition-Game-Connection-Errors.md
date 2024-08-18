@@ -4,7 +4,14 @@ date: 2021-09-10T20:45:00Z
 updated: 2024-04-24T16:12:35Z
 categories: Performance & Troubleshooting
 tags:
+  - title_minecraft_java_edition
+  - category_technical_support
+  - subject_game_performance
+  - platform_windows_10
+  - platform_linux
+  - platform_macos
   - section_27166432886285
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4408949606541-Get-Help-with-Minecraft-Java-Edition-Game-Connection-Errors
 hash:
   h_01HTDT080MJXNDX07FF7NHSKEE: i-cannot-connect-to-game-services

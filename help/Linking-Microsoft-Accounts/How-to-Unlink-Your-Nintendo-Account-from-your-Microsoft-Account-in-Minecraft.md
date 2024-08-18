@@ -2,9 +2,9 @@
 title: How to Unlink Your Nintendo Account from your Microsoft Account in Minecraft
 date: 2024-08-12T17:45:31Z
 updated: 2024-08-14T16:39:49Z
-categories: Account Sign-In
+categories: Linking Microsoft Accounts
 tags:
-  - section_27194059750157
+  - section_29296773863181
 link: https://help.minecraft.net/hc/en-us/articles/29198875278989-How-to-Unlink-Your-Nintendo-Account-from-your-Microsoft-Account-in-Minecraft
 hash:
   h_01J53V2DHGMGXSK8YPHJCNPV89: how-to-unlink-your-microsoft-account-in-minecraft-on-nintendo-switch

@@ -5,6 +5,7 @@ updated: 2024-08-02T17:39:11Z
 categories: Manage Realms Settings & Worlds
 tags:
   - section_12618497714061
+  - section_27166561402125
 link: https://help.minecraft.net/hc/en-us/articles/28717462139149-How-Mojang-Saves-Backups-for-Your-Minecraft-Realm
 hash:
   h_01J4A2P1G5DAN0P61RBF4A4GXT: realms-backup-retention-policy

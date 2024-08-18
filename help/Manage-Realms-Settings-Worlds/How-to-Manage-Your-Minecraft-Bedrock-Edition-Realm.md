@@ -4,7 +4,19 @@ date: 2023-10-24T20:58:20Z
 updated: 2024-08-05T21:55:58Z
 categories: Manage Realms Settings & Worlds
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_sony_playstation_4
+  - platform_pc
   - section_12618497714061
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
+  - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/20686901046669-How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J4A32QF2RJK6JAM2M16V196J: how-to-access-the-manage-realm-options

@@ -4,10 +4,14 @@ date: 2021-11-19T22:40:09Z
 updated: 2024-06-14T21:32:52Z
 categories: Backup & Restore
 tags:
+  - subject_progress_and_saved_games
+  - title_minecraft
+  - category_technical_support
   - subject_downloads_and_installations
   - platform_android
   - popular
   - section_27166561402125
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4414144725389-I-Can-t-Find-my-Minecraft-World-on-Android
 hash:
   h_01J0CAJ0EDT7768TQV3Y7CBSFX: move-your-worlds-directly-to-their-new-location

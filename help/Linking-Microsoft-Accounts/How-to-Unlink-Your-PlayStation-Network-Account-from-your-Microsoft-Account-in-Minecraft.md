@@ -2,9 +2,9 @@
 title: How to Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft
 date: 2024-08-12T17:47:11Z
 updated: 2024-08-13T15:58:06Z
-categories: Account Sign-In
+categories: Linking Microsoft Accounts
 tags:
-  - section_27194059750157
+  - section_29296773863181
 link: https://help.minecraft.net/hc/en-us/articles/29198935918477-How-to-Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft
 hash:
   h_01J53V5YMKW3SA4X14CP22HR9J: how-to-unlink-your-microsoft-account-in-minecraft-on-playstation

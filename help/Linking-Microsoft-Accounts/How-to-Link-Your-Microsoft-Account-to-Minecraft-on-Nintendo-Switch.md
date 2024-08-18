@@ -2,10 +2,9 @@
 title: How to Link Your Microsoft Account to Minecraft on Nintendo Switch
 date: 2021-09-09T22:41:11Z
 updated: 2024-08-14T16:26:28Z
-categories: Account Sign-In
+categories: Linking Microsoft Accounts
 tags:
-  - platform_nintendo_switch
-  - section_27194059750157
+  - section_29296773863181
 link: https://help.minecraft.net/hc/en-us/articles/4408894129933-How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch
 hash:
   h_01J58VATFRBMM06MYQKBXG9XX5: linking-your-microsoft-account-to-minecraft-on-nintendo-switch

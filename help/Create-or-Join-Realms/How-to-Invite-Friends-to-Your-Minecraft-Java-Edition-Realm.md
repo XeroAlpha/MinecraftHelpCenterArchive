@@ -4,7 +4,16 @@ date: 2024-04-15T19:13:45Z
 updated: 2024-07-23T20:20:36Z
 categories: Create or Join Realms
 tags:
+  - title_minecraft_java_edition
+  - platform_windows_10
+  - subject_join_or_leave_realm
+  - category_realms_support
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
+  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/25916625786509-How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm
 ---
 

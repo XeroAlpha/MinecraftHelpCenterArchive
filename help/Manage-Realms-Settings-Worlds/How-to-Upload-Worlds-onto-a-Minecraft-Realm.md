@@ -4,7 +4,22 @@ date: 2023-10-24T20:53:20Z
 updated: 2024-08-05T21:21:07Z
 categories: Manage Realms Settings & Worlds
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - subject_creating_a_realm
+  - platform_nintendo_switch
+  - category_realms_support
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
+  - use_for_autoreply
   - section_ 12618497714061
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/20686744908429-How-to-Upload-Worlds-onto-a-Minecraft-Realm
 hash:
   h_01J4J6N70NWQGHCQQ358Q5687C: how-to-upload-a-world-onto-a-minecraft-bedrock-edition-realm
