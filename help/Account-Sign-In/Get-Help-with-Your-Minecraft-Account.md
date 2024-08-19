@@ -1,7 +1,7 @@
 ---
 title: Get Help with Your Minecraft Account
 date: 2019-06-27T20:41:11Z
-updated: 2024-08-09T20:51:02Z
+updated: 2024-08-19T18:21:39Z
 categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
@@ -34,8 +34,7 @@ Your Minecraft game uses your Microsoft account to sign in. You'll find links be
 - [Update Your Gamertag](https://support.xbox.com/en-US/help/account-profile/profile/change-xbox-live-gamertag)
 - [Get Help switching between Microsoft Accounts to play Minecraft](./Switching-Between-Microsoft-Accounts-in-Launcher-to-Play-Minecraft.md)
 - [Create a new Microsoft Account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf)
-
- 
+- [How to Close Your Microsoft Account](https://support.microsoft.com/en-us/account-billing/how-to-close-your-microsoft-account-c1b2d13f-4de6-6e1b-4a31-d9d668849979)
 
 If your issue is not addressed here, please take a look at our [technical support resources](../Performance-Troubleshooting/Get-Help-with-Minecraft-Java-Edition-Game-Connection-Errors.md). 
 
