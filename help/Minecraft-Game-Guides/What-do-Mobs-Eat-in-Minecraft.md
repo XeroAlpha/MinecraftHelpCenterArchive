@@ -1,7 +1,7 @@
 ---
 title: What do Mobs Eat in Minecraft?
 date: 2023-09-25T21:42:14Z
-updated: 2024-07-01T21:45:43Z
+updated: 2024-08-21T16:25:18Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -17,6 +17,7 @@ There are plenty of mobs you will see as you explore your world in Minecraft. Ho
 Here is the complete list of animal mobs in Minecraft that you can feed and what they like to eat:
 
 - Axolotl – Bucket of tropical fish
+- Armadillo – Spider eyes
 - Bee – Any flower
 - Camel - Cactus
 - Cat/Ocelot – Raw cod, raw salmon

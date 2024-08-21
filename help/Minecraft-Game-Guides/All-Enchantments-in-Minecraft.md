@@ -1,7 +1,7 @@
 ---
 title: All Enchantments in Minecraft
 date: 2021-03-29T21:10:20Z
-updated: 2024-06-24T19:39:25Z
+updated: 2024-08-21T16:37:50Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -43,14 +43,17 @@ These enchantments can be applied to any armor/tool/weapon. 
 ## Melee Weapons 
 
 1.  **Bane of Arthropods **- Increases damage and applies Slowness IV to arthropod mobs (spiders, cave spiders, silverfish, endermites and bees). (Max enchantment level: 5) 
-2.  **Efficiency **- When applied to an axe it increases the chance that the axe may stun a shield, with the base chance being 25% and a 5% increase for each level of efficiency. (Max enchantment level: 5) 
-3.  **Fire Aspect** - Sets target on fire. (Max enchantment level: 2) 
-4.  **Looting** - Increases amount of loot earned from mobs. (Max enchantment level: 3) 
-5.  **Impaling** - Trident deals additional damage to mobs that spawn naturally in the ocean. (Max enchantment level: 5) 
-6.  **Knockback** - Knocks back mobs away from you when hit. (Max enchantment level: 2) 
-7.  **Sharpness** - Increases weapon damage. (Max enchantment level: 5) 
-8.  **Smite** - Increases damage to undead mobs. (Max enchantment level: 5) 
-9.  **Sweeping Edge** - Increases sweeping attack damage. Available only in Java Edition (Max enchantment level: 3) 
+2.  **Breach** - Negate the effectiveness of enemy armor by 15% per level. (Max enchantment level: 4)
+3.  **Density** - Boosts the rate at which mace multiplies damage while falling. (Max enchantment level: 5)
+4.  **Efficiency **- When applied to an axe it increases the chance that the axe may stun a shield, with the base chance being 25% and a 5% increase for each level of efficiency. (Max enchantment level: 5) 
+5.  **Fire Aspect** - Sets target on fire. (Max enchantment level: 2) 
+6.  **Looting** - Increases amount of loot earned from mobs. (Max enchantment level: 3) 
+7.  **Impaling** - Trident deals additional damage to mobs that spawn naturally in the ocean. (Max enchantment level: 5) 
+8.  **Knockback** - Knocks back mobs away from you when hit. (Max enchantment level: 2) 
+9.  **Sharpness** - Increases weapon damage. (Max enchantment level: 5) 
+10. **Smite** - Increases damage to undead mobs. (Max enchantment level: 5) 
+11. **Sweeping Edge** - Increases sweeping attack damage. Available only in Java Edition (Max enchantment level: 3) 
+12. **Windburst** - Allows the player to bounce up into the air following a successful hit; the height of this bounce increases with higher enchantment levels. (Max enchantment level: 3)
 
 ## Ranged Weapons
 
