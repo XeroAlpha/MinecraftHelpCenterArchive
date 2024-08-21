@@ -1,7 +1,7 @@
 ---
 title: Rare Structures in Minecraft
 date: 2021-04-08T19:55:03Z
-updated: 2024-07-09T16:03:41Z
+updated: 2024-08-21T16:50:31Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -25,5 +25,6 @@ As you explore the different dimensions in Minecraft, you can come across rare s
 - **Pillager outpost** – Towers that are inhabited by pillagers and their captains. Allays and iron golems have a chance to spawn in cages here.
 - **Shipwreck** – A broken down ship found in beach and ocean biomes. You can find a treasure map on board that leads to buried treasure.
 - **Stronghold** – Underground system of tunnels and rooms in the Overworld where you can find a portal to The End. Libraries are generated here, amongst other things, and silverfish can infest stone bricks.
+- **Trial Chambers** - Underground structures that have trial battles and special treasures as you venture deeper.
 - **Village** – Many variations of village are found in the Overworld. These small communities have houses for villagers and various items inside them you can make use of.
 - **Woodland mansion** – A large building found in dark forest biomes. Evokers, vindicators, allays, and totem of undying can be found here.
