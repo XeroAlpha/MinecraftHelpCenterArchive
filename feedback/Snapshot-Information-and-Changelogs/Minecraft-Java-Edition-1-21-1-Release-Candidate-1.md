@@ -1,7 +1,7 @@
 ---
-title: "Minecraft Java Edition: 1.21.1 Release Candidate 1"
+title: Minecraft Java Edition - 1.21.1 Release Candidate 1
 date: 2024-08-08T13:59:37Z
-updated: 2024-08-08T14:55:28Z
+updated: 2024-08-15T15:31:42Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/29098855177613-Minecraft-Java-Edition-1-21-1-Release-Candidate-1
 hash:

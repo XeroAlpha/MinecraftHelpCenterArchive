@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 24w33a
 date: 2024-08-15T15:30:07Z
-updated: 2024-08-15T15:30:12Z
+updated: 2024-08-21T14:50:31Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/29296154589581-Minecraft-Java-Edition-Snapshot-24w33a
 hash:
@@ -9,7 +9,7 @@ hash:
   h_01J5B9AGZMVH16FXXA61EMEZHA: bundles
   h_01J5B9F7G2Y5QFT57DC7QAME7Q: redstone-experiments
   h_01J5B9F7G3SNRYT2FHYE449EJ7: redstone-wire
-  redstone.jpg: redstonejpg
+  h_01J5TPNF32NE28W5NY1ARSHSPF: redstonejpg
   h_01J5B9PT0SD2R5RZFTD0PFV9C0: order-in-which-a-line-of-wire-changes
   h_01J5B9PT0S7WD6ZPA9GGPSEGNN: block-updates-around-a-wire
   h_01J5B9PT0S0JK96S5HSBMSSEBX: known-issues
@@ -740,7 +740,7 @@ For inputs from a static texture, the following fields may be specified:
 
 ## Get the Snapshot
 
-Snapshots are available for Minecraft: Java Edition. To install the Snapshot, open up the [Minecraft Launcher](https://author-minecraftnet-prd02.adobecqms.net/content/minecraft-net/language-masters/download.html) and enable snapshots in the "Installations" tab.
+Snapshots are available for Minecraft: Java Edition. To install the Snapshot, open up the [Minecraft Launcher](https://www.minecraft.net/content/minecraft-net/language-masters/download) and enable snapshots in the "Installations" tab.
 
 **Testing versions can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
