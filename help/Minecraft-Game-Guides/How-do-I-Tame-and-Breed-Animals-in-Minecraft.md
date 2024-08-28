@@ -1,7 +1,7 @@
 ---
 title: How do I Tame and Breed Animals in Minecraft?
 date: 2020-07-16T18:23:31Z
-updated: 2024-06-24T19:41:20Z
+updated: 2024-08-28T17:47:30Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -78,3 +78,4 @@ Animals that can be bred have certain items that will put them into “love mode
 - **Strider** - Warped Fungus
 - **Hoglin** - Crimson Fungus
 - **Sniffer** - Torchflower Seeds
+- **Armadillo** - Spider Eyes

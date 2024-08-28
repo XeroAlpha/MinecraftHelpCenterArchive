@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Accessing Games from the Minecraft Launcher
 date: 2024-01-22T20:38:35Z
-updated: 2024-01-30T18:46:06Z
+updated: 2024-08-28T18:04:46Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -18,10 +18,10 @@ This article focuses on issues that may be preventing you from having access to 
 
 # In This Article:
 
-- [I can play Minecraft: Bedrock Edition, but not Java](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSDKT4CHR2E9N71FAC28PS1)
-- [I don’t see my games or a “Play” button to press; how can I play?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSDT99AES765JPV7VHTY334)
-- [I get sent to the Windows Store when I try to launch a game from the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSDXRB0N51XKP0ZDA2W01QM)
-- [I own Bedrock, but when I try to run Java, I can’t create a profile](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSE1VBGK37GYRYAZ0WT1HNV)
+- [I can play Minecraft: Bedrock Edition, but not Java](#i-can-play-minecraft-bedrock-edition-but-not-java)
+- [I don’t see my games or a “Play” button to press; how can I play?](#i-dont-see-my-games-or-a-play-button-to-press-how-can-i-play)
+- [I get sent to the Windows Store when I try to launch a game from the Minecraft Launcher](#i-get-sent-to-the-windows-store-when-i-try-to-launch-a-game-from-the-minecraft-launcher)
+- [I own Bedrock, but when I try to run Java, I can’t create a profile](#i-own-bedrock-but-when-i-try-to-run-java-i-cant-create-a-profile)
 
 ## I can play Minecraft: Bedrock Edition, but not Java
 

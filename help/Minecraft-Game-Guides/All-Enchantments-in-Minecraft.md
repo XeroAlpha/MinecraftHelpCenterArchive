@@ -1,7 +1,7 @@
 ---
 title: All Enchantments in Minecraft
 date: 2021-03-29T21:10:20Z
-updated: 2024-08-21T16:37:50Z
+updated: 2024-08-28T17:21:46Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -53,7 +53,7 @@ These enchantments can be applied to any armor/tool/weapon. 
 9.  **Sharpness** - Increases weapon damage. (Max enchantment level: 5) 
 10. **Smite** - Increases damage to undead mobs. (Max enchantment level: 5) 
 11. **Sweeping Edge** - Increases sweeping attack damage. Available only in Java Edition (Max enchantment level: 3) 
-12. **Windburst** - Allows the player to bounce up into the air following a successful hit; the height of this bounce increases with higher enchantment levels. (Max enchantment level: 3)
+12. **Wind Burst** - Allows the player to bounce up into the air following a successful hit; the height of this bounce increases with higher enchantment levels. (Max enchantment level: 3)
 
 ## Ranged Weapons
 

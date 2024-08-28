@@ -1,12 +1,13 @@
 ---
-title: "Accessibility Settings for Minecraft: Java Edition "
+title: "Accessibility Settings for Minecraft: Java Edition"
 date: 2021-05-18T20:23:52Z
-updated: 2023-06-15T17:20:07Z
+updated: 2024-08-28T18:10:58Z
 categories: Accessibility
 tags:
   - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/360061018612-Accessibility-Settings-for-Minecraft-Java-Edition
 hash:
+  h_01J6D2RRQ86Y0SG5RBC2GHE4RC: in-this-article
   h_01GD3TMQAHBGGD74J5HJRHZJ9Y: minecraft-accessibility-menu
   h_01GD3TMW9XPCYF3FF7YSPVB05B: accessible-menu-navigation-and-narration
   h_01GD3TN1FHNXPGZY5R6J3R8SMJ: navigation
@@ -46,7 +47,7 @@ View the [Accessibility Settings for Minecraft article](https://aka.ms/MC-Bedro
 - [Minecraft Launcher ](#minecraft-launcher)
 - [Tips on Navigating the Minecraft Launcher ](#tips-on-navigating-the-minecraft-launcher)
 
-## Minecraft Accessibility Menu 
+## Minecraft Accessibility Menu
 
 Minecraft includes an Accessibility Settings screen for easy access to accessibility settings. To view this screen select the Accessibility icon on the start menu, which is located to the right of the Quit Game button.  You can also select Options and then Accessibility Settings from the start screen or the pause screen in-game.    
 

@@ -1,23 +1,17 @@
 ---
 title: Troubleshooting Installing the Minecraft Launcher
 date: 2024-01-22T20:10:18Z
-updated: 2024-01-22T21:10:09Z
+updated: 2024-08-28T18:06:09Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23430683774221-Troubleshooting-Installing-the-Minecraft-Launcher
 hash:
-  h_01HMSCCJZJ1XZSVCG6TMBTFQ2W: in-this-article
   h_01HMSCDZNCBBE3PX0Z5077H58J: i-try-to-install-the-launcher-through-the-microsoft-store-but-the-installation-fails
   h_01HMSCH61Y9TT8PF5E0DB920YP: the-minecraft-launcher-is-failing-to-install-after-downloading-it-from-minecraftnet
 ---
 
 This article covers problems installing the Minecraft Launcher for Windows and MacOS. For other Launcher issues, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Support.md).
-
-# In This Article:
-
-- [I try to to install the Launcher through the Microsoft Store, but the installation fails](#i-try-to-install-the-launcher-through-the-microsoft-store-but-the-installation-fails)
-- [The Minecraft Launcher is failing to install after downloading it from Minecraft.net](#the-minecraft-launcher-is-failing-to-install-after-downloading-it-from-minecraftnet)
 
 ## I try to install the Launcher through the Microsoft Store, but the installation fails
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Launcher Startup and Login Issues
 date: 2024-01-22T20:02:48Z
-updated: 2024-01-30T18:58:34Z
+updated: 2024-08-28T17:53:09Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -18,10 +18,10 @@ This page covers issues you may encounter with the Minecraft Launcher not starti
 
 # In This Article:
 
-- [How do I switch between my Microsoft accounts to play my games?](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBQY5PGYXHETE9XY27KSS4)
-- [I can’t sign in to my Launcher](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBRZ6JBCHT8D20130TRAE3)
-- [Launcher won’t start up or crashes during login](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBTA6G3PDNMAJWD5VS7MMX)
-- [My Launcher is working and I can login, but I have to re-enter my credentials every time](https://help.minecraft.net/hc/en-us/articles/undefined#h_01HMSBYEW5JGE1SVPFPNT5XWP1)
+- [How do I switch between my Microsoft accounts to play my games?](#how-do-i-switch-between-my-microsoft-accounts-to-play-my-games)
+- [I can’t sign in to my Launcher](#i-cant-sign-in-to-my-launcher)
+- [Launcher won’t start up or crashes during login](#launcher-wont-start-up-or-crashes-during-sign-in)
+- [My Launcher is working and I can login, but I have to re-enter my credentials every time](#my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time)
 
 ## How do I switch between my Microsoft accounts to play my games?
 
