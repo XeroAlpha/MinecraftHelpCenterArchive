@@ -1,7 +1,7 @@
 ---
 title: "How to Join a Friend's Minecraft: Bedrock Edition Realm"
 date: 2021-09-30T23:13:51Z
-updated: 2024-08-02T17:27:11Z
+updated: 2024-08-29T16:28:15Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -33,7 +33,7 @@ Minecraft Realms is a multiplayer service that enables you to play Minecraft: Be
 
 From here, you can see any Realms you are currently apart of. If you see nothing in here, you will need to accept an invite from the host.
 
-# How to find your pending Realm invites
+## How to find your pending Realm invites
 
 1.  Start Minecraft.
 2.  Select** Settings**.
