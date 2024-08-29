@@ -1,7 +1,7 @@
 ---
 title: "Drowned Error Code Troubleshooting in Minecraft: Bedrock Edition"
 date: 2024-08-13T19:01:49Z
-updated: 2024-08-15T17:23:30Z
+updated: 2024-08-28T22:59:25Z
 categories: Performance & Troubleshooting
 tags:
   - category_account_support
@@ -27,7 +27,7 @@ We know that error codes are frustrating to run into. The Drowned error is a sig
 
 ## Refresh your Windows/Xbox sign-in:
 
-1.  Refresh your Windows/Xbox sign-i:Launch Minecraft or exit to the launch screen.
+1.  Launch Minecraft or exit to the launch screen.
 2.  Click on **Settings**.
 3.  Click on **Account**.
 4.  Click on **Manage Account** in the Account Settings.
