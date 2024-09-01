@@ -2,9 +2,9 @@
 title: How to view your Minecraft Profile
 date: 2024-06-21T21:00:34Z
 updated: 2024-07-11T16:34:08Z
-categories: Performance & Troubleshooting
+categories: Account Settings
 tags:
-  - section_27166432886285
+  - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/27780690574477-How-to-view-your-Minecraft-Profile
 ---
 

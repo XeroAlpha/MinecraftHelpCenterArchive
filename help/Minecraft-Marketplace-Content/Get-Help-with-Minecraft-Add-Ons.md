@@ -2,7 +2,7 @@
 title: Get Help with Minecraft Add-Ons
 date: 2024-02-14T17:59:52Z
 updated: 2024-03-05T22:45:05Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - section_24069904400141
   - Add-Ons

@@ -2,7 +2,7 @@
 title: Get Help from Creators of Marketplace Content
 date: 2024-01-31T15:53:46Z
 updated: 2024-07-19T18:52:58Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - title_minecraft
   - platform_xbox_one

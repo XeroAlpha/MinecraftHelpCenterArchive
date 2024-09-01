@@ -28,4 +28,4 @@ While this article focuses on changing a child account’s permissions from the 
 5.  Restart Minecraft using the child account to apply changes.
 
   
-View [Manage Who Can See your Profile in Minecraft: Bedrock Edition](../Performance-Troubleshooting/Manage-Your-Profile-on-Minecraft-Bedrock-Edition.md) to further protect your child’s account profile in-game.
+View [Manage Who Can See your Profile in Minecraft: Bedrock Edition](../Account-Settings/Manage-Your-Profile-on-Minecraft-Bedrock-Edition.md) to further protect your child’s account profile in-game.

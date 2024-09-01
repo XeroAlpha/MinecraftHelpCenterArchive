@@ -1,7 +1,7 @@
 ---
 title: What are Minecraft Tokens?
 date: 2024-06-13T19:02:17Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - section_24069904400141
 link: https://help.minecraft.net/hc/en-us/articles/27554163215885-What-are-Minecraft-Tokens

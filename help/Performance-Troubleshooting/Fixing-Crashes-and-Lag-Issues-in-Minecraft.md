@@ -33,7 +33,7 @@ Lag and crashes are two of a gamer’s worst enemies. If you are dealing with ei
 - Perform a disk cleanup on your storage device to free some space.
 - Update your drivers.
 - If using mods, try deleting some that might be incompatible with other mods.
-- [Disable Add-ons](../Minecraft-Marketplace/Disabling-Minecraft-Add-Ons.md) if multiple add-ons are installed
+- [Disable Add-ons](../Minecraft-Marketplace-Content/Disabling-Minecraft-Add-Ons.md) if multiple add-ons are installed
 - Uninstall and reinstall Minecraft.
 
 For more ways to make Minecraft run better, see [Optimizing Performance in Minecraft](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md).

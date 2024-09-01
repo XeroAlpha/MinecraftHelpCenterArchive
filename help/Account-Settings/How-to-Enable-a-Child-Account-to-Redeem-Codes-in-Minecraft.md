@@ -2,7 +2,7 @@
 title: How to Enable a Child Account to Redeem Codes in Minecraft
 date: 2024-05-09T19:16:03Z
 updated: 2024-08-02T22:09:11Z
-categories: Redeeming Gifts & Codes
+categories: Account Settings
 tags:
   - section_26562723671949
   - section_27194076935437
@@ -33,6 +33,6 @@ You can get the Xbox Family Settings app at the [Google Play Store](https://play
 4.  Select the dropdown under **Age Rating** and set it to at least **10**.
 5.  Select **Done**.
 
-After the child’s account is set to at least age 10, they will be able to redeem codes. Follow [How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition](./How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md) for more.
+After the child’s account is set to at least age 10, they will be able to redeem codes. Follow [How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md) for more.
 
-To learn about more settings on your child’s account, see [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
+To learn about more settings on your child’s account, see [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).

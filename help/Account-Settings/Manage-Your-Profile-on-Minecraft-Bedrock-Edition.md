@@ -2,9 +2,9 @@
 title: "Manage Your Profile on Minecraft: Bedrock Edition"
 date: 2024-06-21T20:53:31Z
 updated: 2024-06-21T20:54:26Z
-categories: Performance & Troubleshooting
+categories: Account Settings
 tags:
-  - section_27166432886285
+  - section_27194076935437
 link: https://help.minecraft.net/hc/en-us/articles/27780504581389-Manage-Your-Profile-on-Minecraft-Bedrock-Edition
 hash:
   h_01J0Y94ZEJZ6HD3Q23MT37HEN4: to-control-the-ability-to-invite-friends-follow-these-instructions
@@ -39,4 +39,4 @@ Your Minecraft profile includes your game-play history, achievements, stats, bio
 **Blocked** – your information is not visible to any players
 
   
-Be sure to also view our article on [Managing Multiplayer Game Access for a Child Account](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) in Minecraft for more information on privacy settings.
+Be sure to also view our article on [Managing Multiplayer Game Access for a Child Account](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) in Minecraft for more information on privacy settings.

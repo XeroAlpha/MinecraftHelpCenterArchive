@@ -25,4 +25,4 @@ If your username or gamertag violates the community standards, see these resourc
 If your account was banned because of your character's appearance, see these articles to make a change: 
 
 - **Java Edition Skin:** See [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition.md).
-- **Bedrock Edition Skin:** See [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Minecraft-Marketplace/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md).
+- **Bedrock Edition Skin:** See [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Minecraft-Marketplace-Content/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md).

@@ -2,7 +2,7 @@
 title: How to Buy Content From the Minecraft Marketplace
 date: 2024-02-12T20:32:01Z
 updated: 2024-02-22T20:12:11Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - title_minecraft
   - platform_xbox_one

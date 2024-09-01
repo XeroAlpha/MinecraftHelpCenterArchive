@@ -2,7 +2,7 @@
 title: Canceling a Minecraft Marketplace Pass Subscription
 date: 2024-02-20T17:54:26Z
 updated: 2024-08-02T22:21:21Z
-categories: Marketplace Pass
+categories: Marketplace Pass Subscriptions
 tags:
   - title_minecraft
   - platform_xbox_one

@@ -45,8 +45,8 @@ If you want to learn more about Minecraft Realms, how to join a game, or manage 
 
 ## Realm World Backups
 
-- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
-- [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
+- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](../Manage-Realms-Settings-Worlds/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
+- [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
 - [How Mojang Saves Backups for Your Minecraft Realm](../Manage-Realms-Settings-Worlds/How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
 
 ## Realm World Management

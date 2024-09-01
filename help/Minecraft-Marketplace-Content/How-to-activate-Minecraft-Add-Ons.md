@@ -2,7 +2,7 @@
 title: How to activate Minecraft Add-Ons
 date: 2024-02-14T17:47:55Z
 updated: 2024-03-06T16:15:27Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - section_24069904400141
   - Add-Ons

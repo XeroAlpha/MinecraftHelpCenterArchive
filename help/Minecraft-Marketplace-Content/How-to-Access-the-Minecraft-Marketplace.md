@@ -2,7 +2,7 @@
 title: How to Access the Minecraft Marketplace
 date: 2024-02-12T20:46:26Z
 updated: 2024-02-12T21:30:17Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - section_24069904400141
 link: https://help.minecraft.net/hc/en-us/articles/24069589393549-How-to-Access-the-Minecraft-Marketplace

@@ -2,7 +2,7 @@
 title: How to Get Help With Missing Minecoins in Minecraft Marketplace
 date: 2021-09-10T21:41:33Z
 updated: 2024-02-12T20:54:15Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - title_minecraft
   - subject_cannot_find_purchase

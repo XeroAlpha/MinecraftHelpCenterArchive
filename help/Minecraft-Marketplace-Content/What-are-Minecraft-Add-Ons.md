@@ -2,7 +2,7 @@
 title: What are Minecraft Add-Ons?
 date: 2021-09-13T18:58:31Z
 updated: 2024-05-02T19:40:40Z
-categories: Minecraft Marketplace
+categories: Minecraft Marketplace Content
 tags:
   - new
   - section_24069904400141

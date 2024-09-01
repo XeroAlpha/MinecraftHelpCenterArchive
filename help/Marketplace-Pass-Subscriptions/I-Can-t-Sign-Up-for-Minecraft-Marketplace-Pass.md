@@ -2,7 +2,7 @@
 title: I Can’t Sign Up for Minecraft Marketplace Pass
 date: 2024-02-20T18:18:23Z
 updated: 2024-03-19T20:53:23Z
-categories: Marketplace Pass
+categories: Marketplace Pass Subscriptions
 tags:
   - title_minecraft
   - platform_xbox_one

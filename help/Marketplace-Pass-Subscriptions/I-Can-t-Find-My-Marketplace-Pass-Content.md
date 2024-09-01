@@ -2,7 +2,7 @@
 title: I Can’t Find My Marketplace Pass Content
 date: 2024-02-20T18:04:19Z
 updated: 2024-04-22T20:28:29Z
-categories: Marketplace Pass
+categories: Marketplace Pass Subscriptions
 tags:
   - title_minecraft
   - subject_cannot_find_purchase
