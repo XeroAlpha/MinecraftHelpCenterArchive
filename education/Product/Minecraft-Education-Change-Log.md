@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2024-07-23T18:33:09Z
+updated: 2024-09-03T18:28:43Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-game-client-version-12103---released-72324
+  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-game-client-minor-update-version-12105---released-90324
+  01J6WHK9S3AY9QVCCJDV2DT05R: minecraft-education-game-client-version-12103---released-72324
   01J3GDREZM0GMY4677QTNM32FE: minecraft-education-preview--beta-game-client-version-12101---released-61824
   01J1GK0AR07KZ7QNP83CH2JVPR: minecraft-education-preview-game-client-version-12070---released-4424
   01HTN1HNHP1GE6YXTSZWBV2ERR: minecraft-education-preview-game-client-version-12060---released-2624
@@ -43,6 +44,13 @@ Minecraft Education periodically releases updates to our game and companion apps
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
+
+## Minecraft Education Game Client Minor Update (version 1.21.05) - Released 9/03/24
+
+- Mac and iOS now support cloud world backup to OneDrive.
+- Performance improvements while Coding 
+- Various stability and performance bug fixes  
+    
 
 ## Minecraft Education Game Client (version 1.21.03) - Released 7/23/24
 

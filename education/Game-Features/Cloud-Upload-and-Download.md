@@ -1,7 +1,7 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2024-08-27T19:34:23Z
+updated: 2024-09-03T18:35:04Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
@@ -18,8 +18,6 @@ hash:
 ---
 
 Worlds are automatically saved to OneDrive upon closing the world as a backup. When the first world is uploaded, a new folder in the user’s OneDrive is created called “Minecraft Education". To ensure you have OneDrive attached to your account, see the troubleshooting guide below.
-
-At this time, cloud storage is available for Windows, Android, and Chromebook. MacOS and iOS cloud support is coming very soon. 
 
  
 
