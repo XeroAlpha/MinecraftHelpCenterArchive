@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.40.20
 date: 2024-09-04T13:52:17Z
-updated: 2024-09-04T15:41:26Z
+updated: 2024-09-04T21:22:39Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/29937458432397-Minecraft-Beta-Preview-1-21-40-20
 hash:
@@ -84,7 +84,7 @@ It's time for a new Minecraft Preview and Beta! We’d love your feedback on bun
 
 - Interacting with a Bed now sets it as the respawn point regardless of nearby enemies ([MCPE-152134](https://bugs.mojang.com/browse/MCPE-152134))
 
-- Players hitting the edge of the generated world will keep their velocity. Example: While flying with the Elytra, the player will stay floating instead of looing all speed instantly
+- Players hitting the edge of the generated world will keep their velocity. Example: While flying with the Elytra, the player will stay floating instead of losing all speed instantly
 
 ## Graphical
 
