@@ -1,7 +1,7 @@
 ---
 title: "Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition"
 date: 2024-06-21T20:09:54Z
-updated: 2024-08-16T18:33:55Z
+updated: 2024-09-04T22:27:08Z
 categories: Performance & Troubleshooting
 tags:
   - subject_progress_and_saved_games
@@ -15,13 +15,13 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/27778850781837-Achievements-Not-Displaying-or-Unlocking-in-Minecraft-Bedrock-Edition
 ---
 
-You may occasionally find that when you reach an in-game objective, the achievement is not immediately unlocked. Please allow up to 24 hours for the achievement to display. After that, if achievements are still not displaying in-game for you, follow these steps to troubleshoot the problem:
+Your achievements are listed in your Minecraft Profile under the **Profile** button on your launch screen. You can also find it in your in-game menu when you press **Esc**. If you find that when you reach an in-game objective the achievement is not immediately unlocked, be sure to allow up to 24 hours for the achievement to display. After that, if achievements are still not displaying in-game for you, try the following options:
 
-1.  Make sure you are connected to the internet and that your game is up to date.  
-    For more help, [Troubleshoot your Xbox network connection](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-network-connection).
-2.  Restart your device and boot-up Minecraft again.
-3.  If possible, reattempt the feat that gained you the achievement.
-4.  [Back up your save data](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
+- Make sure you are connected to the internet and that your game is up to date.
+- - For more help on Xbox, [Troubleshoot your Xbox network connection](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-network-connection).
+- Restart your device and boot-up Minecraft again.
+- If possible, reattempt the feat that gained you the achievement.
+- [Back up your save data](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
 
 If playing on PC, you can also check to make sure your Xbox services are live. Follow these steps:
 
