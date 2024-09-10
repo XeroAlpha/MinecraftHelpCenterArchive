@@ -1,7 +1,7 @@
 ---
 title: "How to Setup a Minecraft: Java Edition Server"
 date: 2021-03-24T19:23:34Z
-updated: 2024-03-19T14:58:23Z
+updated: 2024-09-10T14:37:48Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -12,7 +12,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360058525452-How-to-Setup-a-M
 
 Here is a guide to help you create a server so your friends can join and play together!  
 
-As a prerequisite, you should make sure you have [Java](https://www.java.com/en/) installed and up to date on the computer that will host the server so it can run .jar files. 
+As a prerequisite, you should make sure you have [Java](https://www.oracle.com/java/) installed and up to date on the computer that will host the server so it can run .jar files. 
 
 1.  Go to [this](https://www.minecraft.net/en-us/download/server/) website and download the minecraft_server.1.XX.X.jar file (The X’s will be the current version number) 
 2.  After you have downloaded it, make a folder on your desktop to keep all your server files in. You can name it “Minecraft Server”. 
