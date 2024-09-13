@@ -1,7 +1,7 @@
 ---
 title: How to Update Your Microsoft Account Payment Information for Minecraft
 date: 2021-09-14T20:56:10Z
-updated: 2024-08-05T17:45:23Z
+updated: 2024-09-13T15:40:27Z
 categories: Account Settings
 tags:
   - section_27194076935437
@@ -26,10 +26,6 @@ You can view your payment details at any time on your Microsoft Account Settings
 
 ## CHANGING PAYMENT FOR RECURRING SUBSCRIPTIONS
 
-A saved credit card is required for recurring purchases, such as monthly payments of Minecraft Realms. If you'd like to switch the card that is set up for recurring payments, delete the currently saved card, then add a new card to your profile. You can view more information on your Minecraft subscriptions in these articles:
+A saved credit card is required for recurring purchases, such as monthly payments of Minecraft Realms. If you'd like to switch the card that is set up for recurring payments, delete the currently saved card, then add a new card to your profile. You can view more information on your Minecraft subscriptions in [How to Update Your Payment Method for Minecraft Realms](../Manage-Realms-Subscriptions/How-to-Update-Your-Payment-Method-for-Minecraft-Realms.md).
 
-[How to view a Realms subscription renewal date in Minecraft: Bedrock Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition.md)  
-[How to view a Realms subscription renewal date in Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition.md)
-
-  
 If you still have questions, check out [Who to Contact with your Minecraft Questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).
