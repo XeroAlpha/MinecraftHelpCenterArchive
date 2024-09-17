@@ -1,14 +1,17 @@
 ---
 title: Understanding Minecraft Social Features for Child Safety Online
 date: 2021-03-25T23:29:27Z
-updated: 2023-07-24T18:43:18Z
+updated: 2024-09-17T15:31:32Z
 categories: General Safety
 tags:
   - section_15463792344973
 link: https://help.minecraft.net/hc/en-us/articles/360058605852-Understanding-Minecraft-Social-Features-for-Child-Safety-Online
+hash:
+  h_01J809PGYVNGPQ8459QN08DJ0C: minecraft-bedrock-edition-and-minecraft-java-edition
+  h_01J809PGYVZJC1FN2Y12R3X7ZQ: minecraft-bedrock-edition-only
 ---
 
-It is helpful to know how to monitor your child’s behavior while playing Minecraft. It is also important to know which Minecraft edition your child is playing on, either Minecraft: Bedrock Edition or Minecraft: Java Edition. Minecraft: Java Edition is only for PC, while Minecraft: Bedrock Edition is on consoles, Chromebook, mobile devices, and Windows 10 and above. Here are the ways players can message each other through the game or with other messaging systems.  
+It is helpful to know how to monitor your child’s behavior while playing Minecraft. It is also important to know which Minecraft edition your child is playing on, either Minecraft: Bedrock Edition or Minecraft: Java Edition. Minecraft: Java Edition is for PC, Mac, and Linux, while Minecraft: Bedrock Edition is on consoles, Chromebook, mobile devices, and Windows 10 and above. Here are the ways players can message each other through the game or with other messaging systems.  
 
 ## Minecraft: Bedrock Edition and Minecraft: Java Edition 
 
