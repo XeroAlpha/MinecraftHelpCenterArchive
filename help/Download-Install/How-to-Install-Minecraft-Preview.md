@@ -1,7 +1,7 @@
 ---
 title: How to Install Minecraft Preview
 date: 2022-01-31T18:12:02Z
-updated: 2024-07-12T15:47:27Z
+updated: 2024-09-17T20:44:54Z
 categories: Download & Install
 tags:
   - section_27166490706957
@@ -55,7 +55,7 @@ There are multiple places you can download Preview on PC.
 **Minecraft Launcher**
 
 1.  Open the Minecraft Launcher.
-2.  Select **Minecraft for Windows**.
+2.  Select **Minecraft: Bedrock Edition**.
 3.  Select the dropdown that says **Latest release**.
 4.  Select **Latest preview**.
 5.  Click the **Install** button.

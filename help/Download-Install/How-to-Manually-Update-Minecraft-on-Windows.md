@@ -1,7 +1,7 @@
 ---
 title: How to Manually Update Minecraft on Windows
 date: 2024-04-01T19:09:34Z
-updated: 2024-04-01T21:35:26Z
+updated: 2024-09-17T20:41:07Z
 categories: Download & Install
 tags:
   - title_minecraft
