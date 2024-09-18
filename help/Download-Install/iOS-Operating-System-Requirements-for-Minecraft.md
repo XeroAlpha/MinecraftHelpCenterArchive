@@ -1,7 +1,7 @@
 ---
 title: iOS Operating System Requirements for Minecraft
 date: 2024-03-05T20:22:52Z
-updated: 2024-08-16T17:26:41Z
+updated: 2024-09-18T17:33:34Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -16,7 +16,8 @@ link: https://help.minecraft.net/hc/en-us/articles/24723754023821-iOS-Operating-
 hash:
   h_01HR84C2HY1R68NNK8HZH4A0HE: minimum-ios-requirements-for-minecraft
   h_01HR84C8G4HBF68ZXTHBY447AF: recommended-ios-requirements-for-minecraft
-  h_01HR84E42J6T456G4GHYY79WXT: compatibility-with-multiplayer-and-realms
+  h_01J832V7JR385F9J4ZBXJ6P7SG: troubleshooting-performance-issues-on-supported-devices
+  h_01J832VANQPAPRGKD0KGZ9MNC5: information-about-sunset-devices
 ---
 
 As Minecraft grows, so must the operating system that supports it. If you are using the most current version of iOS already, your device will be compatible with the latest version of Minecraft.
@@ -27,12 +28,16 @@ The minimum system requirements for Minecraft are listed on the [Apple App store
 
 ## Recommended IOS Requirements for Minecraft
 
-You need to update to iOS 13 or above by February 2024 to continue receiving updates for Minecraft or to access online play.  You can refer to [Apple’s list of devices currently compatible with iOS 13/iPadOS 13](https://support.apple.com/en-us/103825).
+You need to update to iOS 14 or above by March 2025 to continue receiving updates for Minecraft or to access online play.  You can refer to [Apple’s list of devices currently compatible with iOS 14/iPadOS](https://support.apple.com/en-us/103202).
 
 For optimal game play performance and access to all features and gameplay modes, we recommend updating to the most recent version of IOS. Please follow [Apple’s guide on how to update your device](https://support.apple.com/en-us/HT204204).
 
-## Compatibility with Multiplayer and Realms
+## Troubleshooting performance issues on supported devices
 
-As of February 2024 updates, devices running iOS 12 or older will no longer be compatible with Minecraft Realms. Your Realm will continue to work for up to six months post-sunset. Within that timeframe, you can access the Realm on a device running iOS 13 or later, [backup the world](../Manage-Realms-Settings-Worlds/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md), or cancel your subscription through the Settings menu in Subscriptions on the device the Realm was created.
+If you are on a device that meets the above specs and are still experiencing issues, see [Optimizing Video Settings and Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Video-Settings-and-Performance-in-Minecraft.md) for tips on improving your performance.
 
-If you need more assistance in updating your version of iOS, [contact Apple’s support team](https://support.apple.com/en-us/HT210327).
+## Information about sunset devices
+
+After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md).
+
+After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.

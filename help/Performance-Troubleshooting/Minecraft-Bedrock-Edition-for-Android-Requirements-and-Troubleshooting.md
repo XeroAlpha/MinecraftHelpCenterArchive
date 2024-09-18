@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition for Android Requirements and Troubleshooting"
 date: 2021-09-09T23:47:44Z
-updated: 2024-01-23T19:38:42Z
+updated: 2024-09-18T17:25:32Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -14,47 +14,31 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4408896232461-Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting
 hash:
-  h_01HMVX21THQY6G0H8XAPNQS4JC: what-are-the-minimum-specifications-to-play-minecraft
-  h_01HMVX3DRSPDJT9REW0SRKXN4Z: my-device-is-still-supported-but-i-have-performance-problems-what-can-i-do
-  h_01HMVX5TWA37VE7VDJVWR1WFDE: my-device-is-no-longer-supported-what-can-i-do
+  h_01J832GRMEKAMGS16N870K60T3: minimum-specifications-to-play-minecraft-on-android
+  h_01J832H3S70Q12AM4SJYMJXVE4: android-devices-minimum-specifications
+  h_01J832HDQR4RHJ9QZJHV19T018: troubleshooting-performance-issues-on-supported-devices
+  h_01J832M9BZPAENE7KXV4RABNQ8: information-about-sunset-devices
 ---
 
 This article provides Android technical support processes for you to follow as well as general knowledge about Minecraft: Bedrock Edition on Android devices.
 
-## What are the minimum specifications to play Minecraft?
+## Minimum specifications to play Minecraft on Android
 
-Below are the current minimum specs for Minecraft on your Android or Amazon device as of February 2024.
+Below are the minimum specifications for Minecraft on your Android device. Our ability to support the Android devices using Open GL ES 3.0 and Android OS 8 and below is coming to an end. Devices that meet these criteria will receive their final Minecraft update in March 2025.
 
-**Android Devices**
+## Android Devices Minimum Specifications
 
-- Operating System: Android OS 8
+- Operating System: Android OS 9
 - Memory: More than 1GB of RAM
 - Storage: 1 GB or higher
-- Graphics: OpenGL ES 3 or higher
+- Graphics: OpenGL ES 3.1 or higher
 
-**Amazon Devices**
+## Troubleshooting performance issues on supported devices
 
-- Operating System: Fire OS 7
-- Memory: More than 1GB of RAM
-- Storage: 1 GB or higher
-- Graphics: OpenGL ES 3 or higher
+If you are on a device that meets the above specs and are still experiencing issues, see [Optimizing Video Settings and Performance in Minecraft](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md) for tips on improving your performance.
 
-## My device is still supported, but I have performance problems. What can I do?
+## Information about sunset devices
 
-If you are on a device that meets the above specs and are still experiencing issues, these solutions may help improve stability:
+After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md).
 
-- Upgrade to the most recent version of the Android operating system (OS)
-- In the Settings menu: 
-  - Reduce the Render Distance in the Video section from the default of 20 to 16. You can try going lower if necessary.
-  - Change the Graphics setting to Fast. This reduces graphic resolution quality but enables the device to render faster.   
-  - Change the Clouds setting to Off.
-  - Change the Particles setting to Decreased or Minimal. This removes particle effects like smoke.   
-- If you have additional programs running in the background on the device, pause or exit those programs to free up more processing power for Minecraft. 
-
-**Note: Playing the game on an older version of the operating system may impact your gameplay experience with continued performance issues. It’s highly recommended that you upgrade to the latest version of the OS. **
-
-## My device is no longer supported. What can I do?
-
-Devices with 1 GB or less of RAM, lower than OpenGL ES 3.0, or Android OS 7 (Nougat) or lower will no longer receive updates. You may be able to run the game but could experience higher rates of crashing or other performance issues.
-
-For Minecraft Realms on OS 7 (Nougat) or lower devices, your Realm subscription can remain active for up to six months post-sunset. Within this timeframe, you can access the Realm on an OS 8 (Oreo) or above device, back-up the world on a local storage device, or cancel your subscription through your Google Play account.
+After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.

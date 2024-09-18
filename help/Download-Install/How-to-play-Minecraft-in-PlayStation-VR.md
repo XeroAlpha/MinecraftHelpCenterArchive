@@ -1,7 +1,7 @@
 ---
 title: How to play Minecraft in PlayStation VR
 date: 2024-06-13T19:05:11Z
-updated: 2024-06-13T20:46:57Z
+updated: 2024-09-18T16:57:02Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -9,6 +9,8 @@ tags:
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/27554296194445-How-to-play-Minecraft-in-PlayStation-VR
 ---
+
+*As of March 2025, PlayStation VR will no longer be supported in Minecraft. After the latest update at this time, you will still have full access to your Minecraft worlds and Tokens and be able to play the game without PlayStation VR.*
 
 To play Minecraft in virtual reality on your PlayStation®, you need the following:
 

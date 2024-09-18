@@ -1,20 +1,23 @@
 ---
 title: Minecraft Java Edition - Snapshot 24w38a
 date: 2024-09-18T16:38:25Z
-updated: 2024-09-18T16:38:30Z
+updated: 2024-09-18T18:42:28Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/30362841904269-Minecraft-Java-Edition-Snapshot-24w38a
 hash:
   h_01J82ZSBR7Q0Q7YVPQT6GDZ79Q: experimental-features
   h_01J82ZSBR7BN0R7VZ3HHZVXT9Z: bundles
+  h_01J8372PEVN45FV9MWD88D5JEA: ""
   h_01J82ZSBR7W9AA6QS0XFZ5SERV: changes
   h_01J82ZSBR7C4TPRWND755WVF51: realms
   h_01J82ZSBR76SZFJY7B6EMJ0HDN: hardcore-mode
   h_01J82ZSBR7KN26YZ4VP59YDFC4: technical-changes
-  h_01J82ZSBR7G6MNB92FCXGS9WVK: data-pack-versions-54
-  h_01J82ZSBR70Q729V3ZS3HRCBTN: new-item-component
+  h_01J82ZSBR7G6MNB92FCXGS9WVK: data-pack-version-54
+  h_01J8372PEV9MGBXEWHGMY52M4F: "-1"
+  h_01J82ZSBR70Q729V3ZS3HRCBTN: new-recipe-type
   h_01J82ZSBR713HAWJWR83CWHXK1: crafting_transmuterecipe-type
-  h_01J82ZSBR7KFPPBAGPVEWW1ZC6: resource-pack-versions-39
+  h_01J82ZSBR7KFPPBAGPVEWW1ZC6: resource-pack-version-39
+  h_01J8372PEWFGGTJ3MQVRZQKFQ8: "-2"
   h_01J82ZSBR7D3KR7F80ZGNSCEBQ: fixed-bugs-in-24w38a
   h_01J82ZSBR8VV3BKD44SZSTX3PN: get-the-snapshot
 ---
@@ -29,6 +32,8 @@ Happy dyeing!
 ### Bundles
 
 - The Bundle can be dyed 16 different colors using Dyes
+
+###  
 
 ## Changes
 
@@ -55,11 +60,15 @@ Hardcore mode is now available in Realms and is accessible by creating a new wor
 - Resource Pack version is now 39
 - Temporary option for ignoring connection errors on client side (strictErrorHandling) has been removed
 
-## Data Pack Versions 54
+ 
+
+## Data Pack Version 54
 
 - Introduced new Item tag bundles which includes all Bundle Items
 
-### New Item Component
+###  
+
+### New recipe type
 
 #### crafting_transmute recipe type
 
@@ -73,12 +82,14 @@ Hardcore mode is now available in Realms and is accessible by creating a new wor
   - material - additional ingredient to use
   - result - item type to use for output
 
-## Resource Pack Versions 39
+## Resource Pack Version 39
 
 - Bundle models and textures have 16 colored variants
 - The models and UV mapping related to the Torch and blocks containing Redstone Torch have been updated
   - The "inverted" model now uses 6 separate faces creating the same effect as a model with a negative size
   - Updated the UV layout for the inverted model
+
+##  
 
 ## Fixed bugs in 24w38a
 
