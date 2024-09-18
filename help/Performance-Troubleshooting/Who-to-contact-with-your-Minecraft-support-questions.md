@@ -1,19 +1,28 @@
 ---
 title: Who to contact with your Minecraft support questions
 date: 2023-09-14T20:59:33Z
-updated: 2024-01-30T21:12:11Z
+updated: 2024-09-18T18:57:58Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
+  - platform_xbox_one
   - platform_windows_10
+  - platform_nintendo_switch
   - category_account_support
+  - subject_sign_in_questions
   - subject_delete_account
+  - platform_sony_playstation_4
   - platform_linux
   - platform_macos
   - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - section_27194059750157
   - use_for_autoreply
+  - platform_xbox_series_xs
+  - subject_link_accounts
+  - subject_account_migration
 link: https://help.minecraft.net/hc/en-us/articles/19506833026829-Who-to-contact-with-your-Minecraft-support-questions
 hash:
   h_01HAAPPA12ETYZNZDTZVA48V29: account-support
@@ -26,7 +35,7 @@ We know you want to get back into your Minecraft world as quickly as possible. I
 
 ## Account Support
 
-If you are experiencing issues trying to log in to Minecraft with your Xbox, PlayStation, or Nintendo account, you should contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
+If you are experiencing issues trying to sign in to Minecraft with your Xbox, PlayStation, or Nintendo account, you should contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
 
 As of December 18, 2023, the migration of Mojang accounts to Microsoft accounts officially ended. If you successfully completed the post-migration process, you should now have access to both Java and Bedrock for PC editions. Please visit these pages for help with your Microsoft account:
 
