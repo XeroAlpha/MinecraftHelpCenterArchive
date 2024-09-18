@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.21.30 (Bedrock)
 date: 2024-09-13T09:05:48Z
-updated: 2024-09-17T15:39:16Z
+updated: 2024-09-18T12:17:29Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/30220110283533-Minecraft-1-21-30-Bedrock
 hash:
@@ -55,7 +55,7 @@ hash:
 
 ![Kai is trading with a smith villager in a snowy biome](https://feedback.minecraft.net/hc/article_attachments/30220110281741)
 
-In this week’s changelog, villagers can finally sleep soundly, foxes are getting more hearts, and we’ve got bundles of information about – bundles, which are now available as an experimental feature for all Bedrock players! Villagers will no longer make idle sounds when sleeping (they’re asleep, after all!) and adorable foxes across the Overworld will be waking up to more hearts (10!) – making them hardier friends to tame and travel with. If that wasn’t enough we’ve also implemented some bug fixes, made parity changes, and more.
+In this week’s changelog, villagers can finally sleep soundly, foxes are getting a parity change, and we’ve got bundles of information about – bundles, which are now available as an experimental feature for all Bedrock players! Villagers will no longer make idle sounds when sleeping (they’re asleep, after all!) and adorable foxes across the Overworld will be waking up with the same amount of health (10!) as their Java counterparts. If that wasn’t enough we’ve also implemented some bug fixes, made parity changes, and more.
 
 Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).
 
