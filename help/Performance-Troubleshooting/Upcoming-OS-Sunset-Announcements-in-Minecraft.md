@@ -1,11 +1,13 @@
 ---
 title: Upcoming OS Sunset Announcements in Minecraft
 date: 2024-09-16T16:32:55Z
-updated: 2024-09-17T21:48:24Z
+updated: 2024-09-19T17:29:55Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/30298767427597-Upcoming-OS-Sunset-Announcements-in-Minecraft
+hash:
+  h_01J85N8MCZWEP3WN65XCT8ZZRT: minecraft-launcher-minimum-os-requirements
 ---
 
 As Minecraft grows, so must the operating system that supports it. As of March 2025, the below operating systems provide the minimum specifications to receive future Minecraft updates:
@@ -22,6 +24,17 @@ As Minecraft grows, so must the operating system that supports it. As of March 2
   - Graphics: OpenGL ES 3.1 or higher
 - Chromebooks
   - Graphics: OpenGL ES 3.1 or higher
+
+## Minecraft Launcher minimum OS requirements
+
+Minecraft Launcher users will need to update to the below operating systems to continue receiving updates after March 2025.
+
+- Mac
+  - Mac 10.15 or higher
+- Ubuntu
+  - Ubuntu 19.10 or higher
+- Windows PCs
+  - Windows 10 or higher
 
 Additionally, the following devices will no longer receive future updates after March 2025 and will no longer be supported:
 
