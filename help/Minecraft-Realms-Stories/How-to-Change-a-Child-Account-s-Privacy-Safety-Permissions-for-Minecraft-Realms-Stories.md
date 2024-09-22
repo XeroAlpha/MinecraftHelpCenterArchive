@@ -12,7 +12,7 @@ hash:
   h_01HFD5F4PGH3QQWE2XNGEPQ49D: changing-permissions-for-your-familys-microsoft-accounts-on-a-web-browser
 ---
 
-This article covers how you can change your Privacy & Safety permissions to utilize Minecraft Realms Stories and join Realms. If you want to know more about safety while playing Minecraft Realms, see [Minecraft Realms Safety.](../General-Safety/Minecraft-Realms-Safety.md)
+This article covers how you can change your Privacy & Safety permissions to utilize Minecraft Realms Stories and join Realms. If you want to know more about safety while playing Minecraft Realms, see [Minecraft Realms Safety.](../Create-or-Join-Realms/Minecraft-Realms-Safety.md)
 
 While this article focuses on changing a child account’s permissions from the viewpoint of the family organizer, a solo account that is not part of a family group can adjust their settings if needed this way as well.
 

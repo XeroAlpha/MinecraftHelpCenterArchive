@@ -4,7 +4,15 @@ date: 2021-09-09T22:41:11Z
 updated: 2024-08-14T16:26:28Z
 categories: Linking Microsoft Accounts
 tags:
+  - title_minecraft
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_account_support
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
+  - use_for_autoreply
   - section_29296773863181
+  - subject_link_accounts
 link: https://help.minecraft.net/hc/en-us/articles/4408894129933-How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch
 hash:
   h_01J58VATFRBMM06MYQKBXG9XX5: linking-your-microsoft-account-to-minecraft-on-nintendo-switch

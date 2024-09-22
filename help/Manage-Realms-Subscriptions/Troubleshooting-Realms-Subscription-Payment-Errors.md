@@ -2,7 +2,7 @@
 title: Troubleshooting Realms Subscription Payment Errors
 date: 2024-07-29T19:54:41Z
 updated: 2024-08-05T18:06:23Z
-categories: Troubleshoot Minecraft Realms
+categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -19,6 +19,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - subject_new_or_existing_subscription_questions
   - section_26104084764557
+  - section_26104341937421
   - section_ 26104165751437
   - use_for_autoreply
   - section_28872593033869

@@ -4,10 +4,20 @@ date: 2024-05-31T20:42:40Z
 updated: 2024-08-14T18:22:54Z
 categories: Account Sign-In
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
   - category_account_support
   - subject_sign_in_questions
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - subject_microsoft_sign_in_questions
+  - title_minecraft_java_bedrock_for_pc
   - section_27194059750157
   - use_for_autoreply
+  - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/27202503868685-Troubleshooting-Locked-Compromised-or-Stolen-Microsoft-Accounts
 hash:
   h_01J590SG84YGSSX9TEXFKB3DHW: accessing-a-locked-microsoft-account

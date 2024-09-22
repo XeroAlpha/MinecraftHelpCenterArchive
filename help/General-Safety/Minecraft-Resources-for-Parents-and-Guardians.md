@@ -6,6 +6,7 @@ categories: General Safety
 tags:
   - title_minecraft_java_edition
   - title_minecraft
+  - subject_change_account_information
   - platform_xbox_one
   - platform_windows_10
   - category_account_support
@@ -13,10 +14,12 @@ tags:
   - platform_linux
   - platform_macos
   - platform_pc
+  - subject_microsoft_sign_in_questions
   - section_15463792344973
   - new
   - title_minecraft_java_bedrock_for_pc
   - use_for_autoreply
+  - subject_account_other
 link: https://help.minecraft.net/hc/en-us/articles/29427418905997-Minecraft-Resources-for-Parents-and-Guardians
 hash:
   h_01J5R5XEA929VAA75CNSNMSCTK: microsoft-family-and-child-account-resources

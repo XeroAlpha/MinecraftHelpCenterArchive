@@ -4,7 +4,22 @@ date: 2021-09-10T21:08:08Z
 updated: 2024-09-10T21:05:31Z
 categories: Account Settings
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - subject_change_account_information
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_account_support
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - title_minecraft_java_bedrock_for_pc
   - section_27194076935437
+  - use_for_autoreply
+  - platform_xbox_series_xs
+  - subject_account_profile
 link: https://help.minecraft.net/hc/en-us/articles/4408950195341-How-To-Change-Your-In-Game-Profile-Name-in-Minecraft
 hash:
   h_01GE5JWG2HCPKHCV3R7T7DMXQR: minecraft-bedrock-edition-gamertag

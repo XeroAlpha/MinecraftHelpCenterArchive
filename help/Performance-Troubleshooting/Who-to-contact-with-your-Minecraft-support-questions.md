@@ -23,6 +23,7 @@ tags:
   - platform_xbox_series_xs
   - subject_link_accounts
   - subject_account_migration
+  - subject_account_other
 link: https://help.minecraft.net/hc/en-us/articles/19506833026829-Who-to-contact-with-your-Minecraft-support-questions
 hash:
   h_01HAAPPA12ETYZNZDTZVA48V29: account-support

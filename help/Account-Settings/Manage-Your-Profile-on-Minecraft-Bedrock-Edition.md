@@ -4,7 +4,20 @@ date: 2024-06-21T20:53:31Z
 updated: 2024-06-21T20:54:26Z
 categories: Account Settings
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_nintendo_switch
+  - category_account_support
+  - platform_sony_playstation_4
+  - platform_pc
+  - platform_sony_playstation_5
+  - title_minecraft_java_bedrock_for_pc
   - section_27194076935437
+  - use_for_autoreply
+  - platform_xbox_series_xs
+  - subject_account_profile
 link: https://help.minecraft.net/hc/en-us/articles/27780504581389-Manage-Your-Profile-on-Minecraft-Bedrock-Edition
 hash:
   h_01J0Y94ZEJZ6HD3Q23MT37HEN4: to-control-the-ability-to-invite-friends-follow-these-instructions

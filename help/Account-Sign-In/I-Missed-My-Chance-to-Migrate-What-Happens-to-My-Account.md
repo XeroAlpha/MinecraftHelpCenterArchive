@@ -4,8 +4,20 @@ date: 2023-09-19T14:29:08Z
 updated: 2024-05-31T21:31:37Z
 categories: Account Sign-In
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - category_account_support
+  - platform_linux
+  - platform_macos
+  - platform_pc
   - section_12617963662861
+  - title_minecraft_java_bedrock_for_pc
   - section_27194059750157
+  - use_for_autoreply
+  - platform_xbox_series_xs
+  - subject_account_migration
 link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-My-Chance-to-Migrate-What-Happens-to-My-Account
 hash:
   h_01HAPXBF024JESJANV49D39CB5: what-happens-to-my-java-edition-account

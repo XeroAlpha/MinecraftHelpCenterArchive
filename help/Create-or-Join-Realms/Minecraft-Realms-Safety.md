@@ -2,7 +2,7 @@
 title: Minecraft Realms Safety
 date: 2023-09-28T19:33:06Z
 updated: 2024-02-13T21:06:39Z
-categories: General Safety
+categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -16,6 +16,7 @@ tags:
   - platform_sony_playstation_5
   - section_15463792344973
   - title_minecraft_java_bedrock_for_pc
+  - section_26104084764557
   - use_for_autoreply
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/19931506781325-Minecraft-Realms-Safety
@@ -90,4 +91,4 @@ Of course, no system is a perfect system, which is why we will continue to learn
 
 To do our part in keeping the Xbox community safe and welcoming for all players, the Xbox team monitors for instances of inappropriate club content, as well as for clubs that seek to marginalize and harm others online. To learn more about Clubs’ safety, please visit [Protecting players from offensive clubs \| Xbox Support](https://support.xbox.com/en-US/help/family-online-safety/enforcement/protecting-players-from-offensive-clubs)
 
-For more information and actionable insights regarding our commitment to Player Safety, please visit [this link](./Our-Commitment-to-Player-Safety.md#h_01G95X6QQHPDQ3SAVEMN8JK6HM).
+For more information and actionable insights regarding our commitment to Player Safety, please visit [this link](../General-Safety/Our-Commitment-to-Player-Safety.md#h_01G95X6QQHPDQ3SAVEMN8JK6HM).

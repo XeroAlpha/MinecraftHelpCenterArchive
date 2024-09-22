@@ -6,6 +6,7 @@ categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
   - title_minecraft
+  - platform_xbox_one
   - platform_windows_10
   - platform_nintendo_switch
   - category_account_support
@@ -15,11 +16,14 @@ tags:
   - platform_linux
   - platform_macos
   - platform_pc
+  - subject_microsoft_sign_in_questions
   - section_12617594906509
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
   - section_27194059750157
   - use_for_autoreply
+  - subject_link_accounts
+  - subject_account_other
 link: https://help.minecraft.net/hc/en-us/articles/360029681732-Get-Help-with-Your-Minecraft-Account
 hash:
   h_01J6X1P66R6PRT3JWBM5E1BK91: microsoft-account-sign-in-helper
