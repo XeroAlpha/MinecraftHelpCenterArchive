@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.21.30 (Bedrock)
 date: 2024-09-13T09:05:48Z
-updated: 2024-09-18T12:17:29Z
+updated: 2024-09-24T08:08:27Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/30220110283533-Minecraft-1-21-30-Bedrock
 hash:
@@ -325,6 +325,7 @@ A Bundle is an item that lets you stack different blocks or items together in th
 - The chat output's scroll position keeps its position after the game screen re-gains focus 
 - Shortened the URL for signing in on another device to [microsoft.com/link](http://microsoft.com/link)
 - Added a button in the game menu to take a screenshot. You can view your screenshots in the screenshot gallery on your profile page 
+  - Please note, this feature is being gradually rolled out, so it might take a little time before it's available in your game
   - We'd love to hear your feedback and suggestions on this feature! You can send us your feedback here: [aka.ms/MCBedrockScreenshots](https://aka.ms/MCBedrockScreenshots) 
 - Beacon title text is no longer different from the other containers in Pocket UI ([MCPE-176186](https://bugs.mojang.com/browse/MCPE-176186)) 
 - Fixed a bug where crafting category tabs would not be visible in Pocket UI after hiding the recipe book in Classic UI ([MCPE-183825](https://bugs.mojang.com/browse/MCPE-183825))
