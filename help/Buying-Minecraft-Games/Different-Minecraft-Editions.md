@@ -1,7 +1,7 @@
 ---
 title: Different Minecraft Editions
 date: 2019-10-13T21:41:49Z
-updated: 2024-07-31T21:24:17Z
+updated: 2024-09-23T23:24:30Z
 categories: Buying Minecraft Games
 tags:
   - title_minecraft_java_edition
@@ -207,5 +207,3 @@ Refer to the chart below to find a version of Minecraft compatible with your gam
 \*Minecraft Java Edition and Minecraft: Bedrock Edition are now sold together on PC as "Minecraft: Java & Bedrock Edition for PC".
 
 † The Super Mario Mash-Up is playable only by Nintendo Switch owners in single-player, split-screen, local network, and over Nintendo Switch Online.
-
-Release dates and feature details for upcoming versions aren't yet available. Look for information about upcoming updates on our [When is the next game update?](https://help.minecraft.net/hc/en-us/articles/360029728812-When-is-the-next-game-update-) page.
