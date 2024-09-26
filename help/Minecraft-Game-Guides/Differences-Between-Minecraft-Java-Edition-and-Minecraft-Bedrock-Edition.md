@@ -1,7 +1,7 @@
 ---
 title: "Differences Between Minecraft: Java Edition and Minecraft: Bedrock Edition"
 date: 2021-03-24T21:40:40Z
-updated: 2024-02-13T20:27:49Z
+updated: 2024-09-26T20:50:43Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -21,6 +21,7 @@ While every version of Minecraft is still Minecraft, the differences between Min
 - Resource Intensive – Minecraft: Java Edition requires [higher computer specifications](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)[ ](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)to run smoothly 
 - No Cross-Play – Minecraft: Java Edition users can only play with other Java users 
 - Community – There are countless online servers and communities with all kinds of variations and mods to change up the multiplayer experience 
+- No Family Sharing – Family Sharing is only available for Bedrock Edition
 
 ## Minecraft: Bedrock Edition
 
