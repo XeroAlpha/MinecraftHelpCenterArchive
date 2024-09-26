@@ -1,10 +1,11 @@
 ---
 title: Minecraft Beta & Preview - 1.21.40.23
 date: 2024-09-25T15:56:01Z
-updated: 2024-09-25T15:56:15Z
+updated: 2024-09-26T08:56:01Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/30556182663437-Minecraft-Beta-Preview-1-21-40-23
 hash:
+  h_01J8MYD17GST4R9TGX20PY8NBS: information-on-minecraft-preview-and-beta
   user-content-experimental-features: experimental-features
   user-content-items: items
   user-content-known-issues: known-issues
@@ -29,7 +30,7 @@ hash:
   01J8MY8B19P51M2W1P8QGJCZWW: graphical-1
 ---
 
-**Information on Minecraft Preview and Beta:**
+## **Information on Minecraft Preview and Beta:**
 
 - These work-in-progress versions can be unstable and may not be representative of final version quality
 - Minecraft Preview is available on Xbox, PlayStation, Windows, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ) 
@@ -85,7 +86,7 @@ We're back with another Minecraft Preview and Beta release! As always, please pr
 
 ## User Interface
 
-- Added support for unread Realms Stories badge notifications on the new Play Screen (Preview Only) (ADO:1266867)
+- Added support for unread Realms Stories badge notifications on the new Play Screen (Preview Only)
 - Non-empty Bundles now have a fullness bar when inside of a Bundle ([MCPE-185457](https://bugs.mojang.com/browse/MCPE-185457) )
 - Added the possibility to edit the thumbnail of a world in the new OreUI Edit World screen
 
