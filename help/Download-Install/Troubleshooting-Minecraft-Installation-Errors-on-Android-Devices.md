@@ -1,11 +1,9 @@
 ---
 title: Troubleshooting Minecraft Installation Errors on Android Devices
 date: 2024-09-20T22:52:00Z
-updated: 2024-09-20T22:52:11Z
+updated: 2024-09-30T16:15:26Z
 categories: Download & Install
 tags:
-  - trending
-  - new
   - section_27166490706957
   - section_27166561402125
 link: https://help.minecraft.net/hc/en-us/articles/30440807166093-Troubleshooting-Minecraft-Installation-Errors-on-Android-Devices
