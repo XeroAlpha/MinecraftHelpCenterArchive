@@ -1,36 +1,40 @@
 ---
 title: Minecraft Launcher Error Codes & Messages
 date: 2024-01-22T20:56:52Z
-updated: 2024-08-13T18:49:24Z
+updated: 2024-09-30T21:56:02Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23432418934925-Minecraft-Launcher-Error-Codes-Messages
 hash:
-  h_01HMSEEK698DB185PMAS64P27P: in-this-article
+  h_01J92DXWW2ZQQ1VNX27M7YQM6T: in-this-article
   h_01J56FBXCRT6RSS072A81EV8YJ: java-profile-creation-failed-error
-  h_01HMSEH1JVR22Q52APB54XA98F: minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001
+  h_01J92DXWW3HB4KB3QJ2DRYWC31: creeper-error-code
+  h_01J92E6HHD0KQBT4KAW7BD4XFH: deep-ocean-error-code
+  h_01J92EF7AJZM4BCTVH7GBK8VVD: p2psig-error-code-troubleshooting
+  h_01HMSEH1JVR22Q52APB54XA98F: 0x803f8001-error-code
   h_01HMSEK3Z50Y55WCBG5C2NNTQ3: unable-to-update-native-launcher-error
   h_01HMSEPCKH1CZ2QGPGXRWK9MKM: error-0x80131500-when-trying-to-install-the-launcher
-  h_01HMSET4M1NBEFA64PTMZANVBC: cant-connect-to-minecraft-services-error-after-sign-in
   h_01HMSF318T74CHXQ87F93YXN63: error-0x80242020-after-installing-bedrock-edition
   h_01HMSF5044HM9DWH3ZBNCBA5B0: you-must-complete-adult-verification-on-the-xbox-homepage-error
-  h_01HT36E56S1HT2S0FBSJ566YJY: resolving-minecraft-launcherdll-error
+  h_01HT36E56S1HT2S0FBSJ566YJY: minecraft-launcherdll-error
   h_01HZJ736AQ23BMSVTWYJG1NK4D: security-update-available
 ---
 
 If you are trying to play Minecraft through the Minecraft Launcher on PC but are running into an error code, this article will go over various error codes and how to fix them. For more troubleshooting solutions in the Minecraft Launcher, please visit [Minecraft Launcher Support](./Minecraft-Launcher-Support.md).
 
-# In This Article:
+# In this article:
 
 - [Java Profile Creation Failed Error](#java-profile-creation-failed-error)
-- [Minecraft Launcher license is currently not available for your account (0X803F8001)](#minecraft-launcher-license-is-currently-not-available-for-your-account-0x803f8001)
+- [Creeper Error Code](#creeper-error-code)
+- [Deep Ocean Error Code](#deep-ocean-error-code)
+- [P2P/SIG Error Code Troubleshooting](#p2psig-error-code-troubleshooting)
+- [(0X803F8001) Error Code](#0x803f8001-error-code)
 - [Unable to update native launcher error](#unable-to-update-native-launcher-error)
 - [Error 0X80131500 when trying to install the Launcher](#error-0x80131500-when-trying-to-install-the-launcher)
-- [Can’t connect to Minecraft services error after login](#cant-connect-to-minecraft-services-error-after-sign-in)
 - [Error 0X80242020 after installing Bedrock Edition](#error-0x80242020-after-installing-bedrock-edition)
 - [You must complete adult verification on the Xbox homepage error](#you-must-complete-adult-verification-on-the-xbox-homepage-error)
-- [Resolving Minecraft Launcher.dll Error](#resolving-minecraft-launcherdll-error)
+- [Minecraft Launcher.dll error](#minecraft-launcherdll-error)
 - [Security update available](#security-update-available)
 
 ## Java Profile Creation Failed Error
@@ -49,16 +53,21 @@ Ensure that you’re properly logged into the same account on both the Microso
 2.  The signed in account will be shown in the top left corner
 3.  If this is incorrect, click the tab on the profile and click **Log out** or **View all accounts** where you can switch to a different one
 
-## Minecraft Launcher license is currently not available for your account (0X803F8001)
+## Creeper Error Code
 
-First, make sure you are signed into the same account on the Minecraft Launcher, Microsoft Store, and Xbox app.
+Visit [Creeper Error Code Troubleshooting in Minecraft](../Performance-Troubleshooting/Creeper-Error-Code-Troubleshooting-in-Minecraft.md).
 
-If you are, try installing the Minecraft Launcher [directly from the Microsoft Store](https://aka.ms/NewMCLauncher) and log in using the Microsoft account you used to log into the Launcher. If you still receive this error, reset the store.
+## Deep Ocean Error Code
 
-**Reset the Microsoft Store**
+Visit [Deep Ocean Error Code Troubleshooting in Minecraft](../Performance-Troubleshooting/Deep-Ocean-Error-Code-Troubleshooting-in-Minecraft.md).
 
-1.  Press the **Windows key** + **R** simultaneously
-2.  A window will appear. Type in **WSReset** and hit enter
+## P2P/SIG Error Code Troubleshooting
+
+Visit [P2P/SIG Error Code Troubleshooting in Minecraft](../Performance-Troubleshooting/P2P-SIG-Error-Code-Troubleshooting-in-Minecraft.md).
+
+## (0X803F8001) Error Code
+
+See [Troubleshooting Error 0X803F8001 in Minecraft](../Performance-Troubleshooting/Troubleshooting-Error-0X803F8001-in-Minecraft.md).
 
 ## Unable to update native launcher error
 
@@ -99,30 +108,6 @@ If those steps don’t work, try running the Minecraft Launcher in administrator
 7.  Click **OK**
 8.  Reboot Computer
 
-## Can’t connect to Minecraft services error after sign in
-
-Ensure that you’re properly connected to the internet and logged into the same account on both the Microsoft Store and in the Minecraft Launcher. If you’re still getting the error, there are a few steps you can try that might address this issue.
-
-**Install Xbox Console Companion app**
-
-1.  Install the [Xbox Console Companion app](https://aka.ms/XboxConsoleCompanion)
-2.  Sign into your Microsoft account
-
-**Install missing key dependencies or applications**
-
-1.  Install and sign into the [Xbox App](https://aka.ms/DLXboxApp)
-2.  If any dependencies are missing, the Xbox app should show you a list and recommend installation actions to fix these problems
-3.  Install missing dependencies that are recommended
-    - Examples include:
-      - [Xbox Identity Provider](https://aka.ms/XboxIdentityProvider)
-      - [Xbox Live In-Game Experience](https://aka.ms/XboxLiveInGame)
-      - [Feedback Hub](https://aka.ms/DLFeedbackHub)
-
-**Reset the Microsoft Store**
-
-1.  Press the **Windows key** + **R** simultaneously
-2.  Type in **WSReset** and hit enter
-
 ## Error 0X80242020 after installing Bedrock Edition
 
 **Find new places to install Minecraft: Bedrock Edition**
@@ -137,7 +122,7 @@ This error appears when the country/region set on your Xbox Live account is diff
 
 **Note: **If you're based in South Korea, you'll need to complete the required South Korean age verification to restore access to your account.
 
-## Resolving Minecraft Launcher.dll error
+## Minecraft Launcher.dll error
 
 If you see a **launcher.dll: LoadErrorNotPresent** error message when you try to open the Minecraft: Java Edition launcher, it means a file is missing. 
 

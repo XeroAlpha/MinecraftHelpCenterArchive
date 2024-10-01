@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Gift Redemption Errors
 date: 2021-09-21T21:40:08Z
-updated: 2024-07-31T17:04:21Z
+updated: 2024-09-30T23:10:57Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_28872896387341
@@ -16,6 +16,7 @@ If you received the gift of Minecraft or Minecraft content via a gift card or a 
 - **Reload or try another browser**: Redemption errors can be caused by saved browser data. Clear your browsing data or try another browser.
 - **Try again later**: On rare occasions, a system outage can cause redemption errors. You can wait and try redemption at another time.
 - **Check other Microsoft accounts**: If you get an error that your card or code has already been redeemed, it’s a good idea to check if you have already redeemed your code on a different Microsoft account. View your [Microsoft store order history](https://support.microsoft.com/en-us/account-billing/view-your-microsoft-store-order-history-aafefe88-3ec2-ce28-e0b6-eff1d5cc8170).
+- **Verify gift card edition**: Minecraft Java and Bedrock editions are now sold as a bundle. If the gift card you want to redeem is specifically for Minecraft: Java Edition only and your code isn't working in the Microsoft store, [contact Minecraft support](https://help.minecraft.net/hc/en-us/request/new?ticket_form_id=360001225811).
 
 You can [Contact Microsoft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md) or the platform the gift was purchased from to get additional help. For instructions for redeeming gift cards and codes, see these Help pages:
 
