@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-08-13T19:04:46Z
+updated: 2024-10-01T16:46:37Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -19,6 +19,10 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
 hash:
+  h_01HQ3XERRBJDGVM3W8T72BC0KX: general-error-code-troubleshooting
+  h_01HQ3XERRB7GP1AVW2ZT1DDKSX: further-troubleshooting-suggestions
+  h_01HQ3XERRB0EPN199FK4E05CQC: uninstall-and-reinstall-minecraft-bedrock-edition
+  h_01HQ3XERRBKJ2HQK15TF6TW23D: device-troubleshooting
   h_01HQ3XERRAF21NFDXA247P6H7C: error-codes-you-may-encounter-while-playing
   h_01HQ3XERRAKBJN83958BFWE3NK: bat
   h_01HQ3XERRAWSW2CD6AV0DNY7PZ: cauldron
@@ -29,19 +33,53 @@ hash:
   h_01HQ3XERRBWNMT46BZYQ72DQC1: ghast
   h_01HQ3XERRB064X6AMJMKAFTD1X: glowstone
   h_01HQ3XERRB25XKV4HXGHMMX24N: haybale
+  h_01J94E7SX2AWE2YQSDXC0PTBR6: p2psig-no_session0x80004005
   h_01HQ3XERRBPV5R5JXJPE5X9WV6: piglin
   h_01HQ3XERRBGM8WBRA50PR422R2: pufferfish
   h_01HQ3XERRBAKDKXZ6XBVZMPADX: sugar-cane
   h_01HQ3XERRB2YBPNQ4JHTHSZBX1: terracotta
   h_01HQ3XERRBYWQERR58HG4MNADW: marketplace-errors-starting-with-l--d--s--or-p-
-  h_01HQ3XERRBJDGVM3W8T72BC0KX: general-error-code-troubleshooting
-  h_01HQ3XERRB7GP1AVW2ZT1DDKSX: further-troubleshooting-suggestions
-  h_01HQ3XERRB0EPN199FK4E05CQC: uninstall-and-reinstall-minecraft-bedrock-edition
-  h_01HQ3XERRBKJ2HQK15TF6TW23D: device-troubleshooting
 ---
 
 *This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition.  
 *
+
+## General Error Code Troubleshooting
+
+Always make sure that your game is [up to date and running the latest version of Minecraft](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md).
+
+Additionally, please confirm that your Minecraft account is attached to a Microsoft account. You can check this by going to the main menu, then clicking the sign-in button at the bottom right.
+
+After verifying the above, please complete these troubleshooting steps:
+
+- Check your internet and ensure your device's connection is stable and strong.
+- If your issues are caused by the internet connection, you may need to reach out to your Internet Service Provider and/or complete separate troubleshooting steps.
+- Sign out of all Minecraft accounts (including the attached Microsoft account) and close out any open Minecraft: Bedrock Edition applications.
+- Restart the game, then sign back into your Minecraft: Bedrock Edition and Microsoft account(s)
+- If you still see the error: repeat the steps above after waiting 1 hour, including internet troubleshooting steps.
+
+Additional steps if you're playing on a Windows, Android, Xbox, or iOS device:
+
+- Make sure you're logging in with the right Microsoft account.
+- Install the "Xbox App", which you can find by searching for "Xbox" in your platform's store app or in the Microsoft Store.
+
+If you find the issue persists after this point, we have a few additional suggestions that may assist with resolving the problem. Please read our guidance carefully and only proceed with the steps you are comfortable processing.  
+
+## Further Troubleshooting Suggestions
+
+### Uninstall and Reinstall Minecraft: Bedrock Edition
+
+1.  Refer to your device support site for guidance on uninstalling and reinstalling purchased applications. 
+2.  **DISCLAIMER:** This will delete your local saves, so please back up any files you wish to keep. If you need assistance, see [Backing up Minecraft Worlds](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3).
+
+### Device Troubleshooting 
+
+1.  Your gaming device may be contributing to this issue. We recommend performing a full restart and investigating any pending system updates. This may assist with resolving the errors you are seeing.  
+2.  Again, please make sure you back up any files that you wish to keep and refer to the platform's guidance for successfully restarting your device. 
+
+Please also check our [bug reports](https://bugs.mojang.com/secure/Dashboard.jspa) for similar issues or submit your own so that a developer can take a look.
+
+If you're still experiencing an error code, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and provide a picture of any error messages that you see, along with any additional details about your issue. *For our team to be able to review these images, please make sure they are in PNG or JPEG file formats only.*
 
 ## Error codes you may encounter while playing** **
 
@@ -69,7 +107,7 @@ You may have a ban on the account.
 
 A network issue has prevented your sign-in.
 
-- Make sure that your connection is stable and check that it is configured properly.
+- See [Creeper Error Code Troubleshooting in Minecraft](./Creeper-Error-Code-Troubleshooting-in-Minecraft.md).
 
 ### Crossbow:
 
@@ -99,6 +137,10 @@ Sign-in could not authenticate with all services.
 This indicates an issue with Xbox authorization.
 
 - Please make sure the Xbox app is up to date and try signing out, then signing back in.
+
+## P2P/SIG: no_session(0x80004005)
+
+See [P2P/SIG Error Code Troubleshooting in Minecraft](./P2P-SIG-Error-Code-Troubleshooting-in-Minecraft.md).
 
 ### Piglin:
 
@@ -139,41 +181,3 @@ These errors are specific to the Marketplace. We advise you to try again later. 
 - Wither Rose
 
 You can also check out our [Bug Reports](https://bugs.mojang.com/secure/Dashboard.jspa) to see if any additional solutions or workarounds have been discovered for any error codes that you encounter.
-
-## General Error Code Troubleshooting
-
-Always make sure that your game is [up to date and running the latest version of Minecraft](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md).
-
-Additionally, please confirm that your Minecraft account is attached to a Microsoft account. You can check this by going to the main menu, then clicking the sign-in button at the bottom right.
-
-  
-After verifying the above, please complete these troubleshooting steps:
-
-- Check your internet and ensure your device's connection is stable and strong.
-- If your issues are caused by the internet connection, you may need to reach out to your Internet Service Provider and/or complete separate troubleshooting steps.
-- Sign out of all Minecraft accounts (including the attached Microsoft account) and close out any open Minecraft: Bedrock Edition applications.
-- Restart the game, then sign back into your Minecraft: Bedrock Edition and Microsoft account(s)
-- If you still see the error: repeat the steps above after waiting 1 hour, including internet troubleshooting steps.
-
-Additional steps if you're playing on a Windows, Android, Xbox, or iOS device:
-
-- Make sure you're logging in with the right Microsoft account.
-- Install the "Xbox App", which you can find by searching for "Xbox" in your platform's store app or in the Microsoft Store.
-
-If you find the issue persists after this point, we have a few additional suggestions that may assist with resolving the problem. Please read our guidance carefully and only proceed with the steps you are comfortable processing.  
-
-## Further Troubleshooting Suggestions
-
-### Uninstall and Reinstall Minecraft: Bedrock Edition
-
-1.  Refer to your device support site for guidance on uninstalling and reinstalling purchased applications. 
-2.  **DISCLAIMER:** This will delete your local saves, so please back up any files you wish to keep. If you need assistance, see [Backing up Minecraft Worlds](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3).
-
-### Device Troubleshooting 
-
-1.  Your gaming device may be contributing to this issue. We recommend performing a full restart and investigating any pending system updates. This may assist with resolving the errors you are seeing.  
-2.  Again, please make sure you back up any files that you wish to keep and refer to the platform's guidance for successfully restarting your device. 
-
-Please also check our [bug reports](https://bugs.mojang.com/secure/Dashboard.jspa) for similar issues or submit your own so that a developer can take a look.
-
-If you're still experiencing an error code, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and provide a picture of any error messages that you see, along with any additional details about your issue. *For our team to be able to review these images, please make sure they are in PNG or JPEG file formats only.*
