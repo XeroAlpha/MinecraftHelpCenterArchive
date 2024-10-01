@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-10-01T16:46:37Z
+updated: 2024-10-01T20:42:19Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -38,7 +38,6 @@ hash:
   h_01HQ3XERRBGM8WBRA50PR422R2: pufferfish
   h_01HQ3XERRBAKDKXZ6XBVZMPADX: sugar-cane
   h_01HQ3XERRB2YBPNQ4JHTHSZBX1: terracotta
-  h_01HQ3XERRBYWQERR58HG4MNADW: marketplace-errors-starting-with-l--d--s--or-p-
 ---
 
 *This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition.  
@@ -165,19 +164,3 @@ The wrong Microsoft/Xbox account is being used to sign into the current PlayStat
 An unspecified error has occurred.
 
 - Please follow the [general troubleshooting steps](#general-error-code-troubleshooting) below.
-
-## Marketplace Errors starting with L-, D-, S- or P-
-
-These errors are specific to the Marketplace. We advise you to try again later. At Minecraft, we have dashboards which we are monitoring to understand when these errors occur, so we can make improvements over time for all players and platforms.
-
-**Note: If you're experiencing a different error code than those listed above, please follow the general troubleshooting steps below to resolve errors such as:**
-
-- Cake
-- Magma Block
-- Mycelium
-- Observer
-- Prismarine
-- Soul Sand
-- Wither Rose
-
-You can also check out our [Bug Reports](https://bugs.mojang.com/secure/Dashboard.jspa) to see if any additional solutions or workarounds have been discovered for any error codes that you encounter.
