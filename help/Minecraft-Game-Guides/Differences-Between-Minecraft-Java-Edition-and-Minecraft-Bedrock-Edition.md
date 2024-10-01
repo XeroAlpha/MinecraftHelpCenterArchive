@@ -1,7 +1,7 @@
 ---
 title: "Differences Between Minecraft: Java Edition and Minecraft: Bedrock Edition"
 date: 2021-03-24T21:40:40Z
-updated: 2024-09-26T20:50:43Z
+updated: 2024-10-01T17:11:52Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -11,27 +11,30 @@ hash:
   h_01HPJ28MD5955W95HZQD8JCW2B: minecraft-bedrock-edition
 ---
 
-While every version of Minecraft is still Minecraft, the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition can be quite extensive. To answer the question of which version is right for you, you will need to consider what features are most important to you. This article will break down the major differences and features of each version. 
+While every version of Minecraft is still Minecraft, the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition can be quite extensive. To answer the question of which version is right for you, you will need to consider which features are most important. This article will break down the major differences and features of each version. Learn more and buy Minecraft at our page for [Minecraft: Java & Bedrock Edition for PC Deluxe Edition](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc)!
 
 ## Minecraft: Java Edition
 
-- Customize your own skin – You can download any skin online or make your own and upload it to use in-game! 
-- PC only – Minecraft: Java Edition will run on Windows, macOS, and Linux 
-- Mods – Download community-made mods to change your gameplay experience 
-- Resource Intensive – Minecraft: Java Edition requires [higher computer specifications](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)[ ](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md#h_01FFJMSQWJH31CH16H63GX4YKE)to run smoothly 
-- No Cross-Play – Minecraft: Java Edition users can only play with other Java users 
-- Community – There are countless online servers and communities with all kinds of variations and mods to change up the multiplayer experience 
-- No Family Sharing – Family Sharing is only available for Bedrock Edition
+- **Supported Cross-Play:** Play with your friends also playing Java Edition on Windows, Mac, and Linux.
+- **Customize your own skin:** You can download any skin online or make your own and upload it to use in-game!
+- **Customize with mods:** Download community-made [Mods for Minecraft: Java Edition](../Community-Guidelines/Mods-for-Minecraft-Java-Edition.md) to change your gameplay experience.
+- **Join a Realm:** Realms are servers, run by Minecraft, just for you and your friends. Invite an infinite number of friends to join your personal Realm and play with up to 10 friends at a time.
+- **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server, and have your friends join from mobile and PC.
+- **Join a community:** There are countless communities dedicated to customizing Java Edition with all kinds of variations and mods to change up the multiplayer experience.
 
 ## Minecraft: Bedrock Edition
 
 **Note: Minecraft: Bedrock Edition refers to any non-Java Edition of the game.** 
 
-- Multi-Platform – You can play Minecraft: Bedrock Edition on consoles, mobile, Chromebook, and PC 
-- Marketplace – Add-Ons or Skin packs can be purchased from the marketplace to change your gameplay experience 
-- Cross-Play – Minecraft: Bedrock Edition players can play with any other Minecraft: Bedrock Edition player online 
-- Runs Smooth – Minecraft: Bedrock Edition does not require powerful computers or devices to run and will often run more smoothly than Minecraft: Java Edition 
-- Controls – Minecraft: Bedrock Edition has the option to switch to a controller for movement or touch controls if on a mobile device 
-- Moderation and Parental Controls – Since Minecraft: Bedrock Edition is connected to Xbox’s services the online experience is more heavily moderated and parental controls can be finer tuned 
+- **Supported Cross-Play:** Play with your friends also playing Bedrock Edition on Windows 10, Windows 11, Xbox, Nintendo Switch, PS4, and mobile.
+- **Controller Support:** Minecraft: Bedrock Edition has the option to switch to a controller for movement or touch controls if on a mobile device.
+- **Buy from the Minecraft Marketplace:** Packs can be purchased from the marketplace to change your gameplay experience.
+- **Downloadable Content:** Use add-ons to customize your experience. Transform the look, and even change the behavior of mobs.
+- **Multiplayer Servers:** Public servers are partnered with Minecraft for anyone to join, which includes multiplayer mini-games.
+- **Join a Realm:** Realms are servers, run by Minecraft, just for you and your friends. Invite an infinite number of friends to join your personal Realm and play with up to 10 friends at a time.
+- **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server, and have your friends join from mobile and PC.
+- **Achievements & Trophies:** Complete certain challenges to earn achievements or trophies in survival mode.
+- **Moderation and Parental Controls:** Connected to the [Xbox Family Settings App](https://www.xbox.com/en-US/apps/family-settings-app), you can customize the shared gaming experience for you and your family.
+- **Family Sharing Support:** You can share your copy of Minecraft: Bedrock Edition to others in your family using [Family Share on PC](../Download-Install/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).
 
 There are many more differences between the two versions, but these are the major ones to help you decide which edition is right for you.

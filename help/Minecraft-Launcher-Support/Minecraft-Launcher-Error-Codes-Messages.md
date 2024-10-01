@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launcher Error Codes & Messages
 date: 2024-01-22T20:56:52Z
-updated: 2024-10-01T16:17:04Z
+updated: 2024-10-01T18:41:38Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -51,14 +51,7 @@ Ensure that you’re properly logged into the same account on both the Microso
 
 ## Minecraft Launcher license is currently not available for your account (0X803F8001)
 
-First, make sure you are signed into the same account on the Minecraft Launcher, Microsoft Store, and Xbox app.
-
-If you are, try installing the Minecraft Launcher [directly from the Microsoft Store](https://aka.ms/NewMCLauncher) and log in using the Microsoft account you used to log into the Launcher. If you still receive this error, reset the store.
-
-**Reset the Microsoft Store**
-
-1.  Press the **Windows key** + **R** simultaneously
-2.  A window will appear. Type in **WSReset** and hit enter
+See [Troubleshooting Error 0X803F8001 in Minecraft](../Performance-Troubleshooting/Troubleshooting-Error-0X803F8001-in-Minecraft.md).
 
 ## Unable to update native launcher error
 
