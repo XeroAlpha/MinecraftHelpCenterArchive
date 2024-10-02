@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-10-01T20:42:19Z
+updated: 2024-10-02T17:26:07Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -40,7 +40,7 @@ hash:
   h_01HQ3XERRB2YBPNQ4JHTHSZBX1: terracotta
 ---
 
-*This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition.  
+*This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition. For Marketplace errors, see [Troubleshooting Minecraft Marketplace Error Codes](./Troubleshooting-Minecraft-Marketplace-Error-Codes.md).  
 *
 
 ## General Error Code Troubleshooting
@@ -94,7 +94,7 @@ Minecraft: Bedrock Edition could not reach the authentication servers, or the co
 
 - If an outage has been reported, please wait until the outage has been resolved and try again later.
   - Service issues are usually reported by [@MojangStatus](https://x.com/MojangStatus) on Twitter. 
-- If no outage has been reported, please follow the [general troubleshooting](#general-error-code-troubleshooting) steps below.
+- If no outage has been reported, please follow [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md).
 
 ### Cobblestone:
 
