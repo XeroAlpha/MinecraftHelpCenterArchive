@@ -1,12 +1,12 @@
 ---
-title: Redeeming a Pre-Paid Card or Gift Code for Minecraft Dungeons
+title: How to Redeem a Prepaid Card or Gift Code for Minecraft Dungeons
 date: 2020-08-04T18:17:04Z
-updated: 2024-07-26T18:22:19Z
+updated: 2024-10-02T16:30:07Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_26726610890253
   - section_28872896387341
-link: https://help.minecraft.net/hc/en-us/articles/360046911212-Redeeming-a-Pre-Paid-Card-or-Gift-Code-for-Minecraft-Dungeons
+link: https://help.minecraft.net/hc/en-us/articles/360046911212-How-to-Redeem-a-Prepaid-Card-or-Gift-Code-for-Minecraft-Dungeons
 hash:
   redeeming-minecraft-dungeons-on-pc-launcher-version: redeeming-minecraft-dungeons-onpc-launcher-version
 ---
