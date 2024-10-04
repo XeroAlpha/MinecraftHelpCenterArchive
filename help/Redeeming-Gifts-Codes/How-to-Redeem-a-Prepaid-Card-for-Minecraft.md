@@ -1,7 +1,7 @@
 ---
 title: How to Redeem a Prepaid Card for Minecraft
 date: 2022-04-27T23:26:52Z
-updated: 2024-07-31T17:11:44Z
+updated: 2024-10-04T18:36:45Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_28872896387341
@@ -9,6 +9,7 @@ link: https://help.minecraft.net/hc/en-us/articles/5846082805645-How-to-Redeem-a
 hash:
   h_01J40093AF5K6N6C69AME04GBE: how-to-redeem-a-minecraft-gift-card-in-your-microsoft-account
   h_01J400A95FX3GD6TYP7FK30NC6: how-to-redeem-a-minecraft-gift-card-on-minecraftnet
+  h_01J9CC9TDF1HXF5BSG133DXZWG: who-to-contact-for-gift-card-support
 ---
 
 Minecraft: Java and Bedrock Edition for PC pre-paid cards can be used on a new or existing Microsoft account and entitles the cardholder to one Minecraft: Java or Bedrock Edition for PC license. With access to both versions, you can play on Windows, macOS, or Linux.
@@ -30,4 +31,8 @@ Minecraft: Java and Bedrock Edition for PC pre-paid cards can be used on a new
 5.  Sign into the Microsoft account that you want to use to play Minecraft.
 6.  To Download the game, navigate to the [Minecraft Launcher download page](https://www.minecraft.net/en-us/download) and click Download Launcher.
 
-**Note: ** Minecraft gift cards must be redeemed in the region in which they were purchased. If you attempt to redeem a Gift Card lives outside the region of purchase, it may not work. If you run into any problems, see our article for help [Troubleshooting Minecraft Gift Card Redemption Errors](./Troubleshooting-Minecraft-Gift-Redemption-Errors.md).
+## Who to Contact for Gift Card Support
+
+- **Gift code troubleshooting:** If you run into any problems redeeming a gift code for Minecraft games, please first visit [Troubleshooting Minecraft Gift Card Redemption Errors](./Troubleshooting-Minecraft-Gift-Redemption-Errors.md).
+- **Minecraft: Java Edition only gift cards:** If you are trying to redeem a gift card purchased before December 1, 2020 that is specifically for *Minecraft: Java Edition only* and receive an error trying to redeem your card, please contact [Minecraft Player Care](https://help.minecraft.net/hc/en-us/request/new?ticket_form_id=360001225811).
+- **Minecraft: Java & Bedrock Edition:** Gift codes for the Java & Bedrock Edition bundle are redeemed in the Microsoft store. Please contact [Microsoft Support](https://support.microsoft.com/home/contact?linkquery=Troubleshoot%20Xbox%20gift%20card) for help.

@@ -1,11 +1,13 @@
 ---
 title: Troubleshooting Minecraft Gift Redemption Errors
 date: 2021-09-21T21:40:08Z
-updated: 2024-09-30T23:10:57Z
+updated: 2024-10-04T18:39:52Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/4409745793677-Troubleshooting-Minecraft-Gift-Redemption-Errors
+hash:
+  h_01J9CC9TDF1HXF5BSG133DXZWG: who-to-contact-for-gift-card-support
 ---
 
 If you received the gift of Minecraft or Minecraft content via a gift card or a gift code via email, this page can help if you encounter a problem redeeming your code. You can redeem codes at [Minecraft.net/redeem](https://www.minecraft.net/en-us/redeem).
@@ -18,7 +20,15 @@ If you received the gift of Minecraft or Minecraft content via a gift card or a 
 - **Check other Microsoft accounts**: If you get an error that your card or code has already been redeemed, it’s a good idea to check if you have already redeemed your code on a different Microsoft account. View your [Microsoft store order history](https://support.microsoft.com/en-us/account-billing/view-your-microsoft-store-order-history-aafefe88-3ec2-ce28-e0b6-eff1d5cc8170).
 - **Verify gift card edition**: Minecraft Java and Bedrock editions are now sold as a bundle. If the gift card you want to redeem is specifically for Minecraft: Java Edition only and your code isn't working in the Microsoft store, [contact Minecraft support](https://help.minecraft.net/hc/en-us/request/new?ticket_form_id=360001225811).
 
-You can [Contact Microsoft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md) or the platform the gift was purchased from to get additional help. For instructions for redeeming gift cards and codes, see these Help pages:
+## Who to Contact for Gift Card Support
 
-- [How to Redeem the Gift of Minecraft](./How-to-Redeem-Minecraft-as-a-Gift.md)
-- [How to Redeem a Pre-paid Card for Minecraft](./How-to-Redeem-a-Prepaid-Card-for-Minecraft.md)
+- **Help redeeming gift codes:** For instructions for redeeming gift cards and codes, see these Help pages:
+
+  - - [How to Redeem the Gift of Minecraft](./How-to-Redeem-Minecraft-as-a-Gift.md)
+    - [How to Redeem a Pre-paid Card for Minecraft](./How-to-Redeem-a-Prepaid-Card-for-Minecraft.md)
+
+- **Minecraft: Java Edition only gift cards:** If you are trying to redeem a gift card purchased before December 1, 2020 that is specifically for *Minecraft: Java Edition only* and receive an error trying to redeem your card, please contact [Minecraft Player Care](https://help.minecraft.net/hc/en-us/request/new?ticket_form_id=360001225811).
+
+- **Minecraft: Java & Bedrock Edition:** Gift codes for the Java & Bedrock Edition bundle are redeemed in the Microsoft store. Please contact [Microsoft Support](https://support.microsoft.com/home/contact?linkquery=Troubleshoot%20Xbox%20gift%20card) for help.
+
+You can [Contact Microsoft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md) or the platform the gift was purchased from to get additional help.
