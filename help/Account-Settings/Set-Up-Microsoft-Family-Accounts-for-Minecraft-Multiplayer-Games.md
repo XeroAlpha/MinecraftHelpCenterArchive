@@ -15,7 +15,6 @@ tags:
   - platform_linux
   - platform_macos
   - platform_pc
-  - popular
   - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
   - section_27194076935437

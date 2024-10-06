@@ -4,7 +4,6 @@ date: 2023-10-25T20:06:23Z
 updated: 2024-06-21T21:16:08Z
 categories: Minecraft Realms Stories
 tags:
-  - trending
   - section_27194076935437
   - section_ 12618443219469
 link: https://help.minecraft.net/hc/en-us/articles/20720109328269-How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories

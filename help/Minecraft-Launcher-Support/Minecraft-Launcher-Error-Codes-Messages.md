@@ -51,7 +51,7 @@ Ensure that you’re properly logged into the same account on both the Microso
 
 ## Minecraft Launcher license is currently not available for your account (0X803F8001)
 
-See [Troubleshooting Error 0X803F8001 in Minecraft](../Performance-Troubleshooting/Troubleshooting-Error-0X803F8001-in-Minecraft.md).
+See [Troubleshooting Error 0X803F8001 in Minecraft](./Troubleshooting-Error-0X803F8001-in-Minecraft.md).
 
 ## Unable to update native launcher error
 

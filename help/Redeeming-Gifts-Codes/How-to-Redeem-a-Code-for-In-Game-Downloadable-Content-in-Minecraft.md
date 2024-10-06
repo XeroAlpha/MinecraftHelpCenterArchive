@@ -4,7 +4,6 @@ date: 2021-07-08T17:09:20Z
 updated: 2024-08-27T21:50:08Z
 categories: Redeeming Gifts & Codes
 tags:
-  - trending
   - section_26562723671949
   - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/4404604459405-How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft

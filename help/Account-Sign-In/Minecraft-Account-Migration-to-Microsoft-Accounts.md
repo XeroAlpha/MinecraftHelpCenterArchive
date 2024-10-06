@@ -16,7 +16,6 @@ tags:
   - subject_problems_migrating
   - subject_how_do_i_migrate
   - subject_when_can_i_migrate
-  - popular
   - title_minecraft_java_bedrock_for_pc
   - section_27194059750157
   - use_for_autoreply
