@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-10-02T17:26:07Z
+updated: 2024-10-07T18:03:57Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -137,7 +137,7 @@ This indicates an issue with Xbox authorization.
 
 - Please make sure the Xbox app is up to date and try signing out, then signing back in.
 
-## P2P/SIG: no_session(0x80004005)
+### P2P/SIG: no_session(0x80004005)
 
 See [P2P/SIG Error Code Troubleshooting in Minecraft](./P2P-SIG-Error-Code-Troubleshooting-in-Minecraft.md).
 
