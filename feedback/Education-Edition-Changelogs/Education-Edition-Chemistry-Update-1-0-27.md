@@ -1,7 +1,7 @@
 ---
 title: "Education Edition: Chemistry Update (1.0.27)"
 date: 2018-05-23T09:30:35Z
-updated: 2023-10-31T14:04:16Z
+updated: 2024-10-08T09:27:58Z
 categories: Education Edition Changelogs
 tags:
   - education_edition
@@ -13,7 +13,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004167911-Education-Ed
 
 The Chemistry Update for Minecraft: Education Edition offers exciting new tools to explore the world of chemistry in Minecraft. The Chemistry Resource Pack allows you and your students to conduct experiments within Minecraft that simulate real world science.  
   
-A full guide to getting started with the Chemistry Update can be found at <https://aka.ms/labjournal>  
+A full guide to getting started with the Chemistry Update can be found at [Chemistry Lab Journal](https://aka.ms/labjournal)  
   
 **Client:**
 
