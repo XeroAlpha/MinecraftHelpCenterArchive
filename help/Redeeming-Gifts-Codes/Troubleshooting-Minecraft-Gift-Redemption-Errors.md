@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Gift Redemption Errors
 date: 2021-09-21T21:40:08Z
-updated: 2024-10-04T19:11:31Z
+updated: 2024-10-08T15:41:48Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_28872896387341
@@ -24,8 +24,8 @@ If you received the gift of Minecraft or Minecraft content via a gift card or a 
 
 - **Help redeeming gift codes:** For instructions for redeeming gift cards and codes, see these Help pages:
 
-  - - [How to Redeem the Gift of Minecraft](./How-to-Redeem-Minecraft-as-a-Gift.md)
-    - [How to Redeem a Pre-paid Card for Minecraft](./How-to-Redeem-a-Prepaid-Card-for-Minecraft.md)
+  - [How to Redeem the Gift of Minecraft](./How-to-Redeem-Minecraft-as-a-Gift.md)
+  - [How to Redeem a Pre-paid Card for Minecraft](./How-to-Redeem-a-Prepaid-Card-for-Minecraft.md)
 
 - **Minecraft: Java Edition only gift cards:** If you are trying to redeem a gift card purchased before December 1, 2020 that is specifically for *Minecraft: Java Edition only* and receive an error trying to redeem your gift code, please contact [Minecraft Player Care](https://aka.ms/java-code-redeem-redirect).
 
