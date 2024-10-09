@@ -1,7 +1,7 @@
 ---
 title: How to Update Your Payment Method for Minecraft Realms
 date: 2024-08-02T18:05:35Z
-updated: 2024-08-02T22:22:46Z
+updated: 2024-10-09T17:48:49Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
@@ -41,8 +41,8 @@ Your payment method for Bedrock Realms is managed by the store where you bought 
 
 ## How to update the payment method for a Minecraft: Java Edition Realm
 
-1.  Sign into your Microsoft account.
-2.  Select **Services & subscriptions** in your account
+1.  Sign into your [Microsoft account](https://account.microsoft.com/?ref=MeControl).
+2.  Select **Subscriptions.**
 3.  Click **Manage** next to your Minecraft: Java Edition Realm.
 4.  Click **Change** next to your payment method.
 5.  Follow the on-screen instructions to add a new payment method or select an existing payment method.
