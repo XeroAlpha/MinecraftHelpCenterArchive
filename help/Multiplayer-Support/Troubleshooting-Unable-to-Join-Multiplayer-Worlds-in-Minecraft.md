@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unable to Join Multiplayer Worlds in Minecraft
 date: 2021-09-14T22:13:00Z
-updated: 2024-02-07T20:00:30Z
+updated: 2024-10-10T21:26:26Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -20,14 +20,10 @@ link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshooting
 
 Here are some suggestions to help you fix issues joining multiplayer worlds in Minecraft.
 
-- If using a child account, visit [I’m Getting an Error When Trying to Play Minecraft with a Child Account](../Account-Settings/Troubleshooting-Errors-Playing-Minecraft-Multiplayer-Games-with-a-Child-Account.md)
-- Make sure **Multiplayer Game **is toggled on in the **Multiplayer** tab in the world's settings
-- Restart your device
-- Try connecting to another network connection if possible
-- If you're using a VPN, try turning it off
-- Check to see if the server is down from the below sources:
-  - [Xbox Live server status](https://support.xbox.com/en-US/xbox-live-status)
-  - [PlayStation Network server status](https://status.playstation.com/en-us/)
-  - [Nintendo Online status updates](https://www.nintendo.co.jp/netinfo/en_US/index.html)
-  - [Mojang Status X page](https://twitter.com/MojangStatus) (make sure you are signed into an X account to see the latest updates)
-- If you're using a firewall, try allowing Minecraft through it
+- If using a child account, visit [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to make sure the child account's permissions are correctly set up.
+- In Bedrock Edition, make sure **Multiplayer Game **is toggled on in the world's settings.
+  1.  Have the host press the **Pencil **icon next to the world in the world list.
+  2.  Click **Multiplayer**.
+  3.  Toggle **Multiplayer Game** to the right.
+- Restart your device.
+- See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for various internet connection troubleshooting tips.
