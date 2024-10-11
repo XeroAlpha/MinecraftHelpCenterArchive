@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unable to Join Multiplayer Worlds in Minecraft
 date: 2021-09-14T22:13:00Z
-updated: 2024-10-10T21:26:26Z
+updated: 2024-10-10T22:20:07Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -20,10 +20,10 @@ link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshooting
 
 Here are some suggestions to help you fix issues joining multiplayer worlds in Minecraft.
 
-- If using a child account, visit [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to make sure the child account's permissions are correctly set up.
-- In Bedrock Edition, make sure **Multiplayer Game **is toggled on in the world's settings.
-  1.  Have the host press the **Pencil **icon next to the world in the world list.
-  2.  Click **Multiplayer**.
-  3.  Toggle **Multiplayer Game** to the right.
-- Restart your device.
-- See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for various internet connection troubleshooting tips.
+- **Check child account permissions:** If using a child account, visit [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to make sure the child account's permissions are set up correctly.
+- **Check world settings with the host:** In Bedrock Edition, make sure **Multiplayer Game **is toggled on in the settings for the world you are trying to join.
+  1.  1.  Have the Realm owner select the **Pencil **icon next to the world in the world list.
+      2.  Select **Multiplayer** from the Settings menu.
+      3.  Toggle **Multiplayer Game** to the right.
+- **Check your game version and system:** Make sure that you and the host are using the most recent release of Minecraft and restart your device.
+- **Check your internet connection:** See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for various internet connection troubleshooting tips.
