@@ -1,6 +1,7 @@
 ---
 title: Troubleshooting Minecraft Marketplace Error Codes
 date: 2024-10-01T20:46:44Z
+updated: 2024-10-14T17:38:52Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
@@ -13,8 +14,13 @@ The Minecraft Marketplace always has great content for you to add to your world 
 
 ## Minecraft Marketplace Errors starting with L-, D-, S- or P-
 
-These errors are specific to the Minecraft Marketplace and may indicate that some Marketplace services are temporarily unavailable. We advise you to try restarting Minecraft or try again later. We are always monitoring to understand when these errors occur, so we can make improvements over time for all players and platforms.
+These lettered error codes are specific to the Marketplace and indicate that you encountered an unknown client error during sign in. You can try to clear the error by trying the following:
 
-If you need help making a purchase or finding your content, please visit [Minecraft Marketplace Help](https://help.minecraft.net/hc/en-us/categories/24069809340813). If you need to get in touch with us about a marketplace purchase, click the Contact Support button at the bottom of any Help page.
+- **Check your game version**: Make sure that your game is up to date and running the latest version of Minecraft. See the below links for help updating your game.
+  - [How to Manually Update Minecraft on Consoles](../Download-Install/How-to-Manually-Update-Minecraft-on-Consoles.md)
+  - [How to Manually Update Minecraft on Windows](../Download-Install/How-to-Manually-Update-Minecraft-on-Windows.md)
+  - [How to Manually Update Minecraft on Mobile](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md)
+- **Check account sign-in**: Make sure your game is linked to a Microsoft account. You can check this by going to the main menu, then selecting the sign-in button towards the bottom right. See [Accounts & Sign-in](https://help.minecraft.net/hc/en-us/categories/12617305106701) for help in this area.
+- **Restart your system**: Sign out of and fully close Minecraft, reset your device, and attempt to sign in again.
 
-You can also check out our [Bug Reports](https://bugs.mojang.com/secure/Dashboard.jspa) to see if any additional solutions or workarounds have been discovered for any error codes that you encounter.
+If you need help making a purchase or finding your content, please visit [Minecraft Marketplace Help](https://help.minecraft.net/hc/en-us/categories/24069809340813). You can also check out our [Bug Reports](https://bugs.mojang.com/secure/Dashboard.jspa) to see if any additional solutions or workarounds have been discovered for any error codes that you encounter.

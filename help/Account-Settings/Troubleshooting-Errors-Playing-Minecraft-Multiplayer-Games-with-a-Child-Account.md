@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Errors Playing Minecraft Multiplayer Games with a Child Account
 date: 2020-04-22T23:12:57Z
-updated: 2024-08-07T17:56:23Z
+updated: 2024-10-14T17:30:57Z
 categories: Account Settings
 tags:
   - title_minecraft
@@ -18,18 +18,14 @@ tags:
   - section_27194076935437
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/360042221252-Troubleshooting-Errors-Playing-Minecraft-Multiplayer-Games-with-a-Child-Account
-hash:
-  h_01HZ859JZDHV0C7JXSAM162S4V: required-online-subscriptions-for-consoles
 ---
 
 If you are playing Minecraft signed in with a child account and receive the error “You cannot play online multiplayer because of how your Microsoft account is setup,” the adult Family Account owner will need to review and change your privacy settings to join multiplayer games or Realms.
 
-See [Managing Multiplayer Game Access For A Child Account In Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) for more information.
+See [Managing Multiplayer Game Access for a Child Account In Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) for more information on managing permissions for the child account.
 
-### Required Online Subscriptions for Consoles
+If you are getting an error code, see [Error Code Troubleshooting for Minecraft: Bedrock Edition](../Performance-Troubleshooting/Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) to look into various fixes.
 
-Game consoles also require a multiplayer subscription for online gaming. Find out more here:
+If you may be encountering internet connection issues, see [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md).
 
-- [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass)
-- [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/)
-- [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/)
+You can also see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md) for more potential fixes.
