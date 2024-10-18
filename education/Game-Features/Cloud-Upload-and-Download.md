@@ -1,7 +1,7 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2024-09-03T18:35:04Z
+updated: 2024-10-18T20:08:28Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
@@ -275,6 +275,22 @@ Here are some steps you can take to resolve this issue:
   - To check, go to [Sign in - Microsoft OneDrive (live.com)](https://onedrive.live.com/login/)
   - Once logged in, select 'Office apps & devices' to confirm if OneDrive is enabled
 - Ask a system administrator to check your OneDrive settings.
+
+If you got this error when you closed your world:
+
+![error_5x4.png](https://edusupport.minecraft.net/hc/article_attachments/31365075809940)
+
+**World download failed**
+
+***Your device is out of space!***
+
+Error code: 5x4
+
+Here are some steps you can take to resolve this issue:
+
+- Delete any unnecessary files or applications on your device
+  - Double check with your IT Admin or owner of the device before doing so
+- Restart the device
 
  
 
