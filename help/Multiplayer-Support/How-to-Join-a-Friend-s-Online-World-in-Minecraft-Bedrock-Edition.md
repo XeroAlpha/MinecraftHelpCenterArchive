@@ -37,7 +37,7 @@ If you and your friend are playing on the same console, you can add each other t
 
 1.  Have the world owner to go into their world **Settings**.
 2.  In the **Multiplayer** tab, make sure that Multiplayer Game is turned **on** (toggled to the right).
-3.  For more troubleshooting, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](./Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md).
+3.  For more troubleshooting, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md).
 
 Note: if you are playing Minecraft multiplayer on a console, you must be subscribed to either Xbox Game Pass Core, Nintendo Switch Online, or PlayStation Plus to be able to play with friends.
 

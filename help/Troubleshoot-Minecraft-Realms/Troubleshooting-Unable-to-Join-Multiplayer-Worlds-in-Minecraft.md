@@ -2,7 +2,7 @@
 title: Troubleshooting Unable to Join Multiplayer Worlds in Minecraft
 date: 2021-09-14T22:13:00Z
 updated: 2024-10-11T16:16:53Z
-categories: Multiplayer Support
+categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft
   - category_technical_support

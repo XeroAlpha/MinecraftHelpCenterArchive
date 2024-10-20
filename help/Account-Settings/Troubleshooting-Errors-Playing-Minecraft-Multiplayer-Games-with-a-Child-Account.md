@@ -28,4 +28,4 @@ If you are getting an error code, see [Error Code Troubleshooting for Minecraft:
 
 If you may be encountering internet connection issues, see [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md).
 
-You can also see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md) for more potential fixes.
+You can also see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md) for more potential fixes.
