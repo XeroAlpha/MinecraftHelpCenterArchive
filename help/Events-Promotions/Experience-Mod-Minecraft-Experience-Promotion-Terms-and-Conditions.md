@@ -1,7 +1,7 @@
 ---
 title: Experience Mod Minecraft Experience Promotion Terms and Conditions
 date: 2024-10-16T18:14:24Z
-updated: 2024-10-17T21:43:39Z
+updated: 2024-10-22T19:11:19Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
@@ -23,7 +23,7 @@ link: https://help.minecraft.net/hc/en-us/articles/31114589569805-Experience-Mod
       - Only one (1) Minecraft Experience digital item available through this Minecraft Experience Promotion may be redeemed per Microsoft Account. If you have more than one promo code for a particular Minecraft Experience item, you may gift the promo code(s) for free to a family member, friend, or any other Minecraft Experience player. You are not permitted to sell promo codes obtained through this Minecraft Experience Promotion.
       - Each promo code is unique and cannot be used more than once.
     - **Promo Code Expiration Date: **The promo code for the Minecraft Experience Cape must be redeemed no later than April 5, 2025.
-3.  The digital item available under this Minecraft Experience Promotion is for the video game Minecraft Bedrock Edition. The digital item(s) available under this Minecraft Experience Promotion are not available for other versions of Minecraft. An existing subscription or purchase of Minecraft Bedrock Edition and a Microsoft Account are both required to redeem and use any digital item(s) available under this Minecraft Experience Promotion. By June 5, 2024, players who have redeemed a code for the Minecraft Experience Cape in Bedrock will be granted a cape in their Minecraft Java account.
+3.  The digital item available under this Minecraft Experience Promotion is for the video game Minecraft Bedrock Edition. The digital item(s) available under this Minecraft Experience Promotion are not available for other versions of Minecraft. An existing subscription or purchase of Minecraft Bedrock Edition and a Microsoft Account are both required to redeem and use any digital item(s) available under this Minecraft Experience Promotion. By June 5, 2025, players who have redeemed a code for the Minecraft Experience Cape in Bedrock will be granted a cape in their Minecraft Java account.
 4.  The Minecraft Experience Promotion is not administered by Microsoft Corporation or Mojang AB. Minecraft Experience is a trademark of Mojang Synergies AB and is used with permission from Microsoft Corporation.
 5.  Individuals under 18 years of age must have the permission of a parent or guardian to participate in the Minecraft Experience Promotion.
 6.  All promo codes must be redeemed by the applicable expiration date. Promo codes that are not redeemed by the applicable expiration date will be forfeited.
