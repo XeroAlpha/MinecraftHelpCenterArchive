@@ -1,14 +1,14 @@
 ---
 title: All Game Modes in Minecraft
 date: 2021-03-30T00:19:24Z
-updated: 2024-07-09T15:59:04Z
+updated: 2024-10-22T16:00:00Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360058743992-All-Game-Modes-in-Minecraft
 hash:
   h_01J2C3FHRH3514PVSB2YMZFMWA: survival
-  h_01J2C3FQMEA52BRMVM6E68MVV3: hardcore-only-in-java-coming-to-bedrock-soon
+  h_01J2C3FQMEA52BRMVM6E68MVV3: hardcore
   h_01J2C3FT7NK4X2EF68G2D5BBDZ: creative
   h_01J2C3FZY9B4J4S5B4VRHY2E5J: adventure
   h_01J2C3G2EBDPG224AKDP0RNPA5: spectator
@@ -20,9 +20,9 @@ The way you play in Minecraft is entirely decided by you. Whether you want the t
 
 Survival is the traditional Minecraft experience. Collect resources and build structures while surviving in a generated world. At night, hostile mobs like zombies and skeletons will attack, so make sure you are prepared!
 
-## Hardcore (Only in Java, coming to Bedrock soon!)
+## Hardcore
 
-This is a one life mode. If you die, you will lose access to playing in the world forever. Only for the most skilled and dedicated survivalist!
+This is a one life mode. If you die, you will lose access to playing in the world forever, though you can fly around in spectator mode. Once turned on, it cannot be turned off on a world, so be sure you are committed to this challenge! Only for the most skilled and dedicated survivalist!
 
 ## Creative
 
