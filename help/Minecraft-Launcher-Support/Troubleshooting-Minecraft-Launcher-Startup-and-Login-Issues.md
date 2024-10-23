@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Launcher Startup and Login Issues
 date: 2024-01-22T20:02:48Z
-updated: 2024-08-28T17:53:09Z
+updated: 2024-10-23T15:39:08Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -12,6 +12,7 @@ hash:
   h_01HMSBRZ6JBCHT8D20130TRAE3: i-cant-sign-in-to-my-launcher
   h_01HMSBTA6G3PDNMAJWD5VS7MMX: launcher-wont-start-up-or-crashes-during-sign-in
   h_01HMSBYEW5JGE1SVPFPNT5XWP1: my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time
+  h_01JAX0F4B1C3WKJKMACY5D5SQZ: blank-login-window-on-mac
 ---
 
 This page covers issues you may encounter with the Minecraft Launcher not starting or letting you login and access your games. For other Launcher issues, please visit the [Minecraft Launcher Troubleshooting Common Issues page](./Minecraft-Launcher-Support.md).
@@ -57,3 +58,7 @@ Try cleaning up your cached account tokens in the Minecraft Launcher.
 2.  Click the **Accounts** tab
 3.  Click the **Advanced Options** at the bottom to open it
 4.  Select **Clean up cached account tokens**
+
+## Blank Login Window on Mac
+
+See [Minecraft Launcher Blank Login Window on Mac](./Minecraft-Launcher-Blank-Login-Window-on-Mac.md).
