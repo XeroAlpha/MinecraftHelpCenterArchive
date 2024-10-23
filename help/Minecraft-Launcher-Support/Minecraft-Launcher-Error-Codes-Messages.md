@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launcher Error Codes & Messages
 date: 2024-01-22T20:56:52Z
-updated: 2024-10-01T18:41:38Z
+updated: 2024-10-23T15:46:40Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -39,15 +39,15 @@ Ensure that you’re properly logged into the same account on both the Microso
 
 **View your account in the Microsoft Store**
 
-- Open the [Microsoft Store app](http://aka.ms/MSStoreHome)
-- At the top, click the profile icon
-- If the profile you see logged in to the Microsoft Store is incorrect, sign out and sign in with the right one
+1.  Open the [Microsoft Store app.](http://aka.ms/MSStoreHome)
+2.  At the top, click the profile icon.
+3.  If the profile you see logged in to the Microsoft Store is incorrect, sign out and sign in with the right one.
 
 **View your account in the Minecraft Launcher**
 
-1.  Open the Minecraft Launcher
-2.  The signed in account will be shown in the top left corner
-3.  If this is incorrect, click the tab on the profile and click **Log out** or **View all accounts** where you can switch to a different one
+1.  Open the Minecraft Launcher.
+2.  The signed in account will be shown in the top left corner.
+3.  If this is incorrect, click the tab on the profile and click **Log out** or **View all accounts** where you can switch to a different one.
 
 ## Minecraft Launcher license is currently not available for your account (0X803F8001)
 
@@ -59,11 +59,11 @@ Try repairing and resetting the Launcher.
 
 **Repair and reset the Minecraft Launcher**
 
-1.  Go to the Start Menu 
-2.  Right click on the Minecraft Launcher 
-3.  Select **More**
-4.  Open **App Settings**
-5.  Within these settings, click on **Repair** and **Reset**
+1.  Go to the Start Menu.
+2.  Right click on the Minecraft Launcher.
+3.  Select **More.**
+4.  Open **App Settings.**
+5.  Within these settings, click on **Repair** and **Reset**.
 
 If the above doesn’t work, uninstall your Launcher and then reinstall directly from the [Microsoft Store](https://aka.ms/NewMCLauncher).
 
@@ -73,24 +73,24 @@ If those steps don’t work, try running the Minecraft Launcher in administrator
 
 **Run the Windows Troubleshooter**
 
-1.  Press the **Windows key** + **I** simultaneously to open Settings
-2.  Choose **Update & Security**
-3.  Click **Troubleshoot** on the left side
-4.  Select **Additional troubleshooters**
-5.  Scroll down to find **Windows Store Apps**
-6.  Click **Run the troubleshooter**
-7.  The troubleshooter will begin to check for problems on your computer and fix them. When it is finished, reboot your computer and retry to see whether the error is addressed
+1.  Press the **Windows key** + **I** simultaneously to open Settings.
+2.  Choose **Update & Security**.
+3.  Click **Troubleshoot** on the left side.
+4.  Select **Additional troubleshooters**.
+5.  Scroll down to find **Windows Store Apps**.
+6.  Click **Run the troubleshooter**.
+7.  The troubleshooter will begin to check for problems on your computer and fix them. When it is finished, reboot your computer and retry to see whether the error is addressed.
 
 **Update your Internet Options**
 
-1.  Open **Internet Options** in Control Panel
-2.  Select the **Advanced** tab
-3.  Scroll to the Bottom of the List where you can see **Use SSL/TLS**
-4.  Un-Select **SSL 3.0** and **TLS 1.0 and 1.1**
-5.  Select **TLS 1.2** and (if available) **TLS 1.3 **
-6.  Click **Apply**
-7.  Click **OK**
-8.  Reboot Computer
+1.  Open **Internet Options** in Control Panel.
+2.  Select the **Advanced** tab.
+3.  Scroll to the Bottom of the List where you can see **Use SSL/TLS**.
+4.  Un-Select **SSL 3.0** and **TLS 1.0 and 1.1**.
+5.  Select **TLS 1.2** and (if available) **TLS 1.3**.
+6.  Click **Apply**.
+7.  Click **OK**.
+8.  Reboot Computer.
 
 ## Can’t connect to Minecraft services error after sign in
 
@@ -98,14 +98,14 @@ Ensure that you’re properly connected to the internet and logged into the same
 
 **Install Xbox Console Companion app**
 
-1.  Install the [Xbox Console Companion app](https://aka.ms/XboxConsoleCompanion)
-2.  Sign into your Microsoft account
+1.  Install the [Xbox Console Companion app.](https://aka.ms/XboxConsoleCompanion)
+2.  Sign into your Microsoft account.
 
 **Install missing key dependencies or applications**
 
-1.  Install and sign into the [Xbox App](https://aka.ms/DLXboxApp)
-2.  If any dependencies are missing, the Xbox app should show you a list and recommend installation actions to fix these problems
-3.  Install missing dependencies that are recommended
+1.  Install and sign into the [Xbox App.](https://aka.ms/DLXboxApp)
+2.  If any dependencies are missing, the Xbox app should show you a list and recommend installation actions to fix these problems.
+3.  Install missing dependencies that are recommended.
     - Examples include:
       - [Xbox Identity Provider](https://aka.ms/XboxIdentityProvider)
       - [Xbox Live In-Game Experience](https://aka.ms/XboxLiveInGame)
@@ -113,16 +113,16 @@ Ensure that you’re properly connected to the internet and logged into the same
 
 **Reset the Microsoft Store**
 
-1.  Press the **Windows key** + **R** simultaneously
-2.  Type in **WSReset** and hit enter
+1.  Press the **Windows key** + **R** simultaneously.
+2.  Type in **WSReset** and hit enter.
 
 ## Error 0X80242020 after installing Bedrock Edition
 
 **Find new places to install Minecraft: Bedrock Edition**
 
-1.  Stop your download on the Minecraft Launcher and clear any downloads in your Microsoft Store Library
-2.  Try downloading the [Xbox app](https://aka.ms/DLXboxApp) and install Bedrock directly through that app
-3.  If that doesn’t work, try to download it [directly from the Microsoft Store](https://www.xbox.com/en-US/games/store/minecraft-for-windows/9NBLGGH2JHXJ/0010)
+1.  Stop your download on the Minecraft Launcher and clear any downloads in your Microsoft Store Downloads.
+2.  Try downloading the [Xbox app](https://aka.ms/DLXboxApp) and install Bedrock directly through that app.
+3.  If that doesn’t work, try to download it [directly from the Microsoft Store.](https://www.xbox.com/en-US/games/store/minecraft-for-windows/9NBLGGH2JHXJ/0010)
 
 ## You must complete adult verification on the Xbox homepage error
 

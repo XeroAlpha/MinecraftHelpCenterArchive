@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Accessing Games from the Minecraft Launcher
 date: 2024-01-22T20:38:35Z
-updated: 2024-08-28T18:04:46Z
+updated: 2024-10-23T15:43:30Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -31,22 +31,22 @@ You’re likely signed into the wrong Microsoft account. Sign out of the Microso
 
 **Log out and change active accounts**
 
-1.  Start the Minecraft Launcher
-2.  Click on the account name in the top left corner of the application and select **Log out**
-3.  Sign back in with the account that owns Minecraft or is subscribed to Xbox Game Pass for PC or Xbox Game Pass Ultimate
+1.  Start the Minecraft Launcher.
+2.  Click on the account name in the top left corner of the application and select **Log out**.
+3.  Sign back in with the account that owns Minecraft or is subscribed to Xbox Game Pass for PC or Xbox Game Pass Ultimate.
 
 If the problem persists, here are other solutions you can try:   
 
 **Run Windows Update**
 
-1.  Click on your Windows search bar on your taskbar and type **Windows Update settings**
-2.  Open the settings app and click **Check for updates** at the top of the new window
+1.  Click on your Windows search bar on your taskbar and type **Windows Update settings**.
+2.  Open the settings app and click **Check for updates** at the top of the new window.
 
 **Update all software via the Microsoft Store app**
 
-1.  Open the [Microsoft Store app](http://aka.ms/MSStoreHome) and go to **Library **
-2.  Select **Get Updates**
-3.  Click **Update All**
+1.  Open the [Microsoft Store app](http://aka.ms/MSStoreHome) and go to **Downloads**.** **
+2.  Select **Get Updates**.
+3.  Click **Update All**.
 
 **Sign in on other applications**
 

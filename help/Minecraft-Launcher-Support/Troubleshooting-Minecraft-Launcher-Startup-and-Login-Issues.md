@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Launcher Startup and Login Issues
 date: 2024-01-22T20:02:48Z
-updated: 2024-10-23T15:39:08Z
+updated: 2024-10-23T15:49:21Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -23,6 +23,7 @@ This page covers issues you may encounter with the Minecraft Launcher not starti
 - [I can’t sign in to my Launcher](#i-cant-sign-in-to-my-launcher)
 - [Launcher won’t start up or crashes during login](#launcher-wont-start-up-or-crashes-during-sign-in)
 - [My Launcher is working and I can login, but I have to re-enter my credentials every time](#my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time)
+- [Blank Login Window on Mac](#blank-login-window-on-mac)
 
 ## How do I switch between my Microsoft accounts to play my games?
 
