@@ -1,11 +1,12 @@
 ---
 title: "Minecraft: Java Edition 1.21.2 - Bundles of Bravery"
 date: 2024-10-22T15:17:46Z
-updated: 2024-10-22T15:30:19Z
+updated: 2024-10-23T13:16:31Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/31261174284557-Minecraft-Java-Edition-1-21-2-Bundles-of-Bravery
 hash:
   h_01JATDA9WMSDR8DYA53NNENY0S: bundles-of-bravery-out-now-for-java
+  section: ""
   h_01JATDA5789ZQZ5CFHCX75PSS0: new-features
   h_01JATDB0FQ9KHXSRYXSAP6A930: bundles
   h_01JATDC1SYDVV8C8YKQE412F4F: changes
@@ -31,85 +32,92 @@ hash:
   h_01JATDFE3PZHKAPC9KSS4S5KP8: player-safety
   h_01JATDFE3PMXF2BC4M454KCFF2: skin-reporting
   h_01JATDFE3P8HG42H9D14KS7S9D: name-reporting
-  h_01JATDFE3PYJ8A12SAHTW1HGX5: technical-changes
-  h_01JATDFE3PC5FKXTQCBRDHTN8T: serverproperties
-  h_01JATDFE3PPTZAS3JBMY9VGGC4: network-protocol
-  h_01JATDFE3PAYQ4F1VCZDSKMHR7: data-pack-versions-49-through-57
-  h_01JATDFE3P2VDT4P0Z5HS40Q62: tags
-  h_01JATDFE3P1MGABASZMBM3C8VN: block-tags
-  h_01JATDFE3PE391DJ874MSZ577Y: item-tags
-  h_01JATDFE3PD0GFZYF8M9KC3C8E: commands
-  h_01JATDFE3PHBTQ35K7WSKK75MB: rotatecommand
-  h_01JATDFE3PG5M30YR93RAH6TTA: game-rules
-  h_01JATDFE3PD7S25ZY3AC6VP63K: disableplayermovementcheck
-  h_01JATDFE3P3A7FR4YBV14998MQ: changed-item-components
-  h_01JATDFE3PAXF9G1953SSN2FM1: minecraftfood
-  h_01JATDFE3PRV9Z6FYXC70QM388: minecraftfire_resistant-minecraftdamage_resistant
-  h_01JATDFE3PH1PM4MEQA0311KNG: minecraftitem_name
-  h_01JATDFE3PA07DQ7ZV716XRNGZ: minecraftpotion_contents
-  h_01JATDFE3PBN5CEH4B7AMTNYNM: new-item-components
-  h_01JATDFE3PWGH6TVDCWT998ZY7: minecraftconsumable
-  h_01JATDFE3P5CRD0F7K99JHVEHG: minecraftuse_remainder
-  h_01JATDFE3PKE33BHQ5PM6YRT8G: minecraftuse_cooldown
-  h_01JATDFE3P29EX2N3PHQ397BSX: minecraftitem_model
-  h_01JATDFE3P81YCASVDCB21EY46: minecraftequippable
-  h_01JATDG292CHZ1RJQJ8E5FS3RK: minecraftglider
-  h_01JATDGEHQWW4BRPHN06FTGWGN: minecrafttooltip_style
-  h_01JATDGEHRJ9M4HW6MN64E4130: minecraftdeath_protection
-  h_01JATDHCSEYHJ4QNAHY09REVAJ: minecraftrepairable
-  h_01JATDHCSEVB723Q2GKKK8Z6Q9: minecraftenchantable
-  h_01JATDHCSEGD1H6EKGTH50RM1Y: instruments
-  h_01JATDHCSEXAJRZWYH3CW79AZT: trial-spawner-configurations
-  h_01JATDHCSE01DN5WGWD702H289: painting-variant
-  h_01JATDHCSEFFKMX50Y61RYZ9AY: enchantment-effects
-  h_01JATDHCSECRNKDJSKGE4FDF3G: recipes
-  h_01JATDHCSENS5MEW258FEYG4V2: crafting_transmuterecipe-type
-  h_01JATDHCSEWK44YHJHKPPZ1JBD: loot-tables
-  h_01JATDHCSEVNM1Q8AV827YQD4V: sheep-loot-tables
-  h_01JATDHCSENQGD9SB24Z1FAZKW: mooshroom-shearing-loot-table
-  h_01JATDHCSE30SY4DM7JA0V79H9: hero-of-the-village-gift-loot-tables
-  h_01JATDHCSE38HYTANHZ7EEVY7W: predicates
-  h_01JATDHCSE53V314FMXHCPAEDY: sheepentity-sub-predicate
-  h_01JATDHCSEDDEX8YT9YZ9CKR7S: salmonentity-sub-predicate
-  h_01JATDHCSF9HM9FESXR3Y2E2T7: playerentity-sub-predicate
-  h_01JATDHCSF78KFHAJG9Q2QERKZ: advancements
-  h_01JATDHCSFN10R6Z0FGMJP9DPB: triggers
-  h_01JATDHCSFBRMW7FP8FCBP7P5R: minecraftkilled_by_crossbow-minecraftkilled_by_arrow
-  h_01JATDHCSF8HN2W3SWB25MFFK0: container-locks
-  h_01JATDHCSFBNRWHXBA9F2BQR2C: boat-split
-  h_01JATDHCSF0RJCACW743S9P08R: attributes
-  h_01JATDHCSFXDD1Q6SK13PSGEXN: particles
-  h_01JATDHCSFDK1TX1E0AFVY63PH: resource-pack-versions-35-through-42
-  h_01JATDHCSF806Z7EYBWR262VD7: gui-sprites
-  h_01JATDHCSF4ARPYYCCVFJJTGSC: sounds
-  h_01JATDHCSFFKF2K1WYNP9ETKXD: emissive-layers-for-block-models
-  h_01JATDHCSFSVK8SJWZ8CW1S6XW: item-models
-  h_01JATDHCSF10P3VXPY00QSM0NQ: custom-equipment-layers
-  h_01JATDHCSFVBCYXYV63ZZDB04J: trims
-  h_01JATDHCSFDT1DYZXEETWQ000M: moved-textures
-  h_01JATDHCSFX2VE0KHPC6K5YTBE: shaders--post-process-effects
-  h_01JATDHCSFYPD508HQ43C624G6: shader-program-definitions
-  h_01JATDHCSF8CZSVHZ4F4S13VFF: shader-imports
-  h_01JATDHCSFDQT4TA2KW6ET8K7T: post-process-effect-definitions
-  h_01JATDHCSF26H03SEWZ6BKKFJT: input-format
-  h_01JATDHCSF2ZRTWN3W9BVWFRDF: external-targets
-  h_01JATDHCSFPM78EZ7YKWDFMTCM: translation-removals-and-renames
-  h_01JATDHCSFABQ0RBB48AGW06WQ: experimental-features
-  h_01JATDHCSFYST1ZWZHP1XNDQND: winter-drop
-  h_01JATDHCSFNQ000RVQ4C9SHET6: pale-garden
-  h_01JATDHCSFNZXN5VKNV6R0D0YR: pale-oak-tree
-  h_01JATDHCSFJHVQ3FEQPA4A9CMD: pale-moss-block
-  h_01JATDHCSF3BWD4Q9DDXYEEGFA: pale-moss-carpet
-  h_01JATDHCSF1J6HC7RGZ0X9WYWS: pale-hanging-moss
-  h_01JATDHCSFEJWE84V5D06J3MNH: creaking-mob
+  h_01JAWQGF75RGJXAYH76DTRMTST: technical-changes
+  h_01JAWQGF758E8B84VJJT0P5F4Q: serverproperties
+  h_01JAWQGF75MTC2ZVS6QA2PW118: network-protocol
+  h_01JAWQGF75KYVECNJVJRB461C3: data-pack-versions-49-through-57
+  h_01JAWQGF75A2MHMPVWBD1TQTQ4: tags
+  h_01JAWQGF75KNX7PR126CXWJ97S: block-tags
+  h_01JAWQGF75C3HSWGX7SMQ724ZT: item-tags
+  h_01JAWQGF75YZ6Z4A2WGZD1GNYM: commands
+  h_01JAWQGF75J2DRY44ACRVW412N: rotatecommand
+  h_01JAWQMTQHAYR3V6GCW1SQYANC: game-rules
+  h_01JAWQMTQHHX06NHZJSNTDASFJ: disableplayermovementcheck
+  h_01JAWQMTQHRQ6CM50WG4GR0BNX: changed-item-components
+  h_01JAWQMTQH1FJF7GYP6YXPMCZJ: minecraftfood
+  h_01JAWQMTQJBSW6S3ABCCY8DY49: minecraftfire_resistant-minecraftdamage_resistant
+  h_01JAWQMTQJXZ7S3XR3MZDH6W2C: minecraftitem_name
+  h_01JAWQMTQJHC2HE8K3Z4YS1RWJ: minecraftpotion_contents
+  h_01JAWQMTQJJQM5NM8EY17EF7PC: new-item-components
+  h_01JAWQMTQJXNYDSPENS4M9FM63: minecraftconsumable
+  h_01JAWQMTQJ0353VCP48S2TA5RH: minecraftuse_remainder
+  h_01JAWQMTQJTS8KJ6ZZ35S5Z496: minecraftuse_cooldown
+  h_01JAWQMTQJFV1WZY2K549JHKCT: minecraftitem_model
+  h_01JAWQMTQJ2SJ9P8370KFKS3N8: minecraftequippable
+  h_01JAWQPVH5S6400XC7AXXZW6K5: minecraftglider
+  h_01JAWQQFCDVCEEFSBQ8293WJSC: minecrafttooltip_style
+  h_01JAWQQFCD5YKDECKSFEC2YBQM: minecraftdeath_protection
+  h_01JAWQTRD3Q3F27R0ZWZC8W6HT: minecraftrepairable
+  h_01JAWQTRD3FVR4SZ2CKGWTNXJ1: minecraftenchantable
+  h_01JAWQTRD3M0XYCHDZC6WHC1MG: instruments
+  h_01JAWQTRD3TA0M7GZBW21BS8V9: trial-spawner-configurations
+  h_01JAWQTRD3NK8R7BJ6SSXQ2EGE: painting-variant
+  h_01JAWQTRD36WBXQQ7ARM700V7S: enchantment-effects
+  h_01JAWQTRD348QW9FM6VD13H80S: recipes
+  h_01JAWQTRD330RXNW1TCNRMTC8R: crafting_transmuterecipe-type
+  h_01JAWQTRD3XT4CS1DWK4A3H96F: loot-tables
+  h_01JAWQTRD3BV9BR3Q8VQ0G4XSP: sheep-loot-tables
+  h_01JAWQTRD3R8ES5DC7PPD9X963: mooshroom-shearing-loot-table
+  h_01JAWQTRD3R06Q9DWF5MNVZ00A: hero-of-the-village-gift-loot-tables
+  h_01JAWQTRD3AZ95592ZKRBP942X: predicates
+  h_01JAWQTRD3RMS2N9EP9EZ57A3Q: sheepentity-sub-predicate
+  h_01JAWQTRD3C2TFYERY6W6KQAME: salmonentity-sub-predicate
+  h_01JAWQTRD31HES3N880GE6JBD2: playerentity-sub-predicate
+  h_01JAWQTRD3FDY8FT95JQV92ETV: advancements
+  h_01JAWQTRD3GNKCCMDMGZ14RBJ8: triggers
+  h_01JAWQTRD35TBM63CXW3PYAQHJ: container-locks
+  h_01JAWQTRD3Y391X1KDHF72AC8N: boat-split
+  h_01JAWQTRD48THS4BEHFMSEZ0WF: attributes
+  h_01JAWQTRD42A4EBNASFH5701B3: particles
+  h_01JAWQTRD4XDEXR8GTH91XVAB5: resource-pack-versions-35-through-42
+  h_01JAWQTRD4FZ1VBY4FB32EVQSH: gui-sprites
+  h_01JAWQTRD4HE3FPSZ97K3R96X4: sounds
+  h_01JAWQTRD4GFVDCBNEH7SZX6A8: emissive-layers-for-block-models
+  h_01JAWQTRD4YZZSQNE937EHPF1K: item-models
+  h_01JAWQTRD4MMMP9D6BNSDEB116: custom-equipment-layers
+  h_01JAWQTRD4X52K9B2T1F0DPJKC: trims
+  h_01JAWQTRD4W0TSQPJKZG60JJVC: moved-textures
+  h_01JAWQTRD4MYC0SCMBZZGR4Y1S: shaders--post-process-effects
+  h_01JAWQTRD44KEG5SM67JWQEDSX: shader-program-definitions
+  h_01JAWQTRD4V80E451WTNWDVEBD: shader-imports
+  h_01JAWQTRD4CYFKRGNYJVQ40NMQ: post-process-effect-definitions
+  h_01JAWQTRD47K99AGY3XFX68Q8W: input-format
+  h_01JAWQTRD4JBBA060WE7AGVT2R: external-targets
+  h_01JAWQTRD4QNT6QYP4DEAEAX6S: translation-removals-and-renames
+  h_01JAWQTRD40X3MYMVNVS9617V1: experimental-features
+  h_01JAWQZKF43B15J8XZJNH4WPW5: "-1"
+  h_01JAWQYFTCHMD6B7GPVD9FQY8G: winter-drop
+  h_01JAWQYFTD6HM8EP40PSJ4E0DR: pale-garden
+  h_01JAWQYFTDFQSZC4482DNC4SW1: pale-oak-tree
+  h_01JAWQYFTDP8BJ9TC1ME6FNZE2: pale-moss-block
+  h_01JAWQYFTDWDR6CM2PVEJ1EV86: pale-moss-carpet
+  h_01JAWQZKF4WFMVXJ1KYNQDWN19: "-2"
+  h_01JAWQYFTDB2RD6DBSJJWPKJ4S: pale-hanging-moss
+  h_01JAWQZKF4TZHMBAP2TARHQTB0: "-3"
+  h_01JAWQYFTD4QF4HGDSC1HAKMYA: creaking-mob
   h_01JATDJ19V19JXD4KD3JQ6R8PM: creaking-heart
+  h_01JAWR4TVY6006SC9S7BJY30V0: "-4"
   h_01JATDJ19V67Z71FVNDEE4KETB: new-system-for-pale-garden-ambient-sounds
+  h_01JAWR4TVY2RPJ5NYM9PSB2GCE: "-5"
   h_01JATDJ19VFAZ860YWCJTC4XF3: redstone-experiments
+  h_01JAWR52VD6NJWBSJ0DSN6M2E8: "-6"
   h_01JATDJ19V8YXAHDKA4ZF3T6WX: redstone-wire
   h_01JATDJ19VFB7KPHGR0YNXNACH: order-in-which-a-line-of-wire-changes
   h_01JATDJER2EVT2S27AMF7D0B6Q: block-updates-around-a-wire
   h_01JATDJER2N8W9QZJKM7EZQVX8: known-issues
+  section-1: "-7"
   h_01JATDJER26MQKX5MGCQNGCKWN: minecart-improvements
+  section-2: "-8"
   h_01JATDK9FT2ZG8BJRFQBG7BETZ: movement-changes
   h_01JATDK9FT7M9N28MBCN6YYEF8: minecart-changes
   h_01JATDK9FTYA5TGYY2B3PQN7E5: known-impact
@@ -123,6 +131,8 @@ We're now releasing the Bundles of Bravery game drop for Java Edition, featuring
 This game drop is all about embarking on a new adventure, collecting everything you can along the way, and definitely not dying. Together with these additions, we've also added baby variants of Dolphins and Squids, given Redstone Torches an updated look, optimized the game, and fixed over 300 bugs! To top it off, there's also a heap of technical changes, bringing even more control to creators.
 
 Goodness, that was a lot, wasn't it? Perhaps we should've stuffed it all into a Bundle?
+
+##  
 
 ## New Features
 
@@ -491,7 +501,13 @@ New command to rotate an entity.
 Syntax:
 
   
-`rotate <target> <rotation> rotate <target> facing <facingLocation> rotate <target> facing entity <facingTarget> [<facingAnchor>] `
+`rotate <target> <rotation> `
+
+`rotate <target> facing <facingLocation> `
+
+`rotate <target> facing entity <facingTarget> [<facingAnchor>] `
+
+ 
 
 Parameters:
 
@@ -612,33 +628,33 @@ Note: parameters have the same meaning as in the teleport command.
 
 #### minecraft:equippable
 
-- If present, this item can be equipped by players in the selected slot
-- Format: object with fields
-  - slot: one of head, chest, legs, feet, body, mainhand, or offhand
-  - equip_sound (optional): Sound event to play when the item is equipped
-    - If not specified, the default armor equip sound will be played
-  - model (optional): namespaced ID of the equipment model to use when equipped
-    - These model definitions are loaded from Resource Packs
-    - If not specified, will fall back to rendering as the item itself when in the head slot (or no rendering if not applicable)
-  - camera_overlay (optional): namespaced ID of the overlay texture to use when equipped
-    - If not specified, no overlay is used
-    - The ID will address a texture under the textures/ folder and automatically assumed to be .png
-      - For instance, misc/pumpkinblur addresses textures/misc/pumpkinblur.png
-  - allowed_entities (optional): Entity ID, Entity Tag, or list of Entity IDs to limit which entities can equip this item
-    - If not specified, any entity (that can wear this kind of equipment) is allowed to equip this item
-  - dispensable: boolean (default: true), whether the item can be equipped by using a Dispenser
-    - If the item type has special dispenser behavior, this will have no effect
-  - swappable: boolean (default: true), whether the item can be equipped into the relevant slot by right-clicking
-  - damage_on_hurt: boolean (default: true), whether this item will be damaged when the wearing entity is damaged
-  - e.g. equippable={slot:'chest',equip_sound:'item.armor.equip_chain'}
-
- 
+- - If present, this item can be equipped by players in the selected slot
+  - Format: object with fields
+    - slot: one of head, chest, legs, feet, body, mainhand, or offhand
+    - equip_sound (optional): Sound event to play when the item is equipped
+      - If not specified, the default armor equip sound will be played
+    - model (optional): namespaced ID of the equipment model to use when equipped
+      - These model definitions are loaded from Resource Packs
+      - If not specified, will fall back to rendering as the item itself when in the head slot (or no rendering if not applicable)
+    - camera_overlay (optional): namespaced ID of the overlay texture to use when equipped
+      - If not specified, no overlay is used
+      - The ID will address a texture under the textures/ folder and automatically assumed to be .png
+        - For instance, misc/pumpkinblur addresses textures/misc/pumpkinblur.png
+    - allowed_entities (optional): Entity ID, Entity Tag, or list of Entity IDs to limit which entities can equip this item
+      - If not specified, any entity (that can wear this kind of equipment) is allowed to equip this item
+    - dispensable: boolean (default: true), whether the item can be equipped by using a Dispenser
+      - If the item type has special dispenser behavior, this will have no effect
+    - swappable: boolean (default: true), whether the item can be equipped into the relevant slot by right-clicking
+    - damage_on_hurt: boolean (default: true), whether this item will be damaged when the wearing entity is damaged
+    - e.g. equippable={slot:'chest',equip_sound:'item.armor.equip_chain'}
 
 #### minecraft:glider
 
 - If present, this item will allow players to glide (as with Elytra) when equipped
 - Format: empty object
   - e.g. glider={}
+
+  
 
 #### minecraft:tooltip_style
 
@@ -654,6 +670,8 @@ Note: parameters have the same meaning as in the teleport command.
 - Format: object with fields
   - death_effects: An optional list of effects that are applied when the item protects the holder
     - These effects are the same as those specified by the on_consume_effects field in the consumable component
+
+  
 
 #### minecraft:repairable
 
@@ -797,7 +815,7 @@ The format used for recipe ingredients has been simplified and aligned with othe
 
 #### Triggers
 
-##### minecraft:killed_by_crossbow -\> minecraft:killed_by_arrow
+minecraft:killed_by_crossbow -\> minecraft:killed_by_arrow
 
 - Will now trigger whenever an Arrow kills an entity, not just when fired from a Crossbow
 - Has a new optional Item Predicate field, fired_from_weapon
@@ -934,9 +952,19 @@ The appearance of equipment when equipped by players or certain mobs can now be 
 
 A model definition specifying both player and horse armor layers might look like:
 
- 
-
-`{ "layers": { "horse_body": [ { "texture": "minecraft:iron" } ], "humanoid": [ { "texture": "minecraft:iron" } ], "humanoid_leggings": [ { "texture": "minecraft:iron" } ] } } `
+    {
+      "layers": {
+        "horse_body": [
+          { "texture": "minecraft:iron" }
+        ],
+        "humanoid": [
+          { "texture": "minecraft:iron" }
+        ],
+        "humanoid_leggings": [
+          { "texture": "minecraft:iron" }
+        ]
+      }
+    }
 
 ### Trims
 
@@ -1010,7 +1038,7 @@ A model definition specifying both player and horse armor layers might look like
   - Target definitions with a specific size remain the same, with the name field moved into the map key
     - For example, \[{"name": "potato", "width": 16, "height": 16}\] becomes {"potato": {"width": 16, "height": 16}}
 
-##### Input Format
+#### Input Format
 
 For both render target and texture inputs, the following fields may be specified:
 
@@ -1037,7 +1065,7 @@ For inputs from a static texture, the following fields may be specified:
 - width: positive integer - width in pixels of the texture
 - height: positive integer - height in pixels of the texture
 
-##### External Targets
+#### External Targets
 
 - The 'Fabulous' graphics transparency post-processing config no longer specifies the sorted framebuffers as custom targets
   - These are instead imported in the same way as the minecraft:main target
@@ -1054,7 +1082,11 @@ For inputs from a static texture, the following fields may be specified:
 
 The following changes only apply when their respective Experiment is turned on, either by activating the corresponding experimental data pack or by turning it on in the Experiments screen while creating the world.
 
+ 
+
 These experiments have no effect unless enabled. You can find more information about Feature Toggles [here](https://www.minecraft.net/en-us/article/testing-new-minecraft-features/feature-toggles-java-edition).
+
+###  
 
 ### Winter Drop
 
@@ -1097,6 +1129,8 @@ Pale Garden is a biome variation of Dark Forest. Unique features:
 
 Pale Moss block generates naturally in the Pale Garden biome
 
+ 
+
 #### Pale Moss Carpet
 
 Pale Moss block generates naturally in the Pale Garden biome. Unique features:
@@ -1104,11 +1138,15 @@ Pale Moss block generates naturally in the Pale Garden biome. Unique features:
 - When placed, Pale Moss Carpet grows up to two blocks on the solid faces of any block that borders it
 - Pale Moss Carpet can be bone mealed to grow to full on all solid faces of any block that borders it
 
+####  
+
 #### Pale Hanging Moss
 
 Pale Hanging Moss generates naturally in the Pale Garden biome under the foliage of Pale Oaks
 
 - Pale Hanging Moss does not grow randomly, but can be bone mealed to grow down
+
+####  
 
 #### Creaking mob
 
@@ -1134,6 +1172,8 @@ The Creaking mob spawns at night in the Pale Garden biome if there is a Creaking
   - It can only exist as a part of the Creaking Heart block
 - Players wearing a Carved Pumpkin on their head can look at Creaking without it freezing in place
 
+  
+
 #### Creaking Heart
 
 A Creaking Heart is a “living” block generating in Pale Oak trees, covered on all sides by Pale Oak wood logs. It can spawn a Creaking mob when it is nighttime, and it is placed between two correctly aligned Pale Oak Logs.
@@ -1143,12 +1183,16 @@ A Creaking Heart is a “living” block generating in Pale Oak trees, covered o
 - When Creaking Heart block is destroyed, the connected Creaking is removed
 - Comparators attached to the Creaking Heart block will output a signal strength dependent on the distance to the connected Creaking
 
+####  
+
 #### New system for Pale Garden ambient sounds
 
 Ambient sounds in the Pale Garden biome do not come from the biome settings, but are generated by blocks found in the biome.
 
 - Pale Hanging Moss emits subtle atmospheric sounds when it is attached to Pale Oak Logs and Pale Oak Leaves
 - Creaking Heart block emits a set of eerie sounds when it is active during the night and surrounded by Logs on all sides
+
+###  
 
 ### Redstone Experiments
 
@@ -1157,6 +1201,8 @@ Added a new Experiment containing various Redstone-related changes. This can be 
 Please note that the experimental features behind this toggle are not aimed at any future release at this time.  
 Instead, this is a place for us to try out changes and gather feedback.  
 We are excited to hear what you think about these changes: please share your feedback on the [feedpack page](https://aka.ms/fbredstone).
+
+####  
 
 #### Redstone Wire
 
@@ -1171,14 +1217,14 @@ We are excited to hear what you think about these changes: please share your fee
 > **Developer's note:** *We know that randomness in Redstone is usually unwanted.*  
 > *We've used it here because we've made things deterministic whenever it makes sense, and sometimes it just doesn't make sense - and we don't want some hidden state (like location-based hashes!) determining the order and making machines work differently at different coordinates or in different orientations.*
 
-##### Order in Which a Line of Wire Changes
+#### Order in Which a Line of Wire Changes
 
 - When a line of wire turns on, the wires closer to the power source will cause block updates first
 - When a line of wire turns off, the wires closer to where the power source was, will cause block updates first
 - When two wires have the same distance to the power source, the one to the left in the direction of travel updates first
   - If there is not enough context to know the direction of travel (when the wire was powered from above or below), the side to update first is picked at random
 
-##### Block Updates Around a Wire
+#### Block Updates Around a Wire
 
 - The order in which blocks around the wire update is based on the direction the wire received an update from
 - The order of the updates is: back, front, left, right, down, up
@@ -1190,6 +1236,8 @@ As this experiment only changes Redstone wire, interactions with other component
 
 The removal of excessive neighbor updates around wire affects behavior of Quasi-Connectivity based contraptions. We plan to address these issues at a later point.
 
+###  
+
 ### Minecart Improvements
 
 Added a new Experiment containing various movement changes to Minecarts. This can be enabled by selecting "Minecart Improvements" in the Experiments menu when creating a world.
@@ -1199,6 +1247,8 @@ Our long term goal is to make vehicle travel, like Minecarts, a viable option fo
 Please note that the experimental features behind this toggle are not aimed at any future release at this time. Instead, this is a place for us to try out changes and gather feedback.
 
 We are excited to hear what you think about these changes: please share your feedback on this [feedback page](https://aka.ms/fbcarts).
+
+####  
 
 #### Movement Changes
 
