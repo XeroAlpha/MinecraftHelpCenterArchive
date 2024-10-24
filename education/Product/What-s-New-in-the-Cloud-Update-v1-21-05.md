@@ -1,11 +1,12 @@
 ---
-title: What's New in the Cloud Update (v1.21.05)
+title: What's New in the Cloud Update (v1.21.06)
 date: 2024-01-31T18:59:06Z
-updated: 2024-09-03T18:32:11Z
+updated: 2024-10-24T18:18:50Z
 categories: Product
-link: https://edusupport.minecraft.net/hc/en-us/articles/23323615654164-What-s-New-in-the-Cloud-Update-v1-21-05
+link: https://edusupport.minecraft.net/hc/en-us/articles/23323615654164-What-s-New-in-the-Cloud-Update-v1-21-06
 hash:
-  h_01HNZMZHNPKNGHZSZTFC74JAVD: cloud-minor-update-v12105
+  h_01HNZMZHNPKNGHZSZTFC74JAVD: cloud-minor-update-v12106
+  01JAZVTC3X8R4EKFSKKRT7EGNB: cloud-minor-update-v12105
   01J6WHXS70B30ZAXTQ7YMM1QE9: tricky-trials-update-v1210
   01J0PAAPQYXGXMJ3BGVXG41XMS: more-from-the-trails--tales-update-from-v12013-to-v12070
   h_01HNZMZHNQGN7R8MFG9HB375EE: cloud-world-backup---upload--download
@@ -20,6 +21,11 @@ hash:
 Welcome to the Minecraft Education 1.21 Cloud Update! This long-awaited update brings cloud backup with OneDrive to all users, which means now you can save your world files to cloud storage! Check out fun new features from the Tricky Trials update like trial chambers, the armadillo and the mace.
 
  
+
+## **Cloud Minor Update v1.21.06**
+
+- Coding performance improvements  
+    
 
 ## **Cloud Minor Update v1.21.05**
 
