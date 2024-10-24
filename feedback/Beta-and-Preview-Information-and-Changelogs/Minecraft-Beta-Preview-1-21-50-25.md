@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.50.25
 date: 2024-10-23T14:04:45Z
-updated: 2024-10-23T16:11:07Z
+updated: 2024-10-24T11:52:44Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/31291872110733-Minecraft-Beta-Preview-1-21-50-25
 hash:
@@ -58,9 +58,9 @@ Eyeblossoms are new flowers that generate in the Pale Garden biome. Unique featu
 
 ## Pale Garden
 
-- Further adjusted the color of the Pale Garden sky at the horizon to more closely match Java
+- Further adjusted the color of the Pale Garden sky at the horizon to more closely match Java ([MCPE-187519](https://bugs.mojang.com/browse/MCPE-187519))
 
-- The texure of the Pale Oak Sign model and UI has been adjusted for consistency with other signs ([MCPE-187306](https://bugs.mojang.com/browse/MCPE-187306 "https://bugs.mojang.com/browse/MCPE-187306"))
+- The texture of the Pale Oak Sign model and UI has been adjusted for consistency with other signs ([MCPE-187306](https://bugs.mojang.com/browse/MCPE-187306 "https://bugs.mojang.com/browse/MCPE-187306"))
 
 - Pale Oak Saplings can now be composted ([MCPE-187457](https://bugs.mojang.com/browse/MCPE-187457 "https://bugs.mojang.com/browse/MCPE-187457"))
 
@@ -118,9 +118,9 @@ Eyeblossoms are new flowers that generate in the Pale Garden biome. Unique featu
 
 - The following blocks (which always drop) are now mined faster when using the incorrect tool: Bell, Brewing Stand, Crafter, Ender Chest, Lantern, and Soul Lantern. Note that the Ender Chest is considered an 'always drops block' even though the drop is not an Ender Chest ([MCPE-176374](https://bugs.mojang.com/browse/MCPE-176374 "https://bugs.mojang.com/browse/MCPE-176374"))
 
-- Fixed an issue where the color of a Shulker Box was not listed as part of the name
+- Fixed an issue where the color of a Shulker Box was not listed as part of the name ([MCPE-182930)](https://bugs.mojang.com/browse/MCPE-182930)
 
-- Grass and Nylium no longer decay to Dirt and Netherrack when below Slime, Honey, Hopper, or Chemical Heat (Education Edition block)
+- Grass and Nylium no longer decay to Dirt and Netherrack when below Slime, Honey, Hopper, or Chemical Heat (Education Edition block) ([MCPE-62132](https://bugs.mojang.com/browse/MCPE-62132))
 
 - Grass and Nylium now decay to Dirt and Netherrack when below Observer
 
@@ -142,7 +142,7 @@ Eyeblossoms are new flowers that generate in the Pale Garden biome. Unique featu
 
 ## Graphical
 
-- Removed the unintended darker tinting of Kelp
+- Removed the unintended darker tinting of Kelp ([MCPE-169713](https://bugs.mojang.com/browse/MCPE-169713))
 
 ## Items
 
@@ -161,7 +161,7 @@ Eyeblossoms are new flowers that generate in the Pale Garden biome. Unique featu
 
 ## Sound
 
-- Wet Sponges now play correct block sounds
+- Wet Sponges now play correct block sounds ([MCPE-187287](https://bugs.mojang.com/browse/MCPE-187287))
 
 ## Trial Chambers
 
@@ -175,7 +175,7 @@ Eyeblossoms are new flowers that generate in the Pale Garden biome. Unique featu
 
 - It is now possible to collect crafting output with a bundle to add the crafted items to the bundle
 
-- Touch Controls: Fixed a bug where boats were interactable during control customization , . ([MCPE-184404](https://bugs.mojang.com/browse/MCPE-184404 "https://bugs.mojang.com/browse/MCPE-184404")) ([MCPE-184406](https://bugs.mojang.com/browse/MCPE-184406 "https://bugs.mojang.com/browse/MCPE-184406"))
+- Touch Controls: Fixed a bug where boats were interactable during control customization ([MCPE-184404](https://bugs.mojang.com/browse/MCPE-184404 "https://bugs.mojang.com/browse/MCPE-184404"), [MCPE-184406](https://bugs.mojang.com/browse/MCPE-184406 "https://bugs.mojang.com/browse/MCPE-184406"))
 
 - Touch controls: in joystick modes, it is now possible to double tap "fly up" to stop flying. ([MCPE-185237](https://bugs.mojang.com/browse/MCPE-185237 "https://bugs.mojang.com/browse/MCPE-185237"))
 
