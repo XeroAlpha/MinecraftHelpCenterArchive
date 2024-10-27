@@ -4,6 +4,7 @@ date: 2021-09-13T18:04:56Z
 updated: 2024-08-15T16:04:52Z
 categories: Linking Microsoft Accounts
 tags:
+  - title_minecraft
   - category_account_support
   - subject_sign_in_questions
   - platform_sony_playstation_4
