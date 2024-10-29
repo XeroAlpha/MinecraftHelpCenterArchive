@@ -1,10 +1,11 @@
 ---
 title: History of Hour of Code
 date: 2020-08-10T11:14:03Z
-updated: 2024-03-19T19:34:33Z
+updated: 2024-10-29T16:34:01Z
 categories: Hour of Code
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556811-History-of-Hour-of-Code
 hash:
+  h_01JBCJ0KQGX42BCG0508Q1EBS1: "2024"
   h_01HSC32HBM7W9CSAPKWQ439FG5: "2023"
   h_01HSC2Z9YX807FKXCGGSYZ4PXH: "2022"
   h_01HF56HGA1JSWEH6XQDXB34V0V: "2021"
@@ -17,6 +18,18 @@ hash:
 ---
 
 Minecraft is supporting the [Hour of Code](https://hourofcode.com/us) to enable educators and experts with an easy, fun, and accessible way to introduce basic coding concepts using the popular video game students already know and love. We have joined forces with Code.org to create [Minecraft Hour of Code tutorials](http://code.org/mc) to help students learn introductory computer science concepts for the past four years and look forward to hearing about your Hour of Code experience and creations.
+
+ 
+
+## 2024
+
+Let your students code, create, and take the spotlight with *Hour of Code 2024: The Show Must Go On!* In this bustling theater-themed lesson, students become the star coder, director, and creative mastermind. Solve puzzles and learn key computer science skills while saving the show!
+
+Through Minecraft’s Hour of Code activities, students of all ages can dive into computer science in fun, interactive ways that spark creativity, develop problem-solving and critical thinking, and build a foundational knowledge of basic coding.
+
+**Code the show, save the day with Minecraft**
+
+In this new Hour of Code adventure, students will explore the theater to find the missing star, the Agent, while solving fun coding puzzles and interacting with lively characters. Students can help the Agent overcome stage fright as they navigate backstage areas like the Dance Studio and Prop Department. For the grand finale, they will customize the stage show with their creative input and watch their coding skills come to life! 
 
  
 
