@@ -1,7 +1,7 @@
 ---
 title: History of Hour of Code
 date: 2020-08-10T11:14:03Z
-updated: 2024-10-29T16:34:01Z
+updated: 2024-10-29T16:57:38Z
 categories: Hour of Code
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556811-History-of-Hour-of-Code
 hash:
@@ -35,7 +35,7 @@ In this new Hour of Code adventure, students will explore the theater to find th
 
 ## 2023
 
-In Minecraft Hour of Code: Generation AI, students venture through time to create AI-powered inventions. They activate problem-solving skills, creativity, and computational thinking to explore[ Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai). 
+In Minecraft Hour of Code: Generation AI,students venture through time to create AI-powered inventions. They activate problem-solving skills, creativity, and computational thinking to explore [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai). 
 
 The journey starts with an unexpected visit from the Agent, who comes with an urgent mission. They’ll guide your students through a series of future scenarios where they correct problems stemming from wayward AI tools. Throughout the challenges, learners resolve issues around fairness and discrimination, reliability and safety, and more as they progress toward an epic finale.
 

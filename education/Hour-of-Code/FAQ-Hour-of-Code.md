@@ -1,14 +1,14 @@
 ---
 title: "FAQ: Hour of Code"
 date: 2022-11-07T23:53:42Z
-updated: 2024-10-29T16:40:58Z
+updated: 2024-10-29T17:26:36Z
 categories: Hour of Code
 link: https://edusupport.minecraft.net/hc/en-us/articles/10666569394324-FAQ-Hour-of-Code
 hash:
   "2020": hour-of-code-2020-faq
   "2021": hour-of-code-2021-faq
   "2022": hour-of-code-2022-faq
-  "2023": hour-of-code-2023-faq
+  "2024": hour-of-code-2024-faq
   top: important-links
   requirements: requirements-to-play-hour-of-code
   h_01HB6XAQ7WAHQBV5MMWMNTZKC1: do-i-need-a-minecraft-education-license-to-play
@@ -26,12 +26,12 @@ hash:
   h_01HB6XAQ7WWBBPM58YJWARCRNV: what-accessibility-features-are-available-in-the-hour-of-code-experience
   h_01HB6XAQ7WAX6DYVBBGGT02H8F: which-languages-is-the-hour-of-code-lesson-available-in
   h_01HB6XAQ7WGFH04SR3E9R64RJY: what-should-i-do-if-im-coding-in-block-and-my-coding-window-will-not-load-or-the-code-is-not-running
-  h_01JBCJ8777RKB2YXZC4SVW6JSG: hour-of-code-2024-faq
-  h_01JBCJ8ACB4X4E8XVJDAD4QFR2: what-is-the-theme-of-the-2024-hour-of-code-the-show-must-go-on
-  h_01JBCJ77FRK6NEMY38RTQ5NREK: what-teacher-materials-do-you-provide-to-support-the-hour-of-code-2024-lesson
-  h_01JBCJ5TM5M8CC38SS0EY752YD: what-happens-when-i-finish-the-hour-of-code-lesson
+  h_01HF56VR7YCTQA0RGSQNCNZ9A0: what-is-the-theme-of-the-2024-hour-of-code-the-show-must-go-on
+  h_01JBCJSB1XWJP4SZM964BTTSNX: what-teacher-materials-do-you-provide-to-support-the-hour-of-code-2024-lesson
+  h_01JBCJT25QV64VQG8NZEEJATD7: what-happens-when-i-finish-the-hour-of-code-lesson
   h_01JBCJ5TM54DX4V83NQQTTYYWG: ""
-  h_01HF56VR7YCTQA0RGSQNCNZ9A0: what-is-the-theme-of-the-2023-hour-of-code-generation-ai
+  01JBCJF38CKFN538JKV1P2Q8A2: hour-of-code-2023-faq
+  01JBCJFDCQ9F4Z61P7K5V00X2P: what-is-the-theme-of-the-2023-hour-of-code-generation-ai
   h_01HF5717V4N41AAMYJV940A6PN: what-teacher-materials-do-you-provide-to-support-the-hour-of-code-2023-lesson
   h_01HF56ZGXGGEYZC7TRT0JKKJNS: what-happens-when-i-finish-the-hour-of-code-lesson-1
   h_01HAT03PQVGPHTD20V2T8AB5VJ: what-is-the-theme-of-the-2022-hour-of-code-escape-estate
@@ -55,8 +55,8 @@ If you don't see your questions answered below, please feel free to [submit a r
 
 - [Requirements to play Hour of Code](#requirements-to-play-hour-of-code)
 - [Information on Hour of Code](#information-on-hour-of-code)
-- Hour of Code 2024 FAQ
-- [Hour of Code 2023 FAQ](#hour-of-code-2023-faq)
+- [Hour of Code 2024 FAQ](#hour-of-code-2024-faq)
+- [Hour of Code 2023 FAQ](#2023)
 - [Hour of Code 2022 FAQ](#hour-of-code-2022-faq)
 - [Hour of Code 2021 FAQ](#hour-of-code-2021-faq)
 - [Hour of Code 2021 FAQ](#hour-of-code-2020-faq)
@@ -74,8 +74,7 @@ If you don't see your questions answered below, please feel free to [submit a r
 
 ## What version of Minecraft Education do I need?
 
-- You must be [updated to the latest version of Minecraft Education](https://aka.ms/MEEUpdate) for the best experience.  
-    
+- You must be [updated to the latest version of Minecraft Education](https://aka.ms/MEEUpdate) for the best experience.
 
 ## Do I need to make any changes to my network?
 
@@ -152,91 +151,52 @@ Check out this article for information about [allowing network access to that se
 
 [Return to Top](#important-links)
 
-### Hour of Code 2024 FAQ 
+### Hour of Code 2024 FAQ
 
-## What is the theme of the 2024 Hour of Code: The Show Must Go On 
+## What is the theme of the 2024 Hour of Code: The Show Must Go On? 
 
-Let your students code, create, and take the spotlight with Hour of Code 2024: The Show Must Go On! In this bustling theater-themed lesson, students become the star coder, director, and creative mastermind. Solve puzzles and learn key computer science skills while saving the show! The big show is about to begin, but there's a major problem – Agent, the coding hero and star of the performance, has disappeared! Join forces with the show's crew to save the day. Explore behind the scenes, solve coding puzzles, and help Agent overcome stage fright. Program dazzling dances in the Dance Studio, compose catchy tunes in the Recording Studio, design eye-catching props, and create amazing costumes in the Wardrobe Department.    
-   
-While navigating the theater and discovering various departments, students will use the power of code to:  
+Let your students code, create, and take the spotlight with Hour of Code 2024: The Show Must Go On! In this bustling theater-themed lesson, students become the star coder, director, and creative mastermind. Solve puzzles and learn key computer science skills while saving the show! The big show is about to begin, but there's a major problem – Agent, the coding hero and star of the performance, has disappeared! Join forces with the show's crew to save the day. Explore behind the scenes, solve coding puzzles, and help Agent overcome stage fright. Program dazzling dances in the Dance Studio, compose catchy tunes in the Recording Studio, design eye-catching props, and create amazing costumes in the Wardrobe Department.
 
-- Compose toe-tapping tunes in the Recording Studio.  
+While navigating the theater and discovering various departments, students will use the power of code to:
 
-<!-- -->
+- Compose toe-tapping tunes in the Recording Studio. 
+- Choreograph dazzling dance routines in the Dance Studio.   
+- Craft eye-catching props in the Prop Department. 
+- Create show-stopping costumes in the Wardrobe. 
 
-- Choreograph dazzling dance routines in the Dance Studio.    
+For the grand finale, they will customize the stage show with their creative input and watch their coding skills come to life!
 
-<!-- -->
+The lesson is available for free in Minecraft Education at [aka.ms/hourofcode](http://aka.ms/hourofcode). [Download](https://aka.ms/download) Minecraft and start the Hour of Code today!
 
-- Craft eye-catching props in the Prop Department.  
+Explore Minecraft’s Hour of Code 2024: The Show Must Go On! today, and plan to join millions of students worldwide to celebrate the power of code during [Computer Science Education Week](https://www.csedweek.org/) (CSEdWeek) December 9-15, 2024.
 
-<!-- -->
+Continue your creative coding journey in Minecraft Education with [GameCode](https://aka.ms/gamecode), using MakeCode to build your own mini-games in Minecraft.  We also have a brand new [AI Foundations](https://aka.ms/minecraftai) collection to build critical awareness and competencies in AI Literacy.  
+  
 
-- Create show-stopping costumes in the Wardrobe.    
-    
+### What teacher materials do you provide to support the Hour of Code 2024 Lesson?
 
-For the grand finale, they will customize the stage show with their creative input and watch their coding skills come to life! 
+You can find the Educator resources in the lesson plan: [Hour of Code: The Show Must Go On ](https://aka.ms/HOC24Lesson). Support materials include an educator guide, PowerPoint deck, and a solutions guide.
 
-The lesson is available for free in Minecraft Education at [aka.ms/hourofcode](http://aka.ms/hourofcode). [Download](https://aka.ms/download) Minecraft and start the Hour of Code today! 
+To further support your Hour of Code, check out:
 
-Explore Minecraft’s Hour of Code 2024: The Show Must Go On! today, and plan to join millions of students worldwide to celebrate the power of code during [Computer Science Education Week](https://www.csedweek.org/) (CSEdWeek) December 9-15, 2024. 
+- [How to Facilitate the Hour of Code Video](https://aka.ms/FacilitateHOC)
 
-Continue your creative coding journey in Minecraft Education with [GameCode,](https://aka.ms/gamecode) using MakeCode to build your own mini-games in Minecraft.  We also have a brand new [AI Foundations ](https://aka.ms/minecraftai)collection to build critical awareness and competencies in AI Literacy.. 
+And download classroom sticker, classroom poster and certificate:
 
-### What teacher materials do you provide to support the Hour of Code 2024 Lesson? 
+- [Classroom Poster](https://aka.ms/HOCPoster)
+- [I Coded sticker](https://aka.ms/Icodedsticker)
+- [Certificate of Completion](https://aka.ms/HOCcertificate)
 
-You can find the Educator resources in the lesson plan: [Hour of Code: The Show Must Go On ](https://aka.ms/HOC24Lesson).  Support materials include an educator guide, PowerPoint deck, and a solutions guide. 
+### What happens when I finish the Hour of Code Lesson?
 
-To further support your Hour of Code, check out: 
-
-- [How to Facilitate the Hour of Code Video](https://aka.ms/FacilitateHOC)    
-    
-
-And download classroom sticker, classroom poster and certificate: 
-
-- [Classroom Poster](https://aka.ms/HOCPoster)  
-
-<!-- -->
-
-- [I Coded sticker](https://aka.ms/Icodedsticker) 
-
-<!-- -->
-
-- [Certifícate of Completion](https://aka.ms/HOCcertificate) 
-
- 
-
-### What happens when I finish the Hour of Code Lesson? 
-
-- Students can share the shows they have created with each other or go back and keep replaying.  Every show is unique! After students complete the Hour of Code Lesson, they are free to go backstage and code new songs, craft new dances and build a whole new show.  Replaying strengthens coding skills and lets students voice shine through!  If they choose to replay, students can choose to play again in the same coding language or try the other language. 
-
-<!-- -->
-
-- Full game features are not available in the Demo Lesson, and progress will not be saved when students exit the world. 
-
-<!-- -->
-
-- If students sign into Minecraft Education and access the Hour of Code lesson from the Library, they can save their progress and resume the lesson from their My Worlds list or restart it at any time from the Library. 
-
-<!-- -->
-
-- In addition to this year’s new adventure, explore our growing collection of Minecraft Hour of Code activities that are available throughout the year. Each self-guided activity is approximately one hour long and can serve as a fun and creative introduction to coding and computer science. 
-
-<!-- -->
-
-- - [Generation AI](https://education.minecraft.net/en-us/resources/hour-code-2023): Venture through time to create AI-powered inventions. Students learn about the principles of Responsible AI through problem solving, creativity, and computational thinking. 
-
-<!-- -->
-
-- - [Escape Estate](https://education.minecraft.net/en-us/resources/hour-code-2022): Use coding and computational thinking to solve puzzles and escape from Dr. Breakowski’s mysterious mansion. 
-
-<!-- -->
-
-- - [Minecraft Timecraft](https://education.minecraft.net/en-us/resources/hour-code-2021): Travel back in time to save the future. Students choose their adventure and learn basic coding concepts to correct mysterious mishaps throughout history. 
-
-<!-- -->
-
-- - [Minecraft Tale of Two Villages](https://education.minecraft.net/en-us/resources/hour-code-2020): Leverage the power of code to bring the two villages together. Students develop cooperation and empathy while learning computer science skills. 
+- Students can share the shows they have created with each other or go back and keep replaying. Every show is unique! After students complete the Hour of Code Lesson, they are free to go backstage and code new songs, craft new dances and build a whole new show. Replaying strengthens coding skills and lets students voice shine through! If they choose to replay, students can choose to play again in the same coding language or try the other language.
+- Full game features are not available in the Demo Lesson, and progress will not be saved when students exit the world.
+- If students sign into Minecraft Education and access the Hour of Code lesson from the Library, they can save their progress and resume the lesson from their My Worlds list or restart it at any time from the Library.
+- In addition to this year’s new adventure, explore our growing collection of Minecraft Hour of Code activities that are available throughout the year. Each self-guided activity is approximately one hour long and can serve as a fun and creative introduction to coding and computer science.
+  - [Generation AI](https://education.minecraft.net/en-us/resources/hour-code-2023): Venture through time to create AI-powered inventions. Students learn about the principles of Responsible AI through problem solving, creativity, and computational thinking.
+  - [Escape Estate](https://education.minecraft.net/en-us/resources/hour-code-2022): Use coding and computational thinking to solve puzzles and escape from Dr. Breakowski’s mysterious mansion.
+  - [Minecraft Timecraft](https://education.minecraft.net/en-us/resources/hour-code-2021): Travel back in time to save the future. Students choose their adventure and learn basic coding concepts to correct mysterious mishaps throughout history.
+  - [Minecraft Tale of Two Villages](https://education.minecraft.net/en-us/resources/hour-code-2020): Leverage the power of code to bring the two villages together. Students develop cooperation and empathy while learning computer science skills.
 
 ###  
 
