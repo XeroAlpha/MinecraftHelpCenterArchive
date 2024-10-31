@@ -1,7 +1,7 @@
 ---
 title: Minecraft for PlayStation 5 Compatibility, Upgrade, and Setup
 date: 2024-10-16T16:24:05Z
-updated: 2024-10-30T16:06:13Z
+updated: 2024-10-31T16:37:53Z
 categories: Download & Install
 tags:
   - section_27166490706957
@@ -61,9 +61,9 @@ Linking your Microsoft account to the PS5 version of Minecraft allows you to acc
 
 ## Authorizing Minecraft Subscription Services on PS5
 
-If you have a Minecraft Realms or Marketplace Pass subscription on the PS5 version of Minecraft, you need to authorize Minecraft as a trusted app to allow the game to renew your subscription when not online. If you do not provide authorization, your subscription benefits will be marked as expired each month after billing until you next login to Minecraft on PlayStation 5, meaning your Realm will appear expired to you when playing on other platforms, it will appear expired to your Realm members, and your Marketplace catalog will not be accessible on other platforms.
+If you have a Minecraft Realms or Marketplace Pass subscription on the PlayStation® 5 (PS5) version of Minecraft, you need to complete a one-time authorization of Minecraft as a trusted app to enable automatic renewal of your subscriptions. 
 
-You only need to authorize Minecraft Subscription Services once to eliminate the need to sign into Minecraft on your PS5 every 30 days. To manage this authorization, do the following:
+If you do not provide authorization and do not sign into Minecraft on your PS5 after each monthly billing, your Realms and Marketplace Pass subscriptions will appear as expired. This means you won't have access to your Realms when playing on other platforms and other Realm members won't be able to join. You'll also lose access to your Marketplace Pass catalog items on other platforms.
 
 1.  Start Minecraft.
 2.  Select **Settings**.
