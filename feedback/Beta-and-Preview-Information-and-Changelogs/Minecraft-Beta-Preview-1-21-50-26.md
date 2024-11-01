@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.50.26
 date: 2024-10-30T13:31:25Z
-updated: 2024-10-30T16:21:29Z
+updated: 2024-11-01T09:44:55Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/31476211695501-Minecraft-Beta-Preview-1-21-50-26
 hash:
@@ -13,13 +13,12 @@ hash:
   user-content-resin-bricks: resin-bricks
   user-content-resin-clump: resin-clump
   user-content-commands: commands
-  user-content-creaking: creaking
   user-content-features: features
   user-content-gameplay: gameplay
   user-content-graphics: graphics
   user-content-items: items
   user-content-mobs: mobs
-  01JBES9M8RBW9AKYKK9KSQMWVA: creaking-1
+  01JBES9M8RBW9AKYKK9KSQMWVA: creaking
   user-content-realms: realms
   user-content-stability-and-performance: stability-and-performance
   user-content-structures: structures
@@ -104,11 +103,6 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 - Translated rawtexts with extra percentage signs in them no longer expand inconsistently for numbered forms ("%%%%1"), compared to non-numbered ones ("%%%%s"). ([MCPE-171001](https://bugs.mojang.com/browse/MCPE-171001))
 - Effect command now properly displays duration as seconds in the displayed message after adding an effect ([MCPE-186963](https://bugs.mojang.com/browse/MCPE-186963))
 
-## Creaking
-
-- The volume and pitch of the Creaking's step sounds have been adjusted
-- The attenuation drop-off rate for some of the Creaking's sounds is now linear, allowing them to be heard from greater distances
-
 ## Features
 
 - Standardized the blocks that trees can replace when growing, with a few exceptions ([MCPE-187302](https://bugs.mojang.com/browse/MCPE-187302)) ([MCPE-187301](https://bugs.mojang.com/browse/MCPE-187301))
@@ -150,6 +144,8 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 - Creakings can now approach a Player which is looking downward, stopping only once they enter the Player's field of view
 - The Creaking now sways when hit by a projectile
 - The Creaking's attack animation has been smoothed out for a more natural motion
+- The volume and pitch of the Creaking's step sounds have been adjusted
+- The attenuation drop-off rate for some of the Creaking's sounds is now linear, allowing them to be heard from greater distances
 
 ## Realms
 
@@ -176,10 +172,18 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 ## User Interface
 
 - Enables selecting disabled buttons on the 'join friends' menu while crossplay is turned off
+
 - Dualsense gamepads now have correct tooltip icons on mobile devices
+
 - Fixed spacing on Realms Stories and Timeline pages
+
 - Touch Controls: Fixed a bug where boats were interactable during control customization ([MCPE-184404](https://bugs.mojang.com/browse/MCPE-184404))
+
 - Fixed a bug where the death screen and new bed screen would sometimes have incorrect textures applied when resource packs were used
+
+- *Added Pick Block for touch controls in Creative mode*
+
+  > ***Developer's Note:**** Pick Block allows you to add items to your hotbar without the need to open your inventory. With Pick Block you can select the block you want in your world and it will be added to your hotbar.*
 
 ## Vanilla Parity
 
