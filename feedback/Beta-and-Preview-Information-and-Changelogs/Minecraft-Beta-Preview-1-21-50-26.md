@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.50.26
 date: 2024-10-30T13:31:25Z
-updated: 2024-11-01T09:44:55Z
+updated: 2024-11-06T13:50:26Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/31476211695501-Minecraft-Beta-Preview-1-21-50-26
 hash:
@@ -90,13 +90,13 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 
 ### Resin Bricks
 
-- Recipes for Resin Brick Slabs, Stairs, and Walls now give the same amount of blocks as the Nether Brick ones
+- Recipes for Resin Brick Slabs, Stairs, and Walls now give the same amount of blocks as the Nether Brick ones ([MCPE-187707](https://bugs.mojang.com/browse/MCPE-187707), [MCPE-187795](https://bugs.mojang.com/browse/MCPE-187795), [MCPE-187796](https://bugs.mojang.com/browse/MCPE-187796))
 
 > **Developer's Note:** *Counting is hard.*
 
 ### Resin Clump
 
-- Mobs now correctly pathfind over Resin Clumps
+- Mobs now correctly pathfind over Resin Clumps ([MCPE-187778](https://bugs.mojang.com/browse/MCPE-187778))
 
 ## Commands
 
@@ -106,10 +106,10 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 ## Features
 
 - Standardized the blocks that trees can replace when growing, with a few exceptions ([MCPE-187302](https://bugs.mojang.com/browse/MCPE-187302)) ([MCPE-187301](https://bugs.mojang.com/browse/MCPE-187301))
-  - All trees can now grow through leaves, with the exception of Cherry trees cannot grow through their own leaves
-  - All trees can grow on dirt-like blocks
-- Tall Grass generates properly with its top part in the Pale Garden biome
-- Tall Grass generates properly with its top part in the Lush Caves biome
+  - All trees can now grow through leaves, with the exception of Cherry trees cannot grow through their own leaves ([MCPE-168029](https://bugs.mojang.com/browse/MCPE-168029))
+  - All trees can grow on dirt-like blocks ([MCPE-187739](https://bugs.mojang.com/browse/MCPE-187739))
+- Tall Grass generates properly with its top part in the Pale Garden biome ([MCPE-187308](https://bugs.mojang.com/browse/MCPE-187308))
+- Tall Grass generates properly with its top part in the Lush Caves biome ([MCPE-125799](https://bugs.mojang.com/browse/MCPE-125799))
 
 ## Gameplay
 
@@ -131,7 +131,7 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 ## Items
 
 - Resin Clump and Resin Brick items no longer float in the Player's hand in 3rd person view
-- Open and Closed Eyeblossoms can now be used on Mooshrooms to obtain their respective Suspicious Stews when milking
+- Open and Closed Eyeblossoms can now be used on Mooshrooms to obtain their respective Suspicious Stews when milking ([MCPE-187754](https://bugs.mojang.com/browse/MCPE-187754))
 - Blackstone can now be used to repair stone tools and stone weapons ([MCPE-71859](https://bugs.mojang.com/browse/MCPE-71859))
 
 ## Mobs
@@ -179,7 +179,7 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 
 - Touch Controls: Fixed a bug where boats were interactable during control customization ([MCPE-184404](https://bugs.mojang.com/browse/MCPE-184404))
 
-- Fixed a bug where the death screen and new bed screen would sometimes have incorrect textures applied when resource packs were used
+- Fixed a bug where the death screen and new bed screen would sometimes have incorrect textures applied when resource packs were used ([MCPE-178701](https://bugs.mojang.com/browse/MCPE-178701), [MCPE-184050](https://bugs.mojang.com/browse/MCPE-184050))
 
 - *Added Pick Block for touch controls in Creative mode*
 
