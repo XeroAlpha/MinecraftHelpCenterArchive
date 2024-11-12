@@ -1,7 +1,7 @@
 ---
 title: Lesson Crafter FAQ
 date: 2024-11-06T19:16:48Z
-updated: 2024-11-06T19:52:30Z
+updated: 2024-11-11T23:00:03Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/31904712348948-Lesson-Crafter-FAQ
 hash:
@@ -16,7 +16,7 @@ hash:
   h_01JC1FSA2DYNR7Q1TWVR9Y76QM: i-logged-in-but-i-see-a-message-that-i-need-to-login-with-a-faculty-account
 ---
 
-![EDU_Lesson-Crafter-Preview_1920x1080 1 (1).gif](https://edusupport.minecraft.net/hc/article_attachments/31904975314964)
+![EDU_Crafting_table 16x9_241108.gif](https://edusupport.minecraft.net/hc/article_attachments/32049342753044)
 
 Lesson Crafter is an educational tool powered by AI that allows educators to generate custom lesson plans for Minecraft Education.  You can create a lesson in any topic and age to fit the needs of your learners. We created Lesson Crafter to support teachers getting started with Minecraft Education or looking for easy-to-teach, curriculum-aligned lessons that engage their students. The tool offers a straightforward way for educators to use generative AI to create practical teaching resources, build confidence with using AI, and onboard to using Minecraft Education in their classrooms.
 
@@ -36,7 +36,7 @@ Yes! Lesson Crafter is now available in private preview for educators, which mea
 
 ## Can anyone use Lesson Crafter?
 
-Lesson Crafter has been designed for educators - Lesson Crafter requires a school-issued Entra ID (or other M365 federated) account with faculty licensing to log in. 
+Lesson Crafter has been designed for educators - the site requires a school-issued Entra ID (or other M365 federated) account with faculty licensing to log in. 
 
 ## What Languages does Lesson Crafter support?
 
