@@ -1,7 +1,7 @@
 ---
 title: "How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T21:10:46Z
-updated: 2024-08-02T17:35:21Z
+updated: 2024-11-13T19:36:47Z
 categories: Manage Realms Settings & Worlds
 tags:
   - section_12618497714061
@@ -23,6 +23,6 @@ To access the automatic Realms Backups, do the following:
 4.  Select one of the available backups on the right to revert that world to that former state.
 5.  Click the download button to the right.
 
-To learn which versions of your world are saved automatically, see [How Mojang Saves Backups of Your Minecraft Realm](https://microsoft.sharepoint.com/:w:/t/MinecraftPlayerCare/EeazezKFwwlOmAzI8gOfsREBMnRkTy049nNe0MS3kjj27A?e=EM6uka).
+To learn which versions of your world are saved automatically, see [How Mojang Saves Backups of Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
 
 To change the world on your Realm, see [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md).
