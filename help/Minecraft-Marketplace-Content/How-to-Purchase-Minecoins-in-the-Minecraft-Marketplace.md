@@ -1,11 +1,11 @@
 ---
-title: How to Purchase Minecoins in the Minecraft Marketplace
+title: How to Buy Minecoins in the Minecraft Marketplace
 date: 2024-02-12T20:41:33Z
-updated: 2024-08-30T18:55:50Z
-categories: Minecraft Marketplace Content
+updated: 2024-11-13T22:38:02Z
+categories: Buying Marketplace Content
 tags:
-  - section_24069904400141
-link: https://help.minecraft.net/hc/en-us/articles/24069466555661-How-to-Purchase-Minecoins-in-the-Minecraft-Marketplace
+  - section_31867594896141
+link: https://help.minecraft.net/hc/en-us/articles/24069466555661-How-to-Buy-Minecoins-in-the-Minecraft-Marketplace
 hash:
   h_01J6J9Y2BVQBJQBFTEGCJB91AR: how-to-buy-minecoins-in-the-minecraft-marketplace
   h_01J6J9ZGA92E9HQNN4W3GYHAGC: how-to-redeem-prepaid-cards-for-minecoins
@@ -13,7 +13,7 @@ hash:
 
 The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) offers you tons of additional content to download for your account in either Minecraft: Bedrock Edition or Legends. Here is how you can purchase Minecraft currency, named Minecoins, which allow you to get this exclusive content. If you're having trouble with a Minecoin code, see [Minecoin Redemption Limit Error.](./Minecoin-Redemption-Limit-Error.md)
 
-## **How to buy Minecoins in the Minecraft Marketplace**
+## How to buy Minecoins in the Minecraft Marketplace
 
 1.  Launch either Minecraft: Bedrock Edition or Legends
 2.  Sign into your Microsoft account on the title screen
@@ -22,7 +22,7 @@ The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) offers 
 5.  Select the Minecoin package you want to buy
 6.  Follow the steps in the store to complete your purchase 
 
-## **How to Redeem Prepaid Cards for Minecoins**
+## How to Redeem Prepaid Cards for Minecoins
 
 If you do not want to buy Minecoins with a saved credit card on file, prepaid cards may be available at retailers. If you have a prepaid card with a 25-digit code (5x5 code), here's how to redeem it.
 

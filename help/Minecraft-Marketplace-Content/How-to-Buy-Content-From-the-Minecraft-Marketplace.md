@@ -1,8 +1,8 @@
 ---
-title: How to Buy Content From the Minecraft Marketplace
+title: How to Buy Content from the Minecraft Marketplace
 date: 2024-02-12T20:32:01Z
-updated: 2024-11-13T21:20:49Z
-categories: Minecraft Marketplace Content
+updated: 2024-11-14T00:12:08Z
+categories: Buying Marketplace Content
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -14,10 +14,10 @@ tags:
   - platform_pc
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-  - section_24069904400141
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/24069202046349-How-to-Buy-Content-From-the-Minecraft-Marketplace
+  - section_31867594896141
+link: https://help.minecraft.net/hc/en-us/articles/24069202046349-How-to-Buy-Content-from-the-Minecraft-Marketplace
 hash:
   h_01HQ972GQDQ2XSR5BQV71NG5PA: how-to-buy-minecraft-marketplace-content
 ---

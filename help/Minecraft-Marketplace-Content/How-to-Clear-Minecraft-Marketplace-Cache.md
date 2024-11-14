@@ -1,9 +1,10 @@
 ---
 title: How to Clear Minecraft Marketplace Cache
 date: 2024-11-12T19:58:26Z
-categories: Minecraft Marketplace Content
+updated: 2024-11-13T22:43:32Z
+categories: Marketplace Troubleshooting
 tags:
-  - section_24069904400141
+  - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/31825737845773-How-to-Clear-Minecraft-Marketplace-Cache
 hash:
   h_01JCGZ40RTED3JCJN88SM442R8: how-to-clear-minecraft-cache
