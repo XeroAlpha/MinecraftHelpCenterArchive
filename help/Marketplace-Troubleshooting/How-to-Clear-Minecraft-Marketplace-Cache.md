@@ -19,4 +19,4 @@ If you are experiencing various issues with the Minecraft Marketplace, clearing 
 3.  Select **Storage**.
 4.  Select **Clear Marketplace Cache**.
 
-After the process above has been finished, we recommend restarting the game and then trying to access the Marketplace again. If you get an error code in the Marketplace, see [Troubleshooting Minecraft Marketplace Error Codes](../Performance-Troubleshooting/Troubleshooting-Minecraft-Marketplace-Error-Codes.md). If content is missing, see [How to Find Content Missing from Minecraft Marketplace](./How-to-Find-Content-Missing-from-Minecraft-Marketplace.md).
+After the process above has been finished, we recommend restarting the game and then trying to access the Marketplace again. If you get an error code in the Marketplace, see [Troubleshooting Minecraft Marketplace Error Codes](./Troubleshooting-Minecraft-Marketplace-Error-Codes.md). If content is missing, see [How to Find Content Missing from Minecraft Marketplace](./How-to-Find-Content-Missing-from-Minecraft-Marketplace.md).

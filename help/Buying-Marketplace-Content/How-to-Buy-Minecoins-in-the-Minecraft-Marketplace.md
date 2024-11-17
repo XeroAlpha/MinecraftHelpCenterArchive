@@ -11,7 +11,7 @@ hash:
   h_01J6J9ZGA92E9HQNN4W3GYHAGC: how-to-redeem-prepaid-cards-for-minecoins
 ---
 
-The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) offers you tons of additional content to download for your account in either Minecraft: Bedrock Edition or Legends. Here is how you can purchase Minecraft currency, named Minecoins, which allow you to get this exclusive content. If you're having trouble with a Minecoin code, see [Minecoin Redemption Limit Error.](./Minecoin-Redemption-Limit-Error.md)
+The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) offers you tons of additional content to download for your account in either Minecraft: Bedrock Edition or Legends. Here is how you can purchase Minecraft currency, named Minecoins, which allow you to get this exclusive content. If you're having trouble with a Minecoin code, see [Minecoin Redemption Limit Error.](../Marketplace-Troubleshooting/Minecoin-Redemption-Limit-Error.md)
 
 ## How to buy Minecoins in the Minecraft Marketplace
 

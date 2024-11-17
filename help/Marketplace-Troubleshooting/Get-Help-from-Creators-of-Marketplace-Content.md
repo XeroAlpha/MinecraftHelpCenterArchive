@@ -2,7 +2,7 @@
 title: Get Help from Creators of Marketplace Content
 date: 2024-01-31T15:53:46Z
 updated: 2024-07-19T18:52:58Z
-categories: Minecraft Marketplace Content
+categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
   - platform_xbox_one
@@ -14,9 +14,9 @@ tags:
   - platform_pc
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-  - section_24069904400141
   - use_for_autoreply
   - platform_xbox_series_xs
+  - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/23690665811981-Get-Help-from-Creators-of-Marketplace-Content
 ---
 
@@ -32,5 +32,5 @@ If you are playing a downloaded piece of content from the Minecraft Marketplace 
 If you are having issues with Minecoins or other Marketplace content, see the links below:
 
 - [How to Get Help with Missing Minecoins in Minecraft Marketplace](./How-to-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md)
-- [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](./How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md)
+- [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md)
 - [How to Find Content Missing from Minecraft Marketplace](./How-to-Find-Content-Missing-from-Minecraft-Marketplace.md)

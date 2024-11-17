@@ -27,7 +27,7 @@ Parents need to have a Microsoft account and then also set up a related Microsof
 
 Visit the [Microsoft Family homepage](https://account.microsoft.com/family/settings) and adjust the settings for the child account under Spending Payments & Purchases. This will allow your child to use a prepaid Minecraft gift code or money you add to the account to purchase Minecraft from the Microsoft store with the child account. See these articles for more information:
 
-- [Managing Spending For Child Accounts in Minecraft Marketplace](../Account-Settings/Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
+- [Managing Spending For Child Accounts in Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
 - [Spending limits in Family Safety - Microsoft Support](https://prod.support.services.microsoft.com/en-us/account-billing/spending-limits-in-family-safety-f30d6801-165d-9f86-3fe7-063245c0449b)
 
 ## Step 3: Buy the Game for your Child’s Account

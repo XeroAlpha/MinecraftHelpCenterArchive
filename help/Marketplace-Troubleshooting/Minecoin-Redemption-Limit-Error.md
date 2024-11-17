@@ -2,10 +2,10 @@
 title: Minecoin Redemption Limit Error
 date: 2023-01-17T15:54:10Z
 updated: 2024-08-30T18:46:33Z
-categories: Minecraft Marketplace Content
+categories: Marketplace Troubleshooting
 tags:
-  - section_24069904400141
   - section_28872896387341
+  - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/12317881023501-Minecoin-Redemption-Limit-Error
 ---
 

@@ -2,7 +2,7 @@
 title: Disabling Minecraft Add-Ons
 date: 2024-02-14T18:05:57Z
 updated: 2024-02-20T18:10:26Z
-categories: Minecraft Marketplace Content
+categories: Managing Marketplace Content
 tags:
   - section_24069904400141
   - Add-Ons

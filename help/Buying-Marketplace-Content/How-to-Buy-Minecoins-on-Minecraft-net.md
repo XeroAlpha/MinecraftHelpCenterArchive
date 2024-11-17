@@ -30,4 +30,4 @@ For more help with Minecoins, see the below articles:
 
 - [How to Update Your Microsoft Account Payment Information for Minecraft](../Account-Settings/How-to-Update-Your-Microsoft-Account-Payment-Information-for-Minecraft.md)
 - [Minecraft Refund Policy](../Buying-Minecraft-Games/Minecraft-Refund-Policy.md)
-- [How to Access the Minecraft Marketplace](../Minecraft-Marketplace-Content/How-to-Access-the-Minecraft-Marketplace.md)
+- [How to Access the Minecraft Marketplace](./How-to-Access-the-Minecraft-Marketplace.md)

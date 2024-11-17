@@ -1,7 +1,7 @@
 ---
 title: How to Delete Unused Marketplace Content in Minecraft
 date: 2024-11-12T20:03:26Z
-categories: Minecraft Marketplace Content
+categories: Managing Marketplace Content
 tags:
   - section_24069904400141
 link: https://help.minecraft.net/hc/en-us/articles/31826026567949-How-to-Delete-Unused-Marketplace-Content-in-Minecraft

@@ -1,7 +1,7 @@
 ---
 title: How to Access Minecraft Marketplace Content
 date: 2024-11-13T21:17:59Z
-categories: Minecraft Marketplace Content
+categories: Managing Marketplace Content
 tags:
   - section_24069904400141
 link: https://help.minecraft.net/hc/en-us/articles/31865156173965-How-to-Access-Minecraft-Marketplace-Content

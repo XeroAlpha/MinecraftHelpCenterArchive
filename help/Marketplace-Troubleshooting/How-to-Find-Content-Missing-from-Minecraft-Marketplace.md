@@ -2,7 +2,7 @@
 title: How to Find Content Missing from Minecraft Marketplace
 date: 2021-03-25T19:21:09Z
 updated: 2024-05-03T18:54:29Z
-categories: Minecraft Marketplace Content
+categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
   - subject_cannot_find_purchase
@@ -14,9 +14,9 @@ tags:
   - platform_pc
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-  - section_24069904400141
   - use_for_autoreply
   - platform_xbox_series_xs
+  - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/360059025451-How-to-Find-Content-Missing-from-Minecraft-Marketplace
 hash:
   h_01HWZWS0DDFT2VR8EH11YM41VC: view-your-marketplace-content
@@ -39,7 +39,7 @@ If you find that you have redeemed a prepaid card or purchased on the wrong 
 
 If you activate or download content via a Realms Plus or Marketplace Pass subscription, that content is accessible if it remains in the subscription catalog and you keep your subscription active.
 
-- **Items Removed from the Subscription Catalog**: If the content has been removed from the subscription services, you may see a lock icon in the Marketplace or in game. You can regain access by purchasing it from the Minecraft Marketplace. See [How To Buy Content From The Minecraft Marketplace](./How-to-Buy-Content-From-the-Minecraft-Marketplace.md).
+- **Items Removed from the Subscription Catalog**: If the content has been removed from the subscription services, you may see a lock icon in the Marketplace or in game. You can regain access by purchasing it from the Minecraft Marketplace. See [How To Buy Content From The Minecraft Marketplace](../Buying-Marketplace-Content/How-to-Buy-Content-from-the-Minecraft-Marketplace.md).
 - **Content Lost when a Subscription Ended**: If your subscription has ended and the content is still included in the subscription, you can renew your Realms Plus or Marketplace Pass subscription to get access again. If you don’t want to commit to a subscription, you can purchase the content on the Marketplace to own it.
 
-If you are trying to access your Marketplace Pass or Realms Plus content on a different platform, see [I Can’t Find My Marketplace Pass Content](../Marketplace-Pass-Subscriptions/I-Can-t-Find-My-Marketplace-Pass-Content.md).
+If you are trying to access your Marketplace Pass or Realms Plus content on a different platform, see [I Can’t Find My Marketplace Pass Content](./I-Can-t-Find-My-Marketplace-Pass-Content.md).

@@ -2,7 +2,7 @@
 title: What are Minecraft Add-Ons?
 date: 2021-09-13T18:58:31Z
 updated: 2024-05-02T19:40:40Z
-categories: Minecraft Marketplace Content
+categories: Managing Marketplace Content
 tags:
   - new
   - section_24069904400141
@@ -31,7 +31,7 @@ Visit the [Creator Learning Portal](https://www.minecraft.net/en-us/creator) to 
 
 ### Related Articles
 
-[How to Buy Content from the Minecraft Marketplace](./How-to-Buy-Content-From-the-Minecraft-Marketplace.md)
+[How to Buy Content from the Minecraft Marketplace](../Buying-Marketplace-Content/How-to-Buy-Content-from-the-Minecraft-Marketplace.md)
 
 [How to activate Minecraft Add-Ons](./How-to-activate-Minecraft-Add-Ons.md)
 

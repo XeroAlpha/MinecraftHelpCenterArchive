@@ -40,7 +40,7 @@ hash:
   h_01HQ3XERRB2YBPNQ4JHTHSZBX1: terracotta
 ---
 
-*This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition. For Marketplace errors, see [Troubleshooting Minecraft Marketplace Error Codes](./Troubleshooting-Minecraft-Marketplace-Error-Codes.md).  
+*This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition. For Marketplace errors, see [Troubleshooting Minecraft Marketplace Error Codes](../Marketplace-Troubleshooting/Troubleshooting-Minecraft-Marketplace-Error-Codes.md).  
 *
 
 ## General Error Code Troubleshooting

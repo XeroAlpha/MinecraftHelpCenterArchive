@@ -22,7 +22,7 @@ This article helps you solve various graphical issues in Minecraft: Bedrock Edit
 
 ## Update Minecraft and your operating system
 
-Before going into the game itself, try updating your operating system and Minecraft to ensure they are running the latest versions. If you have some Add-Ons installed, [consider disabling them](../Minecraft-Marketplace-Content/Disabling-Minecraft-Add-Ons.md). After that, try the following:
+Before going into the game itself, try updating your operating system and Minecraft to ensure they are running the latest versions. If you have some Add-Ons installed, [consider disabling them](../Managing-Marketplace-Content/Disabling-Minecraft-Add-Ons.md). After that, try the following:
 
 ## Recommended game settings
 

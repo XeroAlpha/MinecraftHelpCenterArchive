@@ -2,9 +2,10 @@
 title: Troubleshooting Minecraft Marketplace Error Codes
 date: 2024-10-01T20:46:44Z
 updated: 2024-10-14T17:38:52Z
-categories: Performance & Troubleshooting
+categories: Marketplace Troubleshooting
 tags:
   - section_27166432886285
+  - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/30719262067469-Troubleshooting-Minecraft-Marketplace-Error-Codes
 hash:
   h_01J94X6T3BK3PHFNV4JJPDDNJN: minecraft-marketplace-errors-starting-with-l--d--s--or-p-

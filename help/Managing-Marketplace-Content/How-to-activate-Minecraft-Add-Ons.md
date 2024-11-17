@@ -2,7 +2,7 @@
 title: How to activate Minecraft Add-Ons
 date: 2024-02-14T17:47:55Z
 updated: 2024-03-06T16:15:27Z
-categories: Minecraft Marketplace Content
+categories: Managing Marketplace Content
 tags:
   - section_24069904400141
   - Add-Ons
@@ -45,6 +45,6 @@ Note: If you connect to a Realm from any Minecraft: Bedrock Edition device, you 
 
 ### Related Articles 
 
-[How to Buy Content in the Minecraft Marketplace ](./How-to-Buy-Content-From-the-Minecraft-Marketplace.md)  
+[How to Buy Content in the Minecraft Marketplace ](../Buying-Marketplace-Content/How-to-Buy-Content-from-the-Minecraft-Marketplace.md)  
 [Get Help with Minecraft Add-Ons](./Get-Help-with-Minecraft-Add-Ons.md)  
 [Let's talk about Add-Ons! - Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/24051477904781-Let-s-talk-about-Add-Ons)

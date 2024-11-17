@@ -12,6 +12,7 @@ tags:
   - section_26726610890253
   - section_27286537389453
   - section_28871651550221
+  - section_31867594896141
 link: https://help.minecraft.net/hc/en-us/articles/360030463592-Minecraft-Refund-Policy
 hash:
   h_01J42AFK5GTYYFE887JX4Q02S1: request-a-refund-from-the-microsoft-store

@@ -30,4 +30,4 @@ There is a lot of content available for you to look through on the [Minecraft Ma
 2.  Select how you want to pay for your purchase. You can use Minecoins already in your wallet or select the price tag that will purchase the required Minecoin pack and immediately use those coins.
 3.  Select **Download** to install the content on your device after your purchase is complete.
 
-For more ways to find your content, see [How to Access Minecraft Marketplace Content](./How-to-Access-Minecraft-Marketplace-Content.md).
+For more ways to find your content, see [How to Access Minecraft Marketplace Content](../Managing-Marketplace-Content/How-to-Access-Minecraft-Marketplace-Content.md).

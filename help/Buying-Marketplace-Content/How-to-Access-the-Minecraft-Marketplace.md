@@ -2,9 +2,9 @@
 title: How to Access the Minecraft Marketplace
 date: 2024-02-12T20:46:26Z
 updated: 2024-02-12T21:30:17Z
-categories: Minecraft Marketplace Content
+categories: Buying Marketplace Content
 tags:
-  - section_24069904400141
+  - section_31867594896141
 link: https://help.minecraft.net/hc/en-us/articles/24069589393549-How-to-Access-the-Minecraft-Marketplace
 ---
 
@@ -16,4 +16,4 @@ The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) is an i
 2.  On the title screen, make sure you are signed into the correct Microsoft account
 3.  Select **Marketplace**
 
-Provided that you are connected to the internet, you will have full access to everything currently available for purchase. For getting the currency to buy this content, go to [How to purchase Minecoins in the Minecraft Marketplace](./How-to-Purchase-Minecoins-in-the-Minecraft-Marketplace.md).
+Provided that you are connected to the internet, you will have full access to everything currently available for purchase. For getting the currency to buy this content, go to [How to purchase Minecoins in the Minecraft Marketplace](./How-to-Buy-Minecoins-in-the-Minecraft-Marketplace.md).
