@@ -1,7 +1,7 @@
 ---
 title: How to Find Content Missing from Minecraft Marketplace
 date: 2021-03-25T19:21:09Z
-updated: 2024-05-03T18:54:29Z
+updated: 2024-11-19T19:14:10Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -29,9 +29,12 @@ Marketplace items are available only on the account used to get them. Items purc
 
 ## View Your Marketplace Content
 
-1.  Launch Minecraft and verify you are signed into the account you used to get your Marketplace items. 
-2.  Enter the Marketplace and select My Content to view all your items.
-3.  Click on an item in the list to see details and if it is activated or downloaded.
+1.  Launch Minecraft.
+2.  Verify you are signed into the account you used to get your Marketplace items.
+    - Give the game a couple of minutes to sign into your account and sync all of your purchases.
+3.  Select **Marketplace**.
+4.  Select **My Library** to view all your items.
+5.  Click on an item in your library to download it.
 
 If you find that you have redeemed a prepaid card or purchased on the wrong account, [contact Xbox support](https://support.xbox.com/en-US/contact-us). 
 

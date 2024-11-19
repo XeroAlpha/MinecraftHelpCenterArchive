@@ -1,7 +1,7 @@
 ---
 title: How to Buy Minecoins in the Minecraft Marketplace
 date: 2024-02-12T20:41:33Z
-updated: 2024-11-13T22:38:02Z
+updated: 2024-11-19T20:38:02Z
 categories: Buying Marketplace Content
 tags:
   - section_31867594896141
@@ -15,12 +15,12 @@ The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) offers 
 
 ## How to buy Minecoins in the Minecraft Marketplace
 
-1.  Launch either Minecraft: Bedrock Edition or Legends
-2.  Sign into your Microsoft account on the title screen
-3.  Enter the **Marketplace**
-4.  At the top of the screen, select the coin symbol
-5.  Select the Minecoin package you want to buy
-6.  Follow the steps in the store to complete your purchase 
+1.  Launch either Minecraft: Bedrock Edition.
+2.  Sign into your Microsoft account on the title screen.
+3.  Select Marketplace.
+4.  Select the coin symbol at the top of the screen.
+5.  Select the Minecoin package you want to buy.
+6.  Follow the steps in the store to complete your purchase.
 
 ## How to Redeem Prepaid Cards for Minecoins
 

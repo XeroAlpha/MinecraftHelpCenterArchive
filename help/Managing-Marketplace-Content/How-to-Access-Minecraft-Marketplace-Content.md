@@ -1,6 +1,7 @@
 ---
 title: How to Access Minecraft Marketplace Content
 date: 2024-11-13T21:17:59Z
+updated: 2024-11-19T19:19:10Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141
@@ -18,7 +19,7 @@ If you are looking to download and use add-ons, skins, worlds, textures, or mash
 
 1.  Start Minecraft: Bedrock Edition.
 2.  Select **Marketplace**.
-3.  On the left side menu, select **My Content** (the symbol of library books).
+3.  On the left side menu, select **My Library**.
 4.  Find and select the content you are looking for either in the **Owned** or **Marketplace Pass** section.
 5.  Select either **Download**, **Create this World**, or **Equip** when you find the content.
 
