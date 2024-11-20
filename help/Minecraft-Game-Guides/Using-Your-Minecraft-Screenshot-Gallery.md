@@ -1,11 +1,11 @@
 ---
-title: Using Your Minecraft Screenshot Gallery
+title: How to Take Screenshots and View Your Gallery
 date: 2024-09-12T20:35:11Z
-updated: 2024-09-17T16:28:19Z
+updated: 2024-11-20T20:13:16Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/30209226763533-Using-Your-Minecraft-Screenshot-Gallery
+link: https://help.minecraft.net/hc/en-us/articles/30209226763533-How-to-Take-Screenshots-and-View-Your-Gallery
 hash:
   h_01J7KYMSH3G1JMZW29Q6XAPW8K: how-to-take-a-screenshot-in-game
   h_01J7KYN0NHGVR1HT51X5T1J7KT: how-to-view-your-screenshot-gallery
