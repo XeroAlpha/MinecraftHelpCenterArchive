@@ -1,9 +1,9 @@
 ---
-title: Minecraft Beta & Preview - 1.21.60.20
+title: Minecraft Beta & Preview - 1.21.60.21
 date: 2024-11-19T11:23:54Z
-updated: 2024-11-20T16:35:45Z
+updated: 2024-11-20T18:07:11Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/31998389834637-Minecraft-Beta-Preview-1-21-60-20
+link: https://feedback.minecraft.net/hc/en-us/articles/31998389834637-Minecraft-Beta-Preview-1-21-60-21
 hash:
   user-content-features-and-bug-fixes: features-and-bug-fixes
   user-content-accessibility: accessibility
