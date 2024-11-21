@@ -1,7 +1,7 @@
 ---
 title: "Manage Your Profile on Minecraft: Bedrock Edition"
 date: 2024-06-21T20:53:31Z
-updated: 2024-06-21T20:54:26Z
+updated: 2024-11-21T16:46:52Z
 categories: Account Settings
 tags:
   - title_minecraft_java_edition
@@ -37,7 +37,7 @@ Your Minecraft profile includes your game-play history, achievements, stats, bio
 
 ###  To control who can view Profile information, follow these steps:
 
-1.  From the Privacy & online safety page, select the **Privacy** tab.
+1.  From the [Privacy & Online Safety Page](https://www.xbox.com/en-US/user/settings/privacy-and-safety/2535473438853044), select the **Privacy** tab.
 2.  Review and set view permissions for your Friends and others:  
     \* See Other People’s Xbox Live Profiles  
     \* Others Can See Your Friend List  
