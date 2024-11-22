@@ -1,7 +1,7 @@
 ---
 title: "How to Move Your Minecraft: Java Edition Realms Payments to the Microsoft Store"
 date: 2023-09-22T20:10:16Z
-updated: 2024-08-02T21:57:40Z
+updated: 2024-11-22T18:46:34Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
@@ -11,7 +11,7 @@ hash:
   h_01J4AHEM6B7KP752C5JQAJ34ZV: how-to-move-your-java-realms-payments-to-the-microsoft-store
 ---
 
-As of September 26th, 2023, Minecraft: Java Edition Realms subscriptions are moving to the Microsoft Store. This means the payment processor is changing from Braintree to the Microsoft Store.
+As of September 26th, 2023, Minecraft: Java Edition Realms subscriptions are moving to the Microsoft Store. This means the payment processor is changing from Braintree to the Microsoft Store. If you have not moved your payments over, your subscription will stop automatically renewing November 30th, 2024. Migrate your subscription now to get 90 days free and to retain access to your Realm. If you do not migrate your Realms subscription in time, it will expire. Follow the steps below.
 
 ## How to move your Java Realms payments to the Microsoft Store
 
