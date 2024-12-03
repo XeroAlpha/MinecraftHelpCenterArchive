@@ -1,7 +1,7 @@
 ---
 title: Lesson Crafter FAQ
 date: 2024-11-06T19:16:48Z
-updated: 2024-11-11T23:00:03Z
+updated: 2024-12-03T00:51:35Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/31904712348948-Lesson-Crafter-FAQ
 hash:
@@ -28,15 +28,17 @@ Learn more about our [commitment to Responsible AI](https://aka.ms/LCAIFAQ).
 
 ## Is my data being used to train an AI model?
 
-No.  We may review the prompts that you enter and the content generated to assess the quality of results, but this data is not associated with your account. 
+No.  We may review the prompts that you enter, and the content generated to assess the quality of results, but this data is not associated with your account. 
 
 ## Is Lesson Crafter available?
 
-Yes! Lesson Crafter is now available in private preview for educators, which means you will [need to pre-register](https://aka.ms/lcpreviewreg) to gain access to the tool. This enables our team to ensure user safety and security, gather and implement user feedback, and make improvements before we roll out the feature to all users in 2025.
+Yes! Lesson Crafter is now available in private preview for educators.  The preview enables our team to ensure user safety and security, gather and implement user feedback, and make improvements before we roll out the feature to all users in 2025.
+
+[Try Lesson Crafter](https://aka.ms/lessoncrafter)
 
 ## Can anyone use Lesson Crafter?
 
-Lesson Crafter has been designed for educators - the site requires a school-issued Entra ID (or other M365 federated) account with faculty licensing to log in. 
+Lesson Crafter has been designed for educators - the site requires a school-issued Entra ID account with faculty licensing to log in. 
 
 ## What Languages does Lesson Crafter support?
 
