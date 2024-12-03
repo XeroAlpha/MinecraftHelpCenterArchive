@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.50 - The Garden Awakens"
 date: 2024-12-02T15:16:35Z
-updated: 2024-12-03T10:54:08Z
+updated: 2024-12-03T18:55:27Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/32344904160397-Minecraft-Bedrock-Edition-1-21-50-The-Garden-Awakens
 hash:
@@ -274,7 +274,7 @@ Pale Moss block generates naturally in the Pale Garden biome. Unique features:
 
 - Textures for Bricks, Nether Bricks, Red Nether Bricks, Resin Bricks, and related blocks have been updated to be horizontally aligned with all other brick blocks ([MCPE-187806](https://bugs.mojang.com/browse/MCPE-187806))
 
-- Closed Eyeblossoms no longer poision Bees
+- Closed Eyeblossoms no longer poison Bees
 
 - The Poison effect from Open Eyeblossoms now also damages Bees while they are within the block, rather than only upon exiting
 
@@ -308,7 +308,7 @@ Pale Moss block generates naturally in the Pale Garden biome. Unique features:
 
 ## Gameplay
 
-- There is now a warning message when you are prevented from entering an unloaded chunk )
+- There is now a warning message when you are prevented from entering an unloaded chunk
 
 - Now the respiration enchantment reduces the chance of taking drowning damage ([MCPE-46922](https://bugs.mojang.com/browse/MCPE-46922))
 
