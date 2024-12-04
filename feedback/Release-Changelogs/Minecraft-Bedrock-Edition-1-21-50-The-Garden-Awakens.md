@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.50 - The Garden Awakens"
 date: 2024-12-02T15:16:35Z
-updated: 2024-12-03T18:55:27Z
+updated: 2024-12-04T08:51:22Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/32344904160397-Minecraft-Bedrock-Edition-1-21-50-The-Garden-Awakens
 hash:
@@ -180,7 +180,6 @@ Pale Moss block generates naturally in the Pale Garden biome. Unique features:
   - Placed around the Creaking Heart when its Creaking is attacked
   - Can be crafted into a Block of Resin
   - Can be hardened into Resin Bricks in a furnace
-  - Can be used to trim armor
 - Resin Bricks can be crafted into the Resin Brick set:
   - Brick block
   - Stairs
@@ -189,6 +188,7 @@ Pale Moss block generates naturally in the Pale Garden biome. Unique features:
   - Chiseled Resin Brick block
 - Both can be found in Chests in the Woodland Mansion
 - Blocks of Resin can be crafted into a Creaking Heart using two Pale Oak Logs
+- Resin Brick items can be used as a material for armor trimming
 
 # Features and Bug Fixes
 
