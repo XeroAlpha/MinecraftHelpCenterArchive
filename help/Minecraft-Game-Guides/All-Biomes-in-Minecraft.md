@@ -1,7 +1,7 @@
 ---
 title: All Biomes in Minecraft
 date: 2020-07-17T21:09:39Z
-updated: 2024-07-09T15:46:10Z
+updated: 2024-12-04T15:17:43Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -49,6 +49,7 @@ A biome is a Minecraft region with unique geography, plants, and other character
 - **Sparse jungle** – A much less dense variation of the jungle. All the same things appear, but there is more space between everything.
 - **Grove** – A forest of spruce trees that appear at the bottom of mountains when near a forest biome. There is a lot of snow and powder snow along the floor.
 - **Cherry Grove** – An area where cherry trees generated. They are easy to distinguish by their pink leave blocks that have petals that fall to the ground.
+- **Pale Garden** - A dark, desolate area where no mobs spawn besides the creaking, a wooden creature that attacks when you're not looking and can't be defeated by attacking it directly. Find the pale oak wood set and pale moss items here.
 
 ### Caves
 
