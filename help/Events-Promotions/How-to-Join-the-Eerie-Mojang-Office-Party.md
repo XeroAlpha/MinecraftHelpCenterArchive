@@ -1,7 +1,7 @@
 ---
 title: How to Join the Eerie Mojang Office Party
 date: 2024-12-09T17:04:47Z
-updated: 2024-12-09T18:06:05Z
+updated: 2024-12-10T17:09:31Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
@@ -29,4 +29,6 @@ You’ll need an internet connection and account permissions for multi-player se
 
 ## How to Claim Rewards
 
-Complete one daily challenge to get a cap, three daily challenges to get a shirt, and five daily challenges to receive a cape. We can’t provide any tips or hints—that would spoil the fun. After you complete the challenges and earn your reward, items will be delivered to your Dressing Room. See [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md) to learn how to locate and equip items in your Dressing Room.
+**Note:** The sticker book indicates that a Mojang Office shirt is awarded for becoming an Apprentice in the first daily challenge, but the reward is actually the Mojang Office cap that appears in your Dressing Room.
+
+Complete one daily challenge to get a cap, three daily challenges to get a shirt, and five daily challenges to receive a cape. We can’t provide any tips or hints—that would spoil the fun. After you complete the challenges and earn your reward, items will be delivered to your Dressing Room. You'll need to restart Minecraft to see your rewards. See [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md) to learn how to locate and equip items in your Dressing Room.
