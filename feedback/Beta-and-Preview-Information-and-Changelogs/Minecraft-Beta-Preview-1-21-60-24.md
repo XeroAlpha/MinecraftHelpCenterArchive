@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.60.24
 date: 2024-12-12T18:30:38Z
-updated: 2024-12-12T18:30:43Z
+updated: 2024-12-12T19:48:11Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/32662041516045-Minecraft-Beta-Preview-1-21-60-24
 hash:
@@ -40,11 +40,11 @@ hash:
 
 - These work-in-progress versions can be unstable and may not be representative of final version quality
 - Minecraft Preview is available on Xbox, PlayStation, Windows, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
-- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta ](https://aka.ms/JoinMCBeta)for detailed instructions
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
 ![woeifjlskdjfliwejfv.jpeg](https://feedback.minecraft.net/hc/article_attachments/32662041494285)
 
-It's time for a new Preview and Beta! As always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/) , and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/)  ! Here's what's new this week:
+It's time for a new Preview and Beta! As always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/)! Here's what's new this week:
 
 # New Features and Bug Fixes
 
@@ -54,17 +54,17 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Blocks
 
-- Tall Grass Blocks that are placed when using Bone Meal on Moss Blocks or Pale Moss Blocks no longer render only their bottom half ([MCPE-188789](https://bugs.mojang.com/browse/MCPE-188789))
+- Tall Grass that is placed when using Bone Meal on Moss Blocks or Pale Moss Blocks no longer render only their bottom half ([MCPE-188789](https://bugs.mojang.com/browse/MCPE-188789))
 
 ## Gameplay
 
-- The second passenger of a boat will no longer have large camera twitches when rotating toward the west direction.
+- The second passenger of a boat will no longer have large camera twitches when rotating toward the west direction
 
 ## Items
 
 - Open Bundle textures updated such that there is no longer a missing string pixel ([MCPE-188355](https://bugs.mojang.com/browse/MCPE-188355))
 - Resin Bricks are no longer found in Woodland Mansion chests ([MCPE-188234](https://bugs.mojang.com/browse/MCPE-188234))
-- The XP rewarded for smelting Resin Clump into Resin Bricks has been reduced from 0.3 to 0.1
+- The XP rewarded for smelting Resin Clumps into Resin Bricks has been reduced from 0.3 to 0.1
 
 ## Mobs
 
@@ -73,13 +73,13 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Realms
 
-- On Play Screen Friends Tab hide a Joinable Friends world if it is a realm world and not a Joianable Realm
-- Fixed, player permissions no longer reverts to the previous state after leaving the Manage Realm tab.
-- Fixed issue where game mode appears as Unknown on the Realms Tab even if the realm has a world with a valid game mode
+- The friends tab on the Play screen now shows the correct list of joinable worlds and Realms
+- Player permissions no longer revert to the previous state after leaving the Manage Realm tab
+- Fixed issue where game mode appears as Unknown on the Realms Tab even if the Realm has a world with a valid game mode
 
 ## Stability and Performance
 
-- Players on Switch should remain signed into their Microsoft Account after putting Minecraft app to sleep and resuming it.
+- Players on Switch should remain signed into their Microsoft Account after putting Minecraft app to sleep and resuming it
 
 ## Structures
 
@@ -90,18 +90,18 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 - \[PlayStation®5\] 'Enable Screen Reader' accessibility setting is now used to initialize Text-to-Speech during first launch
 - Fixed a bug where the game could soft lock in certain scenarios when it was suspended right before the player dying
 - Changed wording for enabling/disabling player's sleep skipping the night to "Skip night by sleeping" from "Beds work"
-- Add additional debug info regarding Realms features in the general settings screen
+- Added additional debug info regarding Realms features in the general settings screen
 - Updated the text on the new bed screen when sleeping to skip the night is disabled
 
 ## Vanilla Parity
 
 ### Blocks
 
-- Sniffer Egg block now only provides provides center support on top and bottom faces ([MCPE-169520](https://bugs.mojang.com/browse/MCPE-169520))
+- Sniffer Egg block now only provides center support on top and bottom faces ([MCPE-169520](https://bugs.mojang.com/browse/MCPE-169520))
 - Shears can now be used on Cave Vines, Kelp, Twisting Vines, and Weeping Vines while sneaking ([MCPE-188474](https://bugs.mojang.com/browse/MCPE-188474))
 - Using Shears on Cave Vines, Kelp, Twisting Vines, and Weeping Vines now plays the arm swing animation ([MCPE-188473](https://bugs.mojang.com/browse/MCPE-188473))
-- Water and Lava no longer remains in the world when placing a Water or Lava Bucket against a Cave Vine with Glow Berries
-- Collecting Glow Berries when holding Shears no longer picks the berries and shears at the same time ([MCPE-188476](https://bugs.mojang.com/browse/MCPE-188476))
+- Water and Lava no longer remain in the world when placing a Water or Lava Bucket against a Cave Vine with Glow Berries
+- Collecting Glow Berries when holding Shears no longer picks the Berries and shears at the same time ([MCPE-188476](https://bugs.mojang.com/browse/MCPE-188476))
 - Sniffer Egg block no longer provides side support to any block
 
 ## World Generation
@@ -150,7 +150,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Gameplay
 
-- Fixed a bug where opening a chest while the clone command is spamming could crash the server.
+- Fixed a bug where opening a chest while the clone command is spamming could crash the server
 
 ## Graphical
 
@@ -190,4 +190,4 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Camera
 
-- Aim assist will no longer get automatically enabled when switch to vanilla third-person-behind camera by default ([MCPE-188005](https://bugs.mojang.com/browse/MCPE-188005))
+- Aim assist will no longer get automatically enabled when switched to vanilla third-person-behind camera by default ([MCPE-188005](https://bugs.mojang.com/browse/MCPE-188005))
