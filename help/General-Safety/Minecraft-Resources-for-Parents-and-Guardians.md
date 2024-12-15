@@ -53,6 +53,6 @@ The pages below provide information about how a Parent or Guardian account can b
 - [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md)
 - [Managing Spending for Child Accounts in Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
 - [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md)
-- [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](../Minecraft-Realms-Stories/How-to-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)
+- [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](../Minecraft-Realms-Stories/Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)
 - [Minecraft: Bedrock Edition Parental Controls for All Platforms](../Account-Settings/Minecraft-Bedrock-Edition-Parental-Controls-for-All-Platforms.md)
 - [Understanding Minecraft Social Features for Child Safety Online](./Understanding-Minecraft-Social-Features-for-Child-Safety-Online.md)
