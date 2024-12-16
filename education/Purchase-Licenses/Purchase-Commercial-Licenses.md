@@ -1,7 +1,7 @@
 ---
 title: Purchase Commercial Licenses
 date: 2021-05-25T14:26:26Z
-updated: 2024-05-22T22:08:55Z
+updated: 2024-12-16T18:46:03Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
 hash:
@@ -18,6 +18,13 @@ hash:
   h_01HDM1YGRDPYGXPQM102C8SWXP: change-technical-contact-email
 ---
 
+**Notice 12/16/2024:** From 12/13 to 12/16 the Commercial purchase link below led to a Microsoft 365 Business subscription page instead of Minecraft Education for Commercial. If you accidentally purchased Microsoft 365 Business subscription instead of Minecraft Education for Commercial, please reach out to our support team at <https://aka.ms/MEE_New_Reques>t   
+  
+Minecraft Education for Commercial licenses only require a free M365 account, you do not need a paid Office 365 or a paid Microsoft 365 subscription to purchase Minecraft Education for Commercial licenses which are \$12.00 USD per user per year. 
+
+---
+
+  
 Anyone can purchase commercial licenses of Minecraft Education – including camps, clubs, parents, homeschools and other organizations. To purchase licenses, you need to have a Microsoft 365 Admin Center account. If you do not have a Microsoft 365 Admin Center account, you can set one up for free in the purchase flow below. This article provides information on how to: 
 
 - [Set up a Microsoft 365 Admin Center account and purchase Minecraft Education licenses](#create-a-microsoft-365-admin-center-account-and-purchase-licenses)
