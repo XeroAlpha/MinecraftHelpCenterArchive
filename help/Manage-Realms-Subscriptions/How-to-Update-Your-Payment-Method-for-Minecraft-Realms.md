@@ -1,7 +1,7 @@
 ---
-title: How to Update Your Payment Method for Minecraft Realms
+title: Updating Your Payment Method for Minecraft Realms on PC
 date: 2024-08-02T18:05:35Z
-updated: 2024-10-09T17:48:49Z
+updated: 2024-12-19T19:59:39Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
@@ -22,27 +22,34 @@ tags:
   - use_for_autoreply
   - section_28872593033869
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/28941339414541-How-to-Update-Your-Payment-Method-for-Minecraft-Realms
+link: https://help.minecraft.net/hc/en-us/articles/28941339414541-Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC
 hash:
-  h_01J4A4022R49S90HXRAHN3SETN: how-to-update-the-payment-method-for-a-minecraft-bedrock-edition-realm
-  h_01J4A409VTVHZWV2DJK01925SD: how-to-update-the-payment-method-for-a-minecraft-java-edition-realm
+  h_01JFFXHKRSGH3D1QSR4BG0GYZ5: find-the-platform-used-to-start-your-subscription
+  h_01JFFXK1NHZXW6RH5D376Q2AE8: update-your-microsoft-account-payment-method-for-subscriptions
 ---
 
-Whether you are trying to update your payment method for Realms on Minecraft: Bedrock or Java Edition, there will be a different path for you. See below for steps on either side.
+When you play Minecraft: Bedrock Edition on your PC and start a Realms subscription, the Minecraft Marketplace uses the payment method associated with your Microsoft account. To update the payment method, you use for your recurring Marketplace Pass subscription, you need to change the payment method on Microsoft account you used to start your subscription.
 
-## How to update the payment method for a Minecraft: Bedrock Edition Realm
+Mobile users, see [Updating Your Payment Method for Minecraft Realms Subscriptions on Mobile](./Updating-Your-Payment-Method-for-Minecraft-Realms-Subscriptions-on-Mobile.md).
 
-Your payment method for Bedrock Realms is managed by the store where you bought your Realms subscription. Here’s how to update your current payment method:
+Console players, see [Updating Your Payment Method for Minecraft Realms on Consoles](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-Consoles.md).
 
-1.  Open Minecraft on the device you used to buy your Realms subscription.
-2.  Select **Settings** on the title screen.
-3.  Scroll down and select **Subscriptions.**
-4.  Find the Realm you want to update and select **Manage**.
+## Find the platform used to start your subscription
 
-## How to update the payment method for a Minecraft: Java Edition Realm
+When you view your active subscriptions in the Minecraft Settings menu, you’ll see a note if your Realm was started on a different platform.
 
-1.  Sign into your [Microsoft account](https://account.microsoft.com/?ref=MeControl).
-2.  Select **Subscriptions.**
-3.  Click **Manage** next to your Minecraft: Java Edition Realm.
-4.  Click **Change** next to your payment method.
-5.  Follow the on-screen instructions to add a new payment method or select an existing payment method.
+1.  Launch Minecraft on your device
+2.  Click the Settings button on the Launch screen
+3.  Select Subscriptions from the Settings menu
+4.  Locate your subscription in the list
+
+## Update your Microsoft account payment method for subscriptions
+
+Follow the instructions below to update your Microsoft account payment method:
+
+1.  Sign in to your [Microsoft account](https://account.microsoft.com/).
+2.  Select **Subscriptions** from the menu.
+3.  Select **Manage** on the Marketplace Pass subscription you want to update.
+4.  Select **Change** next to the listed Payment method.
+5.  Select an existing payment method or enter a new one.
+6.  Click the **Save** **changes** button when finished.
