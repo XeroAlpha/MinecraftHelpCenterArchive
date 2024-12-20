@@ -1,22 +1,23 @@
 ---
-title: Updating Your Payment Method for Minecraft Realms on Mobile
-date: 2024-12-19T19:47:27Z
-updated: 2024-12-20T00:17:48Z
-categories: Manage Realms Subscriptions
+title: Updating Your Payment Method for Marketplace Pass on Mobile
+date: 2024-12-19T17:06:40Z
+updated: 2024-12-20T00:15:46Z
+categories: Marketplace Pass Subscriptions
 tags:
-  - section_26104341937421
-link: https://help.minecraft.net/hc/en-us/articles/32868424101517-Updating-Your-Payment-Method-for-Minecraft-Realms-on-Mobile
+  - section_24090952098445
+  - section_28872593033869
+link: https://help.minecraft.net/hc/en-us/articles/32862301366413-Updating-Your-Payment-Method-for-Marketplace-Pass-on-Mobile
 hash:
   h_01JFFXVD8KASP0M0HGPF6TME4X: find-the-platform-used-to-start-your-subscription
   h_01JFFXWSVQWM3NTDX0DXDSCEXE: update-your-payment-method-for-ios
   h_01JFFXXD6HQYK4RCTKTVF7K9DA: update-your-payment-method-for-android
 ---
 
-When you play Minecraft: Bedrock Edition on your mobile device and start a Minecraft Realms subscription, the Minecraft Marketplace uses the payment method associated with your Apple or Google account. To update the payment method for your recurring subscription, you need to change the default payment method on the account of the mobile device you used to start your subscription.
+When you play Minecraft: Bedrock Edition on your mobile device and start a Marketplace Pass subscription, the Minecraft Marketplace uses the payment method associated with your Apple or Google account. To update the payment method for your recurring subscription, you need to change the default payment method on the account of the mobile device you used to start your subscription.
 
 ## Find the platform used to start your subscription
 
-When you view your active subscriptions in the Minecraft Settings menu, you’ll see a note if your Realms subscription was started on a different platform.
+When you view your active subscriptions in the Minecraft Settings menu, you’ll see a note if your Marketplace Pass was started on a different platform.
 
 1.  Launch Minecraft on your device
 2.  Click the **Settings** button on the Launch screen

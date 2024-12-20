@@ -1,21 +1,22 @@
 ---
-title: Updating Your Payment Method for Minecraft Realms on Consoles
-date: 2024-12-19T19:49:00Z
-updated: 2024-12-20T00:05:19Z
-categories: Manage Realms Subscriptions
+title: Updating Your Payment Method for Marketplace Pass on Consoles
+date: 2024-12-19T16:49:18Z
+updated: 2024-12-20T00:13:23Z
+categories: Marketplace Pass Subscriptions
 tags:
-  - section_26104341937421
-link: https://help.minecraft.net/hc/en-us/articles/32868504680845-Updating-Your-Payment-Method-for-Minecraft-Realms-on-Consoles
+  - section_24090952098445
+  - section_28872593033869
+link: https://help.minecraft.net/hc/en-us/articles/32861379168013-Updating-Your-Payment-Method-for-Marketplace-Pass-on-Consoles
 hash:
   h_01JFFWWJKSZ07MVWW31WRR0J5N: find-the-platform-used-to-start-your-subscription
   h_01JFFWXDJQW9XEFQRXVG6DM919: find-instructions-for-updating-game-console-payment-methods
 ---
 
-When you play Minecraft: Bedrock Edition on your gaming console and start a Realms subscription, the Minecraft Marketplace uses the payment method associated with your gaming platform account. To update the payment method for your recurring subscription, you need to follow the instructions for the gaming console used to start your subscription.
+When you play Minecraft: Bedrock Edition on your gaming console and start a Marketplace Pass subscription, the Minecraft Marketplace uses the payment method associated with your gaming platform account. To update the payment method for your recurring subscription, you need to follow the instructions for the gaming console used to start your subscription.
 
 ## Find the platform used to start your subscription
 
-When you view your active subscriptions in the Minecraft Settings menu, you’ll see a note if your Realms subscription was started on a different platform.
+When you view your active subscriptions in the Minecraft Settings menu, you’ll see a note if your Marketplace Pass was started on a different platform.
 
 1.  Launch Minecraft on your device
 2.  Click the **Settings** button on the Launch screen
