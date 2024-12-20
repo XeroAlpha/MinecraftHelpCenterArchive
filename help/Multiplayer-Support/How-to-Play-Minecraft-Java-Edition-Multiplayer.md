@@ -1,7 +1,7 @@
 ---
 title: "How to Play Minecraft: Java Edition Multiplayer"
 date: 2021-09-29T21:02:52Z
-updated: 2024-02-28T22:12:47Z
+updated: 2024-12-20T20:08:14Z
 categories: Multiplayer Support
 tags:
   - title_minecraft_java_edition
