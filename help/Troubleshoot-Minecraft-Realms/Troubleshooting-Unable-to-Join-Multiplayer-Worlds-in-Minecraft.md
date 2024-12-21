@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unable to Join Multiplayer Worlds in Minecraft
 date: 2021-09-14T22:13:00Z
-updated: 2024-10-11T16:16:53Z
+updated: 2024-12-20T22:58:54Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft
@@ -20,14 +20,8 @@ link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshooting
 
 Here are some suggestions to help you fix issues joining multiplayer worlds in Minecraft.
 
-- **Check child account permissions:** If using a child account, visit [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to make sure the child account's permissions are set up correctly.
-- **Check world settings with the host:** In Bedrock Edition, make sure **Multiplayer Game **is toggled on in the settings for the world you are trying to join.
-  1.  Have the Realm owner select the **Pencil **icon next to the world in the world list.
-  2.  Select **Multiplayer** from the Settings menu.
-  3.  Toggle **Multiplayer Game** to the right.
-- **Check your game version and system:** Make sure that you and the host are using the most recent release of Minecraft and restart your device.
-- **Check your internet connection:** See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for various internet connection troubleshooting tips.
-- **Check subscription status:** Game consoles require a multiplayer subscription for online gaming. Find out more here:
-  - [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass)
-  - [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/)
-  - [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/)
+- **Update your game version:** You may encounter problems connecting to multiplayer games if all players aren’t playing the most recent version of Minecraft. Check the settings on your game platform to make sure you’re receiving automatic updates. If you use the Launcher, select “Latest release” when you start the game. See our [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) help section for information about manually updating Minecraft. If you do apply an update, make sure to restart your device and game.
+- **Check child account permissions:** If using a child account, visit [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to make sure the child account's permissions are set up correctly.
+- **Contact the game host:** The player hosting the game must be online and actively running a world with permissions set to allow multiplayer games. Refer to [How to Invite Friends to Your Minecraft: Bedrock Edition World](../Multiplayer-Support/How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md) for more information.
+- **Check for network connection errors: **See [Troubleshoot Minecraft Network Connection Errors ](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)for various internet connection troubleshooting tips.
+- **Check subscription status:** If you are playing Minecraft multiplayer on a console, you must be subscribed to either [Xbox Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass), [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/), or [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/) to be able to play with friends.
