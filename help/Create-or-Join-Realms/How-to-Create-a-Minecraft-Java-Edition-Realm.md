@@ -35,5 +35,5 @@ After your subscription is active, you can manage it on your [Microsoft subscrip
 
 - [How to View a Realms Subscription Renewal Date for Minecraft: Java Edition](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Java-Edition.md)
 - [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md)
-- [How to Update Your Payment Method for Minecraft Realms](../Manage-Realms-Subscriptions/How-to-Update-Your-Payment-Method-for-Minecraft-Realms.md)
+- [How to Update Your Payment Method for Minecraft Realms](../Manage-Realms-Subscriptions/Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md)
 - [How to Manage Your Minecraft: Java Edition Realm](../Manage-Realms-Settings-Worlds/How-to-Manage-Your-Minecraft-Java-Edition-Realm.md)

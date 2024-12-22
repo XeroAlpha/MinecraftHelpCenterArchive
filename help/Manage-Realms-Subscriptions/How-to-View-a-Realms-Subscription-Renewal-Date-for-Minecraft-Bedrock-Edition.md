@@ -21,4 +21,4 @@ If your Realm is expired, see [How Do I Renew an Expired Minecraft: Bedrock Edit
 
 To cancel, see [How to Cancel a Minecraft Realms Subscription](https://help.minecraft.net/hc/en-us/articles/24124939590413-How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription)
 
-For updating your payment method, see [How to Update Your Payment Method for Minecraft Realms](./How-to-Update-Your-Payment-Method-for-Minecraft-Realms.md).
+For updating your payment method, see [How to Update Your Payment Method for Minecraft Realms](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md).

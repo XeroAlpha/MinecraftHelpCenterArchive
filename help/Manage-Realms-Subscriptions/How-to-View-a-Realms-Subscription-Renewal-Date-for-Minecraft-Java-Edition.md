@@ -17,4 +17,4 @@ You can view your current subscription renewal date and verify or update your pa
 2.  Click **View all subscriptions**.
 3.  Find your Java Realms subscription. The date for your next automatic renewal payment appears under the title.
 
-For updating your payment method, see [How to Update Your Payment Method for Minecraft Realms](./How-to-Update-Your-Payment-Method-for-Minecraft-Realms.md).
+For updating your payment method, see [How to Update Your Payment Method for Minecraft Realms](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md).

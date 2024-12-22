@@ -26,6 +26,6 @@ You can view your payment details at any time on your Microsoft Account Settings
 
 ## CHANGING PAYMENT FOR RECURRING SUBSCRIPTIONS
 
-A saved credit card is required for recurring purchases, such as monthly payments of Minecraft Realms. If you'd like to switch the card that is set up for recurring payments, delete the currently saved card, then add a new card to your profile. You can view more information on your Minecraft subscriptions in [How to Update Your Payment Method for Minecraft Realms](../Manage-Realms-Subscriptions/How-to-Update-Your-Payment-Method-for-Minecraft-Realms.md).
+A saved credit card is required for recurring purchases, such as monthly payments of Minecraft Realms. If you'd like to switch the card that is set up for recurring payments, delete the currently saved card, then add a new card to your profile. You can view more information on your Minecraft subscriptions in [How to Update Your Payment Method for Minecraft Realms](../Manage-Realms-Subscriptions/Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md).
 
 If you still have questions, check out [Who to Contact with your Minecraft Questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).

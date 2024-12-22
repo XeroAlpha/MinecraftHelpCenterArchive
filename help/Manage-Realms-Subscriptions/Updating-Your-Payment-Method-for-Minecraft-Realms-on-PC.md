@@ -30,7 +30,7 @@ hash:
 
 When you play Minecraft: Bedrock Edition on your PC and start a Realms subscription, the Minecraft Marketplace uses the payment method associated with your Microsoft account. To update the payment method you use for your recurring Realms subscription, you need to change the payment method on Microsoft account you used to start your subscription.
 
-- Mobile players, see [Updating Your Payment Method for Minecraft Realms on Mobile](./Updating-Your-Payment-Method-for-Minecraft-Realms-Subscriptions-on-Mobile.md)
+- Mobile players, see [Updating Your Payment Method for Minecraft Realms on Mobile](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-Mobile.md)
 - Console players, see [Updating Your Payment Method for Minecraft Realms on Consoles](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-Consoles.md)
 
 ## Find the platform used to start your subscription
