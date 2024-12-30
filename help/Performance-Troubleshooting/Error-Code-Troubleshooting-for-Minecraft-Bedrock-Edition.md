@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-10-07T18:03:57Z
+updated: 2024-12-30T20:59:55Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -19,11 +19,8 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
 hash:
-  h_01HQ3XERRBJDGVM3W8T72BC0KX: general-error-code-troubleshooting
-  h_01HQ3XERRB7GP1AVW2ZT1DDKSX: further-troubleshooting-suggestions
-  h_01HQ3XERRB0EPN199FK4E05CQC: uninstall-and-reinstall-minecraft-bedrock-edition
-  h_01HQ3XERRBKJ2HQK15TF6TW23D: device-troubleshooting
-  h_01HQ3XERRAF21NFDXA247P6H7C: error-codes-you-may-encounter-while-playing
+  h_01JGCNCPVD43R5ZGDJTXPK7MKN: general-error-code-troubleshooting
+  h_01JGCN8XMA1TCN61SWFQ4DE0X1: named-error-code-troubleshooting
   h_01HQ3XERRAKBJN83958BFWE3NK: bat
   h_01HQ3XERRAWSW2CD6AV0DNY7PZ: cauldron
   h_01HQ3XERRAR3362H8721XPTWA1: cobblestone
@@ -40,47 +37,28 @@ hash:
   h_01HQ3XERRB2YBPNQ4JHTHSZBX1: terracotta
 ---
 
-*This article will focus on troubleshooting steps that you can take when encountering various error codes while playing Minecraft: Bedrock Edition. For Marketplace errors, see [Troubleshooting Minecraft Marketplace Error Codes](../Marketplace-Troubleshooting/Troubleshooting-Minecraft-Marketplace-Error-Codes.md).  
-*
+For Marketplace errors, see [Troubleshooting Minecraft Marketplace Error Codes](../Marketplace-Troubleshooting/Troubleshooting-Minecraft-Marketplace-Error-Codes.md).
+
+ 
+
+Many of the error codes you may encounter when playing Minecraft occur when your gaming system loses contact with servers and the Microsoft and Xbox services that enable multiplayer games, crossplay, and access to Marketplace content across devices.
+
+You can find troubleshooting suggestions for specific error codes below. If your specific error isn’t addressed, following some of the general device troubleshooting steps may help.
+
+**Before starting troubleshooting, back up any Minecraft files you wish to keep.** If you need assistance, see [Backing up Minecraft Worlds](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).
 
 ## General Error Code Troubleshooting
 
-Always make sure that your game is [up to date and running the latest version of Minecraft](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md).
+- **Update your game version:** Check the settings on your game platform to make sure you’re receiving automatic updates and running the latest release. See our [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) help section for information about manually updating Minecraft. If you do apply an update, make sure to restart your device and game.
+- **Sign out and restart:** [Sign out of Minecraft](../Account-Sign-In/How-to-Sign-Out-of-Minecraft.md), the Microsoft store, the Xbox app and any other Minecraft services that might be running and close the programs. Then shut down and restart your game system before restarting Minecraft and signing in again.
+- **Check your internet connection:** See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions.
+- **Adjust your video settings:** Low bandwidth, limited memory, or not enough processing power can impact game performance. See [Optimizing Video Settings and Performance in Minecraft](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md) for tips.
+- **Disable add-ons:** If you are running a lot of modifications in your world, these third-party applications may not play nice with each other and other systems. You can try turning enhancements on and off. See Disabling Minecraft Add-Ons \| Minecraft Help for information.
+- **Wait and try again:** Sometimes servers go down and things need to hit with a pickaxe. You may need to wait and give time for issues to get fixed on the server side before trying again.
 
-Additionally, please confirm that your Minecraft account is attached to a Microsoft account. You can check this by going to the main menu, then clicking the sign-in button at the bottom right.
+## Named Error Code Troubleshooting
 
-After verifying the above, please complete these troubleshooting steps:
-
-- Check your internet and ensure your device's connection is stable and strong.
-- If your issues are caused by the internet connection, you may need to reach out to your Internet Service Provider and/or complete separate troubleshooting steps.
-- Sign out of all Minecraft accounts (including the attached Microsoft account) and close out any open Minecraft: Bedrock Edition applications.
-- Restart the game, then sign back into your Minecraft: Bedrock Edition and Microsoft account(s)
-- If you still see the error: repeat the steps above after waiting 1 hour, including internet troubleshooting steps.
-
-Additional steps if you're playing on a Windows, Android, Xbox, or iOS device:
-
-- Make sure you're logging in with the right Microsoft account.
-- Install the "Xbox App", which you can find by searching for "Xbox" in your platform's store app or in the Microsoft Store.
-
-If you find the issue persists after this point, we have a few additional suggestions that may assist with resolving the problem. Please read our guidance carefully and only proceed with the steps you are comfortable processing.  
-
-## Further Troubleshooting Suggestions
-
-### Uninstall and Reinstall Minecraft: Bedrock Edition
-
-1.  Refer to your device support site for guidance on uninstalling and reinstalling purchased applications. 
-2.  **DISCLAIMER:** This will delete your local saves, so please back up any files you wish to keep. If you need assistance, see [Backing up Minecraft Worlds](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md#h_01FG9YQZTD4SQM2XEP4GC28PW3).
-
-### Device Troubleshooting 
-
-1.  Your gaming device may be contributing to this issue. We recommend performing a full restart and investigating any pending system updates. This may assist with resolving the errors you are seeing.  
-2.  Again, please make sure you back up any files that you wish to keep and refer to the platform's guidance for successfully restarting your device. 
-
-Please also check our [bug reports](https://bugs.mojang.com/secure/Dashboard.jspa) for similar issues or submit your own so that a developer can take a look.
-
-If you're still experiencing an error code, contact [Minecraft Support](https://aka.ms/Minecraft-Support) and provide a picture of any error messages that you see, along with any additional details about your issue. *For our team to be able to review these images, please make sure they are in PNG or JPEG file formats only.*
-
-## Error codes you may encounter while playing** **
+Some errors are so special, we’ve given them names and their own help articles. Refer to the list below for tips on solving named errors.
 
 ### Bat:
 
@@ -163,4 +141,4 @@ The wrong Microsoft/Xbox account is being used to sign into the current PlayStat
 
 An unspecified error has occurred.
 
-- Please follow the [general troubleshooting steps](#general-error-code-troubleshooting) below.
+- Please follow the [general troubleshooting steps](#h_01HQ3XERRBJDGVM3W8T72BC0KX) below.
