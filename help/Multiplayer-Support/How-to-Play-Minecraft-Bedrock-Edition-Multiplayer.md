@@ -1,7 +1,7 @@
 ---
 title: "How to Play Minecraft: Bedrock Edition Multiplayer"
 date: 2021-09-29T20:49:05Z
-updated: 2024-02-14T18:59:20Z
+updated: 2025-01-07T19:00:09Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -38,6 +38,8 @@ hash:
 - To join a friend’s world, see [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](./How-to-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
 - To join a Realm, see [How Do I Join Someone’s Minecraft: Bedrock Edition Realm?](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
 - For issues trying to join a multiplayer world, go to [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+
+**Note**: if your friend's world is not appearing on your friend list in-game, make sure they are not appearing offline on their platform of choice. If they are on Windows PC, they should check if they are appearing offline on the Xbox app.
 
 ## How to play in splitscreen (consoles only)
 
