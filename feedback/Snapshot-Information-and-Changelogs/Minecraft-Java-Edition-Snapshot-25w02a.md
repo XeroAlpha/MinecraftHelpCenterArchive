@@ -1,6 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w02a
 date: 2025-01-08T15:27:29Z
+updated: 2025-01-13T12:06:31Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/33310041339789-Minecraft-Java-Edition-Snapshot-25w02a
 hash:
@@ -151,7 +152,7 @@ It's the first snapshot Wednesday of 2025, and we have some fun new features to 
 - Changes to commands
 - Updated data format of Text Components
 - structure_block in the load mode has now a new option: Strict Placement
-  - If set to false, the blocks in the placed structure will not trigger block updates, block entity side effects, or shape updates
+  - If set to true, the blocks in the placed structure will not trigger block updates, block entity side effects, or shape updates
 - The Owner field of tamed animals is no longer restricted to referencing Players
 - Updated data format of equipment drop chances in entity data
 - Added data-driven registry for pig variants
