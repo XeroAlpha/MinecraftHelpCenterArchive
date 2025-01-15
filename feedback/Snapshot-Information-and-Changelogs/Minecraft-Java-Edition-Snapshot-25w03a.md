@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w03a
 date: 2025-01-15T14:53:43Z
-updated: 2025-01-15T15:23:21Z
+updated: 2025-01-15T16:05:57Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/33498789985037-Minecraft-Java-Edition-Snapshot-25w03a
 hash:
@@ -64,7 +64,7 @@ Happy testing!
 
 ### Game Test Main
 
-This new entry point automatically starts a server, runs all available game test and then exits.
+This new entry point automatically starts a server, runs all available game tests and then exits.
 
 Options:
 
