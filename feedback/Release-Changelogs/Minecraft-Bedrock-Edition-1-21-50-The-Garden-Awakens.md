@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.50 - The Garden Awakens"
 date: 2024-12-02T15:16:35Z
-updated: 2024-12-04T08:51:22Z
+updated: 2025-01-15T13:19:13Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/32344904160397-Minecraft-Bedrock-Edition-1-21-50-The-Garden-Awakens
 hash:
@@ -317,6 +317,8 @@ Pale Moss block generates naturally in the Pale Garden biome. Unique features:
 - Mace damage now scales with distance fallen when it is used by mobs
 
 - Players will keep their inventory after dying on Easy and Peaceful as we're testing ways to adapt our difficulty levels. Your feedback is greatly appreciated on [this page](https://aka.ms/mckeepinventoryfeedback)
+
+  - *Please note: We're testing new difficulty levels, so some players will keep their inventory after dying on Easy and Peaceful. If this happens to you, don't worry—it's not a bug.*
 
 - The kill command or any damage greater or equal to the target's current life will now kill it in base game versions below 1.18.20
 
