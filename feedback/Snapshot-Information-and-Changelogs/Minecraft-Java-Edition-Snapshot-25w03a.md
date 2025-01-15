@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w03a
 date: 2025-01-15T14:53:43Z
-updated: 2025-01-15T16:05:57Z
+updated: 2025-01-15T17:54:55Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/33498789985037-Minecraft-Java-Edition-Snapshot-25w03a
 hash:
@@ -323,7 +323,7 @@ As opposed to block-based tests, function tests failing will often produce more 
 
 - Can now apply to saddle slot
 - Any mob can now have equipment added in the body slot as long as the component allows it (allowed_entities)
-- Added new optional field: equip_on_interaction (boolean)
+- Added new optional field: equip_on_interact (boolean)
   - If true, players can equip this item onto a target mob by right-clicking it (as long as this item can be equipped on the target at all)
   - The item will not be equipped if the target already has an item in the relevant slot
   - If not specified, defaults to false
