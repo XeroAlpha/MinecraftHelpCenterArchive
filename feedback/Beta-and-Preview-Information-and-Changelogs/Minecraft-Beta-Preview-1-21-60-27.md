@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.60.27
 date: 2025-01-15T16:20:42Z
-updated: 2025-01-15T16:21:07Z
+updated: 2025-01-16T10:54:18Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/33502112973069-Minecraft-Beta-Preview-1-21-60-27
 ---
@@ -40,7 +40,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Vanilla Parity
 
-- Wheat color is now yellow on a Map instead of green ([MCPE-148982](https://bugs.mojang.com/browse/MCPE-148982 "https://bugs.mojang.com/browse/MCPE-148982"))
+- Wheat color is now yellow on a Map instead of green ([MCPE-186083](https://bugs.mojang.com/browse/MCPE-186083))
 
 - Shearing Cave Vines with Glow Berries when sneaking now shears the Cave Vine instead of dropping Glow Berries ([MCPE-189118](https://bugs.mojang.com/browse/MCPE-189118 "https://bugs.mojang.com/browse/MCPE-189118"))
 
