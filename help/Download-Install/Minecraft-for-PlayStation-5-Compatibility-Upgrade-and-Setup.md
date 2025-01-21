@@ -1,7 +1,7 @@
 ---
 title: Minecraft for PlayStation 5 Compatibility, Upgrade, and Setup
 date: 2024-10-16T16:24:05Z
-updated: 2024-10-31T16:37:53Z
+updated: 2025-01-21T19:36:26Z
 categories: Download & Install
 tags:
   - section_27166490706957
@@ -45,6 +45,8 @@ Migrating your worlds from the PS4 version of Minecraft into PS5 is very simple.
 - [How to Back Up Your Minecraft Save to the Cloud on PlayStation](../Backup-Restore/How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-PlayStation.md)
 
 After you save your Minecraft worlds to the cloud, follow these instructions to convert your PS4 worlds to the PS5 version:
+
+**Note:** If you want to delete any old worlds from your PS4 saves, you will need to access them via the PS4 version of Minecraft and delete them there.
 
 1.  Start the Minecraft PS5 version.
 2.  Select **Play**.

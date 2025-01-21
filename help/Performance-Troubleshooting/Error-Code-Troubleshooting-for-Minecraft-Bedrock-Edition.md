@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2024-12-30T20:59:55Z
+updated: 2025-01-21T21:30:04Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -53,7 +53,8 @@ You can find troubleshooting suggestions for specific error codes below. If your
 - **Sign out and restart:** [Sign out of Minecraft](../Account-Sign-In/How-to-Sign-Out-of-Minecraft.md), the Microsoft store, the Xbox app and any other Minecraft services that might be running and close the programs. Then shut down and restart your game system before restarting Minecraft and signing in again.
 - **Check your internet connection:** See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions.
 - **Adjust your video settings:** Low bandwidth, limited memory, or not enough processing power can impact game performance. See [Optimizing Video Settings and Performance in Minecraft](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md) for tips.
-- **Disable add-ons:** If you are running a lot of modifications in your world, these third-party applications may not play nice with each other and other systems. You can try turning enhancements on and off. See Disabling Minecraft Add-Ons \| Minecraft Help for information.
+- **Run the Xbox Gaming Services Repair tool (PC only): **This tool can help sort out problems with Minecraft or the Launcher after installation or an update. Use it on the [Gaming Services Repair Tool for PC page](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool).
+- **Disable add-ons:** If you are running a lot of modifications in your world, these third-party applications may not play nice with each other and other systems. You can try turning enhancements on and off. See [Disabling Minecraft Add-Ons](../Managing-Marketplace-Content/Disabling-Minecraft-Add-Ons.md) for information.
 - **Wait and try again:** Sometimes servers go down and things need to hit with a pickaxe. You may need to wait and give time for issues to get fixed on the server side before trying again.
 
 ## Named Error Code Troubleshooting
@@ -133,12 +134,10 @@ This means you’ve encountered an unknown client error during sign-in.
 
 ### Sugar Cane:
 
-The wrong Microsoft/Xbox account is being used to sign into the current PlayStation Network account.
-
-- The PlayStation and Microsoft account link is permanent and cannot be associated with other accounts. For more information, please see our FAQ: [Minecraft for PlayStation®](../Linking-Microsoft-Accounts/How-to-Link-Microsoft-and-PlayStation-Accounts-in-Minecraft.md)
+- The wrong Microsoft/Xbox account is being used to sign into the current PlayStation Network account.
 
 ### Terracotta:
 
 An unspecified error has occurred.
 
-- Please follow the [general troubleshooting steps](#h_01HQ3XERRBJDGVM3W8T72BC0KX) below.
+- Please follow the general troubleshooting steps above.
