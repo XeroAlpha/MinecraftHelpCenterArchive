@@ -1,7 +1,7 @@
 ---
 title: How to Subscribe to Minecraft Marketplace Pass
 date: 2024-02-20T18:00:08Z
-updated: 2024-10-23T18:16:44Z
+updated: 2025-01-23T00:22:29Z
 categories: Marketplace & Realms Subscriptions
 tags:
   - title_minecraft
@@ -35,4 +35,8 @@ Marketplace Pass is a monthly subscription service on Minecraft: Bedrock Edition
 6.  Click **Subscribe Now**. \*
 7.  Agree to the **Terms & Conditions & Privacy Policy**. You will be taken to the store for the platform you are playing on to complete your purchase.
 
-\* If you haven't had a previous trial or subscription to Marketplace Pass or Realms Plus, you'll have the option to sign up for a free 30-day trial.
+**\*** If you haven't had a previous trial or subscription to Marketplace Pass or Realms Plus, you'll have the option to sign up for a free 30-day trial.
+
+ 
+
+If you run into issues subscribing to Marketplace Pass, read more on [Troubleshooting Marketplace Pass Subscription Errors](../Marketplace-Troubleshooting/Troubleshooting-Marketplace-Pass-Subscription-Errors.md).
