@@ -1,7 +1,7 @@
 ---
 title: How to Back Up Your Minecraft Save to the Cloud on PlayStation
 date: 2023-05-05T16:55:24Z
-updated: 2024-02-09T22:45:25Z
+updated: 2025-01-27T19:55:33Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -32,7 +32,7 @@ On both PlayStation 4 and PlayStation 5, cloud saving is typically on by default
 
 To *upload* a cloud save on PlayStation 4, follow these steps: 
 
-1.  Go to Settings 
+1.  Go to Settings on your game console. (Not Minecraft settings.)
 2.  Select **Application Data Management** 
 3.  Select **Saved Data in System Storage** 
 4.  Choose **Upload to Online Storage**. 
@@ -41,7 +41,7 @@ To *upload* a cloud save on PlayStation 4, follow these steps: 
 
 To *download* a cloud save on PlayStation 4, follow these steps: 
 
-1.  Go to Settings 
+1.  Go to Settings on your game console. (Not Minecraft settings.)
 2.  Select **Application Data Management** 
 3.  Select **Saved Data in Online Storage** 
 4.  Choose **Download to System Storage**. 
@@ -52,7 +52,7 @@ To *download* a cloud save on PlayStation 4, follow these steps: 
 
 To *upload* a cloud save on PlayStation 5, follow these steps: 
 
-1.  Go to Settings 
+1.  Go to Settings on your game console. (Not Minecraft settings.)
 2.  Select **Saved Data** **and** **Game/App Settings**. 
 3.  If you’re uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
 4.  Select **Console Storage** and choose the game save you’d like to upload. 
@@ -60,7 +60,7 @@ To *upload* a cloud save on PlayStation 5, follow these steps: 
 
 To *download* a cloud save on PlayStation 5, follow these steps: 
 
-1.  Go to Settings 
+1.  Go to Settings on your game console. (Not Minecraft settings.) 
 2.  Select **Saved Data** **and** **Game/App Settings**. 
 3.  If you’re uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
 4.  Select **Cloud Storage** and choose the game save you’d like to download. 

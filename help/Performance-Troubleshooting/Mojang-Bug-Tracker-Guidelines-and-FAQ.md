@@ -1,7 +1,7 @@
 ---
 title: Mojang Bug Tracker Guidelines
 date: 2021-09-09T22:04:45Z
-updated: 2025-01-27T18:22:23Z
+updated: 2025-01-27T19:33:38Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
@@ -45,16 +45,16 @@ If you find that your issue has already been reported, look at the Resolution�
 
 Here are some things to keep in mind before you report a new bug.
 
-- **Write a concise summary** that clearly states the problem. Include as much important information as possible including:
+- **Be Concise**: Write a summary that clearly states the problem. Include as much important information as possible including:  
   - Steps taken to reproduce the issue.
   - What happens when the bug occurs.
   - Clear screenshots or short video of the bug.
   - The exact text of any error messages.
-- **If you have discovered an exploitive or security issue**, set the bug report’s security level to *Private* so that only you, Mojang Studios employees, and bug tracker moderators are able to view your bug report.
-- **We only accept bug reports in English**; do not create bug reports in other languages.
-- **Only put one issue into each bug report**. We will not accept your bug report if you include multiple bugs.
-- **If you are using any mods or third-party tools**, see if the issue persists in a completely unmodified Minecraft environment before reporting it. If it doesn't, report the bug to the mod creator, not Mojang Studios.
-- **Worlds that have been opened with a third-party tool are not supported**.
-- **If you have an issue on a large multiplayer server** (like Hypixel or The Hive), contact the server staff first before creating a bug report.
-- **Only report a bug if you are sure that it is still active in the latest version of the game**. We do not accept bug reports for any versions except for the latest release and the latest development version.
-- **Watch for related emails or regularly check the bug report** for updates or potential further inquiries after creating a bug report.
+- **Consider Security and Confidentiality:** If you have discovered an exploitive or security issue, set the bug report’s security level to *Private* so that only you, Mojang Studios employees, and bug tracker moderators are able to view your bug report.
+- **English Only:** We only accept bug reports in English; do not create bug reports in other languages.
+- **One Issue Per Report:** We will not accept your bug report if you include multiple bugs in a single submission.
+- **Test Unmodified Environments:** If you are using any mods or third-party tools at all, see if the issue persists in a completely unmodified Minecraft environment before reporting it. If it doesn't, report the bug to the mod creator, not Mojang Studios.
+- **Third-Party Tools Not Supported:** Worlds that have been opened with a third-party tool are not supported.
+- **Third-Party Servers:** If you have an issue on a large multiplayer server (like Hypixel or The Hive), contact the server staff first before creating a bug report.
+- **Latest Release Only:** Only report a bug if you are sure that it is still active in the latest version of the game. We do not accept bug reports for any versions except for the latest release and the latest development version.
+- **Watch Correspondence:** After creating a bug report, watch for related emails or regularly check the bug report for updates or potential further inquiries.
