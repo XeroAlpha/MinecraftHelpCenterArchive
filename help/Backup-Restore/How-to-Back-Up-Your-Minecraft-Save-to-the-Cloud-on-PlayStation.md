@@ -1,7 +1,7 @@
 ---
 title: How to Back Up Your Minecraft Save to the Cloud on PlayStation
 date: 2023-05-05T16:55:24Z
-updated: 2025-01-27T19:55:33Z
+updated: 2025-01-28T16:20:12Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -22,7 +22,7 @@ hash:
   h_01HNXNWCRMYEXXJZZFFD0S6BET: playstation-5
 ---
 
-Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on PlayStation **will need a PlayStation Plus Essential subscription or higher** to take advantage of cloud saving.
+Players enjoying Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on PlayStation **will need a PlayStation Plus Essential subscription or higher** to take advantage of cloud saving. You can upload data to cloud storage without a subscription, but you must be subscribed to download that backup data.
 
 **Note: Alongside the following processes, Minecraft Dungeons has an in-game cloud saving process as well. Please follow [this guide](../Minecraft-Dungeons/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md)** **for more information.**
 
@@ -54,7 +54,7 @@ To *upload* a cloud save on PlayStation 5, follow these steps: 
 
 1.  Go to Settings on your game console. (Not Minecraft settings.)
 2.  Select **Saved Data** **and** **Game/App Settings**. 
-3.  If you’re uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
+3.  If you’re uploading a native version of Minecraft for PS5, Minecraft Dungeons, or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re uploading a PS4 Minecraft save, choose **Saved Data (PS4)**.  
 4.  Select **Console Storage** and choose the game save you’d like to upload. 
 5.  Select **Upload to Cloud Storage**.
 
@@ -62,6 +62,6 @@ To *download* a cloud save on PlayStation 5, follow these steps: 
 
 1.  Go to Settings on your game console. (Not Minecraft settings.) 
 2.  Select **Saved Data** **and** **Game/App Settings**. 
-3.  If you’re uploading a Minecraft Dungeons or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re uploading a Minecraft: Bedrock Edition save, choose **Saved Data (PS4)**.  
+3.  If you’re downloading a native version of Minecraft for PS5, Minecraft Dungeons, or Minecraft Legends save, choose **Saved Data (PS5)**. If you’re downloading a PS4 Minecraft save, choose **Saved Data (PS4)**.  
 4.  Select **Cloud Storage** and choose the game save you’d like to download. 
 5.  Select **Download to Console Storage**.
