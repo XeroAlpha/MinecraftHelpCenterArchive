@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2024-12-30T21:43:27Z
+updated: 2025-01-28T19:09:21Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-preview--beta-game-client-update-version-1215---released-121924
+  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-preview--beta-game-client-update-version-12151---released-12825
+  01JJQ31EYAEVJXX7DMDJ68TCSH: minecraft-education-preview--beta-game-client-update-version-1215---released-121924
   01JGCR8BXESAPQ37R0X32MS6RV: minecraft-education-game-client-minor-update-version-12106---released-102424
   01JAZVNWM24HDFXKRKGWWG4SEP: minecraft-education-game-client-minor-update-version-12105---released-90324
   01J6WHK9S3AY9QVCCJDV2DT05R: minecraft-education-game-client-version-12103---released-72324
@@ -47,11 +48,16 @@ Minecraft Education periodically releases updates to our game and companion apps
 
  
 
+## Minecraft Education Preview & Beta Game Client Update (version 1.21.51) - Released 1/28/25
+
+- Improved client stability
+
 ## Minecraft Education Preview & Beta Game Client Update (version 1.21.5) - Released 12/19/24
 
 - Garden Awakens Update
 - Cloud Storage Improvements
-- Coding and multiplayer stability improvements
+- Coding and multiplayer stability improvements  
+    
 
 ## Minecraft Education Game Client Minor Update (version 1.21.06) - Released 10/24/24
 
