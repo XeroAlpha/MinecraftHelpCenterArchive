@@ -45,7 +45,7 @@ Please visit these pages for help with your Microsoft account:
 
 ## Technical Support
 
-For any questions regarding game performance issues, multiplayer and Realms help, and assistance with download, install, and backup, please visit our [Minecraft Technical Support](https://help.minecraft.net/hc/en-us/categories/12617297898381) resources. You can also check the [Mojang Bug Tracker Guidelines and FAQ](./Mojang-Bug-Tracker-Guidelines-and-FAQ.md) for information about open bugs and to report new ones. If you still need help, click the Contact Support link at the bottom of any support article.
+For any questions regarding game performance issues, multiplayer and Realms help, and assistance with download, install, and backup, please visit our [Minecraft Technical Support](https://help.minecraft.net/hc/en-us/categories/12617297898381) resources. You can also check the [Mojang Bug Tracker Guidelines and FAQ](./Mojang-Bug-Tracker-Guidelines.md) for information about open bugs and to report new ones. If you still need help, click the Contact Support link at the bottom of any support article.
 
 ## Minecraft Realms subscription and Marketplace purchases
 
