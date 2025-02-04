@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.50.26
 date: 2024-10-30T13:31:25Z
-updated: 2024-11-06T13:50:26Z
+updated: 2025-02-04T15:05:22Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/31476211695501-Minecraft-Beta-Preview-1-21-50-26
 hash:
@@ -27,9 +27,10 @@ hash:
   user-content-trial-spawner: trial-spawner
   user-content-user-interface: user-interface
   user-content-vanilla-parity: vanilla-parity
-  01JBES9M8R5GQJSS7V21Y0ZV6P: blocks-3
+  01JBES9M8R5GQJSS7V21Y0ZV6P: blocks-1
   user-content-technical-updates: technical-updates
   01JBES9M8S17RQ5054DJP6QB5R: mobs-1
+  h_01JK8QTRJKWG71SNRXX7BTCCXH: blocks-2
   user-content-audio: audio
   01JBES9M8RXQ7VHDS9QQ6FAFYW: biomes-1
   user-content-molang: molang
@@ -40,6 +41,7 @@ hash:
   user-content-recipes: recipes
   01JBES9M8S2FG813JWWA2E2Z85: stability-and-performance-1
   user-content-experimental-technical-updates: experimental-technical-updates
+  h_01JK8QTRJKVMRX342NGEA0KYJN: blocks-3
   user-content-api: api
   user-content-camera: camera
   user-content-component: component
@@ -58,7 +60,7 @@ hash:
 
 ![paleoakleaves.jpg](https://feedback.minecraft.net/hc/article_attachments/31476211693453)
 
-It's time for a new Preview and Beta! This week we're amping up the atmosphere in the pale garden. Eyeblossoms will now puff out orange particles when they open – and leaves will fall from the pale oak trees in the pale garden – adding to the ambiance of this new, eerie biome. As always, we’re keen to get your feedback on these new features at [feedback.mojang.net](http://feedback.mojang.net/), and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/)! Here's what's new this week:
+It's time for a new Preview and Beta! This week we're amping up the atmosphere in the pale garden. Eyeblossoms will now puff out orange particles when they open – and leaves will fall from the pale oak trees in the pale garden – adding to the ambiance of this new, eerie biome. As always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](https://feedback.minecraft.net/hc/en-us) and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/)! Here's what's new this week:
 
 # New Features and Bug Fixes
 
