@@ -1,7 +1,7 @@
 ---
-title: I Can’t Find My Marketplace Pass Content
+title: Troubleshooting Missing Marketplace Content
 date: 2024-02-20T18:04:19Z
-updated: 2024-04-22T20:28:29Z
+updated: 2025-02-04T19:50:41Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -17,13 +17,14 @@ tags:
   - section_24090952098445
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/24292850100621-I-Can-t-Find-My-Marketplace-Pass-Content
+link: https://help.minecraft.net/hc/en-us/articles/24292850100621-Troubleshooting-Missing-Marketplace-Content
 ---
 
-Items downloaded using Marketplace Pass may not appear if you’re playing on a different platform from the one you used to subscribe to Marketplace Pass. Here’s how to activate your content on another platform:
+If you find your Marketplace Content is not showing in your game, there are a few things you can check:
 
-1.  Start Minecraft from the platform you used to subscribe to Marketplace Pass. (For example, if you’re playing on PC but subscribed on Xbox, launch Minecraft from the Xbox).
-2.  Visit **Marketplace** to refresh the token on your account which lets us know you're still a subscriber.
-3.  Restart Minecraft on the platform where you want to access the Marketplace content. 
+ 
 
-**Note:** Your subscription needs to be verified on that original device’s store every 30 days. If you plan on playing Minecraft on a different device for the long-term without returning to the original, cancel your subscription and make a new one on the new platform.
+- **Verify Content is Downloaded and Active:** Visit the Minecraft Marketplace to make sure you downloaded and activated the content. See [How to Access Minecraft Marketplace Content](../Managing-Marketplace-Content/How-to-Access-Minecraft-Marketplace-Content.md) for information.
+- **Verify Microsoft Account Used:** Make sure you are signed into Minecraft using the Microsoft account you used to buy or download the content. You can sign in with a Microsoft account or link to a Microsoft account to view Marketplace content across platforms. Visit our Minecraft Help section for [Linking Your Account](https://help.minecraft.net/hc/en-us/sections/29296773863181).
+- **Verify Subscription Status:** If you downloaded and activated content using a Marketplace Pass or Realms Plus subscription, sign into the platform you used to subscribe and make sure your subscription is active. If your subscription expires, you’ll lose access to content you downloaded and activated. Your subscription will expire if you do not play on the subscribing platform at least once every 30 days.
+- **Marketplace Catalog Availability:** Content in the Marketplace Pass catalog can change. You could lose access to content if an item is removed from the subscription services. Visit the item in My Content and look for a lock icon in the Marketplace or in game. You can regain access by purchasing it from the Minecraft Marketplace. See [How To Buy Content From The Minecraft Marketplace](../Buying-Marketplace-Content/How-to-Buy-Content-from-the-Minecraft-Marketplace.md).
