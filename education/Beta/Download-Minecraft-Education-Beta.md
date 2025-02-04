@@ -1,7 +1,7 @@
 ---
 title: Download Minecraft Education Beta
 date: 2021-09-24T18:25:00Z
-updated: 2024-07-23T19:07:02Z
+updated: 2025-02-03T23:02:40Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/4407483028116-Download-Minecraft-Education-Beta
 hash:
@@ -18,10 +18,6 @@ hash:
  
 
 Welcome to the Minecraft Education beta. We’re excited to help you get going! This article has platform-specific guidance for installing the beta onto your device.
-
-**The current version of the Beta is 1.21.03, the same version as the general release version.**
-
- 
 
 ## Prior to installation 
 
