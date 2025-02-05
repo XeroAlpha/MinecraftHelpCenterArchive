@@ -1,7 +1,7 @@
 ---
 title: What do Mobs Eat in Minecraft?
 date: 2023-09-25T21:42:14Z
-updated: 2024-08-21T16:25:18Z
+updated: 2025-02-05T19:55:12Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -36,7 +36,7 @@ Here is the complete list of animal mobs in Minecraft that you can feed and what
 - Rabbit – Carrot, dandelion, golden carrot
 - Sheep – Wheat
   - Sheep will also eat the top of Grass blocks that are placed in the world
-- [Sniffer](https://help.minecraft.net/hc/en-us/articles/16476513292813) – Torchflower seeds
+- Sniffer – Torchflower seeds
 - Strider – Warped fungus
 - Turtle - Seagrass
 - Wolf
