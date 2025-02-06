@@ -1,14 +1,14 @@
 ---
 title: How to Redeem a Prepaid Card or Gift Code for Minecraft Dungeons
 date: 2020-08-04T18:17:04Z
-updated: 2024-10-02T16:30:07Z
+updated: 2025-02-05T22:08:01Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_26726610890253
   - section_28872896387341
 link: https://help.minecraft.net/hc/en-us/articles/360046911212-How-to-Redeem-a-Prepaid-Card-or-Gift-Code-for-Minecraft-Dungeons
 hash:
-  redeeming-minecraft-dungeons-on-pc-launcher-version: redeeming-minecraft-dungeons-onpc-launcher-version
+  h_01JKC1YBBQ5KZJS686C2ZP1G2T: redeeming-minecraft-dungeons-onpc-launcher-version
 ---
 
 *This article applies only to Minecraft Dungeons pre-paid cards and gift codes. For information about redeeming other Minecraft gift codes, see *[Minecraft Pre-Paid Codes](./Troubleshooting-Minecraft-Gift-Redemption-Errors.md)*.* 
@@ -26,7 +26,7 @@ The steps in this article cover redeeming a Minecraft Dungeons pre-paid card pur
 
 ## Redeeming Minecraft Dungeons on PC (Launcher version) 
 
-1.  Navigate to [minecraft.net/redeem/dungeons](https://minecraft.net/redeem/dungeons).
+1.  Navigate to the [Minecraft Redemption page](https://www.minecraft.net/en-us/redeem).
 2.  Log in to an existing Microsoft account or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
 3.  After you have logged in to your Microsoft account, you can redeem your pre-paid card or gift code.   
     Scratch off the silver area and enter the code found on the back of your pre-paid card into the **Code** field.   
