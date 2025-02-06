@@ -1,7 +1,7 @@
 ---
 title: "How to Turn Off the Minecraft: Java Edition Realms Profanity Filter"
 date: 2022-05-11T16:53:37Z
-updated: 2024-07-30T18:22:55Z
+updated: 2025-02-06T18:59:04Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft_java_edition
@@ -29,8 +29,6 @@ If you’re playing on a Minecraft: Java Edition Realm and are looking to protec
 2.  Navigate to the **My Account** tab on the side bar. 
 3.  Scroll down to find **Java Realms Profanity Filter**.
 4.  The toggle is on by default, but you can click it to switch between on and off as you wish. 
-
-![](https://minecrafthelp.zendesk.com/hc/article_attachments/25356309732237)
 
 Note that the profanity filter will only affect you and your Minecraft account. It will not affect the experience of other players within the Minecraft: Java Edition Realm. 
 
