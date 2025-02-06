@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.70.22
 date: 2025-02-05T16:15:20Z
-updated: 2025-02-05T16:43:47Z
+updated: 2025-02-06T12:32:13Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/34063162910093-Minecraft-Beta-Preview-1-21-70-22
 hash:
@@ -18,6 +18,8 @@ hash:
   user-content-gameplay: gameplay
   h_01JKBE0YNXX8NDG3JCJYWVMGVN: general-1
   user-content-user-interface: user-interface
+  user-content-player-permissions: player-permissions
+  user-content-friends-drawer-improvements: friends-drawer-improvements
   user-content-technical-updates: technical-updates
   user-content-api: api
   user-content-commands: commands
@@ -198,6 +200,14 @@ Apologies if all the clucking is distracting you from this changelog, but two ne
 - The invite button on the pause screen is moved up a bit and now has an icon.
 - Scaled and moved the title logo to make room for the friends drawer button. 
 - Added new loading tips for creative mode. 
+
+### Player Permissions
+
+- The Player Permissions screen has been upgraded to the new Ore UI, bringing a fresh look and a more intuitive and user friendly experience. We've improved the visual design, introduced new icons for permission levels, and simplified the flow for easier navigation. Additionally, players now receive better feedback after each action, and error handling has been improved for a smoother experience. Let us know how you like it, at [aka.ms/mcplayerpermissionscreenfeedback](https://aka.ms/mcplayerpermissionscreenfeedback)
+
+### Friends Drawer Improvements
+
+- Players can now also find the Friends Drawer in the Main Menu and Game Menu, in addition to the Play Screen, in the top right of the screen. We hope this will make it easier to connect and play with your friends! Let us know how you like it, at [aka.ms/mcfriendsdrawerfeedback](https://aka.ms/mcfriendsdrawerfeedback)
 
 # Technical Updates
 
