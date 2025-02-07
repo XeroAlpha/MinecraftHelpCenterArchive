@@ -1,11 +1,97 @@
 ---
 title: "Minecraft: Java Edition - Nether Release"
 date: 2020-06-23T17:37:12Z
-updated: 2020-06-29T16:03:54Z
+updated: 2025-02-07T12:36:28Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360044911972-Minecraft-Java-Edition-Nether-Release
 hash:
-  f3-n-toggle-spectator: f3--n-toggle-spectator
+  h_01JKG6HXNBZJH58WZY4T9J8TJZ: features
+  h_01JKG6HXNB7XPBA6SAJ42CVV26: accessibility
+  h_01JKG6HXNBNTCS44ACAEKE548Y: advancements
+  h_01JKG6HXNBJBP3PNZ44FNG03GX: new-advancements
+  h_01JKG6HXNBMS93Z8FS7C3AD644: basalt-deltas
+  h_01JKG6HXNBX3FF4X1G6T40KAP3: bastion-remnants
+  h_01JKG6HXNBFYTB2S631F3B4JXV: bees
+  h_01JKG6HXNB4ED4DR8HXH2KXR3X: block-renames
+  h_01JKG6HXNB6FT53RNKSHZTYGJC: blocks
+  h_01JKG6HXNBYQPFHQGYRDGQ49ZY: creative-mode
+  h_01JKG6HXNBWA774SBXTGECJRWZ: crimson-forest
+  h_01JKG6HXNCNHS3YXHGJ4NFCPAA: dispensers
+  h_01JKG6HXNCDWKGD22A8AKQ0ERH: f3--n-toggle-spectator
+  h_01JKG6HXNC8ENDH4X2B7DP9KRP: farmers
+  h_01JKG6HXNCCSQSR4MEM0DMVK99: game-mode-switcher
+  h_01JKG6HXNC61TJQ07WAYS892GQ: hoe-changes
+  h_01JKG6HXNCJV1RFW3394P8PDNK: hoglins
+  h_01JKG6HXNCC8P84MEQ9M1ZHDW5: lodestone
+  h_01JKG6HXNCW8CD0TRCX2WY9PRP: mobs
+  h_01JKG6HXNCS718VMC3EEY3H9ST: forgive-dead-players
+  h_01JKG6HXNCS7BFCGCVP2ASBXP9: neutral-mob-anger
+  h_01JKG6HXNCT4XGK7EC656NM8MX: universal-anger
+  h_01JKG6HXNCHPZNZDPG5N4BFA0B: zombified-piglins
+  h_01JKG6HXNC26GFC590G7CEP7K1: nether-biome-fog
+  h_01JKG6HXNC9G66VAQSRC0GN9X6: netherite
+  h_01JKG6HXNCJSKJGABER37A73QS: how-to-make-netherite
+  h_01JKG6HXNCDRA9HDBHAH8XNQ6K: netherite-effects
+  h_01JKG6HXNCGCQSMBSC7V8VAQ1P: parity
+  h_01JKG6HXNCNQCYGG6Z499PRGFG: parrot
+  h_01JKG6HXNC8MDBRB8THZJ7NVCG: piglins
+  h_01JKG6HXNCFTJRGS4NTANCVGEY: redstonewire
+  h_01JKG6HXND66QRERZXWQGAKGBQ: target-block
+  h_01JKG6HXNDR9145EZQAGFDXVWY: ruined-portals
+  h_01JKG6HXND77REDZD0EAAZ535D: soul-speed
+  h_01JKG6HXNDWPJ4CC5GE8B9G60V: soulsand-valley
+  h_01JKG6HXND0RBHM9KE6N6ZD86K: sounds
+  h_01JKG6HXNDVPYDN422VX62G6BC: strider
+  h_01JKG6HXND5TBVMMCPX87A22NE: target-block-1
+  h_01JKG6HXND5WTZW71XVP820W16: villager-workstation-logic
+  h_01JKG6HXND9TXRDNJ8XKCEV6P2: warped-forest
+  h_01JKG6HXNDR2Z5HD7PQ1DYXY4A: weeping-vines
+  h_01JKG6HXNDARAWWPEW3MVV91NA: world-generation
+  h_01JKG6HXNDQR34YEZQ7BJ47Q2V: zoglins
+  h_01JKG6HXNDYCFXXT8V92G61T4B: technical
+  h_01JKG6HXND09WPSA4G12N7G5AG: advancements-1
+  h_01JKG6HXNDKTNJM74EY5F940VR: extended-entity-checks
+  h_01JKG6HXND9610KGJHN6KNQ807: miscellaneous-trigger-changes
+  h_01JKG6HXND2DGWZM3NBDA390DG: new-trigger
+  h_01JKG6HXND5YTYJF33503MQ5VW: attributes
+  h_01JKG6HXNDK05GZ4J8Y6G2FYC0: block-placement
+  h_01JKG6HXND8EXM9YSYC00R6RE9: block-storage
+  h_01JKG6HXNDK6R0VCVH37EZTZR1: block-tags
+  h_01JKG6HXND0EVQAY977HNXFKB5: chat-components
+  h_01JKG6HXNDMF1FK0XBF3YR4Z37: hover-event-argument
+  h_01JKG6HXND5CJH9M56MXG4A5ES: commands
+  h_01JKG6HXNDZEBJQ0NW9GEHW8CF: attribute
+  h_01JKG6HXND26Y59G7EVDBSFVF8: locatebiome
+  h_01JKG6HXND6ZJCNS9M5RGFC65A: spawnpoint
+  h_01JKG6HXNDCE6EP1RWD7TSY4D5: spreadplayers
+  h_01JKG6HXND8H6EMM9HEJGKF6VM: uuids-in-nbt
+  h_01JKG6HXNEC46AR59SY7JKFBGQ: custom-worlds
+  h_01JKG6HXNETYPHPV06GGFSSVH3: data-pack-selection
+  h_01JKG6HXNE5N6P09T503E2GDHY: datapack-loading
+  h_01JKG6HXNESPQ821N17ZPKSSY2: effects
+  h_01JKG6HXNEWNB3TYGJ5P5XD3T5: entity-broadcasting
+  h_01JKG6HXNEZ889MW80VA6SVZ6E: fonts
+  h_01JKG6HXNEME8394B303CF7BDC: io-operations
+  h_01JKG6HXNEMY4VYRFAWGKHWDEB: synchronous-writes
+  h_01JKG6HXNE695Q56D12D2RHZG3: world-save-format
+  h_01JKG6HXNEDMK8KW883RH33Q2D: item-frames
+  h_01JKG6HXNE90H50JSQKV4SGHT7: new-tags
+  h_01JKG6HXNEZWRJ34C8781H8QKR: jigsaw-block
+  h_01JKG6HXNE3Z0VE8YH5EBK5HZE: jmx-monitoring
+  h_01JKG6HXNEECT9PMCX5B5DDDM0: enabling-jmx-monitoring
+  h_01JKG6HXNE19E32240Y31MN1TS: loot-tables
+  h_01JKG6HXNEJ1QANS3CHF2XFHVD: entity-predicate
+  h_01JKG6HXNEK86SHQX0788ZY1PC: fishing_hook
+  h_01JKG6HXNEBFV6R09KGMT7YNPP: parameters
+  h_01JKG6HXNE4M8KNNRDTEWP14KG: pack-selection-screen
+  h_01JKG6HXNEN51C4D7BFEP6EATZ: particles
+  h_01JKG6HXNEBJ8JJQ6CCDEBP97E: rendering
+  h_01JKG6HXNE2PQ3B8HFQVJ78NFE: smithing-recipes
+  h_01JKG6HXNEQZHYDQ0A5S2G5884: text-style
+  h_01JKG6HXNEMV6ECP14S13BTZ3A: colors
+  h_01JKG6HXNEV99PHJH048ZZ95J2: custom-fonts
+  h_01JKG6HXNEA86C9H58J8GGHMDQ: fixed-bugs
+  h_01JKG6HXNESS9HMKYHB22NKX14: get-the-release
 ---
 
 23 June 2020
@@ -950,7 +1036,512 @@ Chat component style now supports `font` property, which is resource location 
 
  
 
-[Nearly 500 bugs](https://bugs.mojang.com/issues/?filter=24954) fixed in this release.
+- [MC-667](https://bugs.mojang.com/browse/MC-667) - Lily pads can be placed intersecting entities
+- [MC-1601](https://bugs.mojang.com/browse/MC-1601) - Breaking a Furnace will not give you the experience for the smelted things inside
+- [MC-2255](https://bugs.mojang.com/browse/MC-2255) - Redstone wire uses different criteria for connecting visually and logically
+- [MC-2591](https://bugs.mojang.com/browse/MC-2591) - Walking over the corner of lava deals damage
+- [MC-3328](https://bugs.mojang.com/browse/MC-3328) - Dismounting an entity places riding entity / player half block too high
+- [MC-4065](https://bugs.mojang.com/browse/MC-4065) - Messages/commands sent while in a bed won't be remembered in sent history
+- [MC-4520](https://bugs.mojang.com/browse/MC-4520) - Aggressive neutral mobs become neutral when the world is reloaded
+- [MC-4641](https://bugs.mojang.com/browse/MC-4641) - Third level of flowing lava will not create cobblestone when coming into contact with water
+- [MC-5410](https://bugs.mojang.com/browse/MC-5410) - In creative mode, flying down is stopped when brushing up against ladders or vines.
+- [MC-7424](https://bugs.mojang.com/browse/MC-7424) - Fall damage death messages don't show block player fall from correctly (ladders, vines, water)
+- [MC-8645](https://bugs.mojang.com/browse/MC-8645) - Redstone wire receiving level 1 power from a block, pointing at another block with wire on it will not power that block
+- [MC-9405](https://bugs.mojang.com/browse/MC-9405) - Top piece of staircase redstone dust doesn't power blocks on the same height in the direction it is powered from unless only connected to something on the other side
+- [MC-9856](https://bugs.mojang.com/browse/MC-9856) - you cannot pick up buckets of water/lava in creative mode
+- [MC-10727](https://bugs.mojang.com/browse/MC-10727) - Player and entity shadows experience z-fighting with redstone
+- [MC-11211](https://bugs.mojang.com/browse/MC-11211) - Unable to perform many right click actions when targeting the top face of blocks placed at y=255
+- [MC-13727](https://bugs.mojang.com/browse/MC-13727) - Arrows shot from bow bounce on horse when moving or not and damage if fire arrows
+- [MC-13823](https://bugs.mojang.com/browse/MC-13823) - Leads are incorrectly positioned on certain entities
+- [MC-14680](https://bugs.mojang.com/browse/MC-14680) - Lead is shifted upwards or downwards based on leashed entity height
+- [MC-17431](https://bugs.mojang.com/browse/MC-17431) - Shift-clicking stacked items with a data tag into the enchanting table GUI removes data tags from the moved item
+- [MC-27535](https://bugs.mojang.com/browse/MC-27535) - Mobs can sometimes still despawn, even if named with a name tag
+- [MC-30814](https://bugs.mojang.com/browse/MC-30814) - Chat text is too close to each other
+- [MC-30939](https://bugs.mojang.com/browse/MC-30939) - Nether portal continues emitting light, even if portal is broken
+- [MC-31032](https://bugs.mojang.com/browse/MC-31032) - Using only one empty map doesn't increase minecraft.used:minecraft.map
+- [MC-36322](https://bugs.mojang.com/browse/MC-36322) - Unable to milk cows in creative
+- [MC-37557](https://bugs.mojang.com/browse/MC-37557) - Sometimes a minecart sound plays/subtitle shown when loading a world
+- [MC-44192](https://bugs.mojang.com/browse/MC-44192) - generic.knockbackResistance is percentage chance to ignore knockback, rather than being scaled
+- [MC-44936](https://bugs.mojang.com/browse/MC-44936) - Extending a potion effect that you already have can cause the timer to display wrongly
+- [MC-45619](https://bugs.mojang.com/browse/MC-45619) - Water, Signs, Vines, Torches etc. in the same block as item frame break item frame's redstone signal
+- [MC-45749](https://bugs.mojang.com/browse/MC-45749) - Potion particles spread always from the north-west corner of a block, regardless of impact
+- [MC-46257](https://bugs.mojang.com/browse/MC-46257) - Items don't bounce off slime blocks
+- [MC-46417](https://bugs.mojang.com/browse/MC-46417) - Sprint particles are generated in spectator mode
+- [MC-51126](https://bugs.mojang.com/browse/MC-51126) - Arrows disappear until you relog when you shoot them at low angles from a boat
+- [MC-52178](https://bugs.mojang.com/browse/MC-52178) - Cape doesn't move down while sneaking / Cape detaches from body while sneaking
+- [MC-55493](https://bugs.mojang.com/browse/MC-55493) - JSON text selectors have always predefined clickEvent and hoverEvent
+- [MC-56373](https://bugs.mojang.com/browse/MC-56373) - Selector and score text components don't work on hoverEvents
+- [MC-56653](https://bugs.mojang.com/browse/MC-56653) - Zombified Piglins drop XP and rare drops if killed by anything while in angered state
+- [MC-56970](https://bugs.mojang.com/browse/MC-56970) - Leaves show x-ray effect on fast graphics
+- [MC-59363](https://bugs.mojang.com/browse/MC-59363) - Items in item frames are deleted if both mouse buttons are used simultaneously
+- [MC-59540](https://bugs.mojang.com/browse/MC-59540) - Creating superflat world without layers causes to get "Classic Flat"
+- [MC-60933](https://bugs.mojang.com/browse/MC-60933) - Creative: Player is "sporadically and momentarily" lit on fire
+- [MC-63020](https://bugs.mojang.com/browse/MC-63020) - Some chunks are not rendered in first person from some angles in certain situations (incorrect frustum culling)
+- [MC-63714](https://bugs.mojang.com/browse/MC-63714) - Zombified piglins get angry when hit in creative mode
+- [MC-64242](https://bugs.mojang.com/browse/MC-64242) - Silent tag is not working for some entities
+- [MC-64334](https://bugs.mojang.com/browse/MC-64334) - Fire can be destroyed if given an item with CanDestroy tag for unbreakable block below (notably bedrock)
+- [MC-64623](https://bugs.mojang.com/browse/MC-64623) - Lightning bolts cannot be targeted by selectors
+- [MC-64871](https://bugs.mojang.com/browse/MC-64871) - Can't sleep while on fire, even with Fire Resistance
+- [MC-65951](https://bugs.mojang.com/browse/MC-65951) - Armor stands fall through fences
+- [MC-69032](https://bugs.mojang.com/browse/MC-69032) - When a mob hits a zombified piglin, and that mob dies, the zombified piglins attack you
+- [MC-75328](https://bugs.mojang.com/browse/MC-75328) - /clear doesn't clear items in the inventory crafting grid
+- [MC-76810](https://bugs.mojang.com/browse/MC-76810) - Casting issue: Bone meal particles break at high coordinates (floating point precision)
+- [MC-77176](https://bugs.mojang.com/browse/MC-77176) - When retracted by sticky piston, activated detector rails do not update their orientation
+- [MC-77820](https://bugs.mojang.com/browse/MC-77820) - Ender dragon deathlight glitch/bug
+- [MC-79944](https://bugs.mojang.com/browse/MC-79944) - Various statistics overflow at 32-bit integer limit
+- [MC-80546](https://bugs.mojang.com/browse/MC-80546) - Mounting and quickly dismounting vehicle does not move player to vehicle but only teleports them relatively to their position
+- [MC-81659](https://bugs.mojang.com/browse/MC-81659) - Fireball and witherskull hitboxes are frequently invisible for some seconds
+- [MC-82235](https://bugs.mojang.com/browse/MC-82235) - Baby pigs turn into adult zombie pigmen when struck by lightning
+- [MC-82995](https://bugs.mojang.com/browse/MC-82995) - Blocking with two shields in 3rd person mode
+- [MC-83039](https://bugs.mojang.com/browse/MC-83039) - End City chests generate destroyed, items on the ground
+- [MC-84610](https://bugs.mojang.com/browse/MC-84610) - Off-hand hotkey doesn't work in inventories
+- [MC-85527](https://bugs.mojang.com/browse/MC-85527) - Shulkers opening into blocks
+- [MC-86197](https://bugs.mojang.com/browse/MC-86197) - Shield blocking happens even while eating
+- [MC-87949](https://bugs.mojang.com/browse/MC-87949) - The shield use statistic is not working
+- [MC-88491](https://bugs.mojang.com/browse/MC-88491) - Projectiles hit the player, snowman and witch who threw them at certain angles or close to the entities
+- [MC-88901](https://bugs.mojang.com/browse/MC-88901) - Blocking with Shield, and getting hit causes visual bug.
+- [MC-89043](https://bugs.mojang.com/browse/MC-89043) - Slime blocks moved by pistons often fail to bounce up the player
+- [MC-89361](https://bugs.mojang.com/browse/MC-89361) - Player selectors fail finding player/Player is not correctly moved from the End to the Nether
+- [MC-89956](https://bugs.mojang.com/browse/MC-89956) - Levitation has no effect if gliding with elytra
+- [MC-90969](https://bugs.mojang.com/browse/MC-90969) - Cannot get mushroom stew from mooshrooms / milk from cows in creative mode
+- [MC-91163](https://bugs.mojang.com/browse/MC-91163) - Certain subtitles show up when the player is too far away to hear the sound
+- [MC-91368](https://bugs.mojang.com/browse/MC-91368) - Ender dragon taking damage from thorns in creative mode
+- [MC-91522](https://bugs.mojang.com/browse/MC-91522) - Shulker rendering position desync and generates ghost shulker when destroying shulker-ridden boat or minecart
+- [MC-91893](https://bugs.mojang.com/browse/MC-91893) - Missing subtitles for various sounds
+- [MC-92889](https://bugs.mojang.com/browse/MC-92889) - Mending doesn't always consume experience if the player wears items with mending that are already fully repaired
+- [MC-93198](https://bugs.mojang.com/browse/MC-93198) - Throwing potions / throwable projectiles causes both hands to bob up and down
+- [MC-93311](https://bugs.mojang.com/browse/MC-93311) - The water texture overlay is not fully covered when the window is resized
+- [MC-93477](https://bugs.mojang.com/browse/MC-93477) - Shulkers opening into shulker
+- [MC-93631](https://bugs.mojang.com/browse/MC-93631) - Pistons pop off blocks attached to their back when retracting
+- [MC-93813](https://bugs.mojang.com/browse/MC-93813) - Snow golems throwing snowballs play arrow shooting sound
+- [MC-94094](https://bugs.mojang.com/browse/MC-94094) - Snow golems don't drop their pumpkin when sheared
+- [MC-94535](https://bugs.mojang.com/browse/MC-94535) - Flying and holding CTRL really close to the ground, emits walking particles
+- [MC-94730](https://bugs.mojang.com/browse/MC-94730) - Endermen become passive when teleporting randomly during day while being aggressive
+- [MC-96319](https://bugs.mojang.com/browse/MC-96319) - Mob pathfinding AI does not regard some blocks as obstructions and is unable to pathfind on top of them
+- [MC-96436](https://bugs.mojang.com/browse/MC-96436) - Eggs/snowballs/xp-bottles break instantly when thrown while riding a horse
+- [MC-97247](https://bugs.mojang.com/browse/MC-97247) - Map making sound uses equipment sound subtitle
+- [MC-97507](https://bugs.mojang.com/browse/MC-97507) - Using item which modifies the held item shows "Gear equips" subtitle
+- [MC-97958](https://bugs.mojang.com/browse/MC-97958) - Small slime has no jump or squish sound
+- [MC-99727](https://bugs.mojang.com/browse/MC-99727) - Ghasts can be located using subtitles
+- [MC-100258](https://bugs.mojang.com/browse/MC-100258) - Holding Right-Click on an untamed horse causes an obnoxiously loud sound
+- [MC-100342](https://bugs.mojang.com/browse/MC-100342) - Several Non-Ticking blocks are marked as ticking forcing the growth-algorithm to check chunks needlessly
+- [MC-101084](https://bugs.mojang.com/browse/MC-101084) - Held items/blocks appears to bob down and up while opening horse's inventory
+- [MC-101364](https://bugs.mojang.com/browse/MC-101364) - Mobs and players sometimes dismount vehicles in a dangerous place
+- [MC-102319](https://bugs.mojang.com/browse/MC-102319) - Nether portal trigger and travel sounds are not assigned to any sound category
+- [MC-102439](https://bugs.mojang.com/browse/MC-102439) - Shield Desynchronises
+- [MC-103462](https://bugs.mojang.com/browse/MC-103462) - Some translucent parts of entities are rendered behind translucent blocks, block entities and some entities (depending on loading order)
+- [MC-103655](https://bugs.mojang.com/browse/MC-103655) - Cats don't stand up when using right click on them while they're sitting on chests or beds
+- [MC-104900](https://bugs.mojang.com/browse/MC-104900) - Skeletons, illusioners and piglins with crossbows have broken agility reaction when hit or walking on certain blocks when provoked
+- [MC-104949](https://bugs.mojang.com/browse/MC-104949) - Mobs can't jump shorter than half of the blocks
+- [MC-105132](https://bugs.mojang.com/browse/MC-105132) - Horse, spider and llama spin around when walking next to the fence or wall
+- [MC-105292](https://bugs.mojang.com/browse/MC-105292) - falling_block Lighting Inconsistency with Smooth Lighting on
+- [MC-106968](https://bugs.mojang.com/browse/MC-106968) - Snow golems aren't damaged by splash or lingering water bottles
+- [MC-107103](https://bugs.mojang.com/browse/MC-107103) - Trying to interact with entity 3 or more blocks away without seeing its eyes only interacts client-side
+- [MC-108598](https://bugs.mojang.com/browse/MC-108598) - Client rendering other player or mob holding compass influences compass of user
+- [MC-109121](https://bugs.mojang.com/browse/MC-109121) - 2 × 2 jungle and spruce trees don't grow from the lowest layer
+- [MC-109248](https://bugs.mojang.com/browse/MC-109248) - Extended piston head not removed when /setblock is used to place a different piston base.
+- [MC-109370](https://bugs.mojang.com/browse/MC-109370) - Bottom face of column blocks are rotated 180 degrees
+- [MC-109844](https://bugs.mojang.com/browse/MC-109844) - en_us.json contains unused strings
+- [MC-109850](https://bugs.mojang.com/browse/MC-109850) - Redstone wire doesn't have a bottom texture
+- [MC-111133](https://bugs.mojang.com/browse/MC-111133) - Piston pushing opened shulker makes said shulker glitch
+- [MC-111381](https://bugs.mojang.com/browse/MC-111381) - Rendering rotations for shulkers are set in onInitialSpawn method
+- [MC-111473](https://bugs.mojang.com/browse/MC-111473) - Player activated fireworks do not count as a player kill
+- [MC-111475](https://bugs.mojang.com/browse/MC-111475) - Fireworks cannot hurt invulnerable mobs when player in creative mode
+- [MC-111493](https://bugs.mojang.com/browse/MC-111493) - Fireworks do not cause knockback to either the player or mobs.
+- [MC-111498](https://bugs.mojang.com/browse/MC-111498) - Fireworks and water bottles damage don't make neutral mobs angry or hostile
+- [MC-111502](https://bugs.mojang.com/browse/MC-111502) - Fireworks damage don't make passive mobs flee in panic
+- [MC-111726](https://bugs.mojang.com/browse/MC-111726) - Minecart dismount position always above the minecart, even if there's space next to it
+- [MC-112131](https://bugs.mojang.com/browse/MC-112131) - Intersecting dungeons: spawner replaced by cobblestone
+- [MC-112630](https://bugs.mojang.com/browse/MC-112630) - Carrot on a stick cannot be broken
+- [MC-113068](https://bugs.mojang.com/browse/MC-113068) - Zombie banging on door subtitle is called "Block broken"
+- [MC-113381](https://bugs.mojang.com/browse/MC-113381) - Falling dust particles of anvil and concrete powder blocks are black
+- [MC-113809](https://bugs.mojang.com/browse/MC-113809) - Chorus Flower plant, Bamboo, Sugarcane, Cactus and other plants grow instantly when supporting block is replaced with same block type
+- [MC-114000](https://bugs.mojang.com/browse/MC-114000) - Mouse click in cat hissing sounds
+- [MC-114030](https://bugs.mojang.com/browse/MC-114030) - Structure blocks take and apply NBT data of entities and tile entities directly instead of a copy when loading and saving structures
+- [MC-114304](https://bugs.mojang.com/browse/MC-114304) - Retracting piston pushes entities standing behind the back of it
+- [MC-114544](https://bugs.mojang.com/browse/MC-114544) - Kicked by "Flying is not enabled on this server" while sleeping
+- [MC-115750](https://bugs.mojang.com/browse/MC-115750) - Advancement "Monster Hunter" (kill_a_mob) is not granted for killing certain hostile mobs
+- [MC-116293](https://bugs.mojang.com/browse/MC-116293) - Functioning clock and compass in recipe book
+- [MC-116756](https://bugs.mojang.com/browse/MC-116756) - Reversed and inconsistent subtitles for iron trapdoor
+- [MC-117312](https://bugs.mojang.com/browse/MC-117312) - Hover and click events are at wrong position for right-to-left languages
+- [MC-117710](https://bugs.mojang.com/browse/MC-117710) - Bonus Chest setting is not copied when re-creating world
+- [MC-117805](https://bugs.mojang.com/browse/MC-117805) - Oak trees can generate right below height limit (y = 256) resulting in incomplete tree
+- [MC-117806](https://bugs.mojang.com/browse/MC-117806) - Dispenser with filled bucket at y = 255 facing upwards replaces filled with empty bucket despite no fluid being placed
+- [MC-118080](https://bugs.mojang.com/browse/MC-118080) - Bows without pulling predicate animate when other bows are pulled back
+- [MC-118096](https://bugs.mojang.com/browse/MC-118096) - Incorrect position of particles when using bone meal on grass block
+- [MC-118217](https://bugs.mojang.com/browse/MC-118217) - Custom text color for advancement title in hover text is overwritten by advancement type default one
+- [MC-118234](https://bugs.mojang.com/browse/MC-118234) - Advancement 'Not Today, Thank You' can be triggered by non-arrow projectiles
+- [MC-118327](https://bugs.mojang.com/browse/MC-118327) - Parrots cannot teleport onto non-full cube / transparent blocks
+- [MC-118594](https://bugs.mojang.com/browse/MC-118594) - Removal of Log4J2Plugins.dat causing a slowdown of 3 secs on startup while it has to rescan all classes
+- [MC-120335](https://bugs.mojang.com/browse/MC-120335) - Flower pot bottom texture is not rendered because of incorrect "uv" values in the model file
+- [MC-120572](https://bugs.mojang.com/browse/MC-120572) - /recipe crashes the game
+- [MC-120805](https://bugs.mojang.com/browse/MC-120805) - Pig rotation is wrong when you see a player riding them with carrot on a stick
+- [MC-121932](https://bugs.mojang.com/browse/MC-121932) - Villager trade with same items but different NBT data
+- [MC-122128](https://bugs.mojang.com/browse/MC-122128) - Recipe book resets itself to closed state after death
+- [MC-122187](https://bugs.mojang.com/browse/MC-122187) - Teleported to coordinates wrong when teleporting entities relatively
+- [MC-122335](https://bugs.mojang.com/browse/MC-122335) - Projectiles go through an entity if it is close to a player or a snow golem
+- [MC-122715](https://bugs.mojang.com/browse/MC-122715) - /teleport command no longer prevents teleporting to invalid coordinates
+- [MC-123155](https://bugs.mojang.com/browse/MC-123155) - When any non-player entity enters an End portal the obsidian platform is not regenerated and the entity can fall into the void
+- [MC-123453](https://bugs.mojang.com/browse/MC-123453) - Armor stands can't be placed in a 1 block high space if the EntityTag "Small:1b" is set
+- [MC-124428](https://bugs.mojang.com/browse/MC-124428) - Firework star crashes game if there's an int array but no colors
+- [MC-124596](https://bugs.mojang.com/browse/MC-124596) - name selector parameter does not work for children of text components
+- [MC-124812](https://bugs.mojang.com/browse/MC-124812) - Endermen holding a block can despawn
+- [MC-125055](https://bugs.mojang.com/browse/MC-125055) - Igloo generates with brewing stand and flower pot contents dropped (and placed)
+- [MC-125613](https://bugs.mojang.com/browse/MC-125613) - Datapack tag "stairs" does not use \#wooden_stairs
+- [MC-126244](https://bugs.mojang.com/browse/MC-126244) - '/locate', explorer maps, and treasure maps can cause extreme TPS lag, even leading to a complete server freeze if structure generation is turned off
+- [MC-127004](https://bugs.mojang.com/browse/MC-127004) - Waterlogged blocks cause z-fighting when looking at them from a distance
+- [MC-127149](https://bugs.mojang.com/browse/MC-127149) - Land mobs cannot properly walk on the waterlogged blocks
+- [MC-127316](https://bugs.mojang.com/browse/MC-127316) - General statistics out of order
+- [MC-127971](https://bugs.mojang.com/browse/MC-127971) - Trying to throw a trident while having a shield or bow equipped will make the trident appear backwards in your hand
+- [MC-128066](https://bugs.mojang.com/browse/MC-128066) - Highly transparent block edges on ice, slime block and honey block
+- [MC-128247](https://bugs.mojang.com/browse/MC-128247) - Dolphins can jump way too far causing them to hit on land
+- [MC-128658](https://bugs.mojang.com/browse/MC-128658) - Nether and end biomes don't use correct blocks in buffet world type
+- [MC-129137](https://bugs.mojang.com/browse/MC-129137) - Parrots imitating hostile mobs in peaceful is not that peaceful
+- [MC-130137](https://bugs.mojang.com/browse/MC-130137) - Grass and mycelium don't decay underwater
+- [MC-130764](https://bugs.mojang.com/browse/MC-130764) - Cave generator doesn't cut through gravel in the Nether
+- [MC-130906](https://bugs.mojang.com/browse/MC-130906) - Dolphins are moving very fast when near a boat
+- [MC-131046](https://bugs.mojang.com/browse/MC-131046) - Angry dolphins give players dolphin's grace
+- [MC-131286](https://bugs.mojang.com/browse/MC-131286) - Attack will use right hand instead of left hand when swimming (main hand: left)
+- [MC-131360](https://bugs.mojang.com/browse/MC-131360) - Music sometimes stops abruptly when you go underwater
+- [MC-131440](https://bugs.mojang.com/browse/MC-131440) - The message for trying to sleep at the wrong time implies that you can only sleep at night during a thunderstorm
+- [MC-131738](https://bugs.mojang.com/browse/MC-131738) - Commands data report creates a server instance for no reason
+- [MC-131770](https://bugs.mojang.com/browse/MC-131770) - Rain particles appear one block below the water or lava surface
+- [MC-132236](https://bugs.mojang.com/browse/MC-132236) - When executing /reload and then pressing L to open advancements, it instead tells me that there are no advancements unless I click
+- [MC-132607](https://bugs.mojang.com/browse/MC-132607) - Splitting slimes and magma cubes do not copy NoAI value
+- [MC-132926](https://bugs.mojang.com/browse/MC-132926) - The width of an advancement's description depends on the first line
+- [MC-132967](https://bugs.mojang.com/browse/MC-132967) - Mushrooms show as green dots on map
+- [MC-133049](https://bugs.mojang.com/browse/MC-133049) - Compasses don't point to the correct location when in an item frame on the ground or on the ceiling
+- [MC-133088](https://bugs.mojang.com/browse/MC-133088) - Missing translation string death.attack.magic.player
+- [MC-133692](https://bugs.mojang.com/browse/MC-133692) - When you're in lava, the orange appears darker/completely black at y=30 and below
+- [MC-134057](https://bugs.mojang.com/browse/MC-134057) - Recipe book preferences don't save
+- [MC-134162](https://bugs.mojang.com/browse/MC-134162) - Item entities can break turtle eggs
+- [MC-134481](https://bugs.mojang.com/browse/MC-134481) - Typo in en_us.json: "Status requst has been handled"
+- [MC-134608](https://bugs.mojang.com/browse/MC-134608) - Certain Spawner Tag Conditions Induce Game Crash
+- [MC-134637](https://bugs.mojang.com/browse/MC-134637) - Comparators on slabs drop when loading them with structure blocks
+- [MC-134755](https://bugs.mojang.com/browse/MC-134755) - All short mobs drown just below the surface of water
+- [MC-134900](https://bugs.mojang.com/browse/MC-134900) - server.properties generator-settings for level-type FLAT not implemented; property is stored in ignored flat_world_options NBT
+- [MC-135034](https://bugs.mojang.com/browse/MC-135034) - Burning mobs are extinguished by snow in cold biomes, but not in snowy biomes
+- [MC-135106](https://bugs.mojang.com/browse/MC-135106) - Upwards bubble columns allow for infinite flight in survival at y≥256
+- [MC-135151](https://bugs.mojang.com/browse/MC-135151) - Typo in en_us.json: "An error occured!"
+- [MC-135333](https://bugs.mojang.com/browse/MC-135333) - Open fence gates still block players in water
+- [MC-135501](https://bugs.mojang.com/browse/MC-135501) - Invalid tag inside another tag silently fails to reload data packs
+- [MC-135738](https://bugs.mojang.com/browse/MC-135738) - Bossbar names that have scores don't update as intended after exiting and re-entering the world
+- [MC-135849](https://bugs.mojang.com/browse/MC-135849) - Grass and mycelium don't decay under waterlogged blocks
+- [MC-136063](https://bugs.mojang.com/browse/MC-136063) - Incorrect spacing for "entity.minecraft.tropical_fish.type.sunstreak"s value
+- [MC-136085](https://bugs.mojang.com/browse/MC-136085) - Blocks attached to multi-block blocks are deleted when breaking the other half of the block
+- [MC-136760](https://bugs.mojang.com/browse/MC-136760) - A passenger of a boat is not saved if the passenger is in a different chunk than the boat
+- [MC-136868](https://bugs.mojang.com/browse/MC-136868) - Ignited TNT, arrow or trident turns black when it falls on soul sand or snow layers
+- [MC-137102](https://bugs.mojang.com/browse/MC-137102) - Hoe doesn't lose durability if used to mine blocks
+- [MC-137336](https://bugs.mojang.com/browse/MC-137336) - Redstone dust's hitbox is inconsistent with other blocks when branching
+- [MC-137554](https://bugs.mojang.com/browse/MC-137554) - Shearing sound is in "friendly creatures" sound category
+- [MC-138402](https://bugs.mojang.com/browse/MC-138402) - Waterlogged walls "connect" to water source blocks above
+- [MC-138600](https://bugs.mojang.com/browse/MC-138600) - Cats don't bring gifts if they have already decided to sit on your bed
+- [MC-138675](https://bugs.mojang.com/browse/MC-138675) - Wither skulls inflict the Wither effect on players in Creative mode
+- [MC-138713](https://bugs.mojang.com/browse/MC-138713) - "Two by Two" advancement does not require donkeys or mules
+- [MC-139313](https://bugs.mojang.com/browse/MC-139313) - Ascending and descending simultaneously in lava while flying in creative mode causes the player to float upwards
+- [MC-139361](https://bugs.mojang.com/browse/MC-139361) - Skull model positioned out of bouding
+- [MC-140544](https://bugs.mojang.com/browse/MC-140544) - Pickaxes don't speed up piston breaking
+- [MC-140545](https://bugs.mojang.com/browse/MC-140545) - Pathfinding prefers North (negative Z) direction
+- [MC-141494](https://bugs.mojang.com/browse/MC-141494) - Opening the trading GUI while holding items causes one to consume, charge or use it
+- [MC-141934](https://bugs.mojang.com/browse/MC-141934) - Ctrl + Pick block on a lectern does not display its book despite being saved to NBT
+- [MC-143443](https://bugs.mojang.com/browse/MC-143443) - Redstone dust block states don't update properly if the wire is broken by a piston
+- [MC-143473](https://bugs.mojang.com/browse/MC-143473) - Teleporting a mob while it is pathfinding will make it navigate back to where it was originally going
+- [MC-143904](https://bugs.mojang.com/browse/MC-143904) - Adding a non-rail block to the "rails" block tag will crash the game when placing a minecart on it
+- [MC-144107](https://bugs.mojang.com/browse/MC-144107) - Miscalculation of camera position in windowed mode on Linux
+- [MC-144622](https://bugs.mojang.com/browse/MC-144622) - Using data modify to set the name from a block only works once
+- [MC-145102](https://bugs.mojang.com/browse/MC-145102) - "--server" client launch argument may crash the client on the loading screen
+- [MC-145140](https://bugs.mojang.com/browse/MC-145140) - Fireballs cannot be interacted with when summoned
+- [MC-145862](https://bugs.mojang.com/browse/MC-145862) - Villagers try to sleep in occupied beds
+- [MC-146824](https://bugs.mojang.com/browse/MC-146824) - Inconsistency: Ladders and tripwire hooks cannot be placed on the sides of redstone blocks, observers and target blocks
+- [MC-146834](https://bugs.mojang.com/browse/MC-146834) - Zombie pigman's head bottom texture is flipped
+- [MC-146928](https://bugs.mojang.com/browse/MC-146928) - Can't place doors, rails, buttons, pressure plate, redstone, etc. on soul sand
+- [MC-147255](https://bugs.mojang.com/browse/MC-147255) - Beds in the overworld will explode if in a nether wastes biome
+- [MC-147368](https://bugs.mojang.com/browse/MC-147368) - Pillager outpost can generate in water
+- [MC-147496](https://bugs.mojang.com/browse/MC-147496) - Dolphin tries to catch the boat of the non-player ride
+- [MC-147516](https://bugs.mojang.com/browse/MC-147516) - Hostile mobs will sometimes stop attacking/following their target when directly next to it
+- [MC-147591](https://bugs.mojang.com/browse/MC-147591) - Cat type "Jellie" doesn't spawn in villages upon world generation
+- [MC-147601](https://bugs.mojang.com/browse/MC-147601) - Purpur pillar block top texture hasn't changed to a new texture
+- [MC-147625](https://bugs.mojang.com/browse/MC-147625) - Ender Dragon tries to regenerate from destroyed ender crystals
+- [MC-147691](https://bugs.mojang.com/browse/MC-147691) - Enderman doesn't hit / damage you, if you keep standing still
+- [MC-147708](https://bugs.mojang.com/browse/MC-147708) - Putting out fires is not considered mining a block, leading to strange effects
+- [MC-148067](https://bugs.mojang.com/browse/MC-148067) - Snow Golems Damaged by Snowfall in Mountain/Cold Biomes
+- [MC-148360](https://bugs.mojang.com/browse/MC-148360) - Cave ambience sounds play no matter where you are
+- [MC-148474](https://bugs.mojang.com/browse/MC-148474) - Sloped powered detector rails break when pushed or pulled by a piston
+- [MC-148794](https://bugs.mojang.com/browse/MC-148794) - Guardians are not spawning in preset "Floating Island"
+- [MC-148802](https://bugs.mojang.com/browse/MC-148802) - Pillager don't spawn around outpost with the floating island generation
+- [MC-148836](https://bugs.mojang.com/browse/MC-148836) - World search and world name text boxes aren't focused when entering menu anymore
+- [MC-148869](https://bugs.mojang.com/browse/MC-148869) - Player can clip through the ground when exiting a minecart or a boat
+- [MC-148893](https://bugs.mojang.com/browse/MC-148893) - Fox spawners do not render the fox inside of the block
+- [MC-148935](https://bugs.mojang.com/browse/MC-148935) - Zombies with no AI still convert into drowned
+- [MC-148936](https://bugs.mojang.com/browse/MC-148936) - Parrot summoned with negative Age has smaller hitbox
+- [MC-148955](https://bugs.mojang.com/browse/MC-148955) - Iron golems can spawn inside of non-full blocks
+- [MC-149042](https://bugs.mojang.com/browse/MC-149042) - Minecart dismount position is not consistent.
+- [MC-149052](https://bugs.mojang.com/browse/MC-149052) - Stonecutter recipe list doesn't show item tooltips
+- [MC-149081](https://bugs.mojang.com/browse/MC-149081) - Entering a bed from a mount causes the player to bounce up and down
+- [MC-149308](https://bugs.mojang.com/browse/MC-149308) - Thrown items appear right in front of head for a frame
+- [MC-149375](https://bugs.mojang.com/browse/MC-149375) - Camera can be positioned inside of snow layers
+- [MC-149704](https://bugs.mojang.com/browse/MC-149704) - Sneaking / crouching twice makes player sprint
+- [MC-149776](https://bugs.mojang.com/browse/MC-149776) - Cartography Table requires string for the recipe to show up in the recipe book
+- [MC-149792](https://bugs.mojang.com/browse/MC-149792) - Client book length mismatch resulting in crash
+- [MC-149799](https://bugs.mojang.com/browse/MC-149799) - When a crossbow is loaded and in the offhand, you do not see it anymore if you carry an item in the main hand
+- [MC-150020](https://bugs.mojang.com/browse/MC-150020) - Composter is in the "Miscellaneous" category instead of "Decoration" like the other workstation blocks
+- [MC-150405](https://bugs.mojang.com/browse/MC-150405) - Client handling of unknown entity attributes is bugged
+- [MC-150455](https://bugs.mojang.com/browse/MC-150455) - Ignored lava hitbox level
+- [MC-150543](https://bugs.mojang.com/browse/MC-150543) - Using a stonecutter can sometimes crash the game in certain circumstances
+- [MC-150806](https://bugs.mojang.com/browse/MC-150806) - Multiple villagers are attached to the same profession block
+- [MC-151364](https://bugs.mojang.com/browse/MC-151364) - Feeding a dolphin causes a crash when structure generation is turned off
+- [MC-152001](https://bugs.mojang.com/browse/MC-152001) - Zombie villages never spawn with baby zombie villagers
+- [MC-152084](https://bugs.mojang.com/browse/MC-152084) - Villagers occasionally stand up out of beds at night, then can never sleep in that bed again
+- [MC-152157](https://bugs.mojang.com/browse/MC-152157) - "Marie Stålkrantz" is not the right color in game credits
+- [MC-152170](https://bugs.mojang.com/browse/MC-152170) - When a villager takes the bed of another villager then the bed's previous owner will not look for a new bed
+- [MC-152441](https://bugs.mojang.com/browse/MC-152441) - Corner quartz stairs (not corner smooth quartz stairs) do not have the border on the back/bottom that a normal quartz stair would have
+- [MC-152934](https://bugs.mojang.com/browse/MC-152934) - Water and lava disappear when dispensed through a dispenser at build limit
+- [MC-153319](https://bugs.mojang.com/browse/MC-153319) - Result of UUID selector is nondeterministic
+- [MC-153483](https://bugs.mojang.com/browse/MC-153483) - When swapping tridents between hands, the trident being held doesn't swap visually, it just flips backwards
+- [MC-153508](https://bugs.mojang.com/browse/MC-153508) - Redstone dust travelling up the side of a block cannot be targeted
+- [MC-153787](https://bugs.mojang.com/browse/MC-153787) - Zombie Reinforcements can spawn on glass
+- [MC-154427](https://bugs.mojang.com/browse/MC-154427) - Villagers only pick up four stacks of items
+- [MC-154617](https://bugs.mojang.com/browse/MC-154617) - Server hangs on stop due to rcon
+- [MC-154867](https://bugs.mojang.com/browse/MC-154867) - Tamed cats remain sitting if the world is reloaded while the cat is sitting on a chest
+- [MC-155742](https://bugs.mojang.com/browse/MC-155742) - Iron golems tend to congregate on the north side of villages
+- [MC-155977](https://bugs.mojang.com/browse/MC-155977) - Enchanting a book makes the book lose its name
+- [MC-156161](https://bugs.mojang.com/browse/MC-156161) - Some chest loot is randomized across the same seed, unlike before 1.14
+- [MC-156306](https://bugs.mojang.com/browse/MC-156306) - Villager not throwing bread during idle/meet up times
+- [MC-156442](https://bugs.mojang.com/browse/MC-156442) - Some Latin and Armenian ligatures are not included in the Minecraft font
+- [MC-156600](https://bugs.mojang.com/browse/MC-156600) - Shields appear to stop blocking when they have taken damage and are still in use
+- [MC-156866](https://bugs.mojang.com/browse/MC-156866) - Villagers level from Apprentice to Journeyman with less experience than shown by XP bar
+- [MC-157077](https://bugs.mojang.com/browse/MC-157077) - Villagers will not sleep in beds at night
+- [MC-157208](https://bugs.mojang.com/browse/MC-157208) - Enchanting tables can display a blank enchantment option for hoes
+- [MC-157303](https://bugs.mojang.com/browse/MC-157303) - Villagers wake up and seek a new "home" (bed) while living in a 2 high house
+- [MC-157436](https://bugs.mojang.com/browse/MC-157436) - Player position is constantly reset when clicking with a sword or a trident onto the ground in creative mode
+- [MC-158542](https://bugs.mojang.com/browse/MC-158542) - Iron Golems don't stop spawning
+- [MC-158807](https://bugs.mojang.com/browse/MC-158807) - You can remove cursed enchantments on items by repairing them in inventory
+- [MC-158906](https://bugs.mojang.com/browse/MC-158906) - After sleeping in a bed, players aren't positioned in the center of a block
+- [MC-159299](https://bugs.mojang.com/browse/MC-159299) - Baby Zombies stop attacking once in a while, and when the player is still
+- [MC-159300](https://bugs.mojang.com/browse/MC-159300) - Villagers that have been infected by a zombie can despawn, even if they have been traded with
+- [MC-159371](https://bugs.mojang.com/browse/MC-159371) - Leads are incorrectly positioned on bees
+- [MC-159500](https://bugs.mojang.com/browse/MC-159500) - Hostile mobs attacking bees also cause the bees to attack players
+- [MC-159502](https://bugs.mojang.com/browse/MC-159502) - Bees don't avoid water; killing themselves
+- [MC-159672](https://bugs.mojang.com/browse/MC-159672) - Vex will occasionally try to attack the player in creative/spectator
+- [MC-159773](https://bugs.mojang.com/browse/MC-159773) - Shulkers can teleport to non-solid faces, and don't teleport to some solid faces
+- [MC-159820](https://bugs.mojang.com/browse/MC-159820) - 3rd person reverse trident bug
+- [MC-159918](https://bugs.mojang.com/browse/MC-159918) - Foxes don't run from polar bears
+- [MC-159963](https://bugs.mojang.com/browse/MC-159963) - Minecarts can break turtle eggs
+- [MC-160020](https://bugs.mojang.com/browse/MC-160020) - Pulled bow changes its texture to the unpulled one when the durability changes
+- [MC-160053](https://bugs.mojang.com/browse/MC-160053) - Enderman keeps following the player after becoming neutral/passive
+- [MC-160250](https://bugs.mojang.com/browse/MC-160250) - Naturally generated villagers are not pathfinding towards their POI; POI detection range is too small
+- [MC-160520](https://bugs.mojang.com/browse/MC-160520) - Bee's wandering AI tries to go through three-way corners
+- [MC-160704](https://bugs.mojang.com/browse/MC-160704) - Acute accent is rendered too small
+- [MC-160897](https://bugs.mojang.com/browse/MC-160897) - Dropping an item using the drop key displays the hand animation but dropping items from within the inventory does not
+- [MC-160902](https://bugs.mojang.com/browse/MC-160902) - Arm swings when right-clicking on full minecart
+- [MC-160959](https://bugs.mojang.com/browse/MC-160959) - Clicking onto a bed in daytime doesn't grant the advancement "Sweet Dreams"
+- [MC-161128](https://bugs.mojang.com/browse/MC-161128) - Piston head left behind when base is quickly broken and replaced
+- [MC-161156](https://bugs.mojang.com/browse/MC-161156) - Silverfish and endermites appear black on soul sand
+- [MC-161259](https://bugs.mojang.com/browse/MC-161259) - Using the carrot on a stick while riding a pig plays no hand animation
+- [MC-161899](https://bugs.mojang.com/browse/MC-161899) - Clouds do not render behind transparent blocks
+- [MC-161917](https://bugs.mojang.com/browse/MC-161917) - Particles do not render underwater, behind water or behind other transparent blocks
+- [MC-161969](https://bugs.mojang.com/browse/MC-161969) - Casting issue: Adding ender eyes to end portal frames at high distances causes particles to lose precision
+- [MC-162340](https://bugs.mojang.com/browse/MC-162340) - World border is rendered behind transparent blocks
+- [MC-162341](https://bugs.mojang.com/browse/MC-162341) - World border is rendered behind clouds
+- [MC-162346](https://bugs.mojang.com/browse/MC-162346) - Clouds do not render behind transparent particles
+- [MC-162385](https://bugs.mojang.com/browse/MC-162385) - The background of the title text does not fade with the text
+- [MC-162428](https://bugs.mojang.com/browse/MC-162428) - Rain and snow cannot be seen through transparent blocks
+- [MC-162665](https://bugs.mojang.com/browse/MC-162665) - Food does not drop from a campfire when it is put out with a shovel/water bottle
+- [MC-162881](https://bugs.mojang.com/browse/MC-162881) - Composter doesn't display particles when being fed composting items through a hopper
+- [MC-163254](https://bugs.mojang.com/browse/MC-163254) - Block entities, transparent blocks, water, and clouds always render in front of lightning
+- [MC-163286](https://bugs.mojang.com/browse/MC-163286) - /setblock ~ ~ ~ air destroy does not destroy liquids
+- [MC-163333](https://bugs.mojang.com/browse/MC-163333) - Plains houses and decorations can generate in taiga villages
+- [MC-163655](https://bugs.mojang.com/browse/MC-163655) - Fire cannot be targeted like other blocks
+- [MC-163910](https://bugs.mojang.com/browse/MC-163910) - Hand animation sometimes plays for a second time with high ping
+- [MC-163918](https://bugs.mojang.com/browse/MC-163918) - Bees not animating their pollen gathering
+- [MC-163921](https://bugs.mojang.com/browse/MC-163921) - Placing a block while looking at redstone ore plays no sound
+- [MC-163950](https://bugs.mojang.com/browse/MC-163950) - Ice bordering water causes z-fighting issues from a distance
+- [MC-164047](https://bugs.mojang.com/browse/MC-164047) - Moving transparent blocks cause transparent blocks behind them to not render
+- [MC-164056](https://bugs.mojang.com/browse/MC-164056) - Clouds do not render behind moving transparent blocks
+- [MC-164111](https://bugs.mojang.com/browse/MC-164111) - Transparent falling blocks make entities and block entities invisible
+- [MC-164129](https://bugs.mojang.com/browse/MC-164129) - Ender dragon inner hitboxes are rendered offset by approximately 200 blocks
+- [MC-164158](https://bugs.mojang.com/browse/MC-164158) - Lava doesn't emit smoke during rainfall
+- [MC-164184](https://bugs.mojang.com/browse/MC-164184) - Breaking a shulker box with contents in Creative mode drops the block at an incorrect location
+- [MC-164205](https://bugs.mojang.com/browse/MC-164205) - Endermen do not spawn in the end if difficulty is set to easy
+- [MC-164224](https://bugs.mojang.com/browse/MC-164224) - Non updated lava layers that rarely generate in Nether wastes, crimson forests, and warped forests
+- [MC-164233](https://bugs.mojang.com/browse/MC-164233) - "Skilled" villagers without job site do not get precedence over unemployed villagers
+- [MC-164435](https://bugs.mojang.com/browse/MC-164435) - Stream sounds don't loop properly
+- [MC-164446](https://bugs.mojang.com/browse/MC-164446) - Tags don't load if one of their values is invalid, causing all data packs to unload
+- [MC-164569](https://bugs.mojang.com/browse/MC-164569) - Random "Block Broken" in jungle
+- [MC-164585](https://bugs.mojang.com/browse/MC-164585) - minecraft.mined scoreboard criteria for double tall blocks may not be updating properly
+- [MC-164692](https://bugs.mojang.com/browse/MC-164692) - Entering a boat does not play the hand animation
+- [MC-164948](https://bugs.mojang.com/browse/MC-164948) - Entity shadow renders through transparent blocks
+- [MC-165518](https://bugs.mojang.com/browse/MC-165518) - Village houses desert_temple_1 and plains_temple_4 have no floor at entrance
+- [MC-165549](https://bugs.mojang.com/browse/MC-165549) - Arm swing animation is still played when drinking an item
+- [MC-165669](https://bugs.mojang.com/browse/MC-165669) - Hand animation is playing when you're aiming at a block through the mob and use the spawn egg
+- [MC-165734](https://bugs.mojang.com/browse/MC-165734) - Minecarts with furnace still display a hand animation with incompatible items when not on a rail
+- [MC-165958](https://bugs.mojang.com/browse/MC-165958) - Clouds, transparent blocks, and other semi-transparent textures do not render behind semi-transparent entities
+- [MC-165962](https://bugs.mojang.com/browse/MC-165962) - Some transparent items make transparent blocks and beacon beams not render behind them when dropped (again)
+- [MC-165966](https://bugs.mojang.com/browse/MC-165966) - Shadows do not render behind experience orbs
+- [MC-165968](https://bugs.mojang.com/browse/MC-165968) - Transparent blocks do not render behind experience orbs
+- [MC-166006](https://bugs.mojang.com/browse/MC-166006) - Items do not render behind transparent blocks while being picked up
+- [MC-166135](https://bugs.mojang.com/browse/MC-166135) - Bees inside a nest/hive don't grow up or get their breeding timer reset
+- [MC-166188](https://bugs.mojang.com/browse/MC-166188) - Bees still hitting player after death
+- [MC-166245](https://bugs.mojang.com/browse/MC-166245) - No sound for shearing snow golems
+- [MC-166246](https://bugs.mojang.com/browse/MC-166246) - Skeleton horses cannot be leashed
+- [MC-166260](https://bugs.mojang.com/browse/MC-166260) - Light from fire that has gone out lingers at the border of chunks
+- [MC-166269](https://bugs.mojang.com/browse/MC-166269) - Wet wolves become black for an instant after shaking off water
+- [MC-166276](https://bugs.mojang.com/browse/MC-166276) - Thrown items and blocks sometimes appear black for an instant
+- [MC-166292](https://bugs.mojang.com/browse/MC-166292) - Subtitle from foxes eating chorus fruit: "Player teleports"
+- [MC-166296](https://bugs.mojang.com/browse/MC-166296) - Mobs picking up and equipping items does not play the equipping sound
+- [MC-166297](https://bugs.mojang.com/browse/MC-166297) - Items do not render behind experience orbs
+- [MC-166346](https://bugs.mojang.com/browse/MC-166346) - Transparent blocks do not render properly with tripwire above
+- [MC-166358](https://bugs.mojang.com/browse/MC-166358) - Inconsistency with sounds of dispensers using shears
+- [MC-166398](https://bugs.mojang.com/browse/MC-166398) - Mobs do not render behind experience orbs
+- [MC-166413](https://bugs.mojang.com/browse/MC-166413) - Item frame turns black for an instant when being placed
+- [MC-166524](https://bugs.mojang.com/browse/MC-166524) - Trying to dye a sheep with the same color as sheep displays hand animation
+- [MC-166593](https://bugs.mojang.com/browse/MC-166593) - Zombie villagers in zombie villages aren't persistent
+- [MC-166607](https://bugs.mojang.com/browse/MC-166607) - Not set attributes throw error
+- [MC-166717](https://bugs.mojang.com/browse/MC-166717) - Block outlines/hitboxes render behind all translucent blocks and clouds
+- [MC-166718](https://bugs.mojang.com/browse/MC-166718) - Mobs no longer suffocate inside of soul sand, farmland or grass paths
+- [MC-166725](https://bugs.mojang.com/browse/MC-166725) - Entity hitboxes render behind all translucent blocks and clouds
+- [MC-166729](https://bugs.mojang.com/browse/MC-166729) - Fishing lines render behind water, other transparent blocks, and clouds
+- [MC-166764](https://bugs.mojang.com/browse/MC-166764) - Villagers spawned on world generation have a lower follow range than villagers spawned by other means
+- [MC-166880](https://bugs.mojang.com/browse/MC-166880) - Pufferfish spikes model seems to be broken
+- [MC-166895](https://bugs.mojang.com/browse/MC-166895) - Underlines in Written Book Text Disappear with Subtitles
+- [MC-166921](https://bugs.mojang.com/browse/MC-166921) - Incorrect bow animation when eating
+- [MC-166959](https://bugs.mojang.com/browse/MC-166959) - Can't trade with villager after clicking on them while holding a written book.
+- [MC-166980](https://bugs.mojang.com/browse/MC-166980) - Bees become stuck wandering to the north-west after completing a task, or randomly in large numbers
+- [MC-167042](https://bugs.mojang.com/browse/MC-167042) - Casting issue: Campfire embers are generated at a point that loses precision at high coordinates
+- [MC-167043](https://bugs.mojang.com/browse/MC-167043) - Enchantment glint does only apply to the handle of shields with banners
+- [MC-167044](https://bugs.mojang.com/browse/MC-167044) - Casting issue: Enchanting table book does not open for the player at high distances in some cases
+- [MC-167046](https://bugs.mojang.com/browse/MC-167046) - Casting issue: Lava ember particles and lava popping sounds lose precision on creation at high coordinates
+- [MC-167047](https://bugs.mojang.com/browse/MC-167047) - Casting issue: TNT blocks ignited by other explosions lose precision at high coordinates
+- [MC-167076](https://bugs.mojang.com/browse/MC-167076) - Seagrass, tall seagrass, and sea pickles don't obscure direct sunlight when waterlogged
+- [MC-167077](https://bugs.mojang.com/browse/MC-167077) - Foxes sleep on top of honey blocks, even in broad daylight
+- [MC-167090](https://bugs.mojang.com/browse/MC-167090) - Entity hitboxes are rendered behind item frames
+- [MC-167091](https://bugs.mojang.com/browse/MC-167091) - Casting issue: Water particles dripping from leaves lose precision at high coordinates
+- [MC-167103](https://bugs.mojang.com/browse/MC-167103) - Casting issue: Mob spawning loses precision at high coordinates
+- [MC-167195](https://bugs.mojang.com/browse/MC-167195) - Bees anger towards players in survival when killed in one hit
+- [MC-167273](https://bugs.mojang.com/browse/MC-167273) - Some special rendering blocks render in front of entity hitboxes
+- [MC-167342](https://bugs.mojang.com/browse/MC-167342) - Structure block outline renders behind clouds and translucent blocks
+- [MC-167359](https://bugs.mojang.com/browse/MC-167359) - Items are bright for a brief moment after being broken
+- [MC-167362](https://bugs.mojang.com/browse/MC-167362) - Item frames are bright for a brief moment when placed
+- [MC-167386](https://bugs.mojang.com/browse/MC-167386) - binding hotbar hotkeys to mouse thumb button won't interact the way it should
+- [MC-167421](https://bugs.mojang.com/browse/MC-167421) - Casting issue: Minecarts with chests are generated in the wrong positions in abandoned mineshafts at high coordinates
+- [MC-167432](https://bugs.mojang.com/browse/MC-167432) - Ctrl + Middle-click on lectern does not copy written book
+- [MC-167447](https://bugs.mojang.com/browse/MC-167447) - Wrong RenderStateShard name
+- [MC-167477](https://bugs.mojang.com/browse/MC-167477) - Chestplate enchantment glint is applied to shield handle as well
+- [MC-167512](https://bugs.mojang.com/browse/MC-167512) - Glass in the hand is rendered differently depending on the "Clouds" setting
+- [MC-167554](https://bugs.mojang.com/browse/MC-167554) - Enchantment glint on shields is rendered incorrectly
+- [MC-167561](https://bugs.mojang.com/browse/MC-167561) - All players can make a dog stand up or sit down
+- [MC-167608](https://bugs.mojang.com/browse/MC-167608) - Destroying item frames after respawning is weird
+- [MC-167692](https://bugs.mojang.com/browse/MC-167692) - Infested blocks don't spawn silverfish when blown up
+- [MC-167971](https://bugs.mojang.com/browse/MC-167971) - Casting issue: Particles emitted by redstone repeaters lose precision at high coordinates
+- [MC-167989](https://bugs.mojang.com/browse/MC-167989) - Spawn point is not set when monsters are nearby
+- [MC-168137](https://bugs.mojang.com/browse/MC-168137) - Entities sometimes do not render behind semi-transparent entities
+- [MC-168139](https://bugs.mojang.com/browse/MC-168139) - Enchanted armor pieces worn by entities lose their enchantment glint when looked at from certain angles
+- [MC-168311](https://bugs.mojang.com/browse/MC-168311) - Fishing line disappears when in front of entities and block entites
+- [MC-168319](https://bugs.mojang.com/browse/MC-168319) - Fireworks sometimes don't explode when launched at the edge or under a block
+- [MC-168384](https://bugs.mojang.com/browse/MC-168384) - NBT-Tag "Silent:1b" doesn't work for bees.
+- [MC-168485](https://bugs.mojang.com/browse/MC-168485) - Chests do not render behind experience orbs
+- [MC-168540](https://bugs.mojang.com/browse/MC-168540) - Threads created by net.minecraft.Util.backgroundExecutor() have misleading names
+- [MC-168673](https://bugs.mojang.com/browse/MC-168673) - Iron Golems congregate all in the same place in some villages
+- [MC-168675](https://bugs.mojang.com/browse/MC-168675) - Settings that update after closing the video settings menu don't if you change the fullscreen setting
+- [MC-168748](https://bugs.mojang.com/browse/MC-168748) - Rapid cod spawning and despawning causing performance issues
+- [MC-168772](https://bugs.mojang.com/browse/MC-168772) - Experience orbs can crush turtle eggs
+- [MC-169008](https://bugs.mojang.com/browse/MC-169008) - Using End portal in the Nether teleports the player to the End, but at the same coordinates the player was in the Nether
+- [MC-169079](https://bugs.mojang.com/browse/MC-169079) - Held items do not render behind semi-transparent entities
+- [MC-169319](https://bugs.mojang.com/browse/MC-169319) - Letters ä, ë, ï, ö, ü, ÿ are included in the default font, but the alone umlaut/diaeresis (¨) is not.
+- [MC-169514](https://bugs.mojang.com/browse/MC-169514) - Tamed parrots cannot be renamed unless they are flying
+- [MC-169533](https://bugs.mojang.com/browse/MC-169533) - Asymmetrical walls in snowy_cartographer_house_1
+- [MC-169679](https://bugs.mojang.com/browse/MC-169679) - Composters do not make sounds when fed by hoppers
+- [MC-169683](https://bugs.mojang.com/browse/MC-169683) - Bells cannot be hung from certain blocks that have a wide enough base
+- [MC-169692](https://bugs.mojang.com/browse/MC-169692) - Entity shadow floats slightly above the ground
+- [MC-169715](https://bugs.mojang.com/browse/MC-169715) - Misrotated block in snowy_small_house_3
+- [MC-169764](https://bugs.mojang.com/browse/MC-169764) - Fish flopping sound shows both 'Footsteps' and 'Fish flops' subtitles
+- [MC-169832](https://bugs.mojang.com/browse/MC-169832) - Transparent item models have inconsistent rendering when a glowing entity is present
+- [MC-169869](https://bugs.mojang.com/browse/MC-169869) - Mooshroom using incorrect texture in Programmer Art
+- [MC-169891](https://bugs.mojang.com/browse/MC-169891) - Zombie Reinforcements can spawn in regardless if light level is higher than 9 in nether (hard difficulty)
+- [MC-169965](https://bugs.mojang.com/browse/MC-169965) - Potion effect timers for higher levels can remain at 0:00 after the higher level has run out if multiple levels of the same effect were applied in descending order
+- [MC-169975](https://bugs.mojang.com/browse/MC-169975) - Highlight players (spectators) key doesn't affect any players other than yourself
+- [MC-170075](https://bugs.mojang.com/browse/MC-170075) - "Online play is not rated" checkbox has no outline when focused
+- [MC-170128](https://bugs.mojang.com/browse/MC-170128) - Cannot build an EntityType without a datafixer due to an IllegalArgumentException
+- [MC-170242](https://bugs.mojang.com/browse/MC-170242) - Asymmetrical walls in taiga_medium_house_4
+- [MC-170273](https://bugs.mojang.com/browse/MC-170273) - Diamond Swords use the wrong pallet
+- [MC-170274](https://bugs.mojang.com/browse/MC-170274) - Pickaxe textures are inconsistent
+- [MC-170340](https://bugs.mojang.com/browse/MC-170340) - Mined blocks models can sometimes render blue for a moment
+- [MC-170470](https://bugs.mojang.com/browse/MC-170470) - At snowy_library_1, the snow block is placed next to the window, which causes ugly visual effect
+- [MC-170556](https://bugs.mojang.com/browse/MC-170556) - Hoe textures are inconsistent
+- [MC-170584](https://bugs.mojang.com/browse/MC-170584) - Structure taiga_meeting_point_2 from zombie villages has 1 misrotated log
+- [MC-170591](https://bugs.mojang.com/browse/MC-170591) - Misrotated floor blocks in desert_tool_smith_1 basement
+- [MC-170612](https://bugs.mojang.com/browse/MC-170612) - Villagers spawned by meeting points have frozen AI and do not move when that chunk is freshly generated
+- [MC-170773](https://bugs.mojang.com/browse/MC-170773) - Recipe book and filtering craftable do not stay open for blast furnace and smoker when (re)loading the world
+- [MC-170836](https://bugs.mojang.com/browse/MC-170836) - Cannot set the top of soul sand on fire
+- [MC-170842](https://bugs.mojang.com/browse/MC-170842) - Potted plant models still missing bottom due to faulty uv
+- [MC-171618](https://bugs.mojang.com/browse/MC-171618) - Players wearing armor take less damage from burning when standing in fire under certain conditions
+- [MC-171939](https://bugs.mojang.com/browse/MC-171939) - Many mobs are placed incorrectly in the statistics
+- [MC-171969](https://bugs.mojang.com/browse/MC-171969) - Fall damage is negated when stepping up after falling
+- [MC-172025](https://bugs.mojang.com/browse/MC-172025) - Several misrotated blocks at snowy_medium_house_2
+- [MC-172307](https://bugs.mojang.com/browse/MC-172307) - All loaded tileticks instantly run in the first tick after loading the chunk
+- [MC-172517](https://bugs.mojang.com/browse/MC-172517) - Walls don't behave normally when next to soul sand
+- [MC-172524](https://bugs.mojang.com/browse/MC-172524) - Letters of name tag render inconsistently when sneaking (within the same name tag)
+- [MC-172531](https://bugs.mojang.com/browse/MC-172531) - Small mobs get stuck in fence corners
+- [MC-172650](https://bugs.mojang.com/browse/MC-172650) - Ice side texture does not appear underwater
+- [MC-172737](https://bugs.mojang.com/browse/MC-172737) - Crafting table menu forgets 'show crafting' setting
+- [MC-173067](https://bugs.mojang.com/browse/MC-173067) - NullPointerException when a structure containing a campfire is placed during world generation
+- [MC-173115](https://bugs.mojang.com/browse/MC-173115) - Mobs can spawn inside of wither roses
+- [MC-173367](https://bugs.mojang.com/browse/MC-173367) - Arrows are floating in midair after being pushed by piston
+- [MC-173420](https://bugs.mojang.com/browse/MC-173420) - Sign crafting recipes of various wood types are not grouped
+- [MC-173732](https://bugs.mojang.com/browse/MC-173732) - Fire and soul fire do not have loot tables
+- [MC-174071](https://bugs.mojang.com/browse/MC-174071) - Roof of savanna_mason_1 is cut off
+- [MC-174072](https://bugs.mojang.com/browse/MC-174072) - Structure savanna_temple_2 contains one misrotated block
+- [MC-174073](https://bugs.mojang.com/browse/MC-174073) - Two misrotated blocks in savanna_small_house_5
+- [MC-174075](https://bugs.mojang.com/browse/MC-174075) - Misrotated block in savanna_butchers_shop_1
+- [MC-174076](https://bugs.mojang.com/browse/MC-174076) - Inconsistent rotation of logs under windows in savanna_small_house_4
+- [MC-174078](https://bugs.mojang.com/browse/MC-174078) - Three misrotated blocks in snowy_armorer_house_2
+- [MC-174079](https://bugs.mojang.com/browse/MC-174079) - Misrotated block at snowy_weapon_smith_1
+- [MC-174082](https://bugs.mojang.com/browse/MC-174082) - Three misrotated blocks in snowy_small_house_2
+- [MC-174083](https://bugs.mojang.com/browse/MC-174083) - Three misrotated blocks in snowy_butchers_shop_1
+- [MC-174234](https://bugs.mojang.com/browse/MC-174234) - Village structure snowy_masons_house_1 has two misrotated blocks
+- [MC-174404](https://bugs.mojang.com/browse/MC-174404) - Arrows are rendered in front of the world border
+- [MC-174568](https://bugs.mojang.com/browse/MC-174568) - Rail updates are 3-4x times laggier since 1.13
+- [MC-174648](https://bugs.mojang.com/browse/MC-174648) - You can unhighlight the recipe book button of crafting interfaces
+- [MC-174790](https://bugs.mojang.com/browse/MC-174790) - Mob on turtle eggs causes the game to crash
+- [MC-174932](https://bugs.mojang.com/browse/MC-174932) - Right-to-left text appears left-to-right after game start until language is changed
+- [MC-175171](https://bugs.mojang.com/browse/MC-175171) - Fishing bobber can get stuck on a ledge when being reeled in
+- [MC-175201](https://bugs.mojang.com/browse/MC-175201) - Misrotated floor block in savanna_small_house_1, savanna_small_house_2, savanna_small_house_3 and savanna_small_house_7
+- [MC-175634](https://bugs.mojang.com/browse/MC-175634) - Fishing line disconnects while drinking
+- [MC-176104](https://bugs.mojang.com/browse/MC-176104) - Dropped compasses always point up
+- [MC-176640](https://bugs.mojang.com/browse/MC-176640) - You can set your spawn point inside dangerous blocks
+- [MC-176644](https://bugs.mojang.com/browse/MC-176644) - Observers don't trigger when a fence connects to a newly grown tree
+- [MC-177075](https://bugs.mojang.com/browse/MC-177075) - Taking product out of stonecutter produces no subtitle
+- [MC-177080](https://bugs.mojang.com/browse/MC-177080) - Sounds for travelling through a portal have no subtitle
+- [MC-177088](https://bugs.mojang.com/browse/MC-177088) - Polar bear step sound does not have subtitles
+- [MC-177168](https://bugs.mojang.com/browse/MC-177168) - Honey Gulping subtitle inconsistent, and implies the honey is eating something
+- [MC-177346](https://bugs.mojang.com/browse/MC-177346) - Compass in a mob's hand does not point to correct location if mob turns
+- [MC-177712](https://bugs.mojang.com/browse/MC-177712) - Nether portal blocks do not have loot tables
+- [MC-177873](https://bugs.mojang.com/browse/MC-177873) - Trident and shield holding model is activated as you use an item with a right click function in another hand
+- [MC-178029](https://bugs.mojang.com/browse/MC-178029) - Chunks get scrambled by logging in twice on solo world
+- [MC-178441](https://bugs.mojang.com/browse/MC-178441) - Endermen don't avoid the wither's skull projectiles
+- [MC-178570](https://bugs.mojang.com/browse/MC-178570) - When blocking a wither skull with a shield, the player still receives the wither effect
+- [MC-178572](https://bugs.mojang.com/browse/MC-178572) - Using a shield triggers model for other poses if respective item is held in the other hand
+- [MC-178576](https://bugs.mojang.com/browse/MC-178576) - Projectile protection has no effect on wither skulls, unlike ghast fireballs
+- [MC-179309](https://bugs.mojang.com/browse/MC-179309) - Trident animates backwards while eating
+- [MC-179989](https://bugs.mojang.com/browse/MC-179989) - Smithing Table and Anvil UI does not have "Inventory" title above player inventory
+- [MC-181108](https://bugs.mojang.com/browse/MC-181108) - Right-to-left text is displayed left-to-right at all times
+- [MC-181313](https://bugs.mojang.com/browse/MC-181313) - Server crashes when critical arrow with very high damage value hits an entity
+- [MC-181566](https://bugs.mojang.com/browse/MC-181566) - Powered redstone dust only generates particles at the center of the block
+- [MC-181611](https://bugs.mojang.com/browse/MC-181611) - Vindicators stop attacking you when they are standing really close to you
+- [MC-181827](https://bugs.mojang.com/browse/MC-181827) - Northwest bias in bee movement
+- [MC-182076](https://bugs.mojang.com/browse/MC-182076) - Horse jumping sound is unused
+- [MC-182249](https://bugs.mojang.com/browse/MC-182249) - Problems with potted_cactus.json block model file
+- [MC-182336](https://bugs.mojang.com/browse/MC-182336) - Entities sometimes do not render behind the wither armor effect of the Wither
+- [MC-182888](https://bugs.mojang.com/browse/MC-182888) - Compasses and clocks work like normal in villager trading GUI
+- [MC-183249](https://bugs.mojang.com/browse/MC-183249) - Carving Mask BitSets created for lower chunk statuses
+- [MC-183718](https://bugs.mojang.com/browse/MC-183718) - Stronghold end portal can be overwritten by ocean ruins
+- [MC-184379](https://bugs.mojang.com/browse/MC-184379) - Multiplayer screen LAN server scanning animation renders in front of button text shadows
+- [MC-185616](https://bugs.mojang.com/browse/MC-185616) - Turtle eggs can't hatch on red sand
+- [MC-185949](https://bugs.mojang.com/browse/MC-185949) - Copy "C" in Click to Copy to Clipboard isn't capitalized
+- [MC-186353](https://bugs.mojang.com/browse/MC-186353) - The "s" and "m" in "Edit sign message" are uncapitalized
+- [MC-186617](https://bugs.mojang.com/browse/MC-186617) - Zombified piglins sound angry too many times when hit constantly
+- [MC-188655](https://bugs.mojang.com/browse/MC-188655) - Number keys in Creative search override typing in the search bar, resulting in unintentional hotbar item switching
+- [MC-189570](https://bugs.mojang.com/browse/MC-189570) - Middle Mouse Button does not work as a hotbar slot in inventory
 
  
 
