@@ -1,7 +1,7 @@
 ---
 title: "How to Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
-updated: 2024-07-31T19:14:06Z
+updated: 2025-02-18T17:00:01Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -24,6 +24,7 @@ hash:
   h_01J4537M6JR08A9HRW3DBEXBBK: find-friends
   h_01J4537SWCVBS4F40FFD2ZNNXH: share-link
   h_01J4537X30W839SNM7N98MYDNK: managing-realms-visitors
+  h_01JKE9XEMP2HA8WY210NKB8W7C: how-to-invite-friends-to-a-bedrock-realm-on-minecraftnet
 ---
 
 Minecraft is better when played with friends! That's especially true for Realms, which allow members to play on the server even if the host is not available. Here is how to get your friends involved in your Minecraft: Bedrock Edition Realm.
@@ -56,5 +57,13 @@ Be careful about where you post a share link to your Realm. Anyone who has acces
 
 - Generate a new Share Link. Generating a new link will deactivate the old one so it can’t be used to join your Realm.
 - Remove or block unwanted players from your Realm. See [How to Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/How-to-Moderate-Your-Minecraft-Realm.md) for more information.
+
+## How to invite friends to a Bedrock Realm on Minecraft.net
+
+1.  Sign in with your [Microsoft account on Minecraft.net](https://www.minecraft.net/en-us/login).
+2.  Select **All Games**.
+3.  On the Minecraft Bedrock Edition card, select your Realm under **Active Realms**.
+4.  Under **Invite Members**, type your friend's Gamertag in the **Filter friends** field.
+5.  Press the **Invite** button on the friend you'd like to invite.
 
 **Note:** While you can invite as many players as you’d like to a Minecraft Realm, only a certain amount can be online in your realm at one time. That number is based on your Realms subscription.
