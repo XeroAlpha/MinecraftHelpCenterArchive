@@ -1,16 +1,25 @@
 ---
 title: Minecraft Legends Village Repair and Defense Structure Tutorial
 date: 2023-04-13T17:06:05Z
-updated: 2023-04-18T20:15:58Z
+updated: 2025-02-19T18:42:20Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14819044560525-Minecraft-Legends-Village-Repair-and-Defense-Structure-Tutorial
 hash:
-  this-article-goes-alongside-a-video-tutorial-for-minecraft-legends.-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video.: this-article-goes-alongside-a-video-tutorial-for-minecraft-legends-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video
+  h_01JMFKKSR8HS9MFZMQHQHMNJ00: repairing-villages
+  h_01JMFKKSR85WPGF6SE4QR67GKC: xbox-controller
+  h_01JMFKKSR9JY5A0YY0DC7NMV6W: mouse-and-keyboard
+  h_01JMFKKSR9HW58MMDK32MK5EET: defending-villages
+  h_01JMFKKSR9AMVK9EH2DB0PBNH7: village-chest
+  h_01JMFKKSR9EHAJVWYT35V565PJ: xbox-controller-1
+  h_01JMFKKSR978B8GYSEYMQX5ZZD: mouse-and-keyboard-1
+  h_01JMFKKSR929M2KR460YJME3B0: building-village-defenses
+  h_01JMFKKSR97TJ14T7KNXTZ0VMV: xbox-controller-2
+  h_01JMFKKSR9DPX117VCSPR7QHA2: mouse-and-keyboard-2
 ---
 
-## This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside **[this video](https://youtu.be/3AOPNVBCkFg)**. 
+This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside [this video](https://youtu.be/3AOPNVBCkFg). 
 
 ## Repairing Villages
 

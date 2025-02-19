@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Minecraft: Java Edition Realm"
 date: 2021-09-14T22:37:59Z
-updated: 2024-08-06T16:46:49Z
+updated: 2025-02-19T16:57:15Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
@@ -27,7 +27,7 @@ Realms are a great way to play Minecraft with your friends. An active Realms sub
 Before you go about starting a Realm, make sure you have a Microsoft account to manage your payments for the subscription. If you don’t have one, you can [create a Microsoft account here](https://account.microsoft.com/account/CreateAccount).
 
 1.  Sign in with your Microsoft account on [Minecraft.net](https://www.minecraft.net/en-us/msaprofile).
-2.  Select **My Realms**.
+2.  Select **Realms**.
 3.  Select **Buy Now** next to Java Realms subscription.
 4.  Agree to the EULA and follow the steps to set up your payment.
 

@@ -1,16 +1,24 @@
 ---
 title: Minecraft Legends Building and Movement Tutorial
 date: 2023-04-13T16:16:40Z
-updated: 2023-04-18T19:58:55Z
+updated: 2025-02-19T18:44:57Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14816568424461-Minecraft-Legends-Building-and-Movement-Tutorial
 hash:
-  this-article-goes-alongside-a-video-tutorial-for-minecraft-legends.-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video.: this-article-goes-alongside-a-video-tutorial-for-minecraft-legends-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video
+  h_01JMFKM5HN4CNC95WH58MH98TJ: movement
+  h_01JMFKM5HNRXKJVRVXNCBKHK5X: xbox-controller
+  h_01JMFKM5HR2ZBQAZPHXHNNRZFP: mouse-and-keyboard
+  h_01JMFKM5HSMJYFTGZT0VGV071A: gathering-resources-with-allays
+  h_01JMFKM5HSN9CCQRPJWCDZ8VEE: xbox-controller-1
+  h_01JMFKM5HS1MVJ3MK3QHSSXM1J: mouse-and-keyboard-1
+  h_01JMFKM5HSMQN1T0E0SADYS662: building-structures
+  h_01JMFKM5HSDY3EJW9GZV8G01XW: xbox-controller-2
+  h_01JMFKM5HTSGZR8PMRJMDDC37S: mouse-and-keyboard-2
 ---
 
-## This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside **[this video](https://youtu.be/2kJUHz-Aug4)**. 
+This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside [this video](https://youtu.be/2kJUHz-Aug4).
 
 ## Movement
 

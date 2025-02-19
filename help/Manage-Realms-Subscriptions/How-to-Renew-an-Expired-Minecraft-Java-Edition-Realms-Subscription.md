@@ -1,7 +1,7 @@
 ---
 title: "How to Renew an Expired Minecraft: Java Edition Realms Subscription"
 date: 2021-09-24T21:00:46Z
-updated: 2024-08-05T20:59:24Z
+updated: 2025-02-19T16:54:42Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
@@ -31,6 +31,6 @@ Whether you are trying to dust off an old Realm or just forgot to extend your ti
 ## How to renew an expired Realm
 
 1.  Sign into your account on [Minecraft.net.](https://www.minecraft.net/en-us/login)
-2.  Click on **My Realms.**
+2.  Click on **Realms.**
 3.  Find the Realm you want to reactivate under **Inactive Realms.**
 4.  Click the **Reactivate** button to renew your Realm subscription.
