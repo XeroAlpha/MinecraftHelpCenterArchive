@@ -1,16 +1,18 @@
 ---
 title: Destroying Piglin Outposts Tutorial
 date: 2023-04-13T17:08:06Z
-updated: 2023-04-18T20:16:24Z
+updated: 2025-02-19T18:55:09Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14819130007181-Destroying-Piglin-Outposts-Tutorial
 hash:
-  this-article-goes-alongside-a-video-tutorial-for-minecraft-legends.-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video.: this-article-goes-alongside-a-video-tutorial-for-minecraft-legends-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video
+  h_01JMFRRAYR3CBDB6PT0T8Z8BWR: blaze-rod-tower-outpost
+  h_01JMFRRAYRN35DFNZSE5Y3AVSF: nether-spreader-outpost
+  h_01JMFRRAYSGYYG1T8WAD3X94HA: gated-outpost
 ---
 
-## This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside **[this video](https://youtu.be/B0VKqmkCPeg)**. 
+This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside [this video](https://youtu.be/B0VKqmkCPeg).
 
 This video goes over taking down the various tiers of piglin outposts It’s your first offensive challenge, and it requires you to harness all of your knowledge from the previous tutorials.
 

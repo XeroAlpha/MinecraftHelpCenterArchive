@@ -1,16 +1,24 @@
 ---
 title: Minecraft Legends Map and Village Under Attack Tutorial
 date: 2023-04-13T17:02:03Z
-updated: 2023-04-18T20:16:16Z
+updated: 2025-02-19T18:53:59Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/14818774175629-Minecraft-Legends-Map-and-Village-Under-Attack-Tutorial
 hash:
-  this-article-goes-alongside-a-video-tutorial-for-minecraft-legends.-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video.: this-article-goes-alongside-a-video-tutorial-for-minecraft-legends-for-the-best-tutorial-experience-please-read-the-following-text-alongside-this-video
+  h_01JMFRR9RN803ZRP59WEZM3J1B: using-the-map
+  h_01JMFRR9RNW1JGKCGQ00GF05NK: xbox-controller
+  h_01JMFRR9RN2CHWX6PXPY1GVNE8: mouse-and-keyboard
+  h_01JMFRR9RNHPPJEKQR7EWCJW7X: villages-under-attack
+  h_01JMFRR9RNCJAD8EKT7J5WSEJR: xbox-controller-1
+  h_01JMFRR9RP64VY3VE643HRJEJ2: mouse-and-keyboard-1
+  h_01JMFRR9RPHQAAV9CT3W48MZEX: opening-cages
+  h_01JMFRR9RP0R85YQJ69C58WQ0D: xbox-controller-2
+  h_01JMFRR9RPFBWH2VNP4ZJMMWD3: mouse-and-keyboard-2
 ---
 
-## This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside **[this video](https://youtu.be/SN5ZlfBpBEs)**. 
+This article goes alongside a video tutorial for Minecraft Legends. For the best tutorial experience, please read the following text alongside [this video](https://youtu.be/SN5ZlfBpBEs).
 
 ## Using the Map
 
