@@ -1,14 +1,14 @@
 ---
 title: How to Install Minecraft Preview
 date: 2022-01-31T18:12:02Z
-updated: 2024-09-17T20:44:54Z
+updated: 2025-02-18T21:58:24Z
 categories: Download & Install
 tags:
   - trending
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/4423653831821-How-to-Install-Minecraft-Preview
 hash:
-  h_01HT3FS2G1GEFAFARBJ66TS40F: how-to-install-minecraft-previewbeta
+  h_01HT3FS2G1GEFAFARBJ66TS40F: platforms-that-support-minecraft-previewbeta
   h_01HT3FYPGGYMZ37YTRKKW9XSGP: android
   h_01HT3FYXVES89DR8XXSZZ5QV4C: ios
   h_01HT3G09RV41D90EG7T3D14053: playstation
@@ -16,9 +16,9 @@ hash:
   h_01HT3G2BN4G7T9QJRKGWBARHBY: xbox
 ---
 
-Minecraft Preview is played through a separate client from the normal Minecraft: Bedrock Edition so you can test out the latest and greatest features before they’re released in the standard version.
+Minecraft Preview is played through a separate game client from the normal Minecraft: Bedrock Edition so you can test out the latest and greatest features before they’re released in the standard version. See the information below to learn more about supported platforms and how to install the game client.
 
-## How to Install Minecraft Preview/Beta
+## Platforms that Support Minecraft Preview/Beta
 
 Locate your platform in the list below for installation instructions for Minecraft Preview/Beta.
 
