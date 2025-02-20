@@ -1,7 +1,7 @@
 ---
 title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
-updated: 2024-07-23T18:35:02Z
+updated: 2025-02-20T01:39:28Z
 categories: Administration and License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
@@ -141,7 +141,7 @@ The list of domains can change without notice, and some are CDNs which may be di
 
 ### Can we reduce the number of “game” related domains in the allow-list?
 
-The Minecraft Education library uses the Microsoft owned services PlayFab and XForge to deliver library content and RTEP to gather error reports and logs. While we recommend allowing all xboxlive.com subdomains to help protect against future architecture changes such as additional authentication calls or the introduction of new CDNs, it is possible to limit the number of xboxlive.com services to just those currently used by XForge:
+The Minecraft Education library uses the Microsoft owned services PlayFab and XForge to deliver library content. While we recommend allowing all xboxlive.com subdomains to help protect against future architecture changes such as additional authentication calls or the introduction of new CDNs, it is possible to limit the number of \*.xboxlive.com services to just those currently used by XForge:
 
 - [https://xforge.xboxlive.com/](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fxforge.xboxlive.com%2F&data=04%7C01%7Cmicahm%40microsoft.com%7Cb2e0de427cc34d821f1108d76880adee%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637092774195972472%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=0ZBPcUFcpp8WOLuiOWT8VcA96sIF%2Fg7Oz4zBdDH1Wio%3D&reserved=0)
 - [https://xforgeassets001.xboxlive.com/](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fxforgeassets001.xboxlive.com%2F&data=04%7C01%7Cmicahm%40microsoft.com%7Cb2e0de427cc34d821f1108d76880adee%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637092774195982464%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=HN34sEANnzvJ2OOAxKOrCOgXxaMDxcPO4vrsCzj1o38%3D&reserved=0)

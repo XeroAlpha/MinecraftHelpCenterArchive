@@ -1,7 +1,7 @@
 ---
 title: Feedback and Fan Mail
 date: 2021-09-10T00:48:16Z
-updated: 2023-10-12T18:56:40Z
+updated: 2025-02-19T22:04:30Z
 categories: Community Guidelines
 tags:
   - section_27983753055117
@@ -22,6 +22,10 @@ For anyone wanting to send us fan mail or just show your appreciation for the wo
 **Redmond, WA 98052 USA **** **  
 
 We appreciate every bit of mail we get from our wonderful players! 
+
+## How do I get support?
+
+See [Who to contact with your Minecraft support questions \| Minecraft Help](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).
 
 ## Where can I submit suggestions? 
 
