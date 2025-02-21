@@ -1,7 +1,7 @@
 ---
-title: How to Link Microsoft and PlayStation Accounts in Minecraft
+title: How to Link Your Microsoft Account to Minecraft on PlayStation
 date: 2019-12-10T03:08:37Z
-updated: 2024-08-13T16:02:58Z
+updated: 2025-02-20T23:00:13Z
 categories: Linking Microsoft Accounts
 tags:
   - title_minecraft
@@ -14,7 +14,7 @@ tags:
   - use_for_autoreply
   - section_29296773863181
   - subject_link_accounts
-link: https://help.minecraft.net/hc/en-us/articles/360037725571-How-to-Link-Microsoft-and-PlayStation-Accounts-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/360037725571-How-to-Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation
 hash:
   h_01J09GJPAEXMFKTH8TX46GE84B: how-to-connect-your-microsoft-account-to-playstation-in-minecraft-bedrock-edition
 ---

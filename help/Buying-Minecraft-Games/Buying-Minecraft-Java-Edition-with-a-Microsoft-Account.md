@@ -1,7 +1,7 @@
 ---
 title: "Buying Minecraft: Java Edition with a Microsoft Account"
 date: 2020-11-30T19:54:38Z
-updated: 2024-08-05T17:11:31Z
+updated: 2025-02-20T21:48:01Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221
@@ -10,7 +10,7 @@ hash:
   h_01FAKNQH0H5BYR4TF1GA2VRAV3: use-a-microsoft-account-to-purchase-minecraft-java-edition
 ---
 
-Minecraft: Java Edition is now part of the Minecraft: Java & Bedrock Edition for PC bundle. For more information on purchasing Minecraft, please see [Buying Minecraft for Windows, MacOS or Linux](./Buying-Minecraft-for-Windows-MacOS-or-Linux.md).
+Minecraft: Java Edition is part of the Minecraft: Java & Bedrock Edition for PC bundle. For more information on purchasing Minecraft, please see [Buying Minecraft for Windows, MacOS or Linux](./Buying-Minecraft-for-Windows-MacOS-or-Linux.md).
 
 ## Use a Microsoft Account to Purchase Minecraft: Java Edition 
 
