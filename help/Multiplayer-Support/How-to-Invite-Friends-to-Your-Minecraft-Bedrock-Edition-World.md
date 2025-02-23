@@ -17,7 +17,7 @@ Minecraft is best played with friends, so let’s get you on your way to adding 
 
 Signing in with a Microsoft account on your gaming platform enables cross-platform play and allows all players to connect through their Friends list. Players not using a Microsoft account may not be able to connect to some multiplayer games. See these articles for information:
 
-- [How to Link Microsoft and PlayStation Accounts in Minecraft ](../Linking-Microsoft-Accounts/How-to-Link-Microsoft-and-PlayStation-Accounts-in-Minecraft.md)
+- [How to Link Microsoft and PlayStation Accounts in Minecraft ](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
 - [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
 - [How to Sign in to Minecraft with a Microsoft Account on Mobile](../Linking-Microsoft-Accounts/How-to-Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
 

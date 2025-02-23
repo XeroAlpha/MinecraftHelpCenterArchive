@@ -20,4 +20,4 @@ The Creeper error happens when you’re playing on a console with a linked Micro
 - [How to Unlink Your Nintendo Account from your Microsoft Account in Minecraft](../Linking-Microsoft-Accounts/How-to-Unlink-Your-Nintendo-Account-from-your-Microsoft-Account-in-Minecraft.md)
 - [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
 - [How to Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft](../Linking-Microsoft-Accounts/How-to-Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft.md)
-- [How to Link Microsoft and PlayStation Accounts in Minecraft](../Linking-Microsoft-Accounts/How-to-Link-Microsoft-and-PlayStation-Accounts-in-Minecraft.md)
+- [How to Link Microsoft and PlayStation Accounts in Minecraft](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)

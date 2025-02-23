@@ -2321,7 +2321,7 @@ Happy dungeon crawling!
 
 **New Features – Free For All Players:**
 
-- Daily Trials – New challenges every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards. There are four new pieces of gear to earn, exclusive to Daily Trials! Learn more at the [Daily Trials FAQ](./How-to-Access-Daily-Trials-in-Minecraft-Dungeons.md).
+- Daily Trials – New challenges every day that make wild changes to the game mechanics which provide difficult, experimental, or fun challenges for you to overcome and earn powerful rewards. There are four new pieces of gear to earn, exclusive to Daily Trials! Learn more at the [Daily Trials FAQ](https://help.minecraft.net/hc/en-us/articles/360048248751).
 - New camp merchants to rescue during missions, such as the Blacksmith to upgrade gear and the Gift Wrapper to gift items to other players
 - New weapons and armor exclusive to Daily Trials, as well as two new artifacts and six new enchantments spread across the game. Buzz into combat using new tools such as the Beenest, the Beenest Armor, and the Tumblebee enchantment!  
     

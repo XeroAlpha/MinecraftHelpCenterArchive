@@ -2,7 +2,7 @@
 title: What is Minecraft Education?
 date: 2020-07-21T18:03:57Z
 updated: 2023-10-05T17:48:58Z
-categories: Additional Info
+categories: Buying Minecraft Games
 tags:
   - section_12618421132813
 link: https://help.minecraft.net/hc/en-us/articles/360046600691-What-is-Minecraft-Education
