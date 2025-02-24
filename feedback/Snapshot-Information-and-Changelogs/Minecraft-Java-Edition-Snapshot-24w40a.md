@@ -1,45 +1,45 @@
 ---
 title: Minecraft Java Edition - Snapshot 24w40a
 date: 2024-10-02T15:49:50Z
-updated: 2024-10-08T11:09:51Z
+updated: 2025-02-24T10:55:42Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/30738932967053-Minecraft-Java-Edition-Snapshot-24w40a
 hash:
   h_01J96Y7BXTRMZY93YKC1WSFDMJ: experimental-features
   h_01J96YRTRER9E9D3E9GYEDCQDH: ""
   h_01J96Y7BXTSXM35HZGFEVYKXRP: winter-drop
-  section: "-1"
+  h_01JMVSEAPN72G7QCE4SPRWVTRQ: "-1"
   h_01J96Y7BXTS16HMZ4WAXQ8648V: pale-garden
-  section-1: "-2"
+  h_01JMVSEAPN2V7PVRXTN3CKP017: "-2"
   h_01J997YGZJTSE65Y1490D87ZRA: pale-oak-tree
-  section-2: "-3"
+  h_01JMVSEAPNHKX6RPHT14GJZ94E: "-3"
   h_01J96Y7BXTX0Y6PP1WA74PZGX9: pale-moss-block
   h_01J96Y7BXTJZDX1DSFD0XGAEF7: pale-moss-carpet
   h_01J96Y7BXTZD2SN4XD5CDX75ZW: pale-hanging-moss
   h_01J96Y7BXTJY19VT3FB416PBFM: creaking-mob
-  section-3: "-4"
+  h_01JMVSEAPPG5226QH9TPM68FKZ: "-4"
   h_01J96Y7BXTWBAZVWMEEZ7F0QE4: creaking-heart
-  section-4: "-5"
+  h_01JMVSEAPPTFR4DRY7WQ6WDJED: "-5"
   h_01J96Y7BXT41769RKJBF6XGYN3: new-system-for-pale-garden-ambient-sounds
-  section-5: "-6"
+  h_01JMVSEAPPA3EBEF7J32VBJEGC: "-6"
   h_01J96Y7BXTBTGJGS823X1ANTT1: changes
-  section-6: "-7"
+  h_01JMVSEAPPWKBQTX7MTEZ6QS6C: "-7"
   h_01J96Y7BXT9E16H61N59SH7AND: realms
-  section-7: "-8"
+  h_01JMVSEAPP617B5J0ZMRQCXHJ2: "-8"
   h_01J96Y7BXTEKZH5QJAS2HNWGPD: technical-changes
-  section-8: "-9"
+  h_01JMVSEAPPQV0WVXBVMSM6R77K: "-9"
   h_01J96Y7BXT045FHZGZR9X1CWM8: data-pack-version-56
-  section-9: "-10"
+  h_01JMVSEAPP6VTY7RG6K3NTJ0VC: "-10"
   h_01J96Y7BXTG946HEQD2BH1T0H4: commands
   h_01J96Y7BXT9ZVCQYVCP35ZDPQE: rotatecommand
-  section-10: "-11"
+  h_01JMVSEAPPNFPBPRGGKRSTBWEX: "-11"
   h_01J96Y7BXTG7B07QEJJ5SS8C68: enchantment-effects
   h_01J96Y7BXT0NN65QVMCF29X64M: tags
   h_01J96Y7BXT6KAR9QB9BHP24HS7: item-tags
   h_01J96Y7BXTRKM11DT13FS0KJWB: particles
-  section-11: "-12"
+  h_01JMVSEAPPYJ5BZZWANGAZVKGD: "-12"
   h_01J96Y7BXTJVXARWW03CCZJRQ6: resource-pack-version-40
-  section-12: "-13"
+  h_01JMVSEAPPKNJ7JGMR1GF3K2YM: "-13"
   h_01J96Y7BXTKC2NE5PTQQJVX15Q: fixed-bugs-in-24w40a
   h_01J96Y7BXTM3N0QSQCASB4GWJG: get-the-snapshot
 ---
