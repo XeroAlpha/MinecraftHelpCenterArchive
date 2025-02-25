@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting multiplayer multiple disconnections & inventory lag
 date: 2023-08-03T19:59:27Z
-updated: 2023-10-02T18:42:37Z
+updated: 2025-02-25T19:52:53Z
 categories: Troubleshooting
 link: https://edusupport.minecraft.net/hc/en-us/articles/17983944794260-Troubleshooting-multiplayer-multiple-disconnections-inventory-lag
 hash:
@@ -44,5 +44,3 @@ hash:
 </tr>
 </tbody>
 </table>
-
-[](#_msocom_3)

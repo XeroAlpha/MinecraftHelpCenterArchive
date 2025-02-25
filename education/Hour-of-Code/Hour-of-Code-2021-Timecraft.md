@@ -1,14 +1,18 @@
 ---
 title: "Hour of Code 2021: Timecraft"
 date: 2021-11-08T17:00:54Z
-updated: 2022-11-07T23:46:02Z
+updated: 2025-02-25T19:56:10Z
 categories: Hour of Code
 link: https://edusupport.minecraft.net/hc/en-us/articles/4409940078996-Hour-of-Code-2021-Timecraft
 hash:
-  section: ""
+  h_01JMZAVQDQ5FP4G8FF06F4Z9FC: hour-of-code-2021-timecraft
+  h_01JMZAVQDQR08A9X81YHFD6YEW: ""
+  h_01JMZAVQDQ3230AKXZ62PQEFKV: lesson-overview
+  h_01JMZAVQDQ3JF2STG3GHR2Z3FF: lesson-objectives
+  h_01JMZAVQDQDBT4GFQHJ535B6Q9: remote-learning
 ---
 
-![blobid0.png](https://edusupport.minecraft.net/hc/article_attachments/4409940044180/blobid0.png)
+![blobid0.png](https://edusupport.minecraft.net/hc/article_attachments/4409940044180)
 
 ### **Hour of Code 2021 (TimeCraft)**
 
@@ -36,7 +40,7 @@ By the end of the lesson the students will:
 - Iterate on coding solutions to create a program to successfully complete a task
 - Build aware around CS career connections
 
-### *Remote Learning*
+### Remote Learning
 
 1.  This lesson is not designed as a multiplayer experience. Each individual student should work in their own version of the world. 
 2.  Divide students into pairs or small groups via breakout rooms so they can help one another troubleshoot as they solve coding puzzles. 
