@@ -1,7 +1,7 @@
 ---
 title: How to Edit Your Realms on Minecraft.net
 date: 2023-05-19T20:22:48Z
-updated: 2025-02-11T17:58:36Z
+updated: 2025-02-26T01:20:14Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft_java_edition
@@ -32,11 +32,11 @@ You are able to edit some information for your Minecraft Realms whether they are
 ## How to edit your Realms on Minecraft.net
 
 1.  [Sign in to your Microsoft account on Minecraft.net.](https://www.minecraft.net/en-us/login)
-2.  Select the **My Games** section.
+2.  Select the **All Games** tab.
 3.  Locate the card for your game version (Java or Bedrock Edition).
-4.  Select the Realm you want to edit under **Active Realms**.
+4.  Select the Realm you want to edit under the **Realms** heading.
 
-If you don't see the Realm you want to edit as active on My Games, click on the **My Realms** tab to reactivate it.
+If you don't see the Realm you want to edit as active on All Games, click on the **Realms** tab to reactivate it.
 
 ## Realms settings you can edit on Minecraft.net
 

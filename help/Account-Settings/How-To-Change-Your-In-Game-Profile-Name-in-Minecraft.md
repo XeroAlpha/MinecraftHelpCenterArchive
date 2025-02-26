@@ -1,7 +1,7 @@
 ---
 title: How To Change Your In-Game Profile Name in Minecraft
 date: 2021-09-10T21:08:08Z
-updated: 2025-02-18T17:00:01Z
+updated: 2025-02-26T01:02:01Z
 categories: Account Settings
 tags:
   - title_minecraft_java_edition
@@ -39,13 +39,11 @@ Your in-game name is the Gamertag associated with your Xbox account. Here’s ho
 
 ### Minecraft: Java Edition Java Profile Name
 
-![](https://dev-mc.visualstudio.com/4a14dd0d-3504-48d3-b8a8-248af2e13f1a/_apis/wit/attachments/2a327872-95e4-483b-a5c3-a8daa711d041)
-
 Your in-game name is your Java profile name and not your Gamertag. The only time you will see your Minecraft Java profile name is in-game and in your Minecraft account settings. You can update it by following these steps:
 
-1.  Go to the [My Minecraft Games](https://www.minecraft.net/en-us/login) Page.
-2.  Under Minecraft: Java Edition, select **Profile Name**.
-3.  Select your new name and press **Change Profile Name**.
+1.  Visit [My Minecraft Games](https://www.minecraft.net/en-us/login) on Minecraft.net and sign in with your Microsoft account.
+2.  Under Minecraft: Java Edition, select **Change Profile Name**.
+3.  Select your new name and click the **Change Your Profile Name** button.
 4.  You must [sign out completely](../Account-Sign-In/How-to-Sign-Out-of-Minecraft.md) and then sign back in to refresh your profile's authentication and connection with our servers.
 
 **Note:** You can change your Java profile name once every 30 days. If you change your mind after changing your Java profile name, you can go back to your old name after waiting 30 days.

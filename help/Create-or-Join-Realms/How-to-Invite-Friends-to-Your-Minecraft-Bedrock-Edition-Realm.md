@@ -1,7 +1,7 @@
 ---
 title: "How to Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
-updated: 2025-02-18T17:00:01Z
+updated: 2025-02-26T01:14:24Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -62,7 +62,7 @@ Be careful about where you post a share link to your Realm. Anyone who has acces
 
 1.  Sign in with your [Microsoft account on Minecraft.net](https://www.minecraft.net/en-us/login).
 2.  Select **All Games**.
-3.  On the Minecraft Bedrock Edition card, select your Realm under **Active Realms**.
+3.  On the Minecraft Bedrock Edition card, select your Realm under the **Realms** heading.
 4.  Under **Invite Members**, type your friend's Gamertag in the **Filter friends** field.
 5.  Press the **Invite** button on the friend you'd like to invite.
 
