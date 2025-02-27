@@ -1,6 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.21 (Tricky Trials)"
 date: 2024-06-13T16:08:14Z
+updated: 2025-02-27T12:14:33Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/27547857163917-Minecraft-Java-Edition-1-21-Tricky-Trials
 hash:
@@ -161,7 +162,7 @@ hash:
   h_01J095CMMK7FVRAEY839RRYZC4: commands
   h_01J095CMMK3ZD0DXBJ8PZ1X7RB: resource-pack-versions-33-through-34
   h_01J095CMMKXF22A8GEMKYMBXW7: shaders
-  h_01J095CMMKDY645V82RFA0N1Z3: fixed-bugs-in-121
+  h_01JN3N8CN3FFDFTQV02W80M8PA: fixed-bugs-in-121
   h_01J095CMMKG6BMDC8GQ1CBFK88: get-the-release
 ---
 
@@ -1789,9 +1790,242 @@ Fields:
 - The glint_direct shader has been removed, replaced with the pre-existing glint shader
 - The armor_glint shader has been removed, as it was unused
 
-## FIXED BUGS IN 1.21
+## Fixed bugs in 1.21
 
-Around 220 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=28429).
+ 
+
+- [MC-67](https://bugs.mojang.com/browse/MC-67) - Entities with passengers cannot travel through portals
+- [MC-902](https://bugs.mojang.com/browse/MC-902) - The end obsidian platform resets every time entities go through the end portal, which can cause blocks to be deleted
+- [MC-6431](https://bugs.mojang.com/browse/MC-6431) - Status effects are lost when returning to the overworld from the exit end portal
+- [MC-8983](https://bugs.mojang.com/browse/MC-8983) - Primed TNT cannot travel through nether portals
+- [MC-9568](https://bugs.mojang.com/browse/MC-9568) - Mobs suffocate / go through blocks when growing up near a solid block
+- [MC-9644](https://bugs.mojang.com/browse/MC-9644) - Launched falling_block entities do not travel through portals
+- [MC-14923](https://bugs.mojang.com/browse/MC-14923) - Players can be kicked for spamming in a singleplayer world with cheats disabled
+- [MC-16345](https://bugs.mojang.com/browse/MC-16345) - Reducing the player's base max health using /attribute does not always reduce their current health
+- [MC-26304](https://bugs.mojang.com/browse/MC-26304) - Brewing stands reset brew cycle when unloaded
+- [MC-31819](https://bugs.mojang.com/browse/MC-31819) - Hunger saturation depletes on peaceful difficulty
+- [MC-44280](https://bugs.mojang.com/browse/MC-44280) - Entities don't receive knockback from projectiles fired from dispensers
+- [MC-50612](https://bugs.mojang.com/browse/MC-50612) - Command blocks do not update when you place them near any source of power
+- [MC-59626](https://bugs.mojang.com/browse/MC-59626) - Arrows lose their Punch enchantment property when unloaded
+- [MC-76104](https://bugs.mojang.com/browse/MC-76104) - Guardians are unaffected by Thorns enchantment
+- [MC-78473](https://bugs.mojang.com/browse/MC-78473) - Mobs don't panic when hit with a summoned or dispensed potion of harming
+- [MC-83590](https://bugs.mojang.com/browse/MC-83590) - Armor attributes list can be too long
+- [MC-93669](https://bugs.mojang.com/browse/MC-93669) - The sweeping attack doesn't ignite other mobs when using the fire aspect enchantment
+- [MC-93833](https://bugs.mojang.com/browse/MC-93833) - Only if Health is provided maxHealth attribute is used as maximum Health value
+- [MC-96198](https://bugs.mojang.com/browse/MC-96198) - Boats / rafts move into blocks when landing in less than one block deep water
+- [MC-97087](https://bugs.mojang.com/browse/MC-97087) - Attributes won't work in main hand if they were in offhand
+- [MC-99411](https://bugs.mojang.com/browse/MC-99411) - Frost Walker ice only semi-affected by randomTickSpeed gamerule
+- [MC-101170](https://bugs.mojang.com/browse/MC-101170) - Portal sound doesn't get played when returning from End
+- [MC-110815](https://bugs.mojang.com/browse/MC-110815) - Slimes are summoned with the wrong amount of health
+- [MC-114566](https://bugs.mojang.com/browse/MC-114566) - Can't teleport back to the central island with End Gateway Portal on outer End islands
+- [MC-116279](https://bugs.mojang.com/browse/MC-116279) - Non-player entities going through Nether portal do not generate portal in Nether if none exists
+- [MC-116643](https://bugs.mojang.com/browse/MC-116643) - Silk Touch cannot be combined with Looting or Luck of the Sea
+- [MC-117361](https://bugs.mojang.com/browse/MC-117361) - Mob type specific damage enchantment (Smite, Bane of Arthropods) affects all nearby entities when hitting affected mob with Sweeping Edge
+- [MC-124177](https://bugs.mojang.com/browse/MC-124177) - Teleporting to another dimension loses some client states
+- [MC-131637](https://bugs.mojang.com/browse/MC-131637) - The slowness effect is applied to entities when the bane of arthropods enchantment is held in the off hand
+- [MC-136147](https://bugs.mojang.com/browse/MC-136147) - Riptide tridents use mainhand item to inflict damage when thrown in the offhand
+- [MC-137018](https://bugs.mojang.com/browse/MC-137018) - Killing rabbits with Looting and Fire Aspect only drops cooked rabbit sometimes
+- [MC-137719](https://bugs.mojang.com/browse/MC-137719) - The player's horizontal motion doesn't affect fired projectiles in certain situations
+- [MC-148741](https://bugs.mojang.com/browse/MC-148741) - Selection boxes in some screens are misaligned in comparison with their text
+- [MC-151648](https://bugs.mojang.com/browse/MC-151648) - Non-player entities cannot travel through unlinked nether portals
+- [MC-157215](https://bugs.mojang.com/browse/MC-157215) - Loading 2 crossbows with 1 arrow in the mainhand and offhand can cause the arrow in the hotbar/inventory to become a "ghost arrow"
+- [MC-158245](https://bugs.mojang.com/browse/MC-158245) - Fire Aspect enchantment from mobs can set you on fire even when blocking with a shield
+- [MC-160140](https://bugs.mojang.com/browse/MC-160140) - Shulker boxes on the obsidian platform are destroyed and do not drop when a player enters the End
+- [MC-166809](https://bugs.mojang.com/browse/MC-166809) - Cooldown rendering stutters while pausing
+- [MC-169698](https://bugs.mojang.com/browse/MC-169698) - Blocks within igloo basements can generate waterlogged when generating in close proximity to water
+- [MC-170103](https://bugs.mojang.com/browse/MC-170103) - Untamed wolves only beg for food while being angry and jumping
+- [MC-170907](https://bugs.mojang.com/browse/MC-170907) - Network position deltas are processed relative to a wrong point
+- [MC-172031](https://bugs.mojang.com/browse/MC-172031) - Throwing an ender pearl into a Nether or End portal often has no effect
+- [MC-175619](https://bugs.mojang.com/browse/MC-175619) - Dispenser drops honey bottle unless empty slot is available
+- [MC-175729](https://bugs.mojang.com/browse/MC-175729) - Walking on the edge of underwater soul soil with Depth Strider and Soul Speed doesn't show soul particles
+- [MC-177965](https://bugs.mojang.com/browse/MC-177965) - Putting on/taking off soul speed boots while standing on soul sand/soil does not properly give speed
+- [MC-178383](https://bugs.mojang.com/browse/MC-178383) - Horses, donkeys, mules and llamas spawned from spawn eggs or /summon command have 53 health
+- [MC-179940](https://bugs.mojang.com/browse/MC-179940) - Player's attributes reset back to default values upon respawning
+- [MC-181604](https://bugs.mojang.com/browse/MC-181604) - Exiting the end portal resets player attributes to their default values
+- [MC-182606](https://bugs.mojang.com/browse/MC-182606) - When sneak-walking with Soul Speed on a Soul Sand or Soul Soil block (most noticeably) adjacent to lava, too many soul particles spawn
+- [MC-188693](https://bugs.mojang.com/browse/MC-188693) - FOV doesn't change back when riding a mob after staying on Soul Sand with Soul Speed
+- [MC-189365](https://bugs.mojang.com/browse/MC-189365) - Player can retain Soul Speed effect by bridging
+- [MC-191591](https://bugs.mojang.com/browse/MC-191591) - Saddles lose their NBT data when equipped on horses, zombie horses, skeleton horses, mules or donkeys via right-clicking
+- [MC-193343](https://bugs.mojang.com/browse/MC-193343) - Soul Speed effect remains after switching to spectator mode
+- [MC-195931](https://bugs.mojang.com/browse/MC-195931) - Incorrect amount of damage heart particles shown when hitting some entities for the first time
+- [MC-200899](https://bugs.mojang.com/browse/MC-200899) - Players don't receive thorns damage when attacking entities wearing thorns armor with indirect sweeping attacks
+- [MC-200991](https://bugs.mojang.com/browse/MC-200991) - Soul Speed in minecart uses durability
+- [MC-213349](https://bugs.mojang.com/browse/MC-213349) - Certain mobs that can melee can't use the Fire Aspect enchantment
+- [MC-215144](https://bugs.mojang.com/browse/MC-215144) - A re-created "Default" world has world type of "Custom"
+- [MC-223165](https://bugs.mojang.com/browse/MC-223165) - Snout banner pattern is treated as common loot
+- [MC-223301](https://bugs.mojang.com/browse/MC-223301) - Goats not taking damage when attacking with Thorns armor equipped
+- [MC-224743](https://bugs.mojang.com/browse/MC-224743) - Jumping on soul sand uses durability of Soul Speed boots
+- [MC-225312](https://bugs.mojang.com/browse/MC-225312) - Evokers using evoker fangs are not affected by the Thorns enchantment
+- [MC-225870](https://bugs.mojang.com/browse/MC-225870) - Breeding an axolotl in creative replaces the bucket of tropical fish
+- [MC-226894](https://bugs.mojang.com/browse/MC-226894) - Entering the end while in water depletes hunger
+- [MC-228598](https://bugs.mojang.com/browse/MC-228598) - Item count desync when firing an arrow while switching to a different hotbar slot
+- [MC-232770](https://bugs.mojang.com/browse/MC-232770) - Entities receive knockback from incorrect directions when being damaged by firework explosions
+- [MC-234162](https://bugs.mojang.com/browse/MC-234162) - The "minecraft:ui.button.click" sound isn't played when adjusting sliders if the mouse cursor is released while not being held over them
+- [MC-234880](https://bugs.mojang.com/browse/MC-234880) - Llama's unaffected by Thorns
+- [MC-237057](https://bugs.mojang.com/browse/MC-237057) - The "minecraft:particle.soul_escape" sound is very rarely heard by other players when using boots enchanted with soul speed
+- [MC-237063](https://bugs.mojang.com/browse/MC-237063) - Particles produced from using boots enchanted with soul speed are inconsistently displayed for other players
+- [MC-248272](https://bugs.mojang.com/browse/MC-248272) - Enchantment::doPostHurt and Enchantment::doPostAttack are called twice for players
+- [MC-252361](https://bugs.mojang.com/browse/MC-252361) - Obsidian platform in end is off by a block from entering from the nether compared to overworld
+- [MC-252691](https://bugs.mojang.com/browse/MC-252691) - Player spawns on a bedrock layer when the world is first created as a SuperFlat world with non-full blocks on the surface
+- [MC-252817](https://bugs.mojang.com/browse/MC-252817) - Placing a map into an item frame and removing it does not remove the green player marker
+- [MC-252846](https://bugs.mojang.com/browse/MC-252846) - Mobs can pass through fences with carpets on top when growing up
+- [MC-253209](https://bugs.mojang.com/browse/MC-253209) - Some mobs will no longer panic when receiving poison/wither damage
+- [MC-253457](https://bugs.mojang.com/browse/MC-253457) - Cats and Ocelots are immune to Thorns damage
+- [MC-253791](https://bugs.mojang.com/browse/MC-253791) - Frogs suffocating when growing
+- [MC-254004](https://bugs.mojang.com/browse/MC-254004) - Falling Block Entities do not process their End Gateway Cooldown Timer
+- [MC-255218](https://bugs.mojang.com/browse/MC-255218) - Fly mode is disabled after teleporting from the End to the Overworld through the end portal
+- [MC-258967](https://bugs.mojang.com/browse/MC-258967) - Entities receive knockback from splash potions based on the direction that the said entity was facing when throwing the potion
+- [MC-259811](https://bugs.mojang.com/browse/MC-259811) - Paintings with non-existent variant entity tag are falsely labeled as random variant
+- [MC-259987](https://bugs.mojang.com/browse/MC-259987) - Damage command only issues knockback if it was done by an entity
+- [MC-260346](https://bugs.mojang.com/browse/MC-260346) - Custom music discs cut off when vanilla disc would normally end
+- [MC-261701](https://bugs.mojang.com/browse/MC-261701) - Lag spike when opening creative inventory for first time in world
+- [MC-262469](https://bugs.mojang.com/browse/MC-262469) - The "Remote Getaway" advancement isn't granted upon traveling through end gateways while riding boats
+- [MC-265009](https://bugs.mojang.com/browse/MC-265009) - Explosion knockback reduction caused by Blast Protection does not stack with several enchanted armor pieces
+- [MC-265088](https://bugs.mojang.com/browse/MC-265088) - Onboarding Narrator button doesn't update upon pressing Ctrl+B
+- [MC-265583](https://bugs.mojang.com/browse/MC-265583) - Incorrect pluralization for skin customization strings for pants
+- [MC-265818](https://bugs.mojang.com/browse/MC-265818) - The "gamerule.doVinesSpread.description" string consists of grammatically incorrect word usage
+- [MC-266113](https://bugs.mojang.com/browse/MC-266113) - Copper doors are in the \#minecraft:wooden_doors tag
+- [MC-266118](https://bugs.mojang.com/browse/MC-266118) - Copper doors are in the \#minecraft:mineable/axe tag
+- [MC-266140](https://bugs.mojang.com/browse/MC-266140) - The "Open link" button within the realms menu is improperly capitalized
+- [MC-266290](https://bugs.mojang.com/browse/MC-266290) - Double doors do not automatically form between waxed and unwaxed copper doors, even of the same variant
+- [MC-266431](https://bugs.mojang.com/browse/MC-266431) - Trial chambers intersect with the bedrock layer
+- [MC-266471](https://bugs.mojang.com/browse/MC-266471) - Trial chambers can intersect aquifers, causing some blocks inside the structure to be waterlogged
+- [MC-266556](https://bugs.mojang.com/browse/MC-266556) - Trial spawner cannot be activated in peaceful difficulty
+- [MC-266586](https://bugs.mojang.com/browse/MC-266586) - Trial chambers can spawn directly inside the deep dark biome
+- [MC-266626](https://bugs.mojang.com/browse/MC-266626) - Breeze doesn't stop attacking the player when it enters on the same team
+- [MC-267050](https://bugs.mojang.com/browse/MC-267050) - Chat disabled strings are missing verbs
+- [MC-267071](https://bugs.mojang.com/browse/MC-267071) - The word "packs" within the "download.pack.failed" string is always pluralized
+- [MC-267154](https://bugs.mojang.com/browse/MC-267154) - Using an Eye of Ender plays the minecraft:entity.ender_eye.launch sound event twice
+- [MC-267230](https://bugs.mojang.com/browse/MC-267230) - Hangul fonts are rendered with missing pixels
+- [MC-267441](https://bugs.mojang.com/browse/MC-267441) - When a player's generic.step_height attribute is set to more than two, attempting to step atop of more than two blocks may fail if there are blocks higher up
+- [MC-267474](https://bugs.mojang.com/browse/MC-267474) - Strings referencing the player's off hand are inconsistently spelled
+- [MC-267498](https://bugs.mojang.com/browse/MC-267498) - Operation names in /attribute and item modifiers' set_attributes are different
+- [MC-267947](https://bugs.mojang.com/browse/MC-267947) - Ender pearls can teleport players in spectator mode
+- [MC-267951](https://bugs.mojang.com/browse/MC-267951) - The game freezes and eventually crashes when creating a world with the "spawnChunkRadius" gamerule set to high values
+- [MC-267954](https://bugs.mojang.com/browse/MC-267954) - World upgrade and downgrade realms strings are improperly capitalized
+- [MC-267967](https://bugs.mojang.com/browse/MC-267967) - Breezes ignore the deflects_projectiles entity type tag
+- [MC-267968](https://bugs.mojang.com/browse/MC-267968) - Medium slimes from trial chamber spawners take damage incorrectly when first hit
+- [MC-267981](https://bugs.mojang.com/browse/MC-267981) - The "Trial Spawner crackles" subtitle is only displayed for a split second upon the "minecraft:block.trial_spawner.ambient" sound being played
+- [MC-267988](https://bugs.mojang.com/browse/MC-267988) - Tamed entities ignore their "LookAtPlayerGoal" distance and look in the direction of their owners from any distance when being stood up
+- [MC-268023](https://bugs.mojang.com/browse/MC-268023) - The "selectWorld.experimental.details.title" string displayed within the experimental features details menu is improperly capitalized
+- [MC-268106](https://bugs.mojang.com/browse/MC-268106) - Entities' current health is not capped at their max health in all applicable situations
+- [MC-268113](https://bugs.mojang.com/browse/MC-268113) - the minecraft:generic.scale attribute is desynchronized when the player leaves the End dimension via an End portal
+- [MC-268185](https://bugs.mojang.com/browse/MC-268185) - Copper grates in trial chambers are waterlogged
+- [MC-268347](https://bugs.mojang.com/browse/MC-268347) - Setting gravity higher than 0.84 allows you to jump up a block
+- [MC-268367](https://bugs.mojang.com/browse/MC-268367) - Arrows repeatedly bouncing off a breeze spam sound
+- [MC-268369](https://bugs.mojang.com/browse/MC-268369) - Wind charges delete arrows without blowing up
+- [MC-268370](https://bugs.mojang.com/browse/MC-268370) - Japanese CJK variants use the same diacritic
+- [MC-268438](https://bugs.mojang.com/browse/MC-268438) - Baby armadillos can still eat while rolled up
+- [MC-268551](https://bugs.mojang.com/browse/MC-268551) - When a wind charge is fired from a dispenser, it makes a "dispensed item" sound instead of a "Wind Charge flies" sound
+- [MC-268564](https://bugs.mojang.com/browse/MC-268564) - Entities receive knockback from incorrect directions when being hit by projectiles deflected by breezes
+- [MC-268598](https://bugs.mojang.com/browse/MC-268598) - The "weight" of skeletons in swamp biomes is too high causing less bogged spawns
+- [MC-268772](https://bugs.mojang.com/browse/MC-268772) - Fall damage multiplier attribute has unintuitive coloring
+- [MC-269034](https://bugs.mojang.com/browse/MC-269034) - Wolves no longer teleport while trying to pathfind out of Lava
+- [MC-269036](https://bugs.mojang.com/browse/MC-269036) - Bogged do not drop mushrooms when sheared with doMobLoot false
+- [MC-269147](https://bugs.mojang.com/browse/MC-269147) - Shearing a bogged spawns mushrooms at the bogged's feet
+- [MC-269318](https://bugs.mojang.com/browse/MC-269318) - Books placed on a lectern in creative mode are consumed
+- [MC-269351](https://bugs.mojang.com/browse/MC-269351) - The Bolt Armor Trim cannot be duplicated with Waxed Copper Block
+- [MC-269359](https://bugs.mojang.com/browse/MC-269359) - "Field Masoned", "Skull Charge", "Flow", and "Guster" banner patterns are not mirrored on the backside
+- [MC-269370](https://bugs.mojang.com/browse/MC-269370) - Sharp lag spike caused by incorrect upper limit on particles created by mace smash attack
+- [MC-269389](https://bugs.mojang.com/browse/MC-269389) - Flow banner pattern is treated as common loot
+- [MC-269390](https://bugs.mojang.com/browse/MC-269390) - Guster banner pattern is treated as common loot
+- [MC-269439](https://bugs.mojang.com/browse/MC-269439) - Some diacritics intersect the language box in the languages menu
+- [MC-269460](https://bugs.mojang.com/browse/MC-269460) - Thorns enchantment doesn't work when entities are hit by wind charges
+- [MC-269574](https://bugs.mojang.com/browse/MC-269574) - Client attribute values may desync from the server after leaving the end
+- [MC-269601](https://bugs.mojang.com/browse/MC-269601) - Mace smash attack does not knock back other players when they are not the attacked entity
+- [MC-269617](https://bugs.mojang.com/browse/MC-269617) - When ender pearls teleport non-player entities, no teleportation sound is played upon impact
+- [MC-269633](https://bugs.mojang.com/browse/MC-269633) - Placing an oversized filled bucket resets the stack size to 1
+- [MC-269642](https://bugs.mojang.com/browse/MC-269642) - Eating an oversized Soup / Stew resets the stack size to 1
+- [MC-269674](https://bugs.mojang.com/browse/MC-269674) - Oversized book and quill stacks reset count when signed
+- [MC-269685](https://bugs.mojang.com/browse/MC-269685) - Buckets are lost when consuming oversized milk buckets
+- [MC-269686](https://bugs.mojang.com/browse/MC-269686) - Oversized music disc stacks can be duplicated with jukeboxes
+- [MC-269708](https://bugs.mojang.com/browse/MC-269708) - Dispensers using an oversized stack of Water Bottles resets the stack size to 1
+- [MC-269717](https://bugs.mojang.com/browse/MC-269717) - Cauldron deletes overstacked tinted shulker boxes
+- [MC-269809](https://bugs.mojang.com/browse/MC-269809) - Feeding an axolotl an oversized tropical fish bucket resets the stack size to 1
+- [MC-269881](https://bugs.mojang.com/browse/MC-269881) - Flow and Bolt Armor Trims don't grant "Crafting a New Look" advancement
+- [MC-269921](https://bugs.mojang.com/browse/MC-269921) - Wind charges can be thrown though corners
+- [MC-269951](https://bugs.mojang.com/browse/MC-269951) - When the gamerule "doImmediateRespawn" is set to true, the Wind Charged, Oozing or Weaving effects don't function for players
+- [MC-269958](https://bugs.mojang.com/browse/MC-269958) - New effects are not required for the "How Did We Get Here?" advancement
+- [MC-269964](https://bugs.mojang.com/browse/MC-269964) - Ominous item spawners are missing an NBT load for spawn_item_after_ticks
+- [MC-269966](https://bugs.mojang.com/browse/MC-269966) - "A Furious Cocktail" Advancement does not require the new potion effects
+- [MC-269969](https://bugs.mojang.com/browse/MC-269969) - Using a normal trial key on the ominous vault grants Under Lock and Key advancement
+- [MC-269978](https://bugs.mojang.com/browse/MC-269978) - The centrial dispenser in eruption trial chamber is missing a water bucket
+- [MC-269988](https://bugs.mojang.com/browse/MC-269988) - New potion effects don't apply their respective behaviors when creeper explodes
+- [MC-270021](https://bugs.mojang.com/browse/MC-270021) - Drinking a single ominous bottle in survival doesn't grant bad omen with the correct amplifier
+- [MC-270024](https://bugs.mojang.com/browse/MC-270024) - When drinking ominous bottles, bad omen of higher levels can be overriden by lower amplifiers
+- [MC-270031](https://bugs.mojang.com/browse/MC-270031) - Arrows spawned from ominous trial spawner can be picked up
+- [MC-270033](https://bugs.mojang.com/browse/MC-270033) - Infested or Oozing effect cloud shrinks when silverfish or slime enters it
+- [MC-270047](https://bugs.mojang.com/browse/MC-270047) - Axes prioritize scraping copper over blocking with shields
+- [MC-270052](https://bugs.mojang.com/browse/MC-270052) - Blur levels below 10% do not appear to actually work
+- [MC-270181](https://bugs.mojang.com/browse/MC-270181) - Wind charges go through an entity if it is close to a player
+- [MC-270216](https://bugs.mojang.com/browse/MC-270216) - Mace smash attack particles cannot be reduced with the Particles setting
+- [MC-270278](https://bugs.mojang.com/browse/MC-270278) - "Who needs rockets?" is granted at heights lower than 8 blocks when using slow falling
+- [MC-270296](https://bugs.mojang.com/browse/MC-270296) - Ominous Item Spawner spawns unstackable arrows with potion effects
+- [MC-270301](https://bugs.mojang.com/browse/MC-270301) - The fire protection enchantment applied to horse armor no longer decreases the duration of time the horse remains ablaze
+- [MC-270377](https://bugs.mojang.com/browse/MC-270377) - Wind charges can be hit and redirected the moment they are thrown
+- [MC-270379](https://bugs.mojang.com/browse/MC-270379) - Buttons and Levers don't make sounds when toggled by Wind Charges
+- [MC-270499](https://bugs.mojang.com/browse/MC-270499) - Riptide trident in off-hand applies mace effects in main hand
+- [MC-270539](https://bugs.mojang.com/browse/MC-270539) - The blast protection enchantment, when applied to horse armor, no longer diminishes the knockback effect from explosions on horse
+- [MC-270540](https://bugs.mojang.com/browse/MC-270540) - The prevention of fall damage from wind charges is not retained upon reloading the world
+- [MC-270572](https://bugs.mojang.com/browse/MC-270572) - Programmer Art resource pack duplicates some GUI texture files
+- [MC-270573](https://bugs.mojang.com/browse/MC-270573) - Mounted entities are immune to wind charge damage
+- [MC-270584](https://bugs.mojang.com/browse/MC-270584) - Vault/Ominous Vault loot isn't predetermined, allowing players to create backups of their worlds to get desired rewards
+- [MC-270588](https://bugs.mojang.com/browse/MC-270588) - Hitting Wind Charges and Fireballs makes no sound
+- [MC-270635](https://bugs.mojang.com/browse/MC-270635) - Trial spawners textures are inconsistent
+- [MC-270637](https://bugs.mojang.com/browse/MC-270637) - maxEntityCramming set to 0 prevents slime spawning from oozing effect
+- [MC-270649](https://bugs.mojang.com/browse/MC-270649) - The width of challenge advancements header is calculated in relation to the slash formatting of progress counter, causing overlap in some languages
+- [MC-270682](https://bugs.mojang.com/browse/MC-270682) - modify_contents item modifier can create overstacked items
+- [MC-270684](https://bugs.mojang.com/browse/MC-270684) - set_attributes loot function doesn't accept an empty list
+- [MC-270749](https://bugs.mojang.com/browse/MC-270749) - Remote Getaway advancement is not granted when entering a gateway by throwing an ender pearl next to it
+- [MC-270779](https://bugs.mojang.com/browse/MC-270779) - Getting data with /data command from a block/chest with a large amount of data can cause the game to crash
+- [MC-270789](https://bugs.mojang.com/browse/MC-270789) - Only mace smash attacks increment "Times Used" stat
+- [MC-270791](https://bugs.mojang.com/browse/MC-270791) - Mace smash attack can knockback tamed mobs
+- [MC-270795](https://bugs.mojang.com/browse/MC-270795) - Mobs despawned by Ominous Trial Spawners can delete picked up items
+- [MC-270808](https://bugs.mojang.com/browse/MC-270808) - Any item in the armor.body slot protects wolves from taking damage
+- [MC-270818](https://bugs.mojang.com/browse/MC-270818) - Data generator items report is not deterministic
+- [MC-270821](https://bugs.mojang.com/browse/MC-270821) - Regular Trial Spawners spawn the first mob with Ominous Trial equipment if they were last active as Ominous
+- [MC-270849](https://bugs.mojang.com/browse/MC-270849) - Breeze can extinguish lit candles when mobGriefing is false
+- [MC-270926](https://bugs.mojang.com/browse/MC-270926) - "foodSaturationLevel" can be negative
+- [MC-270934](https://bugs.mojang.com/browse/MC-270934) - Missing trial chamber structure minecraft:trial_chambers/chamber/addon/c6
+- [MC-270965](https://bugs.mojang.com/browse/MC-270965) - The data type of the "minecraft:custom_data" component of the recipe result will be forcibly modified
+- [MC-270974](https://bugs.mojang.com/browse/MC-270974) - Breeze wind charges can change activation blockstates of redstone components when mobGriefing is disabled
+- [MC-270977](https://bugs.mojang.com/browse/MC-270977) - Breezes don't make deflection sounds
+- [MC-270981](https://bugs.mojang.com/browse/MC-270981) - View Bobbing toggle is not available in Accessibility Settings
+- [MC-271001](https://bugs.mojang.com/browse/MC-271001) - Items in a container can be given a count above 99 (to max integer), and can crash the world
+- [MC-271005](https://bugs.mojang.com/browse/MC-271005) - Knowledge books with a max stack size over 1 consume all items in the stack when used
+- [MC-271026](https://bugs.mojang.com/browse/MC-271026) - Components that set a status effect sometimes lose parts of the data
+- [MC-271034](https://bugs.mojang.com/browse/MC-271034) - List entries in the Social interaction menu are rendered over the background
+- [MC-271039](https://bugs.mojang.com/browse/MC-271039) - Upgrading to 1.20.5 leads to the removal of all enchantments if item had the "sweeping" enchantment without namespace
+- [MC-271094](https://bugs.mojang.com/browse/MC-271094) - Entity ID inside EntityTag is ignored when updating a world to 1.20.5
+- [MC-271157](https://bugs.mojang.com/browse/MC-271157) - "Telemetry is disabled" tooltip does not get updated when the client locale changes
+- [MC-271159](https://bugs.mojang.com/browse/MC-271159) - Banner pattern entries without colors are invalidated when upgrading to 1.20.5
+- [MC-271168](https://bugs.mojang.com/browse/MC-271168) - Demo timer does not respect "Text Background" setting
+- [MC-271170](https://bugs.mojang.com/browse/MC-271170) - Unexpected error when modifying skull's custom name to an invalid value
+- [MC-271199](https://bugs.mojang.com/browse/MC-271199) - Advancement 'Local Brewery' not granted on shift-clicking
+- [MC-271244](https://bugs.mojang.com/browse/MC-271244) - Auto-save text does not respect "Text Background" setting in accessibility settings
+- [MC-271293](https://bugs.mojang.com/browse/MC-271293) - Wind charge, fireball and shulker bullet makes a "Burning" sound as it passes through the lava
+- [MC-271353](https://bugs.mojang.com/browse/MC-271353) - Crafting UI flickers incorrect or blank recipes when choosing items from the recipe book
+- [MC-271360](https://bugs.mojang.com/browse/MC-271360) - Horse armor and wolf armor are deleted when used on an armor stand
+- [MC-271414](https://bugs.mojang.com/browse/MC-271414) - Damage command at position applies knockback in random direction
+- [MC-271897](https://bugs.mojang.com/browse/MC-271897) - End Portal makes items disappear
+- [MC-271980](https://bugs.mojang.com/browse/MC-271980) - Arrows/bee stingers stuck in players disappear when leaving the end
+- [MC-272014](https://bugs.mojang.com/browse/MC-272014) - Ender Dragon death animation is broken since 20w22a (and broken again in 20w45a)
+- [MC-272073](https://bugs.mojang.com/browse/MC-272073) - Item displays with billboard and rotation values create major visual bug
+- [MC-272079](https://bugs.mojang.com/browse/MC-272079) - Medium/small Slimes and magma cube's attack reach is too short
+- [MC-272194](https://bugs.mojang.com/browse/MC-272194) - Empty Attribute Modifiers lost during upgrade
+- [MC-272198](https://bugs.mojang.com/browse/MC-272198) - Shulkers' models sometimes appear offset upon end city generation
+- [MC-272241](https://bugs.mojang.com/browse/MC-272241) - Error when traveling through nether portal outside world border
+- [MC-272253](https://bugs.mojang.com/browse/MC-272253) - The strength of the riptide enchantment is increased when holding tridents enchanted with riptide in both hands
+- [MC-272267](https://bugs.mojang.com/browse/MC-272267) - "Changes the blurriness of menu background" lacks punctuation
+- [MC-272279](https://bugs.mojang.com/browse/MC-272279) - Resource packs containing TrueType fonts fail to load on x64 macOS systems
+- [MC-272308](https://bugs.mojang.com/browse/MC-272308) - Axolots can be attached to new leads when being already leashed
+- [MC-272445](https://bugs.mojang.com/browse/MC-272445) - Command blocks made from Ctrl + Pick Block do not activate on first try
+- [MC-272469](https://bugs.mojang.com/browse/MC-272469) - When the wind charge, fireball or shulker bullet is in the lava, it will continue to make a high-loudness noise
+- [MC-272515](https://bugs.mojang.com/browse/MC-272515) - Component-Modified Saddles get their components wiped when dispensed onto a horse, mule, or camel.
+- [MC-272808](https://bugs.mojang.com/browse/MC-272808) - Step height steps too high when there's a gap the player can fit through
+- [MC-272996](https://bugs.mojang.com/browse/MC-272996) - Using "/execute in..." to switch dimensions causes the player to fall when flying
+
+ 
 
 ## GET THE RELEASE
 

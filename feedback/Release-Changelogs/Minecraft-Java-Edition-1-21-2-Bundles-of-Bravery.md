@@ -1,12 +1,12 @@
 ---
 title: "Minecraft: Java Edition 1.21.2 - Bundles of Bravery"
 date: 2024-10-22T15:17:46Z
-updated: 2024-10-23T13:16:31Z
+updated: 2025-02-27T12:29:42Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/31261174284557-Minecraft-Java-Edition-1-21-2-Bundles-of-Bravery
 hash:
   h_01JATDA9WMSDR8DYA53NNENY0S: bundles-of-bravery-out-now-for-java
-  section: ""
+  h_01JN3NE38VQ6226WW9KPX1SFFW: ""
   h_01JATDA5789ZQZ5CFHCX75PSS0: new-features
   h_01JATDB0FQ9KHXSRYXSAP6A930: bundles
   h_01JATDC1SYDVV8C8YKQE412F4F: changes
@@ -115,12 +115,13 @@ hash:
   h_01JATDJ19VFB7KPHGR0YNXNACH: order-in-which-a-line-of-wire-changes
   h_01JATDJER2EVT2S27AMF7D0B6Q: block-updates-around-a-wire
   h_01JATDJER2N8W9QZJKM7EZQVX8: known-issues
-  section-1: "-7"
+  h_01JN3NE390YFDNDC4EX7AR06TY: "-7"
   h_01JATDJER26MQKX5MGCQNGCKWN: minecart-improvements
-  section-2: "-8"
+  h_01JN3NE390FTS3PJBBK9XT9MD6: "-8"
   h_01JATDK9FT2ZG8BJRFQBG7BETZ: movement-changes
   h_01JATDK9FT7M9N28MBCN6YYEF8: minecart-changes
   h_01JATDK9FTYA5TGYY2B3PQN7E5: known-impact
+  h_01JN3NFGS5BTZB973CVHM2YN0P: fixed-bugs-in-1212
   h_01JATDK9FT937DJ0TH416G14JV: get-the-release
 ---
 
@@ -1279,6 +1280,474 @@ We are excited to hear what you think about these changes: please share your fee
 - We are aware that these changes will affect certain contraptions such as 'piston bolts', which may now not work at all, or have their behavior changed
 - Very delicate rail networks will have their timings changed due to slight changes in speeds, movement distance, friction etc.
 - Contraptions that rely on Minecarts snapping to rails will no longer work, or have their behavior changed
+
+ 
+
+## Fixed bugs in 1.21.2
+
+- [MC-379](https://bugs.mojang.com/browse/MC-379) - spawn-animals and spawn-npcs=false removes all villagers and prevents summoning new mobs
+- [MC-1673](https://bugs.mojang.com/browse/MC-1673) - Several mobs can pop off paintings, item frames and leads and destroy minecarts, armor stands and anything in item form even when mobGriefing is turned off
+- [MC-3266](https://bugs.mojang.com/browse/MC-3266) - Your experience level overflows once it exceeds the integer limit
+- [MC-3697](https://bugs.mojang.com/browse/MC-3697) - TNT submerged in water can destroy item frames, paintings, armor stands, and other similar entities
+- [MC-4665](https://bugs.mojang.com/browse/MC-4665) - Anvil consuming 2 unbroken items of the same kind when renaming them
+- [MC-13246](https://bugs.mojang.com/browse/MC-13246) - On certain enchanted items, the Anvil will display a "too expensive" message before attempting to repair, combine, or rename them
+- [MC-14800](https://bugs.mojang.com/browse/MC-14800) - When zombie villagers, husks, drowned or zombified piglins are damaged, they spawn regular zombie reinforcements
+- [MC-16829](https://bugs.mojang.com/browse/MC-16829) - The horse armor model does not show the enchantment glint effect
+- [MC-38022](https://bugs.mojang.com/browse/MC-38022) - Order of rendering translucent block faces fails to update with camera position
+- [MC-39263](https://bugs.mojang.com/browse/MC-39263) - Cannot set horizontal Motion for squid on land
+- [MC-49628](https://bugs.mojang.com/browse/MC-49628) - When in spectator mode the head overlay shows even if it is set not to show in the skin customisation options
+- [MC-51905](https://bugs.mojang.com/browse/MC-51905) - Horse model in inventory doesn't follow mouse cursor correctly if horse is facing south
+- [MC-53602](https://bugs.mojang.com/browse/MC-53602) - Projectiles don't collide with the world border
+- [MC-54532](https://bugs.mojang.com/browse/MC-54532) - Sneaking while falling on Slime Blocks inflicts fall damage
+- [MC-58294](https://bugs.mojang.com/browse/MC-58294) - Squids and glow squids do not collide properly with solid blocks
+- [MC-59471](https://bugs.mojang.com/browse/MC-59471) - String can be duplicated using tripwire hooks
+- [MC-64265](https://bugs.mojang.com/browse/MC-64265) - Teleporting passengers does not dismount them
+- [MC-72494](https://bugs.mojang.com/browse/MC-72494) - In Statistics screen 'm' is the same unit for both minutes and meters
+- [MC-73178](https://bugs.mojang.com/browse/MC-73178) - Villagers' "CanPickUpLoot" tag cannot be set to zero
+- [MC-75494](https://bugs.mojang.com/browse/MC-75494) - Lead item drop is not affected by doEntityDrops gamerule
+- [MC-86252](https://bugs.mojang.com/browse/MC-86252) - Shields can continue to block after entity changes dimensions due to client and server desync
+- [MC-88967](https://bugs.mojang.com/browse/MC-88967) - Most NBT tags are not kept when a mob converts to another mob
+- [MC-89883](https://bugs.mojang.com/browse/MC-89883) - Squid and glow squid collision error and rubberbanding
+- [MC-92875](https://bugs.mojang.com/browse/MC-92875) - Collisionless blocks ignore entities with high velocity
+- [MC-101376](https://bugs.mojang.com/browse/MC-101376) - Elytra appearance doesn't update in 1st person mode; only in 3rd person
+- [MC-108323](https://bugs.mojang.com/browse/MC-108323) - Underlines in chat and /title command intersect each other, causing an ugly effect when fading
+- [MC-110386](https://bugs.mojang.com/browse/MC-110386) - Certain mobs attack themselves when targeted by a mob of the same type
+- [MC-112257](https://bugs.mojang.com/browse/MC-112257) - Some NBT tags require the correct suffix
+- [MC-116618](https://bugs.mojang.com/browse/MC-116618) - Dropping items rapidly inside the "Survival Inventory" tab in creative mode deletes items
+- [MC-119369](https://bugs.mojang.com/browse/MC-119369) - Boats crash/break and can kill their passengers when falling certain distances
+- [MC-120417](https://bugs.mojang.com/browse/MC-120417) - Incorrect dragon egg block model
+- [MC-121013](https://bugs.mojang.com/browse/MC-121013) - "Followrange" Attribute only targets mobs on (roughly) the same y level.
+- [MC-123739](https://bugs.mojang.com/browse/MC-123739) - Recipe book entries are no longer sorted in any meaningful manner
+- [MC-123742](https://bugs.mojang.com/browse/MC-123742) - Eyes of Endermen turn white when they are looking up during the day
+- [MC-124331](https://bugs.mojang.com/browse/MC-124331) - Redstone lamps do not show on maps
+- [MC-125642](https://bugs.mojang.com/browse/MC-125642) - Bone meal is consumed when used on fern, grass and seagrass even if it cannot grow
+- [MC-127995](https://bugs.mojang.com/browse/MC-127995) - You can use bone meal on sea pickles in situations where no sea pickles will grow
+- [MC-129055](https://bugs.mojang.com/browse/MC-129055) - Issues breaking tripwire with shears
+- [MC-129298](https://bugs.mojang.com/browse/MC-129298) - Drowned don't chase you if they are in 1 block deep water
+- [MC-129826](https://bugs.mojang.com/browse/MC-129826) - \["shade": false\] is missing from potted cross models, resulting in most potted plants appearing darker than they should
+- [MC-130097](https://bugs.mojang.com/browse/MC-130097) - Tropical fish fin UV mapping wrong
+- [MC-131215](https://bugs.mojang.com/browse/MC-131215) - Cannot teleport an entity which is in a boat
+- [MC-132804](https://bugs.mojang.com/browse/MC-132804) - Low follow range attribute also affects mobs' idle wandering range
+- [MC-133862](https://bugs.mojang.com/browse/MC-133862) - Optimize world screen backup button has inaccurate text
+- [MC-134626](https://bugs.mojang.com/browse/MC-134626) - Squids/glow squids bounce up and down in bubble columns, teleporting high up in the air
+- [MC-135898](https://bugs.mojang.com/browse/MC-135898) - Teams are not retained when a mob converts to another mob
+- [MC-135971](https://bugs.mojang.com/browse/MC-135971) - Can't use CTRL+Q in crafting table
+- [MC-137053](https://bugs.mojang.com/browse/MC-137053) - You cannot set the "CanBreakDoors" NBT tag of drowned to "1b"
+- [MC-144327](https://bugs.mojang.com/browse/MC-144327) - The bottom face texture of a blaze's rods is the same as their top face texture
+- [MC-144761](https://bugs.mojang.com/browse/MC-144761) - Animated texture interpolation ignores alpha channel during transition from/to transparent pixels
+- [MC-145656](https://bugs.mojang.com/browse/MC-145656) - Attribute "follow_range" is not working for hostile mobs before they find the target
+- [MC-146805](https://bugs.mojang.com/browse/MC-146805) - Trader Llamas don't attack zombies, drowned, husks, zombie villager and illagers
+- [MC-148041](https://bugs.mojang.com/browse/MC-148041) - Two separate translation lines for the same thing, "Bells Rung" statistic
+- [MC-148982](https://bugs.mojang.com/browse/MC-148982) - Map color for wheat is incorrect
+- [MC-151706](https://bugs.mojang.com/browse/MC-151706) - Player jitters when landing on a slime block with the slow falling effect
+- [MC-151828](https://bugs.mojang.com/browse/MC-151828) - Woodland mansion structure '1x1_b3' has dark oak leaf block with persistent tag set to 'false'
+- [MC-154053](https://bugs.mojang.com/browse/MC-154053) - Trader llama spitting far distance when attacked
+- [MC-156579](https://bugs.mojang.com/browse/MC-156579) - Creative players can fly through portals when going quickly enough using elytra or Riptide trident
+- [MC-156857](https://bugs.mojang.com/browse/MC-156857) - Shift-clicking X button in Creative menu can create ghost items
+- [MC-158389](https://bugs.mojang.com/browse/MC-158389) - Raid results in victory if it cannot find a valid spawn point
+- [MC-161913](https://bugs.mojang.com/browse/MC-161913) - Misalignment on edges/corners of clouds
+- [MC-162551](https://bugs.mojang.com/browse/MC-162551) - When shooting an arrow on top of a player in Creative mode, a closed shulker, or an invincible mob, the arrow glitches around on top of the entity
+- [MC-162713](https://bugs.mojang.com/browse/MC-162713) - Clouds are generated with offset to east and south
+- [MC-164258](https://bugs.mojang.com/browse/MC-164258) - Recipe book search field is not selected when clicking on the search icon
+- [MC-165182](https://bugs.mojang.com/browse/MC-165182) - Inventory/GUI textures no longer handle translucent pixels correctly
+- [MC-166880](https://bugs.mojang.com/browse/MC-166880) - Pufferfish spikes model seems to be broken
+- [MC-167242](https://bugs.mojang.com/browse/MC-167242) - Bed stays occupied after a lightning turns the villager sleeping in it into a witch
+- [MC-167900](https://bugs.mojang.com/browse/MC-167900) - Shulker Head texture doesn't support transparency
+- [MC-167906](https://bugs.mojang.com/browse/MC-167906) - Beehive items at full honey level do not appear with honey in inventory/as item/in hand
+- [MC-168329](https://bugs.mojang.com/browse/MC-168329) - Bees do not leave their hives in the Nether/End in some cases
+- [MC-168546](https://bugs.mojang.com/browse/MC-168546) - Bee nest / hive items have no lore
+- [MC-169660](https://bugs.mojang.com/browse/MC-169660) - /teleport without can change the entity's rotation
+- [MC-170863](https://bugs.mojang.com/browse/MC-170863) - Dropping item stacks from the player's hotbar in any creative inventory tab other than "Survival Inventory" deletes items
+- [MC-170977](https://bugs.mojang.com/browse/MC-170977) - F3 text is behind inventory and F3 cake diagram is in front of inventory
+- [MC-172075](https://bugs.mojang.com/browse/MC-172075) - Mouth/jaw of a provoked enderman becomes slightly detached when looking up or down
+- [MC-173728](https://bugs.mojang.com/browse/MC-173728) - The heads of baby sheep are positioned too low when they're eating grass
+- [MC-174214](https://bugs.mojang.com/browse/MC-174214) - Fireworks for crossbow go through an entity if it is close to a player
+- [MC-174732](https://bugs.mojang.com/browse/MC-174732) - Semi-transparent status effect textures do not render correctly in the inventory or beacon UI
+- [MC-176937](https://bugs.mojang.com/browse/MC-176937) - Deleting items using the drop key while a tab is open in the creative inventory plays hand animation, even if the item isn't dropped
+- [MC-177452](https://bugs.mojang.com/browse/MC-177452) - Unneeded faces inside repeater models
+- [MC-177453](https://bugs.mojang.com/browse/MC-177453) - Unneeded faces inside comparator models
+- [MC-178660](https://bugs.mojang.com/browse/MC-178660) - Player jitters when landing on a bed with the slow falling effect
+- [MC-179629](https://bugs.mojang.com/browse/MC-179629) - Faces in between cloud "blocks" can still render from outside of the cloud
+- [MC-180272](https://bugs.mojang.com/browse/MC-180272) - en_us.json contains unused strings
+- [MC-182478](https://bugs.mojang.com/browse/MC-182478) - Mob armor generates starting with boots rather than helmet
+- [MC-182814](https://bugs.mojang.com/browse/MC-182814) - Drinking honey bottles increases "minecraft.used:minecraft.honey_bottle" by a value of two and runs the "minecraft:consume_item" advancement trigger twice
+- [MC-182877](https://bugs.mojang.com/browse/MC-182877) - Piglins use one hand to hold a loaded crossbow
+- [MC-183518](https://bugs.mojang.com/browse/MC-183518) - High CPU usage on hypervisor host possibly due to excessive syscall usage by Minecraft Server
+- [MC-183636](https://bugs.mojang.com/browse/MC-183636) - follow_range attribute not working for piglins
+- [MC-185144](https://bugs.mojang.com/browse/MC-185144) - Item durability bar and all items render incorrectly in the villager trade UI
+- [MC-186362](https://bugs.mojang.com/browse/MC-186362) - Casting issue: Translucent block rendering breaks down at high distances
+- [MC-187920](https://bugs.mojang.com/browse/MC-187920) - Bees sometimes give up when returning home
+- [MC-188217](https://bugs.mojang.com/browse/MC-188217) - Bees circle above flower that is covered by all sides
+- [MC-188485](https://bugs.mojang.com/browse/MC-188485) - Inventory can get desynced when shift-clicking the Destroy Item slot
+- [MC-190163](https://bugs.mojang.com/browse/MC-190163) - Zoglin spawn eggs don't occasionally spawn baby zoglins on their own accord
+- [MC-190484](https://bugs.mojang.com/browse/MC-190484) - Sneaking players' name tags are partly invisible depending on what angle you're facing
+- [MC-191431](https://bugs.mojang.com/browse/MC-191431) - Player spectator head is invisible / does not render in the inventory after switching to "Fabulous!"
+- [MC-195754](https://bugs.mojang.com/browse/MC-195754) - Illagers in raids continuously try and fail to pick up ominous banners if they can't reach them
+- [MC-196556](https://bugs.mojang.com/browse/MC-196556) - When projectiles (such as arrows and tridents) move too fast, they can't be teleported by portals and end gateways
+- [MC-196736](https://bugs.mojang.com/browse/MC-196736) - Hoglins break their leash when zombifying, despite zoglins being leashable
+- [MC-196964](https://bugs.mojang.com/browse/MC-196964) - Fall damage is reset when an entity converts to another entity
+- [MC-199238](https://bugs.mojang.com/browse/MC-199238) - Unneeded faces and missing cullface in dragon egg model
+- [MC-199344](https://bugs.mojang.com/browse/MC-199344) - Thrown ender pearls sometimes disappear after player death
+- [MC-203748](https://bugs.mojang.com/browse/MC-203748) - Filled lava cauldrons are able to be put under water
+- [MC-204050](https://bugs.mojang.com/browse/MC-204050) - Subtitle for shooting amethyst blocks is "Block breaking"
+- [MC-205851](https://bugs.mojang.com/browse/MC-205851) - Being partway inside of a cloud can cause the opposite face of that cloud to not render
+- [MC-206074](https://bugs.mojang.com/browse/MC-206074) - Survival tab of Creative inventory desyncs if changed manually after an external change
+- [MC-206436](https://bugs.mojang.com/browse/MC-206436) - Stonecutter ignores anything over 64 when shift-clicking
+- [MC-207101](https://bugs.mojang.com/browse/MC-207101) - When a lingering potion lands on top of a player/mob, the area effect cloud spawns above the player/mob instead of inside it, rendering the lingering potion useless
+- [MC-209947](https://bugs.mojang.com/browse/MC-209947) - minecraft:block/scaffolding_unstable has incorrect cullfaces
+- [MC-212213](https://bugs.mojang.com/browse/MC-212213) - Squids unable to be affected by knockback enchantment.
+- [MC-213763](https://bugs.mojang.com/browse/MC-213763) - Spore blossom gets darker when next to a block with smooth lighting enabled
+- [MC-214625](https://bugs.mojang.com/browse/MC-214625) - Unlit redstone torches are unaffected by block shading / are evenly lit on all sides
+- [MC-214662](https://bugs.mojang.com/browse/MC-214662) - Redstone torches on repeaters and comparators are shaded differently from normal redstone torches
+- [MC-215332](https://bugs.mojang.com/browse/MC-215332) - Glow squids lack a baby variant
+- [MC-215752](https://bugs.mojang.com/browse/MC-215752) - Z-fighting with paintings and item frames in solid blocks
+- [MC-216016](https://bugs.mojang.com/browse/MC-216016) - Launching fireworks into a crystal sound block will make the breaking noise
+- [MC-219083](https://bugs.mojang.com/browse/MC-219083) - Hunger client/server desync when natural regeneration is off in peaceful mode
+- [MC-220360](https://bugs.mojang.com/browse/MC-220360) - Gifts given by baby villagers, nitwits and unemployed villagers when under the Hero of the Village effect are hardcoded
+- [MC-220469](https://bugs.mojang.com/browse/MC-220469) - You cannot use items while looking at wolves owned by other players
+- [MC-223032](https://bugs.mojang.com/browse/MC-223032) - Z-fighting can be seen on the stingers of bees when they're stuck in players
+- [MC-223375](https://bugs.mojang.com/browse/MC-223375) - Pandas' bodies stay tilted after eating
+- [MC-224035](https://bugs.mojang.com/browse/MC-224035) - Small Dripleaf's model is inconsistent
+- [MC-224454](https://bugs.mojang.com/browse/MC-224454) - Entities don't recognize azaleas or flowering azaleas as obstacles when pathfinding
+- [MC-225060](https://bugs.mojang.com/browse/MC-225060) - Burning entity sound repeats every tick
+- [MC-225270](https://bugs.mojang.com/browse/MC-225270) - Goats can move armor stands even with mobGriefing turned off
+- [MC-225417](https://bugs.mojang.com/browse/MC-225417) - Squids and glow squids can break free from leads when attacked
+- [MC-225422](https://bugs.mojang.com/browse/MC-225422) - Squids and glow squids do not move smoothly in the water compared to other aquatic mobs
+- [MC-226038](https://bugs.mojang.com/browse/MC-226038) - Scheduled functions are part of weather in profile results
+- [MC-226687](https://bugs.mojang.com/browse/MC-226687) - Sea Level is assumed to be Y = 63 in numerous parts of Minecraft
+- [MC-227139](https://bugs.mojang.com/browse/MC-227139) - Sky fog stutters
+- [MC-227169](https://bugs.mojang.com/browse/MC-227169) - The main hand is positioned incorrectly when holding a loaded crossbow in your offhand
+- [MC-228070](https://bugs.mojang.com/browse/MC-228070) - Name tags rendered in blocks have letters brighter depending on your angle
+- [MC-230317](https://bugs.mojang.com/browse/MC-230317) - Lead disappears when mooshroom cow is sheared
+- [MC-233603](https://bugs.mojang.com/browse/MC-233603) - HUD / Hotbar rendering can heavily impact frame rate performance
+- [MC-233817](https://bugs.mojang.com/browse/MC-233817) - Items held by the cursor render behind the white highlight of recipe book previews
+- [MC-234318](https://bugs.mojang.com/browse/MC-234318) - Small dripleaf stems intersect its leaves
+- [MC-235953](https://bugs.mojang.com/browse/MC-235953) - Entity eyes render type doesn't blend non-black transparent pixels properly
+- [MC-239581](https://bugs.mojang.com/browse/MC-239581) - Bees do not become angry at the closest player when hive is exploded
+- [MC-239812](https://bugs.mojang.com/browse/MC-239812) - Dead players in LAN environments remain in the world when the host leaves
+- [MC-240001](https://bugs.mojang.com/browse/MC-240001) - The white and red highlights from recipe book previews render above potion tooltips
+- [MC-240948](https://bugs.mojang.com/browse/MC-240948) - Filled powder snow cauldrons are able to be put under water
+- [MC-241873](https://bugs.mojang.com/browse/MC-241873) - Ravagers can move armor stands even with mobGriefing turned off
+- [MC-242882](https://bugs.mojang.com/browse/MC-242882) - Cape detaches from body while sneaking and falling
+- [MC-243413](https://bugs.mojang.com/browse/MC-243413) - Some Explorer Maps are missing their icon
+- [MC-244720](https://bugs.mojang.com/browse/MC-244720) - "Erased cached data" button in Optimize World is not labeled in the right order when using Tab
+- [MC-244739](https://bugs.mojang.com/browse/MC-244739) - Goat eating sounds aren't played when feeding them the last item of wheat within a stack
+- [MC-244948](https://bugs.mojang.com/browse/MC-244948) - The "minecraft:item.bundle.remove_one" sound plays even when no items are unpacked from bundles
+- [MC-245510](https://bugs.mojang.com/browse/MC-245510) - Piglin Brute's generic.follow_range attribute functions oddly
+- [MC-245603](https://bugs.mojang.com/browse/MC-245603) - Powder snow can not put out the fire on arrows
+- [MC-247238](https://bugs.mojang.com/browse/MC-247238) - Sky fog is not cylindrical
+- [MC-249067](https://bugs.mojang.com/browse/MC-249067) - Ominous banners lose their rarity color when renamed using anvils
+- [MC-249414](https://bugs.mojang.com/browse/MC-249414) - The "Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program." warning is logged in the game output console when launching the game
+- [MC-249901](https://bugs.mojang.com/browse/MC-249901) - Frogs don't play the frog eating sound when given a slime ball
+- [MC-250924](https://bugs.mojang.com/browse/MC-250924) - Goat horns are missing sounds
+- [MC-256422](https://bugs.mojang.com/browse/MC-256422) - Some words within some strings use right single quotation marks instead of apostrophes
+- [MC-257309](https://bugs.mojang.com/browse/MC-257309) - Monster spawner tries to spawn wardens and zoglins when the difficulty is Peaceful
+- [MC-257318](https://bugs.mojang.com/browse/MC-257318) - Non-transparent toasts and some buttons that should be transparent in custom Resource Pack
+- [MC-258971](https://bugs.mojang.com/browse/MC-258971) - ClientboundUpdateRecipesPacket breaks after multiple recipes use big tags
+- [MC-259264](https://bugs.mojang.com/browse/MC-259264) - Left-handed vexes raise their right hands to attack
+- [MC-259376](https://bugs.mojang.com/browse/MC-259376) - ServerboundMovePlayerPacket's xRot can have invalid value
+- [MC-259651](https://bugs.mojang.com/browse/MC-259651) - updateSkyBrightness() is not used client-side, causing multiple issues
+- [MC-259687](https://bugs.mojang.com/browse/MC-259687) - "Distance by Elytra" statistic is approximately doubled
+- [MC-259798](https://bugs.mojang.com/browse/MC-259798) - Block hitboxes cause semi-transparent blocks not to render behind them in lower than "Fabulous" graphics settings
+- [MC-259936](https://bugs.mojang.com/browse/MC-259936) - Equipping armor in hand via right-click equips entire stack
+- [MC-260013](https://bugs.mojang.com/browse/MC-260013) - Baby Llama's head has incorrect scale method
+- [MC-260537](https://bugs.mojang.com/browse/MC-260537) - Tree growth can replace leaves that have the 'persistent' block state set to true
+- [MC-260858](https://bugs.mojang.com/browse/MC-260858) - The word "ticks" within a "/schedule" command feedback message is always pluralized
+- [MC-260859](https://bugs.mojang.com/browse/MC-260859) - Some words within a tick profiling feedback message are always pluralized
+- [MC-260860](https://bugs.mojang.com/browse/MC-260860) - Some words within some chat delay strings are always pluralized
+- [MC-260913](https://bugs.mojang.com/browse/MC-260913) - The word "blocks" within some "/spreadplayers" command feedback messages is always pluralized
+- [MC-260914](https://bugs.mojang.com/browse/MC-260914) - "/spreadplayers" strings for entities consist of inconsistent noun usage
+- [MC-261666](https://bugs.mojang.com/browse/MC-261666) - Armor given to Villagers is lost when they convert to Zombie Villagers
+- [MC-261691](https://bugs.mojang.com/browse/MC-261691) - Bees get stuck while trying to pathfind to inaccessible flowers
+- [MC-262112](https://bugs.mojang.com/browse/MC-262112) - Wither skull's bounding box is wrongly positioned in the first tick, and cannot be selected with volume checks in commands
+- [MC-262175](https://bugs.mojang.com/browse/MC-262175) - The "advancements.adventure.trim_with_any_armor_pattern.description" text contains incorrect English grammar
+- [MC-262498](https://bugs.mojang.com/browse/MC-262498) - Underground seagrass feature files exist despite never generating
+- [MC-262598](https://bugs.mojang.com/browse/MC-262598) - Tripwire textures in the tripwire hook "attached: true" state have a wrong black rendering when the tripwire hook is attached to a non-transparent block
+- [MC-262652](https://bugs.mojang.com/browse/MC-262652) - Dragon egg's side texture is mapped strangely as of 1.8 (and the model is also unoptimized)
+- [MC-263838](https://bugs.mojang.com/browse/MC-263838) - doLimitedCrafting gamerule does not work on suspicious stew
+- [MC-263858](https://bugs.mojang.com/browse/MC-263858) - Text Displays are rendered differently compared to name tags
+- [MC-264886](https://bugs.mojang.com/browse/MC-264886) - Geode features ignore the invalid_blocks field
+- [MC-264986](https://bugs.mojang.com/browse/MC-264986) - Item count of fuel slot affects the way smelting recipe book moves ingredients
+- [MC-265399](https://bugs.mojang.com/browse/MC-265399) - Players' heads are incorrectly positioned while exiting the swimming/crawling state when other players are on screen
+- [MC-265554](https://bugs.mojang.com/browse/MC-265554) - Aaron Cherof listed as "Aaron Cherof\u00a0" in credits.json
+- [MC-265693](https://bugs.mojang.com/browse/MC-265693) - Movement does not reset a player's last action time
+- [MC-265695](https://bugs.mojang.com/browse/MC-265695) - The feedback for setting the idle timeout to 0 minutes does not reflect the actual behavior
+- [MC-265703](https://bugs.mojang.com/browse/MC-265703) - BrushableBlock's codec misspells 'completed' as 'comleted'
+- [MC-265990](https://bugs.mojang.com/browse/MC-265990) - Burning arrows can light candles and cakes with candles outside the world border
+- [MC-266441](https://bugs.mojang.com/browse/MC-266441) - Multiple trial chamber templates have missing or incorrect blocks
+- [MC-266480](https://bugs.mojang.com/browse/MC-266480) - Breeze can jump on top of honey blocks
+- [MC-266494](https://bugs.mojang.com/browse/MC-266494) - Jump Boost does not affect the breeze's jump
+- [MC-266949](https://bugs.mojang.com/browse/MC-266949) - Monster spawner tries to spawn breezes when the difficulty is Peaceful
+- [MC-267006](https://bugs.mojang.com/browse/MC-267006) - The Distance Flown statistics rapidly increases when you are standing in Ender Dragon's hitbox
+- [MC-267107](https://bugs.mojang.com/browse/MC-267107) - Spawners unsuccessfully try to summon hostile entities on peaceful difficulty
+- [MC-267308](https://bugs.mojang.com/browse/MC-267308) - Profiling with F3+L while game is frozen spams output with errors
+- [MC-267401](https://bugs.mojang.com/browse/MC-267401) - All the player skin report's category descriptions use the chat message ones
+- [MC-267838](https://bugs.mojang.com/browse/MC-267838) - Projectile yaw rotations have incorrect interpolation, causing flickering
+- [MC-267889](https://bugs.mojang.com/browse/MC-267889) - The "blocked_slot" bundle texture has a miscolored pixel
+- [MC-267957](https://bugs.mojang.com/browse/MC-267957) - Eating isn't canceled when feeding untamed wolves raw food
+- [MC-268045](https://bugs.mojang.com/browse/MC-268045) - The name of Entity Argument is plural in Query literal node of Experience command
+- [MC-268220](https://bugs.mojang.com/browse/MC-268220) - Zoglins ignore monster spawning requirements when spawning naturally
+- [MC-268241](https://bugs.mojang.com/browse/MC-268241) - The bottom faces of vaults aren't culled when covered by blocks
+- [MC-268431](https://bugs.mojang.com/browse/MC-268431) - External inventory changes except for the hotbar are not registered in a creative mode item selection screen
+- [MC-268518](https://bugs.mojang.com/browse/MC-268518) - Attribute generic.luck only affect players
+- [MC-268528](https://bugs.mojang.com/browse/MC-268528) - Cave Vines can be pollinated infinitely (instead of limit of 10)
+- [MC-268645](https://bugs.mojang.com/browse/MC-268645) - Scheduling a macro function silently fails
+- [MC-268929](https://bugs.mojang.com/browse/MC-268929) - pack.png does not support translucent pixels
+- [MC-269083](https://bugs.mojang.com/browse/MC-269083) - Effect background texture in inventory renders translucent pixels as opaque
+- [MC-269152](https://bugs.mojang.com/browse/MC-269152) - nine_slice texture scaling will cause ridiculous levels of lag when used on small textures
+- [MC-269352](https://bugs.mojang.com/browse/MC-269352) - The breeze rod uses an incorrect model for holding
+- [MC-269375](https://bugs.mojang.com/browse/MC-269375) - Breeze's wind charge attack can move or break armor stands when mobGriefing is disabled
+- [MC-269376](https://bugs.mojang.com/browse/MC-269376) - Breeze fires wind charge from center of hitbox
+- [MC-269428](https://bugs.mojang.com/browse/MC-269428) - Mace fall damage multiplier does not apply to mobs
+- [MC-269440](https://bugs.mojang.com/browse/MC-269440) - Text fields render translucent pixels as opaque
+- [MC-269441](https://bugs.mojang.com/browse/MC-269441) - Difficulty lock button renders translucent pixels as opaque
+- [MC-269445](https://bugs.mojang.com/browse/MC-269445) - Some empty slot icons render translucent pixels as opaque
+- [MC-269447](https://bugs.mojang.com/browse/MC-269447) - Hover text background box cannot be retextured
+- [MC-269495](https://bugs.mojang.com/browse/MC-269495) - Identifiers for chest boats in a lang file affect both the item tooltip and the container gui
+- [MC-269528](https://bugs.mojang.com/browse/MC-269528) - Recipe book tabs are rendered over items held by the mouse cursor
+- [MC-269549](https://bugs.mojang.com/browse/MC-269549) - Items held in cursor are rendered behind recipe book UI elements
+- [MC-269622](https://bugs.mojang.com/browse/MC-269622) - Previous/Next Page buttons render translucent pixels as opaque
+- [MC-269627](https://bugs.mojang.com/browse/MC-269627) - Toasts render translucent pixels as opaque
+- [MC-269656](https://bugs.mojang.com/browse/MC-269656) - Feeding parrots poison while holding mace grants Over-Overkill challenge
+- [MC-269715](https://bugs.mojang.com/browse/MC-269715) - Food won't be eaten when the component food.eat_seconds is less than 0.05
+- [MC-269738](https://bugs.mojang.com/browse/MC-269738) - Recipe book cannot quick-move oversized item stacks into applicable recipe slots
+- [MC-269751](https://bugs.mojang.com/browse/MC-269751) - Advancement frames render translucent pixels as opaque
+- [MC-269814](https://bugs.mojang.com/browse/MC-269814) - Can’t feed fish to wolves
+- [MC-269832](https://bugs.mojang.com/browse/MC-269832) - Gamemode switcher sprites render translucent pixels as opaque
+- [MC-269834](https://bugs.mojang.com/browse/MC-269834) - Statistics screen sprites render translucent pixels as opaque
+- [MC-269851](https://bugs.mojang.com/browse/MC-269851) - Breeze idle animations are different than Bedrock Edition
+- [MC-269873](https://bugs.mojang.com/browse/MC-269873) - Egg laying drop from chickens is hardcoded
+- [MC-269895](https://bugs.mojang.com/browse/MC-269895) - Breezes missing higher fidelity jump animation from Bedrock
+- [MC-269936](https://bugs.mojang.com/browse/MC-269936) - Transferable list (resource pack, data pack) screen buttons render translucent pixels as opaque
+- [MC-269937](https://bugs.mojang.com/browse/MC-269937) - World list buttons render translucent pixels as opaque
+- [MC-269996](https://bugs.mojang.com/browse/MC-269996) - Custom names of Interaction entities render at wrong location
+- [MC-270051](https://bugs.mojang.com/browse/MC-270051) - Recipe book button renders translucent pixels as opaque
+- [MC-270113](https://bugs.mojang.com/browse/MC-270113) - Trial spawner ominous_config doesn't save setting values to default
+- [MC-270183](https://bugs.mojang.com/browse/MC-270183) - Lingering potions do not give effects when hit on the target's head
+- [MC-270254](https://bugs.mojang.com/browse/MC-270254) - Item slot highlight effect cannot be retextured
+- [MC-270299](https://bugs.mojang.com/browse/MC-270299) - New data pack component crafting doesn't work with suspicious stews
+- [MC-270306](https://bugs.mojang.com/browse/MC-270306) - Disabled item cooldown overlay renders behind effect icons in inventory
+- [MC-270307](https://bugs.mojang.com/browse/MC-270307) - Disabled item cooldown renders behind recipe book and its buttons
+- [MC-270314](https://bugs.mojang.com/browse/MC-270314) - "Use a Bundle" toast pops up repeatedly if player constantly left-clicks on a bundle while holding an item
+- [MC-270348](https://bugs.mojang.com/browse/MC-270348) - Some slime trial spawners in trial chambers won't spawn slimes without player intervention
+- [MC-270510](https://bugs.mojang.com/browse/MC-270510) - youJustLostTheGame is not the first item in the mappings
+- [MC-270518](https://bugs.mojang.com/browse/MC-270518) - Scrollers in block UIs render translucent pixels as opaque
+- [MC-270519](https://bugs.mojang.com/browse/MC-270519) - "Error" textures in block/entity GUIs do not support translucent textures
+- [MC-270527](https://bugs.mojang.com/browse/MC-270527) - "tile" texture scaling also causes incredible lag with small textures
+- [MC-270563](https://bugs.mojang.com/browse/MC-270563) - Furnace, blast furnace and smoker smelting progress and burn time indicators do not support translucent textures
+- [MC-270564](https://bugs.mojang.com/browse/MC-270564) - Brewing stand fuel, bubbles and progress sprites do not support translucent textures
+- [MC-270570](https://bugs.mojang.com/browse/MC-270570) - TPS chart uses OS locale specific number formatting
+- [MC-270571](https://bugs.mojang.com/browse/MC-270571) - /tick command uses OS locale specific number formatting
+- [MC-270614](https://bugs.mojang.com/browse/MC-270614) - A trapdoor in chamber_8 is rotated the wrong way
+- [MC-270640](https://bugs.mojang.com/browse/MC-270640) - Anvil text field does not support translucent textures
+- [MC-270641](https://bugs.mojang.com/browse/MC-270641) - Crafter UI sprites do not support translucent pixels
+- [MC-270678](https://bugs.mojang.com/browse/MC-270678) - Tabs in recipe book and Creative inventory do not support translucent pixels
+- [MC-270680](https://bugs.mojang.com/browse/MC-270680) - Buttons in the beacon GUI do not support translucent pixels
+- [MC-270692](https://bugs.mojang.com/browse/MC-270692) - Textures for empty slots do not support translucent pixels
+- [MC-270696](https://bugs.mojang.com/browse/MC-270696) - Traps are generated behind walls in Trial Chambers
+- [MC-270697](https://bugs.mojang.com/browse/MC-270697) - Stonecutter recipe buttons render translucent pixels as opaque
+- [MC-270698](https://bugs.mojang.com/browse/MC-270698) - Loom recipe buttons render translucent pixels as opaque
+- [MC-270726](https://bugs.mojang.com/browse/MC-270726) - Advancement backgrounds render translucent pixels as opaque
+- [MC-270741](https://bugs.mojang.com/browse/MC-270741) - Realms main menu icons do not render translucent pixels correctly, but accessibility/language icons do
+- [MC-270742](https://bugs.mojang.com/browse/MC-270742) - Displays don't rotate properly between 179 and 180
+- [MC-270764](https://bugs.mojang.com/browse/MC-270764) - Recipe book buttons and icons do not render translucent pixels correctly
+- [MC-270765](https://bugs.mojang.com/browse/MC-270765) - Bundle background does not handle translucent pixels correctly
+- [MC-270775](https://bugs.mojang.com/browse/MC-270775) - Ominous vault failed to generate sometimes
+- [MC-270852](https://bugs.mojang.com/browse/MC-270852) - Fully charged projectiles that are thrown or fired at a nearby shulker will not deflect properly
+- [MC-271113](https://bugs.mojang.com/browse/MC-271113) - Bees occasionally freezing right before they enter the hives
+- [MC-271191](https://bugs.mojang.com/browse/MC-271191) - Poor saving performance due to large amount of item frames
+- [MC-271486](https://bugs.mojang.com/browse/MC-271486) - The tree in the "entrance_1" room of trial chambers is not removed
+- [MC-271628](https://bugs.mojang.com/browse/MC-271628) - Enchantment effect "projectile_spawned" doesn't trigger for fishing rods and tridents
+- [MC-271826](https://bugs.mojang.com/browse/MC-271826) - Armor default attribute modifier component can't be removed
+- [MC-271961](https://bugs.mojang.com/browse/MC-271961) - Parity Issue: No empty bubbles on the oxygen bar and popping sound
+- [MC-272020](https://bugs.mojang.com/browse/MC-272020) - Players' capes don't move with the yaw of their bodies when swinging
+- [MC-272207](https://bugs.mojang.com/browse/MC-272207) - Trial chambers no longer generate a bed in the secret room nearing the entrance
+- [MC-272327](https://bugs.mojang.com/browse/MC-272327) - Attribute effects not properly postfixed with slot name
+- [MC-272345](https://bugs.mojang.com/browse/MC-272345) - Some trial spawners don't have an extra breeze out at once when ominous
+- [MC-272409](https://bugs.mojang.com/browse/MC-272409) - Item entity's name ignores item_name component
+- [MC-272414](https://bugs.mojang.com/browse/MC-272414) - Redundant calculation causes 2x lag during explosions
+- [MC-272506](https://bugs.mojang.com/browse/MC-272506) - Fast switching between servers causes disconnect
+- [MC-272603](https://bugs.mojang.com/browse/MC-272603) - Riding an entity into the end fountain skips the credits
+- [MC-272643](https://bugs.mojang.com/browse/MC-272643) - Items containing using_converts_to cannot be stacked with the original items after restarting the world.
+- [MC-272649](https://bugs.mojang.com/browse/MC-272649) - After a chest with the item component "container_loot" is opened, it will appear on the subsequent pick Block
+- [MC-272670](https://bugs.mojang.com/browse/MC-272670) - Crash while saving entity NBT - Cannot encode empty ItemStack
+- [MC-272766](https://bugs.mojang.com/browse/MC-272766) - When riding a minecart through a portal, the direction the player is facing after they go through the portal is not the same as when they entered
+- [MC-272802](https://bugs.mojang.com/browse/MC-272802) - Ender pearls deal no damage to their owners after switching dimensions and landing
+- [MC-272804](https://bugs.mojang.com/browse/MC-272804) - The mining fatigue animation plays in reverse
+- [MC-272805](https://bugs.mojang.com/browse/MC-272805) - Command blocks made from Pick Block still do not activate when placed near sources of power
+- [MC-272821](https://bugs.mojang.com/browse/MC-272821) - Wind Charges incorrectly negate fall damage
+- [MC-272920](https://bugs.mojang.com/browse/MC-272920) - Bottles get deleted when drinking a potion when there is more than 1 in a slot
+- [MC-272932](https://bugs.mojang.com/browse/MC-272932) - Auto-save text in the pause menu is rendered at the wrong position
+- [MC-272946](https://bugs.mojang.com/browse/MC-272946) - The block outline is nearly invisible for some blocks
+- [MC-272994](https://bugs.mojang.com/browse/MC-272994) - Allays assigned to a player can be set on fire with sweeping and fire aspect
+- [MC-273076](https://bugs.mojang.com/browse/MC-273076) - Breeze immediately forgets the player once Line of Sight is lost, even through transparent blocks
+- [MC-273239](https://bugs.mojang.com/browse/MC-273239) - Trial Spawners rapidly change block state when switching gamerule "doMobSpawning" from false to true
+- [MC-273263](https://bugs.mojang.com/browse/MC-273263) - Attributes are retained even if destroyed by "damage_item"
+- [MC-273281](https://bugs.mojang.com/browse/MC-273281) - "projectile_spawned" Enchantment Component runs predicates and effects on projectiles before all of their data has been assigned
+- [MC-273288](https://bugs.mojang.com/browse/MC-273288) - Dropping a stack of items while in the creative mode inventory deletes them
+- [MC-273300](https://bugs.mojang.com/browse/MC-273300) - Horse armor and wolf armor swap from off-hand to main hand upon pressing the Use Item/Place Block key
+- [MC-273311](https://bugs.mojang.com/browse/MC-273311) - Taking near Float.MAX_VALUE damage from mob attack through commands on hard causes NaN Absorption and Health
+- [MC-273328](https://bugs.mojang.com/browse/MC-273328) - Stars are smaller than supposed to
+- [MC-273329](https://bugs.mojang.com/browse/MC-273329) - Drinking milk buckets in Creative mode gives you empty buckets
+- [MC-273361](https://bugs.mojang.com/browse/MC-273361) - Entities teleported to the player from a force loaded chunk are not rendered
+- [MC-273377](https://bugs.mojang.com/browse/MC-273377) - No debug stick in hand, but I can still edit blocks
+- [MC-273400](https://bugs.mojang.com/browse/MC-273400) - Baby zombified piglin chicken jockeys immediately teleport
+- [MC-273427](https://bugs.mojang.com/browse/MC-273427) - Respawn anchor loses charges when returning from the End
+- [MC-273464](https://bugs.mojang.com/browse/MC-273464) - Incorrect partial tick during screen render
+- [MC-273489](https://bugs.mojang.com/browse/MC-273489) - Sneaking players' name tags are barely visible
+- [MC-273578](https://bugs.mojang.com/browse/MC-273578) - Interaction entities position passengers incorrectly
+- [MC-273601](https://bugs.mojang.com/browse/MC-273601) - The channeling enchantment no longer functions on tridents without an owner
+- [MC-273629](https://bugs.mojang.com/browse/MC-273629) - Adding effects with an effects_changed advancement causes a packet error (ConcurrentModificationException) if it was triggered by Milk
+- [MC-273632](https://bugs.mojang.com/browse/MC-273632) - Opening or updating the creative inventory while holding a food item with the using_converts_to tag causes the item to animate up and down
+- [MC-273662](https://bugs.mojang.com/browse/MC-273662) - Trial spawners cannot spawn silverfish at all/have unusually long delays between spawns
+- [MC-273672](https://bugs.mojang.com/browse/MC-273672) - When spectatorsGenerateChunks is set to false, the player cannot stop spectating an entity without running /spectate
+- [MC-273745](https://bugs.mojang.com/browse/MC-273745) - Soul speed momentum resets when jumping on soul sand
+- [MC-273758](https://bugs.mojang.com/browse/MC-273758) - Ominous item spawner's animation breaks if the level.dat "Time" value is over a certain number
+- [MC-273771](https://bugs.mojang.com/browse/MC-273771) - Passengers can glitch into walls when their mounts are killed
+- [MC-273811](https://bugs.mojang.com/browse/MC-273811) - Ender pearls don't teleport the player if he hasn't been in the pearl's dimension after relog
+- [MC-273812](https://bugs.mojang.com/browse/MC-273812) - Intersection chests in trial chambers not generating correctly
+- [MC-273822](https://bugs.mojang.com/browse/MC-273822) - The words "forwards" and "backwards" within two movement key bind strings aren't spelled in American English
+- [MC-273828](https://bugs.mojang.com/browse/MC-273828) - Movement predicate is incorrect for stationary players until either mouse is moved or one second elapses
+- [MC-273848](https://bugs.mojang.com/browse/MC-273848) - Players can spawn underwater again in 1.21
+- [MC-273850](https://bugs.mojang.com/browse/MC-273850) - Shield enchantment glint is too bright to clearly see banner patterns
+- [MC-273914](https://bugs.mojang.com/browse/MC-273914) - Client game options that do not constitute sending a network packet will send one anyway
+- [MC-273939](https://bugs.mojang.com/browse/MC-273939) - Capes clip through the player when taking knockback
+- [MC-273960](https://bugs.mojang.com/browse/MC-273960) - The NBT data stored in the world affects copying a Decorated Pot in creative mode
+- [MC-274030](https://bugs.mojang.com/browse/MC-274030) - Item stacks with a count over 99 cause the player to get kicked from their world in creative mode
+- [MC-274244](https://bugs.mojang.com/browse/MC-274244) - minecraft:villager_plantable_seeds tag does not allow farmer Villagers to pick up items
+- [MC-274371](https://bugs.mojang.com/browse/MC-274371) - Depleting a Respawn Anchor doesn't play any sound
+- [MC-274372](https://bugs.mojang.com/browse/MC-274372) - using_item advancement trigger keeps being activated even after the item stops being used, after teleporting to another dimension
+- [MC-274400](https://bugs.mojang.com/browse/MC-274400) - Dispensers firing a wind charge play the crafter crafting world event, showing incorrect particles beneath the block
+- [MC-274519](https://bugs.mojang.com/browse/MC-274519) - Minecraft resaves all maps with every autosave
+- [MC-274657](https://bugs.mojang.com/browse/MC-274657) - Ominous Banner's orange name is handled as a custom text color, rather than as a rarity
+- [MC-274708](https://bugs.mojang.com/browse/MC-274708) - Exiting the end portal first time removes player attribute modifiers
+- [MC-274852](https://bugs.mojang.com/browse/MC-274852) - "item_name" component has priority over signed book title
+- [MC-274911](https://bugs.mojang.com/browse/MC-274911) - If the raid begins more than 112 blocks above the ground, all illagers will be summoned and the player wins
+- [MC-274960](https://bugs.mojang.com/browse/MC-274960) - Registries allow duplicate entries
+- [MC-275011](https://bugs.mojang.com/browse/MC-275011) - Instant mine does not work when standing inside of cobwebs
+- [MC-275203](https://bugs.mojang.com/browse/MC-275203) - Minecarts always spawn facing east/west and move upward slightly when being placed on rails
+- [MC-275204](https://bugs.mojang.com/browse/MC-275204) - Coast Armor Trim has generic "Smithing Template" name
+- [MC-275205](https://bugs.mojang.com/browse/MC-275205) - The hand animation is delayed and doesn't play all the time
+- [MC-275208](https://bugs.mojang.com/browse/MC-275208) - You cannot move the bundle into or around the inventory using hotkeys
+- [MC-275209](https://bugs.mojang.com/browse/MC-275209) - It's impossible to put water in a cauldron underwater
+- [MC-275210](https://bugs.mojang.com/browse/MC-275210) - Minecarts can phase through blocks when travelling diagonally upwards
+- [MC-275211](https://bugs.mojang.com/browse/MC-275211) - The enchantment glint isn't visible on dropped items
+- [MC-275213](https://bugs.mojang.com/browse/MC-275213) - Hand animation still plays when trying to put lava or powder snow in an underwater cauldron
+- [MC-275216](https://bugs.mojang.com/browse/MC-275216) - Bowl is consumed when feeding a rabbit stew to a wolf
+- [MC-275218](https://bugs.mojang.com/browse/MC-275218) - "Minecart rolls" sound does not play when on tracks after de-railing then re-railing
+- [MC-275219](https://bugs.mojang.com/browse/MC-275219) - Hand animation still plays in creative when trying to use minecarts inside each other on the same rail
+- [MC-275220](https://bugs.mojang.com/browse/MC-275220) - Picking up a Salmon in a Bucket doesn't keep its size
+- [MC-275221](https://bugs.mojang.com/browse/MC-275221) - Baby polar bear model is messed up in 24w33a
+- [MC-275222](https://bugs.mojang.com/browse/MC-275222) - Salmons always have same hitbox regardless of their size
+- [MC-275224](https://bugs.mojang.com/browse/MC-275224) - Minecart items desync when using them on a rail with a minecart above it
+- [MC-275226](https://bugs.mojang.com/browse/MC-275226) - Enchantment glint is not visible on items held by player and mobs in third person
+- [MC-275228](https://bugs.mojang.com/browse/MC-275228) - You can duplicate items in your creative hotbar
+- [MC-275229](https://bugs.mojang.com/browse/MC-275229) - Minecarts behave strangely on bubble columns
+- [MC-275230](https://bugs.mojang.com/browse/MC-275230) - The game crashes when opening the inventory while in spectator mode
+- [MC-275232](https://bugs.mojang.com/browse/MC-275232) - The mining fatigue animation appears too close
+- [MC-275236](https://bugs.mojang.com/browse/MC-275236) - Gamerule minecartMaxSpeed doesn't affect downward velocity
+- [MC-275237](https://bugs.mojang.com/browse/MC-275237) - Cannot rename written book in an anvil
+- [MC-275239](https://bugs.mojang.com/browse/MC-275239) - Item duplication while a screen is opened (Creative Mode)
+- [MC-275241](https://bugs.mojang.com/browse/MC-275241) - Minecarts continue to produce sound for a short while after being stopped
+- [MC-275246](https://bugs.mojang.com/browse/MC-275246) - Crash after attempting to move item from off-hand in Creative inventory
+- [MC-275248](https://bugs.mojang.com/browse/MC-275248) - Torches no longer have bottom faces
+- [MC-275249](https://bugs.mojang.com/browse/MC-275249) - "FOV Effects" slider incorrectly modifying zoom values on the spyglass
+- [MC-275252](https://bugs.mojang.com/browse/MC-275252) - Player head angle when crawling is now strange
+- [MC-275256](https://bugs.mojang.com/browse/MC-275256) - Snow golem shoots to the sky/floor instead of at mobs
+- [MC-275270](https://bugs.mojang.com/browse/MC-275270) - Minecart not oriented correctly when placed on a sloped unpowered powered rail
+- [MC-275271](https://bugs.mojang.com/browse/MC-275271) - Crash after attempting to move item to hotbar slot in Creative inventory
+- [MC-275273](https://bugs.mojang.com/browse/MC-275273) - Baby mooshroom uses wrong scale
+- [MC-275275](https://bugs.mojang.com/browse/MC-275275) - Footsteps on Monster Spawners create missing subtitle
+- [MC-275276](https://bugs.mojang.com/browse/MC-275276) - Minecarts can phase through blocks at the bottom of a slant
+- [MC-275277](https://bugs.mojang.com/browse/MC-275277) - Trial chambers' encounter_4 trap often does not hit the player
+- [MC-275279](https://bugs.mojang.com/browse/MC-275279) - Raiders do not spawn on small islands even though there are close enough places around the village
+- [MC-275289](https://bugs.mojang.com/browse/MC-275289) - There are empty chests in some chambers even after 24w33a
+- [MC-275293](https://bugs.mojang.com/browse/MC-275293) - Internal exception when picking blocks not in hotbar but in inventory
+- [MC-275296](https://bugs.mojang.com/browse/MC-275296) - Emissive textures are not emissive in the player's hand
+- [MC-275297](https://bugs.mojang.com/browse/MC-275297) - Failing selectors and fake players in "score" selector result in an unexpected error
+- [MC-275298](https://bugs.mojang.com/browse/MC-275298) - Blocks with special collision behavior have a larger detection range than previously
+- [MC-275299](https://bugs.mojang.com/browse/MC-275299) - Crafting using Ctrl + Drop key crafts the incorrect amount of items
+- [MC-275300](https://bugs.mojang.com/browse/MC-275300) - Mace smash attack damage does not work with mobs, even though particles and sounds happen
+- [MC-275302](https://bugs.mojang.com/browse/MC-275302) - The animation speed of end crystals is no longer constant
+- [MC-275307](https://bugs.mojang.com/browse/MC-275307) - Hand doesn't show up when switching from Spectator mode
+- [MC-275310](https://bugs.mojang.com/browse/MC-275310) - Cannot enchant armor in enchanting table
+- [MC-275319](https://bugs.mojang.com/browse/MC-275319) - End crystals in 24w33a appear to be slightly smaller than in previous versions
+- [MC-275322](https://bugs.mojang.com/browse/MC-275322) - "Subspace Bubble" is granted when exiting and entering some Nether Portals
+- [MC-275323](https://bugs.mojang.com/browse/MC-275323) - Pressing F3 + A to reload chunks crashes the game
+- [MC-275328](https://bugs.mojang.com/browse/MC-275328) - Enchantment glint is not visible on items in item frames
+- [MC-275329](https://bugs.mojang.com/browse/MC-275329) - As of 24w33a zombie villagers no longer raise their arms to attack
+- [MC-275332](https://bugs.mojang.com/browse/MC-275332) - The rotation of a wall/ceiling lever and button does not affect the update order of wire in Redstone Experiment
+- [MC-275343](https://bugs.mojang.com/browse/MC-275343) - Projectiles stuck in the world border can float in the air if the border size is changed
+- [MC-275344](https://bugs.mojang.com/browse/MC-275344) - Sweet Berry Bushes deal damage inconsistently
+- [MC-275345](https://bugs.mojang.com/browse/MC-275345) - Inventory bug that causes items to be constantly shuffled
+- [MC-275347](https://bugs.mojang.com/browse/MC-275347) - Minecart with Furnace does not travel correctly over curves
+- [MC-275352](https://bugs.mojang.com/browse/MC-275352) - Spectral arrow texture is not updated properly for Programmer Art
+- [MC-275353](https://bugs.mojang.com/browse/MC-275353) - Item Frame/Glow Item Frame "Fixed" tag behaving strangely since 24w33a
+- [MC-275358](https://bugs.mojang.com/browse/MC-275358) - Renamed bundle's contents are not centered
+- [MC-275361](https://bugs.mojang.com/browse/MC-275361) - Baby zombie variant arms disconnect from their body when attacking
+- [MC-275377](https://bugs.mojang.com/browse/MC-275377) - Derailed minecarts snap onto nearby rails after falling down
+- [MC-275397](https://bugs.mojang.com/browse/MC-275397) - Redstone dust doesn't update properly
+- [MC-275406](https://bugs.mojang.com/browse/MC-275406) - Grammatical error in "options.rotateWithMinecart.tooltip"
+- [MC-275409](https://bugs.mojang.com/browse/MC-275409) - Stuffing too many items into a bundle through commands will cause the capacity bar to overflow
+- [MC-275410](https://bugs.mojang.com/browse/MC-275410) - Flying in Creative Mode no longer resists the thrust of the bubble column
+- [MC-275413](https://bugs.mojang.com/browse/MC-275413) - Squids and glow squids are not affected by the thrust of the bubble column
+- [MC-275417](https://bugs.mojang.com/browse/MC-275417) - Creepers can destroy vehicles even if mobGriefing is set to false
+- [MC-275418](https://bugs.mojang.com/browse/MC-275418) - Feeding baby dolphins won't speed up their growth
+- [MC-275436](https://bugs.mojang.com/browse/MC-275436) - Cannot enchant books in enchanting table
+- [MC-275437](https://bugs.mojang.com/browse/MC-275437) - Fast moving entities freeze the server which causes watchdog crash
+- [MC-275445](https://bugs.mojang.com/browse/MC-275445) - Specifying the size of a target in post effect shaders fails
+- [MC-275450](https://bugs.mojang.com/browse/MC-275450) - Player Motion data no longer updates while riding another entity
+- [MC-275451](https://bugs.mojang.com/browse/MC-275451) - Bundles do not use data for textures when the item in the bundle is rendered in the inventory
+- [MC-275455](https://bugs.mojang.com/browse/MC-275455) - Player motion is no longer retained on relative teleportation
+- [MC-275462](https://bugs.mojang.com/browse/MC-275462) - Bats can spawn in unusual places, such as in woodland mansions and beneath trees
+- [MC-275467](https://bugs.mojang.com/browse/MC-275467) - Minecarts can launch you hundreds of thousands of blocks upwards if you derail inside cobwebs or powdered snow
+- [MC-275468](https://bugs.mojang.com/browse/MC-275468) - Gamerule minecartMaxSpeed can't be set through functions
+- [MC-275473](https://bugs.mojang.com/browse/MC-275473) - Slim model's arms are now lower than the torso by 0.5 pixels
+- [MC-275479](https://bugs.mojang.com/browse/MC-275479) - Dispensers cannot place minecarts onto rails if there is a minecart one block away
+- [MC-275482](https://bugs.mojang.com/browse/MC-275482) - Minecarts do not pick up mobs like they used to
+- [MC-275486](https://bugs.mojang.com/browse/MC-275486) - Enchantable data component doesn't work with items that only have enchantments through a data pack
+- [MC-275497](https://bugs.mojang.com/browse/MC-275497) - The repairable data component does not exist in armor items by default
+- [MC-275498](https://bugs.mojang.com/browse/MC-275498) - Clocks, compasses and recovery compasses don't function in item frames
+- [MC-275504](https://bugs.mojang.com/browse/MC-275504) - Custom model data is not applied to open bundle
+- [MC-275505](https://bugs.mojang.com/browse/MC-275505) - The /tp command forces a mounted entity to dismount
+- [MC-275521](https://bugs.mojang.com/browse/MC-275521) - Tall seagrass can now generate when bone mealing one-high water
+- [MC-275523](https://bugs.mojang.com/browse/MC-275523) - Reduced shield glint applies to the shield's item appearance
+- [MC-275537](https://bugs.mojang.com/browse/MC-275537) - Sliding down honey blocks is slower than in previous versions
+- [MC-275538](https://bugs.mojang.com/browse/MC-275538) - Breeze still do not attack when super close to them
+- [MC-275544](https://bugs.mojang.com/browse/MC-275544) - Drowned do not summon reinforcements anymore
+- [MC-275553](https://bugs.mojang.com/browse/MC-275553) - Minecarts which exit the end onto no rails are left permamentally tilted
+- [MC-275554](https://bugs.mojang.com/browse/MC-275554) - Minecarts between two downward slopes will shake violently and never settle
+- [MC-275566](https://bugs.mojang.com/browse/MC-275566) - Game crash when trying to open various GUIs with Fabulous graphics
+- [MC-275569](https://bugs.mojang.com/browse/MC-275569) - Outer layer of the skin shows when disabled until you go into third person
+- [MC-275586](https://bugs.mojang.com/browse/MC-275586) - Renamed items highlighted in the bundle are not in italics
+- [MC-275612](https://bugs.mojang.com/browse/MC-275612) - Items with rarity values highlighted in bundles do not display their rarity colors
+- [MC-275622](https://bugs.mojang.com/browse/MC-275622) - Minecarts with TNT are more volatile than in previous releases
+- [MC-275624](https://bugs.mojang.com/browse/MC-275624) - Redstone wire with custom model unexpectedly appears green
+- [MC-275628](https://bugs.mojang.com/browse/MC-275628) - Minecarts transitioning from even to downward rails, derail above a certain speed
+- [MC-275631](https://bugs.mojang.com/browse/MC-275631) - You cannot stop a minecart by standing in the way if it's on an ascending track
+- [MC-275638](https://bugs.mojang.com/browse/MC-275638) - It is still possible to go through portals without being teleported when going quickly enough by throwing riptide tridents
+- [MC-275642](https://bugs.mojang.com/browse/MC-275642) - Baby dolphins do not spawn naturally
+- [MC-275655](https://bugs.mojang.com/browse/MC-275655) - Entity rotation does not visually update when using the teleport command until the world is reloaded
+- [MC-275677](https://bugs.mojang.com/browse/MC-275677) - Minecarts sometimes aren't affected by cobwebs when moving upwards
+- [MC-275706](https://bugs.mojang.com/browse/MC-275706) - Vanilla clients can't display items with components in recipe book anymore
+- [MC-275745](https://bugs.mojang.com/browse/MC-275745) - A scoreboard objective with display mode below_name renders right behind the player's name
+- [MC-275792](https://bugs.mojang.com/browse/MC-275792) - Bottom faces of torches and soul torches are not culled against solid blocks
+- [MC-275834](https://bugs.mojang.com/browse/MC-275834) - Jumping when falling onto a slime block no longer cancels the bounce effect
+- [MC-275838](https://bugs.mojang.com/browse/MC-275838) - Drowned holds trident upside down
+- [MC-275919](https://bugs.mojang.com/browse/MC-275919) - issues with hit detection/registration in PvP since server switch to 1.21
+- [MC-275998](https://bugs.mojang.com/browse/MC-275998) - Menu blur turns glowing outlines black
+- [MC-276005](https://bugs.mojang.com/browse/MC-276005) - The text of sneaking players' name tags is rendered completely invisible or barely visible when the "Text Background Opacity" accessibility option is set to high values
+- [MC-276007](https://bugs.mojang.com/browse/MC-276007) - Players' name tags that are behind blocks or entities are rendered invisible or partly invisible depending on the angle you're facing
+- [MC-276134](https://bugs.mojang.com/browse/MC-276134) - Can't scroll in creative inventory while hovered over the bundle
+- [MC-276305](https://bugs.mojang.com/browse/MC-276305) - Bundles no longer available without enabling feature flag
+- [MC-276341](https://bugs.mojang.com/browse/MC-276341) - The time how long you remain on fire no longer increases while being in the fire
+- [MC-276391](https://bugs.mojang.com/browse/MC-276391) - The item durability and bundle fullness bars render incorrectly when held over recipe book elements
+- [MC-276433](https://bugs.mojang.com/browse/MC-276433) - set_enchantments function removes enchantments component from books
+- [MC-276459](https://bugs.mojang.com/browse/MC-276459) - Item display rotation wrapping does not interpolate cleanly
+- [MC-276807](https://bugs.mojang.com/browse/MC-276807) - All blocks and entities flicker at night or at lower light levels than 15
+- [MC-276852](https://bugs.mojang.com/browse/MC-276852) - Shulker boxes can be colored in the same color they are made of
+- [MC-276936](https://bugs.mojang.com/browse/MC-276936) - Foxes eat soup won't leave the bowl
+- [MC-277688](https://bugs.mojang.com/browse/MC-277688) - Force disconnect when quickly editing then breaking sign
 
 ## Get the Release
 

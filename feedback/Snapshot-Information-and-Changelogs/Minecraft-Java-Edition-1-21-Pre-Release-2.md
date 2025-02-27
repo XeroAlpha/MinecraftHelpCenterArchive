@@ -1,6 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.21 Pre-Release 2"
 date: 2024-06-10T11:20:53Z
+updated: 2025-02-27T12:46:29Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/27439768882701-Minecraft-Java-Edition-1-21-Pre-Release-2
 hash:

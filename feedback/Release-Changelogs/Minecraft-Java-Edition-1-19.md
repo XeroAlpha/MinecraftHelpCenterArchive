@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.19"
 date: 2022-06-07T15:26:34Z
-updated: 2023-11-01T15:25:41Z
+updated: 2025-02-27T12:22:29Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/6731464524941-Minecraft-Java-Edition-1-19
 hash:
@@ -65,7 +65,8 @@ hash:
   h_01HE5QN0V3NPWQ1VAY0ZMYS358: example-2
   h_01HE5QN0V3E5Z3QJ7HQRCYW60N: space-glyph-provider
   h_01HE5QN0V47CHZ8JWS2KNN4BCC: world-presets
-  h_01HE5QN0V4AQASPFF2TA66T9XH: fixed-bugs-in-119
+  h_01JN3NQ4MYAPC9S6A9VQ7X0NMV: fixed-bugs-in-119
+  h_01JN3NQ4MYB5XHY1HSSR9FRBHQ: "-6"
   h_01HE5QN0V4CWEF77XNX00D9K4K: fixed-bugs-in-118
   h_01HE5QN0V4CKED8YPD80VHE3DZ: get-the-release
 ---
@@ -767,11 +768,195 @@ After:
 
  
 
-# FIXED BUGS IN 1.19
+## Fixed Bugs in 1.19
+
+###  
+
+- [MC-11783](https://bugs.mojang.com/browse/MC-11783) - Stacking snow lighting inconsistency (smooth lighting)
+- [MC-13103](https://bugs.mojang.com/browse/MC-13103) - Texture Z-Fighting at Wolf/Dog/Cat snout
+- [MC-45838](https://bugs.mojang.com/browse/MC-45838) - Certain chat messages exceed 32767 byte limit and disconnect clients
+- [MC-51418](https://bugs.mojang.com/browse/MC-51418) - Changing brightness/gamma above in-game limit using options.txt
+- [MC-53312](https://bugs.mojang.com/browse/MC-53312) - Illager/(zombie) villager/witch robes don't render the last two rows of pixels
+- [MC-67308](https://bugs.mojang.com/browse/MC-67308) - Door top and side textures flip illogically when opened and closed
+- [MC-74211](https://bugs.mojang.com/browse/MC-74211) - Door placed in spawn protection only half disappears
+- [MC-81870](https://bugs.mojang.com/browse/MC-81870) - Editing entitydata of Painting does not reflect ingame until chunk reload
+- [MC-85780](https://bugs.mojang.com/browse/MC-85780) - Rapidly swapping hands with a door or double flower can cause half door/double flower
+- [MC-88677](https://bugs.mojang.com/browse/MC-88677) - High FoV (manually changed in options.txt) causes X-ray effect
+- [MC-91364](https://bugs.mojang.com/browse/MC-91364) - Mob loot cannot be specified for small magma cube and big/medium slime
+- [MC-94060](https://bugs.mojang.com/browse/MC-94060) - Equipping armor/elytra through inventory or dispenser doesn't play sounds
+- [MC-94161](https://bugs.mojang.com/browse/MC-94161) - Boat paddles in the inventory are oak instead of their respective wood type
+- [MC-95103](https://bugs.mojang.com/browse/MC-95103) - Shield item rendering not adjusted to the center
+- [MC-99930](https://bugs.mojang.com/browse/MC-99930) - Brewing stand extends arms and inverts its texture when bottles are placed
+- [MC-100923](https://bugs.mojang.com/browse/MC-100923) - Entities with knockback resistance can get knocked back using Punch
+- [MC-106510](https://bugs.mojang.com/browse/MC-106510) - Long structure names (over 64 characters) do not fit in the Structure Block GUI
+- [MC-106627](https://bugs.mojang.com/browse/MC-106627) - Leather cap texture overlay doesn't align correctly
+- [MC-109055](https://bugs.mojang.com/browse/MC-109055) - Large Cocoa Pod texture is inconsistent
+- [MC-111809](https://bugs.mojang.com/browse/MC-111809) - Paintings unrender when entity data is updated rapidly
+- [MC-121376](https://bugs.mojang.com/browse/MC-121376) - Cannot bind "caps" key in control settings
+- [MC-122421](https://bugs.mojang.com/browse/MC-122421) - On Linux, simultaneously pressing two keys introduces a delay for one of the keys pressed
+- [MC-124984](https://bugs.mojang.com/browse/MC-124984) - Command syntax help does not recognize invalid tags
+- [MC-127885](https://bugs.mojang.com/browse/MC-127885) - The textures on the spider models aren't mirrored properly
+- [MC-131740](https://bugs.mojang.com/browse/MC-131740) - Re-running the data generator in the same folder causes previously generated -reports and- .snbt files to be deleted
+- [MC-132428](https://bugs.mojang.com/browse/MC-132428) - Client-side block model (of fences, iron bars, walls ...) is not updated when placement is cancelled
+- [MC-134158](https://bugs.mojang.com/browse/MC-134158) - Doors open one half when they fail to open / desync when interacting with a door
+- [MC-134546](https://bugs.mojang.com/browse/MC-134546) - Mouse won't move first couple seconds after you open your inventory
+- [MC-134892](https://bugs.mojang.com/browse/MC-134892) - PacketBuffer.writeString's max length is in bytes, while readString is in characters
+- [MC-136188](https://bugs.mojang.com/browse/MC-136188) - \# disappears from item/block tag suggestions, but not function/entity tag suggestions
+- [MC-141064](https://bugs.mojang.com/browse/MC-141064) - Cleric collar z-fighting
+- [MC-143209](https://bugs.mojang.com/browse/MC-143209) - All mobs with passengers float in the air, but not horses with passengers
+- [MC-147686](https://bugs.mojang.com/browse/MC-147686) - Joining a world that uses custom resources shows default resources until fully loaded
+- [MC-148795](https://bugs.mojang.com/browse/MC-148795) - Ghost blocks can occasionally be created when placing scaffolding too quickly
+- [MC-149805](https://bugs.mojang.com/browse/MC-149805) - While editing a book, you cannot use Ctrl+Home or Ctrl+End to jump to the beginning or end of the text
+- [MC-157020](https://bugs.mojang.com/browse/MC-157020) - /fill fails when removing large amounts of blocks under redstone
+- [MC-158668](https://bugs.mojang.com/browse/MC-158668) - Vex continue to attack their target after it has been killed
+- [MC-159349](https://bugs.mojang.com/browse/MC-159349) - Bottom half of door is missing when an entity is passing through while placing it
+- [MC-165036](https://bugs.mojang.com/browse/MC-165036) - Boss bars with the notched style are rendered incorrectly if more than one boss bar is active
+- [MC-165503](https://bugs.mojang.com/browse/MC-165503) - Fence gates (between walls) aren't affected by ambient occlusion/smooth lighting
+- [MC-165990](https://bugs.mojang.com/browse/MC-165990) - Crafting bamboo into scaffolding gives you 8 times the furnace fuel for free
+- [MC-166437](https://bugs.mojang.com/browse/MC-166437) - Interaction with multi-blocks in spawn protection creates desync
+- [MC-166686](https://bugs.mojang.com/browse/MC-166686) - Villagers with taiga outfits show Z-fighting around their neck
+- [MC-172550](https://bugs.mojang.com/browse/MC-172550) - Ghost blocks sometimes appear when insta-mining
+- [MC-173020](https://bugs.mojang.com/browse/MC-173020) - Minecarts can't pickup entities at some heights
+- [MC-176081](https://bugs.mojang.com/browse/MC-176081) - Striders with NoAI still get cold
+- [MC-176621](https://bugs.mojang.com/browse/MC-176621) - Entity spawn packets use integers for yaw and pitch instead of bytes
+- [MC-176840](https://bugs.mojang.com/browse/MC-176840) - Ores no longer drop experience when blown up
+- [MC-177321](https://bugs.mojang.com/browse/MC-177321) - Soul sand doesn't have smooth lighting / ambient occlusion
+- [MC-179447](https://bugs.mojang.com/browse/MC-179447) - More than six banner patterns can be added to a banner
+- [MC-179916](https://bugs.mojang.com/browse/MC-179916) - Foxes path towards origin (0,0) during a thunderstorm
+- [MC-183309](https://bugs.mojang.com/browse/MC-183309) - Player reach is different for client and server when crawling
+- [MC-183520](https://bugs.mojang.com/browse/MC-183520) - Phantoms with NoAI can go through blocks
+- [MC-186148](https://bugs.mojang.com/browse/MC-186148) - "death.attack.witherSkull.item" displays raw translation string (is untranslated)
+- [MC-186851](https://bugs.mojang.com/browse/MC-186851) - "death.attack.sting.item" displays raw translation string (is untranslated)
+- [MC-187188](https://bugs.mojang.com/browse/MC-187188) - Painting NBT and registry contain a typo: "Motive" instead of "Motif"
+- [MC-189214](https://bugs.mojang.com/browse/MC-189214) - Modifying the type compound of the end dimension erases the dragon fight
+- [MC-189897](https://bugs.mojang.com/browse/MC-189897) - Game hangs while loading world saves when entering the singleplayer world selection menu
+- [MC-190661](https://bugs.mojang.com/browse/MC-190661) - Pressing Esc or using the Cancel button in the "Experimental Settings" warning returns to main menu
+- [MC-195468](https://bugs.mojang.com/browse/MC-195468) - World Generation Settings not working on dedicated server
+- [MC-195717](https://bugs.mojang.com/browse/MC-195717) - Custom Dimensions JSON Requires Seed
+- [MC-197647](https://bugs.mojang.com/browse/MC-197647) - Players cannot jump off the edge of blocks when sneaking if they have a block above
+- [MC-197854](https://bugs.mojang.com/browse/MC-197854) - Cannot use Ctrl+Backspace to delete entire words in Edit sign GUI
+- [MC-200282](https://bugs.mojang.com/browse/MC-200282) - Players with knockback resistance cannot be knocked off of edges when sneaking
+- [MC-200661](https://bugs.mojang.com/browse/MC-200661) - Trying to dye a sheep that is 6 blocks above you plays hand animation (and dye sound)
+- [MC-201150](https://bugs.mojang.com/browse/MC-201150) - Unused pixels in end rod texture
+- [MC-201626](https://bugs.mojang.com/browse/MC-201626) - Taking saddle off of a horse makes the horse move
+- [MC-202319](https://bugs.mojang.com/browse/MC-202319) - Dedicated server text filter does not apply to all messages
+- [MC-202580](https://bugs.mojang.com/browse/MC-202580) - Transition between end stone texture and end portal frame is not as seamless as it previously was
+- [MC-202940](https://bugs.mojang.com/browse/MC-202940) - Hand animation plays although item frame is out of reach
+- [MC-207260](https://bugs.mojang.com/browse/MC-207260) - Casting issue: Sculk vibrations come from the wrong positions at high coordinates
+- [MC-207268](https://bugs.mojang.com/browse/MC-207268) - Sculk sensors don't detect stripping logs, tilling dirt, or pathing grass
+- [MC-207289](https://bugs.mojang.com/browse/MC-207289) - Sculk sensor wool occlusion has directional bias
+- [MC-207522](https://bugs.mojang.com/browse/MC-207522) - Sculk sensors don't react to horses kicking
+- [MC-207635](https://bugs.mojang.com/browse/MC-207635) - Sculk sensors react differently to wool occlusion depending on the global direction.
+- [MC-207935](https://bugs.mojang.com/browse/MC-207935) - Simultaneous vibrations don't trigger as expected
+- [MC-208597](https://bugs.mojang.com/browse/MC-208597) - Boats ridden over wool are detected by sculk sensor
+- [MC-208759](https://bugs.mojang.com/browse/MC-208759) - Sculk Sensor's 'block placed' doesn't trigger with villagers placing crops
+- [MC-208760](https://bugs.mojang.com/browse/MC-208760) - Sculk Sensor's 'block placed' doesn't trigger when snow golems place snow layers
+- [MC-208761](https://bugs.mojang.com/browse/MC-208761) - Sculk Sensor's 'block destroyed' doesn't trigger when blocks are destroyed by pistons
+- [MC-208771](https://bugs.mojang.com/browse/MC-208771) - Projectiles landing on wool trigger sculk sensors
+- [MC-209222](https://bugs.mojang.com/browse/MC-209222) - Attempting to open the Minecraft Realms menu claims that the client is outdated, even if the snapshot may be newer than the release
+- [MC-209701](https://bugs.mojang.com/browse/MC-209701) - Sculk sensors are not activated upon placing food onto campfires
+- [MC-209900](https://bugs.mojang.com/browse/MC-209900) - Sculk sensors are not activated upon inserting or retrieving music discs from jukeboxes
+- [MC-209905](https://bugs.mojang.com/browse/MC-209905) - Sculk sensors are not activated upon milking entities
+- [MC-209932](https://bugs.mojang.com/browse/MC-209932) - Sculk sensors only detect the last turtle egg being broken when being stepped on
+- [MC-210231](https://bugs.mojang.com/browse/MC-210231) - Sculk sensors are not activated upon using the riptide enchantment
+- [MC-210277](https://bugs.mojang.com/browse/MC-210277) - Sculk sensors are not activated upon chickens laying eggs
+- [MC-210278](https://bugs.mojang.com/browse/MC-210278) - Sculk sensors are not activated upon bees entering or leaving their hive or nest
+- [MC-210279](https://bugs.mojang.com/browse/MC-210279) - Sculk sensors are not activated upon entities being summoned by a spawner
+- [MC-210329](https://bugs.mojang.com/browse/MC-210329) - Sculk sensors are not activated upon armor on entities breaking
+- [MC-210330](https://bugs.mojang.com/browse/MC-210330) - Sculk sensors are not activated upon throwing eyes of ender
+- [MC-210331](https://bugs.mojang.com/browse/MC-210331) - Sculk sensors are not activated upon wandering traders drinking milk or witches drinking potions
+- [MC-210485](https://bugs.mojang.com/browse/MC-210485) - Sculk sensors are not activated upon evokers summoning vexes
+- [MC-210489](https://bugs.mojang.com/browse/MC-210489) - Sculk sensors are not activated upon pointed dripstone filling partially filled cauldrons
+- [MC-210496](https://bugs.mojang.com/browse/MC-210496) - Sculk sensors are not activated upon harvesting sweet berry bushes
+- [MC-210712](https://bugs.mojang.com/browse/MC-210712) - Sculk sensors are not activated upon backwards movement in a boat
+- [MC-210801](https://bugs.mojang.com/browse/MC-210801) - Wool incorrectly occludes the vibration of item frames being placed
+- [MC-210805](https://bugs.mojang.com/browse/MC-210805) - Wool incorrectly occludes the vibration of walking along blocks placed on top of it that are under 5/16 blocks tall
+- [MC-210868](https://bugs.mojang.com/browse/MC-210868) - Wool occlusion doesn't work as it should when combining both vertical and horizontal motion
+- [MC-210887](https://bugs.mojang.com/browse/MC-210887) - Game launch crashes on Linux with Unicode home folder/username
+- [MC-210901](https://bugs.mojang.com/browse/MC-210901) - Sculk sensors are not activated upon entities sliding on ice
+- [MC-212036](https://bugs.mojang.com/browse/MC-212036) - Hand animation still plays when 7 blocks under a boat
+- [MC-212428](https://bugs.mojang.com/browse/MC-212428) - Sculk sensors are not activated upon cleaning items in water cauldrons
+- [MC-212430](https://bugs.mojang.com/browse/MC-212430) - Sculk sensors are not activated upon rain or snow filling partially filled cauldrons
+- [MC-212503](https://bugs.mojang.com/browse/MC-212503) - Sculk sensors are not activated upon collecting fish, axolotls, or tadpoles using water buckets
+- [MC-212610](https://bugs.mojang.com/browse/MC-212610) - Glow lichens cannot be put on soul sand
+- [MC-212629](https://bugs.mojang.com/browse/MC-212629) - Leashes from two or more invisible entities connect to each other
+- [MC-213387](https://bugs.mojang.com/browse/MC-213387) - Sculk sensors don't detect endermen/shulkers teleporting from a place to another
+- [MC-213823](https://bugs.mojang.com/browse/MC-213823) - Minecart placed on wool is detected by sculk sensors but minecart driven over wool is not
+- [MC-213915](https://bugs.mojang.com/browse/MC-213915) - Equipping armor through the inventory does not count as a vibration
+- [MC-214622](https://bugs.mojang.com/browse/MC-214622) - Sculk sensors do not detect daylight detector mode switching
+- [MC-214652](https://bugs.mojang.com/browse/MC-214652) - Naming inconsistency for game events for eating/drinking
+- [MC-216567](https://bugs.mojang.com/browse/MC-216567) - Vines cannot be placed on the sides of 8 layers of snow
+- [MC-216569](https://bugs.mojang.com/browse/MC-216569) - Glow lichen cannot be placed on the side of 8 layers of snow
+- [MC-218222](https://bugs.mojang.com/browse/MC-218222) - Distance value for Sculk Sensors is limited to integers
+- [MC-219642](https://bugs.mojang.com/browse/MC-219642) - Vines cannot be placed on the sides of soul sand
+- [MC-219843](https://bugs.mojang.com/browse/MC-219843) - Mycelium's side texture differs from other dirt-based blocks
+- [MC-219852](https://bugs.mojang.com/browse/MC-219852) - Corner in smoker_bottom texture is still rotated incorrectly
+- [MC-219875](https://bugs.mojang.com/browse/MC-219875) - You can cause a desync when repeatably picking up liquids
+- [MC-220067](https://bugs.mojang.com/browse/MC-220067) - Chunk corruption with command block full of certain Unicode characters
+- [MC-220086](https://bugs.mojang.com/browse/MC-220086) - Sculk sensors do not detect using an axe to clear the wax/weathering of a copper block
+- [MC-220087](https://bugs.mojang.com/browse/MC-220087) - Sculk sensors do not detect using a honeycomb to wax copper
+- [MC-221639](https://bugs.mojang.com/browse/MC-221639) - Light Block isn't Dragon or Wither Immune
+- [MC-224709](https://bugs.mojang.com/browse/MC-224709) - Full armour icon doesn't match empty armour icon
+- [MC-225195](https://bugs.mojang.com/browse/MC-225195) - Goats don't panic when tempted with their favorite food
+- [MC-225837](https://bugs.mojang.com/browse/MC-225837) - The word "Recipe" is spelled as "Reciple" within the "narration.recipe" string
+- [MC-226184](https://bugs.mojang.com/browse/MC-226184) - Axolotls pathfinding to water can sometimes fall in wide holes
+- [MC-226430](https://bugs.mojang.com/browse/MC-226430) - Several 1.17 advancement strings are improperly capitalized
+- [MC-226761](https://bugs.mojang.com/browse/MC-226761) - Parity issue: Goats don't drop horns
+- [MC-227041](https://bugs.mojang.com/browse/MC-227041) - Axolotls will spin constantly on honey blocks that are placed above water
+- [MC-227382](https://bugs.mojang.com/browse/MC-227382) - Goats and frogs don’t bounce on bouncy blocks upon landing from long jumps
+- [MC-228049](https://bugs.mojang.com/browse/MC-228049) - Axolotl can't pathfind through open doors
+- [MC-228533](https://bugs.mojang.com/browse/MC-228533) - Sculk sensors don't detect the feeding of untamed/trusting mobs
+- [MC-228862](https://bugs.mojang.com/browse/MC-228862) - Game freezes when client fails to download server resource pack
+- [MC-228944](https://bugs.mojang.com/browse/MC-228944) - Minecraft 1.17 crashes upon opening new world on Apple M1, even with Rosetta.
+- [MC-229182](https://bugs.mojang.com/browse/MC-229182) - JVM crash in org.lwjgl.system.JNI.invokePPPP
+- [MC-229295](https://bugs.mojang.com/browse/MC-229295) - JVM crash when starting Minecraft (java.util.jar.Attributes.read)
+- [MC-230735](https://bugs.mojang.com/browse/MC-230735) - "FOV Effects" setting description is innacurate
+- [MC-231185](https://bugs.mojang.com/browse/MC-231185) - Server crash while loading Superflat world based on Rails // java.lang.StackOverflowError: Exception while updating neighbours
+- [MC-231458](https://bugs.mojang.com/browse/MC-231458) - The word "ingot" within the "Serious Dedication" advancement description is improperly capitalized
+- [MC-231600](https://bugs.mojang.com/browse/MC-231600) - Sculk sensor continuously receives vibrations when next to a powered big dripleaf
+- [MC-232009](https://bugs.mojang.com/browse/MC-232009) - Minecraft does not resolve SRV records correctly
+- [MC-235035](https://bugs.mojang.com/browse/MC-235035) - Sleeping in a custom dimension with "natural" set to false causes crash
+- [MC-235964](https://bugs.mojang.com/browse/MC-235964) - Crash on "Saving world" when F3+L profiling is active - java.lang.NullPointerException: Cannot read field "f" because "this.D" is null
+- [MC-236149](https://bugs.mojang.com/browse/MC-236149) - You cannot use CTRL+BACKSPACE to delete words in the book and quill GUI
+- [MC-236212](https://bugs.mojang.com/browse/MC-236212) - You cannot use CTRL+ARROW KEY to navigate the cursor between words in the book and quill GUI
+- [MC-237106](https://bugs.mojang.com/browse/MC-237106) - JVM crash in atio6axx.dll at org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V
+- [MC-237306](https://bugs.mojang.com/browse/MC-237306) - NBT suggesting is not present in clear command when using an item tag.
+- [MC-237920](https://bugs.mojang.com/browse/MC-237920) - "Feels like home" advancement is incorrectly capitalized
+- [MC-237922](https://bugs.mojang.com/browse/MC-237922) - "Jukebox" in Sound of Music description is incorrectly capitalized
+- [MC-237924](https://bugs.mojang.com/browse/MC-237924) - The word "villager" within the "Star Trader" advancement description is improperly capitalized
+- [MC-238009](https://bugs.mojang.com/browse/MC-238009) - Some end cities can generate floating above the ground
+- [MC-238070](https://bugs.mojang.com/browse/MC-238070) - Brewing stand arms do not connect with their bases
+- [MC-238716](https://bugs.mojang.com/browse/MC-238716) - The minecraft:item.armor.equip_TYPE sound can be heard only by other players when taking armor off armor stands
+- [MC-238807](https://bugs.mojang.com/browse/MC-238807) - "Out of memory!" message is untranslatable
+- [MC-239019](https://bugs.mojang.com/browse/MC-239019) - /locatebiome command doesn't consistently locate the nearest cave biome
+- [MC-244957](https://bugs.mojang.com/browse/MC-244957) - "Search" Option in Social Interactions Screen is not labeled in the right order when using Tab
+- [MC-245001](https://bugs.mojang.com/browse/MC-245001) - "Manage with Microsoft account" button in Social Interactions menu is not centered
+- [MC-245504](https://bugs.mojang.com/browse/MC-245504) - Touchscreen mode crash // java.lang.ClassCastException: class eec\$a cannot be cast to class eec\$c (eec\$a and eec\$c are in unnamed module of loader 'app')
+- [MC-246227](https://bugs.mojang.com/browse/MC-246227) - The minecraft:item.armor.equip_TYPE sound can be heard only by other players when switching wearable items between hands
+- [MC-248161](https://bugs.mojang.com/browse/MC-248161) - Weaponsmith zombie villager texture has leftover pixels from the regular weaponsmith texture
+- [MC-248292](https://bugs.mojang.com/browse/MC-248292) - Llama uses pre-1.14 chest texture
+- [MC-248555](https://bugs.mojang.com/browse/MC-248555) - Mismatches within (zombie) villager textures
+- [MC-248556](https://bugs.mojang.com/browse/MC-248556) - Savanna Zombie Villager missing a body texture
+- [MC-248557](https://bugs.mojang.com/browse/MC-248557) - Savanna villager body defines pixels identical to base villager texture
+- [MC-248561](https://bugs.mojang.com/browse/MC-248561) - Vindicator's crossed arms element has miscolored pixels on the faces touching the other arm elements
+- [MC-248562](https://bugs.mojang.com/browse/MC-248562) - Iron golem has unused pixels in the texture
+- [MC-248621](https://bugs.mojang.com/browse/MC-248621) - TagKey creation leads to memory leak
+- [MC-248790](https://bugs.mojang.com/browse/MC-248790) - Custom structures using jigsaw blocks will not generate new pieces under Y-0
+- [MC-248936](https://bugs.mojang.com/browse/MC-248936) - Minecraft icon on MacOS is not showing correct icon
+- [MC-249021](https://bugs.mojang.com/browse/MC-249021) - The invitation and news buttons aren't consistently displayed within the realms menu
+- [MC-249032](https://bugs.mojang.com/browse/MC-249032) - Fence item model's bars inconsistent with placed block
+- [MC-249039](https://bugs.mojang.com/browse/MC-249039) - "Half" armor bar icon texture is incorrect
+- [MC-249169](https://bugs.mojang.com/browse/MC-249169) - Paintings do not have their packet coordinates set on spawn
+- [MC-249246](https://bugs.mojang.com/browse/MC-249246) - Strider can't pathfind through open doors
+- [MC-249493](https://bugs.mojang.com/browse/MC-249493) - Breaking a minecart with chest/furnace/TNT/hopper separates the minecart and the block it contains
+- [MC-249558](https://bugs.mojang.com/browse/MC-249558) - All versions crash on M1 Mac with JVM crash when attempting to launch
+- [MC-249962](https://bugs.mojang.com/browse/MC-249962) - Exploding an End Crystal doesn't produce explosion vibration
+- [MC-250918](https://bugs.mojang.com/browse/MC-250918) - Players are disconnected from servers when opening command blocks that consist of large numbers of characters within the previous output field
+- [MC-250921](https://bugs.mojang.com/browse/MC-250921) - Spawners do not drop experience when blown up
+- [MC-251420](https://bugs.mojang.com/browse/MC-251420) - Demo Mode: The "Purchase Now!" link's destination is incorrect
+- [MC-252352](https://bugs.mojang.com/browse/MC-252352) - URL in eula.txt (dedicated server) points to the wrong location
 
  
-
-- About 150 bugs were fixed in this release. [View the entire list on the issue tracker](https://bugs.mojang.com/browse/MC-1310?filter=27034).
 
 ## FIXED BUGS IN 1.18
 

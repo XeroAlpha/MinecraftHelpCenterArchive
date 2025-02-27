@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition 1.20.5 - Armored Paws"
 date: 2024-04-23T15:03:42Z
-updated: 2024-04-24T13:35:32Z
+updated: 2025-02-27T12:11:00Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26136167989005-Minecraft-Java-Edition-1-20-5-Armored-Paws
 hash:
@@ -197,7 +197,7 @@ hash:
   h_01HW5QQFE8E9KEER88P0V2JW7C: armor-trims
   h_01HW5QQFE8ND5E4B7NQ9RBCXMP: advancements-2
   h_01HW5QQFE88PWWF2Y1TZX8PFR8: trade-rebalance
-  h_01HW5QQFE816CZGBJARC7BM4WP: fixed-bugs-in-1205
+  h_01JN3N12QBEP7JM6P5BQ1WKCYH: fixed-bugs-in-1205
   h_01HW5QQFE864MRSYX65CSG9H27: get-the-release
 ---
 
@@ -2508,9 +2508,254 @@ Known issue:
 
 - In the Trade Rebalance Experiment, Villagers who buy armor now ignore durability and can buy damaged armor
 
-## FIXED BUGS IN 1.20.5
+## Fixed bugs in 1.20.5
 
-Around 210 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=28358).
+ 
+
+- [MC-19893](https://bugs.mojang.com/browse/MC-19893) - options_background.png is incorrectly displayed upside down in the credits after beating the dragon
+- [MC-71977](https://bugs.mojang.com/browse/MC-71977) - Changing generic.attack_damage of tamed wolf has no effect / taming wolf removes custom generic.attack_damage
+- [MC-72151](https://bugs.mojang.com/browse/MC-72151) - Snow Golem's snowballs damage wolves instead of pushing them
+- [MC-94413](https://bugs.mojang.com/browse/MC-94413) - Breaking, placing and walking in tripwire (string) or cobweb play stone sounds
+- [MC-96609](https://bugs.mojang.com/browse/MC-96609) - Pick block on player head does not use BlockEntityTag
+- [MC-100016](https://bugs.mojang.com/browse/MC-100016) - Singleplayer world selection screen is shown incorrectly when light_dirt_background.png and/or options_background.png are transparent
+- [MC-100994](https://bugs.mojang.com/browse/MC-100994) - Items in hot bar appear on top of tab menu
+- [MC-107353](https://bugs.mojang.com/browse/MC-107353) - Ghast fireballs move incorrectly when hit with knockback enchantment
+- [MC-108350](https://bugs.mojang.com/browse/MC-108350) - Totem of undying animation is rendered above hotbar, but underneath items and xp, hunger and health displays
+- [MC-109286](https://bugs.mojang.com/browse/MC-109286) - Default dirt page background not aligned properly
+- [MC-117637](https://bugs.mojang.com/browse/MC-117637) - World is visible for short moment after credits before respawn
+- [MC-117955](https://bugs.mojang.com/browse/MC-117955) - Player teleports to the top when crushed by a piston head
+- [MC-117977](https://bugs.mojang.com/browse/MC-117977) - Advancement GUI doesn't have a close button
+- [MC-118857](https://bugs.mojang.com/browse/MC-118857) - Effect amplifier is read/written as byte from NBT despite being stored as an integer
+- [MC-118890](https://bugs.mojang.com/browse/MC-118890) - Tipped arrows stuck in the ground never lose their effect
+- [MC-121621](https://bugs.mojang.com/browse/MC-121621) - Pick block on shulker boxes doesn't find placed and mined shulker boxes in inventory
+- [MC-122703](https://bugs.mojang.com/browse/MC-122703) - You can craft a stack of non-stackable items using data packs
+- [MC-123804](https://bugs.mojang.com/browse/MC-123804) - Explorer map and Ominous banner names appear in item frames, draw in italics, and can be removed with an anvil
+- [MC-130244](https://bugs.mojang.com/browse/MC-130244) - When opening chat in F1 mode, previous messages aren't visible
+- [MC-131636](https://bugs.mojang.com/browse/MC-131636) - One additional character at the end is allowed in JSON text components
+- [MC-132380](https://bugs.mojang.com/browse/MC-132380) - The "Joining world..." message shows up when you enter a nether/end portal
+- [MC-140397](https://bugs.mojang.com/browse/MC-140397) - When combining two enchanted unbreakable items, the result will be two stacked items
+- [MC-140565](https://bugs.mojang.com/browse/MC-140565) - Patrol leaders with banners can drop 2 different types of banners which don't stack
+- [MC-142372](https://bugs.mojang.com/browse/MC-142372) - Ctrl + Pick block on a campfire with food cooking updates the nbt during cook time
+- [MC-143614](https://bugs.mojang.com/browse/MC-143614) - Campfire item with "cooking" NBT heavily shakes in hand/off-screen, when CTRL+pick-blocked
+- [MC-147710](https://bugs.mojang.com/browse/MC-147710) - Some long mob names are occluded by the scroll bar in the Statistics page
+- [MC-148057](https://bugs.mojang.com/browse/MC-148057) - Ominous banners generated in outposts show the pattern list
+- [MC-148480](https://bugs.mojang.com/browse/MC-148480) - Putting two identical enchanted books in a grindstone will output one book
+- [MC-149457](https://bugs.mojang.com/browse/MC-149457) - Updating "Force Unicode" setting resets selected language in the language selection menu
+- [MC-151793](https://bugs.mojang.com/browse/MC-151793) - Various Ominous Banner stacking issues
+- [MC-153329](https://bugs.mojang.com/browse/MC-153329) - Leashing an iron golem breaks its pathfinding until reloading the world
+- [MC-153643](https://bugs.mojang.com/browse/MC-153643) - Debug overlay is rendered behind hotbar items
+- [MC-153879](https://bugs.mojang.com/browse/MC-153879) - Raiders ignore ominous banners that was saved in the Saved Toolbars from a different version
+- [MC-155857](https://bugs.mojang.com/browse/MC-155857) - Team command doesn't affect illagers and witches' AI
+- [MC-157133](https://bugs.mojang.com/browse/MC-157133) - Enchanted books with curses can be stacked using a grindstone
+- [MC-162453](https://bugs.mojang.com/browse/MC-162453) - Custom heads do not show skin in hand
+- [MC-164298](https://bugs.mojang.com/browse/MC-164298) - Applying the texture to player heads is inconsistent
+- [MC-165435](https://bugs.mojang.com/browse/MC-165435) - Can't trigger flying mode in creative while standing in the middle of 2×2 magma block bubble column
+- [MC-165948](https://bugs.mojang.com/browse/MC-165948) - Bees can be lured into dangerous blocks
+- [MC-166361](https://bugs.mojang.com/browse/MC-166361) - GUI scale does not visually update when the option is changed using the keyboard and without the mouse
+- [MC-167324](https://bugs.mojang.com/browse/MC-167324) - Multiple UI buttons can be highlighted at the same time
+- [MC-167375](https://bugs.mojang.com/browse/MC-167375) - Baby turtle subtitles are grammatically incorrect
+- [MC-168407](https://bugs.mojang.com/browse/MC-168407) - Bees can get stuck in a lantern
+- [MC-169187](https://bugs.mojang.com/browse/MC-169187) - Hand animation plays when trying to use a spawn egg 5 blocks away from the player's reach
+- [MC-169389](https://bugs.mojang.com/browse/MC-169389) - End portals sometimes teleport the player to overworld coordinates
+- [MC-170000](https://bugs.mojang.com/browse/MC-170000) - Hand lighting / lighting of held items changes drastically in first-person mode when looking around
+- [MC-171177](https://bugs.mojang.com/browse/MC-171177) - You can enter nether portals in creative mode by running against the frame of the portal
+- [MC-171981](https://bugs.mojang.com/browse/MC-171981) - Map of fuel times is created anew every time an item is placed in a furnace, instead of being cached
+- [MC-172047](https://bugs.mojang.com/browse/MC-172047) - Wolves try to attack armor stands
+- [MC-172447](https://bugs.mojang.com/browse/MC-172447) - Leaving The End shows loading screen with overlapping text
+- [MC-172898](https://bugs.mojang.com/browse/MC-172898) - Equiping armor in creative via right click causes it to disappear from the hotbar for a frame
+- [MC-173303](https://bugs.mojang.com/browse/MC-173303) - Leashed pets teleport to the player when reloaded
+- [MC-173672](https://bugs.mojang.com/browse/MC-173672) - Title text renders in front of player names in player list
+- [MC-174496](https://bugs.mojang.com/browse/MC-174496) - Player heads lose their name after being placed
+- [MC-175437](https://bugs.mojang.com/browse/MC-175437) - Fullscreen resolution isn't applied when exiting Video Settings with Esc
+- [MC-175622](https://bugs.mojang.com/browse/MC-175622) - Wolf's tail will spin 360 degrees if max health is increased
+- [MC-178410](https://bugs.mojang.com/browse/MC-178410) - Banners don't support the HideFlags tag when placed down as blocks
+- [MC-179817](https://bugs.mojang.com/browse/MC-179817) - Lead drop when modifying it with /data
+- [MC-184066](https://bugs.mojang.com/browse/MC-184066) - Respawn anchors don't produce an ambient sound
+- [MC-184622](https://bugs.mojang.com/browse/MC-184622) - Sound for exiting a portal/travelling to another dimension does not use its subtitle string despite it existing in en_us.json
+- [MC-185379](https://bugs.mojang.com/browse/MC-185379) - Baby polar bear subtitle does not explicitly mention it comes from a baby polar bear
+- [MC-185955](https://bugs.mojang.com/browse/MC-185955) - When your eye level is up to 2 pixels above water, you count as being underwater as if it would be a full block
+- [MC-186626](https://bugs.mojang.com/browse/MC-186626) - /weather not working in custom dimensions
+- [MC-187267](https://bugs.mojang.com/browse/MC-187267) - Title text renders in front of sidebar
+- [MC-187372](https://bugs.mojang.com/browse/MC-187372) - There is no space between fps limit/vsync and graphics level in the debug screen
+- [MC-187616](https://bugs.mojang.com/browse/MC-187616) - Totems rendered too dark for a second after being used
+- [MC-187746](https://bugs.mojang.com/browse/MC-187746) - Game rule buttons on "Edit game rules" screen are highlighted despite being covered
+- [MC-188497](https://bugs.mojang.com/browse/MC-188497) - AngerTime and AngryAt cannot be set on summon
+- [MC-189211](https://bugs.mojang.com/browse/MC-189211) - Water Taken from Cauldron statistic is slightly covered by the bottom of the screen's overlay
+- [MC-189484](https://bugs.mojang.com/browse/MC-189484) - Statistics screen Tab selection is not centered
+- [MC-193202](https://bugs.mojang.com/browse/MC-193202) - Tamed wolf health resets when NBT is loaded (e.g. relog)
+- [MC-193460](https://bugs.mojang.com/browse/MC-193460) - Inconsistent layering of sidebar and debug screen (F3) text
+- [MC-193511](https://bugs.mojang.com/browse/MC-193511) - Title text renders in front of narrator text
+- [MC-193515](https://bugs.mojang.com/browse/MC-193515) - Boss bar text renders in front of narrator text
+- [MC-193517](https://bugs.mojang.com/browse/MC-193517) - Boss bar text renders in front of sidebar
+- [MC-193521](https://bugs.mojang.com/browse/MC-193521) - Boss bar text renders in front of F3
+- [MC-193524](https://bugs.mojang.com/browse/MC-193524) - Boss bar text strikethough/underline renders on tab list
+- [MC-193656](https://bugs.mojang.com/browse/MC-193656) - Banners' breaking texture is displaced and/or repeatedly flips horizontally, depending on the banner's rotation
+- [MC-193753](https://bugs.mojang.com/browse/MC-193753) - Respawn anchor ambient sound subtitle refers to it as a portal
+- [MC-194948](https://bugs.mojang.com/browse/MC-194948) - Block breaking subtitle inconsistent with painting, item frame and lead breaking subtitles
+- [MC-195572](https://bugs.mojang.com/browse/MC-195572) - The fog from lava is much denser when having the Fire Resistance effect active compared to Bedrock Edition
+- [MC-198492](https://bugs.mojang.com/browse/MC-198492) - Players can be pushed into danger in situations where they wouldn't normally be damaged
+- [MC-198787](https://bugs.mojang.com/browse/MC-198787) - Inefficient streams in GoalSelector
+- [MC-198963](https://bugs.mojang.com/browse/MC-198963) - Chat text renders in front of player names in player list
+- [MC-199973](https://bugs.mojang.com/browse/MC-199973) - Wet wolf is rendered too dark compared to past versions
+- [MC-200947](https://bugs.mojang.com/browse/MC-200947) - Large amount of unused space in map_icons.png texture file
+- [MC-200987](https://bugs.mojang.com/browse/MC-200987) - Title in bossbar breaks HUD opacity
+- [MC-201722](https://bugs.mojang.com/browse/MC-201722) - Summon command ignores stacking restrictions
+- [MC-204947](https://bugs.mojang.com/browse/MC-204947) - Ctrl + Pick Block on placed ominous banners is not the same as Pick Block
+- [MC-206854](https://bugs.mojang.com/browse/MC-206854) - Multiplayer warning and Chat Preview warning are off center
+- [MC-207353](https://bugs.mojang.com/browse/MC-207353) - Ghast fireballs and wind charges can't be redirected in melee if the attack does 0 damage
+- [MC-208528](https://bugs.mojang.com/browse/MC-208528) - Feeding tamed baby wolves and cats causes them to sit down/stand up
+- [MC-209906](https://bugs.mojang.com/browse/MC-209906) - Sculk sensors are not activated upon attaching equipment to entities through their inventories
+- [MC-213104](https://bugs.mojang.com/browse/MC-213104) - Statistics tab resets when resizing the Minecraft window
+- [MC-216071](https://bugs.mojang.com/browse/MC-216071) - Splash text resets if you hit escape on the Multiplayer menu, but not the Singleplayer menu
+- [MC-217084](https://bugs.mojang.com/browse/MC-217084) - Player head NBT "ExtraType" is no longer saved but doesn't use DataFixerUpper upgrade path
+- [MC-218811](https://bugs.mojang.com/browse/MC-218811) - Big dripleaves tilt when touched from the side
+- [MC-219899](https://bugs.mojang.com/browse/MC-219899) - Bone meal used on rooted dirt causes the particles to appear above it, despite the growth being below it
+- [MC-219967](https://bugs.mojang.com/browse/MC-219967) - IndexOutOfBoundsException occurs instead of a "Bad packet id" message
+- [MC-221754](https://bugs.mojang.com/browse/MC-221754) - Leashed wolves no longer attack when unleashed
+- [MC-224343](https://bugs.mojang.com/browse/MC-224343) - Books don't stack after being placed on a lectern
+- [MC-225170](https://bugs.mojang.com/browse/MC-225170) - Normal matrix scaling broken in some situations
+- [MC-226775](https://bugs.mojang.com/browse/MC-226775) - Extinguishing candle shows inaccurate subtitle
+- [MC-228486](https://bugs.mojang.com/browse/MC-228486) - Cannot switch to other windows using Cmd+Tab on macOS
+- [MC-229209](https://bugs.mojang.com/browse/MC-229209) - Loot table function set_count doesn't work with unstackable items anymore
+- [MC-229680](https://bugs.mojang.com/browse/MC-229680) - Chest, Trapped Chest, Ender Chest and Barrels stop functioning when moving far away whilst in the GUI
+- [MC-229919](https://bugs.mojang.com/browse/MC-229919) - Bees don't recognize beehives or bee nests with a campfire directly below and a block on top
+- [MC-230256](https://bugs.mojang.com/browse/MC-230256) - NBT "HideFlags" does not hide "Slot" on minecraft:bundle
+- [MC-231466](https://bugs.mojang.com/browse/MC-231466) - Minecraft crashes with message 'Index 335550507 out of bounds for length 8000' / java.lang.ArrayIndexOutOfBoundsException: Index 335550507 out of bounds for length 8000
+- [MC-232104](https://bugs.mojang.com/browse/MC-232104) - Minecarts cause chunks to be corrupted/reset when loading worlds from before 1.5 (13w02a)
+- [MC-232489](https://bugs.mojang.com/browse/MC-232489) - Retrieving a plant from a flower pot ignores inventory contents
+- [MC-232560](https://bugs.mojang.com/browse/MC-232560) - Tamed wolf movement speed decreases when unleashed from a fence
+- [MC-234406](https://bugs.mojang.com/browse/MC-234406) - The dirt background changes its position when interacting with the "Players" button in the realms menu
+- [MC-234558](https://bugs.mojang.com/browse/MC-234558) - There is no title in the "Invite player" realms menu
+- [MC-234889](https://bugs.mojang.com/browse/MC-234889) - Potion effect icons displayed within the HUD can overlap boss bars
+- [MC-238242](https://bugs.mojang.com/browse/MC-238242) - There is an unnecessary black pixel in the upper right corner of small potion UI icons in the inventory
+- [MC-239084](https://bugs.mojang.com/browse/MC-239084) - Item pickup animation is darker than the actual item model
+- [MC-248076](https://bugs.mojang.com/browse/MC-248076) - Specific type of Firework Rockets won't stack with each other after use
+- [MC-248689](https://bugs.mojang.com/browse/MC-248689) - Fog on falling blocks happens too early
+- [MC-248961](https://bugs.mojang.com/browse/MC-248961) - takenDamage for achievement criteria is calculated wrongly when the player has equipped a helmet
+- [MC-249136](https://bugs.mojang.com/browse/MC-249136) - Freeze/server-side lag spike sometimes occurs when attempting to locate a buried treasure or opening/breaking a chest containing a map
+- [MC-249335](https://bugs.mojang.com/browse/MC-249335) - Using bone meal on mangrove leaves spawns growth particles at the center of the block instead of below it
+- [MC-250432](https://bugs.mojang.com/browse/MC-250432) - Esc key always unpauses the game in Demo mode
+- [MC-251027](https://bugs.mojang.com/browse/MC-251027) - Wearing a helmet doesn't reduce the damage of falling anvils or stalactites by 1⁄4
+- [MC-251042](https://bugs.mojang.com/browse/MC-251042) - Third-party warning buttons are not positioned well in non-English languages
+- [MC-251303](https://bugs.mojang.com/browse/MC-251303) - Transparent boss bars break when more than one is on screen
+- [MC-251509](https://bugs.mojang.com/browse/MC-251509) - Patterned banners not stacking properly / banner loses "banner" ID when mined
+- [MC-252409](https://bugs.mojang.com/browse/MC-252409) - Memory statistics within the debug menu contain some unnecessary spaces
+- [MC-253881](https://bugs.mojang.com/browse/MC-253881) - The screen repetitively flashes for other players when the host of a LAN world changes the render distance
+- [MC-259142](https://bugs.mojang.com/browse/MC-259142) - Hoppers with barrel facing downwards on top picking up item
+- [MC-259355](https://bugs.mojang.com/browse/MC-259355) - Game crashes because /place sometimes does not check whether position is loaded and out of world
+- [MC-259587](https://bugs.mojang.com/browse/MC-259587) - Negative item durability causes the durability bar to render incorrectly
+- [MC-260099](https://bugs.mojang.com/browse/MC-260099) - Sniffer's snout shading changes during sniffing
+- [MC-260867](https://bugs.mojang.com/browse/MC-260867) - Cannot focus entries on the pack selection screen using the mouse
+- [MC-260889](https://bugs.mojang.com/browse/MC-260889) - Players can use water buckets and lava buckets on blocks that are out of reach
+- [MC-260921](https://bugs.mojang.com/browse/MC-260921) - Data is focused last on the statistics screen when using keyboard navigation
+- [MC-261577](https://bugs.mojang.com/browse/MC-261577) - The nether portal overlay is rendered completely opaque when using spyglasses while standing inside of nether portals
+- [MC-261596](https://bugs.mojang.com/browse/MC-261596) - Crafting Table search keyboard shortcut not working
+- [MC-261749](https://bugs.mojang.com/browse/MC-261749) - Tamed cats don't emit mob interaction vibrations for entering sitting/standing mode
+- [MC-261846](https://bugs.mojang.com/browse/MC-261846) - Japanese language uses a Chinese font
+- [MC-262503](https://bugs.mojang.com/browse/MC-262503) - light_dirt_background.png and header_separator.png does not match options_background.png
+- [MC-263256](https://bugs.mojang.com/browse/MC-263256) - Chat renders on top of TAB, blocking information
+- [MC-263315](https://bugs.mojang.com/browse/MC-263315) - Attack Target of hoglins/zoglins can't be detected by /execute on target
+- [MC-263641](https://bugs.mojang.com/browse/MC-263641) - Boss bar text no longer renders behind potion effect icons
+- [MC-263872](https://bugs.mojang.com/browse/MC-263872) - The "Scanning for games on your local network" element in the multiplayer menu cannot be selected via the mouse cursor
+- [MC-263873](https://bugs.mojang.com/browse/MC-263873) - Elements within the statistics menu are not selected in order when using the TAB key
+- [MC-263874](https://bugs.mojang.com/browse/MC-263874) - Elements in lists within the statistics menu cannot be selected via the mouse cursor
+- [MC-264456](https://bugs.mojang.com/browse/MC-264456) - Entity targeted by frogs and axolotls can't be detected by /execute on target
+- [MC-264597](https://bugs.mojang.com/browse/MC-264597) - F3 debug menu underlined text renders over subtitles
+- [MC-264637](https://bugs.mojang.com/browse/MC-264637) - Text shaders resource packs cause subtitles to flicker
+- [MC-264684](https://bugs.mojang.com/browse/MC-264684) - Too long macro silently fails
+- [MC-264821](https://bugs.mojang.com/browse/MC-264821) - The fog on armor worn by entities occurs too early
+- [MC-265273](https://bugs.mojang.com/browse/MC-265273) - The tab list in create world screen does not indicate it's tab-focused by highlight or rendering borders
+- [MC-265390](https://bugs.mojang.com/browse/MC-265390) - Forceload Command provides wrong output
+- [MC-265520](https://bugs.mojang.com/browse/MC-265520) - Switching connection protocols sometimes produces errors
+- [MC-265541](https://bugs.mojang.com/browse/MC-265541) - player.dat_old won't be read even if player.dat doesn't exist
+- [MC-265585](https://bugs.mojang.com/browse/MC-265585) - Waterlogged barriers do not diffuse sky light
+- [MC-265661](https://bugs.mojang.com/browse/MC-265661) - Dirt background appears to overlap back button on experimental feature requirements datapack screen for some window sizes
+- [MC-265669](https://bugs.mojang.com/browse/MC-265669) - Hotbar text renders above subtitle background but under subtitle text
+- [MC-265698](https://bugs.mojang.com/browse/MC-265698) - Skeleton Horse's head covers player's screen when jumping
+- [MC-265709](https://bugs.mojang.com/browse/MC-265709) - Stonecutter outputs are broken past the 32nd row in the GUI (server only)
+- [MC-265741](https://bugs.mojang.com/browse/MC-265741) - Waterlogged barriers don't show up on maps
+- [MC-265749](https://bugs.mojang.com/browse/MC-265749) - Tooltips flash when the values of buttons or fields are changed
+- [MC-265835](https://bugs.mojang.com/browse/MC-265835) - The freezing effect is rendered totally opaque when using a spyglass
+- [MC-266032](https://bugs.mojang.com/browse/MC-266032) - Attempting to copy a "Copy of a copy" book in a Crafter behaves incorrectly
+- [MC-266055](https://bugs.mojang.com/browse/MC-266055) - Opening or closing a copper door or trapdoor while holding an axe / honeycomb grants wax-related advancement
+- [MC-266135](https://bugs.mojang.com/browse/MC-266135) - Cached macro commands ignore permission level, allowing limited permission escalation
+- [MC-266136](https://bugs.mojang.com/browse/MC-266136) - Macro commands ignore function-permisson-level server setting, including when lower than default
+- [MC-266144](https://bugs.mojang.com/browse/MC-266144) - Copper Doors are not part of the \#doors item tag
+- [MC-266145](https://bugs.mojang.com/browse/MC-266145) - Copper Trapdoors are not part of the \#trapdoors item tag
+- [MC-266308](https://bugs.mojang.com/browse/MC-266308) - Copper Bulbs have unused "turn_off" sound
+- [MC-266334](https://bugs.mojang.com/browse/MC-266334) - Shulker bullets destroy armor stands
+- [MC-266389](https://bugs.mojang.com/browse/MC-266389) - Glow berry particles are barely visible when bonemealed
+- [MC-266430](https://bugs.mojang.com/browse/MC-266430) - Breeze on top of a non-full block produces particles of the block below it
+- [MC-266432](https://bugs.mojang.com/browse/MC-266432) - Exposed, weathered and oxidised copper bulbs are unwaxed in trial chambers
+- [MC-266449](https://bugs.mojang.com/browse/MC-266449) - Breeze doesn't attack or retaliate against mob on sight
+- [MC-266467](https://bugs.mojang.com/browse/MC-266467) - Wind charges stutter when flying through the air
+- [MC-266469](https://bugs.mojang.com/browse/MC-266469) - When attacked, breezes sometimes stop pathfinding, jumping, or firing wind charges
+- [MC-266532](https://bugs.mojang.com/browse/MC-266532) - Breezes can be hit by some projectiles
+- [MC-266533](https://bugs.mojang.com/browse/MC-266533) - Breeze's AI has serious flaws in open terrain
+- [MC-266557](https://bugs.mojang.com/browse/MC-266557) - The breeze sometimes moves around while attacking, interrupting its attack animation
+- [MC-266570](https://bugs.mojang.com/browse/MC-266570) - Wind charges can't go through non solid blocks
+- [MC-266577](https://bugs.mojang.com/browse/MC-266577) - Some trial spawners in trial chambers spawn mobs without persistence
+- [MC-266589](https://bugs.mojang.com/browse/MC-266589) - Armor durability is changed when swapping on creative
+- [MC-266628](https://bugs.mojang.com/browse/MC-266628) - High polling rate causing stuttering
+- [MC-266680](https://bugs.mojang.com/browse/MC-266680) - The glowing outline isn't applied to the eyes or eyebrows of breezes
+- [MC-266685](https://bugs.mojang.com/browse/MC-266685) - The entity shadows of breezes are too large in relation to the size of their models
+- [MC-266688](https://bugs.mojang.com/browse/MC-266688) - Breeze model's glowing eyes are not resource pack-friendly
+- [MC-266707](https://bugs.mojang.com/browse/MC-266707) - Trial spawners ignore custom_spawn_rules
+- [MC-266738](https://bugs.mojang.com/browse/MC-266738) - Subtitles string "subtitles.block.trial_spawner.spawn_mob" is misleading and inconsistent
+- [MC-266879](https://bugs.mojang.com/browse/MC-266879) - Clouds, entity hitboxes, block outlines, specially rendered blocks, and enchantment glints, render through the insides of breezes' eyes and eyebrows
+- [MC-266909](https://bugs.mojang.com/browse/MC-266909) - Breezes don't have smooth transitions to their idle states when they stop moving
+- [MC-266960](https://bugs.mojang.com/browse/MC-266960) - Bossbar text renders in front of player list background and player icons
+- [MC-266990](https://bugs.mojang.com/browse/MC-266990) - Maps with the same 'map' tag value, but different 'display' tag data can cause markers to disappear
+- [MC-266997](https://bugs.mojang.com/browse/MC-266997) - Sky light doesn't update when breaking a shulker box while its (closing) animation is playing
+- [MC-266999](https://bugs.mojang.com/browse/MC-266999) - Crafter's tooltip buttons can still be visible to players on spectator mode
+- [MC-267044](https://bugs.mojang.com/browse/MC-267044) - Tick status strings contain inconsistent word usage
+- [MC-267045](https://bugs.mojang.com/browse/MC-267045) - Some tick strings are missing articles and are unclear
+- [MC-267086](https://bugs.mojang.com/browse/MC-267086) - Compass does not indicate spawn point correctly when game is frozen with /tick
+- [MC-267103](https://bugs.mojang.com/browse/MC-267103) - Client crashes when receiving inconsistent network registries
+- [MC-267104](https://bugs.mojang.com/browse/MC-267104) - The bottom face textures of breezes' rods are incorrect and don't match with surrounding colors
+- [MC-267133](https://bugs.mojang.com/browse/MC-267133) - Breezes can't attack or move when there is no land around them and they are on the same height block as the player
+- [MC-267149](https://bugs.mojang.com/browse/MC-267149) - Crafter top face has an inverted UV texture map
+- [MC-267193](https://bugs.mojang.com/browse/MC-267193) - A function with /return fail run in chat doesn't indicate failure
+- [MC-267194](https://bugs.mojang.com/browse/MC-267194) - /return run function in combination with a fork and a function that doesn't return has inconsistent behavior
+- [MC-267273](https://bugs.mojang.com/browse/MC-267273) - Second beacon power for level 4 beacon flickers when player hovers the mouse pointer over it
+- [MC-267352](https://bugs.mojang.com/browse/MC-267352) - Singleplayer worlds don't load the player.dat when the "Player" tag is absent from level.dat
+- [MC-267366](https://bugs.mojang.com/browse/MC-267366) - You cannot use Spider Eyes on Baby Armadillos to age them up
+- [MC-267367](https://bugs.mojang.com/browse/MC-267367) - Wolf armor flashes red when the wolf takes damage
+- [MC-267371](https://bugs.mojang.com/browse/MC-267371) - Shulkers hitbox doesn't scale with generic.scale
+- [MC-267377](https://bugs.mojang.com/browse/MC-267377) - Applying bone meal to mangrove leaves no longer produces any particles
+- [MC-267378](https://bugs.mojang.com/browse/MC-267378) - Armor stand interaction points do not change with scale
+- [MC-267379](https://bugs.mojang.com/browse/MC-267379) - Applying bone meal to rooted dirt no longer produces any particles
+- [MC-267380](https://bugs.mojang.com/browse/MC-267380) - Cannot open inventories beyond default block reach
+- [MC-267381](https://bugs.mojang.com/browse/MC-267381) - Moving while sneaking is impossible with high generic.step_height attribute
+- [MC-267433](https://bugs.mojang.com/browse/MC-267433) - Shift double-clicking while holding the same item on your cursor doesn't transfer items
+- [MC-267451](https://bugs.mojang.com/browse/MC-267451) - Items named with an anvil on 1.20.4 don't stack with items named prior
+- [MC-267456](https://bugs.mojang.com/browse/MC-267456) - Changes to item_used_on_block advancement criteria breaks previous functionality
+- [MC-267465](https://bugs.mojang.com/browse/MC-267465) - Realms world upload error: "Cannot invoke "ctt.c()" because "this.b" is null"
+- [MC-267500](https://bugs.mojang.com/browse/MC-267500) - Attribute modifier on an item with the first and/or last 2 integers of the UUID being 0 are non-functional
+- [MC-267732](https://bugs.mojang.com/browse/MC-267732) - /place jigsaw still caps max depth at 7
+- [MC-267742](https://bugs.mojang.com/browse/MC-267742) - Opening a written book makes it unstackable with identical unopened books
+- [MC-267747](https://bugs.mojang.com/browse/MC-267747) - Click and hover events don't work when viewing chat while F1 is enabled
+- [MC-267809](https://bugs.mojang.com/browse/MC-267809) - The word "armor" within the Wolf Armor subtitle strings is improperly capitalized
+- [MC-267866](https://bugs.mojang.com/browse/MC-267866) - Panda slimeball drop is hardcoded
+- [MC-267975](https://bugs.mojang.com/browse/MC-267975) - The realms player list is rendered larger than its visual size
+- [MC-267976](https://bugs.mojang.com/browse/MC-267976) - The scroll bar in the realms player list can no longer be dragged using the mouse cursor
+- [MC-268000](https://bugs.mojang.com/browse/MC-268000) - The client crashes when using /give to give players a skull
+- [MC-268011](https://bugs.mojang.com/browse/MC-268011) - Hoppers leak the last world they sucked item on
+- [MC-268022](https://bugs.mojang.com/browse/MC-268022) - Elements within the list in the "Experimental feature requirements" menu cannot be selected via the mouse cursor
+- [MC-268110](https://bugs.mojang.com/browse/MC-268110) - Deleting world results in a file directory error
+- [MC-268236](https://bugs.mojang.com/browse/MC-268236) - Search field in the social interactions menu not focused by default
+- [MC-268353](https://bugs.mojang.com/browse/MC-268353) - Tick Freeze randomizes next AI tick type
+- [MC-268597](https://bugs.mojang.com/browse/MC-268597) - Hitting a breeze with a player reflected/dispensed wind charge causes it to become trapped within the breeze until it moves
+- [MC-268624](https://bugs.mojang.com/browse/MC-268624) - "Saving world" message is rendered behind pause menu background, instead of on top
+- [MC-269083](https://bugs.mojang.com/browse/MC-269083) - Effect background texture in inventory renders translucent pixels as opaque
+- [MC-269085](https://bugs.mojang.com/browse/MC-269085) - Experience bar and jump bar render translucent pixels as opaque
+- [MC-269279](https://bugs.mojang.com/browse/MC-269279) - The "Normal user" button within the realms player menu is improperly capitalized
+- [MC-269472](https://bugs.mojang.com/browse/MC-269472) - Crash when table_bonus loot condition has empty chances list
+- [MC-269496](https://bugs.mojang.com/browse/MC-269496) - You don't get any damage if you fight against the breeze in a minecart or in a boat
+- [MC-269755](https://bugs.mojang.com/browse/MC-269755) - Scroller in Report Player screen renders translucent pixels as opaque, unlike elsewhere
+- [MC-269763](https://bugs.mojang.com/browse/MC-269763) - Scroller in Realms screen renders translucent pixels as opaque, unlike elsewhere
+
+ 
 
 ## GET THE RELEASE
 

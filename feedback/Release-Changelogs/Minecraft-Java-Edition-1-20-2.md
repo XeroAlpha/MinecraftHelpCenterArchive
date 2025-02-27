@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.20.2"
 date: 2023-09-21T15:13:30Z
-updated: 2023-09-21T15:13:36Z
+updated: 2025-02-27T12:07:15Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/19703470383757-Minecraft-Java-Edition-1-20-2
 hash:
@@ -60,7 +60,7 @@ hash:
   h_01HAW4TPX74Z4FGDPVVQZ2JY36: wandering-trader-changes
   h_01HAW4TPX79A177PSHHCGWH4SK: armorer-changes
   h_01HAW4TPX76DXCRESZ5W4GQXED: structure-loot
-  h_01HAW4TPX7MP72DCRA1GE9MZRF: fixed-bugs-in-1202
+  h_01JN3MV77R391PRX18VRQ7868D: fixed-bugs-in-1202
   h_01HAW4TPX702NWDW6RER20F419: get-the-release
 ---
 
@@ -563,9 +563,228 @@ Certain Enchanted Books now have a high chance of generating in some structures:
 - Desert Temples: Unbreaking (I to III)
 - Jungle Temples: Unbreaking (I to III)
 
-## FIXED BUGS IN 1.20.2
+## Fixed bugs in 1.20.2
 
-Around 200 bugs were fixed in this release. View the [list on the issue tracker](https://bugs.mojang.com/issues/?filter=27828).
+- [MC-1297](https://bugs.mojang.com/browse/MC-1297) - You can attack and be attacked through glass panes
+- [MC-2310](https://bugs.mojang.com/browse/MC-2310) - Wrong attack radius calculation damages/kills entities through blocks and corners
+- [MC-25088](https://bugs.mojang.com/browse/MC-25088) - Health Boost completely reset if applied again
+- [MC-29371](https://bugs.mojang.com/browse/MC-29371) - Several buttons and icons use the old tooltip design upon being hovered over
+- [MC-61041](https://bugs.mojang.com/browse/MC-61041) - "CustomPotionEffects", "ActiveEffects", and "Effects" NBT tags still use numeral IDs
+- [MC-67532](https://bugs.mojang.com/browse/MC-67532) - Bottom 2 rows of pixels in selected hotbar slot texture don't appear in game
+- [MC-69387](https://bugs.mojang.com/browse/MC-69387) - The "/item" command cannot replace items within jukeboxes
+- [MC-70127](https://bugs.mojang.com/browse/MC-70127) - Some block state changes aren't communicated to clients
+- [MC-72721](https://bugs.mojang.com/browse/MC-72721) - Chat messages show after death independent of chat setting
+- [MC-80876](https://bugs.mojang.com/browse/MC-80876) - Entity riding vehicle has always same offset
+- [MC-80938](https://bugs.mojang.com/browse/MC-80938) - Non-default BurnTime, CookTime and CookTimeTotal values of furnace can cause GUI to be displayed incorrectly
+- [MC-82239](https://bugs.mojang.com/browse/MC-82239) - Minecarts riding minecarts are unrideable
+- [MC-85582](https://bugs.mojang.com/browse/MC-85582) - Entity models in the inventory can render outside the boundaries of the black box
+- [MC-86918](https://bugs.mojang.com/browse/MC-86918) - Ender dragon and piglin heads are not activated when powered by comparators
+- [MC-93320](https://bugs.mojang.com/browse/MC-93320) - Water freezes even if randomTickSpeed is 0
+- [MC-93820](https://bugs.mojang.com/browse/MC-93820) - Rain filling cauldrons is not affected by randomTickSpeed
+- [MC-96409](https://bugs.mojang.com/browse/MC-96409) - Creepers can't blow up the boat and boat with chest they ride, when it is on the land
+- [MC-103800](https://bugs.mojang.com/browse/MC-103800) - Sometimes armor stands won't update their visual rotation
+- [MC-103831](https://bugs.mojang.com/browse/MC-103831) - Creepers only deal half a heart of damage to nearby entities when exploding inside of boats
+- [MC-109346](https://bugs.mojang.com/browse/MC-109346) - Newly rendered players always look south until they move their head
+- [MC-112133](https://bugs.mojang.com/browse/MC-112133) - Eating chorus fruit does not reset fall distance
+- [MC-118616](https://bugs.mojang.com/browse/MC-118616) - The sounds of magma cubes and slimes aren't controlled by the "Hostile Creatures" sound slider
+- [MC-119873](https://bugs.mojang.com/browse/MC-119873) - The text used for the credits button within the title screen is untranslatable
+- [MC-121772](https://bugs.mojang.com/browse/MC-121772) - Can't scroll while holding SHIFT on macOS
+- [MC-121884](https://bugs.mojang.com/browse/MC-121884) - Server-\>Client custom payload packets can leak resources
+- [MC-122296](https://bugs.mojang.com/browse/MC-122296) - Horizontal scrolling does not work on Mac \[Magic Mouse\]
+- [MC-122547](https://bugs.mojang.com/browse/MC-122547) - Barriers can produce fall particles
+- [MC-122645](https://bugs.mojang.com/browse/MC-122645) - Narrator hotkey cannot be customized or disabled
+- [MC-125046](https://bugs.mojang.com/browse/MC-125046) - "RepairCost" NBT tag is created on any renamed item using anvils which can cause items to not stack properly
+- [MC-131684](https://bugs.mojang.com/browse/MC-131684) - Chunk data packet allocates an extra byte for each section using GlobalPalette
+- [MC-135339](https://bugs.mojang.com/browse/MC-135339) - Host's skin is not visible to other players in a LAN world if the host has not opened any world before
+- [MC-140646](https://bugs.mojang.com/browse/MC-140646) - Text fields don't scroll while selecting text with Shift
+- [MC-147766](https://bugs.mojang.com/browse/MC-147766) - Shift key stays pressed until press any other key
+- [MC-154827](https://bugs.mojang.com/browse/MC-154827) - Typo in splash text "Verlet intregration!"
+- [MC-164080](https://bugs.mojang.com/browse/MC-164080) - Entities riding on Ghast are partially or fully inside it
+- [MC-164176](https://bugs.mojang.com/browse/MC-164176) - Player ping indicator uses the same textures as the server list ping indicator
+- [MC-169201](https://bugs.mojang.com/browse/MC-169201) - Missing "rolls" in loot tables causes NullPointerException
+- [MC-169464](https://bugs.mojang.com/browse/MC-169464) - Scoreboard slots are not case-sensitive
+- [MC-169530](https://bugs.mojang.com/browse/MC-169530) - Player sneaks client-side when riding a pig in a two block high tunnel
+- [MC-173057](https://bugs.mojang.com/browse/MC-173057) - Text field can scroll when auto completing, so that you do not see what you auto completed
+- [MC-173643](https://bugs.mojang.com/browse/MC-173643) - Zombies don't attack villager when elevated below them
+- [MC-177110](https://bugs.mojang.com/browse/MC-177110) - Mob stepping sounds are inconsistently subtitled
+- [MC-177172](https://bugs.mojang.com/browse/MC-177172) - Dash in villager/trader UI is hardcoded / untranslatable
+- [MC-178787](https://bugs.mojang.com/browse/MC-178787) - Sitting on a pig with a saddle without a carrot on a stick makes the pig stand still
+- [MC-181109](https://bugs.mojang.com/browse/MC-181109) - Grindstone adds RepairCost: 0
+- [MC-181190](https://bugs.mojang.com/browse/MC-181190) - The discount for curing a villager is multiplied if the villager is reinfected and cured again
+- [MC-182686](https://bugs.mojang.com/browse/MC-182686) - Realms connection screen elements are vertically off-center
+- [MC-182820](https://bugs.mojang.com/browse/MC-182820) - Repeaters and comparators use wood sounds for placing/breaking despite being made mostly of stone
+- [MC-190815](https://bugs.mojang.com/browse/MC-190815) - Shulker boxes don't conduct redstone when open, but don't trigger redstone updates when opened
+- [MC-192307](https://bugs.mojang.com/browse/MC-192307) - Accessibility icon does not support semi-transparent pixel
+- [MC-193457](https://bugs.mojang.com/browse/MC-193457) - Dropper/Dispenser 'Triggered' block state not updating without player interaction
+- [MC-196884](https://bugs.mojang.com/browse/MC-196884) - Bees exit the beehive for less than a second when its honey or honeycombs are collected during the daytime
+- [MC-197473](https://bugs.mojang.com/browse/MC-197473) - Renamed block entities don't stack properly
+- [MC-200484](https://bugs.mojang.com/browse/MC-200484) - Jukeboxes use stone sounds despite being composed predominantly of wood
+- [MC-201166](https://bugs.mojang.com/browse/MC-201166) - A summoned minecart can stay visually tilted
+- [MC-202432](https://bugs.mojang.com/browse/MC-202432) - Absorption effect does not go away even after the hearts are gone
+- [MC-203232](https://bugs.mojang.com/browse/MC-203232) - endermites hitbox is so little it doesn't comes above the boat when sitting in one.
+- [MC-206182](https://bugs.mojang.com/browse/MC-206182) - Cannot tab out of console text field of command block
+- [MC-208909](https://bugs.mojang.com/browse/MC-208909) - Axolotl will still be dry on the boat or boat with chest if it's in water when raining
+- [MC-209220](https://bugs.mojang.com/browse/MC-209220) - Cursor in Edit Game Rules menu does not blink
+- [MC-209798](https://bugs.mojang.com/browse/MC-209798) - Sculk sensors are not activated upon using bone meal
+- [MC-210485](https://bugs.mojang.com/browse/MC-210485) - Sculk sensors are not activated upon evokers summoning vexes
+- [MC-214126](https://bugs.mojang.com/browse/MC-214126) - Bees don't pollinate themselves with spore blossoms or chorus flowers
+- [MC-215768](https://bugs.mojang.com/browse/MC-215768) - Sculk sensors do not detect turtles clearing away sand
+- [MC-217627](https://bugs.mojang.com/browse/MC-217627) - Spore blossoms are not part of the \#minecraft:flowers tag
+- [MC-217628](https://bugs.mojang.com/browse/MC-217628) - Levers use wood sounds rather than stone
+- [MC-217629](https://bugs.mojang.com/browse/MC-217629) - Tripwire hooks use stone sounds, rather than wood
+- [MC-219440](https://bugs.mojang.com/browse/MC-219440) - Sculk sensors do not detect fire being put out by a water splash potion
+- [MC-225800](https://bugs.mojang.com/browse/MC-225800) - Ghasts appearing in the wrong location after teleporting
+- [MC-227338](https://bugs.mojang.com/browse/MC-227338) - Vindicators have insane range when riding a ravager
+- [MC-228420](https://bugs.mojang.com/browse/MC-228420) - World not loading / falling through the world when joining a server / travelling between dimensions / respawning
+- [MC-229121](https://bugs.mojang.com/browse/MC-229121) - JVM crash in jdk.internal.loader.NativeLibraries.load
+- [MC-230732](https://bugs.mojang.com/browse/MC-230732) - Minecraft local difficulty setting is calculated/displayed wrongly when running a world in a server
+- [MC-231898](https://bugs.mojang.com/browse/MC-231898) - The structure block UI selection outline doesn't highlight the right side of certain focused fields
+- [MC-232840](https://bugs.mojang.com/browse/MC-232840) - Baby zombie legs clip through heads of mobs they are riding
+- [MC-234780](https://bugs.mojang.com/browse/MC-234780) - Buttons in the realms reset world menu are not selected in order when using the TAB key
+- [MC-235762](https://bugs.mojang.com/browse/MC-235762) - Screenshots wider than 16384 pixels causes a crash / java.lang.OutOfMemoryError: Out of stack space
+- [MC-236966](https://bugs.mojang.com/browse/MC-236966) - Audio output setting choices are limited on macOS
+- [MC-237326](https://bugs.mojang.com/browse/MC-237326) - Horse flashing heart texture is unused
+- [MC-237333](https://bugs.mojang.com/browse/MC-237333) - Cake, banners and paintings cannot be placed on chorus flowers, despite being able to support them
+- [MC-237427](https://bugs.mojang.com/browse/MC-237427) - Horse flashing heart background texture is unused
+- [MC-237428](https://bugs.mojang.com/browse/MC-237428) - Flashing hunger icon texture is unused
+- [MC-237429](https://bugs.mojang.com/browse/MC-237429) - Flashing hunger background texture is unused
+- [MC-238793](https://bugs.mojang.com/browse/MC-238793) - Excessive chunks sent to client with low render distance
+- [MC-242076](https://bugs.mojang.com/browse/MC-242076) - The skeleton of a spider jockey sits "inside" of spider model rather than on top of the spider
+- [MC-242092](https://bugs.mojang.com/browse/MC-242092) - Texture map for magma cube (magmacube.png) has unused pixels
+- [MC-242385](https://bugs.mojang.com/browse/MC-242385) - Inconsistency on the buffer size calculation in the chunk packet data
+- [MC-242395](https://bugs.mojang.com/browse/MC-242395) - Texture map for the blaze (blaze.png) contains unused pixels
+- [MC-242396](https://bugs.mojang.com/browse/MC-242396) - Unused pixels in wood.png UV texture map for armor stands
+- [MC-242397](https://bugs.mojang.com/browse/MC-242397) - Texture maps for cow, red & brown mooshroom (red/brown_mooshroom.png & cow.png) contain unused pixels
+- [MC-242592](https://bugs.mojang.com/browse/MC-242592) - Texture map for the polar bear (polarbear.png) contain unused pixels
+- [MC-245930](https://bugs.mojang.com/browse/MC-245930) - GUI texture files have hidden transparent remnants
+- [MC-248778](https://bugs.mojang.com/browse/MC-248778) - The item count symbol within shulker box tooltips is untranslatable
+- [MC-248833](https://bugs.mojang.com/browse/MC-248833) - The parentheses used before and after the warning label within the language menu are untranslatable
+- [MC-248844](https://bugs.mojang.com/browse/MC-248844) - The page indicator symbol within the recipe book GUI is untranslatable
+- [MC-248846](https://bugs.mojang.com/browse/MC-248846) - The colon used within the death screen to show the player's score is untranslatable
+- [MC-249109](https://bugs.mojang.com/browse/MC-249109) - Sniffers, frogs, goats, and camels don't panic when attached to leads
+- [MC-249355](https://bugs.mojang.com/browse/MC-249355) - The hyphen used within the statistics menu to show a null value is untranslatable
+- [MC-249702](https://bugs.mojang.com/browse/MC-249702) - Server crash when attempting to start a server with malformatted banned-ips.json
+- [MC-249776](https://bugs.mojang.com/browse/MC-249776) - Players sneak client-side while riding boat chests under hoppers
+- [MC-249893](https://bugs.mojang.com/browse/MC-249893) - Authlib: MinecraftSessionService#fillProfileProperties doesn't check if server returns an error
+- [MC-250985](https://bugs.mojang.com/browse/MC-250985) - Unused recipe book button in crafting and inventory texture
+- [MC-251525](https://bugs.mojang.com/browse/MC-251525) - Sculk sensors are not activated upon rabbits eating planted carrots
+- [MC-252231](https://bugs.mojang.com/browse/MC-252231) - Warm Frog texture has inconsistent pixels
+- [MC-252295](https://bugs.mojang.com/browse/MC-252295) - The word "whilst" within several death messages isn't spelled in American English
+- [MC-252298](https://bugs.mojang.com/browse/MC-252298) - Death messages relating to the Thorns enchantment don't contain conjunctions where appropriate
+- [MC-252316](https://bugs.mojang.com/browse/MC-252316) - The word "burnt" within some death messages isn't spelled in American English
+- [MC-253137](https://bugs.mojang.com/browse/MC-253137) - The game output console is logged with errors regarding missing signatures from property textures when joining LAN worlds
+- [MC-253241](https://bugs.mojang.com/browse/MC-253241) - The player count indicator symbol within the multiplayer menu is untranslatable
+- [MC-253269](https://bugs.mojang.com/browse/MC-253269) - The advancement progress indicator symbol within the advancements menu is untranslatable
+- [MC-253270](https://bugs.mojang.com/browse/MC-253270) - The hyphen used within boss bars for raids is untranslatable
+- [MC-253278](https://bugs.mojang.com/browse/MC-253278) - The percentage symbol used within the level loading screen to show the loading progress of the world is untranslatable
+- [MC-253281](https://bugs.mojang.com/browse/MC-253281) - Text within filled map tooltips when advanced tooltips are hidden is untranslatable
+- [MC-253283](https://bugs.mojang.com/browse/MC-253283) - The percentage and chunk indicator symbols used within the optimize world menu are untranslatable
+- [MC-253638](https://bugs.mojang.com/browse/MC-253638) - The symbols used within shulker box tooltips to show random loot table contents are untranslatable
+- [MC-253797](https://bugs.mojang.com/browse/MC-253797) - Resource pack rejection prints component instead of username
+- [MC-254100](https://bugs.mojang.com/browse/MC-254100) - Iron golem spawn rate decreased
+- [MC-255263](https://bugs.mojang.com/browse/MC-255263) - Players' positions are desynced after stopping movement while moving the camera
+- [MC-255418](https://bugs.mojang.com/browse/MC-255418) - Vertical redstone dust placed against dropper/dispenser/hopper doesn't visually disappear when the dust above is removed
+- [MC-255829](https://bugs.mojang.com/browse/MC-255829) - Villager trades air if it has a totem of undying trade and uses the held totem
+- [MC-255967](https://bugs.mojang.com/browse/MC-255967) - Old chunks that would have Deep Dark biomes below Y=0 if generated newly doesn't completely generate; only Ancient Cities are spawned
+- [MC-256466](https://bugs.mojang.com/browse/MC-256466) - Raft entities are named boats
+- [MC-256482](https://bugs.mojang.com/browse/MC-256482) - Sculk sensors are not activated upon camels standing up or sitting down
+- [MC-256485](https://bugs.mojang.com/browse/MC-256485) - Camels that spawn within villages can spawn inside blocks
+- [MC-256549](https://bugs.mojang.com/browse/MC-256549) - Baby camels that aren't moving face in the direction of their adults when pathfinding to players that are tempting them
+- [MC-256641](https://bugs.mojang.com/browse/MC-256641) - Bamboo fence and fence gate aren't grouped with the other fences and fence gates in the crafting table
+- [MC-256652](https://bugs.mojang.com/browse/MC-256652) - Endermen are almost unable to attack Players on a Camel
+- [MC-256675](https://bugs.mojang.com/browse/MC-256675) - Z-fighting occurs between the legs of the camel and the texture of the saddle when it is sitting
+- [MC-256690](https://bugs.mojang.com/browse/MC-256690) - Camels attempt to stand up when blocks are placed over them, causing them to take suffocation damage if blocks are at eye level
+- [MC-256696](https://bugs.mojang.com/browse/MC-256696) - Player sneaks client-side while riding a camel in a three-block high space
+- [MC-256737](https://bugs.mojang.com/browse/MC-256737) - Sniffers, frogs, goats, and camels prioritize pathfinding to their lover when fed over panicking when being damaged
+- [MC-256777](https://bugs.mojang.com/browse/MC-256777) - The two characters used within the tab list to show players' health are untranslatable
+- [MC-257342](https://bugs.mojang.com/browse/MC-257342) - You get slowed down when riding a camel in a 3 block tall area
+- [MC-257366](https://bugs.mojang.com/browse/MC-257366) - Vines, glow lichens, and sculk veins attached to the sides of shulker boxes are only destroyed when shulker box fully opens
+- [MC-257431](https://bugs.mojang.com/browse/MC-257431) - Bamboo fence gates utilize the wrong textures
+- [MC-257628](https://bugs.mojang.com/browse/MC-257628) - Sculk sensors are not activated upon camels dashing
+- [MC-257909](https://bugs.mojang.com/browse/MC-257909) - Zoglins, hoglins, and pandas can still attack players riding camels
+- [MC-258287](https://bugs.mojang.com/browse/MC-258287) - Uncontrolled mobs (with the exception of a camel) cannot walk when a player sits on them
+- [MC-258379](https://bugs.mojang.com/browse/MC-258379) - Parity issue: The locations of camels' ears differ across platforms
+- [MC-258620](https://bugs.mojang.com/browse/MC-258620) - Piglins barter every 121 game ticks instead of every 120 game ticks
+- [MC-259152](https://bugs.mojang.com/browse/MC-259152) - Player's model displayed in inventory while sneaking differs between the versions
+- [MC-259382](https://bugs.mojang.com/browse/MC-259382) - Message "Failed to get element" is logged repeatedly when giving yourself armor with invalid trimming pattern or material
+- [MC-259401](https://bugs.mojang.com/browse/MC-259401) - Lapis lazuli icons in enchanting table and smithing table are inconsistent
+- [MC-259452](https://bugs.mojang.com/browse/MC-259452) - Baby Camel's laying down/getting up sounds are not sped up
+- [MC-259475](https://bugs.mojang.com/browse/MC-259475) - The rotation of controlling passengers on sitting camels is sometimes restricted while adjusting your rotation slowly
+- [MC-259769](https://bugs.mojang.com/browse/MC-259769) - Firework explosions no longer deal knockback to entities
+- [MC-259794](https://bugs.mojang.com/browse/MC-259794) - Armor enchanted with curse of binding cannot be swapped via right-clicking in creative mode
+- [MC-259860](https://bugs.mojang.com/browse/MC-259860) - Sitting camels that have passengers continuously look up and down for other players
+- [MC-259915](https://bugs.mojang.com/browse/MC-259915) - Item display position interpolation not working
+- [MC-260054](https://bugs.mojang.com/browse/MC-260054) - Pink Petals hitbox does not adjust to contents
+- [MC-260058](https://bugs.mojang.com/browse/MC-260058) - Pick Block does not work properly for blank decorated pots
+- [MC-260085](https://bugs.mojang.com/browse/MC-260085) - Particles are created when using a brush on a barrier
+- [MC-260096](https://bugs.mojang.com/browse/MC-260096) - Decorated pots don't have creative mode tooltips
+- [MC-260485](https://bugs.mojang.com/browse/MC-260485) - The "/item" command cannot remove items within chiseled bookshelves
+- [MC-260490](https://bugs.mojang.com/browse/MC-260490) - Passenger's riding position is too low for non-default-sized mobs
+- [MC-260604](https://bugs.mojang.com/browse/MC-260604) - Terrible loudness following consecutive use of /fill
+- [MC-260675](https://bugs.mojang.com/browse/MC-260675) - Decorated pots render blank on the first frame after being placed
+- [MC-260819](https://bugs.mojang.com/browse/MC-260819) - The "death.attack.message_too_long" string is missing an article before the word "stripped"
+- [MC-260844](https://bugs.mojang.com/browse/MC-260844) - Right-clicking will select/move worlds in the multiplayer and singleplayer screens
+- [MC-260968](https://bugs.mojang.com/browse/MC-260968) - The narrator does not narrate the word "Experimental" in the world selection screen
+- [MC-261119](https://bugs.mojang.com/browse/MC-261119) - Accessibility button in the Welcome screen needs its own string
+- [MC-261123](https://bugs.mojang.com/browse/MC-261123) - item_display entity breaks certain mobs' AI when being used as a passenger
+- [MC-261182](https://bugs.mojang.com/browse/MC-261182) - Sign color looks different in world and in editing screen
+- [MC-261261](https://bugs.mojang.com/browse/MC-261261) - Sculk sensors do not detect when a chiseled bookshelf changes via hoppers and droppers
+- [MC-261369](https://bugs.mojang.com/browse/MC-261369) - Washed banner does not stack with blank banner
+- [MC-261411](https://bugs.mojang.com/browse/MC-261411) - All Smithing Templates share the same translation key
+- [MC-261420](https://bugs.mojang.com/browse/MC-261420) - Sculk sensor and calibrated sculk sensor don't detect a witch drinking a potion
+- [MC-261427](https://bugs.mojang.com/browse/MC-261427) - Sculk sensors and calibrated sculk sensors don't detect totem of undying activating
+- [MC-261440](https://bugs.mojang.com/browse/MC-261440) - Resizing the window makes it so you can't change names in anvils
+- [MC-261502](https://bugs.mojang.com/browse/MC-261502) - Prompting resource pack disappears if player dies before installing or disconnecting
+- [MC-261611](https://bugs.mojang.com/browse/MC-261611) - Placing blocks against a waxed sign does not play the block's placement sound
+- [MC-261657](https://bugs.mojang.com/browse/MC-261657) - Sculk sensor range is still spherical, creating different outputs from within a given block
+- [MC-261739](https://bugs.mojang.com/browse/MC-261739) - Bamboo raft next to visually half blocks z-fights
+- [MC-261926](https://bugs.mojang.com/browse/MC-261926) - Cannot join a realm because of realms ad.
+- [MC-261951](https://bugs.mojang.com/browse/MC-261951) - Dragon/piglin head does not move when placed on a jukebox that is playing a record
+- [MC-261965](https://bugs.mojang.com/browse/MC-261965) - The "Glow and Behold!" advancement is granted when interacting with empty signs while holding glow ink sacs, despite no glow ink sacs being consumed
+- [MC-262108](https://bugs.mojang.com/browse/MC-262108) - Smithing table GUI issue with custom recipes
+- [MC-262132](https://bugs.mojang.com/browse/MC-262132) - Pigstep music disc is in wrong location in the creative menu
+- [MC-262295](https://bugs.mojang.com/browse/MC-262295) - Warped and Crimson hanging signs uses their respective plank sounds, despite their stripped stems having unique sounds
+- [MC-262436](https://bugs.mojang.com/browse/MC-262436) - Copying a pot in creative does not save NBT data
+- [MC-262442](https://bugs.mojang.com/browse/MC-262442) - Camels stand a bit too close to players that are tempting them
+- [MC-262591](https://bugs.mojang.com/browse/MC-262591) - Camels emit mob interaction vibrations instead of item consumption vibrations when eating cactus
+- [MC-262613](https://bugs.mojang.com/browse/MC-262613) - Mobs can't control some rideable mobs
+- [MC-262615](https://bugs.mojang.com/browse/MC-262615) - Ridden camels need to be equipped with a saddle before they can be moved by mob control which is inconsistent with other rideable mobs
+- [MC-262620](https://bugs.mojang.com/browse/MC-262620) - Llamas and trader llamas need to be tamed in order to be ridden by the mob which is inconsistent with other rideable mobs
+- [MC-262636](https://bugs.mojang.com/browse/MC-262636) - Mobs with passengers that are slimes or magma cubes can't move and don't function correctly
+- [MC-262638](https://bugs.mojang.com/browse/MC-262638) - When a "Size:0" slime and magma cube rides on some mobs the rendering position is too low
+- [MC-262720](https://bugs.mojang.com/browse/MC-262720) - One of the pink petals' stems has an incomplete model
+- [MC-262751](https://bugs.mojang.com/browse/MC-262751) - Blank decorated pot's NBT depends on method used to obtain it
+- [MC-262754](https://bugs.mojang.com/browse/MC-262754) - Change in AbstractScrollWidget breaks MultiLineEditBox click-to-move-cursor behaviour
+- [MC-262766](https://bugs.mojang.com/browse/MC-262766) - NBSP is a valid invisible character that can be added into Book titles so that they have blank names
+- [MC-262804](https://bugs.mojang.com/browse/MC-262804) - Players' swimming animations are jittery for other players
+- [MC-262947](https://bugs.mojang.com/browse/MC-262947) - The "Smithing with Style" advancement doesn't grant experience upon completion
+- [MC-263011](https://bugs.mojang.com/browse/MC-263011) - Sniffers can sniff out and follow players from incredibly large distances
+- [MC-263049](https://bugs.mojang.com/browse/MC-263049) - Camels indefinitely dash while in lava
+- [MC-263126](https://bugs.mojang.com/browse/MC-263126) - Sponges no longer make a sound when absorbing water
+- [MC-263133](https://bugs.mojang.com/browse/MC-263133) - Inconsistent word usage in Out of Memory screen
+- [MC-263200](https://bugs.mojang.com/browse/MC-263200) - Entities riding baby sniffers render too high
+- [MC-263203](https://bugs.mojang.com/browse/MC-263203) - Tadpoles riding striders are rendered inside of them
+- [MC-263283](https://bugs.mojang.com/browse/MC-263283) - Loading a 1.12.2 structure block with signs on 1.20 removes the text
+- [MC-263313](https://bugs.mojang.com/browse/MC-263313) - You cannot use the TAB key to initially create a realm
+- [MC-263322](https://bugs.mojang.com/browse/MC-263322) - When a camel walks on suspicious sand, the sound produced is "camel steps" instead of "camel sands"
+- [MC-263387](https://bugs.mojang.com/browse/MC-263387) - The chat scroll bar no longer renders
+- [MC-263430](https://bugs.mojang.com/browse/MC-263430) - Memory leak in TickingTracker
+- [MC-263588](https://bugs.mojang.com/browse/MC-263588) - Unbreakable blocks display the first breaking animation frame in client, when other player attempting to mine them in server
+- [MC-263833](https://bugs.mojang.com/browse/MC-263833) - Minecraft is incorrectly assuming it is able to set the window icon on Wayland
+- [MC-263879](https://bugs.mojang.com/browse/MC-263879) - Open shulker boxes transmit redstone power
+- [MC-264092](https://bugs.mojang.com/browse/MC-264092) - Functions execute commands out of order when containing /say
+- [MC-264233](https://bugs.mojang.com/browse/MC-264233) - Player is shown as Anonymous after dying and respawning
+- [MC-264260](https://bugs.mojang.com/browse/MC-264260) - Furnace GUI is displayed incorrectly when modifying block data
+- [MC-264356](https://bugs.mojang.com/browse/MC-264356) - Sniffers attached to a lead will dig in the same spot forever, ignoring "explored positions"
+- [MC-264467](https://bugs.mojang.com/browse/MC-264467) - GUI texture "villager2.png" contains unused sections
+- [MC-264468](https://bugs.mojang.com/browse/MC-264468) - GUI texture "legacy_smithing.png" still present in game files despite not being used anymore
+- [MC-264561](https://bugs.mojang.com/browse/MC-264561) - Some new strings introduced in 23w31a are missing articles
+- [MC-264574](https://bugs.mojang.com/browse/MC-264574) - symlink does not work for root world folder
+- [MC-264809](https://bugs.mojang.com/browse/MC-264809) - Redstone comparators cause redstone dust connection issue
+- [MC-264829](https://bugs.mojang.com/browse/MC-264829) - Text Filter on signs doesn't hide if fully filtered
+- [MC-265151](https://bugs.mojang.com/browse/MC-265151) - The "(Unknown)" string that's displayed when being banned from a server for an unknown reason is untranslatable
+
+ 
 
 ## GET THE RELEASE
 

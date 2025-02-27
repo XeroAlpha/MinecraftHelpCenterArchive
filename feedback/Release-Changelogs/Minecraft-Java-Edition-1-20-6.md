@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.20.6"
 date: 2024-04-29T15:41:32Z
-updated: 2024-04-29T15:41:41Z
+updated: 2025-02-27T12:30:52Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/26295913311885-Minecraft-Java-Edition-1-20-6
 hash:
