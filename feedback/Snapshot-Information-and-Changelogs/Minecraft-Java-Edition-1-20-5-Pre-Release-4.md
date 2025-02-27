@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.20.5 Pre-Release 4"
 date: 2024-04-17T13:01:12Z
-updated: 2024-04-17T13:01:18Z
+updated: 2025-02-27T13:36:44Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/25968167947277-Minecraft-Java-Edition-1-20-5-Pre-Release-4
 hash:
