@@ -1,7 +1,7 @@
 ---
-title: Troubleshooting Launching Minecraft from the Minecraft Launcher
+title: Minecraft is Installed but the Game or the Launcher Crashes when I Click Play
 date: 2024-01-22T20:21:50Z
-updated: 2024-08-28T19:35:31Z
+updated: 2025-02-28T17:15:49Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -15,16 +15,13 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Troubleshooting-Launching-Minecraft-from-the-Minecraft-Launcher
+link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play
 hash:
-  h_01HMSD3MCHG5CQ46G0Y8A0VC3Z: minecraft-is-installed-but-the-game-or-the-launcher-crashes-when-i-click-play
   h_01HMSD4767T1FZ2BXR75WDYZ5P: java-edition
   h_01HMSD5P4JQSF0P7R6224EEXAG: bedrock-and-other-minecraft-games
 ---
 
-This article is dedicated to helping you fix any problems in starting Minecraft from the Minecraft Launcher on your PC. For more troubleshooting topics, please visit [Minecraft Launcher Support](./Minecraft-Launcher-Support.md).
-
-## Minecraft is installed but the game or the Launcher crashes when I click play
+If you are trying to play Minecraft on PC, but the game or Launcher crashes when you click play, there are usually a couple of easy fixes that include making a new Java installation or resetting the Microsoft Store.
 
 ### Java Edition
 

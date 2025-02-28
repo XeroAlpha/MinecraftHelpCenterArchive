@@ -1,65 +1,30 @@
 ---
-title: Troubleshooting Minecraft Launcher Startup and Login Issues
+title: The Minecraft Launcher Crashes on Sign In
 date: 2024-01-22T20:02:48Z
-updated: 2024-10-23T15:49:21Z
+updated: 2025-02-28T17:17:51Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
-link: https://help.minecraft.net/hc/en-us/articles/23430310790413-Troubleshooting-Minecraft-Launcher-Startup-and-Login-Issues
+link: https://help.minecraft.net/hc/en-us/articles/23430310790413-The-Minecraft-Launcher-Crashes-on-Sign-In
 hash:
-  h_01HMSBNVJE5Q3RFENFGW4N87F8: in-this-article
-  h_01HMSBQY5PGYXHETE9XY27KSS4: how-do-i-switch-between-my-microsoft-accounts-to-play-my-games
-  h_01HMSBRZ6JBCHT8D20130TRAE3: i-cant-sign-in-to-my-launcher
-  h_01HMSBTA6G3PDNMAJWD5VS7MMX: launcher-wont-start-up-or-crashes-during-sign-in
-  h_01HMSBYEW5JGE1SVPFPNT5XWP1: my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time
-  h_01JAX0F4B1C3WKJKMACY5D5SQZ: blank-login-window-on-mac
+  h_01JN4PMXBTY4TQRBD6DXRVDBVC: repair-the-minecraft-launcher-app-in-windows
+  h_01JN4PPM6YY9VV6NG22PY6FH1M: reinstall-the-launcher
 ---
 
-This page covers issues you may encounter with the Minecraft Launcher not starting or letting you login and access your games. For other Launcher issues, please visit the [Minecraft Launcher Troubleshooting Common Issues page](./Minecraft-Launcher-Support.md).
+If your Launcher crashes when you try to sign in or you get the error “This App Can’t Open” on Windows, you can try repairing the application or reinstall the launcher.
 
-# In This Article:
+## Repair the Minecraft Launcher app in Windows
 
-- [How do I switch between my Microsoft accounts to play my games?](#how-do-i-switch-between-my-microsoft-accounts-to-play-my-games)
-- [I can’t sign in to my Launcher](#i-cant-sign-in-to-my-launcher)
-- [Launcher won’t start up or crashes during login](#launcher-wont-start-up-or-crashes-during-sign-in)
-- [My Launcher is working and I can login, but I have to re-enter my credentials every time](#my-launcher-is-working-and-i-can-sign-in-but-i-have-to-re-enter-my-credentials-every-time)
-- [Blank Login Window on Mac](#blank-login-window-on-mac)
+1.  Open the Start menu.
+2.  Right-click the Minecraft Launcher icon.
+3.  Select **More**.
+4.  Open **App Settings**.
+5.  Click **Repair** and **Reset**.
 
-## How do I switch between my Microsoft accounts to play my games?
+## Reinstall the Launcher
 
-You can click your username in the top left corner. From the drop down, select **Switch Account**. This will bring up a new window allowing you to sign into another Microsoft account. If multiple accounts have been added, this button will allow you to switch between them. You can also open Settings and look under the **Accounts** tab. This will also allow you to switch accounts or add new ones. Please note that you can only be signed in to one Microsoft account at a time.
-
-If you are running into issues when trying to play Minecraft, make sure you are signed into the same Microsoft account on the Microsoft Store, the Xbox app, and the Minecraft Launcher.
-
-## I can’t sign in to my Launcher
-
-If the Minecraft Launcher is running but you receive an error signing in, double-check that you’re using the correct email address. If you still can’t sign in, visit [Get Help with Your Microsoft Account](https://support.microsoft.com/en-us/account-billing/get-help-with-your-microsoft-account-ace6f3b3-e2d3-aeb1-6b96-d2e9e7e52133).
-
-## Launcher won’t start up or crashes during sign in
-
-If your Launcher crashes when you try to sign in or you get the error “This App Can’t Open” on Windows, try repairing the application:
-
-**Repair the Minecraft Launcher app in Windows**
-
-1.  Open the Start menu
-2.  Right-click the Minecraft Launcher icon
-3.  Select **More**
-4.  Open **App Settings**
-5.  Click **Repair** and **Reset **
-
-If repairing the application doesn’t work, [download and reinstall the Minecraft Launcher](https://www.minecraft.net/en-us/download) or visit [Troubleshooting Installing the Minecraft Launcher](./Troubleshooting-Installing-the-Minecraft-Launcher.md).
-
-## My Launcher is working and I can sign in, but I have to re-enter my credentials every time
-
-Try cleaning up your cached account tokens in the Minecraft Launcher.
-
-**Clear cached account tokens**
-
-1.  In the Launcher, click **Settings**
-2.  Click the **Accounts** tab
-3.  Click the **Advanced Options** at the bottom to open it
-4.  Select **Clean up cached account tokens**
-
-## Blank Login Window on Mac
-
-See [Minecraft Launcher Blank Login Window on Mac](./Minecraft-Launcher-Blank-Login-Window-on-Mac.md).
+1.  Type **Add or Remove Programs** into the Windows search bar and open the Settings menu.
+2.  Find the Minecraft Launcher and click the **...**
+3.  Select **Uninstall**.
+4.  Go to the [Minecraft Launcher download page](https://www.minecraft.net/en-us/download).
+5.  Download and install the Launcher.
