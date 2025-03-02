@@ -1,14 +1,16 @@
 ---
-title: Minecraft Java Edition - 1.16.4
-date: 2025-02-27T13:01:22Z
+title: "Minecraft: Java Edition - 1.16.4"
+date: 2020-11-04T09:30:39Z
+updated: 2025-02-27T13:17:06Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/34595247574541-Minecraft-Java-Edition-1-16-4
+link: https://feedback.minecraft.net/hc/en-us/articles/360052100531-Minecraft-Java-Edition-1-16-4
 hash:
   h_01JN3QX2G548SHZ2YY0TXKEEWE: features
   h_01JN3QX2G5TNY68VN3NH1PWXSR: social-interactions-screen
   h_01JN3QX2G5FVMXGMN3AK6J82P1: blocked-players
   h_01JN3QX2G5Z02J2WZ3G9CWCHW2: fixed-bugs-in-1164
-  h_01JN3QX2G57G1FR3WKMZP4FQY6: get-the-release
+  h_01JN3R2JHPDTPHG4F16D7FE0Q9: get-the-release
+  h_01JN3R2JHP6S5F2J50K4QJFS69: ""
 ---
 
 It's time for the 1.16.4 release! This release adds the new social interactions screen and fixes a few crashes.
@@ -34,7 +36,7 @@ A new screen available in Multiplayer which shows a list of all players on a ser
 
 - [MC-192434](https://bugs.mojang.com/browse/MC-192434) - Netherite leggings are textured weirdly
 - [MC-199487](https://bugs.mojang.com/browse/MC-199487) - WorldGen Deadlock
-- [MC-201885](https://bugs.mojang.com/browse/MC-201885) - Divide by zero error in the Ender Dragon entity class can cause a server crash and infinite velocity
+- [MC-201885](https://bugs.mojang.com/browse/MC-201885) - Divide by zero error in the Ender Dragon entity class can cause a server crash and infinite velocity
 - [MC-202147](https://bugs.mojang.com/browse/MC-202147) - Cursor in Social Interactions & Recipe Book & Anvil menu doesn’t blink
 
 ## Get the Release
@@ -52,3 +54,7 @@ Report bugs here:
 Want to give feedback?
 
 - Head over to our [feedback website](https://feedback.minecraft.net/) or come chat with us about it on the [official Minecraft Discord](https://discord.gg/Minecraft).
+
+ 
+
+##

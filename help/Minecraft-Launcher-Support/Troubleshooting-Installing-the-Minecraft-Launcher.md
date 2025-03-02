@@ -11,7 +11,7 @@ hash:
   h_01HMSCH61Y9TT8PF5E0DB920YP: the-minecraft-launcher-is-failing-to-install-after-downloading-it-from-minecraftnet
 ---
 
-This article covers problems installing the Minecraft Launcher for Windows and MacOS. For other Launcher issues, please visit [Minecraft Launcher Troubleshooting Common Issues](./Minecraft-Launcher-Support.md).
+This article covers problems installing the Minecraft Launcher for Windows and MacOS. For other Launcher issues, please visit [Minecraft Launcher Troubleshooting Common Issues](https://help.minecraft.net/hc/en-us/articles/6662588435597).
 
 ## I try to install the Launcher through the Microsoft Store, but the installation fails
 
