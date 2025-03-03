@@ -77,7 +77,7 @@ class LinkDatabase {
     }
 
     addLink(path, frontmatter) {
-        let found = this.index.find((e) => e.path === path);
+        let found = this.getByPath(path);
         if (!found) {
             found = { path };
             this.index.push(found);
@@ -99,13 +99,17 @@ class LinkDatabase {
         return this.index.find((e) => e.url === simplifiedUrl);
     }
 
-    getByPath(path) {
+    getByPath(path, ignoreCase) {
+        if (ignoreCase) {
+            const pathLowerCase = path.toLowerCase();
+            return this.index.find((e) => e.path.toLowerCase() === pathLowerCase);
+        }
         return this.index.find((e) => e.path === path);
     }
 
     isConflict(path, url) {
         const simplifiedUrl = simplifyArticleUrl(url);
-        const file = this.getByPath(path);
+        const file = this.getByPath(path, true);
         return file !== undefined && file.url !== simplifiedUrl;
     }
 
@@ -294,7 +298,7 @@ async function main(fullUpdate) {
             articleAnalysisResult.path = path;
             return [e, articleAnalysisResult];
         });
-        const duplicatedList = getDuplicatedItems(articleAnalysisResults, ([, { path }]) => path);
+        const duplicatedList = getDuplicatedItems(articleAnalysisResults, ([, { path }]) => path.toLowerCase());
         duplicatedList.forEach(([articleData, articleAnalysisResult]) => {
             articleAnalysisResult.path = generatePath(articleData, basePath, true);
         });
