@@ -1,7 +1,7 @@
 ---
 title: Upcoming OS Sunset Announcements in Minecraft
 date: 2024-09-16T16:32:55Z
-updated: 2025-02-27T21:44:26Z
+updated: 2025-03-06T22:29:02Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
@@ -38,9 +38,11 @@ Minecraft Launcher users will need to update to the below operating systems to c
 
 Additionally, the following devices will no longer receive future updates after March 2025 and will no longer be supported:
 
-- PlayStation VR
-- OpenXR
-- ARM32
+- PlayStation
+  - PSVR
+- Windows
+  - OpenXR
+  - ARM32
 
 After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md).
 
