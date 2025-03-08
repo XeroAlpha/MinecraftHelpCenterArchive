@@ -1,7 +1,7 @@
 ---
-title: "Minecraft: Java Edition Versions and MacOS "
+title: "Minecraft: Java Edition Versions and MacOS"
 date: 2022-01-12T15:55:36Z
-updated: 2024-04-24T16:04:31Z
+updated: 2025-03-07T23:09:00Z
 categories: Download & Install
 tags:
   - platform_macos
@@ -10,12 +10,9 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4420326353933-Minecraft-Java-Edition-Versions-and-MacOS
 ---
 
-If you're looking to play Minecraft: Java Edition on MacOS, this article can assist you.
+Here are the minimum MacOS requirements for Minecraft Java Edition:
 
-Minecraft: Java Edition versions later than 1.18 are no longer supported on Mac OS below version 10.14.5.
+- Java Edition Latest Release: macOS 10.14.5 (Mojave) or higher
+- Java Edition 1.17.1 and earlier: Releases of macOS before Mojave
 
-We updated our codebase for Caves & Cliffs Part II to Java 17, which had an inadvertent effect on users playing on MacOS versions below 10.14.5. Machines running versions **below 10.14.5** do not support Java 17, so the game is unable to run on that OS. 
-
-First, try to [upgrade your macOS](https://support.apple.com/HT201541) to a version that supports Java 17. 
-
-If you’re unable to update your Mac, you will still be able to play older versions of Minecraft (1.17.1 and earlier). However, you will not be able to play Java 1.18 and beyond.
+We provide support for and recommend the most recent release of both Minecraft: Java Edition and macOS to maximize compatibility and gameplay. While previous releases may still work, we cannot guarantee performance or provide support. Visit Apple Support to [upgrade macOS](https://support.apple.com/en-us/108382).
