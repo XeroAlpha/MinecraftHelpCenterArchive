@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Preview Program
 date: 2024-02-06T17:04:37Z
-updated: 2024-07-23T19:06:46Z
+updated: 2025-03-10T18:23:56Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/23498937165844-Minecraft-Education-Preview-Program
 hash:
@@ -21,7 +21,7 @@ Minecraft Education Preview is an evolution of the Minecraft Education Beta prog
 
  
 
-View our [What's New article](https://aka.ms/mewhatsnewpreview) to see the latest features. **Currently, the Minecraft Education Preview is on version 1.21.03, the same version as the general release version.**  
+View our [What's New article](https://aka.ms/mewhatsnewpreview) to see the latest features. **Currently, the Minecraft Education Preview is on version 1.21.50.**  
   
 
 ## How do I download Minecraft Education Preview?
