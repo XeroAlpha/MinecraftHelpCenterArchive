@@ -1,11 +1,11 @@
 ---
-title: KELLOGG’S™ / MINECRAFT CHARACTER CREATOR OFFER FAQs
+title: Kellogg’s™ / Minecraft 2025 Character Creator Offer FAQs
 date: 2024-11-08T21:30:29Z
-updated: 2025-02-04T16:18:37Z
+updated: 2025-03-10T20:32:04Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
-link: https://help.minecraft.net/hc/en-us/articles/31734412213261-KELLOGG-S-MINECRAFT-CHARACTER-CREATOR-OFFER-FAQs
+link: https://help.minecraft.net/hc/en-us/articles/31734412213261-Kellogg-s-Minecraft-2025-Character-Creator-Offer-FAQs
 ---
 
 **KEY OFFER DETAILS**
