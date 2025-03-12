@@ -1,11 +1,12 @@
 ---
 title: Minecraft Java Edition - Snapshot 20W20B
 date: 2020-05-13T23:59:05Z
-updated: 2020-05-14T10:48:20Z
+updated: 2025-03-12T11:15:02Z
 categories: Snapshot Information and Changelogs
 tags:
   - java
   - 20W20A
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360043132532-Minecraft-Java-Edition-Snapshot-20W20B
 hash:
   f3-n-toggle-spectator: f3--n-toggle-spectator

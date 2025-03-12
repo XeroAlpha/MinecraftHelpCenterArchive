@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20 Pre-release 7"
 date: 2023-05-29T14:50:25Z
-updated: 2023-05-29T14:50:29Z
+updated: 2025-03-12T11:12:46Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/16224502352141-Minecraft-Java-Edition-1-20-Pre-release-7
 hash:
   fixed-bug-in-1.20-pre-release-7: fixed-bug-in-120-pre-release-7

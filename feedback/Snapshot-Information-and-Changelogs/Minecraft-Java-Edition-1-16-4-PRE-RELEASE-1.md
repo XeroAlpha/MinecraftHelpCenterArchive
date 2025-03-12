@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition: 1.16.4, PRE-RELEASE 1"
 date: 2020-10-15T16:30:59Z
-updated: 2020-10-15T16:31:11Z
+updated: 2025-03-12T11:14:59Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360050583452-Minecraft-Java-Edition-1-16-4-PRE-RELEASE-1
 hash:
   new-features-in-1.16.4-pre-release-1: new-features-in-1164-pre-release-1

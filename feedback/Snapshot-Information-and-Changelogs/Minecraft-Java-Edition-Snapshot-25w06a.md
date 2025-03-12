@@ -1,7 +1,10 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w06a
 date: 2025-02-05T17:24:57Z
+updated: 2025-03-12T10:05:08Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/34065446883725-Minecraft-Java-Edition-Snapshot-25w06a
 hash:
   h_01JKBJ6RFE4FBHPK46SC2M8YBJ: new-features
@@ -79,7 +82,7 @@ This week we have been contemplating existential questions like "What came first
 
 Conditions for The Firefly Bush playing ambient sounds have changed. It now plays when all of the following conditions are met:
 
-- it's night
+- It's night
 - Firefly Bush not blocked from above by any collidable block (except Leaves)
 
 ## Technical Changes

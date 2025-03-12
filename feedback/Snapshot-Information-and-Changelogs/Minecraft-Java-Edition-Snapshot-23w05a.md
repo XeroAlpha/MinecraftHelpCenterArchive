@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 23w05a"
 date: 2023-02-01T15:56:46Z
-updated: 2023-02-01T15:56:50Z
+updated: 2025-03-12T11:12:50Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/12744145957901-Minecraft-Java-Edition-Snapshot-23w05a
 hash:
   trim-patterns-materials: trim-patterns--materials

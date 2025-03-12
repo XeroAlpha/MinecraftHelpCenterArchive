@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.19 Release Candidate 2 "
 date: 2022-06-03T12:55:41Z
-updated: 2022-06-03T12:55:46Z
+updated: 2025-03-12T11:13:12Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/6651784979085-Minecraft-Java-Edition-1-19-Release-Candidate-2
 hash:
   fixed-bugs-in-1.19-release-candidate-1: fixed-bugs-in-119-release-candidate-1

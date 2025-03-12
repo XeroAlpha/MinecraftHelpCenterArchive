@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 21w06a"
 date: 2021-02-10T17:59:28Z
-updated: 2021-02-10T17:59:35Z
+updated: 2025-03-12T11:13:54Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360056479612-Minecraft-Java-Edition-Snapshot-21w06a
 ---
 

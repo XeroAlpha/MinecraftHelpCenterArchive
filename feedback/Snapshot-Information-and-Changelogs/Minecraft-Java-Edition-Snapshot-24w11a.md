@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 24w11a"
 date: 2024-03-14T16:14:09Z
-updated: 2024-03-14T16:14:13Z
+updated: 2025-03-12T10:45:02Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/25004734224397-Minecraft-Java-Edition-Snapshot-24w11a
 hash:
   h_01HRYVV8X3GATF4TC56BFG9B6H: experimental-features
@@ -175,25 +177,8 @@ When summon in other ways (e.g. using the Spawn Egg or using the summon comman
 
 Before:
 
-```
-"item": {
-  "enchantments": [
-    {
-      "enchantment": "minecraft:silk_touch",
-      "levels": {
-        "min": 1
-      }
-    }
-  ]
-}
-```
-
-After:
-
-```
-"item": {
-  "predicates": {
-    "minecraft:enchantments": [
+    "item": {
+      "enchantments": [
         {
           "enchantment": "minecraft:silk_touch",
           "levels": {
@@ -201,9 +186,22 @@ After:
           }
         }
       ]
-  }
-}
-```
+    }
+
+After:
+
+    "item": {
+      "predicates": {
+        "minecraft:enchantments": [
+            {
+              "enchantment": "minecraft:silk_touch",
+              "levels": {
+                "min": 1
+              }
+            }
+          ]
+      }
+    }
 
 ### LOOT FUNCTIONS
 

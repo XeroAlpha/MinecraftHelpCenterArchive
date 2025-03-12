@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.18 Pre-Release 7"
 date: 2021-11-24T08:40:39Z
-updated: 2021-11-24T08:40:51Z
+updated: 2025-03-12T11:13:32Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4414556617485-Minecraft-Java-Edition-1-18-Pre-Release-7
 hash:
   changes-in-1.18-pre-release-7: changes-in-118-pre-release-7

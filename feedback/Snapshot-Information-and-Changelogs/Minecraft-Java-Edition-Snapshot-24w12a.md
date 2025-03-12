@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 24w12a"
 date: 2024-03-20T16:19:02Z
-updated: 2024-03-25T13:59:06Z
+updated: 2025-03-12T10:44:51Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/25179169128205-Minecraft-Java-Edition-Snapshot-24w12a
 hash:
   h_01HSEAGEKE4V8WM6HK7J6FQJRP: experimental-features

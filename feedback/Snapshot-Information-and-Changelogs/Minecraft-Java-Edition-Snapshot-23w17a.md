@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 23w17a"
 date: 2023-04-26T16:00:32Z
-updated: 2023-04-26T16:00:39Z
+updated: 2025-03-12T11:12:47Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/15245037698701-Minecraft-Java-Edition-Snapshot-23w17a
 hash:
   new-unihex-glyph-provider: newunihexglyph-provider

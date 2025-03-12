@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.17 Pre-release 2"
 date: 2021-06-01T18:32:18Z
-updated: 2021-06-01T18:34:49Z
+updated: 2025-03-12T11:13:51Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360062431311-Minecraft-Java-Edition-1-17-Pre-release-2
 hash:
   the-caves-cliffs-preview: the-caves--cliffs-preview

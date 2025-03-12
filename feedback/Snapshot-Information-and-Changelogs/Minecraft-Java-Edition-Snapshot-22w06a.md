@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 22w06a"
 date: 2022-02-10T08:14:32Z
-updated: 2022-02-10T08:14:53Z
+updated: 2025-03-12T11:13:30Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4424961893389-Minecraft-Java-Edition-Snapshot-22w06a
 hash:
   changes-in-22w06a: changes-in22w06a

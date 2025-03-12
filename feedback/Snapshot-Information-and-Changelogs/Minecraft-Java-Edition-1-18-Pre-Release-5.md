@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.18 Pre-Release 5"
 date: 2021-11-19T16:31:56Z
-updated: 2021-11-19T16:32:29Z
+updated: 2025-03-12T11:13:32Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4414081633293-Minecraft-Java-Edition-1-18-Pre-Release-5
 hash:
   changes-in-1.18-pre-release-5: changes-in-118-pre-release-5

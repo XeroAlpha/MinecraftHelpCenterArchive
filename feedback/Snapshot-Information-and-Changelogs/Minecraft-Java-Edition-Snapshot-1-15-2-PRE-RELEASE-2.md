@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 1.15.2 PRE-RELEASE 2"
 date: 2020-01-15T18:47:27Z
-updated: 2020-01-16T15:18:04Z
+updated: 2025-03-12T11:15:05Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360038856031-Minecraft-Java-Edition-Snapshot-1-15-2-PRE-RELEASE-2
 hash:
   changes-in-1.15.2-pre-release-2: changes-in-1152-pre-release-2

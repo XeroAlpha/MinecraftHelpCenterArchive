@@ -1,11 +1,12 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 1.15 PRE-RELEASE 7"
 date: 2019-11-28T19:46:31Z
-updated: 2019-12-09T21:49:23Z
+updated: 2025-03-12T11:15:27Z
 categories: Snapshot Information and Changelogs
 tags:
   - java
   - snapshot
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360036947092-Minecraft-Java-Edition-Snapshot-1-15-PRE-RELEASE-7
 hash:
   changes-in-1.15-pre-release-7: changes-in-115-pre-release-7

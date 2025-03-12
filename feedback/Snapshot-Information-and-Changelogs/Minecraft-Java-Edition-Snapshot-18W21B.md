@@ -1,12 +1,13 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 18W21B"
 date: 2018-05-29T15:59:45Z
-updated: 2018-09-17T16:27:48Z
+updated: 2025-03-12T11:15:52Z
 categories: Snapshot Information and Changelogs
 tags:
   - java
   - snapshot
   - 18W22A
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360004288472-Minecraft-Java-Edition-Snapshot-18W21B
 hash:
   changes-in-18w21b: fixed-bugs-in-18w21b

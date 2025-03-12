@@ -1,7 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20 Release Candidate 1 "
 date: 2023-05-31T16:41:54Z
+updated: 2025-03-12T11:12:46Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/16288757111181-Minecraft-Java-Edition-1-20-Release-Candidate-1
 hash:
   fixed-bugs-in-1.20-release-candidate-1: fixed-bugs-in-120-release-candidate-1

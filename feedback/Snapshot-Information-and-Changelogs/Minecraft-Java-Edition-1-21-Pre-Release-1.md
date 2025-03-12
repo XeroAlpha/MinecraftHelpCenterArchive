@@ -1,12 +1,14 @@
 ---
 title: "Minecraft: Java Edition - 1.21 Pre-Release 1"
 date: 2024-06-10T11:20:03Z
-updated: 2025-02-27T12:46:30Z
+updated: 2025-03-12T10:26:07Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/27439766144013-Minecraft-Java-Edition-1-21-Pre-Release-1
 hash:
-  h_01J00Y0AMTX1CKBT2ND25C6SPB: new-features
-  h_01J00Y0AMTMXKG2KSR18WZYSDH: ominous-trial-spawner
+  h_01JP4Y2BGTDR88T7A6FTT81W4B: new-features
+  h_01JP4Y23PTX9TPADBSM9655DME: ominous-trial-spawner
   h_01J00Y0AMTS8HW11Y3SE5MYZSP: changes
   h_01J00Y0AMTSKVFRPTP7FHA2MZV: technical-changes
   h_01J00Y0AMTACR0T1ABT97XQGWT: server-links
@@ -31,13 +33,13 @@ With this snapshot, we are temporarily removing the functionality of lighting bl
 
 Happy portaling! ;)
 
-## NEW FEATURES
+## New Features
 
-### OMINOUS TRIAL SPAWNER
+## Ominous Trial Spawner
 
 - Mobs removed by a Trial Spawner converting to Ominous state now drop any items they previously picked up from the ground
 
-## CHANGES
+## Changes
 
 - Mace attack speed has been changed to 0.6
 - Doors of different materials can now form a double door
@@ -45,54 +47,54 @@ Happy portaling! ;)
 - It is now possible to ride entities such as Horses or Minecarts through portals
   - When riding entities through portals, the delay before teleporting is not applied
 
-## TECHNICAL CHANGES
+## Technical Changes
 
 - Data Pack version is now 46
 - Removed the entitiesWithPassengersCanUsePortals gamerule that was introduced last snapshot. Entity with passengers being able to use portals is now the default behavior.
 - Report data generator now includes information about network packets
 - The game will now store reports from failed chunks' loads and saves in the debug directory
 
-### SERVER LINKS
+### Server Links
 
 - There are some generic-use link names, like "Support" or "Website", without any special functionality
 
-## DATA PACK VERSIONS 42 THROUGH 46
+## Data Pack Versions 42 Through 46
 
 - Added new configurable fields to jigsaw structures and single_pool_element types
 
-### ENCHANTMENTS
+### Enchantments
 
-#### LEVEL-BASED VALUES
+#### Level-based Values
 
-##### lookup
+#### lookup
 
 A Level-Based Value type that maps a list of values to specific levels, and applies a fallback if the level is greater than the number of values supplied. Fields:
 
 - values - A list of values indexed by level - 1 to apply, if present
 - fallback - A fallback Level-Based Value to apply if the level is greater than the size of values
 
-#### EFFECT CONDITIONS
+#### Effect Conditions
 
 Unlike with loot tables, all effect conditions need to be inline objects and cannot be references.
 
-### TAGS
+### Tags
 
-#### BLOCK TAGS
+#### Block tags
 
 - fire_aspect_lightable has been removed
   - With this snapshot, we are temporarily removing the functionality of lighting blocks on fire using the Fire Aspect enchantment, as we want to refine it further. This functionality will be reintroduced in a later release.
 
-### LOOT TABLES
+### Loot Tables
 
-#### CONDITIONS
+#### Conditions
 
-##### random_chance_with_enchanted_bonus
+#### random_chance_with_enchanted_bonus
 
 - chance: field has been removed
 - unenchanted_chance: new field for the chance for an unenchanted item
 - enchanted_chance: new field for the chance for an enchanted item - a Level-Based Value
 
-### STRUCTURES
+### Structures
 
 - Added liquid_settings field to structures of type minecraft:jigsaw. Possible values:
   - apply_waterlogging: If any waterloggable block overlaps with existing water, it will become waterlogged
@@ -102,7 +104,7 @@ Unlike with loot tables, all effect conditions need to be inline objects and can
   - Same possible values as the liquid_settings in jigsaw structures
   - Overrides the inherited liquid settings from the parent jigsaw structure while generating this pool element
 
-## FIXED BUGS IN 1.21 PRE-RELEASE 1
+## Fixed bugs in 1.21 Pre-Release 1
 
 - [MC-902](https://bugs.mojang.com/browse/MC-902) - The end obsidian platform resets every time entities go through the end portal, which can cause blocks to be deleted
 - [MC-50612](https://bugs.mojang.com/browse/MC-50612) - Command blocks do not update when you place them near any source of power
@@ -180,7 +182,7 @@ Unlike with loot tables, all effect conditions need to be inline objects and can
 - [MC-272490](https://bugs.mojang.com/browse/MC-272490) - @n can select dying entities, unlike @e
 - [MC-272515](https://bugs.mojang.com/browse/MC-272515) - Component-Modified Saddles get their components wiped when dispensed onto a horse, mule, or camel.
 
-## GET THE PRE-RELEASE
+## Get the Pre-release
 
 Pre-Releases are available for Minecraft: Java Edition. To install the Pre-Release, open up the [Minecraft Launcher](https://www.minecraft.net/download.html) and enable snapshots in the "Installations" tab.
 

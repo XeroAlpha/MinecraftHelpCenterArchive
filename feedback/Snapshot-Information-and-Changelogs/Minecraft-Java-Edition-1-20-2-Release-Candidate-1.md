@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20.2 Release Candidate 1 "
 date: 2023-09-15T13:50:53Z
-updated: 2023-09-15T13:51:01Z
+updated: 2025-03-12T11:12:30Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/19524557739789-Minecraft-Java-Edition-1-20-2-Release-Candidate-1
 hash:
   h_01HACHQ58TMJXN3T7MC2Q8GHA8: changes

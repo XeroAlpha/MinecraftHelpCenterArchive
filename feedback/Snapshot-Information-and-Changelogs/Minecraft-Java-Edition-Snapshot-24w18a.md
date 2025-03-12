@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 24w18a"
 date: 2024-06-10T11:12:13Z
-updated: 2025-02-27T12:46:30Z
+updated: 2025-03-12T10:42:20Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/27439564545677-Minecraft-Java-Edition-Snapshot-24w18a
 hash:
   h_01J00XHV6DEZZ5S03F26NQVV3A: new-features
@@ -53,8 +55,8 @@ hash:
   h_01J00XHV6FXXRMFD0EQGV34RPW: effect-components
   h_01J00XHV6GMYA8JGXQ5S78Y4F6: enchantment-providers
   h_01J00XHV6GMCF96XCTXWRNFKW4: spawn-equipment-enchantment-providers
-  h_01J00XHV6GKH0PG8BCJ4G7SQQ9: enderman-loot-enchantment-provider
-  h_01J00XHV6GE8GPM6Z8720F2HRA: villager-trade-rebalance-enchantment-providers
+  h_01J00XHV6GKH0PG8BCJ4G7SQQ9: enderman-loot-enchantment-providers
+  h_01JP4YPMFZ5N58SV14RB3RNZ2V: villager-trade-rebalance-enchantment-providers
   h_01J00XHV6G65XFH2FNKG4HHKCV: enchantment-provider-types
   h_01J00XHV6G18AXV1K9W7BQ7M6H: single_enchantment
   h_01J00XHV6GJ9AQP3742YWFZ7H5: enchantments_by_cost
@@ -81,7 +83,7 @@ hash:
   h_01J00XHV6HS8S2SS9DPQAXV7VA: number-providers
   h_01J00XHV6HZ60ZQCKQXP0BGCFH: enchantment_level
   h_01J00XHV6HPQXXFQP77XVZX77G: predicates
-  h_01J00XHV6HGX09XAE8QS1V5FK1: enchantment-predicate
+  h_01JP4YWAJT9GENZDWKG2BSH2ZJ: enchantment-predicate
   h_01J00XHV6HGH430DTVP206S5XM: entity-flags-predicate
   h_01J00XHV6H6SD1MPM15E4TJN80: location-predicate
   h_01J00XHV6H72F7GC3KMA7WRT0T: movement-predicate
@@ -110,7 +112,7 @@ Because it's the month of May, may we tempt you with the first Snapshot for Java
 
 Happy mining!
 
-## NEW FEATURES
+## New Features
 
 - All Features from the experimental 1.21 pack have been moved to vanilla
 - Added 5 new paintings by artist Sarah Boeving
@@ -118,7 +120,7 @@ Happy mining!
 - Added 9 new music tracks
 - Added 3 new music discs
 
-### MUSIC
+### Music
 
 - Added 9 new background music tracks which will all play in the main menu
 - Some of these new songs play in specific biomes in-game:
@@ -139,7 +141,7 @@ Happy mining!
   - watcher
   - yakusoku
 
-### MUSIC DISCS
+### Music Discs
 
 - Added 3 new music discs
 - Aaron Cherof - Precipice can be found rarely in standard Vaults
@@ -149,7 +151,7 @@ Happy mining!
 - Lena Raine - Creator (Music Box) can be found rarely in Decorated Pots broken in Trial Chambers
   - Has a comparator output of 11 when played in a Jukebox
 
-### PAINTINGS
+### Paintings
 
 - Added five new paintings by artist Sarah Boeving:
   - baroque
@@ -174,7 +176,7 @@ Happy mining!
   - sunflowers
   - tides
 
-## CHANGES
+## Changes
 
 - Rotten flesh has been removed as a possible item for Trial Spawners to eject
 - Mace enchantments are slightly more common in Ominous Vaults
@@ -185,7 +187,7 @@ Happy mining!
 - Updated the confirmation-screens in Realms to show as popups
 - Changes to the Mace
 
-### MACE
+### Mace
 
 - Raised Mace durability from 250 to 500
 - Reduced Mace base damage to 5
@@ -199,7 +201,7 @@ Happy mining!
 
  
 
-### TRIAL CHAMBERS
+### Trial Chambers
 
 - Spider spawners have been moved to the "melee" category
 - Slime spawners have been moved to the "small melee" category
@@ -211,25 +213,25 @@ Happy mining!
 - Fixed various broken or incorrect jigsaw data
 - Added empty Chests to chamber entrances
 
-### OMINOUS TRIAL SPAWNER
+### Ominous Trial Spawner
 
 - Ominous Trial Spawners with mobs that are unable to wear equipment now spawn double the total mob count over the course of the challenge
   - These spawners will also have an additional mob out at once during its challenge
 - Bottle o' Enchanting is no longer a possible projectile for Ominous Trial Spawners
 
-### COPPER DOORS AND TRAPDOORS
+### Copper Doors and Trapdoors
 
 - Copper Doors and Trapdoors are now crafted from Copper Ingots instead of Copper Blocks
 - Oxidized variants of Copper Doors and Copper Trapdoors can no longer be crafted
   - Waxed variants can still be crafted with Honeycomb
 
-## TECHNICAL CHANGES
+## Technical Changes
 
 - Resource Pack version is now 33
 - Data Pack version is now 42
 - Removed the update_1_21 feature flag and built-in datapack
 
-## DATA PACK VERSION 42
+## Data Pack Version 42
 
 - Added new Music Disc items and loot table entries for the Music Discs
 - Painting variants are now data-driven
@@ -240,7 +242,7 @@ Happy mining!
 - Enchantment exclusivity is now controlled through tags
 - Changes to predicates and loot table functions
 
-### PAINTING VARIANTS
+### Painting Variants
 
 - Painting variants registry are now loaded from packs
 - Path to painting definition is data/\<namespace\>/painting_variant/\<id\>.json
@@ -249,7 +251,7 @@ Happy mining!
   - height - height of painting in blocks, between 1 and 16
   - asset_id - id of sprite in paintings atlas
 
-### ENCHANTMENTS
+### Enchantments
 
 Enchantments are now set through data. An Enchantment is a set of core properties like level ranges and cost together with some effects. Most effect types also support a set of conditions, making it possible to apply them only when certain criteria are met.
 
@@ -284,13 +286,13 @@ Fields:
   - Each entry is one of any, hand, mainhand, offhand, armor, feet, legs, chest, head and body
 - effects: A map of effect components, as described below in the Effect Components section
 
-#### LEVEL-BASED VALUES
+#### Level-based Values
 
 Many effects of Enchantments depend on the level of the Enchantment. For these fields, a type called Level-Based Values is used. In their most basic form, Level-Based Values can be written as floating-point constants, which is interpreted as a value that isn't in fact level-based, the constant is used as-is for all levels.
 
 If a Level-Based value is not a floating-point constant, it is an object with a type field, specifying one of the following types.
 
-##### linear
+#### linear
 
 The most common type of Level-Based Value is a linear value. A linear Level-Based Value has two fields:
 
@@ -299,7 +301,7 @@ The most common type of Level-Based Value is a linear value. A linear Level-
 
 In effect, a linear Level-Based Value results in base + per_level_above_first \* (level - 1).
 
-##### clamped
+#### clamped
 
 A Level-Based Value type that clamps a value between a min and max. Fields:
 
@@ -307,14 +309,14 @@ A Level-Based Value type that clamps a value between a min and max. Fields:
 - min: A floating point value specifying the minimum value of the output
 - max: A floating point value specifying the maximum value of the output
 
-##### fraction
+#### fraction
 
 A Level-Based Value type that represents the fraction between two values. Fields:
 
 - numerator: A Level-Based Value used as the numerator
 - denominator: A Level-Based Value used as the denominator
 
-##### levels_squared
+#### levels_squared
 
 A Level-Based Value type that evaluates to the square of the levels, plus an addition. Fields:
 
@@ -322,11 +324,11 @@ A Level-Based Value type that evaluates to the square of the levels, plus an add
 
 In effect, a levels_squared Level-Based Value results in level ^ 2 + added
 
-#### VALUE EFFECT TYPES
+#### Value Effect Types
 
 Value Effects are effects used to manipulate the amount of *something* in the game.
 
-##### add
+#### add
 
 A Value Effect that adds a value to the processed results.
 
@@ -335,7 +337,7 @@ Fields:
 - value: A Level-Based Value determining how much to add
   - Negative values are supported
 
-##### all_of
+#### all_of
 
 A Value Effect that runs a number of other Value Effects, in order. This can be useful when the same set of conditions apply to a number of Value Effects.
 
@@ -343,7 +345,7 @@ Fields:
 
 - effects: A list of the Value Effects to run
 
-##### multiply
+#### multiply
 
 A Value Effect that multiplies the processed value by a given factor.
 
@@ -351,7 +353,7 @@ Fields:
 
 - factor: A Level-Based Value determining the factor to multiply in
 
-##### remove_binomial
+#### remove_binomial
 
 A Value Effect that runs a Binomial series of checks, reducing the input value by 1 for every successful check.
 
@@ -360,7 +362,7 @@ Fields:
 - chance: A Level-Based Value representing the chance that an input value is dropped.
   - The span is 0 to 1, with 0 being no chance to drop an input value and 1 dropping all input values
 
-##### set
+#### set
 
 A Value Effect that overwrites the input value with a given Level-Based Value.
 
@@ -368,7 +370,7 @@ Fields:
 
 - value: The Level-Based Value to use as the result
 
-#### ATTRIBUTE EFFECTS
+#### Attribute Effects
 
 Attribute effects use the Attribute system to apply an Attribute Modifier whenever the Enchanted Item is correctly equipped. Attribute effects do not have a dynamic type - they are all the same type.
 
@@ -382,11 +384,11 @@ Fields:
 - uuid: A string containing a UUID for the Attribute Modifier to use
   - Must be unique to avoid different Enchantments (or other systems) interfering with each others
 
-#### ENTITY EFFECT TYPES
+#### Entity Effect Types
 
 Entity Effects are Enchantment effects that generally do something to an Entity involved in an event. Which Entity is affected depends on the specific component being configured.
 
-##### all_of
+#### all_of
 
 An Entity Effect that runs a list of other Entity Effects. This can be useful when a set of conditions should apply to more than one Entity Effect.
 
@@ -394,7 +396,7 @@ Fields:
 
 - effects: List of Entity Effects to run
 
-##### apply_mob_effect
+#### apply_mob_effect
 
 An Entity Effect that applies a random Mob Effect to the affected Entity, chosen from a set of options. The duration and amplifier are randomized within a given span. The effect of specifying larger maximum values than the minimum value is undefined.
 
@@ -405,7 +407,7 @@ Fields:
 - min_duration, max_duration: Level-Based Values representing the minimum and maximum duration of the effect in seconds
 - min_amplifier, max_amplifier: Level-Based Values representing the minimum and maximum amplifier
 
-##### damage_entity
+#### damage_entity
 
 An Entity Effect that applies damage to the affected Entity. The amount of damage is randomized within a given span. The effect of specifying a larger maximum value than the minimum value is undefined.
 
@@ -414,7 +416,7 @@ Fields:
 - damage_type: The ID of the Damage Type to use
 - min_damage, max_damage: Level-Based Values representing the minimum and maximum amount of damage
 
-##### damage_item
+#### damage_item
 
 An Entity Effect that applies damage to the Enchanted Item.
 
@@ -422,7 +424,7 @@ Fields:
 
 - amount: A Level-Based Value determining the amount of damage to apply
 
-##### explode
+#### explode
 
 An Entity Effect that causes an explosion.
 
@@ -447,7 +449,7 @@ Fields:
 - large_particle: The large particle emitted by the explosion
 - sound: The sound event caused by the explosion
 
-##### ignite
+#### ignite
 
 An Entity Effect that ignites the affected Entity for a given number of seconds.
 
@@ -455,7 +457,7 @@ Fields:
 
 - duration: A Level-Based Value specifying the number of seconds the fire should last
 
-##### play_sound
+#### play_sound
 
 An Entity Effect that plays a sound.
 
@@ -465,7 +467,7 @@ Fields:
 - volume: A Float Provider between 0.00001 and 10.0 specifying the volume of the sound
 - pitch: A Float Provider between 0.00001 and 2.0 specifying the pitch of the sound
 
-##### replace_block
+#### replace_block
 
 An Entity Effect that replaces a block in the world.
 
@@ -478,7 +480,7 @@ Fields:
 - predicate: A World-generation style Block Predicate to used to determine if the block should be replaced
   - Optional, if omitted all block types are replaced
 
-##### replace_disc
+#### replace_disc
 
 An Entity Effect that replaces blocks in a disc / cylinder in the world.
 
@@ -493,7 +495,7 @@ Fields:
 - predicate: A World-generation style Block Predicate to used to determine if the block should be replaced
   - Optional, if omitted all block types are replaced
 
-##### run_function
+#### run_function
 
 An Entity Effect that runs a Command Function. The execution entity the effect is executing for is represented as @s and ~ ~ ~ is the position of the event.
 
@@ -501,7 +503,7 @@ Fields:
 
 - function: Namespaced ID of the Command Function to run
 
-##### set_block_properties
+#### set_block_properties
 
 An Entity Effect that sets properties on a block
 
@@ -512,7 +514,7 @@ Fields:
   - Format: list of 3 integers representing X, Y and Z offset
   - Optional, if omitted \[0, 0, 0\] is used
 
-##### spawn_particles
+#### spawn_particles
 
 An Entity Effect that spawns particles around the affected Entity.
 
@@ -535,7 +537,7 @@ Fields:
     - Optional, interpreted as 0 if omitted
     - Example: a movement_scale of 1 adds the velocity of the Entity to the spawned particles
 
-##### summon_entity
+#### summon_entity
 
 An Entity Effect that summons a new Entity, randomly chosen from a set of Entity Types, at the site of the event.
 
@@ -545,44 +547,44 @@ Fields:
   - Either an Entity Type ID, a list of Entity Type IDs or an Entity Type Tag prefixed with \#
 - join_team: Boolean that specifies whether the summoned Entity should join the team of the owner of the Enchanted Item
 
-#### LOCATION-BASED EFFECT TYPES
+#### Location-based Effect Types
 
 Location-Based Effects are special effects that activate and deactivate depending on where the owner of the Enchanted Item moves. Location-Based Effect only trigger when such items are initially equipped and subsequently when the owning Entity moves to a new space in the Block grid - i.e. when their coordinates change to a new integer value.
 
 All Entity Effect types can also be used as Location-Based Effects, and in addition attribute can be used to specify an Attribute Effect as a location-based effect.
 
-#### EFFECT CONDITIONS
+#### Effect Conditions
 
 Most Enchantment effects are filtered using Conditions (same types as in loot tables). This enables effects to be specific for different situations. Each Effect Component defines which parameters are available for the condition to evaluate - some parameters are available for all of these parameter sets, while some are specific to a certain set.
 
 Each effect component specifies which parameters are available in the [Effect Components](https://www.minecraft.net/en-us/article/minecraft-snapshot-24w18a#effect-components) list below.
 
-##### Damage Parameters
+#### Damage Parameters
 
 - Entities: this, attacker, direct_attacker
 - Enchantment Level
 - Origin
 - Damage Source
 
-##### Item Parameters
+#### Item Parameters
 
 - Tool
 - Enchantment Level
 
-##### Location Parameters
+#### Location Parameters
 
 - Entities: this
 - Enchantment Level
 - Origin
 - Enchantment Active status
 
-##### Entity Parameters
+#### Entity Parameters
 
 - Entities: this
 - Enchantment Level
 - Origin
 
-#### EFFECT COMPONENTS
+#### Effect Components
 
 The effects field in an Enchantment is a map of Effect Component type the Effect List data. Most Effect Components are lists, so any number of Effects can be added of any Component Type. The data for each effect generally involves having a specified condition context and Effect Type, but some Effects also deviate from this format.
 
@@ -694,11 +696,11 @@ In cases where the documentation specifies a Condition Context and Effect, the C
   - Format: A list of sound events
   - Each entry in the list represents the sound at one level of the Enchantment, so the first entry represents the sound used by a level 1 Enchantment
 
-### ENCHANTMENT PROVIDERS
+### Enchantment Providers
 
 Enchantment Providers are new ways for the game to source Enchantments to use in various situations where Enchantments show up.
 
-#### SPAWN EQUIPMENT ENCHANTMENT PROVIDERS
+#### Spawn Equipment Enchantment Providers
 
 - mob_spawn_equipment: Enchantment provider for mobs that spawn with randomly Enchanted equipment
 - pillager_spawn_crossbow: Enchantment provider for Pillagers that spawn with Enchanted Crossbows
@@ -707,45 +709,45 @@ Enchantment Providers are new ways for the game to source Enchantments to use in
 - raid/vindicator: Enchantment provider applied as a buff on the Axe of a Vindicator spawning as wave 1-5
 - raid/vindicator_post_wave_5: Enchantment provider applied as a buff on the Axe of a Vindicator spawning as waves above 5
 
-#### ENDERMAN LOOT ENCHANTMENT PROVIDER
+#### Enderman Loot Enchantment Providers
 
 - enderman_loot_drop: An Enchantment provided used for the "fake tool" applied to the carried block of a killed Enderman
 
-#### VILLAGER TRADE REBALANCE ENCHANTMENT PROVIDERS
+#### Villager Trade Rebalance Enchantment Providers
 
-All Equipment-specific Enchantments in Villager trades in the Villager Trade Rebalance experiment are now sourced from Enchantment Providers.
+All Equipment-specific Enchantments in Villager trades in the Villager Trade Rebalance experiment are now sourced from Enchantment Providers
 
 These Enchantment Providers are only used when the Villager Trade Rebalance experiment is enabled and all have the following pattern:
 
 trades/\<biome\>\_\<profession\>\_\<equipment\>\_\<level\>
 
-For example: trades/desert_armorer_helmet_4 and trades/taiga_armorer_chestplate_5.
+For example: trades/desert_armorer_helmet_4 and trades/taiga_armorer_chestplate_5
 
-#### ENCHANTMENT PROVIDER TYPES
+#### Enchantment Provider Types
 
-##### single_enchantment
+#### single_enchantment
 
-An Enchantment Provider which always provides the same Enchantment. The level of the Enchantment can be either constant or randomized.
+An Enchantment Provider which always provides the same Enchantment. The level of the Enchantment can be either constant or randomized
 
 Fields:
 
 - enchantment: Namespaced ID of the Enchantment
 - level: Int provider representing the level of the Enchantment
 
-##### enchantments_by_cost
+#### enchantments_by_cost
 
-An Enchantment Provider which gives one or more Enchantments from a set of options according to a given cost (similar to the cost value in the Enchantment Table).
+An Enchantment Provider which gives one or more Enchantments from a set of options according to a given cost (similar to the cost value in the Enchantment Table)
 
 Fields:
 
 - enchantments: The set of Enchantments as either a single Enchantment, a list of Enchantments or hash-prefixed Enchantment Tag
 - cost: Int provider representing the cost to use for the Enchanting process
 
-##### enchantments_by_cost_with_difficulty
+#### enchantments_by_cost_with_difficulty
 
-An Enchantment Provider which works like enchantments_by_cost, but where the cost is calculated partially based on the local difficulty of the area where the event happens causing the Enchantments to be added.
+An Enchantment Provider which works like enchantments_by_cost, but where the cost is calculated partially based on the local difficulty of the area where the event happens causing the Enchantments to be added
 
-The used cost is a minimum cost plus a uniformly randomized factor up to a base cost span multiplied with the special factor, which starts at 0 for local difficulty up to 2, increases linearly up to 1 for local difficulty 4 and stays at a constant value of 1 for any difficulty above that.
+The used cost is a minimum cost plus a uniformly randomized factor up to a base cost span multiplied with the special factor, which starts at 0 for local difficulty up to 2, increases linearly up to 1 for local difficulty 4 and stays at a constant value of 1 for any difficulty above that
 
 Fields:
 
@@ -753,15 +755,15 @@ Fields:
 - min_cost: Positive integer representing the minimum possible cost
 - max_cost_span: Non-negative integer representing the span of the cost randomization when the special factor is at its maximum
 
-### DAMAGE TYPES
+### Damage Types
 
 - New damage type: campfire, split from in_fire
 
-### TAGS
+### Tags
 
-#### ENCHANTMENT TAGS
+#### Enchantment Tags
 
-##### Enchantment Functionality Tags
+#### Enchantment Functionality Tags
 
 - curse: Enchantments that get listed in red in tooltips and cannot be removed by disenchanting
 - prevents_bee_spawns_when_mining: Enchantments that allow a tool to mine bee nests and hives with the bees still inside
@@ -770,7 +772,7 @@ Fields:
 - prevents_infested_spawns: Enchantments that allow a tool to break Infested blocks without causing the mob inside to spawn
 - smelts_loot: Enchantments that cause loot drops to be smelted
 
-##### Enchantment Availability Tags
+#### Enchantment Availability Tags
 
 - tradeable: Enchantments that show up on Books in Villager trades
 - on_traded_equipment: Enchantments that show up on enchanted equipment in Villager trades
@@ -779,7 +781,7 @@ Fields:
 - on_mob_spawn_equipment: Enchantments that can show up on equipment worn by randomly spawned Mobs
 - on_random_loot: Enchantments that can show up on loot in loot chests found in the world
 
-##### Enchantment Exclusivitity Tags
+#### Enchantment Exclusivitity Tags
 
 New tags used by the Vanilla Enchantments to control which ones are mutually exclusive, all of which are found under the exclusive_set/ path.
 
@@ -791,22 +793,22 @@ New tags used by the Vanilla Enchantments to control which ones are mutually exc
 - mining: Mining-related Enchantments that cannot co-exit
 - riptide: Enchantments that cannot co-exist with Riptide
 
-##### Trade Rebalance Enchantment Tags
+#### Trade Rebalance Enchantment Tags
 
 In the experimental trade_rebalance pack, each biome type has two tags:
 
 - trades/\<biome\>\_common: Contains Enchantments traded on the lower profession levels
 - trades/\<biome\>\_special: Contains Enchantments traded on the highest profession level
 
-#### DAMAGE TYPE TAGS
+#### Damage Type Tags
 
 - burn_from_stepping: Damage types that represent burning damage from stepping on something - in particular, damage types counterd by the frost_walker Enchantment
 
-### LOOT TABLES
+### Loot Tables
 
-#### CONDITIONS
+#### Conditions
 
-##### Targets
+#### Targets
 
 Some target entity names have been renamed to fit in a more generic context:
 
@@ -814,7 +816,7 @@ Some target entity names have been renamed to fit in a more generic context:
 - direct_killer is now called direct_attacker
 - killer_player is now called attacking_player
 
-##### enchantment_active_check
+#### enchantment_active_check
 
 New condition, requires the "Enchantment Active" parameter to exist in the context, which currently means it only works in Enchantment conditions.
 
@@ -822,11 +824,11 @@ Fields:
 
 - active: boolean determining whether the check should match for an active (true) or inactive (false)
 
-##### random_chance
+#### random_chance
 
 - The chance field is now a Number Provider
 
-##### random_chance_with_enchanted_bonus
+#### random_chance_with_enchanted_bonus
 
 Renamed from random_chance_with_looting. Field changes:
 
@@ -834,15 +836,15 @@ Renamed from random_chance_with_looting. Field changes:
 - chance: this is now a Level-Based Values
 - enchantment: new field containing the namespaced ID of the Enchantment which grants the bonus chance
 
-#### FUNCTIONS
+#### Functions
 
-##### enchanted_count_increase
+#### enchanted_count_increase
 
 Renamed from looting_enchant. Now has a new field:
 
 - enchantment: Namespaced ID of the Enchantment that increases yields
 
-##### enchant_randomly
+#### enchant_randomly
 
 - Changed format - the enchantments field is now called options
 - options is now specified as one of an Enchantment, a list of Enchantments or an Enchantment Tag (prefixed with \#)
@@ -850,20 +852,20 @@ Renamed from looting_enchant. Now has a new field:
   - If omitted, defaults to true
   - Note: Books are considered compatible with all Enchantments
 
-#### ENCHANT_WITH_LEVELS
+#### enchant_with_levels
 
 - The treasure field has been removed
 - Changed format - options is now specified as one of an Enchantment, a list of Enchantments or an Enchantment Tag (prefixed with \#)
 
-#### COPY_NAME
+#### copy_name
 
 - Some of the possible values for the source field have changed:
   - killer renamed to attacking_entity
   - killer_player renamed to last_damage_player
 
-#### NUMBER PROVIDERS
+#### Number Providers
 
-##### enchantment_level
+#### enchantment_level
 
 A new number provider that sources values from the Enchantment Level parameter.
 
@@ -871,9 +873,9 @@ Fields:
 
 - amount: A [Level-Based Value](https://www.minecraft.net/en-us/article/minecraft-snapshot-24w18a#level-based-values) giving a value based on the level of the Enchantment
 
-### PREDICATES
+### Predicates
 
-#### ENCHANTMENT PREDICATE
+#### Enchantment Predicate
 
 - The enchantment field has been removed
 - Added an enchantments field, one of an Enchantment, a list of Enchantments or an Enchantment Tag (prefixed with \#)
@@ -881,7 +883,7 @@ Fields:
 - If no enchantments field is specified, any enchantment matching levels will succeed the test
   - If neither the levels nor enchantments fields are defined, the predicate will match an item that has any enchantment
 
-#### ENTITY FLAGS PREDICATE
+#### Entity Flags Predicate
 
 New possible fields:
 
@@ -890,7 +892,7 @@ New possible fields:
   - Gliding with Elytra
   - Flying in Creative Mode
 
-#### LOCATION PREDICATE
+#### Location Predicate
 
 New possible fields:
 
@@ -900,7 +902,7 @@ New possible fields:
   - raining
   - thunder
 
-#### MOVEMENT PREDICATE
+#### Movement Predicate
 
 New sub-predicate available as movement in Entity Predicates. Possible fields:
 
@@ -910,19 +912,19 @@ New sub-predicate available as movement in Entity Predicates. Possible fields:
 - vertical_speed: min/max limits for the vertical speed component of the Entity's movement in blocks / second
 - fall_distance: min/max limits for the fall distance of the Entity in blocks
 
-#### PERIODIC TICKS
+#### Periodic Ticks
 
 New Entity sub-predicate available as periodic_ticks in Entity Predicates. Format: a positive integer.
 
 This sub-predicate is true every *n* ticks of an Entity's lifetime.
 
-### ATTRIBUTES
+### Attributes
 
-#### GENERIC.ATTACK_KNOCKBACK
+#### generic.attack_knockback
 
 Now also works on Players.
 
-#### GENERIC.BURNING_TIME
+#### generic.burning_time
 
 A factor to how long an Entity remains on fire after being ignited. A factor of 0 removes the entire burn time, a factor of 1 lets the Entity burn the default fire time - larger values increase the amount of time the entity remains on fire.
 
@@ -930,7 +932,7 @@ A factor to how long an Entity remains on fire after being ignited. A factor of�
 - Minimum: 0
 - Maximum: 1024
 
-#### GENERIC.EXPLOSION_KNOCKBACK_RESISTANCE
+#### generic.explosion_knockback_resistance
 
 A factor to how much knockback an Entity takes from an Explosion. A factor of 1 removes the entire knockback, a factor of 0 means no knockback reduction.
 
@@ -938,7 +940,7 @@ A factor to how much knockback an Entity takes from an Explosion. A factor of 1
 - Minimum: 0
 - Maximum: 1
 
-#### PLAYER.MINING_EFFICIENCY
+#### player.mining_efficiency
 
 Mining speed factor added to the speed of mining when using a tool that efficiently mines a block.
 
@@ -946,7 +948,7 @@ Mining speed factor added to the speed of mining when using a tool that efficien
 - Minimum: 0
 - Maximum: 1024
 
-#### GENERIC.MOVEMENT_EFFICIENCY
+#### generic.movement_efficiency
 
 How efficiently the entity can move through impeding terrain that slows down movement. A factor of 1 removes all movement penalty, a factor of 0 applies full movement penalty.
 
@@ -954,7 +956,7 @@ How efficiently the entity can move through impeding terrain that slows down mov
 - Minimum: 0
 - Maximum: 1
 
-#### GENERIC.OXYGEN_BONUS
+#### generic.oxygen_bonus
 
 Factor to the chance an Entity has to not use up air when underwater. 0 has no effect, values over 0 are used in the following formula to determine the chance of using up air:
 
@@ -964,7 +966,7 @@ Factor to the chance an Entity has to not use up air when underwater. 0 has no
 - Minimum: 0
 - Maximum: 1024
 
-#### PLAYER.SNEAKING_SPEED
+#### player.sneaking_speed
 
 The movement speed factor when sneaking. A factor of 1 means sneaking is as fast as walking, a factor of 0 means unable to move while sneaking.
 
@@ -972,7 +974,7 @@ The movement speed factor when sneaking. A factor of 1 means sneaking is as fa
 - Minimum: 0
 - Maximum: 1
 
-#### PLAYER.SUBMERGED_MINING_SPEED
+#### player.submerged_mining_speed
 
 The mining speed factor when submerged. A factor of 1 means mining as fast submerged as on land, a factor of 0 means unable to mine while submerged. Note that this represents only the submersion factor itself, and other factors (such as not touching the ground) also apply.
 
@@ -980,7 +982,7 @@ The mining speed factor when submerged. A factor of 1 means mining as fast sub
 - Minimum: 0
 - Maximum: 20
 
-#### PLAYER.SWEEPING_DAMAGE_RATIO
+#### player.sweeping_damage_ratio
 
 How much of the base attack damage that gets transfered transfer to secondary targets in a sweep attack. This is additive to the base attack of the sweep damage itself of 1. A value of 0 means none of the base attack damage is transferred (sweep damage is 1). A value of 1 means all of the base attack damage is transferred (sweep damage is attack_damage + 1)
 
@@ -988,7 +990,7 @@ How much of the base attack damage that gets transfered transfer to secondary ta
 - Minimum: 0
 - Maximum: 1
 
-#### GENERIC.WATER_MOVEMENT_EFFICIENCY
+#### generic.water_movement_efficiency
 
 The movement speed factor when submerged. The higher, the more of the underwater movement penalty is mitigated. Note that this represents only the submersion factor itself, and other factors (such as not touching the ground) also apply.
 
@@ -996,9 +998,9 @@ The movement speed factor when submerged. The higher, the more of the underwater
 - Minimum: 0
 - Maximum: 1
 
-### BLOCK PREDICATES (WORLD GENERATION STYLE)
+### Block Predicates (World Generation Style)
 
-#### UNOBSTRUCTED
+#### unobstructed
 
 New block predicate type that passes if the selected block is unobstructed (no Entities are in the space of the block).
 
@@ -1007,20 +1009,20 @@ Fields:
 - offset: List of 3 int offset coordinates, specifying the offset from the origin position to test
   - Optional, defaults to \[0, 0, 0\] if unspecified
 
-### ENTITY DATA
+### Entity Data
 
-#### PROJECTILES
+#### Projectiles
 
 Arrow-like projectile data now contains a weapon field containing an Item Stack representing the weapon the projectile was fired from. The following fields have been removed:
 
 - ShotFromCrossbow
 
-## RESOURCE PACK VERSION 33
+## Resource Pack Version 33
 
 - Added new textures and music assets for Music Discs
 - Renamed sound events for Ominous Trial Spawner becoming active and ambient sound
 
-## FIXED BUGS IN SNAPSHOT 24W18A
+## Fixed bugs in Snapshot 24W18A
 
 - [MC-44280](https://bugs.mojang.com/browse/MC-44280) - Entities don't receive knockback from projectiles fired from dispensers
 - [MC-59626](https://bugs.mojang.com/browse/MC-59626) - Arrows lose their Punch enchantment property when unloaded
@@ -1079,7 +1081,7 @@ Arrow-like projectile data now contains a weapon field containing an Item Stac
 - [MC-271039](https://bugs.mojang.com/browse/MC-271039) - Upgrading to 1.20.5 leads to the removal of all enchantments if item had the "sweeping" enchantment without namespace
 - [MC-271157](https://bugs.mojang.com/browse/MC-271157) - "Telemetry is disabled" tooltip does not get updated when the client locale changes
 
-## GET THE SNAPSHOT
+## Get the Snapshot
 
 Snapshots are available for Minecraft: Java Edition. To install the Snapshot, open up the [Minecraft Launcher](https://www.minecraft.net/download.html) and enable snapshots in the "Installations" tab.
 

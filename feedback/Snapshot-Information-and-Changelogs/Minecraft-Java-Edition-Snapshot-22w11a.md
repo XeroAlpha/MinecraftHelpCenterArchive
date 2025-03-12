@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 22w11a"
 date: 2022-03-16T16:51:10Z
-updated: 2022-03-16T16:53:39Z
+updated: 2025-03-12T11:13:14Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4849829699597-Minecraft-Java-Edition-Snapshot-22w11a
 hash:
   d-directional-audio: 3d-directional-audio

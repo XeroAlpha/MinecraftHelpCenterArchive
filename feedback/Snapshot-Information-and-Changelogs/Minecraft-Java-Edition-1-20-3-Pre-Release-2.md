@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20.3 Pre-Release 2 "
 date: 2023-11-22T15:05:27Z
-updated: 2023-11-22T15:05:31Z
+updated: 2025-03-12T11:12:28Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/21575693780237-Minecraft-Java-Edition-1-20-3-Pre-Release-2
 hash:
   h_01HFVS0AFZTXSN1JSYNDT7S5KG: changes

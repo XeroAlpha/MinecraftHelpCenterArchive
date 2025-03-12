@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.21 Release Candidate 1"
 date: 2024-06-10T13:48:08Z
-updated: 2025-02-27T12:46:29Z
+updated: 2025-03-12T10:09:52Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/27443936156429-Minecraft-Java-Edition-1-21-Release-Candidate-1
 hash:
   h_01J016FMKCH46V44N791V48CS2: changes

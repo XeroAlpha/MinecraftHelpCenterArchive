@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 21w16a"
 date: 2021-04-28T14:35:15Z
-updated: 2021-04-28T14:35:34Z
+updated: 2025-03-12T11:13:52Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360060534911-Minecraft-Java-Edition-Snapshot-21w16a
 hash:
   changes-to-the-caves-cliffs-preview: changes-to-the-caves--cliffs-preview

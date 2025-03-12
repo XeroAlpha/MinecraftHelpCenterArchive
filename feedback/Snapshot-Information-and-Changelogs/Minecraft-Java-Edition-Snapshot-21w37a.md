@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 21w37a"
 date: 2021-09-15T16:53:13Z
-updated: 2021-09-15T16:54:03Z
+updated: 2025-03-12T11:13:35Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4409293520269-Minecraft-Java-Edition-Snapshot-21w37a
 hash:
   set_contents-set_loot_table: set_contentsset_loot_table

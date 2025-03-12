@@ -1,12 +1,13 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 18W15A"
 date: 2018-05-23T09:13:52Z
-updated: 2018-05-23T18:36:48Z
+updated: 2025-03-12T11:15:54Z
 categories: Snapshot Information and Changelogs
 tags:
   - beta
   - java
   - 18W15A
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360004126612-Minecraft-Java-Edition-Snapshot-18W15A
 ---
 

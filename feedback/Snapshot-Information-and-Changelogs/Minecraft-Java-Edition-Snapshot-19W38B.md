@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 19W38B"
 date: 2019-09-18T15:13:40Z
-updated: 2019-09-19T19:14:51Z
+updated: 2025-03-12T11:15:29Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360033496792-Minecraft-Java-Edition-Snapshot-19W38B
 hash:
   block-and-fluid: blockandfluid

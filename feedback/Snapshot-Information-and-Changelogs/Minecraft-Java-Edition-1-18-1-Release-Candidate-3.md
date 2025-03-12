@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.18.1 Release Candidate 3 "
 date: 2021-12-10T08:16:03Z
-updated: 2021-12-10T08:16:27Z
+updated: 2025-03-12T11:13:31Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4416147563661-Minecraft-Java-Edition-1-18-1-Release-Candidate-3
 ---
 

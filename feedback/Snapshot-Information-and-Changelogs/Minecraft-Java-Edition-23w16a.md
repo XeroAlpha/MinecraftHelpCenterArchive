@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 23w16a"
 date: 2023-04-20T15:59:23Z
-updated: 2023-04-20T15:59:27Z
+updated: 2025-03-12T11:12:47Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/15044886907149-Minecraft-Java-Edition-23w16a
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.14.3 PRE-RELEASE 2"
 date: 2019-06-03T15:02:49Z
-updated: 2019-06-07T14:21:06Z
+updated: 2025-03-12T11:15:31Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360029074071-Minecraft-Java-Edition-1-14-3-PRE-RELEASE-2
 hash:
   changes-in-1.14.3-pre-release-2: changes-in-1143-pre-release-2

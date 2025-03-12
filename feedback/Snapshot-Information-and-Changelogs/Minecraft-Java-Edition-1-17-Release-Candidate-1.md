@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.17 Release Candidate 1 "
 date: 2021-06-04T14:03:14Z
-updated: 2021-06-04T14:03:18Z
+updated: 2025-03-12T11:13:50Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4402391216525-Minecraft-Java-Edition-1-17-Release-Candidate-1
 hash:
   the-caves-cliffs-preview: the-caves--cliffs-preview

@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20 Pre-release 1"
 date: 2023-05-10T14:15:29Z
-updated: 2023-05-10T14:15:33Z
+updated: 2025-03-12T11:12:47Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/15649443624973-Minecraft-Java-Edition-1-20-Pre-release-1
 hash:
   server.properties: serverproperties

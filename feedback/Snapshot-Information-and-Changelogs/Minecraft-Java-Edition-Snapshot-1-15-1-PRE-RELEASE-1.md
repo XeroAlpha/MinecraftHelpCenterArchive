@@ -1,7 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 1.15.1 PRE-RELEASE 1"
 date: 2019-12-12T18:00:36Z
+updated: 2025-03-12T11:15:27Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360037488592-Minecraft-Java-Edition-Snapshot-1-15-1-PRE-RELEASE-1
 hash:
   changes-in-1.15.1-pre-release-1: changes-in-1151-pre-release-1

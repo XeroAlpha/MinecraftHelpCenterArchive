@@ -1,8 +1,10 @@
 ---
 title: Caves & Cliffs Prototype Data Pack for Minecraft Java Edition
 date: 2021-06-08T13:58:08Z
-updated: 2021-06-08T14:36:59Z
+updated: 2025-03-12T11:13:50Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4402614709389-Caves-Cliffs-Prototype-Data-Pack-for-Minecraft-Java-Edition
 ---
 

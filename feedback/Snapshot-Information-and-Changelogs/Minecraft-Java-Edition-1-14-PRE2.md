@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.14 PRE2"
 date: 2019-05-07T15:32:39Z
-updated: 2019-05-09T14:51:20Z
+updated: 2025-03-12T11:15:31Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360027735772-Minecraft-Java-Edition-1-14-PRE2
 hash:
   changes-in-1.14.1-pre-release-2: changes-in-1141-pre-release-2

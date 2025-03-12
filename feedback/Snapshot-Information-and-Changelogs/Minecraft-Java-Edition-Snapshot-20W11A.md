@@ -1,8 +1,10 @@
 ---
 title: Minecraft Java Edition - Snapshot 20W11A
 date: 2020-03-11T18:09:07Z
-updated: 2020-03-11T18:09:10Z
+updated: 2025-03-12T11:15:04Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360040849531-Minecraft-Java-Edition-Snapshot-20W11A
 ---
 

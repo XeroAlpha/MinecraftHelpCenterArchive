@@ -1,13 +1,14 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 19W04B"
 date: 2019-01-24T15:32:15Z
-updated: 2019-01-25T22:52:20Z
+updated: 2025-03-12T11:15:50Z
 categories: Snapshot Information and Changelogs
 tags:
   - java
   - snapshot
   - 19W04A
   - 19W04B
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360022213852-Minecraft-Java-Edition-Snapshot-19W04B
 ---
 

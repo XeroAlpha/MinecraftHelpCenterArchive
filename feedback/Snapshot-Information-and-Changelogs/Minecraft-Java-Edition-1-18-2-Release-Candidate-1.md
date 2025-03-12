@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.18.2 Release Candidate 1 "
 date: 2022-02-25T14:49:33Z
-updated: 2022-02-25T14:53:00Z
+updated: 2025-03-12T11:13:14Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4501898081933-Minecraft-Java-Edition-1-18-2-Release-Candidate-1
 hash:
   fixed-bugs-in-1.18.2-release-candidate-1: fixed-bugs-in-1182-release-candidate-1

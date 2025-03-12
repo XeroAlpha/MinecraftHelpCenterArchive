@@ -1,8 +1,10 @@
 ---
 title: Minecraft Java Edition - 1.21.2 Release Candidate 2
 date: 2024-10-21T17:12:24Z
-updated: 2024-10-21T17:12:32Z
+updated: 2025-03-12T10:08:34Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/31234430031885-Minecraft-Java-Edition-1-21-2-Release-Candidate-2
 hash:
   h_01JAR0WRA2K3FWP8GB6MNGVA01: fixed-bugs-in-1212-release-candidate-2

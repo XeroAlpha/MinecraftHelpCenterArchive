@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.18 Release Candidate 3"
 date: 2021-11-26T16:16:19Z
-updated: 2021-11-26T16:16:22Z
+updated: 2025-03-12T11:13:31Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4414749667085-Minecraft-Java-Edition-1-18-Release-Candidate-3
 hash:
   fixed-bugs-in-1.18-release-candidate-3: fixed-bugs-in-118-release-candidate-3

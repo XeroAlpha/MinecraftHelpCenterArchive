@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 23w07a"
 date: 2023-02-15T16:17:17Z
-updated: 2023-02-15T16:17:23Z
+updated: 2025-03-12T11:12:49Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/13137448106125-Minecraft-Java-Edition-Snapshot-23w07a
 hash:
   execute-on-with-interactions: execute-onwith-interactions

@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20.5 Release Candidate 3"
 date: 2024-04-22T14:26:45Z
-updated: 2024-04-22T14:26:49Z
+updated: 2025-03-12T10:43:38Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/26098415629453-Minecraft-Java-Edition-1-20-5-Release-Candidate-3
 hash:
   h_01HW336ZYZBZX4SR1N9E7J2NP7: fixed-bugs-in-1205-release-candidate-3

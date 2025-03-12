@@ -1,12 +1,10 @@
 ---
 title: "Minecraft: Java Edition 1.21.2 - Bundles of Bravery"
 date: 2024-10-22T15:17:46Z
-updated: 2025-02-27T12:29:42Z
+updated: 2025-03-12T11:01:38Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/31261174284557-Minecraft-Java-Edition-1-21-2-Bundles-of-Bravery
 hash:
-  h_01JATDA9WMSDR8DYA53NNENY0S: bundles-of-bravery-out-now-for-java
-  h_01JN3NE38VQ6226WW9KPX1SFFW: ""
   h_01JATDA5789ZQZ5CFHCX75PSS0: new-features
   h_01JATDB0FQ9KHXSRYXSAP6A930: bundles
   h_01JATDC1SYDVV8C8YKQE412F4F: changes
@@ -95,29 +93,22 @@ hash:
   h_01JAWQTRD4JBBA060WE7AGVT2R: external-targets
   h_01JAWQTRD4QNT6QYP4DEAEAX6S: translation-removals-and-renames
   h_01JAWQTRD40X3MYMVNVS9617V1: experimental-features
-  h_01JAWQZKF43B15J8XZJNH4WPW5: "-1"
   h_01JAWQYFTCHMD6B7GPVD9FQY8G: winter-drop
   h_01JAWQYFTD6HM8EP40PSJ4E0DR: pale-garden
   h_01JAWQYFTDFQSZC4482DNC4SW1: pale-oak-tree
   h_01JAWQYFTDP8BJ9TC1ME6FNZE2: pale-moss-block
   h_01JAWQYFTDWDR6CM2PVEJ1EV86: pale-moss-carpet
-  h_01JAWQZKF4WFMVXJ1KYNQDWN19: "-2"
   h_01JAWQYFTDB2RD6DBSJJWPKJ4S: pale-hanging-moss
-  h_01JAWQZKF4TZHMBAP2TARHQTB0: "-3"
   h_01JAWQYFTD4QF4HGDSC1HAKMYA: creaking-mob
   h_01JATDJ19V19JXD4KD3JQ6R8PM: creaking-heart
-  h_01JAWR4TVY6006SC9S7BJY30V0: "-4"
   h_01JATDJ19V67Z71FVNDEE4KETB: new-system-for-pale-garden-ambient-sounds
-  h_01JAWR4TVY2RPJ5NYM9PSB2GCE: "-5"
   h_01JATDJ19VFAZ860YWCJTC4XF3: redstone-experiments
-  h_01JAWR52VD6NJWBSJ0DSN6M2E8: "-6"
   h_01JATDJ19V8YXAHDKA4ZF3T6WX: redstone-wire
   h_01JATDJ19VFB7KPHGR0YNXNACH: order-in-which-a-line-of-wire-changes
   h_01JATDJER2EVT2S27AMF7D0B6Q: block-updates-around-a-wire
   h_01JATDJER2N8W9QZJKM7EZQVX8: known-issues
-  h_01JN3NE390YFDNDC4EX7AR06TY: "-7"
+  h_01JN3NE390YFDNDC4EX7AR06TY: ""
   h_01JATDJER26MQKX5MGCQNGCKWN: minecart-improvements
-  h_01JN3NE390FTS3PJBBK9XT9MD6: "-8"
   h_01JATDK9FT2ZG8BJRFQBG7BETZ: movement-changes
   h_01JATDK9FT7M9N28MBCN6YYEF8: minecart-changes
   h_01JATDK9FTYA5TGYY2B3PQN7E5: known-impact
@@ -125,15 +116,13 @@ hash:
   h_01JATDK9FT937DJ0TH416G14JV: get-the-release
 ---
 
-# Bundles of Bravery Out Now for Java
-
 We're now releasing the Bundles of Bravery game drop for Java Edition, featuring space-saving Bundles and the addition of Hardcore Mode to Realms!
 
 This game drop is all about embarking on a new adventure, collecting everything you can along the way, and definitely not dying. Together with these additions, we've also added baby variants of Dolphins and Squids, given Redstone Torches an updated look, optimized the game, and fixed over 300 bugs! To top it off, there's also a heap of technical changes, bringing even more control to creators.
 
 Goodness, that was a lot, wasn't it? Perhaps we should've stuffed it all into a Bundle?
 
-##  
+ 
 
 ## New Features
 
@@ -502,11 +491,7 @@ New command to rotate an entity.
 Syntax:
 
   
-`rotate <target> <rotation> `
-
-`rotate <target> facing <facingLocation> `
-
-`rotate <target> facing entity <facingTarget> [<facingAnchor>] `
+`rotate <target> <rotation> ` `rotate <target> facing <facingLocation> ` `rotate <target> facing entity <facingTarget> [<facingAnchor>] `
 
  
 
@@ -655,7 +640,7 @@ Note: parameters have the same meaning as in the teleport command.
 - Format: empty object
   - e.g. glider={}
 
-  
+ 
 
 #### minecraft:tooltip_style
 
@@ -672,7 +657,7 @@ Note: parameters have the same meaning as in the teleport command.
   - death_effects: An optional list of effects that are applied when the item protects the holder
     - These effects are the same as those specified by the on_consume_effects field in the consumable component
 
-  
+ 
 
 #### minecraft:repairable
 
@@ -1087,8 +1072,6 @@ The following changes only apply when their respective Experiment is turned on, 
 
 These experiments have no effect unless enabled. You can find more information about Feature Toggles [here](https://www.minecraft.net/en-us/article/testing-new-minecraft-features/feature-toggles-java-edition).
 
-###  
-
 ### Winter Drop
 
 - Added Pale Garden Biome, Pale Oak tree, Pale Moss block, Pale Moss carpet, Pale Hanging Moss and Pale Oak woodset
@@ -1139,15 +1122,11 @@ Pale Moss block generates naturally in the Pale Garden biome. Unique features:
 - When placed, Pale Moss Carpet grows up to two blocks on the solid faces of any block that borders it
 - Pale Moss Carpet can be bone mealed to grow to full on all solid faces of any block that borders it
 
-####  
-
 #### Pale Hanging Moss
 
 Pale Hanging Moss generates naturally in the Pale Garden biome under the foliage of Pale Oaks
 
 - Pale Hanging Moss does not grow randomly, but can be bone mealed to grow down
-
-####  
 
 #### Creaking mob
 
@@ -1173,8 +1152,6 @@ The Creaking mob spawns at night in the Pale Garden biome if there is a Creaking
   - It can only exist as a part of the Creaking Heart block
 - Players wearing a Carved Pumpkin on their head can look at Creaking without it freezing in place
 
-  
-
 #### Creaking Heart
 
 A Creaking Heart is a “living” block generating in Pale Oak trees, covered on all sides by Pale Oak wood logs. It can spawn a Creaking mob when it is nighttime, and it is placed between two correctly aligned Pale Oak Logs.
@@ -1184,8 +1161,6 @@ A Creaking Heart is a “living” block generating in Pale Oak trees, covered o
 - When Creaking Heart block is destroyed, the connected Creaking is removed
 - Comparators attached to the Creaking Heart block will output a signal strength dependent on the distance to the connected Creaking
 
-####  
-
 #### New system for Pale Garden ambient sounds
 
 Ambient sounds in the Pale Garden biome do not come from the biome settings, but are generated by blocks found in the biome.
@@ -1193,17 +1168,11 @@ Ambient sounds in the Pale Garden biome do not come from the biome settings, but
 - Pale Hanging Moss emits subtle atmospheric sounds when it is attached to Pale Oak Logs and Pale Oak Leaves
 - Creaking Heart block emits a set of eerie sounds when it is active during the night and surrounded by Logs on all sides
 
-###  
-
 ### Redstone Experiments
 
 Added a new Experiment containing various Redstone-related changes. This can be enabled by selecting "Redstone Experiments" in the Experiments menu when creating a world.
 
-Please note that the experimental features behind this toggle are not aimed at any future release at this time.  
-Instead, this is a place for us to try out changes and gather feedback.  
-We are excited to hear what you think about these changes: please share your feedback on the [feedpack page](https://aka.ms/fbredstone).
-
-####  
+Please note that the experimental features behind this toggle are not aimed at any future release at this time. Instead, this is a place for us to try out changes and gather feedback. We are excited to hear what you think about these changes: please share your feedback on the [feedpack page](https://aka.ms/fbredstone).
 
 #### Redstone Wire
 
@@ -1248,8 +1217,6 @@ Our long term goal is to make vehicle travel, like Minecarts, a viable option fo
 Please note that the experimental features behind this toggle are not aimed at any future release at this time. Instead, this is a place for us to try out changes and gather feedback.
 
 We are excited to hear what you think about these changes: please share your feedback on this [feedback page](https://aka.ms/fbcarts).
-
-####  
 
 #### Movement Changes
 

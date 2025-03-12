@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.19.4 Pre-Release 3"
 date: 2023-03-01T15:18:52Z
-updated: 2023-03-01T15:18:55Z
+updated: 2025-03-12T11:12:49Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/13572953374349-Minecraft-Java-Edition-1-19-4-Pre-Release-3
 hash:
   changes-in-1.19.4-pre-release-3: changes-in-1194-pre-release-3

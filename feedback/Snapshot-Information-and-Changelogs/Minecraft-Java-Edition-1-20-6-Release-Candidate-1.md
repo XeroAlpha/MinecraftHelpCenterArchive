@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20.6 Release Candidate 1"
 date: 2024-04-26T13:41:21Z
-updated: 2024-04-26T13:41:31Z
+updated: 2025-03-12T11:12:26Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/26229766049677-Minecraft-Java-Edition-1-20-6-Release-Candidate-1
 hash:
   h_01HWDA65HAYZRPJJWCJVYRQSMD: fixed-bugs-in-1206-release-candidate-1

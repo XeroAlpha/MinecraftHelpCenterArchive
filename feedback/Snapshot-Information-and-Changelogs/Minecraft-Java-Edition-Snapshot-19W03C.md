@@ -1,11 +1,12 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 19W03C"
 date: 2019-01-16T17:04:31Z
-updated: 2019-01-18T15:53:06Z
+updated: 2025-03-12T11:15:50Z
 categories: Snapshot Information and Changelogs
 tags:
   - snapshot
   - 19W03A
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360022057231-Minecraft-Java-Edition-Snapshot-19W03C
 hash:
   january-2019: 18-january-2019

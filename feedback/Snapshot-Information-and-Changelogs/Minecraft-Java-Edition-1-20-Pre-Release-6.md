@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.20 Pre-Release 6"
 date: 2023-05-25T16:09:16Z
-updated: 2023-05-25T16:09:20Z
+updated: 2025-03-12T11:12:46Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/16127775677965-Minecraft-Java-Edition-1-20-Pre-Release-6
 hash:
   technical-changes-in-1.20-pre-release-6: technical-changes-in-120-pre-release-6

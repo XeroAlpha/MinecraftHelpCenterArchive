@@ -1,9 +1,11 @@
 ---
 title: Minecraft Java Edition - Snapshot 20W06A
 date: 2020-02-05T16:51:55Z
+updated: 2025-03-12T11:15:05Z
 categories: Snapshot Information and Changelogs
 tags:
   - nether update
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360039129472-Minecraft-Java-Edition-Snapshot-20W06A
 ---
 

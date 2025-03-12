@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.14 PRE-RELEASE 5"
 date: 2019-04-10T15:19:57Z
-updated: 2019-04-22T19:00:17Z
+updated: 2025-03-12T11:15:32Z
 categories: Snapshot Information and Changelogs
 tags:
   - 1.14 PRE-1
@@ -9,6 +9,7 @@ tags:
   - 1.14 PRE-3
   - 1.14 PRE-4
   - 1.14 PRE-5
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360026407492-Minecraft-Java-Edition-1-14-PRE-RELEASE-5
 hash:
   changes-in-1.14-pre-release-5: changes-in-114-pre-release-5

@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Ediition - 1.17 Pre-release 4 "
 date: 2021-06-03T09:45:16Z
-updated: 2021-06-03T09:45:51Z
+updated: 2025-03-12T11:13:50Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360062544351-Minecraft-Java-Ediition-1-17-Pre-release-4
 hash:
   changes-in-1.17-pre-release-4: changes-in-117-pre-release-4

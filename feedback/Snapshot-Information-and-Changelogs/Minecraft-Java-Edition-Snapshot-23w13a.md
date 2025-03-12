@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 23w13a"
 date: 2023-03-29T14:35:57Z
-updated: 2023-03-29T14:36:01Z
+updated: 2025-03-12T11:12:48Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/14408892823309-Minecraft-Java-Edition-Snapshot-23w13a
 ---
 

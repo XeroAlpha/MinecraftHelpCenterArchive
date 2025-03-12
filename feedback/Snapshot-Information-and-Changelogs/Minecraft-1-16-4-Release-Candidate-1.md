@@ -1,9 +1,11 @@
 ---
-title: Minecraft 1.16.4, Release Candidate 1
+title: "Minecraft Java Edition: 1.16.4 Release Candidate 1"
 date: 2020-10-27T18:20:33Z
-updated: 2020-10-27T18:21:25Z
+updated: 2025-03-12T11:06:08Z
 categories: Snapshot Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/360051195192-Minecraft-1-16-4-Release-Candidate-1
+tags:
+  - Java Edition
+link: https://feedback.minecraft.net/hc/en-us/articles/360051195192-Minecraft-Java-Edition-1-16-4-Release-Candidate-1
 hash:
   changes-in-1.16.4-release-candidate-1: changes-in-1164-release-candidate-1
   fixed-bugs-in-1.16.4-release-candidate-1: fixed-bugs-in-1164-release-candidate-1

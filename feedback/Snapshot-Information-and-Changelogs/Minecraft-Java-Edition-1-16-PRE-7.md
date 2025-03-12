@@ -1,8 +1,10 @@
 ---
 title: Minecraft Java Edition - 1.16 PRE-7
 date: 2020-06-10T18:04:49Z
-updated: 2020-06-16T17:07:01Z
+updated: 2025-03-12T11:15:01Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360044343032-Minecraft-Java-Edition-1-16-PRE-7
 hash:
   fixed-bugs-in-1.16-pre-release-7: fixed-bugs-in116-pre-release-7

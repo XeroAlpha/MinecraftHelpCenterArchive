@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.19.4 Release Candidate 2 "
 date: 2023-03-10T14:40:46Z
-updated: 2023-03-10T14:40:50Z
+updated: 2025-03-12T11:12:48Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/13880811702541-Minecraft-Java-Edition-1-19-4-Release-Candidate-2
 hash:
   fixed-bugs-in-1.19.4-release-candidate-2: fixed-bugs-in-1194-release-candidate-2

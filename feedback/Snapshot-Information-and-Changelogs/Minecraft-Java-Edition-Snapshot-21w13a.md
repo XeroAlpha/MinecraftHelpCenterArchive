@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 21w13a"
 date: 2021-03-31T17:06:45Z
-updated: 2021-03-31T17:13:26Z
+updated: 2025-03-12T11:13:53Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360059253111-Minecraft-Java-Edition-Snapshot-21w13a
 hash:
   trade-loot-table-additions: trade--loot-table-additions

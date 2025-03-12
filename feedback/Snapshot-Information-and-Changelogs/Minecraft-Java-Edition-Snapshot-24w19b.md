@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 24w19b"
 date: 2024-06-10T11:16:37Z
-updated: 2025-02-27T12:46:30Z
+updated: 2025-03-12T10:42:39Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/27439656840589-Minecraft-Java-Edition-Snapshot-24w19b
 hash:
   h_01J00XSJGKV09DH3FK2XA1V19E: fixed-bugs-in-24w19b

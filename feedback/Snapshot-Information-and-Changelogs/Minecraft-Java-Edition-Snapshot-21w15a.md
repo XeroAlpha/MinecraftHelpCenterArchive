@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 21w15a"
 date: 2021-04-14T15:19:27Z
-updated: 2021-04-14T15:27:44Z
+updated: 2025-03-12T11:13:52Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360059421212-Minecraft-Java-Edition-Snapshot-21w15a
 hash:
   caves-cliffs-world-generation: caves--cliffs-world-generation

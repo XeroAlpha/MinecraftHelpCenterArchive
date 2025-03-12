@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.19.3 Release Candidate 3"
 date: 2022-12-08T08:11:15Z
-updated: 2022-12-08T08:11:19Z
+updated: 2025-03-12T11:12:50Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/11280164140813-Minecraft-Java-Edition-1-19-3-Release-Candidate-3
 hash:
   fixed-bugs-in-1.19.3-release-candidate-3: fixed-bugs-in-1193-release-candidate-3

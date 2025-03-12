@@ -1,7 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 19W37A"
 date: 2019-09-11T14:58:26Z
+updated: 2025-03-12T11:15:29Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360033640551-Minecraft-Java-Edition-Snapshot-19W37A
 ---
 

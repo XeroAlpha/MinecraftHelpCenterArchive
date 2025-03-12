@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - 1.17.1 Pre-release 1 "
 date: 2021-06-18T13:23:38Z
-updated: 2021-06-18T13:24:16Z
+updated: 2025-03-12T11:13:49Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/4403307412365-Minecraft-Java-Edition-1-17-1-Pre-release-1
 hash:
   changes-in-1.17.1-pre-release-1: changes-in-1171-pre-release-1

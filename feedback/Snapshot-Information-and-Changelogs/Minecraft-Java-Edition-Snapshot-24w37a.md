@@ -1,8 +1,10 @@
 ---
 title: Minecraft Java Edition - Snapshot 24w37a
 date: 2024-09-11T15:54:04Z
-updated: 2024-09-11T15:54:14Z
+updated: 2025-03-12T10:24:11Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/30165331213453-Minecraft-Java-Edition-Snapshot-24w37a
 hash:
   h_01J7GWH47QRKF1RSJKF02RD0FJ: new-features
@@ -204,7 +206,7 @@ In last week's snapshot, we fixed a bug related to which data gets transferred b
 
 #### Triggers
 
-##### minecraft:killed_by_crossbow -\> minecraft:killed_by_arrow
+#### minecraft:killed_by_crossbow -\> minecraft:killed_by_arrow
 
 - Will now trigger whenever an Arrow kills an entity, not just when fired from a Crossbow
 - Has a new optional Item Predicate field, fired_from_weapon

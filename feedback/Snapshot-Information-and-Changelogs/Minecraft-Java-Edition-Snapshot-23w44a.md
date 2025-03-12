@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition Snapshot - 23w44a"
 date: 2023-11-01T16:08:46Z
-updated: 2023-11-01T16:08:50Z
+updated: 2025-03-12T11:12:28Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/20923516732301-Minecraft-Java-Edition-Snapshot-23w44a
 hash:
   h_01HE5T8CA2KQGJMN15E89BRRGV: changes

@@ -1,7 +1,10 @@
 ---
 title: Minecraft Java Edition - Snapshot 20W29A
 date: 2020-07-15T16:01:49Z
+updated: 2025-03-12T11:15:01Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360046280891-Minecraft-Java-Edition-Snapshot-20W29A
 hash:
   spawnpoint-setworldspawn: spawnpoint--setworldspawn

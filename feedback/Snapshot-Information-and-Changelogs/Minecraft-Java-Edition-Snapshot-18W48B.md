@@ -1,8 +1,10 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 18W48B"
 date: 2018-12-03T21:48:23Z
-updated: 2018-12-03T21:48:33Z
+updated: 2025-03-12T11:15:51Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360020509451-Minecraft-Java-Edition-Snapshot-18W48B
 ---
 

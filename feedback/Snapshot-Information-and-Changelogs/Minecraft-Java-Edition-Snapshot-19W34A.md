@@ -1,12 +1,14 @@
 ---
 title: "Minecraft: Java Edition - Snapshot 19W34A"
 date: 2019-08-22T16:13:49Z
+updated: 2025-03-12T11:15:30Z
 categories: Snapshot Information and Changelogs
 tags:
   - bees
   - honey
   - buzz
   - 19W34A
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360032831011-Minecraft-Java-Edition-Snapshot-19W34A
 hash:
   bee-nests-bee-hives: bee-nests--bee-hives

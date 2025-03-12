@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition - 1.13 Pre-Release"
 date: 2018-06-13T20:30:40Z
-updated: 2018-10-17T23:06:09Z
+updated: 2025-03-12T11:15:52Z
 categories: Snapshot Information and Changelogs
 tags:
   - java
@@ -15,6 +15,7 @@ tags:
   - 1.13-pre8
   - 1.13-pre9
   - 1.13-pre10
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/360004784612-Minecraft-Java-Edition-1-13-Pre-Release
 ---
 
