@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.80.20
 date: 2025-03-10T11:29:17Z
-updated: 2025-03-11T16:02:00Z
+updated: 2025-03-12T17:46:14Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/34870603664909-Minecraft-Beta-Preview-1-21-80-20
 hash:
@@ -127,7 +127,9 @@ Using a Potion of Invisibility will also hide players from the Locator Bar.
 
 - Suspending/minimizing the game with Screen Animations disabled no longer resets the world seed in the Create New World screen. ([MCPE-188975](https://bugs.mojang.com/browse/MCPE-188975))
 
-- Touch Controls: Spectators can now also customize controls ([MCPE-186584](https://bugs.mojang.com/browse/MCPE-186584)) ([MCPE-186584](https://bugs.mojang.com/browse/MCPE-186584))
+- Touch Controls: Spectators can now also customize controls ([MCPE-184704](https://bugs.mojang.com/browse/MCPE-184704))
+
+- Touch Controls: Fixed a bug that could cause issues when customizing touch controls during the death animation in Hardcore mode ([MCPE-186584](https://bugs.mojang.com/browse/MCPE-186584))
 
 - Added modal to handle Not Enough Disc Space error in Edit World screen, Resource Packs tab
 
