@@ -1,7 +1,7 @@
 ---
 title: Managing Multiplayer Game Access for a Child Account in Minecraft
 date: 2024-02-20T22:11:14Z
-updated: 2024-06-11T23:15:09Z
+updated: 2025-03-13T20:25:49Z
 categories: Account Settings
 tags:
   - title_minecraft
@@ -19,27 +19,36 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft
 hash:
-  h_01HQ48AQA222X3Q8S3ZPS30SNX: related-articles
+  h_01JNS77MST4FN938C5SQG5BJNW: settings-options-for-multiplayer-games-and-realms-in-minecraft
+  h_01JNS7ASAJF1HWZ4D3ZRQMB9YY: manage-multiplayer-settings-using-xbox-privacy-online
+  h_01JNS7CYW6TNRPPDCC58M2RCVB: manage-multiplayer-settings-using-the-xbox-family-app
 ---
 
-Follow these steps to update child account settings that control access to multiplayer games, such as Minecraft Realms and Minecraft Dungeons, and manage online communication permissions. The same settings apply to adult accounts but should be enabled by default.
+Minecraft allows you to manage your child’s ability to find friends and join them in multiplayer games or Realms when playing Minecraft: Bedrock Edition. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox.
 
-1.  Go to [Xbox Privacy & Online Safety Page](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab) and sign in with the parent account.
-2.  Select the child’s account among the family members at the top.
-3.  Select **Xbox Series X\|S, Xbox One, and Windows 10 devices Online Safety**.
-4.  Choose the following settings:
-    - Set **Join multiplayer games** to **allow**.
-    - Set **Play with players outside of Xbox Live** to **allow** if you want to be able to crossplay on other consoles.
-    - Set **Create and join clubs** to **allow** to access to Realms Stories.
-    - Set **You can upload captures to Xbox Live** to **allow** if you want to post screenshots on Realms Stories.
-5.  Click **Submit** and wait for the page to reload.
-6.  Restart Minecraft for the new settings to take effect in your game.
+## Settings options for multiplayer games and Realms in Minecraft
 
-**Note:** You can also manage child account settings on the [Xbox Family App](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app).
+Select **Allow** to enable the following features for Minecraft on your child’s account using either the Microsoft Family Safety website or in the Xbox Family Settings app.
 
-### Related Articles
+- **Join multiplayer games:** Enable multiplayer gaming and Realms access with other players using a Microsoft account to sign into Minecraft: Bedrock Edition.
+- **Join cross-network play:** Enable multiplayer gaming with players on other gaming services outside of Xbox/Microsoft such as PlayStation and Nintendo.
+- **Add friends and follow others:** Enable your child to find other players through the Friends interface in Minecraft: Bedrock Edition to create multiplayer games.
 
-- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](./Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md)
-- [Manage Spending in the Marketplace](../Buying-Marketplace-Content/Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
-- [Manage a member’s content in the Xbox Family Settings app](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app)
-- [Microsoft Family Safety FAQ](https://prod.support.services.microsoft.com/en-us/account-billing/microsoft-family-safety-faq-bad45b7f-ee38-45fb-b1d2-7976e87a5526)
+## Manage multiplayer settings using Xbox Privacy online
+
+1.  Visit [Privacy & online safety](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab) on the Xbox Settings page.
+2.  Sign in using the parent’s account.
+3.  Click on the tile for the child account you want to manage.
+4.  Select **Xbox Series X\|S, Xbox One, and Windows 10 devices Online Safety**.
+5.  Adjust settings as desired.
+6.  Click Submit and wait for the page to reload.
+7.  Sign out of Minecraft and restart for the new settings to take effect. 
+
+## Manage multiplayer settings using the Xbox Family App
+
+1.  Launch the [Xbox Family Settings](https://www.xbox.com/en-US/apps/family-settings-app) app on your mobile device.
+2.  Sign in using the parent’s account.
+3.  Tap the tile for the child account you want to manage.
+4.  Tap on the **Settings** gear in the top right.
+5.  Tap the category tiles to adjust category settings
+6.  Sign out of Minecraft and restart for the new settings to take effect.
