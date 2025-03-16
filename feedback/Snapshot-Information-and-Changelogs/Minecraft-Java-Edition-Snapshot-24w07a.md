@@ -3,6 +3,8 @@ title: "Minecraft: Java Edition - Snapshot 24w07a"
 date: 2024-02-14T16:23:44Z
 updated: 2025-02-27T12:44:55Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/24117322935565-Minecraft-Java-Edition-Snapshot-24w07a
 hash:
   h_01HPM6W9BR91M9T5MKAM7PEBVQ: known-issues

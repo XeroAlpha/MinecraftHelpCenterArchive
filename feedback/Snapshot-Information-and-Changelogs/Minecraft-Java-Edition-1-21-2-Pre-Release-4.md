@@ -3,6 +3,8 @@ title: Minecraft Java Edition - 1.21.2 Pre-Release 4
 date: 2024-10-15T13:07:14Z
 updated: 2024-10-15T13:07:32Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/31069729993997-Minecraft-Java-Edition-1-21-2-Pre-Release-4
 hash:
   h_01JA84D3T8QBWBZ8QBG3W4XXGQ: fixed-bugs-in-1212-pre-release-4

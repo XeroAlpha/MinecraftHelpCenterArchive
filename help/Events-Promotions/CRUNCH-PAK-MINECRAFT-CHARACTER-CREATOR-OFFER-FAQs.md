@@ -54,7 +54,7 @@ Redemption and usage of Minecraft Character Creator requires internet access, an
   
 After your code(s) are e-mailed to you, participants must go to [Minecraft.net/redeem](https://minecraft.net/redeem) and must register a Microsoft account or sign in to an existing one. Note: It is no longer possible to redeem a Code using a Mojang account. Enter the Code you received. AFter redeemed to your Microsoft account, launch the updated Minecraft Bedrock Edition with Minecraft Marketplace and sign in with the Microsoft account used to redeem the Code. Proceed to the in-game Minecraft Marketplace to obtain your Character Creator or go to [Minecraft.net/Marketplace](https://www.minecraft.net/en-us/marketplace) to see what’s new. Code must be redeemed by 01/31/25. Minecraft - ESRB Rating: E 10+. Visit [www.esrb.org](http://www.esrb.org/) for rating information. Microsoft is not a Sponsor of this offer. Please note, if you are redeeming multiple codes, you may need to repeat the redemption process for each code. You agree that Microsoft may, freely and without liability, remove Creator items redeemed through this promotion, suspend or ban accounts, and take other disciplinary or corrective action if Microsoft suspects or believes your account is engaged in fraudulent or abusive activity.  
   
-For questions on how to redeem your reward go to [https://help.minecraft.net/hc/en-us/articles/23026720056973](./KELLOGG-S-Minecraft-Character-Creator-Offer-FAQs.23026720056973.md)  
+For questions on how to redeem your reward go to [https://help.minecraft.net/hc/en-us/articles/23026720056973](./Kellogg-s-Minecraft-2024-Character-Creator-Offer-FAQs.md)  
   
 ***Can I redeem more than 1 reward?***  
 Yes. Each participant can earn five (5) rewards.  

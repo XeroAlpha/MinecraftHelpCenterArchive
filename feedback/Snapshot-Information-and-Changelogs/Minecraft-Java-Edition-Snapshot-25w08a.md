@@ -2,6 +2,8 @@
 title: Minecraft Java Edition - Snapshot 25w08a
 date: 2025-02-20T10:45:27Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/34425486125325-Minecraft-Java-Edition-Snapshot-25w08a
 hash:
   h_01JMHF4Q3ZBG9K047ZGKMTPGJN: new-features

@@ -2,6 +2,8 @@
 title: Minecraft Java Edition - 1.21.4 Pre-Release 3
 date: 2024-11-28T15:19:18Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/32256499693453-Minecraft-Java-Edition-1-21-4-Pre-Release-3
 hash:
   h_01JDSNKG7GYX5F110X480HAAFK: fixed-bugs-in-1214-pre-release-3

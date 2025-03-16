@@ -3,6 +3,8 @@ title: Minecraft Java Edition - 1.21.2 Pre-Release 2
 date: 2024-10-10T14:06:47Z
 updated: 2024-10-10T14:06:51Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/30951327727885-Minecraft-Java-Edition-1-21-2-Pre-Release-2
 hash:
   h_01J9VBY02E6KGEMTMRR1PVP80G: experimental-features

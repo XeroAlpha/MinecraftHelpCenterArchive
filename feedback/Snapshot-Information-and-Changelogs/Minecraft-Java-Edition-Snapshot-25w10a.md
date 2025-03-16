@@ -3,6 +3,8 @@ title: Minecraft Java Edition - Snapshot 25w10a
 date: 2025-03-05T15:00:36Z
 updated: 2025-03-05T15:02:13Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/34748417697293-Minecraft-Java-Edition-Snapshot-25w10a
 hash:
   h_01JNKD1SKZRX0MAC8WKZ0571KA: changes

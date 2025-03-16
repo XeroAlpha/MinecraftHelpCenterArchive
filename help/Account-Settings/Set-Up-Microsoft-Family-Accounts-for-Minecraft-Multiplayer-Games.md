@@ -41,7 +41,7 @@ See [Managing multiplayer game access for a child account in Minecraft](./Managi
 
 ### Related Articles
 
-[Managing spending for child accounts in the Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-For-Child-Accounts-in-Minecraft-Marketplace.md)
+[Managing spending for child accounts in the Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
 
 [Manage a member’s content in the Xbox Family Settings app](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app)
 

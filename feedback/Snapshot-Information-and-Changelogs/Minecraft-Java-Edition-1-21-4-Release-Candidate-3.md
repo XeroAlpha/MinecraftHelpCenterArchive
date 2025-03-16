@@ -3,6 +3,8 @@ title: Minecraft Java Edition - 1.21.4 Release Candidate 3
 date: 2024-12-02T08:21:08Z
 updated: 2024-12-02T08:21:12Z
 categories: Snapshot Information and Changelogs
+tags:
+  - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/32335217816461-Minecraft-Java-Edition-1-21-4-Release-Candidate-3
 hash:
   h_01JE379YK569S56NWPPA39HV7K: fixed-bugs-in-1214-release-candidate-3
