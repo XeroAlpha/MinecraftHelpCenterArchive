@@ -1,7 +1,7 @@
 ---
 title: How to Redeem a Prepaid Card or Gift Code for Minecraft Dungeons
 date: 2020-08-04T18:17:04Z
-updated: 2025-02-05T22:08:01Z
+updated: 2025-03-18T17:25:00Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_26726610890253
@@ -27,9 +27,10 @@ The steps in this article cover redeeming a Minecraft Dungeons pre-paid card pur
 ## Redeeming Minecraft Dungeons on PC (Launcher version) 
 
 1.  Navigate to the [Minecraft Redemption page](https://www.minecraft.net/en-us/redeem).
-2.  Log in to an existing Microsoft account or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
-3.  After you have logged in to your Microsoft account, you can redeem your pre-paid card or gift code.   
-    Scratch off the silver area and enter the code found on the back of your pre-paid card into the **Code** field.   
-    If you run into any problems, see our support article on [pre-paid card errors](./Troubleshooting-Minecraft-Gift-Redemption-Errors.md#h_01FG54MNJPQZFATPDWR75NMY2D).
-4.  To download the game, navigate to the [Minecraft Dungeons Launcher page](https://minecraftdungeons.net/download/) and click **Download Launcher**. Place the file anywhere you'd like, then run the program to install.
-5.  Run Minecraft Dungeons Launcher, then log in to the game with your Microsoft account. You’re all set!
+2.  If you have a physical card, scratch off the silver area and enter the code found on the back of your pre-paid card.
+3.   Enter your code into the **Redeem Code** field and press **Redeem**.
+4.  Sign in to your existing Microsoft account that you intend to play on, or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
+5.  To download the game, navigate to the [Minecraft Dungeons Launcher page](https://minecraftdungeons.net/download/) and click **Download Launcher**. Place the file anywhere you'd like, then run the program to install.
+6.  Run Minecraft Dungeons Launcher, then log in to the game with your Microsoft account. You’re all set!
+
+If you run into any problems, see our support article on [pre-paid card errors](./Troubleshooting-Minecraft-Gift-Redemption-Errors.md).

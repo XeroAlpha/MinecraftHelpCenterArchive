@@ -1,7 +1,7 @@
 ---
 title: How to Redeem a Prepaid Card or Gift Code for Minecraft Legends
 date: 2023-03-27T22:52:05Z
-updated: 2024-07-31T19:13:47Z
+updated: 2025-03-18T17:25:57Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_27286537389453
@@ -16,10 +16,10 @@ This article applies only to Minecraft Legends prepaid cards and gift code
 
 ## How to Redeem Minecraft Legends Gifts on a PC (Launcher version) 
 
-1.  Visit [minecraft.net/redeem](https://www.minecraft.net/en-us/redeem)
-2.  Sign into an existing Microsoft account or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
-3.  Scratch off the silver area and enter the code found on the back of your prepaid card into the **Code** field for Minecraft Legends.
-4.  Click the **Submit** button and follow the onscreen instructions go complete the process.
+1.  Visit the [Minecraft Redemption Page](https://www.minecraft.net/en-us/redeem).
+2.  If you have a physical card, scratch off the silver area and enter the code found on the back of your pre-paid card.
+3.   Enter your code into the **Redeem Code** field and press **Redeem**.
+4.  Sign in to your existing Microsoft account that you intend to play on, or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
 5.  Visit the [Minecraft Legends Launcher page](https://www.minecraft.net/en-us/store/legends-standard-edition), select the version you own, and click **Download Launcher**. Place the file anywhere you'd like, then run the program to install it.
 6.  Run Minecraft Launcher, select Minecraft Legends, then sign into the game with your Microsoft account.
 
