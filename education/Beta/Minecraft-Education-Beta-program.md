@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Beta program
 date: 2021-05-25T15:44:31Z
-updated: 2024-06-18T18:31:49Z
+updated: 2025-03-19T20:47:50Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061391892-Minecraft-Education-Beta-program
 hash:
@@ -16,7 +16,7 @@ hash:
 
  
 
-Thank you for your interest in our Beta program! We're excited to get your feedback on our new features before we release them to the general public. 
+Thank you for your interest in our Beta program! We're excited to get your feedback on our new features before we release them to the general public. View our [Change Log](https://aka.ms/meechangelog) for most recent versions. 
 
 ## Frequency of Betas
 
