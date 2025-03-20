@@ -1,38 +1,44 @@
 ---
-title: How to Enable a Child Account to Redeem Codes in Minecraft
+title: Allow a Microsoft Child Account to Redeem Codes for Minecraft
 date: 2024-05-09T19:16:03Z
-updated: 2024-08-02T22:09:11Z
+updated: 2025-03-20T15:39:02Z
 categories: Account Settings
 tags:
   - section_26562723671949
   - section_27194076935437
   - section_28872896387341
-link: https://help.minecraft.net/hc/en-us/articles/26602043483405-How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/26602043483405-Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft
 hash:
-  h_01HXFC3WAT2WA4H7R66W4XF6FS: change-content-restrictions-on-xbox-family-settings-app
-  h_01HXFC72YHBJCGCFFP4XE24NFD: change-age-rating-on-a-browser
+  h_01JPJPBR7QE57PZRV92T2N8K4B: enable-code-redemption-using-the-microsoft-family-safety-website
+  h_01JPJPDZDRDMAC5YFA8YH81S8J: enable-code-redemption-using-the-xbox-family-settings-app
+  h_01JPJPYR1DX367M23MP2WA488X: see-these-articles-for-more-on-child-account-settings-and-redeeming-codes
 ---
 
-Microsoft Child Accounts for children under 9 years of age are not allowed to enter codes to receive items or DLC by design as a safety feature. To change this setting, have the family organizer follow the steps below on either the Xbox Family Settings app or an internet browser.
+Microsoft Child Accounts for children under 9 years of age are not allowed to redeem codes for promotional items or in-game downloadable content as a safety feature. To change this setting, have the family organizer follow the steps below on either the Xbox Family Settings app or an internet browser.
 
-## Change Content Restrictions on Xbox Family Settings app
+**Note**: Minecraft uses Microsoft account and Xbox features to enable parental controls. You can use the Xbox website and app to manage access to Minecraft features even if you do not own an Xbox.
 
-1.  On your phone, open the Xbox Family Settings app and sign into the family organizer’s account.
-2.  Click on your Child’s account.
-3.  Click on **Content Restrictions**.
-4.  Click **Allow content suitable for**.
-5.  Select at least **Age 10**.
+## Enable code redemption using the Microsoft Family Safety website
 
-You can get the Xbox Family Settings app at the [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.xboxfamily) or [Apple App Store](https://apps.apple.com/us/app/xbox-family-settings/id1507406707).
+1.  Visit the [Microsoft Family Safety](https://account.microsoft.com/family/home) homepage.
+2.  Sign in using the family organizer’s Microsoft account.
+3.  Click on the tile for the child account you want to manage. 
+4.  Click on **Settings** in the upper right-hand corner.
+5.  Select the dropdown under **Age Rating** and set it to age 10 or older.
+6.  Select **Done**.
 
-## Change Age Rating on a browser
+## Enable code redemption using the Xbox Family Settings app
 
-1.  Go to the [Microsoft Family homepage](https://account.microsoft.com/family/home) and sign in with the family organizer’s account.
-2.  Click on the child account.
-3.  Click on **Settings**.
-4.  Select the dropdown under **Age Rating** and set it to at least **10**.
-5.  Select **Done**.
+1.  Open the [Xbox Family Settings App](https://account.microsoft.com/family/home).
+2.  Sign in using the family organizer’s Microsoft account.
+3.  Tap on the tile of the child account you want to manage.
+4.  Click on Content Restrictions.
+5.  Click Allow content suitable for and select Age 10 or older.
 
-After the child’s account is set to at least age 10, they will be able to redeem codes. Follow [How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md) for more.
+### See these articles for more on child account settings and redeeming codes:
 
-To learn about more settings on your child’s account, see [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
+- [How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
+- [Set Up Microsoft Family Groups to Manage Parental Controls in Minecraft: Bedrock Edition](./Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md)
+- [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
+- [Managing Spending for Child Accounts in Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
+- [Managing Chat and Social Settings for a Child Account in Minecraft](./How-to-Change-Online-Chat-Settings-for-Minecraft.md)
