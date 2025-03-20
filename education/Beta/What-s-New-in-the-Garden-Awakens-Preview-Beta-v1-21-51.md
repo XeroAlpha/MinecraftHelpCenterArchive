@@ -1,18 +1,32 @@
 ---
-title: What's New in the Garden Awakens Preview/Beta v1.21.51
+title: What's New in the Beta v1.21.8
 date: 2024-12-19T20:29:01Z
-updated: 2025-01-28T19:10:24Z
+updated: 2025-03-20T19:24:26Z
 categories: Beta
-link: https://edusupport.minecraft.net/hc/en-us/articles/33201022766356-What-s-New-in-the-Garden-Awakens-Preview-Beta-v1-21-51
+link: https://edusupport.minecraft.net/hc/en-us/articles/33201022766356-What-s-New-in-the-Beta-v1-21-8
 hash:
-  h_01HNZMZHNQGN7R8MFG9HB375EE: minor-minecraft-education-betapreview-update-v12151
+  h_01HNZMZHNQGN7R8MFG9HB375EE: minor-minecraft-education-beta-update-v1218
+  01JPTG44HTXT1QSATGH4ZB43NS: minor-minecraft-education-betapreview-update-v12151
   01J6WHXS70B30ZAXTQ7YMM1QE9: tricky-trials-update-v1215
   01JJQ53EQ6RA39FKX554WD61AV: cloud-storage-improvements
   01J0PADR07314H9C4XDD39PEKD: multiplayer--coding-improvements
   01JFGMK2HQGK693XT9F3P95A9V: bug-fixes--performance-improvements
 ---
 
-Welcome to the Minecraft Education Garden Awakens Update! This update includes improvements to OneDrive cloud storage, multiplayer and coding. It also includes Minecraft features up to version 1.21.5 like Bundles, the Pale Garden biome, and the reorganized Creative Inventory.
+Welcome to the Minecraft Education Beta v1.21.8! This update includes improvements to OneDrive cloud storage, multiplayer and coding.
+
+ 
+
+While the Preview is on 1.21.51 and includes Minecraft features up to version 1.21.5 like Bundles, the Pale Garden biome, and the reorganized Creative Inventory, the latest Beta contains a different set of updates. The beta is currently focused on testing the highest possible stability for the client and does not contain the latest Bedrock updates at this time. 
+
+ 
+
+## **Minor Minecraft Education Beta Update v1.21.8**
+
+- Contains many of the below mentioned stability improvements and bug fixes, but does not contain the Bedrock updates listed below.
+- Further general stability improvements.
+- MacOS Login freeze fix
+- Coding stability improvements
 
  
 
