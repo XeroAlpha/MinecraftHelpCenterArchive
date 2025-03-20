@@ -1,7 +1,7 @@
 ---
-title: Set Up Microsoft Family Accounts for Minecraft Multiplayer Games
+title: "Set Up Microsoft Family Groups to Manage Parental Controls in Minecraft: Bedrock Edition"
 date: 2021-09-10T22:08:35Z
-updated: 2024-05-30T18:54:34Z
+updated: 2025-03-20T17:27:57Z
 categories: Account Settings
 tags:
   - title_minecraft_java_edition
@@ -19,30 +19,39 @@ tags:
   - section_27166460834061
   - section_27194076935437
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games
+link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition
 hash:
-  h_01HQ44H80QWE5ED40D6GSFSGBB: follow-these-steps-to-set-up-your-family-accounts
-  h_01HQ44H26X4CH76GE47HYA6389: related-articles
+  h_01JPB0VW9ES129K4YDYFZF7R7K: create-a-family-group-using-the-microsoft-family-safety-website
+  h_01JPB0VHFNNVJA75DNQ89QBY99: create-a-family-group-using-the-xbox-family-settings-app
+  h_01JPB0Q1CRYT8VC5XDNAQ9M5FP: parental-controls-available-in-minecraft-bedrock-edition
 ---
+
+Parents can manage in-game settings for Minecraft: Bedrock Edition on child accounts using either the Microsoft Family page online or through the Xbox Family app. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox. To enable parental controls, you need to create parent and child accounts and then create a family group.
 
 Child accounts are all accounts for those under the age of 16 for the US & EU, or 19 for South Korea. If there isn't an adult account associated with the child account, the adult must make a Microsoft account and associate the already-created child account with it. Only parent accounts can modify settings.
 
-## Follow these steps to set up your family accounts:
+## Create a Family Group using the Microsoft Family Safety website
 
-1.  1.  Go to the [Microsoft Family homepage](https://account.microsoft.com/family/home) and sign in with the parent’s account.
-    2.  If there is no family group yet, select **Create a family group**.
-    3.  Select **Add a family member**.
-    4.  Create a new child account or enter the child’s existing email account.
-    5.  Once signed in, your Family homepage will update with the child account.
+1.  Visit the [Microsoft Family Safety](https://account.microsoft.com/family/home) homepage.
+2.  Sign in with the parent’s account.
+3.  Select **Create a family group**.
+4.  Select **Add a family member**.
+5.  Create a new child account or enter the child’s existing email account.
+6.  Visit the [Privacy & Online Safety page](https://account.xbox.com/en-us/settings) to manage in-game settings for the child account.
 
-Be sure to download the [Xbox Family app](https://www.xbox.com/en-US/apps/family-settings-app) for easy account management.
+## Create a Family Group using the XBox Family Settings App
 
-See [Managing multiplayer game access for a child account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) to learn more on enabling multiplayer and communication settings.
+1.  Download the [Xbox Family app](https://www.xbox.com/en-US/apps/family-settings-app) on your device.
+2.  Sign in with the parent’s account.
+3.  Select the green silhouette icon in the top right.
+4.  Select **Add Child**.
+5.  Select **Create new account** or **Add existing account**.
+6.  Tap on the child account under Members to manage in-game settings.
 
-### Related Articles
+## Parental controls available in Minecraft: Bedrock Edition
 
-[Managing spending for child accounts in the Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
+See the following articles to learn more about settings you can use to control your child’s in-game experience:
 
-[Manage a member’s content in the Xbox Family Settings app](https://support.xbox.com/en-US/help/family-online-safety/family-settings-app/manage-child-content-in-the-Xbox-Family-Setting-app)
-
-[Microsoft Family Safety FAQ](https://prod.support.services.microsoft.com/en-us/account-billing/microsoft-family-safety-faq-bad45b7f-ee38-45fb-b1d2-7976e87a5526)
+- [Managing Spending for Child Accounts in the Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
+- [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
+- [Allow a Microsoft a Child Account to Redeem Codes for Minecraft](./How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md)
