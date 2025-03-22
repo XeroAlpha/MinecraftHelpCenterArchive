@@ -1,31 +1,43 @@
 ---
-title: Managing Child Account Chat Settings on Xbox Safety Online
+title: Managing Child Account Social Settings Using Xbox Settings Online
 date: 2022-06-16T19:39:34Z
-updated: 2025-03-21T18:47:03Z
+updated: 2025-03-21T23:17:45Z
 categories: Account Settings
 tags:
   - section_27194076935437
-link: https://help.minecraft.net/hc/en-us/articles/6985971367309-Managing-Child-Account-Chat-Settings-on-Xbox-Safety-Online
+link: https://help.minecraft.net/hc/en-us/articles/6985971367309-Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online
 hash:
-  h_01JPJQP4CA005AGF6GMWZVPX9G: settings-options-for-privacy--online-safety-on-a-child-account
+  h_01JPJQP4CA005AGF6GMWZVPX9G: social-settings-options-for-a-child-in-xbox-settings-online
+  h_01JPXF62J7VMQAQNM0TJ00K1YR: your-child-can
+  h_01JPXF8ZKAYD430BA0WRE8S7FF: others-can
+  h_01JPXFPXSQNTXWP21MR7VH4959: privacy--safety-setting-descriptions
   h_01JPJQHPXFYVVJAX9N73B7JPGC: manage-privacy--online-safety-settings-on-the-xbox-privacy-online
 ---
 
 Minecraft: Bedrock edition allows you to manage who can view your child’s profile online, who they can talk to, and what they can share while playing the game. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox. 
 
-## Settings options for Privacy & Online Safety on a child account 
+## Social settings options for a Child in Xbox Settings Online
 
-The Privacy settings page is divided into two sections. The top section allows you to manage what your child can do. The "Others can" section controls how your child’s profile appears to others. Here are some of the key settings for managing chat, connecting with other players, and what can be shared:
+The Xbox Settings "Privacy & online safety" page allows you to manage what your child can do and how others are allowed to interact with your child. Here are some of the key settings for managing chat, connecting with other players, and what can be shared:
 
-- **You can see and upload community creations:** Control whose community creations you want your child to see. Blocking this may affect whether your child can upload their own creations in some games.
-- **See other people's Xbox profiles**: Adjust whether your child can view other people's Minecraft profiles, which might include their game history and achievements, bio, and other personal info.
-- **You can communicate outside of Xbox with voice & text:** Adjust if your child can communicate using chat with people on Minecraft.
+### Your Child can
 
-Each feature above can have the following restrictions:
+- **You can see and upload community creations:** Control if your child can participate in Realms Stories and share screen shots of in-game activity in their profile. 
+- **See other people's Xbox profiles**: Adjust whether your child can view other people's Minecraft profiles and add them to their [Friends list](../Multiplayer-Support/How-to-Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md). Profiles may include their game history and achievements, bio, and other personal information.
+- **You can communicate outside of Xbox with voice & text:** Adjust if your child can communicate using chat with people in Minecraft games.
 
-- **Everyone**: No restrictions on who can use a feature or access content.
-- **Friends**: Your account can receive all text chat and receive all invites from anyone on your Friends list in Minecraft.
-- **Block**: Your account will not receive any text chat or receive any invites from anyone in Minecraft.
+### Others can
+
+- **Others can see your friends and following lists:** Allowed groups can see your child's Minecraft Friends list.
+- **Others can send you friend requests:** Controls if others can see your child listed online and send requests to join a Minecraft Friends list.
+
+### Privacy & Safety setting descriptions
+
+- **Everyone**: No restrictions on who can contact the account owner, use a feature or access content.
+- **Friends**: Only people on the account owner's [Friends list](../Multiplayer-Support/How-to-Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md) in Minecraft have access.
+- **Only me:** Only the account owner can view the information online or access the feature.
+- **Allow:** Enables the specific feature.
+- **Block**: Prevents us of a feature or outside access by anyone.
 
 ## Manage Privacy & Online Safety Settings on the Xbox Privacy Online
 
