@@ -54,4 +54,4 @@ See the following articles to learn more about settings you can use to control y
 
 - [Managing Spending for Child Accounts in the Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
 - [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
-- [Allow a Microsoft a Child Account to Redeem Codes for Minecraft](./How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md)
+- [Allow a Microsoft a Child Account to Redeem Codes for Minecraft](./Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md)

@@ -19,7 +19,7 @@ This article applies only to Minecraft Legends prepaid cards and gift code
 1.  Visit the [Minecraft Redemption Page](https://www.minecraft.net/en-us/redeem).
 2.  If you have a physical card, scratch off the silver area and enter the code found on the back of your pre-paid card.
 3.   Enter your code into the **Redeem Code** field and press **Redeem**.
-4.  Sign in to your existing Microsoft account that you intend to play on, or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
+4.  Sign in to your existing Microsoft account that you intend to play on, or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
 5.  Visit the [Minecraft Legends Launcher page](https://www.minecraft.net/en-us/store/legends-standard-edition), select the version you own, and click **Download Launcher**. Place the file anywhere you'd like, then run the program to install it.
 6.  Run Minecraft Launcher, select Minecraft Legends, then sign into the game with your Microsoft account.
 

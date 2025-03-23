@@ -20,9 +20,9 @@ You may have received a code for downloadable content such as a cape, hat, chara
 
 1.  Visit the [Minecraft code redemption page](https://www.minecraft.net/redeem).
 2.  Enter the code as written and enter it in the **Redeem Code** field and press **Submit**.
-3.  Sign in to an existing Microsoft account or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
+3.  Sign in to an existing Microsoft account or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
 
-If you are trying to redeem the code for a child account and get a safety message, see [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md).
+If you are trying to redeem the code for a child account and get a safety message, see [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md).
 
 ## How to Equip Your Promotional Item
 

@@ -20,7 +20,7 @@ If your child wants to play Minecraft on Windows, MacOS or Linux, parents can us
 
 Parents need to have a Microsoft account and then also set up a related Microsoft account for each child. See these articles for more information:
 
-- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md)
+- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
 - [Getting started with Microsoft Family Safety - Microsoft Support](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344)
 
 ## Step 2: Enable the Child Account to Redeem Codes and Make Purchases
@@ -47,5 +47,5 @@ The Minecraft Launcher manages installation and updates for Minecraft. You’ll 
 Microsoft Family Accounts allow parents to manage settings for Minecraft that allow children to access multiplayer games on Minecraft servers and share game achievements and progress with their friends. See these articles for more information about managing Minecraft permissions for child accounts:
 
 - [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
-- [How to Change Online Chat Settings for Minecraft](../Account-Settings/How-to-Change-Online-Chat-Settings-for-Minecraft.md)
+- [How to Change Online Chat Settings for Minecraft](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
 - [How to Share Screenshots on Minecraft Realms Stories](../Minecraft-Realms-Stories/How-to-Share-Screenshots-on-Minecraft-Realms-Stories.md)

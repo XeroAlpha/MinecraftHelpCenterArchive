@@ -29,7 +29,7 @@ hash:
 
 ## I can’t sign up for Minecraft Marketplace Pass
 
-You must have a Microsoft Account to trial or purchase Marketplace Pass. If you haven’t already done so, read about[ setting up your Xbox Live or Microsoft Account](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md).
+You must have a Microsoft Account to trial or purchase Marketplace Pass. If you haven’t already done so, read about[ setting up your Xbox Live or Microsoft Account](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
 
 If you are playing Minecraft through an Amazon device, you will not be able to sign up for Marketplace Pass. However, if you have signed up for the service on a different platform, you can access your Marketplace Pass content on your Amazon device.
 

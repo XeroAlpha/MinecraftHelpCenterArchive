@@ -26,4 +26,4 @@ Congratulations! Have fun shaping your world in Minecraft!
 
 ## HOW TO REDEEM ON A CHILD ACCOUNT
 
-Some child accounts might require parental permission to redeem a code. For more on managing child accounts or accounts in a family group, please refer to [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/How-to-Enable-a-Child-Account-to-Redeem-Codes-in-Minecraft.md).
+Some child accounts might require parental permission to redeem a code. For more on managing child accounts or accounts in a family group, please refer to [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md).

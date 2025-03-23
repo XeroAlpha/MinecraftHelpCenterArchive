@@ -16,7 +16,7 @@ From time to time, Minecraft will host special events that allow players to join
   - [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
   - [How to Link and Unlink Microsoft and PlayStation Accounts in Minecraft: Bedrock Edition](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
 - **Check account permissions:** If you’re playing on a child account, you may need a parent’s assistance with changing parental controls.  See these articles for more information:
-  - [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Accounts-for-Minecraft-Multiplayer-Games.md) 
+  - [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md) 
   - [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
   - [I'm Getting an Error When Trying to Play Multiplayer with a Child Account](../Account-Settings/Troubleshooting-Errors-Playing-Minecraft-Multiplayer-Games-with-a-Child-Account.md)
 - **Update Minecraft:** Make sure you are using the most recent version of Minecraft: Bedrock Edition. See these articles for more information:
