@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.21.31 (Bedrock)
 date: 2024-09-30T16:27:06Z
-updated: 2025-02-26T12:01:33Z
+updated: 2025-03-24T12:51:31Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/30677359777805-Minecraft-1-21-31-Bedrock
 hash:
