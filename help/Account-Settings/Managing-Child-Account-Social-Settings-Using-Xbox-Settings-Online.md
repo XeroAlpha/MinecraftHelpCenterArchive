@@ -1,7 +1,7 @@
 ---
 title: Managing Child Account Social Settings Using Xbox Settings Online
 date: 2022-06-16T19:39:34Z
-updated: 2025-03-21T23:17:45Z
+updated: 2025-03-24T20:28:14Z
 categories: Account Settings
 tags:
   - section_27194076935437
@@ -47,4 +47,6 @@ The Xbox Settings "Privacy & online safety" page allows you to manage what your 
 4.  Click on the **Privacy** tab on the child account settings screen.
 5.  Adjust settings as desired. 
 6.  Click **Submit** and wait for the page to reload. 
-7.  Sign out of Minecraft and restart for the new settings to take effect.
+7.  Sign out of Minecraft and restart for the new settings to take effect. 
+
+You can also [Manage Child Account Social Settings Using the Xbox Family App](./Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md).

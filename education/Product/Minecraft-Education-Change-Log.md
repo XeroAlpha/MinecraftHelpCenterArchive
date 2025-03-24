@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-03-20T19:20:17Z
+updated: 2025-03-24T20:42:55Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
@@ -52,7 +52,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
 ## Minecraft Education Beta Game Client Update (version 1.21.8) - Released 3/20/25
 
-- Note that this version of the beta does not include the Garden Awakens Update
+- Note that this version of the beta does not include Minecraft Bedrock 1.21.2 through 1.21.5 features.
 - Improved client stability & bug fixes
 
 ## Minecraft Education Preview & Beta Game Client Update (version 1.21.51) - Released 1/28/25
