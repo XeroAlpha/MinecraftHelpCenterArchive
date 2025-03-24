@@ -1,7 +1,7 @@
 ---
-title: How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft
+title: Equip Minecraft Character Creator Items and Skins in the Dressing Room
 date: 2021-09-09T23:20:19Z
-updated: 2024-05-10T18:59:59Z
+updated: 2025-03-24T18:17:54Z
 categories: Managing Marketplace Content
 tags:
   - title_minecraft
@@ -17,7 +17,7 @@ tags:
   - use_for_autoreply
   - platform_xbox_series_xs
   - subject_account_profile
-link: https://help.minecraft.net/hc/en-us/articles/4408902716557-How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/4408902716557-Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room
 hash:
   h_01HXFB7REJMMEHYVWTTH06JAGF: how-to-use-the-dressing-room-in-minecraft
 ---

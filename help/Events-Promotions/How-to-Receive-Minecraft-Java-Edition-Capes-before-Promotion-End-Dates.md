@@ -1,11 +1,11 @@
 ---
-title: "How to Receive Minecraft: Java Edition Capes before Promotion End Dates"
+title: "Get Minecraft: Java Edition Capes before Promotion End Dates"
 date: 2024-11-01T22:16:18Z
-updated: 2024-11-01T22:29:28Z
+updated: 2025-03-24T18:19:59Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
-link: https://help.minecraft.net/hc/en-us/articles/31550001045773-How-to-Receive-Minecraft-Java-Edition-Capes-before-Promotion-End-Dates
+link: https://help.minecraft.net/hc/en-us/articles/31550001045773-Get-Minecraft-Java-Edition-Capes-before-Promotion-End-Dates
 ---
 
 Minecraft events and promotions often award capes that you can equip on your character to show your participation. After a cape is granted or you [redeem a code](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md), it appears in the dressing room of your Minecraft: Bedrock Edition profile. Capes are often granted to Minecraft: Java Edition profiles at a later date only after participation ends.
