@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.70 - Spring to Life"
 date: 2025-03-24T10:58:25Z
-updated: 2025-03-25T15:46:46Z
+updated: 2025-03-25T16:49:14Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/35256043330189-Minecraft-Bedrock-Edition-1-21-70-Spring-to-Life
 hash:
@@ -479,6 +479,8 @@ We are thrilled to include a highly requested feature: the ability to pause the 
 - Fixed an issue which prevented some users from accessing the Create New World screen in iOS Preview and PlayStation Preview
 
 - Touch controls: Camera perspective can now be changed from a HUD button. Enable this in the touch settings. Peeking over your shoulder has never been easier!
+
+- Removed the server IP address from the servers tab ([MCPE-190747](https://bugs.mojang.com/browse/MCPE-190747))
 
 #### Player Permissions
 

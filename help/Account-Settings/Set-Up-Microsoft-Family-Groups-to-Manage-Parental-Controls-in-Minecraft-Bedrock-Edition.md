@@ -1,7 +1,7 @@
 ---
 title: "Set Up Microsoft Family Groups to Manage Parental Controls in Minecraft: Bedrock Edition"
 date: 2021-09-10T22:08:35Z
-updated: 2025-03-20T17:27:57Z
+updated: 2025-03-25T17:16:21Z
 categories: Account Settings
 tags:
   - title_minecraft_java_edition
@@ -55,3 +55,6 @@ See the following articles to learn more about settings you can use to control y
 - [Managing Spending for Child Accounts in the Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
 - [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
 - [Allow a Microsoft a Child Account to Redeem Codes for Minecraft](./Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md)
+- [Managing Child Account Social Settings Using Xbox Settings Online](./Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
+- [Managing Child Account Social Settings Using Xbox Family App](./Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md)
+- [Change A Child Account’s Privacy & Safety Permissions For Minecraft Realms Stories](../Minecraft-Realms-Stories/Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)
