@@ -1,7 +1,7 @@
 ---
 title: Minecraft Special Event Access Troubleshooting
 date: 2023-12-19T19:41:15Z
-updated: 2025-03-25T18:57:41Z
+updated: 2025-03-26T20:50:50Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
@@ -14,13 +14,13 @@ hash:
   h_01JQ530HSYWT3RKZPQJMAAAW6K: check-account-permissions
 ---
 
-Minecraft will occasionally host limited-time events exclusive to Minecraft: Bedrock Edition featuring special-made worlds. If you’ve followed those instructions and are still having issues getting into the event, here are potential solutions.
+Minecraft occasionally hosts limited-time events exclusive to Minecraft: Bedrock Edition featuring special-made worlds. If you’ve followed those instructions and are still having issues getting into the event, here are potential solutions. Events may correspond with new builds of Minecraft. Loading your experience may take longer than usual.
 
-### Confirm your Minecraft Edition
+## Confirm your Minecraft Edition
 
 Special Minecraft event worlds are only available in Minecraft: Bedrock Edition. You will not find them in Minecraft: Java Edition, Minecraft Dungeons, or Minecraft Legends.
 
-### Update Minecraft Version
+## Update Minecraft Version
 
 You need to be using the most recent version of Bedrock Edition to join limited-time events. If you're having trouble updating, see these articles for more information:
 
@@ -28,7 +28,7 @@ You need to be using the most recent version of Bedrock Edition to join limited-
 - [How to Manually Update Minecraft on Consoles](../Download-Install/How-to-Manually-Update-Minecraft-on-Consoles.md)
 - [How to Manually Update Minecraft on Mobile](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md)
 
-### Sign into or link a Microsoft account
+## Sign into or link a Microsoft account
 
 You need to sign into Bedrock Edition with a Microsoft account that owns Minecraft or is subscribed to Xbox Game Pass. If you're playing on a console, you’ll also need to link your console account to your Microsoft account. See these articles for more information:
 
@@ -38,7 +38,7 @@ You need to sign into Bedrock Edition with a Microsoft account that owns Minecra
 - [How to Link Your Microsoft Account to Minecraft on PlayStation](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
 - [Can’t Sign into a Microsoft Account in Minecraft on PlayStation](../Linking-Microsoft-Accounts/Can-t-Sign-into-a-Microsoft-Account-in-Minecraft-on-PlayStation.md)
 
-### Check account permissions
+## Check account permissions
 
 If you’re playing on a child account, your account needs to be able to join multiplayer games. If this is blocked, you may need a parent’s assistance with changing parental controls.  See these articles for more information:
 
