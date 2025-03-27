@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.80.22
 date: 2025-03-26T11:40:12Z
-updated: 2025-03-26T16:43:03Z
+updated: 2025-03-27T10:37:43Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/35325653515149-Minecraft-Beta-Preview-1-21-80-22
 hash:
@@ -65,7 +65,7 @@ Enjoy!
 
 ## Mobs
 
-- Mobs no longer have difficulty inflicting recurring hits when very close to non-moving players ([MCPE-190362](https://bugs.mojang.com/browse/MCPE-190362))
+- Mobs no longer have difficulty inflicting recurring hits when very close to non-moving players ([MCPE-189535](https://bugs.mojang.com/browse/MCPE/issues/MCPE-189535))
 
 - Camels no longer spawn in spaces that are too small for them ([MCPE-190700](https://bugs.mojang.com/browse/MCPE-190700))
 
