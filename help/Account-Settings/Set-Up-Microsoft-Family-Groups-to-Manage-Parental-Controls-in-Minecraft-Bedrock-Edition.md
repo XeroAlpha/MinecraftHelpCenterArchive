@@ -1,8 +1,8 @@
 ---
-title: "Set Up Microsoft Family Groups to Manage Parental Controls in Minecraft: Bedrock Edition"
+title: "Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition"
 date: 2021-09-10T22:08:35Z
-updated: 2025-03-25T17:16:21Z
-categories: Account Settings
+updated: 2025-03-27T20:46:44Z
+categories: Resources for Families
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -19,7 +19,9 @@ tags:
   - section_27166460834061
   - section_27194076935437
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition
+  - section_35367616689677
+  - section_35378224139533
+link: https://help.minecraft.net/hc/en-us/articles/4408968616077-Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition
 hash:
   h_01JPB0VW9ES129K4YDYFZF7R7K: create-a-family-group-using-the-microsoft-family-safety-website
   h_01JPB0VHFNNVJA75DNQ89QBY99: create-a-family-group-using-the-xbox-family-settings-app
@@ -39,7 +41,7 @@ Child accounts are all accounts for those under the age of 16 for the US & EU, o
 5.  Create a new child account or enter the child’s existing email account.
 6.  Visit the [Privacy & Online Safety page](https://account.xbox.com/en-us/settings) to manage in-game settings for the child account.
 
-## Create a Family Group using the XBox Family Settings App
+## Create a Family Group using the Xbox Family Settings App
 
 1.  Download the [Xbox Family app](https://www.xbox.com/en-US/apps/family-settings-app) on your device.
 2.  Sign in with the parent’s account.
