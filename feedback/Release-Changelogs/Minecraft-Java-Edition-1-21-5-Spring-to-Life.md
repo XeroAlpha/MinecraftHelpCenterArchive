@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition 1.21.5 - Spring to Life"
 date: 2025-03-25T14:49:19Z
-updated: 2025-03-25T16:00:42Z
+updated: 2025-03-27T14:27:51Z
 categories: Release Changelogs
 tags:
   - Java Edition
@@ -192,6 +192,8 @@ hash:
   h_01JQ6V3ZK1DGS0VAK0BC5MAPTT: fixed-bugs-in-1215
   h_01JQ6V3ZK1KBBF7ZBZ3DXKDT40: get-the-release
 ---
+
+![MCV_SpringDrop_DotNet_Blog_Editorial_1170x500.jpg](https://feedback.minecraft.net/hc/article_attachments/35363543357965)
 
 It's time to experience new wonders of the Overworld as we release the Spring to Life drop, the first Minecraft game drop of 2025.
 
@@ -2048,7 +2050,6 @@ minecraft:structures
 - [MC-270192](https://bugs.mojang.com/browse/MC-270192) - The saddles of some entities stay visible through their death animation
 - [MC-270197](https://bugs.mojang.com/browse/MC-270197) - The saddle on pigs and striders stays visible through their death animation
 - [MC-270220](https://bugs.mojang.com/browse/MC-270220) - Granting all advancements results in prolonged, disruptive and loud audio spam
-- [MC-271065](https://bugs.mojang.com/browse/MC-271065) - Diagonal player movement is not normalized when holding two movement keys
 - [MC-272100](https://bugs.mojang.com/browse/MC-272100) - Unused palette pixels in horse textures (horse\_\[brown/chestnut/creamy/white\].png)
 - [MC-272790](https://bugs.mojang.com/browse/MC-272790) - Shulker boxes and other blocks in the end exit portal when it changes state are not dropped as items
 - [MC-273338](https://bugs.mojang.com/browse/MC-273338) - Flying boat glitch using string and rising bubble columns
