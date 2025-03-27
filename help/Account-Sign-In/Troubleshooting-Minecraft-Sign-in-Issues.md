@@ -1,21 +1,26 @@
 ---
 title: Troubleshooting Minecraft Sign-in Issues
 date: 2024-05-31T20:18:34Z
-updated: 2024-06-04T21:46:29Z
+updated: 2025-03-27T18:31:28Z
 categories: Account Sign-In
 tags:
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/27201635294861-Troubleshooting-Minecraft-Sign-in-Issues
 hash:
+  h_01JQCDVVNSQ010AEXPRV78HAJQ: access-your-microsoft-account
   h_01HZJJ2D7VZCB35XJ9E4C0QGWS: verify-your-account-owns-minecraft
   h_01HZJJ4CFBCR07XTPWEYMQGN7S: sign-into-the-xbox-app
 ---
 
-You need a Microsoft account to sign-in and play Minecraft games. See [Get Help with Your Minecraft Account](./Get-Help-with-Your-Minecraft-Account.md) to learn more about resetting your password and getting support for your Microsoft account. If you still need help signing into Minecraft, here are some tips that may help.
+Some platforms may require a Microsoft account to sign-in and play Minecraft games. You can learn more about [Accounts Required to Play Minecraft](./Minecraft-Account-Migration-to-Microsoft-Accounts.md).
+
+## Access Your Microsoft Account
+
+If you need to reset your password for your Microsoft account or update your sign-in details, visit [Get Help with Your Minecraft Account](./Get-Help-with-Your-Minecraft-Account.md).
 
 ## Verify Your Account Owns Minecraft
 
-Verify you are signing into the Microsoft account you used to purchase Minecraft. Here are two ways you can check the email address you are using for your Microsoft account is correct:
+Verify you are signing into the Microsoft account you used to buy Minecraft. Here are two ways you can check the email address you are using for your Microsoft account is correct:
 
 - **Purchase Confirmation Email**: Your purchase confirmation for Minecraft games is sent to the email address on your Microsoft account. Check that you are signing in with the email address where your purchase confirmation was sent.
 - **Microsoft Account Order History**: Sign into your [Microsoft account page](https://account.microsoft.com/) and verify that the Minecraft game you want to play is listed in your Order History.
