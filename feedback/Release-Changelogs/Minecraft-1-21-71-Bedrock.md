@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.21.71 (Bedrock)
 date: 2025-03-26T11:12:00Z
-updated: 2025-03-28T15:57:26Z
+updated: 2025-03-28T21:19:30Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/35325099799821-Minecraft-1-21-71-Bedrock
 hash:
@@ -14,6 +14,7 @@ A new update has been released to address a few issues with the 1.21.70 release.
 
 ## Fixes:
 
+- Fixes flashing screen on certain devices when loading a world at the end of the progress screen ([MCPE-190555](https://bugs.mojang.com/browse/MCPE-190555))
 - Fixed an issue that prevented buttons for external links from working correctly on iOS devices
 - Fixed mobs playing their death animation twice as quickly as they should have ([MCPE-191525](https://bugs.mojang.com/browse/MCPE-191525))
 - Fixed client and server desynchronizing on entities the client erroneously thought were dead
