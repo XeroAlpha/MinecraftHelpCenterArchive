@@ -1,7 +1,7 @@
 ---
-title: Get Help with Your Minecraft Account
+title: Get Help Signing into Minecraft with Your Microsoft Account
 date: 2019-06-27T20:41:11Z
-updated: 2024-09-03T23:53:22Z
+updated: 2025-03-27T23:37:06Z
 categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
@@ -24,20 +24,20 @@ tags:
   - use_for_autoreply
   - subject_link_accounts
   - subject_account_other
-link: https://help.minecraft.net/hc/en-us/articles/360029681732-Get-Help-with-Your-Minecraft-Account
+link: https://help.minecraft.net/hc/en-us/articles/360029681732-Get-Help-Signing-into-Minecraft-with-Your-Microsoft-Account
 hash:
   h_01J6X1P66R6PRT3JWBM5E1BK91: microsoft-account-sign-in-helper
   h_01J6X1X1G4R472CPZ3E6HMJ672: locked-and-compromised-microsoft-accounts
   h_01J6X243RBS1YRNSNX8KE7DBP2: microsoft-account-management
 ---
 
-Minecraft games use your Microsoft account to sign in and provide access to services such as Marketplace, Realms, and multiplayer gaming. The Microsoft resources below will help you solve Microsoft account sign-in issues and get you back into your game!
+Minecraft games use your Microsoft account to sign in and provide access to services such as Marketplace, Realms, and multiplayer gaming. The Microsoft resources below will help you solve Microsoft account sign-in issues and get you back into your game! To learn more, see [Accounts Required to Play Minecraft](./Minecraft-Account-Migration-to-Microsoft-Accounts.md).
 
 ## Microsoft Account Sign-In Helper
 
 If you are unable to sign into your Microsoft account, start with this automated tool for account diagnostics and sign-in help:
 
-- [Microsoft account Sign-in Helper](https://support.microsoft.com/en-US/home/contact?linkquery=Help%20me%20sign%20in%20to%20my%20Microsoft%20account)
+- [Microsoft account Sign-in Helper](https://go.microsoft.com/fwlink/?linkid=2294315)
 
 ## Locked and Compromised Microsoft Accounts
 
