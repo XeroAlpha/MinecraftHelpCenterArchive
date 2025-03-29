@@ -1,7 +1,7 @@
 ---
 title: How to Redeem a Code for In-Game Downloadable Content in Minecraft
 date: 2021-07-08T17:09:20Z
-updated: 2025-03-18T17:25:44Z
+updated: 2025-03-28T23:26:46Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_26562723671949
@@ -20,10 +20,10 @@ You may have received a code for downloadable content such as a cape, hat, chara
 
 1.  Visit the [Minecraft code redemption page](https://www.minecraft.net/redeem).
 2.  Enter the code as written and enter it in the **Redeem Code** field and press **Submit**.
-3.  Sign in to an existing Microsoft account or [create a new one](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
+3.  Sign in to an existing Microsoft account or create a new one.
 
 If you are trying to redeem the code for a child account and get a safety message, see [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md).
 
 ## How to Equip Your Promotional Item
 
-After you redeem your code, the promotional item will appear in your Dressing Room. Visit [How to Equip Character Creator Items in the Dressing Room in Minecraft](https://help.minecraft.net/hc/en-us/articles/26601238964621) to learn how to access and use your items.
+After you redeem your code, the promotional item will appear in your Dressing Room. Visit [How to Equip Character Creator Items in the Dressing Room in Minecraft](../Managing-Marketplace-Content/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md) to learn how to access and use your items.
