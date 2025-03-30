@@ -24,7 +24,7 @@ hash:
   h_01JQA0MAE1TW3216MXR3KGZ4DS: check-device-requirements
 ---
 
-Marketplace Pass is a monthly subscription service on Minecraft: Bedrock Edition that gives you access to 150+ pieces of content from Minecraft Marketplace. [Visit Minecraft Marketplace Pass](https://www.minecraft.net/en-us/marketplace/marketplace-pass) for more information or see our article on [Subscribing to Minecraft Marketplace Pass](../Marketplace-Realms-Subscriptions/How-to-Subscribe-to-Minecraft-Marketplace-Pass.md).
+Marketplace Pass is a monthly subscription service on Minecraft: Bedrock Edition that gives you access to 150+ pieces of content from Minecraft Marketplace. [Visit Minecraft Marketplace Pass](https://www.minecraft.net/en-us/marketplace/marketplace-pass) for more information or see our article on [Subscribing to Minecraft Marketplace Pass](../Marketplace-Realms-Subscriptions/Subscribing-to-Minecraft-Marketplace-Pass.md).
 
 If you’ve followed the steps in the article linked above and are still can’t sign up for Marketplace Pass, review the suggestions below.
 

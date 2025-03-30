@@ -33,5 +33,5 @@ If you are playing a downloaded piece of content from the Minecraft Marketplace 
 If you are having issues with Minecoins or other Marketplace content, see the links below:
 
 - [How to Get Help with Missing Minecoins in Minecraft Marketplace](./How-to-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md)
-- [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md)
+- [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md)
 - [How to Find Content Missing from Minecraft Marketplace](./View-Your-Minecraft-Marketplace-Content.md)

@@ -2,7 +2,7 @@
 title: Minecraft Legends - November 2023 Update
 date: 2023-11-22T22:27:06Z
 updated: 2024-05-27T16:42:56Z
-categories: Minecraft Legends
+categories: Minecraft Legends Support
 tags:
   - title_minecraft_legends
   - title_legends

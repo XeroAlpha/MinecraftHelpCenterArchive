@@ -2,7 +2,7 @@
 title: Accounts Required to Play Minecraft
 date: 2023-09-18T21:48:09Z
 updated: 2025-03-27T18:37:08Z
-categories: Account Sign-In
+categories: Account Setup
 tags:
   - title_minecraft_java_edition
   - title_minecraft

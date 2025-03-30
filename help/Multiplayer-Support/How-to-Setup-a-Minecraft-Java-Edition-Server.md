@@ -2,7 +2,7 @@
 title: "How to Setup a Minecraft: Java Edition Server"
 date: 2021-03-24T19:23:34Z
 updated: 2024-09-10T14:37:48Z
-categories: Minecraft Game Guides
+categories: Multiplayer Support
 tags:
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360058525452-How-to-Setup-a-Minecraft-Java-Edition-Server

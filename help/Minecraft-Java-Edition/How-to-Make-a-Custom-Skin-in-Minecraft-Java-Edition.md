@@ -2,7 +2,7 @@
 title: "How to Make a Custom Skin in Minecraft: Java Edition"
 date: 2021-09-09T23:00:16Z
 updated: 2024-05-10T19:56:08Z
-categories: Minecraft Game Guides
+categories: "Minecraft: Java Edition"
 tags:
   - title_minecraft_java_edition
   - title_minecraft

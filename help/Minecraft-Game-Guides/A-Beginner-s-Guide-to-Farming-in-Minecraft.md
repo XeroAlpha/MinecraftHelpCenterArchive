@@ -5,6 +5,7 @@ updated: 2024-07-01T19:36:49Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
+  - section_35367844849933
 link: https://help.minecraft.net/hc/en-us/articles/360046311411-A-Beginner-s-Guide-to-Farming-in-Minecraft
 hash:
   h_01HAZDSBS85D97CJ818M2Y04YE: what-can-i-grow-in-minecraft

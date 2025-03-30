@@ -5,6 +5,7 @@ updated: 2025-02-28T15:43:01Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
+  - section_35367844849933
 link: https://help.minecraft.net/hc/en-us/articles/19882462609677-How-to-Survive-your-First-Night-in-Minecraft
 hash:
   h_01JN4NGTA0CZ6PY87345MBHX3K: prepare-for-the-night

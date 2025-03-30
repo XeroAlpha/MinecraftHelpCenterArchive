@@ -26,4 +26,4 @@ If you are trying to redeem the code for a child account and get a safety messag
 
 ## How to Equip Your Promotional Item
 
-After you redeem your code, the promotional item will appear in your Dressing Room. Visit [How to Equip Character Creator Items in the Dressing Room in Minecraft](../Managing-Marketplace-Content/How-to-Equip-Character-Creator-Items-and-Skins-in-the-Dressing-Room-in-Minecraft.md) to learn how to access and use your items.
+After you redeem your code, the promotional item will appear in your Dressing Room. Visit [How to Equip Character Creator Items in the Dressing Room in Minecraft](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md) to learn how to access and use your items.

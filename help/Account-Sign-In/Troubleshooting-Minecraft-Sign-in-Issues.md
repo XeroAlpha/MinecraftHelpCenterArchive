@@ -12,11 +12,11 @@ hash:
   h_01HZJJ4CFBCR07XTPWEYMQGN7S: sign-into-the-xbox-app
 ---
 
-Some platforms may require a Microsoft account to sign-in and play Minecraft games. You can learn more about [Accounts Required to Play Minecraft](./Minecraft-Account-Migration-to-Microsoft-Accounts.md).
+Some platforms may require a Microsoft account to sign-in and play Minecraft games. You can learn more about [Accounts Required to Play Minecraft](../Account-Setup/Accounts-Required-to-Play-Minecraft.md).
 
 ## Access Your Microsoft Account
 
-If you need to reset your password for your Microsoft account or update your sign-in details, visit [Get Help with Your Minecraft Account](./Get-Help-with-Your-Minecraft-Account.md).
+If you need to reset your password for your Microsoft account or update your sign-in details, visit [Get Help with Your Minecraft Account](./Get-Help-Signing-into-Minecraft-with-Your-Microsoft-Account.md).
 
 ## Verify Your Account Owns Minecraft
 

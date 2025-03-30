@@ -2,7 +2,7 @@
 title: "Difference Between Minecraft Legends and Minecraft: Bedrock Edition Marketplace Purchases"
 date: 2023-04-12T19:55:03Z
 updated: 2025-02-19T19:06:06Z
-categories: Minecraft Legends
+categories: Minecraft Legends Support
 tags:
   - title_minecraft_legends
   - title_legends

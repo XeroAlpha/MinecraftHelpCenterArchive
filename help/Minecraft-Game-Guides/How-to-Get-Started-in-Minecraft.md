@@ -5,6 +5,7 @@ updated: 2024-07-16T14:56:48Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
+  - section_35367844849933
 link: https://help.minecraft.net/hc/en-us/articles/19754515644941-How-to-Get-Started-in-Minecraft
 hash:
   h_01HAZE7PKYA5722Q0Z43P77ZP1: starting-a-home-base

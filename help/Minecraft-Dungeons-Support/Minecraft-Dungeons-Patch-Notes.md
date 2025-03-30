@@ -2,7 +2,7 @@
 title: Minecraft Dungeons Patch Notes
 date: 2020-06-09T14:01:12Z
 updated: 2023-09-26T21:01:00Z
-categories: Minecraft Dungeons
+categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360044268272-Minecraft-Dungeons-Patch-Notes

@@ -2,7 +2,7 @@
 title: Minecraft Dungeons Minimum Specifications for Gameplay
 date: 2020-01-29T19:16:16Z
 updated: 2024-04-16T21:12:03Z
-categories: Minecraft Dungeons
+categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360038937032-Minecraft-Dungeons-Minimum-Specifications-for-Gameplay

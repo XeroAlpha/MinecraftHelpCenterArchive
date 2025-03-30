@@ -2,7 +2,7 @@
 title: Enable Multiplayer and Cross-Platform Play for Minecraft Dungeons
 date: 2021-09-22T23:12:15Z
 updated: 2024-04-25T16:19:49Z
-categories: Minecraft Dungeons
+categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/4409826812173-Enable-Multiplayer-and-Cross-Platform-Play-for-Minecraft-Dungeons
@@ -10,7 +10,7 @@ link: https://help.minecraft.net/hc/en-us/articles/4409826812173-Enable-Multipla
 
 To play online multiplayer and cross-platform play in Minecraft Dungeons on Nintendo Switch and PlayStation® consoles, you need to log in to the game using a Microsoft Account. This section explains how to log in and begin adding friends to play together online.
 
-If you do not have a Microsoft Account, you can create one for free by following the directions in [Set Up Microsoft Family Accounts For Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
+If you do not have a Microsoft Account, you can create one for free by following the directions in [Set Up Microsoft Family Accounts For Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
 
 Once you have a Microsoft account, follow these steps:
 

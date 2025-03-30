@@ -2,7 +2,7 @@
 title: "Minecraft: Bedrock Edition in Virtual Reality"
 date: 2021-03-08T18:47:55Z
 updated: 2024-06-28T20:04:26Z
-categories: Minecraft Game Guides
+categories: Performance & Troubleshooting
 tags:
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360057619052-Minecraft-Bedrock-Edition-in-Virtual-Reality

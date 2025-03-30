@@ -17,6 +17,7 @@ tags:
   - section_27194076935437
   - use_for_autoreply
   - platform_xbox_series_xs
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft
 hash:
   h_01JNS77MST4FN938C5SQG5BJNW: settings-options-for-multiplayer-games-and-realms-in-minecraft

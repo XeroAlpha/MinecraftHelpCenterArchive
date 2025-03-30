@@ -2,9 +2,10 @@
 title: "Differences Between Minecraft: Java Edition and Minecraft: Bedrock Edition"
 date: 2021-03-24T21:40:40Z
 updated: 2024-10-01T17:11:52Z
-categories: Minecraft Game Guides
+categories: Buying Minecraft Games
 tags:
   - section_27983418545293
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/360058534412-Differences-Between-Minecraft-Java-Edition-and-Minecraft-Bedrock-Edition
 hash:
   h_01HPJ28MD5ZETWA5ENCBAQ00QT: minecraft-java-edition

@@ -5,6 +5,7 @@ updated: 2024-09-17T20:43:58Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux
 hash:
   h_01J3RCBYS2J52R7ZHN1P85T5C7: step-1-set-up-microsoft-family-accounts
@@ -20,7 +21,7 @@ If your child wants to play Minecraft on Windows, MacOS or Linux, parents can us
 
 Parents need to have a Microsoft account and then also set up a related Microsoft account for each child. See these articles for more information:
 
-- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
+- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
 - [Getting started with Microsoft Family Safety - Microsoft Support](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344)
 
 ## Step 2: Enable the Child Account to Redeem Codes and Make Purchases

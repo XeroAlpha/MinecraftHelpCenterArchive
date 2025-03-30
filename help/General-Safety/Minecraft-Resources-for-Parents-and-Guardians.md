@@ -20,6 +20,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - use_for_autoreply
   - subject_account_other
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/29427418905997-Minecraft-Resources-for-Parents-and-Guardians
 hash:
   h_01J5R5XEA929VAA75CNSNMSCTK: microsoft-family-and-child-account-resources
@@ -50,7 +51,7 @@ For requests related to closing or deleting a Microsoft or Mojang account, visit
 The pages below provide information about how a Parent or Guardian account can buy Minecraft for a child account and grant access to multiplayer, social, and purchasing features:
 
 - [Buying Minecraft for a Child Account on Windows, MacOS or Linux](../Buying-Minecraft-Games/Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux.md)
-- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Account-Settings/Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
+- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
 - [Managing Spending for Child Accounts in Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
 - [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md)
 - [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](../Minecraft-Realms-Stories/Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)

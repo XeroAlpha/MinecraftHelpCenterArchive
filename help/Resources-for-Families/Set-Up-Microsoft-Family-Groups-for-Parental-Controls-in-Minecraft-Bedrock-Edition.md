@@ -55,8 +55,8 @@ Child accounts are all accounts for those under the age of 16 for the US & EU, o
 See the following articles to learn more about settings you can use to control your child’s in-game experience:
 
 - [Managing Spending for Child Accounts in the Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
-- [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
-- [Allow a Microsoft a Child Account to Redeem Codes for Minecraft](./Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md)
-- [Managing Child Account Social Settings Using Xbox Settings Online](./Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
-- [Managing Child Account Social Settings Using Xbox Family App](./Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md)
+- [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
+- [Allow a Microsoft a Child Account to Redeem Codes for Minecraft](../Account-Settings/Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md)
+- [Managing Child Account Social Settings Using Xbox Settings Online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
+- [Managing Child Account Social Settings Using Xbox Family App](../Account-Settings/Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md)
 - [Change A Child Account’s Privacy & Safety Permissions For Minecraft Realms Stories](../Minecraft-Realms-Stories/Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)

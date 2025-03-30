@@ -2,7 +2,7 @@
 title: Where to Play Minecraft Legends
 date: 2023-04-11T16:26:20Z
 updated: 2024-05-30T16:00:59Z
-categories: Minecraft Legends
+categories: Minecraft Legends Support
 tags:
   - title_minecraft_legends
   - title_legends

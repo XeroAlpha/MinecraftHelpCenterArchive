@@ -31,7 +31,7 @@ The profile screen provides statistics from your time in Minecraft, chronicles y
 - Achievements
 - Suggested Achievements
 
-You can also learn more about earning [Minecraft: Bedrock Edition Achievements.](../Minecraft-Game-Guides/Minecraft-Bedrock-Edition-Achievements.md)
+You can also learn more about earning [Minecraft: Bedrock Edition Achievements.](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-Achievements.md)
 
 ### Stats Tab
 

@@ -2,7 +2,7 @@
 title: "What is in the Debug Menu in Minecraft: Java Edition?"
 date: 2021-03-29T19:27:35Z
 updated: 2024-07-03T19:45:38Z
-categories: Minecraft Game Guides
+categories: "Minecraft: Java Edition"
 tags:
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360059146051-What-is-in-the-Debug-Menu-in-Minecraft-Java-Edition

@@ -16,4 +16,4 @@ To sign into Minecraft, you need a Microsoft account. It is important that you c
 - [Go Passwordless with your Microsoft Account](https://support.microsoft.com/en-us/account-billing/how-to-go-passwordless-with-your-microsoft-account-674ce301-3574-4387-a93d-916751764c43)
 - [Change your Microsoft Account password](https://support.microsoft.com/en-us/account-billing/change-your-microsoft-account-password-fdde885b-86da-2965-69fd-4871309ef1f1)
 
-See [Get Help with Your Minecraft Account](./Get-Help-with-Your-Minecraft-Account.md) or visit the [Microsoft account Sign-in Helper](https://support.microsoft.com/en-US/home/contact?linkquery=Help%20me%20sign%20in%20to%20my%20Microsoft%20account) to learn more about getting sign-in help from Microsoft Support.
+See [Get Help with Your Minecraft Account](./Get-Help-Signing-into-Minecraft-with-Your-Microsoft-Account.md) or visit the [Microsoft account Sign-in Helper](https://support.microsoft.com/en-US/home/contact?linkquery=Help%20me%20sign%20in%20to%20my%20Microsoft%20account) to learn more about getting sign-in help from Microsoft Support.

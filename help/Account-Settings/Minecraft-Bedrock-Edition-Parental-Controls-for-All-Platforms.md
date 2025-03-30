@@ -10,7 +10,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360045816952-Minecraft-Bedroc
 
 *This article covers links to configuring parental controls for Minecraft: Bedrock Edition for mobile devices, Nintendo Switch, PlayStation, Windows, Chromebook, and Xbox One/Series consoles.* 
 
-- Parental controls for [Minecraft](./Set-Up-Microsoft-Family-Groups-to-Manage-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
+- Parental controls for [Minecraft](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md).
 - Family and online safety for [Xbox](https://support.xbox.com/en-US/help/family-online-safety/browse).
 - [Parental controls on the Nintendo Switch](https://www.nintendo.com/switch/parental-controls/).
 - [Parental controls on the PlayStation 4](https://www.playstation.com/en-nz/get-help/help-library/my-account/parental-controls/ps4-parental-controls/) (Also PlayStation 5).

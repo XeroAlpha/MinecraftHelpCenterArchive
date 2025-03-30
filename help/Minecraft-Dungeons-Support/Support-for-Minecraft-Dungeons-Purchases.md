@@ -2,7 +2,7 @@
 title: Support for Minecraft Dungeons Purchases
 date: 2021-09-10T23:04:07Z
 updated: 2024-05-14T18:39:50Z
-categories: Minecraft Dungeons
+categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/4408969821197-Support-for-Minecraft-Dungeons-Purchases

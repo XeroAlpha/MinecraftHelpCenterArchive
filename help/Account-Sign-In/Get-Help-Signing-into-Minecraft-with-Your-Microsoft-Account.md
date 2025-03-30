@@ -31,7 +31,7 @@ hash:
   h_01J6X243RBS1YRNSNX8KE7DBP2: microsoft-account-management
 ---
 
-Minecraft games use your Microsoft account to sign in and provide access to services such as Marketplace, Realms, and multiplayer gaming. The Microsoft resources below will help you solve Microsoft account sign-in issues and get you back into your game! To learn more, see [Accounts Required to Play Minecraft](./Minecraft-Account-Migration-to-Microsoft-Accounts.md).
+Minecraft games use your Microsoft account to sign in and provide access to services such as Marketplace, Realms, and multiplayer gaming. The Microsoft resources below will help you solve Microsoft account sign-in issues and get you back into your game! To learn more, see [Accounts Required to Play Minecraft](../Account-Setup/Accounts-Required-to-Play-Minecraft.md).
 
 ## Microsoft Account Sign-In Helper
 

@@ -5,6 +5,7 @@ updated: 2025-03-24T20:27:16Z
 categories: Account Settings
 tags:
   - section_27194076935437
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/35189478489485-Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App
 hash:
   h_01JPJQP4CA005AGF6GMWZVPX9G: social-settings-options-for-a-child-accountin-the-xbox-family-app

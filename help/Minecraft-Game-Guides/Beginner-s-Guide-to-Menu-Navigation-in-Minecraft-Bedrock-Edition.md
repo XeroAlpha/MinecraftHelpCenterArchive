@@ -5,6 +5,7 @@ updated: 2024-07-09T16:32:52Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
+  - section_35367844849933
 link: https://help.minecraft.net/hc/en-us/articles/360059154851-Beginner-s-Guide-to-Menu-Navigation-in-Minecraft-Bedrock-Edition
 hash:
   h_01HAW64T046KNWYD48R482GQDM: play

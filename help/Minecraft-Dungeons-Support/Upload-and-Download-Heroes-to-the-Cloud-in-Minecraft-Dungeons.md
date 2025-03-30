@@ -2,7 +2,7 @@
 title: Upload and Download Heroes to the Cloud in Minecraft Dungeons
 date: 2020-05-21T19:09:40Z
 updated: 2024-04-25T16:27:48Z
-categories: Minecraft Dungeons
+categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360043504492-Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons

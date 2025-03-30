@@ -11,7 +11,7 @@ hash:
   h_01JJ843TE3RP8Q026TT1RNT2ZS: marketplace-pass-subscription-requirements
 ---
 
-You can [subscribe to Minecraft Marketplace Pass](../Marketplace-Realms-Subscriptions/How-to-Subscribe-to-Minecraft-Marketplace-Pass.md) from the Marketplace button on the Minecraft launch screen. Your subscription will use the payment method for the game platform you use to play. If you have problems signing up, check with your platform payment method or contact your game platform customer service for support. See these articles for information:
+You can [subscribe to Minecraft Marketplace Pass](../Marketplace-Realms-Subscriptions/Subscribing-to-Minecraft-Marketplace-Pass.md) from the Marketplace button on the Minecraft launch screen. Your subscription will use the payment method for the game platform you use to play. If you have problems signing up, check with your platform payment method or contact your game platform customer service for support. See these articles for information:
 
 - [Updating Your Payment Method for Marketplace Pass on Mobile](../Marketplace-Pass-Subscriptions/Updating-Your-Payment-Method-for-Marketplace-Pass-on-Mobile.md)
 - [Updating Your Payment Method for Marketplace Pass on PC](../Marketplace-Pass-Subscriptions/Updating-Your-Payment-Method-for-Marketplace-Pass-on-PC.md)
