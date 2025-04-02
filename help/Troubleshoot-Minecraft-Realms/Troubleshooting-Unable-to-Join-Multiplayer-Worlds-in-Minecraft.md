@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unable to Join Multiplayer Worlds in Minecraft
 date: 2021-09-14T22:13:00Z
-updated: 2025-04-02T16:34:34Z
+updated: 2025-04-02T19:48:56Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft
@@ -38,7 +38,7 @@ You may encounter problems connecting to multiplayer games if all players aren�
 ## Check account permissions and subscriptions
 
 - **Enable multiplayer settings**: [Visit Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) for more instructions. These steps may apply even if you don’t have a child account.
-- **Verify platform subscription**: If you’re playing Minecraft multiplayer on a console, you must be subscribed to [Xbox Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass), [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/), or [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/) to play with friends online.
+- **Verify platform subscription**: If you’re playing Minecraft multiplayer on a console, you must be subscribed to [Xbox Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass), [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/), or [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/) to play with friends.
 
 ## Check your network connection
 

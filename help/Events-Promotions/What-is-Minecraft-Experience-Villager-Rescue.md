@@ -1,9 +1,9 @@
 ---
 title: "What is Minecraft Experience: Villager Rescue?"
 date: 2024-05-29T15:34:33Z
+updated: 2025-04-02T21:19:07Z
 categories: Events & Promotions
 tags:
-  - popular
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/27133935384717-What-is-Minecraft-Experience-Villager-Rescue
 ---
