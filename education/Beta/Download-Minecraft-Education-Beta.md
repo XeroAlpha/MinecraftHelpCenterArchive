@@ -1,7 +1,7 @@
 ---
 title: Download Minecraft Education Beta
 date: 2021-09-24T18:25:00Z
-updated: 2025-04-01T18:35:43Z
+updated: 2025-04-02T17:46:26Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/4407483028116-Download-Minecraft-Education-Beta
 hash:
@@ -131,4 +131,4 @@ If you are downloading the beta for Windows desktop, uninstall your current vers
 
 Want to know more about what’s in the beta?
 
-Check out our [What's New in the Beta](https://edusupport.minecraft.net/hc/en-us/articles/10939858344340) article to learn more about the beta's new features.
+Check out our [What's New in the Beta](https://aka.ms/MEEWhatsNewBeta) article to learn more about the beta's new features.
