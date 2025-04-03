@@ -1,8 +1,8 @@
 ---
 title: "Manage Your Profile on Minecraft: Bedrock Edition"
 date: 2024-06-21T20:53:31Z
-updated: 2024-11-21T16:46:52Z
-categories: Account Settings
+updated: 2025-04-02T23:12:55Z
+categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -14,20 +14,20 @@ tags:
   - platform_pc
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-  - section_27194076935437
   - use_for_autoreply
   - platform_xbox_series_xs
   - subject_account_profile
+  - section_35377640016525
 link: https://help.minecraft.net/hc/en-us/articles/27780504581389-Manage-Your-Profile-on-Minecraft-Bedrock-Edition
 hash:
-  h_01J0Y94ZEJZ6HD3Q23MT37HEN4: to-control-the-ability-to-invite-friends-follow-these-instructions
-  h_01J0Y94TZNXXQ81RKWCP1AKRCD: to-control-who-can-view-profile-information-follow-these-steps
-  h_01J0Y94N52JWMY874011CVXKKF: here-is-a-list-of-permission-options-and-how-to-control-which-information-can-be-viewed
+  h_01J0Y94ZEJZ6HD3Q23MT37HEN4: manage-the-ability-to-invite-friends
+  h_01J0Y94TZNXXQ81RKWCP1AKRCD: control-who-can-view-profile-information
+  h_01J0Y94N52JWMY874011CVXKKF: permission-options
 ---
 
 Your Minecraft profile includes your game-play history, achievements, stats, bio, and your friends list.
 
-### To control the ability to invite friends, follow these instructions:
+## Manage the ability to invite friends
 
 1.  Visit the [Xbox Privacy & Online Safety Page](https://www.xbox.com/en-US/user/settings/privacy-and-safety/2535473438853044) and sign in. If you are managing a Child Account, be sure to sign in with the Parental Account.
 2.  Select the gamerpic of the account you wish to manage.
@@ -35,7 +35,7 @@ Your Minecraft profile includes your game-play history, achievements, stats, bio
 4.  Set **You Can Add Friends** to **Allow** so you can invite friends to view a profile.
 5.  Click the **Submit** button.
 
-###  To control who can view Profile information, follow these steps:
+## Control who can view Profile information
 
 1.  From the [Privacy & Online Safety Page](https://www.xbox.com/en-US/user/settings/privacy-and-safety/2535473438853044), select the **Privacy** tab.
 2.  Review and set view permissions for your Friends and others:  
@@ -45,7 +45,7 @@ Your Minecraft profile includes your game-play history, achievements, stats, bio
     \* Real Name
 3.  Save your settings by pressing Submit and restart Minecraft for the new permissions to take effect.
 
-### Here is a list of permission options and how to control which information can be viewed:
+### Permission options:
 
 **Everyone** – your information is public  
 **Friends** – only visible to players on your friend list  

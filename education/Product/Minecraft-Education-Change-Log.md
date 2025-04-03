@@ -1,14 +1,14 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-03-24T20:42:55Z
+updated: 2025-04-03T00:50:46Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
   h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-beta-game-client-update-version-1218---released-32025
   01JPTFTQQKCTAW4SWQVABVJF16: minecraft-education-preview--beta-game-client-update-version-12151---released-12825
-  01JJQ31EYAEVJXX7DMDJ68TCSH: minecraft-education-preview--beta-game-client-update-version-1215---released-121924
-  01JGCR8BXESAPQ37R0X32MS6RV: minecraft-education-preview--beta-game-client-update-version-1214---released-111924
+  01JJQ31EYAEVJXX7DMDJ68TCSH: minecraft-education-preview--beta-game-client-update-version-12150---released-121924
+  01JGCR8BXESAPQ37R0X32MS6RV: minecraft-education-preview--beta-game-client-update-version-12140---released-111924
   01JKS1BRC58QY17B49H8EFBM57: minecraft-education-game-client-minor-update-version-12106---released-102424
   01JAZVNWM24HDFXKRKGWWG4SEP: minecraft-education-game-client-minor-update-version-12105---released-90324
   01J6WHK9S3AY9QVCCJDV2DT05R: minecraft-education-game-client-version-12103---released-72324
@@ -52,21 +52,21 @@ Minecraft Education periodically releases updates to our game and companion apps
 
 ## Minecraft Education Beta Game Client Update (version 1.21.8) - Released 3/20/25
 
-- Note that this version of the beta does not include Minecraft Bedrock 1.21.2 through 1.21.5 features.
+- Note that this version of the beta is a minor update based on 1.21.06 and does not include Minecraft Bedrock features from 1.21.10 or newer and does not include the features listed in the previous 1.21.40, 1.21.50 or 1.21.51 previews and betas.
 - Improved client stability & bug fixes
 
 ## Minecraft Education Preview & Beta Game Client Update (version 1.21.51) - Released 1/28/25
 
 - Improved client stability
 
-## Minecraft Education Preview & Beta Game Client Update (version 1.21.5) - Released 12/19/24
+## Minecraft Education Preview & Beta Game Client Update (version 1.21.50) - Released 12/19/24
 
 - Garden Awakens Update
 - Cloud Storage Improvements
 - Coding and multiplayer stability improvements  
     
 
-## Minecraft Education Preview & Beta Game Client Update (version 1.21.4) - Released 11/19/24
+## Minecraft Education Preview & Beta Game Client Update (version 1.21.40) - Released 11/19/24
 
 - Bundles of Bravery Update
 - Cloud Storage Improvements
