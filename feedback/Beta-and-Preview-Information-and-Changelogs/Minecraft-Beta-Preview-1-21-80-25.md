@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.80.25
 date: 2025-04-03T14:14:58Z
-updated: 2025-04-03T15:48:39Z
+updated: 2025-04-03T17:54:38Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/35553766599437-Minecraft-Beta-Preview-1-21-80-25
 hash:
@@ -171,6 +171,7 @@ Marketplace Add-Ons, Skins, and Persona items will work with Vibrant Visuals, ho
 - Textures may turn pink after suspend and resume, opening Settings, or exiting world
 - Metallic surfaces might appear with some visual bugs in certain conditions
 - Emissive surfaces might not glow or appear white in certain conditions
+- Custom block icons are not currently rendering, and we are actively working to resolve the issue
 
 You can report any issues at [bugs.mojang.com](https://bugs.mojang.com/) and please send us your feedback at [aka.ms/mcvibrantvisualsfeedback](https://aka.ms/mcvibrantvisualsfeedback)
 
