@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2025-01-21T21:30:04Z
+updated: 2025-04-04T20:50:11Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -13,7 +13,6 @@ tags:
   - platform_linux
   - platform_macos
   - platform_pc
-  - popular
   - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply
@@ -38,8 +37,6 @@ hash:
 ---
 
 For Marketplace errors, see [Troubleshooting Minecraft Marketplace Error Codes](../Marketplace-Troubleshooting/Troubleshooting-Minecraft-Marketplace-Error-Codes.md).
-
- 
 
 Many of the error codes you may encounter when playing Minecraft occur when your gaming system loses contact with servers and the Microsoft and Xbox services that enable multiplayer games, crossplay, and access to Marketplace content across devices.
 
