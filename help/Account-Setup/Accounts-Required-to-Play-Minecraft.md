@@ -1,8 +1,8 @@
 ---
 title: Accounts Required to Play Minecraft
 date: 2023-09-18T21:48:09Z
-updated: 2025-03-27T18:37:08Z
-categories: Account Setup
+updated: 2025-04-04T18:46:23Z
+categories: Set Up Your Account
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -16,11 +16,13 @@ tags:
   - subject_problems_migrating
   - subject_how_do_i_migrate
   - subject_when_can_i_migrate
+  - new
   - title_minecraft_java_bedrock_for_pc
   - section_27194059750157
   - use_for_autoreply
   - platform_xbox_series_xs
   - subject_account_migration
+  - section_35367616689677
 link: https://help.minecraft.net/hc/en-us/articles/19615552270221-Accounts-Required-to-Play-Minecraft
 hash:
   h_01JQC8H4RBCEFRKV6SBG5HQY5Y: windows
@@ -33,7 +35,7 @@ hash:
   h_01JQC9Q18FPE6BYNTAV21M09Q5: using-microsoft-accounts-for-minecraft
 ---
 
-Which type of account you need to play Minecraft depends on the gaming platform you choose. There are options that allow you to play Minecraft without a Microsoft account. However, a Microsoft account is required to enable advanced Minecraft features such as cross-platform play, parental controls, social features, Realms, and multiplayer games. Here’s a list of accounts by platform:
+The type of account(s) you need to play Minecraft depends on your gaming platform; there are options that allow you to play Minecraft without a Microsoft account. However, a Microsoft account is required to enable advanced Minecraft features such as cross-platform play, parental controls, social features, Realms, and multiplayer games. Here’s a list of accounts by platform:
 
 ## Windows
 

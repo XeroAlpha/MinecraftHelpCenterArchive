@@ -1,7 +1,7 @@
 ---
-title: I Missed My Chance to Migrate. What Happens to My Account?
+title: Information about Mojang Accounts and Microsoft Account Migration
 date: 2023-09-19T14:29:08Z
-updated: 2024-05-31T21:31:37Z
+updated: 2025-04-04T16:54:03Z
 categories: Account Sign-In
 tags:
   - title_minecraft_java_edition
@@ -18,31 +18,27 @@ tags:
   - use_for_autoreply
   - platform_xbox_series_xs
   - subject_account_migration
-link: https://help.minecraft.net/hc/en-us/articles/19633473939981-I-Missed-My-Chance-to-Migrate-What-Happens-to-My-Account
+link: https://help.minecraft.net/hc/en-us/articles/19633473939981-Information-about-Mojang-Accounts-and-Microsoft-Account-Migration
 hash:
-  h_01HAPXBF024JESJANV49D39CB5: what-happens-to-my-java-edition-account
-  h_01HAPXBF025WFW7HJ4JRQCR68Q: what-happens-to-my-worlds
-  h_01HAPXBF0332Y0D7MV4XW2D46G: what-about-my-capes-skins-and-username
+  h_01JQYWP79A1F9Z5Q24A4RHCQNZ: what-happened-to-my-java-edition-account
+  h_01JQYWP79ADWHS8J71MA2XPGWR: what-happened-to-my-minecraft-java-edition-worlds
+  h_01JQYWP79ACJXQSM6D2DJHZD8H: what-happened-to-my-capes-skins-and-username
 ---
 
-**As of December 18, 2023, the post-migration process for Mojang accounts has officially ended. If you successfully completed the post-migration process, you should now have access to both Java and Bedrock editions.**
+**The migration process for Mojang accounts officially ended as of December 18, 2023. For more information about accounts compatible with supported platforms, see [Accounts Required to Play Minecraft](../Account-Setup/Accounts-Required-to-Play-Minecraft.md) and [Different Minecraft Editions](../Buying-Minecraft-Games/Different-Minecraft-Editions.md).**
 
-**As the migration period has concluded, Minecraft Support will no longer assist with migration-related queries. Visit [this link to learn about making a new Microsoft account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf).**
+## What happened to my Java Edition account?
 
-If you’ve missed your chance to migrate, you might have a few questions regarding what happens to your Minecraft: Java Edition account.
+In an effort to increase account security and create a unified Minecraft ecosystem, a [Minecraft: Java Edition migration](https://www.minecraft.net/en-us/article/java-edition-moving-house) from Mojang to Microsoft accounts was announced October 21, 2020. The migration grace period [concluded December 18, 2023](https://www.minecraft.net/en-us/article/account-migration-last-call). **As the migration period has ended, Minecraft Support will no longer assist with migration-related queries.**
 
-## What happens to my Java Edition account?
+To continue playing Minecraft, you can purchase both Minecraft: Java Edition and Minecraft: Bedrock edition as one product on [the Xbox Store](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010) or explore [Different Minecraft Editions](../Buying-Minecraft-Games/Different-Minecraft-Editions.md) for other platforms.
 
-You no longer have access to your Java Edition account or Minecraft: Java Edition. To continue playing Minecraft, you will have to [buy Minecraft: Java & Bedrock Edition](../Download-Install/I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md) using a Microsoft account.
+## What happened to my Minecraft: Java Edition worlds?
 
-## What happens to my worlds?
+You may have Minecraft: Java edition single-player worlds stored on your hard drive but will not be able to play them until you [purchase Minecraft: Java Edition](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010) using a Microsoft account.
 
-Your single-player Java worlds are stored on your hard drive, but you will not be able to play on them until you buy Minecraft: Java Edition using a Microsoft account.
+If you create a new Microsoft account to play in an existing multiplayer world/server, you will join as a new player and spawn in at the world’s default spawn point with no items. If you had a base with items in it, you can then head there to regain any stored items.
 
-Because you have a new Microsoft account, multiplayer worlds are a different story. You will be joining these worlds as a new player, spawning in at the world’s default spawn point with no items. However, if you have a base with items in it, you can head there to regain your items and resume play.
+## What happened to my capes, skins, and username?
 
-**Note: New accounts will need to be re-added to any server allowlists.**
-
-## What about my capes, skins and username?
-
-Your capes and skins were tied to your previous Java Edition account and are not recoverable. Usernames will not be released until a later date.
+Capes and skins tied to previous Java Edition accounts are not recoverable. When you create a new account, you’ll have to create a new username; your previous username may or may not be available.
