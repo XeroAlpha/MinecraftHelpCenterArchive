@@ -1,12 +1,12 @@
 ---
-title: Troubleshooting Error 0X803F8001 in Minecraft
+title: Troubleshooting Minecraft Launcher License Error 0X803F8001
 date: 2024-09-30T21:32:01Z
-updated: 2024-10-01T20:56:32Z
+updated: 2025-04-04T16:40:45Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166432886285
   - section_27166539479437
-link: https://help.minecraft.net/hc/en-us/articles/30688486714893-Troubleshooting-Error-0X803F8001-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/30688486714893-Troubleshooting-Minecraft-Launcher-License-Error-0X803F8001
 hash:
   h_01J92D3912TGVZGGAH342D91RQ: check-your-signed-in-accounts
   h_01J92D9X2Y9B84V6CZGHN5PX3J: install-the-launcher-from-the-microsoft-store
