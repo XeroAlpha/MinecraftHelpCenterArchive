@@ -5,6 +5,7 @@ updated: 2024-05-30T19:26:53Z
 categories: General Safety
 tags:
   - section_15463792344973
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety
 hash:
   h_01HZ5F73DYG9QG7NKW7B6XA78E: player-safety

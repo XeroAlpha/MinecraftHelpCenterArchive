@@ -2,7 +2,7 @@
 title: Different Minecraft Editions
 date: 2019-10-13T21:41:49Z
 updated: 2024-09-23T23:24:30Z
-categories: Buying Minecraft Games
+categories: Get Minecraft
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -19,6 +19,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - use_for_autoreply
   - section_28871651550221
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions
 ---
 

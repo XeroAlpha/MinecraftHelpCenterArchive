@@ -4,6 +4,7 @@ date: 2022-06-03T16:21:13Z
 updated: 2024-03-01T19:55:28Z
 categories: Download & Install
 tags:
+  - trending
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/6657208607501-I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other
 ---

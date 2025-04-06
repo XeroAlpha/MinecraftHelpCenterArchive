@@ -25,13 +25,13 @@ hash:
   h_01JQYWP79ACJXQSM6D2DJHZD8H: what-happened-to-my-capes-skins-and-username
 ---
 
-**The migration process for Mojang accounts officially ended as of December 18, 2023. For more information about accounts compatible with supported platforms, see [Accounts Required to Play Minecraft](../Account-Setup/Accounts-Required-to-Play-Minecraft.md) and [Different Minecraft Editions](../Buying-Minecraft-Games/Different-Minecraft-Editions.md).**
+**The migration process for Mojang accounts officially ended as of December 18, 2023. For more information about accounts compatible with supported platforms, see [Accounts Required to Play Minecraft](../Set-Up-Your-Account/Accounts-Required-to-Play-Minecraft.md) and [Different Minecraft Editions](../Get-Minecraft/Different-Minecraft-Editions.md).**
 
 ## What happened to my Java Edition account?
 
 In an effort to increase account security and create a unified Minecraft ecosystem, a [Minecraft: Java Edition migration](https://www.minecraft.net/en-us/article/java-edition-moving-house) from Mojang to Microsoft accounts was announced October 21, 2020. The migration grace period [concluded December 18, 2023](https://www.minecraft.net/en-us/article/account-migration-last-call). **As the migration period has ended, Minecraft Support will no longer assist with migration-related queries.**
 
-To continue playing Minecraft, you can purchase both Minecraft: Java Edition and Minecraft: Bedrock edition as one product on [the Xbox Store](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010) or explore [Different Minecraft Editions](../Buying-Minecraft-Games/Different-Minecraft-Editions.md) for other platforms.
+To continue playing Minecraft, you can purchase both Minecraft: Java Edition and Minecraft: Bedrock edition as one product on [the Xbox Store](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010) or explore [Different Minecraft Editions](../Get-Minecraft/Different-Minecraft-Editions.md) for other platforms.
 
 ## What happened to my Minecraft: Java Edition worlds?
 

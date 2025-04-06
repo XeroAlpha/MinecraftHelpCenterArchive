@@ -4,7 +4,6 @@ date: 2022-01-31T18:12:02Z
 updated: 2025-02-18T21:58:24Z
 categories: Download & Install
 tags:
-  - trending
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/4423653831821-How-to-Install-Minecraft-Preview
 hash:

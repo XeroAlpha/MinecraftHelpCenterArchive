@@ -4,7 +4,6 @@ date: 2020-03-11T15:08:34Z
 updated: 2025-02-18T21:53:59Z
 categories: Download & Install
 tags:
-  - trending
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/360040841471-What-to-Know-About-Minecraft-Preview
 hash:

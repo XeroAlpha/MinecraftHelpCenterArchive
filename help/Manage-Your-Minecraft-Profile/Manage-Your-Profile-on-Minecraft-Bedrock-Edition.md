@@ -52,4 +52,4 @@ Your Minecraft profile includes your game-play history, achievements, stats, bio
 **Blocked** – your information is not visible to any players
 
   
-Be sure to also view our article on [Managing Multiplayer Game Access for a Child Account](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) in Minecraft for more information on privacy settings.
+Be sure to also view our article on [Managing Multiplayer Game Access for a Child Account](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) in Minecraft for more information on privacy settings.

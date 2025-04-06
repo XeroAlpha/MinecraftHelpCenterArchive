@@ -4,7 +4,6 @@ date: 2023-10-10T17:12:23Z
 updated: 2024-07-23T20:49:59Z
 categories: Create or Join Realms
 tags:
-  - trending
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/20264295053709-How-to-Start-a-Minecraft-Preview-Beta-Realm
 ---

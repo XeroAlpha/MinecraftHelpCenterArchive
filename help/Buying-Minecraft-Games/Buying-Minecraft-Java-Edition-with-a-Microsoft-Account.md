@@ -5,6 +5,7 @@ updated: 2025-02-20T21:48:01Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/360052640132-Buying-Minecraft-Java-Edition-with-a-Microsoft-Account
 hash:
   h_01FAKNQH0H5BYR4TF1GA2VRAV3: use-a-microsoft-account-to-purchase-minecraft-java-edition

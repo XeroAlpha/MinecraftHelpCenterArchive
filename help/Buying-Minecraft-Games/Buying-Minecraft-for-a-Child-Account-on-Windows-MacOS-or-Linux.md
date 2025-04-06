@@ -6,6 +6,7 @@ categories: Buying Minecraft Games
 tags:
   - section_28871651550221
   - section_35378224139533
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/6104721186573-Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux
 hash:
   h_01J3RCBYS2J52R7ZHN1P85T5C7: step-1-set-up-microsoft-family-accounts

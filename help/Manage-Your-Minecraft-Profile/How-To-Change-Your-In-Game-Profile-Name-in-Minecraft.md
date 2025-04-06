@@ -2,7 +2,7 @@
 title: How To Change Your In-Game Profile Name in Minecraft
 date: 2021-09-10T21:08:08Z
 updated: 2025-02-26T01:02:01Z
-categories: Account Settings
+categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -20,6 +20,7 @@ tags:
   - use_for_autoreply
   - platform_xbox_series_xs
   - subject_account_profile
+  - section_35377640016525
 link: https://help.minecraft.net/hc/en-us/articles/4408950195341-How-To-Change-Your-In-Game-Profile-Name-in-Minecraft
 hash:
   h_01GE5JWG2HCPKHCV3R7T7DMXQR: minecraft-bedrock-edition-gamertag

@@ -5,6 +5,7 @@ updated: 2024-07-31T19:26:54Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/6661712171405-Buying-Minecraft-on-Gaming-Consoles-and-Mobile-Devices
 hash:
   h_01J42TP0D09SSNZ74VJFQ0HDYQ: minecraft-for-mobile
@@ -14,7 +15,7 @@ hash:
   h_01J42TRNCEYPKSAQ1H935ZH9KH: minecraft-for-playstation-4-or-5
 ---
 
-If you are on a gaming console or mobile device and want to buy Minecraft for the first time, this article can help you find the right version. For questions on which edition of Minecraft is available for your device or to view which platforms allow cross-platform play, visit our article for [Different Minecraft Editions](./Different-Minecraft-Editions.md).
+If you are on a gaming console or mobile device and want to buy Minecraft for the first time, this article can help you find the right version. For questions on which edition of Minecraft is available for your device or to view which platforms allow cross-platform play, visit our article for [Different Minecraft Editions](../Get-Minecraft/Different-Minecraft-Editions.md).
 
 ## MINECRAFT FOR MOBILE
 

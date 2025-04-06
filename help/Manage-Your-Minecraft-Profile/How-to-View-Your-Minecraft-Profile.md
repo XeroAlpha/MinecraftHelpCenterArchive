@@ -2,9 +2,9 @@
 title: How to View Your Minecraft Profile
 date: 2024-06-21T21:00:34Z
 updated: 2024-09-04T21:08:19Z
-categories: Account Settings
+categories: Manage Your Minecraft Profile
 tags:
-  - section_27194076935437
+  - section_35377640016525
 link: https://help.minecraft.net/hc/en-us/articles/27780690574477-How-to-View-Your-Minecraft-Profile
 hash:
   h_01J6Z645KQ4Q8AS67XPPPNX3S9: information-on-the-profile-screen

@@ -2,8 +2,9 @@
 title: Tips for Players New to Minecraft
 date: 2025-03-27T16:52:38Z
 updated: 2025-03-27T18:56:51Z
-categories: How to Play Minecraft
+categories: Learn to Play Minecraft
 tags:
+  - trending
   - section_35367844849933
 link: https://help.minecraft.net/hc/en-us/articles/35368954858253-Tips-for-Players-New-to-Minecraft
 hash:

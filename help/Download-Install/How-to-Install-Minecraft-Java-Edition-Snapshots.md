@@ -4,7 +4,6 @@ date: 2023-10-05T21:41:36Z
 updated: 2024-08-02T22:00:48Z
 categories: Download & Install
 tags:
-  - trending
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/20143730191245-How-to-Install-Minecraft-Java-Edition-Snapshots
 hash:

@@ -8,7 +8,6 @@ tags:
   - category_account_support
   - platform_sony_playstation_4
   - platform_pc
-  - trending
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
   - use_for_autoreply

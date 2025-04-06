@@ -4,6 +4,7 @@ date: 2024-12-09T17:04:47Z
 updated: 2025-03-25T23:33:49Z
 categories: Events & Promotions
 tags:
+  - popular
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/32554180214029-Join-A-Minecraft-Movie-Live-Event
 hash:

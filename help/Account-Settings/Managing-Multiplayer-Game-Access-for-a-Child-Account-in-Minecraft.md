@@ -13,10 +13,12 @@ tags:
   - category_account_support
   - platform_macos
   - platform_pc
+  - popular
   - title_minecraft_java_bedrock_for_pc
   - section_27194076935437
   - use_for_autoreply
   - platform_xbox_series_xs
+  - section_35367616689677
   - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft
 hash:

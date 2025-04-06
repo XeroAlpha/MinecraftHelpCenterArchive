@@ -5,6 +5,7 @@ updated: 2024-07-31T19:33:19Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/6660924652557-Buying-Minecraft-for-Windows-MacOS-or-Linux
 hash:
   h_01J3R5SWSTPHZZKDDQN8HQZCHG: buying-minecraft-through-the-microsoft-store
