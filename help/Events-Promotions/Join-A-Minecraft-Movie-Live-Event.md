@@ -1,7 +1,7 @@
 ---
 title: Join A Minecraft Movie Live Event
 date: 2024-12-09T17:04:47Z
-updated: 2025-03-25T23:33:49Z
+updated: 2025-04-11T21:40:51Z
 categories: Events & Promotions
 tags:
   - popular
@@ -13,7 +13,9 @@ hash:
   h_01JQ7AFKS3KF4JGFZ9GGP7QPY0: claim-rewards
 ---
 
-From **2pm PT on Tuesday, March 25 through Monday, April 7 at 2pm PT,** Minecraft: Bedrock Edition players can join Steve and his companions in a multiplayer live event to save Midport village from a piglin invasion. Complete all challenges to earn the Yearn cape! 
+**Update:** A Minecraft Movie Live Event has been extended through **April 14 at 2pm PT**.
+
+From **2pm PT on Tuesday, March 25 through Monday, April 14 at 2pm PT,** Minecraft: Bedrock Edition players can join Steve and his companions in a multiplayer live event to save Midport village from a piglin invasion. Complete all challenges to earn the Yearn cape! 
 
 ## **Join the event!**
 
