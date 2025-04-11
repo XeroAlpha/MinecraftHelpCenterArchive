@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot the Unable to Connect to the Library Error
 date: 2021-08-10T14:24:19Z
-updated: 2023-05-11T22:55:37Z
+updated: 2025-04-11T09:22:32Z
 categories: Troubleshooting
 link: https://edusupport.minecraft.net/hc/en-us/articles/4404970355988-Troubleshoot-the-Unable-to-Connect-to-the-Library-Error
 ---
@@ -16,7 +16,7 @@ Some worlds may show this error when you load them on an outdated client. To res
 
 **Example message**
 
-![Unable_to_connect_to_the_Library.png](https://edusupport.minecraft.net/hc/article_attachments/4404977059348/Unable_to_connect_to_the_Library.png)
+![Unable_to_connect_to_the_Library.png](https://edusupport.minecraft.net/hc/article_attachments/4404977059348)
 
  
 
@@ -27,11 +27,13 @@ This table provides a list of potential causes and solutions.
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td width="312"><p><strong>Cause</strong></p></td>
-<td width="312"><p><strong>Solution</strong></p></td>
+<th scope="col" width="312"><p><strong>Cause</strong></p></th>
+<th scope="col" width="312"><p><strong>Solution</strong></p></th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td style="vertical-align: top" width="312"><p>Your firewall is blocking the required URLs required to access the in-game Library.</p></td>
 <td style="vertical-align: top" width="312"><p>Verify the required URLs are added to your network’s allow list:</p>

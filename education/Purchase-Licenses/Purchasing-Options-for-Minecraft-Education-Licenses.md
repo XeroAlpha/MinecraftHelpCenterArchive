@@ -1,7 +1,7 @@
 ---
 title: Purchasing Options for Minecraft Education Licenses
 date: 2021-05-25T15:13:57Z
-updated: 2024-05-22T22:05:33Z
+updated: 2025-04-11T09:32:42Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061371532-Purchasing-Options-for-Minecraft-Education-Licenses
 hash:
@@ -34,9 +34,8 @@ Eligible academic institutions can purchase individual licenses for Minecraft Ed
 
 *Note: Check with your IT admins before purchasing licenses as your school may already be licensed for Minecraft Education.*
 
-|  |  |
-|----|----|
 | **Option** | **Detail** |
+|----|----|
 | Direct buy | IT administrators can [purchase licenses directly from the Admin Center](./Purchase-Academic-Licenses-Directly.md).  |
 | Volume licensing via a partner | See [Purchase Academic Licenses Through Volume License](https://www.microsoft.com/en-us/licensing/licensing-programs/licensing-for-industries?rtc=1&activetab=licensing-for-industries-pivot:primaryr3) for more information on volume licensing. |
 
