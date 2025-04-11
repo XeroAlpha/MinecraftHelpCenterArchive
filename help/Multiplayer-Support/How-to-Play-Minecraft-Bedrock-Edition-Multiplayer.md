@@ -1,7 +1,7 @@
 ---
 title: "Play Minecraft: Bedrock Edition online in a multiplayer server"
 date: 2021-09-29T20:49:05Z
-updated: 2025-04-11T14:38:45Z
+updated: 2025-04-11T15:03:38Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -19,8 +19,8 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4410316619533-Play-Minecraft-Bedrock-Edition-online-in-a-multiplayer-server
 hash:
-  h_01JRBPM7RHSBCD07G5JXNQG9A3: how-to-play-on-an-online-server
-  h_01JRBPM7RHJS27BB3AE95BKQYP: how-to-add-a-server
+  h_01JRBPM7RHSBCD07G5JXNQG9A3: join-a-minecraft-bedrock-edition-online-server
+  h_01JRBPM7RHJS27BB3AE95BKQYP: add-a-minecraft-bedrock-edition-server-to-your-list
 ---
 
 You can play Minecraft: Bedrock Edition with friends online by joining their world, joining a Realm, or playing together on a server. In this article, we’ll focus on how to join a Minecraft: Bedrock Edition server.
@@ -31,9 +31,7 @@ To learn about other ways to play with friends, see:
   - [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
   - [Play Minecraft: Bedrock Edition local multiplayer](https://help.minecraft.net/hc/en-us/articles/35697355112717)
 
- 
-
-# How to play on an online server
+## Join a Minecraft: Bedrock Edition online server
 
 1.  Launch Minecraft
 2.  Select **Play** from the Minecraft title screen.
@@ -43,7 +41,7 @@ To learn about other ways to play with friends, see:
 
 For additional Minecraft servers that are safe to join and fun for all ages, see [the Official Minecraft Server List](https://findmcserver.com/).
 
-# How to add a server
+## Add a Minecraft: Bedrock Edition server to your list
 
 If the server you want to join is not in the partner/server list, you can add it manually if the server owner has provided you with the IP address. 
 
