@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.21.72 (Bedrock)
 date: 2025-04-08T12:13:39Z
-updated: 2025-04-08T16:13:56Z
+updated: 2025-04-11T17:38:44Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/35674713271949-Minecraft-1-21-72-Bedrock
 hash:
@@ -13,6 +13,8 @@ hash:
 A new update has been released to address a few more important issues since the 1.21.70 release. Please continue to report and upvote any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/).
 
 **Please note:** This update will be rolling out to the various platforms as they become available - thank you for your patience!
+
+**Update 11 April 2025:** A small additional hotfix (1.21.73) is rolling out for Windows and servers, addressing some minor backend fixes.
 
 ## Fixes 
 

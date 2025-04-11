@@ -1,7 +1,7 @@
 ---
 title: "Join a Friend’s Online World in Minecraft: Bedrock Edition"
 date: 2024-02-14T18:43:29Z
-updated: 2025-04-11T16:13:54Z
+updated: 2025-04-11T17:12:21Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -19,15 +19,23 @@ hash:
   h_01JRDT2S6ZTJ9X0FM46JQ8EPQ9: check-your-game-settings-and-subscription-status
 ---
 
-You can join a friend’s Minecraft: Bedrock Edition world if you’re both friends in Minecraft and online at the same time. Here’s how to play together and join a friend’s online world.
+You can play Minecraft: Bedrock Edition with friends online by joining their world, joining a Realm, or playing together on a server. In this article, we’ll focus on joining a friend’s online world.
+
+To learn about other ways to play with friends, see:
+
+- - [Play Minecraft: Bedrock Edition online in a multiplayer server](./How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md)
+  - [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
+  - [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-local-multiplayer.md)
+
+You can join a friend’s Minecraft: Bedrock Edition world if you’re both friends in Minecraft and online at the same time.
 
 ## Join a friend’s online world
 
 1.  Have your friend start a game online so you can see the game in Minecraft.
 2.  Launch Minecraft.
 3.  Select **Play**.
-4.  Click the **Friends** tab. Only Friends who are online will appear.
-5.  Click on your friend’s gamertag under **Joinable Friends** to enter their world.
+4.  Select the **Friends** tab. Only Friends who are online will appear.
+5.  Select your friend’s gamertag under **Joinable Friends** to enter their world.
 
 ## Check your game settings and subscription status
 

@@ -1,20 +1,20 @@
 ---
 title: "Play Minecraft: Bedrock Edition local multiplayer"
 date: 2025-04-08T22:49:26Z
-updated: 2025-04-11T15:41:17Z
+updated: 2025-04-11T17:05:03Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061
 link: https://help.minecraft.net/hc/en-us/articles/35697355112717-Play-Minecraft-Bedrock-Edition-local-multiplayer
 hash:
   h_01JRBR70WGYA6MCSWR3RYDS15W: play-minecraft-in-split-screen-mode-on-a-game-console
-  h_01JRBR70WHCJ2ETB4CRA2R54JS: play-minecraft-on-a-local-area-network-connection-lan
-  h_01JRBR70WHE80YTYQJAG2Z95XW: start-a-network-connection-lan-session
-  h_01JRBR70WH60N3B46FYAXE9RJ7: join-a-network-connection-lan-session
+  h_01JRBR70WHCJ2ETB4CRA2R54JS: play-minecraft-on-a-local-area-network-lan-connection
+  h_01JRBR70WHE80YTYQJAG2Z95XW: start-a-local-area-network-lan-connection-session
+  h_01JRBR70WH60N3B46FYAXE9RJ7: join-a-local-area-network-lan-connection-session
   h_01JRDT2S6ZTJ9X0FM46JQ8EPQ9: check-your-game-settings-and-subscription-status
 ---
 
-You can play Minecraft: Bedrock Edition with your friends using the same console in split-screen mode or on different devices by connecting over your local network connection (LAN). To learn about other ways to play with friends, see:
+You can play Minecraft: Bedrock Edition with your friends using the same console in split-screen mode or on different devices by connecting over your Local Area Network (LAN) connection. To learn about other ways to play with friends, see:
 
 - [Play Minecraft: Bedrock Edition online in a multiplayer server](./How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md)
 - [Join a Friend’s Online World in Minecraft: Bedrock Edition](./How-to-Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
@@ -30,18 +30,18 @@ Split-screen mode allows up to four players to play on the same screen at the sa
 4.  Add another player by pressing the button as directed by the on-screen prompt.
 5.  Repeat if desired for additional players.
 
-## Play Minecraft on a local area network connection (LAN)
+## Play Minecraft on a Local Area Network (LAN) connection
 
 You can play Minecraft: Bedrock Edition with friends on your network connection using different devices if both are on the same network.
 
-### Start a network connection (LAN) session
+### Start a Local Area Network (LAN) connection session
 
 1.  Select **Play** on the Minecraft title screen.
 2.  Select the **pencil** icon on the world you want to play or create a new one.
 3.  Go to the **Multiplayer** tab and make sure that **Multiplayer game** and **Visible to LAN Players** are enabled.
 4.  Select the **Play** button to start the game.
 
-### Join a network connection (LAN) session
+### Join a Local Area Network (LAN) connection session
 
 1.  Select **Play** on the Minecraft title screen.
 2.  Go to the **Worlds tab** and look for available LAN worlds.
