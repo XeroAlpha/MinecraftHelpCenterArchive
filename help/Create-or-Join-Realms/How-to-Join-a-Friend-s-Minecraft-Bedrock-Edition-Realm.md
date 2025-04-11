@@ -1,7 +1,7 @@
 ---
 title: "Join a Friend's Minecraft: Bedrock Edition Realm"
 date: 2021-09-30T23:13:51Z
-updated: 2025-04-11T14:34:39Z
+updated: 2025-04-11T16:25:29Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -19,25 +19,26 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/4410386197133-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm
 hash:
-  h_01J4A1ZJEEFPRA5Y2153HBCB8M: how-to-join-a-realm-in-bedrock
+  h_01J4A1ZJEEFPRA5Y2153HBCB8M: join-a-realm-in-minecraft-bedrock-edition
   h_01J4A1ZW8D409G1A4HFF35ATKJ: how-to-find-your-pending-realm-invites
 ---
 
-Minecraft Realms is a multiplayer service that enables you to play Minecraft: Bedrock Edition online with up to ten of your friends. Before your adventure can begin, you need to join the Realm. Here is how.
+Minecraft Realms is a multiplayer service that enables you to play Minecraft: Bedrock Edition online with up to ten of your friends. Before your adventure can begin, you need to join the Realm. Here's how.
 
-## How to Join a Realm in Bedrock
+## Join a Realm in Minecraft: Bedrock Edition
 
 1.  Launch Minecraft.
-2.  Select Settings.
-3.  Select the Friends tab.
+2.  Select **Play** on the launch screen.
+3.  Select the **Realms** tab.
+4.  Select a Realm from the list and select **Play**.
 
-From here, you can see any Realms you are currently apart of. If you see nothing in here, you will need to accept an invite from the host.
+Realms only appear if you are the Realm owner or have been invited by the Realm owner. If you don't see any Realms in your list, you will need to have the Realm owner send you an invitation to join. See [Invite Friends to your Minecraft: Bedrock Edition Realm](./How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
 
 ## How to find your pending Realm invites
 
 1.  Start Minecraft.
 2.  Select** Settings**.
-3.  Under** General** select **Account**.
+3.  Select **Account**.
 4.  Select **Manage Realms membership invites**.
 5.  Accept the invite to the Realm you want to join.
 
