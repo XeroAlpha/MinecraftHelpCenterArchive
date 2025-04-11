@@ -1,7 +1,7 @@
 ---
-title: "How to Join a Friend's Minecraft: Bedrock Edition Realm"
+title: "Join a Friend's Minecraft: Bedrock Edition Realm"
 date: 2021-09-30T23:13:51Z
-updated: 2024-08-29T16:28:15Z
+updated: 2025-04-11T14:34:39Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -17,7 +17,7 @@ tags:
   - section_26104084764557
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/4410386197133-How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm
+link: https://help.minecraft.net/hc/en-us/articles/4410386197133-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J4A1ZJEEFPRA5Y2153HBCB8M: how-to-join-a-realm-in-bedrock
   h_01J4A1ZW8D409G1A4HFF35ATKJ: how-to-find-your-pending-realm-invites
