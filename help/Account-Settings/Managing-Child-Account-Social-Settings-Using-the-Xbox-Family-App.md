@@ -24,7 +24,7 @@ When you click on the Settings icon for a child account, you'll see the followin
 
 ### Social
 
-- **Add friends and follow others:** Decide if your child account can add people to their [Friends list](../Multiplayer-Support/How-to-Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md) and follow others in Minecraft.
+- **Add friends and follow others:** Decide if your child account can add people to their [Friends list](../Multiplayer-Support/Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md) and follow others in Minecraft.
 - **Manage online communication:** Choose who your child can communicate with using the chat function in Minecraft.
 
 ### Content Restrictions

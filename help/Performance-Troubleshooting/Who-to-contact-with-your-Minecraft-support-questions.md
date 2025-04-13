@@ -49,7 +49,7 @@ For any questions regarding game performance issues, multiplayer and Realms help
 
 ## Minecraft Realms subscription and Marketplace purchases
 
-If you are having [trouble getting a friend to join your Minecraft Realms world](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md) or cannot access the [Marketplace packs](../Marketplace-Troubleshooting/View-Your-Minecraft-Marketplace-Content.md) included in your Realms Plus subscription, Minecraft Support will help you out.
+If you are having [trouble getting a friend to join your Minecraft Realms world](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md) or cannot access the [Marketplace packs](../Marketplace-Troubleshooting/View-Your-Minecraft-Marketplace-Content.md) included in your Realms Plus subscription, Minecraft Support will help you out.
 
 Having problems accessing other [Marketplace content](../Marketplace-Troubleshooting/How-to-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md) you have purchased? Minecraft Support should be your go-to. Click the Contact Support link at the bottom of any support article.
 

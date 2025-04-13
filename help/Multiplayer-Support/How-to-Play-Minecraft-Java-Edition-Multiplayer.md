@@ -22,7 +22,7 @@ hash:
   h_01FGSNR6EWBJE37XZ71G15S59T: playing-on-an-online-server
 ---
 
-*This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft: Bedrock Edition Multiplayer.](./How-to-Play-Minecraft-Bedrock-Edition-Multiplayer.md)***
+*This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft: Bedrock Edition Multiplayer.](./Play-Minecraft-Bedrock-Edition-online-in-a-multiplayer-server.md)***
 
 When playing Minecraft, you can play a single-player or multiplayer game. If you'd like to play with other people, this article outlines the different ways to play multiplayer.
 
