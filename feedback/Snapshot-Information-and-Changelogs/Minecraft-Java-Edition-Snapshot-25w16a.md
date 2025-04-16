@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w16a
 date: 2025-04-16T09:32:29Z
-updated: 2025-04-16T09:32:32Z
+updated: 2025-04-16T11:20:42Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -216,7 +216,8 @@ In this week’s snapshot leads are getting new mechanics making it possible to 
 #### LightmapInfo Uniform Block
 
 - Only available to the lightmap shader (lightmap.fsh)
-- Contains AmbientLightFactor, SkyFactor, BlockFactor, UseBrightLightmap, NightVisionFactor, DarknessScale, DarkenWorldFactor, BrightnessFactor, SkyLightColor with no change in behavior
+- Contains AmbientLightFactor, SkyFactor, BlockFactor, UseBrightLightmap, NightVisionFactor, DarknessScale,   
+  DarkenWorldFactor, BrightnessFactor, SkyLightColor with no change in behavior
 
 ## Fixed bugs in 25w16a
 

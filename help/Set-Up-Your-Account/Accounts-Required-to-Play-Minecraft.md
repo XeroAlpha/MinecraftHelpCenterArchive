@@ -1,7 +1,7 @@
 ---
 title: Accounts Required to Play Minecraft
 date: 2023-09-18T21:48:09Z
-updated: 2025-04-14T23:58:26Z
+updated: 2025-04-16T12:22:59Z
 categories: Set Up Your Account
 tags:
   - title_minecraft_java_edition
@@ -23,6 +23,8 @@ tags:
   - subject_account_migration
   - section_35367616689677
 link: https://help.minecraft.net/hc/en-us/articles/19615552270221-Accounts-Required-to-Play-Minecraft
+hash:
+  h_01JRZ8T952YS5E3T0ZSCZ1V97E: using-microsoft-accounts-for-minecraft
 ---
 
 The game version and type of account you need to play Minecraft depends on your gaming platform. You can play Minecraft without a Microsoft account on some platforms, but a [Microsoft account](https://account.microsoft.com/account) is required to enable advanced features.\*
@@ -103,7 +105,7 @@ Here’s a list of required accounts and available game versions (Minecraft: Bed
 
 \*Signing in with or linking a Microsoft account on platforms that do not require one enables features such as cross-platform play, cross-platform access to subscriptions and Marketplace purchases, parental controls, social features, Realms, and multiplayer games.
 
-**Using Microsoft accounts for Minecraft**
+## Using Microsoft accounts for Minecraft
 
 - [Get Help Signing into Minecraft with Your Microsoft Account](../Account-Sign-In/Get-Help-Signing-into-Minecraft-with-Your-Microsoft-Account.md)
 - [Sign In To Minecraft With A Microsoft Account On Mobile](../Linking-Microsoft-Accounts/How-to-Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
