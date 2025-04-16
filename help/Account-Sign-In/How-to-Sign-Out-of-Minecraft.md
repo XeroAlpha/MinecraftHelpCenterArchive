@@ -1,12 +1,12 @@
 ---
-title: How to Sign Out of Minecraft
+title: Sign Out of Minecraft
 date: 2020-07-14T23:11:19Z
-updated: 2024-05-31T20:04:27Z
+updated: 2025-04-16T20:33:07Z
 categories: Account Sign-In
 tags:
   - section_12617594906509
   - section_27194059750157
-link: https://help.minecraft.net/hc/en-us/articles/360045828292-How-to-Sign-Out-of-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/360045828292-Sign-Out-of-Minecraft
 hash:
   h_01GB5X8SVE2NNNXF3FBDVJY1ZM: sign-out-using-the-launcher
   h_01GB5X8Z3VKP9AGCPVECF2424K: sign-out-of-minecraft-on-xbox
