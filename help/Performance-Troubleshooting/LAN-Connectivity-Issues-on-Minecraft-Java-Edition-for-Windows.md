@@ -1,11 +1,11 @@
 ---
-title: "LAN Connectivity Issues on Minecraft: Java Edition for Windows"
+title: "Troubleshoot LAN Connectivity Issues on Minecraft: Java Edition for Windows"
 date: 2022-08-31T16:01:04Z
-updated: 2025-03-21T17:12:37Z
+updated: 2025-04-17T14:13:40Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
-link: https://help.minecraft.net/hc/en-us/articles/8826295828493-LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows
+link: https://help.minecraft.net/hc/en-us/articles/8826295828493-Troubleshoot-LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows
 hash:
   h_01JPWTPAR8JP63NKD9D9V6N0RJ: how-to-change-your-windows-network-profile-to-private
 ---

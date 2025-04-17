@@ -1,7 +1,7 @@
 ---
-title: Troubleshooting Unable to Join Multiplayer Worlds in Minecraft
+title: Troubleshoot Unable to Join Multiplayer Worlds in Minecraft
 date: 2021-09-14T22:13:00Z
-updated: 2025-04-02T19:48:56Z
+updated: 2025-04-17T14:12:21Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft
@@ -15,7 +15,7 @@ tags:
   - section_ 26104165751437
   - section_27166460834061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft
 hash:
   h_01JQF6M745NTTBETFF8T3YJ3ES: update-your-game-version
   h_01JQF799MN7J5BB5QK924PG7A1: check-account-permissions-and-subscriptions

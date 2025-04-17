@@ -1,7 +1,7 @@
 ---
-title: "Get Help with Minecraft: Java Edition Multiplayer"
+title: "Troubleshooting Multiplayer Game Issues in Minecraft: Java Edition"
 date: 2024-02-28T20:59:18Z
-updated: 2024-02-28T22:11:52Z
+updated: 2025-04-17T14:08:13Z
 categories: Multiplayer Support
 tags:
   - title_minecraft_java_edition
@@ -16,14 +16,14 @@ tags:
   - platform_pc
   - section_27166460834061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/24543695465357-Get-Help-with-Minecraft-Java-Edition-Multiplayer
+link: https://help.minecraft.net/hc/en-us/articles/24543695465357-Troubleshooting-Multiplayer-Game-Issues-in-Minecraft-Java-Edition
 hash:
-  h_01FGW4RM6RN52032P35NWR62A5: steps-to-resolve-connection-issues
+  h_01FGW4RM6RN52032P35NWR62A5: resolve-minecraft-java-edition-multiplayer-connection-issues
 ---
 
 If you'd like to play Minecraft: Java Edition with other people, this article can help with troubleshooting steps if you have difficulty connecting.
 
-## Steps to resolve connection issues
+## Resolve Minecraft: Java Edition multiplayer connection issues
 
 - Close Minecraft: Java Edition and reopen it.
 - Restart your computer or device and see if this fixes the issue. Restarting can often clear errors in connections.
@@ -35,5 +35,3 @@ If you'd like to play Minecraft: Java Edition with other people, this article ca
 - If you’re on a stationary device, try connecting using an Ethernet cable instead of using Wi-Fi.
 - Try reverting to a previous save of your world.
 - Switch the world slot and open a new world.
-
-You can also [Contact Minecraft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md) for assistance.
