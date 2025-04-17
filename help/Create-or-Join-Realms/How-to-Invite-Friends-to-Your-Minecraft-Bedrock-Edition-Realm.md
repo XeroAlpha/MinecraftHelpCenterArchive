@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
-updated: 2025-04-17T13:48:00Z
+updated: 2025-04-17T15:25:18Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -44,7 +44,7 @@ Realms allow members to play multiplayer Worlds even if the host is not availabl
 3.  Click the link for your Realm under the Realms heading for Minecraft: Bedrock Edition.
 4.  Find friends and invite them to your Realm.
 
-## Invite Options for Minecraft: Bedrock Edition Realms
+## Invite options for Minecraft: Bedrock Edition Realms
 
 You have several options for how you can invite friends to your Minecraft: Bedrock Edition Realm:
 

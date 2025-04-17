@@ -1,7 +1,7 @@
 ---
-title: "How to Play Minecraft: Java Edition Multiplayer"
+title: "Play Minecraft: Java Edition Multiplayer on a network connection"
 date: 2021-09-29T21:02:52Z
-updated: 2024-12-20T20:08:14Z
+updated: 2025-04-17T15:20:26Z
 categories: Multiplayer Support
 tags:
   - title_minecraft_java_edition
@@ -15,45 +15,42 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4410317081741-How-to-Play-Minecraft-Java-Edition-Multiplayer
+link: https://help.minecraft.net/hc/en-us/articles/4410317081741-Play-Minecraft-Java-Edition-Multiplayer-on-a-network-connection
 hash:
-  h_01GH9N2WH0HBF3NJAPWREF80JE: ensure-minecraft-java-edition-is-on-the-correct-version
-  h_01FGSNQW64PVTP6P03M9GJXWE2: playing-on-a-local-area-network-lan
-  h_01FGSNR6EWBJE37XZ71G15S59T: playing-on-an-online-server
+  h_01JRE4CMTKK2B2YR0ZJ58W05E0: host-a-local-area-network-lan-game
+  h_01JRE4CMTKE4HT6TCWP6Z366HG: join-a-local-area-network-lan-game
+  h_01JRE4CMTKA0NAQ9SRSM9GQXN5: resources-for-minecraft-multiplayer-games
 ---
 
-*This article applies to Minecraft: Java Edition Multiplayer options only. For information on multiplayer options for Bedrock Minecraft versions, see: **[How to Play Minecraft: Bedrock Edition Multiplayer.](./Play-Minecraft-Bedrock-Edition-online-in-a-multiplayer-server.md)***
+You can play Minecraft: Java Edition with friends online by joining their world on the same network connection. To learn about other ways to play Java Edition with friends, see:
 
-When playing Minecraft, you can play a single-player or multiplayer game. If you'd like to play with other people, this article outlines the different ways to play multiplayer.
+- [Join a Server with Friends in Minecraft: Java Edition](./How-to-Join-a-Server-with-Friends-in-Minecraft-Java-Edition.md)
+- [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
 
-## Ensure Minecraft: Java Edition is on the Correct Version 
+## Host a Local Area Network (LAN) game
 
-When playing Minecraft: Java Edition, a player's game version must be the same as the server version to play on that server, whether it's LAN or hosted online. You can see your game version number at the bottom of your main menu. 
+The host can start a multiplayer game and play in the world on the same computer. 
 
-For more information, see [Change Game Versions.](../Minecraft-Launcher-Support/How-to-Change-Game-Version-for-Minecraft-Java-Edition.md)
+1.  Launch Minecraft: Java Edition and select **Singleplayer**.
+2.  Select an existing world and click **Play Selected World** or click **Create New World**.
+3.  Press the **Esc key** to open the game menu and select **Open to LAN**. 
+4.  Adjust LAN World settings if desired and click **Start LAN World**.
 
-## Playing on a Local Area Network (LAN) 
+A message that a local game has been hosted on port \[######\] will appear in the game messages.
 
-This requires opening your home or local area network (LAN) to others who are also connected to that network. Here is how to connect for Minecraft: Java Edition.
+## Join a Local Area Network (LAN) game
 
-1.  Choose a host computer. This computer should be fast enough to play Minecraft, while running a server for other players as well.
-2.  Launch the game and click **Single Player**.
-3.  Create a new world or open an existing one. 
-4.  Inside that world, press the Esc key, and click **Open to LAN**. 
-5.  Choose a game mode to set for the other players.  
-    **Tip:** Survival is the default Minecraft mode, including life points and hunger. Creative mode allows you to fly and place an infinite number of blocks. Adventure mode is like Survival mode, but players cannot place or destroy blocks. You can also choose whether to turn cheats (commands) off or on.
-6.  Click **Start LAN World**, and you'll see a message that a local game has been hosted. Other players on the same network who wish to join can now start their game, select **Multiplayer**, and their computers should automatically detect the game. 
+After a host has started a game, players on the same LAN can join the world.
 
-## Playing on an Online Server 
+1.  Verify that your host has started the game.
+2.  Launch Minecraft: Java Edition and select **Multiplayer**.
+3.  Select the game to join. LAN games should appear automatically.
 
-This requires locating and connecting to the IP address of a multiplayer server. Minecraft Java: Edition does not require an Xbox Live subscription.
+## Resources for Minecraft multiplayer games
 
-A multiplayer server allows two or more players to play Minecraft together. You can either download the server file needed to set up your own server from [Minecraft.net](https://minecraft.net/download/server) or connect to another person’s server.
-
-Follow these steps to connect to another player’s server: 
-
-1.  Log into **Minecraft** and click **Multiplayer** on the main menu,  
-2.  Click **Add Server** and enter the IP or web address of the server.    
-    **Tip:** If you don't know the IP of a server, thousands of public servers can be located by doing a web search for something that suits your style of play. 
-
-You can also [Get Help with Minecraft: Java Edition Multiplayer](./Get-Help-with-Minecraft-Java-Edition-Multiplayer.md) or [Contact Minecraft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).
+- [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-local-multiplayer.md)
+- [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
+- [Troubleshoot LAN Connectivity Issues on Minecraft: Java Edition for Windows](../Performance-Troubleshooting/LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
+- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](./Get-Help-with-Minecraft-Java-Edition-Multiplayer.md)
