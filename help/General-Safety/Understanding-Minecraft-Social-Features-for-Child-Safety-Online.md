@@ -1,27 +1,38 @@
 ---
 title: Understanding Minecraft Social Features for Child Safety Online
 date: 2021-03-25T23:29:27Z
-updated: 2024-09-17T15:31:32Z
+updated: 2025-04-18T13:43:25Z
 categories: General Safety
 tags:
   - section_15463792344973
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/360058605852-Understanding-Minecraft-Social-Features-for-Child-Safety-Online
 hash:
-  h_01J809PGYVNGPQ8459QN08DJ0C: minecraft-bedrock-edition-and-minecraft-java-edition
-  h_01J809PGYVZJC1FN2Y12R3X7ZQ: minecraft-bedrock-edition-only
+  h_01JS2JK9W2EA5SQQQFQDJ0V0Y7: communication-methods-in-minecraft
+  h_01JS2JNPR16349BGJWQ5F0NSWM: safety-features-for-communication
+  h_01JS2JPAE0R51P62FW2XFQNRT3: player-reporting-tools
 ---
 
-It is helpful to know how to monitor your child’s behavior while playing Minecraft. It is also important to know which Minecraft edition your child is playing on, either Minecraft: Bedrock Edition or Minecraft: Java Edition. Minecraft: Java Edition is for PC, Mac, and Linux, while Minecraft: Bedrock Edition is on consoles, Chromebook, mobile devices, and Windows 10 and above. Here are the ways players can message each other through the game or with other messaging systems.  
+Minecraft contains many ways players can communicate with each other. Some communication channels are monitored and moderated by Minecraft to support our commitment to player safety. Setting up [Microsoft family groups](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md) enables controls for chat and social features allowed for a child account, and which groups can see a child account’s information.
 
-## Minecraft: Bedrock Edition and Minecraft: Java Edition 
+## Communication Methods in Minecraft
 
-- Realms Chat - Realms are personal multiplayer servers that are hosted by Mojang. While in a Realm server anybody in the server can send and see messages via the chat system. 
-- Server Chat - Servers are personal multiplayer servers that aren’t hosted or moderated by Mojang. Multiplayer servers have also have a chat system for players to send and view messages. 
-- Signs - Players can use signs, which are in game items, to display text. Four lines of text can be used to communicate on signs. 
-- Book and Quill - Another in-game item that can be used to communicate or write text down for later.  
+- **Chat**: Players can activate the Chat screen and type messages to each other by hitting \[Return\] or \[T\] while playing Minecraft. Typed messages appear on the game screen after they are entered.
+- **Signs and Banners**: Players can craft signs and banners and type up to four lines of text to be displayed. Signs are visible to anyone who plays in the same world.
+- **Book and Quill**: Players can craft a book and quill that allows them to write down experiences, create narratives, or take notes. Books can be read by anyone who finds or creates one in-game.
+- **Skins and Usernames**: Players can create their own username and custom skins with words and logos on them to decorate their in-game characters. Skins and user names must follow the [Community Standards for Minecraft](https://www.minecraft.net/en-us/community-standards) or they [can be banned](../Player-Reporting-Bans/How-to-Update-Banned-Skins-or-Usernames-in-Minecraft.md).
 
-## Minecraft: Bedrock Edition Only 
+## Safety Features for Communication
 
-Swear words and inappropriate language sent via realms chat, server chat, signs, book and quills will be censored. Players can be playing from a variety of different platforms which may have an additional messaging system. PlayStation players can send and receive messages via PSN. Other platforms will require you to have an Xbox Live account which you can also use to send and receive messages.  
+- **Profanity Filter**: The profanity filter is on by default for all accounts and cannot be turned off on child accounts. When a chat, sign, book, or other typed message with inappropriate content is posted, the profanity filter either replaces inappropriate words with hashtags (#) or completely hides the message from other players. The profanity filter in Minecraft: Bedrock Edition is active on Realms, partner servers, and other multiplayer experiences. The profanity filter is only active on Realms if you’re playing Minecraft: Java Edition.
+- **Moderation**: Text communications are monitored for appropriate interaction within multiplayer games and Realms that are hosted on Minecraft servers. Inappropriate communications can lead to [player accounts being banned](../Player-Reporting-Bans/Banned-Minecraft-Accounts-and-the-Appeal-Process.md) from playing Minecraft. Moderation in private servers is controlled by the server owner.
+- **Chat Access Controls**: You can manage child account access to chat using the [Xbox settings online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md) or the [Xbox Family app](../Account-Settings/Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md).
 
-See, [how to configure parental controls for Minecraft: Bedrock Edition](../Account-Settings/Minecraft-Bedrock-Edition-Parental-Controls-for-All-Platforms.md) for more information.
+## Player Reporting Tools
+
+Even in moderated games, your child can report bad player behavior to Minecraft. See these articles for more information:
+
+- [Guidelines For Reporting Inappropriate Player Behavior In Minecraft](../Player-Reporting-Bans/Guidelines-for-Reporting-Inappropriate-Player-Behavior-in-Minecraft.md)
+- [How To Report A Player In Minecraft: Bedrock Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Bedrock-Edition.md)
+- [How To Report A Player In Minecraft: Java Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Java-Edition.md)
+- [How To Report A Minecraft Server](../Player-Reporting-Bans/How-to-Report-a-Minecraft-Server.md)
