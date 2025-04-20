@@ -43,8 +43,8 @@ After you receive an invite to a Java Realm, you can accept it by doing the foll
 
 ## Resources for Minecraft: Java Edition Multiplayer
 
-- [Invite Friends to Your Minecraft: Java Edition Realm](./How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)
+- [Invite Friends to Your Minecraft: Java Edition Realm](./Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)
 - [Requirements to Play Minecraft: Java Edition Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
-- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Get-Help-with-Minecraft-Java-Edition-Multiplayer.md)
+- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Troubleshooting-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

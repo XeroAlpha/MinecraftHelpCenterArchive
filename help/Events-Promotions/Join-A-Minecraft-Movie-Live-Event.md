@@ -31,7 +31,7 @@ When joining, please be patient. New builds may need time to load. 
 You’ll need the most recent version of Minecraft: Bedrock Edition, an Internet connection and account permissions for multiplayer games to take part in the event. If you’re having problems joining, check out these articles:
 
 - [Minecraft Special Event Access Troubleshooting](./Minecraft-Special-Event-Access-Troubleshooting.md)
-- [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshooting Errors Playing Minecraft Multiplayer Games with a Child Account](../Account-Settings/Troubleshooting-Errors-Playing-Minecraft-Multiplayer-Games-with-a-Child-Account.md)
 
 ## **Claim Rewards**

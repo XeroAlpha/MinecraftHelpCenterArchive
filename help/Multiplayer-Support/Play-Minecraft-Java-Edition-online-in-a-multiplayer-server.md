@@ -13,8 +13,8 @@ hash:
 
 A Minecraft: Java Edition online server allows two or more players to play together and does not require a Realms subscription. To learn about other ways to play Java Edition with friends, see:
 
-- - [Play Minecraft: Java Edition Multiplayer on a network connection](./How-to-Play-Minecraft-Java-Edition-Multiplayer.md)
-  - [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
+- - [Play Minecraft: Java Edition Multiplayer on a network connection](./Play-Minecraft-Java-Edition-Multiplayer-on-a-network-connection.md)
+  - [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
 
 ## Join a Minecraft: Java Edition online server
 
@@ -34,6 +34,6 @@ Server addresses will be either an IP address (1.0.0.1) or a URL (www.example.co
 
 - [Download the Minecraft: Java Edition server](https://www.minecraft.net/en-us/download/server)
 - [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
-- [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
-- [Troubleshooting Multiplayer Game Issues in Minecraft: Java Edition](./Get-Help-with-Minecraft-Java-Edition-Multiplayer.md)
+- [Troubleshooting Multiplayer Game Issues in Minecraft: Java Edition](./Troubleshooting-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

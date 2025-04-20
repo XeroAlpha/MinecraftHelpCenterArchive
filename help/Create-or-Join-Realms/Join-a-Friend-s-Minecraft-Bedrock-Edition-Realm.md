@@ -32,7 +32,7 @@ Minecraft Realms is a multiplayer service that enables you to play Minecraft: Be
 3.  Select the **Realms** tab.
 4.  Select a Realm from the list and select **Play**.
 
-Realms only appear if you are the Realm owner or have been invited by the Realm owner. If you don't see any Realms in your list, you will need to have the Realm owner send you an invitation to join. See [Invite Friends to your Minecraft: Bedrock Edition Realm](./How-to-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
+Realms only appear if you are the Realm owner or have been invited by the Realm owner. If you don't see any Realms in your list, you will need to have the Realm owner send you an invitation to join. See [Invite Friends to your Minecraft: Bedrock Edition Realm](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
 
 ## How to find your pending Realm invites
 

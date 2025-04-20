@@ -40,7 +40,7 @@ On this page, you can change many aspects of your Realm.
 
 For more on the above areas you can manage, see the following articles:
 
-- [How to Invite Friends to Your Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-to-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)
+- [How to Invite Friends to Your Minecraft: Java Edition Realm](../Create-or-Join-Realms/Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)
 - [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
 - [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
 - [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md)

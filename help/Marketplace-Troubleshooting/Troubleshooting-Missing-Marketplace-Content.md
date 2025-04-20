@@ -17,6 +17,7 @@ tags:
   - section_24090952098445
   - use_for_autoreply
   - platform_xbox_series_xs
+  - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/24292850100621-Troubleshooting-Missing-Marketplace-Content
 ---
 

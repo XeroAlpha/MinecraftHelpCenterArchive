@@ -11,6 +11,6 @@ link: https://help.minecraft.net/hc/en-us/articles/32862841979917-Using-Marketpl
 
 Your Marketplace Pass and content is generally available on all devices you use to play Minecraft when you are signed in with your Microsoft account. Reference the articles below for different platforms to learn how to sign-in and link your Microsoft account when playing on game consoles or mobile devices.
 
-- [How to Link a Microsoft Account on Mobile](../Linking-Microsoft-Accounts/How-to-Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
-- [How to Link a Microsoft and PlayStation Account](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
-- [How to Link your Microsoft Account to Minecraft on your Nintendo Switch](../Linking-Microsoft-Accounts/How-to-Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
+- [How to Link a Microsoft Account on Mobile](../Linking-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
+- [How to Link a Microsoft and PlayStation Account](../Linking-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
+- [How to Link your Microsoft Account to Minecraft on your Nintendo Switch](../Linking-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)

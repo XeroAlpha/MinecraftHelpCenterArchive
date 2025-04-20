@@ -24,8 +24,8 @@ hash:
 
 You can play Minecraft: Java Edition with friends online by joining their world on the same network connection. To learn about other ways to play Java Edition with friends, see:
 
-- [Join a Server with Friends in Minecraft: Java Edition](./How-to-Join-a-Server-with-Friends-in-Minecraft-Java-Edition.md)
-- [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/How-to-Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
+- [Join a Server with Friends in Minecraft: Java Edition](./Play-Minecraft-Java-Edition-online-in-a-multiplayer-server.md)
+- [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
 
 ## Host a Local Area Network (LAN) game
 
@@ -50,7 +50,7 @@ After a host has started a game, players on the same LAN can join the world.
 
 - [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-local-multiplayer.md)
 - [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
-- [Troubleshoot LAN Connectivity Issues on Minecraft: Java Edition for Windows](../Performance-Troubleshooting/LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows.md)
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot LAN Connectivity Issues on Minecraft: Java Edition for Windows](../Performance-Troubleshooting/Troubleshoot-LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
-- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](./Get-Help-with-Minecraft-Java-Edition-Multiplayer.md)
+- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](./Troubleshooting-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

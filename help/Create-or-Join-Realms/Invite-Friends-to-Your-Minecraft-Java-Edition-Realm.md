@@ -30,19 +30,19 @@ To get the most out of your Realm in Minecraft: Java Edition, invite friends to 
 3.  Select your Realm and click the **Configure** button.
 4.  Click the **Players** button.
 5.  Click the **Invite Player** **button on the Players screen**.
-6.  Input the player's [Java Profile Name](../Manage-Your-Minecraft-Profile/How-To-Change-Your-In-Game-Profile-Name-in-Minecraft.md) and click the **Invite Player** button.
+6.  Input the player's [Java Profile Name](../Manage-Your-Minecraft-Profile/View-or-Change-Your-In-Game-Profile-Name-in-Minecraft.md) and click the **Invite Player** button.
 
 ## Invite friends to a Java Realm on Minecraft.net
 
 1.  Sign in to your [Microsoft account on Minecraft.net](https://www.minecraft.net/en-us/login).
 2.  Select **Realms**.
 3.  Select **Realms Settings** on the Realm you'd like your friend to join.
-4.  Enter your friend's [Java Profile Name](../Manage-Your-Minecraft-Profile/How-To-Change-Your-In-Game-Profile-Name-in-Minecraft.md) in the **Find Player** field.
+4.  Enter your friend's [Java Profile Name](../Manage-Your-Minecraft-Profile/View-or-Change-Your-In-Game-Profile-Name-in-Minecraft.md) in the **Find Player** field.
 5.  Press the **Invite** button.
 
 ## Resources for Minecraft: Java Edition Multiplayer
 
 - [Requirements to Play Minecraft: Java Edition Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
-- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Get-Help-with-Minecraft-Java-Edition-Multiplayer.md)
+- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Troubleshooting-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

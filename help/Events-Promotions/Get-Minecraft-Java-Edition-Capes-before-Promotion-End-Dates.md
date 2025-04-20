@@ -18,7 +18,7 @@ Minecraft events and promotions often award capes that you can equip on your cha
 4.  Start the latest release of Minecraft: Bedrock Edition.
 5.  Select **Dressing Room** and [locate your item in the appropriate section](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md).
 6.  Exit Minecraft: Bedrock Edition after you verified that your item is available in the Dressing Room.
-7.  [Sign out of the Minecraft Launcher](../Account-Sign-In/How-to-Sign-Out-of-Minecraft.md) and close the application.
+7.  [Sign out of the Minecraft Launcher](../Account-Sign-In/Sign-Out-of-Minecraft.md) and close the application.
 8.  Restart the Minecraft Launcher and sign in again with the same Microsoft account.
 9.  Select **Minecraft: Java Edition** in the Launcher.
 10. Select **Skins**.
@@ -30,7 +30,7 @@ It is important that you sign out and restart to make sure Minecraft: Java editi
 
 For more information, see these articles:
 
-- [How to Sign Out of Minecraft](../Account-Sign-In/How-to-Sign-Out-of-Minecraft.md)
+- [How to Sign Out of Minecraft](../Account-Sign-In/Sign-Out-of-Minecraft.md)
 - [How to Redeem a Code for In-Game Downloadable Content in Minecraft](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
 - [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md)
 - [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)

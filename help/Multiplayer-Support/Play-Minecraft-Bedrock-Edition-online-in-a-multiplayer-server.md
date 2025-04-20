@@ -53,4 +53,4 @@ If the server you want to join is not in the partner/server list, you can add it
 6.  Enter the server’s port, if required. The default port for Minecraft: Bedrock Edition is 19132.
 7.  Select **Add and play** if you’d like to play immediately or **Add server** if you want to play later. 
 
-If you’re having issues joining a multiplayer world, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+If you’re having issues joining a multiplayer world, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)

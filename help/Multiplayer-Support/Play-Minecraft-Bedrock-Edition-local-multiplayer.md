@@ -59,4 +59,4 @@ If you encounter any problems starting a multiplayer game, here are some things 
 - **Update to the newest Minecraft version**: You may encounter problems connecting to multiplayer games if all players aren’t playing the most recent Minecraft version. See our [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) section for information about manually updating Minecraft.
 - **Subscribe to your platform’s online service (console only)**:  An active [Xbox Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass), [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/), or [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/) subscription is required for online play.
 
-For more tips, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](../Troubleshoot-Minecraft-Realms/Troubleshooting-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+For more tips, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
