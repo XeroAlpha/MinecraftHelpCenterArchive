@@ -1,8 +1,8 @@
 ---
-title: How to Cancel a Minecraft Realms Subscription
+title: Cancel a Minecraft Realms subscription in the Minecraft menu
 date: 2024-02-14T19:17:39Z
-updated: 2025-01-02T21:30:36Z
-categories: Manage Realms Subscriptions
+updated: 2025-04-21T14:58:14Z
+categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft_java_edition
   - title_minecraft
@@ -16,44 +16,44 @@ tags:
   - platform_pc
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
-  - section_26104341937421
   - use_for_autoreply
   - section_28872593033869
   - subject_canceling_a_realm
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/24123767171469-How-to-Cancel-a-Minecraft-Realms-Subscription
+  - section_36000025812877
+link: https://help.minecraft.net/hc/en-us/articles/24123767171469-Cancel-a-Minecraft-Realms-subscription-in-the-Minecraft-menu
 hash:
-  h_01J4A5GX1TNZQ30580V1SEN68P: how-to-cancel-a-minecraft-bedrock-edition-realms-subscription
-  h_01JGMEKGTJBRJTA3E1Y44FDWKF: canceling-realms-subscription-on-playstation-5
-  h_01J4A5H1X8WSD9K0Z7QW7145H5: how-to-cancel-a-minecraft-java-edition-realms-subscription
+  h_01JRGTZCHNBZ5N0M99D5ZGNKD7: cancel-a-minecraft-bedrock-edition-realm-in-minecraft
+  h_01JRGW4TCXS5YV0GF2CX8ZHDYZ: cancel-a-realms-subscription-on-playstation-5
+  h_01JRGV091SGXRJ7XD8HZTEVD8E: cancel-a-realms-subscription-on-the-platforms-website
 ---
 
-When you cancel your Minecraft Realms subscription, you can still access your Realm until the renewal date, but payments will no longer be automatically taken out of your account. Here is how to stop either your Bedrock or Java Realms subscription.
+Subscriptions for Minecraft: Bedrock Edition Realms need to be canceled through the same game platform account used to start the subscription. If you’re still playing on the platform you used to start the subscription, you can cancel through the Minecraft game menu. Minecraft: Java Edition Realms need to be [cancelled through your Microsoft account](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md).
 
-## How to cancel a Minecraft: Bedrock Edition Realms subscription
+## Cancel a Minecraft: Bedrock Edition Realm in Minecraft
 
-Minecraft: Bedrock Edition subscriptions are managed through the stores on the platform where you first activated your subscription.  PS5 players view the next section.
-
-1.  Open Minecraft on the device you bought your Realms subscription.
-2.  Click **Settings**.
-3.  On the left, scroll down and select **Subscriptions**.
-4.  Click the **Cancel** button under your Realms subscription to open the store you used to start your subscription.
+1.  Launch Minecraft: Bedrock Edition on the device you used to start your Realms subscription.
+2.  Select **Settings**.
+3.  Select **Subscriptions** from the menu on the left.
+4.  Select the **Cancel** button for the Realms subscription you wish to cancel. You’ll be redirected to the store you used to subscribe.
 5.  Follow the on-screen instructions to turn off recurring billing or cancel any future payments.
 
-### Canceling Realms subscription on PlayStation 5
+## Cancel a Realms subscription on PlayStation 5
+
+Cancelling a Realms subscription on a PlayStation 5 (PS5) is done through the PS5 subscription management options.
 
 1.  Select **Settings** on your PS5 home screen.
 2.  Select **Users and Accounts**.
 3.  In the **Account** section, select **Payment and Subscriptions**.
-4.  Select **Game and App Services**.
+4.  Select **Game and App Services.**
 5.  Find and select **Minecraft**.
 6.  Select your Realms subscription.
-7.  Select **Turn Off Auto-Renew**.
+7.  Select **Turn Off Auto-Renew**.
 
-## How to cancel a Minecraft: Java Edition Realms subscription
+## Cancel a Realms subscription on the platform’s website
 
-1.  Sign into your [Microsoft account](https://account.microsoft.com/billing/redeem).
-2.  Select **Services & subscriptions**.
-3.  Find your Realm subscription and select **Manage**.
-4.  Select either **Turn off recurring billing** or **Cancel subscription**.
-5.  Follow the on-screen instructions to accept the changes.
+Here are other ways to cancel your Minecraft Realms subscription:
+
+- [Cancel a Minecraft Realms subscription started on personal computer](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md)
+- [Cancel a Minecraft Realms subscription started on a mobile device](./Cancel-a-Minecraft-Realms-subscription-started-on-a-mobile-device.md)
+- [Cancel a Minecraft Realms subscription started on a game console](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-started-on-a-game-console.md)
