@@ -1,41 +1,31 @@
 ---
-title: How to View Your Minecraft Profile
+title: How to View and Edit Your Minecraft Profile
 date: 2024-06-21T21:00:34Z
-updated: 2024-09-04T21:08:19Z
+updated: 2025-04-22T19:39:36Z
 categories: Manage Your Minecraft Profile
 tags:
   - section_35377640016525
-link: https://help.minecraft.net/hc/en-us/articles/27780690574477-How-to-View-Your-Minecraft-Profile
+link: https://help.minecraft.net/hc/en-us/articles/27780690574477-How-to-View-and-Edit-Your-Minecraft-Profile
 hash:
-  h_01J6Z645KQ4Q8AS67XPPPNX3S9: information-on-the-profile-screen
-  h_01J6Z0WW62WK5VC3FNNTH4CX8D: overview-tab
-  h_01J6Z0X0G2RCJ3S28EWGQ3FRAP: stats-tab
+  h_01JSFFW0YYRNS0MKW9B88NW0RE: view-your-minecraft-profile
+  h_01JSFFYVAF25KXYC882Q35J234: change-your-profile-image
+  h_01JSFG0DMQED66WJBD98K2BG8E: manage-the-ability-to-invite-friends-and-view-profiles
 ---
 
-Your Minecraft Profile is your hub for viewing your achievements and game stats as well as connecting with friends. Your Profile can be shown or hidden from other players by visiting the [Xbox Privacy & Online Safety Page](https://www.xbox.com/en-US/user/settings/privacy-and-safety), or you can visit [Manage who can see your Minecraft profile](./Manage-Your-Profile-on-Minecraft-Bedrock-Edition.md) to learn more.
+Your Minecraft Profile is your hub for viewing game-play history and statistics, [screenshots](./Manage-Your-Screenshots-on-Your-Minecraft-Profile.md), [achievements](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-Achievements.md), and your [friends list](../Multiplayer-Support/Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md).
 
-**Here's how to view your profile:**
+## View your Minecraft Profile
 
 1.  Launch Minecraft: Bedrock edition.
-2.  Click the **Profile** button when you are in the launch screen.
+2.  Click the **Profile** button on the launch screen.
 
-You can also find the **Profile** button by pressing the **Esc** key when playing Minecraft or searching for your own profile from the Add Friends screen.
+## Change your profile image
 
-## Information on the Profile Screen
+Your Minecraft Profile Image reflects the active character you have in Minecraft and also displays on your Profile button. If you haven’t signed in recently, it may appear like a block or a grey square. To change your character’s skin, see [Equip Minecraft Character Creator Items and Skins in the Dressing Room](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md).
 
-The profile screen provides statistics from your time in Minecraft, chronicles your achievements, and gives you insights into new accomplishments you can try. Here's what you'll find:
+## Manage the ability to invite friends and view profiles
 
-### Overview Tab
+Microsoft and Xbox family settings allow you to control who can view profiles and how players connect with friends online. See these articles for information:
 
-- Friends
-- Achievements
-- Suggested Achievements
-
-You can also learn more about earning [Minecraft: Bedrock Edition Achievements.](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-Achievements.md)
-
-### Stats Tab
-
-- Time Played
-- Blocks broken
-- Mobs defeated
-- Distance travelled
+- [Managing Child Account Social Settings Using the Xbox Family App](../Account-Settings/Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md)
+- [Managing Child Account Social Settings Using Xbox Settings Online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
