@@ -1,7 +1,7 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2025-04-18T19:40:57Z
+updated: 2025-04-22T18:44:58Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
@@ -71,7 +71,7 @@ Note: The downloaded file will continue to backup to the same location if the sa
 
  
 
-![Picture1.png](https://edusupport.minecraft.net/hc/article_attachments/23498417208852)
+![Screenshot of Cloud Storage settings page](https://edusupport.minecraft.net/hc/article_attachments/23498417208852)
 
 ** **
 
@@ -167,7 +167,7 @@ Currently, OneDrive is the only supported cloud storage location.
 
 Yes, you can go into Settings/Cloud Storage and toggle off “Enable world backups to OneDrive”.
 
-![2024-04-04 11_58_03-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/25303620083348)
+![Screenshot of option to turn off cloud backups](https://edusupport.minecraft.net/hc/article_attachments/25303620083348)
 
  
 
@@ -197,7 +197,7 @@ If you got this error when you closed your world:
 
 ***Error Code: 403x5***
 
-*![2024-06-18 11_52_27-Cloud Support Article R21.docx and 1 more page - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/27680220787220)*
+*![Screenshot of error 403x5](https://edusupport.minecraft.net/hc/article_attachments/27680220787220)*
 
  
 
@@ -208,7 +208,7 @@ If you got this error when you closed your world:
 
  
 
-***![2024-04-04 12_01_21-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/25303636899604)***
+***![Screenshot of error 401, Cloud Access Problem](https://edusupport.minecraft.net/hc/article_attachments/25303636899604)***
 
   
 Here are some steps you can take to figure out the issue:
@@ -225,7 +225,7 @@ Here are some steps you can take to figure out the issue:
 
 If you got this error when you closed your world:
 
-![2024-04-04 12_06_40-Cloud Support article.docx and 4 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/25303636910228)
+![Screesnhot of error 400, Upload Failed](https://edusupport.minecraft.net/hc/article_attachments/25303636910228)
 
 **Upload failed**
 
@@ -279,7 +279,7 @@ Here are some steps you can take to resolve this issue:
 
 If you got this error when you closed your world:
 
-![error_5x4.png](https://edusupport.minecraft.net/hc/article_attachments/31365075809940)
+![Screenshot of error 5x4, World download Failed](https://edusupport.minecraft.net/hc/article_attachments/31365075809940)
 
 **World download failed**
 
