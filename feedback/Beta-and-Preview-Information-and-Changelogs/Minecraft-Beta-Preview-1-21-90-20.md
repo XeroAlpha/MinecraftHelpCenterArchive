@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.90.20
 date: 2025-04-22T15:40:08Z
-updated: 2025-04-22T16:00:18Z
+updated: 2025-04-23T08:36:05Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36030119254925-Minecraft-Beta-Preview-1-21-90-20
 hash:
@@ -173,7 +173,7 @@ All leashable entities now behave more naturally when being pulled.
 
 ### User Interface
 
-- Cursor position now correctly updates when pressing down on L3 or D-pad while hovering a bundle ([MCPE-189370](https://bugs.mojang.com/browse/MCPE-189370))
+- Cursor position now correctly updates when pressing down on L3 or D-pad while hovering a bundle ([MCPE-189314](https://bugs.mojang.com/browse/MCPE-189314))
 - Bundle tooltip no longer overlaps with item tooltips when quickly interacting with empty inventory slots on touch devices ([MCPE-187171](https://bugs.mojang.com/browse/MCPE-187171))
 - Bundle UI now correctly disappears when switching Inventory tabs with controller input
 - New items and blocks related to the Happy Ghast no longer have a trailing space in their names ([MCPE-199213](https://bugs.mojang.com/browse/MCPE-199213))
