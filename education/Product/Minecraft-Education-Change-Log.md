@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-04-03T00:50:46Z
+updated: 2025-04-23T18:19:02Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-beta-game-client-update-version-1218---released-32025
+  h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-game-client-minor-update-version-12110---released-42325
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-beta-game-client-update-version-1218---released-32025
   01JPTFTQQKCTAW4SWQVABVJF16: minecraft-education-preview--beta-game-client-update-version-12151---released-12825
   01JJQ31EYAEVJXX7DMDJ68TCSH: minecraft-education-preview--beta-game-client-update-version-12150---released-121924
   01JGCR8BXESAPQ37R0X32MS6RV: minecraft-education-preview--beta-game-client-update-version-12140---released-111924
@@ -49,6 +50,13 @@ Minecraft Education periodically releases updates to our game and companion apps
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
+
+## Minecraft Education Game Client Minor Update (version 1.21.10) - Released 4/23/25
+
+- MacOS client freeze fix
+- Coding stability improvements
+- Other bug fixes  
+    
 
 ## Minecraft Education Beta Game Client Update (version 1.21.8) - Released 3/20/25
 
