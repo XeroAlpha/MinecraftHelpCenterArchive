@@ -1,7 +1,7 @@
 ---
 title: View or Change Your In-Game Profile Name in Minecraft
 date: 2021-09-10T21:08:08Z
-updated: 2025-04-17T15:02:40Z
+updated: 2025-04-23T20:54:26Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
@@ -25,12 +25,12 @@ link: https://help.minecraft.net/hc/en-us/articles/4408950195341-View-or-Change-
 hash:
   h_01GE5JWG2HCPKHCV3R7T7DMXQR: minecraft-bedrock-edition-gamertag
   h_01GE5JWN8T888EHWSWTXJ7BEXH: minecraft-java-edition-java-profile-name
-  h_01GE5JX1Z0CZ833A7S54Y195KV: minecraft-for-nintendo-switch
+  h_01GE5JX1Z0CZ833A7S54Y195KV: minecraft-for-nintendo-switch-account-nickname
 ---
 
 Your character name that displays in-game is associated with the version of Minecraft you play or the game console you use.
 
-### Minecraft: Bedrock Edition Gamertag
+## Minecraft: Bedrock Edition Gamertag
 
 Your in-game name is the Gamertag associated with your Xbox account. Here’s how to update it:
 
@@ -38,7 +38,7 @@ Your in-game name is the Gamertag associated with your Xbox account. Here’s ho
 2.  View your exiting gamertag or enter a new gamertag.
 3.  Click on **Check Availability** and follow the on-screen instructions if changing your gamertag.
 
-### Minecraft: Java Edition Java Profile Name
+## Minecraft: Java Edition Java Profile Name
 
 Your in-game name is your Java profile name and not your Gamertag (although, they can be the same). The only time you will see your Minecraft Java profile name is in-game and in your Minecraft account settings. You can view or update it by following these steps:
 
@@ -49,7 +49,7 @@ Your in-game name is your Java profile name and not your Gamertag (although, the
 
 **Note:** You can change your Java profile name once every 30 days. If you change your mind after changing your Java profile name, you can go back to your old name after waiting 30 days.
 
-### Minecraft for Nintendo Switch 
+## Minecraft for Nintendo Switch account nickname
 
 Your in-game name for Minecraft is displayed as your Nintendo account nickname. Visit [Nintendo Support](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63086/~/how-to-change-nintendo-account-nickname) to change your nickname, or follow these steps directly on your Switch:
 

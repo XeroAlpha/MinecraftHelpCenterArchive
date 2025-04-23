@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Video and Graphics Issues in Minecraft: Java Edition"
 date: 2021-09-13T18:03:20Z
-updated: 2024-08-16T00:03:28Z
+updated: 2025-04-23T21:14:25Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -24,8 +24,6 @@ hash:
 
 *This article addresses Minecraft: Java Edition technical issues only. Visit [Minecraft: Bedrock Edition](./Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition.md).* 
 
- 
-
 ## Issues with Frame or Pixel Format 
 
 If you have performance issues or receive an error message saying **Pixel format not accelerated**, you may have outdated video card drivers or software. Try the following:
@@ -45,7 +43,7 @@ If you are trying to launch Minecraft on an ARM64 device running Windows, you mi
 
 When textures from resource packs do not load properly, the game replaces them with pink and black checkered boxes. This occurs when the textures are not in the game’s assigned directory folder or did not download correctly.  
 
-To restore textures:
+**To restore textures:**
 
 1.  Launch Minecraft, click **Options**, then click **Resource Packs**. 
 2.  Open the **Resources Pack** folder and delete all textures from this folder.  
@@ -54,7 +52,5 @@ To restore textures:
 5.  Re-enable the textures by clicking on the Pack under **Available** to move it to Selected. Press **Done**.
 
 If these steps do not resolve your issue, try reaching out to the creator of the resource packs for help.
-
- 
 
 If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md).
