@@ -1,7 +1,7 @@
 ---
 title: How to Buy Minecoins on Minecraft.net
 date: 2024-10-22T18:41:19Z
-updated: 2024-11-14T16:40:24Z
+updated: 2025-04-24T16:29:28Z
 categories: Buying Marketplace Content
 tags:
   - section_31867594896141
@@ -29,5 +29,5 @@ There is now a way to purchase Minecoins for your Minecraft Marketplace purchase
 For more help with Minecoins, see the below articles:
 
 - [How to Update Your Microsoft Account Payment Information for Minecraft](../Account-Settings/How-to-Update-Your-Microsoft-Account-Payment-Information-for-Minecraft.md)
-- [Minecraft Refund Policy](../Buying-Minecraft-Games/Minecraft-Refund-Policy.md)
+- [Request a Minecraft Refund](../Buying-Minecraft-Games/Minecraft-Refund-Policy.md)
 - [How to Access the Minecraft Marketplace](./How-to-Access-the-Minecraft-Marketplace.md)

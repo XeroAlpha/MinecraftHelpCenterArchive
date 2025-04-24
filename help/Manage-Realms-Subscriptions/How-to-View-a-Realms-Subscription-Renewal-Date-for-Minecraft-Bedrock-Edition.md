@@ -1,12 +1,12 @@
 ---
-title: "How to View a Realms Subscription Renewal Date for Minecraft: Bedrock Edition"
+title: "View your Minecraft: Bedrock Edition Realms subscription renewal date"
 date: 2024-02-16T20:00:04Z
-updated: 2024-08-02T18:35:01Z
+updated: 2025-04-24T16:42:19Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
   - section_28872593033869
-link: https://help.minecraft.net/hc/en-us/articles/24186425321741-How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/24186425321741-View-your-Minecraft-Bedrock-Edition-Realms-subscription-renewal-date
 ---
 
 **How to view your Realms subscription expiration date for Minecraft: Bedrock Edition Realms**
@@ -17,8 +17,8 @@ link: https://help.minecraft.net/hc/en-us/articles/24186425321741-How-to-View-a-
 
 3.  Find the Realm and you will see how many days are left until your next payment is due.
 
-If your Realm is expired, see [How Do I Renew an Expired Minecraft: Bedrock Edition Realm Subscription?](./How-to-Renew-an-Expired-Minecraft-Bedrock-Edition-Realms-Subscription.md)
+If your Realm is expired, see [Renew an Expired Minecraft: Bedrock Edition Realms Subscription](./How-to-Renew-an-Expired-Minecraft-Bedrock-Edition-Realms-Subscription.md)
 
 To cancel, see [How to Cancel a Minecraft Realms Subscription](https://help.minecraft.net/hc/en-us/articles/24124939590413-How-Do-I-Cancel-a-Minecraft-Bedrock-Edition-Realms-Subscription)
 
-For updating your payment method, see [How to Update Your Payment Method for Minecraft Realms](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md).
+For updating your payment method, see [Updating Your Payment Method for Minecraft Realms on PC](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md).

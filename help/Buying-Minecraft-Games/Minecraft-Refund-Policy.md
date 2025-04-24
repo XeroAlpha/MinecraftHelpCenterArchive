@@ -1,7 +1,7 @@
 ---
-title: Minecraft Refund Policy
+title: Request a Minecraft Refund
 date: 2019-07-09T18:56:41Z
-updated: 2024-07-31T21:11:57Z
+updated: 2025-04-24T16:50:03Z
 categories: Buying Minecraft Games
 tags:
   - category_refund_support
@@ -13,7 +13,7 @@ tags:
   - section_27286537389453
   - section_28871651550221
   - section_31867594896141
-link: https://help.minecraft.net/hc/en-us/articles/360030463592-Minecraft-Refund-Policy
+link: https://help.minecraft.net/hc/en-us/articles/360030463592-Request-a-Minecraft-Refund
 hash:
   h_01J42AFK5GTYYFE887JX4Q02S1: request-a-refund-from-the-microsoft-store
   h_01J42AFRJNETE982X9EDWKKEXC: refunds-for-minecraft-realms
@@ -25,7 +25,7 @@ Each store that sells Minecraft has its own return policy. Please visit the stor
 - Nintendo – [Nintendo Return & Exchange Policy](https://www.nintendo.com/us/returns-exchanges/)
 - Apple App Store - [Request a Refund for Apps](https://support.apple.com/en-us/118223)
 - Google Play - [Google Play Refund Policy](https://support.google.com/googleplay/answer/2479637?visit_id=638572793086233839-3272779573&rd=1)
-- PlayStation – [Playstation Refund Policy](https://www.playstation.com/en-us/support/store/ps-store-refund-request/)
+- PlayStation – [PlayStation Refund Policy](https://www.playstation.com/en-us/support/store/ps-store-refund-request/)
 - Steam – [Steam Refund Policy](https://store.steampowered.com/steam_refunds)
 
 Generally, Minecraft games purchased from Minecraft.net or the Microsoft/Xbox store are eligible for a refund within 14 days of the purchase date.
