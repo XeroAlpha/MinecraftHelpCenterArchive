@@ -1,7 +1,7 @@
 ---
-title: "Manage Your Profile on Minecraft: Bedrock Edition"
+title: How to View and Edit Your Minecraft Profile
 date: 2024-06-21T20:53:31Z
-updated: 2025-04-02T23:12:55Z
+updated: 2025-04-24T17:33:46Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
@@ -18,38 +18,27 @@ tags:
   - platform_xbox_series_xs
   - subject_account_profile
   - section_35377640016525
-link: https://help.minecraft.net/hc/en-us/articles/27780504581389-Manage-Your-Profile-on-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/27780504581389-How-to-View-and-Edit-Your-Minecraft-Profile
 hash:
-  h_01J0Y94ZEJZ6HD3Q23MT37HEN4: manage-the-ability-to-invite-friends
-  h_01J0Y94TZNXXQ81RKWCP1AKRCD: control-who-can-view-profile-information
-  h_01J0Y94N52JWMY874011CVXKKF: permission-options
+  h_01JSFFW0YYRNS0MKW9B88NW0RE: view-your-minecraft-profile
+  h_01JSFFYVAF25KXYC882Q35J234: change-your-profile-image
+  h_01JSFG0DMQED66WJBD98K2BG8E: manage-the-ability-to-invite-friends-and-view-profiles
 ---
 
-Your Minecraft profile includes your game-play history, achievements, stats, bio, and your friends list.
+Your Minecraft Profile is your hub for viewing game-play history and statistics, [screenshots](./Manage-Your-Screenshots-on-Your-Minecraft-Profile.md), [achievements](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-Achievements.md), and your [friends list](../Multiplayer-Support/Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md).
 
-## Manage the ability to invite friends
+## View your Minecraft Profile
 
-1.  Visit the [Xbox Privacy & Online Safety Page](https://www.xbox.com/en-US/user/settings/privacy-and-safety/2535473438853044) and sign in. If you are managing a Child Account, be sure to sign in with the Parental Account.
-2.  Select the gamerpic of the account you wish to manage.
-3.  Select the **Xbox Series X\|S, Xbox One, and Windows 10 devices Online Safety** tab.
-4.  Set **You Can Add Friends** to **Allow** so you can invite friends to view a profile.
-5.  Click the **Submit** button.
+1.  Launch Minecraft: Bedrock edition.
+2.  Click the **Profile** button on the launch screen.
 
-## Control who can view Profile information
+## Change your profile image
 
-1.  From the [Privacy & Online Safety Page](https://www.xbox.com/en-US/user/settings/privacy-and-safety/2535473438853044), select the **Privacy** tab.
-2.  Review and set view permissions for your Friends and others:  
-    \* See Other People’s Xbox Live Profiles  
-    \* Others Can See Your Friend List  
-    \* Others Can See If You’re Online  
-    \* Real Name
-3.  Save your settings by pressing Submit and restart Minecraft for the new permissions to take effect.
+Your Minecraft Profile Image reflects the active character you have in Minecraft and also displays on your Profile button. If you haven’t signed in recently, it may appear like a block or a grey square. To change your character’s skin, see [Equip Minecraft Character Creator Items and Skins in the Dressing Room](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md).
 
-### Permission options:
+## Manage the ability to invite friends and view profiles
 
-**Everyone** – your information is public  
-**Friends** – only visible to players on your friend list  
-**Blocked** – your information is not visible to any players
+Microsoft and Xbox family settings allow you to control who can view profiles and how players connect with friends online. See these articles for information:
 
-  
-Be sure to also view our article on [Managing Multiplayer Game Access for a Child Account](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) in Minecraft for more information on privacy settings.
+- [Managing Child Account Social Settings Using the Xbox Family App](../Account-Settings/Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md)
+- [Managing Child Account Social Settings Using Xbox Settings Online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
