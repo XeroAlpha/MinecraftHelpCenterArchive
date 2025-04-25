@@ -1,12 +1,12 @@
 ---
-title: "View your Minecraft: Bedrock Edition Realms subscription renewal date"
+title: "View a Minecraft: Bedrock Edition Realms Subscription Renewal Date"
 date: 2024-02-16T20:00:04Z
-updated: 2025-04-24T16:42:19Z
+updated: 2025-04-25T15:54:39Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421
   - section_28872593033869
-link: https://help.minecraft.net/hc/en-us/articles/24186425321741-View-your-Minecraft-Bedrock-Edition-Realms-subscription-renewal-date
+link: https://help.minecraft.net/hc/en-us/articles/24186425321741-View-a-Minecraft-Bedrock-Edition-Realms-Subscription-Renewal-Date
 ---
 
 **How to view your Realms subscription expiration date for Minecraft: Bedrock Edition Realms**
