@@ -29,5 +29,5 @@ There is now a way to purchase Minecoins for your Minecraft Marketplace purchase
 For more help with Minecoins, see the below articles:
 
 - [How to Update Your Microsoft Account Payment Information for Minecraft](../Account-Settings/How-to-Update-Your-Microsoft-Account-Payment-Information-for-Minecraft.md)
-- [Request a Minecraft Refund](../Buying-Minecraft-Games/Minecraft-Refund-Policy.md)
+- [Request a Minecraft Refund](../Buying-Minecraft-Games/Request-a-Minecraft-Refund.md)
 - [How to Access the Minecraft Marketplace](./How-to-Access-the-Minecraft-Marketplace.md)

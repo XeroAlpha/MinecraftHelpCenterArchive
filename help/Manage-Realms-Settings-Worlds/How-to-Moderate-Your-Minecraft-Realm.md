@@ -10,7 +10,6 @@ tags:
   - platform_windows_10
   - platform_nintendo_switch
   - category_realms_support
-  - subject_other_realms_questions
   - platform_sony_playstation_4
   - platform_linux
   - platform_macos

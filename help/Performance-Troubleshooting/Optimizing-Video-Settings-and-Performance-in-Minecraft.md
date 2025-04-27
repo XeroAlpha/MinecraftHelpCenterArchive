@@ -13,6 +13,7 @@ tags:
   - platform_linux
   - platform_macos
   - platform_pc
+  - platform_windows_11
   - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply

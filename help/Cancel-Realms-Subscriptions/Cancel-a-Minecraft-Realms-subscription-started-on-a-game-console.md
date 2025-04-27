@@ -4,7 +4,18 @@ date: 2025-04-10T22:15:23Z
 updated: 2025-04-21T14:43:40Z
 categories: Cancel Realms Subscriptions
 tags:
+  - title_minecraft
+  - platform_xbox_one
+  - platform_nintendo_switch
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_sony_playstation_4
+  - platform_xbox_series_x/s
+  - platform_sony_playstation_5
+  - use_for_autoreply
   - section_28872593033869
+  - subject_canceling_a_realm
+  - platform_xbox_series_xs
   - section_36000025812877
 link: https://help.minecraft.net/hc/en-us/articles/35758076856973-Cancel-a-Minecraft-Realms-subscription-started-on-a-game-console
 hash:

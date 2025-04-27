@@ -4,7 +4,25 @@ date: 2025-04-10T22:20:07Z
 updated: 2025-04-21T14:53:03Z
 categories: Cancel Realms Subscriptions
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_windows_10
+  - category_realms_support
+  - subject_other_realms_questions
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - platform_PC
+  - platform_macOS
+  - title_minecraft_java_&_bedrock_for_pc
+  - platform_windows10/11
+  - platform_windows_11
+  - platform_windows_10/11
+  - platform_chromebook
+  - title_minecraft_java_bedrock_for_pc
+  - use_for_autoreply
   - section_28872593033869
+  - subject_canceling_a_realm
   - section_36000025812877
 link: https://help.minecraft.net/hc/en-us/articles/35758234749581-Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer
 hash:

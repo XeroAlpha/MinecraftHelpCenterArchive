@@ -25,6 +25,6 @@ link: https://help.minecraft.net/hc/en-us/articles/29011441596301-Troubleshootin
 
 If you encounter a 'Couldn't Create Realm Right Now' error, here are some things to try to get your world going again:
 
-- **Confirm your subscription:** Confirm that you do have an active subscription within the platform store (IE the PlayStation store, or the Xbox Store, etc) you used to start your Realm. See [View your Minecraft: Bedrock Edition Realms subscription renewal date](../Manage-Realms-Subscriptions/How-to-View-a-Realms-Subscription-Renewal-Date-for-Minecraft-Bedrock-Edition.md).
+- **Confirm your subscription:** Confirm that you do have an active subscription within the platform store (IE the PlayStation store, or the Xbox Store, etc) you used to start your Realm. See [View your Minecraft: Bedrock Edition Realms subscription renewal date](../Manage-Realms-Subscriptions/View-a-Minecraft-Bedrock-Edition-Realms-Subscription-Renewal-Date.md).
 - **Restart Minecraft:** Try restarting Minecraft on your device and verify you are connected to the internet. After restarting the game, check to see if a Realm appears on the worlds list. 
 - **Try to start a new subscription:** You can try entering the Marketplace and restarting the purchase flow by clicking **Subscribe Now**. You will not need to complete the purchase again, so make sure you do not progress beyond the platform store pop up. This should cause the game to retry creating your Realm.

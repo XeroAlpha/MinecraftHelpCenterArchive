@@ -38,6 +38,6 @@ If you are on a device that meets the above specs and are still experiencing iss
 
 ## Information about sunset devices
 
-After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Manage-Realms-Subscriptions/How-to-Cancel-a-Minecraft-Realms-Subscription.md).
+After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-in-the-Minecraft-menu.md).
 
 After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.

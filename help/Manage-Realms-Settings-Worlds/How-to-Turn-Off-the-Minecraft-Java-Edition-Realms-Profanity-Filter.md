@@ -14,7 +14,6 @@ tags:
   - platform_pc
   - section_12618497714061
   - title_minecraft_java_bedrock_for_pc
-  - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/6160517019149-How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter
 hash:
   h_01HWE50EK3EFF0GZ9PBE1JS8Z6: how-to-disable-the-minecraft-java-edition-realms-profanity-filter

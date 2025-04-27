@@ -4,18 +4,24 @@ date: 2024-02-14T19:17:39Z
 updated: 2025-04-21T14:58:14Z
 categories: Cancel Realms Subscriptions
 tags:
-  - title_minecraft_java_edition
   - title_minecraft
   - platform_xbox_one
   - platform_windows_10
+  - platform_ios
+  - platform_android
   - platform_nintendo_switch
   - category_realms_support
+  - subject_other_realms_questions
   - platform_sony_playstation_4
-  - platform_linux
-  - platform_macos
+  - platform_kindle_fire
+  - platform_other
   - platform_pc
+  - title_minecraft_java_&_bedrock_for_pc
+  - platform_windows10/11
+  - platform_windows_11
+  - platform_windows_10/11
   - platform_sony_playstation_5
-  - title_minecraft_java_bedrock_for_pc
+  - platform_chromebook
   - use_for_autoreply
   - section_28872593033869
   - subject_canceling_a_realm
@@ -28,7 +34,7 @@ hash:
   h_01JRGV091SGXRJ7XD8HZTEVD8E: cancel-a-realms-subscription-on-the-platforms-website
 ---
 
-Subscriptions for Minecraft: Bedrock Edition Realms need to be canceled through the same game platform account used to start the subscription. If you’re still playing on the platform you used to start the subscription, you can cancel through the Minecraft game menu. Minecraft: Java Edition Realms need to be [cancelled through your Microsoft account](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md).
+Subscriptions for Minecraft: Bedrock Edition Realms need to be canceled through the same game platform account used to start the subscription. If you’re still playing on the platform you used to start the subscription, you can cancel through the Minecraft game menu. Minecraft: Java Edition Realms need to be [cancelled through your Microsoft account](./Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md).
 
 ## Cancel a Minecraft: Bedrock Edition Realm in Minecraft
 
@@ -54,6 +60,6 @@ Cancelling a Realms subscription on a PlayStation 5 (PS5) is done through the PS
 
 Here are other ways to cancel your Minecraft Realms subscription:
 
-- [Cancel a Minecraft Realms subscription started on personal computer](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md)
+- [Cancel a Minecraft Realms subscription started on personal computer](./Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md)
 - [Cancel a Minecraft Realms subscription started on a mobile device](./Cancel-a-Minecraft-Realms-subscription-started-on-a-mobile-device.md)
-- [Cancel a Minecraft Realms subscription started on a game console](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-started-on-a-game-console.md)
+- [Cancel a Minecraft Realms subscription started on a game console](./Cancel-a-Minecraft-Realms-subscription-started-on-a-game-console.md)

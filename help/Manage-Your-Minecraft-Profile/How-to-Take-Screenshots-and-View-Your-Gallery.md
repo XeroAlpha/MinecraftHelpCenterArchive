@@ -16,7 +16,7 @@ hash:
 
 Save your best in-game moments using your Minecraft Screenshot Gallery!
 
-You can find your Screenshot Gallery in your Minecraft Profile. Read more on [How to view your Minecraft Profile](./How-to-View-Your-Minecraft-Profile.md).
+You can find your Screenshot Gallery in your Minecraft Profile. Read more on [How to view your Minecraft Profile](https://help.minecraft.net/hc/en-us/articles/27780690574477).
 
 ## How to take a screenshot in-game
 

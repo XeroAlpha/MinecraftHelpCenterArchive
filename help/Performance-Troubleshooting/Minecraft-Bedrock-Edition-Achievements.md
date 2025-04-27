@@ -11,7 +11,7 @@ hash:
   h_01HHFWDTZ6HF3XDVEW8361XXW0: how-to-turn-achievements-on-or-off-in-realms
 ---
 
-Achievements are optional goals laid out for players who want a bit of direction while playing Minecraft: Bedrock Edition. You can view completed and suggested Achievements in-game when you [view your profile](../Manage-Your-Minecraft-Profile/How-to-View-Your-Minecraft-Profile.md).
+Achievements are optional goals laid out for players who want a bit of direction while playing Minecraft: Bedrock Edition. You can view completed and suggested Achievements in-game when you [view your profile](https://help.minecraft.net/hc/en-us/articles/27780690574477).
 
 ## How can I earn achievements?
 
