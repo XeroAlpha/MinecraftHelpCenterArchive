@@ -1,7 +1,7 @@
 ---
-title: Cancel a Minecraft Realms subscription started on a mobile device
+title: Cancel a Minecraft Realms Subscription Started on a Mobile Device
 date: 2025-04-10T21:59:13Z
-updated: 2025-04-24T16:15:48Z
+updated: 2025-04-28T14:33:56Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft
@@ -15,7 +15,7 @@ tags:
   - section_28872593033869
   - subject_canceling_a_realm
   - section_36000025812877
-link: https://help.minecraft.net/hc/en-us/articles/35757683038861-Cancel-a-Minecraft-Realms-subscription-started-on-a-mobile-device
+link: https://help.minecraft.net/hc/en-us/articles/35757683038861-Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Mobile-Device
 hash:
   h_01JRGVBNQ3NHTCM1DGZ5QKWZFM: cancel-a-realms-subscription-started-on-an-amazon-device
   cancel-a-realms-subscription-started-on-a-googleandroid-device: cancela-realms-subscription-started-on-a-googleandroid-device

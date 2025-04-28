@@ -1,7 +1,7 @@
 ---
-title: "How to Create a Minecraft: Java Edition Realm"
+title: "Create a Minecraft: Java Edition Realm"
 date: 2021-09-14T22:37:59Z
-updated: 2025-04-24T16:31:16Z
+updated: 2025-04-28T14:29:43Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
@@ -15,7 +15,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409253767821-How-to-Create-a-Minecraft-Java-Edition-Realm
+link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Create-a-Minecraft-Java-Edition-Realm
 hash:
   h_01J4M8QSKJPNJJJT6NXA7BCCNG: starting-a-minecraft-java-edition-realm
 ---

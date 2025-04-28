@@ -1,7 +1,7 @@
 ---
-title: Cancel a Minecraft Realms subscription in the Minecraft menu
+title: Cancel a Minecraft Realms Subscription in the Minecraft Menu
 date: 2024-02-14T19:17:39Z
-updated: 2025-04-21T14:58:14Z
+updated: 2025-04-28T14:40:24Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft
@@ -27,7 +27,7 @@ tags:
   - subject_canceling_a_realm
   - platform_xbox_series_xs
   - section_36000025812877
-link: https://help.minecraft.net/hc/en-us/articles/24123767171469-Cancel-a-Minecraft-Realms-subscription-in-the-Minecraft-menu
+link: https://help.minecraft.net/hc/en-us/articles/24123767171469-Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu
 hash:
   h_01JRGTZCHNBZ5N0M99D5ZGNKD7: cancel-a-minecraft-bedrock-edition-realm-in-minecraft
   h_01JRGW4TCXS5YV0GF2CX8ZHDYZ: cancel-a-realms-subscription-on-playstation-5

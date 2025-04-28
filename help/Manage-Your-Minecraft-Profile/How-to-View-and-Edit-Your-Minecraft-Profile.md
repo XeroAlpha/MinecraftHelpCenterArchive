@@ -1,7 +1,7 @@
 ---
-title: How to View and Edit Your Minecraft Profile
+title: View and Edit Your Minecraft Profile
 date: 2024-06-21T20:53:31Z
-updated: 2025-04-24T17:33:46Z
+updated: 2025-04-28T14:25:19Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
@@ -18,7 +18,7 @@ tags:
   - platform_xbox_series_xs
   - subject_account_profile
   - section_35377640016525
-link: https://help.minecraft.net/hc/en-us/articles/27780504581389-How-to-View-and-Edit-Your-Minecraft-Profile
+link: https://help.minecraft.net/hc/en-us/articles/27780504581389-View-and-Edit-Your-Minecraft-Profile
 hash:
   h_01JSFFW0YYRNS0MKW9B88NW0RE: view-your-minecraft-profile
   h_01JSFFYVAF25KXYC882Q35J234: change-your-profile-image

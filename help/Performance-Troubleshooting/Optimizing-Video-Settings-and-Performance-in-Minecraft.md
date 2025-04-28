@@ -1,7 +1,7 @@
 ---
-title: Optimizing Video Settings and Performance in Minecraft
+title: "Optimizing Minecraft: Bedrock Edition Video Settings and Performance"
 date: 2021-09-28T21:43:13Z
-updated: 2024-08-16T00:08:07Z
+updated: 2025-04-28T14:18:46Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -17,42 +17,23 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Video-Settings-and-Performance-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance
 hash:
-  h_01HR844RHA2XNTP2KQW5K7FCRN: tips-to-optimize-video-settings-in-minecraft
-  h_01HR84685B13DD95GMFVKAVW75: other-tips-to-optimize-minecraft-performance
+  h_01JSQBTG9DMJKFHTJWTR4GA3HN: adjust-advanced-video-settings-in-minecraft-bedrock-edition
 ---
 
-If you’re experiencing crashes or reduced game performance playing Minecraft, the following suggestions may help.
+If you’re experiencing crashes or reduced performance playing Minecraft: Bedrock Edition, you can modify your video settings to improve gameplay. 
 
-## Tips to optimize video settings in Minecraft
+## Adjust advanced video settings in Minecraft: Bedrock Edition
 
-Try adjusting your Minecraft video settings to reduce system resources required and improve gameplay. To access the video options in Minecraft, follow these steps:
+Launch Minecraft and select **Settings** \> **Video** to access settings. Try experimenting with these recommendations and restart Minecraft after making adjustments:
 
-1.  Start Minecraft.
-2.  Click **Settings**.
-3.  Click **Video**.
+- **Reduce FOV:** Select a value below the default field of view of 60-degrees. 
+- **Disable advanced features:** Turn off the features below if enabled.
+  - Fancy Bubbles
+  - Beautiful Skies
+  - Smooth Lighting
+  - Fancy Graphics
+  - FOV Can Be Altered By Gameplay
 
-Experiment with changing these view settings that can have the biggest impact on game performance:
-
-- Render Distance: Adjust below the recommended distance of 32 chunks.
-- FOV: Adjust below the default 60-degree field of view.
-
-If enabled, you can also try turning off the following advanced graphics features:
-
-- Fancy Bubbles
-- Beautiful Skies
-- Smooth Lighting
-- Fancy Graphics
-- FOV Can Be Altered By Gameplay
-
-## Other tips to optimize Minecraft performance
-
-Try the following troubleshooting suggestions to optimize your Minecraft performance:
-
-- Upgrade your OS to the latest version.
-- Ensure you have enough storage available on your device.
-- Reduce screen brightness.
-- If playing mobile, avoid playing while device is charging.
-- Turn off automatic downloads.
-- Close background applications.
+If you see an improvement in gameplay, gradually reenable these settings until you see an improved render distance without performance issues. If changing these video settings doesn’t improve Minecraft’s performance, see [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md) for additional device and setup suggestions.

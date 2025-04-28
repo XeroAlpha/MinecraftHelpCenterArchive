@@ -1,7 +1,7 @@
 ---
-title: Cancel a Minecraft Realms subscription started on a personal computer
+title: Cancel a Minecraft Realms Subscription Started on a Personal Computer
 date: 2025-04-10T22:20:07Z
-updated: 2025-04-21T14:53:03Z
+updated: 2025-04-28T14:43:23Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft_java_edition
@@ -24,7 +24,7 @@ tags:
   - section_28872593033869
   - subject_canceling_a_realm
   - section_36000025812877
-link: https://help.minecraft.net/hc/en-us/articles/35758234749581-Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer
+link: https://help.minecraft.net/hc/en-us/articles/35758234749581-Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Personal-Computer
 hash:
   h_01JRGWHY1THGXT23ENBJRWA0B2: cancel-a-realms-subscription-through-your-microsoft-account
 ---
