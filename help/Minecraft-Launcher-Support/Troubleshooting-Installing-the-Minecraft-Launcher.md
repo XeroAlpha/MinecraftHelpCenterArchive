@@ -1,19 +1,19 @@
 ---
 title: Troubleshooting Installing the Minecraft Launcher
 date: 2024-01-22T20:10:18Z
-updated: 2025-03-03T15:14:57Z
+updated: 2025-04-28T19:11:51Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23430683774221-Troubleshooting-Installing-the-Minecraft-Launcher
 hash:
-  h_01HMSCDZNCBBE3PX0Z5077H58J: i-try-to-install-the-launcher-through-the-microsoft-store-but-the-installation-fails
-  h_01HMSCH61Y9TT8PF5E0DB920YP: the-minecraft-launcher-is-failing-to-install-after-downloading-it-from-minecraftnet
+  h_01HMSCDZNCBBE3PX0Z5077H58J: installing-the-minecraft-launcher-through-the-microsoft-store-fails
+  h_01HMSCH61Y9TT8PF5E0DB920YP: installing-the-minecraft-launcher-from-minecraftnet-fails
 ---
 
 This article covers problems installing the Minecraft Launcher for Windows and MacOS. For other Launcher issues, please visit [Minecraft Launcher Support](./Troubleshooting-Minecraft-Launcher-Issues.md).
 
-## I try to install the Launcher through the Microsoft Store, but the installation fails
+## Installing the Minecraft Launcher through the Microsoft Store fails
 
 Make sure that you’re logged into the Microsoft Store with the Microsoft account you wish to use in the Launcher. Additionally, you can try installing the Launcher from other sources.
 
@@ -29,7 +29,7 @@ Make sure that you’re logged into the Microsoft Store with the Microsoft accou
 1.  Visit the [Download Minecraft Java & Bedrock Edition page](https://www.minecraft.net/en-us/download)
 2.  Select the download for your operating system.
 
-## The Minecraft Launcher is failing to install after downloading it from Minecraft.net
+## Installing the Minecraft Launcher from Minecraft.net fails
 
 While you are downloading the Launcher through Minecraft.net, it still requires a Microsoft Store login to install properly. As a result, you should make sure you’re logged into the Microsoft Store with the Microsoft account you wish to use in the Launcher. 
 
