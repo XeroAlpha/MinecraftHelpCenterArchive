@@ -1,7 +1,7 @@
 ---
 title: Minecraft Marketplace Pass Troubleshooting
 date: 2024-02-20T18:18:23Z
-updated: 2025-03-27T16:26:48Z
+updated: 2025-04-28T16:24:15Z
 categories: Marketplace Pass Subscriptions
 tags:
   - title_minecraft
@@ -28,7 +28,7 @@ Marketplace Pass is a monthly subscription service on Minecraft: Bedrock Edition
 
 If you’ve followed the steps in the article linked above and are still can’t sign up for Marketplace Pass, review the suggestions below.
 
-# Check your Minecraft edition and subscription
+## Check your Minecraft edition and subscription
 
 - **Bedrock Edition Required**: Marketplace Pass is exclusive to Minecraft: Bedrock Edition and is not available on other Minecraft editions.
 - **Preview/Beta Availability**: Marketplace Pass only works in Preview/Beta after you have already subscribed through the main Minecraft game. You will need to subscribe to it through the normal live version of Minecraft, then restart Preview/Beta for it to work.
@@ -36,7 +36,7 @@ If you’ve followed the steps in the article linked above and are still can’t
 
 **Note:** if you are a Marketplace Pass subscriber, you can upgrade to a Realms Plus subscription without canceling your current subscription. However, we highly recommend canceling your Marketplace Pass subscription as soon as possible, as all its benefits are included in Realms Plus.
 
-# Check device requirements
+## Check device requirements
 
 - **No subscriptions on Amazon devices**: If you are playing Minecraft through an Amazon device, you will not be able to sign up for Marketplace Pass on that device. However, if you sign up for the service on a different platform, you can access your Marketplace Pass content on your Amazon device.
 - **Bedrock Edition must be installed on the device**: When subscribing on a PC using the [Marketplace Pass website](https://www.minecraft.net/en-us/marketplace/marketplace-pass), you must have Minecraft: Bedrock edition installed on the same device; the subscription workflow launches Minecraft so you can subscribe through the game menus. Marketplace Pass subscriptions on all platforms must be started through the Minecraft launcher/game menus.

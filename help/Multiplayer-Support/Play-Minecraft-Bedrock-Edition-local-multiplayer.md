@@ -1,11 +1,11 @@
 ---
-title: "Play Minecraft: Bedrock Edition local multiplayer"
+title: "Play Minecraft: Bedrock Edition Local Multiplayer"
 date: 2025-04-08T22:49:26Z
-updated: 2025-04-11T17:05:03Z
+updated: 2025-04-28T15:49:47Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061
-link: https://help.minecraft.net/hc/en-us/articles/35697355112717-Play-Minecraft-Bedrock-Edition-local-multiplayer
+link: https://help.minecraft.net/hc/en-us/articles/35697355112717-Play-Minecraft-Bedrock-Edition-Local-Multiplayer
 hash:
   h_01JRBR70WGYA6MCSWR3RYDS15W: play-minecraft-in-split-screen-mode-on-a-game-console
   h_01JRBR70WHCJ2ETB4CRA2R54JS: play-minecraft-on-a-local-area-network-lan-connection
