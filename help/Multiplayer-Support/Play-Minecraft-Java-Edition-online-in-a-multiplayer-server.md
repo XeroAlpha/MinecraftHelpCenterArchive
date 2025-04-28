@@ -1,11 +1,11 @@
 ---
-title: "Play Minecraft: Java Edition online in a multiplayer server"
+title: "Play Minecraft: Java Edition Online in a Multiplayer Server"
 date: 2024-12-20T20:03:22Z
-updated: 2025-04-17T14:38:45Z
+updated: 2025-04-28T15:01:51Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061
-link: https://help.minecraft.net/hc/en-us/articles/32899741198989-Play-Minecraft-Java-Edition-online-in-a-multiplayer-server
+link: https://help.minecraft.net/hc/en-us/articles/32899741198989-Play-Minecraft-Java-Edition-Online-in-a-Multiplayer-Server
 hash:
   01JRX4HSSQSBN1T3WYQM50DSCZ: join-a-minecraft-java-edition-online-server
   h_01JRE5WYW7BRMMCXYBA219NCRZ: resources-for-minecraft-java-edition-multiplayer

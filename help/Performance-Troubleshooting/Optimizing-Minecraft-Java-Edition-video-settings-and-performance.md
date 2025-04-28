@@ -1,7 +1,7 @@
 ---
-title: "Optimizing Minecraft: Java Edition video settings and performance"
+title: "Optimizing Minecraft: Java Edition Video Settings and Performance"
 date: 2025-04-25T23:09:15Z
-updated: 2025-04-28T14:17:31Z
+updated: 2025-04-28T15:03:40Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -16,7 +16,7 @@ tags:
   - platform_windows_11
   - section_27166432886285
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/36136728320013-Optimizing-Minecraft-Java-Edition-video-settings-and-performance
+link: https://help.minecraft.net/hc/en-us/articles/36136728320013-Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance
 hash:
   h_01JSQG10Z6DV3P429EDPS6F155: adjust-advanced-video-settings-in-minecraft-java-edition
 ---
