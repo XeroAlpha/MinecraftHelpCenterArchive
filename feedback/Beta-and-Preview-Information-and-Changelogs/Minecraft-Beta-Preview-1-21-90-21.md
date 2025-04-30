@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.90.21
 date: 2025-04-29T10:05:47Z
-updated: 2025-04-29T15:18:26Z
+updated: 2025-04-30T12:37:48Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36203344176269-Minecraft-Beta-Preview-1-21-90-21
 hash:
@@ -92,7 +92,7 @@ It's time for another Preview and Beta! For the full list of goodies, browse the
 
 - Dispensing a lava bucket on a waterlogged Dried Ghast no longer duplicates the Dried Ghast 
 - Dispensing a Lava Bucket on waterlogged blocks no longer empties the bucket without placing Lava ([MCPE-178295](https://bugs.mojang.com/browse/MCPE-178295)) 
-- Maximum Beacon beam height is now 2048 
+- Maximum Beacon beam height is now 2048 ([MCPE-190223](https://bugs.mojang.com/browse/MCPE-190223))
 
 ## Gameplay
 
@@ -120,7 +120,7 @@ It's time for another Preview and Beta! For the full list of goodies, browse the
 
 - Mobs will no longer clip through blocks sometimes when viewing them at a distance when they auto step up a block 
 - Shadows are no longer rendered for entities that are riding a vehicle, unless said vehicle is invisible ([MCPE-200797](https://bugs.mojang.com/browse/MCPE-200797))
-- Pigs saddled by hand no longer drop two saddles when killed. (All pigs saddled by hand between 1.21.70 and now will still drop their duplicated saddles on death.) ([MCPE-194389](https://bugs.mojang.com/browse/MCPE-194389))
+- Pigs saddled by hand no longer drop two saddles when killed. (All pigs saddled by hand between 1.21.70 and now will still drop their duplicated saddles on death.)
 - Increased attack range for Blaze from 16 to 48 blocks to match its target detection range ([MCPE-35647](https://bugs.mojang.com/browse/MCPE-35647))
 - Increased Blaze attack sound distance to 32 to match Java
 - The Ghastling can now follow Happy Ghasts
