@@ -1,68 +1,21 @@
 ---
 title: Known Issues with Coding
 date: 2021-08-10T14:00:31Z
-updated: 2024-12-02T18:54:22Z
+updated: 2025-04-30T21:30:55Z
 categories: Troubleshooting
 link: https://edusupport.minecraft.net/hc/en-us/articles/4404970114324-Known-Issues-with-Coding
 hash:
-  h_01HF5J1EW62PF3EFMRZDRAS0YK: minecraft-education-crashes-when-using-codebuilder-on-windows-devices
-  h_01HF5J1EW6DMDRN5WVPJFAY1P5: ""
-  01HF5J1N1ZPVRSX85P7634XKMH: coding-does-not-start-when-pressing-the-c-key
-  h_01HF5J1EW6W0PDZRQGY0VS6YYZ: "-1"
+  h_01HF5J1EW62PF3EFMRZDRAS0YK: ""
   h_01HF5J1EW7SHEVAMZ8J99JC342: cant-import-or-export-makecode-files-on-chromebook-ipad-mac
-  h_01HF5J1EW7J2RS3N4XYDG2X771: "-2"
+  h_01HF5J1EW7J2RS3N4XYDG2X771: "-1"
   h_01HF5J1EW79GWE780W6DEMQXT4: some-python-aznb-pages-fail-to-load-in-codebuilder
-  h_01HF5J1EW7GV195NKGEYAJ9NB3: "-3"
+  h_01HF5J1EW7GV195NKGEYAJ9NB3: "-2"
   h_01HF5J1EW7SCE68NBSN00SR933: smart-quotes-break-text-based-coding-ipad-only
   h_01HF5J1EW7M783TGC41K3W7RYB: autocomplete-in-coding-isnt-available-chromebook-only
   01JE4BFX0M7XXPCPMNG0GYBVCT: great-troubleshooting-step-for-codebuilder-issues---clear-codebuilder-cache
 ---
 
 This article contains a list of known issues for Code Builder, or coding worlds created for Minecraft Education.
-
- 
-
-## Minecraft Education crashes when using CodeBuilder on Windows devices.
-
- 
-
-<table style="width: 624px; height: 88px;" data-cellpadding="5px">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr style="height: 44px;">
-<td style="text-align: right; width: 113.6px; vertical-align: top; height: 44px;"><p><strong>Description</strong></p></td>
-<td style="height: 44px; width: 487.4px"><p>We have identified an issue that causes Minecraft Education to crash when running certain code. </p></td>
-</tr>
-<tr style="height: 22px;">
-<td style="text-align: right; width: 113.6px; vertical-align: top; height: 22px;"><p><strong>Status</strong></p></td>
-<td style="height: 22px; width: 487.4px"><p>Working on a fix</p></td>
-</tr>
-<tr style="height: 22px;">
-<td style="text-align: right; width: 113.6px; vertical-align: top; height: 22px;"><p><strong>Workaround</strong></p></td>
-<td style="height: 22px; width: 487.4px"><p>We believe this is caused by an odd interaction between Minecraft Education and a newer patch for Windows. </p>
-<p> </p>
-<p>This tends to happen on higher spec devices. If your device is below our <a href="../Get-Started/System-Requirements.md">minimum specifications</a>, a device upgrade may be in order. </p>
-<p> </p></td>
-</tr>
-</tbody>
-</table>
-
-##  
-
- 
-
-## Coding does not start when pressing the 'C' key. 
-
- 
-
-|  |  |
-|---:|----|
-| **Description** | 'C' is unbound in settings after updating to 1.20 and pressing 'C' does not initiate coding.  |
-| **Status** | Working on a fix |
-| **Workaround** | Go to Settings \> Keyboard & Mouse \> Code Builder and map the key to 'C' key.  |
 
 ##  
 
