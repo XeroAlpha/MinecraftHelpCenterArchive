@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Minecraft: Java Edition Video Settings and Performance"
 date: 2025-04-25T23:09:15Z
-updated: 2025-04-28T15:03:40Z
+updated: 2025-05-01T14:20:58Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -21,7 +21,7 @@ hash:
   h_01JSQG10Z6DV3P429EDPS6F155: adjust-advanced-video-settings-in-minecraft-java-edition
 ---
 
-If you’re experiencing crashes or reduced performance playing Minecraft: Java Edition, you can modify your video settings to improve gameplay.
+If you’re experiencing crashes or reduced performance playing Minecraft: Java Edition, you can modify your video settings to improve gameplay. For tips adjusting video settings for Minecraft: Bedrock Edition, see [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md). 
 
 ## Adjust advanced video settings in Minecraft: Java Edition
 
@@ -33,6 +33,4 @@ Launch Minecraft and select **Options** \> **Video Settings** to access settings
 - **Adjust Chunk Builder**: Select **Chunk Builder: Threaded** instead of Fully Blocking or Semi Blocking.
 - **Adjust Clouds**: Select **Clouds: Fast** if set to Fancy.
 
-If you see an improvement in gameplay, gradually increase these settings until you see an improved render distance without performance issues.
-
-If changing these video settings doesn’t improve Minecraft’s performance, see [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md) for additional device and setup suggestions.
+If you see an improvement in gameplay, gradually increase these settings until you see an improved render distance without performance issues. Additional device and setup suggestions can also be found in [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md).

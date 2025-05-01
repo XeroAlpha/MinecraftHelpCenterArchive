@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Minecraft Realms Connection Errors
 date: 2021-09-30T21:40:55Z
-updated: 2024-09-20T21:08:06Z
+updated: 2025-05-01T14:16:59Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft_java_edition
@@ -23,28 +23,16 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Troubleshoot-Minecraft-Realms-Connection-Errors
 ---
 
-If you are having problems getting your Minecraft Realm to connect, here are some basic troubleshooting tips that may help:
+If you are unable to join or connect to a Minecraft Realm, verify that the Realm is active, your device is supported, and you have the necessary subscriptions for online play. Try these troubleshooting steps:
 
-- Realms is not supported on some older versions of the game. We recommend updating to the latest Minecraft version.
-- Realms is also not supported on some older operating systems and devices. See [Upcoming OS Sunset Announcements in Minecraft](../Performance-Troubleshooting/Upcoming-OS-Sunset-Announcements-in-Minecraft.md) for more info.
-- Ensure your Realms subscription is active and your payment method is up to date. See [Manage Realms Subscriptions](https://help.minecraft.net/hc/en-us/sections/26104341937421) for any help in that area.
-- Close the realm and reopen it.
-  - On Bedrock:
-    1.  Open Minecraft.
-    2.  Select **Play**.
-    3.  Select the **Edit Realm** button (box with a checkmark in it) button next to your Realm.
-    4.  Select **Manage Realm**.
-    5.  Select **Subscription**.
-    6.  Select **Close Realm**.
-    7.  Re-open it.
-  - On Java:
-    1.  Open Minecraft.
-    2.  Select **Minecraft Realms**.
-    3.  Click your Realm.
-    4.  Select **Configure**.
-    5.  Select **Settings**.
-    6.  Select **Close Realm**.
-    7.  Go back in and open it after.
-- If you are a member in a Realm owned by a different player, check with them to ensure their Realms subscription is active and the Realm is open.
+- **Update to the latest Minecraft version:** Realms is not supported on some older versions of Minecraft. See our [Download & Install section](https://help.minecraft.net/hc/en-us/sections/27166490706957) for help manually updating your version of Minecraft.
+- **Verify your device is supported:** Realms is not supported on all devices and platforms. See [Upcoming OS Sunset Announcements in Minecraft](../Performance-Troubleshooting/Upcoming-OS-Sunset-Announcements-in-Minecraft.md).
+- **Verify your online service subscription (console only):** An active [Xbox Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass), [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/), or [PlayStation Plus subscription](https://www.playstation.com/en-us/ps-plus/) is required for online play. Game platform service outages or lapsed subscriptions can affect your ability to connect to Minecraft.
+- **Check the Realms subscription:** The Realm owner needs to have an active Realms subscription. See our [Manage Realms Subscriptions](https://help.minecraft.net/hc/en-us/sections/26104341937421) section for information.
+- **Contact the Realm owner:** If you’re joining someone’s Realm, confirm with them that their Realms subscription is active and their Realm is open.
+- **Close and reopen the Realm:** If you’re the Realm owner, resetting your Realm can solve connection problems. See [Close and Reopen Your Minecraft Realm to Solve Connection Errors](./Close-and-Reopen-Your-Minecraft-Realm-to-Solve-Connection-Errors.md)
 
-For more internet connection troubleshooting, see [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md).
+See these articles for more tips on troubleshooting errors connecting to Realms:
+
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)

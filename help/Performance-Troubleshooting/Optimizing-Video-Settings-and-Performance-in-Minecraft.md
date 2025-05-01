@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Minecraft: Bedrock Edition Video Settings and Performance"
 date: 2021-09-28T21:43:13Z
-updated: 2025-04-28T14:18:46Z
+updated: 2025-05-01T14:23:23Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -22,7 +22,7 @@ hash:
   h_01JSQBTG9DMJKFHTJWTR4GA3HN: adjust-advanced-video-settings-in-minecraft-bedrock-edition
 ---
 
-If you’re experiencing crashes or reduced performance playing Minecraft: Bedrock Edition, you can modify your video settings to improve gameplay. 
+If you’re experiencing crashes or reduced performance playing Minecraft: Bedrock Edition, you can modify your video settings to improve gameplay. For tips adjusting video settings for Minecraft: Java Edition, see [Optimizing Minecraft: Java Edition Video Settings and Performance](./Optimizing-Minecraft-Java-Edition-video-settings-and-performance.md). 
 
 ## Adjust advanced video settings in Minecraft: Bedrock Edition
 
@@ -36,4 +36,4 @@ Launch Minecraft and select **Settings** \> **Video** to access settings. Try ex
   - Fancy Graphics
   - FOV Can Be Altered By Gameplay
 
-If you see an improvement in gameplay, gradually reenable these settings until you see an improved render distance without performance issues. If changing these video settings doesn’t improve Minecraft’s performance, see [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md) for additional device and setup suggestions.
+If you see an improvement in gameplay, gradually reenable these settings until you see an improved render distance without performance issues. Additional device and setup suggestions can also be found in [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md).
