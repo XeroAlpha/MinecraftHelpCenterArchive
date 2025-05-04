@@ -2,7 +2,7 @@
 title: Troubleshoot Unable to Join Multiplayer Worlds in Minecraft
 date: 2021-09-14T22:13:00Z
 updated: 2025-04-17T14:12:21Z
-categories: Troubleshoot Minecraft Realms
+categories: Multiplayer Support
 tags:
   - title_minecraft
   - category_technical_support
@@ -43,6 +43,6 @@ You may encounter problems connecting to multiplayer games if all players aren�
 ## Check your network connection
 
 - **Disable custom DNS and open ports**: Even if you have general Internet access, Minecraft may conflict with specific DNS and port configurations. See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for details.
-- **Contact the game host**: If you’re playing with a friend on a local network (LAN) or personally hosted server, the host must be online and actively running the world with the Allow multiplayer games permission enabled. See [How to Invite Friends to Your Minecraft: Bedrock Edition World](../Multiplayer-Support/Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md) for more information.\*
+- **Contact the game host**: If you’re playing with a friend on a local network (LAN) or personally hosted server, the host must be online and actively running the world with the Allow multiplayer games permission enabled. See [How to Invite Friends to Your Minecraft: Bedrock Edition World](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md) for more information.\*
 
 \**This does not apply to Minecraft Realms. Realms owners do not have to be online for guests to play.*

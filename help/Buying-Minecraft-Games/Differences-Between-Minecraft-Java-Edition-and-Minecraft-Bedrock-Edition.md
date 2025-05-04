@@ -20,7 +20,7 @@ While every version of Minecraft is still Minecraft, the differences between Min
 
 - **Supported Cross-Play:** Play with your friends also playing Java Edition on Windows, Mac, and Linux.
 - **Customize your own skin:** You can download any skin online or make your own and upload it to use in-game!
-- **Customize with mods:** Download community-made [Mods for Minecraft: Java Edition](../Community-Guidelines/Mods-for-Minecraft-Java-Edition.md) to change your gameplay experience.
+- **Customize with mods:** Download community-made [Mods for Minecraft: Java Edition](../Performance-Troubleshooting/Mods-for-Minecraft-Java-Edition.md) to change your gameplay experience.
 - **Join a Realm:** Realms are servers, run by Minecraft, just for you and your friends. Invite an infinite number of friends to join your personal Realm and play with up to 10 friends at a time.
 - **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server, and have your friends join from mobile and PC.
 - **Join a community:** There are countless communities dedicated to customizing Java Edition with all kinds of variations and mods to change up the multiplayer experience.

@@ -34,5 +34,5 @@ If you are unable to join or connect to a Minecraft Realm, verify that the Realm
 
 See these articles for more tips on troubleshooting errors connecting to Realms:
 
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)

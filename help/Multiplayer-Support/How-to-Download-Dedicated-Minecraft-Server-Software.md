@@ -20,7 +20,7 @@ Dedicated servers are hosted by individuals and are not partnered with Minecraft
 
 Your download will include a “How to use the dedicated server” guide that will help you through the installation steps to get you up and running.
 
-For information on how to join someone else’s server, see [How to Play Minecraft: Bedrock Edition Multiplayer](./Play-Minecraft-Bedrock-Edition-online-in-a-multiplayer-server.md).
+For information on how to join someone else’s server, see [How to Play Minecraft: Bedrock Edition Multiplayer](./Play-Minecraft-Bedrock-Edition-Online-in-a-Multiplayer-Server.md).
 
 **How to download software for a Minecraft: Java Edition server**
 

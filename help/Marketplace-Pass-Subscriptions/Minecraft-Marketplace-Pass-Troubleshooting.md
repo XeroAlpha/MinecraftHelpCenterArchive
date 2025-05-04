@@ -32,7 +32,7 @@ If you’ve followed the steps in the article linked above and are still can’t
 
 - **Bedrock Edition Required**: Marketplace Pass is exclusive to Minecraft: Bedrock Edition and is not available on other Minecraft editions.
 - **Preview/Beta Availability**: Marketplace Pass only works in Preview/Beta after you have already subscribed through the main Minecraft game. You will need to subscribe to it through the normal live version of Minecraft, then restart Preview/Beta for it to work.
-- **Realms Plus subscriptions include Marketplace Pass**: If you’re a current Realms Plus subscriber, you will be blocked from subscribing to Marketplace Pass. To sign-up for Marketplace Pass, follow instructions for [How to cancel your Realms Plus subscription](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-subscription-in-the-Minecraft-menu.md) and wait for the subscription period to end.
+- **Realms Plus subscriptions include Marketplace Pass**: If you’re a current Realms Plus subscriber, you will be blocked from subscribing to Marketplace Pass. To sign-up for Marketplace Pass, follow instructions for [How to cancel your Realms Plus subscription](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md) and wait for the subscription period to end.
 
 **Note:** if you are a Marketplace Pass subscriber, you can upgrade to a Realms Plus subscription without canceling your current subscription. However, we highly recommend canceling your Marketplace Pass subscription as soon as possible, as all its benefits are included in Realms Plus.
 

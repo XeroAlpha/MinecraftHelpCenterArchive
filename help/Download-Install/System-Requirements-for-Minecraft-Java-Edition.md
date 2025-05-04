@@ -12,4 +12,4 @@ A computer with the minimum requirements should enable gameplay for Minecraft: J
 
 - [System Requirements for Minecraft: Java Edition](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc?tabs=%7B%22details%22%3A1%7D#accordionv1-b6c8df09da-item-7739893325:~:text=Java%20System%20Requirements)
 
-**Note:** If you are unsure of whether your computer is powerful enough to run Minecraft, it is highly recommended that you try Minecraft in [demo mode](./Minecraft-Java-Edition-Demo-Mode.md) before purchase. You can also visit [Optimizing Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Video-Settings-and-Performance-in-Minecraft.md) to adjust your settings.
+**Note:** If you are unsure of whether your computer is powerful enough to run Minecraft, it is highly recommended that you try Minecraft in [demo mode](./Minecraft-Java-Edition-Demo-Mode.md) before purchase. You can also visit [Optimizing Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) to adjust your settings.

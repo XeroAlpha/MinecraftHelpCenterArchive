@@ -79,7 +79,7 @@ If you wish to make purchases from the Minecraft Store, you need to use the live
 
 - [How to Install Minecraft Preview](./How-to-Install-Minecraft-Preview.md)
 - [What to Know About Minecraft Preview](./What-to-Know-About-Minecraft-Preview.md)
-- [How to Start a Minecraft Preview/Beta Realm](../Create-or-Join-Realms/How-to-Start-a-Minecraft-Preview-Beta-Realm.md)
+- [How to Start a Minecraft Preview/Beta Realm](../Create-or-Join-Realms/Start-a-Minecraft-Preview-Beta-Realm.md)
 
 ## Playing Minecraft in PlayStation VR
 

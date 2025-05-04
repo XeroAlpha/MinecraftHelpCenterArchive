@@ -38,6 +38,6 @@ If you'd like to play Minecraft: Java Edition with other people, this article ca
 
 See these articles for more tips on troubleshooting errors connecting to multiplayer games:
 
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
 - [Troubleshoot Minecraft Realms Connection Errors](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md)

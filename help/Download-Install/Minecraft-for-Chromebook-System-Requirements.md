@@ -29,7 +29,7 @@ In addition to the processors listed in the minimum requirements, the following 
 - AMD Ryzen 3 3250C
 - Intel Celeron N4500
 
-If you meet these requirements and are looking to optimize your game further, see [Optimizing Performance in Minecraft: Bedrock Edition](../Performance-Troubleshooting/Optimizing-Video-Settings-and-Performance-in-Minecraft.md).
+If you meet these requirements and are looking to optimize your game further, see [Optimizing Performance in Minecraft: Bedrock Edition](../Performance-Troubleshooting/Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).
 
 ## External monitors with Chromebook
 

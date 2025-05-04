@@ -2,8 +2,9 @@
 title: "Mods for Minecraft: Java Edition"
 date: 2021-09-13T18:38:46Z
 updated: 2024-07-03T20:14:29Z
-categories: Community Guidelines
+categories: Performance & Troubleshooting
 tags:
+  - section_27166432886285
   - section_27983753055117
 link: https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition
 ---

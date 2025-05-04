@@ -44,4 +44,4 @@ All of the settings below must be set to **Allow** for a child account to access
 5.  Adjust settings as desired. Changes are saved automatically.
 6.  Sign out of Minecraft and restart for the new settings to take effect. 
 
-View [Manage Who Can See your Profile in Minecraft: Bedrock Edition](../Manage-Your-Minecraft-Profile/How-to-View-and-Edit-Your-Minecraft-Profile.md) to further protect your child’s account profile in-game.
+View [Manage Who Can See your Profile in Minecraft: Bedrock Edition](../Manage-Your-Minecraft-Profile/View-and-Edit-Your-Minecraft-Profile.md) to further protect your child’s account profile in-game.

@@ -53,4 +53,4 @@ When textures from resource packs do not load properly, the game replace
 
 If these steps do not resolve your issue, try reaching out to the creator of the resource packs for help.
 
-If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md).
+If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).

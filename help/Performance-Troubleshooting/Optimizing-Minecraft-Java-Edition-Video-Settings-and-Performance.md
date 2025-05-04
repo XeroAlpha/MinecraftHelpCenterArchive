@@ -21,7 +21,7 @@ hash:
   h_01JSQG10Z6DV3P429EDPS6F155: adjust-advanced-video-settings-in-minecraft-java-edition
 ---
 
-If you’re experiencing crashes or reduced performance playing Minecraft: Java Edition, you can modify your video settings to improve gameplay. For tips adjusting video settings for Minecraft: Bedrock Edition, see [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Video-Settings-and-Performance-in-Minecraft.md). 
+If you’re experiencing crashes or reduced performance playing Minecraft: Java Edition, you can modify your video settings to improve gameplay. For tips adjusting video settings for Minecraft: Bedrock Edition, see [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md). 
 
 ## Adjust advanced video settings in Minecraft: Java Edition
 

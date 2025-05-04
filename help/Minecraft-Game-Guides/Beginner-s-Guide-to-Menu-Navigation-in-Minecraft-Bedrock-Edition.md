@@ -57,4 +57,4 @@ See the below articles for some helpful info on making sure you are getting the 
 
 - [Accessibility Settings for Minecraft: Bedrock Edition](../Accessibility/Accessibility-Settings-for-Minecraft-Bedrock-Edition.md)
 - [Accessibility Settings for Minecraft: Java Edition](../Accessibility/Accessibility-Settings-for-Minecraft-Java-Edition.md)
-- [Optimizing Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Video-Settings-and-Performance-in-Minecraft.md)
+- [Optimizing Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md)

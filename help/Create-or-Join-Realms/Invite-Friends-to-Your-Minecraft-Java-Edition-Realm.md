@@ -43,6 +43,6 @@ To get the most out of your Realm in Minecraft: Java Edition, invite friends to 
 ## Resources for Minecraft: Java Edition Multiplayer
 
 - [Requirements to Play Minecraft: Java Edition Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Troubleshoot-Minecraft-Realms/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
-- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Troubleshooting-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)
+- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Troubleshoot-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

@@ -34,7 +34,7 @@ hash:
   h_01JRGV091SGXRJ7XD8HZTEVD8E: cancel-a-realms-subscription-on-the-platforms-website
 ---
 
-Subscriptions for Minecraft: Bedrock Edition Realms need to be canceled through the same game platform account used to start the subscription. If you’re still playing on the platform you used to start the subscription, you can cancel through the Minecraft game menu. Minecraft: Java Edition Realms need to be [cancelled through your Microsoft account](./Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md).
+Subscriptions for Minecraft: Bedrock Edition Realms need to be canceled through the same game platform account used to start the subscription. If you’re still playing on the platform you used to start the subscription, you can cancel through the Minecraft game menu. Minecraft: Java Edition Realms need to be [cancelled through your Microsoft account](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Personal-Computer.md).
 
 ## Cancel a Minecraft: Bedrock Edition Realm in Minecraft
 
@@ -60,6 +60,6 @@ Cancelling a Realms subscription on a PlayStation 5 (PS5) is done through the PS
 
 Here are other ways to cancel your Minecraft Realms subscription:
 
-- [Cancel a Minecraft Realms subscription started on personal computer](./Cancel-a-Minecraft-Realms-subscription-started-on-a-personal-computer.md)
-- [Cancel a Minecraft Realms subscription started on a mobile device](./Cancel-a-Minecraft-Realms-subscription-started-on-a-mobile-device.md)
-- [Cancel a Minecraft Realms subscription started on a game console](./Cancel-a-Minecraft-Realms-subscription-started-on-a-game-console.md)
+- [Cancel a Minecraft Realms subscription started on personal computer](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Personal-Computer.md)
+- [Cancel a Minecraft Realms subscription started on a mobile device](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Mobile-Device.md)
+- [Cancel a Minecraft Realms subscription started on a game console](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Game-Console.md)
