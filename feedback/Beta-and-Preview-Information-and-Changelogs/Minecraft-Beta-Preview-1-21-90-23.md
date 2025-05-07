@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.90.23
 date: 2025-05-07T12:45:03Z
-updated: 2025-05-07T15:46:23Z
+updated: 2025-05-07T16:17:51Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36415388784909-Minecraft-Beta-Preview-1-21-90-23
 hash:
@@ -30,7 +30,7 @@ hash:
   user-content-rendering-%26-animation: rendering--animation
   user-content-experimental-technical-updates: experimental-technical-updates
   h_01JTNCA7JTYQ5H4F4QB4693DBY: api-1
-  user-content-%60%40minecraft%2Fserver%60-2.0.0-beta: 200-beta
+  user-content-%60%40minecraft%2Fserver%60-2.0.0-beta: -210-beta
   user-content-%60%40minecraft%2Fdebug-utilities%60: "-2"
   h_01JTNCA7JT7C3M2YR43P6JK2VQ: blocks-2
   h_01JTNCA7JTGGASG9JCJ05Y325E: editor-2
@@ -227,7 +227,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
 - Removed content warning when a custom component was registered without closures for custom components V2
   - This allows 'data-only' components to be registered in script and added to blocks and items that only contain parameters without functionality
 
-### `@minecraft/server` 2.0.0-beta
+### `@minecraft/server` 2.1.0-beta
 
 - Added enum `ContainerRulesErrorReason` to `beta`. Contains the reasons that `ContainerRulesError` can fail
 - Added interface `ContainerRules` to `beta`. Contains rules that if broken on container operations will throw a `ContainerRulesError`
