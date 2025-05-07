@@ -1,38 +1,28 @@
 ---
-title: What's New in the Beta v1.21.8
+title: What's New in the Beta v1.21.80.1
 date: 2024-12-19T20:29:01Z
-updated: 2025-03-21T17:42:39Z
+updated: 2025-05-07T18:41:46Z
 categories: Beta
-link: https://edusupport.minecraft.net/hc/en-us/articles/33201022766356-What-s-New-in-the-Beta-v1-21-8
+link: https://edusupport.minecraft.net/hc/en-us/articles/33201022766356-What-s-New-in-the-Beta-v1-21-80-1
 hash:
-  h_01HNZMZHNQGN7R8MFG9HB375EE: minor-minecraft-education-beta-update-v1218
-  01JPTG44HTXT1QSATGH4ZB43NS: minor-minecraft-education-betapreview-update-v12151
+  01JPTG44HTXT1QSATGH4ZB43NS: minor-minecraft-education-betapreview-update-v121801
   01J6WHXS70B30ZAXTQ7YMM1QE9: tricky-trials-update-v1215
   01JJQ53EQ6RA39FKX554WD61AV: cloud-storage-improvements
   01J0PADR07314H9C4XDD39PEKD: multiplayer--coding-improvements
   01JFGMK2HQGK693XT9F3P95A9V: bug-fixes--performance-improvements
 ---
 
-Welcome to the Minecraft Education Beta v1.21.8! This update includes improvements to OneDrive cloud storage, multiplayer and coding.
+Welcome to the Minecraft Education Beta v1.21.80.1! This update includes improvements to OneDrive cloud storage, multiplayer and coding.
 
  
 
-While the Preview is on 1.21.51 and includes Minecraft Bedrock features up to version 1.21.5 like Bundles, the Pale Garden biome, and the reorganized Creative Inventory, the latest Beta contains a different set of updates. The beta is currently focused on testing the highest possible stability for the client and does not contain the latest Bedrock updates at this time. 
-
- 
-
-## **Minor Minecraft Education Beta Update v1.21.8**
-
-- Further general stability improvements.
-- MacOS Login freeze fix
-- Coding stability improvements
-- Contains many of the below mentioned stability improvements and bug fixes, but does not contain the Bedrock updates listed below.
-
- 
-
-## **Minor Minecraft Education Beta/Preview Update v1.21.51**
+## **Minor Minecraft Education Beta/Preview Update v1.21.80.1**
 
 - Improved client stability
+- Spring to Life Updates:
+  - Minecraft Bedrock changes from 1.21.6x through 1.21.8x
+  - New Mob variants: Cow, Pig and Chicken Warm and Cold Variants
+  - New Environment Blocks and Effects: Firefly bush, Leaf Particles, Cactus Flower, Leaf Litter, Biome sounds
 
 ## **Tricky Trials Update v1.21.5**
 

@@ -1,12 +1,14 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-04-23T18:19:02Z
+updated: 2025-05-07T18:42:06Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-beta-game-client-update-version-121801---released-50725
+  h_01JTP0RKSK6CZSQWVW034NM3BS: ""
   h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-game-client-minor-update-version-12110---released-42325
-  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-beta-game-client-update-version-1218---released-32025
+  01JTKS0S00BYRHWR2DVBR3HAC6: minecraft-education-beta-game-client-update-version-1218---released-32025
   01JPTFTQQKCTAW4SWQVABVJF16: minecraft-education-preview--beta-game-client-update-version-12151---released-12825
   01JJQ31EYAEVJXX7DMDJ68TCSH: minecraft-education-preview--beta-game-client-update-version-12150---released-121924
   01JGCR8BXESAPQ37R0X32MS6RV: minecraft-education-preview--beta-game-client-update-version-12140---released-111924
@@ -37,7 +39,7 @@ hash:
   h_01HER5FY18HKJD7TWS846YP43C: minecraft-education-game-client-version-1125---released-111219
   h_01HER5FY18ZE9NN80TPXMKRGH7: code-connection-version-1x---released-41123
   h_01HER5FY180J56240A46R5W9X0: code-connection-version-15
-  h_01HER5FY186FZ1Y5SWGHZ4PQHM: ""
+  h_01HER5FY186FZ1Y5SWGHZ4PQHM: "-1"
   h_01HER5FY182PTX829VKMA6G6MZ: classroom-mode-version-1x---released-41123
   h_01HER5FY18TY6VND94X6W11X35: classroom-mode-version-17
   h_01HER5FY188HZYZV9KNXCP24KD: previous-updates
@@ -50,6 +52,13 @@ Minecraft Education periodically releases updates to our game and companion apps
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
+
+## Minecraft Education Beta Game Client Update (version 1.21.80.1) - Released 5/07/25
+
+- Minecraft Bedrock's Tricky Trials and Spring to Life updates from 1.21.2 - 1.21.8
+- Improved client stability & bug fixes
+
+##  
 
 ## Minecraft Education Game Client Minor Update (version 1.21.10) - Released 4/23/25
 
