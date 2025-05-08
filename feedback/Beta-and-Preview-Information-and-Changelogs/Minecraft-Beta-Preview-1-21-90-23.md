@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.90.23
 date: 2025-05-07T12:45:03Z
-updated: 2025-05-07T16:17:51Z
+updated: 2025-05-08T10:09:45Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36415388784909-Minecraft-Beta-Preview-1-21-90-23
 hash:
@@ -91,7 +91,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
 - Improved Snell's window effect when looking up from underwater in Vibrant Visuals
 - Particles using the "particles_blend" material now render correctly in Vibrant Visuals ([MCPE-217768](https://bugs.mojang.com/browse/MCPE-217768))
 - Fixed Enderman held blocks not being shaded correctly in Vibrant Visuals
-- Reflections no longer cut out abruptly on the left side of screen while moving the camera in Vibrant Visuals ([MCPE-206642](https://bugs.mojang.com/browse/MCPE-206642))
+- Reflections no longer cut out abruptly on the left side of screen while moving the camera in Vibrant Visuals ([MCPE-201679](https://bugs.mojang.com/browse/MCPE-201679))
 - Reflections no longer flicker aggressively on water with higher FOV settings in Vibrant Visuals ([MCPE-206924](https://bugs.mojang.com/browse/MCPE-206924))
 - Clouds no longer contain cracks when viewed up close in Vibrant Visuals ([MCPE-212409](https://bugs.mojang.com/browse/MCPE-212409))
 - The End flash is now visible again in the End in Vibrant Visuals
@@ -151,7 +151,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
 
 ### `@minecraft/server-ui`
 
-- Fixed bug where sliders move super fast when using gamepad. Added a timeout to avoid this problem. (MCM-1786)
+- Fixed bug where sliders move super fast when using gamepad. Added a timeout to avoid this problem.
 
 ## Blocks
 
