@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.90.25
 date: 2025-05-13T12:56:55Z
-updated: 2025-05-13T13:11:05Z
+updated: 2025-05-13T16:00:18Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36568454460173-Minecraft-Beta-Preview-1-21-90-25
 hash:
@@ -36,7 +36,6 @@ hash:
   user-content-experimental-technical-updates: experimental-technical-updates
   h_01JV4VFPWPGJH6AAYP9QE97Z8Q: api-1
   user-content-%60%40minecraft%2Fdiagnostics%60: ""
-  h_01JV4VFPWPGN0Y5F9BDJ9BCJDX: editor-1
   user-content-experimental: experimental
   h_01JV4VFPWPNKJ572XZKFP9VVCX: gameplay-2
 ---
@@ -209,16 +208,22 @@ Some loot tables have had Saddles removed from them and replaced with 1-5 Leathe
 ## Editor
 
 - Added various tooltips to the Editor menu items.
-- Added `IPropertyPane.addProxyPane` API function to display an existing sub pane within another pane
-- Updated Editor to no longer no longer default projects to vibrant visuals graphics mode. It can be toggled on from Deferred Rendering Settings
+- Added `IPropertyPane.addProxyPane` API function to display an existing sub pane within another pane
+- Added Numeric & Color Timeline graphs to Vibrant Visuals Settings
+- Added support for localized help and tool tips into the schema
+- Updated Editor to no longer default projects to vibrant visuals graphics mode. It can be toggled on from Deferred Rendering Settings
 - Updated Paste Preview keyboard shortcuts
-  - Past Preview is now initiated using CTRL+V global key sequence
+  - Past Preview is now initiated using CTRL+V global key sequence 
   - CTRL+V in paste preview mode places the current previewed clipboard selection into the world
   - SHIFT+CTRL+V will immediately paste the clipboard selection into the world, previously global CTRL+V key sequence
+- Removed the Marquee Selection info panel when in freehand/magic select mode
+- Removed Point Lights in Vibrant Visuals settings when Deferred Technical Preview is disabled
 - Fixed a bug where FlattenBrush, BrushPainter, SmoothRoughen and SelectionModeFreehand tools threw an assert when a painting action was in progress
-- Fixed a bug where the Tutorial Movement stage didn't wait for pan and look actions to complete
+- Fixed a bug where the Tutorial Movement stage didn't wait for pan and look actions to complete 
 - Fixed a bug that caused brush paint to not end when the Tutorial stage changes
 - Fixed a bug that caused Contiguous Selection Settings in Extrude tool pane to not show
+- Fixed a bug where the clipboard origin incorrectly showed fractional origin values when clipboard item had an even size
+- Fixed a bug with structure data validation so that it doesn't try to test all the sibling rules against the property it's looking for (this was resulting in lots of reported errors in the water properties, but they weren't actually errors)
 
 ## Entity Filters
 
@@ -253,15 +258,6 @@ Some loot tables have had Saddles removed from them and replaced with 1-5 Leathe
   - (new) `maxBreadcrumbs`: The maximum number of breadcrumbs to store and report per error event to Sentry. Default is 20, supported values range from 0 (no breadcrumbs) to 100.
   - (new) `sampleRate`: A number between 0 and 1 that indicates the percentage of events that should be sent to Sentry. For example, a value of 0.5 means that 50% of events will be sent. Default is 1 (100% of events). 0 means no events will be sent.
   - (new) `debug`: When set to true, additional content logging from the Sentry system will be enabled. Defaults to false.
-
-## Editor
-
-- Clipboard origin incorrectly shows fractional origin values when clipboard item has even sizes
-- Remove the Marquee Selection info panel when in freehand/magic select mode
-- Disable Point Lights in Vibrant Visuals settings when Deferred Technical Preview is disabled
-- Added Numeric & Color Timeline graphs to Vibrant Visuals Settings
-- Added support for localized help and tool tips into the schema
-- Fixed a bug with structure data validation so that it doesn't try to test all the sibling rules against the property it's looking for (this was resulting in lots of reported errors in the water properties, but they weren't actually errors)
 
 ## Experimental
 
