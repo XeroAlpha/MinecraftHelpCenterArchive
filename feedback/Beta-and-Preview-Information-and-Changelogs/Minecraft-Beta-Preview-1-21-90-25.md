@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.90.25
 date: 2025-05-13T12:56:55Z
-updated: 2025-05-13T16:00:18Z
+updated: 2025-05-13T20:42:03Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36568454460173-Minecraft-Beta-Preview-1-21-90-25
 hash:
@@ -51,7 +51,7 @@ hash:
 
 Test more features from our second drop of 2025 in Bedrock! Travel smoothly with craftable saddles and six new tracks – one of which you can only find on a music disc dropped by a ghast! Yes, the sad, fiery one. Try these features out today!
 
-**Important Notice:** The Beta will not be available on Android this week due to a recently discovered bug. However, the new features will be available for testing at a later date. Thank you for your patience!
+**Important Notice:** ~~The Beta will not be available on Android this week due to a recently discovered bug.~~ The issue is resolved and this Beta update is now available on Android. Happy crafting!
 
 # Features and Bug Fixes
 

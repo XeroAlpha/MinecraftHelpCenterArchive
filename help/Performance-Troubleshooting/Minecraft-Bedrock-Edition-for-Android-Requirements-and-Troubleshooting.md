@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition for Android Requirements and Troubleshooting"
 date: 2021-09-09T23:47:44Z
-updated: 2024-09-18T17:25:32Z
+updated: 2025-05-13T21:35:34Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -39,6 +39,6 @@ If you are on a device that meets the above specs and are still experiencing iss
 
 ## Information about sunset devices
 
-After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md).
+After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [Cancel Realms Subscriptions](https://help.minecraft.net/hc/en-us/sections/36000025812877).
 
 After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.

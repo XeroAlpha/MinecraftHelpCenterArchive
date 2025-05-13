@@ -1,7 +1,7 @@
 ---
 title: iOS Operating System Requirements for Minecraft
 date: 2024-03-05T20:22:52Z
-updated: 2024-09-18T17:33:34Z
+updated: 2025-05-13T21:33:39Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -20,7 +20,7 @@ hash:
   h_01J832VANQPAPRGKD0KGZ9MNC5: information-about-sunset-devices
 ---
 
-As Minecraft grows, so must the operating system that supports it. If you are using the most current version of iOS already, your device will be compatible with the latest version of Minecraft.
+As Minecraft grows, so must the operating system that supports it. If you are using the most current version of iOS, your device will be compatible with the latest version of Minecraft.
 
 ## Minimum IOS Requirements for Minecraft
 
@@ -38,6 +38,6 @@ If you are on a device that meets the above specs and are still experiencing iss
 
 ## Information about sunset devices
 
-After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md).
+After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [Cancel a Minecraft Realms Subscription in the Minecraft Menu](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md).
 
 After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.

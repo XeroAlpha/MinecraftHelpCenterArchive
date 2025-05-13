@@ -1,7 +1,7 @@
 ---
 title: Upcoming OS Sunset Announcements in Minecraft
 date: 2024-09-16T16:32:55Z
-updated: 2025-03-06T22:29:02Z
+updated: 2025-05-13T21:42:18Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
@@ -44,6 +44,6 @@ Additionally, the following devices will no longer receive future updates after 
   - OpenXR
   - ARM32
 
-After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [How to Cancel a Minecraft Realms Subscription](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md).
+After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. If you need to cancel a Realm for an incompatible device, see [Cancel Realms Subscriptions \| Minecraft Help](https://help.minecraft.net/hc/en-us/sections/36000025812877) for information.
 
 After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.
