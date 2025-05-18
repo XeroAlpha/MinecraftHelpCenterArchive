@@ -74,8 +74,7 @@ Our developers have been hard at work to bring you another hotfix. Some of these
   - Piglins no longer spawn with enchanted gear
   - Tweaked arm animation for mobs that have their weapons removed ([MCPE-83581](https://bugs.mojang.com/browse/MCPE-83581))
   - Tamed wolves no longer disappear when returning to overworld through a Nether portal
-  - Husks now prefer iron armor over chain armor**  
-    **
+  - Husks now prefer iron armor over chain armor**  **
 
 <!-- -->
 

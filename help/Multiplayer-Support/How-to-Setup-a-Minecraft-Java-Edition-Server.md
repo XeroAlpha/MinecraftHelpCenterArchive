@@ -8,7 +8,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/360058525452-How-to-Setup-a-Minecraft-Java-Edition-Server
 ---
 
-***Note****: This guide shows you how to set up and configure a Minecraft Server. However, doing this requires changing your home network's configuration and is not recommended unless you know what you are doing. If you wish to purchase a small private server for friends, check out *[Minecraft Realms](https://www.minecraft.net/en-us/realms)*. If you still wish to set up your own private server, do so at your own risk as we cannot offer support for home networks or privately made servers.* 
+***Note****: This guide shows you how to set up and configure a Minecraft Server. However, doing this requires changing your home network's configuration and is not recommended unless you know what you are doing. If you wish to purchase a small private server for friends, check out* [Minecraft Realms](https://www.minecraft.net/en-us/realms)*. If you still wish to set up your own private server, do so at your own risk as we cannot offer support for home networks or privately made servers.* 
 
 Here is a guide to help you create a server so your friends can join and play together!  
 

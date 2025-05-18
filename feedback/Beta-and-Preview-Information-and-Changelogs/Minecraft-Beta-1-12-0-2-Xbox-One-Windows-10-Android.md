@@ -77,8 +77,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360027059411-Minecraft-Be
   - Shulker Bullets 
   - Bows 
   - Water  
-- **Updated Documentation to include a Breaking Changes section  
-  **
+- **Updated Documentation to include a Breaking Changes section  **
 - **Item API V0**
   - Basic item related events have been exposed to the Scripting API. This includes:
   - actor_acquired_item

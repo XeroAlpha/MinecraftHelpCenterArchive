@@ -92,8 +92,7 @@ This adjusts the same game setting as this option in the game settings menu.
 
 **Mode**
 
-**Creative (c): **Creative mode removes the survival elements and allows players to easily create and destroy structures and mechanisms. Unlimited building materials are provided**  
-**
+**Creative (c): **Creative mode removes the survival elements and allows players to easily create and destroy structures and mechanisms. Unlimited building materials are provided**  **
 
 **Survival (s): **In this mode, players have to gather all their materials to build, craft, and gain experience points.
 

@@ -14,12 +14,12 @@ link: https://help.minecraft.net/hc/en-us/articles/21593079183117-Minecraft-Lege
 
 Play Minecraft Legends’ biggest update now! Hop into action with the fearless frog and lead the potion-wielding witches. Build cauldrons to buff your allies and face the clanger, a piglin so loud it stuns. There’s a lot to see, so let’s dive in!
 
-**Versions:  
-**Xbox/Windows: 1.18.14350  
+**Versions:  **
+Xbox/Windows: 1.18.14350  
 Nintendo Switch: 1.18.11153  
 PlayStation: 1.12  
-Steam: 19759933**  
-**  
+Steam: 19759933**  **
+  
 
 **New Features and Content:**
 

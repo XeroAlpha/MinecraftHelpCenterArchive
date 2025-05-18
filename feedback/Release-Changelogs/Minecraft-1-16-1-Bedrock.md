@@ -13,12 +13,12 @@ hash:
 
 Our developers have been hard at work getting top issues addressed for this hotfix. Several of these were reported by players, so keep those reports coming at [bugs.mojang.com](https://bugs.mojang.com/)! Even more fixes are already in the works for another update coming soon.
 
-## **16th July 2020 - 1.16.1 Hotfix Update (PlayStation 4) **
+## **16th July 2020 - 1.16.1 Hotfix Update (PlayStation 4)** 
 
 We're releasing a new hotfix for the 1.16.1.04 update on PlayStation 4 that greatly improves stability in the game. Be sure to check below for the full list of fixes on all platforms.  
   
 
-## **8th July 2020 - 1.16.1 Hotfix Update (PlayStation 4) **
+## **8th July 2020 - 1.16.1 Hotfix Update (PlayStation 4)** 
 
 Today we are releasing a hotfix for PlayStation 4 that will enable you to clear your sign in data when launching the game, which we hope will avoid the issue where the game is getting stuck on the loading screen and potentially crashing. 
 

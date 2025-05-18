@@ -162,8 +162,7 @@ Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) a
 
 **For Map Makers and Add-On Creators:**
 
-**Updated Template Packs  
-**
+**Updated Template Packs  **
 
 - Updated templates for 1.16.210 with new resources, behaviors, and documentation are available for download
   - Resource Pack Template: [aka.ms/resourcepacktemplate](https://aka.ms/resourcepacktemplate)

@@ -135,8 +135,7 @@ It’s time for another Minecraft update! 1.16.100 brings a swath of Vanilla par
 - Player-ridden Striders now jump onto magma blocks as well as non-full blocks in front of them when guided by Fungus on a Stick ([MCPE-77096](https://bugs.mojang.com/browse/MCPE-77096))
 - Baby animals can once again be tamed, before growing up ([MCPE-96973](https://bugs.mojang.com/browse/MCPE-96973))
 - Bees can now only exit Beehives and Bee Nests through air blocks ([MCPE-97185](https://bugs.mojang.com/browse/MCPE-97185))
-- Slimes can now spawn in slime chunks inside frozen biomes ([MCPE-49303](https://bugs.mojang.com/browse/MCPE-49303))**  
-  **
+- Slimes can now spawn in slime chunks inside frozen biomes ([MCPE-49303](https://bugs.mojang.com/browse/MCPE-49303))**  **
 
 **Blocks**
 
@@ -252,8 +251,7 @@ It’s time for another Minecraft update! 1.16.100 brings a swath of Vanilla par
 
 **For Map Makers and Add-On Creators:**
 
-**Updated Template Packs  
-**
+**Updated Template Packs  **
 
 - Updated templates for 1.16.100 with new resources, behaviors, and documentation are available for download
   - Resource Pack Template: [aka.ms/resourcepacktemplate](https://aka.ms/resourcepacktemplate)

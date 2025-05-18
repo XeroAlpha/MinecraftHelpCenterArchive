@@ -49,8 +49,7 @@ As always, we appreciate all your help and input, please report any new bugs atÂ
 - Spectators are now invisible to normal players
 - If a player is in Spectator Mode and other non-spectating players are present on the server, the spectating player won't affect mob despawning anymore
 - If there are only spectating players on the server, mob despawning is now put on hold**  
-    
-  **
+    **
 
 **Fixes:**
 

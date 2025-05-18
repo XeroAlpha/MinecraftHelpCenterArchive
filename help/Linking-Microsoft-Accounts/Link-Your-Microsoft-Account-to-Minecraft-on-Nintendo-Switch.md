@@ -31,4 +31,4 @@ If you want access to crossplay in Minecraft on your Nintendo Switch, you need t
 
 After your account is linked, your Xbox gamertag will appear in the corner of the screen on your Minecraft title screen. To learn how to play with your friends, visit [How to Play Minecraft: Bedrock Edition Multiplayer](../Multiplayer-Support/Play-Minecraft-Bedrock-Edition-Online-in-a-Multiplayer-Server.md).
 
-For support with Minecraft Marketplace purchases, visit [Where Do I Get Support for Minecraft Marketplace Purchases?](../Marketplace-Troubleshooting/Get-Help-from-Creators-of-Marketplace-Content.md)
+For support with Minecraft Marketplace purchases, visit [Where Do I Get Support for Minecraft Marketplace Purchases?](https://help.minecraft.net/hc/en-us/articles/23690665811981)

@@ -376,7 +376,7 @@ We’d love to hear what you think about this change! Please share your feedback
 
 As Minecraft grows, so must the operating system and hardware that supports it. For some older Apple devices, you may need to update to **iOS 1****3** or above by February 2024 to continue receiving updates for Minecraft or to access online play.  If you are on the most up-to-date version of iOS already, you have nothing to worry about. Please follow Apple’s guide on how to [update your device](https://support.apple.com/en-us/HT204204). You can also refer to [their list of devices currently compatible with iOS 13/iPadOS13.](https://support.apple.com/en-us/HT210327) 
 
-For Android, as of February 2024, **devices require greater than 1 GB RAM, run OS 8 (Oreo) or above**, and have **OpenGL ES 3.0**** to run Minecraft.**
+For Android, as of February 2024, **devices require greater than 1 GB RAM, run OS 8 (Oreo) or above**, and have **OpenGL ES 3.0** **to run Minecraft.**
 
 Please refer to our Minecraft Help Center articles for further details:
 

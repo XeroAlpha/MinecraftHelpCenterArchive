@@ -129,8 +129,7 @@ For more information, please see the article about enabling experimental feature
 - Education Edition items are no longer shown as an option when using @e\[type=\] ([MCPE-78363](https://bugs.mojang.com/browse/MCPE-78363))
 - Command Blocks with 'Needs Redstone' and a non-zero 'Delay in Ticks' will now execute only if they remain powered for the delay duration ([MCPE-74281](https://bugs.mojang.com/browse/MCPE-74281))
 - Fixed alignment of the sidebar display from the '/scoreboard' command when text length changes
-- Fixed the ability to summon experience orbs via the '/summon' command ([MCPE-130835](https://bugs.mojang.com/browse/MCPE-130835))**  
-  **
+- Fixed the ability to summon experience orbs via the '/summon' command ([MCPE-130835](https://bugs.mojang.com/browse/MCPE-130835))**  **
 
 **Technical Updates:**
 

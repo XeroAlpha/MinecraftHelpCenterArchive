@@ -121,8 +121,7 @@ BlockPermutation has been significantly refactored! Every BlockPermutation now s
 - Updated methods *getProperty*and *getAllProperties* to return values directly instead of wrapped into class objects. Example code: Before:
 
 *const blockPermutation = MinecraftBlockTypes.stoneSlab.createDefaultBlockPermutation();blockPermutation.getProperty(MinecraftBlockProperties.stoneSlabType).value = 'stone_brick';blockPermutation.getProperty(MinecraftBlockProperties.topSlotBit).value = true;  
-  
-*
+  *
 
 Now:
 

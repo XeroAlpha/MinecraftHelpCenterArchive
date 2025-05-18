@@ -174,8 +174,7 @@ A new update is upon us in the form of Minecraft 1.16.200! This update is loaded
 
 **For Map Makers and Add-On Creators:**
 
-**Updated Template Packs  
-**
+**Updated Template Packs  **
 
 - Updated templates for 1.16.200 with new resources, behaviors, and documentation are available for download
   - Resource Pack Template: [aka.ms/resourcepacktemplate](https://aka.ms/resourcepacktemplate)

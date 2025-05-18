@@ -29,7 +29,7 @@ hash:
 
 # Updated 'Servers Tab' Experience
 
-**Update on Feb 23: **We're not quite ready to flip the switch on the new Servers tab but keep an eye out for it soon in an upcoming Preview release!  
+**Update on Feb 23:** We're not quite ready to flip the switch on the new Servers tab but keep an eye out for it soon in an upcoming Preview release!  
   
 
 An upcoming Preview will introduce a new way of playing on Featured Servers and others of your own. You will get to enjoy Featured Servers from our partners with exclusive environments, in a new visual style.

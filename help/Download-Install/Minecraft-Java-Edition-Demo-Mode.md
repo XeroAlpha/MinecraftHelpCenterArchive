@@ -17,8 +17,7 @@ The demo mode is available to any Microsoft account that is logged into the laun
 
 ## If you are Stuck on the Demo of Minecraft
 
-Ensure you have logged into the correct Microsoft Account that purchased Minecraft.  You can locate your Microsoft Account on the [Microsoft Help Page](https://support.microsoft.com/en-us/account-billing/you-forgot-your-microsoft-account-username-b2049472-3b8f-27d3-61c6-67a668453f4c).**​​   
-**
+Ensure you have logged into the correct Microsoft Account that purchased Minecraft.  You can locate your Microsoft Account on the [Microsoft Help Page](https://support.microsoft.com/en-us/account-billing/you-forgot-your-microsoft-account-username-b2049472-3b8f-27d3-61c6-67a668453f4c).**​​   **
 
 Other possible issues could be:
 

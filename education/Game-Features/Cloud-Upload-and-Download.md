@@ -245,7 +245,7 @@ Here are some steps you can take to resolve this issue:
 
 If you got this error when you closed your world:
 
-***Your upload didn’t make it to the cloud. ***
+***Your upload didn’t make it to the cloud.***
 
 ***Your OneDrive doesn’t have enough room for this world. ***
 

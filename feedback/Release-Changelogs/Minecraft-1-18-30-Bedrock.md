@@ -482,8 +482,7 @@ New Module! We added a **mojang-minecraft-ui** module with API structures for cr
       
 - EntityItemComponent
   - Added component *EntityItemComponent*that can be used to obtain an ItemStack from an item entity – e.g., *getComponent(“item”).itemStack  
-      
-    *
+      *
 - BlockInventoryComponent
   - Fixed accessing items in a double chest crashing/being inconsistent  
       

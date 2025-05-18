@@ -21,12 +21,12 @@ Enchanting your tools can give your gear a huge boost or new abilities! Enchant
 These enchantments can be applied to any armor/tool/weapon. 
 
 1.  **Mending** - Repairs the item when gaining XP orbs. (Max enchantment level: 1) 
-2.  **Unbreaking **- Increases item durability. (Max enchantment level: 3) 
+2.  **Unbreaking** - Increases item durability. (Max enchantment level: 3) 
 3.  **Curse of Vanishing** - Item destroyed upon death. (Max enchantment level: 1)
 
 ## Armor
 
-1.  **Aqua Affinity **- Increase the rate of underwater mining speed. (Max enchantment level: 1) 
+1.  **Aqua Affinity** - Increase the rate of underwater mining speed. (Max enchantment level: 1) 
 2.  **Blast Protection **- Reduces explosion damage and knockback. (Max enchantment level: 4) 
 3.  **Curse of Binding **- Items cannot be removed from armor slots unless the cause is death or breaking. (Max enchantment level: 1) 
 4.  **Depth Strider** - Increases underwater movement speed. (Max enchantment level: 3) 
@@ -35,9 +35,9 @@ These enchantments can be applied to any armor/tool/weapon. 
 7.  **Frost Walker** - Changes the water source blocks beneath the player into frosted ice and prevents the damage the player would take from standing on magma blocks. (Max enchantment level: 2) 
 8.  **Projectile Protection** - Reduces projectile damage. (Max enchantment level: 4) 
 9.  **Protection** - Reduces most types of damage by 4% for each level. (Max enchantment level: 4) 
-10. **Respiration **- Extends underwater breathing time. (Max enchantment level: 3) 
-11. **Soul Speed **- Increases walking speed on soul sand and soul soil. (Max enchantment level: 3) 
-12. **Thorns **- Reflects some of the damage taken when hit, at the cost of reducing durability. (Max enchantment level: 3) 
+10. **Respiration** - Extends underwater breathing time. (Max enchantment level: 3) 
+11. **Soul Speed** - Increases walking speed on soul sand and soul soil. (Max enchantment level: 3) 
+12. **Thorns** - Reflects some of the damage taken when hit, at the cost of reducing durability. (Max enchantment level: 3) 
 13. **Swift Sneak** - Increased player speed when crouching. (Max enchantment level: 3)
 
 ## Melee Weapons 
@@ -45,7 +45,7 @@ These enchantments can be applied to any armor/tool/weapon. 
 1.  **Bane of Arthropods **- Increases damage and applies Slowness IV to arthropod mobs (spiders, cave spiders, silverfish, endermites and bees). (Max enchantment level: 5) 
 2.  **Breach** - Negate the effectiveness of enemy armor by 15% per level. (Max enchantment level: 4)
 3.  **Density** - Boosts the rate at which mace multiplies damage while falling. (Max enchantment level: 5)
-4.  **Efficiency **- When applied to an axe it increases the chance that the axe may stun a shield, with the base chance being 25% and a 5% increase for each level of efficiency. (Max enchantment level: 5) 
+4.  **Efficiency** - When applied to an axe it increases the chance that the axe may stun a shield, with the base chance being 25% and a 5% increase for each level of efficiency. (Max enchantment level: 5) 
 5.  **Fire Aspect** - Sets target on fire. (Max enchantment level: 2) 
 6.  **Looting** - Increases amount of loot earned from mobs. (Max enchantment level: 3) 
 7.  **Impaling** - Trident deals additional damage to mobs that spawn naturally in the ocean. (Max enchantment level: 5) 
@@ -71,8 +71,8 @@ These enchantments can be applied to any armor/tool/weapon. 
 
 ## Tools 
 
-1.  **Efficiency **- Increases mining speed. (Max enchantment level: 5) 
-2.  **Fortune **- Increases certain item drop chances from blocks. (Max enchantment level: 3) 
+1.  **Efficiency** - Increases mining speed. (Max enchantment level: 5) 
+2.  **Fortune** - Increases certain item drop chances from blocks. (Max enchantment level: 3) 
 3.  **Luck of the Sea** - Increases rate of fishing rare loot (enchanting books, etc.) (Max enchantment level: 3) 
 4.  **Lure** - Decreases wait time until fish/junk/loot “bites” (Max enchantment level: 3) 
 5.  **Silk Touch** - Mined blocks will drop as blocks instead of breaking into other items/blocks. (Max enchantment level: 1)

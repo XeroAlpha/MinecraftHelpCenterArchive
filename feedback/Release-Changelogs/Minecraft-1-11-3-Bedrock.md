@@ -6,7 +6,7 @@ categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360028439431-Minecraft-1-11-3-Bedrock
 ---
 
-**NOTE: **This hotfix is not available on Nintendo Switch as we are still working on addressing several crash issues for a future update. Multiplayer is still compatible with versions 1.11.0 through 1.11.3
+**NOTE:** This hotfix is not available on Nintendo Switch as we are still working on addressing several crash issues for a future update. Multiplayer is still compatible with versions 1.11.0 through 1.11.3
 
 **Fixes:**
 

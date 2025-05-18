@@ -6,8 +6,7 @@ categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360030780172-Minecraft-Java-Edition-1-14-4
 ---
 
-**CHANGES IN 1.14.4  
-**
+**CHANGES IN 1.14.4  **
 
 - Fixed bugs
 - Performance improvements
@@ -90,8 +89,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360030780172-Minecraft-Ja
 - [MC-155345](https://bugs.mojang.com/browse/MC-155345) - ConcurrentModificationException when a player leaves an active raid
 - [MC-155571](https://bugs.mojang.com/browse/MC-155571) - Silverfish & Endermite spawners no longer functioning
 
-**GET THE RELEASE  
-**
+**GET THE RELEASE  **
 
 To install the release, open up the [Minecraft Launcher](https://www.minecraft.net/download) and click play!
 

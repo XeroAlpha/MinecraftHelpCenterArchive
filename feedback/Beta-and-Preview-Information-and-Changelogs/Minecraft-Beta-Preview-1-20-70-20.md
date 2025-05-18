@@ -135,8 +135,7 @@ Here’s a list of what’s new in the latest Minecraft Preview and Beta. As alw
     - Moved *ExplosionOptions* from *beta* to *1.9.0*
     - Moved *DimensionType* from *beta* to *1.9.0*
     - Moved *DimensionTypes* from *beta* to *1.9.0  
-        
-      *
+        *
 
 # **Features and Bug Fixes:**
 

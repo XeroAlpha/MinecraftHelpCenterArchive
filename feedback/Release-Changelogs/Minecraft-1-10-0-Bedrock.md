@@ -271,8 +271,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360025059512-Minecraft-1-
 - **Items**
   - Items can no longer be duplicated in the crafting grid ([MCPE-40253](https://bugs.mojang.com/browse/MCPE-40253))
   - Fixed an exploit that allowed players to gain unlimited items from the recipe book ([MCPE-41905](https://bugs.mojang.com/browse/MCPE-41905))
-  - The new dye types can now be used to dye Shulker mobs ([MCPE-40279](https://bugs.mojang.com/browse/MCPE-40279))**  
-    **
+  - The new dye types can now be used to dye Shulker mobs ([MCPE-40279](https://bugs.mojang.com/browse/MCPE-40279))**  **
 
 <!-- -->
 
@@ -326,8 +325,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360025059512-Minecraft-1-
   - Using scoreboard selectors no longer adds extra characters to player names 
   - Scoreboards now work correctly with custom named entities 
   - Scoreboard data is now saved more accurately when exiting a world 
-  - Various fixes and improvements to the randomTickSpeed function**  
-    **
+  - Various fixes and improvements to the randomTickSpeed function**  **
 
 <!-- -->
 

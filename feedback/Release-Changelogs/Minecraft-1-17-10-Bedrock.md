@@ -164,8 +164,7 @@ For more information, please see the article about enabling experimental feature
 
 **Gameplay**
 
-- Loot chests with Seed=0 now correctly randomize if placed on the same coordinates. Note that Pick Blocking a Vanilla loot chest before opening it will now result in identical loot in each copy unless the seed is set to 0 in the NBT**  
-  **
+- Loot chests with Seed=0 now correctly randomize if placed on the same coordinates. Note that Pick Blocking a Vanilla loot chest before opening it will now result in identical loot in each copy unless the seed is set to 0 in the NBT**  **
 
 **Dedicated Server**
 

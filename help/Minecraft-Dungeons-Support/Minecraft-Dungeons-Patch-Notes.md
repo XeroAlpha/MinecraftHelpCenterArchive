@@ -1347,8 +1347,8 @@ The event spans from October 13 (5am PDT / 12pm GMT) to November 2 (5am PDT / 12
 - The stun icon no longer appears indefinitely when fighting Blight Eye Endersent
 - The Void Quiver arrow icon is now consistent across all platforms
 
-**Previous Updates  
-**These changes were fixed in previous updates but not listed in previous patch notes
+**Previous Updates  **
+These changes were fixed in previous updates but not listed in previous patch notes
 
 - Added five new Ancient Mobs to Ancient Hunts (for Hidden Depths and Echoing Void)
 - Fixed an issue where item power on end-of-mission rewards would sometimes be lower than intended (the max item cap was raised slightly)
@@ -1606,8 +1606,7 @@ Thanks for playing and be sure to search for any bugs you encounter on [bugs.moj
 **New Achievements**
 
 - 10 new achievements/trophies to unlock on your adventures  
-  **  
-  **
+  **  **
 
 **Hidden Depths DLC:**
 
@@ -2119,8 +2118,7 @@ Thanks for playing and be sure to report any bugs you encounter to [bugs.mojang.
 - Added behavior which makes them go aggressive when hurt when standing in taunt circle
 - They now get locked on you if you run away \> 15 blocks
 
-**Illusioner  
-**
+**Illusioner  **
 
 - Increased explosive arrow damage 200 -\> 275
 - Increased illusion arrow damage 20 -\> 30

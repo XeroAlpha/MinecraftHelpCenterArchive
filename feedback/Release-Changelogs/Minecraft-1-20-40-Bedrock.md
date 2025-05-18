@@ -22,8 +22,7 @@ A new update has been released, bringing several changes to the game! Here are t
 - Buckets can no longer pick up liquids for a few ticks after they've been placed
 
 Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).**  
-  
-**
+  **
 
 # **Vanilla Parity**
 
