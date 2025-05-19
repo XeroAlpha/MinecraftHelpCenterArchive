@@ -1,9 +1,9 @@
 ---
-title: Minecraft - 1.21.81 (Bedrock)
+title: Minecraft - 1.21.81/82 (Bedrock)
 date: 2025-05-12T14:57:05Z
-updated: 2025-05-14T16:09:01Z
+updated: 2025-05-19T16:02:00Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/36539685655053-Minecraft-1-21-81-Bedrock
+link: https://feedback.minecraft.net/hc/en-us/articles/36539685655053-Minecraft-1-21-81-82-Bedrock
 hash:
   user-content-fixes%3A: fixes
   user-content-graphical: graphical
@@ -12,6 +12,12 @@ hash:
   user-content-api: api
   user-content-components: components
 ---
+
+**Update: **19 May 2025
+
+Another small hotfix (1.21.82) is being rolled out on Windows.
+
+- Fixed a crash that could occur when loading a world with a high number of custom blocks
 
 **Posted:** 14 May 2025
 
