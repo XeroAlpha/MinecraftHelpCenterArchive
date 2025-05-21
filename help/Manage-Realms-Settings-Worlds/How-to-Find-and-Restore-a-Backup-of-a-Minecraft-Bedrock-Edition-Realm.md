@@ -1,12 +1,12 @@
 ---
-title: "How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm"
+title: "Find and Restore a Backup of a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T21:10:46Z
-updated: 2024-11-13T19:36:47Z
+updated: 2025-05-21T17:51:10Z
 categories: Manage Realms Settings & Worlds
 tags:
   - section_12618497714061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/20687461045645-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm
+link: https://help.minecraft.net/hc/en-us/articles/20687461045645-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J4A2FJT07Y4E7GS15JM5KCM8: how-to-download-or-restore-a-realms-world-from-a-backup
 ---

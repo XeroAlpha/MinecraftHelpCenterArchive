@@ -1,7 +1,7 @@
 ---
-title: "How to Manage Your Minecraft: Bedrock Edition Realm"
+title: "Manage Your Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:58:20Z
-updated: 2024-08-05T21:55:58Z
+updated: 2025-05-21T17:50:36Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft
@@ -17,7 +17,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/20686901046669-How-to-Manage-Your-Minecraft-Bedrock-Edition-Realm
+link: https://help.minecraft.net/hc/en-us/articles/20686901046669-Manage-Your-Minecraft-Bedrock-Edition-Realm
 hash:
   h_01J4A32QF2RJK6JAM2M16V196J: how-to-access-the-manage-realm-options
   h_01J4A34RJ6A8MQTFBPVZ3TPTDP: how-to-change-or-edit-realm-worlds

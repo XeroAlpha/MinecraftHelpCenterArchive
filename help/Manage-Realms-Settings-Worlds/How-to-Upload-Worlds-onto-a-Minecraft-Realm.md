@@ -1,7 +1,7 @@
 ---
-title: How to Upload Worlds onto a Minecraft Realm
+title: Upload Worlds onto a Minecraft Realm
 date: 2023-10-24T20:53:20Z
-updated: 2024-08-05T21:21:07Z
+updated: 2025-05-21T17:50:54Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft_java_edition
@@ -20,7 +20,7 @@ tags:
   - use_for_autoreply
   - section_ 12618497714061
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/20686744908429-How-to-Upload-Worlds-onto-a-Minecraft-Realm
+link: https://help.minecraft.net/hc/en-us/articles/20686744908429-Upload-Worlds-onto-a-Minecraft-Realm
 hash:
   h_01J4J6N70NWQGHCQQ358Q5687C: how-to-upload-a-world-onto-a-minecraft-bedrock-edition-realm
   h_01J4J6ND8NZTG9DGYR1AHMA8EE: how-to-upload-a-world-onto-a-minecraft-java-edition-realm

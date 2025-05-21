@@ -1,7 +1,7 @@
 ---
-title: How to Moderate Your Minecraft Realm
+title: Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
-updated: 2024-12-17T17:38:23Z
+updated: 2025-05-21T17:49:46Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft_java_edition
@@ -19,7 +19,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/360058604512-How-to-Moderate-Your-Minecraft-Realm
+link: https://help.minecraft.net/hc/en-us/articles/360058604512-Moderate-Your-Minecraft-Realm
 hash:
   h_01HS9QFKDH66JJX5FYGC5D83NA: how-to-find-realms-settings
   h_01HS9QHJE2PG5ZYBZG7BME73QD: minecraft-realms-moderation-tips
