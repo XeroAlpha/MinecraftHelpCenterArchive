@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w21a
 date: 2025-05-20T14:22:10Z
-updated: 2025-05-20T14:23:03Z
+updated: 2025-05-21T07:54:04Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36754909562509-Minecraft-Java-Edition-Snapshot-25w21a
 hash:
@@ -19,7 +19,7 @@ hash:
   h_01JVQ13GTW9MD9BHJGYNTHHXAY: get-the-snapshot
 ---
 
-Summer is finally here in Stockholm on this fine Snapshot Tuesday - but it seems some of our developers missed those beautiful, gray, rainy skies far too much and absolutely insisted on giving the clouds in Minecraft new look. What a de-light!
+Summer is finally here in Stockholm on this fine Snapshot Tuesday - but it seems some of our developers missed those beautiful, gray, rainy skies far too much and absolutely insisted on giving the clouds in Minecraft a new look. What a de-light!
 
 ## New Features
 

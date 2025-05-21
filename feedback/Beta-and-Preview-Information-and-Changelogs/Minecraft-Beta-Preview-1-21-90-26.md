@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.90.26
 date: 2025-05-20T15:27:01Z
-updated: 2025-05-20T15:56:17Z
+updated: 2025-05-21T08:48:53Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36757734170125-Minecraft-Beta-Preview-1-21-90-26
 hash:
@@ -164,7 +164,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
 ### Sounds
 
 - Leashing, unleashing, collecting leashed mobs, and leashing mobs to other mobs now play custom sounds
-- Fence knots now play a sound when destroyed, either by being punched or when all their leashed entities are gone ([MCPE-68841](https://bugs.mojang.com/browse/MCPE-68841))
+- Fence knots now play a sound when destroyed, either by being punched or when all their leashed entities are gone ([MCPE-21743](https://bugs.mojang.com/browse/MCPE-21743))
 
 ## Mobs
 
