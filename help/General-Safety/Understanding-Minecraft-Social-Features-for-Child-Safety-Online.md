@@ -1,7 +1,7 @@
 ---
 title: Understanding Minecraft Social Features for Child Safety Online
 date: 2021-03-25T23:29:27Z
-updated: 2025-04-18T13:43:25Z
+updated: 2025-05-23T17:01:31Z
 categories: General Safety
 tags:
   - section_15463792344973
@@ -13,7 +13,7 @@ hash:
   h_01JS2JPAE0R51P62FW2XFQNRT3: player-reporting-tools
 ---
 
-Minecraft contains many ways players can communicate with each other. Some communication channels are monitored and moderated by Minecraft to support our commitment to player safety. Setting up [Microsoft family groups](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md) enables controls for chat and social features allowed for a child account, and which groups can see a child account’s information.
+Minecraft contains many ways players can communicate with each other. Some communication channels are monitored by automated software systems, and some are moderated by Minecraft to support our commitment to player safety. Setting up [Microsoft family groups](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md) enables controls for chat and social features allowed for a child account, and which groups can see a child account’s information.
 
 ## Communication Methods in Minecraft
 
@@ -24,8 +24,8 @@ Minecraft contains many ways players can communicate with each other. Some commu
 
 ## Safety Features for Communication
 
-- **Profanity Filter**: The profanity filter is on by default for all accounts and cannot be turned off on child accounts. When a chat, sign, book, or other typed message with inappropriate content is posted, the profanity filter either replaces inappropriate words with hashtags (#) or completely hides the message from other players. The profanity filter in Minecraft: Bedrock Edition is active on Realms, partner servers, and other multiplayer experiences. The profanity filter is only active on Realms if you’re playing Minecraft: Java Edition.
-- **Moderation**: Text communications are monitored for appropriate interaction within multiplayer games and Realms that are hosted on Minecraft servers. Inappropriate communications can lead to [player accounts being banned](../Player-Reporting-Bans/Banned-Minecraft-Accounts-and-the-Appeal-Process.md) from playing Minecraft. Moderation in private servers is controlled by the server owner.
+- **Profanity Filter**: The Filter Profanity toggle in Minecraft: Bedrock Edition under Settings \> General is on by default and cannot be turned off when signed in using a child account. When a chat, sign, book, or other typed message with inappropriate content is posted, the profanity filter either replaces inappropriate words with hashtags (#) or completely hides the message from other players. The profanity filter in Minecraft: Bedrock Edition is active on Realms, partner servers, and other multiplayer experiences. The profanity filter is only active on Realms if you’re playing Minecraft: Java Edition.
+- **Moderation**: When playing in a Realm in either Minecraft: Java Edition or Minecraft: Bedrock edition, text communications are monitored for appropriate interaction. Moderation also applies to Minecraft: Bedrock Edition Partner Servers available in-game. Inappropriate communications can lead to [player accounts being banned](../Player-Reporting-Bans/Banned-Minecraft-Accounts-and-the-Appeal-Process.md) from playing Minecraft. Moderation in private servers is controlled by the server owner.
 - **Chat Access Controls**: You can manage child account access to chat using the [Xbox settings online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md) or the [Xbox Family app](../Account-Settings/Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md).
 
 ## Player Reporting Tools
