@@ -1,7 +1,7 @@
 ---
-title: Troubleshoot Unable to Join Multiplayer Worlds in Minecraft
+title: Troubleshoot Unable to Join Multiplayer Games in Minecraft
 date: 2021-09-14T22:13:00Z
-updated: 2025-04-17T14:12:21Z
+updated: 2025-05-23T22:47:54Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -15,14 +15,14 @@ tags:
   - section_ 26104165751437
   - section_27166460834061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/4409236107789-Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft
 hash:
   h_01JQF6M745NTTBETFF8T3YJ3ES: update-your-game-version
   h_01JQF799MN7J5BB5QK924PG7A1: check-account-permissions-and-subscriptions
   h_01JQF6M745C34M02A6QMMNH4H8: check-your-network-connection
 ---
 
-When trying to join multiplayer worlds in Minecraft you may encounter a **Multiplayer is disabled** error or otherwise be unable to connect. Here are some suggestions to troubleshoot Minecraft multiplayer issues.
+When trying to join another player's Minecraft world online, you may encounter a **Multiplayer is disabled** error or otherwise be unable to connect. Here are some suggestions to troubleshoot Minecraft multiplayer issues.
 
 ## Update your game version
 
