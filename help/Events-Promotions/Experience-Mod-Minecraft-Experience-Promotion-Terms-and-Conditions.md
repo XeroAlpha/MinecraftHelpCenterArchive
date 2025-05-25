@@ -4,7 +4,27 @@ date: 2024-10-16T18:14:24Z
 updated: 2025-03-26T20:57:49Z
 categories: Events & Promotions
 tags:
+  - title_minecraft_java_edition
+  - title_minecraft
+  - platform_xbox_one
+  - platform_windows_10
+  - platform_ios
+  - platform_android
+  - platform_nintendo_switch
+  - platform_sony_playstation_4
+  - platform_linux
+  - platform_macos
+  - platform_other
+  - platform_pc
+  - platform_PC
+  - platform_xbox_series_x/s
+  - platform_sony_playstation_5
+  - platform_chromebook
+  - title_minecraft_java_bedrock_for_pc
   - section_26562723671949
+  - category_events_promotions
+  - subject_eap_events
+  - subject_eap_promotions
 link: https://help.minecraft.net/hc/en-us/articles/31114589569805-Experience-Mod-Minecraft-Experience-Promotion-Terms-and-Conditions
 ---
 

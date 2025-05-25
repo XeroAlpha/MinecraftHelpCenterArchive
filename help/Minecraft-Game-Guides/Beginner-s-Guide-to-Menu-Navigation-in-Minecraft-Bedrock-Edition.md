@@ -45,7 +45,7 @@ On this page, you can create and [customize Minecraft skins](https://www.minecra
 
 ## Find Friends
 
-Play with your friends in their Minecraft world, or invite them to your own! See [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](../Multiplayer-Support/Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
+Play with your friends in their Minecraft world, or invite them to your own! See [How Do I Join a Friend’s Online World in Minecraft: Bedrock Edition?](../Multiplayer-Support/Join-a-Friend-s-Minecraft-Bedrock-Edition-World-Online.md)
 
 ## Marketplace 
 

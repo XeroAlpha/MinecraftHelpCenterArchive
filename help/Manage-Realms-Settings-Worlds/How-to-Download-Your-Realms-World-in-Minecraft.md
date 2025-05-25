@@ -24,7 +24,7 @@ Backing up your worlds in Minecraft is an important aspect of making sure you ne
 
 See [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md) to learn what files are kept in the Backups section.
 
-View [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md) to put that file back into the Realm.
+View [How to Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md) to put that file back into the Realm.
 
 ## How to download a Realms world in Minecraft: Java Edition
 

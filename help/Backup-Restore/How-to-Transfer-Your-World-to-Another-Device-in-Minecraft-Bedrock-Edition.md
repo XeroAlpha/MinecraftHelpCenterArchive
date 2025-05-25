@@ -31,7 +31,7 @@ After you get a Realms subscription, follow the steps below to move your world.
 1.  Start Minecraft on the device the world currently resides on
 2.  Select **Play**
 3.  Click the edit Realm icon In the **Realms** section at the top of your world list to enter the edit menu
-4.  Select a world slot and press **Edit World. Note:** Backup your existing worlds or make sure to use an empty slot. See [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
+4.  Select a world slot and press **Edit World. Note:** Backup your existing worlds or make sure to use an empty slot. See [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
 5.  Select **Upload World** at the bottom of the **Game Settings** section
 6.  Confirm you want to replace the world in the current slot and select the world you want transferred
 7.  Now that your world is on the Realm, login to Minecraft on another device with your Microsoft account

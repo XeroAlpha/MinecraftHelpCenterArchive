@@ -34,10 +34,10 @@ If you'd like to play Minecraft: Java Edition with other people, this article ca
 - **Check Your Router Settings**: Configure your router to use moderate or open Network Address Translation (NAT).
 - **Change to Ethernet Connection**: If you’re on a stationary device, try connecting using an Ethernet cable instead of using Wi-Fi.
 - **Revert to a Previous Save**: Try reverting to a previous save of your world.
-- **Change World Slots**: When troubleshooting Realms issues, move the world you're having trouble with to a different world slot. See [How to Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/How-to-Upload-Worlds-onto-a-Minecraft-Realm.md).
+- **Change World Slots**: When troubleshooting Realms issues, move the world you're having trouble with to a different world slot. See [How to Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/Upload-Worlds-onto-a-Minecraft-Realm.md).
 
 See these articles for more tips on troubleshooting errors connecting to multiplayer games:
 
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
 - [Troubleshoot Minecraft Realms Connection Errors](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md)

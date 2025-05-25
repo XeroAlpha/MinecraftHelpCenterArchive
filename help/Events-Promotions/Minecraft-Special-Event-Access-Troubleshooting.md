@@ -4,8 +4,18 @@ date: 2023-12-19T19:41:15Z
 updated: 2025-03-26T20:50:50Z
 categories: Events & Promotions
 tags:
+  - title_minecraft
+  - platform_ios
+  - platform_android
+  - platform_nintendo_switch
+  - platform_sony_playstation_4
+  - platform_PC
+  - title_minecraft_java_&_bedrock_for_pc
+  - platform_sony_playstation_5
   - section_26562723671949
   - section_27166460834061
+  - category_events_promotions
+  - subject_eap_events
 link: https://help.minecraft.net/hc/en-us/articles/22504134081549-Minecraft-Special-Event-Access-Troubleshooting
 hash:
   h_01JQ530HSYM9CXG4MS0854AZ3M: confirm-your-minecraft-edition

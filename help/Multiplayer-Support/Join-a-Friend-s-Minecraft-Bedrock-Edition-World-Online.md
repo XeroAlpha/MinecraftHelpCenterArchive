@@ -50,4 +50,4 @@ If you encounter any problems joining a friend's world, here are some things to 
 If you need more help getting your game started, see these articles:
 
 - [Invite Friends to Your Minecraft: Bedrock Edition World](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md)
-- [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+- [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)

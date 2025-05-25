@@ -25,4 +25,4 @@ To access the automatic Realms Backups, do the following:
 
 To learn which versions of your world are saved automatically, see [How Mojang Saves Backups of Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
 
-To change the world on your Realm, see [How to Upload Worlds onto a Minecraft Realm](./How-to-Upload-Worlds-onto-a-Minecraft-Realm.md).
+To change the world on your Realm, see [How to Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md).

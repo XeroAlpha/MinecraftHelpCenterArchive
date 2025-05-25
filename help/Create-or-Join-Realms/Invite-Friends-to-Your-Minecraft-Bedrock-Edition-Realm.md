@@ -57,4 +57,4 @@ You have several options for how you can invite friends to your Minecraft: Bedro
 Anyone who has access to the link can join your Realm. If you are seeing unwanted players in your Realm, here’s what you can do:
 
 - **Generate a new Share Link:** Generating a new link will deactivate the old one so it can’t be used to join your Realm.
-- **Remove or block players:** See [How to Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/How-to-Moderate-Your-Minecraft-Realm.md) for more information.
+- **Remove or block players:** See [How to Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/Moderate-Your-Minecraft-Realm.md) for more information.

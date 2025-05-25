@@ -61,5 +61,5 @@ Here is a list of things you can manage here:
 For more help with managing your Realm, see these articles:
 
 - **Resource and behavior packs:** [What are Minecraft Add-Ons?](../Managing-Marketplace-Content/What-are-Minecraft-Add-Ons.md)
-- **Backups:** [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
+- **Backups:** [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
 - **Troubleshooting worlds:** [Troubleshooting Realms World Slot Errors](../Troubleshoot-Minecraft-Realms/Troubleshooting-Realms-World-Slot-Errors.md)

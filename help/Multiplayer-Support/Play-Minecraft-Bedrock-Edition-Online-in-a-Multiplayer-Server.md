@@ -27,7 +27,7 @@ You can play Minecraft: Bedrock Edition with friends online by joining their wor
 
 To learn about other ways to play with friends, see:
 
-- [Join a Friend’s Online World in Minecraft: Bedrock Edition](./Join-a-Friend-s-Online-World-in-Minecraft-Bedrock-Edition.md)
+- [Join a Friend’s Online World in Minecraft: Bedrock Edition](./Join-a-Friend-s-Minecraft-Bedrock-Edition-World-Online.md)
 - [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
 - [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-Local-Multiplayer.md)
 
@@ -53,4 +53,4 @@ If the server you want to join is not in the partner/server list, you can add it
 6.  Enter the server’s port, if required. The default port for Minecraft: Bedrock Edition is 19132.
 7.  Select **Add and play** if you’d like to play immediately or **Add server** if you want to play later. 
 
-If you’re having issues joining a multiplayer world, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](./Troubleshoot-Unable-to-Join-Multiplayer-Worlds-in-Minecraft.md)
+If you’re having issues joining a multiplayer world, see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft.](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
