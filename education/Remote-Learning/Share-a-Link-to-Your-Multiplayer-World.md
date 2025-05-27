@@ -1,24 +1,26 @@
 ---
 title: Share a Link to Your Multiplayer World
 date: 2021-05-25T15:29:41Z
-updated: 2023-02-20T23:47:52Z
+updated: 2025-05-27T20:00:21Z
 categories: Remote Learning
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061379932-Share-a-Link-to-Your-Multiplayer-World
 hash:
-  share-a-link: share-alink
+  h_01JW9N9CWM2C862B1Q6ATBQFDY: share-alink
+  h_01JW9MSCE9TR0MV5HKKEVVA8TQ: a-link-to-a-video-on-minecraft-education-safety-features
+  h_01JW9N9CWPX9RHDM67HQ7NRT9J: related-articles
 ---
 
 Hosts of a world can share a link that takes users directly into their world. This allows students to more easily join worlds and work on projects in Minecraft Education together. This article provides information on how to share a join link via Microsoft Teams, Google Classroom, and email or how to copy a link that can be pasted to your preferred tool. 
 
  
 
-![ShareLinkFull.gif](https://edusupport.minecraft.net/hc/article_attachments/360096435472/ShareLinkFull.gif)
+![ShareLinkFull.gif](https://edusupport.minecraft.net/hc/article_attachments/360096435472)
 
 ## Share a link 
 
 Follow these steps to share a link to your multiplayer world. 
 
-1.  From the **Pause** menu, select the **Multiplayer** (![Multiplayer_Tab.png](https://edusupport.minecraft.net/hc/article_attachments/360096400611/Multiplayer_Tab.png)) tab. 
+1.  From the **Pause** menu, select the **Multiplayer** (![Multiplayer_Tab.png](https://edusupport.minecraft.net/hc/article_attachments/360096400611)) tab. 
 2.  If you are not already hosting, select **Start Hosting**. 
 3.  Select **Share Link**. 
 
@@ -76,6 +78,10 @@ Follow these steps to share a link to your multiplayer world. 
 
    
 **Result:** The link is shared and the recipients can access your world by opening the link. 
+
+ 
+
+## [**![A link to a video on Minecraft Education Safety Features](https://edusupport.minecraft.net/hc/article_attachments/37888212266388)**](https://www.youtube.com/watch?v=XGyx-5vKBvI)
 
  
 

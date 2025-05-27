@@ -1,10 +1,13 @@
 ---
 title: Profile Types and Permissions
 date: 2020-08-10T09:07:30Z
-updated: 2024-05-29T20:44:08Z
+updated: 2025-05-27T19:59:28Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions
 hash:
+  section: ""
+  h_01JW9MSCE9XACPZ1YZT7CBB88T: multiplayer-safety-features-and-who-can-join-a-world
+  h_01JW9MSCE9TR0MV5HKKEVVA8TQ: a-link-to-a-video-on-minecraft-education-safety-features
   h_01HZ306QNAYYTGPJ2J1GJ320YG: teacher-vs-student-permissions
   h_01HZ306TZBZ47XCX8K9FQWVT05: operator
   Worldbuilder: worldbuilder
@@ -14,11 +17,31 @@ hash:
 
 This article explains the two different types of “profiles” that can be granted to players. These profiles have access to more commands and permissions than a player who logs into your world so should be used with care. this article will cover:
 
+- [Multiplayer Safety Features, and who can join a world](https://edusupport.minecraft.net/hc/en-us/articles/h_01JW9MSCE9XACPZ1YZT7CBB88T)
 - [Teacher vs student permissions](#teacher-vs-student-permissions)
 - [Operator](#h_01HZ306TZBZ47XCX8K9FQWVT0)
 - [Worldbuilder](#worldbuilder)
 - [Advanced Tips](#advanced-tips)
 - [How to change your in-game display name](#how-to-change-in-game-display-name)
+
+##  
+
+## **Multiplayer Safety Features, and who can join a world**
+
+## [**![A link to a video on Minecraft Education Safety Features](https://edusupport.minecraft.net/hc/article_attachments/37888234934164)**](https://www.youtube.com/watch?v=XGyx-5vKBvI)
+
+Minecraft Education has several multiplayer safety features that prevent outside actors from joining your students' worlds. The video above has great info around this, but here are the highlights:
+
+For someone to join a hosted world, they must:
+
+- Be in the same Microsoft 365 organizational account (aka Microsoft Entra ID tenant)
+  - For schools, this typically means they have a school email ending in the same @domain (e.g. @school123.edu). However, for some accounts it may be the school district. 
+- Have the currently active join code, which only the host of the session can see and provide
+- Know when the session is online
+
+With that, only users within your school environment will be able to join other users from that school environment. To ensure your sessions are kept only the intended group within your school, make sure to only post your join code in private areas (e.g. not in a Teams channel you share with multiple classes or class times). If you're unsure if a join code got out, resetting it or restarting the world will invalidate the old code. 
+
+ 
 
 ## **Teacher vs student permissions**
 

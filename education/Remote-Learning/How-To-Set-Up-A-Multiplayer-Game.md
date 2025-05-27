@@ -1,7 +1,7 @@
 ---
 title: How To Set Up A Multiplayer Game
 date: 2020-08-10T09:00:18Z
-updated: 2024-06-26T16:38:20Z
+updated: 2025-05-27T20:04:59Z
 categories: Remote Learning
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game
 hash:
@@ -37,6 +37,8 @@ Minecraft Education features multiplayer games that connect using picture based 
 
 For hosting games across multiple networks, visit the [How to Set Up a Multiplayer Game from Home Guide](./How-to-connect-to-Multiplayer-games-from-different-networks.md).
 
+ 
+
 Our support team is limited in our ability to troubleshoot unique network issues, but we are always happy to try to help.
 
 ## Requirements
@@ -54,6 +56,14 @@ Here are the requirements for the best possible multiplayer experience:
 If you have trouble connecting to a Multiplayer world, check out the [Troubleshooting](#troubleshooting) section of this article for tips on how to resolve common issues.
 
 ## How to Host a World
+
+[![Link to a video about Hosting Multiplayer Worlds in Minecraft Education](https://edusupport.minecraft.net/hc/article_attachments/37888505601812)](https://www.youtube.com/watch?v=ragpGD2BlzQ)
+
+ 
+
+View our above video or follow our guide below!
+
+ 
 
 Click **Play** on the home screen
 
