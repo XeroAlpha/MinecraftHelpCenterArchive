@@ -1,11 +1,11 @@
 ---
-title: How to Buy Minecoins in the Minecraft Marketplace
+title: Buy Minecoins in the Minecraft Marketplace
 date: 2024-02-12T20:41:33Z
-updated: 2024-11-19T20:38:02Z
+updated: 2025-05-28T21:27:44Z
 categories: Buying Marketplace Content
 tags:
   - section_31867594896141
-link: https://help.minecraft.net/hc/en-us/articles/24069466555661-How-to-Buy-Minecoins-in-the-Minecraft-Marketplace
+link: https://help.minecraft.net/hc/en-us/articles/24069466555661-Buy-Minecoins-in-the-Minecraft-Marketplace
 hash:
   h_01J6J9Y2BVQBJQBFTEGCJB91AR: how-to-buy-minecoins-in-the-minecraft-marketplace
   h_01J6J9ZGA92E9HQNN4W3GYHAGC: how-to-redeem-prepaid-cards-for-minecoins
@@ -15,10 +15,10 @@ The [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) offers 
 
 ## How to buy Minecoins in the Minecraft Marketplace
 
-1.  Launch either Minecraft: Bedrock Edition.
+1.  Launch Minecraft: Bedrock Edition.
 2.  Sign into your Microsoft account on the title screen.
-3.  Select Marketplace.
-4.  Select the coin symbol at the top of the screen.
+3.  Select **Marketplace**.
+4.  Select the **plus button** next to your Minecoin balance at the top of the screen.
 5.  Select the Minecoin package you want to buy.
 6.  Follow the steps in the store to complete your purchase.
 
@@ -30,4 +30,4 @@ If you do not want to buy Minecoins with a saved credit card on file, prepaid ca
 2.  Enter your code and follow the on-screen instructions.
 3.  Launch Minecraft and visit the Marketplace to view your Minecoin balance and verify the Minecoins were added to your account.
 
-Regardless If you are playing Bedrock or Legends, the Minecoins you purchase will carry over with you between games if you sign in with the Microsoft account you used to purchase them.
+If you are playing Bedrock or Legends, the Minecoins you purchase will carry over with you between games if you sign in with the Microsoft account you used to purchase them.

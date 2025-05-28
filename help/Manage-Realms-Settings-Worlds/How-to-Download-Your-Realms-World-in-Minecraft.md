@@ -1,18 +1,19 @@
 ---
-title: How to Download Your Realms World in Minecraft
+title: Download Your Realms World in Minecraft
 date: 2024-09-06T21:35:22Z
+updated: 2025-05-28T18:52:51Z
 categories: Manage Realms Settings & Worlds
 tags:
   - section_12618497714061
-link: https://help.minecraft.net/hc/en-us/articles/30035151042445-How-to-Download-Your-Realms-World-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/30035151042445-Download-Your-Realms-World-in-Minecraft
 hash:
-  h_01J74KZVYZQRB12XHQWYAHM5ER: how-to-download-a-realms-world-in-minecraft-bedrock-edition
-  h_01J74M0N8XT7NF9FHEP31P81HX: how-to-download-a-realms-world-in-minecraft-java-edition
+  h_01J74KZVYZQRB12XHQWYAHM5ER: download-a-realms-world-in-minecraft-bedrock-edition
+  h_01J74M0N8XT7NF9FHEP31P81HX: download-a-realms-world-in-minecraft-java-edition
 ---
 
 Backing up your worlds in Minecraft is an important aspect of making sure you never lose your creations. In a Realm, you and your friends could have built up a world for dozens of hours, so you should be very protective of making sure you can restore it to a specific point if something should go wrong. Here is how to download your Realms world for backup in Minecraft.
 
-## How to download a Realms world in Minecraft: Bedrock Edition
+## Download a Realms world in Minecraft: Bedrock Edition
 
 1.  Start Minecraft.
 2.  Select **Play**.
@@ -24,9 +25,9 @@ Backing up your worlds in Minecraft is an important aspect of making sure you ne
 
 See [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md) to learn what files are kept in the Backups section.
 
-View [How to Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md) to put that file back into the Realm.
+View [Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md) to put that file back into the Realm.
 
-## How to download a Realms world in Minecraft: Java Edition
+## Download a Realms world in Minecraft: Java Edition
 
 1.  Start Minecraft.
 2.  Select **Minecraft Realms**.

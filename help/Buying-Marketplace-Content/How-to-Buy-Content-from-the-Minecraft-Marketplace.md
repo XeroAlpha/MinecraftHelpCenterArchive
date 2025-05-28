@@ -1,7 +1,7 @@
 ---
-title: How to Buy Content from the Minecraft Marketplace
+title: Buy Content from the Minecraft Marketplace
 date: 2024-02-12T20:32:01Z
-updated: 2024-11-14T00:12:08Z
+updated: 2025-05-28T21:32:41Z
 categories: Buying Marketplace Content
 tags:
   - title_minecraft
@@ -17,12 +17,12 @@ tags:
   - use_for_autoreply
   - platform_xbox_series_xs
   - section_31867594896141
-link: https://help.minecraft.net/hc/en-us/articles/24069202046349-How-to-Buy-Content-from-the-Minecraft-Marketplace
+link: https://help.minecraft.net/hc/en-us/articles/24069202046349-Buy-Content-from-the-Minecraft-Marketplace
 hash:
   h_01HQ972GQDQ2XSR5BQV71NG5PA: how-to-buy-minecraft-marketplace-content
 ---
 
-There is a lot of content available for you to look through on the [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace). After accessing the store, here’s how to get that content added to your library.
+You can visit the [Minecraft Marketplace online](https://www.minecraft.net/en-us/marketplace) or launch Minecraft: Bedrock Edition and select the Marketplace button. After accessing the store, here’s how to get that content added to your library.
 
 ## How to buy Minecraft Marketplace content
 
@@ -30,4 +30,4 @@ There is a lot of content available for you to look through on the [Minecraft Ma
 2.  Select how you want to pay for your purchase. You can use Minecoins already in your wallet or select the price tag that will purchase the required Minecoin pack and immediately use those coins.
 3.  Select **Download** to install the content on your device after your purchase is complete.
 
-For more ways to find your content, see [How to Access Minecraft Marketplace Content](../Managing-Marketplace-Content/How-to-Access-Minecraft-Marketplace-Content.md).
+For more ways to find your content, see [Access Minecraft Marketplace Content](../Managing-Marketplace-Content/How-to-Access-Minecraft-Marketplace-Content.md).

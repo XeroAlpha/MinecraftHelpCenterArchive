@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Java Edition Realm"
 date: 2024-04-15T19:13:45Z
-updated: 2025-04-17T15:17:05Z
+updated: 2025-05-28T20:44:02Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
@@ -16,33 +16,27 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/25916625786509-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm
 hash:
-  h_01JKE9HY7PSFBZ73VYA0C7P9B1: invite-friends-to-a-minecraft-java-edition-realm-in-game
-  h_01JKE9JFYA2FD572CNBX1MSR74: invite-friends-to-a-java-realm-on-minecraftnet
-  h_01JRE5WYW7BRMMCXYBA219NCRZ: resources-for-minecraft-java-edition-multiplayer
+  h_01JWC3R8M4X81N3WTZBGMX3PEE: invite-friends-through-the-game-menu
 ---
 
-To get the most out of your Realm in Minecraft: Java Edition, invite friends to help build your world together. Here is how to invite others to your Java Realm.
+*For Minecraft: Bedrock Edition, see* *[Invite Friends to Your Minecraft: Bedrock Edition Realm](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).*
 
-## Invite friends to a Minecraft: Java Edition Realm in-game
+After you [create a Minecraft: Java Edition Realm](./Create-a-Minecraft-Java-Edition-Realm.md), you can invite your friends through the Minecraft game menu.
 
-1.  Start Minecraft.
-2.  Click **Minecraft Realms** button.
-3.  Select your Realm and click the **Configure** button.
-4.  Click the **Players** button.
-5.  Click the **Invite Player** **button on the Players screen**.
-6.  Input the player's [Java Profile Name](../Manage-Your-Minecraft-Profile/View-or-Change-Your-In-Game-Profile-Name-in-Minecraft.md) and click the **Invite Player** button.
+**Note**: while you can invite as many players as you’d like to your Minecraft: Java Edition Realm, only 10 can be online simultaneously.
 
-## Invite friends to a Java Realm on Minecraft.net
+## Invite friends through the game menu
 
-1.  Sign in to your [Microsoft account on Minecraft.net](https://www.minecraft.net/en-us/login).
-2.  Select **Realms**.
-3.  Select **Realms Settings** on the Realm you'd like your friend to join.
-4.  Enter your friend's [Java Profile Name](../Manage-Your-Minecraft-Profile/View-or-Change-Your-In-Game-Profile-Name-in-Minecraft.md) in the **Find Player** field.
-5.  Press the **Invite** button.
+1.  Select **Minecraft Realms** from the Minecraft launch screen.
+2.  Select your Realm and then select the **Configure **button.
+3.  Select **Players** and then select **Invite Player**.
+4.  Enter the player's [Java Profile Name](../Manage-Your-Minecraft-Profile/View-or-Change-Your-In-Game-Profile-Name-in-Minecraft.md) and select the **Invite Player** button.
 
-## Resources for Minecraft: Java Edition Multiplayer
+You can also [sign into your profile on Minecraft.net](https://www.minecraft.net/en-us/msaprofile) and invite members from the Realms tab.
 
-- [Requirements to Play Minecraft: Java Edition Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
-- [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
-- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
-- [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Troubleshoot-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)
+See these resources for more information about Minecraft: Java Edition Realms:
+
+- [Join a Friend's Minecraft: Java Edition Realm](./Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
+- [Manage Your Minecraft: Java Edition Realm](../Manage-Realms-Settings-Worlds/Manage-Your-Minecraft-Java-Edition-Realm.md)
+- [Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/Moderate-Your-Minecraft-Realm.md)
+- [Create a Minecraft: Java Edition Realm](./Create-a-Minecraft-Java-Edition-Realm.md)

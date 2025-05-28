@@ -1,7 +1,7 @@
 ---
-title: How to Manually Update Minecraft on Windows
+title: Manually Update Minecraft on Windows
 date: 2024-04-01T19:09:34Z
-updated: 2024-09-17T20:41:07Z
+updated: 2025-05-28T18:54:13Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -11,10 +11,10 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/25519964899597-How-to-Manually-Update-Minecraft-on-Windows
+link: https://help.minecraft.net/hc/en-us/articles/25519964899597-Manually-Update-Minecraft-on-Windows
 ---
 
-To play the newest content in Minecraft: Java Edition, your game needs to be updated to the most recent version. This should happen automatically while your device is in standby mode or in use while connected to an active Internet connection. However, if you need to manually update your game on Windows, you can follow the steps below.
+To play the newest content in Minecraft, your game needs to be updated to the most recent version. This should happen automatically while your device is in standby mode or in use while connected to an active Internet connection. However, if you need to manually update your game on Windows, you can follow the steps below.
 
 1.  Go to the Start Menu.
 2.  Right click on the Minecraft Launcher.
