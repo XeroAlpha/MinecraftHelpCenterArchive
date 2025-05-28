@@ -1,7 +1,7 @@
 ---
 title: Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
-updated: 2025-05-21T17:49:46Z
+updated: 2025-05-28T18:45:28Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft_java_edition
@@ -21,15 +21,14 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/360058604512-Moderate-Your-Minecraft-Realm
 hash:
-  h_01HS9QFKDH66JJX5FYGC5D83NA: how-to-find-realms-settings
+  h_01HS9QFKDH66JJX5FYGC5D83NA: find-minecraft-bedrock-edition-realms-settings
+  h_01JWC3478E19H52AB57G3N9GEJ: find-minecraft-java-edition-realms-settings
   h_01HS9QHJE2PG5ZYBZG7BME73QD: minecraft-realms-moderation-tips
 ---
 
 We are not able to view and assist with moderation issues on your Realm directly. However, we do have a few suggestions to help you with managing player access and permissions to your Realm.
 
-## How to find Realms settings
-
-**Bedrock**
+## Find Minecraft: Bedrock Edition Realms Settings
 
 1.  Start Minecraft.
 2.  Select **Play**.
@@ -37,7 +36,7 @@ We are not able to view and assist with moderation issues on your Realm directly
 4.  Select **Manage Realm**.
 5.  Select **Members** to view players and adjust permissions.
 
-**Java**
+## Find Minecraft: Java Edition Realms Settings
 
 1.  Start Minecraft.
 2.  Select **Minecraft Realms**.
@@ -46,10 +45,9 @@ We are not able to view and assist with moderation issues on your Realm directly
 
 ## Minecraft Realms moderation tips
 
-- **Change player permissions**: Set player permissions to Visitor. Players will be unable to make any changes to the world, such as breaking blocks or griefing. Consider setting this as the default when players join from an invite.  
+- **Change player permissions**: Set player permissions to Visitor. Players will be unable to make any changes to the world, such as breaking blocks or griefing. Consider setting this as the default when players join from an invite.
+- **Generate a new Share Link**: If unwanted players joined from a previous Share Link, generating a new one will deactivate the old one so it can’t be used to join your Realm.
 - **Remove and block players**: You also have the option to remove and block players in your Realm if you wish to restrict realm access.
-- **Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [How To Create A Backup Of A Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Minecraft: Bedrock Edition Realms Backup FAQ](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md).
+- **Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md).
 
-You can also moderate your Realm through Minecraft.net. Check out the following articles for more information:
-
-- [How to Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md)
+You can also moderate your Realm through Minecraft.net. See [Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md)[.](./How-to-Edit-Your-Realms-on-Minecraft-net.md)

@@ -1,7 +1,7 @@
 ---
-title: How to Manually Update Minecraft on Mobile
+title: Manually Update Minecraft on Mobile Devices
 date: 2021-09-14T00:17:35Z
-updated: 2024-06-14T17:36:31Z
+updated: 2025-05-28T18:49:33Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -11,17 +11,17 @@ tags:
   - platform_android
   - section_27166490706957
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409172223501-How-to-Manually-Update-Minecraft-on-Mobile
+link: https://help.minecraft.net/hc/en-us/articles/4409172223501-Manually-Update-Minecraft-on-Mobile-Devices
 hash:
-  h_01J0BX0EQMTFTECRVQY4YT4CHM: how-to-manually-update-minecraft-on-ios
-  h_01J0BX2VACD04TXPEGQ31TJ970: how-to-manually-update-minecraft-on-the-google-play-store
+  h_01J0BX0EQMTFTECRVQY4YT4CHM: manually-update-minecraft-on-ios
+  h_01J0BX2VACD04TXPEGQ31TJ970: manually-update-minecraft-on-the-google-play-store
 ---
 
 Most of the time, your device should automatically update Minecraft. However, some settings and other situations can prevent automatic updates. Here is how to manually update Minecraft to the most recent version on your mobile device if necessary.
 
 **Note:** if you are unsure if you are running the latest version of Minecraft, start the game and the version number will be displayed in the bottom right corner of the title screen.
 
-## How to manually update Minecraft on iOS
+## Manually update Minecraft on iOS
 
 For iOS device requirements, see [iOS Operating System Requirements for Minecraft](./iOS-Operating-System-Requirements-for-Minecraft.md).
 
@@ -30,7 +30,7 @@ For iOS device requirements, see [iOS Operating System Requirements for Minecraf
 3.  Scroll down to automatic updates and find your pending Minecraft update.
 4.  Press **Update**.
 
-## How to manually update Minecraft on the Google Play Store
+## Manually update Minecraft on the Google Play Store
 
 For Android device requirements, see [Minecraft: Bedrock Edition for Android Requirements and Troubleshooting](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md).
 
