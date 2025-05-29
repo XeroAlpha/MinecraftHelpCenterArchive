@@ -1,7 +1,7 @@
 ---
-title: How to Download and Install the Minecraft Launcher
+title: Download and Install the Minecraft Launcher
 date: 2024-02-06T19:18:26Z
-updated: 2024-09-18T17:07:19Z
+updated: 2025-05-28T21:49:02Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -16,7 +16,7 @@ tags:
   - section_27166490706957
   - section_27166539479437
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/23907917790093-How-to-Download-and-Install-the-Minecraft-Launcher
+link: https://help.minecraft.net/hc/en-us/articles/23907917790093-Download-and-Install-the-Minecraft-Launcher
 ---
 
 *Mojang is ending support for the Minecraft Launcher for Windows 7, 8 and 8.1 and for macOS versions 10.11, 10.12, 10.13 and 10.14. You will continue to receive Launcher updates for these operating systems until March of 2025. After this time, you will no longer receive updates or support for Launcher, and we recommend that you move to Windows 10 or higher or macOS 10.15 or higher to continue receiving future updates. You will still be able to use Launcher for Windows 7, 8 or 8.1 and macOS 10.11 through 10.14 devices without support or updates.*

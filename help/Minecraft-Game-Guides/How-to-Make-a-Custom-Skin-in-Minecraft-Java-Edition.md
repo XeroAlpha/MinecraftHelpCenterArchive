@@ -1,7 +1,7 @@
 ---
-title: "How to Make a Custom Skin in Minecraft: Java Edition"
+title: "Make a Custom Skin in Minecraft: Java Edition"
 date: 2021-09-09T23:00:16Z
-updated: 2024-05-10T19:56:08Z
+updated: 2025-05-28T21:47:05Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft_java_edition
@@ -15,7 +15,7 @@ tags:
   - section_27983418545293
   - use_for_autoreply
   - subject_account_profile
-link: https://help.minecraft.net/hc/en-us/articles/4408894664461-How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4408894664461-Make-a-Custom-Skin-in-Minecraft-Java-Edition
 hash:
   h_01HXJ0Z4G6A6MD9PMCHTFYMS14: how-to-edit-your-java-skin
   h_01HXJ0ZM6V1W9F47ZAAWM4E6WW: how-to-change-your-java-skin-from-a-browser

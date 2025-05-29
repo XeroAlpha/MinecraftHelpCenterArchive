@@ -1,7 +1,7 @@
 ---
-title: "How to Transfer Your World to Another Device in Minecraft: Bedrock Edition"
+title: "Transfer Your World to Another Device in Minecraft: Bedrock Edition"
 date: 2021-09-13T22:15:53Z
-updated: 2024-09-04T20:36:01Z
+updated: 2025-05-28T21:54:56Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -19,14 +19,17 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166561402125
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409165790605-How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4409165790605-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition
+hash:
+  h_01JWCE79BS2WYRAJQ0GEZQMGTP: how-to-transfer-bedrock-worlds-between-devices-using-realms
+  h_01JWCE7KE2G9Y236G99729531E: where-can-i-find-my-bedrock-world-files
 ---
 
 If you are playing Minecraft: Bedrock Edition, the easiest way to transfer that world to another device is to use Realms. You can use a Realms or Realms Plus subscription to do this. If you have not subscribed before, you can also use a free 30-day trial to move your world quickly. For more information about Realms, visit [How to Create a Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Create-a-Minecraft-Bedrock-Edition-Realm.md).
 
 After you get a Realms subscription, follow the steps below to move your world.
 
-**How to transfer Bedrock worlds between devices using Realms**
+## How to transfer Bedrock worlds between devices using Realms
 
 1.  Start Minecraft on the device the world currently resides on
 2.  Select **Play**
@@ -41,7 +44,7 @@ After you get a Realms subscription, follow the steps below to move your world.
 
 If the above method does not work, ensure that both versions of Minecraft you are on have been fully updated to the latest version and that you are signing into the same Microsoft account on both games.
 
-**Where can I find my Bedrock world files?**
+## Where can I find my Bedrock world files?
 
 If you are on PC and would rather manually move your Minecraft worlds between folders and USB drives, you can find your world files by doing the following:
 
