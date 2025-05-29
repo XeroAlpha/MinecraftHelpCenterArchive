@@ -1,7 +1,7 @@
 ---
 title: Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
-updated: 2025-05-28T18:45:28Z
+updated: 2025-05-29T16:45:43Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft_java_edition
@@ -32,9 +32,11 @@ We are not able to view and assist with moderation issues on your Realm directly
 
 1.  Start Minecraft.
 2.  Select **Play**.
-3.  Select the box with a checkmark next to the Realm you want to edit.
-4.  Select **Manage Realm**.
-5.  Select **Members** to view players and adjust permissions.
+3.  Select the **Realms** tab.
+4.  Select the Realm you want to moderate and select **Options**.
+5.  Select **Realms settings** from the Options menu.
+6.  Select **Manage Realm**.
+7.  Select **Members** to view players and adjust permissions.
 
 ## Find Minecraft: Java Edition Realms Settings
 

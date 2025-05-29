@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
-updated: 2025-04-17T15:25:18Z
+updated: 2025-05-29T16:48:05Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -19,42 +19,32 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/22471067820429-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm
 hash:
-  h_01J4536CQYERG78T25BP5NTKXN: invite-friends-to-a-minecraft-bedrock-edition-realm-in-minecraft
-  h_01JKE9XEMP2HA8WY210NKB8W7C: invite-friends-to-a-minecraft-bedrock-realm-on-minecraftnet
-  h_01JS1ZKEH4RT9K8RHQMZ3XZWGB: invite-options-for-minecraft-bedrock-edition-realms
-  h_01J4537X30W839SNM7N98MYDNK: manage-realms-visitors
+  h_01JWC9QC31WHQZFZGC9KDVZ3G3: invite-friends-to-your-realm-through-the-minecraft-game-menu
 ---
 
-Realms allow members to play multiplayer Worlds even if the host is not available. While you can invite as many players as you’d like to your Minecraft: Bedrock Edition Realm, only a certain number can be online in your realm at one time based on your Realms subscription.
+*For Minecraft: Java Edition, see* [Invite Friends to Your Minecraft: Java Edition Realm](./Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)*.*
 
-## Invite friends to a Minecraft: Bedrock Edition Realm in Minecraft
+After you [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md), you can invite your friends to play from the Minecraft game menu.
 
-1.  Launch Minecraft.
-2.  Select **Play**.
-3.  Select the **Realms** tab.
-4.  Select a Realm and click the **Options** button.
-5.  Click the **Manage Realm** button.
-6.  Click the **Members** button.
-7.  Find friends and invite them to your Realm.
+**Note**: while you can invite as many players as you’d like to your Minecraft: Bedrock Edition Realm, only a certain number can be online simultaneously based on your Realms subscription. See a comparison of plans at [Minecraft.net/realms](https://minecraft.net/realms).
 
-## Invite friends to a Minecraft: Bedrock Realm on Minecraft.net
+## Invite friends to your Realm through the Minecraft game menu
 
-1.  Sign in with your [Microsoft account on Minecraft.net](https://www.minecraft.net/en-us/login).
-2.  Select **All Games**.
-3.  Click the link for your Realm under the Realms heading for Minecraft: Bedrock Edition.
-4.  Find friends and invite them to your Realm.
+1.  Select **Play** from the Minecraft launch screen.
+2.  Select the **Realms** tab on the Play menu.
+3.  Select the desired Realm and select the **Options** button.
+4.  Select **Realm settings** from the Options menu.
+5.  Select the **Manage Realm** button.
+6.  Select **Members** or **Invite Links** from the Manage Realm menu.
 
-## Invite options for Minecraft: Bedrock Edition Realms
+On the Members tab, you can find friends using their gamertag and send invitations. On the Invite Links tab, you can generate and activate an [Invite Link](../Manage-Realms-Settings-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md) to share with multiple players via email or messaging.
 
-You have several options for how you can invite friends to your Minecraft: Bedrock Edition Realm:
+You can also [sign into your profile on Minecraft.net](https://www.minecraft.net/en-us/msaprofile) and invite members from the Realms tab.
 
-- **Xbox Live friends list:** Click the **Invite** button next to names already on your Xbox friends list to give them access to your Realm.
-- **Find friends:** Search for players by their gamertag associated with their Microsoft account and add them to your Friends list.
-- **Invite Links:** Create a link unique to your Realm. When you share a link, your friends will see your Realm’s information and your gamertag in a browser. From there, they can open Minecraft or copy the Invite Code to use later.
+See these resources for more information about Minecraft: Bedrock Edition Realms:
 
-## Manage Realms Visitors
-
-Anyone who has access to the link can join your Realm. If you are seeing unwanted players in your Realm, here’s what you can do:
-
-- **Generate a new Share Link:** Generating a new link will deactivate the old one so it can’t be used to join your Realm.
-- **Remove or block players:** See [How to Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/Moderate-Your-Minecraft-Realm.md) for more information.
+- [Manage Invite Links for Minecraft: Bedrock Edition Realms](../Manage-Realms-Settings-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md)
+- [Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/Moderate-Your-Minecraft-Realm.md)
+- [Manage Your Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
+- [Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/Upload-Worlds-onto-a-Minecraft-Realm.md)
+- [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md)
