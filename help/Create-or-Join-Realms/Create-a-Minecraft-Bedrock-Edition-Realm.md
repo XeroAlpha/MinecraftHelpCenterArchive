@@ -1,7 +1,7 @@
 ---
 title: "Create a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T21:02:17Z
-updated: 2025-05-02T16:47:05Z
+updated: 2025-05-29T16:54:28Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -33,7 +33,7 @@ Here is how to subscribe and create a new Realm:
 2.  Select the **Play** button.
 3.  Select **Create New**.
 4.  Choose **Create New World** (or select an existing template).
-5.  Select **Create on Realm Server**.
+5.  Select **Create on Realms**.
 6.  Select a Realm size.
 7.  Select **Subscribe Now**.
 8.  Name your Realm.
@@ -43,4 +43,4 @@ Here is how to subscribe and create a new Realm:
 
 **Note:** If you are a Marketplace Pass subscriber, you can upgrade to a Realms Plus subscription. However, you’ll want to cancel your Marketplace Pass subscription after upgrading as both subscriptions include the same Marketplace content. See [Canceling a Minecraft Marketplace Pass Subscription](../Marketplace-Pass-Subscriptions/Canceling-a-Minecraft-Marketplace-Pass-Subscription.md).
 
-After you get your Realm started, be sure to bring your friends in! See [How to Invite Friends to Your Minecraft: Bedrock Edition Realm](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
+After you get your Realm started, be sure to bring your friends in! See [Invite Friends to Your Minecraft: Bedrock Edition Realm](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
