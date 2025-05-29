@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Cauldron Error
 date: 2025-05-19T20:53:51Z
-updated: 2025-05-21T21:25:40Z
+updated: 2025-05-29T14:10:08Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
