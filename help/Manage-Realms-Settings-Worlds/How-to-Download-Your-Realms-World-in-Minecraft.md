@@ -1,7 +1,7 @@
 ---
 title: Download Your Realms World in Minecraft
 date: 2024-09-06T21:35:22Z
-updated: 2025-05-28T18:52:51Z
+updated: 2025-05-29T23:37:14Z
 categories: Manage Realms Settings & Worlds
 tags:
   - section_12618497714061
@@ -15,12 +15,14 @@ Backing up your worlds in Minecraft is an important aspect of making sure you ne
 
 ## Download a Realms world in Minecraft: Bedrock Edition
 
-1.  Start Minecraft.
-2.  Select **Play**.
-3.  Select the **Edit Realm** icon next to your Realm (box with the checkmark).
-4.  Click the world slot with the Realm you want to download.
-5.  Select **Edit world**.
-6.  Scroll to the bottom of **Game Settings** and click **Download world**.
+1.  Launch Minecraft.
+2.  Select **Play** on the launch screen.
+3.  Select the **Realms** tab.
+4.  Select the Realm you want to manage and select **Options**.
+5.  Select **Realms settings** from the Options menu.
+6.  Select the Realm slot you want to edit.
+7.  Select **Edit world**.
+8.  Scroll to the bottom of **Game Settings** and click **Download world**.
     - To download an older version that’s been automatically saved, select Backups and choose the file to download.
 
 See [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md) to learn what files are kept in the Backups section.
