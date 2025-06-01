@@ -20,7 +20,7 @@ Minecraft: Java and Bedrock Edition for PC pre-paid cards can be used on a new
 2.  Sign into the Microsoft account that you want to use to play Minecraft.
 3.  Scratch off the silver area, enter the code found on the back of your pre-paid card into the Code field, and click Next.
 4.  Check the details of your gift and click the Confirm button.
-5.  Follow the link on the confirmation screen to install Minecraft or visit [How to install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md) to learn about installing Minecraft for Windows, Mac, or Linux.
+5.  Follow the link on the confirmation screen to install Minecraft or visit [How to install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md) to learn about installing Minecraft for Windows, Mac, or Linux.
 
 ## How to Redeem a Minecraft Gift Card on Minecraft.net
 

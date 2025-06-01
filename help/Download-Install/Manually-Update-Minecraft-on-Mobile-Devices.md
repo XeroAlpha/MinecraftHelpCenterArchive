@@ -40,4 +40,4 @@ For Android device requirements, see [Minecraft: Bedrock Edition for Android Req
 4.  Tap **Updates available**.
 5.  Find Minecraft and tap **Update**.
 
-For updating on PC, [How to Manually Update Minecraft on Windows](./How-to-Manually-Update-Minecraft-on-Windows.md).
+For updating on PC, [How to Manually Update Minecraft on Windows](./Manually-Update-Minecraft-on-Windows.md).

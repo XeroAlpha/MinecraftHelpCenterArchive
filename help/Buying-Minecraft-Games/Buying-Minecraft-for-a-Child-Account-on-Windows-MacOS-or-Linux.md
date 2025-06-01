@@ -42,7 +42,7 @@ You have several options for getting a Minecraft license for a child account:
 
 ## Step 4: Install Minecraft on Child’s Device
 
-The Minecraft Launcher manages installation and updates for Minecraft. You’ll be prompted to download and install the Launcher when you complete a purchase. See [Download and Install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md) for more information about how to install Minecraft on PC, Mac, or Linux.
+The Minecraft Launcher manages installation and updates for Minecraft. You’ll be prompted to download and install the Launcher when you complete a purchase. See [Download and Install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md) for more information about how to install Minecraft on PC, Mac, or Linux.
 
 ## Step 5: Configure Settings for Multiplayer Games and Social Features
 

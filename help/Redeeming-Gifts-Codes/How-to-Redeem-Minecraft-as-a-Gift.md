@@ -18,7 +18,7 @@ If you received the gift of Minecraft through email, follow the steps below to r
 4.  Sign in to the Microsoft account that you want to use to play Minecraft.
 5.  Enter your code into the redemption box if prompted and click Next. If you visit the redeem page directly from the email, you will skip this step.
 6.  Check the details of your gift and click the **Confirm** button.
-7.  Follow the link on the confirmation screen to install Minecraft or visit [How to install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md) to learn about installing Minecraft for Windows, Mac, or Linux.
+7.  Follow the link on the confirmation screen to install Minecraft or visit [How to install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md) to learn about installing Minecraft for Windows, Mac, or Linux.
 
 You can also redeem gift codes at [Minecraft.net/redeem](https://www.minecraft.net/en-us/redeem).
 

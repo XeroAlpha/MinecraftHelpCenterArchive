@@ -34,9 +34,9 @@ Special Minecraft event worlds are only available in Minecraft: Bedrock Edition.
 
 You need to be using the most recent version of Bedrock Edition to join limited-time events. If you're having trouble updating, see these articles for more information:
 
-- [How to Manually Update Minecraft on Windows](../Download-Install/How-to-Manually-Update-Minecraft-on-Windows.md)
-- [How to Manually Update Minecraft on Consoles](../Download-Install/How-to-Manually-Update-Minecraft-on-Consoles.md)
-- [How to Manually Update Minecraft on Mobile](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md)
+- [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+- [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
+- [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
 
 ## Sign into or link a Microsoft account
 

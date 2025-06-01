@@ -18,9 +18,9 @@ The Minecraft Marketplace always has great content for you to add to your world 
 These lettered error codes are specific to the Marketplace and indicate that you encountered an unknown client error during sign in. You can try to clear the error by trying the following:
 
 - **Check your game version**: Make sure that your game is up to date and running the latest version of Minecraft. See the below links for help updating your game.
-  - [How to Manually Update Minecraft on Consoles](../Download-Install/How-to-Manually-Update-Minecraft-on-Consoles.md)
-  - [How to Manually Update Minecraft on Windows](../Download-Install/How-to-Manually-Update-Minecraft-on-Windows.md)
-  - [How to Manually Update Minecraft on Mobile](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md)
+  - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
+  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
 - **Check account sign-in**: Make sure your game is linked to a Microsoft account. You can check this by going to the main menu, then selecting the sign-in button towards the bottom right. See [Accounts & Sign-in](https://help.minecraft.net/hc/en-us/categories/12617305106701) for help in this area.
 - **Restart your system**: Sign out of and fully close Minecraft, reset your device, and attempt to sign in again.
 

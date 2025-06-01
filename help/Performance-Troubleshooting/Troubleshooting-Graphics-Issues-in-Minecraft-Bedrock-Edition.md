@@ -55,7 +55,7 @@ Try updating your graphics card drivers if you’re experiencing graphical issue
 - [Nvidia](http://www.nvidia.com/Download/index.aspx)
 - [Intel](https://downloadcenter.intel.com/)
 
-After you download and install the drivers, you must restart your computer. If you still see the error message after this update, your computer may not meet the [system requirements to play Minecraft: Bedrock Edition](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md#h_01FFGQHFARYP67X5MV72G1T8TN).
+After you download and install the drivers, you must restart your computer. If you still see the error message after this update, your computer may not meet the [system requirements to play Minecraft: Bedrock Edition](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md#h_01FFGQHFARYP67X5MV72G1T8TN).
 
 If you're still experiencing performance issues and have a dedicated graphics card (or GPU) in your computer, it may be that Minecraft is not using the dedicated GPU when it runs.
 

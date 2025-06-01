@@ -17,4 +17,4 @@ If you have bought Minecraft before, you’re now getting the other edition for 
 2.  Sign-in to the Microsoft Store with your Microsoft account.
 3.  Once you’re signed in, instead of a “Buy” button you should see a button that says “Get.” Click this button – and now you own both editions!
 
-After you have gotten both editions, you can [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md) to access your games.
+After you have gotten both editions, you can [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md) to access your games.

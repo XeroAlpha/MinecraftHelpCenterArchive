@@ -31,9 +31,9 @@ You may encounter problems connecting to multiplayer games if all players arenâ€
 - **Enable automatic updates**: Check your game platform settings to ensure you have the latest version.
 - **Select Latest release from the launcher**: Make sure youâ€™re not using Latest preview or Latest snapshot.
 - **Manually update your game**: See these articles for additional help:
-  - [How to Manually Update Minecraft on Mobile](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md)
-  - [How to Manually Update Minecraft on Consoles](../Download-Install/How-to-Manually-Update-Minecraft-on-Consoles.md)
-  - [How to Manually Update Minecraft on Windows](../Download-Install/How-to-Manually-Update-Minecraft-on-Windows.md)
+  - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
+  - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
+  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
 
 ## Check account permissions and subscriptions
 

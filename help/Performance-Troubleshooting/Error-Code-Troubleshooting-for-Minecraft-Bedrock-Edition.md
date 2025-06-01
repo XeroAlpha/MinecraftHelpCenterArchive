@@ -42,7 +42,7 @@ Many of the error codes you may encounter when playing Minecraft occur when your
 
 You can find troubleshooting suggestions for specific error codes below. If your specific error isn’t addressed, following some of the General Error Code Troubleshooting steps may help.
 
-**Before starting troubleshooting, back up any Minecraft files you wish to keep.** See [Backing up Minecraft Worlds](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) for instructions.
+**Before starting troubleshooting, back up any Minecraft files you wish to keep.** See [Backing up Minecraft Worlds](../Backup-Restore/Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) for instructions.
 
 ## General Error Code Troubleshooting
 

@@ -83,4 +83,4 @@ If you wish to make purchases from the Minecraft Store, you need to use the live
 
 ## Playing Minecraft in PlayStation VR
 
-The PS5 version of Minecraft does not have compatibility with PlayStation VR or PlayStation VR2. You will need to download the PS4 version to play with a VR headset. See [How to play Minecraft in PlayStation VR](./How-to-play-Minecraft-in-PlayStation-VR.md). However, as of March, 2025, PlayStation VR will no longer be supported in updated Minecraft PS4 versions.
+The PS5 version of Minecraft does not have compatibility with PlayStation VR or PlayStation VR2. You will need to download the PS4 version to play with a VR headset. See [How to play Minecraft in PlayStation VR](./Play-Minecraft-in-PlayStation-VR.md). However, as of March, 2025, PlayStation VR will no longer be supported in updated Minecraft PS4 versions.

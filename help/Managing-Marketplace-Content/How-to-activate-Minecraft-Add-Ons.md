@@ -45,6 +45,6 @@ Note: If you connect to a Realm from any Minecraft: Bedrock Edition device, you 
 
 ### Related Articles 
 
-[How to Buy Content in the Minecraft Marketplace ](../Buying-Marketplace-Content/How-to-Buy-Content-from-the-Minecraft-Marketplace.md)  
+[How to Buy Content in the Minecraft Marketplace ](../Buying-Marketplace-Content/Buy-Content-from-the-Minecraft-Marketplace.md)  
 [Get Help with Minecraft Add-Ons](./Get-Help-with-Minecraft-Add-Ons.md)  
 [Let's talk about Add-Ons! - Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/24051477904781-Let-s-talk-about-Add-Ons)

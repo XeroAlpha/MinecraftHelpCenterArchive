@@ -31,7 +31,7 @@ Visit the [Creator Learning Portal](https://www.minecraft.net/en-us/creator) to 
 
 ### Related Articles
 
-[How to Buy Content from the Minecraft Marketplace](../Buying-Marketplace-Content/How-to-Buy-Content-from-the-Minecraft-Marketplace.md)
+[How to Buy Content from the Minecraft Marketplace](../Buying-Marketplace-Content/Buy-Content-from-the-Minecraft-Marketplace.md)
 
 [How to activate Minecraft Add-Ons](./How-to-activate-Minecraft-Add-Ons.md)
 

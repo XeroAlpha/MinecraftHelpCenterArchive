@@ -33,7 +33,7 @@ Server addresses will be either an IP address (1.0.0.1) or a URL (www.example.co
 ## Resources for Minecraft: Java Edition Multiplayer
 
 - [Download the Minecraft: Java Edition server](https://www.minecraft.net/en-us/download/server)
-- [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
+- [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Multiplayer-Games.md)
 - [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
 - [Troubleshooting Multiplayer Game Issues in Minecraft: Java Edition](./Troubleshoot-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

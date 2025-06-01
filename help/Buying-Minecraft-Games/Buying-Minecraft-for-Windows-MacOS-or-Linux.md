@@ -24,7 +24,7 @@ When you buy Minecraft from the Microsoft store or on Minecraft.net, you get bot
 4.  Sign in if prompted. Be sure to use or create a Microsoft account you want to use to play Minecraft.
 5.  Enter a payment method or select an existing one.
 6.  Click the Buy button to complete your purchase.
-7.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md).
+7.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md).
 8.  Start the Launcher and then select the game version for your PC platform.
 9.  Click the Play button in the Launcher to start the download and installation of your game. 
 
@@ -35,7 +35,7 @@ When you buy Minecraft from the Microsoft store or on Minecraft.net, you get bot
 3.  Sign in if prompted. Be sure to use or create a Microsoft Account you want to use to play Minecraft.
 4.  Enter a payment method or select an existing one.
 5.  Click the Buy button to complete your purchase.
-6.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md).
+6.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md).
 7.  Start the Launcher and then select the game version for your PC platform.
 8.  Click the Play button in the Launcher to start the download and installation of your game. 
 

@@ -31,7 +31,7 @@ We can’t keep all of your backups around forever, so the following retention p
 
 If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. To learn how to make your own backup or locate and restore automated backups, see the articles below:
 
-- [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](../Backup-Restore/How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md)
+- [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](../Backup-Restore/Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md)
 - [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md)
 - [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
 - [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)

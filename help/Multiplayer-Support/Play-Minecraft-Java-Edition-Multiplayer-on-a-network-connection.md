@@ -49,7 +49,7 @@ After a host has started a game, players on the same LAN can join the world.
 ## Resources for Minecraft multiplayer games
 
 - [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-Local-Multiplayer.md)
-- [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Java-Edition-Multiplayer-Games.md)
+- [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Multiplayer-Games.md)
 - [Troubleshoot LAN Connectivity Issues on Minecraft: Java Edition for Windows](../Performance-Troubleshooting/Troubleshoot-LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows.md)
 - [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)

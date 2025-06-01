@@ -20,6 +20,6 @@ Minecraft: Java Edition is part of the Minecraft: Java & Bedrock Edition for PC 
 3.  Sign in if prompted. Be sure to use the Microsoft account you want to use to play Minecraft.
 4.  Enter a payment method or select an existing one.
 5.  Click the **Buy** button to complete your purchase.
-6.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/How-to-Download-and-Install-the-Minecraft-Launcher.md).
+6.  Follow the onscreen instructions to [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md).
 7.  Start the Launcher and then select the game version for your PC platform.
 8.  Click the **Play** button in the Launcher to start the download and installation of your game.

@@ -42,7 +42,7 @@ Realms only appear if you are the Realm owner or have been invited by the Realm 
 4.  Select **Manage Realms membership invites**.
 5.  Accept the invite to the Realm you want to join.
 
-After you accept a Realm invite, it will be available for you to join in the Friends tab using the steps above. Make sure that you have the [latest public release of the game](../Download-Install/How-to-Manually-Update-Minecraft-on-Mobile.md#h_01FFGQHMP7SE5T5JQHB3068226).
+After you accept a Realm invite, it will be available for you to join in the Friends tab using the steps above. Make sure that you have the [latest public release of the game](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md#h_01FFGQHMP7SE5T5JQHB3068226).
 
 **Note:** If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
 

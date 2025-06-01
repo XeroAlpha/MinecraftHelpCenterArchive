@@ -33,4 +33,4 @@ For more information, see these articles:
 - [How to Sign Out of Minecraft](../Account-Sign-In/Sign-Out-of-Minecraft.md)
 - [How to Redeem a Code for In-Game Downloadable Content in Minecraft](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
 - [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md)
-- [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/How-to-Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)
+- [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)

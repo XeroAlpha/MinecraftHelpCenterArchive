@@ -19,7 +19,7 @@ hash:
   h_01HRD13GBCT4ZS44RAB348CRTS: heres-how-to-find-where-your-minecraft-worlds-are-stored
 ---
 
-*This article applies to Minecraft: Java Edition only. Click [here for Minecraft: Bedrock Edition](./How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).* 
+*This article applies to Minecraft: Java Edition only. Click [here for Minecraft: Bedrock Edition](./Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).* 
 
 If your Minecraft world isn’t associated with a Realms subscription, your worlds are not backed up automatically. It is a good idea to periodically backup or save a copy of your Minecraft files.
 
