@@ -1,11 +1,11 @@
 ---
-title: "Accept a Minecraft: Bedrock Edition Realms invitation"
+title: "Accept a Minecraft: Bedrock Edition Realms Invitation"
 date: 2025-05-21T00:13:38Z
-updated: 2025-05-21T21:17:04Z
+updated: 2025-06-03T18:49:44Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557
-link: https://help.minecraft.net/hc/en-us/articles/36776460334477-Accept-a-Minecraft-Bedrock-Edition-Realms-invitation
+link: https://help.minecraft.net/hc/en-us/articles/36776460334477-Accept-a-Minecraft-Bedrock-Edition-Realms-Invitation
 hash:
   h_01JVR2T4BQNSXKB9Y49BF35BSS: accept-a-minecraft-bedrock-edition-realms-invitation-from-your-inbox
   h_01JVR2T4BQH0S3KA83DFSWTF9F: accept-a-minecraft-bedrock-edition-realms-invitation-using-an-invite-link

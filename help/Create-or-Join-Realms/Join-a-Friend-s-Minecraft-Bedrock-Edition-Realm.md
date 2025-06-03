@@ -1,7 +1,7 @@
 ---
-title: "Join a Friend's Minecraft: Bedrock Edition Realm"
+title: "Join a Minecraft: Bedrock Edition Realm"
 date: 2021-09-30T23:13:51Z
-updated: 2025-04-11T16:25:29Z
+updated: 2025-06-03T18:49:18Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -17,33 +17,27 @@ tags:
   - section_26104084764557
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/4410386197133-Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm
+link: https://help.minecraft.net/hc/en-us/articles/4410386197133-Join-a-Minecraft-Bedrock-Edition-Realm
 hash:
-  h_01J4A1ZJEEFPRA5Y2153HBCB8M: join-a-realm-in-minecraft-bedrock-edition
-  h_01J4A1ZW8D409G1A4HFF35ATKJ: how-to-find-your-pending-realm-invites
+  h_01JWRVY4V5CESNQZSJQY4SFPZ7: join-a-friends-realm-in-minecraft-bedrock-edition
+  h_01JWRVY4V5XZA2WZVER1FSHH00: additional-resources
 ---
 
-Minecraft Realms is a multiplayer service that enables you to play Minecraft: Bedrock Edition online with up to ten of your friends. Before your adventure can begin, you need to join the Realm. Here's how.
+*For Minecraft: Java Edition, see* [Join a Minecraft: Java Edition Realm](./Join-a-Friend-s-Minecraft-Java-Edition-Realm.md).
 
-## Join a Realm in Minecraft: Bedrock Edition
+After you [Accept a Minecraft: Bedrock Edition Realms Invitation](./Accept-a-Minecraft-Bedrock-Edition-Realms-invitation.md), the Realm will appear on your list of available Realms. You can join the Realms server even if the host isn’t online, and a Realms subscription is not necessary for the player joining.
 
-1.  Launch Minecraft.
-2.  Select **Play** on the launch screen.
-3.  Select the **Realms** tab.
-4.  Select a Realm from the list and select **Play**.
+*For the best experience with Realms, make sure you meet the [Requirements to Play Minecraft Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Multiplayer-Games.md).*
 
-Realms only appear if you are the Realm owner or have been invited by the Realm owner. If you don't see any Realms in your list, you will need to have the Realm owner send you an invitation to join. See [Invite Friends to your Minecraft: Bedrock Edition Realm](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
+## Join a friend’s Realm in Minecraft: Bedrock Edition
 
-## How to find your pending Realm invites
+1.  Launch Minecraft: Bedrock Edition.
+2.  From the main menu, select **Play**.
+3.  Select the **Realms** tab.
+4.  Select the Realm you want to join, then select **Play**.
 
-1.  Start Minecraft.
-2.  Select** Settings**.
-3.  Select **Account**.
-4.  Select **Manage Realms membership invites**.
-5.  Accept the invite to the Realm you want to join.
+## Additional Resources
 
-After you accept a Realm invite, it will be available for you to join in the Friends tab using the steps above. Make sure that you have the [latest public release of the game](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md#h_01FFGQHMP7SE5T5JQHB3068226).
-
-**Note:** If you’re playing on a child account and encountering an error when trying to join a Realm, refer to [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
-
-For Realms troubleshooting, please refer to [Minecraft Realms Connection Troubleshooting](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md).
+- [Troubleshoot Minecraft Realms Connection Errors](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md)
+- [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
+- [Manually Update Minecraft on Mobile Devices](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
