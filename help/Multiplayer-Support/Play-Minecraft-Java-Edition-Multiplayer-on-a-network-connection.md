@@ -1,7 +1,7 @@
 ---
-title: "Play Minecraft: Java Edition Multiplayer on a network connection"
+title: "Play Minecraft: Java Edition on a Local Area Network (LAN)"
 date: 2021-09-29T21:02:52Z
-updated: 2025-04-17T15:20:26Z
+updated: 2025-06-06T22:50:55Z
 categories: Multiplayer Support
 tags:
   - title_minecraft_java_edition
@@ -15,34 +15,33 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166460834061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4410317081741-Play-Minecraft-Java-Edition-Multiplayer-on-a-network-connection
+link: https://help.minecraft.net/hc/en-us/articles/4410317081741-Play-Minecraft-Java-Edition-on-a-Local-Area-Network-LAN
 hash:
-  h_01JRE4CMTKK2B2YR0ZJ58W05E0: host-a-local-area-network-lan-game
-  h_01JRE4CMTKE4HT6TCWP6Z366HG: join-a-local-area-network-lan-game
+  h_01JRE4CMTKK2B2YR0ZJ58W05E0: host-a-local-area-network-lan-multiplayer-game
+  h_01JRE4CMTKE4HT6TCWP6Z366HG: join-a-local-area-network-lan-multiplayer-game
   h_01JRE4CMTKA0NAQ9SRSM9GQXN5: resources-for-minecraft-multiplayer-games
 ---
 
-You can play Minecraft: Java Edition with friends online by joining their world on the same network connection. To learn about other ways to play Java Edition with friends, see:
+You can play Minecraft: Java Edition with friends on a Local Area Network (LAN) by joining a world hosted on the same network connection. All players must be playing the most recent version of Minecraft using devices that support LAN play and be connected to the same local network. LAN games will display on the Multiplayer screen for guests even if they're connected to the internet through the local network. To learn about other ways to play Java Edition with friends, see:
 
 - [Join a Server with Friends in Minecraft: Java Edition](./Play-Minecraft-Java-Edition-Online-in-a-Multiplayer-Server.md)
 - [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
 
-## Host a Local Area Network (LAN) game
+## Host a Local Area Network (LAN) multiplayer game
 
 The host can start a multiplayer game and play in the world on the same computer. 
 
-1.  Launch Minecraft: Java Edition and select **Singleplayer**.
-2.  Select an existing world and click **Play Selected World** or click **Create New World**.
-3.  Press the **Esc key** to open the game menu and select **Open to LAN**. 
-4.  Adjust LAN World settings if desired and click **Start LAN World**.
+1.  Verify that all players are connected to the same local network.
+2.  Launch Minecraft: Java Edition and select **Singleplayer**.
+3.  Select an existing world and click **Play Selected World** or click **Create New World**.
+4.  Press the **Esc key** to open the game menu and select **Open to LAN**. 
+5.  Adjust LAN World settings if desired and click **Start LAN World**.
 
 A message that a local game has been hosted on port \[######\] will appear in the game messages.
 
-## Join a Local Area Network (LAN) game
+## Join a Local Area Network (LAN) multiplayer game
 
-After a host has started a game, players on the same LAN can join the world.
-
-1.  Verify that your host has started the game.
+1.  Verify that you are on the same local network as the host and that your host has started the game.
 2.  Launch Minecraft: Java Edition and select **Multiplayer**.
 3.  Select the game to join. LAN games should appear automatically.
 

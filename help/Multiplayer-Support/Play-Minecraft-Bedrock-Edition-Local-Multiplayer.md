@@ -1,7 +1,7 @@
 ---
 title: "Play Minecraft: Bedrock Edition on a Local Area Network (LAN)"
 date: 2025-04-08T22:49:26Z
-updated: 2025-06-06T19:12:17Z
+updated: 2025-06-06T22:45:48Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061
@@ -14,7 +14,7 @@ hash:
 
 You can play Minecraft: Bedrock Edition with friends by connecting devices over a Local Area Network (LAN) that does not have a connection to the internet. All players must be playing the most recent version of Minecraft using devices that support LAN play and be connected to the same network without an active internet connection.
 
-**Note:** If your device is connected to the internet, Minecraft defaults to online play, and you will not see LAN worlds on the Worlds tab.
+**Note:** If your device is connected to the internet, Minecraft: Bedrock Edition defaults to online play, and you will not see LAN worlds on the Worlds tab.
 
 ## Host a Local Area Network (LAN) multiplayer game
 
