@@ -38,5 +38,5 @@ You can play Minecraft: Bedrock Edition with friends by connecting devices over 
 
 - [Play Minecraft: Bedrock Edition split-screen](./Play-Minecraft-Bedrock-Edition-split-screen.md)
 - [Play Minecraft: Bedrock Edition online in a multiplayer server](./Play-Minecraft-Bedrock-Edition-Online-in-a-Multiplayer-Server.md)
-- [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
+- [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Join-a-Minecraft-Bedrock-Edition-Realm.md)
 - [Join a Friend’s Minecraft: Bedrock Edition World Online](./Join-a-Friend-s-Minecraft-Bedrock-Edition-World-Online.md)

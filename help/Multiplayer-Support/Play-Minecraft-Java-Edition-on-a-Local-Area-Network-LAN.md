@@ -25,7 +25,7 @@ hash:
 You can play Minecraft: Java Edition with friends on a Local Area Network (LAN) by joining a world hosted on the same network connection. All players must be playing the most recent version of Minecraft using devices that support LAN play and be connected to the same local network. LAN games will display on the Multiplayer screen for guests even if they're connected to the internet through the local network. To learn about other ways to play Java Edition with friends, see:
 
 - [Join a Server with Friends in Minecraft: Java Edition](./Play-Minecraft-Java-Edition-Online-in-a-Multiplayer-Server.md)
-- [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
+- [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/Join-a-Minecraft-Java-Edition-Realm.md)
 
 ## Host a Local Area Network (LAN) multiplayer game
 
@@ -47,7 +47,7 @@ A message that a local game has been hosted on port \[######\] will appear in th
 
 ## Resources for Minecraft multiplayer games
 
-- [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-Local-Multiplayer.md)
+- [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-on-a-Local-Area-Network-LAN.md)
 - [Requirements to Play Minecraft: Java Edition Multiplayer Games](./Requirements-to-Play-Minecraft-Multiplayer-Games.md)
 - [Troubleshoot LAN Connectivity Issues on Minecraft: Java Edition for Windows](../Performance-Troubleshooting/Troubleshoot-LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows.md)
 - [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)

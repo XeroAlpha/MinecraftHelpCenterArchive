@@ -13,8 +13,8 @@ hash:
 
 A Minecraft: Java Edition online server allows two or more players to play together and does not require a Realms subscription. To learn about other ways to play Java Edition with friends, see:
 
-- - [Play Minecraft: Java Edition Multiplayer on a network connection](./Play-Minecraft-Java-Edition-Multiplayer-on-a-network-connection.md)
-  - [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
+- - [Play Minecraft: Java Edition Multiplayer on a network connection](./Play-Minecraft-Java-Edition-on-a-Local-Area-Network-LAN.md)
+  - [Join a Friend's Minecraft: Java Edition Realm](../Create-or-Join-Realms/Join-a-Minecraft-Java-Edition-Realm.md)
 
 ## Join a Minecraft: Java Edition online server
 

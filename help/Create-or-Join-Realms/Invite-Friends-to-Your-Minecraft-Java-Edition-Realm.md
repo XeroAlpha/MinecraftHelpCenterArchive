@@ -36,7 +36,7 @@ You can also [sign into your profile on Minecraft.net](https://www.minecraft.net
 
 See these resources for more information about Minecraft: Java Edition Realms:
 
-- [Join a Friend's Minecraft: Java Edition Realm](./Join-a-Friend-s-Minecraft-Java-Edition-Realm.md)
+- [Join a Friend's Minecraft: Java Edition Realm](./Join-a-Minecraft-Java-Edition-Realm.md)
 - [Manage Your Minecraft: Java Edition Realm](../Manage-Realms-Settings-Worlds/Manage-Your-Minecraft-Java-Edition-Realm.md)
 - [Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/Moderate-Your-Minecraft-Realm.md)
 - [Create a Minecraft: Java Edition Realm](./Create-a-Minecraft-Java-Edition-Realm.md)

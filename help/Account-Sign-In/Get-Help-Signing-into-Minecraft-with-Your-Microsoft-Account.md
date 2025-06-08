@@ -53,7 +53,7 @@ If you need to update your Microsoft account information, you can learn more by 
 - [Reset Your Password](https://support.microsoft.com/en-us/account-billing/change-your-microsoft-account-password-fdde885b-86da-2965-69fd-4871309ef1f1)
 - [Recover Your Username](https://support.microsoft.com/en-us/account-billing/you-forgot-your-microsoft-account-username-b2049472-3b8f-27d3-61c6-67a668453f4c)
 - [Create a New Microsoft Account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf)
-- [Switch between Microsoft Accounts](./Switching-Between-Microsoft-Accounts-in-Launcher-to-Play-Minecraft.md)
+- [Switch between Microsoft Accounts](../Minecraft-Launcher-Support/Switching-Between-Microsoft-Accounts-in-Launcher-to-Play-Minecraft.md)
 - [Keep Your Microsoft Account Secure](https://support.microsoft.com/en-us/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
 - [Update Your Gamertag](https://support.xbox.com/en-US/help/account-profile/profile/change-xbox-live-gamertag)
 - [How to Close Your Microsoft Account](https://support.microsoft.com/en-us/account-billing/how-to-close-your-microsoft-account-c1b2d13f-4de6-6e1b-4a31-d9d668849979)

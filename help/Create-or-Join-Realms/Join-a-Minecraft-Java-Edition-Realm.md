@@ -20,7 +20,7 @@ hash:
   h_01JWRWDCPHYGQXX4HAAND1V5QA: additional-resources
 ---
 
-*For Minecraft: Bedrock Edition, see [Join a Minecraft: Bedrock Edition Realm](./Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md).*
+*For Minecraft: Bedrock Edition, see [Join a Minecraft: Bedrock Edition Realm](./Join-a-Minecraft-Bedrock-Edition-Realm.md).*
 
 After you [Accept a Minecraft: Java Edition Realms Invitation](./Accept-a-Minecraft-Java-Edition-Realms-Invitation.md), it will appear on your list of available Realms. You can join the Realms server even if the host isn’t online, and a Realms subscription is not necessary for the player joining.
 

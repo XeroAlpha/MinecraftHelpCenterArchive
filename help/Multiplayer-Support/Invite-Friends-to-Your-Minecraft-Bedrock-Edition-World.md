@@ -37,5 +37,5 @@ If you encounter any problems inviting a friend to your world, here are some thi
 
 If your friend needs more help getting your game started, see these articles:
 
-- [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md)
+- [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Join-a-Minecraft-Bedrock-Edition-Realm.md)
 - [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)

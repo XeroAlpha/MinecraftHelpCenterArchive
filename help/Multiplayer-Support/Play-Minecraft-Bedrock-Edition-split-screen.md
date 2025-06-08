@@ -12,6 +12,7 @@ tags:
   - platform_sony_playstation_4
   - platform_sony_playstation_5
   - title_minecraft_java_bedrock_for_pc
+  - section_27166460834061
   - use_for_autoreply
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/37122759127821-Play-Minecraft-Bedrock-Edition-split-screen
@@ -33,4 +34,4 @@ Minecraft: Bedrock Edition allows players in the same location to share one cons
 4.  Press the button as directed by the on-screen prompt to add another player.
 5.  Repeat steps 2 through 4 for additional players if needed.
 
-Some consoles may require separate console accounts or an active online subscription, depending on your settings. See [Requirements to play Minecraft: Bedrock Edition Split-Screen](https://help.minecraft.net/hc/en-us/articles/37122846385805) for more information.
+Some consoles may require separate console accounts or an active online subscription, depending on your settings. See [Requirements to play Minecraft: Bedrock Edition Split-Screen](./Requirements-to-Play-Minecraft-Bedrock-Edition-Split-Screen.md) for more information.

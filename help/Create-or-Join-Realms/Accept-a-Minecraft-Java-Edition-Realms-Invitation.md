@@ -19,7 +19,7 @@ hash:
   h_01JWRVP6TPSS013WYTTZBKWBCW: accept-a-minecraft-java-edition-realms-invitation-in-game
 ---
 
-*For Minecraft: Bedrock Edition, see [Accept a Minecraft: Bedrock Edition Realms Invitation](./Accept-a-Minecraft-Bedrock-Edition-Realms-invitation.md).*
+*For Minecraft: Bedrock Edition, see [Accept a Minecraft: Bedrock Edition Realms Invitation](./Accept-a-Minecraft-Bedrock-Edition-Realms-Invitation.md).*
 
 To join a Minecraft: Java Edition Realm, you’ll need an invitation—see [Invite Friends to Your Minecraft: Java Edition Realm](./Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md) for how to get one. Here’s how to accept the invitation through the Minecraft Realms menu.
 
@@ -30,4 +30,4 @@ To join a Minecraft: Java Edition Realm, you’ll need an invitation—see [Invi
 3.  Select the **Letter** icon at the top of the screen to see your invites.
 4.  Accept the invite by selecting **the green checkmark**.
 
-Now that you’ve accepted the Realms invite, you can join it for any future play session by following the instructions to [Join a Minecraft: Java Edition Realm](./Join-a-Friend-s-Minecraft-Java-Edition-Realm.md).
+Now that you’ve accepted the Realms invite, you can join it for any future play session by following the instructions to [Join a Minecraft: Java Edition Realm](./Join-a-Minecraft-Java-Edition-Realm.md).

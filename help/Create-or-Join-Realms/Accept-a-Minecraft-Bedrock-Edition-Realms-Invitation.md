@@ -28,4 +28,4 @@ To join a Minecraft: Bedrock Edition Realm, you’ll need an invitation or an in
 4.  Select **Join an existing Realm** from the Options menu.
 5.  Enter the Invite link for the Realm and click **Join**.
 
-Now that you’ve accepted the Realms invite, you can join it for any future play session by following the instructions to [Join a Friend's Minecraft: Bedrock Edition Realm](./Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md).
+Now that you’ve accepted the Realms invite, you can join it for any future play session by following the instructions to [Join a Friend's Minecraft: Bedrock Edition Realm](./Join-a-Minecraft-Bedrock-Edition-Realm.md).

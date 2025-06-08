@@ -21,7 +21,7 @@ Before you jump into that world, it will be beneficial to you to understand what
 
 ## Play
 
-Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Create-or-Join-Realms/Join-a-Friend-s-Minecraft-Bedrock-Edition-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
+Obviously, you came to Minecraft to actually play the game! To get started, select the Play button on the menu and you will be met with your world list. At first, this will be empty, but we can fill this up with exciting worlds in no time! If you are looking to [join a friend's world or Realm](../Create-or-Join-Realms/Join-a-Minecraft-Bedrock-Edition-Realm.md), head over to the Friends tab where your friends should pop up or you can enter a code to join a Realm.
 
 To make your own world, select **Create New** at the top of your world list. First, you will be given a page that shows off some exciting Realms Plus and Marketplace templates, but for your first time, you probably just want a normal world, so let's select Create New World at the top.
 
