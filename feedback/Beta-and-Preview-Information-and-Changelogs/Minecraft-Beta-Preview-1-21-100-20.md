@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.100.20
 date: 2025-06-10T13:28:14Z
-updated: 2025-06-10T13:32:44Z
+updated: 2025-06-10T15:57:07Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/37264366737421-Minecraft-Beta-Preview-1-21-100-20
 ---
@@ -53,8 +53,6 @@ It's time for another Beta & Preview! For the full list of changes and additions
 - Fixed Chain blocks not being rendered with PBR properties defined by the texture set.
 
 - Fixed issue that caused Chain blocks to change PBR properties of surrounding blocks.
-
--  
 
 - Fixed incorrect colors being displayed when render controllers used `is_hurt_color` along with `on_fire_color` ([MCPE-220347](https://bugs.mojang.com/browse/MCPE-220347))
 
@@ -206,12 +204,6 @@ It's time for another Beta & Preview! For the full list of changes and additions
 
 - Modified `minecraft:geometry` block component
   - Field `uv_lock` no longer requires **UpcomingCreatorFeatures** experiment to work, Json `format_version` still needs to be \>= `1.19.80`
-
-## Blocks
-
-- Fixed assert "can't add a new vertex field at this point: COLOR" when loading some worlds that contained clusters of mangrove_roots blocks.
-- Fixed assert "can't add a new vertex field at this point: TEXCOORD_4" when loading some worlds that contained chain or end_portal blocks.
--  
 
 ## Commands
 
