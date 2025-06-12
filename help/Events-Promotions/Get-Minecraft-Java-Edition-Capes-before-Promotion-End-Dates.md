@@ -1,7 +1,7 @@
 ---
 title: "Get Minecraft: Java Edition Capes before Promotion End Dates"
 date: 2024-11-01T22:16:18Z
-updated: 2025-04-03T17:32:24Z
+updated: 2025-06-12T18:45:33Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
@@ -30,7 +30,7 @@ It is important that you sign out and restart to make sure Minecraft: Java editi
 
 For more information, see these articles:
 
-- [How to Sign Out of Minecraft](../Account-Sign-In/Sign-Out-of-Minecraft.md)
-- [How to Redeem a Code for In-Game Downloadable Content in Minecraft](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
-- [How to Equip Character Creator Items and Skins in the Dressing Room in Minecraft](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md)
-- [How to Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)
+- - [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-In/Sign-Out-of-Minecraft.md)
+  - [How to Redeem a Code for In-Game Downloadable Content in Minecraft](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
+  - [Equip Minecraft Character Creator Items and Skins in the Dressing Room](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md)
+  - [Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)

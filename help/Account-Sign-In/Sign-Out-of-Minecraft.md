@@ -1,7 +1,7 @@
 ---
 title: Reset Your Microsoft Account Sign-in in Minecraft
 date: 2020-07-14T23:11:19Z
-updated: 2025-06-11T21:56:01Z
+updated: 2025-06-12T18:49:08Z
 categories: Account Sign-In
 tags:
   - section_12617594906509
@@ -13,7 +13,7 @@ hash:
   h_01GB5X9TTC8H22ZRVGA43JCF6B: sign-out-and-into-minecraft-on-playstation-nintendo-switch-and-mobile
 ---
 
-You may need to occasionally sign out and sign back into Minecraft to reset your connection to Marketplace, downloadable content, or other game services.
+You may need to sign out of Minecraft and sign back in to change accounts or reset your connection to authentication servers for Marketplace, downloadable content, or other game services.
 
 ## Sign out and in using the Launcher
 
