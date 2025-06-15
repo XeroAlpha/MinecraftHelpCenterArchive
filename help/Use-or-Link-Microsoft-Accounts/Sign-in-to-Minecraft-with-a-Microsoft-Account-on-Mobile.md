@@ -2,7 +2,7 @@
 title: Sign in to Minecraft with a Microsoft Account on Mobile
 date: 2024-10-31T17:41:39Z
 updated: 2025-04-14T23:51:44Z
-categories: Linking Microsoft Accounts
+categories: Use or Link Microsoft Accounts
 tags:
   - section_29296773863181
 link: https://help.minecraft.net/hc/en-us/articles/31514831369869-Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile

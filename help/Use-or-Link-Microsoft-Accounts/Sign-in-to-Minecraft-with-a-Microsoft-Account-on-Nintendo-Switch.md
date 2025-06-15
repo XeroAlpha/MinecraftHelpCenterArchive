@@ -2,7 +2,7 @@
 title: Sign in to Minecraft with a Microsoft Account on Nintendo Switch
 date: 2021-09-09T22:41:11Z
 updated: 2025-06-11T21:41:26Z
-categories: Linking Microsoft Accounts
+categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
   - platform_windows_10

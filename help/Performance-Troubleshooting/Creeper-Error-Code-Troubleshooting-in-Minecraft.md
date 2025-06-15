@@ -17,7 +17,7 @@ Most of the time, the Creeper error code will pop up when game services try to c
 
 The Creeper error happens when you’re playing on a console with a linked Microsoft account and the game services can’t contact Xbox servers for game settings and multiplayer features. In some cases, unlinking and relinking your Microsoft account may fix the issue. Visit the articles below for steps on doing so on console:
 
-- [How to Unlink Your Nintendo Account from your Microsoft Account in Minecraft](../Linking-Microsoft-Accounts/How-to-Unlink-Your-Nintendo-Account-from-your-Microsoft-Account-in-Minecraft.md)
-- [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Linking-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
-- [How to Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft](../Linking-Microsoft-Accounts/How-to-Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft.md)
-- [How to Link Microsoft and PlayStation Accounts in Minecraft](../Linking-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
+- [How to Unlink Your Nintendo Account from your Microsoft Account in Minecraft](../Use-or-Link-Microsoft-Accounts/Sign-out-of-Your-Microsoft-Account-in-Minecraft-on-Nintendo-Switch.md)
+- [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md)
+- [How to Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft](../Use-or-Link-Microsoft-Accounts/How-to-Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft.md)
+- [How to Link Microsoft and PlayStation Accounts in Minecraft](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)

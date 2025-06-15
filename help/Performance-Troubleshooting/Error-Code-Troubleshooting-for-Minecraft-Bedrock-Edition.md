@@ -47,7 +47,7 @@ You can find troubleshooting suggestions for specific error codes below. If your
 ## General Error Code Troubleshooting
 
 - **Update your game version:** Check the settings on your game platform to make sure you’re receiving automatic updates and running the latest release. See our [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) help section for information about manually updating Minecraft. If you do apply an update, make sure to restart your device and game.
-- **Sign out and restart:** [Sign out of Minecraft](../Account-Sign-In/Sign-Out-of-Minecraft.md), the Microsoft store, the Xbox app and any other Minecraft services that might be running and close the programs. Then shut down and restart your game system before restarting Minecraft and signing in again.
+- **Sign out and restart:** [Sign out of Minecraft](../Account-Sign-In/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md), the Microsoft store, the Xbox app and any other Minecraft services that might be running and close the programs. Then shut down and restart your game system before restarting Minecraft and signing in again.
 - **Check your internet connection:** See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions.
 - **Adjust your video settings:** Low bandwidth, limited memory, or not enough processing power can impact game performance. See [Optimizing Video Settings and Performance in Minecraft](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) for tips.
 - **Run the Xbox Gaming Services Repair tool (PC only): **This tool can help sort out problems with Minecraft or the Launcher after installation or an update. Use it on the [Gaming Services Repair Tool for PC page](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool).
@@ -109,7 +109,7 @@ Some errors are so special, we’ve given them names and their own help articles
 
 ### Sugar Cane: The wrong Microsoft/Xbox account is being used to sign into the current PlayStation Network account.
 
-- See [Can’t Sign into a Microsoft Account in Minecraft on PlayStation](../Linking-Microsoft-Accounts/Can-t-Sign-into-a-Microsoft-Account-in-Minecraft-on-PlayStation.md)
+- See [Can’t Sign into a Microsoft Account in Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Can-t-Sign-into-a-Microsoft-Account-in-Minecraft-on-PlayStation.md)
 
 ### Terracotta: An unspecified error has occurred.
 

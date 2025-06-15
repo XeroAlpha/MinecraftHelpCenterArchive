@@ -34,4 +34,4 @@ Signing into the Xbox app before signing into Minecraft can sometimes solve sign
 3.  Sign in using the Microsoft account that owns Minecraft. 
 4.  Launch Minecraft and try to sign in again on your Xbox/PC/device.
 
-Note: When you reach the Xbox account page, it will display your Xbox profile photo, gamertag, and Microsoft email. Verify that the Microsoft account information shown here is correct. If the account information is incorrect, select the **Sign in with a different account** button. If you need to sign out of Minecraft sign back in, see [Reset Your Microsoft Account Sign-in in Minecraft](./Sign-Out-of-Minecraft.md).
+Note: When you reach the Xbox account page, it will display your Xbox profile photo, gamertag, and Microsoft email. Verify that the Microsoft account information shown here is correct. If the account information is incorrect, select the **Sign in with a different account** button. If you need to sign out of Minecraft sign back in, see [Reset Your Microsoft Account Sign-in in Minecraft](./Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md).

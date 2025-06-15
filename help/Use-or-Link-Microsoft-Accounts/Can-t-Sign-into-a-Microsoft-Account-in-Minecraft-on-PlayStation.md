@@ -2,7 +2,7 @@
 title: Can’t Sign into a Microsoft Account in Minecraft on PlayStation
 date: 2021-09-13T18:04:56Z
 updated: 2024-08-15T16:04:52Z
-categories: Linking Microsoft Accounts
+categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
   - category_account_support

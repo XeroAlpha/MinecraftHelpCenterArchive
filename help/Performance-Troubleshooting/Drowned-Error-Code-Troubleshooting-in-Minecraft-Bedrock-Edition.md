@@ -58,4 +58,4 @@ The platform you are on could be down and unable to process sign-in. If it is sh
 2.  [Change your Microsoft account password.](https://account.live.com/password/reset)
 3.  Launch Minecraft and sign in again with your new password.
 
-See [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-In/Sign-Out-of-Minecraft.md) for information about how to sign out of Minecraft and sign in with a different account.
+See [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-In/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) for information about how to sign out of Minecraft and sign in with a different account.

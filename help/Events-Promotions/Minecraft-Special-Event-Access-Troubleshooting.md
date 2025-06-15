@@ -43,10 +43,10 @@ You need to be using the most recent version of Bedrock Edition to join limited-
 You need to sign into Bedrock Edition with a Microsoft account that owns Minecraft or is subscribed to Xbox Game Pass. If you're playing on a console, you’ll also need to link your console account to your Microsoft account. See these articles for more information:
 
 - [Troubleshooting Minecraft Sign-in Issues](../Account-Sign-In/Troubleshooting-Minecraft-Sign-in-Issues.md)
-- [How to Sign in to Minecraft with a Microsoft Account on Mobile](../Linking-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
-- [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Linking-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-Nintendo-Switch.md)
-- [How to Link Your Microsoft Account to Minecraft on PlayStation](../Linking-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
-- [Can’t Sign into a Microsoft Account in Minecraft on PlayStation](../Linking-Microsoft-Accounts/Can-t-Sign-into-a-Microsoft-Account-in-Minecraft-on-PlayStation.md)
+- [How to Sign in to Minecraft with a Microsoft Account on Mobile](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
+- [How to Link Your Microsoft Account to Minecraft on Nintendo Switch](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md)
+- [How to Link Your Microsoft Account to Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
+- [Can’t Sign into a Microsoft Account in Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Can-t-Sign-into-a-Microsoft-Account-in-Minecraft-on-PlayStation.md)
 
 ## Check account permissions
 

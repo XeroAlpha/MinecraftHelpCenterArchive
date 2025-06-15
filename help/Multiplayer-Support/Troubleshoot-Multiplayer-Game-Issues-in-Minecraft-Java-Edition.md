@@ -27,7 +27,7 @@ If you'd like to play Minecraft: Java Edition with other people, this article ca
 
 - **Restart Minecraft**: Close Minecraft: Java Edition and reopen it.
 - **Restart Your Device**: Restarting can often clear errors in connections.
-- **Sign Out and Back In**: [Sign out of your Microsoft account](../Account-Sign-In/Sign-Out-of-Minecraft.md), close the game, and then log in again.
+- **Sign Out and Back In**: [Sign out of your Microsoft account](../Account-Sign-In/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md), close the game, and then log in again.
 - **Check Your Connection**: If you are using a wireless connection, ensure that you have a stable connection to your router. You may need to reset or restart your router. You can also conduct a speed test to verify your internet connection or move closer to your router.
 - **Verify Network Bandwidth**: Check your currently running programs for anything that is using your Internet bandwidth and close those programs.
 - **Check Your Firewall**: If you have a firewall, antivirus software, or are using a VPN, check the settings to be sure that it is not blocking or slowing your connection. Ports that need to be open are 80 without destructive proxies, 443 without destructive proxies, 3748, 19132, 19133.

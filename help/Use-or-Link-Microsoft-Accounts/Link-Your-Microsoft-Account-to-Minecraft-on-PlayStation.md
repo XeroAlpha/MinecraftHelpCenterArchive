@@ -2,7 +2,7 @@
 title: Link Your Microsoft Account to Minecraft on PlayStation
 date: 2019-12-10T03:08:37Z
 updated: 2025-04-14T23:52:42Z
-categories: Linking Microsoft Accounts
+categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
   - category_account_support
