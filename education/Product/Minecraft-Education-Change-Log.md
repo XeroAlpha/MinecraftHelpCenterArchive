@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-05-07T18:42:06Z
+updated: 2025-06-16T21:32:29Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-beta-game-client-update-version-121801---released-50725
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-beta-game-client-update-version-121901---released-61625
+  01JXX968PYRYS0BHVJJKY9RHPS: minecraft-education-beta-game-client-update-version-121801---released-50725
   h_01JTP0RKSK6CZSQWVW034NM3BS: ""
   h_01HNZMBQ3HF0026X1QXYVMA4GR: minecraft-education-game-client-minor-update-version-12110---released-42325
   01JTKS0S00BYRHWR2DVBR3HAC6: minecraft-education-beta-game-client-update-version-1218---released-32025
@@ -52,6 +53,16 @@ Minecraft Education periodically releases updates to our game and companion apps
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
+
+## Minecraft Education Beta Game Client Update (version 1.21.90.1) - Released 6/16/25
+
+- Code Builder IDE Changes
+- Improved UI for Create and Edit World
+- Spectator mode added
+- Minecraft Bedrock updates from 1.21.9
+  - Hardcore mode and Vibrant Visuals are not included in this update
+  - Locator bar added in Multiplayer
+- Other stability and bug fixes
 
 ## Minecraft Education Beta Game Client Update (version 1.21.80.1) - Released 5/07/25
 
