@@ -1,20 +1,37 @@
 ---
-title: "How to Find Your World Seed in a Minecraft: Java Edition Realm"
+title: "Copy Your Minecraft: Java Edition World Seed"
 date: 2025-02-21T19:02:10Z
-updated: 2025-02-25T18:09:26Z
-categories: Manage Realms Settings & Worlds
+updated: 2025-06-16T18:49:21Z
+categories: Download & Install
 tags:
   - section_12618497714061
-link: https://help.minecraft.net/hc/en-us/articles/34467817926925-How-to-Find-Your-World-Seed-in-a-Minecraft-Java-Edition-Realm
+  - section_27166490706957
+link: https://help.minecraft.net/hc/en-us/articles/34467817926925-Copy-Your-Minecraft-Java-Edition-World-Seed
+hash:
+  h_01JXWVC7XP6E1XSYHXM83D2T11: copy-a-world-seed-from-java-edition
+  01JXX0K3H1WKT6QP9CXPACGTS8: copy-a-world-seed-from-a-java-edition-realm
 ---
 
-World seeds are a string of numbers that Minecraft uses to recreate particular builds of a world when it generates. Finding the world seed for your Minecraft: Java Edition Realm is very quick and easy. It can be taken care of with just a few quick presses on your keyboard. Here is how to do it:
+World seeds are a string of numbers that Minecraft uses to recreate particular builds of a world when it generates. After you copy a world seed, you can share it with friends and use it to create new Worlds from the same base map. You can paste it into the world seed section of the **World** settings when creating a new world.
 
-1.  Enter your Java Realm.
-2.  When the world is loaded, press T to open the chat.
-3.  Type /seed and press Enter.
-4.  Your world seed will now be on display.
-5.  Press T to open the chat again.
-6.  Click on the seed number to copy it to your clipboard to post somewhere else.
+## Copy a world seed from Java Edition
 
-Save that world seed for future use if you want to reuse it or share with a friend. You can paste it into the world seed section of the **World** settings when creating a new world.
+1.  Launch Minecraft: Java Edition.
+2.  Select the **Single Player** button on the launch screen.
+3.  Select the world with the seed you want to copy and select **Play Selected World**.
+4.  Press the **T key** to open the chat.
+5.  Type **/seed** into chat and press **Enter** to display the world seed.
+6.  Press the **T key** again to open the chat.
+7.  Click on the seed number to copy it to your clipboard.
+
+## Copy a world seed from a Java Edition Realm
+
+If the world seed you want to copy is for a world that only exists on a Realm, you'll need to enter the Realm world before you can copy the seed.
+
+1.  Launch Minecraft: Java Edition.
+2.  Select the **Minecraft Realms** button on the launch screen.
+3.  Select the Realm with the world seed you want to copy and select **Play**.
+4.  Press the **T key** to open the chat.
+5.  Type **/seed** into chat and press **Enter** to display the world seed.
+6.  Press the **T key** again to open the chat.
+7.  Click on the seed number to copy it to your clipboard.
