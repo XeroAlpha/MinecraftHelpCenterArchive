@@ -1,7 +1,7 @@
 ---
 title: Manage Vibrant Visuals Graphics Mode Settings
 date: 2025-06-16T21:31:49Z
-updated: 2025-06-17T16:19:55Z
+updated: 2025-06-17T20:50:55Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft
@@ -32,7 +32,7 @@ hash:
   h_01JXXA3CNXMQJ6CG5E6PE6Y37Z: additional-video-graphics-resources
 ---
 
-Download the most recent version of Minecraft to enjoy [Vibrant Visuals](https://www.minecraft.net/en-us/article/chase-the-skies-and-vibrant-visuals-playable-today) when playing Minecraft. Vibrant Visuals is a Graphics Mode in Minecraft Video settings that is enabled by default on some gaming platforms. Here’s how to access the settings:
+Download the most recent version of Minecraft to enjoy [Vibrant Visuals](https://www.minecraft.net/en-us/article/chase-the-skies-and-vibrant-visuals-playable-today) when playing. Vibrant Visuals is a Graphics Mode in Minecraft Video settings that is enabled by default on some gaming platforms. Here’s how to access the settings:
 
 ## Access Vibrant Visuals Setting
 

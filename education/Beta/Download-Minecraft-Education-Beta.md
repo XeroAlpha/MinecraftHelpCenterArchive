@@ -1,7 +1,7 @@
 ---
 title: Download Minecraft Education Beta
 date: 2021-09-24T18:25:00Z
-updated: 2025-04-02T17:46:26Z
+updated: 2025-06-17T19:59:27Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/4407483028116-Download-Minecraft-Education-Beta
 hash:
@@ -12,10 +12,6 @@ hash:
   h_01HA2Z9QPMABDNWW30WPBFY2FH: ipad-and-iphone
   h_01HA2Z9QPMZ0JXK7D8T0R8NM0V: windows
 ---
-
-***Notice**: Are you looking for the 1.21.8 desktop beta that requires a manual install? Future betas should automatically update as normal, but this one requires a manual update. As a reminder, when you manually uninstall and install, make sure to backup any worlds you want to keep first by following [these instructions](../Teaching-With-Minecraft/Import-Export-and-Manage-Worlds.md). You can download the new [beta build from this link](https://aka.ms/downloadmee-desktopBeta).*
-
- 
 
 Welcome to the Minecraft Education beta. We’re excited to help you get going! This article has platform-specific guidance for installing the beta onto your device.
 

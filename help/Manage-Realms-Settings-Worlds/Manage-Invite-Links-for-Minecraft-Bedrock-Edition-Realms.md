@@ -1,32 +1,41 @@
 ---
 title: "Manage Invite Links for Minecraft: Bedrock Edition Realms"
 date: 2025-05-28T17:54:51Z
-updated: 2025-05-28T20:42:56Z
+updated: 2025-06-17T20:59:59Z
 categories: Manage Realms Settings & Worlds
 tags:
   - section_12618497714061
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/36974952310925-Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms
 hash:
-  h_01JWC09GMVANKJEH6F8ERWACPW: create-a-minecraft-bedrock-edition-invite-link
+  h_01JXXGPKQZXZGEXW08HRSH74V4: create-a-minecraft-bedrock-edition-invite-link
+  h_01JXXGPKQZ6B242XFV275V90M1: manage-minecraft-bedrock-edition-realm-links
+  h_01JXXGPKQZEMHEBXDZNA5QYQRR: additional-minecraft-realms-resources
 ---
 
 A Minecraft: Bedrock Edition Realm invite link allows anyone with the link to join your Realm. This can be useful if you’re inviting multiple friends to your Realm via email or messaging. Here’s how to create and manage an invite link to your Realm.
 
 ## Create a Minecraft: Bedrock Edition invite link
 
-1.  Select **Play** from the Minecraft launch screen.
-2.  Select the **Realms** tab from the Play menu.
-3.  Select the desired Realm and select the **Options** button.
-4.  Select **Realm Settings** from the Options menu.
-5.  Select the **Manage Realm** button.
-6.  Select **Invite Links** from the Manage Realm menu.
-7.  Select **Add new invite link**.
-8.  Copy and share the link and adjust settings. **Activate link** needs to be “On” for players to join.
+1.  Launch Minecraft and select **Play**.
+2.  Select the **Realms** tab on the Play menu.
+3.  Select the Realm you want to send invites to, then select **Settings**.
+4.  Select **Manage Realm**.
+5.  Select **Invite Links** from the Manage Realm menu.
+6.  Select **Add new invite link**.
+7.  Adjust settings, then copy and share the link. 
 
-You can further customize the link by using the toggles in the General or Advanced Settings tabs before sharing it. When you share a link, anyone who opens it will see your Realm name in a browser with an option to join.
+When you share the link, anyone who opens it will see your Realm name in a browser with an option to join.
 
-See these resources for more information about Minecraft: Bedrock Edition Realms:
+## Manage Minecraft: Bedrock Edition Realm links
+
+After you create a link, you can modify it in the following ways:
+
+- **Disable the link**: Toggle Activate link off to temporarily close it to new players. It will be on by default.
+- **Invalidate the link**: Select Remove link to prevent new players from joining with the current link.
+- **Set an expiration date**: Go to the Advanced Settings tab to set an expiration date before sharing the link.
+
+## Additional Minecraft Realms resources
 
 - [Moderate Your Minecraft Realm](./Moderate-Your-Minecraft-Realm.md)
 - [Manage Your Minecraft: Bedrock Edition Realm](./Manage-Your-Minecraft-Bedrock-Edition-Realm.md)

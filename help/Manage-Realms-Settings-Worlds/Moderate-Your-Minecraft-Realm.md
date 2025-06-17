@@ -1,7 +1,7 @@
 ---
 title: Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
-updated: 2025-05-29T16:45:43Z
+updated: 2025-06-17T18:53:38Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft_java_edition
@@ -21,35 +21,37 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/360058604512-Moderate-Your-Minecraft-Realm
 hash:
-  h_01HS9QFKDH66JJX5FYGC5D83NA: find-minecraft-bedrock-edition-realms-settings
-  h_01JWC3478E19H52AB57G3N9GEJ: find-minecraft-java-edition-realms-settings
-  h_01HS9QHJE2PG5ZYBZG7BME73QD: minecraft-realms-moderation-tips
+  h_01JXXHD1HQ9F8FTN92XAE3HW18: find-minecraft-bedrock-edition-realms-moderation-settings
+  h_01JXXHD1HQM7BCSSVMXN73FTC1: find-minecraft-java-edition-realms-moderation-settings
+  h_01JXXHD1HQJTJK8Z391MHJY71H: minecraft-realms-moderation-tips
 ---
 
-We are not able to view and assist with moderation issues on your Realm directly. However, we do have a few suggestions to help you with managing player access and permissions to your Realm.
+If players on your Realm are griefing or demonstrating unwanted behavior, Minecraft moderation settings can help you manage player access and permissions. See instructions to access settings for both Minecraft editions below.
 
-## Find Minecraft: Bedrock Edition Realms Settings
+## Find Minecraft: Bedrock Edition Realms Moderation Settings
 
-1.  Start Minecraft.
-2.  Select **Play**.
-3.  Select the **Realms** tab.
-4.  Select the Realm you want to moderate and select **Options**.
-5.  Select **Realms settings** from the Options menu.
-6.  Select **Manage Realm**.
-7.  Select **Members** to view players and adjust permissions.
+1.  Launch Minecraft and select **Play**.
+2.  Select the **Realms** tab.
+3.  Select the Realm you want to moderate and select **Settings**.
+4.  Select **Manage Realm**.
+5.  Select **Members** to view players and adjust permissions.
 
-## Find Minecraft: Java Edition Realms Settings
+## Find Minecraft: Java Edition Realms Moderation Settings
 
-1.  Start Minecraft.
-2.  Select **Minecraft Realms**.
-3.  Select your Realm and click **Configure.**
-4.  Select **Players** to view players and adjust permissions.
+1.  Launch Minecraft.
+2.  Select **Minecraft Realms**.
+3.  Select your Realm and select **Configure.**
+4.  Select** Players** to view players and adjust permissions.
 
 ## Minecraft Realms moderation tips
 
-- **Change player permissions**: Set player permissions to Visitor. Players will be unable to make any changes to the world, such as breaking blocks or griefing. Consider setting this as the default when players join from an invite.
-- **Generate a new Share Link**: If unwanted players joined from a previous Share Link, generating a new one will deactivate the old one so it can’t be used to join your Realm.
-- **Remove and block players**: You also have the option to remove and block players in your Realm if you wish to restrict realm access.
-- **Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md).
+Here are some ways to use Minecraft’s moderation tools.
 
-You can also moderate your Realm through Minecraft.net. See [Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md)[.](./How-to-Edit-Your-Realms-on-Minecraft-net.md)
+- **Change players to Visitor permissions**: Visitors are unable to make any changes to the world, such as breaking blocks or griefing. Consider setting this as the default for when players join from an invite.
+- **Generate a new Share Link**: If unwanted players joined from a previous Share Link, making a new one will deactivate the old one so it can’t be used to join your Realm.
+- **Remove and block players**: These options will restrict realm access.
+  - **Removing a player** will immediately kick them out of the game. The player will be informed they were removed. They will be able to rejoin if they receive another invite or have an invite link.
+  - **Blocking a player** will immediately kick them from the game. The player will be informed they were kicked. They will not be able to rejoin unless you unblock them.
+- **Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) or [Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md).
+
+You can also moderate your Realm through Minecraft.net. See [Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md)[.](./How-to-Edit-Your-Realms-on-Minecraft-net.md)

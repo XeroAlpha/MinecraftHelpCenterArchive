@@ -1,42 +1,41 @@
 ---
-title: Download Your Realms World in Minecraft
+title: Download Your Minecraft Realms World
 date: 2024-09-06T21:35:22Z
-updated: 2025-05-29T23:37:14Z
+updated: 2025-06-17T18:53:20Z
 categories: Manage Realms Settings & Worlds
 tags:
   - section_12618497714061
-link: https://help.minecraft.net/hc/en-us/articles/30035151042445-Download-Your-Realms-World-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/30035151042445-Download-Your-Minecraft-Realms-World
 hash:
-  h_01J74KZVYZQRB12XHQWYAHM5ER: download-a-realms-world-in-minecraft-bedrock-edition
-  h_01J74M0N8XT7NF9FHEP31P81HX: download-a-realms-world-in-minecraft-java-edition
+  h_01JXXJ9AY4Z3G2V5QE3PNS00MY: download-a-realms-world-in-minecraft-bedrock-edition
+  h_01JXXJ9AY5QTE4WKE8GPEKRYH3: download-a-realms-world-in-minecraft-java-edition
+  h_01JXXJ9AY5MJ4DK1VH7TECGR10: additional-backup-and-restore-resources
 ---
 
-Backing up your worlds in Minecraft is an important aspect of making sure you never lose your creations. In a Realm, you and your friends could have built up a world for dozens of hours, so you should be very protective of making sure you can restore it to a specific point if something should go wrong. Here is how to download your Realms world for backup in Minecraft.
+Minecraft Realms worlds are backed up automatically to help you keep your creations safe. When you finish playing and select Quit & Save, the most recent version of your world is saved to your backups. If you want to download and make a copy of a Realms world, follow the instructions for your game version below.
 
 ## Download a Realms world in Minecraft: Bedrock Edition
 
-1.  Launch Minecraft.
-2.  Select **Play** on the launch screen.
-3.  Select the **Realms** tab.
-4.  Select the Realm you want to manage and select **Options**.
-5.  Select **Realms settings** from the Options menu.
-6.  Select the Realm slot you want to edit.
-7.  Select **Edit world**.
-8.  Scroll to the bottom of **Game Settings** and click **Download world**.
-    - To download an older version that’s been automatically saved, select Backups and choose the file to download.
+1.  Launch Minecraft and select **Play**.
+2.  Select the **Realms** tab.
+3.  Select the Realm with the world you want to download and select **Settings**.
+4.  Select the world you want to download and select **Edit world**.
+5.  Select the **Backups** tab.
+6.  Select the **download icon** next to the version of the world you want to download.
 
-See [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md) to learn what files are kept in the Backups section.
-
-View [Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md) to put that file back into the Realm.
+The world will be downloaded and added to your Worlds tab and can also be copied from your file storage. See [Transfer Your World to Another Device in Minecraft: Bedrock Edition](../Backup-Restore/Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md) for information.
 
 ## Download a Realms world in Minecraft: Java Edition
 
-1.  Start Minecraft.
-2.  Select **Minecraft Realms**.
-3.  Click the Realm with the world you want to download.
-4.  Select **Configure**.
-5.  Select **World Backups**.
-6.  Select **Download Latest**.
-7.  Select **Continue**.
+1.  Launch Minecraft and select **Minecraft Realms**.
+2.  Select the Realm with the world you want to download, then select **Configure**.
+3.  Select **World Backups**.
+4.  Select **Download Latest**.
+5.  Select **Continue**.
 
-See [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) to fine those files.
+The world will be downloaded and added to your singleplayer worlds. See [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) for more details.
+
+## Additional Backup and Restore Resources
+
+- [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
+- [Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md)
