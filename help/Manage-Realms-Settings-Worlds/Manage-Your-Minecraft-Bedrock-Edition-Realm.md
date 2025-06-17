@@ -1,7 +1,7 @@
 ---
 title: "Manage Your Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:58:20Z
-updated: 2025-05-29T23:24:44Z
+updated: 2025-06-17T18:52:05Z
 categories: Manage Realms Settings & Worlds
 tags:
   - title_minecraft
@@ -19,22 +19,20 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/20686901046669-Manage-Your-Minecraft-Bedrock-Edition-Realm
 hash:
-  h_01J4A32QF2RJK6JAM2M16V196J: how-to-access-the-manage-realm-options
-  h_01J4A34RJ6A8MQTFBPVZ3TPTDP: how-to-change-or-edit-realm-worlds
+  h_01JXXJTPWGAX09X60JGMD1BEZR: how-to-access-the-manage-realm-options
+  h_01JXXJTPWGBXHJWQXGMQHQ6A89: how-to-change-or-edit-realm-worlds
 ---
 
 As the owner of your Minecraft: Bedrock Edition Realm, various administrative and management options are available to you. This article details everything you need to know about how to manage your Minecraft: Bedrock Edition Realm.
 
 ## How to access the Manage Realm options
 
-To view your Realm’s administrative options, follow the below steps:
+To view your Realm’s administrative options, follow the steps below:
 
-1.  Launch Minecraft.
-2.  Select **Play** on the launch screen.
-3.  Select the **Realms** tab.
-4.  Select the Realm you want to manage and select **Options**.
-5.  Select **Realms settings** from the Options menu.
-6.  Select **Manage Realm**.
+1.  Launch Minecraft and select **Play**.
+2.  Select the **Realms** tab.
+3.  Select the Realm you want to manage and then select **Settings**.
+4.  Select **Manage Realm**.
 
 From the Manage Realm area, you can do the following:
 
@@ -43,19 +41,17 @@ From the Manage Realm area, you can do the following:
 - Close Realm or manage your subscriptions
 - Use Advanced settings to set server region preferences
 
-**Note:** You can also manage your Realms on Minecraft.net. Please refer to [How to Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md) for more information.
+You can also manage your Realms on Minecraft.net. See [How to Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md).
 
 ## How to change or edit Realm worlds
 
 To manage the world on your Realm, do the following:
 
-1.  Launch Minecraft.
-2.  Select **Play** on the launch screen.
-3.  Select the **Realms** tab.
-4.  Select the Realm you want to manage and select **Options**.
-5.  Select **Realms settings** from the Options menu.
-6.  Select the Realm slot you want to edit.
-7.  Select **Edit World**.
+1.  Launch Minecraft and select **Play**.
+2.  Select the **Realms** tab.
+3.  Select the Realm you want to manage and select **Settings**.
+4.  Select the Realm slot you want to edit.
+5.  Select **Edit World**.
 
 Here is a list of things you can manage here:
 
@@ -65,6 +61,6 @@ Here is a list of things you can manage here:
 
 For more help with managing your Realm, see these articles:
 
-- **Resource and behavior packs:** [What are Minecraft Add-Ons?](../Managing-Marketplace-Content/What-are-Minecraft-Add-Ons.md)
-- **Backups:** [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
-- **Troubleshooting worlds:** [Troubleshooting Realms World Slot Errors](../Troubleshoot-Minecraft-Realms/Troubleshooting-Realms-World-Slot-Errors.md)
+- **Resource and behavior packs:** [What are Minecraft Add-Ons?](../Managing-Marketplace-Content/What-are-Minecraft-Add-Ons.md)
+- **Backups:** [How to Find and Restore a Backup of a Minecraft: Bedrock Edition Realm](./Find-and-Restore-a-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
+- **Troubleshooting worlds:** [Troubleshooting Realms World Slot Errors](../Troubleshoot-Minecraft-Realms/Troubleshooting-Realms-World-Slot-Errors.md)

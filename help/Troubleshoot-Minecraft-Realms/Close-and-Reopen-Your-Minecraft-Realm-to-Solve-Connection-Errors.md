@@ -1,7 +1,7 @@
 ---
 title: Close and Reopen Your Minecraft Realm to Solve Connection Errors
 date: 2025-04-30T21:19:10Z
-updated: 2025-05-01T14:07:58Z
+updated: 2025-06-17T18:51:51Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft_java_edition
@@ -23,31 +23,31 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/36257720061581-Close-and-Reopen-Your-Minecraft-Realm-to-Solve-Connection-Errors
 hash:
-  h_01JT476ZCZRTREKZ7C853CRCGY: closing-and-reopening-a-minecraft-bedrock-edition-realm
-  h_01JT476ZCZTA7H65HJDKBBQ8PP: closing-and-reopening-a-minecraft-java-editionrealm
+  h_01JXXJZ4BAAHXA8WTDMSPA67SW: closing-and-reopening-a-minecraft-bedrock-edition-realm
+  h_01JXXJZ4BARCT938RB18Y7JETQ: closing-and-reopening-a-minecraft-java-editionrealm
+  h_01JXXJZ4BAFTA7P97EC1Y12JJS: additional-realms-connection-error-resources
 ---
 
-If you or your friends have trouble joining a World in your Minecraft Realm, closing and reopening the Realm can refresh your connection to game services and resolve issues without deleting World data. Follow the steps below to close and reopen your Realm.
+If you or your friends have trouble joining your Minecraft Realm, closing and reopening it may solve the issue. Closing and reopening your Realm refreshes your connection to game services and can resolve issues without deleting World data. See edition specific instructions below.
 
 ## Closing and reopening a Minecraft: Bedrock Edition Realm
 
 1.  Launch Minecraft and select **Play**.
-2.  Select the **Realms** tab.
-3.  Select the Realm you want to reset in Your Realms.
-4.  Click the **Options** button and select **Realm settings**.
-5.  Select **Manage Realm** and select **Subscription**.
-6.  Select **Close Realm** and choose **Yes** to confirm.
-7.  Select **Open Realm** to make your Realm available to players again.
+2.  Select the **Realms** tab and select the Realm you want to reset.
+3.  Select the **Settings button**.
+4.  Select **Manage Realm** and select **Subscription**.
+5.  Select **Close Realm** and choose **Yes** to confirm.
+6.  Select **Open Realm** to make your Realm available to players again.
 
 ## Closing and reopening a Minecraft: Java Edition Realm
 
 1.  Launch Minecraft and select **Minecraft Realms**.
-2.  Select the Realm you want to reset and click the **Configure** button.
-3.  Select **Settings** from the Configure Realm options.
-4.  Select **Close Realm** and choose **Continue** to confirm.
-5.  Select **Settings** and **Open Realm** to make your Realm available to players again.
+2.  Select the Realm you want to reset and select the **Configure** button.
+3.  Select **Settings** from the Configure Realm options.
+4.  Select **Close Realm** and choose **Continue** to confirm.
+5.  Select **Settings** and **Open Realm** to make your Realm available to players again.
 
-See these articles for more tips on troubleshooting errors connecting to Realms:
+## Additional Realms connection error resources:
 
 - [Troubleshoot Minecraft Realms Connection Errors](./Troubleshoot-Minecraft-Realms-Connection-Errors.md)
 - [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
