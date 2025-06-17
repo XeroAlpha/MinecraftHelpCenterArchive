@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Minecraft: Bedrock Edition Video Settings and Performance"
 date: 2021-09-28T21:43:13Z
-updated: 2025-05-01T14:23:23Z
+updated: 2025-06-17T16:21:10Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -14,26 +14,37 @@ tags:
   - platform_macos
   - platform_pc
   - platform_windows_11
+  - trending
   - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4410246518669-Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance
 hash:
-  h_01JSQBTG9DMJKFHTJWTR4GA3HN: adjust-advanced-video-settings-in-minecraft-bedrock-edition
+  h_01JXXANMXPN8B4XE5EFTW8KAKZ: access-video-settings-in-minecraft-bedrock-edition
+  h_01JXXANMXPB7D4SXSQA4V14E4B: video-settings-for-improving-minecraft-gameplay
 ---
 
-If you’re experiencing crashes or reduced performance playing Minecraft: Bedrock Edition, you can modify your video settings to improve gameplay. For tips adjusting video settings for Minecraft: Java Edition, see [Optimizing Minecraft: Java Edition Video Settings and Performance](./Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md). 
+If you’re crashing or lagging while playing Minecraft: Bedrock Edition, changing your video settings may improve gameplay.
 
-## Adjust advanced video settings in Minecraft: Bedrock Edition
+*For Minecraft: Java Edition, see [Optimizing Minecraft: Java Edition Video Settings and Performance](./Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md). *
 
-Launch Minecraft and select **Settings** \> **Video** to access settings. Try experimenting with these recommendations and restart Minecraft after making adjustments:
+## Access video settings in Minecraft: Bedrock Edition
 
-- **Reduce FOV:** Select a value below the default field of view of 60-degrees. 
+1.  Launch Minecraft.
+2.  Select **Settings** from the launch screen.
+3.  Select the **Video** tab.
+
+## Video Settings for Improving Minecraft Gameplay
+
+- **Reduce FOV**: Select a value below the default 60-degrees. 
 - **Disable advanced features:** Turn off the features below if enabled.
+  - Fancy Leaves
   - Fancy Bubbles
-  - Beautiful Skies
-  - Smooth Lighting
-  - Fancy Graphics
+  - Render Clouds
   - FOV Can Be Altered By Gameplay
+- **Change the Graphics Mode Settings**:
+  - **Simple Graphics Mode:** Select this mode to use the lowest amount of system resources. You can also turn off **Beautiful Skies** and **Smooth Lighting** under the Simple Graphics Options.
+  - **Fancy Graphics Mode**: Select this mode to use a moderate amount of system resources. You can also turn off **Beautiful Skies** and **Smooth Lighting** under the Fancy Graphics Options.
+  - **Vibrant Visuals:** This mode uses the highest amount of system resources. Lower the slider levels or turn off specific effects to find a mix that works for your system.
 
-If you see an improvement in gameplay, gradually reenable these settings until you see an improved render distance without performance issues. Additional device and setup suggestions can also be found in [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md).
+If your game runs smoother, gradually reenable these settings until you see improved graphics without issues. For other device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md).
