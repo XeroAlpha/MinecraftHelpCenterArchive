@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Graphics Issues in Minecraft: Bedrock Edition"
 date: 2021-09-13T18:10:41Z
-updated: 2024-08-16T15:55:27Z
+updated: 2025-06-16T23:31:45Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -13,53 +13,29 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4409145165965-Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition
 hash:
-  h_01HQXSSPYEHKG2RS2PPZR811BA: update-minecraft-and-your-operating-system
-  h_01HQXST89QH22FVKMGSRAH9AKD: recommended-game-settings
-  h_01HQXSVN54PTFW0ACNJDH1TXT4: update-your-graphics-card
+  h_01JXXE4Z59YC1YD6GYNGAB11W6: download-device-system-and-game-updates
+  h_01JXXE4Z5A0CT41QTHP5DPV22E: change-minecraft-game-settings
 ---
 
-This article helps you solve various graphical issues in Minecraft: Bedrock Edition. See the [Error Code Troubleshooting page](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) for other issues.
+*For Minecraft: Java Edition, see [Troubleshooting Video and Graphics Issues in Minecraft: Java Edition](./Troubleshooting-Video-and-Graphics-Issues-in-Minecraft-Java-Edition.md).*
 
-## Update Minecraft and your operating system
+If you’re seeing graphics or performance issues in Minecraft: Bedrock Edition, try these suggestions below.
 
-Before going into the game itself, try updating your operating system and Minecraft to ensure they are running the latest versions. If you have some Add-Ons installed, [consider disabling them](../Managing-Marketplace-Content/Disabling-Minecraft-Add-Ons.md). After that, try the following:
+## Download device system and game updates
 
-## Recommended game settings
+- **Update Minecraft**: See these platform articles to learn more:
+  - [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [Manually Update Minecraft on Mobile Devices](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
+  - [Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
+- **Update your operating system**: Download any operating system or software updates for your gaming platform.
+- **Update graphics drivers**: Windows PC players can find updated drivers here: [AMD](https://www.amd.com/en/support/download/drivers.html), [NVIDIA](http://www.nvidia.com/Download/index.aspx), or [Intel](https://downloadcenter.intel.com/).
+- **Verify minimum requirements**: If playing on a Windows PC, verify your system meets minimum system requirements to play Minecraft. [Visit Minecraft.net](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc?tabs=%7B%22details%22%3A1%7D#accordionv1-b6c8df09da-item-7739893325:~:text=Windows%2010%20system%20requirements) and select Compare Features to see the latest.
 
-Below are various settings to try applying to your game. Find them by:
+## Change Minecraft game settings
 
-1.  Starting Minecraft.
-2.  Click **Settings**.
-3.  Go to the **Video** section.
+If downloading updates didn’t solve the problem, try turning off any add-ons and changing your video settings.
 
-Try the following settings to ease up the intensity on your system. Remember that your situation may vary, so be sure to experiment to see what works for you.
+- **Disable Add-ons:** To turn off or manage content, see [Disabling Minecraft Add-Ons](../Managing-Marketplace-Content/Disabling-Minecraft-Add-Ons.md).
+- **Change video settings:** See [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).
 
-- Screen Animations: Off
-- View Bobbing: Off
-- Camera Shake: Off
-- Fancy Leaves: Off
-- Fancy Bubbles: Off
-- Render Clouds: Off
-- Beautiful Skies: Off
-- Smooth Lighting: Off
-- Fancy Graphics: Off
-- Render Distance: 9 Chunks
-- Max Framerate: 60
-- Anti-Aliasing: 1
-
-## Update your graphics card
-
-Try updating your graphics card drivers if you’re experiencing graphical issues with Minecraft: Bedrock Edition on PC. Below are common links:
-
-- [AMD](http://support.amd.com/us/gpudownload/windows/Pages/auto_detect.aspx)
-- [Nvidia](http://www.nvidia.com/Download/index.aspx)
-- [Intel](https://downloadcenter.intel.com/)
-
-After you download and install the drivers, you must restart your computer. If you still see the error message after this update, your computer may not meet the [system requirements to play Minecraft: Bedrock Edition](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md#h_01FFGQHFARYP67X5MV72G1T8TN).
-
-If you're still experiencing performance issues and have a dedicated graphics card (or GPU) in your computer, it may be that Minecraft is not using the dedicated GPU when it runs.
-
-**WARNING:** Following the instructions linked below may cause changes to your system, files, settings, work, etc. that may be unexpected or irreversible and should only be undertaken by experienced users. Minimize the risks by backing up your files, settings, etc. before making changes.
-
-- [NVIDIA GPUs](https://nvidia.custhelp.com/app/answers/detail/a_id/5035/kw/nvidia%20control%20panel/related/1)
-- [AMD GPUs](https://www.amd.com/en/resources/support-articles/knowledge-base-search.html)
+For more device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md). If you also see a Minecraft error code, see [Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).

@@ -1,7 +1,7 @@
 ---
 title: What's New in the Beta v1.21.90.1
 date: 2024-12-19T20:29:01Z
-updated: 2025-06-16T21:29:29Z
+updated: 2025-06-16T21:49:55Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/33201022766356-What-s-New-in-the-Beta-v1-21-90-1
 hash:
@@ -29,6 +29,7 @@ Welcome to the Chase the Clouds beta Update for Minecraft Education! This update
   - Educator settings split out in easy to understand world configurations
   - 7 new flat world presets added
 - Spectator mode added 
+- Windows exe version is now 64 bit by default
 - Minecraft Bedrock 1.21.9 updates:
   - New Items: Harness
   - New Block: Dried Ghast

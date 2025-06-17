@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-06-16T21:32:29Z
+updated: 2025-06-16T21:50:58Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
@@ -59,6 +59,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 - Code Builder IDE Changes
 - Improved UI for Create and Edit World
 - Spectator mode added
+- The Windows exe version of Minecraft Education is now 64 bit by default
 - Minecraft Bedrock updates from 1.21.9
   - Hardcore mode and Vibrant Visuals are not included in this update
   - Locator bar added in Multiplayer
