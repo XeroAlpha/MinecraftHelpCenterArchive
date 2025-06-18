@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-06-16T21:50:58Z
+updated: 2025-06-17T22:06:40Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
@@ -56,6 +56,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
 ## Minecraft Education Beta Game Client Update (version 1.21.90.1) - Released 6/16/25
 
+- Read/Write file functionality with MakeCode - [Learn More](http://aka.ms/CodeBuilderExtFiles)
 - Code Builder IDE Changes
 - Improved UI for Create and Edit World
 - Spectator mode added

@@ -1,7 +1,7 @@
 ---
 title: What's New in the Beta v1.21.90.1
 date: 2024-12-19T20:29:01Z
-updated: 2025-06-16T21:49:55Z
+updated: 2025-06-17T22:06:20Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/33201022766356-What-s-New-in-the-Beta-v1-21-90-1
 hash:
@@ -19,6 +19,7 @@ Welcome to the Chase the Clouds beta Update for Minecraft Education! This update
 
 ## **Minor Minecraft Education Beta/Preview Update v1.21.90.1**
 
+- Read/Write file functionality with MakeCode - [Learn More](http://aka.ms/CodeBuilderExtFiles)
 - Code Builder IDE Changes
   - Tynker has been removed as a supported IDE.
   - Python Notebooks will be removed in the next update, no earlier than January 2026.
