@@ -1,11 +1,11 @@
 ---
-title: Upcoming OS Sunset Announcements in Minecraft
+title: Operating System Sunset Announcements for Minecraft
 date: 2024-09-16T16:32:55Z
-updated: 2025-05-13T21:42:18Z
+updated: 2025-06-19T22:51:51Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
-link: https://help.minecraft.net/hc/en-us/articles/30298767427597-Upcoming-OS-Sunset-Announcements-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/30298767427597-Operating-System-Sunset-Announcements-for-Minecraft
 hash:
   h_01J85N8MCZWEP3WN65XCT8ZZRT: minecraft-launcher-minimum-os-requirements
 ---
