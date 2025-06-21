@@ -1,81 +1,68 @@
 ---
-title: How do I Tame and Breed Animals in Minecraft?
+title: Tame Animals and Mobs in Minecraft
 date: 2020-07-16T18:23:31Z
-updated: 2024-08-28T17:47:30Z
+updated: 2025-06-20T22:31:12Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/360046353891-How-do-I-Tame-and-Breed-Animals-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/360046353891-Tame-Animals-and-Mobs-in-Minecraft
 hash:
-  h_01HA574T5ZAVBGB6VJNJQC0WAM: taming
-  h_01HA57RX715YW2GKMTC988CGYG: wolf
-  h_01HA57T1S8ZSNGKHT632RPEQ3J: cat
-  h_01HA58VNF8TDGNJ45PBXM80JQE: horses-donkeys-and-mules
-  h_01HA59E6N660GH5E41CYJGDC4X: llamas
-  h_01HA59ECW92HYXS834H66GZYED: parrots
-  h_01HA574T5Z8PY6FZG5RSYJT9F9: breeding
+  h_01JY7GMNESR5162QDSEEZP9180: taming
+  h_01JY7GMNES2VYK2YBEYQR3RB9X: wolf
+  h_01JY7GMNES3F5YG9Z8YF9BQNAE: cat
+  h_01JY7GMNES9Y5QA2Q34TNDPH43: horses-donkeys-and-mules
+  h_01JY7GMNESC2KEEXXZD7HGSMA3: llamas
+  h_01JY7GMNESY1585T3MESE00FAH: parrots
+  h_01JY7GMNES47A1ZVPDN7SQC69C: ghastlings-and-happy-ghasts
+  h_01JY7GMNESYBC9WDRPDP61YM55: additional-mob-resources
 ---
 
-Have you ever been walking around the Overworld with food in your hand and notice that a nearby animal mob is following and staring at you? That little guy would like a snack but using that food will allow you to tame and breed various animals. Here is a breakdown on how taming and breeding animals work in Minecraft.
+You can befriend and tame some animals and mobs in Minecraft if you give them their favorite food! You’ll know if you have a nearby animal’s favorite food if they follow and stare at you. Here’s how to tame them!
 
 ## Taming 
 
-Taming is the process of domesticating a wild animal to befriend a player. Only certain animals can be tamed. Here are the ways you can tame these animals and how they interact after being tamed: 
+Here are the animals that can be tamed in Minecraft and how they interact:
 
 ### Wolf
 
-Wolves can be tamed by giving them Bones you have gathered. Keep in mind, you may need to have multiple on hand, as just one does not guarantee the Wolf to respect you. When hearts and a collar appear from the Wolf, it has been tamed.
-
-Once you notice a red collar appear on its neck, that Wolf will follow you around dutifully, attacking most (but not all!) hostile mobs and other players that deal damage to you or you attack. You can also tell them to sit in a spot where they will remain until you give them the okay to follow you again.
+- **Wolves can be tamed by giving them bones**: You may need multiple bones, as just one does not guarantee their respect.
+- **Hearts and a red collar will appear after a wolf is tamed**: A tamed wolf will follow you and attack most (but not all!) hostile mobs and players.
+- **Interacting with a tamed wolf will cause them to sit**: A sitting wolf will remain in the instructed spot until you interact with them again.
 
 ### Cat
 
-Cats love Raw Salmon or Raw Cod, so if you see a group of kittens walking around a Village or Witch's Hut, be sure to pull out your Fishing Rod at the nearest body of water. Don't run after the cat you want to tame, or it will be spooked and flee. Approach slowly by crouch walking to it and give them the fish until the hearts and a red collar appears around their neck.
-
-Once tamed, Cats will follow you similar to a Wolf, but they don't attack anyone who hurts you. However, when they are nearby, those pesky Creepers and Phantoms will stop attacking you. There is also a chance that your feline friend will give you an item gift after a night of sleeping in a Bed.
+- **Cats can be tamed by giving them raw salmon or raw cod**: You may need multiple fish, as just one does not guarantee their love. Crouch-walk to present the fish, or the cat will be spooked and flee.
+- **Hearts and a red collar will appear after a cat is tamed**: A tamed cat will follow you, but will not attack others. They will deter nearby creepers and phantoms from attacking you.
+- **Interacting with a tamed cat will cause them to sit**: A sitting cat will remain in the instructed spot until you interact with them again.
+- **Tamed cats may give gifts**: There is a chance your nearby feline friend will give you an item after you sleep in a bed.
 
 ### Horses, Donkeys, and Mules
 
-In contrast to Wolves and Cats, Horses, Donkeys, and Mules don't need an item to tame them. Instead, get close enough to them and interact to get on their back. The first couple of times they will buck you off, but if you keep getting on, they will eventually relax and let you stay on them. Hearts will appear denoting they trust you.
-
-After a Horse, Donkey, or Mule has been tamed, you can ride it as much as you want. However, to control where it moves, you will need to put a Saddle on it. If you don't have one, use a Lead to take it home and keep it from wandering off on its own. Horses are faster and can be given Horse Armor to protect them. Donkeys and Mules are slower but can be equipped with a Chest to carry more items for you.
-
-In an additional special case, if you come across a Skeleton Horse, you can tame it by killing its original rider. In Minecraft: Bedrock Edition, it does not need a Saddle to control it.
+- **Horses, donkeys, and mules are tamed by attempting to ride them**: Get close to one and interact to get on its back. They may buck you off, but if you keep getting on, they will eventually let you ride.
+- **Hearts will appear after a horse, donkey or mule is tamed**: After they’re tamed, you can ride them, but you will need a saddle to direct them. If you don't have a saddle, you can use a lead to guide and keep them from wandering off.
+- **Horses, donkeys, and mules can be equipped**: Horses are faster and can be equipped with horse armor to protect them. Donkeys and mules are slower but can be equipped with a chest to carry items.
+- **A skeleton horse can be tamed by killing its original rider**: In Minecraft: Bedrock Edition, it does not need a Saddle to control it.
 
 ### Llamas
 
-Llamas are tamed similarly to Horses, Donkeys, and Mules by trying to ride them repeatedly. However, where they differ is you can not give them a Saddle to control where they walk. Instead, you should use a Lead to get them to go where you want, while giving them a Chest to carry more items. After you leash a Llama, other Llamas in the area will follow them in a caravan.
+- **Llamas are tamed by attempting to ride them**: Get close to one and interact to get on its back. They may buck you off, but if you keep getting on, they will eventually let you ride.
+- **Hearts will appear after a llama is tamed**: After they’re tamed, you can ride them, but they can’t be saddled.
+- **Llamas can be led and equipped**: Llamas can be equipped with a chest to carry more items. After you leash a llama, other llamas in the area will follow in a caravan.
 
 ### Parrots
 
-To tame a Parrot, you need to give it any kind of Seeds. Whatever you do, do not feed it a Cookie, as that is poisonous and will kill your wanted companion.
+- **Parrots are tamed by giving them seeds**: You may need more than one to befriend them. And don’t feed parrots cookies—they’re poisonous.
+- **Hearts will appear after a parrot is tamed**: Interacting with a tamed parrot will cause it to sit or follow as you travel.
+- **Parrots can perch on your shoulders**: If you walk into a tamed parrot or it flies to you, it can perch on one of your shoulders. You may also hear it mimic the sound of nearby mobs.
 
-After your Parrot has gotten enough Seeds to make hearts appear from it, you can tell that bird to sit or follow you as you travel. If you walk into it or it flies to you, the Parrot can perch on one of your shoulders and you may hear it mimic the sound of other mobs.
+### Ghastlings and Happy Ghasts
 
-## Breeding 
+- **Ghastlings and happy ghasts are passive mobs**: Both can be tempted with snowballs, and the happy ghast will follow you if you have a harness and it’s not already equipped.
+- **Ghastlings grow up into happy ghasts**: Feeding a ghastling snowballs will speed up its growth.
+- **Happy ghasts can be ridden with a harness**: Up to four players can ride a harnessed happy ghast. The first player to mount gets to drive! They can also be leashed.
 
-Players can initiate breeding with two mobs of the same species to produce offspring. To do this, two animals must be in the same vicinity and be in "love mode" in which animals will emit hearts. 
+## Additional mob resources
 
-![blobid0.jpg](https://minecrafthelp.zendesk.com/hc/article_attachments/4404133437965)
-
-Animals that can be bred have certain items that will put them into “love mode.” When this happens, hearts will pop off from the mob and they will look for another animal they are compatible with to create a baby. Some animals must be tamed before they can be bred. Here are the animals that you can breed, and the food items used to breed them: 
-
-- **Wolves (Tamed)** - any raw or cooked meat other than fish 
-- **Cats (Tamed)/Ocelots** - Raw Cod or Raw Salmon 
-- **Horses/Donkeys (Tamed)** - Golden Apples and Golden Carrots 
-- **Llamas (Tamed)** - Hay Bales 
-- **Sheep, Cows, Goats, and Mooshrooms** - Wheat 
-- **Pigs** - Carrots, Potatoes, or Beetroot
-- **Chicken** - Seeds (will also produce Eggs on their own without any influence)
-- **Rabbits** - Dandelions, Carrots, or Golden Carrots 
-- **Turtles** - Seagrass 
-- **Pandas** - Bamboo; you must have eight Bamboo blocks within a radius of five blocks of both Pandas 
-- **Foxes** - Sweet Berries or Glow Berries
-- **Bees** - Flowers
-- **Frog** - Slimeball
-- **Axolotl** - Bucket of Tropical Fish
-- **Camel** - Cactus
-- **Strider** - Warped Fungus
-- **Hoglin** - Crimson Fungus
-- **Sniffer** - Torchflower Seeds
-- **Armadillo** - Spider Eyes
+- [Breed Animals in Minecraft](./Breed-Animals-in-Minecraft.md)
+- [Gaining Trust from Mobs in Minecraft](./Gaining-Trust-from-Mobs-in-Minecraft.md)
+- [What Mobs Eat in Minecraft](./What-do-Mobs-Eat-in-Minecraft.md)

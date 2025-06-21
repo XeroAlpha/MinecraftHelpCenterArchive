@@ -1,46 +1,49 @@
 ---
-title: What do Mobs Eat in Minecraft?
+title: What Mobs Eat in Minecraft
 date: 2023-09-25T21:42:14Z
-updated: 2025-02-05T19:55:12Z
+updated: 2025-06-20T22:31:57Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/19827173448589-What-do-Mobs-Eat-in-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/19827173448589-What-Mobs-Eat-in-Minecraft
 hash:
-  h_01J1R44EHNGRWXP0HEJDG8D2ZF: all-mobs-that-you-can-feed-in-minecraft
+  h_01JY774MMX2JZKXCJD921K27DD: mobs-you-can-feed-in-minecraft
+  h_01JY774MMX38T55NJN919YYEY2: additional-mob-resources
 ---
 
-There are plenty of mobs you will see as you explore your world in Minecraft. Hostile foes like zombies, skeletons, and creepers will have you working to protect yourself, but passive and friendly mobs that like to be around you can help you in various ways. Whether it is to heal them, get them to breed, or something else, you can feed most passive mobs. Here is a complete list of what those creatures like to eat.
+Feeding certain passive or friendly mobs in Minecraft allows you to befriend, breed, heal, or grow them. Here’s a list of what Minecraft creatures like to eat. Try feeding the mobs you encounter and see what happens!
 
-## All mobs that you can feed in Minecraft
+## Mobs you can feed in Minecraft
 
-Here is the complete list of animal mobs in Minecraft that you can feed and what they like to eat:
+- **Axolotl**: Bucket of tropical fish
+- **Armadillo**: Spider eyes
+- **Bee**: Any flower
+- **Camel**: Cactus
+- **Cat/Ocelot**: Raw cod, raw salmon
+- **Chicken**: Beetroot seed, pumpkin seed, melon seed, wheat seed, torchflower seed, pitcher pod
+- **Cow/Mooshroom**: Wheat
+- **Fox**: Glow berry, sweet berry
+- **Frog**: Slimeball
+- **Ghastling**: Snowballs
+- **Goat**: Wheat
+- **Hoglin**: Crimson fungus
+- **Horse/Donkey/Mule**:
+  - **Breeding food (tamed)**: Golden apple, enchanted golden apple, golden carrot
+  - **Other food**: Apple, sugar, hay bale, wheat
+- **Llama/Trader Llama**: Hay bale
+- **Panda**: Bamboo
+- **Pig**: Beetroot, carrot, potato
+- **Rabbit**: Carrot, dandelion, golden carrot
+  - Sheep: Wheat, the tops of grass blocks
+- **Sniffer**: Torchflower seeds
+- **Strider**: Warped fungus
+- **Turtle**: Seagrass
+- **Wolf**: Raw or cooked meat
+  - **Minecraft: Bedrock Edition**: fish will not cause love mode
+  - **Minecraft: Java Edition**: will not eat fish
 
-- Axolotl – Bucket of tropical fish
-- Armadillo – Spider eyes
-- Bee – Any flower
-- Camel - Cactus
-- Cat/Ocelot – Raw cod, raw salmon
-- Chicken – Beetroot seed, pumpkin seed, melon seed, wheat seed, torchflower seed, pitcher pod
-- Cow/Mooshroom – Wheat
-- Fox – Glow berry, sweet berry
-- Frog – Slimeball
-- Goat – Wheat
-- Hoglin – Crimson fungus
-- Horse/Donkey/Mule
-  - Breeding food (Must be tamed) - Golden apple, enchanted golden apple, golden carrot
-  - Food they will also eat – Apple, sugar, hay bale, wheat
-- Llama/Trader Llama – Hay bale
-- Panda - Bamboo
-- Pig – Beetroot, carrot, potato
-- Rabbit – Carrot, dandelion, golden carrot
-- Sheep – Wheat
-  - Sheep will also eat the top of Grass blocks that are placed in the world
-- Sniffer – Torchflower seeds
-- Strider – Warped fungus
-- Turtle - Seagrass
-- Wolf
-  - In Minecraft: Bedrock Edition, wolves will eat any kind of raw or cooked meat, but fish will not put them into breeding mode.
-  - In Minecraft: Java Edition, wolves will eat any kind of raw or cooked meat outside of fish, which they will not touch.
+## Additional Mob Resources
 
-That is the complete list of mobs you can directly feed in Minecraft. Be sure to use this whenever you are looking to get a little closer to the animals around your home base and check out guide on [how to tame and breed mobs](./How-do-I-Tame-and-Breed-Animals-in-Minecraft.md).
+- [Tame Animals in Minecraft](./How-do-I-Tame-and-Breed-Animals-in-Minecraft.md)
+- [Breed Animals in Minecraft](./Breed-Animals-in-Minecraft.md)
+- [Gaining Trust from Mobs in Minecraft](./Gaining-Trust-from-Mobs-in-Minecraft.md)
