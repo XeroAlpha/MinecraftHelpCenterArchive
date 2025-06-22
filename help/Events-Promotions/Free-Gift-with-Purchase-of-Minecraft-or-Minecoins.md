@@ -4,7 +4,6 @@ date: 2025-03-18T16:17:42Z
 updated: 2025-03-31T15:58:04Z
 categories: Events & Promotions
 tags:
-  - popular
   - section_26562723671949
 link: https://help.minecraft.net/hc/en-us/articles/35113885417997-Free-Gift-with-Purchase-of-Minecraft-or-Minecoins
 hash:

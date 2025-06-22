@@ -8,6 +8,7 @@ tags:
   - category_technical_support
   - subject_downloads_and_installations
   - platform_windows_10
+  - popular
   - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
   - use_for_autoreply

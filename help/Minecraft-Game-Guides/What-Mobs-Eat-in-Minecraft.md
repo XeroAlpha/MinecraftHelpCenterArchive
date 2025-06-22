@@ -44,6 +44,6 @@ Feeding certain passive or friendly mobs in Minecraft allows you to befriend, br
 
 ## Additional Mob Resources
 
-- [Tame Animals in Minecraft](./How-do-I-Tame-and-Breed-Animals-in-Minecraft.md)
+- [Tame Animals in Minecraft](./Tame-Animals-and-Mobs-in-Minecraft.md)
 - [Breed Animals in Minecraft](./Breed-Animals-in-Minecraft.md)
 - [Gaining Trust from Mobs in Minecraft](./Gaining-Trust-from-Mobs-in-Minecraft.md)

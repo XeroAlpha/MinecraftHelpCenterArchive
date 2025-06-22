@@ -42,5 +42,5 @@ To invite multiple players via email or messaging, generate and activate an [In
 
 - [Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/Moderate-Your-Minecraft-Realm.md)
 - [Manage Your Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
-- [Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/Upload-Worlds-onto-a-Minecraft-Realm.md)
+- [Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/Upload-a-World-to-a-Minecraft-Realm.md)
 - [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md)

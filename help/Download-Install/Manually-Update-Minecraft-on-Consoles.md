@@ -10,6 +10,7 @@ tags:
   - platform_xbox_one
   - platform_nintendo_switch
   - platform_sony_playstation_4
+  - popular
   - platform_sony_playstation_5
   - section_27166490706957
   - use_for_autoreply

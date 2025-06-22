@@ -26,5 +26,5 @@ link: https://help.minecraft.net/hc/en-us/articles/29013093844237-Troubleshootin
 If a world in your Realm is misbehaving, cannot be opened/closed, or seems broken in any way, try these steps to get back into your world:
 
 1.  Make sure you have a backup of your world data. See [How Mojang Saves Backups for Your Minecraft Realm.](../Manage-Realms-Settings-Worlds/How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-2.  Move the world you're having trouble with to a different world slot. See [How to Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/Upload-Worlds-onto-a-Minecraft-Realm.md).
+2.  Move the world you're having trouble with to a different world slot. See [How to Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/Upload-a-World-to-a-Minecraft-Realm.md).
 3.  Select the world slot and click **Edit World** for that slot and click **Reset World**. This should fix the slot and allow you to upload your world backup.

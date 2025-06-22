@@ -38,4 +38,4 @@ The world will be downloaded and added to your singleplayer worlds. See [Locatin
 ## Additional Backup and Restore Resources
 
 - [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md)
+- [Upload Worlds onto a Minecraft Realm](./Upload-a-World-to-a-Minecraft-Realm.md)

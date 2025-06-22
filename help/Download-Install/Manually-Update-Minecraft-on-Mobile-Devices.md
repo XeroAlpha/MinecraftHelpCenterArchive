@@ -9,6 +9,7 @@ tags:
   - subject_downloads_and_installations
   - platform_ios
   - platform_android
+  - popular
   - section_27166490706957
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4409172223501-Manually-Update-Minecraft-on-Mobile-Devices

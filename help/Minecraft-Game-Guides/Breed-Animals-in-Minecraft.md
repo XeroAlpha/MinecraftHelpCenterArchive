@@ -13,7 +13,7 @@ hash:
 
 Players can breed certain animals of the same species by putting them in love mode. An animal that can breed enters love mode when given specific food items. When this happens, hearts will appear, and the animal will look for another animal of the same species to produce offspring.
 
-Some animals must be tamed before they can be bred; see [Tame Animals in Minecraft](./How-do-I-Tame-and-Breed-Animals-in-Minecraft.md).
+Some animals must be tamed before they can be bred; see [Tame Animals in Minecraft](./Tame-Animals-and-Mobs-in-Minecraft.md).
 
 ## Breeding 
 
@@ -44,4 +44,4 @@ Here are the animals that you can breed, whether they need to be tamed, and the 
 ## Additional mob resources
 
 - [Gaining Trust from Mobs in Minecraft](./Gaining-Trust-from-Mobs-in-Minecraft.md)
-- [What Mobs Eat in Minecraft](./What-do-Mobs-Eat-in-Minecraft.md)
+- [What Mobs Eat in Minecraft](./What-Mobs-Eat-in-Minecraft.md)

@@ -25,9 +25,9 @@ Here’s how to find Minecraft’s automatic backups and restore them on your Re
 5.  Select the **Backups** tab, then select one of the available backups.
 6.  Select **Replace Realm with Backup** to restore your world progress with the automatic backup.
 
-To restore a manual backup, see [Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md).
+To restore a manual backup, see [Upload Worlds onto a Minecraft Realm](./Upload-a-World-to-a-Minecraft-Realm.md).
 
 ## Additional Backup and Restore Resources
 
 - [How Mojang Saves Backups of Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [Download Your Realms World in Minecraft](./Download-Your-Realms-World-in-Minecraft.md)
+- [Download Your Realms World in Minecraft](./Download-Your-Minecraft-Realms-World.md)

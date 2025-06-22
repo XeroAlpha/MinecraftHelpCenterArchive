@@ -39,5 +39,5 @@ After you create a link, you can modify it in the following ways:
 
 - [Moderate Your Minecraft Realm](./Moderate-Your-Minecraft-Realm.md)
 - [Manage Your Minecraft: Bedrock Edition Realm](./Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
-- [Upload Worlds onto a Minecraft Realm](./Upload-Worlds-onto-a-Minecraft-Realm.md)
+- [Upload Worlds onto a Minecraft Realm](./Upload-a-World-to-a-Minecraft-Realm.md)
 - [Create a Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Create-a-Minecraft-Bedrock-Edition-Realm.md)

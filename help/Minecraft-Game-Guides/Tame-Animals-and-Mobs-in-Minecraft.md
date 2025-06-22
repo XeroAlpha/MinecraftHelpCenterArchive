@@ -65,4 +65,4 @@ Here are the animals that can be tamed in Minecraft and how they interact:
 
 - [Breed Animals in Minecraft](./Breed-Animals-in-Minecraft.md)
 - [Gaining Trust from Mobs in Minecraft](./Gaining-Trust-from-Mobs-in-Minecraft.md)
-- [What Mobs Eat in Minecraft](./What-do-Mobs-Eat-in-Minecraft.md)
+- [What Mobs Eat in Minecraft](./What-Mobs-Eat-in-Minecraft.md)
