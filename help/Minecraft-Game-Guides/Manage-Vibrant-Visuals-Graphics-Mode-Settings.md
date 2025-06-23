@@ -1,7 +1,7 @@
 ---
 title: Manage Vibrant Visuals Graphics Mode Settings
 date: 2025-06-16T21:31:49Z
-updated: 2025-06-17T20:50:55Z
+updated: 2025-06-23T18:01:52Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft
@@ -41,7 +41,7 @@ Download the most recent version of Minecraft to enjoy [Vibrant Visuals](https:/
 3.  Locate **Graphics Mode** in the Video settings.
 4.  Select **Vibrant Visuals** from the Graphics Mode drop-down menu.
 
-You can turn off Vibrant Visuals by selecting the **Simple** or **Fancy** graphics presets instead.
+**Vibrant Visuals is grayed out and cannot be selected:** This means your system doesn't meet the [minimum requirements](./Learn-about-Vibrant-Visuals-Graphics-Mode.md) and Vibrant Visuals was automatically disabled. If you believe that your system meets minimum requirements, update your operating system and graphics drivers to the most recent version. 
 
 ## Vibrant Visuals Settings Options
 
@@ -50,6 +50,7 @@ The Vibrant Visuals Graphics Mode contains several settings that let you optimiz
 - **Favor Performance**: Select this option if you experience issues with the game slowing or see video issues.
 - **Favor Visuals**: For robust gaming systems, turn it all on and experience dynamic lighting effects.
 - **Custom**: Experiment with different levels of visual effects to find a mix that works for your system.
+- **Graphics Mode:** Select the **Simple** or **Fancy** graphics presets instead of Vibrant Visuals if you can't get advanced graphics to work with your system.
 
 ## Additional Video Graphics Resources
 

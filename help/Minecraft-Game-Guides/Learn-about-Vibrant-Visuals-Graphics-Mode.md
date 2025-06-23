@@ -1,7 +1,7 @@
 ---
 title: Learn about Vibrant Visuals Graphics Mode
 date: 2025-06-16T20:30:13Z
-updated: 2025-06-17T20:50:04Z
+updated: 2025-06-23T18:50:01Z
 categories: Minecraft Game Guides
 tags:
   - trending
@@ -24,7 +24,7 @@ Here are the supported devices for Vibrant Visuals:
 - iOS devices running on A12, M1, or higher
 - Windows PCs running Minecraft on DirectX 12
 
-Vibrant Visuals is enabled by default on most gaming devices. If Vibrant Visuals isn’t enabled on your device, see [Manage Vibrant Visuals Graphics Mode Settings](./Manage-Vibrant-Visuals-Graphics-Mode-Settings.md).
+**Vibrant Visuals is grayed out and cannot be selected:** Vibrant Visuals is enabled by default on most gaming devices. If Vibrant Visuals is grayed out in your system settings and cannot be selected, this means your system doesn't meet the minimum requirements and Vibrant Visuals was automatically disabled. If you believe that your system meets minimum requirements, update your operating system and graphics drivers to the most recent version. See [Manage Vibrant Visuals Graphics Mode Settings](./Manage-Vibrant-Visuals-Graphics-Mode-Settings.md) and [Troubleshooting Graphics Issues in Minecraft: Bedrock Edition](../Performance-Troubleshooting/Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition.md) for information.
 
 ## Supported content and options
 

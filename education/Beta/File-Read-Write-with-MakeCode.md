@@ -1,7 +1,7 @@
 ---
 title: File Read/Write with MakeCode
 date: 2025-06-16T21:45:53Z
-updated: 2025-06-16T21:51:18Z
+updated: 2025-06-23T17:58:43Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/38490275582100-File-Read-Write-with-MakeCode
 hash:
@@ -14,6 +14,10 @@ hash:
 Soon, users coding with MakeCode in Minecraft Education can read and write files locally. Students can learn programming input/output concepts in Minecraft using .txt and .csv filetypes. Currently this feature can be tested in the Preview, only on Windows and Mac.
 
 This new coding feature supports a much-requested computer science curriculum need. Now you can get even more creative with your code in Minecraft!
+
+ 
+
+We’d love your early feedback on this sample python lesson plan. Send your thoughts to [our form here](https://forms.office.com/r/pV8S5seMp2).
 
  
 
@@ -43,6 +47,10 @@ Open a block coding MakeCode project in a world.
 Add the “File” extension to your project to easily navigate to a folder on your device.
 
 To add the Extension, click on “Extensions,” then in the Search box, enter “File.” Select the File Read & Write extension.
+
+<figure class="image wysiwyg-image image-style-block-align-left wysiwyg-image-block-start">
+<img src="https://edusupport.minecraft.net/hc/article_attachments/38678099997716" />
+</figure>
 
  
 
@@ -90,12 +98,6 @@ No, you can write to C:/\<xyzfolder\>/written.txt provided that the C:/\<xyzfold
 **Can my code access folders that are locked down on my device?**
 
 No, only folders which the logged in user has permissions to access can be interacted with.
-
- 
-
-**Can I append/update data in a file?**
-
-No, each time you write to your file, it overwrites the contents. If you do not want to lose previous data that cannot be recreated, create a new file for your new code.
 
  
 
