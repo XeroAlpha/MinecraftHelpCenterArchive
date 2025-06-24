@@ -1,7 +1,7 @@
 ---
 title: Learn about Vibrant Visuals Graphics Mode
 date: 2025-06-16T20:30:13Z
-updated: 2025-06-23T18:50:01Z
+updated: 2025-06-24T20:23:28Z
 categories: Minecraft Game Guides
 tags:
   - trending
@@ -9,10 +9,11 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/37413608357773-Learn-about-Vibrant-Visuals-Graphics-Mode
 hash:
   h_01JXX5XACX01NC1P2P4VAA148R: supported-devices-and-minimum-requirements
+  h_01JYHF8BEBZZP0NYKFVG6Q6HJD: vibrant-visuals-is-grayed-out-and-cannot-be-selected
   h_01JXX5XACXFWF1W5SD2SYYEC5F: supported-content-and-options
 ---
 
-[Vibrant Visuals](https://www.minecraft.net/en-us/article/chase-the-skies-and-vibrant-visuals-playable-today) is Minecraft’s official visual refresh on compatible Minecraft: Bedrock Edition devices. Download the most recent version of Minecraft to enjoy the feature. Vibrant Visuals is a Graphics Mode in Minecraft Video settings, not an Add-on, so you can play on Realms with friends whether they have Vibrant Visuals enabled or not.
+[Vibrant Visuals](https://www.minecraft.net/en-us/article/chase-the-skies-and-vibrant-visuals-playable-today) is Minecraft’s official visual refresh on compatible Minecraft: Bedrock Edition devices. Download the most recent version of Minecraft to enjoy the feature. Vibrant Visuals is a Graphics Mode in Minecraft Video settings, not an Add-on, so you can play on Realms with friends whether they have Vibrant Visuals enabled or not. See [Manage Vibrant Visuals Graphics Mode Settings](./Manage-Vibrant-Visuals-Graphics-Mode-Settings.md) for more information.
 
 ## Supported devices and minimum requirements
 
@@ -22,9 +23,14 @@ Here are the supported devices for Vibrant Visuals:
 - PlayStation 4/5
 - Android devices running on Adreno 640, Mali-G68, Mali-G77, Xclipse 530 or higher
 - iOS devices running on A12, M1, or higher
-- Windows PCs running Minecraft on DirectX 12
+- Windows PCs running Minecraft on DirectX 12 (older graphics cards that support DirectX 12 may be incompatible)
 
-**Vibrant Visuals is grayed out and cannot be selected:** Vibrant Visuals is enabled by default on most gaming devices. If Vibrant Visuals is grayed out in your system settings and cannot be selected, this means your system doesn't meet the minimum requirements and Vibrant Visuals was automatically disabled. If you believe that your system meets minimum requirements, update your operating system and graphics drivers to the most recent version. See [Manage Vibrant Visuals Graphics Mode Settings](./Manage-Vibrant-Visuals-Graphics-Mode-Settings.md) and [Troubleshooting Graphics Issues in Minecraft: Bedrock Edition](../Performance-Troubleshooting/Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition.md) for information.
+### **Vibrant Visuals is grayed out and cannot be selected** 
+
+There are two situations where you cannot change your Graphics Mode to Vibrant Visuals:
+
+- **Actively playing a world:** If you are playing a world and want to change your graphics setting, you need to save and exit the game and enter Settings from the launch screen.
+- **System incompatible:** If your system doesn't meet the minimum requirements, Vibrant Visuals is automatically disabled. If possible on your system, try updating your operating system and graphics drivers to the most recent version. 
 
 ## Supported content and options
 

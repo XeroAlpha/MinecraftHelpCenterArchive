@@ -1,16 +1,18 @@
 ---
-title: "Get Minecraft: Java Edition Capes before Promotion End Dates"
+title: "Activate Promotional Capes and Character Creator Items on Your Minecraft: Java Edition Profile"
 date: 2024-11-01T22:16:18Z
-updated: 2025-06-12T18:45:33Z
+updated: 2025-06-24T20:54:53Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
-link: https://help.minecraft.net/hc/en-us/articles/31550001045773-Get-Minecraft-Java-Edition-Capes-before-Promotion-End-Dates
+link: https://help.minecraft.net/hc/en-us/articles/31550001045773-Activate-Promotional-Capes-and-Character-Creator-Items-on-Your-Minecraft-Java-Edition-Profile
+hash:
+  h_01JYHV5XSAXP6QE8PG8KVJN254: how-to-activate-a-bedrock-edition-cape-on-your-java-profile
 ---
 
-Minecraft events and promotions often award capes that you can equip on your character to show your participation. After a cape is granted or you [redeem a code](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md), it appears in the dressing room of your Minecraft: Bedrock Edition profile. 
+Minecraft events and promotions often award capes that you can equip on your character to show your participation. After a cape is granted or you [redeem a code](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md), it appears in the dressing room of your Minecraft: Bedrock Edition profile. If you want to activate your cape on your Minecraft: Java Edition profile, you must first sign into Minecraft: Bedrock Edition and claim it.
 
-**If you want to receive your cape on your Minecraft: Java Edition profile, you must activate it by signing into Minecraft: Bedrock Edition.** Here’s how:
+## How to activate a Bedrock Edition Cape on your Java profile
 
 1.  Wait for notification that your cape was granted or redeem your code.
 2.  Start the Minecraft Launcher.
@@ -26,7 +28,7 @@ Minecraft events and promotions often award capes that you can equip on your cha
 12. Click **…** and select **Edit**.
 13. Click your cape and select **Save & Use**.
 
-It is important that you sign out and restart to make sure Minecraft: Java edition reconnects and finds your cape. If the process above doesn't work, you may need to wait until the official Minecraft: Java Edition cape grant after the event or promotion end date.
+It is important that you sign out and restart to make sure Minecraft: Java edition reconnects and finds your cape.
 
 For more information, see these articles:
 
