@@ -1,7 +1,7 @@
 ---
 title: Manage Vibrant Visuals Graphics Mode Settings
 date: 2025-06-16T21:31:49Z
-updated: 2025-06-23T18:01:52Z
+updated: 2025-06-24T18:01:01Z
 categories: Minecraft Game Guides
 tags:
   - title_minecraft
@@ -28,6 +28,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/37415428023821-Manage-Vibrant-Visuals-Graphics-Mode-Settings
 hash:
   h_01JXXA3CNX2A2503EW7C22NV7A: access-vibrant-visuals-setting
+  h_01JYHF8BEBZZP0NYKFVG6Q6HJD: vibrant-visuals-is-grayed-out-and-cannot-be-selected
   h_01JXXA3CNXHR0RSM6CQHBZ805C: vibrant-visuals-settings-options
   h_01JXXA3CNXMQJ6CG5E6PE6Y37Z: additional-video-graphics-resources
 ---
@@ -41,7 +42,12 @@ Download the most recent version of Minecraft to enjoy [Vibrant Visuals](https:/
 3.  Locate **Graphics Mode** in the Video settings.
 4.  Select **Vibrant Visuals** from the Graphics Mode drop-down menu.
 
-**Vibrant Visuals is grayed out and cannot be selected:** This means your system doesn't meet the [minimum requirements](./Learn-about-Vibrant-Visuals-Graphics-Mode.md) and Vibrant Visuals was automatically disabled. If you believe that your system meets minimum requirements, update your operating system and graphics drivers to the most recent version. 
+### **Vibrant Visuals is grayed out and cannot be selected** 
+
+There are two situations where you cannot change your Graphics Mode to Vibrant Visuals:
+
+- **Actively playing a world:** If you are playing a world and want to change your graphics setting, you need to save and exit the game and enter Settings from the launch screen.
+- **System incompatible:** If your system doesn't meet the [minimum requirements](./Learn-about-Vibrant-Visuals-Graphics-Mode.md), Vibrant Visuals is automatically disabled. If possible on your system, try updating your operating system and graphics drivers to the most recent version. 
 
 ## Vibrant Visuals Settings Options
 
