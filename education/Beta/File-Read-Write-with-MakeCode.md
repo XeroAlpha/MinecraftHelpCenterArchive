@@ -1,7 +1,7 @@
 ---
 title: File Read/Write with MakeCode
 date: 2025-06-16T21:45:53Z
-updated: 2025-06-23T17:58:43Z
+updated: 2025-06-25T07:27:36Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/38490275582100-File-Read-Write-with-MakeCode
 hash:
@@ -17,7 +17,7 @@ This new coding feature supports a much-requested computer science curriculum ne
 
  
 
-We’d love your early feedback on this sample python lesson plan. Send your thoughts to [our form here](https://forms.office.com/r/pV8S5seMp2).
+We’d love your early feedback on this [sample python lesson plan](https://github.com/juedwards/MakeCode_python_lessons/blob/main/e12_Minecraft_Data_Adventures.md). Send your thoughts to [our form here](https://forms.office.com/r/pV8S5seMp2).
 
  
 
@@ -48,7 +48,7 @@ Add the “File” extension to your project to easily navigate to a folder on y
 
 To add the Extension, click on “Extensions,” then in the Search box, enter “File.” Select the File Read & Write extension.
 
-<figure class="image wysiwyg-image image-style-block-align-left wysiwyg-image-block-start">
+<figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-block-start">
 <img src="https://edusupport.minecraft.net/hc/article_attachments/38678099997716" />
 </figure>
 
@@ -56,7 +56,7 @@ To add the Extension, click on “Extensions,” then in the Search box, enter �
 
 File Picker:
 
-<figure class="image wysiwyg-image">
+<figure class="wysiwyg-image">
 <img src="https://edusupport.minecraft.net/hc/article_attachments/38490275580948" />
 </figure>
 
