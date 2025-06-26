@@ -1,7 +1,7 @@
 ---
 title: "Locating Minecraft: Java Edition Files for Backup or Transfer"
 date: 2021-09-13T22:15:55Z
-updated: 2024-03-07T18:02:07Z
+updated: 2025-06-26T20:49:30Z
 categories: Backup & Restore
 tags:
   - title_minecraft_java_edition
@@ -18,8 +18,6 @@ link: https://help.minecraft.net/hc/en-us/articles/4409159214605-Locating-Minecr
 hash:
   h_01HRD13GBCT4ZS44RAB348CRTS: heres-how-to-find-where-your-minecraft-worlds-are-stored
 ---
-
-*This article applies to Minecraft: Java Edition only. Click [here for Minecraft: Bedrock Edition](./Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).* 
 
 If your Minecraft world isn’t associated with a Realms subscription, your worlds are not backed up automatically. It is a good idea to periodically backup or save a copy of your Minecraft files.
 
