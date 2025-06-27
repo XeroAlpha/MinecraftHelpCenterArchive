@@ -1,11 +1,11 @@
 ---
 title: Profile Types and Permissions
 date: 2020-08-10T09:07:30Z
-updated: 2025-05-27T19:59:28Z
+updated: 2025-06-27T18:51:11Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions
 hash:
-  section: ""
+  h_01JX0WP7PVM72DWV4YRQCZXXTG: ""
   h_01JW9MSCE9XACPZ1YZT7CBB88T: multiplayer-safety-features-and-who-can-join-a-world
   h_01JW9MSCE9TR0MV5HKKEVVA8TQ: a-link-to-a-video-on-minecraft-education-safety-features
   h_01HZ306QNAYYTGPJ2J1GJ320YG: teacher-vs-student-permissions
@@ -35,7 +35,7 @@ Minecraft Education has several multiplayer safety features that prevent outside
 For someone to join a hosted world, they must:
 
 - Be in the same Microsoft 365 organizational account (aka Microsoft Entra ID tenant)
-  - For schools, this typically means they have a school email ending in the same @domain (e.g. @school123.edu). However, for some accounts it may be the school district. 
+  - For schools, this typically means they have a school email ending in the same @domain (e.g. @school123.edu). However, for some accounts it may be the school district.
 - Have the currently active join code, which only the host of the session can see and provide
 - Know when the session is online
 
@@ -45,8 +45,26 @@ With that, only users within your school environment will be able to join other 
 
 ## **Teacher vs student permissions**
 
-Users with Office 365 Education "faculty" software will have teacher permissions, and those with "student software" (assigned/edited in the Office 365 admin portal) will have student permissions. In-game teachers will have access to the "educator resources" option on the home page and students will not. Teachers will also enter all worlds with OP status regardless of whether or not they are the host.  
+Some permissions to the app are determined by which type of license a user is assigned. Minecraft Educations has two types of profiles: teacher/faculty and student.   
   
+The type of profile a user falls into is based on the Microsoft 365 licenses they are assigned. All users will default to the student-based permissions. To make a user a teacher, they'll need a "faculty" license assigned to them. This could be a Microsoft 365 A3 for Faculty license or a Minecraft Education for Faculty standalone license. There are a couple other licenses that are typically only assigned to faculty that may also elevate a user to faculty, based on Microsoft 365's standards. Faculty can be determined by the presence of any faculty license on the account, not just ones that grant access to Minecraft Education. 
+
+  
+Commercial standalone licenses will default to the student profile because commercial accounts do not have faculty licenses.   
+  
+**Note**: Volume Licensing users will want to ensure they get both Minecraft Education for student, and Minecraft Education for faculty licenses.
+
+ 
+
+Accounts with faculty licenses have additional permissions such as:
+
+- They can log in to and use [the Lesson Crafter](https://aka.ms/lessoncrafter)
+- Have OP permissions by default even in other users' worlds (see "Operator" section below)
+- Have Worldbuilder ability by default even in other users' worlds (see Worldbuilder section below)
+- Able to see the "Lesson Plan", "Resources", and "Assign or Share" button in the lesson library
+  - You can learn how to assign and share lessons here: [Assign or Share Worlds and Lessons](../Teaching-With-Minecraft/Assign-or-Share-Worlds-and-Lessons.md) 
+
+These permissions do not affect a user's ability to host or join multiplayer sessions, download worlds from the lesson library, or other core features of the app. 
 
 ## **Operator**
 
@@ -69,7 +87,7 @@ Operator only commands you should be aware of:
 
 - immutableworld
 - worldbuilder  
-    
+   
 
 ## **Worldbuilder**
 
@@ -102,7 +120,7 @@ When you are granting worldbuilder or operator permissions, it is possible to �
 @p: Nearest player
 
 @r: Random player(s) (a list will appear below of players currently in the world)  
-  
+ 
 
 ## **How to change in-game display name**
 
@@ -112,13 +130,13 @@ Currently, only IT Admins can change users' in-game usernames that are displayed
 
 For IT Admins, Minecraft Education creates it's display name from the Microsoft Admin Center display name. Here is specifically how to change it:
 
-1.  Go to [Microsoft Admin Center](https://admin.microsoft.com/) 
+1.  Go to [Microsoft Admin Center](https://admin.microsoft.com/)
 2.  On the left navigation, select **Users \> Active users**
 3.  Click on a user's display name to bring up their profile
 4.  Under Contact Information select **Manage contact information**
 5.  Edit the name under **Display Name**
-    - Note that the Minecraft Education name will be created from the first word plus the first letter of the second word from this field. 
-      - Example: A display name in Microsoft Admin Center that is set to "Example Test Name" will show as "ExampleT" in Minecraft Education. 
+    - Note that the Minecraft Education name will be created from the first word plus the first letter of the second word from this field.
+      - Example: A display name in Microsoft Admin Center that is set to "Example Test Name" will show as "ExampleT" in Minecraft Education.
 6.  At the bottom of the page, select Save changes
 
  

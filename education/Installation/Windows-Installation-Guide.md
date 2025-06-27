@@ -1,7 +1,7 @@
 ---
 title: Windows Installation Guide
 date: 2023-02-10T19:44:41Z
-updated: 2024-09-17T22:11:55Z
+updated: 2025-06-27T18:40:23Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/13106858087956-Windows-Installation-Guide
 hash:
@@ -44,6 +44,7 @@ To install Minecraft via device management tools, you can choose to install and 
 | [Install the Microsoft Store version manually](#install-minecraft-education-via-group-policy-using-powershell-script) | Microsoft Store |
 | [Install via WinGet](#install-on-devices-via-winget-command-in-command-prompt) | Microsoft Store |
 | [Install desktop version   ](#install-desktop-version) | Scheduled Task |
+| [Install Minecraft Education via Group Policy using PowerShell script](#Install%20Minecraft%20Education%20via%20Group%20Policy%20using%20PowerShell%20script) | Either Microsoft Store or Scheduled Task |
 
  
 
@@ -157,59 +158,61 @@ Follow these steps to manually install the Windows desktop version of Minecraft 
 
 The full list of command line options are:
 
-<table style="width: 576px;" data-border="2px" data-cellpadding="5px">
+<table style="width: 576px; height: 536px;" data-border="2px" data-cellpadding="5px">
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
 <tbody>
-<tr>
-<td style="width: 175.469px"><p>/?</p></td>
-<td style="width: 377.531px"><p>Display command line options</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/? or /help</p></td>
+<td style="width: 392.125px; height: 22px"><p>Display command line options</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/extract: &lt;directory&gt;</p></td>
-<td style="width: 377.531px"><p>Extracts all files to the specified directory</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/extract: &lt;directory&gt;</p></td>
+<td style="width: 392.125px; height: 22px"><p>Extracts all files to the specified directory</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/listlangs</p></td>
-<td style="width: 377.531px"><p>Lists the languages supported by setup</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/listlangs</p></td>
+<td style="width: 392.125px; height: 22px"><p>Lists the languages supported by setup</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/exenoui</p></td>
-<td style="width: 377.531px"><p>Launches EXE setup without a UI</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/exenoui</p></td>
+<td style="width: 392.125px; height: 22px"><p>Launches EXE setup without a UI</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/exebasicui</p></td>
-<td style="width: 377.531px"><p>Launches EXE setup with basic UI</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/exebasicui</p></td>
+<td style="width: 392.125px; height: 22px"><p>Launches EXE setup with basic UI</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/exelang &lt;langid&gt;</p></td>
-<td style="width: 377.531px"><p>Launches the EXE setup using the specified language</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/exelang &lt;langid&gt;</p></td>
+<td style="width: 392.125px; height: 22px"><p>Launches the EXE setup using the specified language</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/username</p></td>
-<td style="width: 377.531px"><p>Username used by proxy</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/proxyusername</p></td>
+<td style="width: 392.125px; height: 22px"><p>Username used by proxy</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/password</p></td>
-<td style="width: 377.531px"><p>Password used by proxy</p></td>
+<tr style="height: 22px;">
+<td style="width: 198.375px; height: 22px"><p>/proxypassword</p></td>
+<td style="width: 392.125px; height: 22px"><p>Password used by proxy</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/exelog &lt;path to log file&gt;</p></td>
-<td style="width: 377.531px"><p>Creates a log file at the specified path</p></td>
+<tr style="height: 44px;">
+<td style="width: 198.375px; height: 44px"><p>/L*V &lt;path_to_file&gt;<br />
+/exelog &lt;path_to_file&gt;</p></td>
+<td style="width: 392.125px; height: 44px"><p>Creates a verbose log file at the specified path. Use just /L to only do basic logging. </p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>/exenoupdates</p></td>
-<td style="width: 377.531px"><p>Does not check for a newer version</p></td>
+<tr style="height: 44px;">
+<td style="width: 198.375px; height: 44px"><p>INSTALL_UPDATER="NONE"</p></td>
+<td style="width: 392.125px; height: 44px"><p>Does not create the task scheduler events for update checks. (App will need to be manually updated)</p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>&lt;msioptions&gt;</p></td>
-<td style="width: 377.531px"><p>Options for msiexec.exe running the MSI package. For example /qn runs the MSI install as quiet with no user interface.</p></td>
+<tr style="height: 134px;">
+<td style="width: 198.375px; height: 134px"><p>&lt;msioptions&gt;</p></td>
+<td style="width: 392.125px; height: 134px"><p>Options for msiexec.exe running the MSI package. For example /qn runs the MSI install as quiet with no user interface.<br />
+You can learn more about these here: <a href="https://learn.microsoft.com/en-us/windows/win32/msi/standard-installer-command-line-options">Microsoft Standard Installer command-line options - Win32 apps | Microsoft Learn</a></p></td>
 </tr>
-<tr>
-<td style="width: 175.469px"><p>APPDIR=</p></td>
-<td style="width: 377.531px">Changes the install path for Minecraft Education, for example:<br />
+<tr style="height: 138px;">
+<td style="width: 198.375px; height: 138px"><p>APPDIR=</p></td>
+<td style="width: 392.125px; height: 138px">Changes the install path for Minecraft Education, for example:<br />
 &#10;<pre><code>MinecraftInstaller.exe AppDir=C:\Test\ /qn /exenoui</code></pre>
 will install Minecraft Education to C:\Test silently without showing the install GUI. </td>
 </tr>
