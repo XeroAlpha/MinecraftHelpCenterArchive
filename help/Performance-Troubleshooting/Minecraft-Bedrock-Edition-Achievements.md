@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Achievements"
 date: 2021-09-14T21:36:49Z
-updated: 2024-06-21T21:20:52Z
+updated: 2025-06-27T16:48:31Z
 categories: Performance & Troubleshooting
 tags:
   - section_35377640016525
@@ -25,7 +25,7 @@ Xbox achievements can be earned in Minecraft: Bedrock Edition on these systems w
 
 On mobile and Nintendo Switch devices, you must have a Microsoft account linked to the profile playing Minecraft for Xbox achievements to attach to that Microsoft account.
 
-PlayStation users can earn trophies attached to their PSN accounts. While you can connect a Microsoft account to your PlayStation profile to crossplay with friends, Xbox achievements cannot be earned on the PlayStation version of Minecraft. For more information on this topic, please visit the [Minecraft: Bedrock Edition for PlayStation FAQ](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md).
+PlayStation users can earn trophies attached to their PSN accounts. While you can connect a Microsoft account to your PlayStation profile to crossplay with friends, Xbox achievements cannot be earned on the PlayStation version of Minecraft.
 
 ## How to turn achievements on or off in Realms
 
