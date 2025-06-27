@@ -1,11 +1,11 @@
 ---
 title: File Read/Write with MakeCode
 date: 2025-06-16T21:45:53Z
-updated: 2025-06-25T07:27:36Z
+updated: 2025-06-26T23:06:34Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/38490275582100-File-Read-Write-with-MakeCode
 hash:
-  h_01JXXAX81TPXTVEHQZMB7CBDWC: examples-of-how-to-read-and-write-with-files-using-makecode-in-minecraft
+  h_01JXXAX81TPXTVEHQZMB7CBDWC: ""
   h_01JXXAX824J132BSDPFNXFCA3Y: known-issues
   h_01JXXAX829Q4Z9Y0FSM32DJSRT: faqs
   h_01JXXAX82H5DK3HB5399AYKD8B: troubleshooting-download--sync-errors
@@ -21,7 +21,15 @@ We’d love your early feedback on this [sample python lesson plan](https://gith
 
  
 
-### Examples of How to Read and Write with files using MakeCode in Minecraft
+Also, check out our example video on Coding File Output in MakeCode!
+
+<figure class="wysiwyg-image">
+<a href="https://www.youtube.com/watch?v=FE0gZRAMOFY"><img src="https://edusupport.minecraft.net/hc/article_attachments/38791089304980" alt="Example video on coding file output in MakeCode" /></a>
+</figure>
+
+###  
+
+Examples of How to Read and Write with files using MakeCode in Minecraft
 
  
 
