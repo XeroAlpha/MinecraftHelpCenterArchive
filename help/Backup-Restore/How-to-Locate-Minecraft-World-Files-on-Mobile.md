@@ -33,7 +33,7 @@ In this folder you will find all of your worlds and various Marketplace content 
 
 ## How to access Minecraft Bedrock world files on Android
 
-World files on your Android can only be accessed if they are in external storage, not the application. If they are not, the only way to access your worlds is to transfer them to another device using Minecraft Realms. See [How to Transfer Your World To Another Device In Minecraft: Bedrock Edition](./Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).
+World files on your Android can only be accessed if they are in external storage, not the application. If they are not, the only way to access your worlds is to transfer them to another device using Minecraft Realms. See [How to Transfer Your World To Another Device In Minecraft: Bedrock Edition](./Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
 
 To learn if your worlds are in external storage:
 

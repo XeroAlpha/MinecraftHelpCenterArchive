@@ -38,4 +38,4 @@ These applications may mistakenly delete files migrated by Minecraft: Bedrock Ed
 
 If you have a cleaner application installed on your device, it is recommended that you do one of the following: remove the application, prevent it from cleaning files, or create an exception for Minecraft: Bedrock Edition so that files are not deleted.
 
-If you have your world and would like to move it to a different device, see [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](./Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition.md).
+If you have your world and would like to move it to a different device, see [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](./Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
