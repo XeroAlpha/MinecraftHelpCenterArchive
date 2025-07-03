@@ -1,7 +1,7 @@
 ---
 title: Disable Minecraft Add-Ons to prevent game issues
 date: 2024-02-14T18:05:57Z
-updated: 2025-07-02T22:58:49Z
+updated: 2025-07-03T17:51:07Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141
@@ -43,4 +43,4 @@ While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can 
 - You must be the world owner to deactivate resource packs.
 - You may also be unable to deactivate resource acks for world templates and adventures maps.
 - Deactivating a world’s resource pack does not remove it from your storage. See [Delete Unused Marketplace Content in Minecraft](./Delete-Unused-Marketplace-Content-in-Minecraft.md).
-- Any Add-On mobs will be removed. Add-On blocks will be replaced with updated blocks.
+- After an Add-On is removed, any Add-On mobs will also be removed. Add-On blocks will be replaced with updated blocks.
