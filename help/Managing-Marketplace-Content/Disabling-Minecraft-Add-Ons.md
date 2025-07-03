@@ -1,29 +1,46 @@
 ---
-title: Disabling Minecraft Add-Ons
+title: Disable Minecraft Add-Ons to prevent game issues
 date: 2024-02-14T18:05:57Z
-updated: 2024-02-20T18:10:26Z
+updated: 2025-07-02T22:58:49Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141
   - Add-Ons
-link: https://help.minecraft.net/hc/en-us/articles/24121220131597-Disabling-Minecraft-Add-Ons
+  - section_31867770289293
+link: https://help.minecraft.net/hc/en-us/articles/24121220131597-Disable-Minecraft-Add-Ons-to-prevent-game-issues
 hash:
-  h_01HPMWNYWKKGY1REXNWEV1NMVD: related-articles
+  h_01JZ6N8RVAA1993X0NKNGZDK9Y: singleplayer-worlds
+  h_01JZ6N8RVA8QH2XCFEX1ENZDNH: realm-worlds
+  h_01JZ6N8RVAPKBVG9MHWB8XSTCV: additional-add-on-troubleshooting-notes
 ---
 
-To deactivate Add-Ons from a World follow these steps:
+While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can be compatibility issues running them simultaneously. If you’re experiencing performance issues or game crashes, you may want to disable resources packs and/or behavior packs. Instructions are separated by world type below.
 
-1.  Navigate to the Edit World screen for your World.
-2.  Click on the **Resource Packs** or **Resource Packs** tab, revealing the Add-Ons that are activated on your world.
-3.  Click on the Add-On you’d like to remove and click **Deactivate**.
-4.  Click **OK** to deactivate the Add-On.
+*Before beginning, we recommend backing up your Minecraft world. See our [Backup & Restore](https://help.minecraft.net/hc/en-us/sections/27166561402125) section.*
 
-When removing the Add-On, anything added such as mobs and some types of placeable blocks, will be removed from the world. Any blocks from the Add-On will be replaced with update blocks.
+## Singleplayer worlds
 
-**Note**: deactivating a pack after playing a world might have unexpected results. We suggest you make a copy of your world before deactivating any Add-Ons. 
+1.  Launch Minecraft.
+2.  Select **Play.**
+3.  Select the **pencil icon** next to the world you want to change.
+4.  Select the **Resource packs** or **Behavior packs** tab**.**
+5.  Select the **Active** tab.
+6.  Select the resource pack you want to deactivate and select **Remove.**
 
- 
+##  Realm worlds
 
-### Related Articles
+1.  Launch Minecraft.
+2.  Select **Play.**
+3.  Select the Realms tab.
+4.  Select the Realm with the world you want to change and select **Settings**.
+5.  Select the world slot you want to change and select **Edit World**.
+6.  Select the **Resource packs** or **Behavior packs** tab.
+7.  Select the **Active** tab.
+8.  Select the resource pack you wish to deactivate and select **Deactivate**.
 
-[Who to Contact with your Minecraft Support Questions ](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md)
+## Additional Add-On Troubleshooting Notes
+
+- You must be the world owner to deactivate resource packs.
+- You may also be unable to deactivate resource acks for world templates and adventures maps.
+- Deactivating a world’s resource pack does not remove it from your storage. See [Delete Unused Marketplace Content in Minecraft](./Delete-Unused-Marketplace-Content-in-Minecraft.md).
+- Any Add-On mobs will be removed. Add-On blocks will be replaced with updated blocks.
