@@ -1,12 +1,12 @@
 ---
-title: "How to Find and Restore a Backup of a Minecraft: Java Edition Realm"
+title: "How to Find and Restore a Backup of a Minecraft: Java Edition Realm World"
 date: 2023-10-24T21:14:02Z
-updated: 2024-07-25T20:40:30Z
-categories: Manage Realms Settings & Worlds
+updated: 2025-07-03T23:23:39Z
+categories: Manage Realms Worlds
 tags:
-  - section_12618497714061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm
+  - section_37819421372941
+link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm-World
 hash:
   h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them
   h_01HHZH60PNMN56EA3BWG744B1S: uploading-a-backup-world-to-your-realm

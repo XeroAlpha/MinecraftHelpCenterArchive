@@ -1,10 +1,11 @@
 ---
 title: Coordinates Are Not Appearing in Realms Stories
 date: 2024-04-19T20:56:14Z
-updated: 2024-04-23T20:48:59Z
+updated: 2025-07-04T02:04:10Z
 categories: Minecraft Realms Stories
 tags:
   - section_ 12618443219469
+  - section_26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/26047957910797-Coordinates-Are-Not-Appearing-in-Realms-Stories
 ---
 
@@ -17,7 +18,7 @@ With the **Realm Event coordinates** setting turned on in your Realm Stories, yo
 1.  Start Minecraft.
 2.  Select **Play**.
 3.  Select the **Edit Realm** icon.
-4.  Click your world and select **Edit World**.
+4.  Select your world and select **Edit World**.
 5.  Under World Options select Show Coordinates.
 
 Additionally, you can also find them through the following when in the world:

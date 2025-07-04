@@ -1,11 +1,10 @@
 ---
 title: "Copy Your Minecraft: Bedrock Edition World Seed"
 date: 2025-02-21T19:00:39Z
-updated: 2025-06-16T18:46:45Z
-categories: Download & Install
+updated: 2025-07-04T01:51:27Z
+categories: Manage Realms Worlds
 tags:
-  - section_12618497714061
-  - section_27166490706957
+  - section_37819421372941
 link: https://help.minecraft.net/hc/en-us/articles/34467729058957-Copy-Your-Minecraft-Bedrock-Edition-World-Seed
 hash:
   h_01JXWVC7XP6E1XSYHXM83D2T11: copy-a-world-seed-on-the-bedrock-edition-worlds-tab
@@ -16,8 +15,8 @@ World seeds are a string of numbers that Minecraft uses to recreate particular b
 
 ## Copy a world seed on the Bedrock Edition Worlds tab
 
-1.  Launch Minecraft: Bedrock Edition
-2.  Select **Play** on the launch screen
+1.  Launch Minecraft: Bedrock Edition.
+2.  Select **Play** on the launch screen.
 3.  Locate the world with the seed you want to copy on the Worlds tab and select **Edit**.
 4.  Select **Advanced** on the Edit World screen.
 5.  Copy your World seed.
@@ -32,10 +31,10 @@ If the world seed you want to copy is for a world that only exists on a Realm, y
 4.  Select the Realm with the world seed you want to copy and select the **Settings button**. 
 5.  Select the Realm slot with the world seed you want to copy.
 6.  Select **Edit World**.
-7.  Click **Backups**.
+7.  Select **Backups**.
 8.  Select the **Download icon** of any of the backups to import the world to your non-Realms world list.
-9.  Click **Let’s Go** on the All Done! screen.
+9.  Select **Let’s Go** on the All Done! screen.
 10. Exit the Edit World and Edit Realm screens to return to your Worlds list.
 11. Select the **Pencil icon** next to the world you just downloaded in your Worlds list.
-12. Click **Advanced**.
+12. Select **Advanced**.
 13. Copy your world seed.

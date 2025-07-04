@@ -1,11 +1,10 @@
 ---
 title: "Manage Invite Links for Minecraft: Bedrock Edition Realms"
 date: 2025-05-28T17:54:51Z
-updated: 2025-06-17T20:59:59Z
-categories: Manage Realms Settings & Worlds
+updated: 2025-07-04T01:47:46Z
+categories: Manage Realms Worlds
 tags:
-  - section_12618497714061
-  - section_26104084764557
+  - section_37819421372941
 link: https://help.minecraft.net/hc/en-us/articles/36974952310925-Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms
 hash:
   h_01JXXGPKQZXZGEXW08HRSH74V4: create-a-minecraft-bedrock-edition-invite-link
@@ -38,6 +37,6 @@ After you create a link, you can modify it in the following ways:
 ## Additional Minecraft Realms resources
 
 - [Moderate Your Minecraft Realm](./Moderate-Your-Minecraft-Realm.md)
-- [Manage Your Minecraft: Bedrock Edition Realm](./Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
+- [Manage Settings for Your Minecraft: Bedrock Edition Realm](./Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
 - [Upload Worlds onto a Minecraft Realm](./Upload-a-World-to-a-Minecraft-Realm.md)
 - [Create a Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Create-a-Minecraft-Bedrock-Edition-Realm.md)

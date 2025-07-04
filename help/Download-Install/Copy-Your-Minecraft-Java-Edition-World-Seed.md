@@ -1,11 +1,10 @@
 ---
 title: "Copy Your Minecraft: Java Edition World Seed"
 date: 2025-02-21T19:02:10Z
-updated: 2025-06-16T18:49:21Z
-categories: Download & Install
+updated: 2025-07-04T01:49:44Z
+categories: Manage Realms Worlds
 tags:
-  - section_12618497714061
-  - section_27166490706957
+  - section_37819421372941
 link: https://help.minecraft.net/hc/en-us/articles/34467817926925-Copy-Your-Minecraft-Java-Edition-World-Seed
 hash:
   h_01JXWVC7XP6E1XSYHXM83D2T11: copy-a-world-seed-from-java-edition
@@ -22,7 +21,7 @@ World seeds are a string of numbers that Minecraft uses to recreate particular b
 4.  Press the **T key** to open the chat.
 5.  Type **/seed** into chat and press **Enter** to display the world seed.
 6.  Press the **T key** again to open the chat.
-7.  Click on the seed number to copy it to your clipboard.
+7.  Select the seed number to copy it to your clipboard.
 
 ## Copy a world seed from a Java Edition Realm
 
@@ -34,4 +33,4 @@ If the world seed you want to copy is for a world that only exists on a Realm, y
 4.  Press the **T key** to open the chat.
 5.  Type **/seed** into chat and press **Enter** to display the world seed.
 6.  Press the **T key** again to open the chat.
-7.  Click on the seed number to copy it to your clipboard.
+7.  Select the seed number to copy it to your clipboard.

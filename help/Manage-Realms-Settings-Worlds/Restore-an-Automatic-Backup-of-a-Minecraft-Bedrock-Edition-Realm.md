@@ -1,12 +1,12 @@
 ---
-title: "Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm"
+title: "Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm World"
 date: 2023-10-24T21:10:46Z
-updated: 2025-06-17T18:53:10Z
-categories: Manage Realms Settings & Worlds
+updated: 2025-07-04T01:54:30Z
+categories: Manage Realms Worlds
 tags:
-  - section_12618497714061
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/20687461045645-Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm
+  - section_37819421372941
+link: https://help.minecraft.net/hc/en-us/articles/20687461045645-Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World
 hash:
   h_01JXXJPTPQ32PT9MD34CYAJEAM: how-to-restore-your-minecraft-bedrock-edition-realm
   h_01JXXJPTPQB040R0PPHKCEJDQB: additional-backup-and-restore-resources
@@ -25,9 +25,9 @@ Here’s how to find Minecraft’s automatic backups and restore them on your Re
 5.  Select the **Backups** tab, then select one of the available backups.
 6.  Select **Replace Realm with Backup** to restore your world progress with the automatic backup.
 
-To restore a manual backup, see [Upload Worlds onto a Minecraft Realm](./Upload-a-World-to-a-Minecraft-Realm.md).
+To restore a manual backup, see [Upload a World to a Minecraft: Bedrock Edition Realm](./Upload-a-World-to-a-Minecraft-Realm.md).
 
 ## Additional Backup and Restore Resources
 
 - [How Mojang Saves Backups of Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [Download Your Realms World in Minecraft](./Download-Your-Minecraft-Realms-World.md)
+- [Download a Realms world in Minecraft: Bedrock Edition](./Download-Your-Minecraft-Realms-World.md)
