@@ -33,5 +33,5 @@ If you’d like to save a copy of your world indefinitely, we suggest you downlo
 
 - [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)
 - [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md)
-- [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
-- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md)
+- [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
+- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)

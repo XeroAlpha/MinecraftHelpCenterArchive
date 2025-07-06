@@ -2,7 +2,7 @@
 title: "Set your Minecraft: Bedrock Edition Realm server region preference"
 date: 2025-03-14T16:08:16Z
 updated: 2025-06-17T18:53:28Z
-categories: Create or Join Realms
+categories: Manage Realms Settings
 tags:
   - section_26104084764557
 link: https://help.minecraft.net/hc/en-us/articles/35019056723341-Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference

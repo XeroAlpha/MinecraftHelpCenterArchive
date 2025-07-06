@@ -21,7 +21,7 @@ hash:
   h_01JZ98NV1H59SDFRV4E1299ER5: additional-realms-management-resources
 ---
 
-*For Minecraft: Bedrock Edition, see [Manage Settings for Your Minecraft: Bedrock Edition Realm](./Manage-Your-Minecraft-Bedrock-Edition-Realm.md).*
+*For Minecraft: Bedrock Edition, see [Manage Settings for Your Minecraft: Bedrock Edition Realm](./Manage-Settings-for-Your-Minecraft-Bedrock-Edition-Realm.md).*
 
 Minecraft: Java Edition Realm owners can change the active world, manage players, and modify server settings through the Configure menu. Here’s how to access your Realm’s settings.
 
@@ -40,7 +40,7 @@ Worlds tab:
 
 - **Change your active world slot**: The active world has the biggest portrait. Select another one to switch.
 - **World options**: See [Change or edit your Minecraft Java Edition Realm World](../Manage-Realms-Worlds/Change-or-edit-your-Minecraft-Java-Edition-Realm-World.md)
-- **World Backups**: Manage your automatic world saves. See [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm.md) and [Download a Realms world in Minecraft: Java Edition](../Manage-Realms-Worlds/Download-a-Realms-world-in-Minecraft-Java-Edition.md).
+- **World Backups**: Manage your automatic world saves. See [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm-World.md) and [Download a Realms world in Minecraft: Java Edition](../Manage-Realms-Worlds/Download-a-Realms-world-in-Minecraft-Java-Edition.md).
 - **Reset World**: Overwrite the current world with a new or existing one. See [Upload a World to a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md).
 
 Players tab:

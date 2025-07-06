@@ -2,7 +2,7 @@
 title: How to Edit Your Realms on Minecraft.net
 date: 2023-05-19T20:22:48Z
 updated: 2025-02-26T01:20:14Z
-categories: Manage Realms Settings & Worlds
+categories: Manage Realms Settings
 tags:
   - title_minecraft_java_edition
   - title_minecraft

@@ -28,19 +28,19 @@ Game Settings:
 - **Manage difficulty**: Choose from peaceful, easy, normal, or hard.
 - **Manage the world’s game mode**: See [All Game Modes in Minecraft](../Minecraft-Game-Guides/All-Game-Modes-in-Minecraft.md).
 - **Change other world settings**: Settings available include disabling Friendly Fire, changing the percentage of players needed to skip night, and enabling cheats.
-- **Download your world**: This will add it to your singleplayer worlds. See [Download Your Minecraft Realms World](../Manage-Realms-Settings-Worlds/Download-Your-Minecraft-Realms-World.md).
-- **Upload a world for Realm play**: See [Upload a World to a Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/Upload-a-World-to-a-Minecraft-Realm.md).
+- **Download your world**: This will add it to your singleplayer worlds. See [Download Your Minecraft Realms World](./Download-a-Realms-world-in-Minecraft-Bedrock-Edition.md).
+- **Upload a world for Realm play**: See [Upload a World to a Minecraft: Bedrock Edition Realm](./Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md).
 
 Backups:
 
-- **Download a previous version of your world**: See [Download a Realms world in Minecraft: Bedrock Edition](../Manage-Realms-Settings-Worlds/Download-Your-Minecraft-Realms-World.md).
-- **Replace your current world with a previous version**: See [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md)
+- **Download a previous version of your world**: See [Download a Realms world in Minecraft: Bedrock Edition](./Download-a-Realms-world-in-Minecraft-Bedrock-Edition.md).
+- **Replace your current world with a previous version**: See [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
 
 Resource Packs:
 
 - **Toggle resource pack requirements**: Toggle whether players are required to download resources packs.
-- **Manage resource pack Add-Ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/How-to-activate-Minecraft-Add-Ons.md) and [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disabling-Minecraft-Add-Ons.md).
+- **Manage resource pack Add-Ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/How-to-activate-Minecraft-Add-Ons.md) and [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-prevent-game-issues.md).
 
 Behavior Packs:
 
-- **Manage behavior pack add-ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/How-to-activate-Minecraft-Add-Ons.md) and [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disabling-Minecraft-Add-Ons.md).
+- **Manage behavior pack add-ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/How-to-activate-Minecraft-Add-Ons.md) and [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-prevent-game-issues.md).

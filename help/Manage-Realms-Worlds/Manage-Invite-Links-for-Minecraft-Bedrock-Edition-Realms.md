@@ -36,7 +36,7 @@ After you create a link, you can modify it in the following ways:
 
 ## Additional Minecraft Realms resources
 
-- [Moderate Your Minecraft Realm](./Moderate-Your-Minecraft-Realm.md)
-- [Manage Settings for Your Minecraft: Bedrock Edition Realm](./Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
-- [Upload Worlds onto a Minecraft Realm](./Upload-a-World-to-a-Minecraft-Realm.md)
+- [Moderate Your Minecraft Realm](../Manage-Realms-Settings/Moderate-Your-Minecraft-Realm.md)
+- [Manage Settings for Your Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings/Manage-Settings-for-Your-Minecraft-Bedrock-Edition-Realm.md)
+- [Upload Worlds onto a Minecraft Realm](./Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md)
 - [Create a Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Create-a-Minecraft-Bedrock-Edition-Realm.md)

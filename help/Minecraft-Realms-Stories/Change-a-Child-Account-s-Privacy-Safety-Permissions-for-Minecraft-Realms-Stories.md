@@ -4,6 +4,7 @@ date: 2023-10-25T20:06:23Z
 updated: 2025-03-20T16:41:04Z
 categories: Minecraft Realms Stories
 tags:
+  - section_15463792344973
   - section_27194076935437
   - section_ 12618443219469
 link: https://help.minecraft.net/hc/en-us/articles/20720109328269-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories
@@ -13,7 +14,7 @@ hash:
   h_01JPB02NGY6MW421YCBHR5CTQN: adjust-account-settings-using-the-xbox-family-settings-app
 ---
 
-You can change Privacy & Safety permissions to manage access to Minecraft Realms and Realms Stories features. If you want to know more about safety while playing Minecraft Realms, see [Minecraft Realms Safety](../Create-or-Join-Realms/Minecraft-Realms-Safety.md).
+You can change Privacy & Safety permissions to manage access to Minecraft Realms and Realms Stories features. If you want to know more about safety while playing Minecraft Realms, see [Minecraft Realms Safety](../Manage-Realms-Settings/Minecraft-Realms-Safety.md).
 
 Minecraft uses Microsoft account and Xbox features to enable parental control. You can use the Xbox website and app to manage access to Minecraft social features even if you do not own an Xbox. Most features are enabled by default on adult accounts but feature access can be managed on any account type.
 

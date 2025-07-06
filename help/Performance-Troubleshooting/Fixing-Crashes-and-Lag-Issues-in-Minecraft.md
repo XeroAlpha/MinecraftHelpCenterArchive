@@ -43,6 +43,6 @@ If you’re experiencing crashes or lag in Minecraft, here are some device, inte
 
 - **Update Minecraft:** Make sure you're using the latest release of the game for your gaming device.
 - **Shut down and restart:** Sign out of Minecraft, then shut down and restart your gaming device.
-- **Disable add-ons or mods:** Running multiple enhancements may cause conflicts. Try disabling and re-adding add-ons or modification one at a time to see if that improves performance. See [Disabling Minecraft Add-Ons](../Managing-Marketplace-Content/Disabling-Minecraft-Add-Ons.md).
+- **Disable add-ons or mods:** Running multiple enhancements may cause conflicts. Try disabling and re-adding add-ons or modification one at a time to see if that improves performance. See [Disabling Minecraft Add-Ons](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-prevent-game-issues.md).
 - **Adjust video settings**: Advanced video features require more processing power and memory. See [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) or [Optimizing Minecraft: Java Edition Video Settings and Performance](./Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md) for tips.
 - **Uninstall and reinstall:** If other tips aren’t working, you can always start with a fresh installation of Minecraft. Make sure that you [back up your Worlds and save data](https://help.minecraft.net/hc/en-us/sections/27166561402125) first.

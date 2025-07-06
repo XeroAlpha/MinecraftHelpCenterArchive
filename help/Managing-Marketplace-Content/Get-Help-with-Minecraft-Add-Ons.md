@@ -80,7 +80,7 @@ If you’ve found an issue with Minecraft: Bedrock Edition that you’d like to 
 
 [How to activate Minecraft Add-Ons](./How-to-activate-Minecraft-Add-Ons.md)
 
-[Disabling Minecraft Add-Ons](./Disabling-Minecraft-Add-Ons.md)
+[Disabling Minecraft Add-Ons](./Disable-Minecraft-Add-Ons-to-prevent-game-issues.md)
 
 [Who to Contact with your Minecraft Support Questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md)
 

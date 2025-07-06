@@ -21,6 +21,6 @@ The world will be downloaded and added to your Worlds tab and can also be copied
 
 **Additional Backup and Restore Resources**
 
-- [Download a Realms world in Minecraft: Java Edition](../Manage-Realms-Worlds/Download-a-Realms-world-in-Minecraft-Java-Edition.md)
+- [Download a Realms world in Minecraft: Java Edition](./Download-a-Realms-world-in-Minecraft-Java-Edition.md)
 - [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [Upload a World to a Minecraft: Bedrock Edition Realm](./Upload-a-World-to-a-Minecraft-Realm.md)
+- [Upload a World to a Minecraft: Bedrock Edition Realm](./Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md)

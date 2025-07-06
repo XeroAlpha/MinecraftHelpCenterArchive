@@ -10,7 +10,7 @@ hash:
   h_01JZ986G1F2M8F7CT6VF2Q2YPD: how-to-upload-a-world-to-a-minecraft-java-edition-realm
 ---
 
-*For Minecraft: Bedrock Edition, see* [*Upload a World to a Minecraft: Bedrock Edition Realm*](../Manage-Realms-Settings-Worlds/Upload-a-World-to-a-Minecraft-Realm.md)
+*For Minecraft: Bedrock Edition, see* [*Upload a World to a Minecraft: Bedrock Edition Realm*](./Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md)
 
 If you don’t want to start a new world on your Minecraft Realm, here’s how to upload one you already created.
 

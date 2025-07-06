@@ -2,7 +2,7 @@
 title: "How to Turn Off the Minecraft: Java Edition Realms Profanity Filter"
 date: 2022-05-11T16:53:37Z
 updated: 2025-02-26T01:17:36Z
-categories: Manage Realms Settings & Worlds
+categories: Manage Realms Settings
 tags:
   - title_minecraft_java_edition
   - title_minecraft

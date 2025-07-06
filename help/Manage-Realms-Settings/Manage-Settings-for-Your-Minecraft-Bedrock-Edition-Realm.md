@@ -23,7 +23,7 @@ hash:
   h_01JZ971RFHHRPZDWKDCH4JMVR7: manage-realm-options
 ---
 
-*For Minecraft: Java Edition, see [Manage Your Minecraft: Java Edition Realm](./Manage-Your-Minecraft-Java-Edition-Realm.md).*
+*For Minecraft: Java Edition, see [Manage Your Minecraft: Java Edition Realm](./Manage-Settings-for-Your-Minecraft-Java-Edition-Realm.md).*
 
 Minecraft: Bedrock Edition Realm owners can change the change the Realm name and description, decide how recipes are unlocked, and manage player settings through the Realms menu. Here’s how to access your Realm’s settings.
 
@@ -56,11 +56,11 @@ Subscription:
 
 Invite Links:
 
-- **Add or manage invite links**: See [Manage Invite Links for Minecraft: Bedrock Edition Realms](./Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md).
+- **Add or manage invite links**: See [Manage Invite Links for Minecraft: Bedrock Edition Realms](../Manage-Realms-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md).
 
 Advanced:
 
-- Choose your Realm server location: [Set your Realm server region preference](../Create-or-Join-Realms/Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference.md).
+- Choose your Realm server location: [Set your Realm server region preference](./Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference.md).
 
  
 

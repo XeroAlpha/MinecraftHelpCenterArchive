@@ -26,7 +26,7 @@ Locate your platform in the list below for installation instructions for Minecra
 
 ### Android
 
-**Note:** Minecraft Beta on Android will replace your normal Minecraft client. Be sure to [back up](../Manage-Realms-Settings-Worlds/Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm.md) or [transfer your worlds](../Backup-Restore/Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) to another device!
+**Note:** Minecraft Beta on Android will replace your normal Minecraft client. Be sure to [back up](../Manage-Realms-Worlds/Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md) or [transfer your worlds](../Backup-Restore/Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) to another device!
 
 1.  Start the Google Play Store app.
 2.  Enter the Minecraft page.

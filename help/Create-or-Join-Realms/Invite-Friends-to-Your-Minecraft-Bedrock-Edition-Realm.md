@@ -36,11 +36,11 @@ After you [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedr
 5.  Select **Find friends** to search using a gamertag if a friend isn’t listed.
 6.  Select the **Invite button** next to names on your Friends list.
 
-To invite multiple players via email or messaging, generate and activate an [Invite Link](../Manage-Realms-Settings-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md) from the Invite Links tab.
+To invite multiple players via email or messaging, generate and activate an [Invite Link](../Manage-Realms-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md) from the Invite Links tab.
 
 ## Additional Minecraft Realms Resources
 
-- [Moderate Your Minecraft Realm](../Manage-Realms-Settings-Worlds/Moderate-Your-Minecraft-Realm.md)
-- [Manage Your Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings-Worlds/Manage-Your-Minecraft-Bedrock-Edition-Realm.md)
-- [Upload Worlds onto a Minecraft Realm](../Manage-Realms-Settings-Worlds/Upload-a-World-to-a-Minecraft-Realm.md)
+- [Moderate Your Minecraft Realm](../Manage-Realms-Settings/Moderate-Your-Minecraft-Realm.md)
+- [Manage Your Minecraft: Bedrock Edition Realm](../Manage-Realms-Settings/Manage-Settings-for-Your-Minecraft-Bedrock-Edition-Realm.md)
+- [Upload Worlds onto a Minecraft Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md)
 - [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md)
