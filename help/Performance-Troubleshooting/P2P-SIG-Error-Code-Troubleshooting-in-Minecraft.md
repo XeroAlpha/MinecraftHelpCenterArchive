@@ -1,9 +1,10 @@
 ---
 title: P2P/SIG Error Code Troubleshooting in Minecraft
 date: 2024-09-30T21:47:20Z
-categories: Performance & Troubleshooting
+updated: 2025-07-08T20:48:21Z
+categories: Error Code Troubleshooting
 tags:
-  - section_27166432886285
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/30688884111757-P2P-SIG-Error-Code-Troubleshooting-in-Minecraft
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "Troubleshooting launcher.dll: LoadErrorNotPresent Error in Minecraft Launcher"
 date: 2025-02-27T22:13:53Z
-updated: 2025-02-28T17:16:14Z
+updated: 2025-07-08T21:04:36Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/34617092697229-Troubleshooting-launcher-dll-LoadErrorNotPresent-Error-in-Minecraft-Launcher
 hash:
   h_01JN4QGCCFS2DDPQ3YBNASSVAT: uninstalling-the-minecraft-launcher

@@ -1,9 +1,10 @@
 ---
 title: Deep Ocean Error Code Troubleshooting in Minecraft
 date: 2024-09-30T21:42:57Z
-categories: Performance & Troubleshooting
+updated: 2025-07-08T20:47:02Z
+categories: Error Code Troubleshooting
 tags:
-  - section_27166432886285
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/30688768772749-Deep-Ocean-Error-Code-Troubleshooting-in-Minecraft
 hash:
   h_01J92DZSJDJ645EAJHGF9JVJ67: how-to-fix-deep-ocean-error-code-in-minecraft

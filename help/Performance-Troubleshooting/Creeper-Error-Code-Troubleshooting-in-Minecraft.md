@@ -1,9 +1,10 @@
 ---
 title: Creeper Error Code Troubleshooting in Minecraft
 date: 2024-09-30T21:35:32Z
-categories: Performance & Troubleshooting
+updated: 2025-07-08T20:46:53Z
+categories: Error Code Troubleshooting
 tags:
-  - section_27166432886285
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/30688562181005-Creeper-Error-Code-Troubleshooting-in-Minecraft
 hash:
   h_01J92DN72BPAGYC37HRYPR8Z00: how-to-troubleshoot-creeper-error-code-in-minecraft
