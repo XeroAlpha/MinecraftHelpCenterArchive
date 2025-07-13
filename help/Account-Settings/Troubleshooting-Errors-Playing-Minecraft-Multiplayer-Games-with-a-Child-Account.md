@@ -24,6 +24,6 @@ If you are playing Minecraft signed in with a child account and receive the erro
 
 See [Managing Multiplayer Game Access for a Child Account In Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) for more information on managing permissions for the child account.
 
-- **Error codes**: If you are getting an error code, see [Error Code Troubleshooting for Minecraft: Bedrock Edition](../Performance-Troubleshooting/Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) to look into various fixes.
+- **Error codes**: If you are getting an error code, see [Error Code Troubleshooting for Minecraft: Bedrock Edition](../Error-Code-Troubleshooting/Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) to look into various fixes.
 - **Internet connection**: If you may be encountering internet connection issues, see [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md).
 - **Multiplayer troubleshooting**: You can also see [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md) for more potential fixes.

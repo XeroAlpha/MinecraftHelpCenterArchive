@@ -5,6 +5,7 @@ updated: 2025-02-28T17:17:11Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/23432418934925-Troubleshooting-Error-0X80131500-when-trying-to-install-the-Minecraft-Launcher
 hash:
   h_01JN4PZ69PTYCVE0677MTH1ZGP: run-the-windows-troubleshooter

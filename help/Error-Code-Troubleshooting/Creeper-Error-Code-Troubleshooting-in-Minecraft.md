@@ -14,7 +14,7 @@ As much as we love the creeper in Minecraft, we know it’s not fun to get an er
 
 ## How to troubleshoot Creeper error code in Minecraft
 
-Most of the time, the Creeper error code will pop up when game services try to connect in the background and can’t sign into your Microsoft account due to a faulty or inconsistent internet connection. We recommend first testing your speeds and visiting [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) to try and find a solution.
+Most of the time, the Creeper error code will pop up when game services try to connect in the background and can’t sign into your Microsoft account due to a faulty or inconsistent internet connection. We recommend first testing your speeds and visiting [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) to try and find a solution.
 
 The Creeper error happens when you’re playing on a console with a linked Microsoft account and the game services can’t contact Xbox servers for game settings and multiplayer features. In some cases, unlinking and relinking your Microsoft account may fix the issue. Visit the articles below for steps on doing so on console:
 

@@ -2,7 +2,7 @@
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
 updated: 2025-05-21T21:37:17Z
-categories: Performance & Troubleshooting
+categories: Error Code Troubleshooting
 tags:
   - title_minecraft
   - category_technical_support
@@ -14,8 +14,8 @@ tags:
   - platform_macos
   - platform_pc
   - title_minecraft_java_bedrock_for_pc
-  - section_27166432886285
   - use_for_autoreply
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
 hash:
   h_01JGCNCPVD43R5ZGDJTXPK7MKN: general-error-code-troubleshooting
@@ -48,8 +48,8 @@ You can find troubleshooting suggestions for specific error codes below. If your
 
 - **Update your game version:** Check the settings on your game platform to make sure you’re receiving automatic updates and running the latest release. See our [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) help section for information about manually updating Minecraft. If you do apply an update, make sure to restart your device and game.
 - **Sign out and restart:** [Sign out of Minecraft](../Account-Sign-In/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md), the Microsoft store, the Xbox app and any other Minecraft services that might be running and close the programs. Then shut down and restart your game system before restarting Minecraft and signing in again.
-- **Check your internet connection:** See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions.
-- **Adjust your video settings:** Low bandwidth, limited memory, or not enough processing power can impact game performance. See [Optimizing Video Settings and Performance in Minecraft](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) for tips.
+- **Check your internet connection:** See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions.
+- **Adjust your video settings:** Low bandwidth, limited memory, or not enough processing power can impact game performance. See [Optimizing Video Settings and Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) for tips.
 - **Run the Xbox Gaming Services Repair tool (PC only): **This tool can help sort out problems with Minecraft or the Launcher after installation or an update. Use it on the [Gaming Services Repair Tool for PC page](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool).
 - **Disable add-ons:** If you are running a lot of modifications in your world, these third-party applications may not play nice with each other and other systems. You can try turning enhancements on and off. See [Disabling Minecraft Add-Ons](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-prevent-game-issues.md) for information.
 - **Wait and try again:** Temporary server outages are announced on the [PlayFab](https://status.playfab.com/) and/or [Xbox Live](https://support.xbox.com/en-US/xbox-live-status) status pages. If there is an outage, you will need to wait until it has been resolved.
@@ -64,7 +64,7 @@ Some errors are so special, we’ve given them names and their own help articles
 
 ### Cauldron: Minecraft could not reach the authentication servers or the connection has timed out. 
 
-- See [Troubleshooting Minecraft Cauldron Error](./Troubleshooting-Minecraft-Cauldron-Error.md).
+- See [Troubleshooting Minecraft Cauldron Error](./Cauldron-Error-Code-Troubleshooting-in-Minecraft.md).
 
 ### Cobblestone: You may have a ban on the account.
 

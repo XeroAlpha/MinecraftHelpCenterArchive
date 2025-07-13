@@ -2,13 +2,12 @@
 title: "Drowned Error Code Troubleshooting in Minecraft: Bedrock Edition"
 date: 2024-08-13T19:01:49Z
 updated: 2025-06-12T18:48:06Z
-categories: Performance & Troubleshooting
+categories: Error Code Troubleshooting
 tags:
   - category_account_support
   - subject_sign_in_questions
-  - section_27166432886285
-  - section_27194059750157
   - use_for_autoreply
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/29237699240717-Drowned-Error-Code-Troubleshooting-in-Minecraft-Bedrock-Edition
 hash:
   h_01J56HGS1W5Q8CGVBYKZMHNNG9: refresh-your-windowsxbox-sign-in

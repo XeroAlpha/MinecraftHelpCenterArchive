@@ -6,6 +6,7 @@ categories: Marketplace Troubleshooting
 tags:
   - section_28872896387341
   - section_31867770289293
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/12317881023501-Minecoin-Redemption-Limit-Error
 ---
 

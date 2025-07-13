@@ -5,6 +5,7 @@ updated: 2025-02-28T17:16:29Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/34616951925389-Troubleshooting-Can-t-Connect-to-Minecraft-Services-Error-After-Sign-in-on-Minecraft-Launcher
 hash:
   h_01JN4Q4XHYCVXCC4TK297W0THZ: install-missing-key-dependencies-or-applications

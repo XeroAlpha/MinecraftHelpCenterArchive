@@ -4,8 +4,8 @@ date: 2024-09-30T21:32:01Z
 updated: 2025-04-04T16:40:45Z
 categories: Minecraft Launcher Support
 tags:
-  - section_27166432886285
   - section_27166539479437
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/30688486714893-Troubleshooting-Minecraft-Launcher-License-Error-0X803F8001
 hash:
   h_01J92D3912TGVZGGAH342D91RQ: check-your-signed-in-accounts

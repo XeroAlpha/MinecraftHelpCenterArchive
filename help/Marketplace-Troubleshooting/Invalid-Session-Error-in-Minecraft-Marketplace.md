@@ -5,6 +5,7 @@ updated: 2024-08-16T22:28:39Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/24069927866381-Invalid-Session-Error-in-Minecraft-Marketplace
 ---
 

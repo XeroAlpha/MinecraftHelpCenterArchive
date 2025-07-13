@@ -22,5 +22,5 @@ Here are some tips to get things working again.
     - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
     - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
 - **Check your internet connection**: You may still be able to play Minecraft even if your internet connection is unstable. Here are some resources for connection troubleshooting:
-  - See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions.
+  - See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions.
   - Also check the [Mojang Status X page](https://x.com/MojangStatus) for any announcements of server outages.
