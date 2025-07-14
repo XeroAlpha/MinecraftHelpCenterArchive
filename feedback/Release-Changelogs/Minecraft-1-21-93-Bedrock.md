@@ -1,9 +1,9 @@
 ---
-title: Minecraft - 1.21.93 (Bedrock)
+title: Minecraft - 1.21.93/94 (Bedrock)
 date: 2025-07-03T16:56:48Z
-updated: 2025-07-03T17:03:57Z
+updated: 2025-07-14T16:06:48Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/37810171798029-Minecraft-1-21-93-Bedrock
+link: https://feedback.minecraft.net/hc/en-us/articles/37810171798029-Minecraft-1-21-93-94-Bedrock
 hash:
   user-content-bug-fixes-and-features: bug-fixes-and-features
   user-content-general: general
@@ -13,6 +13,12 @@ hash:
   user-content-technical-updates: technical-updates
   user-content-api: api
 ---
+
+**Update: **14 July 2025
+
+Another small hotfix (1.21.94) is being rolled out.
+
+- Fixed an issue that caused entities in some Marketplace packs to revert to their vanilla behaviors
 
 **Posted:** 3 July 2025
 
