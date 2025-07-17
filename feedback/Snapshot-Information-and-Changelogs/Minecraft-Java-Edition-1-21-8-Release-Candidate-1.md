@@ -1,6 +1,7 @@
 ---
 title: Minecraft Java Edition - 1.21.8 Release Candidate 1
 date: 2025-07-17T12:04:11Z
+updated: 2025-07-17T14:19:21Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -28,7 +29,7 @@ Happy Crafting!
 
 ## Get the Release Candidate
 
-Release Candidates are available for Minecraft: Java Edition. To install the Release Candidate, open up the [Minecraft Launcher](https://feedback.minecraft.net/content/minecraft-net/language-masters/download.html) and enable snapshots in the "Installations" tab.
+Release Candidates are available for Minecraft: Java Edition. To install the Release Candidate, open up the [Minecraft Launcher](https://www.minecraft.net/content/minecraft-net/language-masters/download) and enable snapshots in the "Installations" tab.
 
 **Testing versions can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
