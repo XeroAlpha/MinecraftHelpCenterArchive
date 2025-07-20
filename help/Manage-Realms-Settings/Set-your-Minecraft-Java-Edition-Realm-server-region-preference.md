@@ -2,9 +2,9 @@
 title: "Set your Minecraft: Java Edition Realm server region preference"
 date: 2025-06-23T23:51:34Z
 updated: 2025-06-24T20:14:12Z
-categories: Create or Join Realms
+categories: Manage Realms Settings
 tags:
-  - section_26104084764557
+  - section_12618497714061
 link: https://help.minecraft.net/hc/en-us/articles/37572843204365-Set-your-Minecraft-Java-Edition-Realm-server-region-preference
 hash:
   h_01JYFJZK968N07Q3R5RS7ERYXB: how-to-set-your-minecraft-java-edition-realm-server-region-preference

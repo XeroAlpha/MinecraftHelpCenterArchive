@@ -58,7 +58,7 @@ Settings tab:
 
 - **Change Realm name and description**: These are visible to anyone with a Realms invite.
 - **Temporarily Close Realm**: Close your Realm to players while making changes or troubleshooting. See [Close and Reopen Your Minecraft Realm to Solve Connection Errors](../Troubleshoot-Minecraft-Realms/Close-and-Reopen-Your-Minecraft-Realm-to-Solve-Connection-Errors.md).
-- **Select Region…**: Change your server location. See [Set your Minecraft: Java Edition Realm server region preference.](../Create-or-Join-Realms/Set-your-Minecraft-Java-Edition-Realm-server-region-preference.md)
+- **Select Region…**: Change your server location. See [Set your Minecraft: Java Edition Realm server region preference.](./Set-your-Minecraft-Java-Edition-Realm-server-region-preference.md)
 
 ## Additional Realms management resources
 

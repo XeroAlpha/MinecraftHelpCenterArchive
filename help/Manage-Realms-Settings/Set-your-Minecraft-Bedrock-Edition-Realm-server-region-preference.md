@@ -4,7 +4,7 @@ date: 2025-03-14T16:08:16Z
 updated: 2025-06-17T18:53:28Z
 categories: Manage Realms Settings
 tags:
-  - section_26104084764557
+  - section_12618497714061
 link: https://help.minecraft.net/hc/en-us/articles/35019056723341-Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference
 hash:
   h_01JXXJ3RC6VPVPPA3ZK7RHGD8F: how-to-set-your-minecraft-bedrock-edition-realm-server-region-preference
