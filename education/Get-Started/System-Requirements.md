@@ -1,7 +1,7 @@
 ---
 title: System Requirements
 date: 2020-08-10T10:57:43Z
-updated: 2024-07-23T18:42:19Z
+updated: 2025-07-22T18:12:47Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
@@ -16,9 +16,17 @@ At this time, Minecraft Education is supported on Chromebook, iPad, Mac, PC, and
 
  
 
+**Notes on upcoming changes:**
+
+**32-bit Support ending:** Support for 32-bit Windows (also called Windows x86) automatic updates is ending. All devices that support 64-bit Windows will automatically update to the 64-bit version of Minecraft Education. 32-bit Windows OS support and 32-bit Android & Chromebook OS support will be ending on or after December 31, 2025. This will not affect any devices that have a 64-bit OS. 
+
+**RAM Minimum Requirements:** Minimum and recommended memory (RAM) requirements will increase on or after December 31, 2025. 
+
+ 
+
 ## **Operating system requirements**
 
-These are the operating system (OS) that we support for Minecraft Education.
+These are the operating systems (OS) that we support for Minecraft Education.
 
 |                        |                            |
 |------------------------|----------------------------|
@@ -29,7 +37,7 @@ These are the operating system (OS) that we support for Minecraft Education.
 | Android Phone / Tablet | Android 8                  |
 | iPhone / iPad          | iOS 13 / iPadOS 13         |
 
-*\***Note**: Minecraft Education should be able to run on the minimum supported operating systems, however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*
+*\***Note**: Minecraft Education should be able to run on the minimum supported operating systems; however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*
 
  
 
@@ -37,7 +45,7 @@ These are the operating system (OS) that we support for Minecraft Education.
 
 These are the minimum and recommended hardware requirements needed to run Minecraft Education.
 
-Minimum specifications: Should allow you to participate in all common scenarios in Minecraft Education - such as library content, coding, and multiplayer - with some limitations such as low frame rates, shorter rendering distances, occasional lag, and performance issues. When hosting multiplayer session of 5 or more people you may experience significant performance issues such as lag, rubberbanding, players disconnecting, inventory not opening, etc.
+Minimum specifications: Should allow you to participate in all common scenarios in Minecraft Education - such as library content, coding, and multiplayer - with some limitations such as low frame rates, shorter rendering distances, occasional lag, and performance issues. When hosting a multiplayer session of 5 or more people you may experience significant performance issues such as lag, rubberbanding, players disconnecting, inventory not opening, etc.
 
 Recommended specifications: Should allow you to see consistent performance for all common scenarios with minimal limitations and should allow you to successfully host larger multiplayer sessions with 10 or more participants.
 
@@ -81,6 +89,8 @@ Chromebook, Mac, and Windows PC hardware requirements**
 </tr>
 </tbody>
 </table>
+
+ 
 
  
 
