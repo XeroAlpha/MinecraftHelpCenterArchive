@@ -1,7 +1,7 @@
 ---
 title: What's New in the Chase the Clouds Update v1.21.90.1
 date: 2025-07-09T20:32:21Z
-updated: 2025-07-22T18:04:05Z
+updated: 2025-07-23T16:59:49Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-90-1
 hash:
@@ -26,7 +26,7 @@ Welcome to the Chase the Clouds Update for Minecraft Education! This update incl
   - Tynker has been removed as a supported IDE.
   - Python Notebooks will be removed in the next update, no earlier than January 2026.
   - In-game notifications added to spread awareness
-  - [Learn more here](https://aka.ms/MCEDUCodingChanges%20%20)
+  - [Learn more here](https://aka.ms/MCEDUCodingChanges)
 - Read/Write file functionality with MakeCode
   - [Learn More here](http://aka.ms/CodeBuilderExtFiles)
 
