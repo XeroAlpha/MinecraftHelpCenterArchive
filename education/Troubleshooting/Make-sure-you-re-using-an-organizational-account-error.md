@@ -1,7 +1,7 @@
 ---
 title: "\"Make sure you're using an organizational account\" error."
 date: 2021-12-17T18:55:52Z
-updated: 2024-05-22T22:50:08Z
+updated: 2025-07-24T16:50:12Z
 categories: Troubleshooting
 link: https://edusupport.minecraft.net/hc/en-us/articles/4413322344852--Make-sure-you-re-using-an-organizational-account-error
 ---
@@ -51,12 +51,12 @@ This error can happen for a few different reasons.  Check out the table below f
 </ol></td>
 </tr>
 <tr>
-<td style="vertical-align: top"><p>Camps and Clubs (commercial) account not correctly configured</p></td>
+<td style="vertical-align: top"><p>Commercial account is not correctly configured</p></td>
 <td style="vertical-align: top"><ul>
-<li>If you have recently purchased a license through our Camps and Clubs program, you'll need to create users in the Admin Center and then assign purchased licenses to them.</li>
+<li>If you have recently purchased a license through our commercial subscription, you'll need to create users in the Admin Center and then assign purchased licenses to them.</li>
 <li>When you first signed in and purchased Minecraft Education licenses, right before the billing info you would have created a new "business" email with its own @domain. The email address would look like this: <a href="mailto:EmailName@DomainName.onmicrosoft.com">EmailName@DomainName.onmicrosoft.com.</a></li>
 <li>When you log into <a href="https://admin.microsoft.com/">Admin Center</a>, you should see your onmicrosoft account cached if you use the same device that you used to purchase the Minecraft Education license. If you can remember the Domain name but not the email name part, let us know.</li>
-<li>Here is the guide to purchasing and managing <a href="../Purchase-Licenses/Purchase-Commercial-Licenses.md">Camps and Clubs licenses</a> that has more details about the full process.</li>
+<li>Here is the guide to purchasing and managing <a href="../Purchase-Licenses/Purchase-Commercial-Licenses.md">commercial licenses</a> that has more details about the full process.</li>
 <li>If you're able to log into the admin center, this guide covers <a href="../Administration-and-License-Management/Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations.md">creating accounts and assigning licenses in the admin center</a>.</li>
 </ul></td>
 </tr>

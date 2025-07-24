@@ -1,16 +1,16 @@
 ---
 title: Manage Licenses for Camps, Clubs, Homeschool and Other Organizations
 date: 2021-05-25T14:36:04Z
-updated: 2023-01-24T21:40:59Z
+updated: 2025-07-24T16:53:10Z
 categories: Administration and License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061370372-Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations
 hash:
-  view-available-licenses: viewavailablelicenses
-  assign-a-license---individual-licenses: assign-alicense---individual-licenses
-  unassign-a-license---individual-licenses: unassignalicense---individual-licenses
+  h_01K0WFYJ2TKBN0ZSAJCBCE2RJS: viewavailablelicenses
+  h_01K0WFYJ2YXCHKKXVCNNG9845K: assign-alicense---individual-licenses
+  h_01K0WFYJ35M05EKGGEBNYJ4PSG: unassignalicense---individual-licenses
 ---
 
-The Microsoft 365 Admin Center is where you manage individual licenses that you purchased through our Camps and Clubs program. 
+The Microsoft 365 Admin Center is where you manage individual licenses that you purchased through our Commercial subscription. 
 
 *Note: If you are not sure which type of license you have, [contact our support team](https://aka.ms/MEE_New_Request) and we'll help you out!*
 

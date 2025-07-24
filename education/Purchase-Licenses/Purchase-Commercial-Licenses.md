@@ -1,7 +1,7 @@
 ---
 title: Purchase Commercial Licenses
 date: 2021-05-25T14:26:26Z
-updated: 2024-12-23T19:46:49Z
+updated: 2025-07-24T16:50:06Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
 hash:
@@ -17,6 +17,10 @@ hash:
   h_01FC3MVAZGZ616N5KQN00PRRX2: purchase-additional-licenses
   h_01HDM1YGRDPYGXPQM102C8SWXP: change-technical-contact-email
 ---
+
+**Note: **Minecraft Education Commercial licenses are not available for purchase at this time, due to backend changes. The ability to purchase will resume on September 2nd. 
+
+ 
 
 Anyone can purchase commercial licenses of Minecraft Education – including camps, clubs, parents, homeschools and other organizations. To purchase licenses, you need to have a Microsoft 365 Admin Center account. If you do not have a Microsoft 365 Admin Center account, you can set one up for free in the purchase flow below. This article provides information on how to: 
 
