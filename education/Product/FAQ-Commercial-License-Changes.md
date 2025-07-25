@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Commercial License Changes"
 date: 2025-06-23T20:45:59Z
-updated: 2025-07-24T16:50:34Z
+updated: 2025-07-25T15:43:32Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/38684236168980-FAQ-Commercial-License-Changes
 hash:
@@ -20,7 +20,9 @@ We are adjusting the price of the Minecraft Education commercial licensing offer
 
 The subscription price increase is necessary to support the development of features for Minecraft Education that meet the evolving needs of our customers, and to align our pricing with Microsoft's general pricing policy. The new price also aligns with Minecraft’s other product offerings, ensuring a consistent and fair pricing strategy across all products.
 
-Over the years, we have continually added new product features and content, significantly increasing the value of our offerings. These include the ability to upload and save worlds on OneDrive, availability on Chromebooks and mobile devices, advancements to the camera, chemistry, and coding features, more than 50 new worlds and curriculum created with expert partners, and esports programs. Minecraft Education releases biannual product updates that continue to add value year over year.
+Over the years, we have continually added new product features and content, significantly increasing the value of our offerings. These include the ability to upload and save worlds on OneDrive\*, availability on Chromebooks and mobile devices, advancements to the camera, chemistry, and coding features, more than 50 new worlds and curriculum created with expert partners, and esports programs. Minecraft Education releases biannual product updates that continue to add value year over year.
+
+\*Cloud save is available to all customers who meet the requirements listed in the [Cloud Upload and Download – Minecraft Education](../Game-Features/Cloud-Upload-and-Download.md "https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-cloud-upload-and-download") article.
 
 ## How do I disable auto renew?
 
