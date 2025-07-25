@@ -1,7 +1,7 @@
 ---
 title: Code Builder in Minecraft Education
 date: 2020-08-10T08:56:45Z
-updated: 2023-11-08T22:39:05Z
+updated: 2025-07-24T21:44:27Z
 categories: Teaching With Minecraft
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047116992-Code-Builder-in-Minecraft-Education
 ---
@@ -22,6 +22,7 @@ The Minecraft Education Code Builder allows players to code inside the game!  P
 
 **Additional Notes**
 
+- Most Agent commands require Operator permissions, specifically the ones that have the Agent perform anything that could be considered a /command or a "cheat" (e.g. Spawning creatures or placing blocks not in the Agent's inventory).
 - MakeCode users need to be sure and export and save their project files. When the browser clears it's cache the files will be removed
 - Code.org and Scratch will not be present for the in-game Code Builder. 
 - "/code" no longer works
