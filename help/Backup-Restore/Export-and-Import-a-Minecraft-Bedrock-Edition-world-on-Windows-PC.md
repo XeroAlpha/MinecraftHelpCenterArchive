@@ -1,11 +1,11 @@
 ---
-title: "Export and Import a Minecraft: Bedrock Edition world on Windows PC"
+title: "Export and Import a Minecraft: Bedrock Edition World on Windows PC"
 date: 2025-06-25T22:47:35Z
-updated: 2025-06-26T16:22:03Z
+updated: 2025-07-31T21:38:51Z
 categories: Backup & Restore
 tags:
   - section_27166561402125
-link: https://help.minecraft.net/hc/en-us/articles/37628595010829-Export-and-Import-a-Minecraft-Bedrock-Edition-world-on-Windows-PC
+link: https://help.minecraft.net/hc/en-us/articles/37628595010829-Export-and-Import-a-Minecraft-Bedrock-Edition-World-on-Windows-PC
 hash:
   h_01JYMM7B0D93744K1WFGNM3JSH: export-a-minecraft-bedrock-world-on-a-windows-pc
   h_01JYMM7B0J80Q6CYJTP012G3V7: import-a-minecraft-bedrock-world-on-a-windows-pc
