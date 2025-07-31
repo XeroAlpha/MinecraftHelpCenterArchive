@@ -1,11 +1,11 @@
 ---
-title: Change or edit your Minecraft Java Edition Realm World
+title: Change or Edit Your Minecraft Java Edition Realm World
 date: 2025-07-03T23:13:18Z
-updated: 2025-07-03T23:14:13Z
+updated: 2025-07-31T18:53:21Z
 categories: Manage Realms Worlds
 tags:
   - section_37819421372941
-link: https://help.minecraft.net/hc/en-us/articles/37820558331277-Change-or-edit-your-Minecraft-Java-Edition-Realm-World
+link: https://help.minecraft.net/hc/en-us/articles/37820558331277-Change-or-Edit-Your-Minecraft-Java-Edition-Realm-World
 hash:
   h_01JZ98YHWDXVRPM0C6A5801KA6: access-the-edit-world-menu-in-minecraft-java-edition
   h_01JZ98YHWHBRSW1F7YY77ZQV4N: world-options
