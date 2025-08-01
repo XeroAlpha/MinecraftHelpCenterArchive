@@ -1,7 +1,7 @@
 ---
-title: "Play Minecraft: Bedrock Edition split-screen"
+title: "Play Minecraft: Bedrock Edition Split-Screen"
 date: 2025-06-04T01:58:13Z
-updated: 2025-06-04T18:45:51Z
+updated: 2025-07-31T23:36:41Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -15,7 +15,7 @@ tags:
   - section_27166460834061
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/37122759127821-Play-Minecraft-Bedrock-Edition-split-screen
+link: https://help.minecraft.net/hc/en-us/articles/37122759127821-Play-Minecraft-Bedrock-Edition-Split-Screen
 hash:
   h_01JWWABMF9VG7W8EQ8F48JD2A7: how-to-play-minecraft-bedrock-edition-in-split-screen-mode
 ---
