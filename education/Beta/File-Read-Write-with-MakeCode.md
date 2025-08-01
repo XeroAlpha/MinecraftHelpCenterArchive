@@ -1,8 +1,8 @@
 ---
 title: File Read/Write with MakeCode
 date: 2025-06-16T21:45:53Z
-updated: 2025-06-26T23:06:34Z
-categories: Beta
+updated: 2025-08-01T19:07:49Z
+categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/38490275582100-File-Read-Write-with-MakeCode
 hash:
   h_01JXXAX81TPXTVEHQZMB7CBDWC: ""
@@ -11,7 +11,7 @@ hash:
   h_01JXXAX82H5DK3HB5399AYKD8B: troubleshooting-download--sync-errors
 ---
 
-Soon, users coding with MakeCode in Minecraft Education can read and write files locally. Students can learn programming input/output concepts in Minecraft using .txt and .csv filetypes. Currently this feature can be tested in the Preview, only on Windows and Mac.
+Users coding with MakeCode in Minecraft Education can now read and write files locally. Students can learn programming input/output concepts in Minecraft using .txt and .csv filetypes. Currently this feature can be used only on Windows and Mac.
 
 This new coding feature supports a much-requested computer science curriculum need. Now you can get even more creative with your code in Minecraft!
 
@@ -56,11 +56,7 @@ Add the “File” extension to your project to easily navigate to a folder on y
 
 To add the Extension, click on “Extensions,” then in the Search box, enter “File.” Select the File Read & Write extension.
 
-<figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-block-start">
-<img src="https://edusupport.minecraft.net/hc/article_attachments/38678099997716" />
-</figure>
-
- 
+![](https://edusupport.minecraft.net/hc/article_attachments/39878374998164)
 
 File Picker:
 
