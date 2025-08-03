@@ -30,4 +30,4 @@ To restore a manual backup, see [Upload a World to a Minecraft: Bedrock Edition 
 ## Additional Backup and Restore Resources
 
 - [How Mojang Saves Backups of Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [Download a Realms world in Minecraft: Bedrock Edition](./Download-a-Realms-world-in-Minecraft-Bedrock-Edition.md)
+- [Download a Realms world in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)

@@ -39,7 +39,7 @@ Here are options you can change and articles with more details.
 Worlds tab:
 
 - **Change your active world slot**: The active world has the biggest portrait. Select another one to switch.
-- **World options**: See [Change or edit your Minecraft Java Edition Realm World](../Manage-Realms-Worlds/Change-or-edit-your-Minecraft-Java-Edition-Realm-World.md)
+- **World options**: See [Change or edit your Minecraft Java Edition Realm World](../Manage-Realms-Worlds/Change-or-Edit-Your-Minecraft-Java-Edition-Realm-World.md)
 - **World Backups**: Manage your automatic world saves. See [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm-World.md) and [Download a Realms world in Minecraft: Java Edition](../Manage-Realms-Worlds/Download-a-Realms-world-in-Minecraft-Java-Edition.md).
 - **Reset World**: Overwrite the current world with a new or existing one. See [Upload a World to a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md).
 
@@ -58,7 +58,7 @@ Settings tab:
 
 - **Change Realm name and description**: These are visible to anyone with a Realms invite.
 - **Temporarily Close Realm**: Close your Realm to players while making changes or troubleshooting. See [Close and Reopen Your Minecraft Realm to Solve Connection Errors](../Troubleshoot-Minecraft-Realms/Close-and-Reopen-Your-Minecraft-Realm-to-Solve-Connection-Errors.md).
-- **Select Region…**: Change your server location. See [Set your Minecraft: Java Edition Realm server region preference.](./Set-your-Minecraft-Java-Edition-Realm-server-region-preference.md)
+- **Select Region…**: Change your server location. See [Set your Minecraft: Java Edition Realm server region preference.](./Set-Your-Minecraft-Java-Edition-Realm-Server-Region-Preference.md)
 
 ## Additional Realms management resources
 

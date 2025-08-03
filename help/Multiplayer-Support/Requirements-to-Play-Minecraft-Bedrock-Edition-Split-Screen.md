@@ -22,7 +22,7 @@ hash:
   h_01JWWARQ7KS7VNGVBTJB0Z03EX: xbox-one-and-xbox-series-xs-split-screen-requirements
 ---
 
-You can share a console and [Play Minecraft: Bedrock Edition split-screen](./Play-Minecraft-Bedrock-Edition-split-screen.md) if you and your friend(s) are in the same location and each have a controller. Other requirements are platform specific and listed below.
+You can share a console and [Play Minecraft: Bedrock Edition split-screen](./Play-Minecraft-Bedrock-Edition-Split-Screen.md) if you and your friend(s) are in the same location and each have a controller. Other requirements are platform specific and listed below.
 
 ## Nintendo Switch split-screen requirements
 

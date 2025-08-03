@@ -2,7 +2,7 @@
 title: Can I Buy or Sell Minecraft Accounts?
 date: 2020-05-05T19:43:54Z
 updated: 2024-07-31T23:41:09Z
-categories: Account Sign-In
+categories: Account Sign-in
 tags:
   - section_27194059750157
   - section_28871651550221

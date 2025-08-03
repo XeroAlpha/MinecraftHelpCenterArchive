@@ -2,7 +2,7 @@
 title: iOS 14 Sign-In Issue with Minecraft
 date: 2024-03-05T20:26:11Z
 updated: 2024-05-31T21:33:06Z
-categories: Account Sign-In
+categories: Account Sign-in
 tags:
   - title_minecraft
   - category_technical_support

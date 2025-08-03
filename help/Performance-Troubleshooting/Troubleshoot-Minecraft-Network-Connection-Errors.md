@@ -16,7 +16,7 @@ Internet connection errors are frustrating to deal with in any game. In Minecraf
 ## Game Device Troubleshooting
 
 - **Restart your system:** Before trying more advanced troubleshooting steps, it is always a good idea to reset all your hardware and software:
-  1.  **Sign out and close programs:** [Sign out of Minecraft](../Account-Sign-In/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md), the Microsoft store, the Xbox app and any other Minecraft services that might be running and close the programs.
+  1.  **Sign out and close programs:** [Sign out of Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md), the Microsoft store, the Xbox app and any other Minecraft services that might be running and close the programs.
   2.  **Shut down your game system:** Completely shut down your computer, mobile device, or game console.
   3.  **Restart your Internet connection:** Turn off your router and modem, wait 20 seconds for power to cycle off, and restart your device.
   4.  **Restart your game:** Restart your gaming device, connect to the internet, restart Minecraft and sign in with your Microsoft account.

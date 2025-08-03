@@ -2,7 +2,7 @@
 title: Get Help Signing into Minecraft with Your Microsoft Account
 date: 2019-06-27T20:41:11Z
 updated: 2025-03-27T23:37:06Z
-categories: Account Sign-In
+categories: Account Sign-in
 tags:
   - title_minecraft_java_edition
   - title_minecraft

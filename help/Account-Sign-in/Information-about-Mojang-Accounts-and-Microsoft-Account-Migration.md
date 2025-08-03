@@ -2,7 +2,7 @@
 title: Information about Mojang Accounts and Microsoft Account Migration
 date: 2023-09-19T14:29:08Z
 updated: 2025-04-04T16:54:03Z
-categories: Account Sign-In
+categories: Account Sign-in
 tags:
   - title_minecraft_java_edition
   - title_minecraft

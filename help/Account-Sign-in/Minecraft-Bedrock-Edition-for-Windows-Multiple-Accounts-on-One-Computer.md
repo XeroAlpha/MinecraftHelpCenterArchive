@@ -2,7 +2,7 @@
 title: "Minecraft: Bedrock Edition for Windows - Multiple Accounts on One Computer"
 date: 2021-09-28T23:14:40Z
 updated: 2023-12-20T18:34:38Z
-categories: Account Sign-In
+categories: Account Sign-in
 tags:
   - section_12617594906509
   - section_27194059750157

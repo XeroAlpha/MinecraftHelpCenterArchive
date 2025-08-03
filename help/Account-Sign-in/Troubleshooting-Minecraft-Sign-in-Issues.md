@@ -2,7 +2,7 @@
 title: Troubleshooting Minecraft Sign-in Issues
 date: 2024-05-31T20:18:34Z
 updated: 2025-06-12T18:41:15Z
-categories: Account Sign-In
+categories: Account Sign-in
 tags:
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/27201635294861-Troubleshooting-Minecraft-Sign-in-Issues

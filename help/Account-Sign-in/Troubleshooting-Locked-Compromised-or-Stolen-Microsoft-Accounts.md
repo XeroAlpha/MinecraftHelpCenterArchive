@@ -2,7 +2,7 @@
 title: Troubleshooting Locked, Compromised or Stolen Microsoft Accounts
 date: 2024-05-31T20:42:40Z
 updated: 2024-08-14T18:22:54Z
-categories: Account Sign-In
+categories: Account Sign-in
 tags:
   - title_minecraft_java_edition
   - title_minecraft
