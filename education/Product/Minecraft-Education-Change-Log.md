@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-07-22T18:13:22Z
+updated: 2025-08-06T17:32:53Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
@@ -58,19 +58,19 @@ Minecraft Education periodically releases updates to our game and companion apps
 
 ## Minecraft Education Game Client Update (version 1.21.90.1) - Released 7/22/25
 
-- - Minecraft: Bedrock Edition Updates from 1.21.1 - 1.21.9 which includes:
-    - The Garden Awakens update
-    - Spring to Life update
-    - Chase the Skies Update
-  - Spectator Mode
-  - Code Builder IDE Changes - [Learn More](https://aka.ms/MCEDUCodingChanges)
-    - Tynker has been removed as a supported IDE
-    - Python Notebooks will be removed in the next update, no earlier than January 2026
-  - Read/Write file functionality with MakeCode - [Learn More](http://aka.ms/CodeBuilderExtFiles)
-  - Improved UI for Create and Edit World
-  - Cloud Storage Improvements
-  - Multiplayer & Coding Improvements
-  - Improved client stability & bug fixes
+- Minecraft: Bedrock Edition Updates from 1.21.1 - 1.21.9 which includes:
+  - The Garden Awakens update
+  - Spring to Life update
+  - Chase the Skies Update
+- Spectator Mode
+- Code Builder IDE Changes - [Learn More](https://aka.ms/MCEDUCodingChanges)
+  - Tynker has been removed as a supported IDE
+  - Python Notebooks will be removed in the next update, no earlier than January 2026
+- Read/Write file functionality with MakeCode - [Learn More](http://aka.ms/CodeBuilderExtFiles)
+- Improved UI for Create and Edit World
+- Cloud Storage Improvements
+- Multiplayer & Coding Improvements
+- Improved client stability & bug fixes
 
 ##  
 
