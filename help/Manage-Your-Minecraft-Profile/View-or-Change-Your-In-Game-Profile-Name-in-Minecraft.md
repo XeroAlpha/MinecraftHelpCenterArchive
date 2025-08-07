@@ -1,7 +1,7 @@
 ---
 title: View or Change Your In-Game Profile Name in Minecraft
 date: 2021-09-10T21:08:08Z
-updated: 2025-04-23T20:54:26Z
+updated: 2025-08-07T20:30:25Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
@@ -23,37 +23,46 @@ tags:
   - section_35377640016525
 link: https://help.minecraft.net/hc/en-us/articles/4408950195341-View-or-Change-Your-In-Game-Profile-Name-in-Minecraft
 hash:
-  h_01GE5JWG2HCPKHCV3R7T7DMXQR: minecraft-bedrock-edition-gamertag
-  h_01GE5JWN8T888EHWSWTXJ7BEXH: minecraft-java-edition-java-profile-name
-  h_01GE5JX1Z0CZ833A7S54Y195KV: minecraft-for-nintendo-switch-account-nickname
+  h_01GE5JWG2HCPKHCV3R7T7DMXQR: change-your-minecraft-bedrock-edition-gamertag
+  01K20QHWAJ43QAE3HTD3GMCW8F: change-your-gamertag-online
+  01K20QC1M0SPKD9HZZ2J8DY489: change-gamertag-on-xbox
+  h_01GE5JWN8T888EHWSWTXJ7BEXH: change-your-minecraft-java-edition-profile-name
+  h_01GE5JX1Z0CZ833A7S54Y195KV: change-your-nintendo-switch-nickname-for-minecraft
 ---
 
 Your character name that displays in-game is associated with the version of Minecraft you play or the game console you use.
 
-## Minecraft: Bedrock Edition Gamertag
+## Change your Minecraft: Bedrock Edition gamertag
 
-Your in-game name is the Gamertag associated with your Xbox account. Here’s how to update it:
+When playing Minecraft: Bedrock Edition using a Microsoft account, your in-game character name is the [gamertag](https://support.xbox.com/en-US/help/account-profile/profile/change-xbox-live-gamertag) associated with your Xbox/Microsoft account.
 
-1.  Go to the [Change Xbox Gamertag](https://social.xbox.com/changegamertag) page.
-2.  View your exiting gamertag or enter a new gamertag.
-3.  Click on **Check Availability** and follow the on-screen instructions if changing your gamertag.
+### Change your Gamertag online
 
-## Minecraft: Java Edition Java Profile Name
+1.  Visit [Xbox.com](https://www.xbox.com/) and sign in with your Microsoft account.
+2.  Select **My Account** to view your Xbox profile.
+3.  Select the pencil icon next to your Gamertag to make changes.
 
-Your in-game name is your Java profile name and not your Gamertag (although, they can be the same). The only time you will see your Minecraft Java profile name is in-game and in your Minecraft account settings. You can view or update it by following these steps:
+### Change Gamertag on Xbox
 
-1.  Visit [All Games](https://www.minecraft.net/en-us/login) on Minecraft.net and sign in with your Microsoft account.
+1.  Press the **Xbox **button on your controller and select **Profile & system** from the guide.
+2.  Select your Xbox profile (or select **Choose a profile** and sign in to your account).
+3.  Select **My profile **\> **Customize profile**, and then select your current gamertag.
+
+## Change your Minecraft: Java Edition profile name
+
+When playing Minecraft: Java Edition, your in-game character name is your Java profile name and not your gamertag (although, they can be the same). 
+
+1.  Visit [All Games](https://www.minecraft.net/en-us/msaprofile) on Minecraft.net and sign in with your Microsoft account. 
 2.  Under Minecraft: Java Edition, select **Change Profile Name**.
-3.  View your existing profile name or enter a new name and click the **Change Your Profile Name** button.
-4.  [Sign out of Minecraft completely](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) and then sign back in to refresh your profile's authentication and connection with our servers if you changed your name.
+3.  Enter your new profile name and select **Change Your Profile Name** to finalize the change. 
 
 **Note:** You can change your Java profile name once every 30 days. If you change your mind after changing your Java profile name, you can go back to your old name after waiting 30 days.
 
-## Minecraft for Nintendo Switch account nickname
+## Change your Nintendo Switch nickname for Minecraft
 
 Your in-game name for Minecraft is displayed as your Nintendo account nickname. Visit [Nintendo Support](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63086/~/how-to-change-nintendo-account-nickname) to change your nickname, or follow these steps directly on your Switch:
 
 1.  Start your Switch.
 2.  Select your profile page in the top left corner.
-3.  Go to **Profile** tab.
-4.  Select the **pencil icon** next to the name to change it.
+3.  Go to the **Profile** tab.
+4.  Select the **pencil icon** next to your profile name to change it.
