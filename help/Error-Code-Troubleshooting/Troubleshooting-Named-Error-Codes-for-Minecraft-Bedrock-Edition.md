@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Named Error Codes for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-08-04T22:51:35Z
+updated: 2025-08-06T22:40:03Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -64,7 +64,6 @@ hash:
   h_01K1TWPP0KR90E8M84NV04MJGA: lead
   h_01K1VKT7M7839X6NY75X000Q52: nethernet
   h_01K1TWPP0KCAGP62TQF2FKWSRG: panda
-  h_01K1TWPP0MBHCFHQYJVT8FJ270: p2psig-no_session0x80004005
   h_01K1TWPP0NAZ14HGZZFK4QH861: piglin
   h_01K1TWPP0NE2V1NVKWGQABWYFS: pufferfish
   h_01K1VKV5T537XCQN8PCDRGV89C: rabbit
@@ -245,11 +244,6 @@ We’ve given some error codes special names to help point you in the right dire
 
 - **What it means**: A local server couldn’t be found.
 - **How to troubleshoot**: See [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Performance-Troubleshooting/Troubleshoot-LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows.md) and [Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
-
-### P2P/SIG: no_session(0x80004005)
-
-- **What it means**: There was an issue when trying to connect to a friend’s world.
-- **How to troubleshoot**: See [P2P/SIG Error Code Troubleshooting in Minecraft](./P2P-SIG-Error-Code-Troubleshooting-in-Minecraft.md).
 
 ### Piglin
 
