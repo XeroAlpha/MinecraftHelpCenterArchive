@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Minecraft Realms Connection Errors
 date: 2021-09-30T21:40:55Z
-updated: 2025-05-01T14:16:59Z
+updated: 2025-08-08T16:45:08Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft_java_edition
@@ -25,6 +25,7 @@ link: https://help.minecraft.net/hc/en-us/articles/4410376128013-Troubleshoot-Mi
 
 If you are unable to join or connect to a Minecraft Realm, verify that the Realm is active, your device is supported, and you have the necessary subscriptions for online play. Try these troubleshooting steps:
 
+- **Sign out and restart**: [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) and then shut down and restart your game system before restarting Minecraft and signing in again. If you’re playing on a Windows computer, you can also sign out of Microsoft store, the Xbox app, and any other Minecraft services that might be running and close those programs.
 - **Update to the latest Minecraft version:** Realms is not supported on some older versions of Minecraft. See our [Download & Install section](https://help.minecraft.net/hc/en-us/sections/27166490706957) for help manually updating your version of Minecraft.
 - **Verify your device is supported:** Realms is not supported on all devices and platforms. See [Upcoming OS Sunset Announcements in Minecraft](../Performance-Troubleshooting/Operating-System-Sunset-Announcements-for-Minecraft.md).
 - **Verify your online service subscription (console only):** An active [Xbox Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass), [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/), or [PlayStation Plus subscription](https://www.playstation.com/en-us/ps-plus/) is required for online play. Game platform service outages or lapsed subscriptions can affect your ability to connect to Minecraft.
