@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Named Error Codes for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-08-06T22:40:03Z
+updated: 2025-08-08T17:16:35Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -52,8 +52,8 @@ hash:
   h_01K1TWPP087G079GRB6KAP54JK: feather
   h_01K1TWPP09N0NYHCSB6500DGS3: fox
   h_01K1TWPP0BA0Q99GMZ4NSRN75N: ghast
-  h_01K1TWPP0EFV60G3SM0CYS2MC7: goat
   h_01K1TWPP0FACNRSDXNS4V5G8BB: glowstone
+  h_01K1TWPP0EFV60G3SM0CYS2MC7: goat
   h_01K1TWPP0FXEFBZ1T8GVMW3J5X: gold
   h_01K1TWPP0G7680A17RD56DTRJT: guardian
   h_01K1TWPP0GZTZX3CS96X0JPKK4: haybale
@@ -185,15 +185,15 @@ We’ve given some error codes special names to help point you in the right dire
   - **Sign out of Minecraft**: See [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) for instructions.
   - **Clear account credentials (Nintendo Switch only)**: You should also select the **Clear Account Credentials** under Settings \> Profile.
 
-### Goat
-
-- **What it means**: The world you were in/trying to join is no longer available. This can happen if the hosting player quit the game.
-- **How to troubleshoot**: Check with the hosting player to make sure they’re still in game. See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for more troubleshooting.
-
 ### Glowstone
 
 - **What it means**: There was an issue during the sign-in process.
 - **How to troubleshoot**: See [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) for instructions to sign out and back in. You may also want to check [PlayFab](https://status.playfab.com/) and [Xbox Live](https://support.xbox.com/en-US/xbox-live-status) for service issues.
+
+### Goat
+
+- **What it means**: The world you were in/trying to join is no longer available. This can happen if the hosting player quit the game.
+- **How to troubleshoot**: Check with the hosting player to make sure they’re still in game. See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for more troubleshooting.
 
 ### Gold
 
