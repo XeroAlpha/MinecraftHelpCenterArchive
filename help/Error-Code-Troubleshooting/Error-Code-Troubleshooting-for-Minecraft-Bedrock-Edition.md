@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2025-08-05T16:41:58Z
+updated: 2025-08-07T21:54:52Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -35,7 +35,10 @@ Before troubleshooting, we recommend backing up your Minecraft files. See [Bac
 
 - **Verify minimum requirements (Windows only)**: Verify your system meets minimum system requirements to play Minecraft. [Visit Minecraft.net](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc?tabs=%7B%22details%22%3A1%7D#accordionv1-b6c8df09da-item-7739893325:~:text=Windows%2010%20system%20requirements) and select Compare Features to see the latest.
 - **Check available storage space**: Confirm your file storage space and memory meet or exceed minimum requirements and free up space if you are low.
-- **Update your game**: Check to make sure you have the latest Minecraft version. You can find platform-specific instructions in our [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) section to manually update Minecraft and enable automatic updates. After updating, restart your device and try again.
+- **Check your edition and version of Minecraft**: Make sure you and your friend are playing the same edition and version of Minecraft (Minecraft is not compatible across editions). See the following articles for updating Minecraft. After updating, restart your device and try again.
+  - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
+  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md) 
 - **Sign out and restart**: [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) and then shut down and restart your game system before restarting Minecraft and signing in again. If you’re playing on a Windows computer, you can also sign out of Microsoft store, the Xbox app, and any other Minecraft services that might be running and close those programs.
 - **Close other programs**: Close any active, non-Minecraft apps or programs that may be using memory and processor resources.
 - **Check your internet connection**: See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions. If you’re trying to connect to a Realm, see [Troubleshoot Minecraft Realms Connection Errors](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md).
