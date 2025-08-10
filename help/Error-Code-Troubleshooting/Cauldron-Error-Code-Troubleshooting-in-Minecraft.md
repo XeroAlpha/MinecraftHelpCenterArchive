@@ -31,7 +31,7 @@ If you receive a Cauldron error message in Minecraft: Bedrock Edition, it means 
 
 ## General Error Code Troubleshooting
 
-The first steps for restoring your connection to Minecraft services involves completely signing out of Minecraft and other services, restarting your system, and attempting to sign in again. Specific guidance is available in [General Error Code Troubleshooting](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md#general-error-code-troubleshooting).
+The first steps for restoring your connection to Minecraft services involves completely signing out of Minecraft and other services, restarting your system, and attempting to sign in again. Specific guidance is available in [General Error Code Troubleshooting](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md#h_01JGCNCPVD43R5ZGDJTXPK7MKN).
 
 ## Check Minecraft services
 

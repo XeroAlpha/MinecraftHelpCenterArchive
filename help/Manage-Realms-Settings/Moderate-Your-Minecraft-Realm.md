@@ -54,4 +54,4 @@ Here are some ways to use Minecraft’s moderation tools.
   - **Blocking a player** will immediately kick them from the game. The player will be informed they were kicked. They will not be able to rejoin unless you unblock them.
 - **Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [Find and Restore a Backup of a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm-World.md) or [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm World](../Manage-Realms-Worlds/Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md).
 
-You can also moderate your Realm through Minecraft.net. See [How to Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md)[.](./How-to-Edit-Your-Realms-on-Minecraft-net.md)
+You can also moderate your Realm through Minecraft.net. See [How to Edit Your Realms on Minecraft.net](./Edit-your-Realms-on-Minecraft-net.md)[.](./Edit-your-Realms-on-Minecraft-net.md)

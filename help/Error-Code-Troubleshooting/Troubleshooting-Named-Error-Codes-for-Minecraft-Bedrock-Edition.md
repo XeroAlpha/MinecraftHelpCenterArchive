@@ -243,7 +243,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Panda
 
 - **What it means**: A local server couldn’t be found.
-- **How to troubleshoot**: See [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Performance-Troubleshooting/Troubleshoot-LAN-Connectivity-Issues-on-Minecraft-Java-Edition-for-Windows.md) and [Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Performance-Troubleshooting/Troubleshoot-Minecraft-LAN-Connectivity-Issues-on-Windows-PC.md) and [Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Piglin
 

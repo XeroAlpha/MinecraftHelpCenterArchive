@@ -64,4 +64,4 @@ Advanced:
 
  
 
-You can also manage your Realm on Minecraft.net. See [How to Edit Your Realms on Minecraft.net](./How-to-Edit-Your-Realms-on-Minecraft-net.md).
+You can also manage your Realm on Minecraft.net. See [How to Edit Your Realms on Minecraft.net](./Edit-your-Realms-on-Minecraft-net.md).
