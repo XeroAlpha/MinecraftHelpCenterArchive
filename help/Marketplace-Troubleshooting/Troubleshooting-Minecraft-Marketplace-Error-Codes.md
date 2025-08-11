@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Marketplace Error Codes
 date: 2024-10-01T20:46:44Z
-updated: 2024-10-14T17:38:52Z
+updated: 2025-08-11T14:27:10Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293
@@ -17,6 +17,7 @@ The Minecraft Marketplace always has great content for you to add to your world 
 
 These lettered error codes are specific to the Marketplace and indicate that you encountered an unknown client error during sign in. You can try to clear the error by trying the following:
 
+- **Wait and try again: **Verify you have a stable internet connection and wait for background processes to complete. After a few minutes, try to access your Minecraft Marketplace content again.
 - **Check your game version**: Make sure that your game is up to date and running the latest version of Minecraft. See the below links for help updating your game.
   - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
   - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
