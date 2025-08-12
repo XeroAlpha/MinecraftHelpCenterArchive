@@ -1,7 +1,7 @@
 ---
 title: What's New in the Chase the Clouds Update v1.21.90.1
 date: 2025-07-09T20:32:21Z
-updated: 2025-07-23T16:59:49Z
+updated: 2025-08-11T22:51:47Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-90-1
 hash:
@@ -13,6 +13,7 @@ hash:
   01JXX9AGYW22JKC55VBJTARXCF: from-the-spring-to-life-update-v1218
   01J6WHXS70B30ZAXTQ7YMM1QE9: from-the-garden-awakens-update-v1215
   01JJQ53EQ6RA39FKX554WD61AV: spectator-mode
+  h_01K2DN8GV76MXWNPFAMWK91DFN: 32-bit-support-ending
   01JFGMK2HQGK693XT9F3P95A9V: bug-fixes--performance-improvements
 ---
 
@@ -93,7 +94,13 @@ Welcome to the Chase the Clouds Update for Minecraft Education! This update incl
 
  
 
+## **32-bit Support ending**
+
+- Support for 32-bit Windows (also called Windows x86) automatic updates is ending. 32-bit Windows OS support and 32-bit Android & Chromebook OS support will be ending on or after December 31, 2025. [See our System Requirements page for more information.](../Get-Started/System-Requirements.md)
+- Windows exe version is now 64 bit by default
+
+ 
+
 ## **Bug Fixes & Performance Improvements**
 
 - Improvements to performance and product stability
-- Windows exe version is now 64 bit by default
