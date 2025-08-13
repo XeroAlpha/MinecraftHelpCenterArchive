@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.110.24
 date: 2025-08-12T15:46:11Z
-updated: 2025-08-12T15:47:36Z
+updated: 2025-08-13T10:05:36Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/38757295608077-Minecraft-Beta-Preview-1-21-110-24
 hash:
@@ -49,7 +49,7 @@ For the full list of goodies, browse the changelog below. And as always, we’re
 
 ## Known Issue[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30174/R21U11-4-Preview?anchor=known-issue)
 
-- There is a bug with the Ender Dragon death animation, preventing the End Portal from opening. We are working on a fix and hope to have it addressed soon! ([MCPE-226507](https://bugs.mojang.com/browse/MCPE-226507))
+- There is a bug with the Ender Dragon death animation, preventing the End Portal from opening. We are working on a fix and hope to have it addressed soon! ([MCPE-224403](https://bugs.mojang.com/browse/MCPE-224403))
 
 # Features and Bug Fixes[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30174/R21U11-4-Preview?anchor=features-and-bug-fixes)
 
@@ -75,7 +75,7 @@ For the full list of goodies, browse the changelog below. And as always, we’re
 
 - Iron Golems will sometimes plant a decorative flower onto a nearby Copper Golem
   - Known issue: The flower disappears when the Copper Golem dies
-- The Copper Golem will now queue next to the Chest or Copper Chest when it is opened by a player
+- The Copper Golem will now wait next to the Chest or Copper Chest when it is opened by a player ([MCPE-226272](https://bugs.mojang.com/browse/MCPE-226272))
 - The Copper Golem will now look towards the container it is walking towards
 
 ## Sounds[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30174/R21U11-4-Preview?anchor=sounds)
@@ -133,7 +133,7 @@ For the full list of goodies, browse the changelog below. And as always, we’re
 ## AI Goals[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30174/R21U11-4-Preview?anchor=ai-goals)
 
 - Transport Items Goal
-  - Mobs with the goal will now queue when players are interacting with their target container if "allow_simultaneous_interaction" is true
+  - Mobs with the goal will now queue when players are interacting with their target container if "allow_simultaneous_interaction" is false
 
 ## Editor[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30174/R21U11-4-Preview?anchor=editor)
 
