@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Named Error Codes for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-08-15T18:28:17Z
+updated: 2025-08-15T18:55:25Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -45,6 +45,7 @@ hash:
   error-cobblestone: cobblestone
   error-creeper: creeper
   error-crossbow: crossbow
+  error-deepocean: deep-ocean
   error-door: door
   error-drowned: drowned
   error-emerald: emerald
@@ -147,6 +148,11 @@ We’ve given some error codes special names to help point you in the right dire
 
 - **What it means**: There was an error during sign-in.
 - **How to troubleshoot**: See [Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+
+### Deep Ocean
+
+- **What it means**: There was an issue signing-in to the Minecraft Launcher.
+- **How to troubleshoot**: See [Deep Ocean Error Code Troubleshooting in Minecraft](./Deep-Ocean-Error-Code-Troubleshooting-in-Minecraft.md).
 
 ### Door
 
