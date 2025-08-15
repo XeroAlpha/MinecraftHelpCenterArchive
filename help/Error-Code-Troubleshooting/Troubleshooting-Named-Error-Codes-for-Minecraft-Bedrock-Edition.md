@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Named Error Codes for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-08-08T17:16:35Z
+updated: 2025-08-15T18:28:17Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -31,49 +31,49 @@ tags:
   - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/38555497091469-Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition
 hash:
-  h_01K1VKBD704TS65BSCEDTNF65K: armor
-  h_01K1TWPNZK624KBHQ7MKD35E10: arrow
-  h_01K1TWPNZM7SW0H18DSMXJ39X8: bamboo
-  h_01K1TWPNZM3HCBNX2F1462VGGD: bat
-  h_01K1VKDQJW72VGV7YH5CMNPG4T: block
-  h_01K1TWPNZNC42R0QD7HY977WTF: boat
-  h_01K1TWPNZPES0WEZ1BJ634YPW6: breeze
-  h_01K1TWPNZQ9YT51C17QR1D98V3: cauldron
-  h_01K1TWPNZWADB7CCY08PY94XSW: chest
-  h_01K1TWPNZW49TDQ8TWNKJQ55N4: clay
-  h_01K1TWPNZXCV3RA56PB5DMEQZ0: coal
-  h_01K1TWPNZY78SGF372QBXW28H3: cobblestone
-  h_01K1TWPNZZR281PJMMSK4EV6VY: creeper
-  h_01K1TWPP00662346PD3H2HP25A: crossbow
-  h_01K1VKKNQ9Z6AJPJV9YNZ7MZSH: door
-  h_01K1TWPP013N2X4BR3FGFA3G23: drowned
-  h_01K1TWPP07ZTPFS4962QZTSMZK: emerald
-  h_01K1TWPP07KSRMX4RF3W78YRDA: evoker
-  h_01K1TWPP087G079GRB6KAP54JK: feather
-  h_01K1TWPP09N0NYHCSB6500DGS3: fox
-  h_01K1TWPP0BA0Q99GMZ4NSRN75N: ghast
-  h_01K1TWPP0FACNRSDXNS4V5G8BB: glowstone
-  h_01K1TWPP0EFV60G3SM0CYS2MC7: goat
-  h_01K1TWPP0FXEFBZ1T8GVMW3J5X: gold
-  h_01K1TWPP0G7680A17RD56DTRJT: guardian
-  h_01K1TWPP0GZTZX3CS96X0JPKK4: haybale
-  h_01K1TWPP0HRPCH841E16S8SJ1D: honeycomb
-  h_01K1TWPP0J8SCC5FG5D02BEF85: hopper
-  h_01K1TWPP0JD265PKFEN5PKCPP3: kelp
-  h_01K1TWPP0KRDS71HMZG3E93HRP: ladder
-  h_01K1TWPP0KR90E8M84NV04MJGA: lead
-  h_01K1VKT7M7839X6NY75X000Q52: nethernet
-  h_01K1TWPP0KCAGP62TQF2FKWSRG: panda
-  h_01K1TWPP0NAZ14HGZZFK4QH861: piglin
-  h_01K1TWPP0NE2V1NVKWGQABWYFS: pufferfish
-  h_01K1VKV5T537XCQN8PCDRGV89C: rabbit
-  h_01K1TWPP0PZ0A71KB3YF8Q4943: silverfish
-  h_01K1TWPP0PBM5NTEM2A0G8JWZ6: snowball
-  h_01K1VKVX1ZG28W9DN3YKVZA76Q: spyglass
-  h_01K1TWPP0PRBNV1R0CW5PGVHGJ: squid
-  h_01K1TWPP0QP9B5XGMPY8D0JE93: sugar-cane
-  h_01K1TWPP0QY75Y45FRTMSGGPMF: terracotta
-  h_01K1TWPP0RGC2S8E6203WXZS52: tnt
+  error-armor: armor
+  error-arrow: arrow
+  error-bamboo: bamboo
+  error-bat: bat
+  error-block: block
+  error-boat: boat
+  error-breeze: breeze
+  error-cauldron: cauldron
+  error-chest: chest
+  error-clay: clay
+  error-coal: coal
+  error-cobblestone: cobblestone
+  error-creeper: creeper
+  error-crossbow: crossbow
+  error-door: door
+  error-drowned: drowned
+  error-emerald: emerald
+  error-evoker: evoker
+  error-feather: feather
+  error-fox: fox
+  error-ghast: ghast
+  error-glowstone: glowstone
+  error-goat: goat
+  error-gold: gold
+  error-guardian: guardian
+  error-haybale: haybale
+  error-honeycomb: honeycomb
+  error-hopper: hopper
+  error-kelp: kelp
+  error-ladder: ladder
+  error-lead: lead
+  error-nethernet: nethernet
+  error-panda: panda
+  error-piglin: piglin
+  error-pufferfish: pufferfish
+  error-rabbit: rabbit
+  error-silverfish: silverfish
+  error-snowball: snowball
+  error-spyglass: spyglass
+  error-squid: squid
+  error-sugarcane: sugar-cane
+  error-terracotta: terracotta
+  error-tnt: tnt
 ---
 
 We’ve given some error codes special names to help point you in the right direction for resolving them—and getting back into Minecraft. See the list below.
@@ -108,7 +108,7 @@ We’ve given some error codes special names to help point you in the right dire
 - **What it means**: An error occurred.
 - **How to troubleshoot**: See [Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
-### Breeze                                                                                                         
+### Breeze
 
 - **What it means**: The world you’re connecting to is newer than your Minecraft version.
 - **How to troubleshoot**: Update your game to the latest Minecraft version. You can find platform-specific instructions in [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) to manually update Minecraft and enable automatic updates. After updating, restart your device and try again.

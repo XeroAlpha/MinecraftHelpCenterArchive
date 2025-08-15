@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Commercial License Changes"
 date: 2025-06-23T20:45:59Z
-updated: 2025-07-25T15:43:32Z
+updated: 2025-08-15T17:37:45Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/38684236168980-FAQ-Commercial-License-Changes
 hash:
@@ -14,7 +14,7 @@ hash:
 
 ## What are the changes and when are they taking place?
 
-We are adjusting the price of the Minecraft Education commercial licensing offer later this year. Starting September 1, 2025, we will be raising the price of Minecraft Education to \$36 per year. This change will take effect on your current expiration date, when your subscription is renewed. 
+We are adjusting the price of the Minecraft Education commercial licensing offer later this year. Starting September 4th, 2025, we will be raising the price of Minecraft Education to \$36 per year. This change will take effect on your current expiration date, when your subscription is renewed. 
 
 ## Why are these changes taking place?
 
