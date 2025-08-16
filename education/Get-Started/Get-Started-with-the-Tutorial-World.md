@@ -1,7 +1,7 @@
 ---
 title: Get Started with the Tutorial World
 date: 2020-08-10T07:56:36Z
-updated: 2022-04-13T22:47:45Z
+updated: 2025-08-15T23:46:58Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555191-Get-Started-with-the-Tutorial-World
 ---
@@ -44,4 +44,4 @@ The tutorial world will launch.  Follow the on-screen instructions to learn to 
 
 **Additional Resources**
 
-[Learn to play Minecraft Education video playlist](./Learn-to-play-Minecraft-Education-video-playlist.md)
+[Learn to play Minecraft Education video playlist](https://www.youtube.com/playlist?list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV)
