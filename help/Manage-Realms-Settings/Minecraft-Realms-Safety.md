@@ -57,7 +57,7 @@ These standards set the tone and values our players expect during their experien
 
 Realms features a proactive chat filtering system. We use this system to classify, filter, and escalate online harms such as harassment, abuse, and hate speech. Once escalated, our team manually reviews and moderates these harms to promote safe and welcoming interactions. We also leverage this filter to ensure Realms’ names and descriptions are appropriate.
 
-**Note: For more information about profanity filtering in Minecraft: Java Edition Realms and how to toggle the profanity filter, please visit [Minecraft: Java Edition Realms Profanity Filter FAQ \| Minecraft Help](./How-to-Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter.md)**
+**Note: For more information about profanity filtering in Minecraft: Java Edition Realms and how to toggle the profanity filter, please visit [Minecraft: Java Edition Realms Profanity Filter FAQ \| Minecraft Help](./Turn-Off-the-Minecraft-Java-Edition-Realms-Profanity-Filter.md)**
 
 ### Player Abuse Reporting
 

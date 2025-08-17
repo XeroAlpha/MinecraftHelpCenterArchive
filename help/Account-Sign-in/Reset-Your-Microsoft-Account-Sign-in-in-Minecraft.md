@@ -6,6 +6,7 @@ categories: Account Sign-in
 tags:
   - section_12617594906509
   - section_27194059750157
+  - section_29296773863181
 link: https://help.minecraft.net/hc/en-us/articles/360045828292-Reset-Your-Microsoft-Account-Sign-in-in-Minecraft
 hash:
   h_01GB5X8SVE2NNNXF3FBDVJY1ZM: sign-out-and-in-using-the-launcher
