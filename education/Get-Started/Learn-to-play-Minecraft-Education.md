@@ -1,7 +1,7 @@
 ---
 title: Learn to play Minecraft Education
 date: 2020-08-10T07:36:02Z
-updated: 2024-05-22T21:52:48Z
+updated: 2025-08-19T20:36:34Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555131-Learn-to-play-Minecraft-Education
 hash:
@@ -10,10 +10,6 @@ hash:
   Topic-3: a-guide-to-useful-controls-in-minecraft
   Topic-4: additional-resources
 ---
-
-Download this guide for a full walkthrough on how to get started with Minecraft Education:  [A First Lesson in Minecraft Education](https://meedownloads.blob.core.windows.net/support-downloads/A%20First%20Lesson%20in%20Minecraft%20Education%20Edition.docx)
-
- 
 
 This tutorial is meant for educators and students who are new to Minecraft, or those who need a refresher on controls, crafting, and basics of the game. This article is designed to get you going right away playing Minecraft and using Minecraft Education.
 
@@ -30,13 +26,13 @@ To get ready for the tutorial experience, simply open up your version of Minecra
 
 Select "Play" from the main menu after logging in. Once you do, you'll see the below options:
 
-![2022-04-13_15_56_40-Slack\_\_\_Andrew_Lee\_\_\_Mojang.png](https://edusupport.minecraft.net/hc/article_attachments/5559556982292)
+![](https://edusupport.minecraft.net/hc/article_attachments/40417623363476)
 
-- "View my Worlds" will show you all of your existing worlds you can load up. 
+- "My Worlds" will show you all of your existing worlds you can load up. 
   - If you do not have any worlds yet, this area will be empty.
-- "View Library" will bring you to the categories Subject Kits, Monthly Build Challenges, Starter Worlds, and How to Play. 
+- "Library" will bring you to the categories How to Play, Start Worlds, Build Challenges, Computer Science, Mathematics, Science, Language, Art & Design, Social Studies, Career Education, and E-Sports.
   - The "How to Play" section is a great place to start if you are new to Minecraft controls!
-- "Create New" will allow you to choose either "New" or "Templates". The new world is the standard Minecraft generation. Templates shows our featured lessons and a few starter worlds.
+- "Create New" will allow you to choose either "New" or "Templates". The new world is the standard Minecraft generation. "Templates" shows our featured lessons and a few starter worlds.
   - The Blocks of Grass world under Templates is a great controlled, simple environment to experiment for both new and experienced users! 
 - "Join World" will allow you to enter the Join Code or IP of another user who is hosting a multiplayer session. 
 - "Import" allows you to open worlds you've downloaded. 

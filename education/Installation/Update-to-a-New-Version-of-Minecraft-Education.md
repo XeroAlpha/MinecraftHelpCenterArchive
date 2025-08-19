@@ -1,11 +1,16 @@
 ---
 title: Update to a New Version of Minecraft Education
 date: 2020-08-18T00:43:31Z
-updated: 2023-08-03T15:49:07Z
+updated: 2025-08-19T20:52:32Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047705032-Update-to-a-New-Version-of-Minecraft-Education
 hash:
-  section: ""
+  h_01HQBYPHPQW7HQG1MNJPBBS9NN: updating-minecraft-education-on-your-devices
+  h_01HQBYPHPQZGHTYF80T7YH49FP: how-to-manually-update
+  h_01HQBYPHPQDSAAM21FY7X8GX2S: determining-current-version
+  h_01HQBYPHPQ76PR332ZAXYXYB5F: ""
+  h_01HQBYPHPQ6AZ72YY92VWJ034V: info-on-latest-content-in-the-newest-version
+  h_01HQBYPHPQPN66V5B94H2NPWEB: preventing-automatic-updates
 ---
 
 Minecraft Education releases regular updates with new features to make your experience even better! This article will answer many questions you may have about updating to a new version or enabling / disabling auto updates.
@@ -56,7 +61,7 @@ Note: If a device does not auto update, it may be because your organization has 
 
 When you open Minecraft Education, the version number is displayed in the lower right hand edge of the home screen.
 
-![version_number.png](https://edusupport.minecraft.net/hc/article_attachments/360065110572)
+![](https://edusupport.minecraft.net/hc/article_attachments/40418171659284)
 
 ##  
 
@@ -68,7 +73,7 @@ Check out the [What's New page](https://aka.ms/meewhatsnew) for information abou
 
 ## Preventing automatic updates
 
-- Windows Desktop app::
+- Windows Desktop app:
   - Search for "Task Scheduler"
   - Select "Task Scheduler Library" in the left menu
   - Right-click "Minecraft Education Automatic Updater" in the list that populates
