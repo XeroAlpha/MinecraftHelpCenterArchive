@@ -1,11 +1,11 @@
 ---
-title: "How to Report a Player in Minecraft: Bedrock Edition"
+title: "Report a Player in Minecraft: Bedrock Edition"
 date: 2023-02-10T20:14:51Z
-updated: 2024-05-30T19:50:55Z
+updated: 2025-08-20T20:15:40Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181
-link: https://help.minecraft.net/hc/en-us/articles/13019118732429-How-to-Report-a-Player-in-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/13019118732429-Report-a-Player-in-Minecraft-Bedrock-Edition
 hash:
   h_01HZ5GHB66FW7X3BNSQTB2XFH8: how-to-report-a-player-in-bedrock
 ---

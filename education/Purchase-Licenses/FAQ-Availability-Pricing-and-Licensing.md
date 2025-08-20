@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Availability, Pricing, and Licensing"
 date: 2020-08-10T12:09:35Z
-updated: 2024-06-20T22:32:37Z
+updated: 2025-08-20T20:08:34Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047119092-FAQ-Availability-Pricing-and-Licensing
 ---
@@ -44,7 +44,7 @@ Yes you can! For more information on how to purchase Minecraft Education license
 
 **How much does it cost?**
 
-If you are part of an eligible educational institution, Minecraft Education costs 5.04 US dollars per user, per year (or local currency pricing). If you are not part of an eligible educational institution, the cost is 12 US dollars per user, per year (or local currency pricing). To see the exact cost for your local currency and tax, have your IT Admin go to admin.microsoft.com, and add Minecraft Education licenses to your cart.  For more information on how to purchase Minecraft Education licenses, see [Purchasing Options for Minecraft Education](https://aka.ms/MEEPurchaseOptions).   
+If you are part of an eligible educational institution, Minecraft Education costs 5.04 US dollars per user, per year (or local currency pricing). If you are not part of an eligible educational institution, the cost is 36 US dollars per user, per year (or local currency pricing). To see the exact cost for your local currency and tax, have your IT Admin go to admin.microsoft.com, and add Minecraft Education licenses to your cart.  For more information on how to purchase Minecraft Education licenses, see [Purchasing Options for Minecraft Education](https://aka.ms/MEEPurchaseOptions).   
   
 
 **Are there any discounts if I buy a large number of licenses for my school? **

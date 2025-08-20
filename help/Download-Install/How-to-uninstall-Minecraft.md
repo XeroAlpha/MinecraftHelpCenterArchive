@@ -1,7 +1,7 @@
 ---
 title: How to uninstall Minecraft
 date: 2024-04-01T20:07:02Z
-updated: 2024-05-31T16:26:25Z
+updated: 2025-08-20T20:56:33Z
 categories: Download & Install
 tags:
   - section_27166490706957

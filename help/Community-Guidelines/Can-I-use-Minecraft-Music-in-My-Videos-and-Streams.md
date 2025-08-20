@@ -1,7 +1,7 @@
 ---
 title: Can I use Minecraft Music in My Videos and Streams?
 date: 2023-12-05T23:17:45Z
-updated: 2024-06-28T20:28:43Z
+updated: 2025-08-20T20:08:22Z
 categories: Community Guidelines
 tags:
   - section_27983753055117
@@ -18,13 +18,13 @@ Over the years, Mojang Studios has released a large library of music tracks for 
 
 Nope! This is the same policy we've always had, but we've been continuously seeing questions about this, so we figured it was about time we cleared things up.
 
-First off, you’ll be happy to know that if you’re creating **Minecraft content** (material related to the Minecraft intellectual property), you’re welcome to use **our** **approved** **Minecraft-owned** music tracks in any non-commercial content *and* any commercial content that meets the Minecraft Usage Guidelines (such as monetized or sponsored YouTube videos, Twitch streams, TikTok videos, etc). To give you some examples of Minecraft content, it can include (but not limited to) things such as videos featuring playthroughs of Minecraft, streams about building with Minecraft LEGOs, Minecraft-themed podcasts, or even clips showing off Minecraft cosplay. As long as your content has Minecraft in it, you are okay to use Minecraft music.
+First off, you’ll be happy to know that if you’re creating **Minecraft content** (material related to the Minecraft intellectual property), you’re welcome to use **our** **approved** **Minecraft-owned** music tracks in any non-commercial content *and* any commercial content that meets the Minecraft Usage Guidelines (such as monetized or sponsored YouTube videos, Twitch streams, TikTok videos, etc.). To give you some examples of Minecraft content, it can include (but not limited to) things such as videos featuring playthroughs of Minecraft, streams about building with Minecraft LEGOs, Minecraft-themed podcasts, or even clips showing off Minecraft cosplay. As long as your content has Minecraft in it, you are okay to use Minecraft music.
 
 ## APPROVED MINECRAFT-OWNED MUSIC
 
 Now, you might wonder how to tell whether a music track is approved and owned by Minecraft or not. The answer is: if it is on our official channel. Minecraft recently became a **verified artist** on Spotify. Not only are we now able to drop some blocky beats – what it truly means is that we’ve gathered lots of our Minecraft music under one easy-to-find umbrella, with the ability to **curate** our own playlists from a verified source.
 
-To find this music, just go to our **”**[Minecraft Creator-Safe” Playlist](https://open.spotify.com/playlist/5T4KWhz9Q8r98skQBimtlH)** on Spotify** and find an approved Minecraft track you’d like to use. If you are making a video, we recommend that you tag/credit the approved Minecraft track using the video platform’s tools. If the platform doesn't allow tag/crediting, please include "Music courtesy of Mojang Studios".
+To find this music, visit our [Minecraft Creator-Safe Playlist](https://open.spotify.com/playlist/5T4KWhz9Q8r98skQBimtlH) on Spotify and find an approved Minecraft track you’d like to use. If you are making a video, we recommend that you tag/credit the approved Minecraft track using the video platform’s tools. If the platform doesn't allow tag/crediting, please include "Music courtesy of Mojang Studios".
 
 Please understand that there may be circumstances (for example, if there are changes to music laws), where we may have to remove or replace songs from the playlist. We apologize in advance if any such change affects your Minecraft content.
 
