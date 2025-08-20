@@ -1,7 +1,7 @@
 ---
-title: "Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device"
+title: "Use Realms to Transfer a Minecraft: Bedrock Edition World to Another Device"
 date: 2021-09-13T22:15:53Z
-updated: 2025-06-26T16:22:56Z
+updated: 2025-08-20T17:30:20Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -19,7 +19,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166561402125
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409165790605-Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device
+link: https://help.minecraft.net/hc/en-us/articles/4409165790605-Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device
 hash:
   h_01JYMM0NGS5RRHEY53NZ8PTCNV: transfer-a-bedrock-world-between-devices-with-minecraft-realms
   h_01JYMM0NGSBYHV89S1G7RCSSMJ: additional-backup-and-transfer-resources

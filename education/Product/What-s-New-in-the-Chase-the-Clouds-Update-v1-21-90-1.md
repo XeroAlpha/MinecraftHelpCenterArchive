@@ -1,9 +1,9 @@
 ---
-title: What's New in the Chase the Clouds Update v1.21.90.1
+title: What's New in the Chase the Clouds Update v1.21.92.1
 date: 2025-07-09T20:32:21Z
-updated: 2025-08-11T22:51:47Z
+updated: 2025-08-20T18:00:53Z
 categories: Product
-link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-90-1
+link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-92-1
 hash:
   h_01JZRFDAE100P1TCSVBREQ31EM: make-code-changes
   h_01JZRFDAE2EC8N3A87JV6ASN04: improved-ui-for-create-and-edit-world
@@ -14,7 +14,8 @@ hash:
   01J6WHXS70B30ZAXTQ7YMM1QE9: from-the-garden-awakens-update-v1215
   01JJQ53EQ6RA39FKX554WD61AV: spectator-mode
   h_01K2DN8GV76MXWNPFAMWK91DFN: 32-bit-support-ending
-  01JFGMK2HQGK693XT9F3P95A9V: bug-fixes--performance-improvements
+  01JFGMK2HQGK693XT9F3P95A9V: minor-update-v121921
+  h_01K34976KWWSYDNP73RJRBAKWJ: bug-fixes--performance-improvements
 ---
 
 Welcome to the Chase the Clouds Update for Minecraft Education! This update includes improvements to OneDrive cloud storage, multiplayer, and coding. We have also added new features from Minecraft Bedrock up to version 1.21.9 such as Bundles, the Pale Garden biome, Happy Ghasts and the reorganized Creative Inventory.
@@ -98,6 +99,15 @@ Welcome to the Chase the Clouds Update for Minecraft Education! This update incl
 
 - Support for 32-bit Windows (also called Windows x86) automatic updates is ending. 32-bit Windows OS support and 32-bit Android & Chromebook OS support will be ending on or after December 31, 2025. [See our System Requirements page for more information.](../Get-Started/System-Requirements.md)
 - Windows exe version is now 64 bit by default
+
+ 
+
+## **Minor Update v1.21.92.1**
+
+- A few folders in Library appeared in English, this is now correctly localized
+- An issue with connecting to long running multiplayer sessions has been fixed
+- A bug where very old worlds may be corrupted during save has been addressed
+- Additional improvements to performance and product stability 
 
  
 

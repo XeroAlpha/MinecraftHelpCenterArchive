@@ -1,7 +1,7 @@
 ---
 title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
-updated: 2025-02-20T01:39:28Z
+updated: 2025-08-20T18:01:52Z
 categories: Administration and License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
@@ -44,7 +44,15 @@ Minecraft Education is a game-based learning platform that offers educators a tr
 
 ### Why do I need to allow network access to URLs?
 
-Minecraft Education is built on a services-based architecture that requires communication from the application to external services on the internet. This architecture allows students to access new features such as Immersive Reader and new lesson content. In order to allow communication with these external services, your school network will need to allow traffic between Minecraft Education and a set of service endpoints. Allowing the following set of URLs will allow access to these services that are integrated into the application itself.
+Minecraft Education is more than just a game—it’s a connected platform that uses cloud services to deliver interactive learning tools. To ensure students can access all available features, school IT networks need to allow communication with specific online services. Without this access, key functionality may be blocked.
+
+  
+Here’s why network access is essential:
+
+- Minecraft Education relies on a services-based architecture, meaning it connects to the internet to access essential features.
+- External communication is required to enable tools like Immersive Reader (https://edusupport.minecraft.net/hc/en-us/articles/360061503031-Accessibility-Features), lesson content, and coding platforms.
+- To enable these features, school networks must allow traffic between Minecraft Education and a predefined list of service endpoints.
+- Allowlisting the below URLs ensures full access to services that are embedded in the Minecraft Education experience.
 
  
 
