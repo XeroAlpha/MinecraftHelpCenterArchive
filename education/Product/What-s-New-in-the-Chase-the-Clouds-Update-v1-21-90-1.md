@@ -1,7 +1,7 @@
 ---
 title: What's New in the Chase the Clouds Update v1.21.92.1
 date: 2025-07-09T20:32:21Z
-updated: 2025-08-20T18:00:53Z
+updated: 2025-08-20T21:55:22Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-92-1
 hash:
@@ -14,7 +14,7 @@ hash:
   01J6WHXS70B30ZAXTQ7YMM1QE9: from-the-garden-awakens-update-v1215
   01JJQ53EQ6RA39FKX554WD61AV: spectator-mode
   h_01K2DN8GV76MXWNPFAMWK91DFN: 32-bit-support-ending
-  01JFGMK2HQGK693XT9F3P95A9V: minor-update-v121921
+  1.21.92.1: minor-update-v121921
   h_01K34976KWWSYDNP73RJRBAKWJ: bug-fixes--performance-improvements
 ---
 

@@ -1,35 +1,39 @@
 ---
-title: "How to Find and Restore a Backup of a Minecraft: Java Edition Realm World"
+title: "Restore an Automatic Backup of a Minecraft: Java Edition Realm World"
 date: 2023-10-24T21:14:02Z
-updated: 2025-08-19T18:09:34Z
+updated: 2025-08-20T22:03:22Z
 categories: Manage Realms Worlds
 tags:
+  - title_minecraft_java_edition
+  - subject_progress_and_saved_games
+  - subject_downloads_and_installations
+  - platform_windows_10
+  - subject_other_realms_questions
+  - platform_linux
+  - platform_macos
+  - platform_pc
+  - platform_windows_10/11
+  - section_27166561402125
   - use_for_autoreply
   - section_37819421372941
-link: https://help.minecraft.net/hc/en-us/articles/20687555493133-How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm-World
+link: https://help.minecraft.net/hc/en-us/articles/20687555493133-Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World
 hash:
-  h_01HHZH3P46JQ12W1JPFKWFCK82: how-to-find-your-realms-backups-and-restore-them
-  h_01HHZH60PNMN56EA3BWG744B1S: uploading-a-backup-world-to-your-realm
+  h_01K31YR2J2X8N7PDMS0NKNH3NV: restore-a-realm-world
+  h_01K31YR2J2JNJ32SHXW55X3CN2: additional-backup-and-restore-resources
 ---
 
-Creating a backup of a world is simple and easy. Creating backups is a good habit and can help you make sure you always keep your world safe. 
+Minecraft Java: Edition Realm worlds can be restored from an automatic backup to undo unwanted changes or fix corrupted files. Restoring a world reverts all progress to what was captured in the save, including builds and items.
 
-To learn how we choose what versions of your Realm to backup, see [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md).
+## Restore a Realm world
 
-## How to find your Realms backups and restore them
+1.  Launch Minecraft: Java Edition.
+2.  Select **Minecraft Realms**.
+3.  Select your Realm and select **Configure**.
+4.  Select **World Backups** from the Worlds tab.
+5.  Select **Restore** next to the version you want to load.
 
-In Minecraft: Java Edition, your world is backed up whenever you join the Realm and leave it. To find those backups, select your Realm and press **Configure**. At the bottom of the next screen will be **World Backups**.
+## Additional Backup and Restore Resources
 
-On this page you can select any backup and press **Restore** or the **red arrow** to revert the world back to that version. Select **Download Latest** to take the most recent backup of your world and save it on a local drive and make it accessible in Single Player.
-
-## Uploading a Backup World to your Realm
-
-After purchasing a new Realm subscription and creating a new world within that Realm, you can access the Realm configuration menu to upload a backup.  Any world that is up to 4 GB in size can be uploaded.
-
-1.  From the main menu select** Realms **
-2.  Find the Realm you wish to modify and select **Configure**
-3.  Under **Worlds**, select an empty world slot 
-4.  Click** Upload world **
-5.  Select the backup you would like to load 
-
-If you encounter an error that prevents you from downloading your world, or if you are having difficulty uploading your world, please contact [Minecraft support ](https://help.minecraft.net/hc/en-us/requests/new)for further assistance.
+- [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
+- [Download a Realms world in Minecraft: Java Edition](./Download-a-Realms-world-in-Minecraft-Java-Edition.md)
+- [Upload a World to a Minecraft: Java Edition Realm](./Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md)
