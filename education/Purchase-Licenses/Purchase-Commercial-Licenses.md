@@ -1,7 +1,7 @@
 ---
 title: Purchase Commercial Licenses
 date: 2021-05-25T14:26:26Z
-updated: 2025-08-21T18:48:35Z
+updated: 2025-08-21T18:51:54Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
 hash:
@@ -50,7 +50,7 @@ Your Microsoft 365 Admin Center account allows you to purchase licenses and mana
 If you are the Admin:
 
 1.  Navigate to the **Minecraft Education purchase page** on the admin center
-    1.  Note that commercial license purchases are temporarily unavailable until September 2nd. 
+    1.  Note that commercial license purchases are temporarily unavailable until September 4th. 
 2.  Enter your organizational email address and click **Next**.
     - *If you don’t have an email address from an organization, enter your personal email address. See guide for that process below.*
 
@@ -143,7 +143,7 @@ Assigning licenses to existing users is also done in the Microsoft Admin Center.
 Follow these steps if you already have a Microsoft 365 Admin Center account and have **not** purchased Minecraft Education licenses.
 
 1.  Go to the Minecraft Education commercial purchase page and enter your Microsoft Admin Center email. 
-    1.  Note that commercial license purchases are temporarily unavailable until September 2nd. 
+    1.  Note that commercial license purchases are temporarily unavailable until September 4th. 
 2.  Review and update your organizational profile as needed.  
     *Note: If you aren’t part of an organization, use your personal address, phone number, and email address.*
 3.  Review and update your payment method.

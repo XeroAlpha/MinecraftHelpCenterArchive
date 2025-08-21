@@ -1,24 +1,24 @@
 ---
-title: Disable Minecraft Add-Ons to prevent game issues
+title: Disable Minecraft Add-Ons to Solve Game Issues
 date: 2024-02-14T18:05:57Z
-updated: 2025-07-15T18:26:34Z
+updated: 2025-08-21T21:37:44Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141
   - Add-Ons
   - section_31867770289293
-link: https://help.minecraft.net/hc/en-us/articles/24121220131597-Disable-Minecraft-Add-Ons-to-prevent-game-issues
+link: https://help.minecraft.net/hc/en-us/articles/24121220131597-Disable-Minecraft-Add-Ons-to-Solve-Game-Issues
 hash:
-  h_01JZ6N8RVAA1993X0NKNGZDK9Y: singleplayer-worlds
-  h_01JZ6N8RVA8QH2XCFEX1ENZDNH: realm-worlds
+  h_01JZ6N8RVAA1993X0NKNGZDK9Y: disable-add-ons-in-a-single-player-world
+  h_01JZ6N8RVA8QH2XCFEX1ENZDNH: disable-add-ons-in-a-realm-world
   h_01JZ6N8RVAPKBVG9MHWB8XSTCV: additional-add-on-troubleshooting-notes
 ---
 
-While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can be compatibility issues running them simultaneously. If you’re experiencing performance issues or game crashes, you may want to disable resources packs and/or behavior packs. Instructions are separated by world type below.
+While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can be compatibility issues if you use multiple Add-Ons simultaneously. If have trouble connecting to a world or experience performance issues or game crashes, you may want to disable resources packs and/or behavior packs. 
 
 *Before beginning, we recommend backing up your Minecraft world. See our [Backup & Restore](https://help.minecraft.net/hc/en-us/sections/27166561402125) section.*
 
-## Singleplayer worlds
+## Disable Add-Ons in a single-player world
 
 1.  Launch Minecraft.
 2.  Select **Play.**
@@ -27,7 +27,7 @@ While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can 
 5.  Select the **Active** tab.
 6.  Select the resource pack you want to deactivate and select **Remove.**
 
-##  Realm worlds
+##  Disable Add-Ons in a Realm world
 
 1.  Launch Minecraft.
 2.  Select **Play.**
@@ -40,6 +40,7 @@ While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can 
 
 ## Additional Add-On Troubleshooting Notes
 
+- You can also troubleshoot by starting a new world and adding Add-ons one at a time.
 - You must be the world owner to deactivate resource packs.
 - You may also be unable to deactivate resource packs for world templates and adventures maps.
 - Deactivating a world’s resource pack does not remove it from your storage. See [Delete Unused Marketplace Content in Minecraft](./Delete-Unused-Marketplace-Content-in-Minecraft.md).
