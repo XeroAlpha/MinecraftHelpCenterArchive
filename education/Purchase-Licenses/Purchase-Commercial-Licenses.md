@@ -1,7 +1,7 @@
 ---
 title: Purchase Commercial Licenses
 date: 2021-05-25T14:26:26Z
-updated: 2025-07-24T17:04:30Z
+updated: 2025-08-21T18:48:35Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
 hash:
@@ -18,7 +18,7 @@ hash:
   h_01HDM1YGRDPYGXPQM102C8SWXP: change-technical-contact-email
 ---
 
-**Note: **Minecraft Education Commercial licenses are temporarily unavailable for purchase at this time, due to backend changes. The ability to purchase will resume on September 2nd. 
+**Note: **Minecraft Education Commercial licenses are temporarily unavailable for purchase at this time, due to backend changes. The ability to purchase will resume on September 4th. 
 
  
 
