@@ -1,7 +1,7 @@
 ---
 title: "Upload a World to a Minecraft: Java Edition Realm"
 date: 2025-07-03T23:00:39Z
-updated: 2025-07-03T23:03:30Z
+updated: 2025-08-21T23:15:20Z
 categories: Manage Realms Worlds
 tags:
   - section_37819421372941
@@ -12,7 +12,7 @@ hash:
 
 *For Minecraft: Bedrock Edition, see* [*Upload a World to a Minecraft: Bedrock Edition Realm*](./Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md)
 
-If you don’t want to start a new world on your Minecraft Realm, here’s how to upload one you already created.
+If you don’t want to start a new world on your Minecraft Realm, here’s how to upload a single-player or saved Realm world. 
 
 ## How to upload a world to a Minecraft: Java Edition Realm
 
@@ -25,4 +25,4 @@ If you don’t want to start a new world on your Minecraft Realm, here’s how t
 5.  Select the world you want to upload onto the Realm, then **Upload**.
 6.  Select **Done** after the upload is complete.
 
-There is a 4GB maximum world size for uploads. To transfer your world from a different device, see [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md).
+To move external files for upload, see [Sideloading Worlds into Minecraft: Java Edition](../Backup-Restore/Sideloading-Worlds-into-Minecraft-Java-Edition.md). The maximum world size is 4GB.
