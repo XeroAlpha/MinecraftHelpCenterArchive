@@ -35,4 +35,4 @@ Minecraft: Java Edition Realm owners can change game difficulty, game mode, and 
 ## Additional Minecraft: Java Edition Realm Resources
 
 - [Manage Settings for Your Minecraft: Java Edition Realm](../Manage-Realms-Settings/Manage-Settings-for-Your-Minecraft-Java-Edition-Realm.md)
-- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./How-to-Find-and-Restore-a-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)
+- [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](./Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)

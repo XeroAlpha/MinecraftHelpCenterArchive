@@ -47,5 +47,5 @@ Unmuting or unblocking a player takes effect immediately: you will be able to se
 ## Additional Player Management Resources
 
 - [Guidelines for Reporting Inappropriate Player Behavior in Minecraft](./Guidelines-for-Reporting-Inappropriate-Player-Behavior-in-Minecraft.md)
-- [How to Report a Player in Minecraft: Bedrock Edition](./How-to-Report-a-Player-in-Minecraft-Bedrock-Edition.md)
+- [How to Report a Player in Minecraft: Bedrock Edition](./Report-a-Player-in-Minecraft-Bedrock-Edition.md)
 - [How to Report a Minecraft Server](./How-to-Report-a-Minecraft-Server.md)

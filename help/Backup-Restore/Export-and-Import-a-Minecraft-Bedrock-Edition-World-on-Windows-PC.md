@@ -30,4 +30,4 @@ If want to make a copy or transfer a Minecraft: Bedrock Edition world stored loc
 
 The world will now display among your singleplayer world choices. You can identify it by the “(imported)” text in the world name.
 
-To transfer a world via Minecraft Realms, see [Transfer a Minecraft: Bedrock Edition World to Another Device](./Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
+To transfer a world via Minecraft Realms, see [Transfer a Minecraft: Bedrock Edition World to Another Device](./Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).

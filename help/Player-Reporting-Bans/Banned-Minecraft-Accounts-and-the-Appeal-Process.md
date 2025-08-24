@@ -40,7 +40,7 @@ See our [How do I Cancel my Minecraft Realms Plus Subscription](../Manage-Realms
 Our goal is to ensure you know what type of action was taken and why, as well as any other relevant details. Being clear with you is an important part of our ongoing work to make Minecraft a safe and welcoming place for everyone.
 
 - **Case Review:** If you have been banned or suspended from Minecraft, you can appeal the ruling by filling out the [Case Review form](https://aka.ms/Case-Review-Minecraft).
-- **Updating Banned Content:** If you need to change an inappropriate name or skin, see [How to Update Banned Skins or Usernames in Minecraft](./How-to-Update-Banned-Skins-or-Usernames-in-Minecraft.md).
+- **Updating Banned Content:** If you need to change an inappropriate name or skin, see [How to Update Banned Skins or Usernames in Minecraft](./Update-Banned-Skins-or-Usernames-in-Minecraft.md).
 
 ## Player Bans on Private Servers
 

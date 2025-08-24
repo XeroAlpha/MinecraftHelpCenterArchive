@@ -29,5 +29,5 @@ You are responsible for the reports you submit. Knowingly sending incorrect repo
 
 See these articles for more information about how to report inappropriate behavior in Minecraft:
 
-- [How to Report a Player in Minecraft: Bedrock Edition](./How-to-Report-a-Player-in-Minecraft-Bedrock-Edition.md)
-- [How to Report a Player in Minecraft: Java Edition](./How-to-Report-a-Player-in-Minecraft-Java-Edition.md)
+- [How to Report a Player in Minecraft: Bedrock Edition](./Report-a-Player-in-Minecraft-Bedrock-Edition.md)
+- [How to Report a Player in Minecraft: Java Edition](./Report-a-Player-in-Minecraft-Java-Edition.md)

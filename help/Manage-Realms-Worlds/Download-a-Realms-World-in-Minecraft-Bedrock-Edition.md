@@ -17,7 +17,7 @@ Minecraft Realms worlds are backed up automatically to help you keep your creati
 5.  Select the **Backups** tab.
 6.  Select the **download icon** next to the version of the world you want to download.
 
-The world will be downloaded and added to your Worlds tab and can also be copied from your file storage. See [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) for more details.
+The world will be downloaded and added to your Worlds tab and can also be copied from your file storage. See [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) for more details.
 
 **Additional Backup and Restore Resources**
 

@@ -38,4 +38,4 @@ If you don’t want to start a new world on your Minecraft Realm, here’s how t
 5.  Navigate to the bottom of the Game Settings tab and select Upload **World** or **Replace World** depending on the available option.
 6.  Select the world you want to upload onto the Realm.
 
-There is a 4GB maximum world size for uploads. To upload a world from a different platform, see [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
+There is a 4GB maximum world size for uploads. To upload a world from a different platform, see [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).

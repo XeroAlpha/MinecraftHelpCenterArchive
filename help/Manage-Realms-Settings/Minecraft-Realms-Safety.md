@@ -51,8 +51,8 @@ Realms features a proactive chat filtering system. We use this system to classif
 The goal of having effective and intuitive Player Reporting mechanisms in our games is to empower you. Using these tools, you can let us know when harmful behavior is getting in the way of your Minecraft experience. Please visit these articles to learn more:
 
 - [Guidelines for Reporting Inappropriate Player Behavior in Minecraft](../Player-Reporting-Bans/Guidelines-for-Reporting-Inappropriate-Player-Behavior-in-Minecraft.md)
--  [Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Java-Edition.md)
-- [Report a Player in Minecraft: Bedrock Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Bedrock-Edition.md)
+-  [Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Java-Edition.md)
+- [Report a Player in Minecraft: Bedrock Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Bedrock-Edition.md)
 - [How to Report a Minecraft Server](../Player-Reporting-Bans/How-to-Report-a-Minecraft-Server.md)
 
 ### Parental controls

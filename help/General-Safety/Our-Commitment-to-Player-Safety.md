@@ -55,8 +55,8 @@ The goal of having effective and intuitive Player Reporting mechanisms in our ga
 
 Visit the below articles to learn how to report players in either Bedrock or Java:
 
-- [How to Report a Player in Minecraft: Bedrock Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Bedrock-Edition.md)
-- [How to Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Java-Edition.md)
+- [How to Report a Player in Minecraft: Bedrock Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Bedrock-Edition.md)
+- [How to Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Java-Edition.md)
 
 If you are aware of a server that is violating our Community Guidelines, [you can report them here](http://aka.ms/mce-reportserver).
 

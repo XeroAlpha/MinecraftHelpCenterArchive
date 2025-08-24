@@ -18,4 +18,4 @@ On rare occasions your data or installation can become corrupt, preventing you f
 3.  Reinstall Minecraft
 4.  Download your saved data
 
-\*See [Back up Minecraft: Bedrock Edition Worlds](../Backup-Restore/Use-Realms-to-transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) to learn how to save your world data.
+\*See [Back up Minecraft: Bedrock Edition Worlds](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) to learn how to save your world data.

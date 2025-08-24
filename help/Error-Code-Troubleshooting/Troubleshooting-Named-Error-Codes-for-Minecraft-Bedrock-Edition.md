@@ -264,7 +264,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Rabbit
 
 - **What it means**: There was a resource pack issue.
-- **How to troubleshoot**: See [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-prevent-game-issues.md).
+- **How to troubleshoot**: See [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
 
 ### Silverfish
 

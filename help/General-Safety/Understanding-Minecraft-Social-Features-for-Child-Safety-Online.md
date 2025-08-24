@@ -20,7 +20,7 @@ Minecraft contains many ways players can communicate with each other. Some commu
 - **Chat**: Players can activate the Chat screen and type messages to each other by hitting \[Return\] or \[T\] while playing Minecraft. Typed messages appear on the game screen after they are entered.
 - **Signs and Banners**: Players can craft signs and banners and type up to four lines of text to be displayed. Signs are visible to anyone who plays in the same world.
 - **Book and Quill**: Players can craft a book and quill that allows them to write down experiences, create narratives, or take notes. Books can be read by anyone who finds or creates one in-game.
-- **Skins and Usernames**: Players can create their own username and custom skins with words and logos on them to decorate their in-game characters. Skins and user names must follow the [Community Standards for Minecraft](https://www.minecraft.net/en-us/community-standards) or they [can be banned](../Player-Reporting-Bans/How-to-Update-Banned-Skins-or-Usernames-in-Minecraft.md).
+- **Skins and Usernames**: Players can create their own username and custom skins with words and logos on them to decorate their in-game characters. Skins and user names must follow the [Community Standards for Minecraft](https://www.minecraft.net/en-us/community-standards) or they [can be banned](../Player-Reporting-Bans/Update-Banned-Skins-or-Usernames-in-Minecraft.md).
 
 ## Safety Features for Communication
 
@@ -33,6 +33,6 @@ Minecraft contains many ways players can communicate with each other. Some commu
 Even in moderated games, your child can report bad player behavior to Minecraft. See these articles for more information:
 
 - [Guidelines For Reporting Inappropriate Player Behavior In Minecraft](../Player-Reporting-Bans/Guidelines-for-Reporting-Inappropriate-Player-Behavior-in-Minecraft.md)
-- [How To Report A Player In Minecraft: Bedrock Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Bedrock-Edition.md)
-- [How To Report A Player In Minecraft: Java Edition](../Player-Reporting-Bans/How-to-Report-a-Player-in-Minecraft-Java-Edition.md)
+- [How To Report A Player In Minecraft: Bedrock Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Bedrock-Edition.md)
+- [How To Report A Player In Minecraft: Java Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Java-Edition.md)
 - [How To Report A Minecraft Server](../Player-Reporting-Bans/How-to-Report-a-Minecraft-Server.md)
