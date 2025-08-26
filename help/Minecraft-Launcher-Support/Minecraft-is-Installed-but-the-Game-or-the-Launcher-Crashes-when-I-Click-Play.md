@@ -1,7 +1,7 @@
 ---
-title: Minecraft is Installed but the Game or the Launcher Crashes when I Click Play
+title: "Create a New Minecraft: Java Installation to Troubleshoot Game Issues"
 date: 2024-01-22T20:21:50Z
-updated: 2025-02-28T17:15:49Z
+updated: 2025-08-26T15:37:02Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -15,32 +15,21 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play
+link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Game-Issues
 hash:
-  h_01HMSD4767T1FZ2BXR75WDYZ5P: java-edition
-  h_01HMSD5P4JQSF0P7R6224EEXAG: bedrock-and-other-minecraft-games
+  h_01K3HJ8WKE4S77F2F2282CJA0R: how-to-create-a-new-minecraft-java-edition-installation
 ---
 
-If you are trying to play Minecraft on PC, but the game or Launcher crashes when you click play, there are usually a couple of easy fixes that include making a new Java installation or resetting the Microsoft Store.
+If Minecraft: Java Edition crashes when you select play, and the steps to [Fixing Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fixing-Crashes-and-Lag-Issues-in-Minecraft.md) didn’t help, the problem could be a conflicting mod or issues with the advanced settings. Here’s how to create a fresh Minecraft installation and return to default settings.
 
-### Java Edition
+### How to create a new Minecraft: Java Edition installation
 
-If you are trying to play Minecraft: Java Edition and it keeps crashing, you may have a mod that is messing up your game. We recommend first making sure that you are running the latest version release of Java Edition.  If you are, try backing up your save, which you can learn more about on our [managing data and game storage page,](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) and then creating a new Java installation.
+1.  Open the Minecraft Launcher and sign in with your Microsoft account.
+2.  Select **Minecraft: Java Edition** on the left.
+3.  Select the **Installations** tab at the top.
+4.  Select **New installation**.
+5.  Enter a name for your test world and select the same version as the world that’s crashing.
+6.  Uncheck **Launch after Install** if you’d like to manually launch Minecraft when it’s done installing.
+7.  Select **Install** and launch Minecraft once it’s done installing if needed.
 
-**How to create a new Java installation**
-
-1.  Go to the **Installation** tab under Minecraft: Java Edition.
-2.  Click on **New installation.**
-3.  Name your world and select the version you want the world to be.
-4.  If your new install works, check your downloaded mods on the previous install to find what is preventing you from playing.
-
-### Bedrock and other Minecraft games
-
-If you keep getting met with crashes when trying to play Bedrock or other Minecraft games, try to reset the Microsoft Store.
-
-**Reset the Microsoft Store**
-
-1.  Press the **Windows key** + **R** simultaneously .
-2.  A window will appear. Type in **WSReset** and hit enter.
-
-If the above did not help, make sure your operating system and video/graphics drivers are updated.
+If Minecraft launches successfully after you create a new installation, troubleshoot downloaded mods or advanced setting on your previous installation. You can also copy the default settings from the new installation and see if that fixes the issue on your existing world. This includes the resolution and the JVM arguments.
