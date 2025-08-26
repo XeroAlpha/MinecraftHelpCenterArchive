@@ -1,10 +1,11 @@
 ---
-title: Minecraft Java Edition - Snapshot 25w33a+b
+title: Minecraft Java Edition - Snapshot 25w34a+b
 date: 2025-08-26T08:05:09Z
+updated: 2025-08-26T13:43:54Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
-link: https://feedback.minecraft.net/hc/en-us/articles/39092387123469-Minecraft-Java-Edition-Snapshot-25w33a-b
+link: https://feedback.minecraft.net/hc/en-us/articles/39092387123469-Minecraft-Java-Edition-Snapshot-25w34a-b
 hash:
   h_01K3JPDEGAPY9ZSH8HG1Y3XQ0A: fixed-bugs-in-25w34b
   h_01K3JPDEGB1ZA896A9JXD30CPX: new-features
