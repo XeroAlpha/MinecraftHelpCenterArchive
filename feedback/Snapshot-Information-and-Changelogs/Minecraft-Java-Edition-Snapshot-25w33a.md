@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w33a
 date: 2025-08-18T09:20:25Z
-updated: 2025-08-18T09:20:30Z
+updated: 2025-08-26T08:05:43Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -179,7 +179,7 @@ Format: List of entries:
 
 ## Get the Snapshot
 
-Snapshots are available for Minecraft: Java Edition. To install the Snapshot, open up the [Minecraft Launcher](https://author-minecraftnet-prd02.adobecqms.net/content/minecraft-net/language-masters/download.html) and enable snapshots in the "Installations" tab.
+Snapshots are available for Minecraft: Java Edition. To install the Snapshot, open up the [Minecraft Launcher](https://www.minecraft.net/content/minecraft-net/language-masters/download) and enable snapshots in the "Installations" tab.
 
 **Testing versions can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
