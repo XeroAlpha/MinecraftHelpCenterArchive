@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Minecraft: Java Edition Video Settings and Performance"
 date: 2025-04-25T23:09:15Z
-updated: 2025-05-01T14:20:58Z
+updated: 2025-08-26T16:46:19Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -18,19 +18,25 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/36136728320013-Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance
 hash:
-  h_01JSQG10Z6DV3P429EDPS6F155: adjust-advanced-video-settings-in-minecraft-java-edition
+  h_01K3HJFPSNJTTE2VNPYGWANCE9: adjust-advanced-video-settings-in-minecraft-java-edition
+  h_01K3HJFPSNA2W8NVGRMJDXFX0C: more-troubleshooting-resources
 ---
 
-If you’re experiencing crashes or reduced performance playing Minecraft: Java Edition, you can modify your video settings to improve gameplay. For tips adjusting video settings for Minecraft: Bedrock Edition, see [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md). 
+If you have crashes or reduced performance playing Minecraft: Java Edition, you can change your video settings to improve gameplay. For Minecraft: Bedrock Edition tips, see [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md). 
 
 ## Adjust advanced video settings in Minecraft: Java Edition
 
-Launch Minecraft and select **Options** \> **Video Settings** to access settings. Try experimenting with these recommendations and restart Minecraft after making adjustments:
+Launch Minecraft: Java Edition and select **Options** \> **Video Settings** to access settings. Try experimenting with these recommendations and restart Minecraft after making adjustments:
 
-- **Adjust Graphics setting**: Select **Graphics: Fast** if set to Fancy or Fabulous.
-- **Change Render Distance**: Choose a setting below the default of 12 chuncks.
-- **Disable Smooth Lighting**: Select **Smooth Lighting: Off** if enabled.
-- **Adjust Chunk Builder**: Select **Chunk Builder: Threaded** instead of Fully Blocking or Semi Blocking.
-- **Adjust Clouds**: Select **Clouds: Fast** if set to Fancy.
+- **Adjust Graphics setting**: Select **Graphics: Fast** if set to Fancy or Fabulous.
+- **Change Render Distance**: Choose a setting below the default of 12 chunks.
+- **Disable Smooth Lighting**: Select **Smooth Lighting: Off** if enabled.
+- **Adjust Chunk Builder**: Select **Chunk Builder: Threaded** instead of Fully Blocking or Semi Blocking.
+- **Adjust Clouds**: Select **Clouds: Fast** if set to Fancy.
 
-If you see an improvement in gameplay, gradually increase these settings until you see an improved render distance without performance issues. Additional device and setup suggestions can also be found in [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md).
+If you see an improvement in gameplay, gradually increase these settings until you see an improved render distance without performance issues.
+
+## More troubleshooting resources
+
+- [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md)
+- [Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition](./Fix-Game-Crashes-by-Allocating-More-Memory-to-Minecraft-Java-Edition.md)

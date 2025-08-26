@@ -1,7 +1,7 @@
 ---
 title: "Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition"
 date: 2025-08-25T21:29:57Z
-updated: 2025-08-26T15:28:53Z
+updated: 2025-08-26T16:15:17Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -24,7 +24,7 @@ hash:
   h_01K3HGN1S0S2PG9C1EPT5MBKMD: how-to-change-the-memory-allocated-to-minecraft-java-edition
 ---
 
-Minecraft: Java Edition allows you to use more of your device’s random-access memory (RAM) by adjusting settings in the Minecraft Launcher. If you still have crashes or lag issues after trying the troubleshooting in [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md), you may want to try changing Minecraft’s default RAM settings. Always [backup your Minecraft Worlds](https://help.minecraft.net/hc/en-us/sections/27166561402125) before troubleshooting or changing your game settings.
+Minecraft: Java Edition allows you to use more of your device’s random-access memory (RAM) by changing settings in the Minecraft Launcher. If you still have crashes or lag issues after trying the troubleshooting in [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md), you may want to try changing Minecraft’s default RAM settings. Always [backup your Minecraft Worlds](https://help.minecraft.net/hc/en-us/sections/27166561402125) before troubleshooting or changing your game settings.
 
 ## How to change the memory allocated to Minecraft: Java Edition
 

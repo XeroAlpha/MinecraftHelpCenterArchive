@@ -1,7 +1,7 @@
 ---
 title: "Create a New Minecraft: Java Installation to Troubleshoot Game Issues"
 date: 2024-01-22T20:21:50Z
-updated: 2025-08-26T15:37:02Z
+updated: 2025-08-26T16:40:23Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -22,13 +22,13 @@ hash:
 
 If Minecraft: Java Edition crashes when you select play, and the steps to [Fixing Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fixing-Crashes-and-Lag-Issues-in-Minecraft.md) didn’t help, the problem could be a conflicting mod or issues with the advanced settings. Here’s how to create a fresh Minecraft installation and return to default settings.
 
-### How to create a new Minecraft: Java Edition installation
+## How to create a new Minecraft: Java Edition installation
 
 1.  Open the Minecraft Launcher and sign in with your Microsoft account.
 2.  Select **Minecraft: Java Edition** on the left.
 3.  Select the **Installations** tab at the top.
 4.  Select **New installation**.
-5.  Enter a name for your test world and select the same version as the world that’s crashing.
+5.  Enter a name for your test installation and select the same game version as the world that’s crashing.
 6.  Uncheck **Launch after Install** if you’d like to manually launch Minecraft when it’s done installing.
 7.  Select **Install** and launch Minecraft once it’s done installing if needed.
 
