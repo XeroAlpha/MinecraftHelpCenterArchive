@@ -1,7 +1,7 @@
 ---
-title: "Create a New Minecraft: Java Installation to Troubleshoot Game Issues"
+title: "Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes"
 date: 2024-01-22T20:21:50Z
-updated: 2025-08-26T16:40:23Z
+updated: 2025-08-26T21:08:51Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -15,12 +15,12 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166539479437
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Game-Issues
+link: https://help.minecraft.net/hc/en-us/articles/23431114561037-Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Launcher-Crashes
 hash:
   h_01K3HJ8WKE4S77F2F2282CJA0R: how-to-create-a-new-minecraft-java-edition-installation
 ---
 
-If Minecraft: Java Edition crashes when you select play, and the steps to [Fixing Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fixing-Crashes-and-Lag-Issues-in-Minecraft.md) didn’t help, the problem could be a conflicting mod or issues with the advanced settings. Here’s how to create a fresh Minecraft installation and return to default settings.
+If the Minecraft Launcher crashes when you select play for Minecraft: Java Edition, the problem could be with the exiting installation. Here’s how to create a fresh Minecraft installation and return to default settings to help determine if a corrupt installation is causing the problem.
 
 ## How to create a new Minecraft: Java Edition installation
 
