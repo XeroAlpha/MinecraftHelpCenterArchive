@@ -1,7 +1,7 @@
 ---
 title: Fix Crashes and Lag Issues in Minecraft
 date: 2024-06-13T19:08:57Z
-updated: 2025-08-26T16:52:59Z
+updated: 2025-08-27T17:40:42Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -54,5 +54,5 @@ Before trying more advanced troubleshooting steps, we recommend signing out of M
 ## More troubleshooting resources
 
 - [Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition](./Fix-Game-Crashes-by-Allocating-More-Memory-to-Minecraft-Java-Edition.md)
-- [Create a new Minecraft: Java Installation to prevent game issues](../Minecraft-Launcher-Support/Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play.md)
+- [Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes](../Minecraft-Launcher-Support/Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play.md)
 - [Fix Minecraft Launcher Crashes and Freezes on Windows PC](../Minecraft-Launcher-Support/The-Minecraft-Launcher-Crashes-on-Sign-In.md)

@@ -1,7 +1,7 @@
 ---
 title: Fix Minecraft Launcher Crashes and Freezes on Windows PC
 date: 2024-01-22T20:02:48Z
-updated: 2025-08-26T16:19:31Z
+updated: 2025-08-27T17:48:23Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -32,5 +32,5 @@ Try resetting the Microsoft Store cache. See [Microsoft Store doesn't open](http
 ## More troubleshooting resources
 
 - [Fixing Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fixing-Crashes-and-Lag-Issues-in-Minecraft.md)
-- [Create a New Minecraft: Java Installation to Troubleshoot Game Issues](./Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play.md)
+- [Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes](./Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play.md)
 - [Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition](../Performance-Troubleshooting/Fix-Game-Crashes-by-Allocating-More-Memory-to-Minecraft-Java-Edition.md)
