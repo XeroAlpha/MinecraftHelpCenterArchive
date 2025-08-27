@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w35a
 date: 2025-08-26T17:58:19Z
-updated: 2025-08-26T17:58:23Z
+updated: 2025-08-27T10:18:54Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -153,7 +153,7 @@ Added a server management API (JSON-RPC over WebSocket) for dedicated servers
     - name: player name, optional string
     - id: player uuid, optional UUID
     - properties: profile properties, optional map
-  - hat: controls rendering of a hat layer, boolean, default false
+  - hat: controls rendering of a hat layer, boolean, default true
 
 ## Resource Pack Version 67.0
 
