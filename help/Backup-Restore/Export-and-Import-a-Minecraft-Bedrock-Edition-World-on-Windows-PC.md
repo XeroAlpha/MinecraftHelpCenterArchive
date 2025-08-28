@@ -1,7 +1,7 @@
 ---
 title: "Export and Import a Minecraft: Bedrock Edition World on Windows PC"
 date: 2025-06-25T22:47:35Z
-updated: 2025-07-31T21:38:51Z
+updated: 2025-08-28T15:30:49Z
 categories: Backup & Restore
 tags:
   - section_27166561402125
@@ -11,7 +11,7 @@ hash:
   h_01JYMM7B0J80Q6CYJTP012G3V7: import-a-minecraft-bedrock-world-on-a-windows-pc
 ---
 
-If want to make a copy or transfer a Minecraft: Bedrock Edition world stored locally on a Windows PC, you can export your world as a file to save as a backup or import to another Windows PC.
+If you want to make a copy or transfer a Minecraft: Bedrock Edition world stored locally on a Windows PC, you can export your world as a file to save as a backup or import to another Windows PC.
 
 ## Export a Minecraft: Bedrock world on a Windows PC
 
