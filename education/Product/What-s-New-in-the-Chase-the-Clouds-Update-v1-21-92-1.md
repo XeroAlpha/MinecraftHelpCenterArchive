@@ -1,7 +1,7 @@
 ---
 title: What's New in the Chase the Clouds Update v1.21.92.1
 date: 2025-07-09T20:32:21Z
-updated: 2025-08-27T20:43:47Z
+updated: 2025-08-28T20:44:28Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-92-1
 hash:
@@ -20,6 +20,14 @@ hash:
 ---
 
 Welcome to the Chase the Clouds Update for Minecraft Education! This update includes improvements to OneDrive cloud storage, multiplayer, and coding. We have also added new features from Minecraft Bedrock up to version 1.21.9 such as Bundles, the Pale Garden biome, Happy Ghasts and the reorganized Creative Inventory.
+
+ 
+
+Check out our patch notes lower in the article, or view our video feature demo below!
+
+<figure class="wysiwyg-image">
+<a href="https://www.youtube.com/watch?v=ovKR0X_jIwA"><img src="https://edusupport.minecraft.net/hc/article_attachments/40708894016404" /></a>
+</figure>
 
  
 
