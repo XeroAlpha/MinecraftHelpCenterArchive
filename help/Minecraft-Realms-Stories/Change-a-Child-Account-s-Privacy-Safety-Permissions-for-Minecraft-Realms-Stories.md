@@ -1,7 +1,7 @@
 ---
 title: Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories
 date: 2023-10-25T20:06:23Z
-updated: 2025-03-20T16:41:04Z
+updated: 2025-08-29T18:34:31Z
 categories: Minecraft Realms Stories
 tags:
   - section_15463792344973
@@ -24,14 +24,14 @@ All of the settings below must be set to **Allow** for a child account to access
 
 - **You can join multiplayer games** or **Join cross-network play**: This controls the ability to join Realms and multiplayer games
 - **You can create and join clubs** or **Join clubs**: This controls the ability to join and share in Realms Stories
-- **You can upload captures to Xbox Live** or **See and upload community creations**: This controls the ability to upload in-game screenshots
+- **You can upload captures to Xbox** or **See and upload community creations**: This controls the ability to upload in-game screenshots
 
 ## Adjust account settings using the Xbox Privacy Online
 
 1.  Visit the [Privacy & online safety](https://account.xbox.com/en-us/settings) on the Xbox Settings page.
 2.  Sign in using the parent account.
 3.  Click on the child account you want to manage.
-4.  Select the **Xbox Series X\|S, Xbox One, and Windows 10 devices Online Safety** tab.
+4.  Select the **Xbox and Windows 10 devices Online Safety** tab.
 5.  Adjust settings as desired.
 6.  Click Submit and wait for the page to reload.
 7.  Sign out of Minecraft and restart for the new settings to take effect. 
@@ -45,4 +45,7 @@ All of the settings below must be set to **Allow** for a child account to access
 5.  Adjust settings as desired. Changes are saved automatically.
 6.  Sign out of Minecraft and restart for the new settings to take effect. 
 
-View [Manage Who Can See your Profile in Minecraft: Bedrock Edition](../Manage-Your-Minecraft-Profile/View-and-Edit-Your-Minecraft-Profile.md) to further protect your child’s account profile in-game.
+Microsoft and Xbox family settings allow you to control who can view profiles and how players connect with friends online. See these articles for information:
+
+- [Managing Child Account Social Settings Using Xbox Settings Online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
+- [Managing Child Account Social Settings Using the Xbox Family App](../Account-Settings/Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md)
