@@ -6,8 +6,9 @@ categories: Community Guidelines
 tags:
   - title_minecraft_java_edition
   - title_minecraft
-  - title_minecraft_dungeons
+  - section_15463792344973
   - section_27983753055117
+  - section_35367844849933
 link: https://help.minecraft.net/hc/en-us/articles/360058532812-Official-Minecraft-Sites
 hash:
   h_01K3GXK2S9DPF63318S7WSKPVR: websites

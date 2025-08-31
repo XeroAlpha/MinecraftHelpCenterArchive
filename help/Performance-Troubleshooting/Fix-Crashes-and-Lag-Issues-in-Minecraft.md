@@ -54,5 +54,5 @@ Before trying more advanced troubleshooting steps, we recommend signing out of M
 ## More troubleshooting resources
 
 - [Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition](./Fix-Game-Crashes-by-Allocating-More-Memory-to-Minecraft-Java-Edition.md)
-- [Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes](../Minecraft-Launcher-Support/Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play.md)
-- [Fix Minecraft Launcher Crashes and Freezes on Windows PC](../Minecraft-Launcher-Support/The-Minecraft-Launcher-Crashes-on-Sign-In.md)
+- [Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes](../Minecraft-Launcher-Support/Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Launcher-Crashes.md)
+- [Fix Minecraft Launcher Crashes and Freezes on Windows PC](../Minecraft-Launcher-Support/Fix-Minecraft-Launcher-Crashes-and-Freezes-on-Windows-PC.md)

@@ -47,4 +47,4 @@ If you’re crashing or lagging while playing Minecraft: Bedrock Edition, changi
   - **Fancy Graphics Mode**: Select this mode to use a moderate amount of system resources. You can also turn off **Beautiful Skies** and **Smooth Lighting** under the Fancy Graphics Options.
   - **Vibrant Visuals:** This mode uses the highest amount of system resources. Lower the slider levels or turn off specific effects to find a mix that works for your system.
 
-If your game runs smoother, gradually reenable these settings until you see improved graphics without issues. For other device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fixing-Crashes-and-Lag-Issues-in-Minecraft.md).
+If your game runs smoother, gradually reenable these settings until you see improved graphics without issues. For other device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md).

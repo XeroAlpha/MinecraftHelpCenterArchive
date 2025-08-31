@@ -31,6 +31,6 @@ Try resetting the Microsoft Store cache. See [Microsoft Store doesn't open](http
 
 ## More troubleshooting resources
 
-- [Fixing Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fixing-Crashes-and-Lag-Issues-in-Minecraft.md)
-- [Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes](./Minecraft-is-Installed-but-the-Game-or-the-Launcher-Crashes-when-I-Click-Play.md)
+- [Fixing Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fix-Crashes-and-Lag-Issues-in-Minecraft.md)
+- [Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes](./Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Launcher-Crashes.md)
 - [Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition](../Performance-Troubleshooting/Fix-Game-Crashes-by-Allocating-More-Memory-to-Minecraft-Java-Edition.md)
