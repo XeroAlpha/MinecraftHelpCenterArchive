@@ -1,7 +1,7 @@
 ---
 title: Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories
 date: 2023-10-25T20:06:23Z
-updated: 2025-08-29T18:34:31Z
+updated: 2025-09-04T20:57:43Z
 categories: Minecraft Realms Stories
 tags:
   - section_15463792344973
@@ -16,11 +16,11 @@ hash:
 
 You can change Privacy & Safety permissions to manage access to Minecraft Realms and Realms Stories features. If you want to know more about safety while playing Minecraft Realms, see [Minecraft Realms Safety](../Manage-Realms-Settings/Minecraft-Realms-Safety.md).
 
-Minecraft uses Microsoft account and Xbox features to enable parental control. You can use the Xbox website and app to manage access to Minecraft social features even if you do not own an Xbox. Most features are enabled by default on adult accounts but feature access can be managed on any account type.
+Minecraft uses Microsoft account and Xbox features to enable parental control. You can use the Xbox website and app to manage access to Minecraft social features even if you do not own an Xbox. Most features are enabled by default on adult accounts, but feature access can be managed on any account type.
 
 ## Required settings for Minecraft Realms Stories
 
-All of the settings below must be set to **Allow** for a child account to access Realms, share screen shots, and see other friends stories. Setting names may vary depending on which tool you use. 
+All of the settings below must be set to **Allow** for a child account to access Realms, share screen shots, and see other friends' stories. Setting names may vary depending on which tool you use. 
 
 - **You can join multiplayer games** or **Join cross-network play**: This controls the ability to join Realms and multiplayer games
 - **You can create and join clubs** or **Join clubs**: This controls the ability to join and share in Realms Stories

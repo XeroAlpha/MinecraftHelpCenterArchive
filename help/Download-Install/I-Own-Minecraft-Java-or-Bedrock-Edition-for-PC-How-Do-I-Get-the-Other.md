@@ -1,7 +1,7 @@
 ---
 title: "I Own Minecraft: Java or Bedrock Edition for PC. How Do I Get the Other?"
 date: 2022-06-03T16:21:13Z
-updated: 2024-03-01T19:55:28Z
+updated: 2025-09-04T21:24:57Z
 categories: Download & Install
 tags:
   - trending
@@ -13,8 +13,10 @@ Minecraft: Java Edition and Minecraft: Bedrock Edition for Windows are now being
 
 If you have bought Minecraft before, you’re now getting the other edition for free. Follow these steps to redeem it:
 
-1.  [Click here](https://aka.ms/JavaBedrockEdition) to go to the Microsoft Store listing for Minecraft: Java & Bedrock for PC.
+1.  Visit the Microsoft Store listing for [Minecraft: Java & Bedrock for PC](https://www.xbox.com/en-US/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj?ocid=storeforweb).
 2.  Sign-in to the Microsoft Store with your Microsoft account.
-3.  Once you’re signed in, instead of a “Buy” button you should see a button that says “Get.” Click this button – and now you own both editions!
+3.  Select the **Get** button to download. 
 
-After you have gotten both editions, you can [download and install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md) to access your games.
+Note: You need to be signed in and have a license for Minecraft to see the **Get** option. Otherwise, you will be prompted to buy the game.
+
+After you download both editions, you can visit [Download and Install the Minecraft Launcher](../Minecraft-Launcher-Support/Download-and-Install-the-Minecraft-Launcher.md) to access your games.

@@ -1,7 +1,7 @@
 ---
 title: Cancel a Minecraft Realms Subscription in the Minecraft Menu
 date: 2024-02-14T19:17:39Z
-updated: 2025-04-28T14:40:24Z
+updated: 2025-09-04T21:17:15Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft
@@ -60,6 +60,6 @@ Cancelling a Realms subscription on a PlayStation 5 (PS5) is done through the PS
 
 Here are other ways to cancel your Minecraft Realms subscription:
 
-- [Cancel a Minecraft Realms subscription started on personal computer](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Personal-Computer.md)
-- [Cancel a Minecraft Realms subscription started on a mobile device](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Mobile-Device.md)
-- [Cancel a Minecraft Realms subscription started on a game console](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Game-Console.md)
+- [Cancel a Minecraft Realms Subscription Started on a Personal Computer](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Personal-Computer.md)
+- [Cancel a Minecraft Realms Subscription Started on a Mobile Device](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Mobile-Device.md)
+- [Cancel a Minecraft Realms Subscription Started on a Game Console](./Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Game-Console.md)

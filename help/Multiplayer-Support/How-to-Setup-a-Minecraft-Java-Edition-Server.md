@@ -1,7 +1,7 @@
 ---
 title: "How to Setup a Minecraft: Java Edition Server"
 date: 2021-03-24T19:23:34Z
-updated: 2024-09-10T14:37:48Z
+updated: 2025-09-04T21:11:27Z
 categories: Multiplayer Support
 tags:
   - section_27983418545293
@@ -14,7 +14,7 @@ Here is a guide to help you create a server so your friends can join and play 
 
 As a prerequisite, you should make sure you have [Java](https://www.oracle.com/java/) installed and up to date on the computer that will host the server so it can run .jar files. 
 
-1.  Go to [this](https://www.minecraft.net/en-us/download/server/) website and download the minecraft_server.1.XX.X.jar file (The X’s will be the current version number) 
+1.  Visit [Download the Minecraft: Java Edition server](https://www.minecraft.net/en-us/download/server/) and download the minecraft_server.1.XX.X.jar file (The X’s will be the current version number) 
 2.  After you have downloaded it, make a folder on your desktop to keep all your server files in. You can name it “Minecraft Server”. 
 3.  Drag over or copy and paste the .jar file into the Minecraft Server folder. 
 4.  While you have the file browser open, open command prompt from the start menu.  
@@ -43,7 +43,7 @@ Now you just have to rerun the launch command in the command prompt and the ser
 
 Making sure you are in the Minecraft Server file directory and enter ***java -jar “your jar name”.jar*** into command prompts 
 
-For more details on all the settings for the server.properties file you can go [here](https://minecraft.wiki/w/Server.properties). Make sure to scroll down to the “Java Edition”. 
+For more details on all the settings for the server.properties file, visit the [Server Properties page on the Minecraft Wiki](https://minecraft.wiki/w/Server.properties). Make sure to scroll down to the “Java Edition”. 
 
 **You will also need to ****forward the port** listed in server.properties **query.port.** The** **default it is 25565 so in your router settings you will need to specify that port to forward. This process will vary from different router manufacturers. If you need assistance in forwarding a port, please refer to your router’s help site/manual. 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install Minecraft Preview
 date: 2022-01-31T18:12:02Z
-updated: 2025-02-18T21:58:24Z
+updated: 2025-09-04T21:02:02Z
 categories: Download & Install
 tags:
   - section_27166490706957
@@ -26,13 +26,14 @@ Locate your platform in the list below for installation instructions for Minecra
 
 ### Android
 
-**Note:** Minecraft Beta on Android will replace your normal Minecraft client. Be sure to [back up](../Manage-Realms-Worlds/Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md) or [transfer your worlds](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) to another device!
+**Note:** Minecraft Beta on Android will replace your normal Minecraft client. Visit our [Backup & Restore](https://help.minecraft.net/hc/en-us/sections/27166561402125) section for instructions on how to save your worlds before installing Minecraft Beta.
 
 1.  Start the Google Play Store app.
 2.  Enter the Minecraft page.
 3.  Scroll down to find a button to enroll in Minecraft Beta.
 4.  The beta app will automatically replace your normal Minecraft app.
-    - You can leave Minecraft Beta at any time by returning to the Google Play Store page on your device.
+
+You can leave Minecraft Beta at any time by returning to the Google Play Store page on your device.
 
 ### iOS
 

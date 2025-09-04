@@ -1,7 +1,7 @@
 ---
 title: Who to contact with your Minecraft support questions
 date: 2023-09-14T20:59:33Z
-updated: 2024-10-01T19:03:02Z
+updated: 2025-09-04T21:28:30Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -45,13 +45,13 @@ Please visit these pages for help with your Microsoft account:
 
 ## Technical Support
 
-For any questions regarding game performance issues, multiplayer and Realms help, and assistance with download, install, and backup, please visit our [Minecraft Technical Support](https://help.minecraft.net/hc/en-us/categories/12617297898381) resources. You can also check the [Mojang Bug Tracker Guidelines and FAQ](./Mojang-Bug-Tracker-Guidelines.md) for information about open bugs and to report new ones. If you still need help, click the Contact Support link at the bottom of any support article.
+For any questions regarding game performance issues, multiplayer and Realms help, and assistance with download, install, and backup, please visit our [Minecraft Technical Support](https://help.minecraft.net/hc/en-us/categories/12617297898381) resources. You can also check the [Mojang Bug Tracker Guidelines](./Mojang-Bug-Tracker-Guidelines.md) for information about open bugs and to report new ones. If you still need help, click the Contact Support link at the bottom of any support article.
 
 ## Minecraft Realms subscription and Marketplace purchases
 
-If you are having [trouble getting a friend to join your Minecraft Realms world](../Create-or-Join-Realms/Join-a-Minecraft-Bedrock-Edition-Realm.md) or cannot access the [Marketplace packs](../Marketplace-Troubleshooting/View-Your-Minecraft-Marketplace-Content.md) included in your Realms Plus subscription, Minecraft Support will help you out.
+If you are having [trouble getting a friend to join your Minecraft Realms world](../Create-or-Join-Realms/Join-a-Minecraft-Bedrock-Edition-Realm.md) or cannot access the [Marketplace packs](../Marketplace-Troubleshooting/View-Your-Minecraft-Marketplace-Content.md) included in your Realms Plus subscription, Minecraft Player Care will help you out.
 
-Having problems accessing other [Marketplace content](../Marketplace-Troubleshooting/Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md) you have purchased? Minecraft Support should be your go-to. Click the Contact Support link at the bottom of any support article.
+Having problems accessing other [Marketplace content](../Marketplace-Troubleshooting/Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md) you have purchased? Minecraft Player Care should be your go-to. Click the Contact Support link at the bottom of any support article.
 
 For subscription changes, [refund requests](../Buying-Minecraft-Games/Request-a-Minecraft-Refund.md), or if you have unrecognized charges, contact [Xbox](https://support.xbox.com/en-US), [PlayStation](https://www.playstation.com/en-us/support/), or [Nintendo](https://en-americas-support.nintendo.com/) Support directly.
 

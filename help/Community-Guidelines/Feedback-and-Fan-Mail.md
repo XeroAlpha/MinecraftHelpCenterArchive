@@ -1,13 +1,14 @@
 ---
 title: Feedback and Fan Mail
 date: 2021-09-10T00:48:16Z
-updated: 2025-02-19T22:04:30Z
+updated: 2025-09-04T21:13:24Z
 categories: Community Guidelines
 tags:
   - section_27983753055117
 link: https://help.minecraft.net/hc/en-us/articles/4408904068621-Feedback-and-Fan-Mail
 hash:
   h_01HCJKGQPYVXRH7TEX93JKTC24: where-can-isend-minecraftfanmail
+  h_01K4B957YAQSTEANR4BZP2X6ZE: how-do-i-get-support
   h_01HCJKGQPYDZM4JRH64K0ZZZ0S: where-can-i-submit-suggestions
 ---
 
@@ -25,7 +26,7 @@ We appreciate every bit of mail we get from our wonderful players! 
 
 ## How do I get support?
 
-See [Who to contact with your Minecraft support questions \| Minecraft Help](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).
+See [Who to contact with your Minecraft support questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).
 
 ## Where can I submit suggestions? 
 

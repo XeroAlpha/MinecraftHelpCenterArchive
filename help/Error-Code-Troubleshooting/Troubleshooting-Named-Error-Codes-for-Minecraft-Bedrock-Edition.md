@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Named Error Codes for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-08-15T18:55:25Z
+updated: 2025-09-04T20:38:32Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft

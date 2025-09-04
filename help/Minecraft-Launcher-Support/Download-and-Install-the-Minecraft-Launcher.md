@@ -1,7 +1,7 @@
 ---
 title: Download and Install the Minecraft Launcher
 date: 2024-02-06T19:18:26Z
-updated: 2025-08-20T21:46:57Z
+updated: 2025-09-04T20:32:24Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition

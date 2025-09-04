@@ -1,7 +1,7 @@
 ---
 title: I Can’t Find my Minecraft World on Android
 date: 2021-11-19T22:40:09Z
-updated: 2024-06-14T21:32:52Z
+updated: 2025-09-04T20:19:58Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -21,7 +21,7 @@ If you play Minecraft on an Android device, you may notice that your world saves
 
 ## Move your worlds directly to their new location
 
-If your world is not in the proper folder, you can try moving it. Visit [How to Locate Minecraft World Files on Mobile](./Find-Minecraft-World-Files-on-Mobile-Devices.md) for steps on finding the location of your world. To move files:
+If your world is not in the proper folder, you can try moving it. Visit [Find Minecraft World Files on Mobile Devices](./Find-Minecraft-World-Files-on-Mobile-Devices.md) for steps on finding the location of your world. To move files:
 
 1.  Make sure you have started Minecraft on the device at least once and viewed the **Play** page so the proper folder has been created.
 2.  Find your saved worlds. They may potentially be located at the old world directory **/games/com.mojang/minecraftWorlds**.
@@ -38,4 +38,4 @@ These applications may mistakenly delete files migrated by Minecraft: Bedrock Ed
 
 If you have a cleaner application installed on your device, it is recommended that you do one of the following: remove the application, prevent it from cleaning files, or create an exception for Minecraft: Bedrock Edition so that files are not deleted.
 
-If you have your world and would like to move it to a different device, see [How to Transfer Your World to Another Device in Minecraft: Bedrock Edition](./Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
+If you have your world and would like to move it to a different device, see our [Backup & Restore section](https://help.minecraft.net/hc/en-us/sections/27166561402125) for information.

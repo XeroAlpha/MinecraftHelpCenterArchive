@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Unable to Join Multiplayer Games in Minecraft
 date: 2021-09-14T22:13:00Z
-updated: 2025-05-23T22:47:54Z
+updated: 2025-09-04T20:50:55Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -31,18 +31,18 @@ You may encounter problems connecting to multiplayer games if all players aren�
 - **Enable automatic updates**: Check your game platform settings to ensure you have the latest version.
 - **Select Latest release from the launcher**: Make sure you’re not using Latest preview or Latest snapshot.
 - **Manually update your game**: See these articles for additional help:
-  - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
-  - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
-  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [Manually Update Minecraft on Mobile Devices](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
+  - [Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
+  - [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
 
 ## Check account permissions and subscriptions
 
-- **Enable multiplayer settings**: [Visit Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) for more instructions. These steps may apply even if you don’t have a child account.
+- **Enable multiplayer settings**: Visit [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md) for more instructions. These steps may apply even if you don’t have a child account.
 - **Verify platform subscription**: If you’re playing Minecraft multiplayer on a console, you must be subscribed to [Xbox Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass), [Nintendo Switch Online](https://ec.nintendo.com/US/en/membership/), or [PlayStation Plus](https://www.playstation.com/en-us/ps-plus/) to play with friends.
 
 ## Check your network connection
 
 - **Disable custom DNS and open ports**: Even if you have general Internet access, Minecraft may conflict with specific DNS and port configurations. See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for details.
-- **Contact the game host**: If you’re playing with a friend on a local network (LAN) or personally hosted server, the host must be online and actively running the world with the Allow multiplayer games permission enabled. See [How to Invite Friends to Your Minecraft: Bedrock Edition World](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md) for more information.\*
+- **Contact the game host**: If you’re playing with a friend on a local network (LAN) or personally hosted server, the host must be online and actively running the world with the Allow multiplayer games permission enabled. See [Invite Friends to Your Minecraft: Bedrock Edition World](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md) for more information.\*
 
 \**This does not apply to Minecraft Realms. Realms owners do not have to be online for guests to play.*

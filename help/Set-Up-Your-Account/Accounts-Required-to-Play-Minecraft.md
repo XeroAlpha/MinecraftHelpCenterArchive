@@ -1,7 +1,7 @@
 ---
 title: Accounts Required to Play Minecraft
 date: 2023-09-18T21:48:09Z
-updated: 2025-04-16T12:22:59Z
+updated: 2025-09-04T20:28:41Z
 categories: Set Up Your Account
 tags:
   - title_minecraft_java_edition
@@ -108,6 +108,6 @@ Here’s a list of required accounts and available game versions (Minecraft: Bed
 ## Using Microsoft accounts for Minecraft
 
 - [Get Help Signing into Minecraft with Your Microsoft Account](../Account-Sign-in/Get-Help-Signing-into-Minecraft-with-Your-Microsoft-Account.md)
-- [Sign In To Minecraft With A Microsoft Account On Mobile](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
-- [Link Your Microsoft Account To Minecraft On PlayStation](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
-- [Link Your Microsoft Account To Minecraft On Nintendo Switch](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md)
+- [Sign in to Minecraft with a Microsoft Account on Mobile](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
+- [Link Your Microsoft Account to Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
+- [Sign in to Minecraft with a Microsoft Account on Nintendo Switch](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md)
