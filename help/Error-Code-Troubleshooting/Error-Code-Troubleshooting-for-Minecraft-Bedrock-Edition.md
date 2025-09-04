@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2025-08-08T16:33:35Z
+updated: 2025-09-04T16:19:36Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -31,7 +31,7 @@ Here are other articles that may help:
 
 ## Troubleshooting steps for Minecraft error codes
 
-Before troubleshooting, we recommend backing up your Minecraft files. See [Backing up Minecraft Worlds](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
+Before troubleshooting, we recommend backing up your Minecraft files. See our [Backup & Restore](https://help.minecraft.net/hc/en-us/sections/27166561402125) Help section.
 
 - **Sign out and restart**: [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) and then shut down and restart your game system before restarting Minecraft and signing in again. If you’re playing on a Windows computer, you can also sign out of Microsoft store, the Xbox app, and any other Minecraft services that might be running and close those programs.
 - **Close other programs**: Close any active, non-Minecraft apps or programs that may be using memory and processor resources.
