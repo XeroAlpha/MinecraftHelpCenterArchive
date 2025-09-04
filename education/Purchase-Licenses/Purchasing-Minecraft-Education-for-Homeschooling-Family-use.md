@@ -1,7 +1,7 @@
 ---
 title: Purchasing Minecraft Education for Homeschooling & Family use
 date: 2022-01-07T00:20:29Z
-updated: 2025-07-24T17:02:25Z
+updated: 2025-09-03T22:13:25Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/4415061129236-Purchasing-Minecraft-Education-for-Homeschooling-Family-use
 hash:
@@ -11,10 +11,6 @@ hash:
   h_01HAATSKSFMYJHFDY29KQ4V8KT: 4-assign-users-minecraft-education-licenses
   h_01FC3MVAZGZ616N5KQN00PRRX2: purchase-additional-licenses
 ---
-
-**Note: **Minecraft Education Commercial licenses are temporarily unavailable for purchase at this time, due to backend changes. The ability to purchase will resume on September 2nd. 
-
- 
 
 Homeschools, families, and other organizations can purchase and manage Minecraft Education through our commercial offer. This guide will walk you through the process of setting up an account for your homeschool group or organization, and help clear up confusion that users typically see along the way.
 
@@ -44,7 +40,7 @@ Here is an overview of everything you'll need to do to gain access to Minecraft 
 Your Microsoft 365 Admin Center account grants you access to purchase licenses and manage the users that will access Minecraft Education. It is free to set up an account and does not obligate you to any subscriptions or purchases unless you specifically authorize them.
 
 1.  Navigate to the Minecraft Education account setup and purchase page 
-    1.  Note that commercial license purchases are temporarily unavailable until September 2nd. 
+    1.  Note that commercial license purchases are temporarily unavailable until September 4th. 
 2.  Enter the email you'd like to use as a backup for account recovery purposes
 3.  Fill out the sections with your information.
     - For Business phone number, put in your phone number. 
