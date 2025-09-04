@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.120.20
 date: 2025-09-02T15:12:21Z
-updated: 2025-09-03T15:51:54Z
+updated: 2025-09-04T07:59:04Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39262266489613-Minecraft-Beta-Preview-1-21-120-20
 hash:
@@ -38,7 +38,7 @@ hash:
 
 #### **Posted:** 3 September 2025
 
-**NOTE:** This week's Preview version may be delayed on Windows. We apologize for the inconvenience and are working to resolve the issue.
+**NOTE:** This week's Preview version may be delayed on Windows. We apologize for the inconvenience and are working to resolve the issue. (Update: The update should now be available to all expected platforms as normal - thanks for your patience!)
 
 ### **Information on Minecraft Preview and Beta:**
 
@@ -52,14 +52,14 @@ hash:
 
 It's time for another Preview and Beta release! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](http://bugs.mojang.com/).
 
-## Features and Bug Fixes
+# Features and Bug Fixes
 
-### Blocks
+## Blocks
 
 - Tadpoles now spawn in the water block below the Frogspawn block ([MCPE-225997](https://bugs.mojang.com/browse/MCPE-225997))
 - Fixed an issue with being unable to continue destroying valid blocks in Adventure Mode when they are behind water
 
-#### Shelf
+### Shelf
 
 - Adding or removing Redstone power to or from the Shelf now emits vibrations
 - Anvil and Wall Blocks have been repositioned on the Shelf and Item Frame ([MCPE-225309](https://bugs.mojang.com/browse/MCPE-225309))
@@ -67,21 +67,21 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - When a Player places/removes an item on a Powered Shelf a vibration of frequency 3 is emitted
 - When a Player swaps item with one on a Powered Shelf a vibration of frequency 6 is emitted
 
-### Commands
+## Commands
 
 - Fixed an issue where the Damage Command would incorrectly report failure when applying damage to an Ender Crystal ([MCPE-191379](https://bugs.mojang.com/browse/MCPE-191379))
 - Fixed /locate biome command to no longer direct the player into wrong biome areas ([MCPE-159992](https://bugs.mojang.com/browse/MCPE-159992))
 
-### Gameplay
+## Gameplay
 
 - Fixed loading of text for Sign blocks from very old worlds
 
-### General
+## General
 
 - Starting a world with a missing Marketplace template will now correctly redownload the template and start the world
 - The first person camera will now offset backwards slightly when facing and climbing blocks such as Ladders and Vines
 
-### Graphical
+## Graphical
 
 - Restored Java parity on how ambient occlusion is computed for partial blocks ([MCPE-226160](https://bugs.mojang.com/browse/MCPE-226160))
 - Added TAA upscaling to weather effects like snow
@@ -90,22 +90,22 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - Improved quality of gamma correction on PC and Consoles and fixed the brightness of Creeper textures in the gamma calibration screen in Vibrant Visuals
 - Mobs will now become slightly transparent when the camera gets too close or passes through them
 
-### Items
+## Items
 
 - Suspicious Stew is now present in Creative Mode with effect description ([MCPE-51173](https://bugs.mojang.com/browse/MCPE-51173))
 
-### Mobs
+## Mobs
 
 - Chicken Jockeys now drop the Lava Chicken music disc when killed by the player or tamed Wolves
 - Copper Golem now drops its carried item when player interacts while holding an item in offhand, or when player has armor equipped ([MCPE-225249](https://bugs.mojang.com/browse/MCPE-225249))
-- Copper Golem Statue no longer has cutoff pixels when in the sitting pose ([MCPE-225999](https://bugs.mojang.com/browse/MCPE-225999))
+- Copper Golem Statue no longer has cut off pixels when in the sitting pose ([MCPE-225999](https://bugs.mojang.com/browse/MCPE-225999))
 
-### Sounds
+## Sounds
 
 - Copper Chest Opening and Close sounds now use a natural attenuation curve ([MCPE-224011](https://bugs.mojang.com/browse/MCPE-224011))
 - Copper Golem Step and Spin sounds now use a natural attenuation curve
 
-### User Interface
+## User Interface
 
 - Clicking on text fields now places the cursor in the correct spot even for scrolled message boxes ([MCPE-186409](https://bugs.mojang.com/browse/MCPE-186409))
 - Keyboard button on the chat screen is now only visible for touch controls ([MCPE-105710](https://bugs.mojang.com/browse/MCPE-105710))
@@ -117,13 +117,13 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - Fixed issue where worlds backed by Xbox cloud storage would show a default tile when local data was present but invalid
 - Fixed a bug where players could not move items from creative inventory to inventory in Pocket UI ([MCPE-226829](https://bugs.mojang.com/browse/MCPE-226829))
 
-### World Generation
+## World Generation
 
 - Structures no longer build on top of features (e.g. trees) at chunk borders
 
-## Technical Updates
+# Technical Updates
 
-### API
+## API
 
 Optionally set version property to "beta" to always choose the latest beta version of the module. Example from manifest.json:
 
@@ -140,15 +140,15 @@ Optionally set version property to "beta" to always choose the latest beta versi
 - Moved type ScriptBiomeType from beta into 2.3.0
 - Moved API Dimension.getBiome(location: Vector3) from beta into 2.3.0
 
-### Blocks
+## Blocks
 
 - Custom blocks using a non-opaque render_method in the minecraft:material_instances component that are placed above water will no longer incorrectly cull the top face of the water block
 
-### Components
+## Components
 
 - The "all_slots_empty", "any_slot_empty", "has_equipment" filters now support "main_hand" as an equipment location
 
-### Editor
+## Editor
 
 - Added confirmation dialog in Keyboard Settings when resetting, restoring or closing the modal without saved changes
 - Fixed a bug that caused lightning bolts to not despawn when entities are paused
@@ -158,16 +158,16 @@ Optionally set version property to "beta" to always choose the latest beta versi
 - Added gradient background color on the Color timeline that interpolates between the colors of two adjacent nodes
 - Added optional boolean property in Timeline API (renderGradientBackground) that allows the rendering of the background color to be turned off. By default it is ON
 
-### Item Components
+## Item Components
 
 - Items with the new "minecraft:fire_resistant" item component no longer visually disappear on the client when thrown in fire while persisting on the server, as the property is now synced correctly across both
 
-### Items
+## Items
 
 - Starting with format version 1.21.110, when a custom item's menu_category's category is set to "none" (or not specified) the item will be usable in commands ([MCPE-177866](https://bugs.mojang.com/browse/MCPE-177866))
 - Fixed issue with rendering custom blocks as "flying items" ([MCPE-180489](https://bugs.mojang.com/browse/MCPE-180489))
 
-### Molang
+## Molang
 
 - Fixed query.graphics_mode_is_any not being correct when switching to Vibrant Visuals
 - Added 21 new Molang expressions:
@@ -203,9 +203,9 @@ Optionally set version property to "beta" to always choose the latest beta versi
   - "math.ease_out_elastic(start, end, 0_to_1)", output goes from start to end via 0_to_1, overshooting the end with elastic oscillations before settling
   - "math.ease_in_out_elastic(start, end, 0_to_1)", output goes from start to end via 0_to_1, oscillating elastically at both start and end, with stable change in the middle
 
-## Experimental Technical Updates
+# Experimental Technical Updates
 
-### API
+## API
 
 - Added Dimension.getGeneratedStructures(location: Vector3) which can be used to locate the Structures (Pillager Outpost, Mineshaft, etc.) of a given location
 - Added worldAfterEvents.playerUseNameTag which fires when a Player uses a named NameTag Item on an Entity
@@ -213,9 +213,9 @@ Optionally set version property to "beta" to always choose the latest beta versi
 - Added method Player.setControlScheme(controlScheme?: string): void; to beta
 - Added method Player.getControlScheme(): ControlScheme; to beta
 
-### Biomes
+## Biomes
 
-#### Molang
+### Molang
 
 - Added 'query.entity_biome_has_any_identifier', 'query.entity_biome_has_any_tags', and 'query.entity_biome_has_all_tags' molang query functions to UpcomingCreatorFeatures
   - These queries only work in resource packs(client-side), and are not supported in behavior packs
@@ -223,15 +223,15 @@ Optionally set version property to "beta" to always choose the latest beta versi
   - "entity_biome_has_any_tags('my_tag_name')" takes a list of biome tags and checks if the biome the entity is in matches any
   - "entity_biome_has_all_tags('my_tag_name')" takes a list of biome tags and checks if the biome the entity is in matches all
 
-### Blocks
+## Blocks
 
 - Allow items referencing a pottable block in their "minecraft:block_placer" component to be pottable when "replace_block_item" is true
 
-### Editor
+## Editor
 
 - Added an offset and alignment property to the summon tool so that creators can more easily position entities at specific locations
 
-### Graphical
+## Graphical
 
 - Deprecated point_lights/global.json in favor of a new file and schema, local_lighting/local_lighting.json. Creators can still make use of point_lights/global.json, but are encouraged to migrate to the new schema
   - Extended per-block local lighting information to include a light_type which can be either static_light or point_light
