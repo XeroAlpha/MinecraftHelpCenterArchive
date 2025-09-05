@@ -1,7 +1,7 @@
 ---
 title: Purchasing Minecraft Education for Homeschooling & Family use
 date: 2022-01-07T00:20:29Z
-updated: 2025-09-03T22:13:25Z
+updated: 2025-09-05T17:02:03Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/4415061129236-Purchasing-Minecraft-Education-for-Homeschooling-Family-use
 hash:
@@ -59,7 +59,7 @@ Great job! Next, you'll move on to the actual purchasing of the Minecraft Educat
 ## 2. First-time purchase Minecraft Education licenses
 
 1.  Select number of Minecraft Education licenses you'd like to purchase. 
-    - Licenses are \$12 per user per year
+    - Licenses are \$36 per user per year
 2.  Add payment info
 3.  Confirm purchase!
 
