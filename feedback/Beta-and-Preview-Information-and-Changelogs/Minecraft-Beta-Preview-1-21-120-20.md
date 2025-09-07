@@ -127,7 +127,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 Optionally set version property to "beta" to always choose the latest beta version of the module. Example from manifest.json:
 
-``` language-auto
+``` auto
 "dependencies": [
 {
   "module_name": "@minecraft/server",

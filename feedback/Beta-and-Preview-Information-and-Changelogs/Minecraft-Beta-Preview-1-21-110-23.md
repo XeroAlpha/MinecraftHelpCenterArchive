@@ -161,7 +161,7 @@ It's time for another Preview and Beta release! Build with copper torches, lante
   - E.g. the `priority` would be taken from the first duplicated element and the `max_amount` from the last, now the first "matching" entry will fully shadow those coming after it
   - Consider this `items` list in a `minecraft:shareables` using the new `tag` functionality:
 
-  ``` language-auto
+  ``` auto
   "items": [  
     { "item": "minecraft:apple", "priority": 1, "max_amount": 2 },
     { "item": "minecraft:is_food", "priority": 0, "max_amount": 1 }]  

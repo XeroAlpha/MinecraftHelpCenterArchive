@@ -147,7 +147,7 @@ It's time for a new Minecraft Preview and Beta! You'll be excited to know that b
   - The schema for `color_grading/color_grading.json` now requires a `"format_version"` string, which must be a version of `"1.21.40"`
   - The schema for `water/water.json` now requires a `"format_version"` string, which must be a version of `"1.21.40"`
 
-``` code-line
+``` json
 "lighting/global.json"
 {
     "minecraft:lighting_settings": {

@@ -164,6 +164,7 @@ Just as a reminder, we won't be accepting bug reports related to spectator mode 
 
 New JavaScript modules in manifest.json should look as follows:
 
+
       "modules": [
         {
           "description": "JavaScript module code",
