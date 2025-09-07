@@ -11,86 +11,86 @@ import GithubSlugger from 'github-slugger';
  */
 
 /**
- * @param {(type: string, node: Block | Inline, traversalChildren: (newNode?: Block | Inline) => Block | Inline) => Block[] | Inline[] | Block | Inline | null} handler
+ * @param {(type: string, node: Block | Inline, traverseChildren: (newNode?: Block | Inline) => Block | Inline) => Block[] | Inline[] | Block | Inline | null} handler
  */
-function traversal(handler) {
+function traverse(handler) {
     /**
      * @param {Block[]} blocks
      */
-    function traversalBlockArray(blocks) {
-        blocks.splice(0, blocks.length, ...blocks.flatMap((block) => traversalBlock(block)));
+    function traverseBlockArray(blocks) {
+        blocks.splice(0, blocks.length, ...blocks.flatMap((block) => traverseBlock(block)));
         return blocks;
     }
 
     /**
      * @param {Caption} caption
      */
-    function traversalCaption(caption) {
+    function traverseCaption(caption) {
         const [shortCaption, blocks] = caption;
-        if (shortCaption) traversalInlineArray(shortCaption);
-        traversalBlockArray(blocks);
+        if (shortCaption) traverseInlineArray(shortCaption);
+        traverseBlockArray(blocks);
     }
 
     /**
      * @param {Cell} cell
      */
-    function traversalCell(cell) {
-        traversalBlockArray(cell[4]);
+    function traverseCell(cell) {
+        traverseBlockArray(cell[4]);
     }
 
     /**
      * @param {Row} row
      */
-    function traversalRow(row) {
-        row[1].forEach((cell) => traversalCell(cell));
+    function traverseRow(row) {
+        row[1].forEach((cell) => traverseCell(cell));
     }
 
     /**
      * @param {Block} block
      */
-    function traversalBlockChildren(block) {
+    function traverseBlockChildren(block) {
         switch (block.t) {
             case 'Plain':
             case 'Para':
-                traversalInlineArray(block.c);
+                traverseInlineArray(block.c);
                 break;
             case 'LineBlock':
-                block.c.forEach((e) => traversalInlineArray(e));
+                block.c.forEach((e) => traverseInlineArray(e));
                 break;
             case 'BlockQuote':
-                traversalBlockArray(block.c);
+                traverseBlockArray(block.c);
                 break;
             case 'OrderedList':
-                block.c[1].forEach((blocks) => traversalBlockArray(blocks));
+                block.c[1].forEach((blocks) => traverseBlockArray(blocks));
                 break;
             case 'BulletList':
-                block.c.forEach((blocks) => traversalBlockArray(blocks));
+                block.c.forEach((blocks) => traverseBlockArray(blocks));
                 break;
             case 'DefinitionList':
                 block.c.forEach((item) => {
-                    traversalInlineArray(item[0]);
-                    item[1].forEach((blocks) => traversalBlockArray(blocks));
+                    traverseInlineArray(item[0]);
+                    item[1].forEach((blocks) => traverseBlockArray(blocks));
                 });
                 break;
             case 'Header':
-                traversalInlineArray(block.c[2]);
+                traverseInlineArray(block.c[2]);
                 break;
             case 'Div':
-                traversalBlockArray(block.c[1]);
+                traverseBlockArray(block.c[1]);
                 break;
             case 'Table':
                 const [, caption, , head, bodies, foot] = block.c;
-                traversalCaption(caption);
-                head[1].forEach((row) => traversalRow(row));
+                traverseCaption(caption);
+                head[1].forEach((row) => traverseRow(row));
                 bodies.forEach((body) => {
-                    body[2].forEach((row) => traversalRow(row));
-                    body[3].forEach((row) => traversalRow(row));
+                    body[2].forEach((row) => traverseRow(row));
+                    body[3].forEach((row) => traverseRow(row));
                 });
-                foot[1].forEach((row) => traversalRow(row));
+                foot[1].forEach((row) => traverseRow(row));
                 break;
             case 'Figure':
-                traversalCaption(block.c[1]);
-                traversalBlockArray(block.c[2]);
+                traverseCaption(block.c[1]);
+                traverseBlockArray(block.c[2]);
                 break;
             case 'CodeBlock':
             case 'RawBlock':
@@ -104,24 +104,24 @@ function traversal(handler) {
      * @param {Block} block
      * @returns {Block[]}
      */
-    function traversalBlock(block) {
-        const traversalChildren = (newBlock) => traversalBlockChildren(newBlock ?? block);
-        const blocks = handler("block", block, traversalChildren);
+    function traverseBlock(block) {
+        const traverseChildren = (newBlock) => traverseBlockChildren(newBlock ?? block);
+        const blocks = handler("block", block, traverseChildren);
         return Array.isArray(blocks) ? blocks : blocks ? [blocks] : [];
     }
 
     /**
      * @param {Inline[]} inlines
      */
-    function traversalInlineArray(inlines) {
-        inlines.splice(0, inlines.length, ...inlines.flatMap((inline) => traversalInline(inline)));
+    function traverseInlineArray(inlines) {
+        inlines.splice(0, inlines.length, ...inlines.flatMap((inline) => traverseInline(inline)));
         return inlines;
     }
 
     /**
      * @param {Inline} inline
      */
-    function traversalInlineChildren(inline) {
+    function traverseInlineChildren(inline) {
         switch (inline.t) {
             case 'Emph':
             case 'Underline':
@@ -130,23 +130,23 @@ function traversal(handler) {
             case 'Superscript':
             case 'Subscript':
             case 'SmallCaps':
-                traversalInlineArray(inline.c);
+                traverseInlineArray(inline.c);
                 break;
             case 'Quoted':
             case 'Link':
             case 'Image':
             case 'Span':
-                traversalInlineArray(inline.c[1]);
+                traverseInlineArray(inline.c[1]);
                 break;
             case 'Note':
-                traversalBlockArray(inline.c);
+                traverseBlockArray(inline.c);
                 break;
             case 'Cite':
                 inline.c[0].forEach((citation) => {
-                    traversalInlineArray(citation.citationPrefix);
-                    traversalInlineArray(citation.citationSuffix);
+                    traverseInlineArray(citation.citationPrefix);
+                    traverseInlineArray(citation.citationSuffix);
                 });
-                traversalInlineArray(inline.c[1]);
+                traverseInlineArray(inline.c[1]);
                 break;
             case 'Str':
             case 'Code':
@@ -164,20 +164,20 @@ function traversal(handler) {
      * @param {Inline} inline
      * @returns {Inline[]}
      */
-    function traversalInline(inline) {
-        const traversalChildren = (newInline) => traversalInlineChildren(newInline ?? inline);
-        const inlines = handler("inline", inline, traversalChildren);
+    function traverseInline(inline) {
+        const traverseChildren = (newInline) => traverseInlineChildren(newInline ?? inline);
+        const inlines = handler("inline", inline, traverseChildren);
         return Array.isArray(inlines) ? inlines : inlines ? [inlines] : [];
     }
     
     return {
-        block: traversalBlock,
-        blockArray: traversalBlockArray,
-        inline: traversalInline,
-        inlineArray: traversalInlineArray,
+        block: traverseBlock,
+        blockArray: traverseBlockArray,
+        inline: traverseInline,
+        inlineArray: traverseInlineArray,
         document: (/** @type {PandocJSON} */ json) => {
             const { blocks } = json;
-            traversalBlockArray(blocks);
+            traverseBlockArray(blocks);
             return json;
         }
     };
@@ -185,7 +185,7 @@ function traversal(handler) {
 
 function simpleFlattenInlines(inlines) {
     const texts = [];
-    traversal((type, node, traversalChildren) => {
+    traverse((type, node, traverseChildren) => {
         if (node.t === 'Str') {
             texts.push(node.c);
         } else if (node.t === 'Space') {
@@ -195,7 +195,7 @@ function simpleFlattenInlines(inlines) {
         } else if (node.t === 'LineBreak') {
             texts.push('\n');
         }
-        return traversalChildren();
+        return traverseChildren();
     }).inlineArray(inlines);
     return texts.join('');
 }
@@ -224,7 +224,7 @@ export async function analyzeHtml(html) {
     const hashMap = {};
     const slugger = new GithubSlugger();
 
-    traversal((type, node, traversalChildren) => {
+    traverse((type, node, traverseChildren) => {
         if (node.t == 'Header') {
             const id = node.c[1][0];
             const title = simpleFlattenInlines(node.c[2]);
@@ -233,7 +233,7 @@ export async function analyzeHtml(html) {
                 hashMap[id] = mappedId;
             }
         }
-        return traversalChildren();
+        return traverseChildren();
     }).document(json);
 
     return { json, hashMap };
@@ -249,8 +249,8 @@ export async function convertHtmlToMarkdown(json, options) {
         }
     };
 
-    traversal((type, nodePrev, traversalChildren) => {
-        const node = traversalChildren();
+    traverse((type, nodePrev, traverseChildren) => {
+        const node = traverseChildren();
         switch (node.t) {
             case 'Header':
                 node.c[1] = ['', [], []];

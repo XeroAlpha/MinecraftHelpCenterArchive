@@ -11,8 +11,8 @@
   "license": "UNLICENSED",
   "dependencies": {
     "github-slugger": "^2.0.0",
-    "got": "^13.0.0",
-    "yaml": "^2.3.4"
+    "got": "^14.4.8",
+    "yaml": "^2.8.1"
   },
   "devDependencies": {
     "pandoc-types": "^0.0.1"
