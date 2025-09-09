@@ -1,17 +1,17 @@
 ---
 title: Minecraft Java Edition - 1.21.6 Pre-Release 3
 date: 2025-06-04T15:12:29Z
-updated: 2025-06-04T15:12:39Z
+updated: 2025-09-09T11:19:47Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/37134499449485-Minecraft-Java-Edition-1-21-6-Pre-Release-3
 hash:
-  h_01JWXQY8CMGRENH9PG55FDHVT1: new-features
-  h_01JWXQY8CMKNTEW2WC6R4HDQVH: music-and-sound
-  h_01JWXQY8CM3QMABB9Y38775417: technical-changes
-  h_01JWXQY8CM25YDS6CBSP0FYBTP: data-pack-version-80
-  h_01JWXQY8CM9SE0KCZA7WHH7MMJ: new-triggers
-  h_01JWXQY8CM0QF030B03C2MQW1N: commands
-  h_01JWXQY8CMHCM6F455ZQPG53A7: modifiedplaysound
+  h_01K4Q37H2V75K37JZ899HHT9S8: new-features
+  h_01K4Q37H2VSNAAHB5M3YHCPGGC: music-and-sound
+  h_01K4Q37H2VSGSQHA2J9RDGP19M: technical-changes
+  h_01K4Q37H2VW6YCXF2W76NRH0E7: data-pack-version-80
+  h_01K4Q37H2VJ6ZT1ECD5V4X429V: new-triggers
+  h_01K4Q37H2VJDNXMYPZXJHR4RCK: commands
+  h_01K4Q37H2V3V35SMDDY4AZ05C6: modifiedplaysound
   h_01JWXQY8CMDD77HV8SRDJ2FP6S: fixed-bugs-in-1216-pre-release-3
   h_01JWXQY8CNKNM0S0Q56MT6RX6A: get-the-pre-release
 ---
@@ -47,6 +47,8 @@ Added minecraft:player_sheared_equipment
 
 - Added new category ui
   - Sounds in this category will continue playing when paused, similarly to music
+
+ 
 
 ## Fixed bugs in 1.21.6 Pre-Release 3
 

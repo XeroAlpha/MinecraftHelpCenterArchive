@@ -1,29 +1,29 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w32a
 date: 2025-08-05T14:10:21Z
-updated: 2025-08-05T14:10:28Z
+updated: 2025-09-09T11:33:30Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/38580678455437-Minecraft-Java-Edition-Snapshot-25w32a
 hash:
-  h_01K1X92J2J6EFGTR1HX3DJFQN9: new-features
-  h_01K1X92J2K7QJSFBC1ZVG402MA: copper-decorations
-  h_01K1X92J2R3ZQAV87Y5X476SN7: changes
-  h_01K1X92J2RE49G443Y7ZPJ94S2: minor-tweaks-to-blocks-items-and-entities
-  h_01K1X92J2R31VKCFXSZ444RA1B: recipes
-  h_01K1X92J2SE91MTGK8YW0M6HSM: technical-changes
-  h_01K1X92J2SG5TD35YF9862DGXQ: data-pack-version-830
-  h_01K1X92J2SS4AJK54QR01QBDNX: entity-data
-  h_01K1X92J2S4Z5H2HVP0RWM68A3: copper_golem
-  h_01K1X92J2XE2EYA2RV9AR3J50B: text-rendering
-  h_01K1X92J2X7HTJTD82G59ESBN0: objecttext-component
-  h_01K1X92J30T69F3AQSNPVME5X6: loot-tables
-  h_01K1X92J309B2YE6WDNAZSXXQR: tags
-  h_01K1X92J31WMX6KCDYY6J5N3WR: block-tags
-  h_01K1X92J32XGA03MS547Z1TFN3: item-tags
-  h_01K1X92J33M79PBM24WZAD8SJ4: resource-pack-version-651
-  h_01K1X92J33B0P6JCA6ZE4DC43G: block-sprites
-  h_01K1X92J36ATNKS862W3XZCC94: entity-sprites
-  h_01K1X92J38646910YJQ78RGV7X: particles
+  h_01K4Q4086YPVW01F2HWZ4JBMXN: new-features
+  h_01K4Q4086ZQGAE7D2SHZTMH4N9: copper-decorations
+  h_01K4Q4086ZMMCS6MJ2DFVBPJZ6: changes
+  h_01K4Q4086ZWWA0C8HYCAKKKPW1: minor-tweaks-to-blocks-items-and-entities
+  h_01K4Q4086Z59QM2A52BDM3FKVE: recipes
+  h_01K4Q4086ZW7QENZ8NXZES0XSZ: technical-changes
+  h_01K4Q4086ZZ43EGYGS0WRMN59B: data-pack-version-830
+  h_01K4Q4086Z6474GQEHG3H2FPD1: entity-data
+  h_01K4Q4086Z44QX3XEJFGQQKJG0: copper_golem
+  h_01K4Q4086Z5E1DP7FCAREH6PB0: text-rendering
+  h_01K4Q4086Z5XTXRDCHPE0Y9R51: objecttext-component
+  h_01K4Q4086ZPPV76Y2WD08Z5SG8: loot-tables
+  h_01K4Q4086ZSJ6BCG2SAJEDX0BQ: tags
+  h_01K4Q4086ZG1200B9JWW5RG93W: block-tags
+  h_01K4Q4086ZVRYTRKZZ6SVEH7G7: item-tags
+  h_01K4Q4086ZPKBH9X5M50S4PADY: resource-pack-version-651
+  h_01K4Q4086ZQQR0E6BHC47JHB9G: block-sprites
+  h_01K4Q4086ZJYB98KCRYKY7MJJ5: item-sprites
+  h_01K4Q4086ZMAZR6BH8T1STTR5C: particles
   h_01K1X92J38C16FSH1Z9C671QXM: fixed-bugs-in-25w32a
   h_01K1X92J3P8QEKDX36657FHZ19: get-the-snapshot
 ---
@@ -31,8 +31,6 @@ hash:
 Another Tuesday, another Snapshot release! Alongside technical updates and bug fixes, this week we're introducing a copper-y collection of goodies from our third game drop of the year: Build with copper torches, lanterns, chains, and bars – and watch them develop that stunning signature patina. With this week's release, you'll also find that items displayed in shelves have learned the noble art of sitting down.
 
 Happy mining!
-
- 
 
 ## New Features
 
@@ -60,7 +58,7 @@ Happy mining!
 
 ### Minor Tweaks to Blocks, Items and Entities
 
-- Items on the Shelf have been repositioned to sit on the Shelf
+- Items on the Shelf have been re-positioned to sit on the Shelf
 - All Copper Golem Statues now always drop as item when mined
 - All Copper Golem Statues now pop off as an item when pushed by a piston
 
@@ -111,15 +109,15 @@ General note about atlas contents:
 
 #### Block Tags
 
-- Added #chains - all Chain blocks
-- Added #lanterns - all Lantern blocks
-- Added #bars - all Bar blocks
+- Added \#chains - all Chain blocks
+- Added \#lanterns - all Lantern blocks
+- Added \#bars - all Bar blocks
 
 #### Item Tags
 
-- Added #chains - all Chain block items
-- Added #lanterns - all Lantern block items
-- Added #bars - all Bar block items
+- Added \#chains - all Chain block items
+- Added \#lanterns - all Lantern block items
+- Added \#bars - all Bar block items
 
 ## Resource Pack Version 65.1
 
@@ -144,9 +142,9 @@ Added new block sprites:
 - weathered_copper_lantern
 - weathered_copper_torch
 
-### Entity Sprites
+### Item Sprites
 
-Added new entity sprites:
+Added new item sprites:
 
 - copper_chain
 - copper_lantern
@@ -162,6 +160,8 @@ Added new entity sprites:
 Added new particle:
 
 - copper_fire_flame
+
+ 
 
 ## Fixed bugs in 25w32a
 

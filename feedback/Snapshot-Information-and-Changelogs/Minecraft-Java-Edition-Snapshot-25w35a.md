@@ -1,30 +1,30 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w35a
 date: 2025-08-26T17:58:19Z
-updated: 2025-08-27T10:18:54Z
+updated: 2025-09-09T11:09:02Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/39107188599565-Minecraft-Java-Edition-Snapshot-25w35a
 hash:
-  h_01K3KRC857J4TRK9S1640TWMXC: new-features
-  h_01K3KRC858TQ69VYGW115SQ6EF: changes
-  h_01K3KRC8589DHGNA1PMVMCB7SN: recipes
-  h_01K3KRC8592TT51656FQK9CE50: ui
-  h_01K3KRC85A420ZW7YDF7CJPAVT: mouse-cursor
-  h_01K3KRC85CDNFZPJ90ZP7MKK91: minor-tweaks-to-blocks-items-and-entities
-  h_01K3KRC85DHFPQFF90ZEX1XJ5P: technical-changes
-  h_01K3KRC85EYCXGEGDGC35Q2DH4: server-properties
-  h_01K3KRC85P00PQEVYRZ6C8TR9P: minecraft-server-management-protocol
-  h_01K3KRC85XBEB5RSAAGGNTWQ13: data-pack-version-850
-  h_01K3KRC85X21MGCGGG62P0EHDM: game-rules
-  h_01K3KRC8614GVNNWZBYSCBJPVW: text-rendering
-  h_01K3KRC861EZCA6HDJG0A0QG3R: objecttext-component
-  h_01K3KRF6RGQS7P7ZQZCM0GP3QZ: atlasobject-type
-  h_01K3KRF6RGM46WP0GDH38R655F: playerobject-type
-  h_01K3KRC86BZYHB88FX5ZXKG104: resource-pack-version-670
-  h_01K3KRC86BYTEMYY6A7CN6PTH8: block-sprites
-  h_01K3KRC86CEQ87K7Y76BJDHZ8Y: item-sprites
+  h_01K4Q2DE2MYVY4V68VYXFBN0HP: new-features
+  h_01K4Q2DE2MB56X1MGXQ8FJSYNE: changes
+  h_01K4Q2DE2MWED9MGE0PNW2EPBW: recipes
+  h_01K4Q2DE2M40GCRHCYWC3BGX22: ui
+  h_01K4Q2DE2M8DSBZ77MPYW0SZD3: mouse-cursor
+  h_01K4Q2DE2M9479KZJSY1KQ455K: minor-tweaks-to-blocks-items-and-entities
+  h_01K4Q2DE2MYSAYVMDMTDFTM66M: technical-changes
+  h_01K4Q2DE2MBB9CNDHZZS0A92JV: server-properties
+  h_01K4Q2DE2MT2CNXEPFAYJJ5QRZ: minecraft-server-management-protocol
+  h_01K4Q2DE2M39BV6KK5WA11MXTK: data-pack-version-850
+  h_01K4Q2DE2M07CJWSXTNM10VSD4: game-rules
+  h_01K4Q2DE2M3K3HWBB71KB2GCQS: text-rendering
+  h_01K4Q2DE2MGPFT0E49T5M9T772: objecttext-component
+  h_01K4Q2DE2M5V96PV7171B3S860: atlasobject-type
+  h_01K4Q2DE2MVCPAZWEMKMRYPAA6: playerobject-type
+  h_01K4Q2DE2NWDW670BPT7DZ6Y00: resource-pack-version-670
+  h_01K4Q2DE2NHXCJT2NBEX0W8RC0: block-sprites
+  h_01K4Q2DE2NVQWEB192Z4PQGDMR: item-sprites
   h_01K3KRC86DW3Q0TA81X1Q8GGKP: fixed-bugs-in-25w35a
   h_01K3KRC86ZK3F6T42PPJ7RAVV5: get-the-snapshot
 ---
@@ -45,7 +45,7 @@ Happy mining!
 
 ### UI
 
-- When adding a new server to the server list, the name is no longer prefilled. When left empty the default name is used.
+- When adding a new server to the server list, the name is no longer prefilled. When left empty the default name is used
 - More text inputs now support selecting text by mouse dragging
 
 #### Mouse cursor
@@ -57,8 +57,8 @@ Happy mining!
 
 ### Minor Tweaks to Blocks, Items and Entities
 
-- Copper Golems hitbox has been tweaked
-  - The hitbox is now 0.98 blocks in height to be able to pathfind in one block high spaces
+- Copper Golem's hitbox has been tweaked
+  - The hitbox is now 0.98 blocks in height to be able to path-find in one block high spaces
 - Copper Chests created from spawning a Copper Golem now correctly connect to nearby Copper Chests
 - The Copper Golem now uses the Saddle equipment slot for blocks placed atop of its Lightning Rod
   - Its Head equipment slot will now function like a regular head slot, akin to its functionality for humanoid mobs
@@ -71,12 +71,12 @@ Happy mining!
 
 ### Server Properties
 
-Several server properties were removed in favour of making them into game rules, allowing these settings to be changed while the server is running.
+Several server properties were removed in favor of making them into game rules, allowing these settings to be changed while the server is running.
 
-- Removed server property allow-nether in favour of new game rule
-- Removed server property spawn-monsters in favour of new game rule
-- Removed server property enable-command-block in favour of new game rule
-- Removed server property pvp in favour of new game rule
+- Removed server property allow-nether in favor of new game rule
+- Removed server property spawn-monsters in favor of new game rule
+- Removed server property enable-command-block in favor of new game rule
+- Removed server property pvp in favor of new game rule
 - Added server property management-server-enabled controlling whether the new Minecraft Server Management Protocol is enabled or not
   - Defaults to false
 - Added server property management-server-port controlling on what port the Minecraft Server Management Protocol is started
@@ -168,6 +168,8 @@ Renamed the following block sprites:
 Renamed the following item sprites:
 
 - chain to iron_chain
+
+ 
 
 ## Fixed bugs in 25w35a
 

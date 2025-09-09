@@ -1,39 +1,39 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w33a
 date: 2025-08-18T09:20:25Z
-updated: 2025-08-26T08:05:43Z
+updated: 2025-09-09T11:34:34Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/38886837488525-Minecraft-Java-Edition-Snapshot-25w33a
 hash:
-  h_01K2Y7K70085YW40RD18Q36SKM: new-features
-  h_01K2Y7K7044GGXMRRXYMXNA2VP: the-end-light-flashes
-  h_01K2Y7K706S5CASHSNPRKGVQ99: copper-golem
-  h_01K2Y7K708ZAKHCE252RQ1RDV3: chat-drafts
-  h_01K2Y7K70FPV99Y6Q6CCFQ856P: changes
-  h_01K2Y7K70FBAME84XXYD0VCPDB: blocks
-  h_01K2Y7K70G25M82E57G6FVJFKY: shelf
-  h_01K2Y7K70J4MT93Q5VV3QRP08B: ui
-  h_01K2Y7K70JWTDP9X03E8SSZT91: chat
-  h_01K2Y7K70MPF6N87JR5Z968C9W: technical-changes
-  h_01K2Y7K70PRKC2XVJ80A6J3BNK: data-pack-version-831
-  h_01K2Y7K70P68XK8406BDG76SSB: block-states
-  h_01K2Y7K70WKJ898G6XQRWTAMCC: attributes
-  h_01K2Y7K70W07P55NAF1JHM025X: run_commandclick-event
-  h_01K2Y7K70ZS3FCBH0KNWMEMN41: enchantments
-  h_01K2Y7K70ZEQK5N6SN7QSBFAXE: explodeeffects
-  h_01K2Y7K711RXZP6D10M5SB7289: tags
-  h_01K2Y7K711XCT01PA5HA04KDC8: item-tags
-  h_01K2Y7K712BFJZ00075DGH36KY: resource-pack-version-652
-  h_01K2Y7K7127PK16TKRZNP2XPD0: textures
-  h_01K2Y7K714JWD9NM6XR23A0MH4: sounds
-  h_01K2Y7K714ZM6K0HK0BB2C587P: sound-events
+  h_01K4Q422B6JS5DK09VVZZNKMK3: new-features
+  h_01K4Q422B69Q1M0BHBG320Z8GK: the-end-light-flashes
+  h_01K4Q422B6ZH2TVVCZ9FVM10HD: copper-golem
+  h_01K4Q422B6MFZDS839MYVCMW1S: chat-drafts
+  h_01K4Q422B6MDXFS5CVXYRRYEKW: changes
+  h_01K4Q422B65DG7BJ4NYYRXBN7K: blocks
+  h_01K4Q422B6VH3J40D78RZJTXYG: shelf
+  h_01K4Q422B648TSCX2PE5JAVWQS: ui
+  h_01K4Q422B66CFXK50ZGRS3D9EB: chat
+  h_01K4Q422B75FVH9C4YJDBRV43A: technical-changes
+  h_01K4Q422B7W0N1V0Z5SJBQRWH7: data-pack-version-831
+  h_01K4Q422B71QBZD3RGPE8ZPD9T: block-states
+  h_01K4Q422B7EE2598M6TX45XJMZ: attributes
+  h_01K4Q422B7JCAKP8JNQBG54EPQ: run_commandclick-event
+  h_01K4Q422B74SHS2ZS3KMP1519V: enchantments
+  h_01K4Q422B776NWGDYTQS2BTP0N: explodeeffects
+  h_01K4Q422B74MR844Z2M0S7X4YW: tags
+  h_01K4Q422B7NGX8WH14HC6BC114: item-tags
+  h_01K4Q422B7SVFVGG0PF2V17TCH: resource-pack-version-652
+  h_01K4Q422B7G2GZRH8A1N5D6M6A: textures
+  h_01K4Q422B7JDQARQC7JB0087DT: sounds
+  h_01K4Q422B7YG0SHBY73ZE89GJF: sound-events
   h_01K2Y7K7143S2W6BYAGY83188D: fixed-bugs-in-25w33a
   h_01K2Y7K71NSEQ77T4DVRFZ4CB2: get-the-snapshot
 ---
 
-In this week's snapshot we've got a nice quality of life improvement for all the chatters out there. Now your unsent messages will be saved as drafts, check out the details below. Items on shelves will now be positioned in the middle of the shelf as default. Before we move our focus onto technical tweaks and bug fixes for this drop, we have one final feature to announce – and it involves a very cute interaction between the copper golem and the iron golem! With this, all features for our third game drop of 2025 are now in testing, and we'll start working on our next game drop, which we are excited to tell you about soon!
+In this week's snapshot we've got a nice quality of life improvement for all the chatters out there. Now your unsent messages will be saved as drafts, check out the details below. Items on shelves will now be positioned in the middle of the shelf as default. Before we move our focus onto technical tweaks and bug fixes for this drop, we have one final feature to announce – and it involves a very cute interaction between the copper golem and the iron golem! With this, all features for our third game drop of 2025 are now in testing, and we'll start working our next game drop, which we are excited to tell you about soon!
 
 ## New Features
 
@@ -130,7 +130,7 @@ Format: List of entries:
 
 #### Item Tags
 
-- Added #shearable_from_copper_golem - all items that can be removed from the Copper Golem's head slot via Shears
+- Added \#shearable_from_copper_golem - all items that can be removed from the Copper Golem's head slot via Shears
 
 ## Resource Pack Version 65.2
 
@@ -145,6 +145,8 @@ Format: List of entries:
 
 - Added new sound event:
   - weather.end_flash
+
+ 
 
 ## Fixed bugs in 25w33a
 

@@ -1,63 +1,57 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w31a
 date: 2025-07-29T14:13:04Z
-updated: 2025-07-29T14:13:16Z
+updated: 2025-09-09T11:32:09Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/38407004270605-Minecraft-Java-Edition-Snapshot-25w31a
 hash:
-  h_01K1B8CSV81GNZC890C1DNEMD2: new-features
-  h_01K1B8CSV9WP80R30BMCJCS5D7: copper-chest
-  h_01K1B8CSV96X8TRPM4GEEJPYEW: copper-golem
-  h_01K1B8CSVBKS89PED7T48YABFG: copper-golem-item-sorting
-  h_01K1B8CSVERXC754D7RB95AZ01: copper-golem-statue-block
-  h_01K1B8CSVF05YBNGK805P5M6KP: lightning-rod
-  h_01K1B8CSVFH76SZ82EVGSZZM79: copper-equipment
-  h_01K1B8CSVKR4Y91CBBB4WCGQW2: shelf
-  h_01K1B8CSVQKMJFGN1YD958800J: accessibility
-  h_01K1B8CSVR7KEH2WCAQSDP8J1S: changes
-  h_01K1B8CSVSHZPM3GDRWMX6VKAS: world-loading-and-spawn-chunks
-  h_01K1B8CSVWBVWHF0Q07QEP4RSP: sounds
-  h_01K1B8CSVWXYWMTT6F7JXYB8K9: ui
-  h_01K1B8CSVWKP8Q6ZTJVH7ZY3K2: debug-screen
-  h_01K1B8CSW03349EM70WY6JPKA8: accessibility-1
-  h_01K1B8CSW22SJDK75DBD86R8YG: performance-improvements
-  h_01K1B8CSW3NE11TT9F840ACGS2: technical-changes
-  h_01K1B8CSW49ABCHSPRS1SG637T: pack-formats
-  h_01K1B8CSW4TB8Z5FC3MHMR4CND: pack-metadata
-  h_01K1B8CSWAJF7HG1F5BN226SBS: data-pack-version-820
-  h_01K1B8CSWAYW7PZ6CEDAKK9QTN: commands
-  h_01K1B8CSWB9WK0A4DDY4YD6ZMK: game-rules
-  h_01K1B8CSWBSA4GN25TQGW1JQEZ: data-components
-  h_01K1B8CSWBQP4WGVMC9BQEH7FN: blocks_attacksitem-component
-  h_01K1B8CSWCFVF94EC7Y3PK4Y14: loot-tables
-  h_01K1B8CSWMBBYAHY3J6EB8CPPW: world-generation
-  h_01K1B8CSWPA17HN2S0RG16985Y: density-functions
-  h_01K1B8D60P1KSCTN2BVE7C7PY5: addedminecraftfind_top_surface
-  h_01K1B8D60P0S72VBHACK5JN38E: addedminecraftinvert
-  h_01K1B8CSWSJ71H0D7JEQ5NZHGM: jigsaw-structures
-  h_01K1B8CSWWJKPH1W5XNT0WAGM7: tags
-  h_01K1B8CSWWZC9BH2TZP90T4BZF: block-tags
-  h_01K1B8CSWX2W7A5N1YXGESYN2M: item-tags
-  h_01K1B8CSWZRDBZ5HXMN66Z4YYG: resource-pack-version-650
-  h_01K1B8CSWZY0Q6NKG9KMAEJ12R: block-sprites
-  h_01K1B8CSX58ST6DQM55Q88197Z: entity-sprites
-  h_01K1B8CSX6ZE29A3E8HR2ZNBME: item-sprites
-  h_01K1B8CSX8SH65ZSEGP9P967BV: sound-events
-  h_01K1B8CSXGD5K0DS4B739J12Z1: shaders--post-process-effects
-  h_01K1B8CSXHKN1HGCP2R375A109: changes-to-full-screen-passes
+  h_01K4Q3V6W5BN37DKAY51P9KKQ1: new-features
+  h_01K4Q3V6W5R1XVFXB6AG7Y37MQ: copper-chest
+  h_01K4Q3V6W5ZTA64FZZE7BB8C99: copper-golem
+  h_01K4Q3V6W5K7B4K9F8R6S0P9A9: copper-golem-item-sorting
+  h_01K4Q3V6W5A68ZQN5QDBGDK0Y8: copper-golem-statue-block
+  h_01K4Q3V6W5P65DKGVXZKAFBZHP: lightning-rod
+  h_01K4Q3V6W5QXCW1JHPH80BGBVR: copper-equipment
+  h_01K4Q3V6W5N6YNR80YCBGSWDNR: shelf
+  h_01K4Q3V6W5VG815F5RRAJQASPP: accessibility
+  h_01K4Q3V6W58CT4NRKJ6FM1N9N3: changes
+  h_01K4Q3V6W5T7HHC1T8KYX1BMDH: world-loading-and-spawn-chunks
+  h_01K4Q3V6W69E0EPNDG4XMRJHQQ: sounds
+  h_01K4Q3V6W658MKYY23R3ZDBK9H: ui
+  h_01K4Q3V6W68X9MH0M9BMQXGT6F: debug-screen
+  h_01K4Q3V6W6R9TEBY88MJ2VABDQ: accessibility-1
+  h_01K4Q3V6W602M91ANR90CY3RZE: performance-improvements
+  h_01K4Q3V6W6375SRC9RVSS42TSC: technical-changes
+  h_01K4Q3V6W6HMFP5PTWESY9G21N: pack-formats
+  h_01K4Q3V6W62TJ47GRQJ0ZCNEFQ: pack-metadata
+  h_01K4Q3V6W67PPA7YHV5ABGQ9TK: data-pack-version-820
+  h_01K4Q3V6W6QZJS379TV241FVS5: commands
+  h_01K4Q3V6W6EB7MHA4TQD3HSSDB: game-rules
+  h_01K4Q3V6W6R7S8MKEHGYDDZ26R: data-components
+  h_01K4Q3V6W6K9S9FHQ9X9TR44A8: blocks_attacksitem-component
+  h_01K4Q3V6W6VQ0VJ3VWSWRBG5XN: loot-tables
+  h_01K4Q3V6W6BSHH0DRREWZP4TQS: world-generation
+  h_01K4Q3V6W6G4Q68JTVNC4HQT1S: density-functions
+  h_01K4Q3V6W6F5HMK2FCSN398M2T: addedminecraftfind_top_surface
+  h_01K4Q3V6W63AJMPXH2H16PYXFF: addedminecraftinvert
+  h_01K4Q3V6W61JRJ7M4G39193K26: jigsaw-structures
+  h_01K4Q3V6W60BJK0532HYT5DE3A: tags
+  h_01K4Q3V6W6DRXAYQGEH1TKS3ZJ: block-tags
+  h_01K4Q3V6W6F4WXGVQAWKBEM3GC: item-tags
+  h_01K4Q3V6W6YPCJE7WFP5SSXHDM: resource-pack-version-650
+  h_01K4Q3V6W69XB53ZNZ47Z44BAT: block-sprites
+  h_01K4Q3V6W6V5EV7H8HW6Y4WC7T: entity-sprites
+  h_01K4Q3V6W626D1FN8WWGCEZF2A: item-sprites
+  h_01K4Q3V6W6NTBPG61H5M5RXPEP: sound-events
+  h_01K4Q3V6W6TM0H9XYXZ7FDWTST: shaders--post-process-effects
+  h_01K4Q3V6W6S77E4ZKE2CWAWSPH: changes-to-full-screen-passes
   h_01K1B8CSXKFCG1019XQW6H5FAG: fixed-bugs-in-25w31a
   h_01K1B8CSY0XBEF2DJT6BK1165Y: get-the-snapshot
 ---
 
-Oh, how we have yearned for the shipping room! We're back with our first snapshot release of the season, bringing you a big bundle of features from our third game drop of the year.
-
-Test the copper golem and copper chest for a tidier, livelier base, and watch your helper oxidize and turn into a statue, complete with adorable, redstone signal-emitting poses. Build functional decor using the brand-new shelves and try out copper weapons, tools and armor.
-
-To top it off, this release also includes copper horse armor and oxidizing lightning rods, in addition to a slew of bug fixes and technical changes.
+Oh, how we have yearned for the shipping room! We're back with our first snapshot release of the season, bringing you a big bundle of features from our third game drop of the year. Test the copper golem and copper chest for a tidier, livelier base, and watch your helper oxidize and turn into a statue, complete with adorable, redstone signal-emitting poses. Build functional decor using the brand-new shelves and try out copper weapons, tools and armor. To top it off, this release also includes copper horse armor and oxidizing lightning rods, in addition to a slew of bug fixes and technical changes.
 
 Happy mining!
-
- 
 
 ## New Features
 
@@ -183,13 +177,13 @@ Happy mining!
 
 > **Developer’s Note:** *Spawn chunks incur a memory and performance cost for all players and have outlived their initial technical purpose of keeping the spawn area ready for players to quickly join into.*
 >
-> *However, we also want to recognise that spawn chunks have enabled a multitude of clever contraptions and farms throughout the years, so simply removing them without having other mechanics in the game enable these designs was never an option.*
+> *However, we also want to recognize that spawn chunks have enabled a multitude of clever contraptions and farms throughout the years, so simply removing them without having other mechanics in the game enable these designs was never an option.*
 >
-> *We believe that the niche held by spawn chunks has now been filled by alternative methods of chunk loading, such as using portals or ender pearls, particularly with the changes in this snapshot to how the game loads these chunks before the world starts ticking.*
+> *We believe that the niche held by spawn chunks has now been filled by alternative methods of chunk loading, such as using portals or Ender pearls, particularly with the changes in this snapshot to how the game loads these chunks before the world starts ticking.*
 
 ### Sounds
 
-- Happy ghast is now audible from 64 blocks
+- Happy Ghast is now audible from 64 blocks
 - Sounds for chests now plays at a lower volume
 - The volume at which a sound is played at now respects the sound source volume value
 - The "Voice/Speech" sound source has been rephrased to "Narrator/Voice"
@@ -204,21 +198,25 @@ Happy mining!
 - Added a new Debug Options screen which can be opened by pressing F3 + F5
   - It can be used to configure which debug information should be displayed
   - For each item you can choose if it should be turned off, visible when the debug screen (F3) is open, or it should always be visible, even when the debug screen is closed
-  - Some debug features that were previously available, like chunk border rendering or entity hitbox rendering, can now be toogled through this debug options screen
+  - Some debug features that were previously available, like chunk border rendering or entity hitbox rendering, can now be toggled through this debug options screen
   - Some debug features that were not previously available to the community, like Octree visualization, are now accessible through the debug options screen
   - The state of the debug options screen is saved between the launches of the game
   - The debug options screen has the following preset profiles:
     - Default resets everything to the default state
     - Performance shows simple performance metrics, including the FPS meter always visible on screen
 
-> **Developer's Note**: *Previously the information gathering every frame to render the F3 screen had a significant performance cost. So opening the screen to check you FPS noticably dropped the FPS. Now checking your FPS in Performance profile should not affect game performance.*
+> **Developer's Note**: *Previously the information gathering every frame to render the F3 screen had a significant performance cost. So opening the screen to check you FPS noticeably dropped the FPS. Now checking your FPS in Performance profile should not affect game performance.*
 
 ### Accessibility
 
 - A button leading to the Controls screen has been added to the Accessibility Settings screen
+
   - The "Auto-Jump" option, as well as the "Sneak" and "Sprint" toggles have been removed from the Accessibility Settings screen
+
 - The "Show Subtitles" option has been rephrased to "Closed Captions" to more accurately describe what it does
+
 - Dye Colors now have updated icons
+
   - The goal with these is to enhance visual cohesion across the dye set while maintaining distinct shapes to support colorblind accessibility
 
 ### Performance Improvements
@@ -350,18 +348,18 @@ Fields:
 
 #### Block Tags
 
-- Added #copper_chests - all Copper Chest blocks
-- Added #copper - all Copper blocks
-- Added #incorrect_for_copper_tool - all blocks which will not drop items with a copper tool
-- Added #copper_golem_statues - all Copper Golem Statue blocks
+- Added \#copper_chests - all Copper Chest blocks
+- Added \#copper - all Copper blocks
+- Added \#incorrect_for_copper_tool - all blocks which will not drop items with a copper tool
+- Added \#copper_golem_statues - all Copper Golem Statue blocks
 
 #### Item Tags
 
-- Added #copper_chests - all Copper Chest block items
-- Added #copper - all Copper block items
-- Added #copper_tool_materials - all copper tool materials
-- Added #repairs_copper_armor - all items which repair copper armor
-- Added #copper_golem_statues - all Copper Golem Statue block items
+- Added \#copper_chests - all Copper Chest block items
+- Added \#copper - all Copper block items
+- Added \#copper_tool_materials - all copper tool materials
+- Added \#repairs_copper_armor - all items which repair copper armor
+- Added \#copper_golem_statues - all Copper Golem Statue block items
 
 ## Resource Pack Version 65.0
 
@@ -474,6 +472,8 @@ Fields:
   - post/screenquad.vsh
 - Vertex shaders for post-processing effects, as well as lightmap generation and full screen blits are no longer are passed the Position attribute, and instead must assign vertex coordinates by gl_VertexID
 - These passes furthermore are only executed with 3 vertices, instead of a full quad
+
+ 
 
 ## Fixed bugs in 25w31a
 

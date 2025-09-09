@@ -1,20 +1,20 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w21a
 date: 2025-05-20T14:22:10Z
-updated: 2025-05-21T07:54:04Z
+updated: 2025-09-09T11:18:15Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/36754909562509-Minecraft-Java-Edition-Snapshot-25w21a
 hash:
-  h_01JVQ13GTW5T6VMYFCRYPR8Y4X: new-features
-  h_01JVQ13GTWPA6EPSRTZS3A2TXV: music-and-sound
-  h_01JVQ13GTW2M9Y5WCV72TC14MC: technical-changes
-  h_01JVQ13GTWT4PB2971JDT8R03C: data-pack-version-78
-  h_01JVQ13GTWQGR1X20EH62GKFEY: dialogs
-  h_01JVQ13GTWDH5H5SXMA9ZXQDG4: minecrafttextinput-control
-  h_01JVQ13GTW6A92RR6NDSZ3PMW0: minecraftnumber_rangeinput-control
-  h_01JVQ13GTWSMB9XB8KGEKRBKT6: minecraftmulti_action_input_formdialog-type
-  h_01JVQ13GTW6E7D33Z7101Z0N81: resource-pack-version-62
-  h_01JVQ13GTWKR95YX8RCV763003: sounds
+  h_01K4Q34NHWG1WSTJ9A3G79JGKH: new-features
+  h_01K4Q34NHW9X384G01CCFT9XHT: music-and-sound
+  h_01K4Q34NHW3ZB33HX0R5C89W9K: technical-changes
+  h_01K4Q34NHWR5A8B004DP4V75FC: data-pack-version-78
+  h_01K4Q34NHW0JW0S9HR3B2QZ2XA: dialogs
+  h_01K4Q34NHXGB1VM4QZSP3AT7SE: minecrafttextinput-control
+  h_01K4Q34NHXCWYCX0GP2HYEF9NE: minecraftnumber_rangeinput-control
+  h_01K4Q34NHXGBVN26W4XYBZ4GNV: minecraftmulti_action_input_formdialog-type
+  h_01K4Q34NHXNC316E8PY2Y9NQJX: resource-pack-version-62
+  h_01K4Q34NHXTMCRS2BZ7YJREKM3: sounds
   h_01JVQ13GTWSYC0P94A90AKTXGW: fixed-bugs-in-25w21a
   h_01JVQ13GTW9MD9BHJGYNTHHXAY: get-the-snapshot
 ---
@@ -91,6 +91,8 @@ Summer is finally here in Stockholm on this fine Snapshot Tuesday - but it seems
   - mob/horse/armor_unequip
   - mob/horse/saddle_unequip
   - mob/llama/unequip
+
+ 
 
 ## Fixed bugs in 25w21a
 

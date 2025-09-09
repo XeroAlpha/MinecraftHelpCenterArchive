@@ -1,31 +1,30 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w34a+b
 date: 2025-08-26T08:05:09Z
-updated: 2025-08-26T13:43:54Z
+updated: 2025-09-09T11:13:43Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
 link: https://feedback.minecraft.net/hc/en-us/articles/39092387123469-Minecraft-Java-Edition-Snapshot-25w34a-b
 hash:
-  h_01K3JPDEGAPY9ZSH8HG1Y3XQ0A: fixed-bugs-in-25w34b
-  h_01K3JPDEGB1ZA896A9JXD30CPX: new-features
-  h_01K3JPDEGBFX9FTQKAB86FJBJ5: server-code-of-conduct
-  h_01K3JPDEGDP4S4RZFSSB6H13W2: server-setup
-  h_01K3JPDEGHW39VCE3R5GQ1VGA3: changes
-  h_01K3JPDEGJVYPD3300D5A56CEK: the-end-light-flashes
-  h_01K3JPDEGKXDMXNR13DSDP5DG7: minor-tweaks-to-blocks-items-and-entities
-  h_01K3JPDEGMSM12QPR1ZBSYNA7T: sounds
-  h_01K3JPDEGN1DHHTQ3BC2PM4R51: technical-changes
-  h_01K3JPDEGNC52HBGG20JJ3TNEK: data-pack-version-840
-  h_01K3JPDEGN20FYCBXC3AS1157Z: block-states
-  h_01K3JPDEGQ6EJC221ZCASC8HP8: commands
-  h_01K3JPDEGQD25NFTJC87PJS0E4: addedfetchprofile
-  h_01K3JPDEGT2QXWGGBJ8V6Z381T: data-components
-  h_01K3JPDEGTTT69FMKAGVK7PA8A: modifiedminecraftprofile
-  h_01K3JPDEGZBEQ03QXZ3RH55GE3: block-entity-data
-  h_01K3JPDEGZW6VWRQH9YRME0WKJ: modifiedminecraftskull
-  h_01K3JPDEH014TG5Q4VZCNEY9B4: text-components
-  h_01K3JPDEH1MQT1P0DKAYPM0K1G: resource-pack-version-660
+  h_01K4Q2RD7FB63A36NYR71D6B04: fixed-bugs-in-25w34b
+  h_01K4Q2RD7FN2J5FV5AM2Y4RCNG: new-features
+  h_01K4Q2RD7F54Y3QJ0T37BF3FQC: server-code-of-conduct
+  h_01K4Q2RD7FGFZAEWV621ZEZ6VS: server-setup
+  h_01K4Q2RD7FP8YYA44V1FBD4N8B: changes
+  h_01K4Q2RD7FY2G4CXC3JZYN01A9: the-end-light-flashes
+  h_01K4Q2RD7F3ZK05BF8KZW0SK7J: minor-tweaks-to-blocks-items-and-entities
+  h_01K4Q2RD7FX7ZGJNC8HV2DW73J: sounds
+  h_01K4Q2RD7FTZ017K09AEVFS8WT: technical-changes
+  h_01K4Q2RD7F28PZ5Q4AEAZAHM9Q: data-pack-version-840
+  h_01K4Q2RD7FDC4TFZHWJ8ZRBG4V: block-states
+  h_01K4Q2RD7F5JP95PFN2XYS4Q4Z: commands
+  h_01K4Q2RD7FB4J12N25GXZPX7KR: addedfetchprofile
+  h_01K4Q2RD7FQ9DNRJPW8FC44AYQ: data-components
+  h_01K4Q2RD7FSMY38TR3BXK1SRFQ: modifiedminecraftprofile
+  h_01K4Q2RD7FF64FMQVYKRZ5MB29: block-entity-data
+  h_01K4Q2RD7FD6EH0Y5QXR3YTWSZ: modifiedminecraftskull
+  h_01K4Q2RD7FDF1KBD48ABJS8FSA: text-components
   h_01K3JPDEH1D62DPT9WE8BF44JK: fixed-bugs-in-25w34a
   h_01K3JPDEHGFPZFQT6XB74727B3: get-the-snapshot
 ---
@@ -74,8 +73,8 @@ When connecting to a server, a Code of Conduct screen can now be shown.
 ### Minor Tweaks to Blocks, Items and Entities
 
 - The eyes of the Copper Golem are now invisible as well when splashed with Potion of Invisibility
-- Copper Golems hitbox has been tweaked
-  - The hitbox is now 0.6 blocks in width to be able to pathfind through open doors
+- Copper Golem's hitbox has been tweaked
+  - The hitbox is now 0.6 blocks in width to be able to path-find through open doors
   - The hitbox is now 1.01 blocks in height to not get stuck in certain blocks
 
 ### Sounds
@@ -148,10 +147,7 @@ Syntax:
 
 - Bold and italics styles are ignored when drawing sprites
 
-## Resource Pack Version 66.0
-
-- Removed block state align_items_to_bottom from the Shelf block
-  - See above for details
+ 
 
 ## Fixed bugs in 25w34a
 
