@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.120.21
 date: 2025-09-09T15:16:02Z
-updated: 2025-09-09T15:42:38Z
+updated: 2025-09-09T17:02:51Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39436905010189-Minecraft-Beta-Preview-1-21-120-21
 hash:
@@ -25,6 +25,8 @@ hash:
 ---
 
 #### **Posted:** 9 September 2025
+
+**NOTE:** This week's Beta version may be delayed on Android and will be available soon.
 
 ### **Information on Minecraft Preview and Beta:**
 
