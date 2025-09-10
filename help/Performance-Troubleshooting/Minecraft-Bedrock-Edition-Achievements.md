@@ -1,32 +1,21 @@
 ---
-title: "Minecraft: Bedrock Edition Achievements"
+title: "Unlock Minecraft: Bedrock Edition Achievements"
 date: 2021-09-14T21:36:49Z
-updated: 2025-06-27T16:48:31Z
+updated: 2025-09-10T16:36:54Z
 categories: Performance & Troubleshooting
 tags:
   - section_35377640016525
-link: https://help.minecraft.net/hc/en-us/articles/4409244237325-Minecraft-Bedrock-Edition-Achievements
+link: https://help.minecraft.net/hc/en-us/articles/4409244237325-Unlock-Minecraft-Bedrock-Edition-Achievements
 hash:
-  01HHFWF5Q280FW3SFJDQEKZKTT: how-can-i-earn-achievements
-  h_01HHFWDTZ6HF3XDVEW8361XXW0: how-to-turn-achievements-on-or-off-in-realms
+  h_01K4R896GBAZX73F01KV547DVH: requirements-to-unlock-achievements
 ---
 
-Achievements are optional goals laid out for players who want a bit of direction while playing Minecraft: Bedrock Edition. You can view completed and suggested Achievements in-game when you [view your profile](https://help.minecraft.net/hc/en-us/articles/27780690574477).
+Achievements are optional goals and milestones that can be completed while playing Minecraft: Bedrock Edition in Survival mode. Each achievement tells you how to complete it in its in-game description. Visit [Your Profile](../Manage-Your-Minecraft-Profile/View-and-Edit-Your-Minecraft-Profile.md) to see a list of completed achievements and suggested next achievements. 
 
-## How can I earn achievements?
+## Requirements to unlock achievements
 
-Xbox achievements can be earned in Minecraft: Bedrock Edition on these systems when connected to the internet:
+- **A connected Microsoft account**: Achievements are tied to your Xbox profile, so you will need to sign in to Minecraft with a Microsoft account to earn them. See [Use or Link Microsoft Accounts](https://help.minecraft.net/sections/29296773863181) for information. PlayStation players earn PlayStation Network trophies instead of achievements; these do not display on your Minecraft profile.
+- **A Minecraft: Bedrock Edition Survival mode world**: Achievements can only be unlocked in Survival mode. Achievements will be disabled if your Realm or world is, or was, set to Creative mode, is superflat, or you enabled cheats, experiments, certain Marketplace add-ons, or world templates.
+- **An active internet connection**: You cannot earn achievements while playing offline.
 
-- Xbox
-- PC
-- iOS
-- Android
-- Nintendo Switch
-
-On mobile and Nintendo Switch devices, you must have a Microsoft account linked to the profile playing Minecraft for Xbox achievements to attach to that Microsoft account.
-
-PlayStation users can earn trophies attached to their PSN accounts. While you can connect a Microsoft account to your PlayStation profile to crossplay with friends, Xbox achievements cannot be earned on the PlayStation version of Minecraft.
-
-## How to turn achievements on or off in Realms
-
-If your Realm is set to **Creative mode**, achievements will be disabled for your world. Unfortunately, re-activating achievements is only possible if you have a backup from before **Cheats **or **Creative mode** was enabled. If no backups are available, then that world will remain without achievements enabled.
+See [Fix Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition](./Achievements-Not-Displaying-or-Unlocking-in-Minecraft-Bedrock-Edition.md) if your achievements do not show in Your Profile.
