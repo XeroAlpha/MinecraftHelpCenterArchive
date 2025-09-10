@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.120.21
 date: 2025-09-09T15:16:02Z
-updated: 2025-09-09T17:02:51Z
+updated: 2025-09-10T14:57:07Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39436905010189-Minecraft-Beta-Preview-1-21-120-21
 hash:
@@ -26,7 +26,7 @@ hash:
 
 #### **Posted:** 9 September 2025
 
-**NOTE:** This week's Beta version may be delayed on Android and will be available soon.
+**NOTE:** While we roll out the GDK update on Minecraft Preview for Windows, some players will remain on Preview version 1.21.120.20. This will affect Realms and multiplayer compatibility with newer Preview versions. We will continue to roll the update out to more Preview players on Windows in the coming days. Thanks for your patience!
 
 ### **Information on Minecraft Preview and Beta:**
 
