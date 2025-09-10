@@ -1,7 +1,7 @@
 ---
-title: "Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition"
+title: "Fix Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition"
 date: 2024-06-21T20:09:54Z
-updated: 2024-09-04T22:27:08Z
+updated: 2025-09-10T17:36:36Z
 categories: Performance & Troubleshooting
 tags:
   - subject_progress_and_saved_games
@@ -12,27 +12,20 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/27778850781837-Achievements-Not-Displaying-or-Unlocking-in-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/27778850781837-Fix-Achievements-Not-Displaying-or-Unlocking-in-Minecraft-Bedrock-Edition
+hash:
+  h_01K4R820HAN33QC59TFFP1CW33: fix-minecraft-bedrock-achievements-not-unlocking
 ---
 
-Your achievements are listed in your Minecraft Profile under the **Profile** button on your launch screen. You can also find it in your in-game menu when you press **Esc**. If you find that when you reach an in-game objective the achievement is not immediately unlocked, be sure to allow up to 24 hours for the achievement to display. After that, if achievements are still not displaying in-game for you, try the following options:
+If you completed an achievement requirement and it does not unlock automatically, make sure you meet the requirements to [Unlock Minecraft: Bedrock Edition Achievements](./Minecraft-Bedrock-Edition-Achievements.md), then see the suggestions below if needed.
 
-- Make sure you are connected to the internet and that your game is up to date.
-- - For more help on Xbox, [Troubleshoot your Xbox network connection](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-network-connection).
-- Restart your device and boot-up Minecraft again.
-- If possible, reattempt the feat that gained you the achievement.
-- [Back up your save data](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) and uninstall Minecraft: Bedrock Edition and reinstall it on your system.
+## Fix Minecraft: Bedrock achievements not unlocking
 
-If playing on PC, you can also check to make sure your Xbox services are live. Follow these steps:
+- **Verify achievements are not disabled**: To see if achievements are disabled in your world, pause the game and select **Settings.** The **World: Game** section displayes the banner “Achievements cannot be earned in this world.” If Achievements were disabled for any of the following reasons, you need to revert to a backup before these settings were enbled, use a world seed to recreate the world, or create a new world:
+  - **World settings:** Settings such as creative mode, flat world, and enabling cheats or experiments will disable Achievements. 
+  - **Marketplace items:** Some Marketplace add-ons or world templates may be incompatible with Achievements.
+- **Verify your internet connection**: See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for recommendation and required network settings. For Xbox players, see [Troubleshoot your Xbox network connection](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-network-connection).
+- **Update Minecraft to the latest version**: If automatic updates are enabled, restart Minecraft (and the launcher on PC/Mac) to receive updates. Otherwise, see [Manually Update Minecraft on Mobile Devices](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md), [Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md), or [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md) to update your device.
+- **Verify your Microsoft account sign-in**: You need to sign in using a Microsoft account to unlock achievements. See [Use or Link Microsoft Accounts](https://help.minecraft.net/hc/sections/29296773863181) for information.
 
-1.  Press the **Windows key + R** simultaneously.
-2.  Type **services.msc**.
-3.  Press **Ok**.
-4.  Find the following services in the list:
-    - Connected User Experiences and Telemetry
-    - Xbox Live Auth Manager
-    - Xbox Live Networking Service
-5.  If any of the above say something under their status besides **Running**, double-click them.
-6.  Select **Automatic** under Startup type.
-7.  Press Apply then **Ok**.
-8.  Select **Start the service** on each of the services that are not running.
+After following these steps, see if the achievement shows up as unlocked or reattempt the achievement to see if it unlocks as expected.
