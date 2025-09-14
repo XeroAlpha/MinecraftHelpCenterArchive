@@ -25,7 +25,7 @@ hash:
   h_01JSFG0DMQED66WJBD98K2BG8E: manage-the-ability-to-invite-friends-and-view-profiles
 ---
 
-Your Minecraft Profile is your hub for viewing game-play history and statistics, [screenshots](./Manage-Your-Screenshots-on-Your-Minecraft-Profile.md), [achievements](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-Achievements.md), and your [friends list](../Multiplayer-Support/Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md).
+Your Minecraft Profile is your hub for viewing game-play history and statistics, [screenshots](./Manage-Your-Screenshots-on-Your-Minecraft-Profile.md), [achievements](../Performance-Troubleshooting/Unlock-Minecraft-Bedrock-Edition-Achievements.md), and your [friends list](../Multiplayer-Support/Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md).
 
 ## View your Minecraft Profile
 

@@ -29,6 +29,7 @@ tags:
   - use_for_autoreply
   - platform_xbox_series_xs
   - section_37919645439501
+  - rabbit
 link: https://help.minecraft.net/hc/en-us/articles/38555497091469-Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition
 hash:
   error-armor: armor

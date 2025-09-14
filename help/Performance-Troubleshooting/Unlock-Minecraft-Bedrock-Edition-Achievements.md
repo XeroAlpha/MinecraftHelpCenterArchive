@@ -18,4 +18,4 @@ Achievements are optional goals and milestones that can be completed while playi
 - **A Minecraft: Bedrock Edition Survival mode world**: Achievements can only be unlocked in Survival mode. Achievements will be disabled if your Realm or world is, or was, set to Creative mode, is flat, or you enabled cheats, experiments, certain Marketplace add-ons, or world templates.
 - **An active internet connection**: You cannot earn achievements while playing offline.
 
-See [Fix Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition](./Achievements-Not-Displaying-or-Unlocking-in-Minecraft-Bedrock-Edition.md) if your achievements do not show in Your Profile.
+See [Fix Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition](./Fix-Achievements-Not-Displaying-or-Unlocking-in-Minecraft-Bedrock-Edition.md) if your achievements do not show in Your Profile.

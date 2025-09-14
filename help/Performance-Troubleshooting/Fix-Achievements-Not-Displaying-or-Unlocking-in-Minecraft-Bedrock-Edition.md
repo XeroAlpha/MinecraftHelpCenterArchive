@@ -17,7 +17,7 @@ hash:
   h_01K4R820HAN33QC59TFFP1CW33: fix-minecraft-bedrock-achievements-not-unlocking
 ---
 
-If you completed an achievement requirement and it does not unlock automatically, make sure you meet the requirements to [Unlock Minecraft: Bedrock Edition Achievements](./Minecraft-Bedrock-Edition-Achievements.md), then see the suggestions below if needed.
+If you completed an achievement requirement and it does not unlock automatically, make sure you meet the requirements to [Unlock Minecraft: Bedrock Edition Achievements](./Unlock-Minecraft-Bedrock-Edition-Achievements.md), then see the suggestions below if needed.
 
 ## Fix Minecraft: Bedrock achievements not unlocking
 
