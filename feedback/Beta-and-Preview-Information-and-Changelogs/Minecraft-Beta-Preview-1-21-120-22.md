@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.120.22
 date: 2025-09-16T12:14:03Z
-updated: 2025-09-16T15:38:03Z
+updated: 2025-09-18T15:46:31Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39606021304589-Minecraft-Beta-Preview-1-21-120-22
 hash:
@@ -48,7 +48,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 ## Blocks[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30407/R21U12-3-Preview?anchor=blocks)
 
 - Copper Lantern textures are now animated ([MCPE-226142](https://bugs.mojang.com/browse/MCPE-226142))
-- Soul Fire Lantern textures are now animated
+- Soul Fire Lantern textures are now animated ([MCPE-89643](https://bugs.mojang.com/browse/MCPE-89643))
 - Interacting with a Shelf while empty-handed in Creative mode no longer produces a sound effect ([MCPE-227586](https://bugs.mojang.com/browse/MCPE-227586))
 
 ## Graphical[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30407/R21U12-3-Preview?anchor=graphical)
@@ -128,7 +128,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
   - Added method `getControlScheme(): ControlScheme;` to `beta`.
 - Added Scripting API for BlockPrecipitationInteractions component.
   - This api includes a component class for the BlockPrecipitationInteractions component and the two methods (accumulatesSnow and obstructsRain) of said component.
-- Loot table discovery API now includes information about Loot Item Conditions , 1470536, 1470537)
+- Loot table discovery API now includes information about Loot Item Conditions
   - Modified method from `setControlScheme(controlScheme?: string): void;` to `setControlScheme(controlScheme?: ControlScheme): void;` in `beta`. 
 
 ## Blocks[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30407/R21U12-3-Preview?anchor=blocks)
