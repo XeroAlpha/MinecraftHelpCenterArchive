@@ -1,7 +1,7 @@
 ---
 title: "Fix Achievements Not Displaying or Unlocking in Minecraft: Bedrock Edition"
 date: 2024-06-21T20:09:54Z
-updated: 2025-09-10T17:36:36Z
+updated: 2025-09-19T16:35:31Z
 categories: Performance & Troubleshooting
 tags:
   - subject_progress_and_saved_games
@@ -21,7 +21,7 @@ If you completed an achievement requirement and it does not unlock automatically
 
 ## Fix Minecraft: Bedrock achievements not unlocking
 
-- **Verify achievements are not disabled**: To see if achievements are disabled in your world, pause the game and select **Settings.** The **World: Game** section displayes the banner “Achievements cannot be earned in this world.” If Achievements were disabled for any of the following reasons, you need to revert to a backup before these settings were enbled, use a world seed to recreate the world, or create a new world:
+- **Verify achievements are not disabled**: To see if achievements are disabled in your world, pause the game and select **Settings.** The **World: Game** section displays the banner "Achievements cannot be earned in this world." If Achievements were disabled for any of the following reasons, you need to revert to a backup before these settings were enabled, use a world seed to recreate the world, or create a new world:
   - **World settings:** Settings such as creative mode, flat world, and enabling cheats or experiments will disable Achievements. 
   - **Marketplace items:** Some Marketplace add-ons or world templates may be incompatible with Achievements.
 - **Verify your internet connection**: See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for recommendation and required network settings. For Xbox players, see [Troubleshoot your Xbox network connection](https://support.xbox.com/en-US/help/hardware-network/connect-network/xbox-one-network-connection).
