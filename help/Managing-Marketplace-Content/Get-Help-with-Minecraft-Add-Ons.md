@@ -78,7 +78,7 @@ If you’ve found an issue with Minecraft: Bedrock Edition that you’d like to 
 
 ### Related Articles
 
-[How to activate Minecraft Add-Ons](./How-to-activate-Minecraft-Add-Ons.md)
+[How to activate Minecraft Add-Ons](./Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md)
 
 [Disabling Minecraft Add-Ons](./Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md)
 

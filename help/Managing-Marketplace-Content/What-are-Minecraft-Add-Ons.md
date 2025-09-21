@@ -33,6 +33,6 @@ Visit the [Creator Learning Portal](https://www.minecraft.net/en-us/creator) to 
 
 [How to Buy Content from the Minecraft Marketplace](../Buying-Marketplace-Content/Buy-Content-from-the-Minecraft-Marketplace.md)
 
-[How to activate Minecraft Add-Ons](./How-to-activate-Minecraft-Add-Ons.md)
+[How to activate Minecraft Add-Ons](./Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md)
 
 [Let's talk about Add-Ons! - Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/24051477904781-Let-s-talk-about-Add-Ons)
