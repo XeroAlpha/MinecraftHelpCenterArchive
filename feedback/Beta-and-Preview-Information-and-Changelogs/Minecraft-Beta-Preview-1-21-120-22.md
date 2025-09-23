@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.120.22
 date: 2025-09-16T12:14:03Z
-updated: 2025-09-18T15:46:31Z
+updated: 2025-09-23T14:26:26Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39606021304589-Minecraft-Beta-Preview-1-21-120-22
 hash:
@@ -86,8 +86,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - Released `initialRotation` member of `SpawnEntityOptions` to 2.3.0
 - Released `initialPersistence` member of `SpawnEntityOptions` to 2.3.0
-- Entity
-  - Fixed an issue with Players phasing through blocks when using `applyImpulse(vector: Vector3): void`. ([MCPE-226702](https://bugs.mojang.com/browse/MCPE-226702))
+- Fixed an issue with Players phasing through blocks when using `applyImpulse(vector: Vector3): void`. ([MCPE-226702](https://bugs.mojang.com/browse/MCPE-226702))
 - Releasing the light detection API from experimental to stable.
 - Removed entity override limit on Player method `setPropertyOverrideForEntity`
 
