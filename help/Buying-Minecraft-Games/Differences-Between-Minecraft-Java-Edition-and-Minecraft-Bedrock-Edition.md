@@ -1,7 +1,7 @@
 ---
 title: "Differences Between Minecraft: Java Edition and Minecraft: Bedrock Edition"
 date: 2021-03-24T21:40:40Z
-updated: 2024-10-01T17:11:52Z
+updated: 2025-09-23T20:49:12Z
 categories: Buying Minecraft Games
 tags:
   - trending
@@ -22,7 +22,7 @@ While every version of Minecraft is still Minecraft, the differences between Min
 - **Customize your own skin:** You can download any skin online or make your own and upload it to use in-game!
 - **Customize with mods:** Download community-made [Mods for Minecraft: Java Edition](../Performance-Troubleshooting/Mods-for-Minecraft-Java-Edition.md) to change your gameplay experience.
 - **Join a Realm:** Realms are servers, run by Minecraft, just for you and your friends. Invite an infinite number of friends to join your personal Realm and play with up to 10 friends at a time.
-- **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server, and have your friends join from mobile and PC.
+- **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server and have your friends join.
 - **Join a community:** There are countless communities dedicated to customizing Java Edition with all kinds of variations and mods to change up the multiplayer experience.
 
 ## Minecraft: Bedrock Edition
@@ -35,7 +35,7 @@ While every version of Minecraft is still Minecraft, the differences between Min
 - **Downloadable Content:** Use add-ons to customize your experience. Transform the look, and even change the behavior of mobs.
 - **Multiplayer Servers:** Public servers are partnered with Minecraft for anyone to join, which includes multiplayer mini-games.
 - **Join a Realm:** Realms are servers, run by Minecraft, just for you and your friends. Invite an infinite number of friends to join your personal Realm and play with up to 10 friends at a time.
-- **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server, and have your friends join from mobile and PC.
+- **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server and have your friends join.
 - **Achievements & Trophies:** Complete certain challenges to earn achievements or trophies in survival mode.
 - **Moderation and Parental Controls:** Connected to the [Xbox Family Settings App](https://www.xbox.com/en-US/apps/family-settings-app), you can customize the shared gaming experience for you and your family.
 - **Family Sharing Support:** You can share your copy of Minecraft: Bedrock Edition to others in your family using [Family Share on PC](../Download-Install/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).
