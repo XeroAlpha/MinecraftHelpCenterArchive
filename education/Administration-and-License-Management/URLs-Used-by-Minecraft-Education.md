@@ -1,7 +1,7 @@
 ---
 title: URLs Used by Minecraft Education
 date: 2021-08-06T13:22:58Z
-updated: 2024-07-23T18:38:04Z
+updated: 2025-09-26T21:13:09Z
 categories: Administration and License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/4404784181524-URLs-Used-by-Minecraft-Education
 hash:
@@ -41,7 +41,6 @@ This is the list of all the URLs used by Minecraft Education.
 | https://trg-minecraft.userpxt.io          | MakeCode                  |
 | https://pxt.azureedge.net                 | MakeCode                  |
 | https://api.github.com                    | MakeCode                  |
-| https://www.tynker.com                    | Tynker                    |
 
  
 
