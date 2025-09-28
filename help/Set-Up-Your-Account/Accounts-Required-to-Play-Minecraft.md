@@ -109,5 +109,5 @@ Here’s a list of required accounts and available game versions (Minecraft: Bed
 
 - [Get Help Signing into Minecraft with Your Microsoft Account](../Account-Sign-in/Get-Help-Signing-into-Minecraft-with-Your-Microsoft-Account.md)
 - [Sign in to Minecraft with a Microsoft Account on Mobile](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
-- [Link Your Microsoft Account to Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md)
+- [Link Your Microsoft Account to Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md)
 - [Sign in to Minecraft with a Microsoft Account on Nintendo Switch](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md)

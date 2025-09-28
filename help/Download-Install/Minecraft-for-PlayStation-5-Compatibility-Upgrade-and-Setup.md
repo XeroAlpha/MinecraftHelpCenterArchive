@@ -59,7 +59,7 @@ After you save your Minecraft worlds to the cloud, follow these instructions to 
 
 ## Linking a Microsoft account to your PSN Account
 
-Linking your Microsoft account to the PS5 version of Minecraft allows you to access crossplay and carry over your Minecraft Marketplace purchases from other devices. See [How to Link Microsoft and PlayStation Accounts in Minecraft](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md).
+Linking your Microsoft account to the PS5 version of Minecraft allows you to access crossplay and carry over your Minecraft Marketplace purchases from other devices. See [How to Link Microsoft and PlayStation Accounts in Minecraft](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md).
 
 ## Authorizing Minecraft Subscription Services on PS5
 

@@ -11,7 +11,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360037105792-Minecraft-Bu
 **New Features:**
 
 - **PlayStation®4**
-  - Welcome PlayStation®4 players to the Bedrock version of Minecraft! All Bedrock platforms can now cross-play with PS4™ consoles. More information can be found in the [Minecraft for PlayStation®4 FAQ](../../help/Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Minecraft-on-PlayStation.md).
+  - Welcome PlayStation®4 players to the Bedrock version of Minecraft! All Bedrock platforms can now cross-play with PS4™ consoles. More information can be found in the [Minecraft for PlayStation®4 FAQ](../../help/Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md).
 
 <!-- -->
 

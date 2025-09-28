@@ -290,7 +290,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Sugar Cane
 
 - **What it means**: The wrong Microsoft/Xbox account is being used to sign into the current PlayStation Network account.
-- **How to troubleshoot**: See [Can’t Sign into a Microsoft Account in Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Can-t-Sign-into-a-Microsoft-Account-in-Minecraft-on-PlayStation.md)
+- **How to troubleshoot**: See [Can’t Sign into a Microsoft Account in Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Troubleshoot-Microsoft-Account-Sign-in-Errors-in-Minecraft-on-PlayStation.md)
 
 ### Terracotta
 
