@@ -1,7 +1,7 @@
 ---
 title: "Link Your Microsoft Account to Your PlayStation Network Account in Minecraft: Bedrock Edition"
 date: 2019-12-10T03:08:37Z
-updated: 2025-09-25T19:27:34Z
+updated: 2025-09-30T17:36:24Z
 categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
@@ -25,12 +25,11 @@ If you want to play with friends on different platforms or join Realms on Minecr
 
 1.  Launch Minecraft on your PlayStation.
 2.  Select **Sign in with a Microsoft account** on the title screen.
-3.  Visit the [code redemption site on a browser](https://login.live.com/oauth20_remoteconnect.srf).
-4.  Input the code that your game is displaying.
-5.  Sign in to the Microsoft account you want associated with your PlayStation account.
+3.  Scan the QR code or visit [https://microsoft.com/link ](https://microsoft.com/link)and enter the on-screen code.
+4.  Sign in to the Microsoft account you want associated with your PlayStation account.
 
 ## Information about account linking
 
-- **Account Linking Limit:** You can link one Microsoft account with your PlayStation Network account. To change the linked Microsoft account, see [How to Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft](./Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft-Bedrock-Edition.md).
+- **Account Linking Limit:** You can link one Microsoft account with your PlayStation Network account. To change the linked Microsoft account, see [Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft: Bedrock Edition](./Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft-Bedrock-Edition.md).
 - **Marketplace Purchase Access:** Linking to a Microsoft account gives you access to non-exclusive Marketplace content on your PlayStation that you purchased using your Microsoft account on other game platforms. However, if you want to buy new items on your PlayStation, you need to use [Minecraft Tokens](../Buying-Marketplace-Content/What-are-Minecraft-Tokens.md) in the Minecraft Store on PlayStation. 
 - **Cross-platform Play:** Linking a Microsoft account allows you to play multiplayer games in Minecraft Realms with players on other gaming platforms. See [Create or Join Realms](https://help.minecraft.net/hc/en-us/sections/26104084764557) for more information.
