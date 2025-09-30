@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.111 - The Copper Age"
 date: 2025-09-29T11:01:44Z
-updated: 2025-09-29T12:33:56Z
+updated: 2025-09-30T16:27:11Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39932063411213-Minecraft-Bedrock-Edition-1-21-111-The-Copper-Age
 hash:
@@ -60,8 +60,6 @@ hash:
 ---
 
 **Posted:** 30 September 2025
-
-Minecraft has entered The Copper Age! Express yourself in every shade of copper as you transform this versatile metal into handy tools, shiny armor, gleaming light sources, oxidizing decor, smart storage, and even lively mechanical companions known as copper golems. Whether scraped or oxidized, this is the start of a new clonking era of creativity! Unearth the power of copper in Minecraft now!
 
 <figure class="wysiwyg-image">
 <img src="https://feedback.minecraft.net/hc/article_attachments/39933881982605" alt="BE_changelog_copper_age_1170x500.jpg" />
