@@ -1,7 +1,7 @@
 ---
 title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
-updated: 2025-08-20T18:01:52Z
+updated: 2025-09-29T23:02:37Z
 categories: Administration and License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
@@ -82,9 +82,10 @@ This is the list of all the URLs used by Minecraft Education.
 | https://trg-minecraft.userpxt.io          | MakeCode                  |
 | https://pxt.azureedge.net                 | MakeCode                  |
 | https://api.github.com                    | MakeCode                  |
-| https://www.tynker.com                    | Tynker                    |
 
  
+
+Note that as of v1.21.91, https://www.tynker.com is no long needs to be allow listed as we no longer utilize the services from this URL. 
 
 **Additional URLs for Microsoft auth & Azure services:**
 

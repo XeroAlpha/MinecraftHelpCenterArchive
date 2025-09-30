@@ -1,7 +1,7 @@
 ---
 title: View or Change Your In-Game Profile Name in Minecraft
 date: 2021-09-10T21:08:08Z
-updated: 2025-09-04T20:42:00Z
+updated: 2025-09-29T21:47:13Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
@@ -28,6 +28,8 @@ hash:
   01K20QC1M0SPKD9HZZ2J8DY489: change-gamertag-on-xbox
   h_01GE5JWN8T888EHWSWTXJ7BEXH: change-your-minecraft-java-edition-profile-name
   h_01GE5JX1Z0CZ833A7S54Y195KV: change-your-nintendo-switch-nickname-for-minecraft
+  h_01K6BHYNPH5681ZDMW1H6N9V3C: change-your-profile-name-on-playstation
+  h_01K6BPZ757K39DJSYGH9R5SR4C: linked-playstation-accounts
 ---
 
 Your character name that displays in-game is associated with the version of Minecraft you play or the game console you use.
@@ -66,3 +68,11 @@ Your in-game name for Minecraft is displayed as your Nintendo account nickname. 
 2.  Select your profile page in the top left corner.
 3.  Go to the **Profile** tab.
 4.  Select the **pencil icon** next to your profile name to change it.
+
+## Change your profile name on PlayStation
+
+On PlayStation, your in-game profile name is your PSN online ID. Visit [How to change your PSN online ID](https://www.playstation.com/en-us/support/account/change-psn-online-id/) to learn more.
+
+### Linked PlayStation accounts
+
+If you sign in to Minecraft with your Microsoft account, your in-game profile name will change to your Xbox gamertag. Signing out from your Microsoft account on PlayStation will revert your in-game profile name back to your PSN online ID. Visit [Link Your Microsoft Account to Your PlayStation Network Account in Minecraft: Bedrock Edition](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md) to learn more.
