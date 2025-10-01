@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.120.24
 date: 2025-10-01T16:15:53Z
-updated: 2025-10-01T16:17:04Z
+updated: 2025-10-01T20:02:54Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/40008177570061-Minecraft-Beta-Preview-1-21-120-24
 hash:
@@ -124,7 +124,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
   - Moved property `readonly containerRules?: ContainerRules` from `beta` to `v2.3.0`.
   - Moved property `readonly weight: number` from `beta` to `v2.3.0`.
   - Moved property `readonly weight: number` from `beta` to `v2.3.0`.
-- Moved class `ItemInventoryComponent` from `beta` to `v2.3.0`. 
+- Moved class `ItemInventoryComponent` from `beta` to `v2.3.0`.
 
 ## Biomes[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30483/R21U12-5-Preview?anchor=biomes)
 

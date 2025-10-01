@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-08-20T18:00:58Z
+updated: 2025-10-01T19:12:26Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-game-client-minor-update-version-121921---released-82025
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-betapreview-game-client-update-version-1211101---released-100125
+  01K6BX1H7GW1HVXMC6WARBXHK0: minecraft-education-game-client-minor-update-version-121921---released-82025
   01K348J724PSXFVN9RB35CVZDV: minecraft-education-game-client-update-version-121901---released-72225
   h_01K0SMA35KYVSH3M79TVFAK4E7: ""
   01JZRFFDN5FNFHAV346HN4GWAA: minecraft-education-beta-game-client-update-version-121901---released-61625
@@ -56,6 +57,13 @@ Minecraft Education periodically releases updates to our game and companion apps
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
+
+## Minecraft Education Beta/Preview Game Client Update (version 1.21.110.1) - Released 10/01/25
+
+- Dedicated Server beta
+- Copper Age Update
+- Python Notebooks has been removed as a supported IDE
+- Additional improvements to performance and product stability
 
 ## Minecraft Education Game Client Minor Update (version 1.21.92.1) - Released 8/20/25
 

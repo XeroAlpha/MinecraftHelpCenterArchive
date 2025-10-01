@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.111 - The Copper Age"
 date: 2025-09-29T11:01:44Z
-updated: 2025-09-30T16:27:11Z
+updated: 2025-10-01T20:12:36Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39932063411213-Minecraft-Bedrock-Edition-1-21-111-The-Copper-Age
 hash:
@@ -325,6 +325,7 @@ Copper golems are handy, organization-loving companions that’ll bring your bas
 - ContainerSlot
   - Moved setLore(loreList?: (RawMessage \| string)\[\]): void from beta to V2.2.0
   - Moved getRawLore(): RawMessage\[\] from beta to V2.2.0
+- Moved `LootTableManager` API from `beta` to `v2.2.0`.
 
 ### Biomes
 
