@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server 101
 date: 2025-10-01T17:56:33Z
-updated: 2025-10-01T19:34:18Z
+updated: 2025-10-02T18:43:21Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-101
 hash:
@@ -32,8 +32,8 @@ hash:
   - [Windows](https://aka.ms/downloadmee-winServerBeta) and [Linux](https://aka.ms/MCEDU_Beta_Linux_Server) Servers
   - Preview clients for [Windows](https://aka.ms/downloadmee-winStoreBeta), [Android and Chromebook](https://aka.ms/downloadme-chromebookPreview)
   - Beta clients for [Windows](https://aka.ms/downloadmee-desktopBeta), [macOS](https://aka.ms/downloadmee-macosBeta) (iOS client coming soon)
-  - [Dedicated Server APIs](https://microsoft.sharepoint.com/teams/MinecraftEducationTeam80/Shared%20Documents/Feature%20Development/Multiplayer/Dedicated%20Server%20Support%20Articles/aka.ms/MCEDU-DS-DOCS)
-  - [Dedicated Server Tooling notebooks](https://microsoft.sharepoint.com/teams/MinecraftEducationTeam80/Shared%20Documents/Feature%20Development/Multiplayer/Dedicated%20Server%20Support%20Articles/aka.ms/MCEDU-DS-TOOLING)
+  - [Dedicated Server APIs](https://aka.ms/MCEDU-DS-Docs)
+  - [Dedicated Server Tooling notebooks](https://aka.ms/MCEDU-DS-Tooling)
   - [IT Admin Web Portal](https://aka.ms/dedicatedservers)
 - If you would like to give feedback on the beta, we have two surveys available:
   - [IT Admin Setup and Installation Experience Survey](https://aka.ms/ds-admin-survey) (fill this out if you set up the Dedicated Server and created servers for your tenant)
