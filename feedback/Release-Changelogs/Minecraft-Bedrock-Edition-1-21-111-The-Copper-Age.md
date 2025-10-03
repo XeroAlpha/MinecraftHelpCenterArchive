@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.111 - The Copper Age"
 date: 2025-09-29T11:01:44Z
-updated: 2025-10-01T20:12:36Z
+updated: 2025-10-02T23:06:34Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/39932063411213-Minecraft-Bedrock-Edition-1-21-111-The-Copper-Age
 hash:
@@ -227,6 +227,7 @@ Copper golems are handy, organization-loving companions that’ll bring your bas
 - Colored text on signs no longer appear dark in Vibrant Visuals
 - Fixed an issue that caused certain mobs to display incorrectly when using the Minecraft Classic Texture Pack ([MCPE-221572](https://bugs.mojang.com/browse/MCPE-221572))
 - Added an option to Hide Sky Flashes in the End when playing with Vibrant Visuals
+- Adoption of [Xbox Dynamic Power States](https://learn.microsoft.com/en-us/gaming/sustainability/developer-tools/dynamic-power-states) platform feature to dynamically adjust GPU power usage to keep gameplay consistent with less power consumed
 
 ### Mobs
 
