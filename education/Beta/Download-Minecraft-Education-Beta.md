@@ -1,7 +1,7 @@
 ---
 title: Download Minecraft Education Beta
 date: 2021-09-24T18:25:00Z
-updated: 2025-06-17T19:59:27Z
+updated: 2025-10-03T22:25:57Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/4407483028116-Download-Minecraft-Education-Beta
 hash:
@@ -11,6 +11,7 @@ hash:
   h_01HA2Z9QPM1DD1A743P60T910K: macos
   h_01HA2Z9QPMABDNWW30WPBFY2FH: ipad-and-iphone
   h_01HA2Z9QPMZ0JXK7D8T0R8NM0V: windows
+  h_01K6P2MQ3AABGPAH4TZQE2M3DM: dedicated-server-beta
 ---
 
 Welcome to the Minecraft Education beta. We’re excited to help you get going! This article has platform-specific guidance for installing the beta onto your device.
@@ -122,6 +123,20 @@ If you are downloading the beta for Windows desktop, uninstall your current vers
 [Windows Desktop beta ](https://aka.ms/downloadmee-desktopBeta)
 
 [Windows Store preview](https://aka.ms/MCEDUPreviewFAQ)
+
+ 
+
+### Dedicated Server beta
+
+- [Windows Server client](https://aka.ms/downloadmee-winServerBeta)
+- [Linux Server client](https://aka.ms/MCEDU_Beta_Linux_Server)
+
+ 
+
+For more information on setting up and using dedicated servers in Minecraft Education, view our articles below:
+
+- [Dedicated Server 101](https://aka.ms/mcedu-ds-faq)
+- [Dedicated Server Installation Guide](https://aka.ms/dsserversetup)
 
  
 
