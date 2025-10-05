@@ -4,7 +4,18 @@ date: 2024-08-12T17:47:11Z
 updated: 2025-09-26T17:52:21Z
 categories: Use or Link Microsoft Accounts
 tags:
+  - title_minecraft
+  - subject_change_account_information
+  - category_account_support
+  - subject_sign_in_questions
+  - platform_sony_playstation_4
+  - platform_sony_playstation_5
+  - use_for_autoreply
   - section_29296773863181
+  - subject_link_accounts
+  - subject_account_other
+  - subject_sign_in_help
+  - subject_account_game_settings
 link: https://help.minecraft.net/hc/en-us/articles/29198935918477-Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft-Bedrock-Edition
 hash:
   h_01J53V5YMKW3SA4X14CP22HR9J: unlink-your-microsoft-account-in-minecraft-on-playstation

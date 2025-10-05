@@ -2,10 +2,8 @@
 title: Disable Minecraft Add-Ons to Solve Game Issues
 date: 2024-02-14T18:05:57Z
 updated: 2025-08-21T21:37:44Z
-categories: Managing Marketplace Content
+categories: Marketplace Troubleshooting
 tags:
-  - section_24069904400141
-  - Add-Ons
   - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/24121220131597-Disable-Minecraft-Add-Ons-to-Solve-Game-Issues
 hash:
@@ -43,5 +41,5 @@ While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can 
 - You can also troubleshoot by starting a new world and adding Add-ons one at a time.
 - You must be the world owner to deactivate resource packs.
 - You may also be unable to deactivate resource packs for world templates and adventures maps.
-- Deactivating a world’s resource pack does not remove it from your storage. See [Delete Unused Marketplace Content in Minecraft](./Delete-Unused-Marketplace-Content-in-Minecraft.md).
+- Deactivating a world’s resource pack does not remove it from your storage. See [Delete Unused Marketplace Content in Minecraft](../Managing-Marketplace-Content/Delete-Unused-Marketplace-Content-in-Minecraft.md).
 - After an Add-On is removed, any Add-On mobs will also be removed. Add-On blocks will be replaced with updated blocks.

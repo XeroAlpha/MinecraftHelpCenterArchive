@@ -39,8 +39,8 @@ Backups:
 Resource Packs:
 
 - **Toggle resource pack requirements**: Toggle whether players are required to download resources packs.
-- **Manage resource pack Add-Ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md) and [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
+- **Manage resource pack Add-Ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md) and [Disable Minecraft Add-Ons to prevent game issues](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
 
 Behavior Packs:
 
-- **Manage behavior pack add-ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md) and [Disable Minecraft Add-Ons to prevent game issues](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
+- **Manage behavior pack add-ons**: See [How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md) and [Disable Minecraft Add-Ons to prevent game issues](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).

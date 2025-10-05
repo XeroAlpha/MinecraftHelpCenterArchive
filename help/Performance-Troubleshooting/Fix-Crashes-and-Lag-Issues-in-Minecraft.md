@@ -47,7 +47,7 @@ Before trying more advanced troubleshooting steps, we recommend signing out of M
 ## Optimize Minecraft and settings
 
 - **Update Minecraft: **Make sure you're using the latest Minecraft release for your gaming device. See our [Download & Install](https://help.minecraft.net/hc/en-us/sections/27166490706957) section for device-specific instructions.
-- **Disable Add-Ons or mods: **Try disabling and re-adding Add-Ons or mods one at a time to see if performance improves. For Minecraft: Bedrock Edition, see [Disabling Minecraft Add-Ons](../Managing-Marketplace-Content/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
+- **Disable Add-Ons or mods: **Try disabling and re-adding Add-Ons or mods one at a time to see if performance improves. For Minecraft: Bedrock Edition, see [Disabling Minecraft Add-Ons](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
 - **Adjust video settings**: Minecraft's advanced video features require more processing power and memory. See [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) or [Optimizing Minecraft: Java Edition Video Settings and Performance](./Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md).
 - **Uninstall and reinstall: **If other tips aren’t working, start with a fresh installation of Minecraft. See [Backup & Restore](https://help.minecraft.net/hc/en-us/sections/27166561402125) for instructions to save your worlds.
 

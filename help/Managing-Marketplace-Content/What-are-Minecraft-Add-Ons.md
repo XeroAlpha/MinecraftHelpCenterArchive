@@ -4,9 +4,7 @@ date: 2021-09-13T18:58:31Z
 updated: 2024-05-02T19:40:40Z
 categories: Managing Marketplace Content
 tags:
-  - new
   - section_24069904400141
-  - Add-Ons
 link: https://help.minecraft.net/hc/en-us/articles/4409140076813-What-are-Minecraft-Add-Ons
 hash:
   h_01HPMV91K4AGK5B3X4ZMEHEJXH: minecraft-add-ons-can-introduce

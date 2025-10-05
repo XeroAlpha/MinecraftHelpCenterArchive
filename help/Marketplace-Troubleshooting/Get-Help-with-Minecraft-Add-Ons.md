@@ -2,10 +2,9 @@
 title: Get Help with Minecraft Add-Ons
 date: 2024-02-14T17:59:52Z
 updated: 2024-03-05T22:45:05Z
-categories: Managing Marketplace Content
+categories: Marketplace Troubleshooting
 tags:
   - section_24069904400141
-  - Add-Ons
 link: https://help.minecraft.net/hc/en-us/articles/24120973871501-Get-Help-with-Minecraft-Add-Ons
 hash:
   h_01HPMW2G9TMEAQ18R46X5CP8AG: making-a-backup
@@ -78,7 +77,7 @@ If you’ve found an issue with Minecraft: Bedrock Edition that you’d like to 
 
 ### Related Articles
 
-[How to activate Minecraft Add-Ons](./Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md)
+[How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md)
 
 [Disabling Minecraft Add-Ons](./Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md)
 
