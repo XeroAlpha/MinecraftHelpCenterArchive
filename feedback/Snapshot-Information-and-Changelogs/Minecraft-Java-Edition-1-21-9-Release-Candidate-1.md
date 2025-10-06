@@ -1,6 +1,7 @@
 ---
 title: Minecraft Java Edition - 1.21.9 Release Candidate 1
 date: 2025-09-28T14:21:54Z
+updated: 2025-10-06T10:58:13Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -21,7 +22,7 @@ Happy mining!
 
 ## Get the Release Candidate
 
-Release Candidates are available for Minecraft: Java Edition. To install the Release Candidate, open up the [Minecraft Launcher](https://author-minecraftnet-prd02.adobecqms.net/content/minecraft-net/language-masters/download.html) and enable snapshots in the "Installations" tab.
+Release Candidates are available for Minecraft: Java Edition. To install the Release Candidate, open up the [Minecraft Launcher](https://www.minecraft.net/content/minecraft-net/language-masters/download) and enable snapshots in the "Installations" tab.
 
 **Testing versions can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
