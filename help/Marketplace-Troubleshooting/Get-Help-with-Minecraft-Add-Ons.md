@@ -1,88 +1,33 @@
 ---
-title: Get Help with Minecraft Add-Ons
+title: Redownload Add-Ons to Fix Missing or Corrupted Packs
 date: 2024-02-14T17:59:52Z
-updated: 2024-03-05T22:45:05Z
+updated: 2025-10-06T17:56:37Z
 categories: Marketplace Troubleshooting
 tags:
   - section_24069904400141
-link: https://help.minecraft.net/hc/en-us/articles/24120973871501-Get-Help-with-Minecraft-Add-Ons
+link: https://help.minecraft.net/hc/en-us/articles/24120973871501-Redownload-Add-Ons-to-Fix-Missing-or-Corrupted-Packs
 hash:
-  h_01HPMW2G9TMEAQ18R46X5CP8AG: making-a-backup
-  h_01HPMW2G9T0ZMW4TJCKHXR30VE: finding-a-missing-add-on
-  h_01HQ6CT5S4SBD0V1BAY5C14RX5: add-on-wont-finish-downloading
-  h_01HR8CJCR6DX30GM5FRTPCJ0GP: missing-dependency-error
-  h_01HPMW9T5CVT678T82748WMNMT: sideload-add-ons-from-third-party-websites-or-apps
-  h_01HPMW2G9TNNWZGE03E1BV416A: stacking-multiple-add-ons
-  h_01HPMW2G9TW2T91JHJHBYDGYWP: using-add-ons-on-other-content-from-the-marketplace
-  h_01HPMW2G9THH9BFBQHP1V03MJC: reporting-bugs
-  h_01HPMW713ZBEGJMBWQA88EWDYG: ""
-  h_01HPMW713ZJA0Z2G5DSG0JWXAN: "-1"
-  h_01HPMW2G9TSW2VZTACANDG92Y7: related-articles
+  h_01K6NX2AFP5WCC6GJ0ZVNMMPPD: how-to-redownload-an-add-on
+  h_01K6NX2AFPGPDJ8X7SPVA7Y3SH: additional-add-on-resources
 ---
 
-Always restart your Minecraft client if experiencing Add-Ons crashing or failing to load.
+If you accidentally deleted a resource or behavior pack from an Add-On, think an Add-On may be corrupted, or see a message about missing dependencies for an Add-On, you can redownload the Add-On to fix issues.
 
-Read more below to help resolve Add-On issues if they continue.
+Before you attempt this process, we recommend you follow the steps in [Disable Minecraft Add-Ons to Solve Game Issues](./Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md) and [Delete Unused Marketplace Content in Minecraft](../Managing-Marketplace-Content/Delete-Unused-Marketplace-Content-in-Minecraft.md) to disable and delete the existing Add-On first.
 
-## Making a backup
+## How to redownload an Add-On
 
-When playing with Add-Ons, we encourage you to make copies of your world using these steps:
+1.  Launch Minecraft: Bedrock Edition.
+2.  Verify the gamertag above the avatar matches the account that purchased the Add-On.
+3.  Select **Marketplace**.
+4.  Select the **bookcase icon** at the top of the Marketplace to open My Library.
+5.  Locate the Add-On you deleted by selecting its category or searching for it with the search bar.
+6.  Select the Add-On.
+7.  Select **Download** and select **Download** from the confirmation menu.
+8.  Select **Activate Add-On!** and follow the prompts to apply it to an existing or new world.
 
-1.  Navigate to the **Edit world** screen.
-2.  Select the **Game** tab.
-3.  Click the **Copy World** button at the bottom of the list to create a copy of your world. 
+## Additional Add-On Resources
 
-## Finding a missing Add-On
-
-Start by ensuring you’ve downloaded the Add-on to your system.
-
-1.  Navigate to the Marketplace and open the product detail page for the Add-On you want to activate.
-2.  Click the **Download** button. A prompt will be displayed asking you to confirm the download. 
-
-## Add-On won't finish downloading
-
-1.  Navigate to Settings and select **Storage**.
-2.  Click **Clear Marketplace Cache**.
-3.  Restart Minecraft and retry your download.
-
-## Missing dependency error
-
-Some Add-Ons require both Resource and Behavior packs. Ensure both are enabled and restart your game.
-
-1.  Open Minecraft and click the **Play** button.
-2.  Click the pencil icon ![PencilIcon.png](https://minecrafthelp.zendesk.com/hc/article_attachments/24728932754957) to edit the world you’d like to activate an Add-On for.
-3.  Select the **Resource Packs** tab. Currently downloaded packs will show in My Packs.
-4.  Once you’ve identified the Add-On you’d like to activate, hit the **Activate** button. This will move that Add-On to the Active category. 
-5.  Repeat this for **Behavior Packs**.
-
-## Sideload Add-Ons from third-party websites or apps
-
-We have no plans to remove the ability to sideload Add-Ons from popular third-party websites or mobile apps that are compliant with the [Minecraft End-User License Agreement (EULA)](https://www.minecraft.net/en-us/eula). 
-
-## Stacking multiple Add-Ons
-
-It is important to note that stacking multiple Add-Ons can increase loading times, increase potential for conflicts between add-ons, and impact general performance. We encourage you to make a backup of your World before experimenting with Add-Ons. If you have trouble with your game running slow, crashing, or other odd behavior, try removing some Add-Ons from the world.   
-
-## Using Add-Ons on other content from the Marketplace
-
-Currently, while the game will not prohibit you from activating an Add-On (or Add-Ons) to a world purchased in marketplace, it is likely you may encounter issues, including potential game crashes.  
-
-## Reporting Bugs
-
-If you’ve found an issue with Minecraft: Bedrock Edition that you’d like to report to us, you can do so by [Reporting a bug](https://www.minecraft.net/en-us/bugs). Remember, if you don’t report it, we can’t fix it!   
-
-###  
-
-###  
-
-### Related Articles
-
-[How to activate Minecraft Add-Ons](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md)
-
-[Disabling Minecraft Add-Ons](./Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md)
-
-[Who to Contact with your Minecraft Support Questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md)
-
-[Learn to be a Minecraft Creator Using Add-Ons](https://www.minecraft.net/en-us/creator)
-
-[Let's talk about Add-Ons! - Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/24051477904781-Let-s-talk-about-Add-Ons)
+- [Activate Add-Ons in Minecraft: Bedrock Edition](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md)
+- [Clear Your Minecraft Marketplace Cache](./Clear-Your-Minecraft-Marketplace-Cache.md)
+- Troubleshoot Add-On Issues in Minecraft
