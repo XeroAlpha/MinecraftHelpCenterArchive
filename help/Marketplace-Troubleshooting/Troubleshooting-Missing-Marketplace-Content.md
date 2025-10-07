@@ -1,7 +1,7 @@
 ---
-title: Troubleshooting Missing Marketplace Content
+title: Troubleshoot Missing Marketplace Content
 date: 2024-02-20T18:04:19Z
-updated: 2025-10-06T23:10:20Z
+updated: 2025-10-07T16:56:47Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -20,7 +20,7 @@ tags:
   - use_for_autoreply
   - platform_xbox_series_xs
   - section_31867770289293
-link: https://help.minecraft.net/hc/en-us/articles/24292850100621-Troubleshooting-Missing-Marketplace-Content
+link: https://help.minecraft.net/hc/en-us/articles/24292850100621-Troubleshoot-Missing-Marketplace-Content
 ---
 
 Minecraft Marketplace content may not appear in Minecraft if you’re not signed in to the correct Microsoft account, your Marketplace Pass subscription is expired, or the content is no longer available. Add-Ons also have specific troubleshooting steps you can try. Here are suggestions to find or enable missing content.
