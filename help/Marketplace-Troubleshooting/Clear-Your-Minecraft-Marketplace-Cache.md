@@ -1,22 +1,29 @@
 ---
 title: Clear Your Minecraft Marketplace Cache
 date: 2024-11-12T19:58:26Z
-updated: 2025-04-17T22:08:55Z
+updated: 2025-10-06T23:09:26Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/31825737845773-Clear-Your-Minecraft-Marketplace-Cache
 hash:
-  h_01JCGZ40RTED3JCJN88SM442R8: how-to-clear-minecraft-cache
+  h_01K6NY1YW42FFCMDVMYTTK2DEM: how-to-clear-the-minecraft-marketplace-cache
+  h_01K6NY1YW4XA5B3ZBZJQ587JDE: additional-minecraft-marketplace-resources
 ---
 
-If you are experiencing various issues with the Minecraft Marketplace, clearing your cache may help things run smoother. Follow the steps below for it:
+Clear your Minecraft Marketplace cache as an initial troubleshooting step if you encounter any Marketplace content errors, such as trouble downloading Add-Ons in a world or Realm, errors with resource packs, or other Marketplace errors related to Add-Ons.
 
-## How to clear Minecraft cache
+## How to clear the Minecraft Marketplace cache
 
-1.  Start Minecraft: Bedrock Edition.
-2.  Select **Settings**.
-3.  Select **Storage**.
-4.  Select **Clear Marketplace Cache**.
+1.  Launch Minecraft: Bedrock Edition.
+2.  Select **Settings**.
+3.  Select **Storage**.
+4.  Select **Clear Marketplace Cache**.
+5.  Restart Minecraft and try to access the Marketplace again.
 
-After the process above has been finished, we recommend restarting the game and then trying to access the Marketplace again. If you get an error code in the Marketplace, see [Troubleshooting Minecraft Marketplace Error Codes](./Troubleshooting-Minecraft-Marketplace-Error-Codes.md). If content is missing, see [How to Find Content Missing from Minecraft Marketplace](./View-Your-Minecraft-Marketplace-Content.md).
+## Additional Minecraft Marketplace resources
+
+- [Invalid Session Error in Minecraft Marketplace](./Invalid-Session-Error-in-Minecraft-Marketplace.md)
+- [Troubleshooting Minecraft Marketplace Error Codes](./Troubleshooting-Minecraft-Marketplace-Error-Codes.md)
+- [View Your Minecraft Marketplace Content](./View-Your-Minecraft-Marketplace-Content.md)
+- [Get Help With Missing Minecoins in Minecraft Marketplace](./Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md)

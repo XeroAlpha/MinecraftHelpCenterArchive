@@ -1,7 +1,7 @@
 ---
 title: Redownload Add-Ons to Fix Missing or Corrupted Packs
 date: 2024-02-14T17:59:52Z
-updated: 2025-10-06T17:56:37Z
+updated: 2025-10-06T23:22:44Z
 categories: Marketplace Troubleshooting
 tags:
   - section_24069904400141
@@ -30,4 +30,4 @@ Before you attempt this process, we recommend you follow the steps in [Disable M
 
 - [Activate Add-Ons in Minecraft: Bedrock Edition](../Managing-Marketplace-Content/Activate-Add-Ons-in-Minecraft-Bedrock-Edition.md)
 - [Clear Your Minecraft Marketplace Cache](./Clear-Your-Minecraft-Marketplace-Cache.md)
-- Troubleshoot Add-On Issues in Minecraft
+- [Troubleshoot Add-On Issues in Minecraft](./Troubleshoot-Add-On-Issues-in-Minecraft.md)

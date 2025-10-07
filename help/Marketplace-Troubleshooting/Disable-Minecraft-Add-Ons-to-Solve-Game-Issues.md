@@ -1,45 +1,43 @@
 ---
 title: Disable Minecraft Add-Ons to Solve Game Issues
 date: 2024-02-14T18:05:57Z
-updated: 2025-08-21T21:37:44Z
+updated: 2025-10-06T23:05:11Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293
 link: https://help.minecraft.net/hc/en-us/articles/24121220131597-Disable-Minecraft-Add-Ons-to-Solve-Game-Issues
 hash:
-  h_01JZ6N8RVAA1993X0NKNGZDK9Y: disable-add-ons-in-a-single-player-world
-  h_01JZ6N8RVA8QH2XCFEX1ENZDNH: disable-add-ons-in-a-realm-world
-  h_01JZ6N8RVAPKBVG9MHWB8XSTCV: additional-add-on-troubleshooting-notes
+  h_01K6NYAST3HF3RF7HF4R4HA3B8: disable-add-ons-in-a-single-player-world
+  h_01K6NYAST3VCSY6CJCS448AK3S: disable-add-ons-in-arealm-world
 ---
 
-While Minecraft: Bedrock Edition will run smoothly with most Add-Ons, there can be compatibility issues if you use multiple Add-Ons simultaneously. If have trouble connecting to a world or experience performance issues or game crashes, you may want to disable resources packs and/or behavior packs. 
+When you activate multiple Minecraft Add-Ons, they can conflict with each other and cause crashes, visual issues, and error messages. If you experience these issues, we recommend you [create a backup](https://help.minecraft.net/hc/en-us/sections/27166561402125) and then disable Add-On resources packs and/or behavior packs one at a time until you identify the problematic Add-On. You can also [Reorder Add-Ons to Fix Resource and Behavior Pack Issues](./Reorder-Add-Ons-to-Fix-Resource-and-Behavior-Pack-Issues.md).
 
-*Before beginning, we recommend backing up your Minecraft world. See our [Backup & Restore](https://help.minecraft.net/hc/en-us/sections/27166561402125) section.*
+Before you disable Add-Ons, here is what to expect:
+
+- **World templates and adventures maps may have required resource packs**: Disable any other optional Add-Ons and create a new world if you’re having issues with these.
+- **Disabled Add-Ons will not be removed from your device**: Disabled Add-Ons will still be available in your storage and account.
+- **Add-On mobs will be removed**: If a disabled Add-On contains a mob, it will be removed from your world.
+- **Add-On blocks will be replaced**: If a disabled Add-On contains a block, it will be replaced with a default block.
 
 ## Disable Add-Ons in a single-player world
 
 1.  Launch Minecraft.
-2.  Select **Play.**
-3.  Select the **pencil icon** next to the world you want to change.
-4.  Select the **Resource packs** or **Behavior packs** tab**.**
-5.  Select the **Active** tab.
-6.  Select the resource pack you want to deactivate and select **Remove.**
+2.  Select **Play.**
+3.  Select the **pencil icon** next to the world you want to change.
+4.  Select the **Resource packs **or** Behavior packs **tab**.**
+5.  Select the **Active **tab.
+6.  Select the Add-On you want to deactivate and select **Remove.**
 
-##  Disable Add-Ons in a Realm world
+##  Disable Add-Ons in a Realm world
+
+You must be the Realm owner to deactivate Add-Ons.
 
 1.  Launch Minecraft.
-2.  Select **Play.**
+2.  Select **Play.**
 3.  Select the Realms tab.
-4.  Select the Realm with the world you want to change and select **Settings**.
-5.  Select the world slot you want to change and select **Edit World**.
-6.  Select the **Resource packs** or **Behavior packs** tab.
-7.  Select the **Active** tab.
-8.  Select the resource pack you wish to deactivate and select **Deactivate**.
-
-## Additional Add-On Troubleshooting Notes
-
-- You can also troubleshoot by starting a new world and adding Add-ons one at a time.
-- You must be the world owner to deactivate resource packs.
-- You may also be unable to deactivate resource packs for world templates and adventures maps.
-- Deactivating a world’s resource pack does not remove it from your storage. See [Delete Unused Marketplace Content in Minecraft](../Managing-Marketplace-Content/Delete-Unused-Marketplace-Content-in-Minecraft.md).
-- After an Add-On is removed, any Add-On mobs will also be removed. Add-On blocks will be replaced with updated blocks.
+4.  Select the Realm with the world you want to change and select **Settings**.
+5.  Select the world slot you want to change and select **Edit World**.
+6.  Select the **Resource packs **or** Behavior packs **tab.
+7.  Select the **Active **tab.
+8.  Select the resource pack you wish to deactivate and select **Deactivate**.
