@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.21.120.25
 date: 2025-10-07T12:32:03Z
-updated: 2025-10-07T15:38:51Z
+updated: 2025-10-08T15:01:18Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/40147803190669-Minecraft-Beta-Preview-1-21-120-25
 hash:
@@ -77,7 +77,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 ## User Interface[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30520/R21U12-6-Preview?anchor=user-interface)
 
-- Hotbar hotkeys now also work when hovering over output slots ([MCPE-228275](https://bugs.mojang.com/browse/MCPE-228275)) 
+- Hotbar hotkeys now also work when hovering over output slots ([MCPE-228671](https://bugs.mojang.com/browse/MCPE-228671)) 
 
 # Technical Updates[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30520/R21U12-6-Preview?anchor=technical-updates)
 
