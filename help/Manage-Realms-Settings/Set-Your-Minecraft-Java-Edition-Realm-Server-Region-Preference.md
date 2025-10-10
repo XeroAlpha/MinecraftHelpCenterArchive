@@ -1,7 +1,7 @@
 ---
 title: "Set Your Minecraft: Java Edition Realm Server Region Preference"
 date: 2025-06-23T23:51:34Z
-updated: 2025-07-31T21:48:51Z
+updated: 2025-10-10T16:58:55Z
 categories: Manage Realms Settings
 tags:
   - section_12618497714061
@@ -26,6 +26,6 @@ The following options are available:
 - **Automatic, Realm owner ping**: The server will be closest to the owner’s location.
 - **Specific Region**: The server will be hosted in the selected location.
 
-If you do not set a preference, the Realm server location is automatically chosen based on the first player to join.  All selections are preferences and various circumstances may result in your Realm being hosted in a different region than what you selected. In these cases, we will always attempt to put you in the next best region.  
+If you do not set a preference, the Realm server location is automatically chosen based on the first player to join.  All selections are preferences, and various circumstances may result in your Realm being hosted in a different region than what you selected. In these cases, we will always attempt to put you in the next best region.  
 
 See [Improved Realms regional support](https://www.minecraft.net/en-us/article/improved-realms-regional-support) for more details.

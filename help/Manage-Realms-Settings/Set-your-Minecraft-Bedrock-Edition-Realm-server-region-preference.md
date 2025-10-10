@@ -1,11 +1,11 @@
 ---
-title: "Set your Minecraft: Bedrock Edition Realm server region preference"
+title: "Set Your Minecraft: Bedrock Edition Realm Server Region Preference"
 date: 2025-03-14T16:08:16Z
-updated: 2025-06-17T18:53:28Z
+updated: 2025-10-10T16:59:10Z
 categories: Manage Realms Settings
 tags:
   - section_12618497714061
-link: https://help.minecraft.net/hc/en-us/articles/35019056723341-Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference
+link: https://help.minecraft.net/hc/en-us/articles/35019056723341-Set-Your-Minecraft-Bedrock-Edition-Realm-Server-Region-Preference
 hash:
   h_01JXXJ3RC6VPVPPA3ZK7RHGD8F: how-to-set-your-minecraft-bedrock-edition-realm-server-region-preference
 ---
@@ -27,6 +27,6 @@ If you do not set a preference, the Realm server location is automatically chose
 - **Automatic, Realm owner connection**: The server will be closest to the owner’s location.
 - **Specific Region**: The server will be hosted in the selected location.
 
-All selections are preferences and various circumstances may result in your Realm being hosted in a different region than what you selected. In these cases, we will always attempt to put you in the next best region.  
+All selections are preferences, and various circumstances may result in your Realm being hosted in a different region than what you selected. In these cases, we will always attempt to put you in the next best region.  
 
 See [Improved Realms regional support](https://www.minecraft.net/en-us/article/improved-realms-regional-support) for more details.
