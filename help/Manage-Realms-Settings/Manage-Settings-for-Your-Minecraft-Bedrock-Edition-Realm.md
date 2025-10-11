@@ -1,7 +1,7 @@
 ---
 title: "Manage Settings for Your Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:58:20Z
-updated: 2025-07-03T22:43:05Z
+updated: 2025-10-10T22:06:23Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft
@@ -60,8 +60,8 @@ Invite Links:
 
 Advanced:
 
-- Choose your Realm server location: [Set your Realm server region preference](./Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference.md).
+- **Choose your Realm server location:** [Set your Realm server region preference](./Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference.md).
 
  
 
-You can also manage your Realm on Minecraft.net. See [How to Edit Your Realms on Minecraft.net](./Edit-your-Realms-on-Minecraft-net.md).
+You can also manage your Realm on Minecraft.net. See [Edit your Realm on Minecraft.net](./Edit-your-Realms-on-Minecraft-net.md).
