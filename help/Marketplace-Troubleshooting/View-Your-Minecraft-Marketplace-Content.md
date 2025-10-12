@@ -41,4 +41,4 @@ Your Marketplace Pass content is accessible on your account as long as:
 - You keep your Marketplace Pass subscription active.
 - You are signed into the account used to buy Marketplace Pass. This excludes child accounts if the purchase was made on a parent account.
 
-If you are trying to access your Marketplace Pass or Realms Plus content on a different platform, see [Troubleshooting Missing Marketplace Content](./Troubleshooting-Missing-Marketplace-Content.md).
+If you are trying to access your Marketplace Pass or Realms Plus content on a different platform, see [Troubleshooting Missing Marketplace Content](./Troubleshoot-Missing-Marketplace-Content.md).

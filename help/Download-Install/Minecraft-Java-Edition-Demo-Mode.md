@@ -29,4 +29,4 @@ Other possible issues could be:
 
 ## Didn't find what you were looking for?
 
-Explore the [Minecraft: Java Edition Troubleshooting](https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting) page or [Contact Minecraft Support](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).
+Explore the [Minecraft: Java Edition Troubleshooting](https://help.minecraft.net/hc/en-us/articles/4408949606541-Minecraft-Java-Edition-Troubleshooting) page or [Contact Minecraft Support](../Performance-Troubleshooting/Who-to-Contact-with-Your-Minecraft-Support-Questions.md).

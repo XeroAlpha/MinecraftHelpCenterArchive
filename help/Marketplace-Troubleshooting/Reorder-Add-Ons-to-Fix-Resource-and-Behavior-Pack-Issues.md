@@ -67,4 +67,4 @@ You must be the Realm owner to modify Add-Ons.
 
 - [Disable Minecraft Add-Ons to Solve Game Issues](./Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md)
 - [Clear Your Minecraft Marketplace Cache](./Clear-Your-Minecraft-Marketplace-Cache.md)
-- [Redownload Add-Ons to Fix Missing or Corrupted Packs](./Get-Help-with-Minecraft-Add-Ons.md)
+- [Redownload Add-Ons to Fix Missing or Corrupted Packs](./Redownload-Add-Ons-to-Fix-Missing-or-Corrupted-Packs.md)

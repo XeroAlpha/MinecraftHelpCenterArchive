@@ -20,6 +20,6 @@ There are two possible scenarios where you might not be able to sign into your M
 - **Error: The Microsoft account you are trying to sign into is linked to a different PSN account.**
   - [Try linking to a different PSN account](./Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md). Each Microsoft account can only be linked to one PSN account and vice versa.
 - **Error: You are trying to sign into the wrong Microsoft account**.
-  - If you are trying to sign into the wrong Microsoft account, a message will appear telling you the account your PSN is connected to. Sign in to that account. You can then [unlink and use a different account](./Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft-Bedrock-Edition.md) if you wish.
+  - If you are trying to sign into the wrong Microsoft account, a message will appear telling you the account your PSN is connected to. Sign in to that account. You can then [unlink and use a different account](./Unlink-a-Microsoft-Account-from-a-PlayStation-Network-Account.md) if you wish.
 
 See [Link Your Microsoft Account to Minecraft on PlayStation](./Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md) for information about account linking.

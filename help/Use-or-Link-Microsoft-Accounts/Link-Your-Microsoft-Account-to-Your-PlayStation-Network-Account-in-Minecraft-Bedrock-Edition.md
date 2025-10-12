@@ -30,6 +30,6 @@ If you want to play with friends on different platforms or join Realms on Minecr
 
 ## Information about account linking
 
-- **Account Linking Limit:** You can link one Microsoft account with your PlayStation Network account. To change the linked Microsoft account, see [Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft: Bedrock Edition](./Unlink-Your-PlayStation-Network-Account-from-your-Microsoft-Account-in-Minecraft-Bedrock-Edition.md).
+- **Account Linking Limit:** You can link one Microsoft account with your PlayStation Network account. To change the linked Microsoft account, see [Unlink Your PlayStation Network Account from your Microsoft Account in Minecraft: Bedrock Edition](./Unlink-a-Microsoft-Account-from-a-PlayStation-Network-Account.md).
 - **Marketplace Purchase Access:** Linking to a Microsoft account gives you access to non-exclusive Marketplace content on your PlayStation that you purchased using your Microsoft account on other game platforms. However, if you want to buy new items on your PlayStation, you need to use [Minecraft Tokens](../Buying-Marketplace-Content/What-are-Minecraft-Tokens.md) in the Minecraft Store on PlayStation. 
 - **Cross-platform Play:** Linking a Microsoft account allows you to play multiplayer games in Minecraft Realms with players on other gaming platforms. See [Create or Join Realms](https://help.minecraft.net/hc/en-us/sections/26104084764557) for more information.

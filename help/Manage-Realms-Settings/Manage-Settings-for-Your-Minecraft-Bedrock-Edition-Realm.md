@@ -60,7 +60,7 @@ Invite Links:
 
 Advanced:
 
-- **Choose your Realm server location:** [Set your Realm server region preference](./Set-your-Minecraft-Bedrock-Edition-Realm-server-region-preference.md).
+- **Choose your Realm server location:** [Set your Realm server region preference](./Set-Your-Minecraft-Bedrock-Edition-Realm-Server-Region-Preference.md).
 
  
 

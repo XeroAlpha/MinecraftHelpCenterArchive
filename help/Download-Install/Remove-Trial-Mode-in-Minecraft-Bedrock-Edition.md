@@ -14,4 +14,4 @@ If you're trying to play Minecraft: Bedrock Edition, but only have access to the
 - **Update Your Xbox Game Pass Subscription**: If you are on Xbox or PC and usually subscribe to Xbox Game Pass, ensure that your subscription is active. If your subscription has ended, you may have lost access to Minecraft.
 - **Repair the App**: Use the [Microsoft Repair apps and programs](https://support.microsoft.com/en-us/windows/repair-apps-and-programs-in-windows-e90eefe4-d0a2-7c1b-dd59-949a9030f317) page to repair your Minecraft Launcher, then restart.
 
-If you're on PC and want to buy Minecraft, we now offer Minecraft: Bedrock Edition and Minecraft: Java Edition in the same bundle. See [I Own Minecraft: Java or Bedrock Edition for PC. How Do I Get the Other?](./I-Own-Minecraft-Java-or-Bedrock-Edition-for-PC-How-Do-I-Get-the-Other.md)
+If you're on PC and want to buy Minecraft, we now offer Minecraft: Bedrock Edition and Minecraft: Java Edition in the same bundle. See [I Own Minecraft: Java or Bedrock Edition for PC. How Do I Get the Other?](./Find-Out-Which-PC-Editions-of-Minecraft-You-Own.md)

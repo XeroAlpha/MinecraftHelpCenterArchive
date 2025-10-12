@@ -26,7 +26,7 @@ We appreciate every bit of mail we get from our wonderful players! 
 
 ## How do I get support?
 
-See [Who to contact with your Minecraft support questions](../Performance-Troubleshooting/Who-to-contact-with-your-Minecraft-support-questions.md).
+See [Who to contact with your Minecraft support questions](../Performance-Troubleshooting/Who-to-Contact-with-Your-Minecraft-Support-Questions.md).
 
 ## Where can I submit suggestions? 
 
