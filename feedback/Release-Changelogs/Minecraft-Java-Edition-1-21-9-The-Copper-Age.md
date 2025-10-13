@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Java Edition 1.21.9 - The Copper Age"
 date: 2025-09-30T09:29:08Z
-updated: 2025-09-30T14:59:47Z
+updated: 2025-10-13T13:00:07Z
 categories: Release Changelogs
 tags:
   - Java Edition
@@ -1227,7 +1227,7 @@ Fields:
 
 ## Get the Release
 
-To install the Release, open up the [Minecraft Launcher](https://author-minecraftnet-prd02.adobecqms.net/content/minecraft-net/language-masters/download.html) and click play! Make sure your Launcher is set to the "Latest Release” option.
+To install the Release, open up the [Minecraft Launcher](https://www.minecraft.net/content/minecraft-net/language-masters/download) and click play! Make sure your Launcher is set to the "Latest Release” option.
 
 Cross-platform server jar:
 
