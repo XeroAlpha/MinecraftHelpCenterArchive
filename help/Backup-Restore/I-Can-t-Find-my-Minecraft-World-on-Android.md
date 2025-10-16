@@ -1,7 +1,7 @@
 ---
-title: I Can’t Find my Minecraft World on Android
+title: How Minecraft Stores World Files on Your Android Device
 date: 2021-11-19T22:40:09Z
-updated: 2025-09-04T20:19:58Z
+updated: 2025-10-16T20:38:38Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -11,31 +11,24 @@ tags:
   - platform_android
   - section_27166561402125
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4414144725389-I-Can-t-Find-my-Minecraft-World-on-Android
+link: https://help.minecraft.net/hc/en-us/articles/4414144725389-How-Minecraft-Stores-World-Files-on-Your-Android-Device
 hash:
-  h_01J0CAJ0EDT7768TQV3Y7CBSFX: move-your-worlds-directly-to-their-new-location
-  h_01J0CAKGS2WN7DQGCTKR9P16BV: information-about-android-cleaner-applications
+  h_01K7PYWJ6FYHGZ97X6H35GPYH3: find-or-change-where-your-minecraft-worlds-are-stored-on-android
+  h_01K7PYXT7MG6YTSVK6E15Y167N: minecraft-for-android-world-storage-location-options
 ---
 
-If you play Minecraft on an Android device, you may notice that your world saves are handled a little differently than on other platforms if you use external storage. If you update your version or create a new installation, you may be prompted to migrate your data. If you find yourself without access to your worlds files in external storage, follow the instructions below.
+Your worlds on Minecraft for Android are stored in the File Storage Location that was selected in your Minecraft storage settings when you created your world. You can have worlds stored in both Application and External File Storage Location options and switch between the two options to change which Minecraft worlds appear on your play screen.
 
-## Move your worlds directly to their new location
+## Find or change where your Minecraft worlds are stored on Android
 
-If your world is not in the proper folder, you can try moving it. Visit [Find Minecraft World Files on Mobile Devices](./Find-Minecraft-World-Files-on-Mobile-Devices.md) for steps on finding the location of your world. To move files:
+If you don’t see a world you created on your Android device on the Minecraft Play screen, you can change your File Storage Location to see if it is stored in an alternate location. If you want to have Minecraft worlds you create available for manual backup or transfer, you can set your file storage location to External.
 
-1.  Make sure you have started Minecraft on the device at least once and viewed the **Play** page so the proper folder has been created.
-2.  Find your saved worlds. They may potentially be located at the old world directory **/games/com.mojang/minecraftWorlds**.
-3.  Copy the contents.
-4.  Now navigate to the NEW minecraftWorlds directory **/Android/com.mojang.minecraftpe/files/games/com.mojang/minecraftWorlds**.
-5.  Paste the copied folders.
-6.  Launch Minecraft on your device and the worlds should now be available.
+1.  Open Minecraft on your Android device.
+2.  Select **Settings**.
+3.  Select **Storage**.
+4.  View or change the setting under **File Storage Location**. Options are **Application** or **External**.
 
-## Information about Android Cleaner Applications
+## Minecraft for Android world storage location options
 
-Android cleaner applications attempt to improve device performance by regularly terminating processes and deleting files. By default, some devices may schedule this cleaning to occur overnight, in the background, without user interaction.
-
-These applications may mistakenly delete files migrated by Minecraft: Bedrock Edition on Android, causing the newly migrated worlds to be destroyed. If this happens, your world cannot be recovered unless you had made a back-up prior to its deletion.
-
-If you have a cleaner application installed on your device, it is recommended that you do one of the following: remove the application, prevent it from cleaning files, or create an exception for Minecraft: Bedrock Edition so that files are not deleted.
-
-If you have your world and would like to move it to a different device, see our [Backup & Restore section](https://help.minecraft.net/hc/en-us/sections/27166561402125) for information.
+- **Application**: This is the default setting. Your world files and progress data are stored within the Minecraft application data and is not available as separate files or folders you can export to a computer for backup. See [Use Realms to Transfer a Minecraft: Bedrock Edition World to Another Device](./Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
+- **External**: “External” storage means that your files are stored outside the Minecraft application and not necessarily on an external storage device, such as an SD card. Minecraft worlds created when the External setting is selected are stored in an accessible folder at **Android \> data \> com.mojang.minecraftpe \> files \> games \> com.mojang \> minecraftWorlds** and can be downloaded for backup or transfer to another Android device.

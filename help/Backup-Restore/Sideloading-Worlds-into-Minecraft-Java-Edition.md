@@ -1,30 +1,18 @@
 ---
-title: "Sideloading Worlds into Minecraft: Java Edition"
+title: "Transfer a Minecraft: Java Edition World to a New Device"
 date: 2020-12-03T18:59:04Z
-updated: 2022-11-16T20:38:11Z
+updated: 2025-10-16T20:44:38Z
 categories: Backup & Restore
 tags:
   - section_27166561402125
-link: https://help.minecraft.net/hc/en-us/articles/360053272471-Sideloading-Worlds-into-Minecraft-Java-Edition
-hash:
-  installing-the-world: installingtheworld
-  installing-the-resource-pack: installingtheresourcepack
+link: https://help.minecraft.net/hc/en-us/articles/360053272471-Transfer-a-Minecraft-Java-Edition-World-to-a-New-Device
 ---
 
-If you're looking to add or sideload a world into your version of Minecraft: Java Edition, this guide is for you. Sideloading or uploading a world into Minecraft: Java Edition is easy, but there are a few steps to it. Worlds often contain a world folder and a Resource Pack. 
+If you installed Minecraft: Java Edition on a new computer, you can transfer your Minecraft: Java Edition worlds, so you can keep building without starting over. If you have not exported a backup file of your world to transfer, visit [Save a Backup of Your Minecraft: Java Edition World](./Save-a-Backup-of-Your-Minecraft-Java-Edition-World.md) to learn how.
 
-## Installing the World 
-
-1.  Download the world save that you would like to play on. 
-2.  Unzip the files. 
-3.  Move the folder containing the world you just unzipped into your Minecraft **saves** folder**.** 
-
-If you don't know where your saves folder is located, you can check that out at [Where Are Minecraft Files Stored?](./Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) 
-
-## Installing the Resource Pack 
-
-1.  Move the folder containing the Resource Pack into the folder named **resourcepacks**. 
-2.  Start Minecraft: Java Edition. 
-3.  Go to **Options** \> **Resource Packs** and move the desired Resource Pack to the **Selected** column. 
-4.  Go back to the main menu and then to **Singleplayer**. 
-5.  Select the world you just installed and then select **Play Selected World**.
+1.  Copy the zipped backup file to your new computer and unzip it.
+2.  Move the folder containing the unzipped world folder into your Minecraft **saves** folder on the new computer.
+3.  Windows: **%appdata%\\minecraft\saves**
+4.  macOS: **~/Library/Application Support/minecraft/saves**
+5.  Launch Java Edition.
+6.  Select **Singleplayer**. Your world will now appear as a playable option.
