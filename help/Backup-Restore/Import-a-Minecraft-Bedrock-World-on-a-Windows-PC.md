@@ -8,7 +8,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/40362687157517-Import-a-Minecraft-Bedrock-World-on-a-Windows-PC
 ---
 
-You can import a Minecraft: Bedrock Edition World you have backed up from another device or previously saved onto your Windows PC. If you haven’t exported a world yet, start with [Save a Backup of Your Minecraft: Bedrock Edition World on Windows.](./Export-and-Import-a-Minecraft-Bedrock-Edition-World-on-Windows-PC.md)
+You can import a Minecraft: Bedrock Edition World you have backed up from another device or previously saved onto your Windows PC. If you haven’t exported a world yet, start with [Save a Backup of Your Minecraft: Bedrock Edition World on Windows.](./Save-a-Backup-of-Your-Minecraft-Bedrock-Edition-World-on-Windows.md)
 
 1.  Copy your saved World file to your Windows PC.
 2.  Launch Minecraft: Bedrock Edition

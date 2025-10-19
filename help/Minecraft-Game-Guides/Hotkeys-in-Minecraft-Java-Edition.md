@@ -16,7 +16,7 @@ Hotkeys are shortcuts you can use on your keyboard to do some things faster than
 
 **F1 -** Toggles HUD 
 
-**F2 -** Takes screenshots and stores them in your [.minecraft](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) folder 
+**F2 -** Takes screenshots and stores them in your [.minecraft](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md) folder 
 
 **Shift + Left Mouse Button Interactions:** 
 

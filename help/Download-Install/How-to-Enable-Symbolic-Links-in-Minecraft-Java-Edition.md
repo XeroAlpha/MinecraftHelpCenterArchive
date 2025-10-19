@@ -17,7 +17,7 @@ Symbolic links can sometimes be useful when you want to place content in differe
 
 ## How to Enable Symbolic Links
 
-There are cases where symbolic links are useful. If you have such a use case and have created the symbolic links yourself, you can allow Minecraft to access the target of those links. To do this, you will need to create or edit a file called “allowed_symlinks.txt” in your [Minecraft folder](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md).
+There are cases where symbolic links are useful. If you have such a use case and have created the symbolic links yourself, you can allow Minecraft to access the target of those links. To do this, you will need to create or edit a file called “allowed_symlinks.txt” in your [Minecraft folder](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md).
 
 Each line in this file contains one allowed path. Symbolic links are followed only if the target of the link has a path starting with one of paths specified in this file.
 

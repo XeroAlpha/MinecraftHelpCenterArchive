@@ -49,7 +49,7 @@ Players with a Minecraft Realms subscription will have their Realms world backed
 
 ## Minecraft: Java Edition
 
-Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [Locating Minecraft: Java Edition files for backup or transfer](./Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) for more information.
+Players with a Minecraft: Java Edition Realms subscription will have their Realms world backed up via the cloud. However, local saves are not backed up via the cloud on any platform. Please make sure to back up your worlds to prevent data loss. Refer to [Locating Minecraft: Java Edition files for backup or transfer](./Find-Your-Minecraft-Java-Edition-Backup-World.md) for more information.
 
 ## Minecraft Dungeons
 

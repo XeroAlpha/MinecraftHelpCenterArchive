@@ -16,7 +16,7 @@ hash:
   h_01K7Q5WBDDWJQKRSGB2NBF4AE3: locate-and-copy-minecraft-world-files-in-external-storage-on-android
 ---
 
-You can copy Minecraft: Bedrock Edition worlds created on Android devices to a computer or another Android device if your File Storage Location was set to External when you created your world. See [Use Realms to Transfer a Minecraft: Bedrock Edition World to Another Device](./Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) if your world is in the Application file storage location. To learn more about Android file storage, see [How Minecraft Stores World Files on Your Android Device](./I-Can-t-Find-my-Minecraft-World-on-Android.md).
+You can copy Minecraft: Bedrock Edition worlds created on Android devices to a computer or another Android device if your File Storage Location was set to External when you created your world. See [Use Realms to Transfer a Minecraft: Bedrock Edition World to Another Device](./Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) if your world is in the Application file storage location. To learn more about Android file storage, see [How Minecraft Stores World Files on Your Android Device](./How-Minecraft-Stores-World-Files-on-Your-Android-Device.md).
 
 ## Locate and copy Minecraft world files in External storage on Android
 

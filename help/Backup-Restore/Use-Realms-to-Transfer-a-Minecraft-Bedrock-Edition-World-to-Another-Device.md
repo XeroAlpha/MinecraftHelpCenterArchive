@@ -51,7 +51,7 @@ The world will appear on the Worlds tab on the new device as “World name - Cop
 
 ## Additional backup and transfer resources
 
-- [Export and Import a Minecraft: Bedrock Edition world on Windows PC](./Export-and-Import-a-Minecraft-Bedrock-Edition-World-on-Windows-PC.md)
+- [Export and Import a Minecraft: Bedrock Edition world on Windows PC](./Save-a-Backup-of-Your-Minecraft-Bedrock-Edition-World-on-Windows.md)
 - [Download Your Minecraft Realms World](../Manage-Realms-Worlds/Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)
 - [Upload a World to a Minecraft: Bedrock Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md)
 - [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm](../Manage-Realms-Worlds/Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)

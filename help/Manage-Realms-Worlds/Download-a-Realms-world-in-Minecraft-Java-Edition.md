@@ -15,7 +15,7 @@ Minecraft Realms worlds are backed up automatically to help you keep your creati
 4.  Select **Download Latest**.
 5.  Select **Continue**.
 
-The world will be downloaded and added to your singleplayer worlds. See [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Locating-Minecraft-Java-Edition-Files-for-Backup-or-Transfer.md) for more details.
+The world will be downloaded and added to your singleplayer worlds. See [Locating Minecraft: Java Edition Files for Backup or Transfer](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md) for more details.
 
 **Additional Backup and Restore Resources**
 

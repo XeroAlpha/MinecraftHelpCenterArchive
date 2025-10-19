@@ -21,7 +21,7 @@ To make sure you have a clean installation environment on your phone, you can lo
 
 ## How to Locate and Remove Minecraft Files from an Android Device
 
-It is very important that you do not delete any files completely in case your saved data contains worlds or other game data you may want to access later. You should back up your files to a computer or other device after locating them, and then remove them from your Android device. See [How to Locate Minecraft World Files on Mobile](../Backup-Restore/Find-Minecraft-World-Files-on-Mobile-Devices.md) for more information.
+It is very important that you do not delete any files completely in case your saved data contains worlds or other game data you may want to access later. You should back up your files to a computer or other device after locating them, and then remove them from your Android device. See [How to Locate Minecraft World Files on Mobile](../Backup-Restore/Save-a-Backup-of-Minecraft-Bedrock-Edition-Worlds-on-Android.md) for more information.
 
 **Here’s how to locate Minecraft files and try your installation again:**
 

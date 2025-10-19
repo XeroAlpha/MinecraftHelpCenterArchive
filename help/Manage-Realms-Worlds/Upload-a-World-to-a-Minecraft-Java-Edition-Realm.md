@@ -25,4 +25,4 @@ If you don’t want to start a new world on your Minecraft Realm, here’s how t
 5.  Select the world you want to upload onto the Realm, then **Upload**.
 6.  Select **Done** after the upload is complete.
 
-To move external files for upload, see [Sideloading Worlds into Minecraft: Java Edition](../Backup-Restore/Sideloading-Worlds-into-Minecraft-Java-Edition.md). The maximum world size is 4GB.
+To move external files for upload, see [Sideloading Worlds into Minecraft: Java Edition](../Backup-Restore/Transfer-a-Minecraft-Java-Edition-World-to-a-New-Device.md). The maximum world size is 4GB.
