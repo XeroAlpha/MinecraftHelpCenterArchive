@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w44a
 date: 2025-10-28T15:15:36Z
-updated: 2025-10-28T15:39:15Z
+updated: 2025-10-28T15:57:10Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -52,8 +52,6 @@ hash:
   h_01K8NP8EMZ5X40RXS6K5G1CNMA: sounds
   h_01K8NP8EMZPNCG6CE7Q6B45HS5: shaders--post-process-effects
   h_01K8NP8EMZFM8ES6TCM31BV2XF: sprite-animations
-  h_01K8NP8EN0T5EVDH52MB5TK66W: shaders--post-process-effects-1
-  h_01K8NP8EN0S3T4RM41APZN2GCT: sprite-animations-1
   h_01K8NP8EN0XKS0PYK7RFNJNDY2: fixed-bugs-in-25w44a
   h_01K8NP8EN17FPV7WW8RX735E6H: get-the-snapshot
 ---
@@ -459,17 +457,6 @@ Example slot source selecting every slot with more than 16 items from the hotbar
   - entity.parrot.imitate.parched
   - entity.parrot.imitate.zombie_horse
   - entity.parrot.imitate.zombie_nautilus
-
-### Shaders & Post-process Effects
-
-- Added animate_sprite\* core shaders, which use a new SpriteAnimationInfo uniform
-
-#### Sprite Animations
-
-- Sprites (textures as part of a larger atlas) are now animated on the GPU rather than per-tick on the CPU
-- For regular frame-based animations, animate_sprite.vsh and animate_sprite_blit.fsh are used to perform the draw
-- For interpolated animations, animate_sprite.vsh and animate_sprite_interpolate.fsh are used to perform the draw
-- The UBO SpriteAnimationInfo contains information on where the sprite should be drawn to, within the greater texture atlas
 
 ### Shaders & Post-process Effects
 

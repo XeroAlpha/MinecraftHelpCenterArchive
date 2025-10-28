@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.21.120 (Bedrock)
 date: 2025-10-23T15:05:17Z
-updated: 2025-10-27T14:24:33Z
+updated: 2025-10-28T16:44:51Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/40566672351885-Minecraft-1-21-120-Bedrock
 hash:
@@ -9,6 +9,8 @@ hash:
 ---
 
 #### **Posted:** 28 October 2025
+
+**Please note:** This update will roll out to various platforms as they become available throughout the day. It may take up to 24 hours to appear for everyone - thank you for your patience!
 
 <figure class="wysiwyg-image">
 <img src="https://feedback.minecraft.net/hc/article_attachments/40566686469645" alt="r21u12_1920x1080.jpg" />
