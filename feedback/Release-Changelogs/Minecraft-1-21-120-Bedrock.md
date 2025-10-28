@@ -1,7 +1,7 @@
 ---
 title: Minecraft - 1.21.120 (Bedrock)
 date: 2025-10-23T15:05:17Z
-updated: 2025-10-28T16:44:51Z
+updated: 2025-10-28T19:58:46Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/40566672351885-Minecraft-1-21-120-Bedrock
 hash:
@@ -10,7 +10,7 @@ hash:
 
 #### **Posted:** 28 October 2025
 
-**Please note:** This update will roll out to various platforms as they become available throughout the day. It may take up to 24 hours to appear for everyone - thank you for your patience!
+**Please note:** This update will roll out to various platforms as they become available throughout the day. It may take up to 24 hours to appear for everyone - thank you for your patience. Also, please note that Vibrant Visuals enhanced Marketplace content can only be downloaded after updating to the 1.21.120 version on Bedrock. We apologize for the inconvenience!
 
 <figure class="wysiwyg-image">
 <img src="https://feedback.minecraft.net/hc/article_attachments/40566686469645" alt="r21u12_1920x1080.jpg" />
@@ -484,6 +484,7 @@ While you've been having mayhem with mounts, we've been squashing bugs and imple
   - This update aligns the game with the standard distribution model on Windows platforms
 - File paths have been updated and upon first install load of this version of Minecraft, your existing Minecraft worlds and content will shift to: `%APPDATA%\Minecraft Bedrock`
 - If you encounter issues, please report them at [bugs.mojang.com](http://bugs.mojang.com/).
+  - **Please note:** Vibrant Visuals enhanced Marketplace content can only be downloaded after updating to the 1.21.120 version on Bedrock. We apologize for the inconvenience!
 
 ## Graphical
 
