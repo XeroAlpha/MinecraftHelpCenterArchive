@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - Snapshot 25w41a
 date: 2025-10-13T13:03:51Z
-updated: 2025-10-13T13:07:19Z
+updated: 2025-10-29T12:54:05Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -71,6 +71,8 @@ hash:
 ---
 
 It's Snapshot Tues- I mean Thursday, everyone! Today, we are kicking off a brand-new Snapshot series and with it comes the first set of features from our upcoming game drop, Mounts of Mayhem! Charge into the fray with the spear, a new weapon with a unique enchantment. Explore the oceans atop your nautilus or claim undead mounts – the zombie horse and zombie nautilus – as your new steeds. Galloping side to side with these new features is both a revamped video settings screen that includes nifty new graphical presets, as well as the new stopwatch command which keeps track of real time. Bug fixes and technical changes round off the meal, as is tradition.
+
+ 
 
 Happy mining!
 
@@ -332,25 +334,36 @@ Syntax:
 - Format: object with fields
   - min_reach: float, the minimum distance in blocks from the attacker to the target to be considered valid
     - Default value: 0.0
+
   - max_reach: float, the maximum distance in blocks from the attacker to the target to be considered valid
     - Default value: 3.0
+
   - hitbox_margin: float, the margin applied to the target bounding box when checking for valid hitbox collision
     - Default value: 0.3
+
   - delay_ticks: integer, the time in ticks required before weapon is effective
     - Default value: 0
+
   - dismount_conditions, knockback_conditions, damage_conditions: indicating the condition to apply dismount, knockback and damage effects respectively. Objects with fields:
     - max_duration_ticks: integer, the ticks after which the condition is no longer checked. This starts after delay has elapsed
     - min_speed: float, the minimum speed of the attacker, in blocks per second, along the direction that the attacker is looking
       - Optional, default value: 0.0
     - min_relative_speed: float, the minimum relative speed between the attacker and target, in blocks per second, along the direction that the attacker is looking
       - Optional, default value: 0.0
+
   - forward_movement: float, the distance the item moves out of hand during animation
     - Default value: 0.0
+
   - damage_multiplier: float, the multiplier for the final damage from the relative speed
     - Default value: 1.0
+
   - sound: Optional Sound Event to play when the weapon is engaged
+
   - hit_sound: Optional Sound Event to play when the weapon hits an entity
-  - e.g. kinetic_weapon={max_reach:5.0,forward_movement:1.0,delay:20,damage_conditions:{max_duration:60},knockback_conditions:{max_duration:40},dismount_conditions:{max_duration:20}}
+
+  - e.g. kinetic_weapon={max_reach:5.0,forward_movement:1.0,delay:20,damage_conditions:
+
+    {max_duration:60},knockback_conditions:{max_duration:40},dismount_conditions:{max_duration:20}}
 - The damage dealt is calculated as floor(relative_speed \* velocity_multiplier) where relative_speed is the difference of speed vectors of the attacker and the target as projected onto the axis of the attacker's view vector
   - Any additional damage from enchantments or attribute modifiers is added after this calculation
 
@@ -496,8 +509,13 @@ The flags predicate now supports new values:
   - item/diamond_nautilus_armor
   - item/netherite_nautilus_armor
 - Added the following item sprites for the Spear weapon:
-  - When in inventory: item/wooden_spear, item/stone_spear, item/copper_spear, item/iron_spear, item/golden_spear, item/diamond_spear, item/netherite_spear
-  - When in hand: item/wooden_spear_in_hand, item/stone_spear_in_hand, item/copper_spear_in_hand, item/iron_spear_in_hand, item/golden_spear_in_hand, item/diamond_spear_in_hand, item/netherite_spear_in_hand
+  - When in inventory: item/wooden_spear, item/stone_spear, item/copper_spear, item/iron_spear, 
+
+    item/golden_spear, item/diamond_spear, item/netherite_spear
+
+  - When in hand: item/wooden_spear_in_hand, item/stone_spear_in_hand, item/copper_spear_in_hand, 
+
+    item/iron_spear_in_hand, item/golden_spear_in_hand, item/diamond_spear_in_hand, item/netherite_spear_in_hand
 
 ### UI Sprites
 
@@ -517,8 +535,12 @@ The flags predicate now supports new values:
 - Includes sprites from \<namespace\>:textures/environment/celestial/\<path\>.png
 - The following textures have been moved or split:
   - textures/environment/sun.png -\> sun
+
   - textures/environment/end_flash.png -\> end_flash
-  - textures/environment/moon_phases -\> moon/full_moon, moon/waning_gibbous, moon/third_quarter, moon/waning_crescent, moon/new_moon, moon/waxing_crescent, moon/first_quarter, moon/waxing_gibbous
+
+  - textures/environment/moon_phases -\> moon/full_moon, moon/waning_gibbous, moon/third_quarter, 
+
+    moon/waning_crescent, moon/new_moon, moon/waxing_crescent, moon/first_quarter, moon/waxing_gibbous
 
 ### Mob Effect Sprites
 
