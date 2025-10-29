@@ -1,45 +1,47 @@
 ---
-title: How to Take Screenshots and View Your Gallery
+title: "Take and Manage Screenshots in Minecraft: Bedrock Edition"
 date: 2024-09-12T20:35:11Z
-updated: 2024-11-20T20:13:16Z
+updated: 2025-10-29T20:16:16Z
 categories: Manage Your Minecraft Profile
 tags:
   - section_27983418545293
   - section_35377640016525
-link: https://help.minecraft.net/hc/en-us/articles/30209226763533-How-to-Take-Screenshots-and-View-Your-Gallery
+link: https://help.minecraft.net/hc/en-us/articles/30209226763533-Take-and-Manage-Screenshots-in-Minecraft-Bedrock-Edition
 hash:
-  h_01J7KYMSH3G1JMZW29Q6XAPW8K: how-to-take-a-screenshot-in-game
-  h_01J7KYN0NHGVR1HT51X5T1J7KT: how-to-view-your-screenshot-gallery
-  h_01J7KYPH1EX3GPTNZNQNC15Z54: how-to-delete-an-image-from-your-gallery
-  h_01J7KYP4B5405MP3SB3NEYSS8P: screenshot-gallery-tips
+  h_01K8PG6SJ1TZQDVGDPYHDHB0RW: how-to-take-a-screenshot-in-game
+  h_01K8PG6SJ1EYN96421EFRJYSYQ: how-to-view-your-screenshot-gallery
+  h_01K8PG6SJ1VP50XGTZ90NF5B3D: how-to-delete-screenshots-from-your-screenshot-gallery
+  h_01K8PG6SJ115C1TTQKDA686B22: more-information-about-your-screenshot-gallery
 ---
 
-Save your best in-game moments using your Minecraft Screenshot Gallery!
-
-You can find your Screenshot Gallery in your Minecraft Profile. Read more on [How to view your Minecraft Profile](https://help.minecraft.net/hc/en-us/articles/27780690574477).
+Any in-game screenshots you take can be viewed and managed in your Minecraft Screenshot Gallery or your Minecraft profile. Here’s how to take screenshots, where to find them, and how to delete them.
 
 ## How to take a screenshot in-game
 
-1.  While playing, open your game menu.
-2.  Select the camera icon in the bottom left.
-3.  Your screenshot is automatically added to your Minecraft Gallery!
+1.  Pause the game.
+2.  Select the camera icon.
 
-Note: You can also use a hot key, which is F2 on PC or Left & Right bumpers on your Gamepad.
+If you play with a keyboard, you can also take a screenshot with hotkeys. Go to **Settings** \> **Keyboard & Mouse** to reference or configure your screenshot hotkey.
 
-## How to view your Screenshot Gallery
+## How to view your screenshot gallery
 
-1.  While playing, open your game menu.
-2.  Click the **Profile** button or click your Gamertag.
-3.  Click **Screenshot Gallery**.
+1.  Pause your game.
+2.  Select **Social** in the top-right.
+3.  Select your name.
+4.  Select **Screenshot gallery**.
 
-## How to delete an image from your Gallery
+You can also find your Screenshot Gallery outside of game when you [View and Edit Your Minecraft Profile](./View-and-Edit-Your-Minecraft-Profile.md).
 
-1.  Visit your Profile and click on Screenshot Gallery.
-2.  Open the screenshot you want to remove.
-3.  Press **Manage** and select **Delete Screenshot**.
+## How to delete screenshots from your screenshot gallery
 
-## Screenshot Gallery Tips
+You can delete individual screenshots or multiple screenshots from your screenshot gallery. You can also delete all your saved screenshots through the Settings menu.
+
+- **Delete an individual screenshot from the gallery**: Select the screenshot to delete from your screenshot gallery, select **Manage**, and select **Delete screenshot**.
+- **Delete multiple screenshots from the gallery**: Select the three-dot overflow menu in the top-right of the screenshot gallery, select **Delete screenshots**, and select all screenshots to delete. Select and confirm **Delete \[x\] screenshots**.
+- **Delete all your screenshots from the Settings menu**: From the main menu, select **Settings** \> **Storage** \> **Delete Local Screenshots** and confirm your choice.
+
+## More information about your screenshot gallery
 
 - Screenshots are saved locally on your device.
-- There is a maximum of 100 images locally saved.
-- Deleting your Screenshots is permanent.
+- A maximum of 100 images can be saved.
+- Deleted screenshots cannot be recovered.
