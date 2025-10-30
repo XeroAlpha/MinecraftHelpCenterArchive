@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Service Status
 date: 2025-10-29T20:15:39Z
-updated: 2025-10-29T20:39:07Z
+updated: 2025-10-29T23:36:34Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/42770682634644-Minecraft-Education-Service-Status
 hash:
@@ -18,11 +18,17 @@ View this page for active updates concerning active and recent outages to our se
 
 **Outage Start Time:** 10/29/2025 9:00am PT (16:00 UTC) 
 
-**Outage End Time:** Ongoing
+**Outage End Time:** 10/29/2025 4:11pm PT (23:11 UTC)
 
 **Description:** There is currently an Azure Front Door outage that is impacting the login services that Minecraft Education uses. We are working to resolve the issue as quickly as possible. 
 
 **Resources:** View Azure's status page for more information about the root cause: <https://azure.status.microsoft/en-us/status>
+
+ 
+
+**Update 10/29/2025 4:11pm PT** (21:11 UTC)
+
+Services have returned to normal. If you have issues past this time, please submit a [ticket](https://aka.ms/MEE_New_Request) to our Support Team. 
 
  
 
