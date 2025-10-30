@@ -1,7 +1,7 @@
 ---
 title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2025-09-04T18:45:40Z
+updated: 2025-10-30T17:38:37Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -38,7 +38,7 @@ Before troubleshooting, we recommend backing up your Minecraft files. See our [B
 - **Check your internet connection**: See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for suggestions. If you’re trying to connect to a Realm, see [Troubleshoot Minecraft Realms Connection Errors](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md).
 - **Disable Add-Ons**: Minecraft modifications can cause errors; see [Disabling Minecraft Add-Ons](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
 - **Check available storage space**: Confirm your file storage space and memory meet or exceed minimum requirements and free up space if you are low.
-- **Check your edition and version of Minecraft**: Make sure you and your friend are playing the same edition and version of Minecraft (Minecraft is not compatible across editions). See the following articles for updating Minecraft. After updating, restart your device and try again.
+- **Check your edition and version of Minecraft**: You must share the same edition and version of Minecraft as your friend or the server you want to join. Update Minecraft, restart your device, and try again.
   - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
   - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
   - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md) 

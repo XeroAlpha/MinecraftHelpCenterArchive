@@ -1,7 +1,7 @@
 ---
 title: How to Back Up Your Minecraft Save to the Cloud on PlayStation
 date: 2023-05-05T16:55:24Z
-updated: 2025-01-28T16:20:12Z
+updated: 2025-10-30T18:44:17Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -37,7 +37,7 @@ To *upload* a cloud save on PlayStation 4, follow these steps: 
 3.  Select **Saved Data in System Storage** 
 4.  Choose **Upload to Online Storage**. 
 5.  Select Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends, and then the file you would like to upload. 
-    1.  If you already have a cloud save for a specific title, select **Yes** when asked about overwriting the cloud file.
+6.  If you already have a cloud save for a specific title, select **Yes** when asked about overwriting the cloud file.
 
 To *download* a cloud save on PlayStation 4, follow these steps: 
 
@@ -46,7 +46,7 @@ To *download* a cloud save on PlayStation 4, follow these steps: 
 3.  Select **Saved Data in Online Storage** 
 4.  Choose **Download to System Storage**. 
 5.  Select Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends, and then the file you would like to download. 
-    1.  If you already have a save on your PlayStation, select **Yes** when asked about overwriting the local file.
+6.  If you already have a save on your PlayStation, select **Yes** when asked about overwriting the local file.
 
 ## PlayStation 5
 
