@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Named Error Codes for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-09-04T20:38:32Z
+updated: 2025-10-30T16:20:23Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -40,7 +40,8 @@ hash:
   error-boat: boat
   error-breeze: breeze
   error-cauldron: cauldron
-  error-chest: chest
+  error-chest: chain
+  h_01K8TX42S9R7PEGMFF6321XGAQ: chest
   error-clay: clay
   error-coal: coal
   error-cobblestone: cobblestone
@@ -119,6 +120,11 @@ We’ve given some error codes special names to help point you in the right dire
 
 - **What it means**: Minecraft could not reach the authentication server or the connection timed out.
 - **How to troubleshoot**: See [Cauldron Error Code Troubleshooting in Minecraft](./Cauldron-Error-Code-Troubleshooting-in-Minecraft.md).
+
+### Chain
+
+- **What it means**: The server or player you're trying to connect with has a different version of Minecraft. 
+- **How to troubleshoot**: Update Minecraft to the latest version. See [How to Manually Update Minecraft on Consoles,](../Download-Install/Manually-Update-Minecraft-on-Consoles.md) [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md), or [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md).
 
 ### Chest
 
