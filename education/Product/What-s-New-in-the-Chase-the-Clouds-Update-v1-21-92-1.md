@@ -1,15 +1,16 @@
 ---
-title: What's New in the Chase the Clouds Update v1.21.92.1
+title: What's New in the Chase the Clouds Update v1.21.93.1
 date: 2025-07-09T20:32:21Z
-updated: 2025-08-28T20:44:28Z
+updated: 2025-10-31T22:19:41Z
 categories: Product
-link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-92-1
+link: https://edusupport.minecraft.net/hc/en-us/articles/39171462904980-What-s-New-in-the-Chase-the-Clouds-Update-v1-21-93-1
 hash:
+  01JPTG44HTXT1QSATGH4ZB43NS: minor-update-v12193
   h_01JZRFDAE100P1TCSVBREQ31EM: make-code-changes
   h_01JZRFDAE2EC8N3A87JV6ASN04: improved-ui-for-create-and-edit-world
   h_01JZRFDAE2ZRP3X5B7S90BE63K: cloud-storage-improvements
-  01J0PADR07314H9C4XDD39PEKD: multiplayer--coding-improvements
-  01JPTG44HTXT1QSATGH4ZB43NS: from-the-chase-the-skies-update-v1129
+  h_01K8V5CDEM9XNYFP31B8PHJC3E: from-the-chase-the-skies-update-v1129
+  h_01K8V5CDEM29BNWD3CKMY0M2XA: from-the-chase-the-skies-update-v1129-1
   01JXX9AGYW22JKC55VBJTARXCF: from-the-spring-to-life-update-v1218
   01J6WHXS70B30ZAXTQ7YMM1QE9: from-the-garden-awakens-update-v1215
   01JJQ53EQ6RA39FKX554WD61AV: spectator-mode
@@ -30,6 +31,16 @@ Check out our patch notes lower in the article, or view our video feature demo b
 </figure>
 
  
+
+## **Minor Update v1.21.93**
+
+- Switching Touch Controls Layouts works again on Android
+- Behavior and Resource Packs are correctly included in the world again when opened from My Templates
+- Additional client checks added to ensure correct permissions when joining multiplayer
+- Updates to MakeCode:  
+  - More events added so your code can react to events in the world
+  - Code doesn’t run automatically when closing MakeCode so students can  
+     
 
 ## **Make Code Changes**
 
@@ -58,10 +69,10 @@ Check out our patch notes lower in the article, or view our video feature demo b
 
  
 
-## **Multiplayer & Coding Improvements**
+## **From the Chase the Skies Update v1.12.9**
 
-- Multiplayer sign-in & connecting updated for better reliability
-- Coding infrastructure updated for better stability & performance
+- Minecraft: Bedrock Edition changes from 1.21.9
+  - New Items: Harness
 
  
 
