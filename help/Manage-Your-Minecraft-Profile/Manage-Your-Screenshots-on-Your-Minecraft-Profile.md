@@ -13,7 +13,7 @@ hash:
   h_01JD8AS84EMT44CACZ04HGZ66P: update-your-world-image
 ---
 
-After capturing your best gameplay shots, use the following features to spruce up your Minecraft Profile! For information on how to use your Screenshots in Realms Stories, see [How to Share Screenshots on Minecraft Realms Stories](../Minecraft-Realms-Stories/How-to-Share-Screenshots-on-Minecraft-Realms-Stories.md).
+After capturing your best gameplay shots, use the following features to spruce up your Minecraft Profile! For information on how to use your Screenshots in Realms Stories, see [How to Share Screenshots on Minecraft Realms Stories](../Minecraft-Realms-Stories/Share-Screenshots-on-Minecraft-Realms-Stories.md).
 
 ## Set a New Hero Image
 
