@@ -1,7 +1,7 @@
 ---
-title: How to Back Up Your Minecraft Save to the Cloud on Xbox
+title: Manage Minecraft Cloud Saves on Xbox
 date: 2023-05-05T16:52:24Z
-updated: 2025-08-20T18:29:02Z
+updated: 2025-11-05T00:10:20Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -12,22 +12,27 @@ tags:
   - section_27166561402125
   - use_for_autoreply
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/15518925987981-How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-Xbox
+link: https://help.minecraft.net/hc/en-us/articles/15518925987981-Manage-Minecraft-Cloud-Saves-on-Xbox
 hash:
-  h_01K34BNTXJ05CGCCPGS2BQF7WH: how-to-download-a-cloud-save-onto-your-xbox-one-or-series-console
+  h_01K98BVCATPTETG61DCA69TQ03: enable-automatic-cloud-saves-on-xbox
+  h_01K98BWRS3JMW4MWPP71TTQFSM: restore-a-cloud-save-on-xbox
 ---
 
-If you play Minecraft: Bedrock Edition, Minecraft Dungeons, or Minecraft Legends on Xbox One or Xbox Series consoles, you need an Xbox Live account and an internet connection to take advantage of cloud saving. However, you do not need a subscription to Xbox Live. Saves files are automatically backed up onto the cloud. 
+Xbox automatically saves your most recent Minecraft files in the cloud. Here's how to confirm you have automatic saves enabled and restore cloud saves to your device.
 
-## How to download a cloud save onto your Xbox One or Series console
+## Enable automatic cloud saves on Xbox
 
-1.  Press the **Home button** on your Xbox controller.
-2.  Navigate to the **My games & apps** option.
-3.  Select **See all**.
-4.  Navigate to either Minecraft, Minecraft Dungeons, or Minecraft Legends in your games list.
-5.  Press the **Select** button to open the **Manage game** menu.
-6.  Scroll to the **Saved data** option.
-7.  Select your profile and choose **Delete from console** to delete your local save.
-8.  Launch Minecraft: Bedrock Edition, Minecraft Legends, or Minecraft Dungeons and your Xbox will sync with the cloud, downloading the latest version of your save.
+If your Xbox is online and your Microsoft account is signed in, your Minecraft save data will automatically be saved to the cloud. See [Manage your cloud gaming saves and storage](https://support.xbox.com/en-US/help/games-apps/cloud-gaming/manage-storage) on the Xbox support website.
 
-Note: Minecraft Dungeons has an in-game cloud saving process as well. See [Upload and Download Heroes to the Cloud in Minecraft Dungeons](../Minecraft-Dungeons-Support/Upload-and-Download-Heroes-to-the-Cloud-in-Minecraft-Dungeons.md) for information.
+## Restore a cloud save on Xbox
+
+Xbox automatically restores your most recent cloud save if files are missing on your device. If your device's save is old, here's how to delete it and restore from the cloud:
+
+1.  Press the **Home** **button** on your Xbox controller and select **my games & apps**.
+2.  Select **See all** and find **Minecraft** in your games list.
+3.  Press the **Menu** button to open the **Manage** **game** menu.
+4.  Find the **Saved** **data** option.
+5.  Select your **profile** and **Delete** **from** **console**.
+6.  Launch Minecraft.
+
+Your Xbox will sync with the cloud and download the latest version of your save.

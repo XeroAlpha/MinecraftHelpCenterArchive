@@ -1,7 +1,7 @@
 ---
 title: "Use Realms to Transfer a Minecraft: Bedrock Edition World to Another Device"
 date: 2021-09-13T22:15:53Z
-updated: 2025-08-20T17:30:20Z
+updated: 2025-11-04T23:06:02Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -25,7 +25,7 @@ hash:
   h_01JYMM0NGSBYHV89S1G7RCSSMJ: additional-backup-and-transfer-resources
 ---
 
-If you play a Minecraft world on one device and want make a locally stored copy to play on another device, you can transfer a Minecraft: Bedrock Edition world from one device to another using [Minecraft Realms](https://www.minecraft.net/en-us/realms). Minecraft Realms allows you to upload worlds to the cloud and download them to local storage.
+Transfer your Minecraft: Bedrock Edition worlds between devices with [Minecraft Realms](https://www.minecraft.net/en-us/realms)! Minecraft Realms allows you to upload your single-player worlds to the cloud and download them on your other devices for uninterrupted play.
 
 ## Transfer a Bedrock world between devices with Minecraft Realms
 
@@ -33,7 +33,7 @@ Verify that you have an [active trial or paid Realms subscription](../Create-or-
 
 1.  Launch Minecraft on the world hosting device.
 2.  Select **Play** on the launch screen.
-3.  Select the Realms tab and select the Realm you want to use to transfer.
+3.  Select **Realms** and select the Realm you want to use to transfer.
 4.  Select **Settings** on the Realm.
 5.  Select a world slot and select **Edit World**.
 6.  Navigate to the bottom of the Game Settings tab.
