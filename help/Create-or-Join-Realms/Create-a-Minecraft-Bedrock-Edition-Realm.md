@@ -41,6 +41,6 @@ Here is how to subscribe and create a new Realm:
 10. Select **Subscribe Now \[Price\]/Month**.
 11. You’ll be taken to the platform store to complete your purchase.
 
-**Note:** If you are a Marketplace Pass subscriber, you can upgrade to a Realms Plus subscription. However, you’ll want to cancel your Marketplace Pass subscription after upgrading as both subscriptions include the same Marketplace content. See [Canceling a Minecraft Marketplace Pass Subscription](../Marketplace-Pass-Subscriptions/Canceling-a-Minecraft-Marketplace-Pass-Subscription.md).
+**Note:** If you are a Marketplace Pass subscriber, you can upgrade to a Realms Plus subscription. However, you’ll want to cancel your Marketplace Pass subscription after upgrading as both subscriptions include the same Marketplace content. See [Canceling a Minecraft Marketplace Pass Subscription](../Marketplace-Pass-Subscriptions/Cancel-a-Minecraft-Marketplace-Pass-Subscription.md).
 
 After you get your Realm started, be sure to bring your friends in! See [Invite Friends to Your Minecraft: Bedrock Edition Realm](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
