@@ -1,7 +1,7 @@
 ---
-title: "Error Code Troubleshooting for Minecraft: Bedrock Edition"
+title: "General Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2025-10-30T17:38:37Z
+updated: 2025-11-12T21:16:13Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -16,7 +16,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - use_for_autoreply
   - section_37919645439501
-link: https://help.minecraft.net/hc/en-us/articles/4404016313741-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4404016313741-General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
 hash:
   h_01K1XHNBQXTBT05KDY4J19MZ1A: troubleshooting-steps-for-minecraft-error-codes
 ---
@@ -25,7 +25,7 @@ If you get an error code screen while playing Minecraft, capture the information
 
 Here are other articles that may help:
 
-- [Troubleshooting Named Error Codes for Minecraft: Bedrock Edition](./Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition.md)
+- [Named Error Code](./Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition.md) [Troubleshooting](./Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition.md) [for Minecraft: Bedrock Edition](./Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition.md)
 - [Troubleshooting Minecraft Marketplace Error Codes](../Marketplace-Troubleshooting/Troubleshooting-Minecraft-Marketplace-Error-Codes.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
 

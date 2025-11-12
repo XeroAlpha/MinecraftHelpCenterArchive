@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Graphics Issues in Minecraft: Bedrock Edition"
 date: 2021-09-13T18:10:41Z
-updated: 2025-06-16T23:31:45Z
+updated: 2025-11-12T21:16:12Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -38,4 +38,4 @@ If downloading updates didn’t solve the problem, try turning off any add-ons a
 - **Disable Add-ons:** To turn off or manage content, see [Disabling Minecraft Add-Ons](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
 - **Change video settings:** See [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).
 
-For more device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md). If you also see a Minecraft error code, see [Error Code Troubleshooting for Minecraft: Bedrock Edition](../Error-Code-Troubleshooting/Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+For more device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md). If you also see a Minecraft error code, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](../Error-Code-Troubleshooting/Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
