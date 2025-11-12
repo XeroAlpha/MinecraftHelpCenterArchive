@@ -1,14 +1,15 @@
 ---
-title: "FAQ: Hour of Code"
+title: "FAQ: Hour of Code - and the Hour of AI"
 date: 2022-11-07T23:53:42Z
-updated: 2024-10-29T17:26:36Z
+updated: 2025-11-12T07:00:00Z
 categories: Hour of Code
-link: https://edusupport.minecraft.net/hc/en-us/articles/10666569394324-FAQ-Hour-of-Code
+link: https://edusupport.minecraft.net/hc/en-us/articles/10666569394324-FAQ-Hour-of-Code-and-the-Hour-of-AI
 hash:
   "2020": hour-of-code-2020-faq
   "2021": hour-of-code-2021-faq
   "2022": hour-of-code-2022-faq
   "2024": hour-of-code-2024-faq
+  "2025": hour-of-ai-2025-faq
   top: important-links
   requirements: requirements-to-play-hour-of-code
   h_01HB6XAQ7WAHQBV5MMWMNTZKC1: do-i-need-a-minecraft-education-license-to-play
@@ -45,9 +46,7 @@ hash:
   h_01HB6WGB8KGV5JYZGM1PM7MVDC: what-teacher-materials-do-you-provide-to-support-the-hour-of-code-lesson-1
 ---
 
-The Hour of Code tutorials take place in Minecraft Education. This lesson will be available to all users, even those who don't currently have a Minecraft Education licenses. Below are some frequently asked questions that we hope can provide clarity on any issues you might be having. 
-
-If you don't see your questions answered below, please feel free to [submit a request](https://aka.ms/MEE_New_Request) to the Help desk.
+**Minecraft is launching** [**Hour of AI**](https://aka.ms/hourofai) **—and continuing the legacy of** [**Hour of Code**](https://hourofcode.com/us)**—to demystify artificial intelligence for millions of learners worldwide. Through engaging activities and tutorials, Minecraft empowers educators, experts, and students with a fun, accessible way to explore basic coding and AI concepts using the beloved video game they already know.**
 
  
 
@@ -55,6 +54,7 @@ If you don't see your questions answered below, please feel free to [submit a r
 
 - [Requirements to play Hour of Code](#requirements-to-play-hour-of-code)
 - [Information on Hour of Code](#information-on-hour-of-code)
+- [Hour of Code 2025 FAQ](#hour-of-ai-2025-faq)
 - [Hour of Code 2024 FAQ](#hour-of-code-2024-faq)
 - [Hour of Code 2023 FAQ](#2023)
 - [Hour of Code 2022 FAQ](#hour-of-code-2022-faq)
@@ -148,6 +148,18 @@ Check out this article for information about [allowing network access to that se
 ![makecode_reset.png](https://edusupport.minecraft.net/hc/article_attachments/19504667599508)
 
  
+
+[Return to Top](#important-links)
+
+### Hour of AI 2025 FAQ
+
+Introducing [Hour of AI](https://aka.ms/hourofai), a new chapter in Minecraft Education’s partnership with Code.org and Microsoft. For over a decade, we’ve delivered engaging tutorials, global campaigns, and teacher training reaching more than 300 million Minecraft Hour of Code sessions worldwide. Building on this momentum, [Hour of AI: The First Night](https://aka.ms/hourofai) invites students to team up with an AI Agent and tackle classic Minecraft survival challenges. Train the Agent to recognize resources, craft tools, and build shelter before the sun sets—all while learning the basics of artificial intelligence.
+
+Through Minecraft’s Hour of AI activities, students of all ages dive into AI literacy and computer science in fun, interactive ways that spark creativity, develop problem-solving and critical thinking, and build foundational knowledge of coding and AI systems.
+
+Survive the night, build with AI, and learn together in Minecraft.
+
+In this new Hour of AI adventure, students collaborate with their AI Agent, solve coding puzzles, and experience the shift from traditional programming to creative AI collaboration. As they teach the Agent, debug its mistakes, and reflect on human oversight, students discover how coding and AI work hand-in-hand to solve real-world problems in Minecraft!
 
 [Return to Top](#important-links)
 
