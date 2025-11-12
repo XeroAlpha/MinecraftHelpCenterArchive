@@ -1,11 +1,12 @@
 ---
 title: "Hour of AI 2025: The First Night"
 date: 2025-11-11T21:21:41Z
-updated: 2025-11-12T07:00:00Z
+updated: 2025-11-12T18:36:50Z
 categories: Hour of Code
 link: https://edusupport.minecraft.net/hc/en-us/articles/43242267563540-Hour-of-AI-2025-The-First-Night
 hash:
   h_01K9TCMXE8G572FR6BZCH7JH0K: what-is-hour-of-ai
+  h_01K9WNNXQ2Z0SF5006VVRQRM09: try-minecraft-education-hour-of-ai-2025
 ---
 
 **Learn the basics of AI systems as you tackle a classic Minecraft challenge – the First Night!**
@@ -32,9 +33,9 @@ Hour of AI provides a fun and engaging experience to introduce computer science 
 - **Practice human-in-the-loop thinking** by verifying the Agent’s work and correcting mistakes.
 - **Share your unique strategies and creations** with friends and classmates with the AI Build Challenge finale!
 
- 
+##  Try Minecraft Education Hour of AI 2025
 
-The lesson is available for free in Minecraft Education at https://aka.ms/hourofai
+The lesson is available for free in Minecraft Education at <https://aka.ms/hourofai>
 
  
 
@@ -48,12 +49,12 @@ The lesson is available for free in Minecraft Education at https://aka.ms/hourof
 
 **Essential Links & Resources**
 
-- **AI Foundations page:** https://aka.ms/MinecraftAI
-- **Lesson page:** https://aka.ms/thefirstnightlesson
-- **Playalong event registration:** https://aka.ms/thefirstnightplayalong
-- **Translated Resources:** https://aka.ms/thefirstnighttranslations
-- **Certificate (PDF):** https://aka.ms/thefirstnightcert and https://aka.ms/thefirstnightcertificate
-- **Hour of AI sticker:** https://aka.ms/thefirstnightsticker
+- **AI Foundations page:** <https://aka.ms/MinecraftAI>
+- **Lesson page:** <https://aka.ms/thefirstnightlesson>
+- **Playalong event registration:** <https://aka.ms/thefirstnightplayalong>
+- **Translated Resources:** <https://aka.ms/thefirstnighttranslations>
+- **Certificate (PDF):** <https://aka.ms/thefirstnightcer>t and <https://aka.ms/thefirstnightcertificate>
+- **Hour of AI sticker:** <https://aka.ms/thefirstnightsticker>
 
  
 
