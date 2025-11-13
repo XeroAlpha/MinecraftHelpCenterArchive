@@ -1,7 +1,7 @@
 ---
 title: "Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition"
 date: 2021-09-10T22:08:35Z
-updated: 2025-09-04T20:47:20Z
+updated: 2025-11-12T21:50:15Z
 categories: Resources for Families
 tags:
   - title_minecraft_java_edition
@@ -31,7 +31,7 @@ hash:
 
 Parents can manage in-game settings for Minecraft: Bedrock Edition on child accounts using either the Microsoft Family page online or through the Xbox Family app. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox. To enable parental controls, you need to create parent and child accounts and then create a family group.
 
-Child accounts are all accounts for those under the age of 16 for the US & EU, or 19 for South Korea. If there isn't an adult account associated with the child account, the adult must make a Microsoft account and associate the already-created child account with it. Only parent accounts can modify settings.
+The statutory age for a child account is determined by where you live. See [List of countries or regions that have statutory age limits for children - Microsoft Support](https://support.microsoft.com/en-us/account-billing/list-of-countries-or-regions-that-have-statutory-age-limits-for-children-a7393f56-5107-44b1-be44-655589bdeb92) for information. If there isn't an adult account associated with the child account, the adult must make a Microsoft account and associate the already-created child account with it. Only parent accounts can modify settings.
 
 ## Create a Family Group using the Microsoft Family Safety website
 
