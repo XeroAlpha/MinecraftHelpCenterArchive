@@ -1,14 +1,14 @@
 ---
 title: "Hotkeys in Minecraft: Java Edition"
 date: 2021-03-29T20:06:09Z
-updated: 2025-02-19T19:59:16Z
+updated: 2025-11-13T22:38:02Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360059148111-Hotkeys-in-Minecraft-Java-Edition
 ---
 
-Hotkeys are shortcuts you can use on your keyboard to do some things faster than normal. Here is a list of the default hotkeys when playing Minecraft: Java Edition:
+Hotkeys are shortcuts you can use on your keyboard to do some things faster than normal. Here is a list of the default hotkeys when playing Minecraft: Java Edition:
 
 **Scroll -** Scrolls through your quick bar and the chat when opened. 
 
@@ -18,7 +18,7 @@ Hotkeys are shortcuts you can use on your keyboard to do some things faster than
 
 **F2 -** Takes screenshots and stores them in your [.minecraft](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md) folder 
 
-**Shift + Left Mouse Button Interactions:** 
+**Shift + Left Mouse Button ****Interactions:** 
 
 - Clicking an item or stack will move it between inventory and stack. 
 - When a container is open, shift + clicking on an item will move up to a stack between the container and the inventory. 

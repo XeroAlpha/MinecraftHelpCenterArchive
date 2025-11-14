@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition"
 date: 2024-02-28T20:59:18Z
-updated: 2025-05-01T14:34:19Z
+updated: 2025-11-13T22:27:18Z
 categories: Multiplayer Support
 tags:
   - title_minecraft_java_edition
