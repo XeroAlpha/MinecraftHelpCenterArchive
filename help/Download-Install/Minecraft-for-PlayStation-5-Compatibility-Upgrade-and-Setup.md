@@ -42,7 +42,7 @@ If you own the PS4 license for Minecraft on your PlayStation Network (PSN) accou
 
 Migrating your worlds from the PS4 version of Minecraft into PS5 is very simple. You can find instructions for making a cloud save of your Minecraft for PlayStation worlds here:
 
-- [How to Back Up Your Minecraft Save to the Cloud on PlayStation](../Backup-Restore/How-to-Back-Up-Your-Minecraft-Save-to-the-Cloud-on-PlayStation.md)
+- [How to Back Up Your Minecraft Save to the Cloud on PlayStation](../Backup-Restore/Manage-Minecraft-Cloud-Saves-on-PlayStation.md)
 
 After you save your Minecraft worlds to the cloud, follow these instructions to convert your PS4 worlds to the PS5 version:
 

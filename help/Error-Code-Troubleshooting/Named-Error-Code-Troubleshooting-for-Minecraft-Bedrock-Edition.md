@@ -88,7 +88,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Arrow
 
 - **What it means**: There was an error connecting to a Realm.
-- **How to troubleshoot**: See [Troubleshoot Minecraft Realms Connection Errors](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md) and [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [Troubleshoot Minecraft Realms Connection Errors](../Troubleshoot-Minecraft-Realms/Troubleshoot-Minecraft-Realms-Connection-Errors.md) and [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Bamboo
 
@@ -98,17 +98,17 @@ We’ve given some error codes special names to help point you in the right dire
 ### Bat
 
 - **What it means**: You were disconnected from the server.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Block
 
 - **What it means**: An error occurred.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if the troubleshooting steps do not resolve your issue.
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if the troubleshooting steps do not resolve your issue.
 
 ### Boat
 
 - **What it means**: An error occurred.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Breeze
 
@@ -133,12 +133,12 @@ We’ve given some error codes special names to help point you in the right dire
 ### Clay
 
 - **What it means**: There was a problem finding the server.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Coal
 
 - **What it means**: There was a problem playing splitscreen.
-- **How to troubleshoot**: Make sure you meet the [Requirements to Play Minecraft Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Multiplayer-Games.md) and [Requirements to Play Minecraft: Bedrock Edition Split-Screen](../Multiplayer-Support/Requirements-to-Play-Minecraft-Bedrock-Edition-Split-Screen.md). See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) if the issue continues.
+- **How to troubleshoot**: Make sure you meet the [Requirements to Play Minecraft Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Multiplayer-Games.md) and [Requirements to Play Minecraft: Bedrock Edition Split-Screen](../Multiplayer-Support/Requirements-to-Play-Minecraft-Bedrock-Edition-Split-Screen.md). See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) if the issue continues.
 
 ### Cobblestone
 
@@ -153,7 +153,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Crossbow
 
 - **What it means**: There was an error during sign-in.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Deep Ocean
 
@@ -173,17 +173,17 @@ We’ve given some error codes special names to help point you in the right dire
 ### Emerald
 
 - **What it means**: There was an error connecting to the world.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Evoker
 
 - **What it means**: You were disconnected from the server.
-- **How to troubleshoot**: This can happen if you were idle for too long. Try to reconnect. If you are unable to reconnect, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: This can happen if you were idle for too long. Try to reconnect. If you are unable to reconnect, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Feather
 
 - **What it means**: You were disconnected from the server.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Fox
 
@@ -210,7 +210,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Gold
 
 - **What it means**: There was an issue connecting to multiplayer services.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Guardian
 
@@ -220,12 +220,12 @@ We’ve given some error codes special names to help point you in the right dire
 ### Haybale
 
 - **What it means**: There was an issue connecting to Xbox services.
-- **How to troubleshoot**: If you’re playing on a Windows PC, make sure the Windows Xbox app is up-to-date. See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) for more suggestions.
+- **How to troubleshoot**: If you’re playing on a Windows PC, make sure the Windows Xbox app is up-to-date. See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) for more suggestions.
 
 ### Honeycomb
 
 - **What it means**: There was an issue when attempting to sign in.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Hopper
 
@@ -240,12 +240,12 @@ We’ve given some error codes special names to help point you in the right dire
 ### Ladder
 
 - **What it means**: An error occurred.
-- **How to troubleshoot**: The error should be temporary. If it recurs, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if troubleshooting steps do not resolve your issue.
+- **How to troubleshoot**: The error should be temporary. If it recurs, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if troubleshooting steps do not resolve your issue.
 
 ### Lead
 
 - **What it means**: An error occurred.
-- **How to troubleshoot**: The error should be temporary. If it recurs, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if troubleshooting steps do not resolve your issue.
+- **How to troubleshoot**: The error should be temporary. If it recurs, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if troubleshooting steps do not resolve your issue.
 
 ### NetherNet
 
@@ -255,17 +255,17 @@ We’ve given some error codes special names to help point you in the right dire
 ### Panda
 
 - **What it means**: A local server couldn’t be found.
-- **How to troubleshoot**: See [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Performance-Troubleshooting/Troubleshoot-Minecraft-LAN-Connectivity-Issues-on-Windows-PC.md) and [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Performance-Troubleshooting/Troubleshoot-Minecraft-LAN-Connectivity-Issues-on-Windows-PC.md) and [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Piglin
 
 - **What it means**: There was an issue during the sign-in process.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Pufferfish
 
 - **What it means**: There was an issue during the sign-in process.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Rabbit
 
@@ -300,9 +300,9 @@ We’ve given some error codes special names to help point you in the right dire
 ### Terracotta
 
 - **What it means**: An unspecified error has occurred.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### TNT
 
 - **What it means**: An error occurred.
-- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if troubleshooting steps do not resolve your issue.
+- **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) and contact support if troubleshooting steps do not resolve your issue.

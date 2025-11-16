@@ -38,4 +38,4 @@ If downloading updates didn’t solve the problem, try turning off any add-ons a
 - **Disable Add-ons:** To turn off or manage content, see [Disabling Minecraft Add-Ons](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
 - **Change video settings:** See [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).
 
-For more device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md). If you also see a Minecraft error code, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](../Error-Code-Troubleshooting/Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+For more device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md). If you also see a Minecraft error code, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](../Error-Code-Troubleshooting/General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).

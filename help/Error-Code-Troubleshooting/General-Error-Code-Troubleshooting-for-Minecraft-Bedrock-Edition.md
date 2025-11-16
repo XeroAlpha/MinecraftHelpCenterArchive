@@ -25,7 +25,7 @@ If you get an error code screen while playing Minecraft, capture the information
 
 Here are other articles that may help:
 
-- [Named Error Code](./Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition.md) [Troubleshooting](./Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition.md) [for Minecraft: Bedrock Edition](./Troubleshooting-Named-Error-Codes-for-Minecraft-Bedrock-Edition.md)
+- [Named Error Code](./Named-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) [Troubleshooting](./Named-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) [for Minecraft: Bedrock Edition](./Named-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md)
 - [Troubleshooting Minecraft Marketplace Error Codes](../Marketplace-Troubleshooting/Troubleshooting-Minecraft-Marketplace-Error-Codes.md)
 - [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
 
