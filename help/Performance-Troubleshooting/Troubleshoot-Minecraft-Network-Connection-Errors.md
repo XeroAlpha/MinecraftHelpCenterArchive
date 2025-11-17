@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Minecraft Network Connection Errors
 date: 2024-09-20T20:44:48Z
-updated: 2025-08-07T21:28:52Z
+updated: 2025-11-17T19:37:32Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
@@ -24,7 +24,7 @@ If you’re having problems playing with friends, accessing Realms, or using the
   - If you manually adjusted any of the DNS settings for your device, you may want to set them back to “automatic.”
   - If you’re on PC, you can also try to flush your DNS cache. See [Fix Ethernet connection problems in Windows](https://support.microsoft.com/en-us/windows/fix-ethernet-connection-problems-in-windows-2311254e-cab8-42d6-90f3-cb0b9f63645f) and expand the **Run network commands** section for instructions.
 - **Check NAT settings:** If you’ve changed your NAT settings for port forwarding or you’re using a VPN, you may need to configure your router to use moderate or open Network Address Translation (NAT).
-- **Check open ports:** If you have a firewall, antivirus software, or are using a VPN, check the settings to be sure that it is not blocking or slowing your connection. Ports that need to be open are 80 without destructive proxies, 443 without destructive proxies, 3748, 19132, 19133.
+- **Allow Minecraft through your firewall or VPN:** If you have a firewall, antivirus software, or are using a VPN, check the settings to be sure that it is not blocking or slowing your connection. Ports that need to be open are 80 without destructive proxies, 443 without destructive proxies, 3748, 19132, 19133.
 
 ## Additional Troubleshooting Resources
 
