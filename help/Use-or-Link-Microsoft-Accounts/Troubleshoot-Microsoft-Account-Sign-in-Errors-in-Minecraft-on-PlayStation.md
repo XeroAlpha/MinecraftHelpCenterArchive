@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Microsoft Account Sign-in Errors in Minecraft on PlayStation
 date: 2021-09-13T18:04:56Z
-updated: 2025-11-11T21:36:18Z
+updated: 2025-11-18T16:42:50Z
 categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
@@ -50,7 +50,7 @@ If you unlink your Microsoft account and it has Minecraft Marketplace purchases 
   - Select **Try Again** and **Sign in with a Microsoft account**.
   - Sign in with a new or alternative Microsoft account to your PlayStation network account. See [How to create a new Microsoft account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf).
 - **Unlink the Microsoft account**:
-  - Select **Unlink Microsoft account**. This will unlink your Microsoft account from the other      PlayStation Network account.
+  - Select **Unlink Microsoft account**. This will unlink your Microsoft account from the other PlayStation Network account.
   - Select **Sign in with a Microsoft account** and sign in with your Microsoft account.
 - **Use the PlayStation Network account connected to your Microsoft account**:
   - Close Minecraft.
