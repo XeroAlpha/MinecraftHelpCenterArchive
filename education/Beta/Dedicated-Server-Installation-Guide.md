@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Installation Guide
 date: 2025-10-01T17:35:03Z
-updated: 2025-10-01T19:31:22Z
+updated: 2025-11-19T19:31:56Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Installation-Guide
 hash:
@@ -25,7 +25,9 @@ hash:
   h_01K6GD8G17KZQSB58EVA5X94G8: reference-b-join-a-server-hosted-by-another-tenant
 ---
 
-For general information about the EDU Dedicated Server, please refer to the [Dedicated Server 101 Support Article](https://aka.ms/mcedu-ds-faq).
+For general information about the EDU Dedicated Server, please refer to the [Dedicated Server 101 Support Article](https://aka.ms/mcedu-ds-faq). In addition to our guide below, feel free to check out our video guide:
+
+[![How to setup Minecraft Education dedicated server beta](https://edusupport.minecraft.net/hc/article_attachments/43524918786708)](https://www.youtube.com/watch?v=d69T8ssaFyc)
 
  
 
