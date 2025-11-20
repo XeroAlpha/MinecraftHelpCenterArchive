@@ -1,7 +1,7 @@
 ---
 title: "Named Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-11-12T21:16:13Z
+updated: 2025-11-20T17:40:47Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -39,8 +39,8 @@ hash:
   error-boat: boat
   error-breeze: breeze
   error-cauldron: cauldron
-  error-chest: chain
-  h_01K8TX42S9R7PEGMFF6321XGAQ: chest
+  error-chain: chain
+  error-chest: chest
   error-clay: clay
   error-coal: coal
   error-cobblestone: cobblestone
