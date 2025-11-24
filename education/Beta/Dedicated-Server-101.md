@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server 101
 date: 2025-10-01T17:56:33Z
-updated: 2025-10-02T18:43:21Z
+updated: 2025-11-24T19:41:14Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-101
 hash:
