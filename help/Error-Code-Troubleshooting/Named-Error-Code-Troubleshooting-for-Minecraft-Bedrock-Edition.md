@@ -1,7 +1,7 @@
 ---
 title: "Named Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-11-20T17:40:47Z
+updated: 2025-11-25T22:50:10Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -35,7 +35,8 @@ hash:
   error-arrow: arrow
   error-bamboo: bamboo
   error-bat: bat
-  error-block: block
+  error-block: blaze
+  h_01KAHQDRRQ142FST84GZQC7TBW: block
   error-boat: boat
   error-breeze: breeze
   error-cauldron: cauldron
@@ -99,6 +100,15 @@ We’ve given some error codes special names to help point you in the right dire
 
 - **What it means**: You were disconnected from the server.
 - **How to troubleshoot**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+
+### Blaze
+
+- **What it means:** There was an issue while signing in.
+- **How to troubleshoot:**
+  - **Verify your Microsoft account isn't being used on multiple devices**: A Microsoft account can only be used on one device at a time.
+  - **Reset your connection to authentication servers**: See [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md) for instructions to sign out and sign in of your Microsoft account.
+  - **Restart the Realm**: If you're playing on a Realm, have the Realm owner [Close and Reopen Your Minecraft Realm to Solve Connection Errors](../Troubleshoot-Minecraft-Realms/Close-and-Reopen-Your-Minecraft-Realm-to-Solve-Connection-Errors.md).
+  - **Perform general troubleshooting**: See [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) for more suggestions.
 
 ### Block
 
