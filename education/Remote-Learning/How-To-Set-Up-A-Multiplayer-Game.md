@@ -1,7 +1,7 @@
 ---
 title: How To Set Up A Multiplayer Game
 date: 2020-08-10T09:00:18Z
-updated: 2025-05-27T20:04:59Z
+updated: 2025-11-26T21:41:13Z
 categories: Remote Learning
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game
 hash:
@@ -10,11 +10,12 @@ hash:
   h_01HAYSPDR76P1KZVBBF82T3D7J: requirements
   h_dd9922f2-768a-46e0-ad7c-452d4faaad4e: how-to-host-a-world
   h_01HAYSPDR7V5ADWA6J5A0R56KX: host-an-existing-world
-  h_01HAYSPDR7TGRZNYKV4XYDJ81D: sitemap_v2jpg
-  h_01HAYSPDR7P4DY3S5NCS12HXEV: "-1"
+  h_01HAYSPDR7TGRZNYKV4XYDJ81D: "-1"
+  h_01HAYSPDR7P4DY3S5NCS12HXEV: "-2"
   h_01HAYSPDR7QG59HT2MKCBW17KP: create-a-new-world-to-host
   h_dd0201ba-e7a2-4d88-acdd-36df5d5ca9a2: how-to-host-a-game-in-progress
   h_01HAYSPDR7DN58SKPNK8P6C2VZ: how-to-join-a-world
+  01K32396C7GYTMA44X236QM2V5: "-3"
   h_f84ec7db-63c3-4686-8ccb-d3298255060c: configure-settings-for-your-multiplayer-game
   h_01HAYSPDR7FZS48E779HXTTB36: world-settings
   h_01HAYSPDR7GYF4QXA1103X4ZJP: player-permissions
@@ -67,19 +68,19 @@ View our above video or follow our guide below!
 
 Click **Play** on the home screen
 
-![Screenshot 2023-08-01 153854.png](https://edusupport.minecraft.net/hc/article_attachments/17923548834196)
+![](https://edusupport.minecraft.net/hc/article_attachments/43767520858644)
 
 ### Host an existing world
 
 Choose an existing world to host from the **View My Worlds** collection.  You can also import and launch a new world from the **Library Collection. ** Follow the instructions in the [How to host a world in-progress](#how-to-host-a-game-in-progress) section to host a world that you open from the Library Collection.
 
-### ![sitemap_v2.JPG](https://edusupport.minecraft.net/hc/article_attachments/4402411288980)
+### ![](https://edusupport.minecraft.net/hc/article_attachments/43767520861204)
 
 ###  
 
 Click on a world in your **My Worlds** collection and then click **Host**.
 
-![click_host_v2.png](https://edusupport.minecraft.net/hc/article_attachments/4402417995540)
+![](https://edusupport.minecraft.net/hc/article_attachments/43767506726164)
 
 Read the [Configure settings for your Multiplayer game](#configure-settings-for-your-multiplayer-game) section to learn how to access your Join Code and change settings for your hosted world.
 
@@ -87,11 +88,11 @@ Read the [Configure settings for your Multiplayer game](#configure-settings-for
 
 On the [Play screen](#how-to-host-a-world), click **Create New** and then click **New.**
 
-![click_new_v2.png](https://edusupport.minecraft.net/hc/article_attachments/4402417996820)
+![](https://edusupport.minecraft.net/hc/article_attachments/43767520867860)
 
 Select the options you would like applied to your new world, and then click **Host.**
 
-![image\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402411298196)
+![](https://edusupport.minecraft.net/hc/article_attachments/43767520869268)
 
 Read the [Configure settings for your Multiplayer game](#configure-settings-for-your-multiplayer-game) section to learn how to access your Join Code and change settings for your hosted world.
 
@@ -107,7 +108,7 @@ Read the [Configure settings for your Multiplayer game](#configure-settings-for
 
 Click **Play** on the Home screen and then click **Join World.**
 
-![sitemap_v2\_\_1\_.JPG](https://edusupport.minecraft.net/hc/article_attachments/4402418008852)
+### ![](https://edusupport.minecraft.net/hc/article_attachments/43767520861204)
 
 Enter the Join Code for the world you want to join by clicking on each picture in order. 
 
@@ -119,7 +120,7 @@ If a student enters incorrect join codes repeatedly, they'll get a warning after
 
 ## Configure settings for your multiplayer game
 
-[![Image of a video about setting up multiplayer game settings](https://edusupport.minecraft.net/hc/article_attachments/20761201474196)](https://youtu.be/e_pv1PDiu0U)
+[![](https://edusupport.minecraft.net/hc/article_attachments/43767520871060)](https://www.youtube.com/watch?v=49pCQ8OM2Tc)
 
  
 
