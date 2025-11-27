@@ -1,7 +1,7 @@
 ---
 title: Profile Types and Permissions
 date: 2020-08-10T09:07:30Z
-updated: 2025-06-27T18:51:11Z
+updated: 2025-11-26T21:42:48Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions
 hash:
@@ -86,8 +86,13 @@ The options available to you will display on screen as you type.
 Operator only commands you should be aware of:
 
 - immutableworld
-- worldbuilder  
+
+- worldbuilder
+
    
+
+For additional info on the different permissions levels for users (Visitor, Member, Operator) see our [multiplayer article here](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md).   
+ 
 
 ## **Worldbuilder**
 
