@@ -1,7 +1,7 @@
 ---
 title: Minecraft Copper Cape Promotion Terms and Conditions
 date: 2025-10-03T16:45:23Z
-updated: 2025-12-01T18:27:08Z
+updated: 2025-12-01T19:26:28Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
