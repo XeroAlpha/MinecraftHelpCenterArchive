@@ -1,7 +1,7 @@
 ---
 title: Requirements to Play Minecraft Multiplayer Games
 date: 2025-04-17T14:21:51Z
-updated: 2025-06-05T20:15:32Z
+updated: 2025-12-01T18:42:52Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061

@@ -1,7 +1,7 @@
 ---
 title: "Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition"
 date: 2025-08-25T21:29:57Z
-updated: 2025-08-26T16:15:17Z
+updated: 2025-12-01T18:29:04Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition

@@ -1,7 +1,7 @@
 ---
 title: Minecraft Copper Cape Promotion Terms and Conditions
 date: 2025-10-03T16:45:23Z
-updated: 2025-10-07T17:46:37Z
+updated: 2025-12-01T18:27:08Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
@@ -12,7 +12,7 @@ This Minecraft Copper Cape Promotion (the “Promotion”) is a limited time off
 
 **How to Participate.** During the Promotional Period, Participants who complete the [“Copper Cape Quest” challenges on Minecraft Bedrock](https://www.minecraft.net/en-us/article/the-copper-cape-quest) will receive one (1) free item in-game cape (“Promotional Item”) (with the approximate retail value of: \$5) applied to their Minecraft Bedrock and Java (if applicable) account inventories within 30 days after the promotion end date. Supplies for Promotional Items are limited.  
 
-The offer is limited to one Promotional Item per Microsoft account with unique email address per Minecraft game edition (i.e., maximum two Promotional Items per account – one cape for Java; one cape for Bedrock). Promotional Items are non-transferable, non-refundable, and cannot be redeemed for cash. If there are any issues with redeeming Promotional Items, see our Help Center at <https://help.minecraft.net/hc>. Promotional Items are redeemable only until November 20, 2025, 10:00 AM PDT, after which supplies may no longer be available.
+The offer is limited to one Promotional Item per Microsoft account with unique email address per Minecraft game edition (i.e., maximum two Promotional Items per account – one cape for Java; one cape for Bedrock). Promotional Items are non-transferable, non-refundable, and cannot be redeemed for cash. If there are any issues with redeeming Promotional Items, see our Help Center at [https://help.minecraft.net](https://help.minecraft.net/). Promotional Items are redeemable only until November 20, 2025, 10:00 AM PDT, after which supplies may no longer be available.
 
 Requires Minecraft: Bedrock Edition (sold separately), Microsoft account, and Internet access (fees may apply). Age restrictions apply. The offer cannot be combined with other promotions. Microsoft reserves the right to modify, suspend, or terminate the Promotion at any time. Fraudulent activity, including using multiple accounts or false information, will result in disqualification. Microsoft may, freely and without liability, remove Promotional Items redeemed, suspend or ban accounts, and take other disciplinary or corrective action if Microsoft suspects or believes your account is engaged in fraudulent or abusive activity. Void where prohibited or restricted by law. 
 

@@ -1,7 +1,7 @@
 ---
 title: Buying Minecraft for a Child Account on a Console or Mobile Device
 date: 2025-05-14T13:42:36Z
-updated: 2025-05-19T18:31:47Z
+updated: 2025-12-01T18:40:57Z
 categories: Resources for Families
 tags:
   - section_15463792344973
