@@ -1,7 +1,7 @@
 ---
 title: View and Edit Your Minecraft Profile
 date: 2024-06-21T20:53:31Z
-updated: 2025-04-28T14:25:19Z
+updated: 2025-12-02T19:17:23Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
