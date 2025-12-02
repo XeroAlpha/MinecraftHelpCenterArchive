@@ -1,7 +1,7 @@
 ---
 title: How to Get Started in Minecraft
 date: 2023-09-22T22:01:31Z
-updated: 2024-07-16T14:56:48Z
+updated: 2025-12-01T22:29:50Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293

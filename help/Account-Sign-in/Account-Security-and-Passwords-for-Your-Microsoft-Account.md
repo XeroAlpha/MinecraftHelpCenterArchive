@@ -1,7 +1,7 @@
 ---
 title: Account Security and Passwords for Your Microsoft Account
 date: 2019-10-13T22:14:39Z
-updated: 2024-09-03T23:35:06Z
+updated: 2025-12-02T00:26:54Z
 categories: Account Sign-in
 tags:
   - section_12617963662861

@@ -1,7 +1,7 @@
 ---
 title: Cauldron Error Code Troubleshooting in Minecraft
 date: 2025-05-19T20:53:51Z
-updated: 2025-07-08T20:48:56Z
+updated: 2025-12-01T22:36:00Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft

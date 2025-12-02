@@ -1,7 +1,7 @@
 ---
 title: Buy Content from the Minecraft Marketplace
 date: 2024-02-12T20:32:01Z
-updated: 2025-05-28T21:32:41Z
+updated: 2025-12-01T22:43:02Z
 categories: Buying Marketplace Content
 tags:
   - title_minecraft

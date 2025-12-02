@@ -1,7 +1,7 @@
 ---
 title: Free Gift with Purchase of Minecraft or Minecoins
 date: 2025-03-18T16:17:42Z
-updated: 2025-03-31T15:58:04Z
+updated: 2025-12-01T21:53:16Z
 categories: Events & Promotions
 tags:
   - section_26562723671949

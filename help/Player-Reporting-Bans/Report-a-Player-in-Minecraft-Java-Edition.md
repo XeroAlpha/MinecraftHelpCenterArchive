@@ -1,7 +1,7 @@
 ---
 title: "Report a Player in Minecraft: Java Edition"
 date: 2022-06-23T15:42:44Z
-updated: 2025-08-20T20:38:08Z
+updated: 2025-12-01T22:55:12Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181

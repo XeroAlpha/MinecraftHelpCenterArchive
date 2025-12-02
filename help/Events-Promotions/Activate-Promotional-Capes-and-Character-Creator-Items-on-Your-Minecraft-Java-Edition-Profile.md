@@ -1,7 +1,7 @@
 ---
 title: "Activate Promotional Capes and Character Creator Items on Your Minecraft: Java Edition Profile"
 date: 2024-11-01T22:16:18Z
-updated: 2025-06-24T20:54:53Z
+updated: 2025-12-01T21:58:00Z
 categories: Events & Promotions
 tags:
   - section_26562723671949
@@ -32,7 +32,8 @@ It is important that you sign out and restart to make sure Minecraft: Java editi
 
 For more information, see these articles:
 
-- - [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md)
+-  
+  - [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md)
   - [How to Redeem a Code for In-Game Downloadable Content in Minecraft](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
   - [Equip Minecraft Character Creator Items and Skins in the Dressing Room](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md)
   - [Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)

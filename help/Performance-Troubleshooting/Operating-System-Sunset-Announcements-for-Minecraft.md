@@ -1,7 +1,7 @@
 ---
 title: Operating System Sunset Announcements for Minecraft
 date: 2024-09-16T16:32:55Z
-updated: 2025-06-19T22:51:51Z
+updated: 2025-12-01T22:53:20Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285

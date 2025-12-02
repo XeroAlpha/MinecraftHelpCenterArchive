@@ -1,7 +1,7 @@
 ---
 title: Official Minecraft Sites
 date: 2021-03-24T21:14:47Z
-updated: 2025-08-25T17:17:55Z
+updated: 2025-12-01T22:34:12Z
 categories: Community Guidelines
 tags:
   - title_minecraft_java_edition

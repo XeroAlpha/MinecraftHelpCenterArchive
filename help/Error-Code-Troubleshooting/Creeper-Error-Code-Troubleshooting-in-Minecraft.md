@@ -1,7 +1,7 @@
 ---
 title: Creeper Error Code Troubleshooting in Minecraft
 date: 2024-09-30T21:35:32Z
-updated: 2025-08-13T21:57:12Z
+updated: 2025-12-01T22:52:45Z
 categories: Error Code Troubleshooting
 tags:
   - section_37919645439501

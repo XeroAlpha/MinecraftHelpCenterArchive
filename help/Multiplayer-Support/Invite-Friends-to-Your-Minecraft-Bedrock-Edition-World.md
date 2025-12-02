@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Bedrock Edition World"
 date: 2024-12-20T19:55:41Z
-updated: 2025-10-28T17:08:05Z
+updated: 2025-12-01T22:51:53Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061

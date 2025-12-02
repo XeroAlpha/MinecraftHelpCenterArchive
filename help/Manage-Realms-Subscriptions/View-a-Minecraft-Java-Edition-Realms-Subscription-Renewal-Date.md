@@ -1,7 +1,7 @@
 ---
 title: "View a Minecraft: Java Edition Realms Subscription Renewal Date"
 date: 2024-02-16T19:50:24Z
-updated: 2025-04-24T16:43:20Z
+updated: 2025-12-01T22:42:17Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421

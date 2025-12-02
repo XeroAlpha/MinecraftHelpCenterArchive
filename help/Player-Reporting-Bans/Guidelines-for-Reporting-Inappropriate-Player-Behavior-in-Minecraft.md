@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Reporting Inappropriate Player Behavior in Minecraft
 date: 2022-06-30T14:32:52Z
-updated: 2024-05-30T19:54:06Z
+updated: 2025-12-01T22:30:49Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181

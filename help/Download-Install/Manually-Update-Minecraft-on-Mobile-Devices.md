@@ -1,7 +1,7 @@
 ---
 title: Manually Update Minecraft on Mobile Devices
 date: 2021-09-14T00:17:35Z
-updated: 2025-05-28T18:49:33Z
+updated: 2025-12-01T22:57:19Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -41,4 +41,4 @@ For Android device requirements, see [Minecraft: Bedrock Edition for Android Req
 4.  Tap **Updates available**.
 5.  Find Minecraft and tap **Update**.
 
-For updating on PC, [How to Manually Update Minecraft on Windows](./Manually-Update-Minecraft-on-Windows.md).
+For updating on PC, [Manually Update Minecraft on Windows](./Manually-Update-Minecraft-on-Windows.md).

@@ -1,7 +1,7 @@
 ---
 title: Give Minecraft as a Gift through Email
 date: 2022-08-25T15:10:26Z
-updated: 2025-08-20T20:14:14Z
+updated: 2025-12-01T22:46:56Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221

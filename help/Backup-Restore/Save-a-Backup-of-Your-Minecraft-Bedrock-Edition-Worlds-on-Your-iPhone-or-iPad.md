@@ -1,7 +1,7 @@
 ---
 title: "Save a Backup of Your Minecraft: Bedrock Edition Worlds on Your iPhone or iPad"
 date: 2025-10-16T22:07:53Z
-updated: 2025-10-17T16:19:38Z
+updated: 2025-12-01T22:50:46Z
 categories: Backup & Restore
 tags:
   - section_27166561402125

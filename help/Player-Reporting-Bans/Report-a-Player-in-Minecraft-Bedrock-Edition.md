@@ -1,7 +1,7 @@
 ---
 title: "Report a Player in Minecraft: Bedrock Edition"
 date: 2023-02-10T20:14:51Z
-updated: 2025-10-28T17:08:21Z
+updated: 2025-12-01T22:44:58Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181

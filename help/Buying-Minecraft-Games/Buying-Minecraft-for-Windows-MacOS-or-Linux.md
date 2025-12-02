@@ -1,7 +1,7 @@
 ---
 title: Buying Minecraft for Windows, MacOS or Linux
 date: 2022-06-03T18:40:38Z
-updated: 2024-07-31T19:33:19Z
+updated: 2025-12-01T22:55:57Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221
@@ -50,5 +50,5 @@ When you buy Minecraft from the Microsoft store or on Minecraft.net, you get bot
 1.  Visit [Minecraft.net](https://www.minecraft.net/).
 2.  Click on Account and then select **Sign In**.
 3.  Sign in with the Microsoft account you use to buy and play games.
-4.  Select **My Games** from the menu. You will see cards for the game titles that you own.  
+4.  Select **My Games** from the menu. You will see cards for the game titles that you own.   
     If you do not own a game, the option to **Buy Now** will appear under a game card.

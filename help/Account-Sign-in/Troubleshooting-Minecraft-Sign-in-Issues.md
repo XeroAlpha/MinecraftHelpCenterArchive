@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Sign-in Issues
 date: 2024-05-31T20:18:34Z
-updated: 2025-06-12T18:41:15Z
+updated: 2025-12-01T22:37:48Z
 categories: Account Sign-in
 tags:
   - section_27194059750157

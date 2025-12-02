@@ -1,7 +1,7 @@
 ---
 title: How to Redeem Minecraft as a Gift
 date: 2024-07-26T19:05:59Z
-updated: 2024-07-31T21:39:19Z
+updated: 2025-12-01T22:26:03Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_28872896387341

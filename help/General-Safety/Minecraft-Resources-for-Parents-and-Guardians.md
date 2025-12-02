@@ -1,7 +1,7 @@
 ---
 title: Minecraft Resources for Parents and Guardians
 date: 2024-08-20T15:25:13Z
-updated: 2024-08-20T15:54:31Z
+updated: 2025-12-01T22:05:25Z
 categories: General Safety
 tags:
   - title_minecraft_java_edition

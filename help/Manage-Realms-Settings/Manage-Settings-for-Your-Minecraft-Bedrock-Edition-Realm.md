@@ -1,7 +1,7 @@
 ---
 title: "Manage Settings for Your Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:58:20Z
-updated: 2025-10-10T22:06:23Z
+updated: 2025-12-01T22:54:23Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft
@@ -23,7 +23,7 @@ hash:
   h_01JZ971RFHHRPZDWKDCH4JMVR7: manage-realm-options
 ---
 
-*For Minecraft: Java Edition, see [Manage Your Minecraft: Java Edition Realm](./Manage-Settings-for-Your-Minecraft-Java-Edition-Realm.md).*
+*For Minecraft: Java Edition, see* [*Manage Your Minecraft: Java Edition Realm*](./Manage-Settings-for-Your-Minecraft-Java-Edition-Realm.md)*.*
 
 Minecraft: Bedrock Edition Realm owners can change the change the Realm name and description, decide how recipes are unlocked, and manage player settings through the Realms menu. Here’s how to access your Realm’s settings.
 

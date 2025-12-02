@@ -1,7 +1,7 @@
 ---
 title: Equip Minecraft Character Creator Items and Skins in the Dressing Room
 date: 2021-09-09T23:20:19Z
-updated: 2025-03-24T18:17:54Z
+updated: 2025-12-01T22:48:27Z
 categories: Managing Marketplace Content
 tags:
   - title_minecraft
@@ -33,10 +33,10 @@ You can change the look of your character in Minecraft at any time! Here is how 
 If you are looking to add character creator items to your Minecraft character, follow these steps:
 
 1.  Start Minecraft: Bedrock Edition. 
-2.  Select **Dressing Room**. 
+2.  Select **Dressing Room**.
 3.  Select the character slot you want to edit or a new one. 
-4.  Select **Edit Character**. 
-5.  Open the **Body** or **Style** tab. 
+4.  Select **Edit Character**.
+5.  Open the **Body** or **Style** tab.
 6.  Find the item in the proper section. 
 7.  Click **Equip**.
 

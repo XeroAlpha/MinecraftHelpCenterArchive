@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Minecraft Realms Connection Errors
 date: 2021-09-30T21:40:55Z
-updated: 2025-08-08T16:45:08Z
+updated: 2025-12-01T22:47:42Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft_java_edition

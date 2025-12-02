@@ -1,7 +1,7 @@
 ---
 title: Managing Child Account Social Settings Using Xbox Settings Online
 date: 2022-06-16T19:39:34Z
-updated: 2025-05-30T18:12:04Z
+updated: 2025-12-01T22:31:48Z
 categories: Account Settings
 tags:
   - section_27194076935437
@@ -16,17 +16,17 @@ hash:
   h_01JPXFPXSQNTXWP21MR7VH4959: privacy--safety-setting-descriptions
 ---
 
-Minecraft: Bedrock edition allows you to manage who can view your child’s profile online, who they can talk to, and what they can share while playing the game. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox. 
+Minecraft: Bedrock edition allows you to manage who can view your child’s profile online, who they can talk to, and what they can share while playing the game. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox.
 
 ## Manage Privacy & Online Safety Settings on the Xbox Privacy Online
 
-1.  Visit [Privacy & online safety](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab) on the Xbox Settings page.  
+1.  Visit [Privacy & online safety](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab) on the Xbox Settings page.
 2.  Sign in using the parent’s account. 
-3.  Click on the tile for the child account you want to manage. 
+3.  Click on the tile for the child account you want to manage.
 4.  Click on the **Privacy** tab on the child account settings screen.
 5.  Adjust settings as desired. 
-6.  Click **Submit** and wait for the page to reload. 
-7.  Sign out of Minecraft and restart for the new settings to take effect. 
+6.  Click **Submit** and wait for the page to reload.
+7.  Sign out of Minecraft and restart for the new settings to take effect.
 
 You can also [Manage Child Account Social Settings Using the Xbox Family App](./Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md).
 

@@ -1,7 +1,7 @@
 ---
 title: Minecraft for PlayStation 5 Compatibility, Upgrade, and Setup
 date: 2024-10-16T16:24:05Z
-updated: 2025-01-21T19:36:26Z
+updated: 2025-12-01T21:59:45Z
 categories: Download & Install
 tags:
   - section_27166490706957

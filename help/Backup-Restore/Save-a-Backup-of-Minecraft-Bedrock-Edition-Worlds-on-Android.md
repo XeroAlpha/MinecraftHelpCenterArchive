@@ -1,7 +1,7 @@
 ---
 title: "Save a Backup of Minecraft: Bedrock Edition Worlds on Android"
 date: 2024-05-20T21:07:21Z
-updated: 2025-11-21T00:39:35Z
+updated: 2025-12-01T22:38:31Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
