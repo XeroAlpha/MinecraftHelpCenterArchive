@@ -1,7 +1,7 @@
 ---
 title: Buying Minecraft for a Child Account on Windows, MacOS or Linux
 date: 2022-05-09T16:09:03Z
-updated: 2024-09-17T20:43:58Z
+updated: 2025-12-02T18:00:01Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221

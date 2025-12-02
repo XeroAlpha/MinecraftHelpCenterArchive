@@ -1,7 +1,7 @@
 ---
 title: "Differences Between Minecraft: Java Edition and Minecraft: Bedrock Edition"
 date: 2021-03-24T21:40:40Z
-updated: 2025-09-23T20:49:12Z
+updated: 2025-12-02T18:02:02Z
 categories: Buying Minecraft Games
 tags:
   - trending
@@ -27,7 +27,7 @@ While every version of Minecraft is still Minecraft, the differences between Min
 
 ## Minecraft: Bedrock Edition
 
-**Note: Minecraft: Bedrock Edition refers to any non-Java Edition of the game.** 
+**Note:** **Minecraft: Bedrock Edition** **refers to any non-Java Edition of the game.** 
 
 - **Supported Cross-Play:** Play with your friends also playing Bedrock Edition on Windows 10, Windows 11, Xbox, Nintendo Switch, PS4, and mobile.
 - **Controller Support:** Minecraft: Bedrock Edition has the option to switch to a controller for movement or touch controls if on a mobile device.

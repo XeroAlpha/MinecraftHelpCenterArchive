@@ -1,7 +1,7 @@
 ---
 title: Edit your Realms on Minecraft.net
 date: 2023-05-19T20:22:48Z
-updated: 2025-08-05T16:35:41Z
+updated: 2025-12-02T17:50:46Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft_java_edition

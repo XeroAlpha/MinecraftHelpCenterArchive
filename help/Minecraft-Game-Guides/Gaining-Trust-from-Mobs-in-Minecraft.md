@@ -1,7 +1,7 @@
 ---
 title: Gaining Trust from Mobs in Minecraft
 date: 2023-09-26T15:45:33Z
-updated: 2025-02-19T17:51:36Z
+updated: 2025-12-02T17:49:10Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293

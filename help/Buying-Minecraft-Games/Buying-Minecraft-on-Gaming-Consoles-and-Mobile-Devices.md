@@ -1,7 +1,7 @@
 ---
 title: Buying Minecraft on Gaming Consoles and Mobile Devices
 date: 2022-06-03T19:10:03Z
-updated: 2024-07-31T19:26:54Z
+updated: 2025-12-02T17:37:08Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221

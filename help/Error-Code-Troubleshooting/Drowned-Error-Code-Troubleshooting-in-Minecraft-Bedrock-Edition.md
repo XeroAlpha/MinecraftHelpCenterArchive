@@ -1,7 +1,7 @@
 ---
 title: "Drowned Error Code Troubleshooting in Minecraft: Bedrock Edition"
 date: 2024-08-13T19:01:49Z
-updated: 2025-06-12T18:48:06Z
+updated: 2025-12-02T17:48:03Z
 categories: Error Code Troubleshooting
 tags:
   - category_account_support
@@ -37,9 +37,9 @@ We know that error codes are frustrating to run into. The Drowned error is a sig
 
 Refer to the resources below for instructions on how to manually update your game. Remember to restart after updating.
 
-- [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
-- [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
-- [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+- [Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
+- [Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
+- [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
 
 ## Check server status
 

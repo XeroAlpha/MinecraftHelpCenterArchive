@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Installing the Minecraft Launcher
 date: 2024-01-22T20:10:18Z
-updated: 2025-09-02T08:47:06Z
+updated: 2025-12-02T17:36:12Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

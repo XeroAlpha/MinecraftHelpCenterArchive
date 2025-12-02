@@ -1,7 +1,7 @@
 ---
 title: Fix Crashes and Lag Issues in Minecraft
 date: 2024-06-13T19:08:57Z
-updated: 2025-08-27T17:40:42Z
+updated: 2025-12-02T17:32:05Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition

@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide to Menu Navigation in Minecraft: Bedrock Edition"
 date: 2021-03-29T22:47:37Z
-updated: 2024-07-09T16:32:52Z
+updated: 2025-12-02T17:45:42Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293

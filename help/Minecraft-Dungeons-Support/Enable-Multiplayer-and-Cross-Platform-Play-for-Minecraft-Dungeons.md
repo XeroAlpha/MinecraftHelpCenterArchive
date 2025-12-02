@@ -1,7 +1,7 @@
 ---
 title: Enable Multiplayer and Cross-Platform Play for Minecraft Dungeons
 date: 2021-09-22T23:12:15Z
-updated: 2024-04-25T16:19:49Z
+updated: 2025-12-02T17:38:29Z
 categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
