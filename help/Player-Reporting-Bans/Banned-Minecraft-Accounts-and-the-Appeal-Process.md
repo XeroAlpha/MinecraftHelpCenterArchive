@@ -1,7 +1,7 @@
 ---
 title: Banned Minecraft Accounts and the Appeal Process
 date: 2021-09-10T22:35:24Z
-updated: 2024-05-30T19:41:51Z
+updated: 2025-12-03T18:19:49Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181
@@ -33,7 +33,7 @@ Permanent bans will be issued to players found in the most severe or repeated vi
 
 If your account has been banned and you have a Realms Plus subscription, you should cancel your subscription so you will not be charged for content you cannot access.
 
-See our [How do I Cancel my Minecraft Realms Plus Subscription](../Manage-Realms-Subscriptions/Renew-an-Expired-Minecraft-Bedrock-Edition-Realms-Subscription.md#h_01FGCVE88JFXE24WPYJJHZGQ9W) article for instructions to cancel.
+See [Cancel Minecraft Realms Subscriptions](https://help.minecraft.net/hc/en-us/sections/36000025812877) for more information.
 
 ## Appealing an Account Ban
 

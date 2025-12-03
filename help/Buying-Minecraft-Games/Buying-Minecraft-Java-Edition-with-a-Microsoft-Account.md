@@ -1,7 +1,7 @@
 ---
 title: "Buying Minecraft: Java Edition with a Microsoft Account"
 date: 2020-11-30T19:54:38Z
-updated: 2025-02-20T21:48:01Z
+updated: 2025-12-03T18:22:51Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221

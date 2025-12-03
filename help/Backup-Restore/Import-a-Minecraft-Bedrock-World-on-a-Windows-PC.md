@@ -1,7 +1,7 @@
 ---
 title: "Import a Minecraft: Bedrock World on a Windows PC"
 date: 2025-10-15T18:54:59Z
-updated: 2025-10-16T20:42:32Z
+updated: 2025-12-03T18:26:04Z
 categories: Backup & Restore
 tags:
   - section_27166561402125

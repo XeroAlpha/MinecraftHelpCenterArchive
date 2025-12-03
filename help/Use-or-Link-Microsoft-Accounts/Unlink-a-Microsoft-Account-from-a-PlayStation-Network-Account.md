@@ -1,7 +1,7 @@
 ---
 title: Unlink a Microsoft Account from a PlayStation Network Account
 date: 2024-08-12T17:47:11Z
-updated: 2025-11-11T21:36:41Z
+updated: 2025-12-03T18:12:26Z
 categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft

@@ -1,7 +1,7 @@
 ---
 title: "Link Your Microsoft Account to Your PlayStation Network Account in Minecraft: Bedrock Edition"
 date: 2019-12-10T03:08:37Z
-updated: 2025-09-30T17:36:24Z
+updated: 2025-12-03T18:09:59Z
 categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft

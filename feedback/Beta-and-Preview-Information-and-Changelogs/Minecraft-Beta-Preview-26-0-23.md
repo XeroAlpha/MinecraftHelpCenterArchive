@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.0.23
 date: 2025-12-03T16:52:36Z
-updated: 2025-12-03T16:52:53Z
+updated: 2025-12-03T17:46:49Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/41627058435213-Minecraft-Beta-Preview-26-0-23
 hash:
@@ -205,7 +205,11 @@ It's time for another Preview and Beta release! For the full list of goodies, br
   - `minecraft:behavior.timer_flag_3`
   - `minecraft:behavior.move_towards_dwelling_restriction`
   - `minecraft:behavior.move_towards_home_restriction`
-- Float Range fields `cooldown_range` and `duration_range` in `minecraft:behavior.timer_flag_1`, `minecraft:behavior.timer_flag_2`, and `minecraft:behavior.timer_flag_3` now only accepts an object with `min` and `max` values. Other formats will fail to parse
+- Float Range fields `cooldown_range` and `duration_range` in   
+  `minecraft:behavior.timer_flag_1`,   
+  `minecraft:behavior.timer_flag_2`,  
+  and `minecraft:behavior.timer_flag_3`   
+  now only accepts an object with `min` and `max` values. Other formats will fail to parse
 
 ## API[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/31078/R26U0-1-Preview?anchor=api)
 

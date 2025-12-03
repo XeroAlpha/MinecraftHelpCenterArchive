@@ -1,7 +1,7 @@
 ---
 title: Disable Minecraft Add-Ons to Solve Game Issues
 date: 2024-02-14T18:05:57Z
-updated: 2025-10-06T23:05:11Z
+updated: 2025-12-03T18:14:54Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293
