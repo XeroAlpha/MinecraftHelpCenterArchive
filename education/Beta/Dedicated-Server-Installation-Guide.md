@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Installation Guide
 date: 2025-10-01T17:35:03Z
-updated: 2025-11-19T19:31:56Z
+updated: 2025-12-03T21:20:33Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Installation-Guide
 hash:
@@ -16,7 +16,7 @@ hash:
   h_01K6GD8G0FKPZH4TVQ7219CK1M: dedicated-server-allow-list-configuration
   h_01K6GD8G0HQG6S3ZQMKGA6DT30: manage-servers-sample-tooling
   h_01K6GD8G0KA94NX536BW1RSHAT: tooling-setup-and-sign-in
-  h_01K6GD8G0QTYD0M6T8WT2WAZ0N: toottling-basic-usage
+  h_01K6GD8G0QTYD0M6T8WT2WAZ0N: tooling-basic-usage
   h_01K6GD8G0W6EF96252PHAF7YC5: tooling-steps-to-set-and-unset-passcodes-for-servers
   h_01K6GD8G0Y5S5KN36NYA2D9WSH: tooling-server-deletion
   h_01K6GD8G0ZT34W39M8MCDVA4JQ: tooling-tenant-settings
@@ -195,7 +195,7 @@ The sample tooling features a set of actions in a Jupyter Notebook that you can 
 
 7.  At this point, the notebook is ready to start configuring server registrations, which are the entries in Minecraft Education’s services that will be used to communicate the details of your servers to clients when users visit the new Servers menu.
 
-### Toottling basic usage
+### Tooling basic usage
 
 1.  If you haven’t already, go through the steps in the “Dedicated server setup and sign in” and “Tooling setup and sign in” sections. They are required before you can do anything meaningful with the sample tooling notebook.
 
