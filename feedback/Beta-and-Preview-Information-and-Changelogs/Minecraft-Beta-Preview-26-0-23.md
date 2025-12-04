@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.0.23
 date: 2025-12-03T16:52:36Z
-updated: 2025-12-03T17:46:49Z
+updated: 2025-12-03T22:10:58Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/41627058435213-Minecraft-Beta-Preview-26-0-23
 hash:
@@ -25,7 +25,6 @@ hash:
   user-content-api: api
   user-content-biomes: biomes
   h_01KBJHEREVYF5GWJ9YKC590SYD: blocks-1
-  h_01KBJHEREVSRXEQ902AT04JY77: blocks-2
   user-content-components: components
   user-content-editor: editor
   user-content-entity-components: entity-components
@@ -236,10 +235,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - Updated `minecraft:redstone_consumer` renamed field `propogates_power` to `propagates_power` 
 - The option `alpha_masked_tint` in `minecraft:material_instances` no longer requires "Upcoming Creator Features"
-- Released `minecraft:redstone_consumer` from `experimental` for `format_version >= 1.26.0` 
-
-## Blocks[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/31078/R26U0-1-Preview?anchor=blocks)
-
+- Released `minecraft:redstone_consumer` from `experimental` for `format_version >= 1.26.0`[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/31078/R26U0-1-Preview?anchor=blocks)
 - Added `use_liquid_clipping` field to the `detection_rules` in `minecraft:liquid_detection` ([MCPE-191655](https://bugs.mojang.com/browse/MCPE-191655) )
   - "true" means the block will use the "collision_box" to visually clip the water
   - "false" ignores liquid clipping, which will render water across the whole block
