@@ -1,6 +1,7 @@
 ---
 title: Minecraft Java Edition - 1.21.11 Pre-Release 5
 date: 2025-12-04T12:26:33Z
+updated: 2025-12-04T15:45:21Z
 categories: Snapshot Information and Changelogs
 tags:
   - Java Edition
@@ -29,7 +30,7 @@ Cross-platform server jar:
 
 - [Minecraft server jar](https://piston-data.mojang.com/v1/objects/d62fa16c3bbb5c6809cbd45cd60f3396a9d543a3/server.jar)
 
-As we are [preparing to remove obfuscation from Java Edition](https://author-minecraftnet-prd02.adobecqms.net/content/minecraftnet/language-masters/en-us/article/removing-obfuscation-in-java-edition.html), you can also get a non-obfuscated experimental version of this snapshot using the Minecraft Launcher:
+As we are [preparing to remove obfuscation from Java Edition](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition), you can also get a non-obfuscated experimental version of this snapshot using the Minecraft Launcher:
 
 - [Download this zip file](https://piston-data.mojang.com/v1/objects/931df659128f913ce356d6036c318c5d9a039e85/1_21_11-pre5_unobfuscated.zip)
 - Unpack the folder into your "versions" folder of your local Minecraft application data folder
