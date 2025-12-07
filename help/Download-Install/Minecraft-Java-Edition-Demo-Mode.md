@@ -5,6 +5,8 @@ updated: 2024-02-27T20:49:46Z
 categories: Download & Install
 tags:
   - section_27166490706957
+  - section_28871651550221
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/4408948974989-Minecraft-Java-Edition-Demo-Mode
 hash:
   h_01GHMAQ9W4829X7RJ6C4978K9Z: if-you-are-stuck-on-the-demo-of-minecraft
