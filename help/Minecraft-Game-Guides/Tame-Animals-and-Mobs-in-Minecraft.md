@@ -1,20 +1,21 @@
 ---
 title: Tame Animals and Mobs in Minecraft
 date: 2020-07-16T18:23:31Z
-updated: 2025-06-20T22:31:12Z
+updated: 2025-12-09T21:01:46Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/360046353891-Tame-Animals-and-Mobs-in-Minecraft
 hash:
-  h_01JY7GMNESR5162QDSEEZP9180: taming
-  h_01JY7GMNES2VYK2YBEYQR3RB9X: wolf
-  h_01JY7GMNES3F5YG9Z8YF9BQNAE: cat
-  h_01JY7GMNES9Y5QA2Q34TNDPH43: horses-donkeys-and-mules
-  h_01JY7GMNESC2KEEXXZD7HGSMA3: llamas
-  h_01JY7GMNESY1585T3MESE00FAH: parrots
-  h_01JY7GMNES47A1ZVPDN7SQC69C: ghastlings-and-happy-ghasts
-  h_01JY7GMNESYBC9WDRPDP61YM55: additional-mob-resources
+  h_01KC24DXW6V9B62R1K57RS3693: taming
+  h_01KC24DXW7QER8QJSK8KFDZK7Q: wolves
+  h_01KC24DXW8XCGC1JA0W1H8TG3Q: cats
+  h_01KC24DXWAQVHSMGKKXV5YX2ZK: horses-donkeys-and-mules
+  h_01KC24DXWB3P19S6T3EGT4P40T: llamas
+  h_01KC24DXWC8K6576V600911J7X: nautiluses
+  h_01KC24DXWD12TD7ZW7ZPCCY1EJ: parrots
+  h_01KC24DXWEYX1EEB9QW4FB0T26: ghastlings-and-happy-ghasts
+  h_01KC24DXWFEY14RTG6A1TCCCNM: additional-mob-resources
 ---
 
 You can befriend and tame some animals and mobs in Minecraft if you give them their favorite food! You’ll know if you have a nearby animal’s favorite food if they follow and stare at you. Here’s how to tame them!
@@ -23,13 +24,13 @@ You can befriend and tame some animals and mobs in Minecraft if you give them th
 
 Here are the animals that can be tamed in Minecraft and how they interact:
 
-### Wolf
+### Wolves
 
 - **Wolves can be tamed by giving them bones**: You may need multiple bones, as just one does not guarantee their respect.
 - **Hearts and a red collar will appear after a wolf is tamed**: A tamed wolf will follow you and attack most (but not all!) hostile mobs and players.
 - **Interacting with a tamed wolf will cause them to sit**: A sitting wolf will remain in the instructed spot until you interact with them again.
 
-### Cat
+### Cats
 
 - **Cats can be tamed by giving them raw salmon or raw cod**: You may need multiple fish, as just one does not guarantee their love. Crouch-walk to present the fish, or the cat will be spooked and flee.
 - **Hearts and a red collar will appear after a cat is tamed**: A tamed cat will follow you, but will not attack others. They will deter nearby creepers and phantoms from attacking you.
@@ -48,6 +49,13 @@ Here are the animals that can be tamed in Minecraft and how they interact:
 - **Llamas are tamed by attempting to ride them**: Get close to one and interact to get on its back. They may buck you off, but if you keep getting on, they will eventually let you ride.
 - **Hearts will appear after a llama is tamed**: After they’re tamed, you can ride them, but they can’t be saddled.
 - **Llamas can be led and equipped**: Llamas can be equipped with a chest to carry more items. After you leash a llama, other llamas in the area will follow in a caravan.
+
+### Nautiluses
+
+- **Nautiluses can be tamed by giving them pufferfish or buckets of pufferfish**: You may need multiple fish as just one doesn’t guarantee their interest.
+- **Hearts will appear after a nautilus is tamed**: After they’re tamed, you can ride them, but you will need a saddle to direct them. If you don't have a saddle, you can use a lead to guide them and keep them from wandering away.
+- **Nautiluses can be equipped**: A nautilus can be equipped with a saddle to steer it and armor to protect it.
+- **You can breathe and dash like a nautilus**: While riding a nautilus, you share their ability to breathe underwater and can control their ability to dash. Dash like you would normally jump and hold the jump control for a longer dash.
 
 ### Parrots
 
