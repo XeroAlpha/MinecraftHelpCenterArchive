@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 1.21.130 - Mounts of Mayhem"
 date: 2025-11-26T15:55:38Z
-updated: 2025-12-09T16:52:01Z
+updated: 2025-12-09T18:45:16Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/41446685014669-Minecraft-Bedrock-Edition-1-21-130-Mounts-of-Mayhem
 hash:
@@ -327,6 +327,19 @@ Today Mounts of Mayhem charges into Minecraft, bringing a new weapon to wield, m
 - Fixed an issue where players could get temporarily stuck when adding members to a newly purchased Realm
 - Navigate players back to either the start screen or the settings screen when they confirm the message about not being able to connect to a network
 - Present players with the option to play using mobile data or to change their game settings if mobile data is disabled when attempting to join a newly purchased Realm
+- Introducing Realms Saves, a new and improved version of our previous backup system. Keep your Realms worlds safe with a new bank of cloud storage included with your Realms subscription. Realms saves come in two flavors:
+  - Automatic saves are functionally the same as our previous "backups" system:
+    - They are on by default - no need to enable anything to keep your Realm world safe with automatic saves.
+    - They are taken at the end of every Realms play session when the server shuts down, or every 30 minutes during a play session.
+    - They are only retained for a limited time, according to our retention policy (which has not changed with this update): [How Mojang Saves Backups for Your Minecraft Realm \| Minecraft Help](../../help/Manage-Realms-Worlds/How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
+    - They do not count towards your bank of cloud storage.
+    - All previous Realms backups will be converted to automatic saves.
+  - Manual saves are created by the Realm owner and count towards a bank of storage that comes with your Realms subscription.
+    - Manual saves are retained as long as your Realm is. They are not automatically deleted by our retention policy\*, but Realm owners can delete manual saves if they want to free up storage space.
+    - Realms Plus subscriptions come with 10GB of manual save storage and Realms core subscriptions come with 5GB.
+    - Automatic saves can be turned into manual saves by the Realm owner.
+  - Realms saves can be found in the Realms settings menu accessed via the "Edit Realm" button rather than the Realms world settings menu that backups used to show up in. While playing on the Realm, saves can also be found in the in-game settings menu for the Realm owner.
+  - Realms saves will also now list the world name and the packs that were applied at the time of the save.
 
 ### Settings
 
@@ -1032,14 +1045,3 @@ system.beforeEvents.startup.subscribe(init => {
 ### Graphical
 
 - Fixed an error where Marketplace content containing local_lighting.json could spam content errors ([MCPE-1498487](https://bugs.mojang.com/browse/MCPE-1498487))
-- Added Colored Static Block Lighting under the Render Dragon Features for Creators toggle
-  - Feature is only available in Previews and using Vibrant Visuals in worlds which the experiment toggle is active
-    - Temporarily disabled on Android and PlayStation due to technical issues
-  - Static lights can be defined in local_lighting.json using "light_type": "static_light"
-  - Blocks with the "point_light" light_type will also receive colored static lighting
-  - Static lighting follows Minecraft lighting rules and respects the minecraft:light_emission and minecraft:light_dampening block components
-  - Static lighting is additive/accumulated, so overlapping lights of different colors will cause lighting to get brighter
-    - Overlapping lights of the same type (i.e. same color and light_emission) will not cause lighting to get brighter
-  - Static lighting is not affected by stained glass or other translucent blocks
-  - The static lighting experimental feature is under development and may look or behave different as development progresses
-  - Learn more at <https://learn.microsoft.com/en-us/minecraft/creator/documents/vibrantvisuals/lightingcustomization>
