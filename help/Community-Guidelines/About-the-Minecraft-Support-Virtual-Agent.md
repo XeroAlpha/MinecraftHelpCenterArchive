@@ -1,11 +1,11 @@
 ---
-title: About the Minecraft Support Virtual Agent
+title: About Merl, the Minecraft Support Virtual Agent
 date: 2025-07-14T19:22:36Z
-updated: 2025-07-14T21:05:29Z
+updated: 2025-12-10T19:19:22Z
 categories: Community Guidelines
 tags:
   - section_27983753055117
-link: https://help.minecraft.net/hc/en-us/articles/38053285673229-About-the-Minecraft-Support-Virtual-Agent
+link: https://help.minecraft.net/hc/en-us/articles/38053285673229-About-Merl-the-Minecraft-Support-Virtual-Agent
 hash:
   h_01K053XFVAKENJRK3VFWA1AMDD: how-the-minecraft-support-virtual-agent-works
   h_01K05426MC7E02XZN3J509T0KN: limitations-of-the-minecraft-support-virtual-agent
@@ -15,7 +15,7 @@ hash:
   h_01K055JDNRT1BN7RCC02TJ0HBN: giving-feedback-about-the-minecraft-support-virtual-agent
 ---
 
-The Minecraft Support Virtual Agent is a conversational AI agent designed to help Minecraft players with their support questions related to Minecraft. The agent takes text or voice-based questions from players and uses generative AI to search through trusted knowledge bases (such as articles on the Minecraft Help website) to find the best answers. A player visiting the Minecraft Help website will see the green chat bubble button in the lower right corner of their screen, which when clicked will show a floating container with the Minecraft Support Virtual Agent chat experience.
+The Minecraft Support Virtual Agent, known as Merl, is a conversational AI agent designed to help Minecraft players with their support questions related to Minecraft. Merl takes text or voice-based questions from players and uses generative AI to search through trusted knowledge bases (such as articles on the Minecraft Help website) to find the best answers. A player visiting the Minecraft Help website will see the green chat bubble button in the lower right corner of their screen, which when clicked will show a floating container with the Minecraft Support Virtual Agent chat experience.
 
 ## How the Minecraft Support Virtual Agent Works
 

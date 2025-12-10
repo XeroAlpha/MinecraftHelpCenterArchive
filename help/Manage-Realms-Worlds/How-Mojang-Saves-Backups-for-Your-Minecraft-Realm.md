@@ -1,17 +1,17 @@
 ---
 title: How We Backup Your Minecraft Realms World
 date: 2024-07-25T20:29:46Z
-updated: 2025-12-09T17:43:24Z
-categories: Manage Realms Worlds
+updated: 2025-12-10T18:57:32Z
+categories: Manage Realm Save Files
 tags:
   - section_27166561402125
-  - section_37819421372941
+  - section_41828107127821
 link: https://help.minecraft.net/hc/en-us/articles/28717462139149-How-We-Backup-Your-Minecraft-Realms-World
 hash:
-  h_01KBZR5YC0P9D678FXVM8G84TG: keep-your-own-backup
+  h_01KBZR5YC0P9D678FXVM8G84TG: restore-a-minecraft-realm-world-save-file
 ---
 
-Minecraft Realms automatically creates a backup save of your world at regular intervals. This allows you to restore your world if something goes wrong.  
+Minecraft Realms automatically creates a backup save of your world at regular intervals. This allows you to restore your world if something goes wrong. You can also [Create a Manual Save of Your Minecraft: Bedrock Edition Realms World](./Create-a-Manual-Save-of-Your-Minecraft-Bedrock-Edition-Realms-World.md) or [Download a Realms world in Minecraft: Java Edition.](./Download-a-Realms-world-in-Minecraft-Java-Edition.md)
 
 We automatically save your progress:
 
@@ -30,12 +30,12 @@ We can’t keep all of your saves around forever, so the following retention pol
 
 A Realm world is downloadable within 18 months of your subscription expiring, but the world backups associated with that Realm will be deleted 30 days after your subscription expires.
 
-## Keep Your Own Backup
+## Restore a Minecraft Realm World Save File
 
-If you’d like to save a copy of your world indefinitely, we suggest you download your work to your local storage. To learn how to make your own backup or manage your manual or automated backups, see the articles below:
+If you want to restore a previous version of your Realm from a save file or learn how to manage your save files, see the articles below:
 
-- [Create a Manual Save of Your Minecraft: Bedrock Edition Realms World](./Create-a-Manual-Save-of-Your-Minecraft-Bedrock-Edition-Realms-World.md)
-- [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)
+- [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
+- [Restore a Backup Save of a Minecraft: Java Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)
+- [Find Your Realms World Saves in Minecraft: Bedrock Edition](./Find-Your-Realms-World-Saves-in-Minecraft-Bedrock-Edition.md)
 - [Find Your Minecraft: Java Edition Backup World](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md)
-- [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
-- [Restore an Automatic Backup of a Minecraft: Java Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)
+- [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)

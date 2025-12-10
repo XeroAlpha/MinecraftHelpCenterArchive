@@ -1,9 +1,11 @@
 ---
 title: "Download a Realms world in Minecraft: Java Edition"
 date: 2025-07-03T23:18:11Z
-categories: Manage Realms Worlds
+updated: 2025-12-10T19:41:14Z
+categories: Manage Realm Save Files
 tags:
   - section_37819421372941
+  - section_41828107127821
 link: https://help.minecraft.net/hc/en-us/articles/37820630255245-Download-a-Realms-world-in-Minecraft-Java-Edition
 ---
 

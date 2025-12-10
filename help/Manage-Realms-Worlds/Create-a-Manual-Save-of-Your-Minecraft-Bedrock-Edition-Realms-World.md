@@ -1,11 +1,11 @@
 ---
 title: "Create a Manual Save of Your Minecraft: Bedrock Edition Realms World"
 date: 2025-12-08T20:27:21Z
-updated: 2025-12-09T17:38:09Z
-categories: Manage Realms Worlds
+updated: 2025-12-10T21:25:53Z
+categories: Manage Realm Save Files
 tags:
   - section_27166561402125
-  - section_37819421372941
+  - section_41828107127821
 link: https://help.minecraft.net/hc/en-us/articles/41761209578125-Create-a-Manual-Save-of-Your-Minecraft-Bedrock-Edition-Realms-World
 hash:
   h_01KBZST344CWFHMWSSZY8R78M3: create-a-manual-save
@@ -22,7 +22,7 @@ Create manual saves of your Realm world in Minecraft: Bedrock Edition to store
 4.  Select your Realm and select **Settings**. 
 5.  Select **Manage Realm**.
 6.  Select **Saves**.
-7.  Select **Save Active World**. In the menu below, you will see options to select **Manual **or **Automatic**. In **Manual**, the saves you create will appear with the most recent saves at the top. 
+7.  Select **Save active world**. In the menu below, you will see options to select **Manual **or **Automatic**. In **Manual**, the saves you create will appear with the most recent saves at the top. 
 
 ## Delete a Manual Save 
 
@@ -35,4 +35,11 @@ Create manual saves of your Realm world in Minecraft: Bedrock Edition to store
 7.  Select the **kebob menu button **(three dots) to the right of the save file you wish to delete.
 8.  Select **Delete Save**.
 
-If you have an active Minecraft Realms subscription, your game will also create an automatic backup save file of your world at regular intervals. To learn more about automatic backup saves, visit [How We Backup Your Minecraft Realms World](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)**.**
+If you have an active Minecraft Realms subscription, your game will also create an automatic backup save file of your world at regular intervals. To learn more about Realms save files, see these articles:
+
+- [How We Backup Your Minecraft Realms World](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
+- [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
+- [Restore a Backup Save of a Minecraft: Java Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)
+- [Find Your Realms World Saves in Minecraft: Bedrock Edition](./Find-Your-Realms-World-Saves-in-Minecraft-Bedrock-Edition.md)
+- [Find Your Minecraft: Java Edition Backup World](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md)
+- [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)
