@@ -1,7 +1,7 @@
 ---
 title: "Find Your Realms World Saves in Minecraft: Bedrock Edition"
 date: 2025-12-08T21:25:33Z
-updated: 2025-12-08T21:28:35Z
+updated: 2025-12-10T18:52:19Z
 categories: Manage Realms Worlds
 tags:
   - section_37819421372941
@@ -21,6 +21,9 @@ Backup save files of your Realms world are stored in Realm storage, which keeps 
 5.   Select **Manage Realm**.
 6.  Select **Saves**.
 
-You have the option to view and manage both Manual and Automatic saves in this menu. Realm storage provides a limited amount of space for your saves. If you need to free up space, you can back up your world to local storage before deleting data from Realm storage. For instructions, see [Download a Realms World in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md).
+You have the option to view and manage both Manual and Automatic saves in this menu. Realm storage provides a limited amount of space for your saves. If you need to free up space, you can back up your world to local storage before deleting data from Realm storage. Resource packs do not increase the space your world occupies in Realm storage. When you download a saved world, both the world and its associated packs are included. See these resources for more information about managing your Realms world saves:
 
-Note that resource packs do not increase the space your world occupies in Realm storage. When you download a saved world, both the world and its associated packs are included.
+- [How We Backup Your Minecraft Realms World](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
+- [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
+- [Download a Realms World in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)
+- [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)
