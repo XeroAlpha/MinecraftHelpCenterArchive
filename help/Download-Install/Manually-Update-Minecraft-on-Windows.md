@@ -1,7 +1,7 @@
 ---
-title: Manually Update Minecraft on Windows
+title: "Manually Update Minecraft: Bedrock Edition on PC"
 date: 2024-04-01T19:09:34Z
-updated: 2025-05-28T18:54:13Z
+updated: 2025-12-09T22:24:24Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -12,18 +12,18 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166490706957
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/25519964899597-Manually-Update-Minecraft-on-Windows
+link: https://help.minecraft.net/hc/en-us/articles/25519964899597-Manually-Update-Minecraft-Bedrock-Edition-on-PC
+hash:
+  h_01KC2HV3P6K5XWN2069TWD02QG: how-to-manually-update-minecraft-bedrock-edition-on-pc
 ---
 
-To play the newest content in Minecraft, your game needs to be updated to the most recent version. This should happen automatically while your device is in standby mode or in use while connected to an active Internet connection. However, if you need to manually update your game on Windows, you can follow the steps below.
+When new content is released for Minecraft: Bedrock Edition, you'll need to update your game to play. Updates normally happen automatically through the Launcher while your device is in standby mode or in use with an active internet connection. You may need to select **Update** on the Launcher to start the download and install process if the Launcher has not been opened.
 
-1.  Go to the Start Menu.
-2.  Right click on the Minecraft Launcher.
-3.  Select **More.**
-4.  Open **App Settings.**
-5.  Within these settings, click on **Repair and Reset.**
+If you do not see the option to select Update and know there is a newer version of Minecraft available, here’s how to manually download the newest version.
 
-If your launcher update stalls, you can reset the Microsoft Store using these steps:
+## How to manually update Minecraft: Bedrock Edition on PC
 
-1.  Press the **Windows key** + **R** simultaneously.
-2.  A window will appear. Type in **WSReset** and hit enter.
+1.  Open the Minecraft Launcher.
+2.  Select **Minecraft: Bedrock Edition** from the left tabs.
+3.  Select **Installation** from the top tabs.
+4.  Select **Check for Updates** for your Minecraft installation.

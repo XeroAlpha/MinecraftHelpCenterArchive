@@ -1,7 +1,7 @@
 ---
 title: Manually Update Minecraft on Mobile Devices
 date: 2021-09-14T00:17:35Z
-updated: 2025-12-01T22:57:19Z
+updated: 2025-12-09T22:32:00Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -14,31 +14,20 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4409172223501-Manually-Update-Minecraft-on-Mobile-Devices
 hash:
-  h_01J0BX0EQMTFTECRVQY4YT4CHM: manually-update-minecraft-on-ios
-  h_01J0BX2VACD04TXPEGQ31TJ970: manually-update-minecraft-on-the-google-play-store
+  h_01KC2GZYBXK0WW44JHNYS8BPSK: additional-mobile-device-resources
 ---
 
-Most of the time, your device should automatically update Minecraft. However, some settings and other situations can prevent automatic updates. Here is how to manually update Minecraft to the most recent version on your mobile device if necessary.
+Your iPhone, iPad, or Android mobile device will normally update Minecraft automatically. If you need to manually update to the most recent version, follow the instructions from your mobile OS manufacturer:
 
-**Note:** if you are unsure if you are running the latest version of Minecraft, start the game and the version number will be displayed in the bottom right corner of the title screen.
+- **Android**: [How to update apps on Android](https://support.google.com/googleplay/answer/113412?hl=en)
+- **iOS**: [How to manually update apps from the App Store](https://support.apple.com/en-us/102629)
 
-## Manually update Minecraft on iOS
+To determine if you are running the latest version of Minecraft, start the game and note the version number displayed in the bottom-right corner of the launch screen. This should match the version number in Minecraft’s store listing:
 
-For iOS device requirements, see [iOS Operating System Requirements for Minecraft](./iOS-Operating-System-Requirements-for-Minecraft.md).
+- **Google Play Store**: Look in the about this game section of [Minecraft: Dream it, Build it! - Apps on Google Play](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)
+- **iOS App Store**: Look in the version history section of [Minecraft: Dream it, Build it! on the App Store](https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143)
 
-1.  Open the App Store.
-2.  Tap on your account profile in the top right.
-3.  Scroll down to automatic updates and find your pending Minecraft update.
-4.  Press **Update**.
+## Additional mobile device resources
 
-## Manually update Minecraft on the Google Play Store
-
-For Android device requirements, see [Minecraft: Bedrock Edition for Android Requirements and Troubleshooting](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md).
-
-1.  Open the Google Play Store.
-2.  Tap your account profile in the top right.
-3.  Tap **Manage apps & devices**.
-4.  Tap **Updates available**.
-5.  Find Minecraft and tap **Update**.
-
-For updating on PC, [Manually Update Minecraft on Windows](./Manually-Update-Minecraft-on-Windows.md).
+- [iOS Operating System Requirements for Minecraft](./iOS-Operating-System-Requirements-for-Minecraft.md)
+- [Minecraft: Bedrock Edition for Android Requirements and Troubleshooting](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md)

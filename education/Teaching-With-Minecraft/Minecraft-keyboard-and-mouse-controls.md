@@ -1,7 +1,7 @@
 ---
 title: Minecraft keyboard and mouse controls
 date: 2020-08-10T08:36:23Z
-updated: 2024-05-22T22:14:50Z
+updated: 2025-12-09T23:08:06Z
 categories: Teaching With Minecraft
 tags:
   - controls
@@ -30,11 +30,11 @@ This article will cover:
 
 **W - **Move forward
 
-**A - **Strafe left
+**A -**  Move sideways left
 
-**S - **Move backward
+**S - ** Move backward
 
-**D - **Strafe right
+**D - **Move sideways right
 
 **CONTROL - **Sprint
 
