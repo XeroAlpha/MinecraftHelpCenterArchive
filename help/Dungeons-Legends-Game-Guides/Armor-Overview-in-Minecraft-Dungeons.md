@@ -1,7 +1,7 @@
 ---
 title: Armor Overview in Minecraft Dungeons
 date: 2021-04-08T17:15:21Z
-updated: 2024-07-04T20:29:19Z
+updated: 2025-12-11T20:46:45Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
@@ -18,7 +18,8 @@ Most armor has at least two or three attributes, this does not include enchantm
 
 ![blobid2.jpg](https://minecrafthelp.zendesk.com/hc/article_attachments/360091936631)
 
-<table style="font-weight: 400; width: 588px;" data-border="1" data-tablestyle="MsoNormalTable" data-tablelook="1184" aria-rowcount="7">
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="width: 588px;">
+<table style="border-style: solid; border-width: 1px; font-weight: 400;" data-tablestyle="MsoNormalTable" data-tablelook="1184" aria-rowcount="7">
 <colgroup>
 <col style="width: 20%" />
 <col style="width: 20%" />
@@ -28,66 +29,67 @@ Most armor has at least two or three attributes, this does not include enchantm
 </colgroup>
 <tbody>
 <tr aria-rowindex="1">
-<td style="width: 140.667px" data-celllook="69905"><p><strong>Armor and Rarity</strong> </p></td>
-<td style="width: 74.6667px"><p><strong>Rarity</strong></p></td>
-<td style="width: 56.6667px" data-celllook="69905"><p><strong>Health</strong> </p></td>
-<td style="width: 64.6667px"><p><strong>Power</strong></p></td>
-<td style="width: 197.333px" data-celllook="69905"><p><strong>Traits</strong> </p></td>
+<td style="border-style: solid; border-width: 1px; width: 140.667px" data-celllook="69905"><strong>Armor and Rarity</strong> </td>
+<td style="border-style: solid; border-width: 1px; width: 74.6667px"><strong>Rarity</strong></td>
+<td style="border-style: solid; border-width: 1px; width: 56.6667px" data-celllook="69905"><strong>Health</strong> </td>
+<td style="border-style: solid; border-width: 1px; width: 64.6667px"><strong>Power</strong></td>
+<td style="border-style: solid; border-width: 1px; width: 197.333px" data-celllook="69905"><strong>Traits</strong> </td>
 </tr>
 <tr aria-rowindex="2">
-<td style="width: 140.667px" data-celllook="69905"><p>Hunter's Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937111" alt="HuntersArmor.webp" /></p></td>
-<td style="width: 74.6667px"><p>(Common <br />
-Rare)</p></td>
-<td style="width: 56.6667px" data-celllook="69905"><p>243</p></td>
-<td style="width: 64.6667px"><p>36</p></td>
-<td style="width: 197.333px" data-celllook="69905"><p>+10 arrows per bundle <br />
-+30% ranged damage </p></td>
+<td style="border-style: solid; border-width: 1px; width: 140.667px" data-celllook="69905">Hunter's Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937111" alt="HuntersArmor.webp" /></td>
+<td style="border-style: solid; border-width: 1px; width: 74.6667px">(Common <br />
+Rare)</td>
+<td style="border-style: solid; border-width: 1px; width: 56.6667px" data-celllook="69905">243</td>
+<td style="border-style: solid; border-width: 1px; width: 64.6667px">36</td>
+<td style="border-style: solid; border-width: 1px; width: 197.333px" data-celllook="69905">+10 arrows per bundle <br />
++30% ranged damage </td>
 </tr>
 <tr aria-rowindex="3">
-<td style="width: 140.667px" data-celllook="69905"><p>Scale Mail<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941832" alt="ScaleMail_3D_.webp" /></p></td>
-<td style="width: 74.6667px"><p>(Common <br />
-Rare)</p></td>
-<td style="width: 56.6667px" data-celllook="69905"><p>323 </p></td>
-<td style="width: 64.6667px"><p>42</p></td>
-<td style="width: 197.333px" data-celllook="69905"><p>30% damage reduction <br />
-+30% melee damage </p></td>
+<td style="border-style: solid; border-width: 1px; width: 140.667px" data-celllook="69905">Scale Mail<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941832" alt="ScaleMail_3D_.webp" /></td>
+<td style="border-style: solid; border-width: 1px; width: 74.6667px">(Common <br />
+Rare)</td>
+<td style="border-style: solid; border-width: 1px; width: 56.6667px" data-celllook="69905">323 </td>
+<td style="border-style: solid; border-width: 1px; width: 64.6667px">42</td>
+<td style="border-style: solid; border-width: 1px; width: 197.333px" data-celllook="69905">30% damage reduction <br />
++30% melee damage </td>
 </tr>
 <tr aria-rowindex="4">
-<td style="width: 140.667px" data-celllook="69905"><p>Evocation Robe<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941932" alt="blobid5.png" /></p></td>
-<td style="width: 74.6667px"><p>(Common <br />
-Rare) </p></td>
-<td style="width: 56.6667px" data-celllook="69905"><p>266  </p></td>
-<td style="width: 64.6667px"><p>38</p></td>
-<td style="width: 197.333px" data-celllook="69905"><p>-25% artifact cooldown <br />
-+15% move speed aura </p></td>
+<td style="border-style: solid; border-width: 1px; width: 140.667px" data-celllook="69905">Evocation Robe<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941932" alt="blobid5.png" /></td>
+<td style="border-style: solid; border-width: 1px; width: 74.6667px">(Common <br />
+Rare) </td>
+<td style="border-style: solid; border-width: 1px; width: 56.6667px" data-celllook="69905">266  </td>
+<td style="border-style: solid; border-width: 1px; width: 64.6667px">38</td>
+<td style="border-style: solid; border-width: 1px; width: 197.333px" data-celllook="69905">-25% artifact cooldown <br />
++15% move speed aura </td>
 </tr>
 <tr aria-rowindex="5">
-<td style="width: 140.667px" data-celllook="69905"><p>Thief Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941972" alt="blobid6.png" /></p></td>
-<td style="width: 74.6667px"><p>(Common <br />
-Rare) </p></td>
-<td style="width: 56.6667px" data-celllook="69905"><p>347</p></td>
-<td style="width: 64.6667px"><p>43</p></td>
-<td style="width: 197.333px" data-celllook="69905"><p>+25% melee attack speed </p></td>
+<td style="border-style: solid; border-width: 1px; width: 140.667px" data-celllook="69905">Thief Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091941972" alt="blobid6.png" /></td>
+<td style="border-style: solid; border-width: 1px; width: 74.6667px">(Common <br />
+Rare) </td>
+<td style="border-style: solid; border-width: 1px; width: 56.6667px" data-celllook="69905">347</td>
+<td style="border-style: solid; border-width: 1px; width: 64.6667px">43</td>
+<td style="border-style: solid; border-width: 1px; width: 197.333px" data-celllook="69905">+25% melee attack speed </td>
 </tr>
 <tr aria-rowindex="6">
-<td style="width: 140.667px" data-celllook="69905"><p>Wolf Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937391" alt="blobid7.png" /></p></td>
-<td style="width: 74.6667px"><p>(Common <br />
-Rare)</p></td>
-<td style="width: 56.6667px" data-celllook="69905"><p>466</p></td>
-<td style="width: 64.6667px"><p>49</p></td>
-<td style="width: 197.333px" data-celllook="69905"><p>+20% weapon damage boost aura <br />
-Health potions heal nearby allies </p></td>
+<td style="border-style: solid; border-width: 1px; width: 140.667px" data-celllook="69905">Wolf Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937391" alt="blobid7.png" /></td>
+<td style="border-style: solid; border-width: 1px; width: 74.6667px">(Common <br />
+Rare)</td>
+<td style="border-style: solid; border-width: 1px; width: 56.6667px" data-celllook="69905">466</td>
+<td style="border-style: solid; border-width: 1px; width: 64.6667px">49</td>
+<td style="border-style: solid; border-width: 1px; width: 197.333px" data-celllook="69905">+20% weapon damage boost aura <br />
+Health potions heal nearby allies </td>
 </tr>
 <tr aria-rowindex="7">
-<td style="width: 140.667px" data-celllook="69905"><p>Spelunker Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937431" alt="blobid8.png" /></p></td>
-<td style="width: 74.6667px"><p>(Common <br />
-Rare)</p></td>
-<td style="width: 56.6667px" data-celllook="69905"><p>334</p></td>
-<td style="width: 64.6667px"><p>42</p></td>
-<td style="width: 197.333px" data-celllook="69905"><p>+20% weapon damage boost aura <br />
-Gives you a pet bat </p></td>
+<td style="border-style: solid; border-width: 1px; width: 140.667px" data-celllook="69905">Spelunker Armor<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/360091937431" alt="blobid8.png" /></td>
+<td style="border-style: solid; border-width: 1px; width: 74.6667px">(Common <br />
+Rare)</td>
+<td style="border-style: solid; border-width: 1px; width: 56.6667px" data-celllook="69905">334</td>
+<td style="border-style: solid; border-width: 1px; width: 64.6667px">42</td>
+<td style="border-style: solid; border-width: 1px; width: 197.333px" data-celllook="69905">+20% weapon damage boost aura <br />
+Gives you a pet bat </td>
 </tr>
 </tbody>
 </table>
+</figure>
 
 Certain armor is more likely to be found in specific areas. You may also get the same armor multiple times; however, the level of the armor and its attributes may be different. These are some of the types of armor you will see in the game but there are plenty more types of armor and gear to be discovered. Choose the best one to get you through the battles ahead.
