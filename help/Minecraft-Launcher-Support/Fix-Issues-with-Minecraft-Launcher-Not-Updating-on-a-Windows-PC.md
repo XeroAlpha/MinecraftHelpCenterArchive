@@ -1,7 +1,7 @@
 ---
 title: Fix Issues with Minecraft Launcher Not Updating on a Windows PC
 date: 2025-12-09T21:59:18Z
-updated: 2025-12-09T22:02:05Z
+updated: 2025-12-11T23:59:36Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166490706957
@@ -10,6 +10,7 @@ link: https://help.minecraft.net/hc/en-us/articles/41799770358925-Fix-Issues-wit
 hash:
   h_01KC2HZH0M4RDEY19BND6D8XCX: repair-and-reset-the-minecraft-launcher
   h_01KC2HZH0RDWGA7FN6B3H19XP6: reset-the-microsoft-store
+  h_01KC7XHDCN8AM2G3X8AWC36EE0: use-the-gaming-services-repair-tool
 ---
 
 When there’s an update for the Minecraft Launcher, it will normally download and install automatically when you open it. If the Launcher freezes or stalls while updating, here are suggestions to fix it.
@@ -32,3 +33,7 @@ If your launcher update still doesn’t complete after the Repair and Reset proc
 2.  Enter **WSReset**.
 3.  Select **OK**.
 4.  Open the Minecraft Launcher after the repair operation is completed.
+
+## Use the Gaming Services Repair Tool
+
+Minecraft uses Xbox services to deliver game updates. Running the [Gaming Services Repair Tool](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool) can fix issues with updating the Launcher or Minecraft.

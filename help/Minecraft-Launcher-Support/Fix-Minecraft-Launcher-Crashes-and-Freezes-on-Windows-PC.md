@@ -1,12 +1,13 @@
 ---
 title: Fix Minecraft Launcher Crashes and Freezes on Windows PC
 date: 2024-01-22T20:02:48Z
-updated: 2025-08-27T17:48:23Z
+updated: 2025-12-12T00:01:42Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
 link: https://help.minecraft.net/hc/en-us/articles/23430310790413-Fix-Minecraft-Launcher-Crashes-and-Freezes-on-Windows-PC
 hash:
+  h_01KC7XHDCN8AM2G3X8AWC36EE0: use-the-gaming-services-repair-tool
   h_01K3HNKT4Z7S9WNGKRM9XA45ZS: repair-the-minecraft-launcher-app-in-windows
   h_01K3HNKT4ZYGA6QD69XF8HDTD6: reinstall-the-minecraft-launcher
   h_01K3HNKT4ZSE33TJED2EJAAFZ2: reset-the-microsoft-store-app
@@ -14,6 +15,10 @@ hash:
 ---
 
 If the Minecraft Launcher for Windows crashes, freezes, or you get the error “This App Can’t Open,” you can repair the application or reinstall the launcher. The Minecraft Launcher relies on the Microsoft Store app, so resetting the cache may also fix the issue. Attempt each suggestion below one at a time.
+
+## Use the Gaming Services Repair Tool
+
+Minecraft uses Xbox services to deliver game updates. Running the [Gaming Services Repair Tool](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool) can fix issues with game updates for the Launcher or Minecraft freezing or stopping. 
 
 ## Repair the Minecraft Launcher app in Windows
 
