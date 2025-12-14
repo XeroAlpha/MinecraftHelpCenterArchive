@@ -13,7 +13,7 @@ hash:
 
 Minecraft Beta and Preview allow you to playtest in-development features of Minecraft: Bedrock Edition before they are included in a game release. Learn how to download and install them from these articles:
 
-- [Install & Play Minecraft Beta or Preview on Mobile Devices](./How-to-Install-Minecraft-Preview.md)
+- [Install & Play Minecraft Beta or Preview on Mobile Devices](./Install-Play-Minecraft-Beta-or-Preview-on-Mobile-Devices.md)
 - [Install & Play Minecraft Preview on Windows PC](./Install-Play-Minecraft-Preview-on-Windows-PC.md)
 
 ## Minecraft Beta & Preview Differences and Information
@@ -23,4 +23,4 @@ Minecraft Beta and Preview allow you to playtest in-development features of Mine
 - **Customer support**: Minecraft Beta and Preview include features that are still in development, so you may encounter unexpected behavior or bugs that are outside the scope of customer support. You can help improve Minecraft by sharing [Minecraft Feedback](https://feedback.minecraft.net/hc/en-us) or [Submitting a Bug Report](../../feedback/Gameplay-and-Support-Resources/Submitting-a-Bug-Report.md).
 - **New feature lists**: To learn what’s new in each version, see [Beta and Preview Information and Changelogs](https://feedback.minecraft.net/hc/en-us/sections/360001185332-Beta-and-Preview-Information-and-Changelogs).
 
-To playtest Java features in-development, see [Install & Play Minecraft: Java Edition Snapshots](./How-to-Install-Minecraft-Java-Edition-Snapshots.md).
+To playtest Java features in-development, see [Install & Play Minecraft: Java Edition Snapshots](./Install-Play-Minecraft-Java-Edition-Snapshots.md).

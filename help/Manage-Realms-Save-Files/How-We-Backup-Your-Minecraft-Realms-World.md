@@ -2,7 +2,7 @@
 title: How We Backup Your Minecraft Realms World
 date: 2024-07-25T20:29:46Z
 updated: 2025-12-10T18:57:32Z
-categories: Manage Realm Save Files
+categories: Manage Realms Save Files
 tags:
   - section_27166561402125
   - section_41828107127821
@@ -34,8 +34,8 @@ A Realm world is downloadable within 18 months of your subscription expi
 
 If you want to restore a previous version of your Realm from a save file or learn how to manage your save files, see the articles below:
 
-- [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
-- [Restore a Backup Save of a Minecraft: Java Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)
+- [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
+- [Restore a Backup Save of a Minecraft: Java Edition Realm World](./Restore-a-Backup-Save-of-a-Minecraft-Java-Edition-Realm-World.md)
 - [Find Your Realms World Saves in Minecraft: Bedrock Edition](./Find-Your-Realms-World-Saves-in-Minecraft-Bedrock-Edition.md)
 - [Find Your Minecraft: Java Edition Backup World](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md)
 - [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)

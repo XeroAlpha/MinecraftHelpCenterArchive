@@ -33,7 +33,7 @@ You may encounter problems connecting to multiplayer games if all players arenâ€
 - **Manually update your game**: See these articles for additional help:
   - [Manually Update Minecraft on Mobile Devices](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
   - [Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
-  - [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-Bedrock-Edition-on-PC.md)
 
 ## Check account permissions and subscriptions
 

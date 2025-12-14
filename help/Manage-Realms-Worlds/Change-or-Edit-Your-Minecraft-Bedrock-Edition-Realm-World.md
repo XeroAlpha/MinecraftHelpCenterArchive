@@ -28,13 +28,13 @@ Game Settings:
 - **Manage difficulty**: Choose from peaceful, easy, normal, or hard.
 - **Manage the world’s game mode**: See [All Game Modes in Minecraft](../Minecraft-Game-Guides/All-Game-Modes-in-Minecraft.md).
 - **Change other world settings**: Settings available include disabling Friendly Fire, changing the percentage of players needed to skip night, and enabling cheats.
-- **Download your world**: This will add it to your singleplayer worlds. See [Download Your Minecraft Realms World](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md).
+- **Download your world**: This will add it to your singleplayer worlds. See [Download Your Minecraft Realms World](../Manage-Realms-Save-Files/Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md).
 - **Upload a world for Realm play**: See [Upload a World to a Minecraft: Bedrock Edition Realm](./Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md).
 
 Backups:
 
-- **Download a previous version of your world**: See [Download a Realms world in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md).
-- **Replace your current world with a previous version**: See [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
+- **Download a previous version of your world**: See [Download a Realms world in Minecraft: Bedrock Edition](../Manage-Realms-Save-Files/Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md).
+- **Replace your current world with a previous version**: See [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm](../Manage-Realms-Save-Files/Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
 
 Resource Packs:
 

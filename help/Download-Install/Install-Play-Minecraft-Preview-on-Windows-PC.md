@@ -10,7 +10,7 @@ hash:
   h_01KBZXBWAHEWG44HFEWANV2FA3: how-to-install-and-play-minecraft-preview
 ---
 
-Minecraft Preview allows you to play an in-development version of Minecraft: Bedrock Edition and test features before they’re fully released on Windows PCs. [Learn About Minecraft Beta and Preview](./What-to-Know-About-Minecraft-Preview.md).
+Minecraft Preview allows you to play an in-development version of Minecraft: Bedrock Edition and test features before they’re fully released on Windows PCs. [Learn About Minecraft Beta and Preview](./Learn-About-Minecraft-Beta-and-Preview.md).
 
 ## How to install and play Minecraft Preview
 

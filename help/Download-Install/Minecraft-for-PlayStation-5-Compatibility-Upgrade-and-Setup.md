@@ -77,8 +77,8 @@ If you do not provide authorization and do not sign into Minecraft on your PS5 a
 
 If you wish to make purchases from the Minecraft Store, you need to use the live version for PS5. The Minecraft Store is not supported on the PS5 version of Minecraft Preview. However, all of your resource and behavior pack purchases made in the live version can be imported into PS5 Preview at any time from the Worlds tab. To learn more about Minecraft Preview, see these articles:
 
-- [How to Install Minecraft Preview](./How-to-Install-Minecraft-Preview.md)
-- [What to Know About Minecraft Preview](./What-to-Know-About-Minecraft-Preview.md)
+- [How to Install Minecraft Preview](./Install-Play-Minecraft-Beta-or-Preview-on-Mobile-Devices.md)
+- [What to Know About Minecraft Preview](./Learn-About-Minecraft-Beta-and-Preview.md)
 - [How to Start a Minecraft Preview/Beta Realm](../Create-or-Join-Realms/Start-a-Minecraft-Preview-Beta-Realm.md)
 
 ## Playing Minecraft in PlayStation VR

@@ -11,7 +11,7 @@ hash:
   h_01KBZH5JPES3Z1W7AFFSCWB727: how-to-play-multiplayer-snapshots
 ---
 
-Minecraft: Java Edition Snapshots allow you to play in-development versions and features of Minecraft before they are fully released if you own the full version of Minecraft: Java Edition. See [Learn about Minecraft Snapshots](https://help.minecraft.net/hc/en-us/articles/41754960989581) for details. Here’s how to install and play the latest Snapshot in singleplayer or multiplayer.
+Minecraft: Java Edition Snapshots allow you to play in-development versions and features of Minecraft before they are fully released if you own the full version of Minecraft: Java Edition. See [Learn about Minecraft Snapshots](./Learn-about-Minecraft-Snapshots.md) for details. Here’s how to install and play the latest Snapshot in singleplayer or multiplayer.
 
 ## How to install and play the newest Snapshot
 

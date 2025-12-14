@@ -39,7 +39,7 @@ Refer to the resources below for instructions on how to manually update your gam
 
 - [Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
 - [Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
-- [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+- [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-Bedrock-Edition-on-PC.md)
 
 ## Check server status
 

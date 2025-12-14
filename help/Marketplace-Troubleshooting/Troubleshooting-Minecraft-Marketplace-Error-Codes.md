@@ -21,7 +21,7 @@ Try the following tips when you get an error in the Minecraft Marketplace:
 - **Clear your cache:** See [Clear Your Minecraft Marketplace Cache](./Clear-Your-Minecraft-Marketplace-Cache.md) for instructions.
 - **Check your game version**: Make sure that your game is up to date and running the latest version of Minecraft. See the below links for help updating your game.
   - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
-  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-Bedrock-Edition-on-PC.md)
   - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
 - **Check account sign-in**: Make sure your game is linked to a Microsoft account. You can check this by going to the main menu, then selecting the sign-in button towards the bottom right. See [Accounts & Sign-in](https://help.minecraft.net/hc/en-us/categories/12617305106701) for help.
 - **Restart your system**: Sign out of and fully close Minecraft, reset your device, and attempt to sign in again.

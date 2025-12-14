@@ -11,7 +11,7 @@ hash:
   h_01KBZWNZKEJ75JX4HDP6D581J9: how-to-sign-up-for-minecraft-preview-on-ios
 ---
 
-Minecraft Beta and Minecraft Preview allow you to play an in-development version of Minecraft: Bedrock Edition and test features before they’re fully released on Android and iOS devices. [Learn About Minecraft Beta and Preview](./What-to-Know-About-Minecraft-Preview.md).
+Minecraft Beta and Minecraft Preview allow you to play an in-development version of Minecraft: Bedrock Edition and test features before they’re fully released on Android and iOS devices. [Learn About Minecraft Beta and Preview](./Learn-About-Minecraft-Beta-and-Preview.md).
 
 ## How to join Minecraft Beta on Android
 

@@ -133,7 +133,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Chain
 
 - **What it means**: The server or player you're trying to connect with has a different version of Minecraft. 
-- **How to troubleshoot**: Update Minecraft to the latest version. See [How to Manually Update Minecraft on Consoles,](../Download-Install/Manually-Update-Minecraft-on-Consoles.md) [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md), or [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md).
+- **How to troubleshoot**: Update Minecraft to the latest version. See [How to Manually Update Minecraft on Consoles,](../Download-Install/Manually-Update-Minecraft-on-Consoles.md) [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-Bedrock-Edition-on-PC.md), or [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md).
 
 ### Chest
 

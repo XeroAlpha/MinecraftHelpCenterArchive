@@ -331,7 +331,7 @@ Today Mounts of Mayhem charges into Minecraft, bringing a new weapon to wield, m
   - Automatic saves are functionally the same as our previous "backups" system:
     - They are on by default - no need to enable anything to keep your Realm world safe with automatic saves.
     - They are taken at the end of every Realms play session when the server shuts down, or every 30 minutes during a play session.
-    - They are only retained for a limited time, according to our retention policy (which has not changed with this update): [How Mojang Saves Backups for Your Minecraft Realm \| Minecraft Help](../../help/Manage-Realms-Worlds/How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
+    - They are only retained for a limited time, according to our retention policy (which has not changed with this update): [How Mojang Saves Backups for Your Minecraft Realm \| Minecraft Help](../../help/Manage-Realms-Save-Files/How-We-Backup-Your-Minecraft-Realms-World.md)
     - They do not count towards your bank of cloud storage.
     - All previous Realms backups will be converted to automatic saves.
   - Manual saves are created by the Realm owner and count towards a bank of storage that comes with your Realms subscription.

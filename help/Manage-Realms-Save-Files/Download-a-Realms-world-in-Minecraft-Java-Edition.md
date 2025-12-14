@@ -2,7 +2,7 @@
 title: "Download a Realms world in Minecraft: Java Edition"
 date: 2025-07-03T23:18:11Z
 updated: 2025-12-10T19:41:14Z
-categories: Manage Realm Save Files
+categories: Manage Realms Save Files
 tags:
   - section_37819421372941
   - section_41828107127821
@@ -22,5 +22,5 @@ The world will be downloaded and added to your singleplayer worlds. See [Locati
 **Additional Backup and Restore Resources**
 
 - [Download a Realms world in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)
-- [How Mojang Saves Backups for Your Minecraft Realm](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [Upload a World to a Minecraft: Java Edition Realm](./Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md)
+- [How Mojang Saves Backups for Your Minecraft Realm](./How-We-Backup-Your-Minecraft-Realms-World.md)
+- [Upload a World to a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md)

@@ -40,7 +40,7 @@ Worlds tab:
 
 - **Change your active world slot**: The active world has the biggest portrait. Select another one to switch.
 - **World options**: See [Change or edit your Minecraft Java Edition Realm World](../Manage-Realms-Worlds/Change-or-Edit-Your-Minecraft-Java-Edition-Realm-World.md)
-- **World Backups**: Manage your automatic world saves. See [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World.md) and [Download a Realms world in Minecraft: Java Edition](../Manage-Realms-Worlds/Download-a-Realms-world-in-Minecraft-Java-Edition.md).
+- **World Backups**: Manage your automatic world saves. See [How to Find and Restore a Backup of a Minecraft: Java Edition Realm](../Manage-Realms-Save-Files/Restore-a-Backup-Save-of-a-Minecraft-Java-Edition-Realm-World.md) and [Download a Realms world in Minecraft: Java Edition](../Manage-Realms-Save-Files/Download-a-Realms-world-in-Minecraft-Java-Edition.md).
 - **Reset World**: Overwrite the current world with a new or existing one. See [Upload a World to a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md).
 
 Players tab:

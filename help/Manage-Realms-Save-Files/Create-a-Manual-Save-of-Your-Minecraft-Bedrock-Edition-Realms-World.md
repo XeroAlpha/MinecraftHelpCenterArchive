@@ -2,7 +2,7 @@
 title: "Create a Manual Save of Your Minecraft: Bedrock Edition Realms World"
 date: 2025-12-08T20:27:21Z
 updated: 2025-12-10T21:25:53Z
-categories: Manage Realm Save Files
+categories: Manage Realms Save Files
 tags:
   - section_27166561402125
   - section_41828107127821
@@ -37,9 +37,9 @@ Create manual saves of your Realm world in Minecraft: Bedrock Edition to store
 
 If you have an active Minecraft Realms subscription, your game will also create an automatic backup save file of your world at regular intervals. To learn more about Realms save files, see these articles:
 
-- [How We Backup Your Minecraft Realms World](./How-Mojang-Saves-Backups-for-Your-Minecraft-Realm.md)
-- [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
-- [Restore a Backup Save of a Minecraft: Java Edition Realm World](./Restore-an-Automatic-Backup-of-a-Minecraft-Java-Edition-Realm-World.md)
+- [How We Backup Your Minecraft Realms World](./How-We-Backup-Your-Minecraft-Realms-World.md)
+- [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
+- [Restore a Backup Save of a Minecraft: Java Edition Realm World](./Restore-a-Backup-Save-of-a-Minecraft-Java-Edition-Realm-World.md)
 - [Find Your Realms World Saves in Minecraft: Bedrock Edition](./Find-Your-Realms-World-Saves-in-Minecraft-Bedrock-Edition.md)
 - [Find Your Minecraft: Java Edition Backup World](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md)
 - [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)

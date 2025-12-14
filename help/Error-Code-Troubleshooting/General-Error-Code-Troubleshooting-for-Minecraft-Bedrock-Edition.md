@@ -40,7 +40,7 @@ Before troubleshooting, we recommend backing up your Minecraft files. See our [B
 - **Check available storage space**: Confirm your file storage space and memory meet or exceed minimum requirements and free up space if you are low.
 - **Check your edition and version of Minecraft**: You must share the same edition and version of Minecraft as your friend or the server you want to join. Update Minecraft, restart your device, and try again.
   - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
-  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [How to Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-Bedrock-Edition-on-PC.md)
   - [How to Manually Update Minecraft on Mobile](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md) 
 - **Adjust your video settings**: See [Optimizing Video Settings and Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) for tips to optimize game performance.
 - **Run the Xbox Gaming Services Repair tool (Windows only)**: See the [Gaming Services Repair Tool for PC page](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool). This tool can fix issues with Minecraft or the Minecraft Launcher.

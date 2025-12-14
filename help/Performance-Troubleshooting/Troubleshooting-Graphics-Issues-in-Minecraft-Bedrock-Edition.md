@@ -24,7 +24,7 @@ If you’re seeing graphics or performance issues in Minecraft: Bedrock Edition,
 ## Download device system and game updates
 
 - **Update Minecraft**: See these platform articles to learn more:
-  - [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-on-Windows.md)
+  - [Manually Update Minecraft on Windows](../Download-Install/Manually-Update-Minecraft-Bedrock-Edition-on-PC.md)
   - [Manually Update Minecraft on Mobile Devices](../Download-Install/Manually-Update-Minecraft-on-Mobile-Devices.md)
   - [Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)
 - **Update your operating system**: Download any operating system or software updates for your gaming platform.
