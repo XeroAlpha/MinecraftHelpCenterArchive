@@ -1,7 +1,7 @@
 ---
-title: "Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition"
+title: "Fix Minecraft: Java Edition Game Crashes by Checking Memory Allocation"
 date: 2025-08-25T21:29:57Z
-updated: 2025-12-01T18:29:04Z
+updated: 2025-12-15T19:16:12Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -19,14 +19,23 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_27166432886285
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/39083573916941-Fix-Game-Crashes-by-Allocating-More-Memory-to-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/39083573916941-Fix-Minecraft-Java-Edition-Game-Crashes-by-Checking-Memory-Allocation
 hash:
-  h_01K3HGN1S0S2PG9C1EPT5MBKMD: how-to-change-the-memory-allocated-to-minecraft-java-edition
+  h_01KCHKJ5N4632B5MK0WT0Z1W5C: change-the-memory-allocated-to-minecraft-java-edition
 ---
 
-Minecraft: Java Edition allows you to use more of your device’s random-access memory (RAM) by changing settings in the Minecraft Launcher. If you still have crashes or lag issues after trying the troubleshooting in [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md), you may want to try changing Minecraft’s default RAM settings. Always [backup your Minecraft Worlds](https://help.minecraft.net/hc/en-us/sections/27166561402125) before troubleshooting or changing your game settings.
+If the memory allocation for Minecraft: Java Edition doesn’t match your system’s available RAM or the game version requirements, you may experience performance issues, including crashes, lag, or stuttering.
 
-## How to change the memory allocated to Minecraft: Java Edition
+You may want to change JVM arguments when:
+
+- **Your system has 4 GB of RAM or less**: Decrease memory allocation to **2 GB** for stability.
+- **Your system has available RAM (8 GB or more)**: You can increase memory allocation for better performance.
+
+For example, after version **26.1-snapshot-1**, the default memory allocation for playing Minecraft: Java Edition changed from **2 GB** to **4 GB**. If your system has **less than 4 GB of RAM**, you need to manually change the allocated memory back to **2 GB** to avoid crashes.
+
+## Change the memory allocated to Minecraft: Java Edition
+
+Memory allocation is editable in Java Edition by changing your JVM (Java Virtual Machine) arguments, accessed from the Minecraft Launcher. Always [backup your Minecraft Worlds](https://help.minecraft.net/hc/en-us/sections/27166561402125) before troubleshooting or changing your game settings.
 
 1.  Verify the installed RAM on your computer. This will determine the maximum you can allocate to Minecraft.
     - Windows: Start menu \> Settings \> System \> About
