@@ -1,7 +1,7 @@
 ---
 title: Purchasing Minecraft Education for Homeschooling & Family use
 date: 2022-01-07T00:20:29Z
-updated: 2025-09-05T17:02:03Z
+updated: 2025-12-15T21:49:37Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/4415061129236-Purchasing-Minecraft-Education-for-Homeschooling-Family-use
 hash:
@@ -20,7 +20,7 @@ Due to the business focused system that Minecraft Education lies within, the set
 
 View our video which will guide you through the instructions below
 
-[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/23509056392724)](https://www.youtube.com/watch?v=0GF2PZajxVk)
+[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/23509056392724)](https://www.youtube.com/watch?v=3Wmkil5XVP4)
 
  
 
@@ -78,7 +78,7 @@ Before you or users in your homeschool group can log in, you'll first need to cr
 5.  On the following page, you can add Administrative permissions or profile info, which is all optional. Hit **Next** to continue.  
 6.  Review the info on the final page and if everything looks correct select **Finish adding** on the bottom of the page!
 
-**Result:** If you opted to assign this new user a Minecraft Education license, they should be able to login using the email and password you created here! If you opted not to yet, continue in the following section to manually assign a Minecraft Education license.  
+**Result:** If you opted to assign this new user a Minecraft Education license, they should be able to login using the email and password you created here! If you opted not to yet, continue in the following section to manually assign a Minecraft Education license.  
 
  
 
@@ -93,7 +93,7 @@ Assigning licenses to existing users is also done in the Microsoft Admin Center.
 5.  In the pop up window, enter the name of the user you'd like to assign a license to.
 6.  Once you've selected the correct user, under Turn apps and services on or off, ensure Minecraft Education is checked. Then select **Assign**.
 
-**Result:** This user should now be able to sign into the Minecraft Education app.  
+**Result:** This user should now be able to sign into the Minecraft Education app.  
 
  
 
