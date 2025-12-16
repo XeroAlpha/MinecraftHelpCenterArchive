@@ -1,7 +1,7 @@
 ---
 title: Purchase Commercial Licenses
 date: 2021-05-25T14:26:26Z
-updated: 2025-09-04T17:08:14Z
+updated: 2025-12-16T19:35:50Z
 categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
 hash:
@@ -26,12 +26,12 @@ Anyone can purchase commercial licenses of Minecraft Education – including cam
 
  
 
-View our helpful guide below, or **[purchase Minecraft commercial licenses here.](https://aka.ms/MCEDUCommercialPurchase)**
+View our helpful guide below, or [**purchase Minecraft commercial licenses here.**](https://aka.ms/MCEDUCommercialPurchase)
 
   
 Also, view our video on how to purchase and manage Minecraft Education commercial licenses:
 
-[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/23508996855060)](https://www.youtube.com/watch?v=0GF2PZajxVk)
+[![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/23508996855060)](https://www.youtube.com/watch?v=3Wmkil5XVP4)
 
  
 
@@ -43,7 +43,7 @@ Your Microsoft 365 Admin Center account allows you to purchase licenses and mana
 
 If you are the Admin:
 
-1.  Navigate to the **[Minecraft Education](https://aka.ms/MCEDUCommercialPurchase) purchase page** on the admin center
+1.  Navigate to the [**Minecraft Education**](https://aka.ms/MCEDUCommercialPurchase) **purchase page** on the admin center
 2.  Enter your organizational email address and click **Next**.
     - *If you don’t have an email address from an organization, enter your personal email address. See guide for that process below.*
 
@@ -112,7 +112,7 @@ If you're going to assign licenses to users other than yourself, you'll need to 
 5.  On the following page, you can add Administrative permissions or profile info, which is all optional. Hit **Next** to continue.  
 6.  Review the info on the final page and if everything looks correct select **Finish adding** on the bottom of the page!
 
-**Result:** If you opted to assign this new user a Minecraft Education license, they should be able to login using the email and password you created here! If you opted not to yet, continue in the following section to manually assign a Minecraft Education license.  
+**Result:** If you opted to assign this new user a Minecraft Education license, they should be able to login using the email and password you created here! If you opted not to yet, continue in the following section to manually assign a Minecraft Education license.  
 
  
 
@@ -127,7 +127,7 @@ Assigning licenses to existing users is also done in the Microsoft Admin Center.
 5.  In the pop up window, enter the name of the user you'd like to assign a license to.
 6.  Once you've selected the correct user, under Turn apps and services on or off, ensure Minecraft Education is checked. Then select **Assign**.
 
-**Result:** This user should now be able to sign into the Minecraft Education app.  
+**Result:** This user should now be able to sign into the Minecraft Education app.  
 
  
 
