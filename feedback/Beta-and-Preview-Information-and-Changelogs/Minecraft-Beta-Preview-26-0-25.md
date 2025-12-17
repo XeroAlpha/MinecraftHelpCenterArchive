@@ -1,9 +1,9 @@
 ---
-title: Minecraft Beta & Preview - 26.0.25
+title: Minecraft Beta & Preview - 26.0.25/26
 date: 2025-12-10T15:53:31Z
-updated: 2025-12-10T15:57:25Z
+updated: 2025-12-17T19:27:32Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/41819389887373-Minecraft-Beta-Preview-26-0-25
+link: https://feedback.minecraft.net/hc/en-us/articles/41819389887373-Minecraft-Beta-Preview-26-0-25-26
 hash:
   h_01KC4FA71D0ER6E2868CAHC5BW: information-on-minecraft-preview-and-beta
   user-content-features-and-bug-fixes: features-and-bug-fixes
@@ -45,7 +45,8 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 This is the final Minecraft Preview release of 2025, but we'll be back in early January with new Preview updates!
 
-  
+> **Update 17 December 2025:** A Preview hotfix (26.0.26) is rolling out for Xbox, Windows, and servers, addressing some backend fixes. This update will be multiplayer compatible with 26.0.25.
+
  
 
 # Features and Bug Fixes[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/31165/R26U0-2-Preview?anchor=features-and-bug-fixes)
