@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-10-31T22:21:10Z
+updated: 2025-12-18T19:35:29Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-game-client-minor-update-version-121931---released-103125
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-betapreview-game-client-update-version-1211311---released-121825
+  h_01KCSFBFV2Q3CBZQ3G1Y21RH4Y: minecraft-education-game-client-minor-update-version-121931---released-103125
   01K8Y5P2FMSQM57M3CZNFXDTVZ: minecraft-education-betapreview-game-client-update-version-1211101---released-100125
   01K6BX1H7GW1HVXMC6WARBXHK0: minecraft-education-game-client-minor-update-version-121921---released-82025
   01K348J724PSXFVN9RB35CVZDV: minecraft-education-game-client-update-version-121901---released-72225
@@ -59,6 +60,12 @@ Minecraft Education periodically releases updates to our game and companion apps
 
  
 
+## Minecraft Education Beta/Preview Game Client Update (version 1.21.131.1) - Released 12/18/25
+
+- Mounts of Mayhem Update
+- Dedicated Server updates
+- Bugfixes and stability improvements
+
 ## Minecraft Education Game Client Minor Update (version 1.21.93.1) - Released 10/31/25
 
 - Additional client checks added to ensure correct permissions when joining multiplayer
@@ -108,7 +115,7 @@ Minecraft Education periodically releases updates to our game and companion apps
   - Hardcore mode and Vibrant Visuals are not included in this update
   - Locator bar added in Multiplayer
 - Other stability and bug fixes  
-    
+   
 
 ## Minecraft Education Beta Game Client Update (version 1.21.80.1) - Released 5/07/25
 
@@ -122,7 +129,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 - MacOS client freeze fix
 - Coding stability improvements
 - Other bug fixes  
-    
+   
 
 ## Minecraft Education Beta Game Client Update (version 1.21.8) - Released 3/20/25
 
@@ -138,7 +145,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 - Garden Awakens Update
 - Cloud Storage Improvements
 - Coding and multiplayer stability improvements  
-    
+   
 
 ## Minecraft Education Preview & Beta Game Client Update (version 1.21.40) - Released 11/19/24
 
@@ -158,7 +165,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 - Mac and iOS now support cloud world backup to OneDrive.
 - Performance improvements while Coding 
 - Various stability and performance bug fixes  
-    
+   
 
 ## Minecraft Education Game Client (version 1.21.03) - Released 7/23/24
 
