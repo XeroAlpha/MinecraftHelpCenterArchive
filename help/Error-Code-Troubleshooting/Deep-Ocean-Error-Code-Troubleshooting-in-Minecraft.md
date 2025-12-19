@@ -1,38 +1,38 @@
 ---
 title: Deep Ocean Error Code Troubleshooting in Minecraft
 date: 2024-09-30T21:42:57Z
-updated: 2025-07-08T20:47:02Z
+updated: 2025-12-18T21:59:28Z
 categories: Error Code Troubleshooting
 tags:
   - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/30688768772749-Deep-Ocean-Error-Code-Troubleshooting-in-Minecraft
 hash:
-  h_01J92DZSJDJ645EAJHGF9JVJ67: how-to-fix-deep-ocean-error-code-in-minecraft
-  h_01J92E0MF0N9RN97B6MY3PSH6W: install-xbox-console-companion-app
-  h_01J92E0X1WGWKS7WTA5937EE9X: install-missing-key-dependencies-or-applications
+  h_01KCSH4PWB7H2D3JX9TNKD6Z73: install-the-xbox-app
+  h_01KCSH4PWE0P9FJPTYPP9TS1EK: run-the-gaming-services-repair-tool
 ---
 
-Trying to fix error issues in games can sometimes feel like being lost out at sea. That is the last thing we want for our players, so let’s get you back into the game. If you are trying to play Minecraft: Bedrock Edition through the Minecraft Launcher on your Windows PC, you may get the Deep Ocean error. It comes attached with this message:
+The Deep Ocean error code in Minecraft: Bedrock Edition typically happens when there are Minecraft Launcher sign in problems. If you’re seeing this error, try [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
-**Error Code: UNKNOWN code: Deep Ocean. Something went wrong in the login process.**
+If general error code troubleshooting doesn’t fix the issue, next steps depend on your Minecraft platform.
 
-Here is how to fix it.
+- If you’re on Mac, [submit a support ticket](https://help.minecraft.net/hc/en-us/requests/new).
+- If you’re on PC, follow the steps below to install the Xbox app and run the Gaming Services Repair Tool.
 
-## How to fix Deep Ocean error code in Minecraft
+### Install the Xbox app
 
-You are having problems signing in to the Minecraft Launcher because of missing dependencies. Try the following:
+1.  Go to [Xbox PC app](https://www.xbox.com/en-US/apps/xbox-app-on-pc) on the Xbox website.
+2.  Download the app and run the downloaded installer file.
+3.  Follow the prompts to install and launch. If the Xbox app is already installed, it will launch instead.
+4.  Sign in to your Microsoft account if prompted.
+5.  Select your Profile picture in the top-left.
+6.  Select **Support**.
+7.  Select **Gaming Services Repair Tool**.
+8.  Select **Start Troubleshooting**.
 
-### Install Xbox Console Companion app
+### Run the Gaming Services Repair Tool
 
-1.  Install the [Xbox Console Companion app](https://aka.ms/XboxConsoleCompanion).
-2.  Sign into your Microsoft account.
+If you’re unable to run the Gaming Services Repair Tool through the Xbox app, download and run it separately.
 
-### Install missing key dependencies or applications
-
-1.  Install and sign into the [Xbox App](https://aka.ms/DLXboxApp).
-2.  If any dependencies are missing, the Xbox app should show you a list and recommend installation actions to fix these problems.
-3.  Install missing dependencies that are recommended.
-    - Examples include:
-      - [Xbox Identity Provider](https://aka.ms/XboxIdentityProvider)
-      - [Xbox Live In-Game Experience](https://aka.ms/XboxLiveInGame)
-      - [Feedback Hub](https://aka.ms/DLFeedbackHub)
+1.  Go to [Gaming Services Repair Tool for PC](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool) on Xbox’s support site.
+2.  Select **Downloadable version**.
+3.  Follow the steps to run the tool.

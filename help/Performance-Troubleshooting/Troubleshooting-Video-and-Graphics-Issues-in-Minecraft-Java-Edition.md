@@ -1,7 +1,7 @@
 ---
-title: "Troubleshooting Video and Graphics Issues in Minecraft: Java Edition"
+title: "Troubleshoot Video and Graphics Issues in Minecraft: Java Edition"
 date: 2021-09-13T18:03:20Z
-updated: 2025-04-23T21:14:25Z
+updated: 2025-12-18T22:36:32Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -15,42 +15,26 @@ tags:
   - platform_pc
   - section_27166432886285
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Troubleshooting-Video-and-Graphics-Issues-in-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/4409137348877-Troubleshoot-Video-and-Graphics-Issues-in-Minecraft-Java-Edition
 hash:
-  h_01HT3AH3YKKCW4FA23SKA2K21T: issues-with-frame-or-pixel-format
-  h_01HT3AMP010QFM38WZ5X7EY882: windows-arm64-does-not-appear-to-support-opengl
-  h_01HT3ANFGM8PYYKD1PYJE2FV2R: pink-and-black-checkered-boxes-appear-where-textures-should-be
+  h_01KCKYRN4FVG54ME0AK6P5NJHN: check-for-system-issues
+  h_01KCKZ0VFJW9QGVV29G087HEJ3: change-minecraft-game-settings
 ---
 
-*This article addresses Minecraft: Java Edition technical issues only. Visit [Minecraft: Bedrock Edition](./Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition.md).* 
+*For Minecraft: Bedrock Edition, see* [*Troubleshooting Video and Graphics Issues in Minecraft: Bedrock Edition*](./Troubleshooting-Graphics-Issues-in-Minecraft-Bedrock-Edition.md)*.*
 
-## Issues with Frame or Pixel Format 
+If you experience performance issues, such as stuttering frame rate, or receive a Pixel format not accelerated error, you may have outdated software or outdated drivers. Below, we have listed common fixes to resolve these problems.
 
-If you have performance issues or receive an error message saying **Pixel format not accelerated**, you may have outdated video card drivers or software. Try the following:
+## Check for System Issues
 
-- Ensure your computer meets [system requirements](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc) to play Minecraft.
-- Visit the website for your video card to find updated software.
-- Reboot your computer.
-- Check for attached gamepad devices, or something being interpreted as a gamepad device such as headphones or a controller. Try disconnecting these devices, then restart Minecraft. 
+- **Install operating system updates:** Check to make sure your computer is running the most recent version of your operating system. You should accept and install system updates and then restart your computer.
+- **Verify version and minimum requirements**: Verify your system meets [minimum system requirements](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc?tabs=%7B%22details%22%3A1%7D#accordionv1-b6c8df09da-item-7739893325:~:text=Windows%2010%20system%20requirements) to play Java Edition. We also recommend playing the most recent version of Minecraft: Java Edition with the latest fixes and updates.
+- **Update graphics drivers**: Windows PC players can find updated drivers here: [AMD](https://www.amd.com/en/support/download/drivers.html), [NVIDIA](http://www.nvidia.com/Download/index.aspx), or [Intel](https://downloadcenter.intel.com/).
+- **Disconnect external input devices:** Controllers, headsets, and USB devices may be detected as game inputs and cause issues. Unplug the devices and restart Minecraft to see if that solves the issue.
 
-## Windows ARM64 does not appear to support OpenGL
+## Change Minecraft game settings
 
-If you are trying to launch Minecraft on an ARM64 device running Windows, you might see an error message like **GLFW error 65542: WGL: The driver does not appear to support OpenGL**.
+- **Adjust video settings:** See [Optimizing Minecraft: Java Edition Video Settings and Performance.](https://help.minecraft.net/en-us/articles/36136728320013-Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance)
+- **Disable Mods:** Enabling [mods in your Java Edition game](./Mods-for-Minecraft-Java-Edition.md) may cause lag and affect gameplay. Disable or remove any active mods and see if that improves performance.
 
-- Install the [OpenCL and OpenGL Compatibility Pack](https://www.microsoft.com/store/productId/9NQPSL29BFFF) from the Microsoft Store.
-
-## Pink and black checkered boxes appear where textures should be
-
-When textures from resource packs do not load properly, the game replaces them with pink and black checkered boxes. This occurs when the textures are not in the game’s assigned directory folder or did not download correctly.  
-
-**To restore textures:**
-
-1.  Launch Minecraft, click **Options**, then click **Resource Packs**. 
-2.  Open the **Resources Pack** folder and delete all textures from this folder.  
-3.  Download the textures again from the resource pack provider to the folder.
-4.  Launch Minecraft again, click **Options** and click **Resource Packs**.
-5.  Re-enable the textures by clicking on the Pack under **Available** to move it to Selected. Press **Done**.
-
-If these steps do not resolve your issue, try reaching out to the creator of the resource packs for help.
-
-If you still experience video issues in Minecraft, be sure to visit our article for [Minecraft: Solutions to Graphic Issues](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).
+For more device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](https://help.minecraft.net/en-us/articles/27554449862285-Fixing-Crashes-and-Lag-Issues-in-Minecraft).
