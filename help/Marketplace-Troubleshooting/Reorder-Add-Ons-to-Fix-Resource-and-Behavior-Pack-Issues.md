@@ -65,6 +65,6 @@ You must be the Realm owner to modify Add-Ons.
 
 ## Additional resources to troubleshoot Add-Ons
 
-- [Disable Minecraft Add-Ons to Solve Game Issues](./Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md)
+- [Disable Minecraft Add-Ons to Solve Game Issues](./Disable-Minecraft-Bedrock-Edition-Add-Ons-to-Solve-Game-Issues.md)
 - [Clear Your Minecraft Marketplace Cache](./Clear-Your-Minecraft-Marketplace-Cache.md)
 - [Redownload Add-Ons to Fix Missing or Corrupted Packs](./Redownload-Add-Ons-to-Fix-Missing-or-Corrupted-Packs.md)

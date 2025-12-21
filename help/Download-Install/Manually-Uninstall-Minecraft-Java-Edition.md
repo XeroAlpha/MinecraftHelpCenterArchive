@@ -1,13 +1,13 @@
 ---
 title: "Manually Uninstall Minecraft: Java Edition"
-date: 2025-12-09T22:03:03Z
-updated: 2025-12-09T22:26:15Z
+date: 2024-04-01T20:07:02Z
+updated: 2025-12-17T18:09:35Z
 categories: Download & Install
 tags:
   - section_27166490706957
-link: https://help.minecraft.net/hc/en-us/articles/41800023420813-Manually-Uninstall-Minecraft-Java-Edition
+link: https://help.minecraft.net/hc/en-us/articles/25522394797453-Manually-Uninstall-Minecraft-Java-Edition
 hash:
-  h_01KC2J7M4SG5QZ3ZMAGY412ZXG: manually-uninstall-java-edition-on-pc
+  h_01KC2J7M4SG5QZ3ZMAGY412ZXG: manually-uninstall-java-edition-on-windows
   h_01KC2J7M4XR34XRYKARJFW9W1Z: manually-uninstall-java-edition-on-macos
   h_01KC2J7M4YVSJSG409KWM5X38H: manually-uninstall-java-edition-on-linux
 ---
@@ -16,7 +16,7 @@ If you encounter an error when you update or open Minecraft: Java Edition, you m
 
 We highly recommend you visit our [Backup & Restore](https://help.minecraft.net/hc/en-us/sections/27166561402125) section before you uninstall and save your worlds, inventory, progress, and all other game data you want to keep. Minecraft support cannot recover any deleted files.
 
-## Manually uninstall Java Edition on PC
+## Manually uninstall Java Edition on Windows
 
 Instructions to uninstall Windows programs are available at [Uninstall or remove apps and programs in Windows](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-4b55f974-2cc6-2d2b-d092-5905080eaf98) on the Microsoft Support Site.
 

@@ -5,6 +5,7 @@ updated: 2024-12-06T18:19:56Z
 categories: Download & Install
 tags:
   - section_27166490706957
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/13766868873613-How-to-Get-the-Minecraft-Bedrock-Edition-Editor
 hash:
   h_01JD5V3P5MKAX7FBGQP42MX0P4: how-to-launch-the-editor-using-the-minecraft-launcher

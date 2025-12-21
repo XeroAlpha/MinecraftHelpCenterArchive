@@ -2,7 +2,7 @@
 title: Fixing Minecraft Installation Stalling or Stopping on Windows
 date: 2024-06-14T17:43:25Z
 updated: 2024-08-16T16:26:41Z
-categories: Download & Install
+categories: Performance & Troubleshooting
 tags:
   - title_minecraft
   - category_technical_support
@@ -10,7 +10,7 @@ tags:
   - platform_windows_10
   - platform_pc
   - title_minecraft_java_bedrock_for_pc
-  - section_27166490706957
+  - section_27166432886285
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/27580697532557-Fixing-Minecraft-Installation-Stalling-or-Stopping-on-Windows
 hash:

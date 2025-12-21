@@ -39,4 +39,4 @@ If you see an improvement in gameplay, gradually increase these settings until y
 ## More troubleshooting resources
 
 - [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md)
-- [Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition](./Fix-Game-Crashes-by-Allocating-More-Memory-to-Minecraft-Java-Edition.md)
+- [Fix Game Crashes by Allocating More Memory to Minecraft: Java Edition](./Fix-Minecraft-Java-Edition-Game-Crashes-by-Checking-Memory-Allocation.md)

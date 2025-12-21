@@ -51,4 +51,4 @@ If you connect to a Realm from any Minecraft: Bedrock Edition device, you will a
 
 - [What are Minecraft Add-Ons?](./What-are-Minecraft-Add-Ons.md)
 - [Get Help with Minecraft Add-Ons](../Marketplace-Troubleshooting/Redownload-Add-Ons-to-Fix-Missing-or-Corrupted-Packs.md)
-- [Disable Minecraft Add-Ons to Solve Game Issues](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md)
+- [Disable Minecraft Add-Ons to Solve Game Issues](../Marketplace-Troubleshooting/Disable-Minecraft-Bedrock-Edition-Add-Ons-to-Solve-Game-Issues.md)

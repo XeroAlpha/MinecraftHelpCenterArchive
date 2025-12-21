@@ -17,7 +17,7 @@ hash:
   h_01JXXE4Z5A0CT41QTHP5DPV22E: change-minecraft-game-settings
 ---
 
-*For Minecraft: Java Edition, see [Troubleshooting Video and Graphics Issues in Minecraft: Java Edition](./Troubleshooting-Video-and-Graphics-Issues-in-Minecraft-Java-Edition.md).*
+*For Minecraft: Java Edition, see [Troubleshooting Video and Graphics Issues in Minecraft: Java Edition](./Troubleshoot-Video-and-Graphics-Issues-in-Minecraft-Java-Edition.md).*
 
 If you’re seeing graphics or performance issues in Minecraft: Bedrock Edition, try these suggestions below.
 
@@ -35,7 +35,7 @@ If you’re seeing graphics or performance issues in Minecraft: Bedrock Edition,
 
 If downloading updates didn’t solve the problem, try turning off any add-ons and changing your video settings.
 
-- **Disable Add-ons:** To turn off or manage content, see [Disabling Minecraft Add-Ons](../Marketplace-Troubleshooting/Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md).
+- **Disable Add-ons:** To turn off or manage content, see [Disabling Minecraft Add-Ons](../Marketplace-Troubleshooting/Disable-Minecraft-Bedrock-Edition-Add-Ons-to-Solve-Game-Issues.md).
 - **Change video settings:** See [Optimizing Minecraft: Bedrock Edition Video Settings and Performance](./Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).
 
 For more device and setup suggestions, see [Fixing Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md). If you also see a Minecraft error code, see [General Error Code Troubleshooting for Minecraft: Bedrock Edition](../Error-Code-Troubleshooting/General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).

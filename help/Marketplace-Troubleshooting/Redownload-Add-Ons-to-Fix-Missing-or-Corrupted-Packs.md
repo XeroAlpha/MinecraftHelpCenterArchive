@@ -13,7 +13,7 @@ hash:
 
 If you accidentally deleted a resource or behavior pack from an Add-On, think an Add-On may be corrupted, or see a message about missing dependencies for an Add-On, you can redownload the Add-On to fix issues.
 
-Before you attempt this process, we recommend you follow the steps in [Disable Minecraft Add-Ons to Solve Game Issues](./Disable-Minecraft-Add-Ons-to-Solve-Game-Issues.md) and [Delete Unused Marketplace Content in Minecraft](../Managing-Marketplace-Content/Delete-Unused-Marketplace-Content-in-Minecraft.md) to disable and delete the existing Add-On first.
+Before you attempt this process, we recommend you follow the steps in [Disable Minecraft Add-Ons to Solve Game Issues](./Disable-Minecraft-Bedrock-Edition-Add-Ons-to-Solve-Game-Issues.md) and [Delete Unused Marketplace Content in Minecraft](../Managing-Marketplace-Content/Delete-Unused-Marketplace-Content-in-Minecraft.md) to disable and delete the existing Add-On first.
 
 ## How to redownload an Add-On
 

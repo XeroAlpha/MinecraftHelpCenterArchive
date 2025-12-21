@@ -2,9 +2,10 @@
 title: What is Minecraft Free Trial Mode?
 date: 2025-07-08T16:42:59Z
 updated: 2025-07-08T16:44:55Z
-categories: Download & Install
+categories: Get Minecraft
 tags:
-  - section_27166490706957
+  - section_28871651550221
+  - section_35460768236173
 link: https://help.minecraft.net/hc/en-us/articles/37911565112717-What-is-Minecraft-Free-Trial-Mode
 ---
 
