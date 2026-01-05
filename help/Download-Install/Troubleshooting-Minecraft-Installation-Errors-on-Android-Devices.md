@@ -1,35 +1,32 @@
 ---
-title: Troubleshooting Minecraft Installation Errors on Android Devices
+title: Remove Minecraft Files to Fix Android Installation Errors
 date: 2024-09-20T22:52:00Z
-updated: 2025-12-20T00:03:00Z
+updated: 2026-01-05T17:14:55Z
 categories: Download & Install
 tags:
   - section_27166432886285
   - section_27166490706957
-link: https://help.minecraft.net/hc/en-us/articles/30440807166093-Troubleshooting-Minecraft-Installation-Errors-on-Android-Devices
+link: https://help.minecraft.net/hc/en-us/articles/30440807166093-Remove-Minecraft-Files-to-Fix-Android-Installation-Errors
 hash:
-  h_01J88SGWF7DEY4FY0VGB4HBVYP: how-to-locate-and-remove-minecraft-files-from-an-android-device
+  h_01KCWGJMNX8G7TW2GX7FZY1V87: how-to-locate-and-remove-minecraft-files-on-android
+  h_01KCWGJMP02B957FED4X27ZAD9: additional-installation-troubleshooting
 ---
 
-If you encounter errors trying to install Minecraft from the Google Play store onto an Android device, the problem could be caused by Minecraft files previously installed on your device. The Google Play Installer may be trying to find, access, or copy files it thinks are already installed. This can happen in the following situations:
+Minecraft installation errors on Android devices can be caused by previously installed files if you had Minecraft or Minecraft: Beta installed or if your download only partially completed. Here’s how to fix these errors by removing old Minecraft files.
 
-- You previously had Minecraft or the Minecraft: Beta installed on your device
-- You had a partial or failed download of Minecraft
-- You uninstalled and reinstalled Minecraft
+## How to Locate and Remove Minecraft Files on Android
 
-To make sure you have a clean installation environment on your phone, you can locate and remove any previous Minecraft files and attempt the installation again.
+We recommend you [Save a Backup of your Minecraft: Bedrock Edition Worlds on Android](../Backup-Restore/Save-a-Backup-of-Minecraft-Bedrock-Edition-Worlds-on-Android.md) before you start this process to avoid losing any worlds or saved data.
 
-## How to Locate and Remove Minecraft Files from an Android Device
+1.  Connect your Android device to your computer with a USB cable.
+2.  Select the **Charging this device via USB notification**.
+3.  Select **File Transfer** or **MTP mode**.
+4.  Open a file browser on your computer and locate the **Android** \> **data** \> **com.mojang.minecraftpe** folder. This folder may be in Internal Storage or on an External SD card.
+5.  Delete **com.mojang.minecraftpe**.
+6.  Disconnect your phone from your computer.
+7.  Open the Google Play store and install Minecraft.
 
-It is very important that you do not delete any files completely in case your saved data contains worlds or other game data you may want to access later. You should back up your files to a computer or other device after locating them, and then remove them from your Android device. See [How to Locate Minecraft World Files on Mobile](../Backup-Restore/Save-a-Backup-of-Minecraft-Bedrock-Edition-Worlds-on-Android.md) for more information.
+## Additional Installation Troubleshooting
 
-**Here’s how to locate Minecraft files and try your installation again:**
-
-1.  Connect your Android phone to a computer.
-2.  Use the computer’s file browser to locate the folder **com.mojang.minecraftpe**. It could be located in either the Internal Storage or an External SD card. The most common file path is Android\data\com.mojang.minecraftpe. (Older installation may be located at **/games/com.mojang/minecraftWorlds.)**
-3.  Copy the folder containing your Minecraft files with all of the files and subfolders it contains to your computer or another storage device so they can be restored if needed.
-4.  Remove the folder containing the previous Minecraft installation and all the files and subfolders it contains from your phone only after you made a copy and can recover them if needed.
-5.  Safely eject or disconnect your phone from your computer following the manufacturer’s guidelines after all file transfers and removals are complete.
-6.  Return to the Google Play store and attempt to install Minecraft again.
-
-If you cannot find the folder com.mojang.minecraftpe, can't access it because of Android Scoped Storage or any other Android OS security features, or you simply don’t feel comfortable removing the files yourself, please [contact Google Support for help](https://support.google.com/googleplay#topic=3364260).
+- **Locating install files**: If you can’t find the com.mojang.minecraftpe folder, or this issue still happens when you try to install Minecraft, you may have Minecraft files located at **/games/com.mojang/minecraftWorlds**. Follow the steps above for that folder.
+- **Accessing Android Scoped Storage**: If you can't access the Minecraft folder because of Android Scoped Storage, permissions, or another security feature, contact [Google Play Help](https://support.google.com/googleplay?sjid=17990395897789867044-NC#topic=3364260).

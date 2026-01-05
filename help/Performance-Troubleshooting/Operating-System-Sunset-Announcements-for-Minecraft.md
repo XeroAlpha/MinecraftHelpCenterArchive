@@ -1,42 +1,34 @@
 ---
 title: Operating System Sunset Announcements for Minecraft
 date: 2024-09-16T16:32:55Z
-updated: 2025-12-01T22:53:20Z
+updated: 2026-01-05T18:37:17Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/30298767427597-Operating-System-Sunset-Announcements-for-Minecraft
 hash:
-  h_01J85N8MCZWEP3WN65XCT8ZZRT: minecraft-launcher-minimum-os-requirements
+  h_01KCWE3M4KHZZEKJZB7EBQTXGY: sunset-devices-as-of-march-2025
+  h_01KCWE3M4PCZVRCB32XEVXX2TJ: limitations-of-minecraft-on-sunset-devices
 ---
 
-As Minecraft grows, so must the operating system that supports it. As of March 2025, the below operating systems provide the minimum specifications to receive future Minecraft updates:
+Minecraft gameplay updates take advantage of the latest available operating system updates. Here are the minimum requirements to receive Minecraft updates and support as of March 2025.
 
 - Android
-  - Operating System: Android OS 9
-  - Memory: More than 1GB of RAM
-  - Storage: 1 GB or higher
-  - Graphics: OpenGL ES 3.1 or higher
+  - **Operating system**: Android OS 9
+  - **Memory**: More than 1GB of RAM
+  - **Storage**: 1 GB or higher
+  - **Graphics**: OpenGL ES 3.1 or higher
 - Apple
-  - iOS/iPadOS 14 and above
+  - **Operating system**: iOS/iPadOS 14 and above
 - Amazon
-  - Amazon Fire OS 7 or above
-  - Graphics: OpenGL ES 3.1 or higher
+  - **Operating system**: Amazon Fire OS 7 or above
+  - **Graphics**: OpenGL ES 3.1 or higher
 - Chromebooks
-  - Graphics: OpenGL ES 3.1 or higher
+  - **Graphics**: OpenGL ES 3.1 or higher
 
-## Minecraft Launcher minimum OS requirements
+## Sunset devices as of March 2025
 
-Minecraft Launcher users will need to update to the below operating systems to continue receiving updates after March 2025.
-
-- Mac
-  - Mac 10.15 or higher
-- Ubuntu
-  - Ubuntu 19.10 or higher
-- Windows PCs
-  - Windows 10 or higher
-
-Additionally, the following devices will no longer receive future updates after March 2025 and will no longer be supported:
+The following devices and systems are no longer supported:
 
 - PlayStation
   - PSVR
@@ -44,6 +36,12 @@ Additionally, the following devices will no longer receive future updates after 
   - OpenXR
   - ARM32
 
-After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. If you need to cancel a Realm for an incompatible device, see [Cancel Realms Subscriptions \| Minecraft Help](https://help.minecraft.net/hc/en-us/sections/36000025812877) for information.
+Devices that use the Minecraft Launcher also have updated operating system requirements. See [Minecraft Launcher Minimum Requirements](https://help.minecraft.net/hc/en-us/articles/42090028703245).
 
-After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.
+## Limitations of Minecraft on Sunset Devices
+
+After an operating system is sunset, your device will no longer receive the latest Minecraft updates, and we cannot provide troubleshooting for unsupported devices. Here is more information about playing on a sunset system:
+
+- **Access to worlds and Marketplace content**: After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins).
+- **Access to Realms**: Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. If you need to cancel a Realm for an incompatible device, see [Cancel Realms Subscriptions](https://help.minecraft.net/hc/en-us/sections/36000025812877) for information.
+- **Access to multiplayer games**: Sunset devices cannot join multilayer games with other players using the most recent versions of Minecraft and may be incompatible with some multiplayer servers.

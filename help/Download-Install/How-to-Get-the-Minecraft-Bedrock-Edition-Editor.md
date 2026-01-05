@@ -1,47 +1,31 @@
 ---
-title: "How to Get the Minecraft: Bedrock Edition Editor"
+title: "Learn About the Minecraft: Bedrock Edition Editor"
 date: 2023-03-06T20:06:29Z
-updated: 2024-12-06T18:19:56Z
+updated: 2026-01-05T18:36:16Z
 categories: Download & Install
 tags:
   - section_27166490706957
   - section_35460768236173
-link: https://help.minecraft.net/hc/en-us/articles/13766868873613-How-to-Get-the-Minecraft-Bedrock-Edition-Editor
+link: https://help.minecraft.net/hc/en-us/articles/13766868873613-Learn-About-the-Minecraft-Bedrock-Edition-Editor
 hash:
-  h_01JD5V3P5MKAX7FBGQP42MX0P4: how-to-launch-the-editor-using-the-minecraft-launcher
-  h_01JD5V4KZPAMYNA6JPJWG7FFZE: how-to-launch-the-editor-from-a-desktop-shortcut
-  h_01JD5V51BFV7SCX991M42N1RAB: how-to-use-the-minecraft-editor
+  h_01KCWEJMSHQW2RX952BD5PJYR9: how-to-launch-the-minecraft-editor
+  h_01KCWEJMSKFE7H7WWZ8TBZDMNV: how-to-use-the-minecraft-editor
 ---
 
-The Minecraft Editor is an in-engine, multiblock experience that exists to improve the workflows of Minecraft: Bedrock Edition creators and make it possible for creators of all skillsets to easily craft high-quality experiences.
+The Minecraft Editor for Bedrock Edition is a visual creator tool that lets you build projects at scale. Try out the editor if you enjoy playing in creative mode or want to build custom content for Minecraft. For more details, see [Minecraft Bedrock Editor Overview](https://learn.microsoft.com/en-us/minecraft/creator/documents/bedrockeditor/editoroverview?view=minecraft-bedrock-stable).
 
-## How to launch the Editor using the Minecraft Launcher
+## How to launch the Minecraft Editor
 
-The Minecraft Editor can be started by using the Minecraft Launcher on Windows PCs running Windows 10 and up. Follow these steps:
+To use the Minecraft Editor on a Windows PC, you need to meet the [Minecraft Launcher Minimum Requirements](https://help.minecraft.net/hc/en-us/articles/42090028703245) and have Minecraft: Bedrock Edition installed.
 
 1.  Start the Minecraft Launcher.
-2.  Click the **Minecraft: Bedrock Edition** tab.
-3.  Select the **Creator Tools** tab.
-4.  Select **Create**.
-
-## How to launch the Editor from a desktop shortcut
-
-If you would rather make a desktop shortcut for your Editor, do the following:
-
-1.  Minimize all of your windows.
-2.  Right-click on your background.
-3.  Click **New**.
-4.  Select **Shortcut**.
-5.  In the search field, copy and paste **minecraft:?Editor=true**.
-6.  Select **Next**.
-7.  Name the shortcut.
-8.  Select **Finish**.
-9.  Double click the shortcut to launch the Editor.
+2.  Select **Minecraft: Bedrock Edition** on the left.
+3.  Select the **Creator Tools** tab at the top.
+4.  Select **Launch Editor**.
 
 ## How to use the Minecraft Editor
 
-To learn how to get the most out of the Editor or leave feedback on this early version of the feature, see the resources below:
+Learn how to get the most out of the Editor or leave feedback with these resources:
 
-- [Learning Portal](https://aka.ms/LearnEditor)
-- [GitHub](https://github.com/Mojang/minecraft-editor)
-- [Feedback](https://feedback.minecraft.net/hc/en-us/community/topics/31501891355661)
+- **Microsoft Learn**: The [Minecraft Bedrock Editor Overview](https://learn.microsoft.com/en-us/minecraft/creator/documents/bedrockeditor/editoroverview?view=minecraft-bedrock-stable) introduces you to the Editor interface, provides documentation on how to use the tool, and links to other resources.
+- **Minecraft Feedback**: The [Editor (Bedrock)](https://feedback.minecraft.net/hc/en-us/community/topics/31501891355661) section of the Minecraft Feedback site is a great place to provide feedback and leave suggestions.

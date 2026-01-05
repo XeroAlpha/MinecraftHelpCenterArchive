@@ -1,7 +1,7 @@
 ---
 title: Download and Install the Minecraft Launcher
 date: 2024-02-06T19:18:26Z
-updated: 2025-09-04T20:32:24Z
+updated: 2026-01-05T18:38:50Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition
@@ -18,27 +18,21 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/23907917790093-Download-and-Install-the-Minecraft-Launcher
 hash:
-  h_01K34BN9TF79RW4C85YY4CFMYC: microsoft-store
-  h_01K34BND87D5JAZ7Z5ACKD2BSQ: minecraftnet
-  h_01K34BNN50JRYNFEMG8XVF6AM3: minecraft-launcher-supported-operating-systems
+  h_01KCWB3RMR5824HDJM4ZZGVR6Q: download-the-minecraft-launcher-from-the-microsoft-store
+  h_01KCWB3RMTQ1GDD6DEKFRCF5Z4: minecraftnet
 ---
 
-The Minecraft Launcher for Windows, Mac, or Linux operating systems allows you to download and manage your Minecraft game installations and automatically update your version of Minecraft.
+The Minecraft Launcher is the easiest way to download, manage, and update your Minecraft game installations and is supported on most Windows, Mac, and Linux operating systems. See [Minecraft Launcher Minimum Requirements](https://help.minecraft.net/hc/en-us/articles/42090028703245) for system requirements and support for older devices.
 
-The Minecraft Launcher is available for download from these locations:
+You can download the Minecraft Launcher from the Microsoft Store or Minecraft.net.
 
-## Microsoft Store
+## Download the Minecraft Launcher from the Microsoft Store
 
-1.  Visit the [Minecraft Launcher page](https://www.xbox.com/en-US/games/store/minecraft-launcher/9PGW18NPBZV5/0010) in the Microsoft Store.
+1.  Go to [Minecraft Launcher](https://www.xbox.com/en-US/games/store/minecraft-launcher/9PGW18NPBZV5/0010) in the Microsoft Store.
 2.  Choose your edition of Minecraft.
 3.  Select **Get** or **Install** depending on your operating system and which editions you own.
 
 ## Minecraft.net
 
-1.  Go to the [Launcher download page on Minecraft.net.](https://www.minecraft.net/en-us/download)
-2.  Scroll to **Other Versions & Platforms** to see all available versions.
-3.  Select the download that works with your operating system.
-
-## Minecraft Launcher Supported Operating Systems
-
-Mojang ended support for the Minecraft Launcher for Windows 7, 8 and 8.1 and for macOS versions 10.11, 10.12, 10.13 and 10.14 as of March 2025. We recommend updating your operating system to Windows 10 or later, or macOS 10.15 or later, to continue receiving Minecraft Launcher updates. You can continue to use the Minecraft Launcher for legacy operating systems without support or updates.
+1.  Go to [Download Minecraft & Server Software](https://www.minecraft.net/en-us/download).
+2.  Select **Download** or **See below** for other options.

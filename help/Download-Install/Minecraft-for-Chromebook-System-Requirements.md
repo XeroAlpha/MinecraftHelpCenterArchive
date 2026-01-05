@@ -1,38 +1,38 @@
 ---
-title: Minecraft for Chromebook System Requirements
+title: Chromebook System Requirements for Minecraft
 date: 2023-03-07T23:00:10Z
-updated: 2025-02-19T18:30:03Z
+updated: 2026-01-05T18:39:45Z
 categories: Download & Install
 tags:
   - section_27166490706957
-link: https://help.minecraft.net/hc/en-us/articles/13803752803725-Minecraft-for-Chromebook-System-Requirements
+link: https://help.minecraft.net/hc/en-us/articles/13803752803725-Chromebook-System-Requirements-for-Minecraft
 hash:
-  h_01JMFQDQDDBZPJ1XWA5NADW06K: minimum-requirements
-  h_01JMFQDWJWTZK4P7CWTM9EH42M: recommended-processors
-  h_01JMFQF3AS78TF5FRVJ7CW89YA: external-monitors-with-chromebook
+  h_01KCW2827F9FPM2Y6MZF4V051V: minimum-requirements
+  h_01KCW2827J72B4TW10ZTPVD493: recommended-processors
+  h_01KCW2827K3BVRC9F1WCS32D2B: additional-resources-for-troubleshooting-performance-issues
 ---
 
-To get the best possible experience out of Minecraft on your Chromebook, you will want to have either the minimum or recommended system requirements listed below:
+[Minecraft: Bedrock Edition](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) is available for Chomebook on the Google Play store. See minimum requirements and recommended processors to determine whether Minecraft is playable on your device.
+
+If you want to demo Minecraft on your Chromebook before your purchase the game, you can also download and play the [Minecraft Free Trial for Different Devices](https://www.minecraft.net/en-us/free-trial).
 
 ## Minimum requirements
 
-- Operating System: ChromeOS 111
-- System Architecture: 64-bit (x86_64, arm64-v8a)
-- Processor: AMD A4-9120C, Intel Celeron N4000, Intel 3865U, Intel i3-7130U, Intel m3-8100Y, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
-- Memory: 4 GB RAM
-- Storage: Minimum of 1 GB game installation, maps, and other files 
+- **Operating System**: ChromeOS 111
+- **System Architecture**: 64-bit (x86_64, arm64-v8a)
+- **Processor**: AMD A4-9120C, Intel Celeron N4000, Intel 3865U, Intel i3-7130U, Intel m3-8100Y, Mediatek Kompanio 500 (MT8183), Qualcomm SC7180 or better
+- **Memory**: 4 GB RAM
+- **Storage**: Minimum of 1 GB game installation, maps, and other files
 
 ## Recommended processors
 
-In addition to the processors listed in the minimum requirements, the following are recommended processors for better Minecraft performance:
+The following processor models will deliver better performance in Minecraft:
 
 - AMD Ryzen 3 3250C
 - Intel Celeron N4500
 
-If you meet these requirements and are looking to optimize your game further, see [Optimizing Performance in Minecraft: Bedrock Edition](../Performance-Troubleshooting/Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md).
+## Additional resources for troubleshooting performance issues
 
-## External monitors with Chromebook
-
-When switching the Minecraft: Bedrock Edition app from a Chromebook device to an external monitor, a crash may occur depending on the graphic settings of the two devices.
-
-- Avoid this issue by not moving the Minecraft: Bedrock Edition application between display devices and not changing "display scaling" settings on your device while the game is running. If this has happened, please relaunch your game.
+- [Optimizing Minecraft: Java Edition Video Settings and Performance](../Performance-Troubleshooting/Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md)
+- [Fix Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fix-Crashes-and-Lag-Issues-in-Minecraft.md)
+- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)

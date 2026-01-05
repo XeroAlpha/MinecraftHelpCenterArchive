@@ -1,7 +1,7 @@
 ---
-title: iOS Operating System Requirements for Minecraft
+title: iOS System Requirements for Minecraft
 date: 2024-03-05T20:22:52Z
-updated: 2025-05-13T21:33:39Z
+updated: 2026-01-05T18:44:03Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -12,32 +12,23 @@ tags:
   - subject_game_crashes
   - section_27166490706957
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/24723754023821-iOS-Operating-System-Requirements-for-Minecraft
+link: https://help.minecraft.net/hc/en-us/articles/24723754023821-iOS-System-Requirements-for-Minecraft
 hash:
-  h_01HR84C2HY1R68NNK8HZH4A0HE: minimum-ios-requirements-for-minecraft
-  h_01HR84C8G4HBF68ZXTHBY447AF: recommended-ios-requirements-for-minecraft
-  h_01J832V7JR385F9J4ZBXJ6P7SG: troubleshooting-performance-issues-on-supported-devices
-  h_01J832VANQPAPRGKD0KGZ9MNC5: information-about-sunset-devices
+  h_01KCVYYKS477F7ND4295QHNZ9Z: support-for-older-devices
+  h_01KCVYYKS6EN2BMCXK50DKM0MK: resources-for-playing-minecraft-on-mobile-devices
 ---
 
-As Minecraft grows, so must the operating system that supports it. If you are using the most current version of iOS, your device will be compatible with the latest version of Minecraft.
+To view the minimum iOS system requirements for Minecraft, go to the **Information** section of the [Minecraft App Store listing](https://apps.apple.com/us/app/minecraft/id479516143). You can view compatibility details, including OS and storage requirements.
 
-## Minimum IOS Requirements for Minecraft
+For optimal gameplay performance and access to all features and gameplay modes, [Update your iPhone or iPad](https://support.apple.com/en-us/118575) to the most recent iOS version or use a device with the most recent iOS version. Devices that only meet the minimum requirements may not have access to some features and gameplay modes or run as smoothly as newer devices.
 
-The minimum system requirements for Minecraft are listed on the [Apple App store](https://apps.apple.com/us/app/minecraft/id479516143). These are the minimum requirements for running the game, but you may not have access to all available features and game play modes.
+## Support for older devices
 
-## Recommended IOS Requirements for Minecraft
+As of March 2025, you must update to iOS 14 to access online play and continue receiving updates for Minecraft. See [Operating System Sunset Announcements for Minecraft](../Performance-Troubleshooting/Operating-System-Sunset-Announcements-for-Minecraft.md) for details. [iOS 14 and iPadOS are compatible with these devices](https://support.apple.com/en-us/103202).
 
-You need to update to iOS 14 or above by March 2025 to continue receiving updates for Minecraft or to access online play.  You can refer to [Apple’s list of devices currently compatible with iOS 14/iPadOS](https://support.apple.com/en-us/103202).
+## Resources for playing Minecraft on mobile devices
 
-For optimal game play performance and access to all features and gameplay modes, we recommend updating to the most recent version of IOS. Please follow [Apple’s guide on how to update your device](https://support.apple.com/en-us/HT204204).
-
-## Troubleshooting performance issues on supported devices
-
-If you are on a device that meets the above specs and are still experiencing issues, see [Optimizing Video Settings and Performance in Minecraft](../Performance-Troubleshooting/Optimizing-Minecraft-Bedrock-Edition-Video-Settings-and-Performance.md) for tips on improving your performance.
-
-## Information about sunset devices
-
-After you receive a final Minecraft update for your sunset operating system, you will still be able to play on your worlds and access Marketplace purchases (including Minecoins). Realms managed with a device running a sunset operating system will continue to work for 6 months unless they are updated by the Realm owner on a different device. To cancel your Realms subscription, see [Cancel a Minecraft Realms Subscription in the Minecraft Menu](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md).
-
-After an OS is sunset, your device will no longer receive the latest Minecraft updates and will be unable to play multiplayer with devices that are continuing to receive updates. You also will lose access to certain servers.
+- [Buying Minecraft on Gaming Consoles and Mobile Devices](../Buying-Minecraft-Games/Buying-Minecraft-on-Gaming-Consoles-and-Mobile-Devices.md)
+- [Manually Update Minecraft on Mobile Devices](./Manually-Update-Minecraft-on-Mobile-Devices.md)
+- [Install & Play Minecraft Beta or Preview on Mobile Devices](./Install-Play-Minecraft-Beta-or-Preview-on-Mobile-Devices.md)
+- [Sign in to Minecraft with a Microsoft Account on Mobile](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
