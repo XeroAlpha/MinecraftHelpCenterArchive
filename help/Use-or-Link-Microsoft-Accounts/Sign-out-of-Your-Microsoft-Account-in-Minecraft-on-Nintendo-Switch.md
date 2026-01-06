@@ -1,7 +1,7 @@
 ---
 title: Sign out of Your Microsoft Account in Minecraft on Nintendo Switch
 date: 2024-08-12T17:45:31Z
-updated: 2025-06-11T21:53:02Z
+updated: 2026-01-06T18:30:45Z
 categories: Use or Link Microsoft Accounts
 tags:
   - section_29296773863181
@@ -19,9 +19,7 @@ If you want to sign out of your Microsoft account when playing Minecraft on your
 2.  Select the Switch account you want to unlink from your Microsoft account.
 3.  Select **Settings**.  
 4.  Go to the **Account** tab.  
-5.  Select **Unlink Microsoft account**.  
-6.  Read through and check the boxes warning you of the content you miss out on by unlinking your account.  
-7.  Press **Unlink**. 
+5.  Sign out of your Microsoft account.  
 
 ## What happens when you sign out
 
