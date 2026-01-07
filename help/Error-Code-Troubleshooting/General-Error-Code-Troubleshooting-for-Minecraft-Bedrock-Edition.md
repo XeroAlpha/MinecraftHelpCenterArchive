@@ -1,7 +1,7 @@
 ---
 title: "General Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2021-06-29T16:23:46Z
-updated: 2025-12-01T22:33:13Z
+updated: 2026-01-06T22:24:23Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft

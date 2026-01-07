@@ -1,7 +1,7 @@
 ---
 title: Get Help Signing into Minecraft with Your Microsoft Account
 date: 2019-06-27T20:41:11Z
-updated: 2025-12-01T22:35:04Z
+updated: 2026-01-06T21:54:19Z
 categories: Account Sign-in
 tags:
   - title_minecraft_java_edition
@@ -50,6 +50,7 @@ The Sign-in Helper is your first stop for solving Microsoft account sign-in issu
 
 If you need to update your Microsoft account information, you can learn more by visiting these Microsoft help pages:
 
+- [UK Age Verification](https://support.xbox.com/en-GB/help/family-online-safety/online-safety/UK-age-verification)
 - [Reset Your Password](https://support.microsoft.com/en-us/account-billing/change-your-microsoft-account-password-fdde885b-86da-2965-69fd-4871309ef1f1)
 - [Recover Your Username](https://support.microsoft.com/en-us/account-billing/you-forgot-your-microsoft-account-username-b2049472-3b8f-27d3-61c6-67a668453f4c)
 - [Create a New Microsoft Account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf)
