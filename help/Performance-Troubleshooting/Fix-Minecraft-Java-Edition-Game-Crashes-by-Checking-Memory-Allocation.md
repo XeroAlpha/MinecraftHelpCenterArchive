@@ -1,7 +1,7 @@
 ---
 title: "Fix Minecraft: Java Edition Game Crashes by Checking Memory Allocation"
 date: 2025-08-25T21:29:57Z
-updated: 2025-12-15T19:16:12Z
+updated: 2026-01-07T16:13:27Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -31,7 +31,7 @@ You may want to change JVM arguments when:
 - **Your system has 4 GB of RAM or less**: Decrease memory allocation to **2 GB** for stability.
 - **Your system has available RAM (8 GB or more)**: You can increase memory allocation for better performance.
 
-For example, after version **26.1-snapshot-1**, the default memory allocation for playing Minecraft: Java Edition changed from **2 GB** to **4 GB**. If your system has **less than 4 GB of RAM**, you need to manually change the allocated memory back to **2 GB** to avoid crashes.
+For example, after version **26.1-snapshot-2**, the default memory allocation for playing Minecraft: Java Edition changed from **2 GB** to **4 GB**. If your system has **less than 4 GB of RAM**, you need to manually change the allocated memory back to **2 GB** to avoid crashes.
 
 ## Change the memory allocated to Minecraft: Java Edition
 
