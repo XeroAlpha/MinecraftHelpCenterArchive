@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.0.27
 date: 2026-01-07T16:29:36Z
-updated: 2026-01-07T16:45:22Z
+updated: 2026-01-08T15:20:48Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/42482730418445-Minecraft-Beta-Preview-26-0-27
 hash:
@@ -143,9 +143,9 @@ Test the first features from our cutest game drop yet! First to waddle into Mine
 - Fixed shields with banner designs rendering incorrectly when equipped in first person. ([MCPE-232638](https://bugs.mojang.com/browse/MCPE-232638))
 - Dithering
   - Added dithering to items held by Players and Mobs if dithering is enabled in Accessibility menu.
-  - Added dithering to skulls, heads, chests, shulker boxes, banners, conduits, decorated pots and copper colem statues held by Players and Mobs if dithering is enabled in the Accessibility menu.
+  - Added dithering to Skulls, Heads, Chests, Shulker Boxes, Banners, Conduits, Decorated Pots and Copper Golem statues held by Players and Mobs if dithering is enabled in the Accessibility menu.
   - Added Cobweb block to the list of ditherable blocks.
-  - Fixed dithering for equipped shields with banner designs when held by entities.
+  - Fixed dithering for equipped Shields with Banner designs when held by entities.
 - Data-driving
   - Added the ability to specify ambient light colors according to the time of day in the Vibrant Visual lighting configuration files.
   - Added the ability to specify ambient light illuminances according to the time of day in the Vibrant Visual lighting configuration files.
@@ -380,11 +380,11 @@ Test the first features from our cutest game drop yet! First to waddle into Mine
 
 ### Sounds
 
-Every spear type now has its own unique sound event, allowing creators to define dedicated custom sounds
+- Every spear type now has its own unique sound event, allowing creators to define dedicated custom sounds
 
 ### Stability and Performance
 
-- Fixed might occur crash when suspended title during "Syncing user data" UI is running
+- Fixed a crash that could sometimes occur if the game is closed when the "Syncing user data" screen is showing
 
 ### User Interface
 
