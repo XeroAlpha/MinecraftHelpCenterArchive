@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Installation Guide
 date: 2025-10-01T17:35:03Z
-updated: 2025-12-03T21:20:33Z
+updated: 2026-01-08T20:22:23Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Installation-Guide
 hash:
@@ -72,7 +72,7 @@ Official Minecraft Education Partners can be enabled in this section to grant th
       - Coming soon: Beta client for iOS
 2.  Download the dedicated server build(s) on your server machine(s):
     - [Beta server for Windows](https://aka.ms/downloadmee-winServerBeta)
-    - [Beta server for Linux](https://aka.ms/downloadmee-linuxServerBeta)
+    - [Beta server for Linux](https://aka.ms/MCEDU_Beta_Linux_Server)
 3.  Download VS Code and the sample tooling Python notebook on your admin machine:
     - [Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
     - [Sample tooling Python notebook](http://aka.ms/MCEDU-DS-Tooling)

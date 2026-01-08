@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server 101
 date: 2025-10-01T17:56:33Z
-updated: 2025-11-24T19:41:14Z
+updated: 2026-01-08T20:22:27Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-101
 hash:
@@ -21,7 +21,7 @@ hash:
 
 # **Important! Beta Info and Resources**
 
-- The public beta for the Minecraft Education Dedicated Server will run on v1.21.110. Beta scope:
+- The public beta for the Minecraft Education Dedicated Server will run on v1.21.130. Beta scope:
   - Features
     - Server creation
     - Client end-to-end flow
