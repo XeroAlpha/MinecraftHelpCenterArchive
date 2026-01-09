@@ -1,7 +1,7 @@
 ---
 title: View Your Minecraft Marketplace Content
 date: 2021-03-25T19:21:09Z
-updated: 2025-12-01T22:58:58Z
+updated: 2026-01-08T22:24:55Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -30,7 +30,7 @@ The Minecraft Marketplace offers enhancements for your game, such as add-ons, pr
 1.  Launch Minecraft.
 2.  Verify your gamertag matches the account you used to get your Marketplace items.
 3.  Select Marketplace.
-4.  Select My Content (bookcase icon) to view all your items.
+4.  Select My Library (bookcase icon) to view all your items.
 5.  Click on an item to view details and download or activate it. 
 
 ## View Marketplace Pass Content
