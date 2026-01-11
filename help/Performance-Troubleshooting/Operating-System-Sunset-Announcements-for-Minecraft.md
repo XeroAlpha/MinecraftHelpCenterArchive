@@ -36,7 +36,7 @@ The following devices and systems are no longer supported:
   - OpenXR
   - ARM32
 
-Devices that use the Minecraft Launcher also have updated operating system requirements. See [Minecraft Launcher Minimum Requirements](https://help.minecraft.net/hc/en-us/articles/42090028703245).
+Devices that use the Minecraft Launcher also have updated operating system requirements. See [Minecraft Launcher Minimum Requirements](../Download-Install/Minecraft-Launcher-Minimum-Requirements.md).
 
 ## Limitations of Minecraft on Sunset Devices
 

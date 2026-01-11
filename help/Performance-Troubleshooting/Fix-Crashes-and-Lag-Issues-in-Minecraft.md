@@ -38,7 +38,7 @@ Before trying more advanced troubleshooting steps, we recommend signing out of M
 ## Optimize your device
 
 - **Use a personal device: **Work or school devices may have restrictions that can prevent Minecraft from running properly.
-- **Check available storage space: **Confirm your file storage space and memory meet or exceed [minimum requirements](../Download-Install/System-Requirements-for-Minecraft-Java-Edition.md) and free up space if you are low.
+- **Check available storage space: **Confirm your file storage space and memory meet or exceed [minimum requirements](../Download-Install/Minecraft-Java-Edition-System-Requirements.md) and free up space if you are low.
 - **Run available updates: **Download and install any recommended operating system updates.
 - **Update graphics drivers: **Install the newest graphics drivers directly from the manufacturer. Visit [AMD](https://www.amd.com/en/support/download/drivers.html), [NVIDIA](https://www.nvidia.com/en-us/drivers/), or [Intel](https://www.intel.com/content/www/us/en/download-center/home.html) depending on your graphics processor.
 - **Close other programs**: Close any active, non-Minecraft apps or programs that may be using memory and processor resources.

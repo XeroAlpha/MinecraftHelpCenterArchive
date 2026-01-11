@@ -54,7 +54,7 @@ Happy mining!
 - The game now allocates 4 GB of RAM by default (up from 2 GB)
 - Garbage collection has been changed from G1GC to ZGC for compatible devices
 
-> **Developer's Note**: *The default memory allocation has been bumped from 2GB to 4GB to make the game run smoother and reduce stutters. Furthermore, with generational ZGC, you should see a more stable framerate – especially when operating memory heavy tasks. If you're running Minecraft on a machine with less than 4GB of RAM – please refer to *[*this help article*](../../help/Performance-Troubleshooting/Fix-Minecraft-Java-Edition-Game-Crashes-by-Checking-Memory-Allocation.md)*. If you want to change the garbage collector – please refer to *[*this help article*](https://help.minecraft.net/hc/en-us/articles/41950300066573-Change-the-Garbage-Collector-for-Minecraft-Java-Edition)*. Third-party launchers may not support these changes.*
+> **Developer's Note**: *The default memory allocation has been bumped from 2GB to 4GB to make the game run smoother and reduce stutters. Furthermore, with generational ZGC, you should see a more stable framerate – especially when operating memory heavy tasks. If you're running Minecraft on a machine with less than 4GB of RAM – please refer to *[*this help article*](../../help/Performance-Troubleshooting/Fix-Minecraft-Java-Edition-Game-Crashes-by-Checking-Memory-Allocation.md)*. If you want to change the garbage collector – please refer to *[*this help article*](../../help/Performance-Troubleshooting/Change-the-Garbage-Collector-for-Minecraft-Java-Edition.md)*. Third-party launchers may not support these changes.*
 
 ## Technical Changes
 

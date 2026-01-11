@@ -2,9 +2,9 @@
 title: "Take and Manage Screenshots in Minecraft: Java Edition"
 date: 2025-10-29T18:14:08Z
 updated: 2025-10-29T20:14:57Z
-categories: Manage Your Minecraft Profile
+categories: Minecraft Game Guides
 tags:
-  - section_27194059750157
+  - section_27983418545293
 link: https://help.minecraft.net/hc/en-us/articles/40719065932557-Take-and-Manage-Screenshots-in-Minecraft-Java-Edition
 hash:
   h_01K8RJQ2Q0DCEWH0HH1Z43JTD2: how-to-take-a-screenshot-in-minecraft-java-edition
@@ -21,7 +21,7 @@ Any in-game screenshots you take can be viewed and managed from the Minecraft sc
 - **Select F1 to hide the heads-up display (HUD)**: Select F1 before you take a screenshot to hide Minecraft’s UI.
 - **Select F5 to toggle perspectives**: Switch between first and third person views before you take a screenshot for different angles.
 
-If you’ve modified your [Hotkeys in Minecraft: Java Edition](../Minecraft-Game-Guides/Hotkeys-in-Minecraft-Java-Edition.md), your keyboard settings may be different.
+If you’ve modified your [Hotkeys in Minecraft: Java Edition](./Hotkeys-in-Minecraft-Java-Edition.md), your keyboard settings may be different.
 
 ## How to manage your Minecraft: Java Edition Screenshots on PC
 

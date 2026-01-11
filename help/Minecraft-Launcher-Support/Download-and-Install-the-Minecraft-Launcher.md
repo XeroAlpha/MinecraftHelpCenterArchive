@@ -22,7 +22,7 @@ hash:
   h_01KCWB3RMTQ1GDD6DEKFRCF5Z4: minecraftnet
 ---
 
-The Minecraft Launcher is the easiest way to download, manage, and update your Minecraft game installations and is supported on most Windows, Mac, and Linux operating systems. See [Minecraft Launcher Minimum Requirements](https://help.minecraft.net/hc/en-us/articles/42090028703245) for system requirements and support for older devices.
+The Minecraft Launcher is the easiest way to download, manage, and update your Minecraft game installations and is supported on most Windows, Mac, and Linux operating systems. See [Minecraft Launcher Minimum Requirements](../Download-Install/Minecraft-Launcher-Minimum-Requirements.md) for system requirements and support for older devices.
 
 You can download the Minecraft Launcher from the Microsoft Store or Minecraft.net.
 

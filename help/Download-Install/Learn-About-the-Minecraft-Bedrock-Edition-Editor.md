@@ -16,7 +16,7 @@ The Minecraft Editor for Bedrock Edition is a visual creator tool that lets you 
 
 ## How to launch the Minecraft Editor
 
-To use the Minecraft Editor on a Windows PC, you need to meet the [Minecraft Launcher Minimum Requirements](https://help.minecraft.net/hc/en-us/articles/42090028703245) and have Minecraft: Bedrock Edition installed.
+To use the Minecraft Editor on a Windows PC, you need to meet the [Minecraft Launcher Minimum Requirements](./Minecraft-Launcher-Minimum-Requirements.md) and have Minecraft: Bedrock Edition installed.
 
 1.  Start the Minecraft Launcher.
 2.  Select **Minecraft: Bedrock Edition** on the left.

@@ -21,4 +21,4 @@ Here’s what you can expect from the Minecraft: Java Edition Demo:
 
 If you enjoy the demo, you can purchase [Minecraft: Java & Bedrock Edition for PC Deluxe Edition](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc?tabs=%7B%22details%22%3A0%7D).
 
-You can also [Start a Minecraft: Bedrock Edition Free Trial](../Get-Minecraft/What-is-Minecraft-Free-Trial-Mode.md).
+You can also [Start a Minecraft: Bedrock Edition Free Trial](../Get-Minecraft/Start-a-Minecraft-Bedrock-Edition-Free-Trial.md).

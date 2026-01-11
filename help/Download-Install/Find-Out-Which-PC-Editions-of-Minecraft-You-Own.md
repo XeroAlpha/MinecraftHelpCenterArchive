@@ -31,6 +31,6 @@ If you own an individual PC license for Minecraft: Java Edition or Minecraft: Be
 
 Visit these pages to learn more about available editions of Minecraft:
 
-- [Transferring Minecraft and Other Minecraft Game Licenses Between Devices](./Transferring-Minecraft-and-Other-Minecraft-Game-Licenses-Between-Devices.md)
+- [Transferring Minecraft and Other Minecraft Game Licenses Between Devices](./Install-or-Transfer-Minecraft-to-a-New-Device.md)
 - [Different Minecraft Editions](../Get-Minecraft/Different-Minecraft-Editions.md)
 - [Buying Minecraft Games](https://help.minecraft.net/hc/en-us/sections/28871651550221)
