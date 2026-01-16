@@ -1,7 +1,7 @@
 ---
 title: "Join a Friend's Minecraft: Bedrock Edition World Online"
 date: 2024-02-14T18:43:29Z
-updated: 2025-12-01T22:27:50Z
+updated: 2026-01-15T23:59:13Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -20,13 +20,6 @@ hash:
 ---
 
 You can play Minecraft: Bedrock Edition with friends online by joining their world, joining a Realm, or playing together on a server. In this article, we’ll focus on joining a friend’s world directly via an internet connection.
-
-To learn about other ways to play with friends, see:
-
--  
-  - [Play Minecraft: Bedrock Edition online in a multiplayer server](./Play-Minecraft-Bedrock-Edition-Online-in-a-Multiplayer-Server.md)
-  - [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Join-a-Minecraft-Bedrock-Edition-Realm.md)
-  - [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-on-a-Local-Area-Network-LAN.md)
 
 You can join a friend’s Minecraft: Bedrock Edition world if you’re both friends in Minecraft and online at the same time.
 
@@ -52,3 +45,9 @@ If you need more help getting your game started, see these articles:
 
 - [Invite Friends to Your Minecraft: Bedrock Edition World](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md)
 - [Troubleshooting Unable to Join Multiplayer Worlds in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
+
+To learn about other ways to play with friends, see:
+
+- [Play Minecraft: Bedrock Edition online in a multiplayer server](./Play-Minecraft-Bedrock-Edition-Online-in-a-Multiplayer-Server.md)
+- [Join a Friend's Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Join-a-Minecraft-Bedrock-Edition-Realm.md)
+- [Play Minecraft: Bedrock Edition local multiplayer](./Play-Minecraft-Bedrock-Edition-on-a-Local-Area-Network-LAN.md)
