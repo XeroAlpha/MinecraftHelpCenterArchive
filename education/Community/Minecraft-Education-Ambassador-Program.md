@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Ambassador Program
 date: 2020-08-10T10:56:30Z
-updated: 2023-09-14T23:18:24Z
+updated: 2026-01-20T19:02:35Z
 categories: Community
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556571-Minecraft-Education-Ambassador-Program
 hash:
@@ -15,7 +15,7 @@ hash:
 ## What is a Minecraft Education Ambassador and how do I get the badge?
 
 - Minecraft Education Ambassadors are a global community of educators passionate about sharing Minecraft Education with others. 
-- You receive the badge [via Credly](https://www.credly.com/org/microsoft-education/badge/minecraft-education-expert) after completing the Minecraft 101 series and formally applying on our [Facebook Community.](https://edusupport.minecraft.net/hc/en-us/articles/aka.ms/mceduexpert)
+- You receive the badge via [Credly](https://www.credly.com/org/microsoft-education/badge/minecraft-education-expert) after completing the MTA 101, 201, and 301 trainings (formerly referred to as Minecraft 101, 201, and 301) and formally applying on our [Facebook Community](http://aka.ms/mceduexpert).
 
 ## What are the benefits of becoming a Minecraft Education Ambassador? 
 
@@ -23,11 +23,11 @@ As a Minecraft Education Ambassador, you’ll have a chance to connect and build
 
 ## How does the application process work? 
 
-Applications are reviewed by the end of every month, once you've completed the Minecraft 101 series, you can apply via the Facebook Group application which includes showing evidence of completing the series, a series of short questions and a link to a one-minute video highlighting your interest and experience in Minecraft Education.
+Applications are reviewed by the end of every month, once you've completed the MTA 101, 201, and 301 series, you can apply via the Facebook Group application which includes showing evidence of completing the series, a series of short questions and a link also be part of our [Minecraft Teachers' Lounge](https://aka.ms/mcteacherslounge). Be sure to share your name and email used to register and complete these MTA course requirements as they are cross checked for full completion.
 
 ## How will I be notified about the status of my application? 
 
-Your application will be reviewed before the end of the month, then you'll receive a Facebook notification and entrance into the Private Group with more information.
+Your application will be reviewed before the end of the month, then you'll receive a Facebook notification and entrance into the Private Group with more information. You'll also receive an email welcoming you to the Ambassador Community using the email used with MTA course requirement completion.
 
 ## What if my bandwidth or time I can provide for the program changes once I’ve been accepted? 
 
