@@ -1,7 +1,7 @@
 ---
 title: Windows Installation Guide
 date: 2023-02-10T19:44:41Z
-updated: 2025-06-27T18:40:23Z
+updated: 2026-01-24T03:12:04Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/13106858087956-Windows-Installation-Guide
 hash:
@@ -36,55 +36,86 @@ To install Minecraft via device management tools, you can choose to install and 
 
  
 
-|  |  |
-|----|----|
-| **Installation method** | **Updates via** |
-| <u>[Install on devices enrolled into Microsoft Intune using Microsoft Store app integration](#install-on-devices-enrolled-into-microsoft-intune-using-microsoft-store-app-integration)</u> | Microsoft Store |
-| [Instruct users to install from the Microsoft Store](#instruct-users-to-install-from-the-microsoft-store) | Microsoft Store |
-| [Install the Microsoft Store version manually](#install-minecraft-education-via-group-policy-using-powershell-script) | Microsoft Store |
-| [Install via WinGet](#install-on-devices-via-winget-command-in-command-prompt) | Microsoft Store |
-| [Install desktop version   ](#install-desktop-version) | Scheduled Task |
-| [Install Minecraft Education via Group Policy using PowerShell script](#Install%20Minecraft%20Education%20via%20Group%20Policy%20using%20PowerShell%20script) | Either Microsoft Store or Scheduled Task |
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 242px; width: 100%;">
+<table class="wysiwyg-table-resized" style="border-style: solid; border-width: 2px;">
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 31%" />
+</colgroup>
+<tbody>
+<tr style="height: 22px;">
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 464.333px"><strong>Installation method</strong></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 96.6667px"><strong>Updates via</strong></td>
+</tr>
+<tr style="height: 44px;">
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 464.333px"><a href="#install-on-devices-enrolled-into-microsoft-intune-using-microsoft-store-app-integration">Install on devices enrolled into Microsoft Intune using Microsoft Store app integration</a></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 96.6667px">Microsoft Store</td>
+</tr>
+<tr style="height: 44px;">
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 464.333px"><a href="#instruct-users-to-install-from-the-microsoft-store">Instruct users to install from the Microsoft Store</a></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 96.6667px">Microsoft Store</td>
+</tr>
+<tr style="height: 44px;">
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 464.333px"><a href="#install-minecraft-education-via-group-policy-using-powershell-script">Install the Microsoft Store version manually</a></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 96.6667px">Microsoft Store</td>
+</tr>
+<tr style="height: 44px;">
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 464.333px"><a href="#install-on-devices-via-winget-command-in-command-prompt">Install via WinGet</a></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 96.6667px">Microsoft Store</td>
+</tr>
+<tr style="height: 44px;">
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 464.333px"><a href="#install-desktop-version">Install desktop version   </a></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 96.6667px">Scheduled Task</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 464.333px"><a href="#Install%20Minecraft%20Education%20via%20Group%20Policy%20using%20PowerShell%20script">Install Minecraft Education via Group Policy using PowerShell script</a></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 96.6667px">Either Microsoft Store or Scheduled Task</td>
+</tr>
+</tbody>
+</table>
+</figure>
 
  
 
 The version you choose may depend on your setup. These are the recommended Minecraft Education versions based on common setups.
 
-<table style="width: 666px;" data-border="2px" data-cellpadding="5px">
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="width: 100%;">
+<table class="wysiwyg-table-resized" style="border-style: solid; border-width: 2px;">
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col style="width: 24%" />
+<col style="width: 25%" />
+<col style="width: 49%" />
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 175px"><p><strong>Windows OS</strong></p></td>
-<td style="width: 183px"><p><strong>One-to-one device</strong></p></td>
-<td style="width: 308px"><p><strong>Shared device</strong></p></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 175px"><strong>Windows OS</strong></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 183px"><strong>One-to-one device</strong></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 308px"><strong>Shared device</strong></td>
 </tr>
 <tr>
-<td style="width: 175px"><p>Windows 10/11 </p></td>
-<td style="width: 183px"><p>Microsoft Store version</p></td>
-<td style="width: 308px"><p>Microsoft Store version (recommended in device-context if available)</p></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 175px">Windows 10/11 </td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 183px">Microsoft Store version</td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 308px">Microsoft Store version (recommended in device-context if available)</td>
 </tr>
 <tr>
-<td style="width: 175px"><p>Windows 11<br />
-Windows 10 1703 LTSB and later</p></td>
-<td style="width: 183px"><p>Microsoft Store version</p></td>
-<td style="width: 308px"><p>Microsoft Store version (deployed in device-context) or desktop version.</p></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 175px">Windows 11<br />
+Windows 10 1703 LTSB and later</td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 183px">Microsoft Store version</td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 308px">Microsoft Store version (deployed in device-context) or desktop version.</td>
 </tr>
 <tr>
-<td style="width: 175px"><p>Windows 10 1703 LTSB</p></td>
-<td style="width: 183px"><p>Desktop installer</p></td>
-<td style="width: 308px"><p>Desktop installer</p></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 175px">Windows 10 1703 LTSB</td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 183px">Desktop installer</td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 308px">Desktop installer</td>
 </tr>
 <tr>
-<td style="width: 175px"><p>All versions of Windows Server</p></td>
-<td style="width: 183px"><p>Not supported</p></td>
-<td style="width: 308px"><p>Not supported</p></td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 175px">All versions of Windows Server</td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 183px">Not supported</td>
+<td style="border-style: solid; border-width: 1px; padding: 5px; width: 308px">Not supported</td>
 </tr>
 </tbody>
 </table>
+</figure>
 
  
 
@@ -158,87 +189,112 @@ Follow these steps to manually install the Windows desktop version of Minecraft 
 
 The full list of command line options are:
 
-<table style="width: 576px; height: 536px;" data-border="2px" data-cellpadding="5px">
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 536px; width: 576px;">
+<table style="border-style: solid; border-width: 2px;">
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/? or /help</p></td>
-<td style="width: 392.125px; height: 22px"><p>Display command line options</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/? or /help</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Display command line options</td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/extract: &lt;directory&gt;</p></td>
-<td style="width: 392.125px; height: 22px"><p>Extracts all files to the specified directory</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/extract: &lt;directory&gt;</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Extracts all files to the specified directory</td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/listlangs</p></td>
-<td style="width: 392.125px; height: 22px"><p>Lists the languages supported by setup</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/listlangs</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Lists the languages supported by setup</td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/exenoui</p></td>
-<td style="width: 392.125px; height: 22px"><p>Launches EXE setup without a UI</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/exenoui</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Launches EXE setup without a UI</td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/exebasicui</p></td>
-<td style="width: 392.125px; height: 22px"><p>Launches EXE setup with basic UI</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/exebasicui</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Launches EXE setup with basic UI</td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/exelang &lt;langid&gt;</p></td>
-<td style="width: 392.125px; height: 22px"><p>Launches the EXE setup using the specified language</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/exelang &lt;langid&gt;</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Launches the EXE setup using the specified language</td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/proxyusername</p></td>
-<td style="width: 392.125px; height: 22px"><p>Username used by proxy</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/proxyusername</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Username used by proxy</td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 198.375px; height: 22px"><p>/proxypassword</p></td>
-<td style="width: 392.125px; height: 22px"><p>Password used by proxy</p></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 198.375px">/proxypassword</td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Password used by proxy</td>
 </tr>
 <tr style="height: 44px;">
-<td style="width: 198.375px; height: 44px"><p>/L*V &lt;path_to_file&gt;<br />
-/exelog &lt;path_to_file&gt;</p></td>
-<td style="width: 392.125px; height: 44px"><p>Creates a verbose log file at the specified path. Use just /L to only do basic logging. </p></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 198.375px">/L*V &lt;path_to_file&gt;<br />
+/exelog &lt;path_to_file&gt;</td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 392.125px">Creates a verbose log file at the specified path. Use just /L to only do basic logging. </td>
 </tr>
 <tr style="height: 44px;">
-<td style="width: 198.375px; height: 44px"><p>INSTALL_UPDATER="NONE"</p></td>
-<td style="width: 392.125px; height: 44px"><p>Does not create the task scheduler events for update checks. (App will need to be manually updated)</p></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 198.375px">INSTALL_UPDATER="NONE"</td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 392.125px">Does not create the task scheduler events for update checks. (App will need to be manually updated)</td>
 </tr>
 <tr style="height: 134px;">
-<td style="width: 198.375px; height: 134px"><p>&lt;msioptions&gt;</p></td>
-<td style="width: 392.125px; height: 134px"><p>Options for msiexec.exe running the MSI package. For example /qn runs the MSI install as quiet with no user interface.<br />
-You can learn more about these here: <a href="https://learn.microsoft.com/en-us/windows/win32/msi/standard-installer-command-line-options">Microsoft Standard Installer command-line options - Win32 apps | Microsoft Learn</a></p></td>
+<td style="border-style: solid; border-width: 1px; height: 134px; padding: 5px; width: 198.375px">&lt;msioptions&gt;</td>
+<td style="border-style: solid; border-width: 1px; height: 134px; padding: 5px; width: 392.125px">Options for msiexec.exe running the MSI package. For example /qn runs the MSI install as quiet with no user interface.<br />
+You can learn more about these here: <a href="https://learn.microsoft.com/en-us/windows/win32/msi/standard-installer-command-line-options">Microsoft Standard Installer command-line options - Win32 apps | Microsoft Learn</a></td>
 </tr>
 <tr style="height: 138px;">
-<td style="width: 198.375px; height: 138px"><p>APPDIR=</p></td>
-<td style="width: 392.125px; height: 138px">Changes the install path for Minecraft Education, for example:<br />
-&#10;<pre><code>MinecraftInstaller.exe AppDir=C:\Test\ /qn /exenoui</code></pre>
-will install Minecraft Education to C:\Test silently without showing the install GUI. </td>
+<td style="border-style: solid; border-width: 1px; height: 138px; padding: 5px; width: 198.375px">APPDIR=</td>
+<td style="border-style: solid; border-width: 1px; height: 138px; padding: 5px; width: 392.125px"><p>Changes the install path for Minecraft Education, for example:<br />
+ </p>
+<pre class="wysiwyg-code-block"><code>MinecraftInstaller.exe AppDir=C:\Test\ /qn /exenoui</code></pre>
+<p>will install Minecraft Education to C:\Test silently without showing the install GUI. </p></td>
 </tr>
 </tbody>
 </table>
+</figure>
 
  
 
 3\. If your software deployment tool has a detection method, you can use the following options:
 
-|  |  |
-|----|----|
-| **Key** | HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Studios\Minecraft Education Edition |
-| **Value name** | Version |
-| **Detection method** | Version comparison |
-| **Operator** | Greater than or equal to |
-| **Value** | \<deployed version, eg “1.18.45.0”\> |
-| **Associated with a 32-bit app on 64-bit clients** | Yes |
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 243px; width: 575px;">
+<table style="border-style: solid; border-width: 2px;">
+<tbody>
+<tr style="height: 44px;">
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 138.344px"><strong>Key</strong></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 413.656px"><p>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Studios\Minecraft Education Edition</p></td>
+</tr>
+<tr style="height: 22px;">
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 138.344px"><strong>Value name</strong></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 413.656px"><p>Version</p></td>
+</tr>
+<tr style="height: 44px;">
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 138.344px"><strong>Detection method</strong></td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 413.656px">Version comparison</td>
+</tr>
+<tr style="height: 22px;">
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 138.344px"><strong>Operator</strong></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 413.656px">Greater than or equal to</td>
+</tr>
+<tr style="height: 22px;">
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 138.344px"><strong>Value</strong></td>
+<td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 413.656px">&lt;deployed version, eg “1.18.45.0”&gt;</td>
+</tr>
+<tr style="height: 67px;">
+<td style="border-style: solid; border-width: 1px; height: 67px; padding: 5px; width: 138.344px"><strong>Associated with a 32-bit app on 64-bit clients</strong></td>
+<td style="border-style: solid; border-width: 1px; height: 67px; padding: 5px; width: 413.656px">Yes</td>
+</tr>
+</tbody>
+</table>
+</figure>
 
  
 
 ### Install Minecraft Education via Group Policy using PowerShell script
 
-You can download the [PowerShell script here](https://education.minecraft.net/content/dam/education-edition/learning-experiences/support/MinecraftEducationInstallScriptsV3.zip). Inside of the .zip file you'll find both the .exe (desktop) and .appx (Microsoft Store) versions of Minecraft Education. Refer to the included relevant readme files for setup and deployment steps. If you have questions or feedback on this script, please reach out to our support team via [our ticket form here](https://aka.ms/MEE_New_Request). 
-
- 
+You can download the [PowerShell script here](https://education.minecraft.net/content/dam/education-edition/learning-experiences/support/MinecraftEducationInstallScriptsV3.zip). Inside of the .zip file you'll find both the .exe (desktop) and .appx (Microsoft Store) versions of Minecraft Education. Refer to the included relevant readme files for setup and deployment steps. If you have questions or feedback on this script, please reach out to our support team via [our ticket form here](https://aka.ms/MEE_New_Request).   
+  
+**Note:** Although these scripts have been extensively tested in Windows Server environments, we strongly recommend validating them in a limited or test environment prior to deployment across all clients. Please be aware that only limited support can be provided for scripts that have been modified. Additionally, while these scripts may function with other MDM solutions, official support is limited to deployment via Group Policy as a startup script. Deployment as a per-user login script is not supported at this time.
 
 ### Install the Microsoft Store version manually
 
