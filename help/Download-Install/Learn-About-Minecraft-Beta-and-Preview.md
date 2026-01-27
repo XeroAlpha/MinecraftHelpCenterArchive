@@ -1,7 +1,7 @@
 ---
 title: Learn About Minecraft Beta and Preview
 date: 2020-03-11T15:08:34Z
-updated: 2025-12-09T22:21:46Z
+updated: 2026-01-27T19:18:36Z
 categories: Download & Install
 tags:
   - section_27166490706957
@@ -15,6 +15,7 @@ Minecraft Beta and Preview allow you to playtest in-development features of Mine
 
 - [Install & Play Minecraft Beta or Preview on Mobile Devices](./Install-Play-Minecraft-Beta-or-Preview-on-Mobile-Devices.md)
 - [Install & Play Minecraft Preview on Windows PC](./Install-Play-Minecraft-Preview-on-Windows-PC.md)
+- [Install & Play Minecraft Preview on Consoles](https://help.minecraft.net/hc/en-us/articles/42431329963533)
 
 ## Minecraft Beta & Preview Differences and Information
 
