@@ -1,7 +1,7 @@
 ---
 title: Managing Child Account Social Settings Using Xbox Settings Online
 date: 2022-06-16T19:39:34Z
-updated: 2025-12-01T22:31:48Z
+updated: 2026-01-28T21:41:12Z
 categories: Account Settings
 tags:
   - section_27194076935437
@@ -16,7 +16,7 @@ hash:
   h_01JPXFPXSQNTXWP21MR7VH4959: privacy--safety-setting-descriptions
 ---
 
-Minecraft: Bedrock edition allows you to manage who can view your child’s profile online, who they can talk to, and what they can share while playing the game. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox.
+Minecraft: Bedrock and Java editions allow you to manage who can view your child’s profile online, who they can talk to, and what they can share while playing Minecraft. Minecraft uses Microsoft and Xbox family safety features to manage parental controls for in-game chat and other social features even if you do not play Minecraft on an Xbox.
 
 ## Manage Privacy & Online Safety Settings on the Xbox Privacy Online
 
@@ -48,7 +48,7 @@ The Xbox Settings "Privacy & online safety" page allows you to manage what your 
 ### Privacy & Safety setting descriptions
 
 - **Everyone**: No restrictions on who can contact the account owner, use a feature or access content.
-- **Friends**: Only people on the account owner's [Friends list](../Multiplayer-Support/Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md) in Minecraft have access.
+- **Friends**: Only people on the account owner's [Friends list](../Multiplayer-Support/Add-Friends-to-Your-Friend-List-in-Minecraft-Bedrock-Edition.md) in Minecraft have access. 
 - **Only me:** Only the account owner can view the information online or access the feature.
 - **Allow:** Enables the specific feature.
 - **Block**: Prevents us of a feature or outside access by anyone.

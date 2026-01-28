@@ -1,7 +1,7 @@
 ---
 title: Managing Child Account Social Settings Using the Xbox Family App
 date: 2025-03-20T20:09:46Z
-updated: 2025-12-01T22:36:59Z
+updated: 2026-01-28T21:42:16Z
 categories: Account Settings
 tags:
   - section_27194076935437
@@ -16,7 +16,7 @@ hash:
   h_01JPJQMAVH2VPRQ2WGQ7E161NS: manage-privacy--online-safety-in-the-xbox-family-app
 ---
 
-Minecraft: Bedrock edition allows you to use the Xbox Family App to manage who can view your child’s profile online, who they can talk to, and what they can share while playing the game. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox.
+Minecraft: Bedrock and Java editions allow you to use the Xbox Family App to manage who can view your child’s profile online, who they can talk to, and what they can share while playing the game. Minecraft uses Microsoft and Xbox family safety features to manage parental controls for in-game chat and other social features even if you do not play Minecraft on an Xbox.
 
 ## Social settings options for a Child account in the Xbox Family App
 
