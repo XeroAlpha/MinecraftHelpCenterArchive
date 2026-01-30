@@ -1,11 +1,11 @@
 ---
-title: "What is in the Debug Menu in Minecraft: Java Edition?"
+title: "Understanding the Debug Menu in Minecraft: Java Edition"
 date: 2021-03-29T19:27:35Z
-updated: 2024-07-03T19:45:38Z
-categories: Minecraft Game Guides
+updated: 2026-01-30T17:41:45Z
+categories: "Minecraft: Java Edition Guides"
 tags:
-  - section_27983418545293
-link: https://help.minecraft.net/hc/en-us/articles/360059146051-What-is-in-the-Debug-Menu-in-Minecraft-Java-Edition
+  - section_35377765046541
+link: https://help.minecraft.net/hc/en-us/articles/360059146051-Understanding-the-Debug-Menu-in-Minecraft-Java-Edition
 hash:
   h_01J1X1PJV1KG98XNBXEZ4VXF0W: on-the-right-side-you-are-presented-with-some-other-helpful-information
 ---

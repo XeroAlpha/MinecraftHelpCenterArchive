@@ -1,157 +1,120 @@
 ---
 title: "Accessibility Settings for Minecraft: Java Edition"
 date: 2021-05-18T20:23:52Z
-updated: 2024-08-28T18:10:58Z
+updated: 2026-01-30T17:24:41Z
 categories: Accessibility
 tags:
   - section_27520753301005
+  - section_35377765046541
 link: https://help.minecraft.net/hc/en-us/articles/360061018612-Accessibility-Settings-for-Minecraft-Java-Edition
 hash:
-  h_01J6D2RRQ86Y0SG5RBC2GHE4RC: in-this-article
-  h_01GD3TMQAHBGGD74J5HJRHZJ9Y: minecraft-accessibility-menu
-  h_01GD3TMW9XPCYF3FF7YSPVB05B: accessible-menu-navigation-and-narration
-  h_01GD3TN1FHNXPGZY5R6J3R8SMJ: navigation
-  h_01GD3TN8GDMWGNPBVSAH02Q5H3: narration
-  h_01GD3TNDF865Q0WDWENA56TDK4: subtitles
-  h_01GD3TNKBSHG8NDSA9B0KFC33Z: text-background-and-spacing
-  h_01GD3TNS2D66MEARS1J12ZN8SS: auto-jump
-  h_01GD3TNZ89RWVGT301G0YZ45GD: action-toggles
-  h_01GD3TP5YXZVF4717QZS7AZ08S: effects-sliders
-  h_01GD3TPCWQRAGHFBDFRDXMQJCW: other-accessibility-settings
-  h_01GD3TPKJ5JVK7SCTVKD67XJ15: chat-settings
-  h_01GD3TPSTMKYTP56HJHQBG1ZSF: music--sound-options
-  h_01GD3TQ00X0A6BWJSK3D127SET: re-map-controls
-  h_01GD3TQ657VCR8AQ97QK5NZTWH: minecraft-launcher
-  h_01GD3TQFECXJSDE97WZKEJGWJM: tips-on-navigating-the-minecraft-launcher
+  h_01KG2TR41A9B0KBNA5DTRSM7AM: accessible-keyboard-menu-navigation-
+  h_01KG2TS8PS2WM0KWE400KVCA9V: accessibility-settings
+  h_01KG2V6WKBPRP6K2E4ZQ3Z0G6E: narrator-settings
+  h_01KG2V9AA4M8CFQK0Z0M8M6QPC: closed-caption-settings
+  h_01KG2VATFFFQ6BC6VBW9PJ06MF: control-settings
+  h_01KG2VJANXF2G0KXEMBJJQ6N0D: visual-settings
+  h_01KG2VTN9MPNTTC4RE6PDYXF7Q: other-accessibility-customization-options-for-java-edition
 ---
 
-We believe everyone should be empowered and enabled to play Minecraft. This article will focus on options available in the Java edition of Minecraft – which includes Mac, Windows, and Linux platforms.    
+Minecraft: Java Edition is designed with accessibility in mind so that players of all ability types can access menus and use visual cues or audio prompts to adjust settings, make game selections, and build a better world together.
 
-View the [Accessibility Settings for Minecraft article](https://aka.ms/MC-Bedrock-ACC-Features) to learn about options available in other Minecraft versions. 
+## Accessible Keyboard Menu Navigation  
 
-# In This Article:
+Minecraft includes the ability to use a keyboard to navigate in-game menus:
 
-- [Minecraft Accessibility Menu ](#minecraft-accessibility-menu)
-- [Accessible Menu Navigation and Narration ](#accessible-menu-navigation-and-narration)
-  - [Navigation ](#navigation)
-  - [Narration ](#narration)
-  - [Subtitles ](#subtitles)
-  - [Text Background and Spacing ](#text-background-and-spacing)
-  - [Auto-Jump ](#auto-jump)
-  - [Action Toggles ](#action-toggles)
-  - [Effects Sliders ](#effects-sliders)
-- [Other Accessibility Settings](#other-accessibility-settings)
-  - [Chat Settings ](#chat-settings)
-  - [Music & Sound Options ](#music--sound-options)
-  - [Re-Map Controls](#re-map-controls)
-- [Minecraft Launcher ](#minecraft-launcher)
-- [Tips on Navigating the Minecraft Launcher ](#tips-on-navigating-the-minecraft-launcher)
+- **Tab**: The Tab key navigates you to the next menu item. Holding shift and pressing Tab navigates you to the previous menu item.
+- **Arrow Keys**: Use the arrow keys to navigate all menus.  
+- **Esc Key**: Press the **Escape key** to close the current screen.
 
-## Minecraft Accessibility Menu
+## Accessibility Settings
 
-Minecraft includes an Accessibility Settings screen for easy access to accessibility settings. To view this screen select the Accessibility icon on the start menu, which is located to the right of the Quit Game button.  You can also select Options and then Accessibility Settings from the start screen or the pause screen in-game.    
+Minecraft: Java Edition includes the following options to open the Accessibility Settings menu:
 
-The following settings can be found in Accessibility Settings. 
+- Select the **Accessibility icon** on the title screen ![](https://minecrafthelp.zendesk.com/hc/article_attachments/43110427451405).
+- Select **Options** then **Accessibility Settings** from the title screen or in-game pause menu.
 
-## Accessible Menu Navigation and Narration 
+### Narrator Settings
 
-All versions of Minecraft (using English as a language) include the ability to navigate the menus in an accessible way using a keyboard.  We are working to add support for more languages soon. 
+Toggle **Narrator** options to select from the following:  
 
-### Navigation 
+- **OFF**: No narration for any game actions
+- **ALL**: Narrates chat and system selections
+- **Narrates Chat**: Turns on audio for all chat conversations
+- **Narrates System**: Turns on audio for system notifications.
 
-- Use tab keys to navigate all menus  
-- Use the Escape key as a shortcut to go back to the previous selection or close the current screen. 
+**Narrator hotkey**: Set to **ON** to allow the Narrator to be toggled on and off with ‘Ctrl + B’.
 
-### Narration 
+**Narrator volume**: Select **Music & Sounds** from the **Options** menu and use the **Narrator/Voice** slider.
 
-- Click the Narrator toggle to choose your narration mode 
-- Narrates All 
-- Narrates Chat 
-- Narrates System
-- Open the Audio settings screen and use the Voice/Speech toggle to adjust the volume of the Narrator 
+### Closed Caption Settings
 
-### Subtitles 
+- Select **Closed Captions: ON** to display messages describing the type and direction of sounds as text onscreen.  
 
-- Use the Show Subtitles toggle to turn on subtitles that show the type and direction of sounds 
+### Control Settings
 
-### Text Background and Spacing 
+Select **Controls . . .** from the Accessibility Settings menu screen to access multiple ways to customize controls for gameplay to best suit your preferences:
 
-- Use the Text Background toggle to chose which text will have a background added 
-  - Everywhere 
-  - Chat 
-- Use Text Background Opacity slider to adjust the opacity of backgrounds added to text 
-- Use the Line Spacing slider to adjust the spacing between lines of text 
-- Use the Chat Delay slider to determine how long chat messages persist 
+MOUSE SETTINGS
 
-### Auto-Jump 
+- **Sensitivity**: Controls how fast the camera responds to your movements as you navigate your world.
+- **Touchscreen Mode**: Changes how controller or mouse input behaves to mimic touchscreen controls. Useful on devices that support touch-style input.
+- **Scroll Sensitivity**: Controls how quickly you change between items when using menu scrolling.  
+- **Discrete Scrolling**: Enables step-by-step scrolling.
+- **Invert Mouse X / Y**: Reverses movement directions.
+- **Allow Cursor Changes**: Changes the mouse cursor appearance when hovering over menu items or interactive elements.
+- **Raw Input**: Overrides operating system mouse settings that might make cursor movement inconsistent.
 
-- Use the Auto-Jump toggle to enable this feature 
+GAMEPLAY/KEYBOARD SETTINGS
 
-### Action Toggles 
+- **Key Binds**: Allows you to customize which keys control in-game actions.
+- **Action Buttons**: Select **Hold** if you want to hold the action key down to enable the feature. Select **Toggle** to turn the action on and off by pressing and releasing the action key.
+  - **Sneak**: Controls sneaking (moving quietly).
+  - **Sprint**: Controls character speed in the game.
+  - **Attack/Destroy**: Controls how attacking mobs or breaking blocks is triggered.
+  - **Use Item/Place Block:** Controls using items (such as food or tools) and placing blocks.
+- **Auto-jump**: Select **Auto-Jump: ON** to jump automatically when moving toward a block you can climb.
+- **Sprint Window**: Controls how much time you have between key presses to trigger sprint.  
+- **Operator Items Tab**: When in Creative Mode, if toggled ON the Operator Items inventory tab will display on the creative inventory screen.
 
-Use the action toggles to allow certain actions to be toggled on and off instead of requiring a continuous hold by the player. 
+### Visual Settings
 
-- Sneak 
-- Sprint 
+CONTRAST
 
-### Effects Sliders 
+- **High Contrast**: Select **High Contrast: ON** to turn on a built-in resource pack that enhances the contrast of menu UI elements.
+- **High Contrast Block Outlines**: Select **ON** to enhance the block outline contrast of targeted block.
 
-Use the effect sliders to adjust the intensity of certain effects 
+TEXT BACKGROUND AND SPACING
 
-- Distortion Effects 
-- FOV Effects 
+- **Text Background**: Adds a background behind text to improve readability. Choose which text will have a background added:
+  - **Everywhere**: All text will have a background appear.
+  - **Chat**: Only chat text will have a background.
+- **Text Background Opacity**: Adjust the opacity of backgrounds added to text.  
+- **Line Spacing**: Adjust the spacing between lines of text in chat.
 
-## Other Accessibility Settings
+TEXT APPEARANCE AND CHAT NOTIFICATIONS
 
-### Chat Settings 
+- **Panorama Scroll Speed**: Adjusts the speed of the title screen panorama in the background.  
+- **Chat Delay**: Controls how long chat messages appear.
+- **Hide Splash Texts**: Hides the yellow splash text in the main menu.
+- **Monochrome Logo**: Toggle **ON** to change the Mojang Studios loading screen background color to black.
 
-There are a variety of options to change the appearance of chat text. 
+EFFECTS
 
-Click the Chat Settings option in the main Settings screen to view access the Chat Settings menu and change how the chat font appears.  Settings include: 
+Adjust the intensity of certain effects:  
 
-- Chat mode toggle 
-- Shown 
-- Commands only 
-- Hidden 
-- Colors toggle 
-- Weblinks toggle 
-- Chat text opacity 
-- Text background opacity 
-- Text size 
-- Line Spacing 
-- Chat Delay 
-- Width 
-- Focused Hight 
-- Unfocused Height 
-- Narrator toggle 
-- Command suggestions toggle   
+- **Distortion Effects**: Control the intensity of visual distortion during certain in-game events.
+- **Damage Tilt**: Adjusts the amount of camera shake caused by being hurt in the game.
+- **FOV Effects**: Adjusts how much the Field of View changes during actions like sprinting.
+- **Darkness Pulsing**: Controls the pulsing brightness effect when under the Darkness status effect.
+- **Glint Speed**: Controls how fast the visual glint shimmers across enchanted items.
+- **Glint Strength**: Controls how transparent the visual glint is on enchanted items.
+- **Hide Sky Flashes**: Set to **ON** to prevent lightning bolts or other environmental effects from making the sky flash. The sources of the flashes will still be visible.
+- **View Bobbing**: Select **OFF** to remove the subtle bobbing motion whenever you walk or run.
 
-### Music & Sound Options 
+If you have any other suggestions, please let us know by giving us feedback on [Accessibility – Minecraft Feedback.](https://feedback.minecraft.net/hc/en-us/community/topics/41780472106637-Accessibility)
 
-The audio controllers have been designed to give players more granularity when it comes to customizing their in-game audio experience.   To access these settings, select Audio on the main Settings page, and use the sliders to adjust the volume for a wide variety of different audio channels. 
+## Other Accessibility Customization Options for Java Edition
 
-### Re-Map Controls
-
-The Controls screen offers multiple ways to re-map mouse and keyboard controls to allow players to configure gameplay to best suit their needs.   
-
-## Minecraft Launcher 
-
-The Minecraft Launcher includes audio cues to help players navigate the login and launch experience. To enable audio cues on the Minecraft Launcher, use the keyboard shortcut Ctrl+B. You should hear a sparkle ringing sound to confirm that the sound is enabled.   
-
-## Tips on Navigating the Minecraft Launcher 
-
-If you have previously logged in and sound is enabled, follow these steps to launch Minecraft Java Edition: 
-
-- After starting the Launcher, you will hear a positive sound from a Villager indicating that you have now successfully entered the Launcher 
-- Press Enter to launch Minecraft Java Edition. 
-- Game music will indicate that Minecraft Java Edition has loaded. 
-
-If you are not logged in and sound is enabled, follow these steps to login and launch Minecraft Java Edition: 
-
-- Initial focus will be on the email/Java profile name text box. 
-- Enter your email/Java profile name. 
-- Press Tab to move to the password text box. 
-- Enter your password. 
-- Press Enter to Login. If the credentials are not valid, you will hear a negative sound from a Villager. Your focus will be reset to the email/Java profile name field to retry your login. If the credentials are valid, you will hear a positive sound from a Villager indicating that you have now successfully entered the Launcher. 
-- Focus will be on the Launch button, and you can press Enter to start the game. 
-- Game music will indicate that Minecraft Java Edition has loaded.
+- [Manage Chat Settings for Minecraft: Java Edition](../Minecraft-Java-Edition-Guides/Manage-Chat-Settings-for-Minecraft-Java-Edition.md)
+- [Manage Music and Sound Settings for Minecraft: Java Edition](../Minecraft-Java-Edition-Guides/Manage-Music-and-Sound-Settings-for-Minecraft-Java-Edition.md)
