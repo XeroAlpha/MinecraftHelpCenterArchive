@@ -36,4 +36,4 @@ For more information, see these articles:
   - [Reset Your Microsoft Account Sign-in in Minecraft](../Account-Sign-in/Reset-Your-Microsoft-Account-Sign-in-in-Minecraft.md)
   - [How to Redeem a Code for In-Game Downloadable Content in Minecraft](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
   - [Equip Minecraft Character Creator Items and Skins in the Dressing Room](../Managing-Marketplace-Content/Equip-Minecraft-Character-Creator-Items-and-Skins-in-the-Dressing-Room.md)
-  - [Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Game-Guides/Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)
+  - [Make a Custom Skin in Minecraft: Java Edition](../Minecraft-Java-Edition-Guides/Make-a-Custom-Skin-in-Minecraft-Java-Edition.md)

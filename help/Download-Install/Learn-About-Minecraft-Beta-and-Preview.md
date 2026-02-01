@@ -15,7 +15,7 @@ Minecraft Beta and Preview allow you to playtest in-development features of Mine
 
 - [Install & Play Minecraft Beta or Preview on Mobile Devices](./Install-Play-Minecraft-Beta-or-Preview-on-Mobile-Devices.md)
 - [Install & Play Minecraft Preview on Windows PC](./Install-Play-Minecraft-Preview-on-Windows-PC.md)
-- [Install & Play Minecraft Preview on Consoles](https://help.minecraft.net/hc/en-us/articles/42431329963533)
+- [Install & Play Minecraft Preview on Consoles](./Install-Play-Minecraft-Preview-on-Consoles.md)
 
 ## Minecraft Beta & Preview Differences and Information
 

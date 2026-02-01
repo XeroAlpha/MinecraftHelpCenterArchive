@@ -21,7 +21,7 @@ Any in-game screenshots you take can be viewed and managed from the Minecraft sc
 - **Select F1 to hide the heads-up display (HUD)**: Select F1 before you take a screenshot to hide Minecraft’s UI.
 - **Select F5 to toggle perspectives**: Switch between first and third person views before you take a screenshot for different angles.
 
-If you’ve modified your [Hotkeys in Minecraft: Java Edition](./Hotkeys-in-Minecraft-Java-Edition.md), your keyboard settings may be different.
+If you’ve modified your [Hotkeys in Minecraft: Java Edition](../Minecraft-Java-Edition-Guides/Hotkeys-in-Minecraft-Java-Edition.md), your keyboard settings may be different.
 
 ## How to manage your Minecraft: Java Edition Screenshots on PC
 

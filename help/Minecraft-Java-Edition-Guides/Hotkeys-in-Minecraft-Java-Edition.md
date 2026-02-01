@@ -2,9 +2,9 @@
 title: "Hotkeys in Minecraft: Java Edition"
 date: 2021-03-29T20:06:09Z
 updated: 2025-11-13T22:38:02Z
-categories: Minecraft Game Guides
+categories: "Minecraft: Java Edition Guides"
 tags:
-  - section_27983418545293
+  - section_35377765046541
 link: https://help.minecraft.net/hc/en-us/articles/360059148111-Hotkeys-in-Minecraft-Java-Edition
 ---
 
