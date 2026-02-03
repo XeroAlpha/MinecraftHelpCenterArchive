@@ -1,7 +1,7 @@
 ---
 title: "Manage Chat Settings for Minecraft: Java Edition"
 date: 2026-01-28T18:01:32Z
-updated: 2026-01-30T17:15:50Z
+updated: 2026-02-03T17:18:37Z
 categories: "Minecraft: Java Edition Guides"
 tags:
   - section_27520753301005
@@ -13,7 +13,10 @@ hash:
   h_01KG2WF3Q2HNNZVVYTPRQ38A5M: othercustomization-options-for-java-edition
 ---
 
-There are a variety of accessibility options to customize the appearance and behavior of chat text for players of all abilities in Minecraft: Java Edition. 
+There are a variety of accessibility options to customize the appearance and behavior of chat text for players of all abilities in Minecraft: Java Edition. Microsoft account level chat permissions are managed by [Xbox Settings for Privacy & online safety](https://www.xbox.com/en-US/user/settings/privacy-and-safety?rtc=1&activetab=main:privacytab). See these articles for managing chat permissions:
+
+- [Managing Child Account Social Settings Using Xbox Settings Online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)
+- [Understanding Minecraft Social Features for Child Safety Online](../General-Safety/Understanding-Minecraft-Social-Features-for-Child-Safety-Online.md)
 
 ## Access Chat Settings for Java Edition
 
