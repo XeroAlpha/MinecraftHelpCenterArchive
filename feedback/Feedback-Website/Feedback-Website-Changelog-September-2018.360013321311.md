@@ -1,9 +1,9 @@
 ---
-title: Feedback Website Changelog (September 2018)
+title: (Archived) Feedback Website Changelog (September 2018)
 date: 2018-08-14T15:50:33Z
-updated: 2018-09-17T16:42:14Z
-categories: Feedback Website
-link: https://feedback.minecraft.net/hc/en-us/articles/360013321311-Feedback-Website-Changelog-September-2018
+updated: 2026-02-04T13:32:43Z
+categories: Archived Feedback Website Articles
+link: https://feedback.minecraft.net/hc/en-us/articles/360013321311--Archived-Feedback-Website-Changelog-September-2018
 ---
 
 **What's New (September 2018)**

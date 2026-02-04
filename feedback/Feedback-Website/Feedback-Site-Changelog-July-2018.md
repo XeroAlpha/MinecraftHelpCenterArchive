@@ -1,9 +1,11 @@
 ---
-title: Feedback Site Changelog (July 2018)
+title: (Archived) Feedback Site Changelog (July 2018)
 date: 2018-07-02T04:32:52Z
-updated: 2018-07-31T14:35:30Z
-categories: Feedback Website
-link: https://feedback.minecraft.net/hc/en-us/articles/360006586092-Feedback-Site-Changelog-July-2018
+updated: 2026-02-04T13:33:30Z
+categories: Archived Feedback Website Articles
+link: https://feedback.minecraft.net/hc/en-us/articles/360006586092--Archived-Feedback-Site-Changelog-July-2018
+hash:
+  h_01KGMDPQE6887WWYKTSQQMNNQP: whats-new-30-july
 ---
 
 ## **What's new (30 July)**

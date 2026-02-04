@@ -1,11 +1,13 @@
 ---
-title: Feedback Site Changelog (May 2018)
+title: (Archived) Feedback Site Changelog (May 2018)
 date: 2018-06-01T15:40:50Z
-updated: 2018-06-26T16:53:18Z
-categories: Feedback Website
+updated: 2026-02-04T13:34:21Z
+categories: Archived Feedback Website Articles
 tags:
   - feedback_changelog
-link: https://feedback.minecraft.net/hc/en-us/articles/360004473191-Feedback-Site-Changelog-May-2018
+link: https://feedback.minecraft.net/hc/en-us/articles/360004473191--Archived-Feedback-Site-Changelog-May-2018
+hash:
+  h_01KGMDRAWFSPGQCW6YM8CCEP09: we-have-a-fresh-new-system-of-categories-woo
 ---
 
 ## **We have a fresh new system of categories! Woo!**

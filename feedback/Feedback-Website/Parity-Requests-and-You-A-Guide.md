@@ -1,9 +1,11 @@
 ---
-title: "Parity Requests and You: A Guide"
+title: "(Archived) Parity Requests and You: A Guide"
 date: 2018-09-18T19:02:47Z
-updated: 2020-05-04T20:47:59Z
-categories: Feedback Website
-link: https://feedback.minecraft.net/hc/en-us/articles/360015877192-Parity-Requests-and-You-A-Guide
+updated: 2026-02-04T13:31:22Z
+categories: Archived Feedback Website Articles
+link: https://feedback.minecraft.net/hc/en-us/articles/360015877192--Archived-Parity-Requests-and-You-A-Guide
+hash:
+  h_01KGMDJRNFBJD6WBJQSPFZ9C3S: bug
 ---
 
 Updated: 4 May 2020
@@ -16,7 +18,7 @@ This quick guide should help you figure out when something is a parity request a
 
 This feature does not work **as designed** for the platform it was designed on. 
 
-**We now accept bug reports about vanilla parity issues on the bug tracker!**  
+**We now accept bug reports about vanilla parity issues on the bug tracker!**\
 Parity issues are differences in the behavior of gameplay features between the Bedrock Edition and the Java Edition of the game.
 
 However, we only accept bug reports about a parity issue if it fulfills the following criteria:
@@ -25,7 +27,7 @@ However, we only accept bug reports about a parity issue if it fulfills the foll
 - The feature behaves differently in one edition than in the other
 - The parity issue was introduced in Buzzy Bees (Bedrock Edition 1.14 / Java Edition 1.15) or later and **was not present before**
 
-**Please continue to file all of these issues at [bugs.mojang.com](http://bugs.mojang.com/) (bug reports and support issues will continue to be removed *from the feedback site*).**
+**Please continue to file all of these issues at** [**bugs.mojang.com**](http://bugs.mojang.com/) **(bug reports and support issues will continue to be removed** ***from the feedback site*****).**
 
 **Parity**
 

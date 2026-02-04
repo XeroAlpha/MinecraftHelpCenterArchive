@@ -1,9 +1,9 @@
 ---
-title: Tags on Posts and What They Mean (A Guide)
+title: (Archived) Tags on Posts and What They Mean (A Guide)
 date: 2018-08-03T18:59:31Z
-updated: 2019-09-12T22:23:21Z
-categories: Feedback Website
-link: https://feedback.minecraft.net/hc/en-us/articles/360012391791-Tags-on-Posts-and-What-They-Mean-A-Guide
+updated: 2026-02-04T13:33:07Z
+categories: Archived Feedback Website Articles
+link: https://feedback.minecraft.net/hc/en-us/articles/360012391791--Archived-Tags-on-Posts-and-What-They-Mean-A-Guide
 ---
 
 Did you know? You can sort by tags in **every category** to only see posts that have been tagged.

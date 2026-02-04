@@ -1,8 +1,8 @@
 ---
-title: Current Hot Topics
+title: (Archived) Current Hot Topics
 date: 2018-08-20T22:20:42Z
-updated: 2020-05-28T16:00:51Z
-categories: Feedback Website
+updated: 2026-02-04T13:31:52Z
+categories: Archived Feedback Website Articles
 tags:
   - hot
   - popular
@@ -15,7 +15,7 @@ tags:
   - piglin
   - lava boat
   - nether
-link: https://feedback.minecraft.net/hc/en-us/articles/360013862312-Current-Hot-Topics
+link: https://feedback.minecraft.net/hc/en-us/articles/360013862312--Archived-Current-Hot-Topics
 ---
 
 **Last update: 28 May 2020**
@@ -54,7 +54,8 @@ These are not endorsements of threads, we're just **helping you find them**. Als
  **Other Animals**
 
 - [Bear Varieties](https://feedback.minecraft.net/hc/en-us/community/posts/360009325031-Bear-varieties) - Please consolidate all your general support various biome specific bears here, unless they are brand new/fantasy/imaginary ursine/bear-like creatures. 
-- [Generic Birds](https://feedback.minecraft.net/hc/en-us/community/posts/360035222651-Generic-Birds) - the general idea of more birds.   
+- [Generic Birds](https://feedback.minecraft.net/hc/en-us/community/posts/360035222651-Generic-Birds) - the general idea of more birds. \
+   
 - There are also threads for lions, tigers, elephants, penguins, fox eyes, and every single announced item from Minecon 2018.
 
 **Weather and Nature**
@@ -85,7 +86,8 @@ These are not endorsements of threads, we're just **helping you find them**. Als
 **World Sync**
 
 - [With External Storage](https://feedback.minecraft.net/hc/en-us/community/posts/360009322871-Moving-Resources-from-Application-to-External-Storage-bedrock-mobile-)
-- [Cloud/Online/Account Based](https://feedback.minecraft.net/hc/en-us/community/posts/360011311091-World-Sync-Bedrock)  
+- [Cloud/Online/Account Based](https://feedback.minecraft.net/hc/en-us/community/posts/360011311091-World-Sync-Bedrock)\
+   
 
 **Other Stuff**
 

@@ -1,9 +1,11 @@
 ---
-title: Feedback Site Changelog (June 2018)
+title: (Archived) Feedback Site Changelog (June 2018)
 date: 2018-06-06T15:16:55Z
-updated: 2018-06-26T15:31:49Z
-categories: Feedback Website
-link: https://feedback.minecraft.net/hc/en-us/articles/360004618271-Feedback-Site-Changelog-June-2018
+updated: 2026-02-04T13:33:53Z
+categories: Archived Feedback Website Articles
+link: https://feedback.minecraft.net/hc/en-us/articles/360004618271--Archived-Feedback-Site-Changelog-June-2018
+hash:
+  h_01KGMDQG51W667NCTFGFV9CKJ3: whats-new-last-update-25-june-2018
 ---
 
 ## **What's new (last update: 25 June 2018)**

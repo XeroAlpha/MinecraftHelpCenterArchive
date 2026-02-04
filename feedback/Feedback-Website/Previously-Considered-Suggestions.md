@@ -1,8 +1,8 @@
 ---
-title: Previously Considered Suggestions
+title: (Archived) Previously Considered Suggestions
 date: 2018-06-22T18:12:23Z
-updated: 2020-08-11T19:44:09Z
-categories: Feedback Website
+updated: 2026-02-04T13:35:11Z
+categories: Archived Feedback Website Articles
 tags:
   - gun
   - guns
@@ -47,7 +47,7 @@ tags:
   - torch
   - bluestone
   - bee size
-link: https://feedback.minecraft.net/hc/en-us/articles/360005029872-Previously-Considered-Suggestions
+link: https://feedback.minecraft.net/hc/en-us/articles/360005029872--Archived-Previously-Considered-Suggestions
 ---
 
 Last Update: **7 May 2020 **
