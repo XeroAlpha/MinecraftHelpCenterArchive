@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.10.21
 date: 2026-02-03T12:18:25Z
-updated: 2026-02-03T14:43:15Z
+updated: 2026-02-04T08:40:26Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/43201150724877-Minecraft-Beta-Preview-26-10-21
 hash:
@@ -39,15 +39,15 @@ hash:
 - These work-in-progress versions can be unstable and may not be representative of final version quality
 - Minecraft Preview is available on Xbox, PlayStation, Windows, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
 - The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
-- This update will be rolling out to the various platforms as they become available, so please allow time for the update to reach you.  
+- This update will be rolling out to the various platforms as they become available, so please allow time for the update to reach you.\
    
 
 <figure class="wysiwyg-image">
 <img src="https://feedback.minecraft.net/hc/article_attachments/43201157394957" alt="kareuhfkdjzhfaxlskjd.jpeg" />
 </figure>
 
-  
-Beware! Seven floofy and feral baby mobs with deceivingly snuggly new looks are on the loose in testing. From the icy tundra to the sandy deserts – few biomes are safe from their cuteness! Plus, test the golden dandelion, too! As always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](https://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/).  
+\
+Beware! Seven floofy and feral baby mobs with deceivingly snuggly new looks are on the loose in testing. From the icy tundra to the sandy deserts – few biomes are safe from their cuteness! Plus, test the golden dandelion, too! As always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](https://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/).\
  
 
 # Features and Bug Fixes[](https://feedback.minecraft.net/hc/en-us/articles/features-and-bug-fixes)
@@ -135,7 +135,6 @@ Added the following updated baby mobs!
 ## Mobs[](https://feedback.minecraft.net/hc/en-us/articles/mobs)
 
 - Mooshroom head mushroom is now correctly placed on top of the Mooshroom's head ([MCPE-234684](https://bugs.mojang.com/browse/MCPE-234684))
-- Baby Polar Bear now attacks Foxes ([MCPE-48072](https://bugs.mojang.com/browse/MCPE-48072))
 - Zombie Horses no longer flee from sunlight
   - This aligns them with the behavior of regular Zombies
 - Baby Skeleton Horses no longer grow up ([MCPE-234733](https://bugs.mojang.com/browse/MCPE-234733))
