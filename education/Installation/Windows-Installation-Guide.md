@@ -1,7 +1,7 @@
 ---
 title: Windows Installation Guide
 date: 2023-02-10T19:44:41Z
-updated: 2026-01-24T03:12:04Z
+updated: 2026-02-05T23:48:15Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/13106858087956-Windows-Installation-Guide
 hash:
@@ -39,7 +39,7 @@ To install Minecraft via device management tools, you can choose to install and 
 <figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 242px; width: 100%;">
 <table class="wysiwyg-table-resized" style="border-style: solid; border-width: 2px;">
 <colgroup>
-<col style="width: 68%" />
+<col style="width: 69%" />
 <col style="width: 31%" />
 </colgroup>
 <tbody>
@@ -82,8 +82,8 @@ The version you choose may depend on your setup. These are the recommended Minec
 <figure class="wysiwyg-table wysiwyg-table-align-left" style="width: 100%;">
 <table class="wysiwyg-table-resized" style="border-style: solid; border-width: 2px;">
 <colgroup>
-<col style="width: 24%" />
 <col style="width: 25%" />
+<col style="width: 26%" />
 <col style="width: 49%" />
 </colgroup>
 <tbody>
@@ -153,7 +153,7 @@ Intune can deploy apps from the Microsoft Store. For more information, see [Add 
 
 Minecraft Education can be installed from the Winget utility in Windows 11/10. For more information regarding Winget and how you can use it in your deployment see [Use the Winget tool to install and manage applications \| Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 
-  
+\
 To install Minecraft Education by Winget: 
 
 1.  Open Command Prompt as an Administrator
@@ -162,7 +162,7 @@ To install Minecraft Education by Winget: 
     1.  To install for just the currently signed in user: 
         1.  **Winget Install "Minecraft Education" --scope user**
     2.  To install for all users on the machine:
-        1.  **Winget Install "Minecraft Education" --scope machine**  
+        1.  **Winget Install "Minecraft Education" --scope machine**\
              
 
 ### Instruct users to install from the Microsoft Store
@@ -229,8 +229,9 @@ The full list of command line options are:
 <td style="border-style: solid; border-width: 1px; height: 22px; padding: 5px; width: 392.125px">Password used by proxy</td>
 </tr>
 <tr style="height: 44px;">
-<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 198.375px">/L*V &lt;path_to_file&gt;<br />
-/exelog &lt;path_to_file&gt;</td>
+<td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 198.375px"><p>/L*V &lt;path_to_file</p>
+<p>or</p>
+<p>/exelog &lt;path_to_file&gt;</p></td>
 <td style="border-style: solid; border-width: 1px; height: 44px; padding: 5px; width: 392.125px">Creates a verbose log file at the specified path. Use just /L to only do basic logging. </td>
 </tr>
 <tr style="height: 44px;">
@@ -292,9 +293,9 @@ You can learn more about these here: <a href="https://learn.microsoft.com/en-us/
 
 ### Install Minecraft Education via Group Policy using PowerShell script
 
-You can download the [PowerShell script here](https://education.minecraft.net/content/dam/education-edition/learning-experiences/support/MinecraftEducationInstallScriptsV3.zip). Inside of the .zip file you'll find both the .exe (desktop) and .appx (Microsoft Store) versions of Minecraft Education. Refer to the included relevant readme files for setup and deployment steps. If you have questions or feedback on this script, please reach out to our support team via [our ticket form here](https://aka.ms/MEE_New_Request).   
-  
-**Note:** Although these scripts have been extensively tested in Windows Server environments, we strongly recommend validating them in a limited or test environment prior to deployment across all clients. Please be aware that only limited support can be provided for scripts that have been modified. Additionally, while these scripts may function with other MDM solutions, official support is limited to deployment via Group Policy as a startup script. Deployment as a per-user login script is not supported at this time.
+For organizations who would like to deploy the app using local Group Policy we have created PowerShell scripts designed to be deployed as startup scripts. You can find detailed setup instructions on this article: [Deploying over Group Policy (via PowerShell)](https://edusupport.minecraft.net/hc/en-us/articles/45872069884436-Deploying-over-Group-Policy-via-PowerShell)
+
+ 
 
 ### Install the Microsoft Store version manually
 
@@ -307,4 +308,4 @@ Follow these steps to manually install the Microsoft Store version of Minecraft 
 
 2.  From the app installer, ensure **Launch when ready** is selected and select **Install**.
 3.  **Result:** After Minecraft Education finishes installing, Minecraft Education opens.
-4.  **Note:**This requires the **Desktop App Installer** application to be installed.
+4.  **Note:** This requires the **Desktop App Installer** application to be installed.

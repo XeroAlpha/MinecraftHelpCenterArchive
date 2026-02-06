@@ -1,7 +1,7 @@
 ---
 title: PC Deployment Through System Management Software
 date: 2021-08-03T13:58:52Z
-updated: 2024-09-17T22:11:43Z
+updated: 2026-02-05T23:49:54Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/4404609504660-PC-Deployment-Through-System-Management-Software
 hash:
@@ -9,7 +9,7 @@ hash:
   h_01HKXBKM3MJ65P5VHF7K61GM3F: system-center-configuration-manager-sccm
   01HKXBMS2DKMG5H61ZHNCRJN67: windows-package-manger-winget
   h_01HKXBKM3M5299X67TXH9C2MA3: set-up-school-pc-suspc
-  install_manually: install-minecraft-education-via-group-policy-using-powershell-script
+  install_manually: install-minecraft-education-via-group-policy
 ---
 
 To deploy Minecraft Education across a large-scale environment, you can use your organization’s preferred system management software. For guidance on your specific system management software, you will need to consult the manufacturer.
@@ -49,6 +49,6 @@ For assistance with SUSPC, see [Use the Set up School PCs app](https://docs.micr
 
  
 
-### Install Minecraft Education via Group Policy using PowerShell script
+## Install Minecraft Education via Group Policy 
 
-You can download the [PowerShell script here](https://education.minecraft.net/content/dam/education-edition/learning-experiences/support/MinecraftEducationInstallScriptsV3.zip). Inside of the .zip file you'll find both the .exe (desktop) and .appx (Microsoft Store) versions of Minecraft Education. Refer to the included relevant readme files for setup and deployment steps. If you have questions or feedback on this script, please reach out to our support team via [our ticket form here](https://aka.ms/MEE_New_Request).
+For organizations who would like to deploy the app using local Group Policy we have created PowerShell scripts designed to be deployed as startup scripts. You can find detailed setup instructions on this article: [Deploying over Group Policy (via PowerShell)](https://edusupport.minecraft.net/hc/en-us/articles/45872069884436-Deploying-over-Group-Policy-via-PowerShell)
