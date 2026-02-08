@@ -12,8 +12,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004125932-MCPE-WIN-10-Gear-VR-0-16
 ---
 
-If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.\
+\
 New Features:
 
 - Ocean Monuments
@@ -34,7 +34,7 @@ New Features:
 - Ability to upload & download worlds in Realms
 - Ability to promote players as operators in Realms
 
-  
+\
 Tweaks:
 
 - Lots of cool, new UI changes! 
@@ -46,7 +46,7 @@ Tweaks:
 - Tweaks to Realms settings
 - Visual tweaks to sun, moon & stars when rendering in VR immersive mode
 
-  
+\
 Bug Fixes:
 
 - See the following Beta changelogs: https://aka.ms/mc16beta1 & https://aka.ms/mc16beta5

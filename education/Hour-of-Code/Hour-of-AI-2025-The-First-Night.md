@@ -33,7 +33,9 @@ Hour of AI provides a fun and engaging experience to introduce computer science 
 - **Practice human-in-the-loop thinking** by verifying the Agent’s work and correcting mistakes.
 - **Share your unique strategies and creations** with friends and classmates with the AI Build Challenge finale!
 
-##  Try Minecraft Education Hour of AI 2025
+\
+Try Minecraft Education Hour of AI 2025
+---------------------------------------
 
 The lesson is available for free in Minecraft Education at <https://aka.ms/hourofai>
 

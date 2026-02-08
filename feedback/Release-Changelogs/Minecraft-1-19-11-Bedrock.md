@@ -10,8 +10,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/7803469757581-Minecraft-1
 
 A new update is available on Minecraft to address some issues since the release of version 1.19.10.
 
-Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **Fixes:**
 

@@ -11,8 +11,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004165811-Minecraft-Win-10-Android-Beta-1-2-Build-4
 ---
 
-If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.\
+\
 
 **Tweaks:**
 
@@ -20,7 +20,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Added item animations to the Recipe Book to show which items are being used for crafting
 - Default controller sensitivity has been increased to 60
 
-  
+\
 **Bug Fixes:**
 
 - Various improvements have been made to searching and navigating the Recipe Book

@@ -18,8 +18,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/5661892666253-Minecraft-B
 
 ![Screenshot: A Minecraft warden using its sonic ranged attack](https://feedback.minecraft.net/hc/article_attachments/5661785455501/beta_19_3_sonic_attack.jpg)
 
-Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).  
-  
+Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).\
+\
 
 # **Features and Bug Fixes**
 

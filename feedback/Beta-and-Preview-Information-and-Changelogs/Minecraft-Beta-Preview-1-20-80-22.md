@@ -44,8 +44,8 @@ The mace is smashing its way into your worlds! Use its smash attack while fallin
 
 Alongside the mace this week there are also new pottery sherds to collect, new armor trims to covet, and new banner designs to decorate your base with! Show the world (and your server) that you’ve bested the trial chambers with the flow or bolt armor trims. Declare yourself a breeze fan with two new banner designs, or bring a piece of the trial chambers home with new pottery sherd designs – all in testing now!
 
-Your continued feedback is really helping shape the 1.21 update! Please let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/) and report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/).  
-  
+Your continued feedback is really helping shape the 1.21 update! Please let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/) and report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/).\
+\
 
 **Experimental Features:**
 
@@ -110,8 +110,8 @@ Your continued feedback is really helping shape the 1.21 update! Please let us k
 
 - Made the Breeze breathe with its eyes instead of feet to avoid drowning in water
 - The Breeze now drops 1-2 Breeze Rods when killed by a player
-  - The number of Breeze Rods dropped is affected by looting enchantments  
-      
+  - The number of Breeze Rods dropped is affected by looting enchantments\
+    \
 
 **Features and Bug Fixes:**
 
@@ -163,8 +163,8 @@ To help new players learn the basics of Minecraft we’re adding more game tips.
 - Wolves wearing Wolf Armor now trigger post-hit damage immunity, preventing the item’s rapid destruction by continuous damage sources like lava, Slimes, and Magma Cubes
 - Holding a Shield and Wolf Armor simultaneously no longer causes a line of gray voxels to be rendered in the left half of the screen ([MCPE-179255](https://bugs.mojang.com/browse/MCPE-179255))
 - Wolf Armor can now also be repaired on Anvils using Armadillo Scutes ([MCPE-179254](https://bugs.mojang.com/browse/MCPE-179254))
-- Wolf Armor sounds have been updated  
-    
+- Wolf Armor sounds have been updated\
+  \
 
 **Technical Updates:**
 
@@ -185,8 +185,8 @@ To help new players learn the basics of Minecraft we’re adding more game tips.
 ## **Mobs**
 
 - Added spawn categories to Bedrock. They will be used in the future for mob spawning. Spawn categories have been enabled in entity behavior pack files, but are not yet functional
-- Fixed an issue where *should_update_bones_and_effects_offscreen* and *should_update_effects_offscreen* were being ignored  
-    
+- Fixed an issue where *should_update_bones_and_effects_offscreen* and *should_update_effects_offscreen* were being ignored\
+  \
 
 **Experimental Technical Updates:**
 

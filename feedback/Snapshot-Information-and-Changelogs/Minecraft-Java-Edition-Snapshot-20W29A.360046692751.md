@@ -39,16 +39,16 @@ Entries in tags can now be marked as optional. Failure to resolve optional entri
 
 Example:
 
-{  
-  "replace": false,  
-  "values": \[  
-    "#minecraft:beds", // existing syntax  
+{\
+  "replace": false,\
+  "values": \[\
+    "#minecraft:beds", // existing syntax\
     { "id":"#missing:tag", "required": false }, // optional sub-tag entry
 
-    "minecraft:anvil", // existing syntax  
-    { "id":"minecraft:stone_button", "required": true }, // new syntax for required tags  
-    { "id":"missing:block", "required": false } // optional single-element entry  
-  \]  
+    "minecraft:anvil", // existing syntax\
+    { "id":"minecraft:stone_button", "required": true }, // new syntax for required tags\
+    { "id":"missing:block", "required": false } // optional single-element entry\
+  \]\
 }
 
 # FIXED BUGS IN 20W30A

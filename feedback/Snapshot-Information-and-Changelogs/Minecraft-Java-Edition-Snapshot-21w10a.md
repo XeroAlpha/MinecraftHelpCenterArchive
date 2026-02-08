@@ -67,8 +67,8 @@ Rendering is now using OpenGL 3.2 core profile. All fixed function rendering has
 
 Shaders are now included for all supported render states. Any shader except for the blit shader can also be replaced in resource packs. For now replacing these shaders is not officially supported and the way it works may change in the future.
 
-The current rendering engine uses a system similar to the post processing shader pipeline. There are some differences between both system that cater to the slightly different requirements.  
-  
+The current rendering engine uses a system similar to the post processing shader pipeline. There are some differences between both system that cater to the slightly different requirements.\
+\
 
 # FIXED BUGS IN 21W10A
 

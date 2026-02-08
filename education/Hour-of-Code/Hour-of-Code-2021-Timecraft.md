@@ -22,7 +22,7 @@ hash:
 
 As a computer scientist for the Institute of Major Time Errors, it’s your job to correct the mysterious Time Splits appearing in history and to find who (or what!) is causing them.
 
-Will you help fix the Time Splits and save history using your coding superpowers?  
+Will you help fix the Time Splits and save history using your coding superpowers?\
 Will you find out the truth about who, or what, is causing these crazy changes in history?
 
 In your TimeCraft mission, you need to:

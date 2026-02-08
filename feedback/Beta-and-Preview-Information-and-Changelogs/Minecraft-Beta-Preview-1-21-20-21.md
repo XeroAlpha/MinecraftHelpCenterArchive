@@ -45,8 +45,8 @@ hash:
 
 Greetings, dear readers! This week, we begin the 1.21.20.21 Betas and Previews, and we know that many of you who follow the update versions closely will be expecting a retail update soon. However, after careful consideration we have decided that we will be skipping the 1.21.10 update. Instead, we will focus on 1.21.20 to prioritize more quality and stability improvements. But fear not – all of the tweaks from recent Betas and Previews won't be lost! They will also be included in 1.21.20, and we will be assessing and addressing critical bugs in hotfixes as we did with 1.21.1. Thank you for your patience and understanding, and please keep sending us your feedback and bug reports. We really appreciate your input!
 
-Here’s the list for what’s new this week:  
-  
+Here’s the list for what’s new this week:\
+\
 
 # Features and Bug Fixes
 
@@ -223,45 +223,45 @@ Updates this week:
 
 - Added "item_display_transforms" control to the block geometry file. This controls the way a block is visually represented in the UI, on the player, and floating on the ground. It exists inside minecraft:geometry, and requires format_version 1.21.20
   - Default values example:
-    - "item_display_transforms": {  
-      "gui" : {  
-                      "translation": \[0, 0, 0\],  
-                      "rotation": \[30, 225, 0\],  
-                      "scale": \[0.625, 0.625, 0.625\]  
-        },  
-        "firstperson_righthand": {  
-                      "translation": \[0, 0, 0\],  
-                      "rotation": \[0, 45, 0\],  
-                      "scale": \[0.4, 0.4, 0.4\]  
-        },  
-        "firstperson_lefthand": {  
-          "translation": \[0, 0, 0\],  
-          "rotation": \[0, -135, 0\],  
-          "scale": \[0.4, 0.4, 0.4\]  
-        },  
-        "thirdperson_righthand": {  
-          "translation": \[0, 2.5, 0\],  
-          "rotation": \[75, 45, 0\],  
-          "scale": \[0.375, 0.375, 0.375\]  
-        },  
-        "thirdperson_lefthand": {  
-          "translation": \[0, 2.5, 0\],  
-          "rotation": \[75, 45, 0\],  
-          "scale": \[0.375, 0.375, 0.375\]  
-        },  
-        "ground": {  
-          "translation": \[0, 3.0, 0\],  
-          "rotation": \[0, 0, 0\],  
-          "scale": \[0.25, 0.25, 0.25\]  
-        },  
-        "fixed": {  
-          "translation": \[0, 0, 0\],  
-          "rotation": \[0, 0, 0\],  
-          "scale": \[0.5, 0.5, 0.5\]  
-        },  
-        "head": {  
-          "translation": \[0, 0, 0\],  
-          "rotation": \[0, 0, 0\],  
-          "scale": \[1, 1, 1\]  
-        }  
+    - "item_display_transforms": {\
+      "gui" : {\
+                      "translation": \[0, 0, 0\],\
+                      "rotation": \[30, 225, 0\],\
+                      "scale": \[0.625, 0.625, 0.625\]\
+        },\
+        "firstperson_righthand": {\
+                      "translation": \[0, 0, 0\],\
+                      "rotation": \[0, 45, 0\],\
+                      "scale": \[0.4, 0.4, 0.4\]\
+        },\
+        "firstperson_lefthand": {\
+          "translation": \[0, 0, 0\],\
+          "rotation": \[0, -135, 0\],\
+          "scale": \[0.4, 0.4, 0.4\]\
+        },\
+        "thirdperson_righthand": {\
+          "translation": \[0, 2.5, 0\],\
+          "rotation": \[75, 45, 0\],\
+          "scale": \[0.375, 0.375, 0.375\]\
+        },\
+        "thirdperson_lefthand": {\
+          "translation": \[0, 2.5, 0\],\
+          "rotation": \[75, 45, 0\],\
+          "scale": \[0.375, 0.375, 0.375\]\
+        },\
+        "ground": {\
+          "translation": \[0, 3.0, 0\],\
+          "rotation": \[0, 0, 0\],\
+          "scale": \[0.25, 0.25, 0.25\]\
+        },\
+        "fixed": {\
+          "translation": \[0, 0, 0\],\
+          "rotation": \[0, 0, 0\],\
+          "scale": \[0.5, 0.5, 0.5\]\
+        },\
+        "head": {\
+          "translation": \[0, 0, 0\],\
+          "rotation": \[0, 0, 0\],\
+          "scale": \[1, 1, 1\]\
+        }\
       }

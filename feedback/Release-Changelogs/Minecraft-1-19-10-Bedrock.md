@@ -21,8 +21,8 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 - When an Allay hears a Jukebox playing, it will do a dance animation
 - If the Jukebox stops playing, or if the Allay gets too far away from the Jukebox, it will stop dancing
 - If the Allay is given an Amethyst Shard while dancing, it will play a small amethyst sound, make a heart, and duplicate into another Allay
-- After duplication, both Allays will have a 5-minute cooldown before being able to duplicate again  
-    
+- After duplication, both Allays will have a 5-minute cooldown before being able to duplicate again\
+  \
 
 **Changes:**
 
@@ -30,8 +30,8 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 - The Trader Llama now has its own spawn egg
 - Added the player's cause of death to the death screen
 - Music is now included in the game files on iOS, so players no longer need to be download the music pack from the Marketplace
-- Added Bluetooth mouse and keyboard support on iOS  
-    
+- Added Bluetooth mouse and keyboard support on iOS\
+  \
 
 **Fixes:**
 
@@ -270,8 +270,8 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 - Render only head for players in Spectator mode
 - Render players in Spectator semi-transparently
 - Projectiles such as Arrows, Tridents, Fireballs will now shoot through Spectators
-- Spectators playing with gamepad no longer are shown unusable tooltips  
-    
+- Spectators playing with gamepad no longer are shown unusable tooltips\
+  \
 
 **Technical Updates:**
 

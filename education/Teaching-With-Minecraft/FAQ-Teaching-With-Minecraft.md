@@ -27,12 +27,12 @@ Checkout this blog post from teachers using Minecraft Education on [Classroom ma
 
 A range of [Minecraft lessons](https://education.minecraft.net/class-resources/lessons/) are available for educators to use across subjects and age levels. Each lesson includes learning objectives, activities, suggested reflection questions, and evidence of learning criteria.
 
-  
+\
 **Can a video game really be educational? Do you have any data to prove this is more effective than traditional lesson plans in the classroom?**
 
 Video games are a great way to engage students and personalize lessons. For more information about research on [game-based learning](./Research-About-Game-Based-Learning.md), you can download our resources [here](https://education.minecraft.net/wp-content/uploads/meeefficacyjan17.pdf).
 
-  
+\
 **What is a Minecraft Education ambassador? How do I get this badge?**
 
 Minecraft Education ambassadors provide feedback on Minecraft Education (and related products) and come from around the world. You can apply monthly on our Facebook Group and be notified the following month.

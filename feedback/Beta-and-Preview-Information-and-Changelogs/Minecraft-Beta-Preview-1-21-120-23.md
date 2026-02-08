@@ -48,7 +48,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 ## General[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30459/R21U12-4-Preview?anchor=general)
 
 - Added previously missing File Associations on Windows (e.g. .mcaddon) ([MCPE-227920](https://bugs.mojang.com/browse/MCPE-227920))
-- Fixed a bug where buttons can not be pressed while the game window is unfocused  
+- Fixed a bug where buttons can not be pressed while the game window is unfocused\
   ([MCPE-227830](https://bugs.mojang.com/browse/MCPE-227830))
 - Fixed a bug that caused the mouse movement to freeze when pausing the game by pressing the Windows key ([MCPE-227741](https://bugs.mojang.com/browse/MCPE-227741))
 

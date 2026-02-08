@@ -46,8 +46,8 @@ We've continuously made performance improvements since we released the first Cav
 - Cod, Salmon, Pufferfish, Tropical Fish, Squid, and Dolphins now only spawn in water from height 50 to height 64
 - Tropical Fish now also spawn in lush caves at any height
 - Zombies once again spawn in dripstone caves – drowned can also spawn there however
-- Goats no longer spawn in stony peaks  
-    
+- Goats no longer spawn in stony peaks\
+  \
 
 ![snapshot-21w40-article-carousel.jpg](https://feedback.minecraft.net/hc/article_attachments/4410832167821/snapshot-21w40-article-carousel.jpg)
 

@@ -14,19 +14,19 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127752-MCPE-WIN-10-
 
 If you find any bugs, be sure to [report them here!](https://bugs.mojang.com/secure/Dashboard.jspa) Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Chinese Mythology Mash-up Pack
 - The Worlds section has been added to the Store, featuring the Redstone Mansion!
 
-  
+\
 **Tweaks:**
 
 - In-game messages/changelogs are no longer tied to new updates
 - The jump range of slimes is now correct
 
-  
+\
 **Bug Fixes:**
 
 - Skeleton horses spawned from traps can now be tamed and ridden

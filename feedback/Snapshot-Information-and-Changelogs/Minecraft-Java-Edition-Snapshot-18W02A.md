@@ -51,7 +51,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 **Translations**
 
-We've changed our translation file format from key=value to json. This means we can support newlines! The new files look like this: {""thing"": ""Thing"", ""key"": ""Value"", ""some.translation"": ""Text Of Translation""}  
+We've changed our translation file format from key=value to json. This means we can support newlines! The new files look like this: {""thing"": ""Thing"", ""key"": ""Value"", ""some.translation"": ""Text Of Translation""}\
 We will pull in the latest translations from the crowdin project soon. Remember that you can help out by translating the game to your native language over there!
 
 **Command Changes**
@@ -91,10 +91,10 @@ We will pull in the latest translations from the crowdin project soon. Remember 
 
 **Local Coordinates `(^ ^ ^)`**
 
-If you use a local coordinate in a command, it comes from your feet by default. That means that `^ ^ ^` is at the bottom center of your entity, and `^ ^ ^10` is where your feet are looking, 10 blocks forwards.  
-  
-You can change this for a command by changing the ""anchor point"" in `/execute`, like this: `/execute anchored eyes`. For example, the following command will place particles 10 blocks forwards where every entity is looking, which for players is the same point where their mouse cursor is: `/execute as @e at @s anchored eyes run particle minecraft:flame ^ ^ ^10 0 0 0 0 1`  
-  
+If you use a local coordinate in a command, it comes from your feet by default. That means that `^ ^ ^` is at the bottom center of your entity, and `^ ^ ^10` is where your feet are looking, 10 blocks forwards.\
+\
+You can change this for a command by changing the ""anchor point"" in `/execute`, like this: `/execute anchored eyes`. For example, the following command will place particles 10 blocks forwards where every entity is looking, which for players is the same point where their mouse cursor is: `/execute as @e at @s anchored eyes run particle minecraft:flame ^ ^ ^10 0 0 0 0 1`\
+\
 Want to know exactly what this command does? Let's take a look!
 
 - `/execute as @e` makes the following run once for every entity
@@ -107,6 +107,6 @@ Want to know exactly what this command does? Let's take a look!
 
  
 
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
-Cross-platform server jar:  
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**\
+Cross-platform server jar:\
 Minecraft server jar

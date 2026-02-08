@@ -5,8 +5,8 @@ categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360004125472-MCPE-Android-Beta-1-0-5-Build-3
 ---
 
-Please note that due a glitch in this release, it is possible for beta testers to access their Realms. However, accessing your Realm will upgrade it to 1.0.5 and any players on your Realm who are not in the beta will be unable to access your Realm until the full 1.0.5 release.  
-  
+Please note that due a glitch in this release, it is possible for beta testers to access their Realms. However, accessing your Realm will upgrade it to 1.0.5 and any players on your Realm who are not in the beta will be unable to access your Realm until the full 1.0.5 release.\
+\
 **Bug Fixes:**
 
 - Fixed several bugs with the '/replaceitem' command 

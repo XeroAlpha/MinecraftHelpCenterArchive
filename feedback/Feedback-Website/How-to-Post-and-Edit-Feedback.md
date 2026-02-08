@@ -32,7 +32,7 @@ When we present issues to the team, we look at the issue, not the person who pos
 
 ## **Step Two: Check Previously Considered Suggestions**
 
-[This is the link.](./Previously-Considered-Suggestions.md)
+[This is the link.](../Archived-Feedback-Website-Articles/Archived-Previously-Considered-Suggestions.md)
 
 ## **Step Three: Post!**
 

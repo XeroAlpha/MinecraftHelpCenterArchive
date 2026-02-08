@@ -85,8 +85,8 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 - It Spreads - Kill a mob next to a catalyst
 - Birthday Song - Have an Allay drop a cake at a note block
 - With Our Powers Combined! - Have all 3 froglights in your inventory
-- Sneak 100 - Sneaking next to a Sculk Sensor without triggering it  
-    
+- Sneak 100 - Sneaking next to a Sculk Sensor without triggering it\
+  \
 
 **Vanilla Parity:**
 
@@ -122,13 +122,13 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 
 - Shulkers are now fire immune ([MCPE-33236](https://bugs.mojang.com/browse/MCPE-33236))
 - Shulkers now remain in upright position in vehicles ([MCPE-115269](https://bugs.mojang.com/browse/MCPE-115269))
-- Shulkers no longer fail to spawn when there’s another Shulker at relative negative y and x axis  
-    
+- Shulkers no longer fail to spawn when there’s another Shulker at relative negative y and x axis\
+  \
 
 **Spectator Mode (Experimental):**
 
-Our initial implementation of Spectator Mode will not include every feature available in the Java Edition (such as "mob view", speed control, etc.), we have chosen to focus on the parts of spectator mode that we hope will be most useful. We would like to hear about bugs you have found with the features that are included currently, and you may now report these at [bugs.mojang.com](https://bugs.mojang.com/) if they have not been reported already. Any additional parity breaks, feature requests, or suggestions for what to add next should be made through [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Our initial implementation of Spectator Mode will not include every feature available in the Java Edition (such as "mob view", speed control, etc.), we have chosen to focus on the parts of spectator mode that we hope will be most useful. We would like to hear about bugs you have found with the features that are included currently, and you may now report these at [bugs.mojang.com](https://bugs.mojang.com/) if they have not been reported already. Any additional parity breaks, feature requests, or suggestions for what to add next should be made through [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **<u>What’s Currently in Scope</u>**
 
@@ -180,8 +180,8 @@ Players can switch to and from Spectator using the Settings Menu and the '/gamem
 - Spectators no longer fly slowly when entering Spectator Mode from ground
 - Players enter noclip and flying when enabling Spectator Mode
 - Players stop riding, using items, sleeping, and gliding when entering Spectator Mode
-- Double-jump no longer breaks Spectator Mode  
-    
+- Double-jump no longer breaks Spectator Mode\
+  \
 
 **Fixes:**
 
@@ -252,8 +252,8 @@ Players can switch to and from Spectator using the Settings Menu and the '/gamem
 - Fixed a bug where items could be dropped by clicking in the dark gray area of the left side of player inventory when using Furnace, Blast Furnace, Smoker, Enchant Table, Grindstone, Brewing Stand, Anvil, Beacon, and Smithing Table
 - Players can now sign in with a QR code on Nintendo Switch and PlayStation consoles
 - Featured Servers message text is no longer centered
-- "Controller lost connection" prompt will now be shown after the world generation screen if a controller was disconnected while on that screen  
-    
+- "Controller lost connection" prompt will now be shown after the world generation screen if a controller was disconnected while on that screen\
+  \
 
 **Technical Updates:**
 
@@ -326,17 +326,17 @@ Players can switch to and from Spectator using the Settings Menu and the '/gamem
 
 GameTest module type changed from "javascript" to "script" in manifest.json. Added an optional attribute “language” which has only one supported value – javascript.
 
-New JavaScript modules in manifest.json should look as follows:  
-  
-*  "modules": \[*  
-*    {*  
-*      "description": "JavaScript module code",*  
-*      "language": "javascript",*  
-*      "type": "script",*  
-*      "uuid": "\<your UUID\>",*  
-*      "version": \[0, 0, 1\],*  
-*      "entry": "scripts/main.js"*  
-*    }*  
+New JavaScript modules in manifest.json should look as follows:\
+\
+*  "modules": \[*\
+*    {*\
+*      "description": "JavaScript module code",*\
+*      "language": "javascript",*\
+*      "type": "script",*\
+*      "uuid": "\<your UUID\>",*\
+*      "version": \[0, 0, 1\],*\
+*      "entry": "scripts/main.js"*\
+*    }*\
 *  \],*
 
 **mojang-gametest module**: Test

@@ -18,7 +18,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/6183919308301-Minecraft-B
 
 Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
 
-  
+\
 **Minecraft Beta**
 
 The Minecraft Beta on Windows will be retiring soon! To continue testing out new pre-release features, you will need to install the Minecraft Preview version. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ) 
@@ -63,8 +63,8 @@ The Minecraft Beta on Windows will be retiring soon! To continue testing out new
 
 ## **Blocks**
 
-- Fixed behavior of Command Blocks when cloning another Command Block onto self where the cloned Command Block would not execute its command until a Redstone signal is toggled  
-    
+- Fixed behavior of Command Blocks when cloning another Command Block onto self where the cloned Command Block would not execute its command until a Redstone signal is toggled\
+  \
 
 ## **GameTest Framework (Experimental)**
 

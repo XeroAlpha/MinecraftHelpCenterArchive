@@ -45,13 +45,13 @@ With that, only users within your school environment will be able to join other 
 
 ## **Teacher vs student permissions**
 
-Some permissions to the app are determined by which type of license a user is assigned. Minecraft Educations has two types of profiles: teacher/faculty and student.   
-  
+Some permissions to the app are determined by which type of license a user is assigned. Minecraft Educations has two types of profiles: teacher/faculty and student. \
+\
 The type of profile a user falls into is based on the Microsoft 365 licenses they are assigned. All users will default to the student-based permissions. To make a user a teacher, they'll need a "faculty" license assigned to them. This could be a Microsoft 365 A3 for Faculty license or a Minecraft Education for Faculty standalone license. There are a couple other licenses that are typically only assigned to faculty that may also elevate a user to faculty, based on Microsoft 365's standards. Faculty can be determined by the presence of any faculty license on the account, not just ones that grant access to Minecraft Education. 
 
-  
-Commercial standalone licenses will default to the student profile because commercial accounts do not have faculty licenses.   
-  
+\
+Commercial standalone licenses will default to the student profile because commercial accounts do not have faculty licenses. \
+\
 **Note**: Volume Licensing users will want to ensure they get both Minecraft Education for student, and Minecraft Education for faculty licenses.
 
  
@@ -76,7 +76,7 @@ Subsequent players who join the game do not start with this privilege. To give a
 
 Type: /op @a
 
-Operators can also take away operator status from other players. This is accomplished by using the command “/deop”:  
+Operators can also take away operator status from other players. This is accomplished by using the command “/deop”:\
 To ‘DE-OP’ a player, type: /deop (name)
 
 Caution! Any player granted Operator status will have all the privileges and abilities of the host, so you may want to proceed with caution before you bestow Operator status on a player. **If the host of a world loses operator status, they must be given the privilege back by another user, or exit the world briefly, and re-enter (no rebooting needed). This can cause all players to disconnect from the host world while this mistake is corrected.**
@@ -91,7 +91,7 @@ Operator only commands you should be aware of:
 
    
 
-For additional info on the different permissions levels for users (Visitor, Member, Operator) see our [multiplayer article here](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md).   
+For additional info on the different permissions levels for users (Visitor, Member, Operator) see our [multiplayer article here](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md). \
  
 
 ## **Worldbuilder**
@@ -124,7 +124,7 @@ When you are granting worldbuilder or operator permissions, it is possible to �
 
 @p: Nearest player
 
-@r: Random player(s) (a list will appear below of players currently in the world)  
+@r: Random player(s) (a list will appear below of players currently in the world)\
  
 
 ## **How to change in-game display name**

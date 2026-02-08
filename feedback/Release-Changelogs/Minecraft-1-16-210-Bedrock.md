@@ -10,15 +10,15 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360057677072-Minecraft-1-
 
 Another Minecraft update is upon us! New ambient sounds have been added to the Nether, making the dimension feel even more hostile. In addition to bug fixes, many that were reported by players, we’ve included some new tools for map makers and add-on creators.
 
-Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **Vanilla Parity Changes and Fixes:**
 
 - Players now experience ambient sounds in the Nether ([MCPE-74756](https://bugs.mojang.com/browse/MCPE-74756))
   - Mobile players need to update the Minecraft Original Music Pack via the Marketplace to hear these new sounds
-- Using bone meal in warm ocean biomes now only generates sea grass, coral, and coral fans ([MCPE-100085](https://bugs.mojang.com/browse/MCPE-100085))   
-    
+- Using bone meal in warm ocean biomes now only generates sea grass, coral, and coral fans ([MCPE-100085](https://bugs.mojang.com/browse/MCPE-100085)) \
+  \
 
 **Changes:**
 
@@ -26,8 +26,8 @@ Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) a
 - Added text-to-speech volume slider in Audio Settings
 - **Android Devices**
   - Our ability to support Android devices on KitKat OS or below is coming to an end. For more information, please see our [help article](https://help.minecraft.net/hc/en-us/articles/360045863292-What-are-the-Device-Requirements-to-run-Minecraft-)
-  - Players running this KitKat OS or below are not able to purchase a Realm from that device  
-      
+  - Players running this KitKat OS or below are not able to purchase a Realm from that device\
+    \
 
 **Known Issues:**
 
@@ -35,8 +35,8 @@ Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) a
 - Player may be unable to change back from Local Network to Online Network on Nintendo Switch due to infinite loading
 - Players are unable to see and join LAN sessions on Xbox without on Xbox Live Gold subscription
 - The chest inventory menu is not visible when a chest is placed close to wall on PS VR ([MCPE-109860](https://bugs.mojang.com/browse/MCPE-109860))
-- There are are no animations when using items and punching at the air when playing on mobile devices  
-    
+- There are are no animations when using items and punching at the air when playing on mobile devices\
+  \
 
 **Fixes:**
 
@@ -157,12 +157,12 @@ Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) a
 - The '/setblock' command now supports setting the connected state for Soul Lanterns ([MCPE-89609](https://bugs.mojang.com/browse/MCPE-89609))
 - The '/setblock' command now supports setting the rotation state for the chain block ([MCPE-105912](https://bugs.mojang.com/browse/MCPE-105912))
 - Fixed an issue that preventing player interaction after using the '/clone' command on a double chest block ([MCPE-109119](https://bugs.mojang.com/browse/MCPE-109119))
-- Using the '/clone' command to clone a block of the same type is no longer treated as a failed operation ([MCPE-83352](https://bugs.mojang.com/browse/MCPE-83352))  
-    
+- Using the '/clone' command to clone a block of the same type is no longer treated as a failed operation ([MCPE-83352](https://bugs.mojang.com/browse/MCPE-83352))\
+  \
 
 **For Map Makers and Add-On Creators:**
 
-**Updated Template Packs  **
+**Updated Template Packs\**
 
 - Updated templates for 1.16.210 with new resources, behaviors, and documentation are available for download
   - Resource Pack Template: [aka.ms/resourcepacktemplate](https://aka.ms/resourcepacktemplate)

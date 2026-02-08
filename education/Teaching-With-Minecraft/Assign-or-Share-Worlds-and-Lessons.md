@@ -78,7 +78,7 @@ Result: The <strong>Share </strong>experience opens so that you can share the 
 </tbody>
 </table>
 
-   
+ \
 **Result:** The link is shared and the recipients can access your world by opening the link. When the students open the link, a web browser opens and attempts to open the Library page in Minecraft Education. Students select **Create World **when they’re ready to begin.  
 
 *Note: Students may need to confirm that it's ok to open Minecraft. If Minecraft Education isn't installed, they can follow the directions on the page to download and install it.*  

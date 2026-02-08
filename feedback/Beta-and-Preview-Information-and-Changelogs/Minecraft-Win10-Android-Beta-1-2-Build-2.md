@@ -13,7 +13,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165951-Minecraft-Wi
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Bug Fixes:**
 
 - Several improvements to navigating the recipe book

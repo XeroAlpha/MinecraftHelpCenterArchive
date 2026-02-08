@@ -39,7 +39,7 @@ Check out our patch notes lower in the article, or view our video feature demo b
 - Additional client checks added to ensure correct permissions when joining multiplayer
 - Updates to MakeCode:  
   - More events added so your code can react to events in the world
-  - Code doesn’t run automatically when closing MakeCode so students can  
+  - Code doesn’t run automatically when closing MakeCode so students can\
      
 
 ## **Make Code Changes**

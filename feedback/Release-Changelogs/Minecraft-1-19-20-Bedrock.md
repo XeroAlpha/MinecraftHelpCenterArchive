@@ -14,8 +14,8 @@ They say that variety is the spice of life, which is why I am enjoying this enor
 
 **New Features:**
 
-- Added the updated Create New World screen on Nintendo Switch  
-    
+- Added the updated Create New World screen on Nintendo Switch\
+  \
 
 **Changes:**
 
@@ -26,14 +26,14 @@ They say that variety is the spice of life, which is why I am enjoying this enor
 - D-Pad Left can now be held down again to move the cursor left in menus ([MCPE-155976](https://bugs.mojang.com/browse/MCPE-155976))
 - Instantaneous effects (Potions, Tipped Arrows) can no longer be applied to dead mobs and players
 - ‘So Below’ music track now plays in Basalt Deltas ([MCPE-70890](https://bugs.mojang.com/browse/MCPE-70890))
-- Redesigned the menu toggle switches to make it easier to distinguish between the on and off states  
-    
+- Redesigned the menu toggle switches to make it easier to distinguish between the on and off states\
+  \
 
 **Known Issues:**
 
 - Due to an unexpected crashing issue, we have had to temporarily revert the fix for [MCPE-105487](https://bugs.mojang.com/browse/MCPE-105487), which can cause textures to turn pink after playing for long periods of time on a server
-  - This means that this bug may continue to occur until we have a solution. Thank you for your patience while we continue to work on this important issue – we hope to have it finally fixed as soon as possible!  
-      
+  - This means that this bug may continue to occur until we have a solution. Thank you for your patience while we continue to work on this important issue – we hope to have it finally fixed as soon as possible!\
+    \
 
 **Fixes:**
 
@@ -166,14 +166,14 @@ They say that variety is the spice of life, which is why I am enjoying this enor
 - Spectators’ heads are now properly rendered as semi-transparent
 - Character Creator head items (hats, hoods, helmets, etc.) are now properly rendered semi-transparent while in Spectator mode
 - Capes and animated back items are no longer rendered while in Spectator mode ([MCPE-156929](https://bugs.mojang.com/browse/MCPE-156929))
-- Spectators can no longer use or get affected by portals ([MCPE-156684](https://bugs.mojang.com/browse/MCPE-156684))  
-    
+- Spectators can no longer use or get affected by portals ([MCPE-156684](https://bugs.mojang.com/browse/MCPE-156684))\
+  \
 
 **Technical Updates:**
 
 **Updated Add-On Template Packs**
 
-- Updated Add-On templates for19.20 with new resources, behaviors, and documentation, are available to download at [aka.ms/MCAddonPacks  
+- Updated Add-On templates for19.20 with new resources, behaviors, and documentation, are available to download at [aka.ms/MCAddonPacks\
   ](https://aka.ms/MCAddOnPacks)
 
 **General**

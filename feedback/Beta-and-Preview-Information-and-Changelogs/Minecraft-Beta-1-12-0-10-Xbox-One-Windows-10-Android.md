@@ -27,11 +27,11 @@ Posted: June 6, 2019
 
 - **Crashes/Performance**
   - Fixed a crash that could sometimes occur when switching profiles on Xbox One platform
-  - Made several performance improvements related to various UI screens and interactions  
-      
+  - Made several performance improvements related to various UI screens and interactions\
+    \
 - **General**
-  - Fixed an issue with incorrect patch notes showing  
-      
+  - Fixed an issue with incorrect patch notes showing\
+    \
 - **Gameplay**
   - The Rainbow Collection achievement can now be unlocked
   - Blocks with high translucency no longer stop grass growth ([MCPE-46035](https://bugs.mojang.com/browse/MCPE-46035))

@@ -39,7 +39,7 @@ hash:
 
 - These work-in-progress versions can be unstable and may not be representative of final version quality
 - Minecraft Preview is available on Xbox, PlayStation, Windows, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
-- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions  
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions\
    
 
 It's time for another Preview and Beta release featuring our upcoming game drop, Mounts of Mayhem! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](http://bugs.mojang.com/).
@@ -64,7 +64,8 @@ It's time for another Preview and Beta release featuring our upcoming game drop,
 
 > **Developer's Note:** *In an upcoming Preview release, the spear's lunge enchantment will consume hunger points instead of causing durability damage, mirroring the change in* [*Java Snapshot 25w43a*](../Snapshot-Information-and-Changelogs/Minecraft-Java-Edition-Snapshot-25w43a.md)*.*
 
-###  Zombie Horse[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30620/R21U13-2-Preview?anchor=zombie-horse)
+### \
+Zombie Horse[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30620/R21U13-2-Preview?anchor=zombie-horse)
 
 - The tooltip displayed when attempting to mount an untamed Zombie Horse has been changed from "Ride" to "Mount"
 - Zombie Horse now has the correct spawn category of "monster" ([MCPE-229451](https://bugs.mojang.com/browse/MCPE-229451))

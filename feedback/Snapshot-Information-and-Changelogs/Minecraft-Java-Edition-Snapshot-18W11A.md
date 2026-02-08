@@ -18,17 +18,17 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004167771-Minecraft-Ja
 - Added coral fans!
 - Added F3+C to copy your current location to clipboard
 
-  
-**Coral Fans**  
-  
+\
+**Coral Fans**\
+\
 We were big fans of coral, so we couldn't resist.
 
 - Doesn't spawn naturally yet
 - You can place it on the side of coral!
 
-  
-**Drowned**  
-  
+\
+**Drowned**\
+\
 They're called ""drowned"" for a reason!
 
 - Spawn in all oceans! And rivers too!
@@ -40,20 +40,20 @@ They're called ""drowned"" for a reason!
 - All drowned have a melee attack, and ones with tridents have a ranged attack
 - Like zombies, drowned don't really like turtles that much
 
-  
+\
 **Shipwrecks**
 
 - Can be found in oceans and beaches
 - Has 3 different type of loot depending on the ship!
 - May spawn with some air pockets, that's a known bug. Sorry!
 
-  
-**Get the Snapshot**  
-  
-To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.  
-  
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
-  
+\
+**Get the Snapshot**\
+\
+To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.\
+\
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**\
+\
 Cross-platform server jar:
 
 - Minecraft server jar

@@ -25,8 +25,8 @@ This week's beta is extra cool as we've made some changes to powder snow, along 
 
 **Experimental Caves and Cliffs Features**
 
-![Screen_Shot_12-15-20_at_02.50_PM_002.JPG](https://feedback.minecraft.net/hc/article_attachments/360079858472/Screen_Shot_12-15-20_at_02.50_PM_002.JPG)  
-  
+![Screen_Shot_12-15-20_at_02.50_PM_002.JPG](https://feedback.minecraft.net/hc/article_attachments/360079858472/Screen_Shot_12-15-20_at_02.50_PM_002.JPG)\
+\
 
 **Powder Snow**
 

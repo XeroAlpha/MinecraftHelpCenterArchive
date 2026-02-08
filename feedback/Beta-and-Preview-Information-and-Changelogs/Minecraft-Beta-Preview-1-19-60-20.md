@@ -8,8 +8,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/10828527738893-Minecraft-
 
 **Posted:** November 23, 2022
 
-**NOTE:** This week's Preview version is not available on iOS. We apologize for the inconvenience and are working to resolve the issue.  
-  
+**NOTE:** This week's Preview version is not available on iOS. We apologize for the inconvenience and are working to resolve the issue.\
+\
 
 **Information on the Minecraft Preview and Beta: **
 

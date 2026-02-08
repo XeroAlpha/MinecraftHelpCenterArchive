@@ -32,8 +32,8 @@ Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com
 **Realms World Slots**
 
 - Each Realm subscription now has three world upload slots
-- One world can be active at a time and Realms owners have the ability to switch the Realm's active world between the three world slots  
-    
+- One world can be active at a time and Realms owners have the ability to switch the Realm's active world between the three world slots\
+  \
 
 **Experimental Gameplay:**
 
@@ -49,8 +49,8 @@ For more information, please see the article about enabling experimental feature
 - Revamped cave generation adds cheese caves, spaghetti caves, lava aquifers, and flooded aquifer caves
 - New ore distribution
 - Skulk Sensor
-- Goat Horn  
-    
+- Goat Horn\
+  \
 
 **Fixes:**
 
@@ -142,8 +142,8 @@ For more information, please see the article about enabling experimental feature
 **Commands**
 
 - '/title clear' now correctly clears the title and subtitle from the HUD ([MCPE-97636](https://bugs.mojang.com/browse/MCPE-97636))
-- Frosted Ice can now be used in any command that accepts a block, such as '/setblock' and '/testforblock' ([MCPE-126741](https://bugs.mojang.com/browse/MCPE-126741))  
-    
+- Frosted Ice can now be used in any command that accepts a block, such as '/setblock' and '/testforblock' ([MCPE-126741](https://bugs.mojang.com/browse/MCPE-126741))\
+  \
 
 **Technical Updates:**
 
@@ -164,7 +164,7 @@ For more information, please see the article about enabling experimental feature
 
 **Gameplay**
 
-- Loot chests with Seed=0 now correctly randomize if placed on the same coordinates. Note that Pick Blocking a Vanilla loot chest before opening it will now result in identical loot in each copy unless the seed is set to 0 in the NBT**  **
+- Loot chests with Seed=0 now correctly randomize if placed on the same coordinates. Note that Pick Blocking a Vanilla loot chest before opening it will now result in identical loot in each copy unless the seed is set to 0 in the NBT**\**
 
 **Dedicated Server**
 

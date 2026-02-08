@@ -20,10 +20,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165251-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
-**Experimental Gameplay:**  
-A handful of features from Update Aquatic have been added to the beta via Experimental Gameplay. These features are incomplete and are not representative of final gameplay but feedback is absolutely welcome! These are also not all of the Update Aquatic features coming to Minecraft and more is on the way.  
-  
+\
+**Experimental Gameplay:**\
+A handful of features from Update Aquatic have been added to the beta via Experimental Gameplay. These features are incomplete and are not representative of final gameplay but feedback is absolutely welcome! These are also not all of the Update Aquatic features coming to Minecraft and more is on the way.\
+\
 'Use Experimental Gameplay' can be toggled in World Settings. This may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.
 
 - Added Drowned mobs
@@ -36,12 +36,12 @@ A handful of features from Update Aquatic have been added to the beta via Experi
 - Added Stripped Wood
 - Added Slabs and Stairs for Prismarine, Prismarine Brick, and Dark Prismarine
 
-  
+\
 **1.2.13.10 Fix:**
 
 - Fixed an issue that caused named entities to lose their names when opening a world in Beta
 
-  
+\
 **1.2.13.8 Fixes:**
 
 - Iron Golems no longer spawn when Mob Spawning is disabled
@@ -52,7 +52,7 @@ A handful of features from Update Aquatic have been added to the beta via Experi
 - The power output of Redstone Comparators is no longer lost after a world is converted from Xbox One Edition
 - Pick Block no longer replaces the item currently selected in the hotbar if other slots are empty
 
-  
+\
 **Fixes for bugs introduced during Beta:**
 
 - Increased stability and fixed several crashes

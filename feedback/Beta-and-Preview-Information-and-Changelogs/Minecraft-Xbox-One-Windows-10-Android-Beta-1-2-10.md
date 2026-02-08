@@ -14,7 +14,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165351-Minecraft-Xb
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Changes:**
 
 - Many screens now respond when a button is pressed instead of released so they now feel extra responsive
@@ -26,7 +26,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Adjusted vertical look acceleration when using a controller
 - Made it easier to invite friends to games by pressing X on the invite screen
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**

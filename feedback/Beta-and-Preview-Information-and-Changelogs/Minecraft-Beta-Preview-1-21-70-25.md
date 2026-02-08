@@ -138,7 +138,7 @@ Enjoy!
     - "texture" is a required string field to set the texture used by the particles
     - "tint_method" is an optional string field that multiplies the texture color with a predefined tint. Default to "none". Supported values are "none", "default_foliage", "birch_foliage", "evergreen_foliage", "dry_foliage", "grass" and "water".
   - Block format before 1.21.70 will be upgraded to have the component added using the texture from the "down" or "\*" of the minecraft:material_instances component if present and "none" for tint_method. This was the old behavior.
-  - Block format from 1.21.70 without the component will not be upgraded and uses the invalid texture  
+  - Block format from 1.21.70 without the component will not be upgraded and uses the invalid texture\
     Examples:
     ``` hljs
      "minecraft:destruction_particles": {

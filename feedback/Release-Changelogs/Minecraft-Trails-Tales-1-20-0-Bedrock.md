@@ -20,8 +20,8 @@ Let’s jump into the update!
 
 Minecraft is now available for Chromebook on the Google Play Store, including cross-device play with friends, access to Minecraft Marketplace, and the ability to play on Realms.
 
-Learn more at [aka.ms/Minecraft-Chromebook](https://aka.ms/Minecraft-Chromebook "https://aka.ms/minecraft-chromebook")  
-  
+Learn more at [aka.ms/Minecraft-Chromebook](https://aka.ms/Minecraft-Chromebook "https://aka.ms/minecraft-chromebook")\
+\
 
 **New Features**
 
@@ -291,13 +291,13 @@ Learn more at [aka.ms/Minecraft-Chromebook](https://aka.ms/Minecraft-Chromebook 
 
 - Smithing with Style - Apply these smithing templates at least once: Spire, Snout, Rib, Ward, Silence, Vex, Tide, Wayfinder
 - Planting the Past - Plant any Sniffer seed
-- Careful Restoration - Make a Decorated Pot out of 4 Pottery Sherds  
-    
+- Careful Restoration - Make a Decorated Pot out of 4 Pottery Sherds\
+  \
 
 **Known Issues**
 
-- Boats that have been placed before today's update may not function correctly until they have been broken and placed again, and any mobs inside boats may be ejected when loading your world for the first time. We hope to have this issue resolved soon, but you may wish to keep a backup copy of your world just in case - thanks for your patience!  
-    
+- Boats that have been placed before today's update may not function correctly until they have been broken and placed again, and any mobs inside boats may be ejected when loading your world for the first time. We hope to have this issue resolved soon, but you may wish to keep a backup copy of your world just in case - thanks for your patience!\
+  \
 
 **Fixes and Changes**
 
@@ -403,8 +403,8 @@ Learn more at [aka.ms/Minecraft-Chromebook](https://aka.ms/Minecraft-Chromebook 
 **Graphical**
 
 - Fixed a crash when enabling ray tracing in ray tracing compatible content that was loaded into with ray tracing turned off
-- Fixed an issue in RTX where underwater light shafts from the moon would originate from the opposite angle of the moon sprite ([MCPE-118898](https://bugs.mojang.com/browse/MCPE-118898))  
-    
+- Fixed an issue in RTX where underwater light shafts from the moon would originate from the opposite angle of the moon sprite ([MCPE-118898](https://bugs.mojang.com/browse/MCPE-118898))\
+  \
 
 **Technical Updates**
 
@@ -468,8 +468,8 @@ Learn more at [aka.ms/Minecraft-Chromebook](https://aka.ms/Minecraft-Chromebook 
 **Molang**
 
 - Fixed a crash affecting some Marketplace packs preventing them from loading
-  - There is now a limit on the amount of nested sub-expressions each Molang expression can have  
-      
+  - There is now a limit on the amount of nested sub-expressions each Molang expression can have\
+    \
 
 **Experimental Technical Features**
 

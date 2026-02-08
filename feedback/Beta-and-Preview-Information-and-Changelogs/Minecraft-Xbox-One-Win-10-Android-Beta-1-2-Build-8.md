@@ -12,8 +12,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004165571-Minecraft-Xbox-One-Win-10-Android-Beta-1-2-Build-8
 ---
 
-If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.\
+\
 
 **Tweaks:**
 
@@ -21,7 +21,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Rebalanced most of the game sound effects and music, such as rain being much quieter
 - Added sound effects for placing Eyes of Ender into portal frames and opening The End portal
 
-  
+\
 **Fixes from Bugs in Beta:**
 
 - The Recipe Book can now be toggled off and on when using Classic UI
@@ -98,7 +98,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Gravel falling onto retracting pistons no longer causes them to fall into the same block space and overlap
 - Disabling view bobbing while in split-screen no longer makes items held in hand not visible
 
-  
+\
 **Fixes from Bugs in Retail:**
 
 - Villagers will now close doors and stop getting themselves attacked by Zombies

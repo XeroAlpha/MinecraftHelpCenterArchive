@@ -266,7 +266,7 @@ Ghastling is a young version of the Happy Ghast mob.
 - After spawning, the Ghastling will try and follow:
 
 1.  Players within a 16-block radius *or*
-2.  An adult, non-aquatic passive mob (and some neutral mobs) within a 16-block radius  
+2.  An adult, non-aquatic passive mob (and some neutral mobs) within a 16-block radius\
     If no player or suitable mob is close around the Ghastling will idle around within 32 blocks from its home position (where it spawned or last was interacted with).
 
 - Can be tempted and fed using Snowballs

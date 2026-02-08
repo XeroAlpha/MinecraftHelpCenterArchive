@@ -55,8 +55,8 @@ We provide a few standard photos, but the best way to make your lesson stand out
   - Removing the heads-up display (HUD) [with F1](./Minecraft-keyboard-and-mouse-controls.md) can help with a clear picture.
 - Lighting can come from a [variety of resources](https://minecraft.gamepedia.com/Light) within the Minecraft world. Try being creative with lighting in your world for different results.
 - If you have connected lessons in a series, you may want to use similar images to signify they belong together, but it is not required.
-- **Accepted file types:** JPG, PNG  
-  Image ratio**:** 16:9  
+- **Accepted file types:** JPG, PNG\
+  Image ratio**:** 16:9\
   I**mage dimensions**: minimum 480 x 270
 - This image will be cropped on the site, please make sure to center your area of focus in the image
 
@@ -91,8 +91,8 @@ The description field is kept deliberately short but should not just be the firs
 
 **<u>Introduction:</u>** 200 Character Limit.
 
-Think of this area as a longer description, designed for people who have already clicked through to view your lesson.  
-  
+Think of this area as a longer description, designed for people who have already clicked through to view your lesson.\
+\
 You can make a reinforcing statement about your lesson (like in [“Climate Change”](https://education.minecraft.net/lessons/climate-change/)) or go in depth to elaborate your original short description, for example:
 
 Short description: Explore and create stories in The Baddlands
@@ -109,7 +109,7 @@ You can click more than one box here, but if you find yourself checking all the 
 
 **<u>Subjects</u>**
 
-You can select up to a maximum of three subject areas.  
+You can select up to a maximum of three subject areas.\
 Student Ages and Subjects are currently the filters you can set on the [“Find a Lesson”](https://education.minecraft.net/class-resources/lessons/) page to filter lessons. Make it easy for your lesson to be found by using them.
 
 **<u>Skills</u>**

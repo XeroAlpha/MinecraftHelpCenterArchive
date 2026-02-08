@@ -8,9 +8,9 @@ link: https://edusupport.minecraft.net/hc/en-us/articles/360047556731-Language-A
 
 Minecraft Education is available in the following languages:
 
-  
-Bulgarian, Chinese (Simplified), Chinese (Traditional), Czech, Danish, Dutch, English (UK), English (United States), Finnish, French (Canada), French (France), German, Greek, Hungarian, Indonesian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Brazil), Portuguese (Portugal), Russian, Slovak, Spanish (Mexico), Spanish (Spain), Swedish, Turkish, Ukrainian  
-  
+\
+Bulgarian, Chinese (Simplified), Chinese (Traditional), Czech, Danish, Dutch, English (UK), English (United States), Finnish, French (Canada), French (France), German, Greek, Hungarian, Indonesian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Brazil), Portuguese (Portugal), Russian, Slovak, Spanish (Mexico), Spanish (Spain), Swedish, Turkish, Ukrainian\
+\
 
 Directions to change your language in-game are as follows:
 
@@ -26,9 +26,9 @@ Select "**Language**" and choose your preferred language
 
  
 
-**Additional Resources**  
-Check your eligibility ([countries](./Country-Availability.md))  
-Confirm your [platform](./System-Requirements.md) is supported  
-Set up your [Office 365 for Education accounts](https://www.microsoft.com/en-us/education/products/office)  
-[Windows Installation Guide](../Installation/Windows-Installation-Guide.md)  
+**Additional Resources**\
+Check your eligibility ([countries](./Country-Availability.md))\
+Confirm your [platform](./System-Requirements.md) is supported\
+Set up your [Office 365 for Education accounts](https://www.microsoft.com/en-us/education/products/office)\
+[Windows Installation Guide](../Installation/Windows-Installation-Guide.md)\
 [Learn to play Minecraft Education](./Learn-to-play-Minecraft-Education.md)

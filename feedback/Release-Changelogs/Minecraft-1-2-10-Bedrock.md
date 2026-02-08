@@ -12,13 +12,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127032-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Changes:**
 
 - Gamepad cursor sensitivity can now be adjusted in Controller settings
 - Increased tick radius range, which can be adjusted when creating or editing a world
 
-  
+\
 **Bug Fixes:**
 
 - Enabling the Mute toggle will no longer suppress non-chat messages like players leaving and joining

@@ -26,8 +26,8 @@ hash:
 
 Hey! This snapshot brings you dyable Bundles in the Bundles experiment and fully-featured world creation for Realms, including Hardcore mode.
 
-Happy dyeing!  
-  
+Happy dyeing!\
+\
 
 ## Experimental Features
 

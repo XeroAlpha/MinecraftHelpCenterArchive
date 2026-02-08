@@ -192,24 +192,24 @@ All leashable entities now behave more naturally when being pulled.
 
 ### `@minecraft/server` 2.0.0
 
-`@minecraft/server` 2.0.0 is now released, `2.1.0-beta` is the new beta version for `@minecraft/server`.  
+`@minecraft/server` 2.0.0 is now released, `2.1.0-beta` is the new beta version for `@minecraft/server`.\
 See <https://learn.microsoft.com/en-us/minecraft/creator/documents/scriptingv2.0.0overview>  for more details on 2.0.0.
 
 - Added integer overflow detection in `ScoreboardObjective.addScore`. Original value will be retained when overflow is detected.
 - `NamespaceNameError` now has better error information and the `name` property value will now be set to "NamespaceNameError".
 - `BlockComponentPlayerDestroyEvent` renamed to `BlockComponentPlayerBreakEvent`
-- `PlayerPlaceBlockBeforeEvent`    
+- `PlayerPlaceBlockBeforeEvent`  \
     - `permutationBeingPlaced` renamed to `permutationToPlace`
-- `BlockCustomComponent`    
+- `BlockCustomComponent`  \
     - `onPlayerDestroy` renamed to `onPlayerBreak`
 - Added `lookAt` method on `Entity`
 - Added `customComponentParameters: CustomComponentParameters` to `ItemCustomComponentInstance`
 - Added `customComponentParameters: CustomComponentParameters` to `BlockCustomComponentInstance`
 - Custom components V2 now support assigning string, array, object, bool, or number
-- `GameMode` enum member names changed  
-    - `survival` renamed to `Survival`    
-    - `creative` renamed to `Creative`    
-    - `adventure` renamed to `Adventure`    
+- `GameMode` enum member names changed\
+    - `survival` renamed to `Survival`  \
+    - `creative` renamed to `Creative`  \
+    - `adventure` renamed to `Adventure`  \
     - `spectator` renamed to `Spectator`
 
 ### `@minecraft/server-ui` 2.0.0
@@ -329,23 +329,23 @@ See <https://learn.microsoft.com/en-us/minecraft/creator/documents/scriptingv2.
 
 ### `@minecraft/server` 2.1.0-beta
 
-- Custom Command registration will create an alias from the command name without the namespace.    
+- Custom Command registration will create an alias from the command name without the namespace.  \
     - If the name has already been claimed, then the alias will not be created and a content log warning will appear.
 - Removed unused classes: `EntityIterator`, `EntityTypeIterator`, `FilterGroup`, and `PlayerIterator`
 - Added class `PlayerHotbarSelectedSlotChangeAfterEvent`. This will be triggered every time the hotbar slot changes.
 - Added enum `PlayerInventoryType`.
 - Added class `PlayerInventoryItemChangeAfterEvent`. This will be triggered every time an item changes in the player's inventory. This includes the 27 inventory slots and 9 for hotbar.
-- Updated class `Container`  
-    - `reverseFind` has been renamed to `findLast`.    
-    - `contains` now returns undefined if it fails to find the item.    
-    - `firstEmptySlot` now returns undefined if it fails to find an empty slot.    
-    - `firstItem` now returns undefined if it fails to find the item.    
-    - `find` now returns undefined if it fails to find the item.    
+- Updated class `Container`\
+    - `reverseFind` has been renamed to `findLast`.  \
+    - `contains` now returns undefined if it fails to find the item.  \
+    - `firstEmptySlot` now returns undefined if it fails to find an empty slot.  \
+    - `firstItem` now returns undefined if it fails to find the item.  \
+    - `find` now returns undefined if it fails to find the item.  \
     - `reverseFind`now returns undefined if it fails to find the item.
 - Added `stopSound` and `stopAllSounds` to `Dimension` and `Player`
 
 ### `@minecraft/debug-utilities` 1.0.0-beta
 
-- Added new Debug Drawing feature  
-    - Added new classes: `DebugArrow`, `DebugBox`, `DebugCircle`, `DebugDrawer`, `DebugLine`, `DebugShape`, `DebugSphere`, `DebugText`.    
+- Added new Debug Drawing feature\
+    - Added new classes: `DebugArrow`, `DebugBox`, `DebugCircle`, `DebugDrawer`, `DebugLine`, `DebugShape`, `DebugSphere`, `DebugText`.  \
     - Added new global object for accessing and using this new feature: `debugDrawer: DebugDrawer`.

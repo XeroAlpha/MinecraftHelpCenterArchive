@@ -14,8 +14,8 @@ Hour of AI is a new initiative by Code.org, building on a decade of impact with 
 
 Minecraft has worked with Code.org and Microsoft for 10+ years, delivering engaging tutorials and driving engagement through an annual global campaign, customer and community engagement, and teacher training. We have reached 300M sessions of Minecraft Hour of Code through this work and will build on that momentum to go big with Hour of AI.
 
-Hour of AI, is central to our [AI Foundations](https://aka.ms/minecraftai) collection of AI Literacy experiences. These tutorials introduce students to foundational AI concepts through hands-on, game-based learning. Learners will demystify AI, explore how it works, and imagine what’s possible when they harness it for good.   
-  
+Hour of AI, is central to our [AI Foundations](https://aka.ms/minecraftai) collection of AI Literacy experiences. These tutorials introduce students to foundational AI concepts through hands-on, game-based learning. Learners will demystify AI, explore how it works, and imagine what’s possible when they harness it for good. \
+\
  
 
 **Why did Minecraft Education create Hour of AI after ten years of Hour of Code?**

@@ -18,8 +18,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/11062311640333-Minecraft-
 
 ![A Minecraft screenshot featuring chiseled bookshelves, a saddled camel, and mob heads on note blocks.](https://feedback.minecraft.net/hc/article_attachments/11061416160141)
 
-Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 # **Experimental Features**
 
@@ -125,12 +125,12 @@ Here's a list of what is new in this week's Minecraft Preview and Beta! Remember
 
 - Block
   - Added function *getRedstonePower(): number*- Gets the Redstone signal strength of the Block if it is part of a circuit, otherwise returns undefined
-- Added /scriptevent command as part of the Beta APIs experiment. This is what will trigger system.events.scriptEventReceive events (see below)  
-    
+- Added /scriptevent command as part of the Beta APIs experiment. This is what will trigger system.events.scriptEventReceive events (see below)\
+  \
   - Usage: /scriptevent \<messsageId: string\> \[message: ???\]
   - messageId must be namespaced, use of the minecraft namespace is invalid (e.g. "/scriptevent give:coal", "/scriptevent my_scripts:spawn_sheep")
-  - message is optional, with a max length of 256 characters  
-      
+  - message is optional, with a max length of 256 characters\
+    \
 - events.scriptEventReceive
   - Added system event *events.scriptEventReceive*
   - Added read-only property *id: String-* The namespaced ID of the event
@@ -139,8 +139,8 @@ Here's a list of what is new in this week's Minecraft Preview and Beta! Remember
   - Added read-only property *sourceEntity: Entity*- The player/entity that executed the command call if applicable, otherwise undefined
   - Added read-only property *initiator: Entity*- The player that caused an NPC to execute the command call if applicable, otherwise undefined
   - Added read-only property *sourceType: MessageSourceType*- The type of source the event was triggered by
-  - *subscribe()*can filter by valid namespace string using the *ScriptEventMessageFilterOptions* class  
-      
+  - *subscribe()*can filter by valid namespace string using the *ScriptEventMessageFilterOptions* class\
+    \
 - ScriptEventMessageFilterOptions
   - Added *ScriptEventMessageFilterOptions* class
   - Added property *namespaces: string\[\]*- An array of namespaces to filter on

@@ -18,8 +18,8 @@ A new update for Minecraft is available now, bringing several changes, fixes, an
 
 **NOTE:** This update will appear on Nintendo Switch and Dedicated Servers as version 1.20.61 and all other platforms as 1.20.60. The contents of the update are the same.
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **Vanilla Parity**
 
@@ -27,8 +27,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Lapis Lazuli Ore can now drop up to 9 Lapis Lazuli (previously 8) when mined with an unenchanted tool, or up to 36 with Fortune Level 3 (previously 32)
 - Campfire now correctly drops 2 Charcoal instead of 4 when destroyed by the player ([MCPE-159894](https://bugs.mojang.com/browse/MCPE-159894))
 - Music Disc name text now has the same color as enchanted items ([MCPE-109471](https://bugs.mojang.com/browse/MCPE-109471))
-- Trail Ruins will now be placed in the same location and configuration as Java Edition ([MCPE-169988](https://bugs.mojang.com/browse/MCPE-169988))  
-    
+- Trail Ruins will now be placed in the same location and configuration as Java Edition ([MCPE-169988](https://bugs.mojang.com/browse/MCPE-169988))\
+  \
 
 **Experimental Features**
 
@@ -126,8 +126,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Using Shears on a Wolf that is wearing armor will make it drop the armor
   - Only a Wolf's owner can shear a Wolf Armor from it, and with this in mind, Dispensers cannot remove Wolf Armor from Wolves
 - Wolf Armor gives the same protection as Diamond Horse Armor
-- If a Wolf dies while wearing armor, it will drop the armor  
-    
+- If a Wolf dies while wearing armor, it will drop the armor\
+  \
 
 **Fixes and Changes**
 
@@ -215,8 +215,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Updated the information about Conduits in the Encyclopedia ([MCPE-65038](https://bugs.mojang.com/browse/MCPE-65038))
 - Added Netherite as a block type in the Encyclopedia’s Beacon tab ([MCPE-175929](https://bugs.mojang.com/browse/MCPE-175929))
 - Last highlighted button will not get pressed when the window regains focus anymore ([MCPE-170377](https://bugs.mojang.com/browse/MCPE-170377))
-- Not enough storage space on Nintendo Switch now has a clearer message about the platform only allowing for 2GB of storage per user account ([MCPE-36670](https://bugs.mojang.com/browse/MCPE-36670))  
-    
+- Not enough storage space on Nintendo Switch now has a clearer message about the platform only allowing for 2GB of storage per user account ([MCPE-36670](https://bugs.mojang.com/browse/MCPE-36670))\
+  \
 
 **Technical Updates**
 
@@ -336,8 +336,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
   - Moved *BlockType*from *beta* to *1.8.0*
   - Moved *FluidType*from *beta* to *1.8.0*
 - Changed "Unsupported or out of bounds value.." errors to use *ArgumentOutOfBoundsError* Error type
-- *setWeather* method argument duration now uses *ArgumentOutOfBoundsError* Error type  
-    
+- *setWeather* method argument duration now uses *ArgumentOutOfBoundsError* Error type\
+  \
 
 **Experimental Technical Updates**
 

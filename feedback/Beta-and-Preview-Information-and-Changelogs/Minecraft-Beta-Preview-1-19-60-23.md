@@ -18,8 +18,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/11259038367245-Minecraft-
 
 ![A Minecraft screenshot featuring chiseled bookshelves and camels.](https://feedback.minecraft.net/hc/article_attachments/11258984583053)
 
-Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 # **Experimental Features**
 

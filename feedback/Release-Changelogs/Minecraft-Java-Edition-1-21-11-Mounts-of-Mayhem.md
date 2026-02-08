@@ -1107,7 +1107,7 @@ Controls the color and intensity of the sunrise and sunset effect. If fully tran
 
 ##### minecraft:visual/sun_angle
 
-The angle in degrees of the sun, clockwise from east to west, with 0 being directly up.  
+The angle in degrees of the sun, clockwise from east to west, with 0 being directly up.\
 Only visible with the overworld skybox type.
 
 - Value type: float, angle in degrees

@@ -10,8 +10,8 @@ hash:
   fixed-bugs-in-1.18-release-candidate-1: fixed-bugs-in-118-release-candidate-1
 ---
 
-We’re now releasing the first (and hopefully only) release candidate for Minecraft 1.18.1. This release candidate fixes crashes and bugs. If there are no major issues following this release, no further changes will be done before the full release.  
-​  
+We’re now releasing the first (and hopefully only) release candidate for Minecraft 1.18.1. This release candidate fixes crashes and bugs. If there are no major issues following this release, no further changes will be done before the full release.\
+​\
 Happy mining!
 
 # FIXED BUGS IN 1.18 RELEASE CANDIDATE 1

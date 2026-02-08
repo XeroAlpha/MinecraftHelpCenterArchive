@@ -19,8 +19,8 @@ Hey-hoo! Will you look at that! It's Wednesday once again, which means we get to
 
 # CHANGES TO THE CAVES & CLIFFS PREVIEW
 
-Download the [updated datapack](https://launcher.mojang.com/v1/objects/6b510a715701aec5e601c7966d87922a300e0c73/CavesAndCliffsPreview.zip).  
-  
+Download the [updated datapack](https://launcher.mojang.com/v1/objects/6b510a715701aec5e601c7966d87922a300e0c73/CavesAndCliffsPreview.zip).\
+\
 [Click here](https://images.ctfassets.net/8y6ykjruobr4/2LIQ8aXiaLvRyHRob8wBXg/fde7e0a9e8c97f1430f06f8cfc935077/snapshot-21w18a-ores-distribution-full.jpg) for a full resolution image of ore distribution in 21w18a. 
 
 - Reduced Copper spawning a bit, to compensate for large ore veins

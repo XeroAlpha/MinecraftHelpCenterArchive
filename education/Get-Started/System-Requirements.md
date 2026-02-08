@@ -71,7 +71,7 @@ Minimum specifications: Should allow you to participate in all common scenarios 
 
 Recommended specifications: Should allow you to see consistent performance for all common scenarios with minimal limitations and should allow you to successfully host larger multiplayer sessions with 10 or more participants.
 
-  
+\
 **Chromebook, Mac, and Windows PC hardware requirements**
 
 <figure class="wysiwyg-table wysiwyg-table-align-left" style="width: 100%;">
@@ -177,3 +177,10 @@ Recommended specifications: Should allow you to see consistent performance for a
 </tbody>
 </table>
 </figure>
+
+ 
+
+ 
+
+\
+\

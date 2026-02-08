@@ -11,15 +11,15 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004125052-Minecraft-Win-10-Android-Beta-1-2-Build-5
 ---
 
-If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.\
+\
 
 **Tweaks:**
 
 - Added a button to the Recipe Book if players need help learning how to use it
 - Added Plutonium mode - a highly experimental setting that may increase FPS for some users
 
-  
+\
 **Bug Fixes:**
 
 - Continued improvements to the Recipe Book, especially when using a touch screen

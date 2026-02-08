@@ -168,7 +168,7 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
 
 - Replacing items with the `lock_in_inventory` component with items from the creative inventory using touch input now fails gracefully and produces a warning message.
 
-- Align rideable entity inventory transparent background with other screens  
+- Align rideable entity inventory transparent background with other screens\
   ([MCPE-189224](https://bugs.mojang.com/browse/MCPE-189224))
 
 - Fixed problem with moving items from creative inventory to player inventory on pocket ui. ([MCPE-185361](https://bugs.mojang.com/browse/MCPE-185361))
@@ -186,7 +186,7 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
 ### Mobs
 
 - Donkeys now spawn in Savannas
-- Donkeys now spawn in Plains in groups of 1-3 instead of 2-6  
+- Donkeys now spawn in Plains in groups of 1-3 instead of 2-6\
   ([MCPE-118688](https://bugs.mojang.com/browse/MCPE-118688))
 
 # Technical Updates
@@ -235,7 +235,7 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
   - It is now a JSON object with two fields "color" and "tint_method".
   - "color" is a required string field expecting an HEX representation of the RGB, prefixed with a \# character.
   - "tint_method" is a string field that multiplies the color with a predefined tint. Supported values are "none, "default_foliage", "birch_foliage", "evergreen_foliage", "grass" and "water".
-  - the old schema format is still supported for convenience.  
+  - the old schema format is still supported for convenience.\
     Examples:
     ``` hljs
     "minecraft:map_color": {
@@ -317,8 +317,8 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
   - Entity sounds now have a "variants" field which defines sound variants based on the runtime entity
   - Variants has a "key" field reading a Molang expression returning a string to select sound variant (eg: querying an enum entity property).
   - Variants has a "map" field which contains key-value pairs of a variant identifier and the sound events it overrides.
-  - When playing a sound for an entity we first try to calculate their variant and see if that variant overrides the sound event, if not we play the sound form the base entity. If that fails we fall back to the existing logic of running from "defaults".  
-    Example:  
+  - When playing a sound for an entity we first try to calculate their variant and see if that variant overrides the sound event, if not we play the sound form the base entity. If that fails we fall back to the existing logic of running from "defaults".\
+    Example:\
     Given a mob with the following property
 
 ``` hljs

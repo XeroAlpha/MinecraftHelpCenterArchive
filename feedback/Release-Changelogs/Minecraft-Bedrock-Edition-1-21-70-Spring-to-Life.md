@@ -1173,7 +1173,7 @@ Visit our [documentation portal](https://learn.microsoft.com/en-us/minecraft/cre
 
   - Block format before 1.21.70 will be upgraded to have the component added using the texture from the "down" or "\*" of the minecraft:material_instances component if present and "none" for tint_method. This was the old behavior.
 
-  - Block format from 1.21.70 without the component will not be upgraded and uses the invalid texture  
+  - Block format from 1.21.70 without the component will not be upgraded and uses the invalid texture\
     Examples:
 
          "minecraft:destruction_particles": {

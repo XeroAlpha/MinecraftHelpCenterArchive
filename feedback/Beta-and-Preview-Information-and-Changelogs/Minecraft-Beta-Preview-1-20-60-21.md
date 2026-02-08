@@ -105,8 +105,8 @@ We have another exciting Minecraft Beta and Preview update, with lots of tweaks 
 
 ## Loading Screen
 
-- The loading screen now displays 3 categories of tips based on player progression  
-    
+- The loading screen now displays 3 categories of tips based on player progression\
+  \
 
 # Technical Updates
 

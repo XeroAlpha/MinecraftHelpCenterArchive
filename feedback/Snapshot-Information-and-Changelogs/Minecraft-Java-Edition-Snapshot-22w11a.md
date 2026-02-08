@@ -96,9 +96,9 @@ The rattling tendrils of the Sculk Sensors had to come from somewhere, right? In
   - Sculk Shriekers can be found growing rarely from the charge of a Sculk Catalyst
   - Sculk Shrieker can be waterlogged
   - Sculk Shrieker requires Silk Touch to obtain otherwise drops experience when mined
-- Souls from mobs will spread through Sculk Veins and Sculk Blocks in random directions until  
+- Souls from mobs will spread through Sculk Veins and Sculk Blocks in random directions until\
   they find a valid substrate they can feed of off
-  - The charge from souls in the Sculk Blocks and Sculk Veins will eventually decay, but it will decay much, much slower in the close  
+  - The charge from souls in the Sculk Blocks and Sculk Veins will eventually decay, but it will decay much, much slower in the close\
     vicinity of the Sculk Catalyst, and much faster away from its host
   - If the charge is dropped outside the range of the Catalyst, it has a chance of growing a Sculk Sensor
 - Sculk, Sculk Veins and Sculk Catalysts require Silk Touch to acquire. Otherwise, they drop experience when mined

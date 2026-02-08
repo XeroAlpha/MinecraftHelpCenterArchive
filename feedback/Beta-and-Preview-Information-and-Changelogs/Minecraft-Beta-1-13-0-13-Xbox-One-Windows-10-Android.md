@@ -84,7 +84,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360033322932-Minecraft-Be
 
 **For Map Makers and Add-On Creators:**
 
-**Changes to the Pack Manifest  
+**Changes to the Pack Manifest\
 Summary**
 
 - As of 1.13, we have made some changes to the pack manifest with a new format version of "2". We recommend that any new packs or world templates that you create use format version of 2 from now on. With this new format, there are a few additional changes to be aware of, detailed below. 
@@ -107,5 +107,5 @@ Summary**
 
 **Base Game Version Field**
 
-- For this field, we recommend using the value "\*". This will ensure that anyone using your content in their Minecraft worlds will always get the latest base game (vanilla) content when an update is available.   
+- For this field, we recommend using the value "\*". This will ensure that anyone using your content in their Minecraft worlds will always get the latest base game (vanilla) content when an update is available. \
   In the case that your content relies on specific base game behavior, you can use this field to specify a base game version, starting with 1.13. If you choose to do this, you should omit the third octet; for example, if the version of the game you are targeting is '\[1, 14, 2\]', you would specify a version of '\[1, 14, 0\]'). If you specify a version this way, any worlds using your custom content will not get new base game content when it becomes available in future releases, which could help prevent unwanted changes to behavior in your content caused by updates to the base game. However, we still recommend using the “\*” value to ensure players can continue to enjoy your content in their Minecraft worlds long-term while also receiving updates to the base game.

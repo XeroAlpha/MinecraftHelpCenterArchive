@@ -201,3 +201,5 @@ It's time for another Preview and Beta release! Build with copper torches, lante
     - This is the number of ticks the effect will last for. Undefined means the effect does not expire
   - Removed `static createPotion(options: PotionOptions): ItemStack` method from `beta`
     - This was replaced by `Potions.resolve`.
+
+\

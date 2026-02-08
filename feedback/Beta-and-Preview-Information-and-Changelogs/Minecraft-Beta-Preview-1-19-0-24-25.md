@@ -18,8 +18,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/5540500564365-Minecraft-B
 
 ![A Minecraft screenshot, shoiwng the Ancient City, and a new compass!](https://feedback.minecraft.net/hc/article_attachments/5540422782989/beta19_2_16x9.jpg)
 
-Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).  
-  
+Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).\
+\
 
 # **Minecraft Preview on Xbox**
 

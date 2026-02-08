@@ -91,7 +91,7 @@ Ghastling is a young version of the Happy Ghast mob.
 - After spawning, the Ghastling will try and follow:
 
 1.  Players within a 16-block radius *or*
-2.  An adult, non-aquatic passive mob (and some neutral mobs) within a 16-block radius  
+2.  An adult, non-aquatic passive mob (and some neutral mobs) within a 16-block radius\
     If no player or suitable mob is close around the Ghastling will idle around within 32 blocks from its home position (where it spawned or last was interacted with).
 
 - Can be tempted and fed using Snowballs
@@ -365,7 +365,7 @@ You can report any issues at [bugs.mojang.com](https://bugs.mojang.com/) and ple
 
 - Added pixelated reflections to the Deferred Technical Preview. This new effect will cause reflections to align to the texel grid of textures in the world.
 
-- Added pixelated shadows to the Deferred Technical Preview.  
+- Added pixelated shadows to the Deferred Technical Preview.\
   This new effect can be controlled with the new shadows JSON schema, "shadows/global.json". This file adds new settings that control the style of shadows in the game. Available parameters are "shadow_stlye", which can be "soft_shadows" or "blocky_shadows", and "texel_size". "soft_shadows" are the default style, while "blocky_shadows" results in shadows that are pixelated in appearance. When "blocky_shadows" are enabled, "texel_size" controls the size of the pixelation effect. "texel_size" should be equivalent to the block texture size in order to achieve a one to one mapping between the pixels in a texture and the pixelated effect created by enabling "blocky_shadows", but this is not required. An example version of what "shadows/global.json" could look like is as follows:
 
 <!-- -->

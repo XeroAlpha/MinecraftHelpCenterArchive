@@ -83,8 +83,8 @@ Venture into the Tricky Trials update! Team up or go solo and discover new decor
 
 ![tricky-trials.jpg](https://feedback.minecraft.net/hc/article_attachments/27452354448781)
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 # **New Features:**
 
@@ -638,13 +638,13 @@ Introducing the improved player Profile page, where you can see your own profile
 - Getting to the new Profile Screen:
   - In the new Play Screen UI, you can access Profile from the Play menu.
     - Open the Friends Drawer and click on your friends to see their profiles, or click “Search for Players” from the Friends Drawer to find new profiles.
-  - In the old UI, click “Add Friends” from the Friends tab and search for friends. Click on them to view their profiles.  
-      
+  - In the old UI, click “Add Friends” from the Friends tab and search for friends. Click on them to view their profiles.\
+    \
 
 # **Known Issues:**
 
-- Using Trident with Riptide Enchantment during Wind Charge jump does not negate Wind Charge fall damage protection  
-    
+- Using Trident with Riptide Enchantment during Wind Charge jump does not negate Wind Charge fall damage protection\
+  \
 
 # **Fixes and Changes:**
 
@@ -901,8 +901,8 @@ Introducing the improved player Profile page, where you can see your own profile
 ## **Items**
 
 - Unlocking requirements are now sent to clients for "minecraft:recipe_shapeless" and "minecraft:recipe_shaped"
-  - It allows the UI to suggest recipes that are always unlocked when the game rule "dolimitedcrafting" is enabled  
-      
+  - It allows the UI to suggest recipes that are always unlocked when the game rule "dolimitedcrafting" is enabled\
+    \
 
 # **Experimental Technical Updates**
 

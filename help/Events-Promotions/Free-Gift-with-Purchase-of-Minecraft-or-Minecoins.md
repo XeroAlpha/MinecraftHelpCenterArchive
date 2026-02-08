@@ -77,5 +77,5 @@ Eligible purchases and prices vary by region, device, and over time. Geographic 
 
 Limit: 1 offer per person/account. Subject to the Microsoft Services Agreement (aka.ms/MSA). Except as required by law, codes cannot be redeemed or exchanged for cash, are not refundable, and are not transferable.
 
-Not valid on prior orders or purchases; cannot be transferred or otherwise redeemed for cash. Applicable return policy applies to each purchase. Promotional items given or discounted products bought with a qualifying product are not valid or must be returned if the qualifying product is returned. May not be combinable with other offers. Microsoft reserves the right to modify or discontinue offers at any time.  
+Not valid on prior orders or purchases; cannot be transferred or otherwise redeemed for cash. Applicable return policy applies to each purchase. Promotional items given or discounted products bought with a qualifying product are not valid or must be returned if the qualifying product is returned. May not be combinable with other offers. Microsoft reserves the right to modify or discontinue offers at any time.\
 Valid in United States (including Puerto Rico), Canada, France, Spain, and Germany. Promotional gift card must be redeemed by June 8, 2025 and spent within 90 days of redemption.

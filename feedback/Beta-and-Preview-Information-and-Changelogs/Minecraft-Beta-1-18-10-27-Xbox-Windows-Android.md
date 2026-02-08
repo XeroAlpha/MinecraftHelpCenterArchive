@@ -18,15 +18,15 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4420146557325-Minecraft-B
 
 ![Picture1.jpg](https://feedback.minecraft.net/hc/article_attachments/4420159360013/Picture1.jpg)
 
-Here's a list of what is new in this week's Beta! Please leave us any specific feedback or suggestions in the thread at [aka.ms/MCFrogFeedback](https://aka.ms/MCFrogFeedback), and as always please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/)  
-  
+Here's a list of what is new in this week's Beta! Please leave us any specific feedback or suggestions in the thread at [aka.ms/MCFrogFeedback](https://aka.ms/MCFrogFeedback), and as always please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/)\
+\
 
 **Experimental Features**
 
 **Frogs**
 
-- Frogs no longer eat Goats! ([MCPE-151536](https://bugs.mojang.com/browse/MCPE-151536))  
-    
+- Frogs no longer eat Goats! ([MCPE-151536](https://bugs.mojang.com/browse/MCPE-151536))\
+  \
 
 **Features and Bug Fixes**
 
@@ -59,8 +59,8 @@ Here's a list of what is new in this week's Beta! Please leave us any specific f
 
 **World Generation**
 
-- Chests and Monster Spawners now spawn correctly in structures ([MCPE-23416](https://bugs.mojang.com/browse/MCPE-23416)) ([MCPE-48622](https://bugs.mojang.com/browse/MCPE-48622)) ([MCPE-97295](https://bugs.mojang.com/browse/MCPE-97295))  
-    
+- Chests and Monster Spawners now spawn correctly in structures ([MCPE-23416](https://bugs.mojang.com/browse/MCPE-23416)) ([MCPE-48622](https://bugs.mojang.com/browse/MCPE-48622)) ([MCPE-97295](https://bugs.mojang.com/browse/MCPE-97295))\
+  \
 
 **Technical Updates**
 

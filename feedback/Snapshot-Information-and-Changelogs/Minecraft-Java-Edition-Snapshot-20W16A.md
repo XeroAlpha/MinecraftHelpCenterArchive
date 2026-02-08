@@ -47,7 +47,7 @@ Shattered remains of ancient nether portals. Wonder who built them?​
 
 ## JMX MONITORING
 
-It is now possible to monitor the server tick times though JMX.  
+It is now possible to monitor the server tick times though JMX.\
 The rationale for this is that JMX is a well known and supported monitoring technology with existing integrations and tools.
 
 This enables server admins to hook alerts and graphing tools using ordinary JMX clients and dashboards.

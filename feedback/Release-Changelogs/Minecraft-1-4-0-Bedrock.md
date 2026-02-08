@@ -10,9 +10,9 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004203351-Minecraft-1-4-0-Bedrock
 ---
 
-This update contains a whole ocean of new features from Update Aquatic! More features are on their way and will be available in game updates soon. If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojang.com/)and post all thoughts and suggestions to [feedback.minecraft.net](http://feedback.minecraft.net/). Thanks for playing!   
-  
-  
+This update contains a whole ocean of new features from Update Aquatic! More features are on their way and will be available in game updates soon. If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojang.com/)and post all thoughts and suggestions to [feedback.minecraft.net](http://feedback.minecraft.net/). Thanks for playing! \
+\
+\
 **New Features:**
 
 - Water has a completely new look and increased visibility while underwater
@@ -59,12 +59,12 @@ This update contains a whole ocean of new features from Update Aquatic! More fea
 - Added sorting and filtering to the Store
 - Minecraft: Education Edition Chemistry features can now be enabled under Cheats! For tips on getting started, check out the [Chemistry Lab Journal](https://education.minecraft.net/wp-content/uploads/ChemistryLab_Journal.pdf)
 
-**  
+**\
 Minecraft Education Edition 1.4.0:**
 
 The new update offers underwater worlds, items and marine creatures, plus 17 standards-aligned lessons to engage students across subjects. Get started [here](https://education.minecraft.net/get-started/download).
 
-  
+\
 **Changes:**
 
 - New item textures for Raw Fish, Cooked Fish, Raw Salmon, Cooked Salmon, Tropical Fish, and Pufferfish
@@ -79,16 +79,16 @@ The new update offers underwater worlds, items and marine creatures, plus 17 sta
 - The default author for books are now set to "Author Unknown"
 - Buttons made from Oak or Stone are now displayed as Oak Button and Stone Button, respectively
 
-  
-**Experimental Gameplay:**  
-A handful of features from Update Aquatic have been added through Experimental Gameplay. These features are incomplete and are not representative of final gameplay but feedback is absolutely welcome! These are not all of the Update Aquatic features coming to Minecraft and more is on the way.   
-  
+\
+**Experimental Gameplay:**\
+A handful of features from Update Aquatic have been added through Experimental Gameplay. These features are incomplete and are not representative of final gameplay but feedback is absolutely welcome! These are not all of the Update Aquatic features coming to Minecraft and more is on the way. \
+\
 'Use Experimental Gameplay' can be toggled in World Settings. This may break your world so a copy of your world will be created with "\[EX\]" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.
 
 - Drowned mobs
 - Nautilus Shells
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**
@@ -152,7 +152,7 @@ A handful of features from Update Aquatic have been added through Experimental G
   - Commands in chains of Command Blocks will now run sequentially when other chains are running nearby
   - Selectors targeting players in '/title' commands will now properly show the player's name
 
-  
+\
 **Add-Ons (Resource and Behavior Packs):**
 
 - Updated templates for 1.4.0 with new assets and behaviors can be downloaded at [minecraft.net/addons](http://minecraft.net/addons)

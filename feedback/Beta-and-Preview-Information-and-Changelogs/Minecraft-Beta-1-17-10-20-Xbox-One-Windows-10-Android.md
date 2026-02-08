@@ -20,13 +20,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360061498232-Minecraft-Be
 - Beta builds can be unstable and are not representative of final version quality 
 - The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-It's time for another Caves & Cliffs beta update! Please continue to leave us your feedback in the threads at [aka.ms/CavesCliffsFeedback](https://aka.ms/CavesCliffsFeedback), and search and reports any new bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).  
-  
+It's time for another Caves & Cliffs beta update! Please continue to leave us your feedback in the threads at [aka.ms/CavesCliffsFeedback](https://aka.ms/CavesCliffsFeedback), and search and reports any new bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).\
+\
 
 **Known Issue: **
 
-- May 27, 2021 - The team is aware of a crash that occurs when breaking blocks while the Caves & Cliffs experimental toggle is enabled. While we work on a fix, avoid playing on worlds with the experimental toggle.  
-    
+- May 27, 2021 - The team is aware of a crash that occurs when breaking blocks while the Caves & Cliffs experimental toggle is enabled. While we work on a fix, avoid playing on worlds with the experimental toggle.\
+  \
 
 ![axolotl_crystal.jpg](https://feedback.minecraft.net/hc/article_attachments/360096550071/axolotl_crystal.jpg)
 

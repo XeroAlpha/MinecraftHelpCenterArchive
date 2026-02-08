@@ -14,14 +14,14 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127552-MCPE-WIN10-G
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Marketplace Content:**
 
 - Battle & Beasts Skin Pack
 - Pet Skin Pack by Imagiverse
 - Cyber Space Skin Pack by Irish
 
-  
+\
 **Bug Fixes:**
 
 - Fixed lag on Android devices when accessing resource packs

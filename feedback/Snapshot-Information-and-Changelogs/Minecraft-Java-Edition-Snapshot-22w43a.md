@@ -43,7 +43,8 @@ A lot of feedback has come pouring in as a result of the creative inventory orde
 - Basalt blocks are now found after Nether Brick blocks in the Building Blocks tab, next to Blackstone
 - Generally reordered the plants of the Natural Blocks tab
 
-###  ADDITIONS
+### \
+ADDITIONS
 
 - Added to Redstone Blocks tab
   - Boat with Chests

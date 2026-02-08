@@ -1303,7 +1303,7 @@ Added new mouse controls and hotkeys to the Line Tool for faster, more flexible 
 
 ### Blocks
 
-- Added minecraft:random_offset component under the Upcoming Creator Features toggle. This allows for blocks to randomly offset like foliage does in the Vanilla game  
+- Added minecraft:random_offset component under the Upcoming Creator Features toggle. This allows for blocks to randomly offset like foliage does in the Vanilla game\
   Example:
 
 <!-- -->
@@ -1358,9 +1358,9 @@ Added new mouse controls and hotkeys to the Line Tool for faster, more flexible 
   - "sticky" (Optional): Specifies how the block should handle adjacent blocks when moved by a Piston
     - "none": Default. Will not add any additional behavior
     - "same": Will move adjacent blocks along with it when moved by a piston. It will not move different blocks with "sticky": "same" (e.g. A Honey Block can move another Honey Block but not a Slime Block)
-      - NOTE: This field only works when used with "movement_type": "push_pull" "format_version": "1.21.90",  
-        "minecraft:movable": {  
-        "movement_type": "push_pull",  
+      - NOTE: This field only works when used with "movement_type": "push_pull" "format_version": "1.21.90",\
+        "minecraft:movable": {\
+        "movement_type": "push_pull",\
         "sticky": "same"
 
 ### Block Components

@@ -124,10 +124,10 @@ hash:
 
 ![1.21.6_1170x500.jpg](https://feedback.minecraft.net/hc/article_attachments/37432097124877)
 
-Experience the joy of soaring above the Overworld with our Chase the Skies drop! This drop not only brings an exciting flying mount to Minecraft but opens up the skies for exploring, building – and more. Raise your ghastling with care and it'll let you soar with friends above the clouds once fully grown.  
-  
-With 1.21.6 we are also taking steps towards adding Vibrant Visuals to Java. In this release, there are new fog improvements and clouds will extend all the way to the horizon.  
-  
+Experience the joy of soaring above the Overworld with our Chase the Skies drop! This drop not only brings an exciting flying mount to Minecraft but opens up the skies for exploring, building – and more. Raise your ghastling with care and it'll let you soar with friends above the clouds once fully grown.\
+\
+With 1.21.6 we are also taking steps towards adding Vibrant Visuals to Java. In this release, there are new fog improvements and clouds will extend all the way to the horizon.\
+\
 Go out and explore the Overworld, build high into the sky, leash a caravan of camels together, uncover new music, and find wandering friends with the Player Locator bar.
 
 ## New Features
@@ -1198,7 +1198,7 @@ These define custom icons to be displayed on the Locator Bar and are within the�
 #### LightmapInfo Uniform Block
 
 - Only available to the lightmap shader (lightmap.fsh)
-- Contains AmbientLightFactor, SkyFactor, BlockFactor, UseBrightLightmap, NightVisionFactor, DarknessScale,   
+- Contains AmbientLightFactor, SkyFactor, BlockFactor, UseBrightLightmap, NightVisionFactor, DarknessScale, \
   DarkenWorldFactor, BrightnessFactor, SkyLightColor with no change in behavior
 
 ## Fixed bugs in 1.21.6

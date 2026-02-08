@@ -8,7 +8,7 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360015936372-Minecraft-New-Nintendo-3DS-Edition-1-7
 ---
 
-Welcome to Version 1.7! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)  
+Welcome to Version 1.7! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
 [Click here](http://feedback.minecraft.net/) to give us feedback & tell us what you think about the update
 
  

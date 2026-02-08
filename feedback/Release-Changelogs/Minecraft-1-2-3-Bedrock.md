@@ -13,12 +13,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168411-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Added a button to join a Realm using an invite code on the Friends tab, for platforms that can't click on Realms invite links
 
-  
+\
 **New Marketplace Content:**
 
 - Adventure Maps
@@ -43,12 +43,12 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   - Space Crew by InPvP
   - Spooky Skeleton by Blockception
 
-  
+\
 **Tweaks:**
 
 - Pressing the A button on the Creative inventory will now place one item in the inventory, not a full stack. Pressing the Y button will place a full stack and X will clear the hotbar in Creative mode
 
-  
+\
 **Bug Fixes:**
 
 - iOS render distance is no longer limited to 6 chunks on higher memory devices

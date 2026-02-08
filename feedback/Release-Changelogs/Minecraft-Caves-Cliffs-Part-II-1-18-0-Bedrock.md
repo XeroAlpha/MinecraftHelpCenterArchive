@@ -223,7 +223,7 @@ Check out the [FAQ article](https://aka.ms/CCFeaturesFAQ) for a deep dive on the
 
 - The '/clone' command has been updated to properly check for overlapping source and destinations areas no longer allowing for a 1 block depth overlap on each axis. This can continue to be overridden via the force clone option
 
-**GameTest Framework  **
+**GameTest Framework\**
 
 - New Item API updates: ItemStack
   - Exposed interfaces for accessing script-enabled ItemComponents on ItemStack. Note that these item components only work in conjunction with custom items defined via the Holiday Creator Features experiment

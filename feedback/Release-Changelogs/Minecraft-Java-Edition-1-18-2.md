@@ -43,7 +43,7 @@ Enjoy!
 
 ## PLACEFEATURE COMMAND
 
-New command that places a configured feature at a given location. Syntax: placefeature \<id\> \[pos\]  
+New command that places a configured feature at a given location. Syntax: placefeature \<id\> \[pos\]\
 Parameters:
 
 - id: The namespaced id of a configured feature to place

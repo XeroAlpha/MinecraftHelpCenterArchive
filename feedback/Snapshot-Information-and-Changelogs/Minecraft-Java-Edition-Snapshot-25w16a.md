@@ -216,7 +216,7 @@ In this week’s snapshot leads are getting new mechanics making it possible to 
 #### LightmapInfo Uniform Block
 
 - Only available to the lightmap shader (lightmap.fsh)
-- Contains AmbientLightFactor, SkyFactor, BlockFactor, UseBrightLightmap, NightVisionFactor, DarknessScale,   
+- Contains AmbientLightFactor, SkyFactor, BlockFactor, UseBrightLightmap, NightVisionFactor, DarknessScale, \
   DarkenWorldFactor, BrightnessFactor, SkyLightColor with no change in behavior
 
 ## Fixed bugs in 25w16a

@@ -18,7 +18,7 @@ Before installing Minecraft Education, ensure these prerequisites are met.
 - Users need to have the correct permissions based on the set up and installation method used at your organization.
 - Your Chromebook must support the Google Play Store.
   - All 2019 or newer Chromebooks support the Play Store.
-  - For 2018 or earlier devices, see [Chrome OS Systems Supporting Android Apps](https://www.chromium.org/chromium-os/chrome-os-systems-supporting-android-apps).  
+  - For 2018 or earlier devices, see [Chrome OS Systems Supporting Android Apps](https://www.chromium.org/chromium-os/chrome-os-systems-supporting-android-apps).\
     *Note: Not all devices that support Android apps are compatible with Minecraft Education.*
 - For managed Google Play Store, the Store, Android apps, and Minecraft Education must be enabled for users.
 - Refer to the [Considerations for Minecraft Education on Chromebooks](https://aka.ms/MEE_CHROMEBOOK_CONSIDERATIONS) for information about features that are not supported on Chromebooks
@@ -53,9 +53,9 @@ The managed Google Play Store keeps an application download cache that is shared
 
 Follow these steps to install Minecraft Education on Chromebook from the consumer Google Play Store.  
 
-1.  From the Chromebook section of the [Get Minecraft Education](https://aka.ms/MEEDownloadPage) page, select **Chromebook**.  
+1.  From the Chromebook section of the [Get Minecraft Education](https://aka.ms/MEEDownloadPage) page, select **Chromebook**.\
     **Result:** The Google Play Store opens.
-2.  Select **Install**.  
+2.  Select **Install**.\
     **Result:** Minecraft Education is installed and ready to play.
 
  

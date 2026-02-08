@@ -11,15 +11,15 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004165671-Minecraft-Win-10-Android-Beta-1-2-Build-7
 ---
 
-If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.\
+\
 
 **Tweaks:**
 
 - Jungle leaves are now transparent on higher-end devices when Fancy Leaves are enabled
 - Changed the sound effects for Creeper explosions
 
-  
+\
 **Fixes from Bugs in Beta:**
 
 - All released content will now appear in the store
@@ -48,7 +48,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - The Cancel button no longer overlaps the progress bar when downloading from the store
 - Replaced the icon for the left analog stick to better distinguish from the right analog stick
 
-  
+\
 **Fixes from Bugs in Retail:**
 
 - Boats will now move faster on ice

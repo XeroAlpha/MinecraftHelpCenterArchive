@@ -12,7 +12,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004167871-Minecraft-1-
 
 If you find any bugs, be sure to report them at bugs.mojang.com! feedback.minecraft.net is the place to go to give us feedback and tell us what you think about the update.
 
-  
+\
 **Highlights from this update:**
 
 - Moving full stacks between containers is once again possible on Pocket UI
@@ -21,13 +21,13 @@ If you find any bugs, be sure to report them at bugs.mojang.com! feedback.minecr
 - Pistons no longer get into a state where they pause, activate randomly, and potentially crash the game
 - The 'Beam Me Up' achievement can once again be unlocked
 
-  
+\
 **Changes:**
 
 - Friendly Fire (PvP) can now be toggled from World Options
 - Adjusted vertical look acceleration when using a controller
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**

@@ -20,7 +20,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165271-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
+\
 **Fixes:**
 
 - Fixed several crashes that occurred during regular gameplay

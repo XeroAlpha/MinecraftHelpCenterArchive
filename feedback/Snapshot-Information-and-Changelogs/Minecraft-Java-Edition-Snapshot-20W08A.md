@@ -45,14 +45,14 @@ Ahh, a freshly baked snapshot! It undoubtedly smells better than the piglins tha
 ## PIGLINS
 
 - Piglins are an aggressive civilization that live in the Nether
-- They mostly hang around in crimson forests, but you might find  
+- They mostly hang around in crimson forests, but you might find\
   some in the Nether wastes too
 - They think of players as target practice and will attack on sight
 - However, if you dress appropriately they will see you as a respectable figure, or tolerable at least
-- Piglins are suspicious of strangers and if they see you opening a chest, or mining a block of gold,  
+- Piglins are suspicious of strangers and if they see you opening a chest, or mining a block of gold,\
   they will assume that you’re stealing and will treat you accordingly
 - Piglins LOVE gold and get very distracted by gold items
-- Gold ingots are currency to Piglins and you can throw ingots at them or right-click them with an  
+- Gold ingots are currency to Piglins and you can throw ingots at them or right-click them with an\
   ingot to barter for various goods
 - Piglins sometimes get hungry and hunt Hoglins for food. Or they try at least. They results… vary.
 - Piglins prefer to hunt and fight in groups, and when a fight is happening everyone wants in

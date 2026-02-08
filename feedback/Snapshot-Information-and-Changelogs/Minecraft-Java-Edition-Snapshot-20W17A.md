@@ -48,7 +48,7 @@ For example, if single block state takes 5 bits, highest 4 bits of every 64-bit 
 
 ### ATTRIBUTE
 
-Adds modifies attribute on single entity. Possible syntax:  
+Adds modifies attribute on single entity. Possible syntax:\
 Parameters:
 
 - attribute \<target\> \<attribute\> get \[\<scale\>\] - get total value of attribute

@@ -44,14 +44,14 @@ hash:
 
 - These work-in-progress versions can be unstable and may not be representative of final version quality
 - Minecraft Preview is available on Xbox, PlayStation, Windows, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
-- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions  
+- The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions\
    
 
 It's time for another Preview and Beta release! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](http://bugs.mojang.com/).
 
 **Note:** *This release will show up as version 26.0.24 on Windows devices.*
 
-  
+\
  
 
 # Features and Bug Fixes[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/31078/R26U0-1-Preview?anchor=features-and-bug-fixes)
@@ -206,10 +206,10 @@ It's time for another Preview and Beta release! For the full list of goodies, br
   - `minecraft:behavior.timer_flag_3`
   - `minecraft:behavior.move_towards_dwelling_restriction`
   - `minecraft:behavior.move_towards_home_restriction`
-- Float Range fields `cooldown_range` and `duration_range` in   
-  `minecraft:behavior.timer_flag_1`,   
-  `minecraft:behavior.timer_flag_2`,  
-  and `minecraft:behavior.timer_flag_3`   
+- Float Range fields `cooldown_range` and `duration_range` in \
+  `minecraft:behavior.timer_flag_1`, \
+  `minecraft:behavior.timer_flag_2`,\
+  and `minecraft:behavior.timer_flag_3` \
   now only accepts an object with `min` and `max` values. Other formats will fail to parse
 
 ## API[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/31078/R26U0-1-Preview?anchor=api)

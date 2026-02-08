@@ -14,21 +14,21 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004124992-Minecraft-Xb
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Windows Mixed Reality support
 - Mixer Interaction: Game commands can now be linked to interactive buttons for viewers to interact directly with the game. Learn more at blog.mixer.com/Minecraft-beta
 - Mobile Broadcasting: Native broadcasting for several streaming services has been added. Look for the new Broadcast button directly in-game
 
-  
+\
 **Tweaks:**
 
 - Moved store offers on several screens. Thanks to all of our players who gave us feedback on this!
 - Improvements to the Create screen for available templates
 - Further adjustments to the sensitivity of block placement
 
-  
+\
 **Bug Fixes:**
 
 - Fixed a crash that occurred when loading a Realm that contains banners

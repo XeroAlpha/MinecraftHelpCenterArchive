@@ -13,12 +13,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127392-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Added a free cursor to the inventory screen when navigating with a controller
 
-  
+\
 **Tweaks:**
 
 - Added a video setting to toggle gameplay field of view changes
@@ -26,7 +26,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Adjusted block placement speed when using a controller
 - Added a white outline to highlighted inventory slots and recipes
 
-  
+\
 **Bug Fixes:**
 
 - Made several fixes to make navigating Settings, Create New World, Edit World, and How to Play screens more intuitive when using a controller
@@ -94,7 +94,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed the controller hint when opening and closing the Recipe Book
 - Fixed placeholder names for several skin packs
 
-  
+\
 **World Conversion Bug Fixes:**
 
 - Fixed Nether Fortresses missing parts of floors and walls after world conversion

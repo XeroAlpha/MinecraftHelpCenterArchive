@@ -247,8 +247,8 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 - The Strider now makes use of the minecraft:movement_sound_distance_offset component for its movement sound distance offset
 - Two values on the minecraft:storage_item component have been split off into separate components:
   - max_weight_limit has been moved to the new minecraft:storage_weight_limit component
-  - weight_in_storage_item has been moved to the new minecraft:storage_weight_modifier component  
-      
+  - weight_in_storage_item has been moved to the new minecraft:storage_weight_modifier component\
+    \
 
 ## Dedicated Server
 
@@ -313,7 +313,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## User Interface
 
-Added full support and fixes for some input glyph replacement strings. This is to make them work across all the platforms (PC, Consoles, Mobile).  
+Added full support and fixes for some input glyph replacement strings. This is to make them work across all the platforms (PC, Consoles, Mobile).\
 These are the values fixed:
 
 - :\_input_key.forward:
@@ -324,6 +324,6 @@ These are the values fixed:
 - :\_input_key.use:
 - :\_input_key.chat:
 - :\_input_key.attack:
-- :\_input_key.sprint:  
-  The icons for these strings are updated in diverse areas of the game that support contextual glyphs, such as: signs, signed books, tags, chat, commands.  
+- :\_input_key.sprint:\
+  The icons for these strings are updated in diverse areas of the game that support contextual glyphs, such as: signs, signed books, tags, chat, commands.\
   Also, as improvement, replacement of these values depends on the interaction/control mode when using touch as input mode. These modes are Joystick & tap to interact, D-Pad & tap to interact, and Joystick & aim crosshair.

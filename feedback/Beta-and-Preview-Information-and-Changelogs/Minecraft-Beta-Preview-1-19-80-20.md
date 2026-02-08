@@ -65,7 +65,7 @@ Now that Minecraft 1.20 has officially been named the Trails & Tales Update, we 
 
 # **Features and Bug Fixes**
 
-**Updated “You Died” experience**  
+**Updated “You Died” experience**\
 Starting today, we’re rolling out some changes to the screen you see when you die in Minecraft. This design is available to everyone in Preview/Beta, except if you have add-ons applied. We’d love to hear what you think! Please share your feedback with us [here](https://aka.ms/MinecraftPDScreen).
 
 ![Mobile version of the “You died” screen](https://feedback.minecraft.net/hc/article_attachments/13817265642253)
@@ -177,10 +177,10 @@ The Editor is in early development, and available for keyboard/mouse on Windows 
 - Added "lose_target" field to projectile data to specify if an entity should unselect its target after shooting the projectile
 - Added a new Transformation component for blocks to support rotation, scaling and translation. The component can be added to the whole block, and/or to individual block permutations. Eg.
 
-"minecraft:transformation": {  
-                "translation": \[0.0, 0.1, -0.1\],  
-                "scale": \[0.5, 1, 1.5\],  
-      "rotation": \[90, 180, 0\]  
+"minecraft:transformation": {\
+                "translation": \[0.0, 0.1, -0.1\],\
+                "scale": \[0.5, 1, 1.5\],\
+      "rotation": \[90, 180, 0\]\
 }
 
 - Transformed geometries still have the same restrictions that non-transformed geometries have, eg. a maximum size of 30/16 units
@@ -228,8 +228,8 @@ The Editor is in early development, and available for keyboard/mouse on Windows 
     - Block
     - getBlock
     - sendMessage
-    - sendMessage  
-        
+    - sendMessage\
+      \
   - Minecraft runtime errors are now fired as JavaScript Error objects instead of strings
   - Fixed a number of base class inheritance issues and added several new base classes to certain class types
   - /reload works if a script pack references a client RP.
@@ -277,7 +277,7 @@ The Editor is in early development, and available for keyboard/mouse on Windows 
       - Added read-only property *block*- Gets the block that the component is attached to
     - Renamed *IEntityComponent* to *EntityComponent*
     - Container
-      - Replaced classes   
+      - Replaced classes \
         *BlockInventoryComponentContainer*, *InventoryComponentContainer*, and *PlayerInventoryComponentContainer* with *Container*
       - function *addItem* now returns the remainder of the added item stack if the container is full, else *undefined*
       - function *transferItem* no longer takes a destination slot and will now place the given item in the first available slot. The function now returns the remainder of the item stack if the container is full, else *undefined*

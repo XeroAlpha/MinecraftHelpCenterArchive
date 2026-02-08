@@ -16,8 +16,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360042349811-Minecraft-Be
 - Beta builds can be unstable and are not representative of final version quality
 - The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-**NOTE:** This beta is a work in progress version of the full Nether Update. Some features seen in Java Edition snapshots may not yet be present.  
-  
+**NOTE:** This beta is a work in progress version of the full Nether Update. Some features seen in Java Edition snapshots may not yet be present.\
+\
 
 **New Features**
 
@@ -166,7 +166,7 @@ Never suffer again drudging through Soul Sand Valleys - Soul Speed has you cover
 
 **Spawnpoint Command**
 
-- The spawnpoint command can now be used in the Nether  
+- The spawnpoint command can now be used in the Nether\
 
 **Fixes**
 
@@ -215,7 +215,7 @@ Never suffer again drudging through Soul Sand Valleys - Soul Speed has you cover
 **Blocks**
 
 - Smooth Quartz now uses the correct texture ([MCPE-42276](https://bugs.mojang.com/browse/MCPE-42276))
-- Using Silk Touch on Giant Mushrooms now drops the correct blocks ([MCPE-34114](https://bugs.mojang.com/browse/MCPE-34114))  
+- Using Silk Touch on Giant Mushrooms now drops the correct blocks ([MCPE-34114](https://bugs.mojang.com/browse/MCPE-34114))\
 
 **Scripting and Add-ons Fixes and Changes**
 
@@ -317,7 +317,7 @@ Mobs can now barter when they pick up items, or when they receive an item during
 
 - Changed the priority from the damage type to the "ignore_mob_damage" flag (if that flag is set and a mob attacks the mob with the Panic Goal, they will not panic even if the damage type matches one in their "damage_sources" list)
 - Changed damage types from being hard-coded to being data-driven using the existing "Entity Damage Sources"
-- Changed the default from "fire, fire_tick, magma" (old hardcoded behavior) to "all"  
+- Changed the default from "fire, fire_tick, magma" (old hardcoded behavior) to "all"\
   Pre-1.16 mobs will default to "fire, fire_tick, magma"
 
 **Pickup Items Goal**

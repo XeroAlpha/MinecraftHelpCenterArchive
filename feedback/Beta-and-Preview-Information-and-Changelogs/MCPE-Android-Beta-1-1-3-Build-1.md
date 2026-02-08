@@ -7,7 +7,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004125152-MCPE-Android
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Magma blocks can now be found in the Nether
@@ -15,7 +15,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Nether Wart blocks
 - Red Nether Brick
 
-  
+\
 **Bug Fixes:**
 
 - Fixed several crashes and improved stability

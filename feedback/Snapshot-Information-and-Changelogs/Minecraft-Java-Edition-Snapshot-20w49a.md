@@ -87,7 +87,8 @@ This biome doesn’t generate naturally yet since it is designed for the upcomin
 | Explosion               | 15              |
 | Lightning Strike        | 15              |
 
-###  WOOL OCCLUSION
+### \
+WOOL OCCLUSION
 
 - Wool has a special interaction with sculk sensors.
 - If a wool block is in the way of a vibration source, the sensor will not be able to detect it.

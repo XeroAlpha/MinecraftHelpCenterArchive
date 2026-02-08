@@ -12,8 +12,8 @@ hash:
 
 13 May 2019
 
-Today we're releasing 1.14.1, a small release that addresses some issues left over from 1.14. We do plan on releasing a 1.14.2 to address further issues whilst we work on the next major update, 1.15.  
-  
+Today we're releasing 1.14.1, a small release that addresses some issues left over from 1.14. We do plan on releasing a 1.14.2 to address further issues whilst we work on the next major update, 1.15.\
+\
 Happy mining!
 
 # CHANGES IN 1.14.1

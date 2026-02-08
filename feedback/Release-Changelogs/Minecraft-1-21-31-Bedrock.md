@@ -10,8 +10,8 @@ hash:
 
 **Posted:** September 30, 2024
 
-A new update has been released to address a few issues with the 1.21.30 release.  
-  
+A new update has been released to address a few issues with the 1.21.30 release.\
+\
 
 # Fixes:
 

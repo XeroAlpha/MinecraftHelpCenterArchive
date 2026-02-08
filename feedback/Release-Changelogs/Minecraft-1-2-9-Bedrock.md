@@ -12,13 +12,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127072-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Tweaks:**
 
 - Coordinates, Fire Spreads, TNT Explodes, Mob Loot, Tile Drops, and Natural Regeneration can now be toggled from the world edit screen without enabling cheats
 - Increased the spawn rate of animals to make them easier to find
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**

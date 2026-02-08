@@ -14,13 +14,13 @@ Commands, also referred to as “Slash Commands”, are entered via Minecraft’
 
 ![essential_commands_one.png](https://edusupport.minecraft.net/hc/article_attachments/4402660797076)
 
-**(tab)**  
-Using this while typing a command will auto-complete that command or arguments for it.  
-**/**  
-Using the / key will also enter the forward slash that commands require as a prefix into the chat window, so it is a useful shortcut.  
-**↑ and ↓**  
-The arrow keys enter the previously executed command.  
-**Tab ↹**  
+**(tab)**\
+Using this while typing a command will auto-complete that command or arguments for it.\
+**/**\
+Using the / key will also enter the forward slash that commands require as a prefix into the chat window, so it is a useful shortcut.\
+**↑ and ↓**\
+The arrow keys enter the previously executed command.\
+**Tab ↹**\
 This cycles through possible commands or arguments, and can be used to auto-enter the coordinates of the block looked at before entering chat.
 
 Targeting
@@ -29,37 +29,37 @@ In most commands where a player may be specified as an argument, it is possible 
 
 ![essential_2.png](https://edusupport.minecraft.net/hc/article_attachments/4402652712212)
 
-**@a**  
-All players  
-**@e**  
-All entities  
-**@p**  
-Nearest player  
-**@r**  
-Random player(s) (a list will appear below of players currently in the world)  
-**@s**  
+**@a**\
+All players\
+**@e**\
+All entities\
+**@p**\
+Nearest player\
+**@r**\
+Random player(s) (a list will appear below of players currently in the world)\
+**@s**\
 Yourself
 
 Coordinates
 
-- Commands recognize two types of locations, true location, and relative location.  
-  True coordinates correspond to the unique location of a spot in game (the map shows your character’s true coordinate).  
-- Relative coordinates correspond to (x, y, z) distances from the location of the in-game character, and are represented using the tilde sign (~).  
+- Commands recognize two types of locations, true location, and relative location.\
+  True coordinates correspond to the unique location of a spot in game (the map shows your character’s true coordinate).\
+- Relative coordinates correspond to (x, y, z) distances from the location of the in-game character, and are represented using the tilde sign (~).\
 
 When you load into the game, you do not automatically start at 0,0,0. The easiest way to see the location where you are is to use Show Coordinates. (Remember: Cheats must be turned on to use this option.)
 
-With regards to coordinates, rotation is optional, so we will cover it in a “Commands In Depth” section (currently unavailable, but coming soon).  
+With regards to coordinates, rotation is optional, so we will cover it in a “Commands In Depth” section (currently unavailable, but coming soon).\
 You can also use negative values for tildes and relative coordinates. Feel free to experiment!
 
 Customizing worlds with commands
 
 You can customize the world and in some cases, alter the individual experience within it for your users. While you can select these options as you are creating the world, you can also change those options once you are in the world.
 
-  
-/difficulty  
+\
+/difficulty\
 Syntax: /difficulty (string)
 
-  
+\
 This is what it looks like in the game settings menu.
 
 ![essential_four.png](https://edusupport.minecraft.net/hc/article_attachments/4402652717460)
@@ -68,31 +68,31 @@ This is what it looks like in the game settings menu.
 
 **Key**
 
-**e**  
-Hostile mobs are allowed to spawn, and as the name suggests, provide less damage than on   
-**h**  
-Hostile mobs are allowed to spawn, and as the name suggests, provide more damage than on   
-**n**  
-Hostile mobs can spawn, but deal standard damage levels.  
-**p**  
+**e**\
+Hostile mobs are allowed to spawn, and as the name suggests, provide less damage than on \
+**h**\
+Hostile mobs are allowed to spawn, and as the name suggests, provide more damage than on \
+**n**\
+Hostile mobs can spawn, but deal standard damage levels.\
+**p**\
 Hostile mobs do not spawn naturally, and they do not deal damage.
 
 Unlike Creative or Survival mode, you cannot set this per player.
 
-/immutableworld  
-Syntax: /*immutableworld (value)*  
+/immutableworld\
+Syntax: /*immutableworld (value)*\
 Immutable world works just like Adventure mode in other editions of Minecraft, but is exclusive to Education Edition. It must be set by an operator of the world, and cannot be set per player. Adventure mode lets you interact with blocks but not destroy them.
 
-  
-/gamemode  
+\
+/gamemode\
 Syntax: /*gamemode (string) (target)*
 
-  
+\
 This adjusts the same game setting as this option in the game settings menu.
 
 **Mode**
 
-**Creative (c): **Creative mode removes the survival elements and allows players to easily create and destroy structures and mechanisms. Unlimited building materials are provided**  **
+**Creative (c): **Creative mode removes the survival elements and allows players to easily create and destroy structures and mechanisms. Unlimited building materials are provided**\**
 
 **Survival (s): **In this mode, players have to gather all their materials to build, craft, and gain experience points.
 

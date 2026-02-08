@@ -60,8 +60,8 @@ Access this new screen from the Play menu:
 - In the new UI, click “Search for Players” from the Friends Drawer
 - In the old UI, click “Add Friends” from the Friends tab
 
-Please try out these new features and let us know what you think at [aka.ms/mcaddfriendsfeedback](https://aka.ms/mcaddfriendsfeedback)!  
-  
+Please try out these new features and let us know what you think at [aka.ms/mcaddfriendsfeedback](https://aka.ms/mcaddfriendsfeedback)!\
+\
 
 **Features and Bug Fixes:**
 
@@ -101,8 +101,8 @@ Please try out these new features and let us know what you think at [aka.ms/mcad
 - Guest users in split-screen multiplayer will no longer trigger Realm Events
 - Fixed an issue where enabling Realms Stories required a restart (Preview Only)
 - Players can now see themselves in the ‘Recently Played’ section of Realms Stories, if they have played recently
-- Other bug fixes and stability updates  
-    
+- Other bug fixes and stability updates\
+  \
 
 **Technical Updates:**
 
@@ -133,8 +133,8 @@ Please try out these new features and let us know what you think at [aka.ms/mcad
 ## **Blocks**
 
 - “red_flower” block is now split into unique instances: “poppy”, “blue_orchid”, “allium”, “azure_bluet”, “red_tulip”, “orange_tulip”, “white_tulip”, “pink_tulip”, “oxeye_daisy”, “cornflower”, and “lily_of_the_valley”
-- “coral_fan_dead” block is now split into unique instances: “dead_tube_coral_fan”, “dead_brain_coral_fan”, “dead_bubble_coral_fan”, “dead_fire_coral_fan” and “dead_horn_coral_fan”  
-    
+- “coral_fan_dead” block is now split into unique instances: “dead_tube_coral_fan”, “dead_brain_coral_fan”, “dead_bubble_coral_fan”, “dead_fire_coral_fan” and “dead_horn_coral_fan”\
+  \
 
 **Experimental Technical Updates:**
 

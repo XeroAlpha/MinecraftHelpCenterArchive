@@ -20,10 +20,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165291-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
-This beta also includes changes and fixes from the 1.2.10 Beta  
-  
-  
+\
+This beta also includes changes and fixes from the 1.2.10 Beta\
+\
+\
 **Changes:**
 
 - Friendly Fire (PvP) can now be toggled from World Options
@@ -32,7 +32,7 @@ This beta also includes changes and fixes from the 1.2.10 Beta
 - Added Search functionality to the Marketplace to easily find specific content
 - Palleted chunks! This means we can now have (almost) infinite different types of blocks (and also no more BockIDs). It also means the game should be less likely to crash due to being out of memory
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**

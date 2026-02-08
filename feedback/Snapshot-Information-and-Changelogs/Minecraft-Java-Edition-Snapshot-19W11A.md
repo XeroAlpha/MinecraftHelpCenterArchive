@@ -126,10 +126,10 @@ hash:
 
 # GET THE SNAPSHOT
 
-To install the snapshot, open up the [Minecraft Launcher](https://minecraft.net/download) and enable snapshots in the "Launch Options" tab.  
-  
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds**.  
-  
+To install the snapshot, open up the [Minecraft Launcher](https://minecraft.net/download) and enable snapshots in the "Launch Options" tab.\
+\
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds**.\
+\
 Cross-platform server jar:
 
 - [Minecraft server jar](https://launcher.mojang.com/v1/objects/388221ffa9e8e1576e07f9839eadd2ac7bd51cbb/server.jar)

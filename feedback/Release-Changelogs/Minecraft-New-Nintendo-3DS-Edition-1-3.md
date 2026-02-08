@@ -10,7 +10,7 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004126632-Minecraft-New-Nintendo-3DS-Edition-1-3
 ---
 
-If you find any bugs, be sure to report them here!  
+If you find any bugs, be sure to report them here!\
 Click here to give us feedback & tell us what you think about the update.
 
  

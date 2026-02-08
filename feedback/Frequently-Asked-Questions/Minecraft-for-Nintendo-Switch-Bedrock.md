@@ -18,7 +18,7 @@ A: The Bedrock version of Minecraft has been the codebase on mobile and Windows 
 
 **Q: How is this version different than the one I already own?**
 
-A: Minecraft delivers a united experience to players on all platforms that the Bedrock codebase is used. Build with friends via cross-play on Xbox One, Windows 10 and mobile devices, play multiplayer mini-games through servers\*, and customize how you play with community content available through the in-game marketplace.   
+A: Minecraft delivers a united experience to players on all platforms that the Bedrock codebase is used. Build with friends via cross-play on Xbox One, Windows 10 and mobile devices, play multiplayer mini-games through servers\*, and customize how you play with community content available through the in-game marketplace. \
 \*Servers available via post-launch update at a later date
 
  
@@ -55,7 +55,7 @@ b\. It’ll bring up a screen to go to: <http://aka.ms/remoteconnect> with a u
 
 c\. Enter the URL on another device (PC or Mobile phone)
 
-d\. Follow the instructions on the website by entering the code and complete signing into your Microsoft account.  
+d\. Follow the instructions on the website by entering the code and complete signing into your Microsoft account.\
  
 
 **Q:  How do I find my friends on their Microsoft account?**
@@ -66,7 +66,7 @@ b\. Toggle to the right onto the “Friends” tab
 
 c\. Click the button to “Add Friend”
 
-d\. Find friends by entering their Microsoft Gamertag  
+d\. Find friends by entering their Microsoft Gamertag\
  
 
 **Q:  I keep entering my friend’s ID into Cross-Platform friends and can’t find them. Why?**
@@ -99,7 +99,7 @@ A: Yes, your existing worlds from Minecraft: Nintendo Switch Edition will conver
 
  
 
-**Q:  How do I transfer existing worlds from “Minecraft: Nintendo Switch Edition” to “Minecraft”**  
+**Q:  How do I transfer existing worlds from “Minecraft: Nintendo Switch Edition” to “Minecraft”**\
  
 
 A:  *In Minecraft (Bedrock Version):*
@@ -110,7 +110,7 @@ A:  *In Minecraft (Bedrock Version):*
 
 *From Wii U Edition to Minecraft: Nintendo Switch Edition:*
 
-Make sure both Wii U and Switch are on the same Wi-Fi network and are connected to Nintendo Network  
+Make sure both Wii U and Switch are on the same Wi-Fi network and are connected to Nintendo Network\
  
 
 On Wii U:
@@ -143,7 +143,7 @@ A:  Transferring to Minecraft should change the world type to infinite, keeping
 
 A: Yes, Realms is available on the Bedrock edition of Minecraft for Nintendo Switch. To play online on a Nintendo Switch, you need to have a Nintendo Switch Online subscription, so this is a requirement for playing on Realms. More information about Nintendo Switch Online can be found [here](https://www.nintendo.com/switch/online-service).
 
-  
+\
  
 
 **Q: When will Switch get Update Aquatic?**
@@ -166,14 +166,14 @@ A: No, the Super Mario Mash-Up is only playable by Nintendo Switch owners in sin
 
 **Q:  How do I link my previous purchases on other Minecraft Bedrock versions to my Switch version?**
 
-A:  Log into Minecraft and sign into your Microsoft account. All your content will sync automatically with other purchases you’ve made with other Bedrock versions.   
+A:  Log into Minecraft and sign into your Microsoft account. All your content will sync automatically with other purchases you’ve made with other Bedrock versions. \
  
 
 **Q:  I own Minecraft: Nintendo Switch Edition and I’ve bought previous DLC. How do I get it to sync to Minecraft?**
 
 A: A. Log into Minecraft: Nintendo Switch Edition on your Nintendo Switch account. This will sync the latest purchases.
 
-B. Log into the Minecraft on your Nintendo Switch and you’ll be automatically granted the entitlements for that DLC.   
+B. Log into the Minecraft on your Nintendo Switch and you’ll be automatically granted the entitlements for that DLC. \
  
 
 Note that every purchase you make for the previous version, you must first log into Minecraft: Nintendo Switch Edition, exit and then launch the new Bedrock version for purchases to sync. DLC purchased within Minecraft: Nintendo Switch Edition will only remain on your Nintendo Switch device and not be carried over to other devices.

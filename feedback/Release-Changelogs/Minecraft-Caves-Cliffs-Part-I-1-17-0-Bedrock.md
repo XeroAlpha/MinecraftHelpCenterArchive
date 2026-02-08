@@ -358,8 +358,8 @@ For more information, please visit [aka.ms/MinecraftSunsetting](https://nam06.sa
 - Fixed an issue where the clone command was changed and not versioned
 - The '/setworldspawn' command is now prohibited in legacy worlds, and affected worlds will reset their altered spawn positions to the original position ([MCPE-27797](https://bugs.mojang.com/browse/MCPE-27797))
 - Function's positional offset is no longer re-evaluated for every command inside the function when run with the '/execute' command. It is now only evaluated once for the whole function ([MCPE-124890](https://bugs.mojang.com/browse/MCPE-124890))
-- Fixed an issue where the Agent till command would not till blocks in Minecraft: Education Edition  
-    
+- Fixed an issue where the Agent till command would not till blocks in Minecraft: Education Edition\
+  \
 
 **Technical Updates:**
 

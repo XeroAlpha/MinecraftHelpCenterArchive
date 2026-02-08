@@ -54,14 +54,14 @@ Last Update: **7 May 2020 **
 
  Related topics:
 
-- [Creating Great Feedback](./Creating-Great-Ideas.md)
-- [Posting Guidelines](./Posting-Guidelines.md)
+- [Creating Great Feedback](../Feedback-Website/Creating-Great-Ideas.md)
+- [Posting Guidelines](../Feedback-Website/Posting-Guidelines.md)
 
 We want to hear **your** best original ideas! Not someone else's. Not your friend's idea. Yours!
 
 Your community team reviews all suggestions from feedback.minecraft.net. You will want to bookmark this page to check for updates because we update it often. Just jump to the right place on our page below.
 
-**Please don't make new threads about the ideas on this page!** We have already talked about these ideas. If there is not a stated reason, it is because the team discussed the issue and decided the idea/concept is not a fit for Minecraft for various reasons. These threads will be considered spam, ([Posting Guidelines)](./Posting-Guidelines.md) and ideas containing these any items will be rejected from the site without further user notification. Excessive spam will lead to loss of posting privileges.
+**Please don't make new threads about the ideas on this page!** We have already talked about these ideas. If there is not a stated reason, it is because the team discussed the issue and decided the idea/concept is not a fit for Minecraft for various reasons. These threads will be considered spam, ([Posting Guidelines)](../Feedback-Website/Posting-Guidelines.md) and ideas containing these any items will be rejected from the site without further user notification. Excessive spam will lead to loss of posting privileges.
 
 - [General Notes](#gen)
 - [Biomes and Structures](#biom)

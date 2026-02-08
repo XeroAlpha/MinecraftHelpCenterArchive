@@ -28,8 +28,8 @@ hash:
 - Minecraft Preview is available on Xbox, PlayStation 4, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
 - The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-The latest Bedrock Preview just released and there's quite a few changes to test out! You'll now find brand new Wolves roaming the Overworld, Wind Charge improvements, and the Bogged has received an updated look. Your thoughts and comments continue to help shape these game updates so please let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/) and report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/).  
-  
+The latest Bedrock Preview just released and there's quite a few changes to test out! You'll now find brand new Wolves roaming the Overworld, Wind Charge improvements, and the Bogged has received an updated look. Your thoughts and comments continue to help shape these game updates so please let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/) and report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/).\
+\
 
 **Features and Bug Fixes:**
 
@@ -93,8 +93,8 @@ Some other features in this new design are the Server Activities and News. You w
 
 - Fixed a bug that prevented recipes without unlock criteria from showing up in the recipe book
 - On touch devices, item transfer animation is now rendered above static items
-- Resolves issue where “Signing in…” text might not show on the main menu while sign in is actually in progress  
-    
+- Resolves issue where “Signing in…” text might not show on the main menu while sign in is actually in progress\
+  \
 
 **Experimental Features:**
 
@@ -115,8 +115,8 @@ Some other features in this new design are the Server Activities and News. You w
 
 ## **Trial Chambers**
 
-- Trial Chambers will no longer generate through the edges of the dimension ([MCPE-176919](https://bugs.mojang.com/browse/MCPE-176919))  
-    
+- Trial Chambers will no longer generate through the edges of the dimension ([MCPE-176919](https://bugs.mojang.com/browse/MCPE-176919))\
+  \
 
 **Technical Updates:**
 
@@ -141,8 +141,8 @@ Learn [how to use](https://aka.ms/LearnEditor) the Editor, join the [GitHub Disc
 Fixes this week:
 
 - Added a “Reload” button that allows for reloading of the UI when an Ore UI error occurs
-- Line tool bar icon updated to correct design icon  
-    
+- Line tool bar icon updated to correct design icon\
+  \
 
 **Experimental Technical Updates:**
 

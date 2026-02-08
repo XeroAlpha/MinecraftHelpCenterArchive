@@ -7,7 +7,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004125172-MCPE-Android
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Bug Fixes:**
 
 - Continued fixes for crashes and stability

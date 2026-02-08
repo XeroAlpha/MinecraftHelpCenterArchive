@@ -14,15 +14,15 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165531-Minecraft-Xb
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
-**Version:** 1.2.0.31  
-  
+\
+**Version:** 1.2.0.31\
+\
 **New Features:**
 
 - Coordinates! Now available as a gamerule and a toggle under settings.
 - Copy world button is now next to ""delete world"" and ""export world"" (Xbox only)
 
-  
+\
 **Tweaks:**
 
 - Added a per entity type limit that only affects creepers and ghasts so they won't spawn if there's already a certain number in a 5x5 chunk area- no more overspawning of creepers & ghasts!
@@ -32,7 +32,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Tweaked the UI in the settings screen
 - Changed the highlight slot image and adjusted layering to have it under the item
 
-  
+\
 **Fixes from Bugs in Beta:**
 
 - Items are no longer deselected when the virtual keyboard closes

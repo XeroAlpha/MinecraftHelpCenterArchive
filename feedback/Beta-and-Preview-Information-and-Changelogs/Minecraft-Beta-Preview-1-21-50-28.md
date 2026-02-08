@@ -190,7 +190,7 @@ This week we're releasing Editor V0.8! This release was jam packed with tons of 
 - Middle Mouse Block Selection
 - Custom Widget Improvements
 
-Checkout the full changelog with demos at the [GitHub Discussion](https://github.com/Mojang/minecraft-editor/discussions)   page.  
+Checkout the full changelog with demos at the [GitHub Discussion](https://github.com/Mojang/minecraft-editor/discussions)   page.\
 Updates this week:
 
 - Added a new Flatten Brush: drag this brush over a block to turn blocks above it into air. This brush has a customizable height and radius.
@@ -202,7 +202,7 @@ Updates this week:
 - Added friendly names in the Block Picker
 - Added a 2D directional XZ compass to game viewport to aid with building
   - Added the ability to click on the compass to snap to closest cardinal direction
-- Added a configurable Fly Speed Multiplier.  
+- Added a configurable Fly Speed Multiplier.\
   - Added SpeedSettings
   - New Slider in View-\>View Settings to configure fly speed multiplier between 1 and 10
   - Fly Speed Multiplier only takes effect while in Tool/Editor mode

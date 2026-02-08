@@ -16,8 +16,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/8653419896589-Minecraft-B
 
 ![A Minecraft screenshot, featuring a Villager and Allays in a village, with pink sheep in a pen.](https://feedback.minecraft.net/hc/article_attachments/8653339179533/beta19U3_4_16x9.jpg)
 
-Here's a list of wh is new in this week's Minecraft Preview and Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).  
-  
+Here's a list of wh is new in this week's Minecraft Preview and Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).\
+\
 
 # **Features and Bug Fixes**
 

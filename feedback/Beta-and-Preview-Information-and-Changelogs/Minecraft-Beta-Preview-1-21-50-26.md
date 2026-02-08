@@ -74,7 +74,7 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 
 ## Blocks
 
-- Adjusted the flammability of Pale Moss, Pale Moss Carpet, and Pale Hanging Moss  
+- Adjusted the flammability of Pale Moss, Pale Moss Carpet, and Pale Hanging Moss\
   - They now burn more quickly but take longer to catch on fire
   - They can now be ignited by Lava
 - The attenuation drop-off rate for Pale Hanging Moss and Creaking Heart ambient sounds is now linear, allowing them to be heard from greater distances ([MCPE-187326](https://bugs.mojang.com/browse/MCPE-187326))
@@ -118,10 +118,10 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 - Holding the jump button when falling on a Slime Block no longer cancels the bounce ([MCPE-185354](https://bugs.mojang.com/browse/MCPE-185354))
 - Sneaking while landing on a Slime Block no longer causes fall damage
 
-> **Developer's Note:** The intended way to stop bouncing on a Slime Block is now to sneak.  
+> **Developer's Note:** The intended way to stop bouncing on a Slime Block is now to sneak.\
 > Previously players could stop bouncing by holding the jump button, but this was an unintentional oversight that worked since the jump effectively cancelled out the movement from the block.
 >
-> This caused other types of bugs such as when hitting a mob with a Mace with Wind Charge enchantment while holding the jump button.  
+> This caused other types of bugs such as when hitting a mob with a Mace with Wind Charge enchantment while holding the jump button.\
 > The new player jump behaviour is to always pick the highest between existing vertical velocity and jump velocity.
 
 - Fixed one case where blocks would fail to place if a player would place a block and then change their selected slot before the server handled the block placement. This would reject the block placement because the server didn't expect the slot to change ([MCPE-112420](https://bugs.mojang.com/browse/MCPE-112420))
@@ -207,13 +207,13 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 
 ## Audio
 
-- Per-biome ambient sounds are now defined in client_biome JSON components  
+- Per-biome ambient sounds are now defined in client_biome JSON components\
   - This uses the new "minecraft:ambient_sounds" component
   - Named sounds must be defined in "individual_named_sounds" in sounds.json files
 
 ## Biomes
 
-- Client biome JSON files now support a "minecraft:biome_music" component with a "volume_multiplier" field which will gradually affect music volume when the audio listener is inside the corresponding biome  
+- Client biome JSON files now support a "minecraft:biome_music" component with a "volume_multiplier" field which will gradually affect music volume when the audio listener is inside the corresponding biome\
   - The gradual volume change will take roughly ten seconds and will linearly increase but exponentially decrease
 
 ## Molang
@@ -241,7 +241,7 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 - Added Middle Mouse block picking in block picker modal
 - Updated the Selection Tool size input box to be enabled when a block is selected
 - Update `IModalToolContainer.addTool` API function to take unique tool id as a required argument. Removed `inputContextId` and `inputContextLabel` from creation parameters.
-- Updated Grapple locomotion  
+- Updated Grapple locomotion\
   - Added 'getRay()' to Cursor Service API
   - Camera now rotates towards grapple target during flight and is less snappy
   - Grapple now lets the creator fly 100 blocks distance towards the mouse pointer if there is no nearby block to grapple to
@@ -261,7 +261,7 @@ It's time for a new Preview and Beta! This week we're amping up the atmosphere i
 
 ## Entity Components
 
-- The "minecraft:looked_at" component's "look_at_locations" field now accepts a list of objects as a parameter, each containing two fields  
+- The "minecraft:looked_at" component's "look_at_locations" field now accepts a list of objects as a parameter, each containing two fields\
   - "location", the location of the entity that must be visible
     - Valid values: "head", "body", "feet"
   - "vertical_offset", an optional vertical offset applied to the entity's location

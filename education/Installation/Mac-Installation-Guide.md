@@ -20,7 +20,7 @@ Before installing Minecraft Education, ensure these prerequisites are met.
 - Users need to have the correct permissions based on the setup and installation method used at your organization.
 - Your Mac is ready to install software from known developers. To check:
   1.  Navigate to **System Preferences** \> **Security & Privacy** \> **General**.
-  2.  In the **Allow apps downloaded from** section, make sure **App Store and identified developers** is selected.  
+  2.  In the **Allow apps downloaded from** section, make sure **App Store and identified developers** is selected.\
       *Note: If the section is grayed out, you need to contact your IT administrator to change the setting.*
 
 **Example of Security & Privacy settings**
@@ -34,9 +34,9 @@ Before installing Minecraft Education, ensure these prerequisites are met.
 Follow these steps to manually install Minecraft Education on Mac.
 
 1.  From the Apple Products section of the [Get Minecraft Education](https://aka.ms/MEEDownloadPage) page, select **MAC**.
-2.  Confirm the location to download the installation file to and click **Save**.  
+2.  Confirm the location to download the installation file to and click **Save**.\
     **Result:** The installation file begins downloading to your Mac.
 3.  After the installation file finishes downloading, open the installation file.
 
-When prompted, drag-and-drop the **Minecraft Education** application into the **Applications** folder.  
+When prompted, drag-and-drop the **Minecraft Education** application into the **Applications** folder.\
 **Result:** Minecraft Education is installed and ready to play. To open Minecraft Education, locate the application in the Applications folder.

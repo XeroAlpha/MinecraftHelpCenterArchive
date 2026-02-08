@@ -246,7 +246,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
   - `BlockMovableComponent::movementType`
   - `BlockMovableComponent::stickyType`
 - Renamed `CameraEaseOptions` to just `EaseOptions` to for `V2.0` scripting
-- Fixed a bug where the `includeLiquidBlocks` property on `BlockRaycastOptions` would not correctly result in hits on Flowing water  
+- Fixed a bug where the `includeLiquidBlocks` property on `BlockRaycastOptions` would not correctly result in hits on Flowing water\
   This affects the following API methods in all versions:
   - `entity.getBlockFromViewDirection`, `dimension.getBlockFromRay`,
   - `dimension.getBlockBelow` & `dimension.getBlockAbove`.
@@ -294,8 +294,8 @@ It's time for another Beta & Preview! For the full list of changes and additions
   - "sticky" (Optional): Specifies how the block should handle adjacent blocks when moved by a piston
     - "none": Default. Will not add any additional behavior
     - "same": Will move adjacent blocks along with it when moved by a piston. It will not move different blocks with "sticky": "same" (e.g. A Honey Block can move another Honey Block but not a Slime Block.)
-      - NOTE: This field only works when used with "movement_type": "push_pull"  
-        "format_version": "1.21.90",  
-        "minecraft:movable": {  
-        "movement_type": "push_pull",  
+      - NOTE: This field only works when used with "movement_type": "push_pull"\
+        "format_version": "1.21.90",\
+        "minecraft:movable": {\
+        "movement_type": "push_pull",\
         "sticky": "same"

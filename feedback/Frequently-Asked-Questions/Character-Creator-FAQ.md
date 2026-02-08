@@ -136,7 +136,7 @@ A:          We hope so! We have been working to bring you loads of char
 
 Q:          I want to be a cat/have a tail/wings. Are there any options for this in Character Creator?
 
-A:          Awesome!  We want everyone to be able to represent themselves as they see fit whether that is realistic or fantastical, so you should be in luck!  Many of these are launch items or coming soon. Look at our launch items and let us know what you want us to add.  
+A:          Awesome!  We want everyone to be able to represent themselves as they see fit whether that is realistic or fantastical, so you should be in luck!  Many of these are launch items or coming soon. Look at our launch items and let us know what you want us to add.\
 
 Q:          I really like this Marketplace skin but I want to change it a little. Can I use the Character Creator to change a Marketplace skin?
 

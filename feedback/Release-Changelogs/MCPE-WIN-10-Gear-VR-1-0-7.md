@@ -14,17 +14,17 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168671-MCPE-WIN-10-
 
 If you find any bugs, be sure to [report them here!](https://bugs.mojang.com/secure/Dashboard.jspa) Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Fallout Mash-up Pack
 
-  
+\
 **Tweaks:**
 
 - Added a warning if a resource pack cannot find the textures list file
 
-  
+\
 **Bug Fixes:**
 
 - The Wither is now one of the paintings you can get!

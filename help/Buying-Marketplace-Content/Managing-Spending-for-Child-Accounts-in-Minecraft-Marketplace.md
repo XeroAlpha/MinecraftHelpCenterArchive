@@ -39,7 +39,7 @@ You can manage these **Spending** settings on the [Microsoft Family Safety websi
 3.  Tap the tile for the child account you want to manage.
 4.  Tap on the **Spending** tile.
 5.  Adjust settings as desired.
-6.  Sign out of Minecraft and restart for the new settings to take effect.   
+6.  Sign out of Minecraft and restart for the new settings to take effect. \
      
 
 ### See these articles for more information about child account settings:

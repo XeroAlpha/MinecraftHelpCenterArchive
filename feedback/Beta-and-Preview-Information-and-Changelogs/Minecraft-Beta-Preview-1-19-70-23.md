@@ -20,8 +20,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/13133616291981-Minecraft-
 
 Sniff sniff, brush brush. Two sounds that from this day forward will not only be associated with a balanced personal hygiene routine, but also two new features that are coming to Minecraft 1.20! The sniffer and archeology are two experimental features that you can try out in this week’s Minecraft Preview and Beta. What will you do first? Get to know the winner of Minecraft Live 2022’s Mob Vote or dive headfirst into suspicious sand? I will attempt to do both at once because I believe in the power of multitasking and showing off.
 
-We are still working on the tech needed to add some other 1.20 features, such as the cherry blossom biome and armor trims to the Bedrock Edition Beta and Preview. Keep your eyes on [Minecraft.net](http://minecraft.net/) for the latest updates!  As always, you can send us all your feedback and ideas at [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+We are still working on the tech needed to add some other 1.20 features, such as the cherry blossom biome and armor trims to the Bedrock Edition Beta and Preview. Keep your eyes on [Minecraft.net](http://minecraft.net/) for the latest updates!  As always, you can send us all your feedback and ideas at [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 # **Experimental Features**
 
@@ -120,8 +120,8 @@ BlockPermutation has been significantly refactored! Every BlockPermutation now s
 - Added *function static resolve(blockName: string, properties?: BlockProperties): BlockPermutation*which resolve a BlockPermutation from a block name and optional states. Throws if the provided data cannot be resolved as a valid block permutation.
 - Updated methods *getProperty*and *getAllProperties* to return values directly instead of wrapped into class objects. Example code: Before:
 
-*const blockPermutation = MinecraftBlockTypes.stoneSlab.createDefaultBlockPermutation();blockPermutation.getProperty(MinecraftBlockProperties.stoneSlabType).value = 'stone_brick';blockPermutation.getProperty(MinecraftBlockProperties.topSlotBit).value = true;  
-  *
+*const blockPermutation = MinecraftBlockTypes.stoneSlab.createDefaultBlockPermutation();blockPermutation.getProperty(MinecraftBlockProperties.stoneSlabType).value = 'stone_brick';blockPermutation.getProperty(MinecraftBlockProperties.topSlotBit).value = true;\
+\*
 
 Now:
 

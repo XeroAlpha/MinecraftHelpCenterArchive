@@ -16,8 +16,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/15421902578701-Minecraft-
 
 ![preview_20-4.png](https://feedback.minecraft.net/hc/article_attachments/15421963180301)
 
-It’s time for another Minecraft Preview, and this week we have quite a few changes and improvements to Trails & Tales features! We love to hear from you so please send us your [feedback](https://aka.ms/MC120Feedback) and [bug reports](https://bugs.mojang.com/)! Take a look at the full list of changes below!  
-  
+It’s time for another Minecraft Preview, and this week we have quite a few changes and improvements to Trails & Tales features! We love to hear from you so please send us your [feedback](https://aka.ms/MC120Feedback) and [bug reports](https://bugs.mojang.com/)! Take a look at the full list of changes below!\
+\
 
 **Features and Bug Fixes:**
 
@@ -111,8 +111,8 @@ It’s time for another Minecraft Preview, and this week we have quite a few cha
 
 **Vanilla Parity**
 
-- Distinct green particles are now emitted by the player under effect of Hero of the Village status effect  
-    
+- Distinct green particles are now emitted by the player under effect of Hero of the Village status effect\
+  \
 
 **Technical Updates:**
 
@@ -144,8 +144,8 @@ Content logs now show in dedicated server console window with a configurable log
 **Accessibility**
 
 - Added new “Chat Message Duration” accessibility setting to change how long chat messages remain on screen (3 seconds by default)
-- Renamed “Notification Duration” to “Toast Notification Duration” and fixed an issue were the setting had no affect on how long toasts remained on display  
-    
+- Renamed “Notification Duration” to “Toast Notification Duration” and fixed an issue were the setting had no affect on how long toasts remained on display\
+  \
 
 **Experimental Technical Features:**
 

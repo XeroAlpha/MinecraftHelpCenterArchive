@@ -13,12 +13,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168311-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Minecraft Realms have Xbox Live Clubs integrated! Now you can share pictures and posts with the members of your Realm, not only within but also outside the game. You can also get to your new club with the Xbox app on your phone, PC, or console
 
-  
+\
 **New Marketplace Content:**
 
 - - **Adventure Maps**
@@ -55,13 +55,13 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
   - K-Pop: Pink Star by Pathway Studios
 
-  
+\
 **Tweaks:**
 
 - An updated look for Horses, Mules, and Donkeys
 - Changed the color of the menu button hover state to improve accessibility
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**

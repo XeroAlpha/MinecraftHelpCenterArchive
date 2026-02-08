@@ -16,8 +16,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/10309733836429-Minecraft-
 
 ![Picture1.jpg](https://feedback.minecraft.net/hc/article_attachments/10309737817741)
 
-Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 **Experimental Features**
 
@@ -60,8 +60,8 @@ Here's a list of what is new in this week's Minecraft Preview and Beta! Remember
 
 **Sound**
 
-- Fixed an issue where Hanging Signs would not be affected by block volume  
-    
+- Fixed an issue where Hanging Signs would not be affected by block volume\
+  \
 
 **Features** **and Bug Fixes**
 
@@ -109,8 +109,8 @@ Here's a list of what is new in this week's Minecraft Preview and Beta! Remember
 **Spectator Mode**
 
 - When entering Spectator Mode while typing on a Sign, the Sign text screen now closes
-- If you swap into Spectator Mode while standing alone on a Pressure Plate, you lose weight and the Pressure Plate releases ([MCPE-163177](https://bugs.mojang.com/browse/MCPE-163177))  
-    
+- If you swap into Spectator Mode while standing alone on a Pressure Plate, you lose weight and the Pressure Plate releases ([MCPE-163177](https://bugs.mojang.com/browse/MCPE-163177))\
+  \
 
 **Technical Updates**
 

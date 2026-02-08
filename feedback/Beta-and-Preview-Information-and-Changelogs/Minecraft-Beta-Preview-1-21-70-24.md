@@ -110,13 +110,13 @@ Enjoy!
 
 - The minecraft:material_instances component supports an optional "tint_method" field in its instance definitions
   - "tint_method" is a string field that multiplies a face color with a tint computed with the biome the block is in. Supported values are "none, "default_foliage", "birch_foliage", "evergreen_foliage", "dry_foliage", "grass", and "water".
-  - Held block-items are tinted as if they were in the "plains" biome.  
-    Example:  
-    "minecraft:material_instances": {  
-    "\*": {  
-    "texture": "minimal",  
-    "render_method": "opaque",  
-    "tint_method": "water"  
+  - Held block-items are tinted as if they were in the "plains" biome.\
+    Example:\
+    "minecraft:material_instances": {\
+    "\*": {\
+    "texture": "minimal",\
+    "render_method": "opaque",\
+    "tint_method": "water"\
     }
 
 ## Components

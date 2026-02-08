@@ -34,8 +34,8 @@ hash:
 
 ![A Minecraft screenshot of Zuri standing next to a goat and a cauldron.](https://feedback.minecraft.net/hc/article_attachments/19882985673613)
 
-Here’s a list of what’s new in this week’s Minecraft Preview and Beta! As always, we really want to hear your thoughts on these fixes and features, so please send your feedback and ideas to [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+Here’s a list of what’s new in this week’s Minecraft Preview and Beta! As always, we really want to hear your thoughts on these fixes and features, so please send your feedback and ideas to [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 # Features and Bug Fixes
 

@@ -504,12 +504,12 @@ Here are some of the bugs that we've fixed that could be especially troubling wh
 
 ## API
 
-- Added enum `PlatformType`  
-  export enum PlatformType {  
-  Console = 'Console',  
-  Desktop = 'Desktop',  
-  Mobile = 'Mobile',  
-  }  
+- Added enum `PlatformType`\
+  export enum PlatformType {\
+  Console = 'Console',\
+  Desktop = 'Desktop',\
+  Mobile = 'Mobile',\
+  }\
   Class `ScriptClientSystemInfo`
   - Added field `platformType`
   - Added field `maxRenderDistance`

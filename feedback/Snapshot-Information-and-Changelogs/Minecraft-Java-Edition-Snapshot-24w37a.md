@@ -34,8 +34,8 @@ hash:
   h_01J7GWH47RT1SAR7DYG7CM57TM: get-the-snapshot
 ---
 
-Hi everyone! In this snapshot we have fixed the bug with Ender Pearls not teleporting the player to the point of impact. Ender Pearls will now also load chunks when thrown.  
-  
+Hi everyone! In this snapshot we have fixed the bug with Ender Pearls not teleporting the player to the point of impact. Ender Pearls will now also load chunks when thrown.\
+\
 Happy mining!
 
  
@@ -100,7 +100,7 @@ In last week's snapshot, we fixed a bug related to which data gets transferred b
   - SleepingY
   - SleepingZ
   - Tags
-  - Team  
+  - Team\
 
 - Mobs that split into several mobs rather than converting from one type into another **do not** transfer the following properties:
 
@@ -120,8 +120,8 @@ In last week's snapshot, we fixed a bug related to which data gets transferred b
   - Rotation
   - SleepingX
   - SleepingY
-  - SleepingZ  
-      
+  - SleepingZ\
+    \
 
 - Some properties mentioned in MC-88967 are intentionally not transferred in any conversion:
 

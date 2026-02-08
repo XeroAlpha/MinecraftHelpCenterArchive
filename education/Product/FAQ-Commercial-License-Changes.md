@@ -31,4 +31,4 @@ If you do not want to auto renew into the new price and instead allow your subsc
 
 If you have lost access to your Admin center account (either due to the previous Admin account owner leaving the organization or due to losing access to Multi Factor Authentication) contact [Microsoft Support for Business Users](https://support.microsoft.com/en-us/topic/customer-service-phone-numbers-c0389ade-5640-e588-8b0e-28de8afeb3f2) and ask to be escalated to the Data Protection team.
 
-If you have difficulties with this route, you can reach out to [Minecraft Education Support](https://aka.ms/MEE_New_Request) and we can escalate your inquiry to this team. Note that this escalation route will take longer.
+If you have difficulties with this route, you can reach out to [Minecraft Education Support](https://aka.ms/MEE_New_Request) and we can escalate your inquiry to this team. Note that this escalation route will take longer. \

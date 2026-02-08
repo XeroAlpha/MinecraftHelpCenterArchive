@@ -17,8 +17,8 @@ A new update for Minecraft is available now, bringing several changes, fixes, an
 
 **NOTE:** Some platforms may see this update as version 1.20.70, though the two versions are fully compatible in multiplayer.
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).**<u>  
-  
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).**<u>\
+\
 </u>**
 
 **Vanilla Parity:**
@@ -29,8 +29,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
   - Rather than halving all damage dealt to tamed Wolves by entities other than Players or Arrows, as currently done in Java Edition, the maximum health of tamed Wolves has been increased from 20 to 40
   - Pre-existing tamed Wolves will need to be fed to reach the new maximum health
   - To ensure the healing rate remains consistent, the health restored by feeding Wolves has been doubled
-  - Java Edition will be adjusted to match the new Bedrock Edition implementation  
-      
+  - Java Edition will be adjusted to match the new Bedrock Edition implementation\
+    \
 
 **Experimental Features:**
 
@@ -74,8 +74,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 
 **Wolf**
 
-- The collars of tamed Wolves have been increased in size, making them visible not only from the front but also from other angles  
-    
+- The collars of tamed Wolves have been increased in size, making them visible not only from the front but also from other angles\
+  \
 
 **Fixes and Changes:**
 
@@ -228,8 +228,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - The updated Death Screen is now enabled by default, even when resource packs are applied to a world
 - Updated the design of the report a friend warning modal and the report limit warning modal
 - Fixed a bug that caused cleared text to reappear in the inventory search bar ([MCPE-174590](https://bugs.mojang.com/browse/MCPE-174590))
-- Fixed text-to-speech narration for main panel text and Realm Feed button on Realm Slots Screen  
-    
+- Fixed text-to-speech narration for main panel text and Realm Feed button on Realm Slots Screen\
+  \
 
 **Technical Updates:**
 
@@ -337,8 +337,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 **Character Creator**
 
 - Added a new model to contain the character creator animation logic
-- Updated the logic that was done to trigger updating the binds when the animation states have been updated, so we do not run into issues with the binds updating every frame causing a major framerate hit  
-    
+- Updated the logic that was done to trigger updating the binds when the animation states have been updated, so we do not run into issues with the binds updating every frame causing a major framerate hit\
+  \
 
 **Experimental Technical Updates:**
 

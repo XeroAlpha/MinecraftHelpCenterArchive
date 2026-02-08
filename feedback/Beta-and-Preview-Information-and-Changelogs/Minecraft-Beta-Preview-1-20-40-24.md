@@ -17,8 +17,8 @@ hash:
 - Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
 - The beta is available on Android (Google Play). To join or leave the beta, see aka.ms/JoinMCBeta for detailed instructions
 
-Here’s a list of what’s new in this week’s Minecraft Preview and Beta! As always, we really want to hear your thoughts on these fixes and features, so please send your feedback and ideas to [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+Here’s a list of what’s new in this week’s Minecraft Preview and Beta! As always, we really want to hear your thoughts on these fixes and features, so please send your feedback and ideas to [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 ## **Fixes:**
 

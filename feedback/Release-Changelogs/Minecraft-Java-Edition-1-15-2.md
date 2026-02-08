@@ -16,7 +16,7 @@ Next up, Nether!
 
 - Bees no longer anger when a nearby nest/hive is destroyed using a silk touch tool
 - Added **doPatrolSpawning** and **doTraderSpawning** game rules that control spawning of patrols and wandering traders, respectively
-- Added **gui_light **option in block models to allow controlling light when rendering model as item in GUI  
+- Added **gui_light **option in block models to allow controlling light when rendering model as item in GUI\
   - Controls light when rendering block model inside slot. If set to **side**, model will be rendered like block. If set to **front**,  model is shaded like flat item
 - Any birch or oak sapling grown near a flower within 2 blocks distance on the same y-level has a 5% chance of having a bee nest
 - Bee Nests now have a 2% chance of spawning in Flower Forests

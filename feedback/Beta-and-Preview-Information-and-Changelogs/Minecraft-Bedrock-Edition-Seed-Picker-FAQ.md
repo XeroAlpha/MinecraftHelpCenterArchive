@@ -6,6 +6,7 @@ categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/4412081055629-Minecraft-Bedrock-Edition-Seed-Picker-FAQ
 ---
 
+\
 **What's a Seed Picker?**** **
 
 The seed picker is a Bedrock Exclusive feature that gives you a selection of seeds that will spawn you in or very near to the biome or feature described.  
@@ -18,8 +19,8 @@ You can find the seed picker by going to Minecraft \> Create New \> Create Ne
 
  
 
-Once there you can choose from one of the suggested seeds:   
-  
+Once there you can choose from one of the suggested seeds: \
+\
 
 ![Picture3.png](https://feedback.minecraft.net/hc/article_attachments/4412074576141/Picture3.png)
 

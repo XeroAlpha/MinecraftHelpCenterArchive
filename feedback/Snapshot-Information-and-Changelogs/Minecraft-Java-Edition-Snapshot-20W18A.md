@@ -51,30 +51,30 @@ Entity checks in triggers can now use loot table condition syntax.
 
 Old notation:
 
-{  
-  "trigger": "minecraft:player_killed_entity",  
-  "conditions": {  
-    "entity": {  
-      "type": "minecraft:blaze"  
-    }  
-  }  
+{\
+  "trigger": "minecraft:player_killed_entity",\
+  "conditions": {\
+    "entity": {\
+      "type": "minecraft:blaze"\
+    }\
+  }\
 }
 
 is now equivalent to:
 
-{  
-  "trigger": "minecraft:player_killed_entity",  
-  "conditions": {  
-    "entity": \[  
-     {  
-        "condition": "minecraft:entity_properties",  
-        "predicate": {  
-          "type": "minecraft:blaze"  
-        },  
-        "entity": "this"  
-      }  
-    \]  
-  }  
+{\
+  "trigger": "minecraft:player_killed_entity",\
+  "conditions": {\
+    "entity": \[\
+     {\
+        "condition": "minecraft:entity_properties",\
+        "predicate": {\
+          "type": "minecraft:blaze"\
+        },\
+        "entity": "this"\
+      }\
+    \]\
+  }\
 }
 
 **Note 1**: Like in loot tables, all conditions in top level array must be met for whole condition to trigger.

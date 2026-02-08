@@ -38,7 +38,7 @@ You can now download the Minecraft Education [Preview app for Chromebook](https:
 
 ### MacOS
 
-Uninstall the current version completely before installing the new beta version.   
+Uninstall the current version completely before installing the new beta version. \
 **IMPORTANT! Export your worlds before uninstalling or they will be deleted.** See the [Importing and Exporting Your Worlds](https://aka.ms/MEEImportExport) article for more information. 
 
 [Download the beta for macOS application](https://aka.ms/downloadmee-macosBeta)

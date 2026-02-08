@@ -28,9 +28,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004126612-Minecraft-Ja
 - Optimized fog rendering
 - Light now goes much further through liquid blocks
 
-  
-**Dolphins**  
-  
+\
+**Dolphins**\
+\
 It's happening!
 
 - Spawns in any ocean that isn't frozen
@@ -40,9 +40,9 @@ It's happening!
 - If you upset one, you upset them all
 - More behaviours coming soon
 
-  
-**Water**  
-  
+\
+**Water**\
+\
 
 - Blubb blubb blubb blubb
 - Water now only blocks 1 light per block, instead of 3
@@ -50,9 +50,9 @@ It's happening!
 - Every ocean biome has a unique water colour, and swamps are icky and gross
 - In newly generated chunks, you're less likely to find frozen ocean next to warm ocean (and similar)
 
-  
-**Conduit**  
-  
+\
+**Conduit**\
+\
 ?????
 
 - ????
@@ -60,9 +60,9 @@ It's happening!
 - What is this?
 - Where are we?
 
-  
-**Fixed bugs ib 18W15A**  
-  
+\
+**Fixed bugs ib 18W15A**\
+\
 
 - MC-25866 - Splash Potion of Saturation has no effect
 - MC-63714 - Zombie Pigmen get angry when hit in creative
@@ -89,13 +89,13 @@ It's happening!
 - MC-126557 - Sea grass, kelp and coral can be generated on crevices
 - MC-127276 - Zombie transform to Drowned in less than waist-high water
 
-  
-**Get the Snapshot**  
-  
-To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.  
-  
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
-  
+\
+**Get the Snapshot**\
+\
+To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.\
+\
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**\
+\
 Cross-platform server jar:
 
 - Minecraft server jar

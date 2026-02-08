@@ -31,9 +31,9 @@ We have created this frequently asked question page about the Feedback Website. 
 - A vote is the same thing as saying "I agree" or "good idea" or "yes"
 - Be kind, civil, and constructive to each other. Don't presume everyone has the same game experience you do
 - Similar topics should stick together
-- Please don’t post about topics that have [already been discussed and rejected](./Previously-Considered-Suggestions.md)
+- Please don’t post about topics that have [already been discussed and rejected](../Archived-Feedback-Website-Articles/Archived-Previously-Considered-Suggestions.md)
 - Not all posts are filtered. That would be terrible. That said, a lot of things do fall in the queue. We appreciate your patience, as there are many more of you than there are of us. We are a very large and awesome community and we're all doing the best we can.
-- Our moderation queue is designed to not just keep everyone safe from bad content, but to also keep duplicate posts on similar topics from overwhelming the site. Want an idea of what some of those are? [Look here. ](./Current-Hot-Topics.md)
+- Our moderation queue is designed to not just keep everyone safe from bad content, but to also keep duplicate posts on similar topics from overwhelming the site. Want an idea of what some of those are? [Look here. ](../Archived-Feedback-Website-Articles/Archived-Current-Hot-Topics.md)
 
 Thank you for your patience! We know many of you put thought and care into each post you make, and we work on using the same type of care in making sure your feedback site remains a safe and productive place to get your ideas heard from by developers.
 
@@ -68,7 +68,7 @@ Not all posts are filtered, and not all posts get caught by our automatic spam f
 - Posts containing previously rejected content. Any rejected content. 
 - Lists of ideas. We have been asked by our teams to make an effort to keep ideas to **one main idea per post**. It also helps people know exactly what they're discussing/voting for.
 - Posts that contain links to any sites outside of the immediate Minecraft system (common examples include but are not limited to: Reddit, YouTube, Google Docs, Imgur, blogs, and all social media). This is for everyone's safety.
-- Duplicates of highly popular topics. [Look here. ](./Current-Hot-Topics.md) The best way to get something in-game is to contribute to existing discussions. We look for quality, not quantity!
+- Duplicates of highly popular topics. [Look here. ](../Archived-Feedback-Website-Articles/Archived-Current-Hot-Topics.md) The best way to get something in-game is to contribute to existing discussions. We look for quality, not quantity!
 - Posts over the current character limits (75 characters for the subject, 1500 body text/comments) - we use [Bing's word counter and we count spaces.](https://www.bing.com/search?q=word+counter&qs=n&form=QBRE&sp=-1&ghc=2&pq=word&sc=6-4&sk=&cvid=358F59CA67524EF2B2C77588CD5D1CBD)
 - Off-topic thread comments. People work hard on their ideas and we should respect that by staying on topic.
 - Posts that contain excessive amounts of images, images that are mostly text, or contain text that is also not within the post itself. 

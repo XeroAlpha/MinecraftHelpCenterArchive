@@ -21,8 +21,8 @@ A new update has been released, bringing several changes to the game! Here are t
 - Tweaked the splash sounds when entering and leaving water
 - Buckets can no longer pick up liquids for a few ticks after they've been placed
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).**  
-  **
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).**\
+\**
 
 # **Vanilla Parity**
 
@@ -61,8 +61,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
   - Drinking from a Glass Bottle now emits the appropriate sound
 - Changes to water splash sounds ([MCPE-174524](https://bugs.mojang.com/browse/MCPE-174524))
   - The ambient sounds for entering exiting water is now played only when actor is submerged below eye-level in water, matching Java Edition
-  - The splash sound for entering water has been updated to match Java Edition  
-      
+  - The splash sound for entering water has been updated to match Java Edition\
+    \
 
 # **Experimental Features**
 
@@ -70,8 +70,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 
 This experiment has no effect on normal worlds. If you want to try these changes, you must turn on the Feature Toggle in the Experiments Menu when creating a new world.
 
-Thank you to everyone that has sent in their suggestions and feedback regarding the experimental trade change! We are trying out these changes to rebalance the villager trade system and make it more fair and fun for everyone. However, **these changes are not yet final** and they will stay as experimental features while we continue to work on them. We appreciate your feedback on these changes. Visit [this link](https://aka.ms/VillagerTradingFeedback) to share your thoughts! We have been following the discussions about the previous Librarian and Wandering Trader updates and look forward to seeing the conversation continue.  
-  
+Thank you to everyone that has sent in their suggestions and feedback regarding the experimental trade change! We are trying out these changes to rebalance the villager trade system and make it more fair and fun for everyone. However, **these changes are not yet final** and they will stay as experimental features while we continue to work on them. We appreciate your feedback on these changes. Visit [this link](https://aka.ms/VillagerTradingFeedback) to share your thoughts! We have been following the discussions about the previous Librarian and Wandering Trader updates and look forward to seeing the conversation continue.\
+\
 
 **Cartographer**
 
@@ -81,8 +81,8 @@ Cartographers from different biomes will sell a different selection of maps. Sta
 
 ![villager-trades-1.png](https://feedback.minecraft.net/hc/article_attachments/20640447666829)
 
-Cartographers now sell 7 new maps: Desert Village Map, Jungle Explorer Map, Plains Village Map, Savanna Village Map, Snow Village Map, Swamp Explorer Map, and Taiga Village Map.  
-  
+Cartographers now sell 7 new maps: Desert Village Map, Jungle Explorer Map, Plains Village Map, Savanna Village Map, Snow Village Map, Swamp Explorer Map, and Taiga Village Map.\
+\
 
 **Armorer**
 
@@ -99,8 +99,8 @@ Other changes include:
 - The Savanna Armorer sells cursed diamond armor at reduced prices
 - The Taiga Armorer can swap one piece of diamond armor for another
 
-![villager-trades-2.png](https://feedback.minecraft.net/hc/article_attachments/20640430907149)  
-  
+![villager-trades-2.png](https://feedback.minecraft.net/hc/article_attachments/20640430907149)\
+\
 
 **Structure Loot**
 
@@ -110,8 +110,8 @@ Certain Enchanted Books now have a high chance of generating in some structures:
 - Mineshafts: Efficiency (I to V)
 - Pillager Outposts: Quick Charge (I to III)
 - Desert Temples: Unbreaking (I to III)
-- Jungle Temples: Unbreaking (I to III)  
-    
+- Jungle Temples: Unbreaking (I to III)\
+  \
 
 # **Fixes and Changes**
 
@@ -178,8 +178,8 @@ Certain Enchanted Books now have a high chance of generating in some structures:
 
 - Equipped enchanted armor now has an overall weaker glint, however its intensity more noticeably increases and decreases over time
 - Random lights no longer appear in the world without a source ([MCPE-169001](https://bugs.mojang.com/browse/MCPE-169001))
-- Splash particles are now emitted at an actor's waist instead of above their head  
-    
+- Splash particles are now emitted at an actor's waist instead of above their head\
+  \
 
 # **Technical Updates**
 
@@ -324,8 +324,8 @@ Certain Enchanted Books now have a high chance of generating in some structures:
 - “*behavior.is_feeling_happy*” renamed to generic “*behavior.timer_flag_3*” and released to creators
 - “*behavior.timer_flag 1*”: Fires an event when this behavior starts, then waits for a duration before stopping. When stopping due to that timeout or due to being interrupted by another behavior, fires another event. *query.timer_flag_1* will return 1.0 on both the client and server when this behavior is running, and 0.0 otherwise
 - “*behavior.timer_flag 2*”: Fires an event when this behavior starts, then waits for a duration before stopping. When stopping due to that timeout or due to being interrupted by another behavior, fires another event. *query.timer_flag_2* will return 1.0 on both the client and server when this behavior is running, and 0.0 otherwise
-- “*behavior.timer_flag 3*”: Fires an event when this behavior starts, then waits for a duration before stopping. When stopping due to that timeout or due to being interrupted by another behavior, fires another event. *query.timer_flag_3* will return 1.0 on both the client and server when this behavior is running, and 0.0 otherwise  
-    
+- “*behavior.timer_flag 3*”: Fires an event when this behavior starts, then waits for a duration before stopping. When stopping due to that timeout or due to being interrupted by another behavior, fires another event. *query.timer_flag_3* will return 1.0 on both the client and server when this behavior is running, and 0.0 otherwise\
+  \
 
 # **Experimental Technical Updates**
 

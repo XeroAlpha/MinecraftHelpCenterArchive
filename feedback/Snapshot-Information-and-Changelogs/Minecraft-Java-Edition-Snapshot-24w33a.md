@@ -104,7 +104,7 @@ The Bundle has a tooltip that shows some of the items inside. If the Bundle has 
 
 Added a new Experiment containing various Redstone-related changes. This can be enabled by selecting "Redstone Experiments" in the Experiments menu when creating a world.
 
-Please note that the experimental features behind this toggle are not aimed at any future release at this time. Instead, this is a place for us to try out changes and gather feedback.  
+Please note that the experimental features behind this toggle are not aimed at any future release at this time. Instead, this is a place for us to try out changes and gather feedback.\
 We are excited to hear what you think about these changes: please share your feedback on the [feedpack page](https://aka.ms/fbredstone).
 
 #### Redstone Wire
@@ -117,9 +117,9 @@ We are excited to hear what you think about these changes: please share your fee
   - When possible the order is deterministic based on the context the updates are caused in
   - When there is not enough context to fully determine the order, the rest is picked at random
 
-> **Developer's Note:** *We know that randomness in Redstone is usually unwanted.  
-> We've used it here because we've made things deterministic whenever it makes sense, and sometimes it just doesn't make sense - and we don't want some hidden state (like location-based hashes!) determining the order and making machines work differently at different coordinates or in different orientations.  
-> The screenshot below shows an example of a 'random' vs 'non-random' wire - we think it's actually pretty logical, and is within the players control to build machines that behave deterministically.  
+> **Developer's Note:** *We know that randomness in Redstone is usually unwanted.\
+> We've used it here because we've made things deterministic whenever it makes sense, and sometimes it just doesn't make sense - and we don't want some hidden state (like location-based hashes!) determining the order and making machines work differently at different coordinates or in different orientations.\
+> The screenshot below shows an example of a 'random' vs 'non-random' wire - we think it's actually pretty logical, and is within the players control to build machines that behave deterministically.\
 > But we are looking forward to hearing what you think after trying it out!*
 
 ### ![redstone.jpg](https://feedback.minecraft.net/hc/article_attachments/29296177312653)

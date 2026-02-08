@@ -7,7 +7,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004166111-MCPE-Android
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Tweaks:**
 
 - Text in buttons in the Realms update screen should now be properly aligned.

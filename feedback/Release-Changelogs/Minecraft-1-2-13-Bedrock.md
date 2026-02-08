@@ -10,16 +10,16 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004167331-Minecraft-1-2-13-Bedrock
 ---
 
-**Release Date:** April 3, 2018  
-  
-  
+**Release Date:** April 3, 2018\
+\
+\
 **New Features:**
 
 - Realms now create automatic backups that can be downloaded and restored
 - Added two options to swap A/B buttons and X/Y buttons on controllers, which can be found in Controller Settings
 - Added menu screen transitions, which can be toggled in Settings
 
-  
+\
 **Changes:**
 
 - Many screens and actions now respond when a button is pressed instead of released so they now feel extra responsive
@@ -30,10 +30,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004167331-Minecraft-1-
 - Realms member lists can now be cleared from the Members screen
 - Updated look for the Marketplace and Search functionality to easily find specific content
 
-  
-**Experimental Gameplay:**  
-A handful of features from Update Aquatic have been added through Experimental Gameplay. These features are incomplete and are not representative of final gameplay but feedback is absolutely welcome! These are not all of the Update Aquatic features coming to Minecraft and more is on the way.  
-  
+\
+**Experimental Gameplay:**\
+A handful of features from Update Aquatic have been added through Experimental Gameplay. These features are incomplete and are not representative of final gameplay but feedback is absolutely welcome! These are not all of the Update Aquatic features coming to Minecraft and more is on the way.\
+\
 'Use Experimental Gameplay' can be toggled in World Settings. This may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.
 
 - Added Drowned mobs
@@ -46,7 +46,7 @@ A handful of features from Update Aquatic have been added through Experimental G
 - Added Slabs and Stairs for Prismarine, Prismarine Brick, and Dark Prismarine
 - New swimming animation while sprinting in water
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**
@@ -332,8 +332,8 @@ A handful of features from Update Aquatic have been added through Experimental G
   - Repeatedly teleporting TNT vertically will no longer separate the visual block from its explosive location
   - Ocelots no longer spawn in groups when spawned using commands
 
-  
-**Add-Ons (Resource and Behavior Packs):**  
+\
+**Add-Ons (Resource and Behavior Packs):**\
 Updated templates for 1.2.13 with new assets and behaviors can be downloaded at minecraft.net/addons
 
 - Armor models now support hat layers

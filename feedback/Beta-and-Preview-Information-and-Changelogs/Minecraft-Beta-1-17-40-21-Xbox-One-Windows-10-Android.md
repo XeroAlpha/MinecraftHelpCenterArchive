@@ -105,7 +105,7 @@ Hello? Hello? Can anyone hear me? I’m in a newly generated cave and, I’m not
 - Updated the GameTest Framework interface and added a new SimulatedPlayer capability:
   - Added 'SimulatedPlayer'class to GameTest. This class enables GameTest to simulate a variety of player behaviors such as movement, using items, and interacting with blocks and entities. See the [GameTest API](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/mojang-gametest/mojang-gametest) reference documentation for more details.
     - Added function spawnSimulatedPlayer(blockLocation: BlockLocation, name: string): SimulatedPlayer
-    - Added function   
+    - Added function \
       removeSimulatedPlayer(simulatedPlayer: SimulatedPlayer): void
   - mojang-gametest.Test type
     - Changed signature of function assertEntityInstancePresent(entity: Entity, blockLocation: BlockLocation, isPresent: boolean = true)

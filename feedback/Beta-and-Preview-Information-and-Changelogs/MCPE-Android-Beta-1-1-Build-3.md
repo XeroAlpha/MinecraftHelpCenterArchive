@@ -7,12 +7,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004166191-MCPE-Android
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Known Issues:**
 
 - Dyeing a Shulker Box will remove all items contained in the box
 
-  
+\
 **New Features:**
 
 - Minecraft Marketplace!
@@ -20,13 +20,13 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - If you break a melon with shears, you can get the full 9 slices of melon
 - You can now convert 1 cobweb to 9 strings
 
-  
+\
 **Tweaks:**
 
 - UI tweaks to accommodate Marketplace
 - Added a warning if a resource pack cannot find the textures list file
 
-  
+\
 **Bug Fixes:**
 
 - Fixed multiple issues with the evoker by refactoring data-driving of the evoker's spells

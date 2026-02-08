@@ -13,7 +13,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004166011-Minecraft-Wi
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Stained Glass
@@ -41,7 +41,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - How to Play screen
 - Remix 3D export functionality (Windows 10 only)
 
-  
+\
 **Tweaks:**
 
 - Blaze Powder is now needed to fuel brewing stands
@@ -65,7 +65,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Underwater particles
 - Block outline selections and Paper Doll can be toggled in the settings
 
-  
+\
 **Bug Fixes:**
 
 - The moon is now properly oriented, while the stars correctly traverse the heavens

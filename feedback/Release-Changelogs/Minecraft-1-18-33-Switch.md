@@ -8,8 +8,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/6213367123597-Minecraft-1
 
 A new update is available for Nintendo Switch that addresses some issues that have occurred since the release of 1.18.30.
 
-Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **Fixes:**
 

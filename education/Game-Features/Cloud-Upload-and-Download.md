@@ -134,7 +134,7 @@ If you rename a world file on your device or on OneDrive, the world will continu
 
 **Can I rename or move the OneDrive folder?**
 
-We discourage changing or moving your Minecraft Education Edition cloud back up folder. If you rename the OneDrive folder, your world files will continue to upload to that folder. Newly created worlds will be uploaded to a new “Minecraft Education” folder.  
+We discourage changing or moving your Minecraft Education Edition cloud back up folder. If you rename the OneDrive folder, your world files will continue to upload to that folder. Newly created worlds will be uploaded to a new “Minecraft Education” folder.\
 If you move the OneDrive folder, newly created worlds will upload to a new "Minecraft Education" folder.
 
  
@@ -203,14 +203,14 @@ If you got this error when you closed your world:
 
 **Cloud access problem**
 
-***You don’t have access to cloud storage. Check your OneDrive settings.***  
+***You don’t have access to cloud storage. Check your OneDrive settings.***\
 **Error code: 401**
 
  
 
 ***![Screenshot of error 401, Cloud Access Problem](https://edusupport.minecraft.net/hc/article_attachments/25303636899604)***
 
-  
+\
 Here are some steps you can take to figure out the issue:
 
 - Confirm you are connected to the internet.

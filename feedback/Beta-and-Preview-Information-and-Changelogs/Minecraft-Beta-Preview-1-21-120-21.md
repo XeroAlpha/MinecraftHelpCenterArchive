@@ -100,7 +100,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - Minecraft Preview now runs on the latest GDK (Game Development Kit)
   - This update aligns the game with the standard distribution model on Windows platforms
-- File paths have been updated and upon first install load of this version of Minecraft Preview, your existing Minecraft worlds and content will shift to:  
+- File paths have been updated and upon first install load of this version of Minecraft Preview, your existing Minecraft worlds and content will shift to:\
   `%APPDATA%\Minecraft Bedrock Preview`
 - Some players will still receive the UWP version of Minecraft Preview as this slowly rolls out for testing
   - If you encounter issues, please report them at [bugs.mojang.com](http://bugs.mojang.com/).

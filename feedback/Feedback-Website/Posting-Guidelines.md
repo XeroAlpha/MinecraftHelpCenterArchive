@@ -19,5 +19,5 @@ By posting anything at feedback.minecraft.net, you agree to abide by the Xbox Li
 - Do not post comments asking people to vote on another idea.
 - Please do not post any petitions or polls. Use the voting system here to share your sentiment on good ideas.
 
-Xbox Live Code of Conduct: <http://www.xbox.com/legal/codeofconduct>  
+Xbox Live Code of Conduct: <http://www.xbox.com/legal/codeofconduct>\
 Minecraft Feedback Terms of Service: [https://feedback.minecraft.net/hc/en-us/articles/360004305512](../Gameplay-and-Support-Resources/Terms-of-Service.md)

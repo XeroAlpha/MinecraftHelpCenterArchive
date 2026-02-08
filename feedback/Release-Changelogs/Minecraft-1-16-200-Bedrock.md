@@ -8,15 +8,15 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360052712132-Minecraft-1-
 
 **Posted:** December 8, 2020
 
-A new update is upon us in the form of Minecraft 1.16.200! This update is loaded with graphics enhancements on Windows 10, updated volume settings, parity changes, and a swath of bug fixes. Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+A new update is upon us in the form of Minecraft 1.16.200! This update is loaded with graphics enhancements on Windows 10, updated volume settings, parity changes, and a swath of bug fixes. Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **RenderDragon:**
 
 - RenderDragon, the new graphics engine for Minecraft Bedrock platforms, is now available on Windows 10
 - RenderDragon was developed by the Mojang Studios graphics team to give our game greater performance, stability, and flexibility. The new architecture of RenderDragon enables our developers to bring new graphics features such as physically based rendering (PBR) and ray tracing more easily to the game
-- RenderDragon has been available for Xbox and PlayStation hardware since 2019, and we are now bringing it to Windows 10. We plan to bring RenderDragon to all Minecraft Bedrock platforms, including mobile devices, in the future  
-    
+- RenderDragon has been available for Xbox and PlayStation hardware since 2019, and we are now bringing it to Windows 10. We plan to bring RenderDragon to all Minecraft Bedrock platforms, including mobile devices, in the future\
+  \
 
 **Minecraft with Ray Tracing:**
 
@@ -30,8 +30,8 @@ A new update is upon us in the form of Minecraft 1.16.200! This update is loaded
 - Content in the Marketplace is now aware of Ray Tracing capabilities and will display a label indicating support within the user interface
 - **Creators:** We have some new documentation available for creating content for Minecraft with Ray Tracing!
   - [**Texture Set Documentation**](https://help.minecraft.net/hc/en-us/articles/360051308931) - More information on Physically Based Rendering
-  - [**Fog in Resource Packs**](https://help.minecraft.net/hc/en-us/articles/360051618391) - Defining fog values within Resource Packs  
-      
+  - [**Fog in Resource Packs**](https://help.minecraft.net/hc/en-us/articles/360051618391) - Defining fog values within Resource Packs\
+    \
 
 **Minecraft with OpenXR:**
 
@@ -43,8 +43,8 @@ A new update is upon us in the form of Minecraft 1.16.200! This update is loaded
 - OpenXR implementation in Minecraft brings a more unified experience across current VR/MR devices as well as support for those yet to come
 - You will still be able to launch through the Mixed Reality Portal, as well as the Oculus Store. However, there is also a URL to launch in VR:
   - **minecraft://mode/?OpenXR=true**
-  - This can be made into a desktop shortcut, pinned to the start menu, bookmarked in a browser, or anything else you can do with a URL  
-      
+  - This can be made into a desktop shortcut, pinned to the start menu, bookmarked in a browser, or anything else you can do with a URL\
+    \
 
 **New Features:**
 
@@ -53,8 +53,8 @@ A new update is upon us in the form of Minecraft 1.16.200! This update is loaded
 - Added a variety of volume sliders for sound categories (eg. hostile, blocks, weather etc.)
   - These play a preview of the relevant sounds in the main settings menu, and play the default click sound when in-game
 
-![volume.jpg](https://feedback.minecraft.net/hc/article_attachments/360078247212/volume.jpg)  
-  
+![volume.jpg](https://feedback.minecraft.net/hc/article_attachments/360078247212/volume.jpg)\
+\
 
 **Vanilla Parity Changes and Fixes:**
 
@@ -66,15 +66,15 @@ A new update is upon us in the form of Minecraft 1.16.200! This update is loaded
 - Updated the Netherite leggings texture ([MCPE-103016](https://bugs.mojang.com/browse/MCPE-103016))
 - Twisting Vines can no longer be placed on Composter blocks while sneaking ([MCPE-78973](https://bugs.mojang.com/browse/MCPE-78973))
 - Netherite Armor now gives a ninety percent reduction in Knockback ([MCPE-77430](https://bugs.mojang.com/browse/MCPE-77430))
-- Bees will no longer stray more than 22 blocks from their home Beehive ([MCPE-60252](https://bugs.mojang.com/browse/MCPE-60252))  
-    
+- Bees will no longer stray more than 22 blocks from their home Beehive ([MCPE-60252](https://bugs.mojang.com/browse/MCPE-60252))\
+  \
 
 **Known Issues:**
 
 - Players running Minecraft on Windows 10 N 32-bit systems may encounter a crash when loading the game if the Media Foundation Pack is not installed. This can be resolved by downloading and installing the [Media Foundation Pack](https://www.microsoft.com/en-us/software-download/mediafeaturepack)
 - Players are unable to rejoin a world after being disconnected from a suspended session
-- In VR, Living room hint text doesn’t change correspondingly when input method changes from gamepad to motion controller  
-    
+- In VR, Living room hint text doesn’t change correspondingly when input method changes from gamepad to motion controller\
+  \
 
 **Fixes:**
 
@@ -169,12 +169,12 @@ A new update is upon us in the form of Minecraft 1.16.200! This update is loaded
 - '/effect' command duration is now capped at 1,000,000 seconds ([MCPE-92916](https://bugs.mojang.com/browse/MCPE-92916))
 - Add ticking area commands performed in the same tick now disallow adding areas with the same name twice
 - Placeholder text message for the '/titleraw' command success no longer returns to player ([MCPE-63618](https://bugs.mojang.com/browse/MCPE-63618))
-- FadeOut argument is no longer ignored in the '/title' times command  
-    
+- FadeOut argument is no longer ignored in the '/title' times command\
+  \
 
 **For Map Makers and Add-On Creators:**
 
-**Updated Template Packs  **
+**Updated Template Packs\**
 
 - Updated templates for 1.16.200 with new resources, behaviors, and documentation are available for download
   - Resource Pack Template: [aka.ms/resourcepacktemplate](https://aka.ms/resourcepacktemplate)

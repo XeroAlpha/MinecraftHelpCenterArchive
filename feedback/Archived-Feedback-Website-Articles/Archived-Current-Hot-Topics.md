@@ -26,11 +26,11 @@ These are not endorsements of threads, we're just **helping you find them**. Als
 
 **Feedback Site**
 
-- [Where is my post?](./Feedback-Website-FAQ.md#theqs)
+- [Where is my post?](../Feedback-Website/Feedback-Website-FAQ.md#theqs)
 
 **Building Things**
 
-- [Vertical Slabs](./Previously-Considered-Suggestions.md), [Sideways Slabs](./Previously-Considered-Suggestions.md), [Furniture](./Previously-Considered-Suggestions.md)
+- [Vertical Slabs](./Archived-Previously-Considered-Suggestions.md), [Sideways Slabs](./Archived-Previously-Considered-Suggestions.md), [Furniture](./Archived-Previously-Considered-Suggestions.md)
 - [Concrete and Terracotta having Slab, Stair, and Wall Variants](https://feedback.minecraft.net/hc/en-us/community/posts/360010984931-Concrete-and-Terracotta-having-Slab-Stair-and-Wall-Variants)
 
 **Custom Things**
@@ -69,7 +69,7 @@ These are not endorsements of threads, we're just **helping you find them**. Als
 
 **Villagers**
 
-- Villager [guards](./Previously-Considered-Suggestions.md), [knights](./Previously-Considered-Suggestions.md), [soldiers](./Previously-Considered-Suggestions.md), [fighters](./Previously-Considered-Suggestions.md), [defenders](./Previously-Considered-Suggestions.md), [archers](./Previously-Considered-Suggestions.md), [warriors](./Previously-Considered-Suggestions.md), or [protectors](./Previously-Considered-Suggestions.md)
+- Villager [guards](./Archived-Previously-Considered-Suggestions.md), [knights](./Archived-Previously-Considered-Suggestions.md), [soldiers](./Archived-Previously-Considered-Suggestions.md), [fighters](./Archived-Previously-Considered-Suggestions.md), [defenders](./Archived-Previously-Considered-Suggestions.md), [archers](./Archived-Previously-Considered-Suggestions.md), [warriors](./Archived-Previously-Considered-Suggestions.md), or [protectors](./Archived-Previously-Considered-Suggestions.md)
 - [Nitwit Dialog](https://feedback.minecraft.net/hc/en-us/community/posts/360017598752-Nitwit-Dialog)
 - [Villager Animations](https://feedback.minecraft.net/hc/en-us/community/posts/360030909331-Villager-Animations)
 

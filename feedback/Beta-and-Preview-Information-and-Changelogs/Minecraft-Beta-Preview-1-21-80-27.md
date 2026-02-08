@@ -38,8 +38,8 @@ hash:
 
 ![r21u7_5.jpg](https://feedback.minecraft.net/hc/article_attachments/35680472763277)
 
-It's time for another Preview and Beta! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+It's time for another Preview and Beta! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 **Note:** This week's Preview and Beta might be delayed on PlayStation 4. We are working on getting it to you as soon as possible!
 
  
@@ -111,7 +111,7 @@ It's time for another Preview and Beta! For the full list of goodies, browse the
 - Coroutines (promises) are now flushed in early execution to allow async imports to interact with early execution APIs like Custom Components and Custom Commands.
 - Added support for custom command enums.
 - Added `Enum` type to `CustomCommandParamType`
-- `spawnEntity` method of `Dimension` no longer supports using a spawn event inside the `identifier` parameter. `SpawnEntityOptions` interface now has an optional string member `spawnEvent?: string` for specifying a spawn event to be sent to the entity when it is spawned. Please update any existing usages of spawn events inside `identifier` to instead use this new `spawnEvent` option. For example:  
+- `spawnEntity` method of `Dimension` no longer supports using a spawn event inside the `identifier` parameter. `SpawnEntityOptions` interface now has an optional string member `spawnEvent?: string` for specifying a spawn event to be sent to the entity when it is spawned. Please update any existing usages of spawn events inside `identifier` to instead use this new `spawnEvent` option. For example:\
    `spawnEntity("minecraft:horse<minecraft:ageable_grow_up>", {x:0, y:0, z:0})` should become `spawnEntity("minecraft:horse", {x:0, y:0, z:0}, {spawnEvent: 'minecraft:ageable_grow_up'})`
 - `EntityGroundOffsetComponent` has been remove
 - `Block` method `getComponent` will return `BlockCustomComponentInstance` for custom components registered with `BlockComponentRegistry` in `2.0.0`
@@ -119,8 +119,8 @@ It's time for another Preview and Beta! For the full list of goodies, browse the
 ### `@minecraft/server-ui` 2.0.0-beta
 
 - Class `ModalFormResponse`
-  - Changed type for `formValues` property from `(boolean | number | string)[]` to `(boolean | number | string | undefined)[]`.  
-      - New Signature: `formValues?: (boolean | number | string | undefined)[]`.  
+  - Changed type for `formValues` property from `(boolean | number | string)[]` to `(boolean | number | string | undefined)[]`.\
+      - New Signature: `formValues?: (boolean | number | string | undefined)[]`.\
       - Old Signature: `formValues?: (boolean | number | string)[]`.
 
   - `formValues` array now contains entries for all the elements provided by the request. It means that labels, headers, and dividers are considered into the response with an `undefined` value.

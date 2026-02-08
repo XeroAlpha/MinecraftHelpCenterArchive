@@ -12,8 +12,8 @@ hash:
 
 A new update has been released to address some issues that were introduced with the 1.20.30 update.
 
-Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!  
-  
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!\
+\
 
 # **Fixes:**
 

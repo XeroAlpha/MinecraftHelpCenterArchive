@@ -22,8 +22,8 @@ Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com
 
 **Structure Block: Corner Mode**
 
-- Corner Mode is used with the Detect button in Save Mode to define the area to save. It will only detect Corner Blocks with the same name as the structure being saved  
-    
+- Corner Mode is used with the Detect button in Save Mode to define the area to save. It will only detect Corner Blocks with the same name as the structure being saved\
+  \
 
 **Experimental Features:**
 
@@ -48,13 +48,13 @@ For more information, please see the article about enabling experimental feature
 - Introduces noodle caves to world generation, creating small pathways between bigger caves
 - Introduces the possibility of dry cave entrances that make it easier to access the new noise caves
 - Introduces a new algorithm that finds suitable spawn positions closer to origin
-- Added logic to save and load SubChunks by absolute Y index to support data-driven dimension height ranges  
-    
+- Added logic to save and load SubChunks by absolute Y index to support data-driven dimension height ranges\
+  \
 
 **Changes:**
 
-- Updated the Achievements button and moved from the Profile screen to the Main Menu and Pause screens  
-    
+- Updated the Achievements button and moved from the Profile screen to the Main Menu and Pause screens\
+  \
 
 **Fixes:**
 
@@ -238,8 +238,8 @@ For more information, please see the article about enabling experimental feature
 
 - Fixed a crash that could occur if a structure was placed with a command in an unloaded area, and that structure was deleted
 - Teleporting a mob between dimensions no longer causes the mob to despawn ([MCPE-127414](https://bugs.mojang.com/browse/MCPE-127414))
-- Loading a structure with the '/structure' command now displays the correct output messages ([MCPE-132813](https://bugs.mojang.com/browse/MCPE-132813))  
-    
+- Loading a structure with the '/structure' command now displays the correct output messages ([MCPE-132813](https://bugs.mojang.com/browse/MCPE-132813))\
+  \
 
 **Technical Updates:**
 

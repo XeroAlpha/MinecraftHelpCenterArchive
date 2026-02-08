@@ -19,8 +19,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004563092-Minecraft-Be
 - Beta builds will likely be unstable and are not representative of final version quality. Please backup your Worlds before joining the beta
 - Finished releases may not include all additions, changes, and fixes from the beta to preserve stability and may slip to a later release
 
-This beta features a whole ocean of new features from the upcoming Update Aquatic Phase 2! If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojang.com/) and post all thoughts and suggestions to [feedback.minecraft.net](http://feedback.minecraft.net/). Thanks for playing!  
-  
+This beta features a whole ocean of new features from the upcoming Update Aquatic Phase 2! If you find any bugs, please report them on [bugs.mojang.com](http://bugs.mojang.com/) and post all thoughts and suggestions to [feedback.minecraft.net](http://feedback.minecraft.net/). Thanks for playing!\
+\
 
 **Fixes:**
 

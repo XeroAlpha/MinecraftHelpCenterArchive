@@ -23,7 +23,7 @@ This is only the first step in our underground adventure, so please note that sn
 
 ## NOISE CAVES AND AQUIFERS
 
-- Noise caves are a new way of generating caves, providing more natural variety. They can get really huge sometimes!  
+- Noise caves are a new way of generating caves, providing more natural variety. They can get really huge sometimes!\
   Noise caves come in two flavors:
   - Cheese caves. Like the holes in swiss cheese. These often form caverns of various sizes.
   - Spaghetti caves. Long squiggly tunnels, sometimes wide like tagliatelle.

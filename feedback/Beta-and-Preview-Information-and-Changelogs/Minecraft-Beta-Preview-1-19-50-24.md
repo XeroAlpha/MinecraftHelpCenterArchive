@@ -16,8 +16,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/10506822020877-Minecraft-
 
 ![R19U5_5_1080.jpg](https://feedback.minecraft.net/hc/article_attachments/10506811228301)
 
-Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+Here's a list of what is new in this week's Minecraft Preview and Beta! Remember to send us all your feedback at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 # **Features and Bug Fixes**
 

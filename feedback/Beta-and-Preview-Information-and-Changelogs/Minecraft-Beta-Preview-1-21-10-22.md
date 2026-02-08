@@ -45,8 +45,8 @@ hash:
 - Minecraft Preview is available on Xbox, PlayStation 4, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
 - The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview update! Please keep sending in any suggestions you have at [feedback.minecraft.net](https://feedback.minecraft.net/), and please report and upvote any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/)!  
-  
+Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview update! Please keep sending in any suggestions you have at [feedback.minecraft.net](https://feedback.minecraft.net/), and please report and upvote any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/)!\
+\
 
 # **Features and Bug Fixes**
 
@@ -129,8 +129,8 @@ Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview 
 
 ## Vault
 
-- Added sound effect to help players understand that they have already looted this Vault  
-    
+- Added sound effect to help players understand that they have already looted this Vault\
+  \
 
 # **Technical Updates**
 
@@ -172,7 +172,7 @@ Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview 
   - The starting rotation (pitch and yaw) are fixed right now at 45X and 45Y.
   - The follow orbit camera is the only preset available, the 3<sup>rd</sup> person boom preset will be coming in a future release.
 - Exposed radius component to behavior packs to be overwritten by creator cameras. Also added ‘minecraft:third_person’ and ‘minecraft:third_person_front’ to the allow list of presets that can be inherited from
-  - This allows you to make a 3<sup>rd</sup> person camera based on the vanilla 3<sup>rd</sup> person cameras but with a variable radius.  
+  - This allows you to make a 3<sup>rd</sup> person camera based on the vanilla 3<sup>rd</sup> person cameras but with a variable radius.\
     The radius (distance from player) is not limited but render distance and other constraints still exist.
   - This does ***not*** allow modifications to the vanilla cameras.
 
@@ -211,8 +211,8 @@ Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview 
 
 ## Realms
 
-- Fixed a bug that prevented two back-to-back error screens when the client was out of date and a Realm had a pending update  
-    
+- Fixed a bug that prevented two back-to-back error screens when the client was out of date and a Realm had a pending update\
+  \
 
 # **Experimental Technical Features**
 

@@ -13,7 +13,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127432-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Stained Glass
@@ -54,7 +54,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Mash-up Packs and Texture Packs will now decorate the main menu and in-game HUD
 - Updated Add-On resource and behavior packs are available on minecraft.net/addons
 
-  
+\
 **New Marketplace Content:**
 
 - Worlds
@@ -94,7 +94,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   - Freaks and Zombies by Visula
   - Back to School by Imagiverse
 
-  
+\
 **Tweaks:**
 
 - Rebalanced most of the game sound effects and music, such as rain being much quieter
@@ -124,7 +124,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Added sound effects for placing Eyes of Ender into portal frames and opening The End portal
 - Cake now has a stack size of 64
 
-  
+\
 **Bug Fixes:**
 
 - The moon is now correctly oriented, while the stars properly traverse the heavens
@@ -422,14 +422,14 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - The ""spawn_entity"" sub-component of ""minecraft:interact"" now works as intended
 - Localized the death message that appears when a player is killed by a horse when using Add-Ons
 
-  
+\
 **Changelog for Space Battle Simulator:**
 
 - Fixed equipment bugs
 - Minor text fixes
 - Fixed bug where the barrack respawn messages/effects would sometimes go to the wrong team
 
-  
+\
 **Changelog for Relics of the Privateers:**
 
 - Updated various mobs for 1.2
@@ -448,14 +448,14 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Most flowing water around the world fixed
 - A large amount of gold discovered and removed by the mountain spa
 
-  
+\
 **Changelog for ANNIE: The Rise of Londinium:**
 
 - Added stained glass to pods
 - Added stained glass walls to stages 1, 2 & 3
 - Edited villager behavior pack to make them not targetable
 
-  
+\
 **Changelog for Stone Age Texture Pack:**
 
 - Added textures for music discs
@@ -472,14 +472,14 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Added inventory tab icons
 - Removed unused or default textures
 
-  
+\
 **Update for PureBDcraft:**
 
 - Added all 1.2 blocks textures
 - Added brand new PureBDcraft HD UI
 - Fixed bugs
 
-  
+\
 **Changelog for Monster Battle Arena:**
 
 - Added more team direction signs
@@ -488,7 +488,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Fixed CREDITS sign the credits room ""EXIT""
 - Fixed the wither family behavior
 
-  
+\
 **Changelog for Destructobot 5000:**
 
 - Fixed an issue with the size of TNT explosions changing

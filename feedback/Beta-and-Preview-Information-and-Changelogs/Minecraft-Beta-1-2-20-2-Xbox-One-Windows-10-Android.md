@@ -20,17 +20,17 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165091-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
-This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!  
-  
-  
-**Experimental Gameplay:**  
-  
-Some Update Aquatic features are more unstable and are currently behind the Experimental Gameplay toggle.  
-  
-'Use Experimental Gameplay' can be toggled in World Settings. These features may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.  
-  
-  
+\
+This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!\
+\
+\
+**Experimental Gameplay:**\
+\
+Some Update Aquatic features are more unstable and are currently behind the Experimental Gameplay toggle.\
+\
+'Use Experimental Gameplay' can be toggled in World Settings. These features may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.\
+\
+\
 **Changes:**
 
 - Updated Dolphin model
@@ -38,7 +38,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 - Added Pocket UI screens for Compound Creator, Element Constructor, Material Reducer, and Lab Table
 - Updated textures for Nautilus Shell and Heart of the Sea
 
-  
+\
 **Fixes:**
 
 - Fixed a crash that occurred when creating a world when the Education Edition toggle was enabled

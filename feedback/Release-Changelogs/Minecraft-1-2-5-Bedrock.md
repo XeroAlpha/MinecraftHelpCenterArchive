@@ -13,7 +13,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168331-Minecraft-1-
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Added a new Recipe Book toggle with the ability to view the Creative inventory in fullscreen
@@ -22,7 +22,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Mobile Broadcasting: Native broadcasting for several streaming services has been added. Look for the new Broadcast button directly in-game
 - Added a content rating system to the Marketplace
 
-  
+\
 **New Marketplace Content:**
 
 - - **Adventure Maps**
@@ -48,14 +48,14 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
   - Plumber Pack by Jigarbov Productions
   - Happy Thanksgiving by PixelHeads
 
-  
+\
 **Tweaks:**
 
 - Improvements to the Create screen for available templates
 - The Server tab now displays a loading bar when fetching server ping and player count
 - The main menu background now has a raised camera angle and scales properly based on the device's aspect ratio
 
-  
+\
 **Bug Fixes:**
 
 - - **Crashes/Performance**

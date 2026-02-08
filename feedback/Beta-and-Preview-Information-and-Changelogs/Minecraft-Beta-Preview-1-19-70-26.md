@@ -18,7 +18,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/13574296686221-Minecraft-
 
 ![A Minecraft screenshot of the sun going down, with a sniffer, a villager, and camels in the scene. ](https://feedback.minecraft.net/hc/article_attachments/13569661534989)
 
-We have another 1.19.70 Beta/Preview this week while we work on a few more bugs! The good news is that we're very nearly ready to bring the cherry blossom biome and armour trims to Minecraft Preview as an experimental feature - thank you for bearing with us! It will be worth the wait and we're excited to hear your feedback once these features are ready to be tested out in preparation for 1.20, stay tuned for more updates.  
+We have another 1.19.70 Beta/Preview this week while we work on a few more bugs! The good news is that we're very nearly ready to bring the cherry blossom biome and armour trims to Minecraft Preview as an experimental feature - thank you for bearing with us! It will be worth the wait and we're excited to hear your feedback once these features are ready to be tested out in preparation for 1.20, stay tuned for more updates.\
 As always, you can send us all your feedback and ideas at [aka.ms/MC120Feedback](https://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](https://bugs.mojang.com/).
 
 ## **General**

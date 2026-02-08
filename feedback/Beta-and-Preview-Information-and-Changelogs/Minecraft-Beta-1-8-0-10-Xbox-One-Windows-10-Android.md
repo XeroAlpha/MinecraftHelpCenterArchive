@@ -11,16 +11,16 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360018040232-Minecraft-Be
 - You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta. Featured servers may also be unavailable
 - The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](http://aka.ms/JoinMCBeta) for detailed instructions
 - Beta builds will likely be unstable and are not representative of final version quality. Please backup your Worlds before joining the beta
-- Finished releases may not include all new features, changes, and fixes from the beta to preserve stability and may slip to a later release  
-    
+- Finished releases may not include all new features, changes, and fixes from the beta to preserve stability and may slip to a later release\
+  \
 
 **Experimental Gameplay:** (Only available when Experimental Gameplay is enabled in world settings)
 
 - Crossbow weapon with new enchantments
   - Multishot
   - Piercing
-  - Quick Charge  
-      
+  - Quick Charge\
+    \
 
 **Changes:**
 
@@ -35,8 +35,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360018040232-Minecraft-Be
 - Improvements to how and when spawn positions are moved to safe locations
 - Content can now be sorted by 'Updates Available' in the Marketplace inventory
 - Content can now be sorted and filtered by rating in the Marketplace
-- Information on scaffolding can now be found in the How to Play menu  
-    
+- Information on scaffolding can now be found in the How to Play menu\
+  \
 
 **Fixes:**
 

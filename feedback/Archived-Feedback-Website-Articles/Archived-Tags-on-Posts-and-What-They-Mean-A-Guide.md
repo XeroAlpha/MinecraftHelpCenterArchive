@@ -12,7 +12,7 @@ But what do they mean?
 
     - announced: We've announced a feature that either is or is similar enough to this topic, although the implementation may or may not differ slightly when it's done. Think of it as "we're going to do something like that in the future". It's the ultimate of compliments and means this idea is one step closer to becoming something you'll see in Minecraft! We still won't have a date to give you on when, so please don't ask us. (Dates always tend to change anyway.)
 
-    - under review: The team has discussed this idea and it has a status other than "not happening". If it's not happening for sure, it becomes [Previously Considered Feedback](./Previously-Considered-Suggestions.md). Just because we talked about it doesn't mean it is going in, but you've been noticed, great job!
+    - under review: The team has discussed this idea and it has a status other than "not happening". If it's not happening for sure, it becomes [Previously Considered Feedback](./Archived-Previously-Considered-Suggestions.md). Just because we talked about it doesn't mean it is going in, but you've been noticed, great job!
 
     - released: It's in both Java and Bedrock versions of the game (not a snapshot or beta).
 

@@ -38,25 +38,25 @@ We have a library of training resources for educators available on our website a
 
 Here are the three most popular resources for learning Minecraft Education from start-to-finish:
 
-- [Minecraft Teacher Academy](http://aka.ms/Minecraft-teacher-academy) By using Minecraft as a platform for learning, educators like you can motivate and inspire every student to achieve more, and ignite a passion for learning. Join a community of educators learning how to use Minecraft to unlock student potential. We are dedicated to supporting you as you begin this journey and in the coming sections, we hope to show you the potential of this platform in capable hands like yours.  
-    
-- [Minewhat? Where do I begin?](https://education.minecraft.net/trainings/minewhat-where-do-i-begin/) is a video series from an educator, for educators, on how to use Minecraft Education in the classroom effectively and practically (even if they have never played Minecraft).  
-    
+- [Minecraft Teacher Academy](http://aka.ms/Minecraft-teacher-academy) By using Minecraft as a platform for learning, educators like you can motivate and inspire every student to achieve more, and ignite a passion for learning. Join a community of educators learning how to use Minecraft to unlock student potential. We are dedicated to supporting you as you begin this journey and in the coming sections, we hope to show you the potential of this platform in capable hands like yours.\
+  \
+- [Minewhat? Where do I begin?](https://education.minecraft.net/trainings/minewhat-where-do-i-begin/) is a video series from an educator, for educators, on how to use Minecraft Education in the classroom effectively and practically (even if they have never played Minecraft).\
+  \
 
 ## Other online resources for training educators
 
 There numerous resources available for helping educators and students learn about the world of Minecraft and Minecraft Education. Here are a few great places to explore:
 
-- [Teacher's Lounge](https://aka.ms/mceduteacherslounge) This Facebook Group has educators all over the world in it, in various stages of learning Minecraft. Come for regular events and discussions!  
-    
-- [Minecraft Lessons](https://education.minecraft.net/class-resources/lessons/) is a catalog of lesson plans (and worlds to download) from the Minecraft Education team, Minecraft Experts, and the educator community designed to be used with Minecraft Education in the classroom. This list can be filtered by age and by subject.  
-    
-- [Minecraft Education Ambassadors](https://education.minecraft.net/en-us/connect/minecraft-ambassador) is a directory of Minecraft experts waiting to connect with you! These are folks who are committed to helping others learn how to use Minecraft in the classroom.  
-    
-- [The Support Center](https://edusupport.minecraft.net/hc/en-us/community/topics) is a great place to search for and ask questions about teaching or technical issues, as well as submit feature requests for Minecraft Education.  
-    
-- [Minecraft Education Blog](https://education.minecraft.net/blog/) is a great destination for weekly activities, stories, and examples of using Minecraft in new and innovative ways.  
-    
+- [Teacher's Lounge](https://aka.ms/mceduteacherslounge) This Facebook Group has educators all over the world in it, in various stages of learning Minecraft. Come for regular events and discussions!\
+  \
+- [Minecraft Lessons](https://education.minecraft.net/class-resources/lessons/) is a catalog of lesson plans (and worlds to download) from the Minecraft Education team, Minecraft Experts, and the educator community designed to be used with Minecraft Education in the classroom. This list can be filtered by age and by subject.\
+  \
+- [Minecraft Education Ambassadors](https://education.minecraft.net/en-us/connect/minecraft-ambassador) is a directory of Minecraft experts waiting to connect with you! These are folks who are committed to helping others learn how to use Minecraft in the classroom.\
+  \
+- [The Support Center](https://edusupport.minecraft.net/hc/en-us/community/topics) is a great place to search for and ask questions about teaching or technical issues, as well as submit feature requests for Minecraft Education.\
+  \
+- [Minecraft Education Blog](https://education.minecraft.net/blog/) is a great destination for weekly activities, stories, and examples of using Minecraft in new and innovative ways.\
+  \
 - [Classroom Management Tips from Minecraft Ambassadors](https://education.minecraft.net/blog/classroom-management-tips-from-minecraft-mentors/) Is a great post by some of our Minecraft Ambassadors on best practices for getting ME into the classroom effectively.
 
 [Back to the top](#top)

@@ -1025,7 +1025,7 @@ These are item stack components that replace existing functionality that was for
 - Copied to Decorated Pot block when placed
 - Replaces BlockEntityTag.sherds tag of same format
 - Format: list of sherd item ids
-  - e.g.  
+  - e.g.\
     \['arms_up_pottery_sherd','angler_pottery_sherd','danger_pottery_sherd','shelter_pottery_sherd'\]
 - On Decorated Pots, has an implicit default value of: \['minecraft:brick','minecraft:brick','minecraft:brick','minecraft:brick'\]
 
@@ -1506,7 +1506,7 @@ Item predicate format has been updated:
   - Fields:
     - damage - optional bounds for value of minecraft:damage component
     - durability - optional bounds for durability (max damage minus value of minecraft:damage)
-- Predicates minecraft:enchantments, minecraft:stored_enchantments, minecraft:potion_contents  
+- Predicates minecraft:enchantments, minecraft:stored_enchantments, minecraft:potion_contents\
   and minecraft:damage require matching component to exist on item
   - That means that, for example, matching for empty enchantment list will not pass on items without minecraft:damage component
   - Note: some components, like minecraft:enchantments have default values, so they will always match
@@ -1898,7 +1898,7 @@ After:
 - It works by setting fields like show_in_tooltip without changing other values
 - Format:
   - toggles - a map of supported item component type to boolean value
-- Supported components: trim, dyed_color, enchantments, stored_enchantments, unbreakable,  
+- Supported components: trim, dyed_color, enchantments, stored_enchantments, unbreakable,\
   can_break, can_place_on, attribute_modifiers
 - Example:
   - {function:"toggle_tooltips","toggles":{"enchantments":false}} will hide enchantments tooltip
@@ -1982,10 +1982,10 @@ Added the following particle types:
 #### BLOCK TAGS
 
 - Added minecraft:does_not_block_hoppers for blocks that will never disable a Hopper when placed above one
-- Added minecraft:blocks_wind_charge_explosions for blocks not impacted by the explosion  
+- Added minecraft:blocks_wind_charge_explosions for blocks not impacted by the explosion\
   when hit by Wind Charge
-- Added minecraft:incorrect_for_wooden_tool, minecraft:incorrect_for_gold_tool,  
-  minecraft:incorrect_for_stone_tool,minecraft:incorrect_for_iron_tool,   
+- Added minecraft:incorrect_for_wooden_tool, minecraft:incorrect_for_gold_tool,\
+  minecraft:incorrect_for_stone_tool,minecraft:incorrect_for_iron_tool, \
   minecraft:incorrect_for_diamond_tool, minecraft:incorrect_for_netherite_tool
   - These tags combine the existing needs_diamond_tool, needs_iron_tool, and needs_stone_tool tags for each specific tool tier
 

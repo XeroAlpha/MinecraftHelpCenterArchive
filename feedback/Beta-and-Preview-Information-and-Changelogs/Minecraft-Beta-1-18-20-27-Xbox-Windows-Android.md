@@ -100,7 +100,9 @@ It's time for another update, and here's a list of what is new in this week's Be
 
 - Due to engine limitations, "minecraft:geometry" data used for blocks with the Holiday Creator Features experimental toggle are now restricted to only allow geometry in the \[0,0,0\] to \[15,15,15\] space. Any blocks loaded from behavior packs that exceed this limit will render as the info_update block and show a content error in the log.
 
-##  **GameTest Framework**
+\
+**GameTest Framework**
+----------------------
 
 - Exposed the following components for Actors. Each of these has a valueproperty that contains the data of the component.
   - minecraft:variant
@@ -119,8 +121,8 @@ It's time for another update, and here's a list of what is new in this week's Be
 **mojang-minecraft module:**
 
 - Added event entityHit(entityHitEvent: EntityHitEvent, options?: EntityEventOptions)- Fires when an entity or block is hit by another entity
-- function playSound(soundID : String, soundOptions : SoundOptions) - plays a sound for a player, cannot be heard by entities other than that specific player  
-    
+- function playSound(soundID : String, soundOptions : SoundOptions) - plays a sound for a player, cannot be heard by entities other than that specific player\
+  \
 
 ## **Interact Component**
 

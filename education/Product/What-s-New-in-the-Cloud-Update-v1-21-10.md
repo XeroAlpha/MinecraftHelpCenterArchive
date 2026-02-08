@@ -27,13 +27,13 @@ Welcome to the Minecraft Education 1.21 Cloud Update! This long-awaited update b
 
 - Further general stability improvements.
 - MacOS Login freeze fix
-- Coding stability improvements  
-    
+- Coding stability improvements\
+  \
 
 ## **Cloud Minor Update v1.21.06**
 
-- Coding performance improvements  
-    
+- Coding performance improvements\
+  \
 
 ## **Cloud Minor Update v1.21.05**
 
@@ -62,7 +62,7 @@ Welcome to the Minecraft Education 1.21 Cloud Update! This long-awaited update b
 
 ## **Cloud World Backup - Upload & Download**
 
-- Worlds are automatically uploaded and downloaded to OneDrive upon on world close and downloaded on world open for Windows and ChromeOS.  
+- Worlds are automatically uploaded and downloaded to OneDrive upon on world close and downloaded on world open for Windows and ChromeOS.\
   - [View more our article on Cloud Storage here](https://aka.ms/mceducloudkb)
     - You can also view our [video walkthrough here!](https://www.youtube.com/watch?v=gKV_6EeTKLY)
   - Support for Cloud on MacOS and iOS coming soon

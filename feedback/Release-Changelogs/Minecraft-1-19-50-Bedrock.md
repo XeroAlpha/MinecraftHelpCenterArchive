@@ -12,8 +12,8 @@ A new update has been released for Minecraft, bringing Spectator Mode fully into
 
 As always, we appreciate all your help and input! Please report any new bugs at [bugs.mojang.com](http://bugs.mojang.com/) and let your feedback be heard at [feedback.minecraft.net](http://feedback.minecraft.net/).
 
-![Picture1.jpg](https://feedback.minecraft.net/hc/article_attachments/10833443758093)  
-  
+![Picture1.jpg](https://feedback.minecraft.net/hc/article_attachments/10833443758093)\
+\
 
 **New Features:**
 
@@ -54,7 +54,7 @@ A list of fixes since the last release can be found in the Fixes section below.
 
 - New characters have joined Steve and Alex! These character skins can be selected in the Dressing Room
 
-![Picture3.png](https://feedback.minecraft.net/hc/article_attachments/10833447374349)  
+![Picture3.png](https://feedback.minecraft.net/hc/article_attachments/10833447374349)\
 From left to right: Sunny, Kai, Makena, Steve, Alex, Zuri, Efe, Ari, and Noor
 
 **Vex**
@@ -62,8 +62,8 @@ From left to right: Sunny, Kai, Makena, Steve, Alex, Zuri, Efe, Ari, and Noor
 - Updated the model and texture of the Vex
 - The Vex retains a slightly larger hitbox to make it easier to fight
 
-![Picture4.png](https://feedback.minecraft.net/hc/article_attachments/10833447495309)  
-  
+![Picture4.png](https://feedback.minecraft.net/hc/article_attachments/10833447495309)\
+\
 
 **Vanilla Parity:**
 
@@ -91,8 +91,8 @@ From left to right: Sunny, Kai, Makena, Steve, Alex, Zuri, Efe, Ari, and Noor
 
 - Open container, Command Block, or Structure Block screens now close when players enter Spectator Mode
 - Spectator Mode now appears on the list of Personal Game Modes in Settings ([MCPE-156688](https://bugs.mojang.com/browse/MCPE-156688))
-- Allays no longer throw items to spectators ([MCPE-162873](https://bugs.mojang.com/browse/MCPE-162873))  
-    
+- Allays no longer throw items to spectators ([MCPE-162873](https://bugs.mojang.com/browse/MCPE-162873))\
+  \
 
 **Experimental Features:**
 
@@ -124,8 +124,8 @@ From left to right: Sunny, Kai, Makena, Steve, Alex, Zuri, Efe, Ari, and Noor
 
 - A new type of Sign that can be placed beneath and on the side of blocks
 - Hanging Signs are available for all wood types
-- Hanging Signs can also be placed under narrow blocks with center support, like Fences  
-    
+- Hanging Signs can also be placed under narrow blocks with center support, like Fences\
+  \
 
 **Fixes:**
 
@@ -232,8 +232,8 @@ From left to right: Sunny, Kai, Makena, Steve, Alex, Zuri, Efe, Ari, and Noor
 - Changed the error handling of copying worlds to display a modal pop-up instead of a toast notification
 - Fixed a bug causing the HUD to not rotate with the player's direction while riding in a Boat in VR
 - Changed the color of the description text for the “Allow mobile data for online play” option to be more readable ([MCPE-162459](https://bugs.mojang.com/browse/MCPE-162459))
-- Fixed a contrast issue of the little arrow in dropdown components on hover, the unselected toggle components and the toggle/sliders in chat settings  
-    
+- Fixed a contrast issue of the little arrow in dropdown components on hover, the unselected toggle components and the toggle/sliders in chat settings\
+  \
 
 **Technical Updates:**
 

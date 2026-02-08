@@ -45,7 +45,7 @@ If you find that your issue has already been reported, look at the Resolution�
 
 Here are some things to keep in mind before you report a new bug.
 
-- **Be Concise**: Write a summary that clearly states the problem. Include as much important information as possible including:  
+- **Be Concise**: Write a summary that clearly states the problem. Include as much important information as possible including:\
   - Steps taken to reproduce the issue.
   - What happens when the bug occurs.
   - Clear screenshots or short video of the bug.

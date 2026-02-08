@@ -49,7 +49,7 @@ hash:
 
 ![r21U9_3_nether_enderman.jpg](https://feedback.minecraft.net/hc/article_attachments/36415388782733)
 
-  
+\
 It's time for another Beta & Preview! For the full list of changes and additions, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](https://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/).
 
 ####  
@@ -135,15 +135,15 @@ It's time for another Beta & Preview! For the full list of changes and additions
 
 - Released `getBlockBelow` and `getBlockAbove` on `Dimension` to 2.0.0.
 - Changed `players` property on `PlayAnimationOptions` to an array of Player objects, instead of string names in 2.0.0.
-- Changed the following APIs to use the local coordinates on a unit cube rather than the world coordinates for 2.0.0. JIRA: ([MCPE-216825](https://bugs.mojang.com/browse/MCPE-216825))  
-    - Example: The location `{ x: 123.123, y: -22.44, z: -400.678 }` will now be `{ x: 0.123, y: 0.44, z: 0.678 }`    
-    - `BlockRaycastHit.faceLocation`    
-    - `BlockHitInformation.faceLocation`    
-    - `BlockComponentPlayerInteractEvent.faceLocation`    
-    - `PlayerPlaceBlockBeforeEvent.faceLocation`    
-    - `ItemUseOnAfterEvent.faceLocation`    
-    - `ItemComponentUseOnEvent.faceLocation`    
-    - `PlayerInteractWithBlockAfterEvent.faceLocation`    
+- Changed the following APIs to use the local coordinates on a unit cube rather than the world coordinates for 2.0.0. JIRA: ([MCPE-216825](https://bugs.mojang.com/browse/MCPE-216825))\
+    - Example: The location `{ x: 123.123, y: -22.44, z: -400.678 }` will now be `{ x: 0.123, y: 0.44, z: 0.678 }`  \
+    - `BlockRaycastHit.faceLocation`  \
+    - `BlockHitInformation.faceLocation`  \
+    - `BlockComponentPlayerInteractEvent.faceLocation`  \
+    - `PlayerPlaceBlockBeforeEvent.faceLocation`  \
+    - `ItemUseOnAfterEvent.faceLocation`  \
+    - `ItemComponentUseOnEvent.faceLocation`  \
+    - `PlayerInteractWithBlockAfterEvent.faceLocation`  \
     - `PlayerInteractWithBlockBeforeEvent.faceLocation`
 - Released error `ContainerRulesError` to `2.0.0`
 - Removed `CameraDefaultOptions` for `V2.0`
@@ -169,7 +169,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
 - Added Block Inspector "Reset Block Data" button to reset the block states to all defaults
 - Added a hollow trim action to selection. This converts the current selection volume to a new volume which represents all of the fully obscured non-air blocks (i.e. generate a selection which represents the inside of any shape inside the current selection)
 - Added Color Timeline API (IColorTimelinePropertyItem). The Color Timeline uses one dimensional graph to represent color interpolation over time
-- Added Number Timeline API (INumberTimelinePropertyItem). The Number Timeline uses two dimensional graph to represent linear interpolation between two nodes over time  
+- Added Number Timeline API (INumberTimelinePropertyItem). The Number Timeline uses two dimensional graph to represent linear interpolation between two nodes over time\
   The two new APIs can be used in the Editor AGFX settings
 - Added ability to specify a tooltip to the editor menu items
 - Added ability to append an icon to the editor menu action items
@@ -246,7 +246,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
 
 ## Blocks
 
-- Added `minecraft:random_offset` component under the Upcoming Creator Features toggle. This allows for blocks to randomly offset like foliage does in the Vanilla game  
+- Added `minecraft:random_offset` component under the Upcoming Creator Features toggle. This allows for blocks to randomly offset like foliage does in the Vanilla game\
   Example:
 
 ``` hljs

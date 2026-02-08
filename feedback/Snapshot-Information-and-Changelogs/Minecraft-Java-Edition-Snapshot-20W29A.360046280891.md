@@ -24,9 +24,9 @@ Today we’re releasing Snapshot 20w29a for Minecraft Java Edition. We found som
 
 ### SPAWNPOINT & SETWORLDSPAWN
 
-Added angle parameter for setting the default facing angle of a respawning player.  
-Syntax: spawnpoint \[targets\] \[pos\] \[angle\]  
-Syntax: setworldspawn \[pos\] \[angle\]  
+Added angle parameter for setting the default facing angle of a respawning player.\
+Syntax: spawnpoint \[targets\] \[pos\] \[angle\]\
+Syntax: setworldspawn \[pos\] \[angle\]\
 New parameters:
 
 - angle - Floating point angle in degrees. Supports the relative ~ modifier

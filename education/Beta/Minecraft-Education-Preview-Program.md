@@ -21,13 +21,13 @@ Minecraft Education Preview is an evolution of the Minecraft Education Beta prog
 
  
 
-View our [What's New article](https://aka.ms/mewhatsnewpreview) to see the latest features and our [Change Log](https://aka.ms/meechangelog) for most recent versions.   
-  
+View our [What's New article](https://aka.ms/mewhatsnewpreview) to see the latest features and our [Change Log](https://aka.ms/meechangelog) for most recent versions. \
+\
 
 ## How do I download Minecraft Education Preview?
 
 - [Download Minecraft Education Preview for Windows](https://aka.ms/downloadme-winStorePreview)
-- [Download Minecraft Education Preview for Android and Chromebook](https://aka.ms/downloadme-chromebookPreview)  
+- [Download Minecraft Education Preview for Android and Chromebook](https://aka.ms/downloadme-chromebookPreview)\
 
 Anyone who already has a license for Minecraft Education can use Minecraft Education Preview. If you are having issues installing Preview, please contact your school’s IT administrator or review our [IT Admin Guide](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md). If issues persist, your IT Admin can submit a [ticket to our support](https://aka.ms/MEE_New_Request) team.
 
@@ -46,27 +46,27 @@ Minecraft Education Preview is currently available on:
 - Windows 10/11 through the Microsoft Store (.appx)
 - Android and Chromebook through the Google Play Store
 
-We’re working to bring Minecraft Education Preview to the remaining Minecraft Education platforms. This article will be updated when there’s more to share.  
-  
+We’re working to bring Minecraft Education Preview to the remaining Minecraft Education platforms. This article will be updated when there’s more to share.\
+\
 
 ## Is Minecraft Education Beta still available?
 
-The Minecraft Education Beta apps will continue to work while we transition, but only the Preview apps will receive updates with new features like Cloud backup. Eventually we plan for the Preview program to replace the Beta program on all platforms.  
-  
+The Minecraft Education Beta apps will continue to work while we transition, but only the Preview apps will receive updates with new features like Cloud backup. Eventually we plan for the Preview program to replace the Beta program on all platforms.\
+\
 
 ## Can Minecraft worlds be imported into Minecraft Education Preview?
 
 Yes, worlds can be imported into Minecraft Education Preview.
 
-Imported worlds are a copy, so changes made will not be reflected in the original world save file. Additionally, exported Preview worlds might not work when opened again in Minecraft Education.  
-  
+Imported worlds are a copy, so changes made will not be reflected in the original world save file. Additionally, exported Preview worlds might not work when opened again in Minecraft Education.\
+\
 
 ## What features aren't available in Minecraft Education Preview?
 
 All features are available in Minecraft Education Preview.
 
-Note: Multiplayer will not work between Minecraft Education and Minecraft Education Preview.  
-  
+Note: Multiplayer will not work between Minecraft Education and Minecraft Education Preview.\
+\
 
 ## Where can I give feedback and report bugs?
 

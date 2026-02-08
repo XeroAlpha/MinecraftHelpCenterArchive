@@ -163,7 +163,7 @@ A Bundle is an item that lets you stack different blocks or items together in th
   - minecraft:beacon -\> no longer powered
   - minecraft:tnt -\> no longer powered
   - minecraft:sea_lantern -\> no longer powered ([MCPE-79271](https://bugs.mojang.com/browse/MCPE-79271))
-- When mining Top Snow with a Silk Touch enchanted Shovel, Top Snow is now dropped in an amount corresponding to the number of layers of the block ([MCPE-59729](https://bugs.mojang.com/browse/MCPE-59729))  
+- When mining Top Snow with a Silk Touch enchanted Shovel, Top Snow is now dropped in an amount corresponding to the number of layers of the block ([MCPE-59729](https://bugs.mojang.com/browse/MCPE-59729))\
   - If there are 8 layers, a Snow Block will be dropped instead
 
 # Technical Updates

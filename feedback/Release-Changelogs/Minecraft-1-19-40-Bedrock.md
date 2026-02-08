@@ -48,8 +48,8 @@ As always, we appreciate all your help and input, please report any new bugs at�
 - Shulker bullets no longer follow Spectators ([MCPE-162069](https://bugs.mojang.com/browse/MCPE-162069))
 - Spectators are now invisible to normal players
 - If a player is in Spectator Mode and other non-spectating players are present on the server, the spectating player won't affect mob despawning anymore
-- If there are only spectating players on the server, mob despawning is now put on hold**  
-    **
+- If there are only spectating players on the server, mob despawning is now put on hold**\
+  \**
 
 **Fixes:**
 
@@ -139,14 +139,14 @@ As always, we appreciate all your help and input, please report any new bugs at�
 - Updated the positioning of status effects for Pocket UI
 - The inventory button for touch devices is now reset to its default appearance after closing the inventory
 - Fixed an issue where players couldn't swap unstackable items with touch controls
-- Improved the images for the three control schemes in the touch settings menu  
-    
+- Improved the images for the three control schemes in the touch settings menu\
+  \
 
 **Technical Updates:**
 
 **Updated Add-On Template Packs**
 
-- Updated Add-On templates for 1.19.40 with new resources, behaviors, and documentation, are available to download at [aka.ms/MCAddonPacks  
+- Updated Add-On templates for 1.19.40 with new resources, behaviors, and documentation, are available to download at [aka.ms/MCAddonPacks\
   ](https://aka.ms/MCAddOnPacks)
 
 **Custom Block Geometry**
@@ -259,8 +259,8 @@ import \* as mc from “mojang-minecraft”;
 
 Use:
 
-import \* as mc from “@minecraft/server”;  
-  
+import \* as mc from “@minecraft/server”;\
+\
 
 Use of script eval() and Function() must be explicitly enabled in  manifest.json 
 

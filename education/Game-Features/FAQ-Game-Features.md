@@ -63,14 +63,14 @@ Yes, also each teacher account will have OP by default. For more info, [view our
 
 Classroom Mode is a companion app for Minecraft Education that enables educators to manage world settings, communicate with students, give items and teleport students in the Minecraft world. For videos and extensive documentation on Classroom Mode, head to our full set of [training materials](https://education.minecraft.net/trainings/install-use-classroom-mode-for-minecraft/).
 
-  
+\
 **Can I code in Minecraft Education? How does it work?**
 
 Yes, you can! Press "c" on your keyboard for it to launch. 
 
 This allows educators and students to explore, create, and play in an immersive Minecraft world – all by writing code. Head here to a training that answers all your questions and get in touch with support if you need further assistance.
 
-  
+\
 **Is offline usage possible?**
 
 The only time you need to be connected is for logging in, accessing the Library, and [multiplayer](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) games. Once you successfully login, you can play offline successfully until you close the app again. Then you'll need to login once again. 

@@ -48,7 +48,7 @@ BYOH - Build Your Own Honeycomb
 
 ## SPECTATE
 
-New command that makes a player in spectator mode spectate an entity. Syntax: spectate \[target\] \[player\]  
+New command that makes a player in spectator mode spectate an entity. Syntax: spectate \[target\] \[player\]\
 Parameters:
 
 - player - The player that should spectate the target. Must be in spectator mode. If omitted, @s is used.

@@ -18,7 +18,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/18794896918157-Minecraft-
 
 It’s time for a new Minecraft Preview and Beta. Here’s a list of what’s new this week. Please continue to send us your [feedback](https://aka.ms/MC120Feedback) and [bug reports](https://bugs.mojang.com/), and have fun!
 
-**Experimental Trade Changes**  
+**Experimental Trade Changes**\
 Thank you to everyone that has sent in their suggestions and feedback regarding the experimental trade change!  We are trying out these changes to rebalance the villager trade system and make it more fair and fun for everyone. However, these changes are not yet final, and they will stay as experimental features while we continue to work on them. We still need your feedback to help us improve and decide, so please continue to let us know what you think of the new trades, what you like and dislike, and what suggestions you have at [aka.ms/VillagerTradingFeedback](http://aka.ms/VillagerTradingFeedback).
 
 # **Features and Bug Fixes**

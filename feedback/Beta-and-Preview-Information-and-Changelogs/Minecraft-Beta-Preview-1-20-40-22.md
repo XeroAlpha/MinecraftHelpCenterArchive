@@ -71,8 +71,8 @@ Here’s a list of what’s new in this week's Minecraft Preview and Beta! As al
 
 - Iron Golems and Snow Golems now have a crumbling-like particle effect when they are created
 - Flowing Lava and Water mixing mechanics now match Java Edition ([MCPE-41103](https://bugs.mojang.com/browse/MCPE-41103))
-- Witches now target players within a 16 block distance  
-    
+- Witches now target players within a 16 block distance\
+  \
 
 # **Technical Updates**
 
@@ -182,8 +182,8 @@ Additional fixes this week:
 
 ## **Stability and Performance**
 
-- The Sounds definition file sound_definitions.json will no longer crash the game if the wrong json type is used for a specific sound definition ([MCPE-168913](https://bugs.mojang.com/browse/MCPE-168913))  
-    
+- The Sounds definition file sound_definitions.json will no longer crash the game if the wrong json type is used for a specific sound definition ([MCPE-168913](https://bugs.mojang.com/browse/MCPE-168913))\
+  \
 
 # **Experimental Technical**
 

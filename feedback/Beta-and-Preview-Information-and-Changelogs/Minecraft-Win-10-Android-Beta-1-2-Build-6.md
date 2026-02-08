@@ -11,8 +11,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004165691-Minecraft-Win-10-Android-Beta-1-2-Build-6
 ---
 
-If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.\
+\
 
 **Fixes from Bugs in Beta:**
 
@@ -65,7 +65,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - On the inventory screen, touching and dragging will now scroll without selecting an item slot
 - Fireworks will now give proper boost when using Elytra wings close to the ground
 
-  
+\
 **Fixes from Bugs in Retail:**
 
 - Pressing the X button while over the hotbar will now clear its items in Creative mode

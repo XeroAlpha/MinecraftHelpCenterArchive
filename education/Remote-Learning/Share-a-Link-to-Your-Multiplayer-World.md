@@ -76,7 +76,7 @@ Follow these steps to share a link to your multiplayer world. 
 </tbody>
 </table>
 
-   
+ \
 **Result:** The link is shared and the recipients can access your world by opening the link. 
 
  

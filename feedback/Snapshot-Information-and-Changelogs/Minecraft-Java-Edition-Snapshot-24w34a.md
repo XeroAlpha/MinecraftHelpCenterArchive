@@ -45,10 +45,10 @@ These experiments have no effect unless enabled. You can find more information a
 
 - The Bundle tooltip now fits 3 rows and can aways show at least 8 item types
 
-> **Developer's Note**: *Items fill up a Bundle in rows of four, and when a row is full it is pushed down by the row above. This means there can be empty spaces in the top row.*  
->   
-> *In the previous 2020 Bundle experiment, items filled in from the top without leaving any gaps. We changed this behavior because it meant that items moved left and right in the Bundle as new items were added. This made it more difficult for some players to keep track of the order of items and some even reported that the items were moving randomly!*  
->   
+> **Developer's Note**: *Items fill up a Bundle in rows of four, and when a row is full it is pushed down by the row above. This means there can be empty spaces in the top row.*\
+> \
+> *In the previous 2020 Bundle experiment, items filled in from the top without leaving any gaps. We changed this behavior because it meant that items moved left and right in the Bundle as new items were added. This made it more difficult for some players to keep track of the order of items and some even reported that the items were moving randomly!*\
+> \
 > *With only two rows in the tooltip, the behavior of pushing a full row of items further down the Bundle removed half of the visible items, which was too much. We're adding a third row to make the design work better and allow players to see more of the items in their Bundles as they fill up.*
 
 ### Minecart Improvements
@@ -69,7 +69,7 @@ We are excited to hear what you think about these changes: please share your fee
 
 ### Redstone Experiments
 
-Please note that the experimental features behind this toggle are not aimed at any future release at this time.  
+Please note that the experimental features behind this toggle are not aimed at any future release at this time.\
 Instead, this is a place for us to try out changes and gather feedback.
 
 We are excited to hear what you think about these changes: please share your feedback on the [feedpack page](https://aka.ms/fbredstone).

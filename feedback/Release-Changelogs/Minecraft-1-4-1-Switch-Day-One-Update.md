@@ -11,15 +11,15 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360005021491-Minecraft-1-4-1-Switch-Day-One-Update
 ---
 
-Minecraft is now available on the Nintendo Switch! Utilizing the Bedrock Engine, players can now experience great features like cross-platform play with other devices. For those who purchase the game on cartridge, a day one update is available that introduces Update Aquatic Phase One and stability improvements. Connect your Nintendo Switch to the internet to receive the update. This update is multiplayer compatible with other devices running Minecraft 1.4. Check out the [Minecraft for Nintendo Switch FAQ](../Frequently-Asked-Questions/Minecraft-for-Nintendo-Switch-Bedrock.md) article for more information.  
-  
+Minecraft is now available on the Nintendo Switch! Utilizing the Bedrock Engine, players can now experience great features like cross-platform play with other devices. For those who purchase the game on cartridge, a day one update is available that introduces Update Aquatic Phase One and stability improvements. Connect your Nintendo Switch to the internet to receive the update. This update is multiplayer compatible with other devices running Minecraft 1.4. Check out the [Minecraft for Nintendo Switch FAQ](../Frequently-Asked-Questions/Minecraft-for-Nintendo-Switch-Bedrock.md) article for more information.\
+\
 
 **Known Issues:**
 
 - Realms and Featured Servers are not available at this time and will be released in an upcoming update soon
 - Entities occasionally become invisible based on the position of the observing player
-- After entering a converted world, a client's gameplay permissions are reduced to Visitor  
-    
+- After entering a converted world, a client's gameplay permissions are reduced to Visitor\
+  \
 
 **New Features:**
 
@@ -56,7 +56,7 @@ Minecraft is now available on the Nintendo Switch! Utilizing the Bedrock Engine,
 - Fish can now be scooped into buckets
 - Minecraft: Education Edition Chemistry features can now be enabled under Cheats! For tips on getting started, check out the [Chemistry Lab Journal](https://education.minecraft.net/wp-content/uploads/ChemistryLab_Journal.pdf)
 
-**  
+**\
 Changes:**
 
 - Beautiful new artwork for the game's icon
@@ -71,8 +71,8 @@ Changes:**
 - Baby Zombies now burn in daylight
 - Spawn points can now be set using Beds during the day
 - The default author for books are now set to "Author Unknown"
-- Buttons made from Oak or Stone are now displayed as Oak Button and Stone Button, respectively  
-    
+- Buttons made from Oak or Stone are now displayed as Oak Button and Stone Button, respectively\
+  \
 
 **Experimental Gameplay:**
 
@@ -81,8 +81,8 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 'Use Experimental Gameplay' can be toggled in World Settings. These features may break your world so a copy of your world will be created with "\[EX\]" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.
 
 - Drowned mobs
-- Nautilus Shells  
-    
+- Nautilus Shells\
+  \
 
 **Fixes:**
 

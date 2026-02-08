@@ -84,8 +84,8 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 ### Trial Mode
 
 - Removed the Sign In, Profile, Inbox and Gathering buttons from the Start Menu in Trial Mode
-- Removed the Profile button from the Pause Menu in Trial Mode  
-    
+- Removed the Profile button from the Pause Menu in Trial Mode\
+  \
 
 ## Vanilla Parity
 
@@ -179,7 +179,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Add-Ons and Script Engine
 
-- Added the ability to define the order for the items for the creative inventory & recipe book, called the crafting item catalog, for new items added by packs. New items can either merge with existing groups, create new groups with your own item for the icon, or just become added as loose items without a group. This catalog should be saved as `item_catalog/crafting_item_catalog.json` in your behavior pack  
+- Added the ability to define the order for the items for the creative inventory & recipe book, called the crafting item catalog, for new items added by packs. New items can either merge with existing groups, create new groups with your own item for the icon, or just become added as loose items without a group. This catalog should be saved as `item_catalog/crafting_item_catalog.json` in your behavior pack\
   Example:
 
 ``` hljs

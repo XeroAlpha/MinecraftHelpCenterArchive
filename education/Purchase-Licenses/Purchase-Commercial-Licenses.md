@@ -28,7 +28,7 @@ Anyone can purchase commercial licenses of Minecraft Education – including cam
 
 View our helpful guide below, or [**purchase Minecraft commercial licenses here.**](https://aka.ms/MCEDUCommercialPurchase)
 
-  
+\
 Also, view our video on how to purchase and manage Minecraft Education commercial licenses:
 
 [![2024-02-06 13_57_51-Purchase Commercial Licenses and 6 more pages - Work - Microsoft​ Edge.png](https://edusupport.minecraft.net/hc/article_attachments/23508996855060)](https://www.youtube.com/watch?v=3Wmkil5XVP4)
@@ -136,11 +136,11 @@ Assigning licenses to existing users is also done in the Microsoft Admin Center.
 Follow these steps if you already have a Microsoft 365 Admin Center account and have **not** purchased Minecraft Education licenses.
 
 1.  Go to the [Minecraft Education commercial purchase page](https://aka.ms/MCEDUCommercialPurchase) and enter your Microsoft Admin Center email. 
-2.  Review and update your organizational profile as needed.  
+2.  Review and update your organizational profile as needed.\
     *Note: If you aren’t part of an organization, use your personal address, phone number, and email address.*
 3.  Review and update your payment method.
 4.  Select the number of licenses to purchase.
-5.  Select **Place order**.  
+5.  Select **Place order**.\
     **Result:** Your Minecraft Education licenses are purchased and can be managed in the Microsoft 365 Admin Center. Select **assign users to your new subscription** to start creating users and assigning licenses.
 
  

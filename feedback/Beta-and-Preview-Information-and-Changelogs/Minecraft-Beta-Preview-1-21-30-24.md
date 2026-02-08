@@ -49,10 +49,10 @@ It's time for a new Minecraft Preview and Beta! We’d love your feedback on bun
 - "Up" direction with gamepad's right-stick now correctly navigates in the Bundle's submenu
 - The Bundle tooltip now fits 3 rows and can always show at least 8 item types
 
-> **Developer's Note:** *Items fill up a Bundle in rows of four, and when a row is full it is pushed down by the row above. This means there can be empty spaces in the top row.  
->   
-> In the previous 2020 Bundle experiment, items filled in from the top without leaving any gaps. We changed this behaviour because it meant that items moved left and right in the Bundle as new items were added. This made it more difficult for some players to keep track of the order of items and some even reported that the items were moving randomly!  
->   
+> **Developer's Note:** *Items fill up a Bundle in rows of four, and when a row is full it is pushed down by the row above. This means there can be empty spaces in the top row.\
+> \
+> In the previous 2020 Bundle experiment, items filled in from the top without leaving any gaps. We changed this behaviour because it meant that items moved left and right in the Bundle as new items were added. This made it more difficult for some players to keep track of the order of items and some even reported that the items were moving randomly!\
+> \
 > With only two rows in the tooltip, the behavior of pushing a full row of items further down the Bundle removed half of the visible items, which was too much. We're adding a third row to make the design work better and allow players to see more of the items in their Bundles as they fill up.*
 
 - **Known Issue:** Bundles that are placed inside another Bundle may lose their contents when moved in and out of a Chest
@@ -115,15 +115,15 @@ We've introduced a new Template screen. Here’s what you can expect showing up 
 
 - Fixed bug where all custom blocks were rotated 180 degrees in the UI
 - The default for the "gui" "item_display_transforms" "rotation" field is `[30, 45, 0]` instead of `[30, 225, 0]`
-  - "item_display_transforms": {  
-    "gui" : {  
-    "translation": \[0, 0, 0\],  
-    "rotation": \[30, 45, 0\],  
-    "scale": \[0.625, 0.625, 0.625\],  
-    "rotation_pivot" : \[0, 0, 0\],  
-    "scale_pivot" : \[0, 0, 0\],  
-    "fit_to_frame" : true  
-    }  
+  - "item_display_transforms": {\
+    "gui" : {\
+    "translation": \[0, 0, 0\],\
+    "rotation": \[30, 45, 0\],\
+    "scale": \[0.625, 0.625, 0.625\],\
+    "rotation_pivot" : \[0, 0, 0\],\
+    "scale_pivot" : \[0, 0, 0\],\
+    "fit_to_frame" : true\
+    }\
     }
 
 ## Editor

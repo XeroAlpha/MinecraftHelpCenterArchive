@@ -12,8 +12,8 @@ hash:
 
 # **Welcome to the Hour of Code 2023: Generation AI!**
 
-*The future is on its way — and it’s AI-powered!*  
-  
+*The future is on its way — and it’s AI-powered!*\
+\
 In [Minecraft Hour of Code: Generation AI](http://aka.ms/hourofcode), students venture through time to create AI-powered inventions. They activate problem-solving skills, creativity, and computational thinking to explore [Responsible AI principles](https://www.microsoft.com/en-us/ai/responsible-ai). Through MakeCode blocks or Python coding, Hour of Code allows anyone to learn the basics of coding and discover ways to build a better AI for everyone. 
 
 The journey starts with an unexpected visit from the Agent, who comes with an urgent mission. They’ll guide your students through a series of future scenarios where they correct problems stemming from wayward AI tools. Throughout the challenges, learners resolve issues around fairness and discrimination, reliability and safety, and more as they progress toward an epic finale.

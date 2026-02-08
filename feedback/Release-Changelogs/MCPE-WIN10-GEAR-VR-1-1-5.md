@@ -14,7 +14,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168591-MCPE-WIN10-G
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Marketplace Content:**
 
 - Steampunk Texture Pack
@@ -24,14 +24,14 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Sports Skin Pack by Razzleberry Fox
 - Summer Festival Skin Pack by Noxcrew
 
-  
+\
 **Bug Fixes:**
 
 - Fixed clock and compass textures becoming corrupted after reconnecting to world with a resource pack
 - Fixed the texture of tripwire string
 - Optimized the skin picker and all skins will now be displayed
 
-  
+\
 **PureBDcraft Update:**
 
 - Modified items for brewing stand, hopper, comparator, cake, repeater, nether star, and cauldron

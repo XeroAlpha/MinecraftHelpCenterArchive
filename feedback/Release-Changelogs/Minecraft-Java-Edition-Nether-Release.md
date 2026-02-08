@@ -677,7 +677,7 @@ Warped Forests can now be found in the Nether!
 
  
 
-Entity checks in triggers can now use loot table condition syntax. Old notation: \`\`\`json { "trigger": "minecraft:player*killed*entity", "conditions": { "entity": { "type": "minecraft:blaze" } } } \`\`\` is now equivalent to: \`\`\`json { "trigger": "minecraft:player*killed*entity", "conditions": { "entity": \[ { "condition": "minecraft:entity_properties", "predicate": { "type": "minecraft:blaze" }, "entity": "this" } \] } } \`\`\` **Note 1**: Like in loot tables, all conditions in top level array must be met for whole condition to trigger. **Note 2**: To access new functionality, top level element must be JSON array. JSON object are interpreted as old notation.  
+Entity checks in triggers can now use loot table condition syntax. Old notation: \`\`\`json { "trigger": "minecraft:player*killed*entity", "conditions": { "entity": { "type": "minecraft:blaze" } } } \`\`\` is now equivalent to: \`\`\`json { "trigger": "minecraft:player*killed*entity", "conditions": { "entity": \[ { "condition": "minecraft:entity_properties", "predicate": { "type": "minecraft:blaze" }, "entity": "this" } \] } } \`\`\` **Note 1**: Like in loot tables, all conditions in top level array must be met for whole condition to trigger. **Note 2**: To access new functionality, top level element must be JSON array. JSON object are interpreted as old notation.\
 Full list of extended triggers:
 
 - New field `player` in every trigger

@@ -150,8 +150,8 @@ Here's a list of what is new in this week's Beta! As always, please search and r
 - Entity
   - Added function setRotation(degreesX: number, degreesY: number)- Sets the rotation of the Entity
   - Added read-only property rotation: XYRotation- Gets the rotation of the Entity
-  - Removed property bodyRotation- Note: Use Entity.rotation.y instead  
-      
+  - Removed property bodyRotation- Note: Use Entity.rotation.y instead\
+    \
 - Events
   - Added event 'buttonPushEvent' - fires when a button is pushed
 - XYRotation

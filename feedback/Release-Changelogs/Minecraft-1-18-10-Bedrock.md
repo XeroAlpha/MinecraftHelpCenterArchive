@@ -23,8 +23,8 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 **Changes:**
 
 - World settings can now be changed directly on Realms, just like local worlds
-- If you’re playing in South Korea, we added gameplay timers and notices in compliance with gaming laws to help remind players to take occasional breaks from gameplay  
-    
+- If you’re playing in South Korea, we added gameplay timers and notices in compliance with gaming laws to help remind players to take occasional breaks from gameplay\
+  \
 
 **Vanilla Parity:**
 
@@ -70,8 +70,8 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
   - Fixed highlight inconsistencies in Gold and Diamond Armor textures ([MCPE-148591](https://bugs.mojang.com/browse/MCPE-148591))
   - Removed wandering pixel in the Carrot stage 3 texture ([MCPE-148563](https://bugs.mojang.com/browse/MCPE-148563))
   - Centered the back texture of Axolotls ([MCPE-148571](https://bugs.mojang.com/browse/MCPE-148571))
-  - Boat oars now have the same color as the Boat ([MCPE-150492](https://bugs.mojang.com/browse/MCPE-150492))  
-      
+  - Boat oars now have the same color as the Boat ([MCPE-150492](https://bugs.mojang.com/browse/MCPE-150492))\
+    \
 
 **Experimental Features:**
 
@@ -81,8 +81,8 @@ Please keep in mind that these features are work in progress, still under in dev
 
 For more information, please see the article about enabling experimental features at [aka.ms/MCExperimentalFeatures](https://aka.ms/MCExperimentalFeatures).
 
-More experimental features will become available in future releases. This is only the beginning of new content for The Wild Update!  
-  
+More experimental features will become available in future releases. This is only the beginning of new content for The Wild Update!\
+\
 
 **Frogs and Tadpoles**
 
@@ -106,8 +106,8 @@ More experimental features will become available in future releases. This is onl
 
 **Sculk**
 
-- Sculk block features are now accessible by enabling this toggle  
-    
+- Sculk block features are now accessible by enabling this toggle\
+  \
 
 **Fixes:**
 
@@ -231,8 +231,8 @@ More experimental features will become available in future releases. This is onl
 - Removed double space spelling issues on several screens, including the Feedback prompt ([MCPE-104037](https://bugs.mojang.com/browse/MCPE-104037))
 - Fixed the player visual on the inventory screen while gliding. It was previously off-center and could hide elements of the interface
 - Fixed issue where up and down arrow buttons in the Resource Pack Settings screen became bigger when highlighted ([MCPE-147708](https://bugs.mojang.com/browse/MCPE-147708))
-- Fixed Realms buttons disappearing after the Minecraft window lost and regained focus on the Create World on Realm screen  
-    
+- Fixed Realms buttons disappearing after the Minecraft window lost and regained focus on the Create World on Realm screen\
+  \
 
 # **Technical Updates:**
 
@@ -359,8 +359,8 @@ World.events
   - Added event events.beforeItemUse - Fires before an item is used. Can be canceled
   - Added event events.itemUse - Fires when an item is used and the before event is not cancelled
   - Added event events.beforeItemUseOn - Fires before an item is used on a block. Can be cancelled
-  - Added event events.itemUseOn - Fires when an item is used on a block and the before event is not cancelled  
-      
+  - Added event events.itemUseOn - Fires when an item is used on a block and the before event is not cancelled\
+    \
 - Note that the following definition events only function with data driven items created as part of the Holiday Creator Features experiment:
   - Added event events.beforeItemDefinitionEvent - Fires before an Item definition event is processed. Can be canceled
   - Added event events.itemDefinitionEvent - Fires when the Item definition event is processed and the before event is not canceled

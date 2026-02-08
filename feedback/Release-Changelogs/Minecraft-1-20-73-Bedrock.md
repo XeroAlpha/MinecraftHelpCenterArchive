@@ -8,8 +8,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/25513790335245--Minecraft
 
 **Posted:** April 1, 2024
 
-A new update is now available to address stability issues introduced with the 1.20.70 update. This specific hotfix will not be released on Nintendo Switch or Xbox consoles.  
-  
+A new update is now available to address stability issues introduced with the 1.20.70 update. This specific hotfix will not be released on Nintendo Switch or Xbox consoles.\
+\
 
 **Fixes:**
 

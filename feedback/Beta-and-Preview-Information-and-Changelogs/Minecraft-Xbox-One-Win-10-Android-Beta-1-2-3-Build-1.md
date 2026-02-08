@@ -16,7 +16,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 
 **Xbox One players:** Have you encountered issues with converting worlds from Xbox One Edition? Help us fix these bugs in the beta by highlighting the pre-converted world on the Play screen, pressing Y to upload the world, then make a detailed bug description with the receipt number on bugs.mojang.com. Thanks!
 
-  
+\
 **Bug Fixes:**
 
 - Fixed a crash when the game was suspended (Xbox One only)

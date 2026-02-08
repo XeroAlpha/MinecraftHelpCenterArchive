@@ -14,19 +14,19 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360053136231-Minecraft-Be
 - You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
 - Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them
 - Beta builds can be unstable and are not representative of final version quality
-- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions  
-    
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions\
+  \
 
 **Known Issues:**
 
-- Entities are not rendered for the 2nd, 3<sup>rd</sup>, and 4th players while playing in splitscreen on Xbox consoles  
-    
+- Entities are not rendered for the 2nd, 3<sup>rd</sup>, and 4th players while playing in splitscreen on Xbox consoles\
+  \
 
 **Vanilla Parity:**
 
 - Players now experience ambient sounds in The Nether ([MCPE-74756](https://bugs.mojang.com/browse/MCPE-74756))
-  - We're aware of mobile players not hearing the sounds even after updating the Minecraft Music Pack. The team is working on a fix for this  
-      
+  - We're aware of mobile players not hearing the sounds even after updating the Minecraft Music Pack. The team is working on a fix for this\
+    \
 
 **Fixes:**
 

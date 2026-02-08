@@ -8,8 +8,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360053924992-Minecraft-Java-Edition-Snapshot-20w51a
 ---
 
-Ready your screenshot buttons and start rehearsing your best "*naaaaww*"s. The final snapshot of the year enters Minecraft Java, and what better way to end the year than with something that has been on our *bucket *list for quite a while: the adorable **axolotl**?   
-  
+Ready your screenshot buttons and start rehearsing your best "*naaaaww*"s. The final snapshot of the year enters Minecraft Java, and what better way to end the year than with something that has been on our *bucket *list for quite a while: the adorable **axolotl**? \
+\
 We hope you'll end the year on a good note, and the entirety of the Java team wishes you happy holidays.
 
 # NEW FEATURES IN 20W51A
@@ -44,14 +44,14 @@ We hope you'll end the year on a good note, and the entirety of the Java team wi
   - Eating Finish is staying, and will likely be much more useful to sculk sensors for this scenario.
 - Walking on wool no longer causes vibrations.
 - Throwing wool as an item onto the ground no longer causes vibrations.
-- Sculk sensors are now silent while waterlogged.  
+- Sculk sensors are now silent while waterlogged.\
   ​
 
 ### VIBRATION FREQUENCY CHANGES
 
 As we continue to consider feedback from the community, some changes to the frequency ranges have been made. We expect this to change quite heavily up until release to figure out the most interesting ranges for gameplay, and as always feedback is extremely welcome! Here is the newest table in this snapshot.
 
-  
+\
 ​
 
 |  |  |
@@ -73,7 +73,9 @@ As we continue to consider feedback from the community, some changes to the freq
 | Fishing Rod Reel-In, Container Close, Piston Contract | 14 |
 | Fishing Rod Cast, Container Open, Explode, Lightning Strike, Piston Extend | 15 |
 
-#  TECHNICAL CHANGES IN 20W51A
+\
+TECHNICAL CHANGES IN 20W51A
+===========================
 
 - Added gamerule playersSleepingPercentage (100 by default), which sets what percentage of players must sleep to skip the night. Setting to 0 will mean 1 player is always enough to skip the night. Setting above 100 will prevent skipping the night.
 

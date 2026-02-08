@@ -21,7 +21,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004167291-Minecraft-Ja
 - New Riptide behaviours for tridents
 - Optimized cloud rendering some more
 
-  
+\
 **Changes in 18W14B**
 
 - New blocks: sea pickles!
@@ -30,18 +30,18 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004167291-Minecraft-Ja
 - Destroying waterlogged blocks will only destroy the block, not the water
 - Fixed a bunch of bugs! (listed below)
 
-  
-**Phantom Membrane**  
-  
+\
+**Phantom Membrane**\
+\
 Very spooky.
 
 - Elytra now requires Phantom Membrane to be repaired
 - Phantoms now drop Phantom Membrane instead of leather
 - Can be crafted into a super spooky Slow Falling potion
 
-  
-**Advancements**  
-  
+\
+**Advancements**\
+\
 We're making progress!
 
 - **Fishy Business:** Catch a fish
@@ -50,9 +50,9 @@ We're making progress!
 - **Very Very Frightening:** Strike a Villager with lightning
 - More to come!
 
-  
-**Riptide**  
-  
+\
+**Riptide**\
+\
 Whooosh!
 
 - No longer compatible with Loyalty or Channeling
@@ -60,9 +60,9 @@ Whooosh!
 - Riptide will not throw the trident, but instead launch you forwards with the trident
 - Looks neat!
 
-  
-**Coral Names**  
-  
+\
+**Coral Names**\
+\
 Hopefully the last time they get renamed!
 
 - All full blocks of coral are now called ""coral block""
@@ -75,9 +75,9 @@ Hopefully the last time they get renamed!
 - For example, ""blue coral"" is now ""tube coral block""
 - For example, ""purple coral plant"" is now ""bubble coral""
 
-  
-**Sea Pickles**  
-  
+\
+**Sea Pickles**\
+\
 
 - What to call them? It's really quite a pickle.
 - Generate either by themselves in warm oceans, or with coral
@@ -86,9 +86,9 @@ Hopefully the last time they get renamed!
 - Can be smelted down into green dye
 - Pickle.
 
-  
-**Fixed Bugs in 18W14B**  
-  
+\
+**Fixed Bugs in 18W14B**\
+\
 
 - MC-121715 - ""Create new world"" screen shows an alias command (xp)
 - MC-124923 - Smelting a cactus to produce cactus green doesn't work
@@ -101,13 +101,13 @@ Hopefully the last time they get renamed!
 - MC-127960 - Description of ""A Throwaway Joke"" advancement has capitalization mistake
 - MC-127973 - ""A Furious Cocktail"" and ""How Did We Get Here"" advancements not updated
 
-  
-**Get the Snapshot**  
-  
-To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.  
-  
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
-  
+\
+**Get the Snapshot**\
+\
+To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.\
+\
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**\
+\
 Cross-platform server jar:
 
 - Minecraft server jar

@@ -45,8 +45,8 @@ A new update has been released with a variety of quality-of-life improvements an
 
 ![image_r21u2.png](https://feedback.minecraft.net/hc/article_attachments/29115191581069)
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 # **Fixes and Changes:**
 
@@ -257,8 +257,8 @@ We are making some changes to how Realms invite links work to make it easier tha
 - Added chat game tip. The tip appears when there are remote players in a world or if cheats are enabled
   - If the chat game tip can be shown for a player, the open chat instructions posted in the chat are removed
 - Added a game tip that informs players on touch devices that they are sneaking in order to avoid having new players stuck in crouch
-- Added some minor tip interruption improvements for existing game tips  
-    
+- Added some minor tip interruption improvements for existing game tips\
+  \
 
 # **Technical Updates**
 
@@ -445,7 +445,7 @@ We are making some changes to how Realms invite links work to make it easier tha
   - The starting rotation (pitch and yaw) are fixed right now at 45X and 45Y
   - The follow orbit camera is the only preset available, the 3<sup>rd</sup> person boom preset will be coming in a future release
 - Exposed radius component to behavior packs to be overwritten by creator cameras. Also added ‘minecraft:third_person’ and ‘minecraft:third_person_front’ to the allow list of presets that can be inherited from
-  - This allows you to make a 3<sup>rd</sup> person camera based on the vanilla 3<sup>rd</sup> person cameras but with a variable radius.  
+  - This allows you to make a 3<sup>rd</sup> person camera based on the vanilla 3<sup>rd</sup> person cameras but with a variable radius.\
     The radius (distance from player) is not limited but render distance and other constraints still exist.
   - This does ***not*** allow modifications to the vanilla cameras
 
@@ -531,8 +531,8 @@ We are making some changes to how Realms invite links work to make it easier tha
 ## **Structure Block**
 
 - Fixed issue where player ID was not being saved on structure blocks when saving and exiting the level ([MCPE-149183](https://bugs.mojang.com/browse/MCPE-149183))
-- From versions 1.21.20, the player ID given to tamed mobs loaded from a Structure Block will always be the original owner's ID  
-    
+- From versions 1.21.20, the player ID given to tamed mobs loaded from a Structure Block will always be the original owner's ID\
+  \
 
 # **Experimental Technical Updates**
 
@@ -590,47 +590,47 @@ We are making some changes to how Realms invite links work to make it easier tha
 
 - Added "item_display_transforms" control to the block geometry file. This controls the way a block is visually represented in the UI, on the player, and floating on the ground. It exists inside minecraft:geometry, and requires format_version 1.21.20
   - Default values example:
-    - "item_display_transforms": {  
-      "gui" : {  
-                      "translation": \[0, 0, 0\],  
-                      "rotation": \[30, 225, 0\],  
-                      "scale": \[0.625, 0.625, 0.625\]  
-        },  
-        "firstperson_righthand": {  
-                      "translation": \[0, 0, 0\],  
-                      "rotation": \[0, 45, 0\],  
-                      "scale": \[0.4, 0.4, 0.4\]  
-        },  
-        "firstperson_lefthand": {  
-          "translation": \[0, 0, 0\],  
-          "rotation": \[0, -135, 0\],  
-          "scale": \[0.4, 0.4, 0.4\]  
-        },  
-        "thirdperson_righthand": {  
-          "translation": \[0, 2.5, 0\],  
-          "rotation": \[75, 45, 0\],  
-          "scale": \[0.375, 0.375, 0.375\]  
-        },  
-        "thirdperson_lefthand": {  
-          "translation": \[0, 2.5, 0\],  
-          "rotation": \[75, 45, 0\],  
-          "scale": \[0.375, 0.375, 0.375\]  
-        },  
-        "ground": {  
-          "translation": \[0, 3.0, 0\],  
-          "rotation": \[0, 0, 0\],  
-          "scale": \[0.25, 0.25, 0.25\]  
-        },  
-        "fixed": {  
-          "translation": \[0, 0, 0\],  
-          "rotation": \[0, 0, 0\],  
-          "scale": \[0.5, 0.5, 0.5\]  
-        },  
-        "head": {  
-          "translation": \[0, 0, 0\],  
-          "rotation": \[0, 0, 0\],  
-          "scale": \[1, 1, 1\]  
-        }  
+    - "item_display_transforms": {\
+      "gui" : {\
+                      "translation": \[0, 0, 0\],\
+                      "rotation": \[30, 225, 0\],\
+                      "scale": \[0.625, 0.625, 0.625\]\
+        },\
+        "firstperson_righthand": {\
+                      "translation": \[0, 0, 0\],\
+                      "rotation": \[0, 45, 0\],\
+                      "scale": \[0.4, 0.4, 0.4\]\
+        },\
+        "firstperson_lefthand": {\
+          "translation": \[0, 0, 0\],\
+          "rotation": \[0, -135, 0\],\
+          "scale": \[0.4, 0.4, 0.4\]\
+        },\
+        "thirdperson_righthand": {\
+          "translation": \[0, 2.5, 0\],\
+          "rotation": \[75, 45, 0\],\
+          "scale": \[0.375, 0.375, 0.375\]\
+        },\
+        "thirdperson_lefthand": {\
+          "translation": \[0, 2.5, 0\],\
+          "rotation": \[75, 45, 0\],\
+          "scale": \[0.375, 0.375, 0.375\]\
+        },\
+        "ground": {\
+          "translation": \[0, 3.0, 0\],\
+          "rotation": \[0, 0, 0\],\
+          "scale": \[0.25, 0.25, 0.25\]\
+        },\
+        "fixed": {\
+          "translation": \[0, 0, 0\],\
+          "rotation": \[0, 0, 0\],\
+          "scale": \[0.5, 0.5, 0.5\]\
+        },\
+        "head": {\
+          "translation": \[0, 0, 0\],\
+          "rotation": \[0, 0, 0\],\
+          "scale": \[1, 1, 1\]\
+        }\
       }
 
 ## **Entity Components**

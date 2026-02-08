@@ -16,11 +16,11 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360059422792-Minecraft-Be
 - Beta builds can be unstable and are not representative of final version quality 
 - The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-In this week's beta, we are introducing new cave generation along with improved ore generation and mineshafts for the Caves and Cliffs update. We have also fixed some important stability bugs! You can still test out the exciting new Caves and Cliffs features by enabling the Caves and Cliffs experimental toggle on your worlds (You can find out more about using the toggles at [aka.ms/MCExperimentalToggle](https://aka.ms/MCExperimentalToggle)). You can leave us your feedback for these features in the threads at [aka.ms/CavesCliffsFeedback](https://aka.ms/CavesCliffsFeedback), and search and reports any new bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).  
-  
+In this week's beta, we are introducing new cave generation along with improved ore generation and mineshafts for the Caves and Cliffs update. We have also fixed some important stability bugs! You can still test out the exciting new Caves and Cliffs features by enabling the Caves and Cliffs experimental toggle on your worlds (You can find out more about using the toggles at [aka.ms/MCExperimentalToggle](https://aka.ms/MCExperimentalToggle)). You can leave us your feedback for these features in the threads at [aka.ms/CavesCliffsFeedback](https://aka.ms/CavesCliffsFeedback), and search and reports any new bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).\
+\
 
-![beta16u6-4_patchnotes.png](https://feedback.minecraft.net/hc/article_attachments/360092473212/beta16u6-4_patchnotes.png)  
-  
+![beta16u6-4_patchnotes.png](https://feedback.minecraft.net/hc/article_attachments/360092473212/beta16u6-4_patchnotes.png)\
+\
 
 **Caves & Cliffs**
 

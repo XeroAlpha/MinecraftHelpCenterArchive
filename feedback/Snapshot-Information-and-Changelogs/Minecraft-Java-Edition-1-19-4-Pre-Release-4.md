@@ -13,8 +13,8 @@ hash:
   fixed-bugs-in-1.19.4-pre-release-4: fixed-bugs-in-1194-pre-release-4
 ---
 
-We are now releasing the fourth pre-release for Minecraft 1.19.4. This pre-release contains bug fixes, some cherry texture tweaks, and a button in the options menu to view the game credits.  
-  
+We are now releasing the fourth pre-release for Minecraft 1.19.4. This pre-release contains bug fixes, some cherry texture tweaks, and a button in the options menu to view the game credits.\
+\
 Happy mining! 
 
 # CHANGES IN 1.19.4 PRE-RELEASE 4
@@ -25,7 +25,7 @@ Happy mining! 
 
 ## DISPLAY ENTITIES 
 
-- When a new interpolation is started, it now starts from the current state instead of the final state  
+- When a new interpolation is started, it now starts from the current state instead of the final state\
   ​
 
 # EXPERIMENTAL FEATURE CHANGES IN 1.19.4 PRE-RELEASE 4
@@ -98,8 +98,8 @@ Happy mining! 
 
 - [MC-260765](https://bugs.mojang.com/browse/MC-260765) - Right-clicking will move packs in the pack edit screen
 
-- [MC-260774](https://bugs.mojang.com/browse/MC-260774) - Players are kicked from server environments due to chat message validation failures when attempting to type in chat after having previously altered chat settings  
-    
+- [MC-260774](https://bugs.mojang.com/browse/MC-260774) - Players are kicked from server environments due to chat message validation failures when attempting to type in chat after having previously altered chat settings\
+  \
 
   # GET THE PRE-RELEASE
 

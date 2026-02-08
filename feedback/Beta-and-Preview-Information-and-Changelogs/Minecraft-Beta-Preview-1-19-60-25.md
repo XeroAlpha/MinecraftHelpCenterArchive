@@ -22,8 +22,8 @@ Here's a list of what is new in this week's Minecraft Preview and Beta! Remember
 
 ## Known Issues
 
-- Players cannot stack split items while using gamepads or mouse and keyboard. We hope to have this issue resolved as soon as possible!  
-    
+- Players cannot stack split items while using gamepads or mouse and keyboard. We hope to have this issue resolved as soon as possible!\
+  \
 
 # Experimental Features
 
@@ -38,8 +38,8 @@ Here's a list of what is new in this week's Minecraft Preview and Beta! Remember
 
 Touch Controls
 
-- Correct dismount tip now shows if not using classic touch controls  
-    
+- Correct dismount tip now shows if not using classic touch controls\
+  \
 
 # Features and Bug Fixes
 
@@ -116,8 +116,8 @@ Touch Controls
 ## API
 
 - Entity
-  - Fixed a bug where the *getEffect* method could return an invalid Effect (and another case where an Effect could become invalid after a new Effect was added)  
-      
+  - Fixed a bug where the *getEffect* method could return an invalid Effect (and another case where an Effect could become invalid after a new Effect was added)\
+    \
 - EntityHurtEvent
   - Added read-only property *damageSource: EntityDamageSource* - Gets information about the damage source
   - EntityDamageSource

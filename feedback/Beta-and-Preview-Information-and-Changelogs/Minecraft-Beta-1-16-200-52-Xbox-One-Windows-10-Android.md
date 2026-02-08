@@ -104,8 +104,8 @@ We are excited to introduce the first *Caves and Cliffs* feature in this week's 
 - /effect command duration is now capped at 1,000,000 seconds ([MCPE-92916](https://bugs.mojang.com/browse/MCPE-92916))
 - Add ticking area commands performed in the same tick now disallow adding areas with the same name twice
 - Placeholder text message for the /titleraw command success no longer returns to player ([MCPE-63618](https://bugs.mojang.com/browse/MCPE-63618))
-- FadeOutargument is no longer ignored in /title's times command  
-    
+- FadeOutargument is no longer ignored in /title's times command\
+  \
 
 ### Graphics, Textures, and User Interface
 

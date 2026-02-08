@@ -10,19 +10,19 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360059426071-Minecraft-1-
 
 Welcome to the Minecraft 1.16.220 release! This update focuses on bug fixes, as well as some new tools for map makers. We hope you enjoy it!
 
-Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **Changes:**
 
-- Dye can now be used to change the color of sign text  
-    
+- Dye can now be used to change the color of sign text\
+  \
 
 **Known Issues:**
 
 - Players are unable to see and join LAN sessions on Xbox without on Xbox Live Gold subscription
-- Paintings appear invisible when placed ([MCPE-121718](https://bugs.mojang.com/browse/MCPE-121718))  
-    
+- Paintings appear invisible when placed ([MCPE-121718](https://bugs.mojang.com/browse/MCPE-121718))\
+  \
 
 **Fixes:**
 
@@ -85,8 +85,8 @@ Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) a
 - Fixed other players appearing as Steve in multiplayer
 - Changing skins while in split-screen now properly saves for all local players and update properly for remote players
 - Alex’s shirt no longer looks corrupted when equipped with different pants
-- "Hooray!" emote will now display in the emotes section if already owned ([MCPE-111165](https://bugs.mojang.com/browse/MCPE-111165))  
-    
+- "Hooray!" emote will now display in the emotes section if already owned ([MCPE-111165](https://bugs.mojang.com/browse/MCPE-111165))\
+  \
 
 **For Map Makers and Add-On Creators:**
 

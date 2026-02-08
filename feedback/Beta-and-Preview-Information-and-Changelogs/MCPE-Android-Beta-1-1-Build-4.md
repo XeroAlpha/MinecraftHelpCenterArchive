@@ -12,7 +12,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004125272-MCPE-Android
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Bug Fixes:**
 
 - Dyeing a Shulker Box no longer removes all items contained in the box

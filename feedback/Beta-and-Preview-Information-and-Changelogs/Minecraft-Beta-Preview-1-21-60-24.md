@@ -131,7 +131,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Components
 
-- Expand the `minecraft:breedable` component to allow inheriting properties to child entities  
+- Expand the `minecraft:breedable` component to allow inheriting properties to child entities\
   - Adds the new "property_inheritance" field which takes property name keyed objects
   - The objects in property_inheritance can contain a "mutation_chance" which give the chance it should not inherit from either parent
   - They can also contain the "mutation_values" array of values to select from if mutating and the component has random mutation set
@@ -158,7 +158,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 
 ## Graphics
 
-- client_biome JSON files now support a "surface_opacity" field in the "minecraft:water_appearance" component  
+- client_biome JSON files now support a "surface_opacity" field in the "minecraft:water_appearance" component\
   - This change also restores swampland and warm_ocean surface opacity to what they were until recently when the client_biome JSON files were introduced
 
 ## Items

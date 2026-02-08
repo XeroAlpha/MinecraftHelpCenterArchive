@@ -18,7 +18,7 @@ Also, we advise all of our beta players to make back-ups of their saved games be
 - Minecart with command block
 - Game rules
 
-  
+\
 **Tweaks:**
 
 - Magnifying glass no longer appears over entered text in the Storage manager.
@@ -26,7 +26,7 @@ Also, we advise all of our beta players to make back-ups of their saved games be
 - Lapis lazuli icon now in enchanting tables.
 - Accuracy of fireball shots from ghasts is now correct.
 
-  
+\
 **Bug Fixes:**
 
 - Finally fixed the villagers & peaceful mobs despawning randomly bug!

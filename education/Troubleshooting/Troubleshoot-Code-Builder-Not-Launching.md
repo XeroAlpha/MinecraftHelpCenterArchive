@@ -34,7 +34,7 @@ Follow these steps to access the AppData folder and clear your cache from the sy
 *Note: The AppData folder is hidden by default. You may need to enable* [*View Hidden Files and Folders*](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-10-97fbc472-c603-9d90-91d0-1166d1d9f4b5)*.*
 
 1.  Close Minecraft Education.
-2.  Open **File Explorer** and navigate to C:\Users\\*USERNAME*\AppData\Local\Temp.  
+2.  Open **File Explorer** and navigate to C:\Users\\*USERNAME*\AppData\Local\Temp.\
     *Note: USERNAME refers to the user account used to log in to the device, not the sign in for Minecraft Education.*
 3.  Locate the **minecraftpe**.
 4.  Rename or delete the **minecraftpe**.

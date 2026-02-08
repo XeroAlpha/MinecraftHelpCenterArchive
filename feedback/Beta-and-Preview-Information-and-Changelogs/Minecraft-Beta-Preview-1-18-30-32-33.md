@@ -20,8 +20,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/5180025690893-Minecraft-B
 
 Shhh! Keep it down. Don’t read so quickly, you need to sneak through these words or you may risk waking the Warden. Yup. You heard me, even though I am typing in a very low whisper. The Warden has entered this week’s beta, so take a deep breath and try to avoid jumping right out of your skin. You know what, why not avoid jumping all together. Let us know what you think of the Warden by sending your feedback here. Good luck!
 
-Here's a list of what is new in this week's beta! As always please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/).  
-  
+Here's a list of what is new in this week's beta! As always please search and report any bugs you may find at [bugs.mojang.com](https://bugs.mojang.com/).\
+\
 
 ## **Experimental Features:**
 
@@ -55,8 +55,8 @@ The horror of the Deep Dark! A creature with no eyes, roughly resembling the Scu
 **Known Issues**
 
 - Ancient City structures can extend far beyond the Deep Dark biome, even though they start there
-- Aquifers can sometimes intersect with Ancient City structures and submerge/destroy big chunks of the structure  
-    
+- Aquifers can sometimes intersect with Ancient City structures and submerge/destroy big chunks of the structure\
+  \
 
 ## **Fixes:**
 

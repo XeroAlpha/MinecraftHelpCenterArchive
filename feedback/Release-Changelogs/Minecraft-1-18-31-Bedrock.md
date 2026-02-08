@@ -10,14 +10,14 @@ link: https://feedback.minecraft.net/hc/en-us/articles/5842521639693-Minecraft-1
 
 A new update is available for Minecraft that addresses some issues that have occurred since the release of 1.18.30.
 
-Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Please search for any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and let us know what you think at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **Changes:**
 
 - Introducing Spectator Mode experimental toggle. Players can now try out an early development version of Spectator Mode
-  - For now, we will not be accepting bug reports related to Spectator Mode since its current implementation is very early in development and subject to change  
-      
+  - For now, we will not be accepting bug reports related to Spectator Mode since its current implementation is very early in development and subject to change\
+    \
 
 **Fixes:**
 

@@ -129,8 +129,8 @@ Here's what's new in this week's Minecraft Preview and Beta! Please continue to 
   - Removed *projectileHit*
   - Added *projectileHitBlock*
   - Added *projectileHitEntity*
-- Added class *ProjectileHitBlockAfterEvent* export class:  
+- Added class *ProjectileHitBlockAfterEvent* export class:\
   ProjectileHitBlockAfterEvent { readonly dimension: Dimension; readonly hitVector: Vector3; readonly location: Vector3; readonly projectile: Entity; readonly source?: Entity; getBlockHit(): BlockHitInformation; }
-- Added class *ProjectileHitEntityAfterEvent* export class:  
+- Added class *ProjectileHitEntityAfterEvent* export class:\
   ProjectileHitEntityAfterEvent { readonly dimension: Dimension; readonly hitVector: Vector3; readonly location: Vector3; readonly projectile: Entity; readonly source?: Entity; getEntityHit(): EntityHitInformation; }
 - Fixed a bug where *ContainerSlot* would not work with certain container types ([MCPE-172782)](https://bugs.mojang.com/browse/MCPE-172782)

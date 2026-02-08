@@ -40,7 +40,7 @@ This article will cover:
 
  
 
-**  
+**\
 How to Connect**
 
 [**![Image of a video about how to connect the Classroom Mode app to Minecraft Education](https://edusupport.minecraft.net/hc/article_attachments/20748595921812)**](https://www.youtube.com/watch?v=R-GLGOO_WfU)
@@ -77,7 +77,7 @@ Classroom Mode for Minecraft supports toggles for various game options that affe
 - Perfect weather: Need a day with always sunny skies and no rain? Use this switch to turn it on, otherwise your players will experience a usual amount of weather with occasional rain (and other weather effects). This is off by default.
 - Allow mobs: This is on by default. [Mobs](https://minecraft.gamepedia.com/Mob) are living, moving creatures found within the Minecraft world. Friendly (creatures like chickens and ocelots) and not so friendly mobs (creatures like creepers) are allowed to appear in the world when this is turned on.
 - Allow destructive items: This is on by default. As an example, when enabled, players may use TNT near others. You may also use specialty blocks (allow, deny, border) to help limit potential damage.
-- Players can take damage: This is on by default. This means players can take damage from the environment and mobs.  
+- Players can take damage: This is on by default. This means players can take damage from the environment and mobs.\
   Prohibits world modification: This is off by default. You can also use the “worldbuilder” permission to control individual building permissions within a world.
 - Allow players to damage each other: This is on by default. When on, players will be able to cause damage to each other, including “friendly fire” and intentional behavior.
 

@@ -27,7 +27,7 @@ Enjoy!
 - Added functionality to the Sculk Shrieker: Notable for its boney appendages, this block responds to Sculk Sensors detecting vibrations by sending out a warning call to distant Wardens
   - Watch out when stepping on them, as they will feel that too and send out a call!
 - Initially it may take some time for a Warden to arrive, but you’ll hear it responding in the distance…
-- Once it’s close enough, a call from the Sculk Shrieker will summon the Warden nearby - be prepared!  
+- Once it’s close enough, a call from the Sculk Shrieker will summon the Warden nearby - be prepared!\
   Added Warden mob
 
 ## WARDEN

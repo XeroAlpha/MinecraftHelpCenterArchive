@@ -48,8 +48,8 @@ hash:
 
 ![u7-1 preview.png](https://feedback.minecraft.net/hc/article_attachments/23458261139725)
 
-Here’s a list of what’s new in the latest Minecraft Preview and Beta. As always, we love to hear your feedback, so please let us know what you think [here](https://aka.ms/MinecraftArmadilloFeedback), and report any bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).  
-  
+Here’s a list of what’s new in the latest Minecraft Preview and Beta. As always, we love to hear your feedback, so please let us know what you think [here](https://aka.ms/MinecraftArmadilloFeedback), and report any bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).\
+\
 
 # **Experimental Features:**
 
@@ -134,8 +134,8 @@ Here’s a list of what’s new in the latest Minecraft Preview and Beta. As alw
       - Moved *createExplosion* from *beta* to *1.9.0*
     - Moved *ExplosionOptions* from *beta* to *1.9.0*
     - Moved *DimensionType* from *beta* to *1.9.0*
-    - Moved *DimensionTypes* from *beta* to *1.9.0  
-        *
+    - Moved *DimensionTypes* from *beta* to *1.9.0\
+      \*
 
 # **Features and Bug Fixes:**
 
@@ -274,8 +274,8 @@ Here’s a list of what’s new in the latest Minecraft Preview and Beta. As alw
 ## **User Interface**
 
 - Update design of the report a friend warning modal and the report limit warning modal
-- Fixed a bug that caused cleared text to reappear in the inventory search bar ([MCPE-174590](https://bugs.mojang.com/browse/MCPE-174590))  
-    
+- Fixed a bug that caused cleared text to reappear in the inventory search bar ([MCPE-174590](https://bugs.mojang.com/browse/MCPE-174590))\
+  \
 
 # **Vanilla Parity:**
 
@@ -285,8 +285,8 @@ Here’s a list of what’s new in the latest Minecraft Preview and Beta. As alw
   - Rather than halving all damage dealt to tamed Wolves by entities other than Players or Arrows, as currently done in Java Edition, the maximum health of tamed Wolves has been increased from 20 to 40
   - Pre-existing tamed Wolves will need to be fed to reach the new maximum health
   - To ensure the healing rate remains consistent, the health restored by feeding Wolves has been doubled
-  - Java Edition will be adjusted to match the new Bedrock Edition implementation  
-      
+  - Java Edition will be adjusted to match the new Bedrock Edition implementation\
+    \
 
 # **Technical Updates:**
 

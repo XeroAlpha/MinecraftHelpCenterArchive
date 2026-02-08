@@ -329,7 +329,7 @@ Minecraft now uses Java version 17. If you are using a default setup, the Launch
 
 ### CUSTOM EVENTS
 
-All events are enabled when starting the profiling using either jfr start command or --jfrProfile startup flag.  
+All events are enabled when starting the profiling using either jfr start command or --jfrProfile startup flag.\
 If profiling is started through any other means for monitoring purposes, only the ServerTickTime, LoadWorld and NetworkSummary are included by default.
 
 - minecraft.ServerTickTime: periodic event (1 second intervals) exposing average server tick times
@@ -340,12 +340,12 @@ If profiling is started through any other means for monitoring purposes, only th
 
 ### OVERVIEW
 
-Java Flight Recorder (<https://openjdk.java.net/jeps/328>) is the internal JVM profiling tool bundled with the Java Runtime to analyze performance and runtime characteristics.  
+Java Flight Recorder (<https://openjdk.java.net/jeps/328>) is the internal JVM profiling tool bundled with the Java Runtime to analyze performance and runtime characteristics.\
 It’s a useful tool for exposing internal JVM performance metrics as well as custom metrics that can be monitored or analyzed using any stock Java profiler or monitoring agents.
 
 ### PROFILING LIFECYCLE
 
-A profiling run can be started using any of the following alternatives:  
+A profiling run can be started using any of the following alternatives:\
 The run will then be stopped either by:
 
 - --jfrProfile startup flag when starting a Minecraft server or client

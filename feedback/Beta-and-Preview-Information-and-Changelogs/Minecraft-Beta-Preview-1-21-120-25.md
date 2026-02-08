@@ -37,7 +37,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 ## General[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30520/R21U12-6-Preview?anchor=general)
 
-- Fixed a bug where window animations were missing when maximizing and minimizing the game in GDK PC  
+- Fixed a bug where window animations were missing when maximizing and minimizing the game in GDK PC\
   ([MCPE-227872](https://bugs.mojang.com/browse/MCPE-227872)) 
 
 ## Graphical[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30520/R21U12-6-Preview?anchor=graphical)

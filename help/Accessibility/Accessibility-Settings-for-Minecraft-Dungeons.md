@@ -54,7 +54,7 @@ There are more accessibility options available once you reach the main menu.  
 
 ### Accessible Menu Navigation and Narration
 
-Minecraft Dungeons (using English as a language) includes the ability to navigate the menus in an accessible way using a keyboard or controller.   
+Minecraft Dungeons (using English as a language) includes the ability to navigate the menus in an accessible way using a keyboard or controller. \
 
 ### About Menu UI Narration 
 
@@ -64,7 +64,7 @@ Minecraft Dungeons (using English as a language) includes the ability to naviga
 ### Tips on Navigating Menus 
 
 - Use a controller (or keyboard on PC) to navigate all menus in Minecraft Dungeons. 
-- Use the Escape key as a shortcut to go back to the previous selection or close the current screen in Minecraft Dungeons edition on PC.   
+- Use the Escape key as a shortcut to go back to the previous selection or close the current screen in Minecraft Dungeons edition on PC. \
 
 ## Tips on Navigating the Minecraft Launcher 
 
@@ -74,7 +74,7 @@ The Minecraft Launcher includes audio cues to help players navigate the login an
 - Press Enter, and you will be prompted with the Xbox login flow (Narrator will say “Welcome to Xbox). 
 - Navigate with the Tab key until you reach the Sign-in button (Narrator will say “Sign-un button”) and press Enter and follow the instructions to login. 
 - Once logged in, you can navigate to the Minecraft Dungeons Launcher with the Tab key. 
-- To launch the Minecraft Dungeons game, navigate to the Play button (Narrator will say “Play button”), then press Enter.   
+- To launch the Minecraft Dungeons game, navigate to the Play button (Narrator will say “Play button”), then press Enter. \
 
 ## Enabling Friends Menu in Multiplayer 
 

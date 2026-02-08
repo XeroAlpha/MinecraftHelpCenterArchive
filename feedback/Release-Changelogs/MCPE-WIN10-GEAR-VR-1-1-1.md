@@ -14,7 +14,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004127612-MCPE-WIN10-G
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Bug Fixes:**
 
 - Fixed several crashes and improved stability
@@ -25,7 +25,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Mutated biomes will now decorate properly
 - Various fixes to Marketplace screens
 
-  
+\
 **Add-Ons:**
 
 - Updated resource and behavior packs are available on minecraft.net/addons

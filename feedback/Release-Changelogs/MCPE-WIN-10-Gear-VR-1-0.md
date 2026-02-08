@@ -13,9 +13,9 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004127872-MCPE-WIN-10-Gear-VR-1-0
 ---
 
-If you find any bugs, be sure to report them here!  
-Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here!\
+Click here to give us feedback & tell us what you think about the update.\
+\
 
  
 
@@ -29,10 +29,10 @@ New Features:
 
 Tweaks & Bug Fixes
 
-Too many to mention here without this becoming the longest changelog in existence. ;)  Please see these changelogs:  
-Beta Build 6  
-Beta Build 5  
-Beta Build 4  
-Beta Build 3  
-Beta Build 2  
+Too many to mention here without this becoming the longest changelog in existence. ;)  Please see these changelogs:\
+Beta Build 6\
+Beta Build 5\
+Beta Build 4\
+Beta Build 3\
+Beta Build 2\
 Beta Build 1

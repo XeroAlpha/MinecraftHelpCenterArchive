@@ -66,8 +66,8 @@ A new update has been released, bringing several changes to the game! Here are t
 - Adjustments to block destroy times and explosion resistance values
 - Fixes to over 100 community reported issues
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 # **New Features**
 
@@ -77,8 +77,8 @@ Today we’re making some changes to the screen you see when you die in Minecraf
 
 ![you-died.png](https://feedback.minecraft.net/hc/article_attachments/19671519855117)
 
-These changes are available to everyone, except if you have add-ons applied. Also, the screen has limited text formatting code support, so it might look a bit different. To use the old screen, go to Settings -\> Video, and turn off ‘New “You Died” Screen (Experimental)’.  
-  
+These changes are available to everyone, except if you have add-ons applied. Also, the screen has limited text formatting code support, so it might look a bit different. To use the old screen, go to Settings -\> Video, and turn off ‘New “You Died” Screen (Experimental)’.\
+\
 We’d love to hear what you think about this change! Please share your feedback with us [here](https://feedback.minecraft.net/hc/en-us/community/posts/19522618627981-Updated-You-Died-Experience).
 
 ## **Crawling**
@@ -112,8 +112,8 @@ We’d love to hear what you think about this change! Please share your feedback
 
 - Added the ‘playerssleepingpercentage’ gamerule, allowing night to be skipped when the specified percent of players logged into a world are sleeping ([MCPE-114425](https://bugs.mojang.com/browse/MCPE-114425))
   - A zero or a negative value will only require one player to sleep to skip the night
-  - When set to over 100, the night cannot be skipped  
-      
+  - When set to over 100, the night cannot be skipped\
+    \
 
 # **Vanilla Parity**
 
@@ -160,8 +160,8 @@ We’d love to hear what you think about this change! Please share your feedback
 - Sound is no longer played sometimes when Netherite items are dropped into Lava ([MCPE-95872](https://bugs.mojang.com/browse/MCPE-95872 "https://bugs.mojang.com/browse/MCPE-95872"))
 - Snow Golems now play a sound when they throw Snowballs ([MCPE-119083](https://bugs.mojang.com/browse/MCPE-119083 "https://bugs.mojang.com/browse/MCPE-119083"))
 - Husks now play sounds when converting to Zombies underwater
-- Player entities now play the appropriate sounds when entering/exiting water ([MCPE-132511](https://bugs.mojang.com/browse/MCPE-132511))  
-    
+- Player entities now play the appropriate sounds when entering/exiting water ([MCPE-132511](https://bugs.mojang.com/browse/MCPE-132511))\
+  \
 
 # **Experimental Features**
 
@@ -188,8 +188,8 @@ We’d love to hear what you think about this change! Please share your feedback
 - As this is an experiment, we would really appreciate your feedback as work continues and to help us decide on the future direction for Villager trades!
 - Wandering Traders now have lower prices and have a higher amount of each item in stock
 - Wandering Traders now sell Logs
-- Wandering Traders can now buy many items, instead of only selling  
-    
+- Wandering Traders can now buy many items, instead of only selling\
+  \
 
 # **Fixes and Changes**
 
@@ -381,8 +381,8 @@ For Android, as of February 2024, **devices require greater than 1 GB RAM, run O
 Please refer to our Minecraft Help Center articles for further details:
 
 - [iOS Technical Support Issues](../../help/Backup-Restore/How-to-Recover-Missing-Minecraft-Worlds-on-Apple-Devices.md)
-- [Android Technical Support FAQ](../../help/Performance-Troubleshooting/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md)  
-    
+- [Android Technical Support FAQ](../../help/Performance-Troubleshooting/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md)\
+  \
 
 # **Technical Updates**
 
@@ -520,8 +520,8 @@ Please refer to our Minecraft Help Center articles for further details:
 ## **Molang**
 
 - Renamed *block_property* and has_block\_*property* to *block_state* and *has_block_state*
-  - This is a Molang Versioned Change that only takes effect for Molang expressions in packs that use a min_engine_version of 1.20.20 or higher  
-      
+  - This is a Molang Versioned Change that only takes effect for Molang expressions in packs that use a min_engine_version of 1.20.20 or higher\
+    \
 
 # **Experimental Technical Features**
 
@@ -697,9 +697,9 @@ Moved the following APIs from beta to stable:
   - Removed *projectileHit*
   - Added *projectileHitBlock*
   - Added *projectileHitEntity*
-- Added class *ProjectileHitBlockAfterEvent* export class:  
+- Added class *ProjectileHitBlockAfterEvent* export class:\
   *ProjectileHitBlockAfterEvent { readonly dimension: Dimension; readonly hitVector: Vector3; readonly location: Vector3; readonly projectile: Entity; readonly source?: Entity; getBlockHit(): BlockHitInformation; }*
-- Added class *ProjectileHitEntityAfterEvent* export class:  
+- Added class *ProjectileHitEntityAfterEvent* export class:\
   *ProjectileHitEntityAfterEvent { readonly dimension: Dimension; readonly hitVector: Vector3; readonly location: Vector3; readonly projectile: Entity; readonly source?: Entity; getEntityHit(): EntityHitInformation; }*
 - Fixed a bug where *ContainerSlot* would not work with certain container types ([MCPE-168805](https://bugs.mojang.com/browse/MCPE-168805))
 - Fixed a bug where setLore would incorrectly calculate the length of lore strings containing multi-byte characters ([MCPE-173189](https://bugs.mojang.com/browse/MCPE-173189))
@@ -737,8 +737,8 @@ Moved the following APIs from beta to stable:
 - Custom items with "*minecraft:wearable*" component auto-equip when dropped from a dispenser, matching parity with Vanilla armor items
 - Fixed an issue where items with format version 1.20.20 and above using the 'menu_category' field in a world with the 'Holiday Creator Features' toggle enabled would not load
 - Removed "minecraft:requires_interact" component
-- Fixed issue with content errors occurring with the Holiday Creator Features toggle turned on when using a json object version of "max_stack_size", "can_destroy_in_creative", "hover_text_color"  
-    
+- Fixed issue with content errors occurring with the Holiday Creator Features toggle turned on when using a json object version of "max_stack_size", "can_destroy_in_creative", "hover_text_color"\
+  \
 
 # **Block Destroy Time Changes - Full List**
 
@@ -900,7 +900,7 @@ Moved the following APIs from beta to stable:
 
 # **Remaining Parity Breaks**
 
-**DT** - destroy time  
+**DT** - destroy time\
 **ER** - explosion resistance
 
 |  |  |  |  |  |  |

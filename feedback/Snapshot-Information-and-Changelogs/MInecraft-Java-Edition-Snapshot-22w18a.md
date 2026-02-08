@@ -42,8 +42,8 @@ Enjoy!
 
 New command that replaces placefeature and can place features, jigsaws and structures at a given location. Syntax:
 
-place feature \<feature\> \[pos\]  
-place jigsaw \<pool\> \<start\> \<depth\> \[pos\]  
+place feature \<feature\> \[pos\]\
+place jigsaw \<pool\> \<start\> \<depth\> \[pos\]\
 place structure \<structure\> \[pos\]
 
 - feature: The namespaced id of a feature to try to place

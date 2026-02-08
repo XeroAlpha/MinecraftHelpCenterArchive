@@ -18,8 +18,8 @@ Welcome to the Nether Update! Minecraft’s deadliest destination just got a lit
 - Over 300 bug fixes since the Buzzy Bees update, with fixes to over 180 community reported bugs
 - Be sure to check out the list of parity updates, as we address some issues regarding mob spawning, curses, villages, aquatic music, and sounds
 
-As always, please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/). Want to chat with us about the update and swap travel tips with fellow adventurers? Join us on the official Minecraft Discord at [discord.gg/Minecraft](https://discord.gg/Minecraft)!  
-  
+As always, please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/). Want to chat with us about the update and swap travel tips with fellow adventurers? Join us on the official Minecraft Discord at [discord.gg/Minecraft](https://discord.gg/Minecraft)!\
+\
 
 **New Biomes:**
 
@@ -72,8 +72,8 @@ Basalt Deltas can now be found in the Nether!
 
 **Nether Biome Fog**
 
-- Biome fog color smoothly blends between biomes. Smooth.  
-    
+- Biome fog color smoothly blends between biomes. Smooth.\
+  \
 
 **New Mobs:**
 
@@ -124,8 +124,8 @@ Basalt Deltas can now be found in the Nether!
 
 - Zoglins are zombified hoglins - the result of bringing a hoglin into the overworld
 - Unlike hoglins, they can't be bred or fed, and they don't care about warped fungus
-- Beware - these beasts are raving mad and attack just about everything they see!  
-    
+- Beware - these beasts are raving mad and attack just about everything they see!\
+  \
 
 **New Gameplay Features:**
 
@@ -199,8 +199,8 @@ Never suffer again drudging through Soul Sand Valleys - Soul Speed has you cover
 A new block that can help you get your bearings!
 
 - Crafted from a netherite ingot and chiseled stone bricks
-- Use a compass on a lodestone to point the compass to that lodestone  
-    
+- Use a compass on a lodestone to point the compass to that lodestone\
+  \
 
 **New Blocks:**
 
@@ -222,8 +222,8 @@ A new block that can help you get your bearings!
 - Added patches of Blackstone and Gravel to all Nether biomes at and below lava level
 - Nether gold ore can now spawn in the nether!
 - Nether gold ore can be mined with any pickaxe and will drop gold nuggets
-- Added Chiseled Nether Bricks, Cracked Nether Bricks, and Quartz Bricks blocks  
-    
+- Added Chiseled Nether Bricks, Cracked Nether Bricks, and Quartz Bricks blocks\
+  \
 
 **Music and Sounds:**
 
@@ -234,26 +234,26 @@ A new block that can help you get your bearings!
 - Added moody sounds to the Nether
 - Added underwater music
 - Added ambient cave sounds
-- A large amount of sounds have had their volume and pitch slightly changed in order to get close to Java Edition parity  
-    
+- A large amount of sounds have had their volume and pitch slightly changed in order to get close to Java Edition parity\
+  \
 
 **Emotes:**
 
-- Players can now use Emote animations in game as a fun way to express themselves! Emotes are assigned to an Emote wheel within the Dressing Room. There are Emotes available for free, purchase, and as achievement rewards  
-    
+- Players can now use Emote animations in game as a fun way to express themselves! Emotes are assigned to an Emote wheel within the Dressing Room. There are Emotes available for free, purchase, and as achievement rewards\
+  \
 
 **Achievement Rewards:**
 
-- This feature rewards players with Dressing Room items when completing achievements. If an achievement is already unlocked, the reward can be redeemed immediately. Rewards are the full gambit of Dressing Room items, including Emotes  
-    
+- This feature rewards players with Dressing Room items when completing achievements. If an achievement is already unlocked, the reward can be redeemed immediately. Rewards are the full gambit of Dressing Room items, including Emotes\
+  \
 
 **New Achievements:**
 
 - Bullseye – Hit the bullseye of a Target block (15G)
 - Cover me in debris – Wear a full set of Netherite armor (50G)
 - Oooh, shiny! – Distract a Piglin using gold (30G)
-- Hot tourist destination – Visit all Nether biomes (30G)  
-    
+- Hot tourist destination – Visit all Nether biomes (30G)\
+  \
 
 **Parity:**
 
@@ -331,8 +331,8 @@ A new block that can help you get your bearings!
 - Woodland Mansion 'arena' room had incorrect slab type floor ([MCPE-41335](https://bugs.mojang.com/browse/MCPE-41335))
 - Cocoa Pods now break when in water ([MCPE-36335](https://bugs.mojang.com/browse/MCPE-36335))
 - The Ender Dragon fireball no longer causes excessive damage ([MCPE-40344](https://bugs.mojang.com/browse/MCPE-40344))
-- Carrot on a stick, shield, and shovel now lose durability consistently in Bedrock  
-    
+- Carrot on a stick, shield, and shovel now lose durability consistently in Bedrock\
+  \
 
 **Changes:**
 
@@ -357,12 +357,12 @@ A new block that can help you get your bearings!
 - **Kicking**
   - Problem players can be now be removed from your world by pausing and going to the Player Permissions screen
   - Anyone with Operator permissions will be able to kick players. Trusted players can help moderate your world
-  - Kicked players will not be able to rejoin LAN games while the world is open  
-      
+  - Kicked players will not be able to rejoin LAN games while the world is open\
+    \
 - **Kick Command**
   - Problem players can also be kicked with the new /kick command, optionally including a reason for kicking
-  - The kick command can use target selectors, such as /kick @a \[c=-2\]  
-      
+  - The kick command can use target selectors, such as /kick @a \[c=-2\]\
+    \
 - **Banning and Realms Permissions**
   - Realm owners can also ban problem players by pausing and going to the Player Permissions screen
   - Realm owners can now change permissions of players in their Realm from the Player Permissions screen
@@ -374,8 +374,8 @@ A new block that can help you get your bearings!
 
 **Mojang Studios**
 
-- The splash screen has been updated with the shiny, new Mojang Studios logo!  
-    
+- The splash screen has been updated with the shiny, new Mojang Studios logo!\
+  \
 
 **Fixes:**
 
@@ -648,8 +648,8 @@ A new block that can help you get your bearings!
 - Ticking areas can no longer be removed on the same tick they are created ([MCPE-36769](https://bugs.mojang.com/browse/MCPE-36769))
 - Now when teleporting an Armor Stand to a player, it rotates the Armor Stand to the player's orientation ([MCPE-35979](https://bugs.mojang.com/browse/MCPE-35979))
 - Added new overload for '/replaceitem'with an option for destroy (the old behavior) or keep (the command will return an error if an item occupies that slot)
-- Fixed an issue that prevented players from being teleported to a nearby chunk that the game thought was too far away  
-    
+- Fixed an issue that prevented players from being teleported to a nearby chunk that the game thought was too far away\
+  \
 
 **For Map Makers and Add-On Creators:**
 

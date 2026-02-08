@@ -16,8 +16,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004195292-Minecraft-Ja
 - Dolphins no longer wear armor
 - Dolphins will now help you find treasures
 - Lerp
-- Fixed some bugs  
-    
+- Fixed some bugs\
+  \
 
 ## FIXED BUGS IN 18W21A
 

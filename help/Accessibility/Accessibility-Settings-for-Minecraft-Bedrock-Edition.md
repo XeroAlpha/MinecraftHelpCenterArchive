@@ -70,7 +70,7 @@ All versions of Minecraft: Bedrock Edition (using English as a language) include
 
 ### Text to Speech Volume 
 
-Use the **Text-to-Speech** slider to adjust the volume of the narration.   
+Use the **Text-to-Speech** slider to adjust the volume of the narration. \
 
 ## Accessible Chat Using Text-to-Speech 
 
@@ -85,7 +85,7 @@ Minecraft: Bedrock Edition includes an option to use text-to-speech for chat dur
 ### Tips on using text-to-speech for chat
 
 - Navigate to previously sent chat messages using the arrow keys on a keyboard or the left-thumbstick on a controller. 
-- Use the Escape key, or B button on a controller, when you have the text field selected to back out and navigate the chat screen on keyboard.   
+- Use the Escape key, or B button on a controller, when you have the text field selected to back out and navigate the chat screen on keyboard. \
 
 ## Other Settings in the Accessibility Menu 
 
@@ -103,7 +103,7 @@ The following settings can be found in other areas of the game.
 
 ### Chat Text Styles  
 
-There are a variety of options to change the appearance of chat text.   
+There are a variety of options to change the appearance of chat text. \
 
 Click the gear icon next to the chat input box to access the **Chat Settings menu** and change how your chat font appears. Settings include: 
 

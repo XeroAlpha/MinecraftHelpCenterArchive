@@ -250,7 +250,7 @@ A new command for randomizing values and controlling random sequences. The valu
 
 Syntax:
 
-random value\|roll \<range\> \[\<sequenceId\>\]  
+random value\|roll \<range\> \[\<sequenceId\>\]\
 random reset \*\|\<sequenceId\> \[\<seed\>\] \[\<includeWorldSeed\>\] \[\<includeSequenceId\>\]
 
 Parameters:

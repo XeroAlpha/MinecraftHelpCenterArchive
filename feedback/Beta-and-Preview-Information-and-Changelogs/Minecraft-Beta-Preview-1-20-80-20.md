@@ -33,8 +33,8 @@ hash:
   h_01HQSPSHHDS9F8RD202A4RCEB0: api-1
 ---
 
-**Posted:** February 29, 2024  
-  
+**Posted:** February 29, 2024\
+\
 
 **Information on Minecraft Preview and Beta:**
 
@@ -44,11 +44,11 @@ hash:
 
 ![patchnotes_u8-1.png](https://feedback.minecraft.net/hc/article_attachments/24554985642253)
 
-There’s so much packed into this week’s preview and beta release that I need a code to remember it all. What about “wolf armor-dillos”? Because in this week’s preview and beta, you’ll not only find updated wolf armor (it’s stronger! and repairable! and awesome!) you’ll be able to dye it any color you want. If that wasn’t enough, the armadillo has been de-experimentified (definitely a word) and we’ve taken the first steps towards working on something exciting (more on that below). Was that everything? Maybe I should’ve made a list, instead of a code. Anyway! As always, we want to hear your thoughts and feedback, so please let us know what you think [here](https://feedback.minecraft.net/), and report any bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).  
-  
+There’s so much packed into this week’s preview and beta release that I need a code to remember it all. What about “wolf armor-dillos”? Because in this week’s preview and beta, you’ll not only find updated wolf armor (it’s stronger! and repairable! and awesome!) you’ll be able to dye it any color you want. If that wasn’t enough, the armadillo has been de-experimentified (definitely a word) and we’ve taken the first steps towards working on something exciting (more on that below). Was that everything? Maybe I should’ve made a list, instead of a code. Anyway! As always, we want to hear your thoughts and feedback, so please let us know what you think [here](https://feedback.minecraft.net/), and report any bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).\
+\
 
-**Known Issue:** Players are unable to connect to Preview Realms on Xbox One and PlayStation 4 in this version.  
-  
+**Known Issue:** Players are unable to connect to Preview Realms on Xbox One and PlayStation 4 in this version.\
+\
 
 # Experimental Features
 
@@ -67,8 +67,8 @@ We're excited to say we're working on Hardcore mode for Bedrock Edition, and we 
 
 With such high stakes, we want to ensure we get Hardcore mode right before releasing it into the retail version of Bedrock Edition, so once it goes into testing it’ll stay in Preview until we’re confident the experience is smooth for both players and creators. You’ll be able to help us test Hardcore mode by submitting bugs at [bugs.mojang.com](https://bugs.mojang.com/) and giving us your feedback on [Discord](https://discord.com/invite/minecraft) or at [feedback.minecraft.net](http://feedback.minecraft.net/)!
 
-We're also happy to announce, when we are ready, Hardcore mode will be available in Realms for both Java and Bedrock.  
-  
+We're also happy to announce, when we are ready, Hardcore mode will be available in Realms for both Java and Bedrock.\
+\
 
 # Features and Bug Fixes
 
@@ -133,8 +133,8 @@ Since the initial release of the Wolf Armor, we have been working on improving i
 - On touch devices, when items are swapped the icons now move in the correct direction
 - Custom Decorated Pots and dyed Banners are now rendered correctly in Crafter output slot
 - On touch devices, the selected item now has a blue background on all screens
-- Flying item animation is no longer missing in touch-screen versions of Beacon, Cartography, and Smithing Table screens  
-    
+- Flying item animation is no longer missing in touch-screen versions of Beacon, Cartography, and Smithing Table screens\
+  \
 
 # Technical Updates
 
@@ -185,8 +185,8 @@ Since the initial release of the Wolf Armor, we have been working on improving i
 
 ## Stability and Performance
 
-- Removed *FilterTextPacket*  
-    
+- Removed *FilterTextPacket*\
+  \
 
 # Experimental Technical Updates
 

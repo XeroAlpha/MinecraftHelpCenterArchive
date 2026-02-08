@@ -7,7 +7,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004166091-MCPE-Android
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Bug Fixes:**
 
 - Fixed smoke/water particles flying off at crazy speeds.

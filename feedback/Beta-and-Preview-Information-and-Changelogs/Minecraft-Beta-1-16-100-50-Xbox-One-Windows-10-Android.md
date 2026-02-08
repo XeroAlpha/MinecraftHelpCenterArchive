@@ -69,16 +69,16 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360047105331-Minecraft-Be
   - minecraft:equippable accepted_items can now use any_tag functionality
 - **Example 2**
   - **looks for "apple" key in the vanilla localization for a string to use as the display text, which it will NOT find a value so the display name will just be "apple"**
-  - "minecraft:display_name": {  
-    "value": "apple"  
+  - "minecraft:display_name": {\
+    "value": "apple"\
     }
 - **Example 3**
   - **looks for "item.apple.name" key in the vanilla localization for a string to use as the display text, which it will find a value as "Apple". Note "minecraft:" namespace not required.**
-  - "minecraft:display_name": {  
-    "value": "item.apple.name"  
+  - "minecraft:display_name": {\
+    "value": "item.apple.name"\
     }
 - **Example 4**
   - **looks for a custom string supplied in the resource pack, if not found the display name will be "item.my_namespace:My_Awesome_Item.name".**
-  - "minecraft:display_name": {  
-    "value": "item.my_namespace:My_Awesome_Item.name"  
+  - "minecraft:display_name": {\
+    "value": "item.my_namespace:My_Awesome_Item.name"\
     }

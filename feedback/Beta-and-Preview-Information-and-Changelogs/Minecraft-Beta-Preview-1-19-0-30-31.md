@@ -20,7 +20,9 @@ link: https://feedback.minecraft.net/hc/en-us/articles/5992865608205-Minecraft-B
 
 Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
 
-#  **Minecraft Beta**
+\
+**Minecraft Beta**
+==================
 
 The Minecraft Beta on Windows will be retiring soon! To continue testing out new pre-release features, you will need to install the Minecraft Preview version. More information can be found at [aka.ms/PreviewFAQ](http://aka.ms/PreviewFAQ) 
 
@@ -158,8 +160,8 @@ Just as a reminder, we won't be accepting bug reports related to spectator mode 
 
 ## **GameTest Framework (Experimental)**
 
-- **IMPORTANT BREAKING CHANGE**  
-    
+- **IMPORTANT BREAKING CHANGE**\
+  \
   GameTest module type changed from "javascript" to "script" in manifest.json. Added an optional attribute “language” which has only one supported value – javascript.
 
 New JavaScript modules in manifest.json should look as follows:

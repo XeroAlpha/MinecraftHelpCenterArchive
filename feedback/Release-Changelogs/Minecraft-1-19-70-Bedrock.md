@@ -32,8 +32,8 @@ Several improvements have come to the emote system in Bedrock Edition!
 - Easier sorting of emotes
 - Creating a new character now automatically applies four default emotes
 
-Check out the [New Emote Features for Bedrock Edition](https://www.minecraft.net/en-us/article/new-emote-features-bedrock-edition) article for more details.  
-  
+Check out the [New Emote Features for Bedrock Edition](https://www.minecraft.net/en-us/article/new-emote-features-bedrock-edition) article for more details.\
+\
 
 **Vanilla Parity:**
 
@@ -60,8 +60,8 @@ Improvements have been made with vanilla parity to align with Java Edition, espe
 - Bells that are connected to multiple blocks no longer drop when one block is broken
 - Note Block sound attenuation over a distance is now linear ([MCPE-164935](https://bugs.mojang.com/browse/MCPE-164935))
 - Impact sounds of projectiles on Amethyst blocks and clusters are now audible
-- Dead Bush will now drop Sticks when broken with any tool except Shears, even those with the Silk Touch enchantment. Vines will drop nothing in the same situation ([MCPE-163246](https://bugs.mojang.com/browse/MCPE-163246))  
-    
+- Dead Bush will now drop Sticks when broken with any tool except Shears, even those with the Silk Touch enchantment. Vines will drop nothing in the same situation ([MCPE-163246](https://bugs.mojang.com/browse/MCPE-163246))\
+  \
 
 **Experimental Features:**
 
@@ -105,8 +105,8 @@ As these features are still incomplete, in development, and considered a work in
 
 - The Torchflower seed can be planted on farmland and grows into a flower
 - The seed can be used to breed two Sniffers
-- The full-grown flower can be harvested and replanted but can also be crafted into a dye  
-    
+- The full-grown flower can be harvested and replanted but can also be crafted into a dye\
+  \
 
 **Fixes:**
 
@@ -190,8 +190,8 @@ As these features are still incomplete, in development, and considered a work in
 - Removed the Close button in the Play on Realm popup dialog when using controllers
 - Updated the reset/replace world confirmation text to make it clearer what each function does
 - Fixed the world list not updating with a new Realm immediately after accepting an invite
-- In Realms Settings-\>Members, the dropdown '...' menu can now be open/closed with the Enter key and navigated with arrow keys  
-    
+- In Realms Settings-\>Members, the dropdown '...' menu can now be open/closed with the Enter key and navigated with arrow keys\
+  \
 
 **Technical Updates:**
 

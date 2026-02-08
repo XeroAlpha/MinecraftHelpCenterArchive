@@ -46,7 +46,7 @@ Minecraft Education is a game-based learning platform that offers educators a tr
 
 Minecraft Education is more than just a game—it’s a connected platform that uses cloud services to deliver interactive learning tools. To ensure students can access all available features, school IT networks need to allow communication with specific online services. Without this access, key functionality may be blocked.
 
-  
+\
 Here’s why network access is essential:
 
 - Minecraft Education relies on a services-based architecture, meaning it connects to the internet to access essential features.
@@ -186,7 +186,7 @@ For the latest information on [system requirements, visit this article. ](../Ge
 
 Visit these Help Center pages for information about installation:
 
-- The [Minecraft Education download page](https://education.minecraft.net/get-started/download/) contains links to versions for each supported device. See OS specific guides below:  
+- The [Minecraft Education download page](https://education.minecraft.net/get-started/download/) contains links to versions for each supported device. See OS specific guides below:\
   - [Windows Installation Guide](../Installation/Windows-Installation-Guide.md)
   - [Chromebook Installation Guide](../Installation/Chromebook-Installation-Guide.md)
   - [Mac Installation Guide](../Installation/Mac-Installation-Guide.md)

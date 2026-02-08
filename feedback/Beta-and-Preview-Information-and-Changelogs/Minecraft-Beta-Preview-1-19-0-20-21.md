@@ -256,13 +256,13 @@ Support of dynamic properties that script can use to persist data per-World or p
   - Added event worldInitialize(worldInitializeEvent: WorldInitializeEvent)- Fires during world load and contains the property registry used for declaring dynamic properties
 - PropertyRegistry
   - Added function registerEntityTypeDynamicProperties(propertiesDefinition: DynamicPropertiesDefinition, entityType: EntityType)- Registers dynamic property definitions for the given EntityType
-  - Added function registerWorldDynamicProperties(propertiesDefinition: DynamicPropertiesDefinition)- Registers property definitions for the world  
-      
+  - Added function registerWorldDynamicProperties(propertiesDefinition: DynamicPropertiesDefinition)- Registers property definitions for the world\
+    \
 - World object/Entity object additions:
   - Added function setDynamicProperty(identifier: string, value: boolean \| string \| number)- Adds a dynamic property to the world/entity
   - Added function getDynamicProperty(identifier: string): boolean \| string \| number- Gets a dynamic property from the world/entity if it exists, otherwise returns undefined
-  - Added function removeDynamicProperty(identifier: string): boolean- Removes a dynamic property value from the world/entity  
-      
+  - Added function removeDynamicProperty(identifier: string): boolean- Removes a dynamic property value from the world/entity\
+    \
 - New events:
   - Added event events.projectileHit- Fires when a projectile hits a Block or Entity
   - Added event events.itemStartUseOn- Sent when the player first interacts with a block

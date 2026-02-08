@@ -25,7 +25,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Mending & Frostwalking enchantments
 - Added a setting to toggle Smooth Lighting
 
-  
+\
 **Tweaks:**
 
 - Changes in world generation. Seeds which contain pre-generated structures such as ocean monuments & igloos may generate those structures in different places now.
@@ -44,7 +44,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Eating animation can now be seen in third-person camera
 - /locate command will now find more structures
 
-  
+\
 **Bug Fixes:**
 
 - Fixed a crash when importing certain resource packs

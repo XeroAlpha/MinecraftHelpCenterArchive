@@ -10,8 +10,8 @@ hash:
   fixed-bugs-in-1.18.2-release-candidate-1: fixed-bugs-in-1182-release-candidate-1
 ---
 
-We’re now releasing the first (and hopefully only) release candidate for Minecraft 1.18.2. This release candidate fixes two world generation bugs that could cause a server to stop running. If there are no major issues following this release, no further changes will be done before the full release, which is planned for February 28th.  
-​  
+We’re now releasing the first (and hopefully only) release candidate for Minecraft 1.18.2. This release candidate fixes two world generation bugs that could cause a server to stop running. If there are no major issues following this release, no further changes will be done before the full release, which is planned for February 28th.\
+​\
 Happy mining!
 
 # FIXED BUGS IN 1.18.2 RELEASE CANDIDATE 1

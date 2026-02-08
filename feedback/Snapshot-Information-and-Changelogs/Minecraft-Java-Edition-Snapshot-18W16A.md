@@ -11,8 +11,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004167171-Minecraft-Java-Edition-Snapshot-18W16A
 ---
 
-We're very close to feature complete, and have now started focusing more on bug fixing & polishing!  
-  
+We're very close to feature complete, and have now started focusing more on bug fixing & polishing!\
+\
 **Changes in 18W16A**
 
 - New custom world type: Buffet
@@ -30,9 +30,9 @@ We're very close to feature complete, and have now started focusing more on bug 
 - Technical: there's new block & item tags for coral
 - Lots of bug fixes!
 
-  
-**Buffet Worlds**  
-  
+\
+**Buffet Worlds**\
+\
 All you can pick!
 
 - As a popular request, we readded a way to play with single biome worlds
@@ -41,9 +41,9 @@ All you can pick!
 - Keep an eye on this screen, there might be more things on their way!
 - (it's pretty crazy)
 
-  
-**Fixed Bugs in 18W16A**  
-  
+\
+**Fixed Bugs in 18W16A**\
+\
 
 - MC-18903 - Villagers'/ Witchs' right arm doesn't have the texture flipped. (Like zombies/giants/players/zombie pigmen/zombie villagers/Illagers' does.)
 - MC-83064 - Accumulated fall damage is not reset when levitation starts
@@ -75,13 +75,13 @@ All you can pick!
 - MC-128233 - Lava is tinted incorrectly
 - MC-128248 - Bottom of the water is not tinted
 
-  
-**Get the Snapshot**  
-  
-To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.  
-  
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
-  
+\
+**Get the Snapshot**\
+\
+To install the snapshot, open up the Minecraft Launcher and enable snapshots in the ""Launch Options"" tab.\
+\
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**\
+\
 Cross-platform server jar:
 
 - Minecraft server jar

@@ -29,11 +29,11 @@ At the launch of Minecraft Dungeons, there was an issue that would wipe all save
 1.  Download *”minecraft-dungeons-save-level-36.zip”* to your computer using the link above. 
 2.  Open the file and find *'BE5B6CA641B5286EC2696FADBC7DC63C.dat' *in the folders. 
 3.  Open the Start menu, enter **Run** and then click **Open.**  
-4.  In the text field, enter *%HOMEPATH%\Saved Games\Mojang Studios\Dungeons *and then click **OK**.  
+4.  In the text field, enter *%HOMEPATH%\Saved Games\Mojang Studios\Dungeons *and then click **OK**.\
     *![mceclip0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360063654631/mceclip0.png)*
 5.  Locate a folder named with a 16-digit number (E.g., 2612325419657064). Open this folder, and then open the **Characters** folder. 
-6.  Copy *'BE5B6CA641B5286EC2696FADBC7DC63C.dat'* into the folder.  
-    **IMPORTANT** Do not delete or modify any of the other files in this folder; this could result in losing saved data.  
+6.  Copy *'BE5B6CA641B5286EC2696FADBC7DC63C.dat'* into the folder.\
+    **IMPORTANT** Do not delete or modify any of the other files in this folder; this could result in losing saved data.\
     ![mceclip1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360063494012/mceclip1.png)
-7.  Open Minecraft Dungeons. On the main menu, press Switch Hero and scroll to find the new character. Press Select to choose the character.  
+7.  Open Minecraft Dungeons. On the main menu, press Switch Hero and scroll to find the new character. Press Select to choose the character.\
     ![mceclip2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360063494072/mceclip2.png)

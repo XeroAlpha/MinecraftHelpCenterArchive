@@ -78,10 +78,10 @@ Just like all the thoughts and comments we get from you on our feedback site, th
 
 #### WORLDLOADED&WORLDUNLOADED
 
-Understanding how Minecraft is played allows us to focus game updates and improvements on the areas that are most relevant to players.  
+Understanding how Minecraft is played allows us to focus game updates and improvements on the areas that are most relevant to players.\
 The data that tells us this includes game mode, client or server modded status, and game version.
 
-WorldLoaded&WorldUnloadedare two paired events that calculate how long the world session has lasted (in seconds and ticks).  
+WorldLoaded&WorldUnloadedare two paired events that calculate how long the world session has lasted (in seconds and ticks).\
 Data fromWorldLoadedis sent when a world is launched, and data fromWorldUnloadedis sent when a world is shut down (quitting to title, disconnecting from a server).
 
 ### OPTIONAL TELEMETRY EVENTS

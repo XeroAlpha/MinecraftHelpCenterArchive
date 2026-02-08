@@ -31,15 +31,15 @@ hash:
 
 ![r20u4-2_patchnotes.png](https://feedback.minecraft.net/hc/article_attachments/19424855494797)
 
-Here’s a list of what’s new in this weeks Minecraft Preview and Beta! As always, we really want to hear your thoughts on these experiments, so please send your feedback and ideas to [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+Here’s a list of what’s new in this weeks Minecraft Preview and Beta! As always, we really want to hear your thoughts on these experiments, so please send your feedback and ideas to [aka.ms/MC120Feedback](http://aka.ms/MC120Feedback) and report any bugs to [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 # Experimental Features
 
 ## Villager Trade Rebalancing
 
-- The seven new Explorer Maps from Cartographers can now also point to structures in already explored chunks  
-    
+- The seven new Explorer Maps from Cartographers can now also point to structures in already explored chunks\
+  \
 
 # Features and Bug Fixes
 
@@ -68,8 +68,8 @@ Here’s a list of what’s new in this weeks Minecraft Preview and Beta! As alw
 ## Touch Controls
 
 - Added a sprint button for Camels when "sprint using the joystick" option is turned off ([MCPE-172674](https://bugs.mojang.com/browse/MCPE-172674))
-- Fixed Sneak button partially blocking the D-Pad Up button when using touch controls ([MCPE-38566](https://bugs.mojang.com/browse/MCPE-38566))  
-    
+- Fixed Sneak button partially blocking the D-Pad Up button when using touch controls ([MCPE-38566](https://bugs.mojang.com/browse/MCPE-38566))\
+  \
 
 # Technical Updates
 
@@ -79,8 +79,8 @@ Here’s a list of what’s new in this weeks Minecraft Preview and Beta! As alw
 
 ## API
 
-- Released *World.getMoonPhase*, *MoonPhase*, and *MoonPhaseCount* v1.6.0  
-    
+- Released *World.getMoonPhase*, *MoonPhase*, and *MoonPhaseCount* v1.6.0\
+  \
 
 # Experimental Technical Updates
 

@@ -19,12 +19,12 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Added a new Recipe Book toggle and the ability to view the Creative inventory in fullscreen (on Classic UI)
 - Added a content rating system to the Marketplace
 
-  
+\
 **Tweaks:**
 
 - Pressing the A button on the Creative inventory will now place one item in the inventory, not a full stack. Pressing the Y button will place a full stack and X will clear the hotbar in Creative mode
 
-  
+\
 **Bug Fixes:**
 
 - Fixed a crash that occurred when closing the skin picker

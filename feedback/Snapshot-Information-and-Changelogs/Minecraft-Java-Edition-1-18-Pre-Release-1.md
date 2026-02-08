@@ -12,8 +12,8 @@ hash:
   fixed-bugs-in-1.18-pre-release-1: fixed-bugs-in-118-pre-release-1
 ---
 
-The first 1.18 pre-release is here!  
-  
+The first 1.18 pre-release is here!\
+\
 From now on, you should mostly see bugs being fixed. In addition to that, pre-releases don't follow the regular snapshot cadence of releasing on Wednesdays, so keep an eye out!
 
 That being said, this pre-release introduces biome blending, which means that you should no longer find harsh borders between new and old terrain. On top of that, we've also reintroduced the Amplified and Large Biome world types.

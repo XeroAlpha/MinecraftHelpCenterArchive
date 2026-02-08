@@ -66,7 +66,7 @@ Follow these steps to try a demo lesson 
 3.  Launch Minecraft Education and, at the **Welcome to Minecraft Education** screen, select **If you don’t have an account, try a demo lesson**. 
 4.  To view the license agreement, select **View Terms**.  
 5.  When ready to play, select **Accept Terms** and **Play**. 
-6.  Select **Start Lesson**.   
+6.  Select **Start Lesson**. \
     *Note: Lessons with the lock overlay can be accessed by signing into the game with a licensed account or one that is eligible for a trial. * 
 
  

@@ -69,8 +69,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
   - Collect materials to unlock relevant recipes
   - A notification will tell you when you've found a new crafting material
   - Picking up an item teaches you how to craft that item. Great for when a friend gives you a tool you haven’t crafted before
-  - We’d love to hear what you think of this feature, so please send us your feedback at [aka.ms/MCRecipeUnlocks](https://aka.ms/MCRecipeUnlocks)  
-      
+  - We’d love to hear what you think of this feature, so please send us your feedback at [aka.ms/MCRecipeUnlocks](https://aka.ms/MCRecipeUnlocks)\
+    \
 
 **Fixes and Changes**
 
@@ -179,8 +179,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Fixed sleep and camera fade effect not covering the screen until after first-person rendering happens
 - Underwater and fog effects are now based on camera position rather than player position
 - Fancy Leaves setting is now applied immediately and will no longer cause x-ray effect ([MCPE-123608](https://bugs.mojang.com/browse/MCPE-123608))
-- Fixed player capes not properly flapping when moving forward but looking sideways (fixed for real this time!) ([MCPE-153446](https://bugs.mojang.com/browse/MCPE-153446))  
-    
+- Fixed player capes not properly flapping when moving forward but looking sideways (fixed for real this time!) ([MCPE-153446](https://bugs.mojang.com/browse/MCPE-153446))\
+  \
 
 **Technical Updates**
 
@@ -240,8 +240,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Released the *"minecraft:block_placer"* item component out of experimental in json formats 1.20.10 and higher
 - Released the *"minecraft:record"* item component out of experimental in json formats 1.20.10 and higher
 - Released the "*minecraft:can_destroy_in_creative*" item component out of experimental in json formats 1.20.10 and higher
-- Released the "*minecraft:hover_text_color*" item component out of experimental in json formats 1.20.10 and higher  
-    
+- Released the "*minecraft:hover_text_color*" item component out of experimental in json formats 1.20.10 and higher\
+  \
 
 **Experimental Technical Features**
 

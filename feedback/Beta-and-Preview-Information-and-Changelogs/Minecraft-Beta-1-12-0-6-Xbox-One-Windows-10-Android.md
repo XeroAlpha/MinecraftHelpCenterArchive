@@ -48,8 +48,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360028058852-Minecraft-Be
   - Made item names more consistent by removing 'tile' from the beginning of some of them
   - The "Invite to Game" button is no longer enabled on third party servers
   - Made improvements to roaming skins, which should apply correctly after reloading or reinstalling the game and signing in
-  - Custom skins no longer keep revert to an earlier cross-platform skin after reloading the game ([MCPE-45476](https://bugs.mojang.com/browse/MCPE-45476))  
-      
+  - Custom skins no longer keep revert to an earlier cross-platform skin after reloading the game ([MCPE-45476](https://bugs.mojang.com/browse/MCPE-45476))\
+    \
 
 <!-- -->
 

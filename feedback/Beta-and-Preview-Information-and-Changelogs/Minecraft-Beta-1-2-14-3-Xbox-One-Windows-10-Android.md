@@ -20,11 +20,11 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004124912-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
-**1.2.14.3 Hotfix:**  
-We have released a small hotfix to address players getting stuck on the loading/splash screen in the beta. This update will appear on all beta platforms but only affect Android users. Please continue posting all bugs to bugs.mojang.com. This beta has a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!  
-  
-  
+\
+**1.2.14.3 Hotfix:**\
+We have released a small hotfix to address players getting stuck on the loading/splash screen in the beta. This update will appear on all beta platforms but only affect Android users. Please continue posting all bugs to bugs.mojang.com. This beta has a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!\
+\
+\
 **New Features:**
 
 - New ocean biomes of varying depths and temperatures
@@ -54,7 +54,7 @@ We have released a small hotfix to address players getting stuck on the loading/
 - Swimming animation while sprinting in water
 - Added an Inventory section to the Store to manage all your acquired content
 
-  
+\
 **Changes:**
 
 - New textures for Raw Fish, Cooked Fish, Raw Salmon, Cooked Salmon, Tropical Fish, and Pufferfish
@@ -62,16 +62,16 @@ We have released a small hotfix to address players getting stuck on the loading/
 - Leads can now be attached to boats
 - Tweaks to the directional movement of the Gameplay Cursor for more predictable movement
 
-  
-**Experimental Gameplay:**  
-Some Update Aquatic features are more unstable and are currently behind the Experimental Gameplay toggle.  
-  
+\
+**Experimental Gameplay:**\
+Some Update Aquatic features are more unstable and are currently behind the Experimental Gameplay toggle.\
+\
 'Use Experimental Gameplay' can be toggled in World Settings. These features may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.
 
 - Drowned mobs (Now with glowy bits!)
 - Items now float in water
 
-  
+\
 **Bug Fixes:**
 
 - Improved load times in the Skin Picker and when applying Resource Packs

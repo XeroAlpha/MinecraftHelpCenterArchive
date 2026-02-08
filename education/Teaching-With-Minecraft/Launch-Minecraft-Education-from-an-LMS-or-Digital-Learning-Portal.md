@@ -16,7 +16,7 @@ This article provides a high-level overview on how to add Minecraft Education to
 
 These steps provide general instructions on adding a link to Minecraft Education to your LMS learning portal. For more specific instructions, you will need to review your LMS’s or portal's instructions on adding URLs. 
 
-1.  Add the following Minecraft Education launch URL: [https://education.minecraft.net/open   
+1.  Add the following Minecraft Education launch URL: [https://education.minecraft.net/open \
     ](https://education.minecraft.net/open)*Note: You can also add a URL to open a specific world or lesson if you choose. For more information, see the* [Share Worlds and Lessons](./Assign-or-Share-Worlds-and-Lessons.md)*.*  
 2.  Download the [Minecraft Education square logos](https://aka.ms/MEEsquareLogos) to use when launching Minecraft Education from your LMS or portal. 
 

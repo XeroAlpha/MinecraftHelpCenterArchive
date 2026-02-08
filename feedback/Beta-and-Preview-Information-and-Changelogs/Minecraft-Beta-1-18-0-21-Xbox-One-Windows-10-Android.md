@@ -95,8 +95,8 @@ It's time for another Caves & Cliffs Beta! As always, please send your feedback 
 
 - Renamed some occurrences of "level" in the user interface to the more accurate "world"
 - When a value for a stepped slider does not correspond to a step it will display at the closest step
-- Replaced the missing "Always Day" option in world settings ([MCPE-137790](https://bugs.mojang.com/browse/MCPE-137790))  
-    
+- Replaced the missing "Always Day" option in world settings ([MCPE-137790](https://bugs.mojang.com/browse/MCPE-137790))\
+  \
 
 ## **Vanilla Parity**
 

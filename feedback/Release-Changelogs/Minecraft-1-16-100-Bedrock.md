@@ -6,18 +6,18 @@ categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/360052592091-Minecraft-1-16-100-Bedrock
 ---
 
-**Posted:** November 16, 2020  
-  
+**Posted:** November 16, 2020\
+\
 
-It’s time for another Minecraft update! 1.16.100 brings a swath of Vanilla parity changes, bug fixes, and a massive amount of new capabilities for add-on creators and map makers. Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+It’s time for another Minecraft update! 1.16.100 brings a swath of Vanilla parity changes, bug fixes, and a massive amount of new capabilities for add-on creators and map makers. Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **New Features:**
 
 - Realms and Featured Servers are now available on PlayStation®
 - Added a new Achievements screen design and brand new achievement artwork
-- Over a dozen new Character Creator items have been added and can be unlocked with achievements  
-    
+- Over a dozen new Character Creator items have been added and can be unlocked with achievements\
+  \
 
 **Vanilla Parity Changes and Fixes:**
 
@@ -69,19 +69,19 @@ It’s time for another Minecraft update! 1.16.100 brings a swath of Vanilla par
 - Baby Zombified Piglins now correctly display items held in their hands
 - Quick crafting a Piston will now work with Warped Planks and Crimson Planks ([MCPE-87659](https://bugs.mojang.com/browse/MCPE-87659))
 - Baby Hoglins now deal appropriate damage
-- Piglins now spawn naturally in Nether Wastes on Peaceful difficulty ([MCPE-95718](https://bugs.mojang.com/browse/MCPE-95718))  
-    
+- Piglins now spawn naturally in Nether Wastes on Peaceful difficulty ([MCPE-95718](https://bugs.mojang.com/browse/MCPE-95718))\
+  \
 
 **Changes:**
 
 - Added several new experimental toggles to enable previews of upcoming engine technology and support Add-Ons and Marketplace content
-- Added the new Mojang Studios logo splash screen on Android devices ([MCPE-79353](https://bugs.mojang.com/browse/MCPE-79353))  
-    
+- Added the new Mojang Studios logo splash screen on Android devices ([MCPE-79353](https://bugs.mojang.com/browse/MCPE-79353))\
+  \
 
 **Known Issues:**
 
-- Xbox One controllers don’t work as expected when playing on Oculus Rift  
-    
+- Xbox One controllers don’t work as expected when playing on Oculus Rift\
+  \
 
 **Fixes:**
 
@@ -135,7 +135,7 @@ It’s time for another Minecraft update! 1.16.100 brings a swath of Vanilla par
 - Player-ridden Striders now jump onto magma blocks as well as non-full blocks in front of them when guided by Fungus on a Stick ([MCPE-77096](https://bugs.mojang.com/browse/MCPE-77096))
 - Baby animals can once again be tamed, before growing up ([MCPE-96973](https://bugs.mojang.com/browse/MCPE-96973))
 - Bees can now only exit Beehives and Bee Nests through air blocks ([MCPE-97185](https://bugs.mojang.com/browse/MCPE-97185))
-- Slimes can now spawn in slime chunks inside frozen biomes ([MCPE-49303](https://bugs.mojang.com/browse/MCPE-49303))**  **
+- Slimes can now spawn in slime chunks inside frozen biomes ([MCPE-49303](https://bugs.mojang.com/browse/MCPE-49303))**\**
 
 **Blocks**
 
@@ -246,12 +246,12 @@ It’s time for another Minecraft update! 1.16.100 brings a swath of Vanilla par
 - Text and background for the title command (Title, Subtitle, and Actionbar) have been adjusted and spaced out
 - Fixed a bug where a request queued with '/schedule' would not clear out when executed and would execute when re-entering a level
 - Added to the '/schedule on_area_loaded' command with an overload that allows you to track a circular area, by specifying a center and a radius. Also added serialization for the queue of requests
-- Fixed issues with the '/schedule' command that would consider an area loaded before it was actually loaded, and the command now respects which dimension it is queued in  
-    
+- Fixed issues with the '/schedule' command that would consider an area loaded before it was actually loaded, and the command now respects which dimension it is queued in\
+  \
 
 **For Map Makers and Add-On Creators:**
 
-**Updated Template Packs  **
+**Updated Template Packs\**
 
 - Updated templates for 1.16.100 with new resources, behaviors, and documentation are available for download
   - Resource Pack Template: [aka.ms/resourcepacktemplate](https://aka.ms/resourcepacktemplate)

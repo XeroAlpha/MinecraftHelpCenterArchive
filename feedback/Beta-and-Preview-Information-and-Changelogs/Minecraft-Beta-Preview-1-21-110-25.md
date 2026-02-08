@@ -48,7 +48,7 @@ hash:
 
  
 
-It's time for another Preview and Beta release! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](http://bugs.mojang.com/).  
+It's time for another Preview and Beta release! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](http://bugs.mojang.com/).\
  
 
 # Features and Bug Fixes[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki/30232/R21U11-5-Preview?anchor=features-and-bug-fixes)
@@ -198,7 +198,7 @@ export enum HeldItemOption {
 }
 ```
 
-- Added interface `PlayerSwingEventOptions` to `beta`. Event options/filters for `PlayerSwingStartAfterEvent`.  
+- Added interface `PlayerSwingEventOptions` to `beta`. Event options/filters for `PlayerSwingStartAfterEvent`.\
   - Field `heldItemOption?: HeldItemOption`
   - Added class `PlayerSwingStartAfterEvent` to `beta`. This contains information regarding a player starting to swing their arm
     - Field `heldItemStack?: ItemStack`

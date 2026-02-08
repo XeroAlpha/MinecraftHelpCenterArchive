@@ -44,7 +44,7 @@ Enjoy!
 
 ### PLACE TEMPLATE
 
-The place command can now also place templates at a given location. Syntax:  
+The place command can now also place templates at a given location. Syntax:\
 place template \<template\> \[pos\] \[rotation\] \[mirror\] \[integrity\] \[seed\]
 
 - place template works like using the load button in the UI for a structure block

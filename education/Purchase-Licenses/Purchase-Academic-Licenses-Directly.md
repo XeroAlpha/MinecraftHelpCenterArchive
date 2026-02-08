@@ -25,7 +25,7 @@ If you're eligible, it's free to set up an admin center account and does not ob
 Follow these steps to check if you are part of an eligible educational institution and have an academically qualified admin center account:
 
 1.  Navigate to the [Office 365 Education](https://www.microsoft.com/en-us/education/products/office) page.
-2.  Enter your school email address and select **Get Started**.  
+2.  Enter your school email address and select **Get Started**.\
     **Result:** The Office 365 Education page notifies you if you have an academically qualified admin center account, if you are eligible for an account, or if you are **not** eligible for an account.
     - If you are not eligible you can still purchase Minecraft Education through our [Commercial Licenses offer.](https://aka.ms/MEEFirstCommercialPurchase) 
 3.  If you do qualify, continue the process to request Office 365 for your school organization.

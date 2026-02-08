@@ -17,8 +17,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360015150092-Minecraft-Be
 - You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta. Featured servers may also be unavailable
 - The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](http://aka.ms/JoinMCBeta) for detailed instructions
 - Beta builds will likely be unstable and are not representative of final version quality. Please backup your Worlds before joining the beta
-- Finished releases may not include all new features, changes, and fixes from the beta to preserve stability and may slip to a later release  
-    
+- Finished releases may not include all new features, changes, and fixes from the beta to preserve stability and may slip to a later release\
+  \
 
 **Fixes:**
 

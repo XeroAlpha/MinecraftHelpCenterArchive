@@ -30,7 +30,7 @@ Please let us know all about the things you love, as well as challenges you run 
 For more information on setting up and using dedicated servers in Minecraft Education, view our articles below:
 
 - [Dedicated Server 101](https://aka.ms/mcedu-ds-faq)
-- [Dedicated Server Installation Guide](https://aka.ms/dsserversetup)  
+- [Dedicated Server Installation Guide](https://aka.ms/dsserversetup)\
    
 
 ## From the Mounted Mayhem Update

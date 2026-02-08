@@ -119,7 +119,8 @@ Here's a list of what is new in this week's Beta! We're excited to show off the 
 
 - A world with "StorageVersion" 8 or lower will be increased to 9 and have its "RandomSeed" upgraded from using only the lower 32 bits of a 64-bit number to using the full 64-bit range while still representing the same number. This is only relevant for negative 32-bit seeds, which need a sign bit extension
 
-## **Additional Modding Capabilities Experiment/JavaScript APIs** 
+**Additional Modding Capabilities Experiment/JavaScript APIs\**
+---------------------------------------------------------------
 
 **Important!** In this release and starting with this beta, we are removing the Additional Modding Capabilities experiment.  This experiment contained experimental JavaScript APIs launched in 2018 – and with this removal, JavaScript within worlds associated with this API will no longer function.  GameTest Framework – a separate JavaScript API – should not be impacted, nor should behavior pack/resource pack type add-ons more broadly. You can read more about this [via this article](https://aka.ms/mcamc).
 
@@ -157,46 +158,46 @@ mojang-minecraft module updates:
     - For the above events, each accept an optional EntityDataDrivenTriggerEventOptions
   - (Breaking Change) property entityremoved
   - Added property entities: Entity\[\] - If specified, will restrict to just the specified entities
-  - Changed return type of function getPlayersto PlayerIterator  
-      
+  - Changed return type of function getPlayersto PlayerIterator\
+    \
 - EntityDataDrivenTriggerEventOptions
   - Inherited from EntityEventOptions
   - property eventTypes: string\[\] - If specified, will restrict to events with the specified name (I.E minecraft:ageable_grow_up)
   - (Inherited) property entities: Entity\[\] - If specified, will restrict to just the specified entities
-  - (Inherited) property entityTypes: string\[\] - If specified, will restrict to entities with the specified type (I.E minecraft:creeper)  
-      
+  - (Inherited) property entityTypes: string\[\] - If specified, will restrict to entities with the specified type (I.E minecraft:creeper)\
+    \
 - DefinitionModifier
   - read only property componentGroupsToAdd: string\[\] - List of component groups that will be added as part of this modifier
   - read only property componentGroupsToRemove: string\[\] - List of component groups that will be removed as part of this modifier
-  - property triggers: Trigger\[\] - List of triggers that will fire as part of this modifier  
-      
+  - property triggers: Trigger\[\] - List of triggers that will fire as part of this modifier\
+    \
 - Trigger
-  - property eventName: string - Event name of the trigger  
-      
+  - property eventName: string - Event name of the trigger\
+    \
 - DataDrivenEntityTriggerEvent
   - read only property entity: Entity - Entity that the event triggered on
-  - read only property id: string - name of the event  
-      
+  - read only property id: string - name of the event\
+    \
 - BeforeDataDrivenEntityTriggerEvent
   - read only property entity: Entity - Entity that the event triggered on
   - read only property id: string - name of the event
   - property modifiers: DefinitionModifier\[\] - List of modifiers that will be applied when the event triggers
-  - property cancel: bool - If true, the event will not be triggered  
-      
+  - property cancel: bool - If true, the event will not be triggered\
+    \
 - EnchantmentType
   - Added EnchantmentType class
   - Read-only property id: string - The name of the enchantment type
-  - Read-only property maxLevel: int - The maximum level this type of enchantment can have  
-      
+  - Read-only property maxLevel: int - The maximum level this type of enchantment can have\
+    \
 - EnchantmentInstance
   - Added EnchantmentInstance class. This represents a binding of an EnchantmentType and level that can be added to an item
   - Constructor EnchantmentInstance(type: EnchantmentType, level : int)
   - Read-only property type: EnchantmentType - The enchantment type of this instance
-  - Property level: int - The level of this enchantment instance  
-      
+  - Property level: int - The level of this enchantment instance\
+    \
 - EnchantmentSlot
-  - Added EnchantmentSlot enum. This enum represents the item slot or type that an enchantment can be applied to  
-      
+  - Added EnchantmentSlot enum. This enum represents the item slot or type that an enchantment can be applied to\
+    \
 - EnchantmentList
   - Added EnchantmentList class. This class represents a collection of enchantments that can be applied to an item
   - Constructor EnchantmentList(slot : EnchantSlot)
@@ -205,13 +206,14 @@ mojang-minecraft module updates:
   - Method canAddEnchantment(instance : EnchantmentInstance): bool - Returns whether or not the provided EnchantmentInstance can be added to this collection
   - Method addEnchantment(instance : EnchantmentInstance): bool - Attempts to add the enchantment to this collection. Returns true if successful
   - Method removeEnchantment(type : EnchantmentType)- Removes an EnchantmentInstance with type type from this collection if present
-  - Method hasEnchantment(type : EnchantmentType): int - If this collection has an EnchantmentInstance with type type, returns the level of the enchantment. Returns 0 if not present  
-      
+  - Method hasEnchantment(type : EnchantmentType): int - If this collection has an EnchantmentInstance with type type, returns the level of the enchantment. Returns 0 if not present\
+    \
 - ItemEnchantmentComponent
-  - Added ItemEnchantmentComponent Item component class.  
+  - Added ItemEnchantmentComponent Item component class.\
     \|
 - ItemStack
   - Property enchantments: EnchantmentList - Gets a copy of the current set of enchantments on this ItemStack. Or allows the user to set the EnchantmentList for the ItemStack
   - Method removeAllEnchantments- Removes any enchantments that might be present on this ItemStack
   - Added function setLore(loreList: string\[\]): void- Sets the lore text for the item
-  - Added function getLore(): string\[\]- Gets the lore text for the item
+  - Added function getLore(): string\[\]- Gets the lore text for the item\
+    \

@@ -110,9 +110,9 @@ Warped Forests can now be found in the Nether!
 
 ### LOCATEBIOME
 
-New command that locates a specified biome. Useful in creative mode when you’re  
-looking for a specific biome and don’t want to fly around randomly searching for it.  
-Syntax: locatebiome \<biome\>  
+New command that locates a specified biome. Useful in creative mode when you’re\
+looking for a specific biome and don’t want to fly around randomly searching for it.\
+Syntax: locatebiome \<biome\>\
 Parameters:
 
 - biome - The id of the biome to find

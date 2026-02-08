@@ -8,7 +8,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004125192-MCPE-WIN10-G
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **New Features:**
 
 - Minecraft Marketplace
@@ -30,7 +30,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Totem of Undying
 - Off-hand slot (only works for arrows & Totem of Undying)
 
-  
+\
 **Tweaks:**
 
 - Changes in world generation. Seeds which contain pre-generated structures such as ocean monuments & igloos may generate those structures in different places now
@@ -54,7 +54,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - /locate command will now find more structures
 - The screen safe area can now be adjusted in Video settings
 
-  
+\
 **Add-Ons:**
 
 - New Vanilla Resource and Behavior Packs are available for download from minecraft.net/addons
@@ -67,7 +67,7 @@ If you find any bugs, be sure to report them here! Click here to give us feedbac
 - Miscellaneous Add-Ons Cleanup: Attributes, Properties and Components are now compatible with more entities and won't crash when added to an incompatible entity. Please continue to report any compatibility issues or crashes to bugs.mojang.com!
 - Entity Upgrade System: Your old Add-Ons will continue to work on this version, no need to add any new components to them
 
-  
+\
 **Bug Fixes:**
 
 - Items on the hotbar no longer change content by themselves!

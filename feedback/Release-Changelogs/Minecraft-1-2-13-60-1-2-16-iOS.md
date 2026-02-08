@@ -10,9 +10,9 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004167211-Minecraft-1-2-13-60-1-2-16-iOS
 ---
 
-While the version numbers differ between iOS and other platforms, the game is still multiplayer compatible with devices running version 1.2.13 or 1.2.16.  
-  
-  
+While the version numbers differ between iOS and other platforms, the game is still multiplayer compatible with devices running version 1.2.13 or 1.2.16.\
+\
+\
 **Fixes**
 
 - Fixed several of the top crashes that occurred during gameplay

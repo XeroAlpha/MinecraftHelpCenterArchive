@@ -151,8 +151,8 @@ You will also be able to vote via the Minecraft Launcher or via web browser at [
 
 ## **General**
 
-- Crafting Table UI updates when a block changes to a permutation with a different *minecraft:crafting_table*block component  
-    
+- Crafting Table UI updates when a block changes to a permutation with a different *minecraft:crafting_table*block component\
+  \
 
 ## **Scripting, APIs, and GameTest Framework**
 

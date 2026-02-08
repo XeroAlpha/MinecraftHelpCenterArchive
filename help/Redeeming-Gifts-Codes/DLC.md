@@ -21,7 +21,7 @@ hash:
   01H7X4GZFSTQG26TKMG1WBXGRF: サポートはどうすれば受けられますか
 ---
 
-*この記事では Bedrock 版の Minecraft で利用できるコード番号を引き換える方法について説明します。**これらのコード番号は、Minecraft: Java Edition やその他の Bedrock 版ではない Minecraft では利用できませんので、ご注意ください。***   
+*この記事では Bedrock 版の Minecraft で利用できるコード番号を引き換える方法について説明します。**これらのコード番号は、Minecraft: Java Edition やその他の Bedrock 版ではない Minecraft では利用できませんので、ご注意ください。*** \
  
 
 ## コード番号を入手するには?
@@ -49,8 +49,8 @@ DLC のコード番号は特定のプロモーション アイテム等に含ま
 3.  アイテムを使用したい Microsoft アカウントでサインインします
 4.  手順に従ってアイテムを取得します
 5.  Minecraft をプレイするデバイスでアイテムを入手した Microsoft アカウントを使用してサインインします
-6.  Minecraft で入手したアイテムを楽しみましょう  
-      
+6.  Minecraft で入手したアイテムを楽しみましょう\
+    \
 
 ## 追加コンテンツはゲーム内のどこで確認できますか?
 
@@ -105,7 +105,7 @@ DLC のコード番号は特定のプロモーション アイテム等に含ま
 - Xbox Family Settings アプリから、「**購入時の確認**」をクリックし有効にします
   - 子どもアカウントで「**購入時の確認**」が無効になっている場合、5x5 のコード番号の引き換えはできません
 
-[Microsoft アカウント管理](https://support.xbox.com/ja-jp/help/family-online-safety/online-safety/manage-online-safety-and-privacy-settings-xbox-one)ページからも同様の設定を行うことが可能です。  
+[Microsoft アカウント管理](https://support.xbox.com/ja-jp/help/family-online-safety/online-safety/manage-online-safety-and-privacy-settings-xbox-one)ページからも同様の設定を行うことが可能です。\
  
 
 ## コード番号が認識されない場合や無効とみなされる場合は、どうすればいいですか? 

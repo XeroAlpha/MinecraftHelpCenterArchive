@@ -20,20 +20,20 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004124692-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to [bugs.mojang.com](https://feedback.minecraft.net/hc/en-us/articles/bugs.mojang.com) and all feedback to feedback.minecraft.net
 
-  
-This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!  
-  
-  
+\
+This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!\
+\
+\
 **New Features:**
 
 - Conduits can now be constructed underwater and give players the Conduit Power effect
 
-  
+\
 **Changes:**
 
 - Slightly decreased the friction of Blue Ice
 
-  
+\
 **Fixes:**
 
 - Fixed several crashes that occurred during gameplay

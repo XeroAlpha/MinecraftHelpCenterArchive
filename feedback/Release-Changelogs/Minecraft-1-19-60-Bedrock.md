@@ -8,8 +8,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/12708273043341-Minecraft-
 
 **Posted: **February 7, 2023
 
-It's time for a new update to Minecraft Bedrock Edition! This time, we're focusing on quality of life improvements with quite a few fixes to the game, including over 70 bugs reported by the community. There's also a nice amount of Vanilla parity tweaks and some new experimental features to test out! For the tech savvy players and creators, we have quite a few improvements on the technical side as well. Dive into the full changelog below for the full scoop and happy crafting!  
-  
+It's time for a new update to Minecraft Bedrock Edition! This time, we're focusing on quality of life improvements with quite a few fixes to the game, including over 70 bugs reported by the community. There's also a nice amount of Vanilla parity tweaks and some new experimental features to test out! For the tech savvy players and creators, we have quite a few improvements on the technical side as well. Dive into the full changelog below for the full scoop and happy crafting!\
+\
 
 **Vanilla Parity:**
 
@@ -57,8 +57,8 @@ It's time for a new update to Minecraft Bedrock Edition! This time, we're focusi
 - Added a unique click sound for Wooden Buttons to match Java Edition
 - Changed Frogspawn map color to match Java Edition ([MCPE-159715](https://bugs.mojang.com/browse/MCPE-159715))
 - Change Bed block map colors to match Java Edition ([MCPE-40709](https://bugs.mojang.com/browse/MCPE-40709))
-- Changed various blocks’ Map colors to appear correctly match Java Edition ([MCPE-19228](https://bugs.mojang.com/browse/MCPE-19228))  
-    
+- Changed various blocks’ Map colors to appear correctly match Java Edition ([MCPE-19228](https://bugs.mojang.com/browse/MCPE-19228))\
+  \
 
 **Experimental Features:**
 
@@ -81,8 +81,8 @@ It's time for a new update to Minecraft Bedrock Edition! This time, we're focusi
 
 - Added Block of Bamboo, which can be crafted from 9 Bamboo
 - Added Stripped Block of Bamboo, which can be obtained by using an Axe on a Block of Bamboo
-- Both Block of Bamboo and Stripped Block of Bamboo can be crafted into 2 Bamboo Planks  
-    
+- Both Block of Bamboo and Stripped Block of Bamboo can be crafted into 2 Bamboo Planks\
+  \
 
 **Fixes:**
 
@@ -191,14 +191,14 @@ It's time for a new update to Minecraft Bedrock Edition! This time, we're focusi
 - Redirect players back to the world selection screen if they choose to leave on the Download Resource Packs prompt
 - Fixed a bug where the option "Require players to accept resource packs to join" did not reflect the actual state ([REALMS-10799](https://bugs.mojang.com/browse/REALMS-10799))
 - Fixed erroneously showing previously applied packs on Realms settings screen after a Realm reset
-- Updated error message for failing to join an owned Realms server that is out of date. New messaging now describes the issue and provides steps to resolve issue  
-    
+- Updated error message for failing to join an owned Realms server that is out of date. New messaging now describes the issue and provides steps to resolve issue\
+  \
 
 **Technical Updates:**
 
 **Updated Add-On Template Packs**
 
-- Updated Add-On templates for1.19.60 with new resources, behaviors, and documentation are available to download at [aka.ms/MCAddonPacks  
+- Updated Add-On templates for1.19.60 with new resources, behaviors, and documentation are available to download at [aka.ms/MCAddonPacks\
   ](https://aka.ms/MCAddOnPacks)
 
 **Performance / Stability**

@@ -58,8 +58,8 @@ Posted April 23, 2019
 
 - **Bells**
   - When rung, all villagers will run into their houses
-  - Bells ring when players interact with them or are powered by redstone  
-      
+  - Bells ring when players interact with them or are powered by redstone\
+    \
 
 **Pillage:**
 
@@ -122,8 +122,8 @@ Posted April 23, 2019
 - **Accessibility Features**
   - Text to Speech can now be enabled to read in-game chat
   - UI Screen Reader can be enabled to say the name of interface controls and their current state
-  - Accessibility features can be enabled in Settings  
-      
+  - Accessibility features can be enabled in Settings\
+    \
 
 **Changes:**
 
@@ -136,8 +136,8 @@ Posted April 23, 2019
   - The number of cats = 1/4 the number of beds
   - Cat total caps at 10 cats per village
 - Lecterns now emit a redstone signal when turning pages
-- Darkened portions of the game's menus to provide stronger contrast for accessibility  
-    
+- Darkened portions of the game's menus to provide stronger contrast for accessibility\
+  \
 
 **Fixes:**
 

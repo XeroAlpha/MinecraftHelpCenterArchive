@@ -407,15 +407,15 @@ A Bundle is an item that lets you stack different blocks or items together in th
 - Removed deprecated behavior pack download related code from packets in the world join flow 
 - Fixed a bug where all custom blocks were rotated 180 degrees in the UI
 - The default for the "gui" "item_display_transforms" "rotation" field is `[30, 45, 0]` instead of `[30, 225, 0]`
-  - "item_display_transforms": {  
-    "gui" : {  
-    "translation": \[0, 0, 0\],  
-    "rotation": \[30, 45, 0\],  
-    "scale": \[0.625, 0.625, 0.625\],  
-    "rotation_pivot" : \[0, 0, 0\],  
-    "scale_pivot" : \[0, 0, 0\],  
-    "fit_to_frame" : true  
-    }  
+  - "item_display_transforms": {\
+    "gui" : {\
+    "translation": \[0, 0, 0\],\
+    "rotation": \[30, 45, 0\],\
+    "scale": \[0.625, 0.625, 0.625\],\
+    "rotation_pivot" : \[0, 0, 0\],\
+    "scale_pivot" : \[0, 0, 0\],\
+    "fit_to_frame" : true\
+    }\
     }
 
 ## API
@@ -628,64 +628,64 @@ A Bundle is an item that lets you stack different blocks or items together in th
 
 - Added "item_display_transforms" control to the block geometry file. This controls the way a block is visually represented in the UI, on the player, and floating on the ground. It exists inside the minecraft:geometry json object and requires geometry format_version 1.21.0 and the "Upcoming Creator Features" toggle
   - Default values example:
-    - "item_display_transforms": {  
-      "gui" : {  
-      "translation": \[0, 0, 0\],  
-      "rotation": \[30, 225, 0\],  
-      "scale": \[0.625, 0.625, 0.625\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\],  
-      "fit_to_frame" : true  
-      },  
-      "firstperson_righthand": {  
-      "translation": \[0, 0, 0\],  
-      "rotation": \[0, 45, 0\],  
-      "scale": \[0.4, 0.4, 0.4\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\]  
-      },  
-      "firstperson_lefthand": {  
-      "translation": \[0, 0, 0\],  
-      "rotation": \[0, -135, 0\],  
-      "scale": \[0.4, 0.4, 0.4\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\]  
-      },  
-      "thirdperson_righthand": {  
-      "translation": \[0, 2.5, 0\],  
-      "rotation": \[75, 45, 0\],  
-      "scale": \[0.375, 0.375, 0.375\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\]  
-      },  
-      "thirdperson_lefthand": {  
-      "translation": \[0, 2.5, 0\],  
-      "rotation": \[75, 45, 0\],  
-      "scale": \[0.375, 0.375, 0.375\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\]  
-      },  
-      "ground": {  
-      "translation": \[0, 3.0, 0\],  
-      "rotation": \[0, 0, 0\],  
-      "scale": \[0.25, 0.25, 0.25\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\]  
-      },  
-      "fixed": {  
-      "translation": \[0, 0, 0\],  
-      "rotation": \[0, 0, 0\],  
-      "scale": \[0.5, 0.5, 0.5\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\]  
-      },  
-      "head": {  
-      "translation": \[0, 0, 0\],  
-      "rotation": \[0, 0, 0\],  
-      "scale": \[1, 1, 1\],  
-      "rotation_pivot" : \[0, 0, 0\],  
-      "scale_pivot" : \[0, 0, 0\]  
-      }  
+    - "item_display_transforms": {\
+      "gui" : {\
+      "translation": \[0, 0, 0\],\
+      "rotation": \[30, 225, 0\],\
+      "scale": \[0.625, 0.625, 0.625\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\],\
+      "fit_to_frame" : true\
+      },\
+      "firstperson_righthand": {\
+      "translation": \[0, 0, 0\],\
+      "rotation": \[0, 45, 0\],\
+      "scale": \[0.4, 0.4, 0.4\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\]\
+      },\
+      "firstperson_lefthand": {\
+      "translation": \[0, 0, 0\],\
+      "rotation": \[0, -135, 0\],\
+      "scale": \[0.4, 0.4, 0.4\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\]\
+      },\
+      "thirdperson_righthand": {\
+      "translation": \[0, 2.5, 0\],\
+      "rotation": \[75, 45, 0\],\
+      "scale": \[0.375, 0.375, 0.375\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\]\
+      },\
+      "thirdperson_lefthand": {\
+      "translation": \[0, 2.5, 0\],\
+      "rotation": \[75, 45, 0\],\
+      "scale": \[0.375, 0.375, 0.375\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\]\
+      },\
+      "ground": {\
+      "translation": \[0, 3.0, 0\],\
+      "rotation": \[0, 0, 0\],\
+      "scale": \[0.25, 0.25, 0.25\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\]\
+      },\
+      "fixed": {\
+      "translation": \[0, 0, 0\],\
+      "rotation": \[0, 0, 0\],\
+      "scale": \[0.5, 0.5, 0.5\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\]\
+      },\
+      "head": {\
+      "translation": \[0, 0, 0\],\
+      "rotation": \[0, 0, 0\],\
+      "scale": \[1, 1, 1\],\
+      "rotation_pivot" : \[0, 0, 0\],\
+      "scale_pivot" : \[0, 0, 0\]\
+      }\
       }
 
 ## API

@@ -10,7 +10,7 @@ link: https://help.minecraft.net/hc/en-us/articles/41416317734797-Minecraft-Spea
 
 This Minecraft Spear Mayhem Challenge Promotion (the “Promotion”) is a limited time offer sponsored by Microsoft Corporation, with a principal place of business at One Microsoft Way, Redmond, WA, 98052, United States (“Sponsor”). The Promotion is subject to these terms, the [Microsoft Services Agreement](https://aka.ms/msa), the [Microsoft Privacy Statement](https://www.microsoft.com/en-us/privacy/privacystatement) and the [Minecraft EULA](https://www.minecraft.net/en-us/eula). The Promotion is open to all online Minecraft: Bedrock Edition players (“Participants”). The Promotion begins on December 12, 2025, at 8:00 AM Pacific Daylight Savings Time (PDT) and ends on December 15, 2025, at 10:00 AM PDT (or earlier, if supplies are exhausted) (the “Promotional Period”). Microsoft may revise the Promotional Period at its discretion.  
 
-**How to Participate:**  
+**How to Participate:**\
 During the Promotional Period, Participants who complete the Spear Mayhem Challenge on Minecraft: Bedrock Edition by defeating five mobs using a spear will receive one (1) free item in-game Zombie Horse cape (“Promotional Item”) (with the approximate retail value of: \$5) applied to their Minecraft Bedrock and Java (if applicable) account inventories approximately 30 days after the promotion end date. Supplies for Promotional Items are limited.  
 
 The offer is limited to one Promotional Item per Microsoft account with unique email address per Minecraft game edition (i.e., maximum two Promotional Items per account – one cape for Java; one cape for Bedrock). Promotional Items are non-transferable, non-refundable, and cannot be redeemed for cash. If there are any issues with redeeming Promotional Items, see our Help Center at [https://help.minecraft.net](https://help.minecraft.net/). Promotional Items are redeemable only until December 14, 2027, 10:00 AM PDT, after which supplies may no longer be available.
@@ -19,4 +19,4 @@ Requires Minecraft: Bedrock Edition (sold separately), Microsoft account, and In
 
 Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA
 
-©/TM/® 2025 Microsoft. © 2026 Mojang AB. Minecraft, the Minecraft logo, the Creeper logo and the Mojang Studios logo are trademarks of the Microsoft group of companies.
+©/TM/® 2025 Microsoft. © 2026 Mojang AB. Minecraft, the Minecraft logo, the Creeper logo and the Mojang Studios logo are trademarks of the Microsoft group of companies.\

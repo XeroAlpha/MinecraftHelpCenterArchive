@@ -8,8 +8,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/9272494067469-Minecraft-1
 
 We're excited to share Bedrock version 1.19.30 with you all! If any of you were worried about eating the bowl along with your stew, worry not: you can keep your bowl now.
 
-As always, we appreciate all your help and input, please report any new bugs at [bugs.mojang.com](http://bugs.mojang.com/) and leave your feedback [feedback.minecraft.net](http://feedback.minecraft.net/).  
-  
+As always, we appreciate all your help and input, please report any new bugs at [bugs.mojang.com](http://bugs.mojang.com/) and leave your feedback [feedback.minecraft.net](http://feedback.minecraft.net/).\
+\
 
 **Vanilla Parity:**
 
@@ -135,14 +135,14 @@ As always, we appreciate all your help and input, please report any new bugs at�
 - Player textures and UI elements should no longer turn pink after playing for an extended period time on highly populated servers ([MCPE-105487](https://bugs.mojang.com/browse/MCPE-105487))
 - Fixed an issue where certain water textures with waterlogged blocks displayed the wrong texture ([MCPE-156281](https://bugs.mojang.com/browse/MCPE-156281))
 - Fixed an issue with flowing Lava and Water textures not animating on some iOS devices
-- Sky in The End dimension will no longer look like static upon entry while it is raining in the Overworld ([MCPE-148843](https://bugs.mojang.com/browse/MCPE-148843))  
-    
+- Sky in The End dimension will no longer look like static upon entry while it is raining in the Overworld ([MCPE-148843](https://bugs.mojang.com/browse/MCPE-148843))\
+  \
 
 **Technical Updates:**
 
 **Updated Add-On Template Packs**
 
-- Updated Add-On templates for 1.19.30 with new resources, behaviors, and documentation, are available to download at [aka.ms/MCAddonPacks  
+- Updated Add-On templates for 1.19.30 with new resources, behaviors, and documentation, are available to download at [aka.ms/MCAddonPacks\
   ](https://aka.ms/MCAddOnPacks)
 
 **Copy Coordinates**

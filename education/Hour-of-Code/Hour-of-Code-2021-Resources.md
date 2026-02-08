@@ -319,8 +319,8 @@ We have coordinated with our localization team to offer all Hour of Code 2021 re
 - [Träna presentationsbilderna för tränaren](https://aka.ms/HOC21trainthetrainer_se)
 - [Bortom kodens timme](https://aka.ms/HOC21BeyondHOC_se)
 - [Introduktionsvideo](https://aka.ms/HOC21videotrailer)
-- [Lektion genom genomgång video  
-    
+- [Lektion genom genomgång video\
+  \
   ](https://aka.ms/HOC21videotutorial)
 
 **Türkçe**

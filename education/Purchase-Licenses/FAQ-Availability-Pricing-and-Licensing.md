@@ -6,6 +6,7 @@ categories: Purchase Licenses
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047119092-FAQ-Availability-Pricing-and-Licensing
 ---
 
+\
 **Where do I buy it?**
 
 The process for purchasing Minecraft Education depends on if you are part of an eligible educational institution or not. For more information on where you can purchase Minecraft Education licenses, see [Purchasing Options for Minecraft Education](https://aka.ms/MEEPurchaseOptions).
@@ -44,8 +45,8 @@ Yes you can! For more information on how to purchase Minecraft Education license
 
 **How much does it cost?**
 
-If you are part of an eligible educational institution, Minecraft Education costs 5.04 US dollars per user, per year (or local currency pricing). If you are not part of an eligible educational institution, the cost is 36 US dollars per user, per year (or local currency pricing). To see the exact cost for your local currency and tax, have your IT Admin go to admin.microsoft.com, and add Minecraft Education licenses to your cart.  For more information on how to purchase Minecraft Education licenses, see [Purchasing Options for Minecraft Education](https://aka.ms/MEEPurchaseOptions).   
-  
+If you are part of an eligible educational institution, Minecraft Education costs 5.04 US dollars per user, per year (or local currency pricing). If you are not part of an eligible educational institution, the cost is 36 US dollars per user, per year (or local currency pricing). To see the exact cost for your local currency and tax, have your IT Admin go to admin.microsoft.com, and add Minecraft Education licenses to your cart.  For more information on how to purchase Minecraft Education licenses, see [Purchasing Options for Minecraft Education](https://aka.ms/MEEPurchaseOptions). \
+\
 
 **Are there any discounts if I buy a large number of licenses for my school? **
 
@@ -69,8 +70,8 @@ In order to process a refund you'll first need to ensure that all of your licens
 
 For a more detailed, Minecraft Education specific guide on how to cancel licenses, view our video linked below! 
 
-[![2024-06-20 15_30_45-(2449) Cancelling Minecraft Education Licenses - YouTube - Work - Microsoft​ Edg.png](https://edusupport.minecraft.net/hc/article_attachments/27762204827028)](https://youtu.be/8QpZFSOcyug)  
-  
+[![2024-06-20 15_30_45-(2449) Cancelling Minecraft Education Licenses - YouTube - Work - Microsoft​ Edg.png](https://edusupport.minecraft.net/hc/article_attachments/27762204827028)](https://youtu.be/8QpZFSOcyug)\
+\
 
 **Can I reclaim a license after its been assigned?**
 

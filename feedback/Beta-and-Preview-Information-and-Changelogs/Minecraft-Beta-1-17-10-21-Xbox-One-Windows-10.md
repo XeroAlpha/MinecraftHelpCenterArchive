@@ -28,8 +28,8 @@ It's time for another Caves & Cliffs beta update! Please continue to leave us yo
 
 ### Android
 
-- Due to submission issues, this week's beta update is not available on Android devices. But don't fret, it will return soon! Multiplayer with the previous beta, version 1.17.10.20, is still compatible with this version.  
-    
+- Due to submission issues, this week's beta update is not available on Android devices. But don't fret, it will return soon! Multiplayer with the previous beta, version 1.17.10.20, is still compatible with this version.\
+  \
 
 # New Features:
 

@@ -277,7 +277,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - Added `BlockComponentRedstoneUpdateEvent`, which can be subscribed by custom block components
 - Added `onRedstoneUpdate` custom component subscription in `beta` with the following conditions
   - Block has `minecraft:redstone_consumer` component, otherwise CONTENT_ERROR is thrown
-  - Subscription is not queued if the `BlockComponentRedstoneUpdateEvent.powerLevel` is less than `minecraft:redstone_consumer` field `min_power`  
+  - Subscription is not queued if the `BlockComponentRedstoneUpdateEvent.powerLevel` is less than `minecraft:redstone_consumer` field `min_power`\
     Here is an example of a custom component json and the subscription script:
 
 ``` auto

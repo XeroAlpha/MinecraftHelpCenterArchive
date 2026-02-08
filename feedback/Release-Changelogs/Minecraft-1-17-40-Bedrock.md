@@ -129,7 +129,7 @@ For more information, please see the article about enabling experimental feature
 - Education Edition items are no longer shown as an option when using @e\[type=\] ([MCPE-78363](https://bugs.mojang.com/browse/MCPE-78363))
 - Command Blocks with 'Needs Redstone' and a non-zero 'Delay in Ticks' will now execute only if they remain powered for the delay duration ([MCPE-74281](https://bugs.mojang.com/browse/MCPE-74281))
 - Fixed alignment of the sidebar display from the '/scoreboard' command when text length changes
-- Fixed the ability to summon experience orbs via the '/summon' command ([MCPE-130835](https://bugs.mojang.com/browse/MCPE-130835))**  **
+- Fixed the ability to summon experience orbs via the '/summon' command ([MCPE-130835](https://bugs.mojang.com/browse/MCPE-130835))**\**
 
 **Technical Updates:**
 
@@ -170,7 +170,7 @@ For more information, please see the article about enabling experimental feature
 - Updated the GameTest Framework interface and added a new SimulatedPlayer capability:
   - Added 'SimulatedPlayer'class to GameTest. This class enables GameTest to simulate a variety of player behaviors such as movement, using items, and interacting with blocks and entities. See the [GameTest API](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/mojang-gametest/mojang-gametest) reference documentation for more details
     - Added function spawnSimulatedPlayer(blockLocation: BlockLocation, name: string): SimulatedPlayer
-    - Added function   
+    - Added function \
       removeSimulatedPlayer(simulatedPlayer: SimulatedPlayer): void
   - mojang-gametest.Test type
     - Changed signature of function assertEntityInstancePresent(entity: Entity, blockLocation: BlockLocation, isPresent: boolean = true)

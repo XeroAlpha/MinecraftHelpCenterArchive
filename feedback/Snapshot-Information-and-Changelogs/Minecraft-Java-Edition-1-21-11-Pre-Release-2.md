@@ -59,3 +59,5 @@ Report bugs here:
 Want to give feedback?
 
 - For any feedback and suggestions, head over to the [Feedback site](https://feedback.minecraft.net/). If you're feeling chatty, join us over at the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
+
+\

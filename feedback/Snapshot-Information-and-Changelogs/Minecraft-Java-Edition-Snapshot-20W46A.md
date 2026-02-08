@@ -68,7 +68,7 @@ Changed a number of the textures for blocks and items introduced in the previous
 
 ## ITEM MODIFIERS
 
-The function part of loot tables can now be defined as separate data pack resource in item_modifiers directory.  
+The function part of loot tables can now be defined as separate data pack resource in item_modifiers directory.\
 Such files can contain a single function (i.e single JSON object) or an array of functions.
 
 ## COMMANDS
@@ -107,7 +107,7 @@ Parameters:
 
 #### SCORE
 
-entity parameter has now been replaced with target.  
+entity parameter has now been replaced with target.\
 It can either contain value from old entity field (like this) or be an score holder name in form {"name": "..."}.
 
 ### CHANGED FUNCTIONS

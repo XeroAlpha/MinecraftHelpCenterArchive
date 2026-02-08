@@ -20,17 +20,17 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165131-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
-This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!  
-  
-  
-**Experimental Gameplay:**  
-  
-Some Update Aquatic features are more unstable and are currently behind the Experimental Gameplay toggle.  
-  
-'Use Experimental Gameplay' can be toggled in World Settings. These features may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.  
-  
-  
+\
+This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!\
+\
+\
+**Experimental Gameplay:**\
+\
+Some Update Aquatic features are more unstable and are currently behind the Experimental Gameplay toggle.\
+\
+'Use Experimental Gameplay' can be toggled in World Settings. These features may break your world so a copy of your world will be created with ""\[EX\]"" before the world name. This feature cannot be disabled once it is enabled for a world and any progress will not be saved to the original world.\
+\
+\
 **New Features:**
 
 - Water has a completely new look and it is now much easier to see above and underwater
@@ -41,7 +41,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 - Heart of the Sea and Nautilus Shell items. These items have no function yet but be sure to collect them for later!
 - Minecraft: Education Edition Chemistry features can now be enabled! For tips on getting started, check out the Chemistry Lab Journal
 
-  
+\
 **Changes:**
 
 - Players can now swim through 1x1 gaps
@@ -58,7 +58,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 - Baby Zombies now burn in daylight
 - Zombies and Skeletons now burn in daylight while in boats
 
-  
+\
 **Fixes:**
 
 - Fixed several of the top crashes that occurred during gameplay
@@ -85,7 +85,7 @@ Some Update Aquatic features are more unstable and are currently behind the Expe
 - '/clear' will now clear items held in hand when playing in Classic UI
 - Improvements to Store load times
 
-  
+\
 **Fixes for bugs introduced during Beta:**
 
 - Fixed a crash that occurred for the host of a multiplayer game when pressing Save & Quit

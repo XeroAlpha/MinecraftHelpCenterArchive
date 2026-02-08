@@ -10,13 +10,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360053622851-Minecraft-1-
 
 The team has been hard at work fixing some top reported issues in Minecraft. Please report any bugs you find on [bugs.mojang.com](https://bugs.mojang.com/) and post feedback to [feedback.minecraft.net](https://feedback.minecraft.net/). Happy mining and happy crafting!
 
-**For players on Windows 10**, some issues can be fixed by updating your graphics drivers. Please see the article on [Updating your Drivers on Minecraft for Windows 10](https://help.minecraft.net/hc/en-us/articles/360053233651-Update-your-Drivers-on-Minecraft-for-Windows-10) to ensure you’re running the latest updates provided by your graphics hardware manufacturer.  
-  
+**For players on Windows 10**, some issues can be fixed by updating your graphics drivers. Please see the article on [Updating your Drivers on Minecraft for Windows 10](https://help.minecraft.net/hc/en-us/articles/360053233651-Update-your-Drivers-on-Minecraft-for-Windows-10) to ensure you’re running the latest updates provided by your graphics hardware manufacturer.\
+\
 
 **February 9, 2021 Realms Fix:**
 
-- Fixed an crash with Realms/Dedicated servers that caused world progress to roll back. This fix does not require a game update, but requires a server update if you host a [Bedrock Dedicated Server](https://www.minecraft.net/en-us/download/server/bedrock/) ([REALMS-6812](https://bugs.mojang.com/browse/REALMS-6812))  
-    
+- Fixed an crash with Realms/Dedicated servers that caused world progress to roll back. This fix does not require a game update, but requires a server update if you host a [Bedrock Dedicated Server](https://www.minecraft.net/en-us/download/server/bedrock/) ([REALMS-6812](https://bugs.mojang.com/browse/REALMS-6812))\
+  \
 
 **Fixes:**
 

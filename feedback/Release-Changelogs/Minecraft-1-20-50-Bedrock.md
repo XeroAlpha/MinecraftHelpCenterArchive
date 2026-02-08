@@ -59,8 +59,8 @@ The latest Minecraft update brings a brand new look for bats, smashable pots, an
 
 ![bats-and-pots.png](https://feedback.minecraft.net/hc/article_attachments/21833697698701)
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 # **New Features**
 
@@ -84,13 +84,13 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Completely remodeled the "How to Play" screen and created a new "Encyclopedia" screen
 - Fixed various spelling mistakes
 - Removed obsolete references to "Old world"
-- Added missing references to Netherite related items ([MCPE-90770](https://bugs.mojang.com/browse/MCPE-90770), [MCPE-165370](https://bugs.mojang.com/browse/MCPE-165370))  
-    
+- Added missing references to Netherite related items ([MCPE-90770](https://bugs.mojang.com/browse/MCPE-90770), [MCPE-165370](https://bugs.mojang.com/browse/MCPE-165370))\
+  \
 
 # **Vanilla Parity**
 
-- Vindicators and Evokers can no longer be spawned in a Peaceful world ([MCPE-124736](https://bugs.mojang.com/browse/MCPE-124736))  
-    
+- Vindicators and Evokers can no longer be spawned in a Peaceful world ([MCPE-124736](https://bugs.mojang.com/browse/MCPE-124736))\
+  \
 
 # **Experimental Features**
 
@@ -166,8 +166,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 
 ## **Villager Trade Rebalancing**
 
-- Fixed an issue where experimental Librarians never sold the highest level of their common enchantments ([MCPE-174861](https://bugs.mojang.com/browse/MCPE-174861))  
-    
+- Fixed an issue where experimental Librarians never sold the highest level of their common enchantments ([MCPE-174861](https://bugs.mojang.com/browse/MCPE-174861))\
+  \
 
 # **Fixes and Changes**
 
@@ -229,8 +229,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
 - Made the hotbar less transparent ([MCPE-31014](https://bugs.mojang.com/browse/MCPE-31014))
 - Added background dimming on screens that didn't have it ([MCPE-168598](https://bugs.mojang.com/browse/MCPE-168598))
 - Fixed an issue where the border around the 'Creator' tab in Settings would not be highlighted ([MCPE-169617](https://bugs.mojang.com/browse/MCPE-169617))
-- The classic skins info popup now sends you to the correct settings page ([MCPE-175854](https://bugs.mojang.com/browse/MCPE-175854))  
-    
+- The classic skins info popup now sends you to the correct settings page ([MCPE-175854](https://bugs.mojang.com/browse/MCPE-175854))\
+  \
 
 # **Technical Updates**
 
@@ -338,8 +338,8 @@ Your thoughts on the game continue to shape new updates so please upvote and rep
   - *dash_cooldown_progress*
     - It was only used to adjust the head animation of the camel as it came out of dash cooldown
     - Camel animation uses *dash_cooldown_progress* in camel.entity.json now
-- *query.is_moving* now detects vertical motion for the player again  
-    
+- *query.is_moving* now detects vertical motion for the player again\
+  \
 
 # **Experimental Technical Updates**
 

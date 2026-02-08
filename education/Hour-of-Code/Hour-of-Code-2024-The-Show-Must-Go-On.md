@@ -12,14 +12,14 @@ hash:
 
 # **Welcome to the Hour of Code 2024: The Show Must Go On!**
 
-*Code the show, save the day with Minecraft*  
-  
+*Code the show, save the day with Minecraft*\
+\
 
-Step into a vibrant theater world to help save the day in Minecraft’s *Hour of Code 2024: The Show Must Go On!* In this new Hour of Code adventure, students will explore the theater to find the missing star, the Agent, while solving fun coding puzzles and interacting with lively characters. They will unlock hidden gags, customize the show, and plan an unforgettable performance.  
-  
+Step into a vibrant theater world to help save the day in Minecraft’s *Hour of Code 2024: The Show Must Go On!* In this new Hour of Code adventure, students will explore the theater to find the missing star, the Agent, while solving fun coding puzzles and interacting with lively characters. They will unlock hidden gags, customize the show, and plan an unforgettable performance.\
+\
 
-In Minecraft’s “*Hour of Code 2024: The Show Must Go On!*” students will solve coding puzzles while engaging with lively characters in a theater world.  
-  
+In Minecraft’s “*Hour of Code 2024: The Show Must Go On!*” students will solve coding puzzles while engaging with lively characters in a theater world.\
+\
 
 Students can help the Agent overcome stage fright as they navigate backstage areas like the Dance Studio and Prop Department. For the grand finale, they will customize the stage show with their creative input and watch their coding skills come to life!
 

@@ -6,7 +6,7 @@ categories: Troubleshooting
 link: https://edusupport.minecraft.net/hc/en-us/articles/4413322344852--Make-sure-you-re-using-an-organizational-account-error
 ---
 
-Do you see this error when you or a user in your organization tries to login?  
+Do you see this error when you or a user in your organization tries to login?\
 "We were unable to sign you in. Please make sure you are signing in with your school or organizational account and try again."
 
 ![Screenshot_20240222_210203.png](https://edusupport.minecraft.net/hc/article_attachments/23965392154516)

@@ -21,7 +21,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004442111-Creating-Gre
 - Posts must contain content. Empty posts are spam. Subject lines aren't optional. :) Subjects and contents need to be different, otherwise, it's just spam.
 - "More mobs" (ores, biomes, dimensions) does not really tell anyone what they're voting for. We all want more (fill in the blank)! One specific idea to discuss and vote on is an even better idea.
 - Focus on single ideas, not on entire updates. Good updates are made up of many good ideas.
-- Did you check [this one](./Previously-Considered-Suggestions.md) for Minecraft Java and Bedrock ideas?
+- Did you check [this one](../Archived-Feedback-Website-Articles/Archived-Previously-Considered-Suggestions.md) for Minecraft Java and Bedrock ideas?
 - Never ever post any personal information like your age, name, or email address.
 - **No outside links.** This means links to documents, pictures, your blog, outside forums, social media, or anything like that. Because outside links can be changed at any time to unsafe content, they will be considered spam and rejected. JIRA links are fine and strongly encouraged.
 - If it's been in a video, it's probably already been posted about. Don't forget to search first!

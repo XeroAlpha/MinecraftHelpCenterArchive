@@ -75,8 +75,8 @@ Here's a list of what is new in this week's Minecraft Preview and Beta! Remember
 ## **API**
 
 - RawMessage
-  - Changed the signature of property withfrom *(string\[\] \| RawMessage)\[\]?*  to *(string\[\] \| RawMessage)?*  
-      
+  - Changed the signature of property withfrom *(string\[\] \| RawMessage)\[\]?*  to *(string\[\] \| RawMessage)?*\
+    \
 - EntityHealthComponent
   - Fixed a bug where health could be modified on dead entities ([MCPE-130687](https://bugs.mojang.com/browse/MCPE-130687))
 - Scoreboard

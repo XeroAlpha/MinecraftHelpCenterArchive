@@ -95,8 +95,8 @@ Check out this article for information about [allowing network access to that se
 ## Do I need the internet to play the Hour of Code Lesson?
 
 - An internet connection is required.
-- If you don't have reliable internet, we recommend [downloading the offline version of the Minecraft Adventurer tutorial on Code.org.](https://studio.code.org/download/mc)  
-    
+- If you don't have reliable internet, we recommend [downloading the offline version of the Minecraft Adventurer tutorial on Code.org.](https://studio.code.org/download/mc)\
+  \
 
 ## What are the system requirements for the Hour of Code Lesson?
 
@@ -117,24 +117,24 @@ Check out this article for information about [allowing network access to that se
 ## Is the Hour of Code Lesson a multiplayer experience? 
 
 - No, the Hour of Code Lesson is designed to be a single-player experience.
-- If students sign into Minecraft Education and access the Hour of Code lesson from the Library, it is possible to play in multiplayer, but this is not recommended. The lesson was designed to be single-player.  
-    
+- If students sign into Minecraft Education and access the Hour of Code lesson from the Library, it is possible to play in multiplayer, but this is not recommended. The lesson was designed to be single-player.\
+  \
 
 ## Can students chat with each other from within the Hour of Code Lesson? 
 
 - Students cannot chat with one another in the Hour of Code Demo Lesson.
-- If students sign into Minecraft Education and access the Hour of Code lesson from the Library, it is possible to play in multiplayer and access chat, but this is not recommended. The lesson was designed to be single-player.  
-    
+- If students sign into Minecraft Education and access the Hour of Code lesson from the Library, it is possible to play in multiplayer and access chat, but this is not recommended. The lesson was designed to be single-player.\
+  \
 
 ## What accessibility features are available in the Hour of Code experience?
 
-- The lesson supports Immersive Reader, UI screen reader, keyboard and mouse hints, and ability to remap and adjust keyboard, mouse, and touch controls.  
-    
+- The lesson supports Immersive Reader, UI screen reader, keyboard and mouse hints, and ability to remap and adjust keyboard, mouse, and touch controls.\
+  \
 
 ## Which languages is the Hour of Code Lesson available in?
 
-- The Hour of Code lessons will first be available in English (United States) and English (UK). Shortly thereafter, Hour of Code 2022 will be available in German, Spanish (Spain), Spanish (Mexico), French (France), French (Canada), Italian, Japanese, Korean, Portuguese (Brazil), Portuguese (Portugal), Russian, Chinese (Simplified), Chinese (Traditional), Turkish, Polish, Indonesian, Ukrainian, Greek, Bulgarian, Hungarian, Finnish, Danish, Swedish, Norwegian, Slovak, Czech, Dutch  
-    
+- The Hour of Code lessons will first be available in English (United States) and English (UK). Shortly thereafter, Hour of Code 2022 will be available in German, Spanish (Spain), Spanish (Mexico), French (France), French (Canada), Italian, Japanese, Korean, Portuguese (Brazil), Portuguese (Portugal), Russian, Chinese (Simplified), Chinese (Traditional), Turkish, Polish, Indonesian, Ukrainian, Greek, Bulgarian, Hungarian, Finnish, Danish, Swedish, Norwegian, Slovak, Czech, Dutch\
+  \
 
 ## What should I do if I'm coding in Block and my coding window will not load, or the code is not running?
 
@@ -165,7 +165,8 @@ In this new Hour of AI adventure, students collaborate with their AI Agent, solv
 
 ### Hour of Code 2024 FAQ
 
-## What is the theme of the 2024 Hour of Code: The Show Must Go On? 
+What is the theme of the 2024 Hour of Code: The Show Must Go On?\
+-----------------------------------------------------------------
 
 Let your students code, create, and take the spotlight with Hour of Code 2024: The Show Must Go On! In this bustling theater-themed lesson, students become the star coder, director, and creative mastermind. Solve puzzles and learn key computer science skills while saving the show! The big show is about to begin, but there's a major problem – Agent, the coding hero and star of the performance, has disappeared! Join forces with the show's crew to save the day. Explore behind the scenes, solve coding puzzles, and help Agent overcome stage fright. Program dazzling dances in the Dance Studio, compose catchy tunes in the Recording Studio, design eye-catching props, and create amazing costumes in the Wardrobe Department.
 
@@ -182,8 +183,8 @@ The lesson is available for free in Minecraft Education at [aka.ms/hourofcode]
 
 Explore Minecraft’s Hour of Code 2024: The Show Must Go On! today, and plan to join millions of students worldwide to celebrate the power of code during [Computer Science Education Week](https://www.csedweek.org/) (CSEdWeek) December 9-15, 2024.
 
-Continue your creative coding journey in Minecraft Education with [GameCode](https://aka.ms/gamecode), using MakeCode to build your own mini-games in Minecraft.  We also have a brand new [AI Foundations](https://aka.ms/minecraftai) collection to build critical awareness and competencies in AI Literacy.  
-  
+Continue your creative coding journey in Minecraft Education with [GameCode](https://aka.ms/gamecode), using MakeCode to build your own mini-games in Minecraft.  We also have a brand new [AI Foundations](https://aka.ms/minecraftai) collection to build critical awareness and competencies in AI Literacy.\
+\
 
 ### What teacher materials do you provide to support the Hour of Code 2024 Lesson?
 
@@ -260,8 +261,8 @@ We have more educator resources than ever to help you facilitate an Hour of Code
 
 This year’s Hour of Code is designed to be replayed! Continue beyond one hour to explore all three pathways with dynamic outcomes.
 
-Continue learning in Minecraft Education with over 150 hours of Computer Science curriculum to develop algorithmic thinking and computational skills at every stage of the learning journey.  
-  
+Continue learning in Minecraft Education with over 150 hours of Computer Science curriculum to develop algorithmic thinking and computational skills at every stage of the learning journey.\
+\
 
 ## What teacher materials do you provide to support the Hour of Code 2022 Lesson?
 
@@ -273,8 +274,8 @@ You can find the Educator resources here:
 - [Solutions](https://aka.ms/hoc22solutions)
 - [Lesson Trailer](https://aka.ms/hoc22videotrailer)
 - [Certificate of Completion](https://aka.ms/hoc22certificate)
-- [Update to a New Version of Minecraft Education](https://aka.ms/MEEUpdate)  
-    
+- [Update to a New Version of Minecraft Education](https://aka.ms/MEEUpdate)\
+  \
 
 ## What happens when I finish the Hour of Code Lesson?
 
@@ -290,8 +291,8 @@ You can find the Educator resources here:
 ## What is the theme of the 2021 Hour of Code?
 
 - This year’s theme is TimeCraft. This Hour of Code adventure travels through time and space and explores the concept of building a better future through code. Players will experience a choose your own adventure game, exploring diverse key moments in human achievement. Traversing the ages, players will connect with innovators and inventions, learn about the impact of advances in art, architecture, music, engineering, science, math and computer science, and practice critical thinking and deductive reasoning. Using their coding super powers, players will save the future by solving mysterious incongruities in the past, collecting clues and connecting patterns to identify the mischievous time culprit.
-- Computer science skills are truly everywhere and for everyone, no matter where, who or when you are!  
-    
+- Computer science skills are truly everywhere and for everyone, no matter where, who or when you are!\
+  \
 
 ## What teacher materials do you provide to support the Hour of Code Lesson?
 
@@ -302,8 +303,8 @@ You can find the Educator resources here:
 - [Flyer](https://aka.ms/HOC21flyerweb)
 - [Answers](https://aka.ms/HOC21solutionsguide)
 - [Lesson Trailer](https://aka.ms/HOC21trailervideo)
-- [Certificate of Completion](https://aka.ms/HOC21certificate)  
-    
+- [Certificate of Completion](https://aka.ms/HOC21certificate)\
+  \
 
 ## What happens when I finish the Hour of Code Lesson?
 
@@ -316,8 +317,8 @@ You can find the Educator resources here:
 
 ## What is the theme of the 2020 Hour of Code?
 
-- Equity and Inclusion  
-    
+- Equity and Inclusion\
+  \
 
 ## What teacher materials do you provide to support the Hour of Code Lesson?
 

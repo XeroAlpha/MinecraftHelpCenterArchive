@@ -113,9 +113,9 @@ Two new accessibility settings have been added to help with visual comfort.
 
 ### SPAWNPOINT & SETWORLDSPAWN
 
-Added an angle parameter for setting the default facing angle of a respawning player  
-Syntax: spawnpoint \[\<targets\>\] \[\<pos\>\] \[\<angle\>\]  
-Syntax: setworldspawn \[\<pos\>\] \[\<angle\>\]  
+Added an angle parameter for setting the default facing angle of a respawning player\
+Syntax: spawnpoint \[\<targets\>\] \[\<pos\>\] \[\<angle\>\]\
+Syntax: setworldspawn \[\<pos\>\] \[\<angle\>\]\
 New parameters:
 
 - angle - Floating point angle in degrees. Supports the relative ~ modifier
@@ -154,18 +154,18 @@ New parameters:
 
 ### OPTIONAL ENTRIES
 
-Entries in tags can now be marked as optional. Failure to resolve optional entries does not prevent the whole tag from loading.  
+Entries in tags can now be marked as optional. Failure to resolve optional entries does not prevent the whole tag from loading.\
 Example:
 
-{  
-  "replace": false,  
-  "values": \[  
-    "#minecraft:beds", // existing syntax  
-    { "id":"#missing:tag", "required": false }, // optional sub-tag entry  
-    "minecraft:anvil", // existing syntax  
-    { "id":"minecraft:stone_button", "required": true }, // new syntax for required tags  
-    { "id":"missing:block", "required": false } // optional single-element entry  
-  \]  
+{\
+  "replace": false,\
+  "values": \[\
+    "#minecraft:beds", // existing syntax\
+    { "id":"#missing:tag", "required": false }, // optional sub-tag entry\
+    "minecraft:anvil", // existing syntax\
+    { "id":"minecraft:stone_button", "required": true }, // new syntax for required tags\
+    { "id":"missing:block", "required": false } // optional single-element entry\
+  \]\
 }
 
 # BUGS

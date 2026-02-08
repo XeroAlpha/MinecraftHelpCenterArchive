@@ -586,7 +586,7 @@ Some game events have been renamed, with some of those changes to make them more
 
  
 
-Sets the item tags needed for instrument items to a randomly selected instrument from a tag  
+Sets the item tags needed for instrument items to a randomly selected instrument from a tag\
 Parameters:
 
  

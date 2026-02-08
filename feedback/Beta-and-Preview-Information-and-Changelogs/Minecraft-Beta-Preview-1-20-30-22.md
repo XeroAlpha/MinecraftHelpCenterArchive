@@ -34,7 +34,7 @@ hash:
 
 We have some more fixes and tweaks ready for you in this week’s Minecraft Preview. Please report and upvote any bugs you encounter at* *[bugs.mojang.com](http://bugs.mojang.com/), and enjoy the update!
 
-**Update on 1.20.20**  
+**Update on 1.20.20**\
 Thank you to all who participated in the 1.20.20.xx Minecraft Preview and Betas! We have a lot of exciting fixes and features prepared, but aren't quite ready to release these to everyone just yet. So, we are continuing with the 1.20.30.xx Preview and Betas, and when we are ready we'll have a combined update that is slightly larger than usual. If you want to read more about what is lined up you can read through all of the recent changelogs [here](https://feedback.minecraft.net/hc/en-us/sections/360001185332). Thank you for your patience!
 
 # **Features and Bug Fixes**

@@ -44,21 +44,24 @@ So, if you're planning to build an amazing castle that you want to impress your 
 
 ![Picture3.png](https://feedback.minecraft.net/hc/article_attachments/4403606638733/Picture3.png)
 
-###  When using an existing world:  *Note: While a copy of your world is generated automatically when activating an experimental feature toggle, in the event of something going wrong, you're also able to create copies of your world manually as an extra precaution.*
+### \
+When using an existing world:\
+\
+*Note: While a copy of your world is generated automatically when activating an experimental feature toggle, in the event of something going wrong, you're also able to create copies of your world manually as an extra precaution.*
 
-1.  1.  Go to 'Edit'.  
-          
-        ![Worlds_List_2.PNG](https://feedback.minecraft.net/hc/article_attachments/4404216888077/Worlds_List_2.PNG)  
-          
+1.  1.  Go to 'Edit'.\
+        \
+        ![Worlds_List_2.PNG](https://feedback.minecraft.net/hc/article_attachments/4404216888077/Worlds_List_2.PNG)\
+        \
     2.  Under “Game” settings, scroll down to "Experiments" and choose your toggle.
-2.    
-    ![mceclip0.png](https://feedback.minecraft.net/hc/article_attachments/5944752458125/mceclip0.png)  
-    1.  When you get the popup asking "Activate Experimental Gameplay?", click "Activate Experiments".  
-          
-                             ![Activate_Experiments.PNG](https://feedback.minecraft.net/hc/article_attachments/4404220900493/Activate_Experiments.PNG)  
-          
-    2.  This will create a copy of your world that will get the same name as the original world with “Copy of...” added in front of it.  
-          
+2.  \
+    ![mceclip0.png](https://feedback.minecraft.net/hc/article_attachments/5944752458125/mceclip0.png)\
+    1.  When you get the popup asking "Activate Experimental Gameplay?", click "Activate Experiments".\
+        \
+                             ![Activate_Experiments.PNG](https://feedback.minecraft.net/hc/article_attachments/4404220900493/Activate_Experiments.PNG)\
+        \
+    2.  This will create a copy of your world that will get the same name as the original world with “Copy of...” added in front of it.\
+        \
                ![Worlds_List.PNG](https://feedback.minecraft.net/hc/article_attachments/4404216889229/Worlds_List.PNG)
 
 ## **How do I know if my world has experimental features enabled?**

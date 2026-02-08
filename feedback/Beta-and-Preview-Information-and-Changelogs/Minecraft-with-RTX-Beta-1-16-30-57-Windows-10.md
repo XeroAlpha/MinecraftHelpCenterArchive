@@ -25,8 +25,8 @@ We are reviewing Minecraft with ray tracing on new graphics card hardware from A
 
 **Minecraft RTX Beta 1.16.30.57**
 
-- We've rolled out a small update to this week's beta that improves performance while playing with ray tracing enabled  
-    
+- We've rolled out a small update to this week's beta that improves performance while playing with ray tracing enabled\
+  \
 
 **Minecraft RTX Beta 1.16.30.56**
 
@@ -40,8 +40,8 @@ We are reviewing Minecraft with ray tracing on new graphics card hardware from A
 - Added support for Blindness effect
 - Support for solid colored banners
 - Added cracking animation when player is above water, but mining blocks underwater
-- Improved appearance of sand and ice during day-night cycle  
-    
+- Improved appearance of sand and ice during day-night cycle\
+  \
 
 **Fixes**
 

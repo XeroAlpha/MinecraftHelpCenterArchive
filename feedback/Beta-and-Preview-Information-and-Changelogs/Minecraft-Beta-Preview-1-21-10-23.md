@@ -30,8 +30,8 @@ hash:
 - Minecraft Preview is available on Xbox, PlayStation 4, Windows 10/11, and iOS devices. More information can be found at [aka.ms/PreviewFAQ](https://aka.ms/PreviewFAQ)
 - The beta is available on Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions
 
-Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview update! Please keep sending in any suggestions you have at [feedback.minecraft.net](https://feedback.minecraft.net/), and please report and upvote any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/)!  
-  
+Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview update! Please keep sending in any suggestions you have at [feedback.minecraft.net](https://feedback.minecraft.net/), and please report and upvote any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/)!\
+\
 
 # **Features and Bug Fixes:**
 
@@ -74,8 +74,8 @@ Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview 
 - Fixed tags showing up vertically in Marketplace item descriptions
 - Fixed missing texture in My Content section of Marketplace ([MCPE-181964](https://bugs.mojang.com/browse/MCPE-181964))
 - Game tips now appear and disappear from the screen with “fade-in” and “fade-out” animations
-- Replaced Marketplace Pass gradient with solid gray to improve readability  
-    
+- Replaced Marketplace Pass gradient with solid gray to improve readability\
+  \
 
 # **Technical Updates:**
 
@@ -98,8 +98,8 @@ Here’s what’s new in the latest Minecraft: Bedrock Edition Beta and Preview 
 
 ## **Molang**
 
-- Fixed Molang content errors to include the expression in the logged message  
-    
+- Fixed Molang content errors to include the expression in the logged message\
+  \
 
 # **Experimental Technical Updates:**
 

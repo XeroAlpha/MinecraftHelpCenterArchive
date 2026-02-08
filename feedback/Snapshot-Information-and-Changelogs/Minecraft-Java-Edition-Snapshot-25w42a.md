@@ -299,7 +299,7 @@ The color of fog when submerged in water. Note: the final value is also affected
 
 #### minecraft:visual/water_fog_radius
 
-The distance in blocks from the camera at which underwater fog reaches its maximum density.  
+The distance in blocks from the camera at which underwater fog reaches its maximum density.\
 Note: the final value is also modified by how long the player has been underwater.
 
 - Value type: non-negative float

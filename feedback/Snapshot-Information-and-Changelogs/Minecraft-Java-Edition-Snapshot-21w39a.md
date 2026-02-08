@@ -8,8 +8,8 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/4410294651405-Minecraft-Java-Edition-Snapshot-21w39a
 ---
 
-Time for an advanced snapshot! In this snapshot, you can also open worlds from previous versions again - with one big warning! The blending technology we intend to introduce for Caves & Cliffs: Part II is not yet available. If you open an old world in this snapshot it will be upgraded with air under the current bottom of the world and visible chunk borders to new areas.  
-  
+Time for an advanced snapshot! In this snapshot, you can also open worlds from previous versions again - with one big warning! The blending technology we intend to introduce for Caves & Cliffs: Part II is not yet available. If you open an old world in this snapshot it will be upgraded with air under the current bottom of the world and visible chunk borders to new areas.\
+\
 **We highly recommend backing up your world before loading it in this snapshot.**
 
 # NEW FEATURES IN 21W39A

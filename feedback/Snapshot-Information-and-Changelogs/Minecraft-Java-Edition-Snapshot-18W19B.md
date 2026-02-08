@@ -26,13 +26,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004203431-Minecraft-Ja
 - Maybe some other stuff?
 - Fixed a couple of bugs
 
-  
+\
 **Changes in 18W19B**
 
 - You can now open worlds from old snapshots
 - A bunch of bugfixes
 
-  
+\
 **Fixed Bugs in 18W19A**
 
 - [MC-7908](https://bugs.mojang.com/browse/MC-7908) - Spawning underwater / In the middle of an (lava) ocean
@@ -137,7 +137,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004203431-Minecraft-Ja
 - [MC-128779](https://bugs.mojang.com/browse/MC-128779) - "Debug Mode" comes before "Buffet" in the world creation menu
 - [MC-128857](https://bugs.mojang.com/browse/MC-128857) - Sea pickles change hitbox when increasing count, but turtle eggs don't
 
-  
+\
 **Fixed Bugs in 18W19B**
 
 - [MC-122308](https://bugs.mojang.com/browse/MC-122308) - Zombies can no longer break wooden doors
@@ -149,13 +149,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004203431-Minecraft-Ja
 - [MC-129233](https://bugs.mojang.com/browse/MC-129233) - Items with additional NBT you hold don't show up or "wiggle" up and down; damaged tools partially don't work anymore
 - [MC-129246](https://bugs.mojang.com/browse/MC-129246) - The sound for Parrots imitating Phantoms is empty
 
-  
-**Get the Snapshot**  
-  
-To install the snapshot, open up the [Minecraft Launcher](https://minecraft.net/download) and enable snapshots in the "Launch Options" tab.  
-  
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
-  
+\
+**Get the Snapshot**\
+\
+To install the snapshot, open up the [Minecraft Launcher](https://minecraft.net/download) and enable snapshots in the "Launch Options" tab.\
+\
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**\
+\
 Cross-platform server jar:
 
 - [Minecraft server jar](https://launcher.mojang.com/mc/game/18w19a/server/97ad982d57fb7b7cb9dc28ffd87c79538b1901f6/server.jar)

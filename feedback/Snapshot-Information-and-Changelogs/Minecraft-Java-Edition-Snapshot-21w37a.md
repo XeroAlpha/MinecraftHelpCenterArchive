@@ -102,7 +102,7 @@ Happy mining!
 
 ## NOISE CAVES AND AQUIFERS
 
-- Noise caves are a new way of generating caves, providing more natural variety. They can get really huge sometimes!  
+- Noise caves are a new way of generating caves, providing more natural variety. They can get really huge sometimes!\
   Noise caves come in three flavors:
   - Cheese caves. Like the holes in swiss cheese. These often form caverns of various size
   - Spaghetti caves. Long squiggly tunnels, sometimes wide like tagliatelle
@@ -110,8 +110,8 @@ Happy mining!
 - No, they aren’t loud. The “noise” part of noise caves is a technical term and has nothing to do with sound
 - The old cave carvers and canyons still generate, combining with the noise caves to form interesting cave systems
 - As with carvers, when noise caves intersect the surface they form cave entrances
-- An aquifer is an area with local water level, independent of sea level.  
-  Aquifers are used during world generation to generate bodies of water inside noise caves.  
+- An aquifer is an area with local water level, independent of sea level.\
+  Aquifers are used during world generation to generate bodies of water inside noise caves.\
   This sometimes results in large underground lakes! They can also form inside mountains and on the surface.
 - Aquifers below y0 will sometimes be lava aquifers instead of water aquifers
 - Magma Blocks sometimes generates at the bottom of underground bodies of water

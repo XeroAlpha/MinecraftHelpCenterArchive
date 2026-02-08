@@ -14,7 +14,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004168651-MCPE-WIN10-G
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Bug Fixes:**
 
 - Various improvements and fixes

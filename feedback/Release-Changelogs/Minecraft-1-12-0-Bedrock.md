@@ -277,7 +277,9 @@ hash:
   - Bow
   - Water Movement
 
-# **Script Engine Updates:** (Currently available on Windows 10 with Experimental Gameplay enabled)
+**Script Engine Updates:\**
+(Currently available on Windows 10 with Experimental Gameplay enabled)
+======================================================================
 
 - **Block API V0**
   - New block events and two new APIs have been included to query for blocks:

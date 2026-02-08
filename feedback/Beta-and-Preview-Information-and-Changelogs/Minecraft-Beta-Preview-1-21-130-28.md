@@ -66,4 +66,4 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 ## World Generation[](https://feedback.minecraft.net/hc/en-us/articles/anchor=world-generation)
 
-- Blocks with the tick component tick when placed by Jigsaw Structure during world generation
+- Blocks with the tick component tick when placed by Jigsaw Structure during world generation\

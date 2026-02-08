@@ -21,10 +21,10 @@ The Microsoft 365 Admin Center is where you manage individual licenses that you 
 Follow these steps to view the Minecraft Education licenses you have available. 
 
 1.  Sign in to your [Microsoft 365](https://login.microsoftonline.com/) account. 
-2.  From the left-hand menu, select **Admin**.   
+2.  From the left-hand menu, select **Admin**. \
     **Result:** You’re redirected to the **Microsoft 365 Admin Center** page. 
 3.  From the left-hand menu, go to **Billing** \> **License** and select the **Minecraft Education** license. 
-4.  Review the number of **Available licenses** and **Assigned licenses**.   
+4.  Review the number of **Available licenses** and **Assigned licenses**. \
     *Note: If you need to purchase more licenses, see *[Purchase Minecraft Education Licenses in the Microsoft Admin Center](https://aka.ms/MEECommercialPurchase)*.* 
 
  
@@ -34,7 +34,7 @@ Follow these steps to view the Minecraft Education licenses you have available.�
 Follow these steps to assign a license to a user.   Use this procedure if you purchased the Minecraft Education licenses individually.
 
 1.  Sign in to your [Microsoft 365](https://login.microsoftonline.com/) account. 
-2.  From the left-hand menu, select **Admin**.   
+2.  From the left-hand menu, select **Admin**. \
     **Result:** You’re redirected to the **Microsoft 365 Admin Center** page. 
 3.  From the left-hand menu, go to **Billing** \> **License** and select the **Minecraft Education** license. 
 4.  Select **Assign licenses**.  
@@ -48,11 +48,11 @@ Follow these steps to assign a license to a user.   Use this procedure if you
 Follow these steps to remove a license from a user. Use this procedure if you assigned the Minecraft Education licenses directly to a user.
 
 1.  Sign in to your [Microsoft 365](https://login.microsoftonline.com/) account. 
-2.  From the left-hand menu, select **Admin**.   
+2.  From the left-hand menu, select **Admin**. \
     **Result:** You’re redirected to the **Microsoft 365 Admin Center** page. 
 3.  From the left-hand menu, go to **Billing** \> **License** and select the **Minecraft Education** license. 
 4.  From the** Users** list, select the users you want to remove the license from and click **Unassign licenses**. 
-5.  Click **Unassign** to confirm the action.   
+5.  Click **Unassign** to confirm the action. \
     **Result:** The license is unassigned from the user. The user is still able to sign into Minecraft Education for 7 days after the license is unassigned.  
 
  

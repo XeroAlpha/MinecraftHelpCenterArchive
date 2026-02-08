@@ -8,7 +8,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360048253952-Minecraft-1-
 
 **Posted:** September 3, 2020
 
-This hotfix is being rolled out to all other platforms over the next week. Cross-play is still compatible with all Bedrock platforms running 1.16.20 or higher. Please continue to engage with us through [bugs.mojang.com](https://bugs.mojang.com/) and keep the bug reports coming, we really appreciate your help!   
+This hotfix is being rolled out to all other platforms over the next week. Cross-play is still compatible with all Bedrock platforms running 1.16.20 or higher. Please continue to engage with us through [bugs.mojang.com](https://bugs.mojang.com/) and keep the bug reports coming, we really appreciate your help! \
  
 
 **Fixes:**

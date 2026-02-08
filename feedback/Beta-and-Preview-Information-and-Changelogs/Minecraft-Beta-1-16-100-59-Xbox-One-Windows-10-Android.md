@@ -12,13 +12,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360050305112-Minecraft-Be
 - You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
 - Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them
 - Beta builds can be unstable and are not representative of final version quality
-- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions  
-    
+- The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see [aka.ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions\
+  \
 
 **Changes**
 
-- RenderDragon has been re-enabled in this beta  
-    
+- RenderDragon has been re-enabled in this beta\
+  \
 
 **Fixes**
 
@@ -43,8 +43,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360050305112-Minecraft-Be
 
 **User Interface**
 
-- Fixed the 'Profile' button in the Pause Menu not being sized correctly  
-    
+- Fixed the 'Profile' button in the Pause Menu not being sized correctly\
+  \
 
 **Technical Changes**
 

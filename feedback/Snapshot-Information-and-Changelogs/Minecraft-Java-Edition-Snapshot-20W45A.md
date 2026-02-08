@@ -150,7 +150,7 @@ A dedicated server can enforce custom resource packs by setting require-resourc
 
 ## ENTITY STORAGE
 
-Entities have been extracted from main (terrain) chunks and are now stored in a separate entities directory (similar to POI storage).  
+Entities have been extracted from main (terrain) chunks and are now stored in a separate entities directory (similar to POI storage).\
 Those new files are still region files with NBT.
 
 ## LOOT TABLES
@@ -159,7 +159,7 @@ Those new files are still region files with NBT.
 
 #### SET_BANNER_PATTERN
 
-Sets tags needed for banner patterns.  
+Sets tags needed for banner patterns.\
 Parameters:
 
 - patterns - list of pattern objects:

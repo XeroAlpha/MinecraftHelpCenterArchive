@@ -28,10 +28,10 @@ How to use
 
  
 
-With the Camera in your hand, you can right click to take a 1st person snapshot of your screen, which will be saved into your Portfolio.  
-You can also place the Camera into your world by right-click pointing at an existing block in your world.  
-Once placed, right click the camera to activate it. A smoky timer will count down as the Camera blinks, and after five seconds, a picture will be taken. If you move around, the Camera will track you during this time.  
-After one photo, the Camera will disappear and you’ll need to place a second one. Note that once you place a Camera, any player in the world can use it, so you should provide plenty if you want students to use them in a lesson.  
+With the Camera in your hand, you can right click to take a 1st person snapshot of your screen, which will be saved into your Portfolio.\
+You can also place the Camera into your world by right-click pointing at an existing block in your world.\
+Once placed, right click the camera to activate it. A smoky timer will count down as the Camera blinks, and after five seconds, a picture will be taken. If you move around, the Camera will track you during this time.\
+After one photo, the Camera will disappear and you’ll need to place a second one. Note that once you place a Camera, any player in the world can use it, so you should provide plenty if you want students to use them in a lesson.\
 You can also take close-up snapshots of an item on the ground by holding the Shift key while right-clicking. Without holding the Shift key, this would place the Camera on the ground without taking a snapshot. With the Camera in your hand, you can right click to take a 1st person snapshot of your screen, which will be saved into your Portfolio.
 
 **Portfolio**

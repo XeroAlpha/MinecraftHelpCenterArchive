@@ -12,8 +12,8 @@ Eight new wolf variations, wolf armor, and armadillos are dropping in Minecraft 
 
 ![1-20-80_header.jpg](https://feedback.minecraft.net/hc/article_attachments/26108200474509)
 
-Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Your thoughts on the game continue to shape new updates so please upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **New Features:**
 
@@ -110,8 +110,8 @@ We’ve improved the way you connect with players in Minecraft! To help you foll
 - Lists of recommended and suggested friends
 - Improved search to give partial results while you are typing
 - Ability to share your profile information through a QR code or a share link
-- A handy button that copies your Gamertag to the clipboard  
-    
+- A handy button that copies your Gamertag to the clipboard\
+  \
 
 **Experimental Features:**
 
@@ -170,8 +170,8 @@ We’ve improved the way you connect with players in Minecraft! To help you foll
   - Flow Armor Trim Smithing Template
   - Flow Banner Pattern
   - Guster Banner Pattern
-  - Heavy Core  
-      
+  - Heavy Core\
+    \
 
 **Fixes and Changes:**
 
@@ -226,8 +226,8 @@ We’ve improved the way you connect with players in Minecraft! To help you foll
 - Reduced frame stutter when encountering a Character Creator skin in-game
 - Fixed a bug that prevented recipes without unlock criteria from showing up in the recipe book
 - On touch devices, item transfer animation is now rendered above static items
-- Resolved an issue where “Signing in…” text might not have appeared on the main menu while sign in was actually in progress  
-    
+- Resolved an issue where “Signing in…” text might not have appeared on the main menu while sign in was actually in progress\
+  \
 
 **Technical Updates**
 
@@ -317,8 +317,8 @@ We’ve improved the way you connect with players in Minecraft! To help you foll
 **Recipes**
 
 - Added *assume_symmetry* boolean property for Shaped Recipes to allow for symmetrical shaped recipes with different outputs.
-  - More on this feature and samples can be found at [Recipe Documentation -Shaped Recipe \| Microsoft Learn](https://learn.microsoft.com/en-us/minecraft/creator/reference/content/recipereference/examples/recipedefinitions/minecraftrecipe_shaped?view=minecraft-bedrock-stable)  
-      
+  - More on this feature and samples can be found at [Recipe Documentation -Shaped Recipe \| Microsoft Learn](https://learn.microsoft.com/en-us/minecraft/creator/reference/content/recipereference/examples/recipedefinitions/minecraftrecipe_shaped?view=minecraft-bedrock-stable)\
+    \
 
 **Experimental Technical Updates**
 

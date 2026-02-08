@@ -8,7 +8,7 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360020066051-Minecraft-New-Nintendo-3DS-Edition-1-8
 ---
 
-Welcome to Version 1.8! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)  
+Welcome to Version 1.8! If you find any bugs, be sure to [report them here!](http://bugs.mojang.com/)\
 [Click here](http://feedback.minecraft.net/) to give us feedback & tell us what you think about the update.
 
 - New Content available for purchase

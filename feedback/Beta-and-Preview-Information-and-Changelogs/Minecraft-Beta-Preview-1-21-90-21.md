@@ -48,7 +48,7 @@ hash:
 
 ![Alt text: Happy ghasts and a ghastling in a snowy scene with vibrant visuals enabled ](https://feedback.minecraft.net/hc/article_attachments/36203349077133)
 
-It's time for another Preview and Beta! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/).  
+It's time for another Preview and Beta! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](http://feedback.minecraft.net/), and you can report any bugs at [bugs.mojang.com](http://bugs.mojang.com/).\
 **Note:** This week's Preview might be delayed on iOS. We are working on getting it to you as soon as possible!
 
 ## Known Issues
@@ -188,8 +188,8 @@ It's time for another Preview and Beta! For the full list of goodies, browse the
 ### `@minecraft/server` 2.1.0-beta
 
 - Added enum `LiquidSettings` in `beta`. 
-- Added optional property `liquidSettings` to scripting interfaces `JigsawPlaceOptions` and `JigsawStructurePlaceOptions` in `beta`. Defaults to `ApplyWaterlogging`.  
-  New `cheatsRequired` property on CustomCommand interface.  
+- Added optional property `liquidSettings` to scripting interfaces `JigsawPlaceOptions` and `JigsawStructurePlaceOptions` in `beta`. Defaults to `ApplyWaterlogging`.\
+  New `cheatsRequired` property on CustomCommand interface.\
   If undefined or true (default is true), custom command execution requires that cheats are enabled. If false, then the custom command can execute without cheats enabled.
 - Remove Player.isOp()
 - Add read-only property `playerPermissionLevel` to `Player`

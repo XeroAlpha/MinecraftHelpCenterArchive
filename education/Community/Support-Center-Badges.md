@@ -35,7 +35,8 @@ Identifies an official Minecraft Support member.  We're here to help!
 
 Our moderators work hard to answer your questions and make sure the Community is a great place to interact.
 
-###  Beacon of Light
+### \
+Beacon of Light
 
 ![MCEDU_Support_Center_badge_Beacon_of_light_RGB.svg](https://edusupport.minecraft.net/hc/article_attachments/15485249082260)
 

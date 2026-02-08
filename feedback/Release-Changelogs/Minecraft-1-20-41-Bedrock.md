@@ -12,8 +12,8 @@ A new update has been released to address some issues that were introduced with 
 
 Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!
 
-**Note:** The update is not yet available on Nintendo Switch and will be available soon.  
-  
+**Note:** The update is not yet available on Nintendo Switch and will be available soon.\
+\
 
 **Fixes:**
 

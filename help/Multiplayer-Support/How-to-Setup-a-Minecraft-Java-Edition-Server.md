@@ -20,7 +20,7 @@ As a prerequisite, you should make sure you have [Java](https://www.oracle.com/
 4.  While you have the file browser open, open command prompt from the start menu.  
 5.  You can check if Java is installed in command prompt by typing without quotes “java -version”. 
 6.  To start the server, you will need to change the directory to the location where you have the Minecraft Server folder and the .jar file located in it. 
-7.  You can find the directory in Windows by simply clicking on the browser directory in file browser here. ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090550171)(The theme and color of your file browser will appear different due to your personalization settings)   
+7.  You can find the directory in Windows by simply clicking on the browser directory in file browser here. ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090550171)(The theme and color of your file browser will appear different due to your personalization settings) \
     Copy this address to your clipboard. 
 8.  Type without quotes “cd” hit space and then paste the address you just copied, then hit enter. 
     - This should look like “***cd C:\Users\Admin\Desktop\Minecraft Server***” 

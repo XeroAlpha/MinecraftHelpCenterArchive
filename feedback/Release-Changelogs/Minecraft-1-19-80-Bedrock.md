@@ -27,8 +27,8 @@ Please continue to upvote and report any new bugs at [bugs.mojang.com](https://b
 
 Even more experimental features are available in this update that are coming in the [**Trails & Tales**](https://www.minecraft.net/en-us/article/the-trails---tales-update) update!
 
-As these features are still incomplete, in development, and considered a work in progress, be sure to backup your worlds before enabling experimental features. The features can be enabled by turning on the “Next Major Update” toggle in world settings.  
-  
+As these features are still incomplete, in development, and considered a work in progress, be sure to backup your worlds before enabling experimental features. The features can be enabled by turning on the “Next Major Update” toggle in world settings.\
+\
 
 ## **Player Sneaking**
 
@@ -145,8 +145,8 @@ As these features are still incomplete, in development, and considered a work in
 - Slightly decreased Panda collision box to match Java Edition
 - Slightly increased Polar Bear collision box to match Java Edition
 - Shipwreck supply chests are no longer missing Moss Block as loot ([MCPE-168376](https://bugs.mojang.com/browse/MCPE-168376))
-- Mobs will once again take damage when standing on an incomplete block next to a Campfire ([MCPE-167479](https://bugs.mojang.com/browse/MCPE-167479))  
-    
+- Mobs will once again take damage when standing on an incomplete block next to a Campfire ([MCPE-167479](https://bugs.mojang.com/browse/MCPE-167479))\
+  \
 
 # **Fixes and Changes:**
 
@@ -244,14 +244,14 @@ As these features are still incomplete, in development, and considered a work in
 
 - Added new touch and hold Stack Splitting for precision selection of the items in a single slot
 - Fixed an issue where items could get stuck in the Crafting Table when using touch input
-- If the player is underwater and Auto-Jump is enabled, as they approach a block that is 1 level higher than the current level, they will rise. This also allows auto-jumping out of water onto land  
-    
+- If the player is underwater and Auto-Jump is enabled, as they approach a block that is 1 level higher than the current level, they will rise. This also allows auto-jumping out of water onto land\
+  \
 
 # **Technical Updates:**
 
 ## **Updated Add-On Template Packs**
 
-- Updated Add-On templates for 19.80 with new resources, behaviors, and documentation are available to download at [aka.ms/MCAddonPacks  
+- Updated Add-On templates for 19.80 with new resources, behaviors, and documentation are available to download at [aka.ms/MCAddonPacks\
   ](https://aka.ms/MCAddOnPacks)
 
 ## **General**
@@ -286,10 +286,10 @@ As these features are still incomplete, in development, and considered a work in
 - Added "lose_target" field to projectile data to specify if an entity should unselect its target after shooting the projectile
 - Added a new Transformation component for blocks to support rotation, scaling and translation. The component can be added to the whole block, and/or to individual block permutations. Eg.
 
-"minecraft:transformation": {  
-                "translation": \[0.0, 0.1, -0.1\],  
-                "scale": \[0.5, 1, 1.5\],  
-      "rotation": \[90, 180, 0\]  
+"minecraft:transformation": {\
+                "translation": \[0.0, 0.1, -0.1\],\
+                "scale": \[0.5, 1, 1.5\],\
+      "rotation": \[90, 180, 0\]\
 }
 
 - Transformed geometries still have the same restrictions that non-transformed geometries have, eg. a maximum size of 30/16 units
@@ -423,7 +423,7 @@ As these features are still incomplete, in development, and considered a work in
       - Added read-only property *block* - Gets the block that the component is attached to
     - Renamed *IEntityComponent* to *EntityComponent*
     - Container
-      - Replaced classes  
+      - Replaced classes\
         *BlockInventoryComponentContainer*, *InventoryComponentContainer*, and *PlayerInventoryComponentContainer* with *Container*
       - function *addItem* now returns the remainder of the added item stack if the container is full, else *undefined*
       - function *transferItem* no longer takes a destination slot and will now place the given item in the first available slot. The function now returns the remainder of the item stack if the container is full, else *undefined*

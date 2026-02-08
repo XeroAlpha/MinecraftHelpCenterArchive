@@ -48,8 +48,8 @@ hash:
 
 It’s October in Sweden, and the leaves outside are changing from green to orange faster than copper can oxidize! I could spend this whole changelog waxing lyrical about the new decorative blocks coming to experimental testing this week, but instead how about I tell you to look out for the copper trapdoor, copper door, copper grate, and chiseled copper block! All of these can be waxed, chiseled, and scraped to your heart’s content, so you can color co-ordinate with pumpkins *or* creepers. Also coming to testing is a new set of tuff blocks (finally, tuff stairs!) and, a new bat texture! As ever, we’d love your feedback on these new features. Send us your thoughts [here](https://aka.ms/Minecraft121Feedback) and report any bugs at [bugs.mojang.com](https://bugs.mojang.com/)!
 
-*(**Please note:** Thanks for your patience! This Preview and Beta has now started rolling out.)  
-  *
+*(**Please note:** Thanks for your patience! This Preview and Beta has now started rolling out.)\
+\*
 
 # Experimental Features
 

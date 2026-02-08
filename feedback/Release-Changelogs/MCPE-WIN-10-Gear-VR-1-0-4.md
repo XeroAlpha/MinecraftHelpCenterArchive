@@ -12,9 +12,9 @@ tags:
 link: https://feedback.minecraft.net/hc/en-us/articles/360004168711-MCPE-WIN-10-Gear-VR-1-0-4
 ---
 
-If you find any bugs, be sure to report them here!  
-Click here to give us feedback & tell us what you think about the update.  
-  
+If you find any bugs, be sure to report them here!\
+Click here to give us feedback & tell us what you think about the update.\
+\
 **New Features:**
 
 - Added Villager Trading!

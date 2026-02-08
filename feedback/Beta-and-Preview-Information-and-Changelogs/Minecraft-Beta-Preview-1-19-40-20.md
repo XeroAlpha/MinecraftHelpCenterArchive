@@ -32,8 +32,8 @@ We have some exciting changes for mobile touch controls! These updates are only 
 - Added support for dragging and dropping with touch gestures in the inventory
 - Added a more tailored user experience for stack splitting with touch, initiated by long pressing on a stack of items
 - Double tapping 'descend' now toggles off flight in Joystick touch control modes
-- Updated the positioning of status effects for Pocket UI  
-    
+- Updated the positioning of status effects for Pocket UI\
+  \
 
 ## **Vanilla Parity**
 

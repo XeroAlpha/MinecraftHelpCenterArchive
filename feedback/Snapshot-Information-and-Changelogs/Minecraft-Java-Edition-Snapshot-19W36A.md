@@ -21,7 +21,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360032993092-Minecraft-Ja
 
 In an effort to help make modding the game easier, we have decided to publish our game obfuscation maps with all future releases of the game, starting today. This means that anyone who is interested may deobfuscate the game and find their way around the code without needing to spend a few months figuring out what’s what. It is our hope that mod authors and mod framework authors use these files to augment their updating processes that they have today. These mappings will always be available, instantly and immediately as part of every newly released version. This does not, however, change the existing restrictions on what you may or may not do with our game code or assets. The links to the obfuscation mappings are included as part of the version manifest json, and may be automatically pulled for any given version.
 
-  
+\
 Prefixed to every obfuscation map is the following legal disclaimer:
 
 © 2019 Microsoft Corporation. All rights reserved. This information is provided “as-is” and you bear the risk of using it. This information does not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use this information for your internal, reference purposes. Microsoft makes no warranties, express or implied, with respect to the information provided here.

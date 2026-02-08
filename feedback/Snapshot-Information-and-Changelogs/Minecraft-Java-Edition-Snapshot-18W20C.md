@@ -18,17 +18,17 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004158892-Minecraft-Ja
 - Fire no longer spreads everywhere
 - Lots of bugfixes
 
-  
+\
 **Changes in 18W20B**
 
 - Bugfixes!
 
-  
+\
 **Changes in 18W20C**
 
 - More bugfixes!
 
-  
+\
 **Fixed Bugs in 18W20A**
 
 - [MC-9620](https://bugs.mojang.com/browse/MC-9620) - F1 and open chat makes hotbar appear
@@ -77,7 +77,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004158892-Minecraft-Ja
 - [MC-128851](https://bugs.mojang.com/browse/MC-128851) - The "A Furious Cocktail" advancement does not require Resistance
 - [MC-129409](https://bugs.mojang.com/browse/MC-129409) - Water acts like air on multiplayer
 
-  
+\
 **Fixed Bugs in 18W20B**
 
 - [MC-77856](https://bugs.mojang.com/browse/MC-77856) - "demo.day.6" Translation Uses Explicit "F2" Reference
@@ -92,7 +92,7 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004158892-Minecraft-Ja
 - [MC-128354](https://bugs.mojang.com/browse/MC-128354) - Conduit has unused Core Texture
 - [MC-129615](https://bugs.mojang.com/browse/MC-129615) - All command blocks lose all nbt data on update to 18w20a
 
-  
+\
 **Fixed Bugs in 18W20C**
 
 - [MC-121377](https://bugs.mojang.com/browse/MC-121377) - First character typed in command blocks doesn't let you hit "done"
@@ -116,13 +116,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004158892-Minecraft-Ja
 - [MC-129738](https://bugs.mojang.com/browse/MC-129738) - Trees generating in the ground or not at all
 - [MC-129747](https://bugs.mojang.com/browse/MC-129747) - Village generates partially in the ground
 
-  
-**Get the Snapshot**  
-  
-To install the snapshot, open up the [Minecraft Launcher](https://minecraft.net/download) and enable snapshots in the "Launch Options" tab.  
-  
-**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**  
-  
+\
+**Get the Snapshot**\
+\
+To install the snapshot, open up the [Minecraft Launcher](https://minecraft.net/download) and enable snapshots in the "Launch Options" tab.\
+\
+**Snapshots can corrupt your world, please backup and/or run them in a different folder from your main worlds.**\
+\
 Cross-platform server jar:
 
 - [Minecraft server jar](https://launcher.mojang.com/mc/game/18w20c/server/9e0ffb265e3771dc5c7b56f291b9c9d8f668f48b/server.jar)

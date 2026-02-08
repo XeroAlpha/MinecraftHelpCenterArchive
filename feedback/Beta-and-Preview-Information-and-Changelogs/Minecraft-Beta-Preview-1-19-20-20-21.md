@@ -23,8 +23,8 @@ hash:
 
 Here's a list of what is new in this week's Beta! As always, please search and report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/) and send us [your feedback](https://aka.ms/MinecraftBetaFeedback).
 
-**Please note** that there will not be a Preview/Beta release for the week of July 4, 2022.  
-  
+**Please note** that there will not be a Preview/Beta release for the week of July 4, 2022.\
+\
 
 # **Features and Bug Fixes**
 

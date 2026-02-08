@@ -114,7 +114,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 - Minecraft Bedrock updates from 1.21.9
   - Hardcore mode and Vibrant Visuals are not included in this update
   - Locator bar added in Multiplayer
-- Other stability and bug fixes  
+- Other stability and bug fixes\
    
 
 ## Minecraft Education Beta Game Client Update (version 1.21.80.1) - Released 5/07/25
@@ -128,7 +128,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
 - MacOS client freeze fix
 - Coding stability improvements
-- Other bug fixes  
+- Other bug fixes\
    
 
 ## Minecraft Education Beta Game Client Update (version 1.21.8) - Released 3/20/25
@@ -144,7 +144,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
 - Garden Awakens Update
 - Cloud Storage Improvements
-- Coding and multiplayer stability improvements  
+- Coding and multiplayer stability improvements\
    
 
 ## Minecraft Education Preview & Beta Game Client Update (version 1.21.40) - Released 11/19/24
@@ -164,7 +164,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
 - Mac and iOS now support cloud world backup to OneDrive.
 - Performance improvements while Coding 
-- Various stability and performance bug fixes  
+- Various stability and performance bug fixes\
    
 
 ## Minecraft Education Game Client (version 1.21.03) - Released 7/23/24

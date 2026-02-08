@@ -632,9 +632,9 @@ Snowier snow!
 
 ### ITEM
 
-Modifies the item or block inventory.  
-This command has three forms:  
-Possible sources and targets:  
+Modifies the item or block inventory.\
+This command has three forms:\
+Possible sources and targets:\
 For example, /item replace block ~ ~ ~ container.0 from entity @s enderchest.0 will copy the first item from the player’s Ender Chest to the first slot of a container that the player is currently standing on.
 
 - /item replace \<target\> with \<item stack\> \[\<count\>\] - the same as old replaceitem
@@ -706,7 +706,7 @@ This function now has an add parameter. If true, the change will be relative 
 
 #### VALUE_CHECK
 
-Checks range of value.  
+Checks range of value.\
 Parameters:
 
 - value - see “New value providers” section (currently a combination of random generators and score)
@@ -716,7 +716,7 @@ Parameters:
 
 #### SET_BANNER_PATTERN
 
-Sets tags needed for banner patterns.  
+Sets tags needed for banner patterns.\
 Parameters:
 
 - patterns - list of pattern objects:
@@ -766,7 +766,7 @@ Rendering is now using OpenGL 3.2 core profile. All fixed-function rendering has
 
 ### SHADERS
 
-Shaders are now included for all supported render states. Any shader, except for the blit shader, can also be replaced in resource packs. For now, replacing these shaders is not officially supported, and the way it works may change in the future.  
+Shaders are now included for all supported render states. Any shader, except for the blit shader, can also be replaced in resource packs. For now, replacing these shaders is not officially supported, and the way it works may change in the future.\
 The current rendering engine uses a system similar to the post-processing shader pipeline. There are some differences between both systems that cater to the slightly different requirements.
 
 ## PARTICLES
@@ -775,13 +775,13 @@ The current rendering engine uses a system similar to the post-processing shader
 
 ## PERFORMANCE METRICS REPORTING
 
-These will be saved to a zip file in debug/profiling/\<yyyy-MM-dd_HH.mm.ss-\[levelname\]-\[version\]\>.zip and could be used for performance regression analysis if included in bug reports.  
+These will be saved to a zip file in debug/profiling/\<yyyy-MM-dd_HH.mm.ss-\[levelname\]-\[version\]\>.zip and could be used for performance regression analysis if included in bug reports.\
 The exact metrics, output format, and names are susceptible to change between versions. Our plan is to continue iterating on which metrics to capture.
 
 ### CLIENT F3+L SHORTCUT
 
-Pressing F3+L while in the game will start a recording for 10 seconds, which captures metrics such as tick durations, used heap sizes, and other more detailed stats.  
-Pressing F3+L before the 10-second limit will end the recording early.  
+Pressing F3+L while in the game will start a recording for 10 seconds, which captures metrics such as tick durations, used heap sizes, and other more detailed stats.\
+Pressing F3+L before the 10-second limit will end the recording early.\
 This shortcut is always available to clients, even on multi-player servers where it will record client-side performance.
 
 ### DEDICATED SERVER PERF START/STOP COMMAND

@@ -19,10 +19,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004203391-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to [bugs.mojang.com](http://bugs.mojang.com/ "Link: http://bugs.mojang.com/") and all feedback to [feedback.minecraft.net](http://feedback.minecraft.net/ "Link: http://feedback.minecraft.net/")
 
-  
-This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!   
-  
-  
+\
+This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing! \
+\
+\
 **New Features:**
 
 - Bubble Columns (Work in progress)
@@ -31,7 +31,7 @@ This beta features a whole ocean of new features from the upcoming Update Aquati
 - Scute and Turtle Shell items
 - Potion of the Turtle Master
 
-  
+\
 **Changes:**
 
 - A fresh, new menu background for Update Aquatic
@@ -40,7 +40,7 @@ This beta features a whole ocean of new features from the upcoming Update Aquati
 - Updated the texture of Cooked Fish
 - Default Field of View has been reduced from 70 to 60 and can be adjusted in Video Settings
 
-  
+\
 **Fixes:**
 
 - Fixed several of that top crashes that occurred during gameplay

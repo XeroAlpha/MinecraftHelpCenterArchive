@@ -490,7 +490,7 @@ New command to rotate an entity.
 
 Syntax:
 
-  
+\
 `rotate <target> <rotation> ` `rotate <target> facing <facingLocation> ` `rotate <target> facing entity <facingTarget> [<facingAnchor>] `
 
  
@@ -1184,7 +1184,7 @@ Please note that the experimental features behind this toggle are not aimed at a
   - When possible the order is deterministic based on the context the updates are caused in
   - When there is not enough context to fully determine the order, the rest is picked at random
 
-> **Developer's note:** *We know that randomness in Redstone is usually unwanted.*  
+> **Developer's note:** *We know that randomness in Redstone is usually unwanted.*\
 > *We've used it here because we've made things deterministic whenever it makes sense, and sometimes it just doesn't make sense - and we don't want some hidden state (like location-based hashes!) determining the order and making machines work differently at different coordinates or in different orientations.*
 
 #### Order in Which a Line of Wire Changes

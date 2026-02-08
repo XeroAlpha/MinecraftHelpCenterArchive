@@ -10,8 +10,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/10358531624973-Minecraft-
 
 A new update is available that addresses some issues that have occurred since the release of 1.19.40.
 
-As always, we appreciate all your help and input, please report any new bugs at [bugs.mojang.com](http://bugs.mojang.com/) and leave your feedback [feedback.minecraft.net](http://feedback.minecraft.net/).  
-  
+As always, we appreciate all your help and input, please report any new bugs at [bugs.mojang.com](http://bugs.mojang.com/) and leave your feedback [feedback.minecraft.net](http://feedback.minecraft.net/).\
+\
 
 **Fixes:**
 

@@ -10,8 +10,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/14410802894477-Minecraft-
 
 An update has been released to fix several issues that addresses a few issues that occurred since the release of 1.19.70.
 
-Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).  
-  
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/).\
+\
 
 **Fixes:**
 

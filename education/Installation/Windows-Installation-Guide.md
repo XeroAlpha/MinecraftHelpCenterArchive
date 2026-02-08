@@ -293,7 +293,7 @@ You can learn more about these here: <a href="https://learn.microsoft.com/en-us/
 
 ### Install Minecraft Education via Group Policy using PowerShell script
 
-For organizations who would like to deploy the app using local Group Policy we have created PowerShell scripts designed to be deployed as startup scripts. You can find detailed setup instructions on this article: [Deploying over Group Policy (via PowerShell)](https://edusupport.minecraft.net/hc/en-us/articles/45872069884436-Deploying-over-Group-Policy-via-PowerShell)
+For organizations who would like to deploy the app using local Group Policy we have created PowerShell scripts designed to be deployed as startup scripts. You can find detailed setup instructions on this article: [Deploying over Group Policy (via PowerShell)](./Deploying-over-Group-Policy-via-PowerShell.md)
 
  
 

@@ -68,7 +68,7 @@ Minecraft Education world files are saved using a Globally Unique Identifier (GU
 Follow these steps to locate the world name.
 
 1.  From the **minecraftWorlds** folder, select one of the folders.
-2.  Open the **levelname** text document.  
+2.  Open the **levelname** text document.\
     **Result:** The text file opens and displays the world name as it appears in Minecraft Education.
 
 If you have a lot of worlds and do not want to search through all the folders to locate the world file you want, sort the **minecraftWorlds** folder by date and open the folder with a date/time close to the last time you were in the world.

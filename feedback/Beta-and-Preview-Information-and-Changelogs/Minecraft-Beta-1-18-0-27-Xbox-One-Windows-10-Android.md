@@ -18,8 +18,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/4413230787085-Minecraft-B
 
 ![LushCaves_1\_\_1\_.png](https://feedback.minecraft.net/hc/article_attachments/4413238362125/LushCaves_1__1_.png)
 
-It's time for another Bedrock Beta! As always, we really appreciate all the feedback you send to [aka.ms/CavesCliffsFeedback](http://aka.ms/CavesCliffsFeedback) and please report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/).  
-  
+It's time for another Bedrock Beta! As always, we really appreciate all the feedback you send to [aka.ms/CavesCliffsFeedback](http://aka.ms/CavesCliffsFeedback) and please report any bugs you may find at [bugs.mojang.com](http://bugs.mojang.com/).\
+\
 
 **Fixes**
 

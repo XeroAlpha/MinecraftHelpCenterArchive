@@ -375,7 +375,7 @@ Moved the following APIs from beta to stable:
 
 ## **Remaining Parity Breaks**[](#_msocom_1)
 
-**DT - destroy time**  
+**DT - destroy time**\
 **ER - explosion resistance**
 
 | **Bedrock ID** | **Bedrock name** | **DT Bedrock** | **DT Java** | **ER Bedrock** | **ER Java** |

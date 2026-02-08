@@ -27,7 +27,7 @@ This week's snapshot brings you many performance improvements and bugfixes.
 ## TEXTURES
 
 - Shield patterns are now using alpha channel instead of brightness
-- Command used to change the patterns:  
+- Command used to change the patterns:\
   for f in \*.png; do convert "\$f" -alpha copy tmp.png && composite tmp.png -compose copy-opacity ../shield_base.png tmp2.png && convert tmp2.png -fill "rgba(0,1,0,1)" -draw "rectangle 0,0 1,63" -draw "rectangle 2,0 63,1" -draw "rectangle 2,22 64,64" -draw "rectangle 12,2 64,64" -fill none -draw "matte 0,0 floodfill" tmp3.png && mv tmp3.png "\$f" && rm tmp.png tmp2.png; done
 
 # FIXED BUGS IN 19W45A

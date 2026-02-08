@@ -39,8 +39,8 @@ It's time for another update, and here's a list of what is new in this week's Be
 ## **Goat Horn**
 
 - A sound now plays when a Horn breaks off a Goat
-- An animation is now shown when using the Goat Horn in both 1st and 3rd person views ([MCPE-104158](https://bugs.mojang.com/browse/MCPE-104158))  
-    
+- An animation is now shown when using the Goat Horn in both 1st and 3rd person views ([MCPE-104158](https://bugs.mojang.com/browse/MCPE-104158))\
+  \
 
 # **Non-Experimental Features and Bug Fixes**
 

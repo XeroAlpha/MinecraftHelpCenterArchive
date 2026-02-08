@@ -22,13 +22,13 @@ Some players on Minecraft Dungeons for Windows have received an error message re
 
 ## **Encountering the Problem **
 
-1.  Start the Minecraft Dungeons launcher. Click **Play**.  
+1.  Start the Minecraft Dungeons launcher. Click **Play**.\
     ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363638925)
-2.  In the **Error** box, click **Yes**. This starts UE4 Prerequisites setup.  
-    ![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363662477)  
+2.  In the **Error** box, click **Yes**. This starts UE4 Prerequisites setup.\
+    ![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363662477)\
 3.   When you see Set up Successful, click **Close**.
-4.  Two **System Error** messages open one at a time, listing the missing files, MSVCP140.dll and VCRUNTIME140.dll drivers, or X3DAudio1_7.dll and XAPOFX1_5.dll. Click **Close** for each and then continue on to the solutions.  
-    ![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363694093)  
+4.  Two **System Error** messages open one at a time, listing the missing files, MSVCP140.dll and VCRUNTIME140.dll drivers, or X3DAudio1_7.dll and XAPOFX1_5.dll. Click **Close** for each and then continue on to the solutions.\
+    ![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363694093)\
 
 ## **Solution 1 **
 

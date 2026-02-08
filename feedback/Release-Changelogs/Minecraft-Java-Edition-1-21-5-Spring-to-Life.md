@@ -1946,7 +1946,7 @@ minecraft:structures
 - The shader programs themselves are still available and can be overridden
 - The post-processing effects are still configurable as JSON
 - "Global" uniforms may be defined in any shader, and the game will attempt to fill it
-  - Currently, these are: ModelViewMat, ProjMat, TextureMat, ScreenSize, ColorModulator, Light0_Direction, Light1_Direction,   
+  - Currently, these are: ModelViewMat, ProjMat, TextureMat, ScreenSize, ColorModulator, Light0_Direction, Light1_Direction, \
     GlintAlpha, FogStart, FogEnd, FogColor, FogShape, LineWidth, GameTime, ModelOffset
   - The type of the uniform must match what it would normally be, or it'll be undefined behavior
 

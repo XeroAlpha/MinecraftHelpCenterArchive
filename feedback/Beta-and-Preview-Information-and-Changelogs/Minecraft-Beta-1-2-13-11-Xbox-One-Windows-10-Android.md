@@ -20,12 +20,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165151-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
+\
 **New Features:**
 
 - Added two options to swap A/B buttons and X/Y buttons on controllers, which can be found in Controller Settings
 
-  
+\
 **Fixes:**
 
 - Fixed the cause of several crashes! Keep playing the game normally and if your game crashes, we will automatically collect a crash report

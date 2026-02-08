@@ -138,7 +138,7 @@ Fixes this week:
 
 ## Items
 
-- Custom armor attachables can now be trimmed with vanilla trims, and modified vanilla patterns can be applied to custom armor attachables and items  
+- Custom armor attachables can now be trimmed with vanilla trims, and modified vanilla patterns can be applied to custom armor attachables and items\
   - Vanilla trim textures can be overridden via the attachable component
   - Vanilla trims can be applied to custom geo armor via the attachable component
   - Modified vanilla trim patterns (to fit the new geo armor) can be applied via the attachable component

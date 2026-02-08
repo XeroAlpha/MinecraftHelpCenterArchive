@@ -25,7 +25,7 @@ If your school organization has purchased a Microsoft 365 A3 or A5 plan, the Min
 1.  Sign in to your [Microsoft 365](https://login.microsoftonline.com/) account. 
 2.  From the left-hand menu, select ** Users**** **
 3.  From the** Users** list, select the users you want to add or remove the license from 
-4.  Add the relevant  license if it hasn't been assigned already. Note that if the user has any kind of faculty license, the user will be assigned an instructor role in the application and will have elevated permissions.  
+4.  Add the relevant  license if it hasn't been assigned already. Note that if the user has any kind of faculty license, the user will be assigned an instructor role in the application and will have elevated permissions.\
     ![m365_assignment.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402371614100)
 5.  If you assigned a Microsoft 365 subscription bundle (A3 or A5), you'll need to ensure Minecraft Education is toggled on or off, depending on if you want to add or remove Minecraft Education from the user (it will be on by default)
 

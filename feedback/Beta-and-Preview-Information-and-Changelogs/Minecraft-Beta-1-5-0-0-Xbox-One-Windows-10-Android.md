@@ -20,10 +20,10 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165031-Minecraft-Be
 - Finished releases may not include all changes and fixes from the beta to preserve stability and may slip to a later release
 - Report bugs to bugs.mojang.com and all feedback to feedback.minecraft.net
 
-  
-This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!  
-  
-  
+\
+This beta features a whole ocean of new features from the upcoming Update Aquatic! These features are work in progress and more are on the way but we wanted to take the opportunity to get early feedback from players. If you find any bugs, please report them on bugs.mojang.com and post all thoughts and suggestions to feedback.minecraft.net. Thanks for playing!\
+\
+\
 **Changes:**
 
 - Dolphins can now be given Raw Fish or Raw Salmon and will swim towards the nearest Ocean Ruins or Shipwreck
@@ -40,7 +40,7 @@ This beta features a whole ocean of new features from the upcoming Update Aquati
 - Nautilus Shells are no longer behind the experimental Gameplay toggle
 - Updated the Riptide spin texture
 
-  
+\
 **Fixes:**
 
 - Fixed several of the top crashes that occurred during gameplay

@@ -21,8 +21,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035197291-Minecraft-Be
   - Fixed a crash that could occur when breaking a crafting table
   - Fixed a crash that could sometimes be triggered by certain Honey Block states
   - UI Textures now load in more quickly when joining and leaving a world
-  - Fixed a crash that could sometimes happen after pressing any button during chat UI closing animation   
-      
+  - Fixed a crash that could sometimes happen after pressing any button during chat UI closing animation \
+    \
 - **General**
   - The main menu background (Cube Map) now matches that in the Java Edition
   - Bee Nests now spawn in more types of tree, as they do in the Java Edition
@@ -32,8 +32,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035197291-Minecraft-Be
   - Fixed a navigation issue that could cause an incorrect focus change when choosing an option from the pause menu
   - Honey Blocks textures are now the same on Java and Bedrock
   - Slime block textures are now the same on Java and Bedrock
-  - Fixed an issue that was causing worn items to transfer between Character Creator models unexpectedly  
-      
+  - Fixed an issue that was causing worn items to transfer between Character Creator models unexpectedly\
+    \
 - **Gameplay**
   - Breaking a Beehive while in creative mode will no longer drop the block as an item
   - The Honeycomb block crafting recipe now matches Java, and can be crafted with 4 honeycomb items 
@@ -44,8 +44,8 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035197291-Minecraft-Be
   - Slime Blocks and Honey Blocks no longer stick to each other when interacting through piston-mechanics 
   - Fixed an issue that could sometimes cause touch screen controls to become inverted ([MCPE-50256](https://bugs.mojang.com/browse/MCPE-50256))
   - Pick Block now works correctly on Bees ([MCPE-53445](https://bugs.mojang.com/browse/MCPE-53445))
-  - Fixed the held item bobbing animation when moving in first person view ([MCPE-51212](https://bugs.mojang.com/browse/MCPE-51212))   
-      
+  - Fixed the held item bobbing animation when moving in first person view ([MCPE-51212](https://bugs.mojang.com/browse/MCPE-51212)) \
+    \
 - **Mobs**
   - Reduced the time that Bees take to search for a new hive when a hive is full
   - Bees no longer try and find their way home if they end up in the Nether or the End dimension 
@@ -60,20 +60,20 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360035197291-Minecraft-Be
   - Bees now hover correctly over flowers, instead of beside them
   - If a Bee's home hive is blocked, it will no longer hover endlessly outside the hive
   - Fixed an issue that was sometimes preventing Bees from entering hives that are not full 
-  - Baby Pigmen now hold their swords in their hands, rather than around their necks ([MCPE-53454](https://bugs.mojang.com/browse/MCPE-53454))  
-      
+  - Baby Pigmen now hold their swords in their hands, rather than around their necks ([MCPE-53454](https://bugs.mojang.com/browse/MCPE-53454))\
+    \
 - **Items**
-  - Dragon heads now appear at the correct height ([MCPE-53129](https://bugs.mojang.com/browse/MCPE-53129))   
-      
+  - Dragon heads now appear at the correct height ([MCPE-53129](https://bugs.mojang.com/browse/MCPE-53129)) \
+    \
 - **Graphical**
   - Fixed a bug that was sometimes causing chests to become invisible ([MCPE-52790](https://bugs.mojang.com/browse/MCPE-52790))
   - Held items no longer render incorrectly in front of the worn pumpkin vignette
   - The block breaking animation will again show if a block is below water when the player is above
-  - The player's hand no longer disappears when gliding with Elytra ([MCPE-53092](https://bugs.mojang.com/browse/MCPE-53092))   
-      
+  - The player's hand no longer disappears when gliding with Elytra ([MCPE-53092](https://bugs.mojang.com/browse/MCPE-53092)) \
+    \
 - **User Interface**
-  - Fixed an issue that could cause some UI flickering when navigating through the Character Creator  
-      
+  - Fixed an issue that could cause some UI flickering when navigating through the Character Creator\
+    \
 - **Add-Ons and Script Engine**
   - Fixed an issue with entity geometry that was causing some custom mob models to break
   - Fixed an issue with particle billboarding that was causing them to appear flipped in the wrong direction

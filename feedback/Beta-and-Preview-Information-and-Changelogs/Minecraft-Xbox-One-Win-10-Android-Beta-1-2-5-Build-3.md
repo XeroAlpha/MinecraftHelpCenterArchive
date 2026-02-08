@@ -14,12 +14,12 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004165411-Minecraft-Xb
 
 If you find any bugs, be sure to report them here! Click here to give us feedback & tell us what you think about the update.
 
-  
+\
 **Tweaks:**
 
 - The main menu background now has a raised camera angle and scales properly based on the device's aspect ratio
 
-  
+\
 **Bug Fixes:**
 
 - Fixed a crash that occurred when entering a world while wearing armor

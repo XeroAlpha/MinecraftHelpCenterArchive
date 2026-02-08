@@ -12,8 +12,8 @@ A new update has been released to improve stability of the game.
 
 **Update:** As of August 18, this update is now available on all supported platforms!
 
-Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!  
-  
+Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/)!\
+\
 
 **Fixes:**
 

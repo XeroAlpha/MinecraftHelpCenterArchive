@@ -36,8 +36,8 @@ This page answers frequently asked questions about Minecraft Marketplace, a feat
 
 ### What is Minecraft Marketplace?
 
-For the first time, new avatar skins, textures, and worlds made by creators in the Minecraft community are coming to the Store for both Pocket Edition and Windows 10 devices. With Minecraft Marketplace, we've made it safer and easier to purchase community-made content for Minecraft. Buy content once, and enjoy it on any Windows 10 or Pocket Edition device with no expiration.  
-Available for purchase in the game store, Minecraft Coins let you buy content from creators in the Minecraft Marketplace, which is safer and more secure. Coins are kept in your virtual wallet and can be used for Pocket Edition and Windows 10 devices.  
+For the first time, new avatar skins, textures, and worlds made by creators in the Minecraft community are coming to the Store for both Pocket Edition and Windows 10 devices. With Minecraft Marketplace, we've made it safer and easier to purchase community-made content for Minecraft. Buy content once, and enjoy it on any Windows 10 or Pocket Edition device with no expiration.\
+Available for purchase in the game store, Minecraft Coins let you buy content from creators in the Minecraft Marketplace, which is safer and more secure. Coins are kept in your virtual wallet and can be used for Pocket Edition and Windows 10 devices.\
 With your free Xbox Live player profile, each purchase you make is tied to your account. You can play with friends and show off your maps and skins on any Pocket Edition or Windows 10 device if they also have an Xbox Live account.
 
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ Minecraft Marketplace is available on any Windows 10 or Pocket Edition device. T
 - Amazon Kindle Fire
 - Amazon Kindle Fire TV
 
-  
+\
 **Note:** Xbox One, Xbox 360, Windows Phone 8, PlayStation, Wii U, and Nintendo Switch don’t currently support Minecraft Marketplace.
 
  
@@ -64,23 +64,23 @@ Minecraft Marketplace is available on any Windows 10 or Pocket Edition device. T
 
 ### Can I get free Minecraft Coins?
 
-**There is no way to ""earn"" or get Minecraft Coins for free.**  
+**There is no way to ""earn"" or get Minecraft Coins for free.**\
 If you see a website or person claiming that you can or offering to give you coins, it is not true and may be a scam. Please report this immediately to help.mojang.com or support.xbox.com
 
 ------------------------------------------------------------------------
 
 ### How do I purchase Minecraft Coins?
 
-To purchase Minecraft Coins, you must have a payment method set up in your device. The first time you try to purchase something, you’ll be asked to add a payment method if you haven’t already. Otherwise, when you sign in to make your purchase, you’ll be reminded which payment method you’ve previously added.  
-Your payment method will vary depending on which device you’re using to make a purchase. In all cases, by signing in with your Xbox Live account, you’ll receive your Minecraft Coins on all Windows 10 and Pocket Edition devices you play on.  
-For example, if you play on both a Windows 10 device and an iPhone and purchase Minecraft Coins on your iPhone, you’ll pay for the coins using your Apple Store account. Later, when you play on your Windows 10 device, your coins will be available along with any purchases that you made in the Minecraft Marketplace. If you then decide to purchase more Minecraft Coins on your Windows 10 device, you’ll pay for them using your Microsoft account and your coins and purchases will be available the next time you play on your iPhone. If you later purchase a Kindle Fire TV, everything will also appear there when you sign in with your Xbox Live account.  
+To purchase Minecraft Coins, you must have a payment method set up in your device. The first time you try to purchase something, you’ll be asked to add a payment method if you haven’t already. Otherwise, when you sign in to make your purchase, you’ll be reminded which payment method you’ve previously added.\
+Your payment method will vary depending on which device you’re using to make a purchase. In all cases, by signing in with your Xbox Live account, you’ll receive your Minecraft Coins on all Windows 10 and Pocket Edition devices you play on.\
+For example, if you play on both a Windows 10 device and an iPhone and purchase Minecraft Coins on your iPhone, you’ll pay for the coins using your Apple Store account. Later, when you play on your Windows 10 device, your coins will be available along with any purchases that you made in the Minecraft Marketplace. If you then decide to purchase more Minecraft Coins on your Windows 10 device, you’ll pay for them using your Microsoft account and your coins and purchases will be available the next time you play on your iPhone. If you later purchase a Kindle Fire TV, everything will also appear there when you sign in with your Xbox Live account.\
 **Note:** If you’re a parent with associated child accounts, make sure that you make purchases with your own account, as child accounts do not provide a payment method for this.
 
 ------------------------------------------------------------------------
 
 ### More information about Minecraft Coins
 
-**Can Minecraft Coins be refunded?**  
+**Can Minecraft Coins be refunded?**\
 All Minecraft Coin purchases are final. However, if an unauthorized purchase was made by someone else, contact Store support for the device that made the purchase.
 
 - For Microsoft Store purchases, contact Microsoft Support.
@@ -91,8 +91,8 @@ All Minecraft Coin purchases are final. However, if an unauthorized purchase was
 
  
 
-**Can I gift Minecraft Coins to someone?**  
-At this time, there is **no way** to gift Minecraft Coins directly. If you want to give someone Minecraft coins, you can purchase gift vouchers for online stores and platforms where Minecraft coins are currently being used. The recipient can then use these vouchers to credit their account and exchange for Minecraft coins. Minecraft Coins can only be used on the account they were purchased or redeemed.  
+**Can I gift Minecraft Coins to someone?**\
+At this time, there is **no way** to gift Minecraft Coins directly. If you want to give someone Minecraft coins, you can purchase gift vouchers for online stores and platforms where Minecraft coins are currently being used. The recipient can then use these vouchers to credit their account and exchange for Minecraft coins. Minecraft Coins can only be used on the account they were purchased or redeemed.\
 For example, if you want to gift someone who plays Minecraft on Windows 10, you can purchase a gift card for the Windows 10 store from participating retailers. This can then be redeemed and exchanged by the recipient for Minecraft Coins.
 
 **I tried to use Minecraft Coins to make an in-game purchase, but something went wrong. What should I do?** The most common problem preventing an in-game purchase is that there aren’t enough coins. Check the top-right corner of the Store to make sure you have enough coins to make the purchase. If not, you can select the + icon to purchase more.
@@ -102,18 +102,18 @@ For example, if you want to gift someone who plays Minecraft on Windows 10, you 
 
  
 
-**Can I convert my Minecraft Coins back to real currency?**  
+**Can I convert my Minecraft Coins back to real currency?**\
 No. Once you've purchased Minecraft Coins, they can’t be converted back to real currency.
 
 ------------------------------------------------------------------------
 
 ### Purchase problems? Look here!
 
-**I purchased the wrong Minecraft world by mistake. Can I get a refund?**  
+**I purchased the wrong Minecraft world by mistake. Can I get a refund?**\
 You’ll need to contact Store support for the device that you made your purchase on. You may get a refund depending on the circumstances. Follow the steps in the previous question titled ""Can Minecraft Coins be refunded?"" for support.
 
-**I have a problem with the Minecraft world I purchased. Who do I contact?**  
-If you have a problem with a Minecraft world, contact the community who developed that world to provide feedback and discuss any known issues or bugs.   
+**I have a problem with the Minecraft world I purchased. Who do I contact?**\
+If you have a problem with a Minecraft world, contact the community who developed that world to provide feedback and discuss any known issues or bugs. \
 Supported partners:
 
 - For Blockception, visit blockception.com
@@ -136,8 +136,8 @@ If you're interested in becoming a partner, and to learn more about the criteria
 
 ### Why some content in the marketplace grayed out/I can't see it & other content questions.
 
-**Why is some content in the Marketplace grayed out? Why can't I see some Marketplace content? What does it mean when it says that this content is “Not compatible with your device due to low memory”?**  
-  
+**Why is some content in the Marketplace grayed out? Why can't I see some Marketplace content? What does it mean when it says that this content is “Not compatible with your device due to low memory”?**\
+\
 Some maps and textures require higher performance devices to play effectively. If your device has less than 512MB of internal memory (RAM), you may see some content grayed out in the store if you have purchased it previously on another device. If you have not purchased the content on a device that supports the content, and your device does not support that content, **this incompatible content will not appear in the Marketplace.** You won’t be able to buy any content that is not compatible with your device, and you won’t be able to download content that is not compatible, even if you already purchased it on a device with higher memory.
 
 ------------------------------------------------------------------------

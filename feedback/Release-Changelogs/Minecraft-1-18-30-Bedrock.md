@@ -18,8 +18,8 @@ A new update is now available for Minecraft, featuring a swath of new improvemen
 
 Please continue to upvote and report any new bugs at [bugs.mojang.com](https://bugs.mojang.com/) and leave us your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/). Happy crafting!
 
-![village.png](https://feedback.minecraft.net/hc/article_attachments/5521364040461/village.png)  
-  
+![village.png](https://feedback.minecraft.net/hc/article_attachments/5521364040461/village.png)\
+\
 
 **Changes:**
 
@@ -31,8 +31,8 @@ Create New World is being updated with improved navigation, more descriptions, a
 
 We’re still working on some things, like support for other platforms, screen narration, the trial version of the game, and the Japanese language. We need some more time to work on these features in order to provide the best possible experience.
 
-We would love to hear what you think! Share your feedback on [the Feedback Site](https://feedback.minecraft.net/hc/en-us/community/topics/360000280611-User-Interface-Input-Methods-and-Menu-Options) and put “Create New World” in the title so we can find it.  
-  
+We would love to hear what you think! Share your feedback on [the Feedback Site](https://feedback.minecraft.net/hc/en-us/community/topics/360000280611-User-Interface-Input-Methods-and-Menu-Options) and put “Create New World” in the title so we can find it.\
+\
 
 **Realms World Storage**
 
@@ -41,8 +41,8 @@ We would love to hear what you think! Share your feedback on [the Feedback Site]
 **RenderDragon**
 
 - The new Minecraft Bedrock rendering engine, RenderDragon, is now live on Android, iOS, Switch, and Windows 10 UWP x86 builds! Consolidating onto our new graphics engine will allow us to continue investing in future performance and stability improvements, as well as exciting new features for Minecraft!
-- This technical update shouldn't impact gameplay or experience, but if you run into any new issues, please file feedback so the team can investigate  
-    
+- This technical update shouldn't impact gameplay or experience, but if you run into any new issues, please file feedback so the team can investigate\
+  \
 
 **Vanilla Parity:**
 
@@ -131,8 +131,8 @@ We would love to hear what you think! Share your feedback on [the Feedback Site]
 - Villagers no longer share Seeds and Beetroot Seeds
 - Cartographers now always unlock Woodland Explorer Map trade ([MCPE-152725](https://bugs.mojang.com/browse/MCPE-152725))
 - Fixed an error where Journeymen Clerics would offer Glowstone Dust instead of Glowstone Blocks ([MCPE-57524](https://bugs.mojang.com/browse/MCPE-57524))
-- Farmer Villagers can now use Bone Meal on crops and can turn excess Seeds into Bone Meal at their Composter ([MCPE-74079](https://bugs.mojang.com/browse/MCPE-74079))  
-    
+- Farmer Villagers can now use Bone Meal on crops and can turn excess Seeds into Bone Meal at their Composter ([MCPE-74079](https://bugs.mojang.com/browse/MCPE-74079))\
+  \
 
 **Experimental Features:**
 
@@ -182,14 +182,14 @@ For more information, please see the article about enabling experimental feature
 
 **Spectator Mode**
 
-- This update contains early functionality for Spectator Mode – a much-wanted feature we're adding to Minecraft: Bedrock Edition. This will launch after the upcoming 1.19 update has shipped, but we’ll be testing it further in upcoming Betas and Previews. We recommend not relying on this in-development feature, which was not meant to be included in the release. We won't be accepting bug reports related to Spectator Mode until our first iteration is released, as the feature is likely to change during development.  
-    
+- This update contains early functionality for Spectator Mode – a much-wanted feature we're adding to Minecraft: Bedrock Edition. This will launch after the upcoming 1.19 update has shipped, but we’ll be testing it further in upcoming Betas and Previews. We recommend not relying on this in-development feature, which was not meant to be included in the release. We won't be accepting bug reports related to Spectator Mode until our first iteration is released, as the feature is likely to change during development.\
+  \
 
 **Known Issues:**
 
 - Teleporting entities into unloaded chunks removes them from the world. This will be fixed in an upcoming update
-- Players are unable to invert the camera Y-axis when playing with touch controls. This will be fixed in an upcoming update  
-    
+- Players are unable to invert the camera Y-axis when playing with touch controls. This will be fixed in an upcoming update\
+  \
 
 **Fixes:**
 
@@ -294,8 +294,8 @@ For more information, please see the article about enabling experimental feature
 - Fixed an issue with the screen reader looping on the Play screen when you had a Realms invite
 - Download popup no longer flickers when closed
 - Added warning popup on Marketplace pages when attempting to equip skin pack skin while character creator item is equipped
-- Fixed issue where info and buttons did not appear for downloaded skin packs ([MCPE-152216](https://bugs.mojang.com/browse/MCPE-152216))  
-    
+- Fixed issue where info and buttons did not appear for downloaded skin packs ([MCPE-152216](https://bugs.mojang.com/browse/MCPE-152216))\
+  \
 
 **Technical Updates:**
 
@@ -383,16 +383,16 @@ New Module! We added a **mojang-minecraft-ui** module with API structures for cr
   - Added *queueMusic(trackName : string, musicOptions : MusicOptions)*
   - Added *playMusic(trackName : string, musicOptions : MusicOptions)*
   - Added *stopMusic()*
-  - Added MusicOptions JS class with *volume,* *fadeSeconds* and *loop* properties  
-      
+  - Added MusicOptions JS class with *volume,* *fadeSeconds* and *loop* properties\
+    \
 - Dimension
   - Added *id*property
   - Added *MinecraftDimensionTypes*with constants for built-in dimension IDs
-  - Added *spawnItem*to spawn an ItemStack in the dimension  
-      
+  - Added *spawnItem*to spawn an ItemStack in the dimension\
+    \
 - Player
-  - Added function *playSound(soundID : String, soundOptions : SoundOptions)* - Plays a sound for a player, cannot be heard by entities other than that specific player  
-      
+  - Added function *playSound(soundID : String, soundOptions : SoundOptions)* - Plays a sound for a player, cannot be heard by entities other than that specific player\
+    \
 - Events
   - Updated property *direction*to *blockFace* in world.events.beforeItemUseOn and world.events.itemUseOn
   - Added event *beforeDataDrivenEntityTriggerEvent* - Fires before the data driven trigger is applied
@@ -400,51 +400,51 @@ New Module! We added a **mojang-minecraft-ui** module with API structures for cr
   - Added *event entityHit(entityHitEvent: EntityHitEvent, options?: EntityEventOptions)* - Fires when an entity or block is hit by another entity
   - Added event *entityHurt(entityHurtEvent: EntityHurtEvent, options?: EntityEventOptions)*- Fires when an entity takes damage
   - Added event *leverActivate* - fires when a lever is toggled
-  - BlockExplodeEvent - Removed property destroyedBlockPermutation  
-      
+  - BlockExplodeEvent - Removed property destroyedBlockPermutation\
+    \
 - DefinitionModifier - Added
   - read only property *componentGroupsToAdd: string\[\]* - List of component groups that will be added as part of this modifier
   - read only property *componentGroupsToRemove: string\[\]* - List of component groups that will be removed as part of this modifier
-  - property *triggers: Trigger\[\]* - List of triggers that will fire as part of this modifier  
-      
+  - property *triggers: Trigger\[\]* - List of triggers that will fire as part of this modifier\
+    \
 - Trigger - Added
-  - property *eventName: string* - Event name of the trigger  
-      
+  - property *eventName: string* - Event name of the trigger\
+    \
 - DataDrivenEntityTriggerEvent - Added
   - read only property *entity: Entity* - Entity that the event triggered on
-  - read only property *id: string* - name of the event  
-      
+  - read only property *id: string* - name of the event\
+    \
 - BeforeDataDrivenEntityTriggerEvent - Added
   - read only property *entity: Entity* - Entity that the event triggered on
   - read only property *id: string* - name of the event
   - property *modifiers: DefinitionModifier\[\]* - List of modifiers that will be applied when the event triggers
-  - *property cancel: bool* - If true, the event will not be triggered  
-      
+  - *property cancel: bool* - If true, the event will not be triggered\
+    \
 - EntityDataDrivenTriggerEventOptions - Added and inherited from EntityEventOptions
-  - property *eventTypes: string\[\]* - If specified, will restrict to events with the specified name (i.e., *minecraft:ageable_grow_up*)  
-      
+  - property *eventTypes: string\[\]* - If specified, will restrict to events with the specified name (i.e., *minecraft:ageable_grow_up*)\
+    \
 - EntityType
-  - Added read-only property *id: string*- The identifier for the entity type  
-      
+  - Added read-only property *id: string*- The identifier for the entity type\
+    \
 - EntityTypes
   - Added function *get(identifier: string): EntityType*- Returns the corresponding EntityType for the given identifier
-  - Added function *getAll(): EntityTypeIterator*- Returns an iterator containing all registered entity types  
-      
+  - Added function *getAll(): EntityTypeIterator*- Returns an iterator containing all registered entity types\
+    \
 - MinecraftEntityTypes
-  - Provides EntityType constants for each standard Minecraft entity type  
-      
+  - Provides EntityType constants for each standard Minecraft entity type\
+    \
 - EnchantmentType - Added
   - Read-only property i*d: string* - The name of the enchantment type
-  - Read-only property *maxLevel: int* - The maximum level this type of enchantment can have  
-      
+  - Read-only property *maxLevel: int* - The maximum level this type of enchantment can have\
+    \
 - EnchantentInstance - Added
   - *Constructor EnchantmentInstance(type: EnchantmentType, level : int)*
   - Read-only property *type: EnchantmentType* - The enchantment type of this instance
-  - Property *level: int* - The level of this enchantment instance  
-      
+  - Property *level: int* - The level of this enchantment instance\
+    \
 - EnchantmentSlot - Added
-  - Represents the item slot or type that an enchantment can be applied to  
-      
+  - Represents the item slot or type that an enchantment can be applied to\
+    \
 - EnchantmentList - Added
   - Represents a collection of enchantments that can be applied to an item
   - Constructor *EnchantmentList(slot : EnchantSlot)*
@@ -453,17 +453,17 @@ New Module! We added a **mojang-minecraft-ui** module with API structures for cr
   - Method *canAddEnchantment(instance : EnchantmentInstance): bool* - Returns whether or not the provided EnchantmentInstance can be added to this collection
   - Method *addEnchantment(instance : EnchantmentInstance): bool* - Attempts to add the enchantment to this collection. Returns true if successful
   - Method *removeEnchantment(type : EnchantmentType)*- Removes an EnchantmentInstance with type type from this collection if present
-  - Method *hasEnchantment(type : EnchantmentType): int* - If this collection has an EnchantmentInstance with type type, returns the level of the enchantment. Returns 0 if not present  
-      
+  - Method *hasEnchantment(type : EnchantmentType): int* - If this collection has an EnchantmentInstance with type type, returns the level of the enchantment. Returns 0 if not present\
+    \
 - ItemStack
   - Added function *setLore(loreList: string\[\]): void*- Sets the lore text for the item
   - Added function *getLore(): string\[\]*- Gets the lore text for the item
-  - Added *nameTag*property  
-      
+  - Added *nameTag*property\
+    \
 - ItemEnchantmentComponent - Added
   - Property *enchantments: EnchantmentList* - Gets a copy of the current set of enchantments on this ItemStack. Or allows the user to set the EnchantmentList for the ItemStack
-  - Method *removeAllEnchantments*- Removes any enchantments that might be present on this ItemStack  
-      
+  - Method *removeAllEnchantments*- Removes any enchantments that might be present on this ItemStack\
+    \
 - Vector - Added numerous new helper functions
   - Added function *length(): number*- Returns the length of this vector
   - Added function *normalized(): Vector*- Returns this as a normalized vector
@@ -478,14 +478,14 @@ New Module! We added a **mojang-minecraft-ui** module with API structures for cr
   - Added static function *multiply(a:Vector, b:number): Vector*- Returns the product of this vector and a scalar
   - Added static function *divide(a:Vector, b:number): Vector*- Returns the division of this vector and a scalar
   - Added static *function min(a:Vector, b:Vector): Vector*- Returns a vector that is made from the smallest components of two vectors.
-  - Added static function *max(a:Vector, b:Vector): Vector*- Returns a vector that is made from the largest components of two vectors  
-      
+  - Added static function *max(a:Vector, b:Vector): Vector*- Returns a vector that is made from the largest components of two vectors\
+    \
 - EntityItemComponent
-  - Added component *EntityItemComponent*that can be used to obtain an ItemStack from an item entity – e.g., *getComponent(“item”).itemStack  
-      *
+  - Added component *EntityItemComponent*that can be used to obtain an ItemStack from an item entity – e.g., *getComponent(“item”).itemStack\
+    \*
 - BlockInventoryComponent
-  - Fixed accessing items in a double chest crashing/being inconsistent  
-      
+  - Fixed accessing items in a double chest crashing/being inconsistent\
+    \
 - Exposed the following components for Entities:
   - *minecraft:can_climb*
   - *minecraft:can_fly*

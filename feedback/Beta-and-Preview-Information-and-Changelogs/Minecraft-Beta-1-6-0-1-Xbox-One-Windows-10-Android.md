@@ -27,13 +27,13 @@ link: https://feedback.minecraft.net/hc/en-us/articles/360004787312-Minecraft-Be
 - Barrier Blocks
   - Great for map makers to limit players to certain areas of the world
   - Can be placed in Creative mode and are invisible in Survival and Adventure modes
-  - Can only be obtained using commands and do not appear in the Creative inventory  
+  - Can only be obtained using commands and do not appear in the Creative inventory\
      
 
  **Changes:**
 
 - Menu and inventory tabs can now be navigated using the \[ and \] keys (Can be remapped in Settings)
-- Pages can now be turned in the Book & Quill using the controller bumper buttons  
+- Pages can now be turned in the Book & Quill using the controller bumper buttons\
    
 
  **Fixes:**
