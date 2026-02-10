@@ -1,7 +1,7 @@
 ---
 title: "Manage Chat Settings for Minecraft: Java Edition"
 date: 2026-01-28T18:01:32Z
-updated: 2026-02-03T17:18:37Z
+updated: 2026-02-10T19:44:27Z
 categories: "Minecraft: Java Edition Guides"
 tags:
   - section_27520753301005
@@ -47,3 +47,4 @@ There are a variety of accessibility options to customize the appearance an
 
 - [Manage Music and Sound Settings for Minecraft: Java Edition](https://help.minecraft.net/articles/43047480246797)
 - [Accessibility Settings for Minecraft: Java Edition](https://help.minecraft.net/articles/360061018612)
+- [Troubleshoot Minecraft: Java Edition Chat Access](https://help.minecraft.net/articles/43413776295437)
