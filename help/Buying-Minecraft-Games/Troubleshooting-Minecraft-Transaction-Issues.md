@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Transaction Issues
 date: 2021-09-13T23:22:40Z
-updated: 2024-07-31T16:49:15Z
+updated: 2026-02-13T23:13:55Z
 categories: Buying Minecraft Games
 tags:
   - section_28871651550221
@@ -14,16 +14,16 @@ hash:
 
 If you are trying to buy Minecraft for Windows, MacOS, or Linux from the Microsoft store and get an error, try the suggestions below:
 
-- **Try a new browser**. Clear your browsing data or try your purchase on another web browser or device. Also update your browser is the most current version.
-- **Try a different payment method**. Valid payment methods may vary depending on your country or region. Check with your bank to make sure online transactions are allowed in your region.
-- **Try a prepaid Minecraft card**. You may be able to buy a Minecraft prepaid card from a retail store and use this as your payment method. You can redeem your card in the Microsoft store before buying Minecraft on your [Microsoft Account page](https://redeem.microsoft.com/).
+- **Try a different browser:** Clear your browsing data or try your purchase on another web browser or device. Also update your browser is the most current version.
+- **Try a different payment method:** Valid payment methods may vary depending on your country or region. Check with your bank to make sure online transactions are allowed in your region.
+- **Try a prepaid Minecraft card**: You may be able to buy a Minecraft prepaid card from a retail store and use this as your payment method. You can redeem your card in the Microsoft store before buying Minecraft on your [Microsoft Account page](https://redeem.microsoft.com/).
 
 ## Duplicate Charges
 
 There are a couple of situations where a second charge may appear or seem to appear after a purchase. Seeing two similar transactions does not necessarily mean you were charged twice:
 
-- **Verify only one Transaction ID** - An order number may be generated when a payment fails, which can be confused with a successful purchase. Only one [transaction ID](../Account-Sign-in/Locating-Your-Minecraft-Transaction-ID-for-Account-Support.md) is generated with a successful purchase. Look for more than one unique transaction ID to confirm a duplicate purchase. If you were charged twice, [contact the store](./Request-a-Minecraft-Refund.md) you used to make the purchase for a refund.
-- **Check for a bank hold** - A bank or payment partner may temporarily reserve the purchase amount on your account, this can be confused with a second charge. The hold is usually resolved within 24-48 hours. Contact your bank or the payment partner for further information.
+- **Verify only one Transaction ID**: An order number may be generated when a payment fails, which can be confused with a successful purchase. Only one [transaction ID](../Account-Sign-in/Locating-Your-Minecraft-Transaction-ID-for-Account-Support.md) is generated with a successful purchase. Look for more than one unique transaction ID to confirm a duplicate purchase. If you were charged twice, [contact the store](./Request-a-Minecraft-Refund.md) you used to make the purchase for a refund.
+- **Check for a bank hold**: A bank or payment partner may temporarily reserve the purchase amount on your account and appear to be a second charge. The hold is usually resolved within 24-48 hours after the payment processes fully. Contact your bank or the payment partner for further information.
 
 If you believe that you have identified a duplicate charge, contact [Microsoft Support](https://support.xbox.com/en-US/help/subscriptions-billing/browse) and provide us with the transaction IDs from both charges. We will be happy to assist so you can continue to game on!
 
