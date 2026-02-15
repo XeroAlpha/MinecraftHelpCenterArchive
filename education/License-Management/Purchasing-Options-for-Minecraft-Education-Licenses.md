@@ -2,7 +2,7 @@
 title: Purchasing Options for Minecraft Education Licenses
 date: 2021-05-25T15:13:57Z
 updated: 2025-09-04T17:08:47Z
-categories: Purchase Licenses
+categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061371532-Purchasing-Options-for-Minecraft-Education-Licenses
 hash:
   h_01HAATZHTZF6A2Y1ZNZ45EZ6S4: two-types-of-licenses

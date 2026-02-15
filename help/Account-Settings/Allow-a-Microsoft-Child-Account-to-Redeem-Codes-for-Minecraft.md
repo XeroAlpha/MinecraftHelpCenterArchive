@@ -38,7 +38,7 @@ Microsoft Child Accounts for children under 9 years of age are not allowed to re
 ### See these articles for more on child account settings and redeeming codes:
 
 - [How to Redeem a Code for In-Game Downloadable Content in Minecraft: Bedrock Edition](../Redeeming-Gifts-Codes/How-to-Redeem-a-Code-for-In-Game-Downloadable-Content-in-Minecraft.md)
-- [Set Up Microsoft Family Groups to Manage Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
+- [Set Up Microsoft Family Groups to Manage Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md)
 - [Managing Multiplayer Game Access for a Child Account in Minecraft](./Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md)
 - [Managing Spending for Child Accounts in Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
 - [Managing Chat and Social Settings for a Child Account in Minecraft](./Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md)

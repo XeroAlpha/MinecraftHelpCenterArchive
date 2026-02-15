@@ -2,7 +2,7 @@
 title: URLs Used by Minecraft Education
 date: 2021-08-06T13:22:58Z
 updated: 2025-09-26T21:13:09Z
-categories: Administration and License Management
+categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/4404784181524-URLs-Used-by-Minecraft-Education
 hash:
   01GAW1D5M7R3MNFKRDV393Q99A: list-of-all-urls-used-by-minecraft-education

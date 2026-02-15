@@ -2,7 +2,7 @@
 title: Manage Licenses in the Admin Center
 date: 2020-08-10T11:21:41Z
 updated: 2024-06-20T22:35:14Z
-categories: Administration and License Management
+categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118672-Manage-Licenses-in-the-Admin-Center
 hash:
   h_01HKX5GAXRA6KG1YWNGHC0351M: assign-or-remove-a-minecraft-education-license-from-a-user

@@ -2,7 +2,7 @@
 title: Dedicated Server Installation Guide
 date: 2025-10-01T17:35:03Z
 updated: 2026-01-08T20:22:23Z
-categories: Beta
+categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Installation-Guide
 hash:
   h_01K6GJDVR8W3S5FA209DSKJV0Z: step-1-use-the-web-portal-to-turn-on-the-dedicated-server-feature-for-your-tenant
@@ -63,10 +63,10 @@ Official Minecraft Education Partners can be enabled in this section to grant th
 ## Step 2: Download files to the appropriate machines
 
 1.  Download and install the client build(s) on your user machine(s):
-    - About Preview: [Minecraft Education Preview Program](./Minecraft-Education-Preview-Program.md)
+    - About Preview: [Minecraft Education Preview Program](../Beta/Minecraft-Education-Preview-Program.md)
       - [Preview client for Windows](https://aka.ms/downloadmee-winStoreBeta)
       - [Preview client for Android and Chromebook](https://aka.ms/downloadme-chromebookPreview)
-    - About Beta: [Minecraft Education Beta program](./Minecraft-Education-Beta-program.md)
+    - About Beta: [Minecraft Education Beta program](../Beta/Minecraft-Education-Beta-program.md)
       - [Beta client for Windows](https://aka.ms/downloadmee-desktopBeta)
       - [Beta client for macOS](https://aka.ms/downloadmee-macosBeta)
       - Coming soon: Beta client for iOS

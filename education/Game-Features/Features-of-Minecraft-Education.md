@@ -10,7 +10,7 @@ Minecraft Education is a version of the popular open world game, Minecraft, spec
 
  
 
-[Dedicated Server](../Beta/Dedicated-Server-101.md) (October 2025):  Host persistent worlds for use in classrooms and after-school programs (similar to the way Bedrock Dedicated Servers can be used with the consumer version of Minecraft). Minecraft Education now offers the option to self-host Dedicated Servers or join another tenant’s Dedicated Servers through cross-tenant play.
+[Dedicated Server](../Servers/Dedicated-Server-101.md) (October 2025):  Host persistent worlds for use in classrooms and after-school programs (similar to the way Bedrock Dedicated Servers can be used with the consumer version of Minecraft). Minecraft Education now offers the option to self-host Dedicated Servers or join another tenant’s Dedicated Servers through cross-tenant play.
 
 [Cloud Storage](./Cloud-Upload-and-Download.md) (February 2024): Allows you to back up your worlds to OneDrive and sync them across devices that you log into. Worlds are automatically saved to OneDrive upon closing the world as a backup. 
 

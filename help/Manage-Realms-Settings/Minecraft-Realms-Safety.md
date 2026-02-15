@@ -63,7 +63,7 @@ Also, Microsoft accounts benefit from parental controls that empower parents to 
 
 - [Understanding Minecraft Social Features for Child Safety Online](../General-Safety/Understanding-Minecraft-Social-Features-for-Child-Safety-Online.md)
 - [Minecraft Resources for Parents and Guardians](../General-Safety/Minecraft-Resources-for-Parents-and-Guardians.md)
-- [Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
+- [Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md)
 
 ### Human moderation
 

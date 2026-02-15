@@ -2,7 +2,7 @@
 title: Dedicated Server 101
 date: 2025-10-01T17:56:33Z
 updated: 2026-01-08T20:22:27Z
-categories: Beta
+categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-101
 hash:
   h_01K6GENMRJ0HK9HSX1AXVMFGQS: important-beta-info-and-resources

@@ -70,7 +70,7 @@ Some users may encounter these issues. If you do, [reach out to our support team
 - Some schools report issues where after a certain number of users join a multiplayer host (varies per host device), users begin experiencing disconnections and join failures in that session. We’re actively investigating this, but we believe wired ethernet connections and higher spec devices may alleviate this issue.
   - See this [article for more info](../Troubleshooting/Troubleshooting-multiplayer-multiple-disconnections-inventory-lag.md)
 - We've seen some reports of missing worlds from users who are uninstalling old versions and reinstalling the latest v1.20 client. This is because we switched the default install on our website from the desktop app version to the Store version. These two apps have different folder setups. 
-  - To find your worlds, [view this article. ](../Administration-and-License-Management/Location-of-World-Files.md)
+  - To find your worlds, [view this article. ](../Administration/Location-of-World-Files.md)
   - To install the desktop app, [view this article](../Installation/Windows-Installation-Guide.md) or [download it here](https://aka.ms/downloadmee-desktopApp). 
 - Some users report that pressing 'C' does not start coding. 
   - Workaround: Go to Settings \> Keyboard & Mouse \> Code Builder and map the key to 'C' key. 

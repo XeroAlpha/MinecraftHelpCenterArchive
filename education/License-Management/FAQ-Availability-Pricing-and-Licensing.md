@@ -2,7 +2,7 @@
 title: "FAQ: Availability, Pricing, and Licensing"
 date: 2020-08-10T12:09:35Z
 updated: 2025-08-20T20:08:34Z
-categories: Purchase Licenses
+categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047119092-FAQ-Availability-Pricing-and-Licensing
 ---
 
@@ -29,7 +29,7 @@ Yes, each user will need a Microsoft 365 account. For more information on how to
 
 **What if the students don't have email address to assign licenses to?**
 
-Minecraft Education licenses just need to be assigned to a user account in the Microsoft 365 Admin Center. These accounts don't necessarily have to have email functionality. New accounts can be created in the admin center. Once these accounts are created under your tenant, then Minecraft Education licenses can be assigned to these accounts and they can be used to login to the game. For more information on creating accounts in the admin center go [here.](../Administration-and-License-Management/Manage-Licenses-in-the-Admin-Center.md)
+Minecraft Education licenses just need to be assigned to a user account in the Microsoft 365 Admin Center. These accounts don't necessarily have to have email functionality. New accounts can be created in the admin center. Once these accounts are created under your tenant, then Minecraft Education licenses can be assigned to these accounts and they can be used to login to the game. For more information on creating accounts in the admin center go [here.](./Manage-Licenses-in-the-Admin-Center.md)
 
 **Is Minecraft Education available in my country? What languages can I play in?**
 

@@ -27,7 +27,7 @@ Did you know that you can share your digital Minecraft games with your family me
 
 ## How to set up family share on your PC
 
-Before going through the process of trying to download Minecraft on your child’s account, be sure you have properly created a Microsoft child account for them and that they are [included in your family group](https://account.microsoft.com/family/home). Visit [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md) for more info.
+Before going through the process of trying to download Minecraft on your child’s account, be sure you have properly created a Microsoft child account for them and that they are [included in your family group](https://account.microsoft.com/family/home). Visit [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md) for more info.
 
 After the child is properly part of your family group, do the following:
 

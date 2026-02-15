@@ -33,7 +33,7 @@ Minecraft Education is now available for iPhones and Android phones and tablets!
 <tr>
 <td style="width: 100%"><h3>URL Allow List Changes </h3>
 <p>From the 1.18.31 beta and newer updates there are changes to the URLs which must be added to the allow list by your IT Admin to permit multiplayer connections. </p>
-<p>Read more about <a href="../Administration-and-License-Management/FAQ-IT-Admin-Guide.md">URL allow listing for Minecraft Education</a>. </p></td>
+<p>Read more about <a href="../Administration/FAQ-IT-Admin-Guide.md">URL allow listing for Minecraft Education</a>. </p></td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ Version 1.18 brings some exciting features and changes to worlds. Here are the h
 
 - Joining multiplayer worlds should now be easier, requiring less network configuration to successfully connect
 - *Join by IP Address* has been replaced with *Join by Connection Id*. We still recommend using join codes or sharing a join link as the easiest way to join a multiplayer session. 
-- View the [URL Allow List](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md) article for important configuration information required to use the new multiplayer experience
+- View the [URL Allow List](../Administration/FAQ-IT-Admin-Guide.md) article for important configuration information required to use the new multiplayer experience
 - Our multiplayer connections now utilize UDP connections (port 3478) 
 
 ### New NPC Skins

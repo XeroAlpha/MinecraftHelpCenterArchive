@@ -14,7 +14,7 @@ If you don't currently have Microsoft 365 (M365) in your school, you can still t
 - Microsoft-verified academic organizations can set up a free Office 365 Education subscription, which includes an Entra ID (formerly Azure AD) tenant. The Entra ID tenant allows you to create accounts your students can use to login to Minecraft Education for free trial logins.
   - Entra ID accounts (aka Microsoft work or school accounts) allow 10 free logins per student and 25 free logins per faculty.
   - These logins grant full access to the application, however after your accounts' free trial logins are used up, you'll need to purchase Minecraft Education licenses or a Microsoft 365 subscription. 
-- Non-Microsoft-verified academic organizations can set up a free Entra ID tenant when they [purchase Minecraft Education commercial licenses.](../Purchase-Licenses/Purchase-Commercial-Licenses.md)
+- Non-Microsoft-verified academic organizations can set up a free Entra ID tenant when they [purchase Minecraft Education commercial licenses.](../License-Management/Purchase-Commercial-Licenses.md)
 
 If you are a Google school, read on for additional instructions to setup single sign-on.
 
@@ -23,7 +23,7 @@ If you are a Google school, read on for additional instructions to setup single 
 1.  Visit the [Office for Education site](https://www.microsoft.com/en-us/education/products/office) and enter your school email address.  We would highly recommend that you have someone from your IT department kick off this process so that they will be able to manage the tenant and licenses for your school.
 2.  This process will verify that your email belongs to an accredited academic institution.
 3.  After the verification is complete, follow the prompts to start the process to get your M365 account setup, and to receive your free Office 365 Education subscription.
-4.  Once your Entra ID tenant has been created, you can purchase [Minecraft Education licenses for your school.](../Purchase-Licenses/Purchasing-Options-for-Minecraft-Education-Licenses.md)
+4.  Once your Entra ID tenant has been created, you can purchase [Minecraft Education licenses for your school.](../License-Management/Purchasing-Options-for-Minecraft-Education-Licenses.md)
 5.  After you purchase the licenses, [create accounts for your students and assign the Minecraft Education](https://learn.microsoft.com/en-us/microsoft-365/admin/add-users/add-users?view=o365-worldwide) licenses to the accounts.
 6.  [Download and install the Minecraft Education app](https://education.minecraft.net/en-us/get-started/download) to the devices your students use.
 7.  Students will use the accounts that you created in step 5 to login to Minecraft Education.
@@ -32,4 +32,4 @@ If you are a Google school, read on for additional instructions to setup single 
 
 Google schools can set up "federation" with their M365 accounts.  This means that with some back-end configuration, your IT Admin can allow your students to login to Minecraft Education using their existing Google accounts.
 
-These are the instructions to set up [Sign into Minecraft Education with Google account credentials](../Administration-and-License-Management/Sign-into-Minecraft-Education-with-Google-account-credentials.md).
+These are the instructions to set up [Sign into Minecraft Education with Google account credentials](../Administration/Sign-into-Minecraft-Education-with-Google-account-credentials.md).

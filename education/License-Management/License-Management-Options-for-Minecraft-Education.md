@@ -2,7 +2,7 @@
 title: License Management Options for Minecraft Education
 date: 2020-08-10T11:44:09Z
 updated: 2024-05-22T22:20:59Z
-categories: Administration and License Management
+categories: License Management
 tags:
   - license_assignment
   - license

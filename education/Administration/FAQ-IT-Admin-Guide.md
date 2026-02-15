@@ -2,7 +2,7 @@
 title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
 updated: 2025-11-05T00:15:28Z
-categories: Administration and License Management
+categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
   01GJRBMQFC0FPE4Q7276NKF2H6: important-links

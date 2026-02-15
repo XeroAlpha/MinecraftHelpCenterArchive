@@ -51,7 +51,7 @@ For requests related to closing or deleting a Microsoft or Mojang account, visit
 The pages below provide information about how a Parent or Guardian account can buy Minecraft for a child account and grant access to multiplayer, social, and purchasing features:
 
 - [Buying Minecraft for a Child Account on Windows, MacOS or Linux](../Buying-Minecraft-Games/Buying-Minecraft-for-a-Child-Account-on-Windows-MacOS-or-Linux.md)
-- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
+- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md)
 - [Managing Spending for Child Accounts in Minecraft Marketplace](../Buying-Marketplace-Content/Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace.md)
 - [How to Enable a Child Account to Redeem Codes in Minecraft](../Account-Settings/Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft.md)
 - [How to Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories](../Minecraft-Realms-Stories/Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories.md)

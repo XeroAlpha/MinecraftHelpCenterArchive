@@ -13,7 +13,7 @@ hash:
   h_01JS2JPAE0R51P62FW2XFQNRT3: player-reporting-tools
 ---
 
-Minecraft contains many ways players can communicate with each other. Some communication channels are monitored by automated software systems, and some are moderated by Minecraft to support our commitment to player safety. Setting up [Microsoft family groups](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md) enables controls for chat and social features allowed for a child account, and which groups can see a child account’s information.
+Minecraft contains many ways players can communicate with each other. Some communication channels are monitored by automated software systems, and some are moderated by Minecraft to support our commitment to player safety. Setting up [Microsoft family groups](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md) enables controls for chat and social features allowed for a child account, and which groups can see a child account’s information.
 
 ## Communication Methods in Minecraft
 

@@ -48,7 +48,7 @@ Here are the requirements for the best possible multiplayer experience:
 
 - Multiplayer is possible only for players within the same Office 365 tenant.
 - Players should have the most [up-to-date version](https://edusupport.minecraft.net/hc/en-us/articles/360047118732-Deploying-and-Updating-Minecraft-Education-Edition-apps-all-platforms-) of Minecraft Education
-- IT Admins will need to ensure [ports are not blocked](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md) and computers can communicate via peer to peer. 
+- IT Admins will need to ensure [ports are not blocked](../Administration/FAQ-IT-Admin-Guide.md) and computers can communicate via peer to peer. 
 - All players need to be running the same version of Minecraft Education to be able to host and join worlds together.
 - Server-style multiplayer is not possible and a sever license is not available.
 - Hosting multiplayer sessions with 10+ users in a single world will require a high spec device to ensure stability. 
@@ -188,7 +188,7 @@ If you are able to connect to a multiplayer game but start to see decreased perf
 - There is an ongoing into an issue where users begin disconnecting and/or unable to join after the host reaches a certain number of users connected. This may be accompanied by in-game lag.  [Read more about this issue](../Troubleshooting/Troubleshooting-multiplayer-multiple-disconnections-inventory-lag.md) and how to address it.
 - Close out of the game and restart the application. Have joining/hosting a world be the first thing you do after launch and login. Once users have played their own world they must restart to join a multiplayer world
 - Try a new world. NOT one that has been previously saved
-- Your network needs to allow communications with [our URLs](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md). (the URLs need to be allow listed by any systems in your network that block access to the internet such as router settings, content filter, anti-virus or your firewall software)
+- Your network needs to allow communications with [our URLs](../Administration/FAQ-IT-Admin-Guide.md). (the URLs need to be allow listed by any systems in your network that block access to the internet such as router settings, content filter, anti-virus or your firewall software)
 - If you are on iPad:
   - On your iOS device's home screen (iOS 14 or later), tap Settings.
   - Tap Privacy. Local network. You'll find a list of apps.

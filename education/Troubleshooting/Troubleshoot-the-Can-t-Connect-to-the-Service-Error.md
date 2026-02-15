@@ -23,7 +23,7 @@ This table provides a list of potential causes and solutions.
 | **Cause** | **Solution** |
 | For Windows, you may have two versions of Minecraft Education installed (the desktop and store version). | Ensure you have only one version of Minecraft Education (desktop or store version) installed. |
 | For ChromeOS, your connection may use a proxy server. | Check that your connection is not using a proxy server. |
-| Your network is blocking the required URLs required to launch Minecraft Education | Verify the required URLs are added to your network’s allow list. The [URLs Used by Minecraft Education](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md) article has a list of all the required URLs. |
+| Your network is blocking the required URLs required to launch Minecraft Education | Verify the required URLs are added to your network’s allow list. The [URLs Used by Minecraft Education](../Administration/FAQ-IT-Admin-Guide.md) article has a list of all the required URLs. |
 | The Minecraft.AdalServer.exe is blocked from running | Ensure the Minecraft.AdalServer.exe can run while logging in. |
 
  

@@ -2,7 +2,7 @@
 title: Purchase Commercial Licenses
 date: 2021-05-25T14:26:26Z
 updated: 2025-12-16T19:35:50Z
-categories: Purchase Licenses
+categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
 hash:
   h_01HAAV8NGH8DF7QZ9MEWVKKKKH: microsoft-365-admin-center-is-where-you-purchase-and-manage-your-licenses

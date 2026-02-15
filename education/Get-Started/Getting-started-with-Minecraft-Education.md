@@ -64,7 +64,7 @@ First, you will need to have a valid Minecraft Education subscription. You can c
 
 ### How do IT Admins purchase licenses?
 
-Minecraft Education licenses are [purchased](../Purchase-Licenses/Purchasing-Options-for-Minecraft-Education-Licenses.md) and [managed](../Administration-and-License-Management/Manage-Licenses-in-the-Admin-Center.md) through the Microsoft Admin Center on Microsoft Azure AD accounts. This platform allows IT Admins to quickly purchase, manage, and assign large amounts of licenses to various groups of teachers and students with ease. \
+Minecraft Education licenses are [purchased](../License-Management/Purchasing-Options-for-Minecraft-Education-Licenses.md) and [managed](../License-Management/Manage-Licenses-in-the-Admin-Center.md) through the Microsoft Admin Center on Microsoft Azure AD accounts. This platform allows IT Admins to quickly purchase, manage, and assign large amounts of licenses to various groups of teachers and students with ease. \
 \
  
 
@@ -132,7 +132,7 @@ To learn more about trying Minecraft Education, check out [Try Minecraft Educati
 
 Minecraft Education licenses are purchased via a yearly subscription. Individual licenses can be purchased directly from Microsoft or, if you’re part of an eligible educational institution, you can connect with a partner to purchase volume licenses.
 
-To learn more about purchasing Minecraft Education licenses, see [Purchasing Options for Minecraft Education Licenses](../Purchase-Licenses/Purchasing-Options-for-Minecraft-Education-Licenses.md).\
+To learn more about purchasing Minecraft Education licenses, see [Purchasing Options for Minecraft Education Licenses](../License-Management/Purchasing-Options-for-Minecraft-Education-Licenses.md).\
 \
  
 
@@ -142,7 +142,7 @@ To play Minecraft Education, each user requires a license. The license allows th
 
 To learn more about creating user accounts, see [Add Users and Assign Licenses at the Same Time](https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/add-users?view=o365-worldwide) in the Microsoft 365 Admin Center Help.
 
-- To learn more about assigning licenses in the Microsoft 365 Admin Center, see [Manage Licenses for Camps, Clubs, Homeschool and Other Organizations](../Administration-and-License-Management/Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations.md).\
+- To learn more about assigning licenses in the Microsoft 365 Admin Center, see [Manage Licenses for Camps, Clubs, Homeschool and Other Organizations](../License-Management/Manage-Licenses-for-Camps-Clubs-Homeschool-and-Other-Organizations.md).\
    
 
 ### 6.      Install Minecraft Education

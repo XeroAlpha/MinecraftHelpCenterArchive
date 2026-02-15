@@ -27,7 +27,7 @@ hash:
   h_01JNS77MST4FN938C5SQG5BJNW: settings-options-for-multiplayer-games-and-realms-in-minecraft
 ---
 
-Minecraft allows you to manage your child’s ability to find friends and join them in multiplayer games or Realms when using a Microsoft account to play Minecraft: Bedrock Edition. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox. See [Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md) to learn more about Microsoft accounts and Family Groups.
+Minecraft allows you to manage your child’s ability to find friends and join them in multiplayer games or Realms when using a Microsoft account to play Minecraft: Bedrock Edition. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox. See [Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md) to learn more about Microsoft accounts and Family Groups.
 
 ## Manage multiplayer settings using Xbox Privacy online
 

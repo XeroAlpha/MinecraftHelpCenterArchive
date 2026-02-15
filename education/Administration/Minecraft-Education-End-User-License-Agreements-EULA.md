@@ -2,7 +2,7 @@
 title: Minecraft Education End User License Agreements (EULA)
 date: 2021-08-17T23:50:44Z
 updated: 2025-06-12T21:52:05Z
-categories: Administration and License Management
+categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/4405348643092-Minecraft-Education-End-User-License-Agreements-EULA
 ---
 

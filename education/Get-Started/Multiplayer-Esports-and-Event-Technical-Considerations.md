@@ -21,7 +21,7 @@ For hosting events on a dedicated server, see our recommendations on other versi
 
 ## **Network Considerations**
 
-While Minecraft Education does not take up a great deal of bandwidth for a small-group multiplayer session, the best way to know if your network can handle the Minecraft Education multiplayer event you're planning is to run a test with the target number of users on the target host device in advance of the event. You’ll also need our [URLs allowlisted](../Administration-and-License-Management/FAQ-IT-Admin-Guide.md) on the network firewalls to ensure devices can connect to our services. 
+While Minecraft Education does not take up a great deal of bandwidth for a small-group multiplayer session, the best way to know if your network can handle the Minecraft Education multiplayer event you're planning is to run a test with the target number of users on the target host device in advance of the event. You’ll also need our [URLs allowlisted](../Administration/FAQ-IT-Admin-Guide.md) on the network firewalls to ensure devices can connect to our services. 
 
  
 

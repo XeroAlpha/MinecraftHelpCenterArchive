@@ -2,7 +2,7 @@
 title: Sign into Minecraft Education with Google account credentials
 date: 2020-11-04T16:37:16Z
 updated: 2024-05-22T22:29:16Z
-categories: Administration and License Management
+categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/360051644972-Sign-into-Minecraft-Education-with-Google-account-credentials
 hash:
   01H8FA8Z66EC9Z5CM70PCQ0Q2V: option-1use-minecraft-education-remember-mefeature
@@ -41,7 +41,7 @@ In this option, teachers and students can enable Minecraft to remember their 
 
 - Students will need to know both Google Account credentials to sign into the Chromebooks and Microsoft 365 credentials to sign into Minecraft Education the first time they sign in or if there are problems when signing in. 
 - Accounts will need to be provisioned in both Google and Microsoft systems to access all products. 
-- [License Assignment](./License-Management-Options-for-Minecraft-Education.md)[ ](https://edusupport.minecraft.net/hc/en-us/articles/360047557011)will be tied to the Microsoft accounts. 
+- [License Assignment](../License-Management/License-Management-Options-for-Minecraft-Education.md)[ ](https://edusupport.minecraft.net/hc/en-us/articles/360047557011)will be tied to the Microsoft accounts. 
 
 ### Use Remember Me feature in Minecraft Education
 
@@ -75,7 +75,7 @@ In this option, an IT Administrator will need to link the Microsoft accounts to 
 - SAML is optimized for Google Workspace for Education web applications. See the [SAML SSO FAQ](https://support.google.com/a/answer/6262818?hl=en) for more information about web applications, including possible errors. 
 - Microsoft also has an FAQ, which includes Known Issues with SAML federation, in the [Azure Active Directory SSO guide ](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/google-apps-tutorial#frequently-asked-questions)
 - Accounts will need to be provisioned in both Google and Microsoft systems and linked together to access all products. Setup, configuration, syncing and testing of these accounts and linking will require significant work by IT Administrators. 
-- [Minecraft Education license assignment](./Manage-Licenses-in-the-Admin-Center.md) will be tied to the Microsoft accounts. 
+- [Minecraft Education license assignment](../License-Management/Manage-Licenses-in-the-Admin-Center.md) will be tied to the Microsoft accounts. 
 - Due to the highly complex and custom nature of account configurations, the Minecraft Education team will be unable to provide help desk support for setup or troubleshooting of SAML federation. 
 
 ### Setup Microsoft IdP + Google SP SAML Federation 
@@ -117,7 +117,7 @@ In this option, an IT Administrator will need to link the Google accounts to t
   - Can’t link multiple AAD tenants to the same Google organization 
   - Can’t link multiple domains to the same Google organization 
 - Accounts will need to be provisioned in both Google and Microsoft systems and linked together to access all products. Setup, configuration, syncing and testing of these accounts and linking will require significant work by IT Administrators. 
-- [Minecraft Education license assignment](./Manage-Licenses-in-the-Admin-Center.md) will be tied to the Microsoft accounts. 
+- [Minecraft Education license assignment](../License-Management/Manage-Licenses-in-the-Admin-Center.md) will be tied to the Microsoft accounts. 
 - Due to the highly complex and custom nature of account configurations, the Minecraft Education team is unable to provide help desk support for setup or troubleshooting of SAML federation. 
 
 ### How to Enable Google IdP + Microsoft SP SAML Federation 

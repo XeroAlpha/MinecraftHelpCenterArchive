@@ -22,7 +22,7 @@ If your child wants to play Minecraft on Windows, MacOS or Linux, parents can us
 
 Parents need to have a Microsoft account and then also set up a related Microsoft account for each child. See these articles for more information:
 
-- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft-Bedrock-Edition.md)
+- [Set Up Microsoft Family Accounts for Minecraft Multiplayer Games](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md)
 - [Getting started with Microsoft Family Safety - Microsoft Support](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344)
 
 ## Step 2: Enable the Child Account to Redeem Codes and Make Purchases

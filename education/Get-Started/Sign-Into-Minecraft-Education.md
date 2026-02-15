@@ -31,4 +31,4 @@ We've updated account management to make it easier to stay signed in and switch 
 - "Switch accounts" allows you to switch to a different account without clearing passwords from the device. If the player hits the "Switch accounts" button, they will need to enter their username the next time they open the app but not their password.
 - The next time you login to your device and launch Minecraft Education, you should be logged into the game with the same login credentials
 
-If you are using **Google accounts on a Chromebook**, refer to this article for more information about setting up different single sign-on options: [Sign into Minecraft Education with Google account credentials](../Administration-and-License-Management/Sign-into-Minecraft-Education-with-Google-account-credentials.md)
+If you are using **Google accounts on a Chromebook**, refer to this article for more information about setting up different single sign-on options: [Sign into Minecraft Education with Google account credentials](../Administration/Sign-into-Minecraft-Education-with-Google-account-credentials.md)

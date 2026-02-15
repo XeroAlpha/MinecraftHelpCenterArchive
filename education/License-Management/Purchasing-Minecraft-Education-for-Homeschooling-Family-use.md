@@ -2,7 +2,7 @@
 title: Purchasing Minecraft Education for Homeschooling & Family use
 date: 2022-01-07T00:20:29Z
 updated: 2025-12-15T21:49:37Z
-categories: Purchase Licenses
+categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/4415061129236-Purchasing-Minecraft-Education-for-Homeschooling-Family-use
 hash:
   h_01HAATSKSEPAJG14GN5J369W1J: 1-create-a-microsoft-365-admin-center-account-and-organization

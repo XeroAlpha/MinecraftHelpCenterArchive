@@ -46,7 +46,7 @@ This table provides a list of potential causes and solutions.   
 </tr>
 <tr style="height: 89px;">
 <td style="vertical-align: top; height: 89px; width: 312px"><p>Your network is not allowing traffic to and from URLs required for multiplayer connections. Some ports may need to be opened as well.</p></td>
-<td style="vertical-align: top; height: 89px; width: 312px"><p>Add all required URLs to your network allow list. Refer to the <a href="../Administration-and-License-Management/FAQ-IT-Admin-Guide.md">FAQ: IT Admin Guide – Minecraft Education</a> article for a list of all the required URLs and ports.</p></td>
+<td style="vertical-align: top; height: 89px; width: 312px"><p>Add all required URLs to your network allow list. Refer to the <a href="../Administration/FAQ-IT-Admin-Guide.md">FAQ: IT Admin Guide – Minecraft Education</a> article for a list of all the required URLs and ports.</p></td>
 </tr>
 </tbody>
 </table>
