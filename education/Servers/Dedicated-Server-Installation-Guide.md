@@ -1,17 +1,16 @@
 ---
-title: Dedicated Server Installation Guide
+title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-01-08T20:22:23Z
+updated: 2026-02-17T04:44:01Z
 categories: Servers
-link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Installation-Guide
+link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
   h_01K6GJDVR8W3S5FA209DSKJV0Z: step-1-use-the-web-portal-to-turn-on-the-dedicated-server-feature-for-your-tenant
   h_01K6GD8FZN2CSVF4P6T6EBXW3T: general-requirements
-  h_01K6GD8FZPV253XG4H5GCE5E3C: tenant-settings
   h_01K6GD8FZSSDC17ZA8X6X054PA: step-2-download-files-to-the-appropriate-machines
   h_01K6GD8G00WAJSTWZEB4B1H5X3: step-3-set-up-a-dedicated-server
   h_01K6GD8G00QE5RWK553R28066D: hardware-and-operating-system-os-requirements
-  h_01K6GKQDN86D3ZRHJWPNF6BSKE: create-and-configure-a-dedicated-server
+  create_and_configure: create-and-configure-a-dedicated-server
   h_01K6GD8G03FTYT9Q222F1TTVZ7: dedicated-server-setup-and-sign-in
   h_01K6GD8G0FKPZH4TVQ7219CK1M: dedicated-server-allow-list-configuration
   h_01K6GD8G0HQG6S3ZQMKGA6DT30: manage-servers-sample-tooling
@@ -25,7 +24,7 @@ hash:
   h_01K6GD8G17KZQSB58EVA5X94G8: reference-b-join-a-server-hosted-by-another-tenant
 ---
 
-For general information about the EDU Dedicated Server, please refer to the [Dedicated Server 101 Support Article](https://aka.ms/mcedu-ds-faq). In addition to our guide below, feel free to check out our video guide:
+For general information about the EDU Dedicated Server, please refer to the [Dedicated Server 101](./Dedicated-Server-101.md) article. In addition to our guide below, feel free to check out our video guide:
 
 [![How to setup Minecraft Education dedicated server beta](https://edusupport.minecraft.net/hc/article_attachments/43524918786708)](https://www.youtube.com/watch?v=d69T8ssaFyc)
 
@@ -35,44 +34,18 @@ For general information about the EDU Dedicated Server, please refer to the [Ded
 
 ### General Requirements
 
-- To turn on the Dedicated Server feature for your tenant, you will need to have Global IT Admin Access to your Azure Tenant.
-- You can set feature settings in the [Dedicated Server Admin Web Portal](https://aka.ms/dedicatedservers). See below for tenant setting options.
+- To turn on the Dedicated Server feature for your tenant, you will need to have Global Admin Access to your Entra Tenant.
+- Navigate to the [Dedicated Server Admin Web Portal.](https://edusupport.minecraft.net/hc/en-us/articles/46370720373908)
+- Navigate to the Settings Page, and set the Allow Servers toggle to the on position
 
-### Tenant Settings
-
-- Dedicated Server Toggle (required)
-
-![](https://edusupport.minecraft.net/hc/article_attachments/41757415067284)
-
-This feature toggle controls whether Dedicated Servers can be accessed through your tenant. You will need to turn this toggle on to play on your or another tenant’s servers. If you have the Dedicated Server toggle on and Cross-tenant Play toggle off, accounts in your tenant will only be able to access servers owned and managed by your tenant.
-
- 
-
-- Cross-tenant Play Toggle (optional)
-
-![](https://edusupport.minecraft.net/hc/article_attachments/41757415068948)
-
-This feature toggle controls whether accounts in your tenant can join other tenants’ servers and whether accounts in other tenants can join your tenant’s servers. Once this feature toggle is turned on, each individual server meant to be accessed across tenant boundaries must also go through an invite and accept process before it can be accessed by each invited tenant.
-
- 
-
-- Partner Permissions (optional, coming soon)
-
-Official Minecraft Education Partners can be enabled in this section to grant them special permissions. This will allow partners to modify your tenant’s access to and visibility of servers hosted by the partner. That way, you don’t have to configure or host servers yourself. Note that enabled partners can only grant your users guest access to servers belonging to the partner’s tenant. Partners are never able to administer the accounts or servers belonging to your tenant.
+Learn more about [Tenant Settings](https://edusupport.minecraft.net/hc/en-us/articles/46370720373908#Tenant_Settings)
 
 ## Step 2: Download files to the appropriate machines
 
-1.  Download and install the client build(s) on your user machine(s):
-    - About Preview: [Minecraft Education Preview Program](../Beta/Minecraft-Education-Preview-Program.md)
-      - [Preview client for Windows](https://aka.ms/downloadmee-winStoreBeta)
-      - [Preview client for Android and Chromebook](https://aka.ms/downloadme-chromebookPreview)
-    - About Beta: [Minecraft Education Beta program](../Beta/Minecraft-Education-Beta-program.md)
-      - [Beta client for Windows](https://aka.ms/downloadmee-desktopBeta)
-      - [Beta client for macOS](https://aka.ms/downloadmee-macosBeta)
-      - Coming soon: Beta client for iOS
+1.  [Download and install](https://education.minecraft.net/en-us/get-started/download) the client build(s) on your user machine(s):
 2.  Download the dedicated server build(s) on your server machine(s):
-    - [Beta server for Windows](https://aka.ms/downloadmee-winServerBeta)
-    - [Beta server for Linux](https://aka.ms/MCEDU_Beta_Linux_Server)
+    - [Windows server](https://aka.ms/downloadmee-winserver)
+    - [Linux server](https://aka.ms/downloadmee-linuxserver)
 3.  Download VS Code and the sample tooling Python notebook on your admin machine:
     - [Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
     - [Sample tooling Python notebook](http://aka.ms/MCEDU-DS-Tooling)
