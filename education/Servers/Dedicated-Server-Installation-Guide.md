@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-02-17T04:44:01Z
+updated: 2026-02-17T19:57:12Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
@@ -35,17 +35,17 @@ For general information about the EDU Dedicated Server, please refer to the [Ded
 ### General Requirements
 
 - To turn on the Dedicated Server feature for your tenant, you will need to have Global Admin Access to your Entra Tenant.
-- Navigate to the [Dedicated Server Admin Web Portal.](https://edusupport.minecraft.net/hc/en-us/articles/46370720373908)
+- Navigate to the [Dedicated Server Admin Web Portal.](./The-Dedicated-Server-Admin-Portal-is-here.md)
 - Navigate to the Settings Page, and set the Allow Servers toggle to the on position
 
-Learn more about [Tenant Settings](https://edusupport.minecraft.net/hc/en-us/articles/46370720373908#Tenant_Settings)
+Learn more about [Tenant Settings](./The-Dedicated-Server-Admin-Portal-is-here.md#tenant-settings)
 
 ## Step 2: Download files to the appropriate machines
 
-1.  [Download and install](https://education.minecraft.net/en-us/get-started/download) the client build(s) on your user machine(s):
+1.  [Download and install](../Beta/Download-Minecraft-Education-Beta.md) the beta client build(s) on your user machine(s):
 2.  Download the dedicated server build(s) on your server machine(s):
-    - [Windows server](https://aka.ms/downloadmee-winserver)
-    - [Linux server](https://aka.ms/downloadmee-linuxserver)
+    - [Windows server beta](https://aka.ms/downloadmee-winServerBeta)
+    - [Linux server beta](https://aka.ms/MCEDU_Beta_Linux_Server)
 3.  Download VS Code and the sample tooling Python notebook on your admin machine:
     - [Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
     - [Sample tooling Python notebook](http://aka.ms/MCEDU-DS-Tooling)
