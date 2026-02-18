@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.10.24
 date: 2026-02-17T16:49:03Z
-updated: 2026-02-17T23:24:59Z
+updated: 2026-02-18T14:55:01Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/43587352441741-Minecraft-Beta-Preview-26-10-24
 hash:
@@ -137,6 +137,8 @@ Get ready to try out the final features from our first game drop of the year as 
 
 ## User Interface[](https://feedback.minecraft.net/hc/en-us/articles/user-interface)
 
+- Added a recipe book for furnace, smoker and blast furnace as an experimental feature
+  - Share your feedback on the [feedback website!](https://aka.ms/mcbedrockfurnacerbfeedback)
 - Fixed narration for elements outside a scroller
 - Fixed characters rotating incorrectly in UI when riding a mob
 - Fixed an issue that prevented some Ore UI Keyboard & Mouse settings from being saved when modified while in-game. ([MCPE-235690](https://bugs.mojang.com/browse/MCPE-235690))
