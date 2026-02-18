@@ -1,7 +1,7 @@
 ---
 title: What's New in the Copper, Collaboration & Compete Update (v1.21.132)
 date: 2026-02-17T01:48:52Z
-updated: 2026-02-17T22:59:04Z
+updated: 2026-02-18T21:28:38Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/46369414349076-What-s-New-in-the-Copper-Collaboration-Compete-Update-v1-21-132
 hash:
@@ -54,7 +54,7 @@ This update has all the Minecraft Bedrock changes from 1.21.110 to 1.21.130, inc
 ## Code Builder IDE Changes
 
 - Python Notebooks has been removed as a supported IDE. All coding in blocks, JavaScript and Python can now be done in MakeCode. Learn more here: <https://aka.ms/MCEDUCodingChanges>
-- Many improvements to MakeCode, which were released last October. Learn more here: [https://makecode.com/blog/minecraft/2025-release  ](https://makecode.com/blog/minecraft/2025-release%20%20)
+- Many improvements to MakeCode, which were released last October. Learn more here: <https://makecode.com/blog/minecraft/2025-release>
 
 ## Bug Fixes & Performance Improvements
 
