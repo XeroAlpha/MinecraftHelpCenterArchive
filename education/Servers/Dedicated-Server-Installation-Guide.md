@@ -1,12 +1,10 @@
 ---
 title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-02-17T19:57:12Z
+updated: 2026-02-17T22:05:57Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
-  h_01K6GJDVR8W3S5FA209DSKJV0Z: step-1-use-the-web-portal-to-turn-on-the-dedicated-server-feature-for-your-tenant
-  h_01K6GD8FZN2CSVF4P6T6EBXW3T: general-requirements
   h_01K6GD8FZSSDC17ZA8X6X054PA: step-2-download-files-to-the-appropriate-machines
   h_01K6GD8G00WAJSTWZEB4B1H5X3: step-3-set-up-a-dedicated-server
   h_01K6GD8G00QE5RWK553R28066D: hardware-and-operating-system-os-requirements
@@ -15,10 +13,10 @@ hash:
   h_01K6GD8G0FKPZH4TVQ7219CK1M: dedicated-server-allow-list-configuration
   h_01K6GD8G0HQG6S3ZQMKGA6DT30: manage-servers-sample-tooling
   h_01K6GD8G0KA94NX536BW1RSHAT: tooling-setup-and-sign-in
+  h_01K6GD8G0ZT34W39M8MCDVA4JQ: tooling-tenant-settings
   h_01K6GD8G0QTYD0M6T8WT2WAZ0N: tooling-basic-usage
   h_01K6GD8G0W6EF96252PHAF7YC5: tooling-steps-to-set-and-unset-passcodes-for-servers
   h_01K6GD8G0Y5S5KN36NYA2D9WSH: tooling-server-deletion
-  h_01K6GD8G0ZT34W39M8MCDVA4JQ: tooling-tenant-settings
   h_01K6GD8G10YMG09DH42TKWRXMD: tooling-invite-flow-setting-up-a-server-for-cross-tenant-play
   h_01K6GD8G16W92V5AM0X01432SK: reference-a-device-code-browser-sign-in
   h_01K6GD8G17KZQSB58EVA5X94G8: reference-b-join-a-server-hosted-by-another-tenant
@@ -30,22 +28,12 @@ For general information about the EDU Dedicated Server, please refer to the [Ded
 
  
 
-## Step 1: Use the web portal to turn on the Dedicated Server feature for your tenant
-
-### General Requirements
-
-- To turn on the Dedicated Server feature for your tenant, you will need to have Global Admin Access to your Entra Tenant.
-- Navigate to the [Dedicated Server Admin Web Portal.](./The-Dedicated-Server-Admin-Portal-is-here.md)
-- Navigate to the Settings Page, and set the Allow Servers toggle to the on position
-
-Learn more about [Tenant Settings](./The-Dedicated-Server-Admin-Portal-is-here.md#tenant-settings)
-
 ## Step 2: Download files to the appropriate machines
 
-1.  [Download and install](../Beta/Download-Minecraft-Education-Beta.md) the beta client build(s) on your user machine(s):
+1.  [Download and install](https://education.minecraft.net/en-us/get-started/download) the client build(s) on your user machine(s):
 2.  Download the dedicated server build(s) on your server machine(s):
-    - [Windows server beta](https://aka.ms/downloadmee-winServerBeta)
-    - [Linux server beta](https://aka.ms/MCEDU_Beta_Linux_Server)
+    - [Windows server](https://aka.ms/downloadmee-winserver)
+    - [Linux server](https://aka.ms/downloadmee-linuxserver)
 3.  Download VS Code and the sample tooling Python notebook on your admin machine:
     - [Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download)
     - [Sample tooling Python notebook](http://aka.ms/MCEDU-DS-Tooling)
@@ -73,18 +61,18 @@ The Windows version requires either:
 1.  Unzip the server zip file.
 2.  Acquire the IP and configure the port to which your client machines will connect.
     - If the client machines will be on the same network as the server machine, use the server machine’s local IP.
-      - Windows: run the terminal command \`ipconfig\`
-      - Linux: run the terminal command \`ip address\`
+      - Windows: run the terminal command `ipconfig`
+      - Linux: run the terminal command `ip address`
     - If the client machines will be on a different network than the server machine, use the server machine’s public IP.
-      - Windows and Linux: run the terminal command \`curl ip.me\`
+      - Windows and Linux: run the terminal command `curl ip.me`
       - Ensure the port you want to host on is forwarded to the public internet.
 3.  Ensure there are no firewalls on the client or server machines that will block clients from connecting to the server machine on the port you will be hosting.
 4.  Configure the “server.properties” file:
     - Set the “server-public-ip” to the IP from above
     - Set the “server-port” to the port on which you want the server to host
-      - It is recommended to not use the default port of 19132
+      - It is recommended to not use port 19132, since that would conflict with the defaults of other Minecraft apps
     - Set the “gamemode”, “difficulty”, “allow-cheats”, “chat-restriction”, “max-players”, “allow-list”, and other properties in the file as desired.
-    - If “allow-list” is set to \`true\`, the “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section below for more details).
+    - If “allow-list” is set to `true`, the “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section below for more details).
 5.  Run the server executable.
     - Windows: “bedrock_server.exe”
     - Linux: “bedrock_server_edu”
@@ -101,17 +89,16 @@ The Windows version requires either:
       - If you lose track of the server ID, you can find it again in your “edu_server_session.json” file.
 
         ![](https://edusupport.minecraft.net/hc/article_attachments/41757430647828)
-7.  At this point, the server is registered and hosted. However, before clients can connect, various additional properties that do not live in the server files must be configured. See the next section, “Tooling setup and sign in”, to see how these are set.
-    - Note that in the future, before the retail release, these additional settings will be configurable via a new page on the web portal, but right now in beta the properties are only configurable via our public API.
+7.  At this point, the server is registered and hosted. However, before clients can connect, various additional properties that do not live in the server files must be configured. To see how these are set, see the “Tooling setup and sign in” section below.
 
 ### Dedicated Server allow-list configuration
 
-1.  To explicitly specify which users can join the server, you can set “allow-list” to \`true\` in the “server.properties” file and restart the server if it is running.
+1.  To explicitly specify which users can join the server, you can set “allow-list” to `true` in the “server.properties” file and restart the server if it is running.
     - By default, there are no entries in the “allowlist.json” file.
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41757591537172)
 
-    - As a result, if “allow-list” is set to \`true\` in the “server.properties” file, no users will be able to join the server and will be told they are banned if they attempt.
+    - As a result, if “allow-list” is set to `true` in the “server.properties” file, no users will be able to join the server and will be told they are banned if they attempt.
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41757591542420)
 2.  To add a user to the allow list, edit the “allowlist.json” and restart the server if it is running.
@@ -166,21 +153,31 @@ The sample tooling features a set of actions in a Jupyter Notebook that you can 
     - A brief moment after completing the browser sign in, the sample tooling should complete the sign in process and present you with the account name and tenant ID you signed in to, as well as the expiration date and time of the sign in session.
       - If your token expires, running the cell again may silently refresh your sign in or may prompt you to sign in again with the same steps you just went through.
 
-7.  At this point, the notebook is ready to start configuring server registrations, which are the entries in Minecraft Education’s services that will be used to communicate the details of your servers to clients when users visit the new Servers menu.
+7.  At this point, the notebook is ready to start configuring server registrations, which are the entries in Minecraft Education’s services that will be used to communicate the details of your servers to clients when users visit the Servers menu.
+
+### Tooling tenant settings
+
+1.  Tenant settings can conveniently be edited via the [Dedicated Server Admin Web Portal](https://aka.ms/dedicatedservers), but you can also use the sample tooling or write your own tooling to call the tenant settings endpoints. This can be useful if you want to automate or schedule changes and have a program make the changes for you.
+
+2.  Similarly to the other cells in the notebook, there are placeholder values for various fields. Of special note however is the fact that the `tooling/fetch_tenant_settings` endpoint will return the IDs of any servers you have set to be broadcasted.
+
+3.  The most important field in the tenant settings is "DedicatedServerEnabled", which *must* be set to `True` for users to see the Servers menu in the client or join servers.
+
+    ![](https://edusupport.minecraft.net/hc/article_attachments/46396885744660)
 
 ### Tooling basic usage
 
 1.  If you haven’t already, go through the steps in the “Dedicated server setup and sign in” and “Tooling setup and sign in” sections. They are required before you can do anything meaningful with the sample tooling notebook.
 
-2.  Start by running the \`tooling/fetch_all_server_ids\` cell.
+2.  Start by running the `tooling/fetch_all_server_ids` cell.
 
     ![](https://edusupport.minecraft.net/hc/article_attachments/41757591560212)
 
-    - If you get the \`401 Unauthorized\` error, you need to run the first cell again, because your access token has expired.
+    - If you get the "401 Unauthorized" error, you need to run the first cell again, because your access token has expired.
     - The result should include all the server IDs for which your tenant has registrations and thus to which your tenant has access to configure.
     - In the list of server IDs, you should see the ID of the server you set up in the “Dedicated server setup and sign in” section above. From here on out, we’ll refer to this server ID as the server ID of the server you are configuring, but you could also configure a different server by using its ID if you have another.
 
-3.  Next, go to the \`tooling/fetch_server_info\` cell, change the placeholder “YourServerID” to the server ID of the server you are configuring, and run the cell.
+3.  Next, go to the `tooling/fetch_server_info` cell, change the placeholder “YourServerID” to the server ID of the server you are configuring, and run the cell.
 
     ![](https://edusupport.minecraft.net/hc/article_attachments/41757559170708)
 
@@ -188,11 +185,11 @@ The sample tooling features a set of actions in a Jupyter Notebook that you can 
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41757591563924)
 
-      - The “isOwningTenant” property is \`true\` if your tenant registered the server and \`false\` if the server was shared with your tenant via the invite flow (see the “Tooling invite flow” section below for more details).
+      - The “isOwningTenant” property is `true` if your tenant registered the server and `false` if the server was shared with your tenant via the invite flow (see the “Tooling invite flow” section below for more details).
 
-      - The “isEnabled” property defaults to \`false\` and must be set to \`true\` before users can join the server.
+      - The “isEnabled” property defaults to `false` and must be set to `true` before users can join the server.
 
-      - The “isBroadcasted” property defaults to \`false\` and if set to \`true\`, all users in your tenant will always see the server in the Servers menu and be unable to remove it in the client. If set to \`false\`, users must add the server by its server ID with the “Add Server” button and dialog in the Servers menu.
+      - The “isBroadcasted” property defaults to `false` and if set to `true`, all users in your tenant will always see the server in the Servers menu, as long as the server is enabled. They will also be unable to remove it from their server list. If set to `false`, users must add the server by its server ID with the **Add Server** button and dialog in the Servers menu.
 
         ![](https://edusupport.minecraft.net/hc/article_attachments/41758013852052)
 
@@ -200,42 +197,38 @@ The sample tooling features a set of actions in a Jupyter Notebook that you can 
 
       - The “serverName” property defaults to “Server \<server ID\>” if your tenant registered the server and defaults to the same name as in the owning tenant if the server was shared with your tenant by another tenant (see the “Tooling invite flow” section below for more details). We highly recommend changing the server name before enabling or broadcasting the server.
 
-4.  Now that you know the current properties of the server, go to the first cell under the \`tooling/edit_server_info\` heading, change the placeholder “YourServerID” to the server ID of the server you are configuring, change the other placeholder property values in the cell as desired, and run the cell.
+4.  Now that you know the current properties of the server, go to the first cell under the `tooling/edit_server_info` heading, change the placeholder “YourServerID” to the server ID of the server you are configuring, change the other placeholder property values in the cell as desired, and run the cell.
 
     <figure class="wysiwyg-image">
     <img src="https://edusupport.minecraft.net/hc/article_attachments/41758029761300" />
     </figure>
 
-5.  Go back to the \`tooling/fetch_server_info\` cell and run it to observe the property values of the server have changed.
+5.  Go back to the `tooling/fetch_server_info` cell and run it to observe the property values of the server have changed.
 
 ### Tooling steps to set and unset passcodes for servers
 
-1.  The second cell under the \`tooling/edit_server_info\` heading allows you to set a passcode that will be required to join the server.
-    - Before running the cell, make sure to change the “YourServerID” placeholder server ID at the bottom of the cell and the “MyPasscode” placeholder value in the center of the cell.
+**Important Note**: Passcodes are not passwords, since they are not unique to each user. They are instead unique to each server (or at least should be!). They are viewable to admins and shared by users. For example, a classroom could use a passcode to ensure only that class can get into the server, so long as the passcode is only known to the people in the class.
 
-      ![](https://edusupport.minecraft.net/hc/article_attachments/41758029762196)
-2.  The third cell under the \`tooling/edit_server_info\` heading allows you to remove a passcode that you have previously set.
-3.  ![](https://edusupport.minecraft.net/hc/article_attachments/41758029763860)
-    - Note 1: There is currently a bug in the Beta that prevents setting a passcode after it has been removed. This will be fixed soon and will not require any changes on your side.
-    - Note 2: These are not passwords in the traditional sense, since they are not unique to each user. They are instead unique to each server (or at least should be!). As such, we are planning to change them to be called “passcode” instead. We are also planning to make them viewable to admins. For this beta, you can set the passcode with the “Password” field and remove it with the “DisablePasswordProtection” field, but this will be different in the next version.
+1.  The second cell under the `tooling/edit_server_info` heading allows you to set a passcode that will be required to join the server.
+
+    ![](https://edusupport.minecraft.net/hc/article_attachments/46396897122708)
+
+2.  The third cell under the `tooling/edit_server_info` heading allows you to remove a passcode that you have previously set.
+
+    ![](https://edusupport.minecraft.net/hc/article_attachments/46396885749524)
 
 ### Tooling server deletion
 
-1.  Before deleting a server registration, it is highly recommended that you double check the properties of the server to ensure it is the server you intend to delete. You can do so by using the \`tooling/fetch_server_info\` cell (see the “Tooling basic usage” section above for more details).
+1.  Before deleting a server registration, it is highly recommended that you double check the properties of the server to ensure it is the server you intend to delete. You can do so by using the `tooling/fetch_server_info` cell (see the “Tooling basic usage” section above for more details).
 
-2.  Also, before deleting a registration, which is irreversible, consider disabling the server instead if you intend to restore the server to usability later. You can do so by setting the “Enabled” field to \`False\` in the first cell under the \`tooling/edit_server_info\` heading (see the “Tooling basic usage” section above for more details).
+2.  Also, before deleting a registration, which is irreversible, consider disabling the server instead if you intend to restore the server to usability later. You can do so by setting the “Enabled” field to `False` in the first cell under the `tooling/edit_server_info` heading (see the “Tooling basic usage” section above for more details).
 
-3.  If, after double checking the server is the one you want to remove and considering disabling the server instead, you determine to delete a server registration completely, you can do so by going to the \`tooling/delete_server_registration\` cell, changing the “YourServerID” placeholder value to the server ID of the server you want to delete, and running the cell.
+3.  If, after double checking the server is the one you want to remove and considering disabling the server instead, you determine to delete a server registration completely, you can do so by going to the `tooling/delete_server_registration` cell, changing the “YourServerID” placeholder value to the server ID of the server you want to delete, and running the cell.
 
     ![](https://edusupport.minecraft.net/hc/article_attachments/41758029765908)
 
-    - If the call fails, you may have already deleted the server registration, or your tenant may not own the server. You can check by using the \`tooling/fetch_server_info\` cell (see the “Tooling basic usage” section above for more details).
-    - If your tenant does not own the server, that means your tenant is a guest of the server and accepted an invite to the server. In this case, you can remove your guest registration by using the second cell under the \`tooling/remove_server_connection\` heading instead (see the “Tooling invite flow” section below for more details).
-
-### Tooling tenant settings
-
-1.  Tenant settings can conveniently be edited via the [Dedicated Server Admin Web Portal](https://aka.ms/dedicatedservers), but you can also use the sample tooling or write your own tooling to call the tenant settings endpoints. This can be useful if you want to automate or schedule changes and have a program make the changes for you.
-2.  Similarly to the other cells in the notebook, there are placeholder values for various fields. Of special note however is the fact that the \`tooling/fetch_tenant_settings\` endpoint will return the IDs of any servers you have set to be broadcasted.
+    - If the call fails, you may have already deleted the server registration, or your tenant may not own the server. You can check by using the `tooling/fetch_server_info` cell (see the “Tooling basic usage” section above for more details).
+    - If your tenant does not own the server, that means your tenant is a guest of the server and accepted an invite to the server. In this case, you can remove your guest registration by using the second cell under the `tooling/remove_server_connection` heading instead (see the “Tooling invite flow” section below for more details).
 
 ### Tooling invite flow (Setting up a Server for Cross-tenant Play)
 
@@ -250,30 +243,30 @@ In more detail, these are the exact steps:
 
 1.  An admin from each tenant must ensure that their tenant allows cross-tenant servers to participate.
     - The first way to enable cross-tenant servers is to enable the “Allow Cross-Tenant Servers” option on the [Dedicated Server Admin Web Portal](https://aka.ms/dedicatedservers) (see the “Tooling setup and sign in” section above for more details).
-    - The second way is to set the equivalent “CrossTenantAllowed” property to \`True\` via the first cell under the \`tooling/edit_tenant_settings\` heading in the sample tooling notebook.
+    - The second way is to set the equivalent “CrossTenantAllowed” property to `True` via the first cell under the `tooling/edit_tenant_settings` heading in the sample tooling notebook.
 2.  An admin from the hosting tenant must set up the server as previously described in the “Dedicated server setup and sign in” section.
-    - The “CrossTenantAllowed” property must be set to \`True\` or sending invites, accepting invites, and users from other tenants joining the server will fail.
+    - The “CrossTenantAllowed” property must be set to `True` or sending invites, accepting invites, and users from other tenants joining the server will fail.
     - Using an allow list and/or a passcode is much more important if allowing users from other tenants so that only the users you are expecting can join.
     - To set a passcode, see the “Tooling steps to set and unset passcodes for servers” section above.
-    - If “allow-list” is set to \`true\`, the “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section above for more details).
+    - If “allow-list” is set to `true`, the “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section above for more details).
 3.  An admin from the hosting tenant must invite all the other tenants to the server.
-    - Go to the \`tooling/create_server_invite\` cell, change the placeholder “YourServerID” to the server ID of the server you are configuring, replace the placeholder “…-SomeTenantID” value with the tenant IDs of each tenant to invite, make sure each tenant ID is surrounded by quotes, ensure each quoted tenant ID is separated by a comma, and run the cell.
+    - Go to the `tooling/create_server_invite` cell, change the placeholder “YourServerID” to the server ID of the server you are configuring, replace the placeholder “…-SomeTenantID” value with the tenant IDs of each tenant to invite, make sure each tenant ID is surrounded by quotes, ensure each quoted tenant ID is separated by a comma, and run the cell.
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41758013863444)
 
     - If you receive the “TypeError: string indices must be integers, not 'str'” error, you need to run the first cell in the notebook to sign in again (see the “Tooling setup and sign in” section above for more details).
 
-    - If you receive the “tooling/create_server_invite: 400 Cross-tenant is not enabled for this server.” error, you need to use the first cell under the \`tooling/edit_server_info\` heading to set the “CrossTenantAllowed” property to \`True\` (see the “Tooling basic usage” section above for more details).
+    - If you receive the “tooling/create_server_invite: 400 Cross-tenant is not enabled for this server.” error, you need to use the first cell under the `tooling/edit_server_info` heading to set the “CrossTenantAllowed” property to `True` (see the “Tooling basic usage” section above for more details).
 
     - Successfully sending the invite(s) to guest tenant(s) will result in a 200 code and the server ID showing up in a list following the tenant ID of the recipient(s).
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41758013864212)
 4.  An admin from each invited tenant must accept the invite to the server.
-    - Go to the \`tooling/accept_server_invite\` cell, change the placeholder “SomeServerID” to the server ID of the host tenant, and run the cell.
+    - Go to the `tooling/accept_server_invite` cell, change the placeholder “SomeServerID” to the server ID of the host tenant, and run the cell.
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41758029774740)
 
-    - The admin of the host tenant may have communicated the server ID to the admins of the invited tenants, but if not, “ServerInvitesReceived” is a field in the result of calls to \`tooling/fetch_tenant_settings\`.
+    - The admin of the host tenant may have communicated the server ID to the admins of the invited tenants, but if not, “ServerInvitesReceived” is a field in the result of calls to `tooling/fetch_tenant_settings`.
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41758029778324)
 
@@ -308,12 +301,12 @@ For tenants who are not looking to create and manage servers themselves, but wan
 4.  Wait for the host tenant to send out server invites.
 
 5.  Accept the invite to the server through the sample tooling.
-    - Go to the \`tooling/accept_server_invite\` cell, change the placeholder “SomeServerID” value to the server ID from the host tenant, and run the cell.
+    - Go to the `tooling/accept_server_invite` cell, change the placeholder “SomeServerID” value to the server ID from the host tenant, and run the cell.
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41758029789076)
 
-    - If you get the \`401 Unauthorized\` error, you need to run the first cell again, because your access token has expired (see the “Tooling setup and sign in” section for more details).
+    - If you get the "401 Unauthorized" error, you need to run the first cell again, because your access token has expired (see the “Tooling setup and sign in” section for more details).
 
-    - The admin of the host tenant may have communicated the server ID to you, but if not, “ServerInvitesReceived” is a field in the result of calls to \`tooling/fetch_tenant_settings\`. You can use that cell to check for IDs of any servers to which your tenant has received an invite
+    - The admin of the host tenant may have communicated the server ID to you, but if not, “ServerInvitesReceived” is a field in the result of calls to `tooling/fetch_tenant_settings`. You can use that cell to check for IDs of any servers to which your tenant has received an invite
 
       ![](https://edusupport.minecraft.net/hc/article_attachments/41758013878036)

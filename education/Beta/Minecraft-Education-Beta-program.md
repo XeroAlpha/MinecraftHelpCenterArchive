@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Beta program
 date: 2021-05-25T15:44:31Z
-updated: 2025-03-19T20:47:50Z
+updated: 2026-02-17T22:18:10Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061391892-Minecraft-Education-Beta-program
 hash:
@@ -12,9 +12,7 @@ hash:
   h_01HNZM0PP9HD8B364K9TH2072Y: how-to-get-the-general-release-version---when-available
 ---
 
-*Note: Minecraft Education is moving to a Preview system that replaces our Beta system. The preview apps allow users to have both the primary game client plus the preview app installed at the same time. View our [Minecraft Education Preview article](https://aka.ms/MCEDUPreviewFAQ) to learn more* about how to get started with our Preview program.
-
- 
+*Note: Minecraft Education is moving to a Preview system that replaces our Beta system. The preview apps allow users to have both the primary game client plus the preview app installed at the same time. View our* [*Minecraft Education Preview article*](https://aka.ms/MCEDUPreviewFAQ) *to learn more* *about how to* [get started with our Preview program](./Minecraft-Education-Preview-Program.md).
 
 Thank you for your interest in our Beta program! We're excited to get your feedback on our new features before we release them to the general public. View our [Change Log](https://aka.ms/meechangelog) for most recent versions. 
 
@@ -28,8 +26,7 @@ Check out our article [Download Minecraft Education Beta](https://aka.ms/MEEBet
 
 ## How to continue participating in the beta
 
-If you have downloaded and installed our beta version, you will continue to get future beta releases. Chromebook, Android, and Windows users should instead switch to the [Minecraft Education Preview](https://aka.ms/MCEDUPreviewFAQ) which will receive automatic updates.
-
+- **Chromebook, Android, and Windows users should switch to the** [**Minecraft Education Preview**](https://aka.ms/MCEDUPreviewFAQ) **which will receive automatic updates.**
 - iOS users will continue to receive betas through TestFlight.
 - macOS users need to manually install future beta releases.
 - Windows desktop users are automatically updated when a new version is available.

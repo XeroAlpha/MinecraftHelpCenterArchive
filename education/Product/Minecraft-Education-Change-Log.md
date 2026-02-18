@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2025-12-18T19:35:29Z
+updated: 2026-02-17T22:20:35Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-betapreview-game-client-update-version-1211311---released-121825
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-game-client-update-version-121132---released-21726
+  h_01KHMP7ZWZEP4NGJ4B7WZQNK3N: minecraft-education-betapreview-game-client-update-version-1211311---released-121825
   h_01KCSFBFV2Q3CBZQ3G1Y21RH4Y: minecraft-education-game-client-minor-update-version-121931---released-103125
   01K8Y5P2FMSQM57M3CZNFXDTVZ: minecraft-education-betapreview-game-client-update-version-1211101---released-100125
   01K6BX1H7GW1HVXMC6WARBXHK0: minecraft-education-game-client-minor-update-version-121921---released-82025
@@ -59,6 +60,16 @@ Minecraft Education periodically releases updates to our game and companion apps
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
+
+## Minecraft Education Game Client Update (version 1.21.132) - Released 2/17/26
+
+- Dedicated Server updates
+- Mounts of Mayhem update
+- Copper Age update
+- MakeCode updates
+- Deprecation of Python Notebooks in Coding
+- Bugfixes and stability improvements
+- Changes to System Requirements
 
 ## Minecraft Education Beta/Preview Game Client Update (version 1.21.131.1) - Released 12/18/25
 

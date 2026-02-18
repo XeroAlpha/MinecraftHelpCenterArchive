@@ -1,7 +1,7 @@
 ---
 title: The Dedicated Server Admin Portal is here!
 date: 2026-02-17T03:13:24Z
-updated: 2026-02-17T19:35:39Z
+updated: 2026-02-17T22:08:45Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46370720373908-The-Dedicated-Server-Admin-Portal-is-here
 hash:
@@ -36,9 +36,11 @@ Learn more about [EDU Dedicated Servers](./Dedicated-Server-101.md)
 
 ## Tenant Settings
 
-Sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) and use the settings button to access your tenant settings for servers.
+Sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) and use the settings button to access and edit your tenant settings for servers as desired.
 
-![Settings.png](https://edusupport.minecraft.net/hc/article_attachments/46370742053652)
+<figure class="wysiwyg-image">
+<img src="https://edusupport.minecraft.net/hc/article_attachments/46397007510548" />
+</figure>
 
 ### Allow Servers
 

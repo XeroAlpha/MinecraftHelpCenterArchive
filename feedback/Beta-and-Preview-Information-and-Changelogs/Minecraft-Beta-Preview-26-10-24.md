@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.10.24
 date: 2026-02-17T16:49:03Z
-updated: 2026-02-17T16:50:43Z
+updated: 2026-02-17T23:24:59Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/43587352441741-Minecraft-Beta-Preview-26-10-24
 hash:
@@ -35,7 +35,6 @@ hash:
   user-content-server-ui-ddui: server-ui-ddui
   h_01KHP7JP7YD78K31H8RG0FVTFQ: blocks-1
   user-content-voxel-shapes: voxel-shapes
-  h_01KHP7JP7YNMNWMFZ1VR1433PE: realms-1
 ---
 
 **Posted:** 17 February 2026
@@ -121,7 +120,7 @@ Get ready to try out the final features from our first game drop of the year as 
 
 ## Realms[](https://feedback.minecraft.net/hc/en-us/articles/realms)
 
-- The 'world_replica_based_backup' flag and the old Realms backup system have been removed, and now the new backups system, Realms Saves, is enabled at all times
+- Realms Moderate Feed screen has been updated to OreUI
 
 ## Server Tab[](https://feedback.minecraft.net/hc/en-us/articles/server-tab)
 
@@ -172,7 +171,6 @@ Get ready to try out the final features from our first game drop of the year as 
 - Released `World.getAimAssist` from `beta` to `v2.6.0`
 - Released `Player.getAimAssist` from `beta` to `v2.6.0`
 - Released BlockComponentEntityEvent from beta to `v2.6.0`
-- Added `Block.getParts` method behind `beta`. Returns an array of Block parts if the block has the **minecraft:multi_block** trait
 - Fixed localization string for `tile.sticky_piston_arm_collision.name` to `Sticky Piston Arm Collision`
 
 ## Client Entities[](https://feedback.minecraft.net/hc/en-us/articles/client-entities)
@@ -228,6 +226,7 @@ Get ready to try out the final features from our first game drop of the year as 
 
 - Game Test
   - When running `/gametest run <test>` on a game tests with an invalid structure, the game test is no longer spawned at the world ceiling.
+- Added `Block.getParts` method behind `beta`. Returns an array of Block parts if the block has the **minecraft:multi_block** trait
 - Added `dedicatedServer` optional global to `beta` of `server-admin` for accessing dedicated server only APIs
 - Added `DedicatedServerUtils` to `beta` of `server-admin` with dedicated server only APIs
 - Added `LevelStorage` to `beta` of `server-admin` with dedicated server save state management APIs
@@ -253,7 +252,3 @@ Get ready to try out the final features from our first game drop of the year as 
   - Individual boxes must now be within the allowed bounds of (-14, -14, -14) to (30, 30, 30) pixels
   - At least one box must overlap the base block (0-16 pixels on all axes)
   - Total shape extent cannot exceed 30 pixels (1 block + 14 pixels) on any axis
-
-## Realms[](https://feedback.minecraft.net/hc/en-us/articles/realms)
-
-- Enable Realms purchase reconciliation on Switch

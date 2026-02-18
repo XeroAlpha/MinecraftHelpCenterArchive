@@ -1,7 +1,7 @@
 ---
 title: Deploying over Group Policy (via PowerShell)
 date: 2026-02-01T06:46:11Z
-updated: 2026-02-06T18:05:24Z
+updated: 2026-02-17T22:10:29Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/45872069884436-Deploying-over-Group-Policy-via-PowerShell
 hash:
@@ -160,7 +160,7 @@ Instead of editing the script directly, you can pass the installer path as a par
 **Example parameter:**
 
 ``` auto
--url \\server\path\to\installer
+-url "\\server\path\to\installer"
 ```
 
 This allows you to reuse the same script across multiple deployments without modifying it. (See the example screenshot below.)\
@@ -284,47 +284,47 @@ Additional parameters are available. With the exception of `-URL`, we do not rec
 ### Parameters
 
 <figure class="wysiwyg-table" style="width: 100%;">
-<table class="wysiwyg-table-resized" style="border-style: solid; border-width: 1px;">
+<table class="wysiwyg-table-resized">
 <colgroup>
 <col style="width: 33%" />
 <col style="width: 67%" />
 </colgroup>
 <tbody>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-URL (Required)</strong></td>
-<td style="border-style: solid; border-width: 1px"><p>Specifies the UNC path or URL from which to download the installer. The installer is copied to the App Directory path (default: <code>C:\TempMC\Installer</code>) and installed from there.<br />
+<td><strong>-URL (Required)</strong></td>
+<td><p>Specifies the UNC path or URL from which to download the installer. The installer is copied to the App Directory path (default: <code>C:\TempMC\Installer</code>) and installed from there.<br />
 If not specified or invalid, the script attempts to download from the website, which is not recommended.</p>
 <p>Default: Website</p></td>
 </tr>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-LogDir</strong></td>
-<td style="border-style: solid; border-width: 1px">Specifies the directory where logs are stored (local or UNC path).<br />
+<td><strong>-LogDir</strong></td>
+<td>Specifies the directory where logs are stored (local or UNC path).<br />
 Default: <code>C:\TempMC\Logs</code></td>
 </tr>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-AppDir</strong></td>
-<td style="border-style: solid; border-width: 1px">Directory used to download and install the installer. Deleted upon successful installation.<br />
+<td><strong>-AppDir</strong></td>
+<td>Directory used to download and install the installer. Deleted upon successful installation.<br />
 Default: <code>C:\TempMC\Installer</code></td>
 </tr>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-Force</strong></td>
-<td style="border-style: solid; border-width: 1px">Forces an installation and bypasses duplicate install checks. Not recommended.</td>
+<td><strong>-Force</strong></td>
+<td>Forces an installation and bypasses duplicate install checks. Not recommended.</td>
 </tr>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-Verbose</strong></td>
-<td style="border-style: solid; border-width: 1px">Enables additional verbose logging.</td>
+<td><strong>-Verbose</strong></td>
+<td>Enables additional verbose logging.</td>
 </tr>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-NoShortcut</strong></td>
-<td style="border-style: solid; border-width: 1px">Disables creation of the desktop shortcut in <code>C:\Users\Public\Desktop</code>.</td>
+<td><strong>-NoShortcut</strong></td>
+<td>Disables creation of the desktop shortcut in <code>C:\Users\Public\Desktop</code>.</td>
 </tr>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-SkipInstallCheck</strong></td>
-<td style="border-style: solid; border-width: 1px">Skips duplicate install checks. Not recommended, as it may cause issues.</td>
+<td><strong>-SkipInstallCheck</strong></td>
+<td>Skips duplicate install checks. Not recommended, as it may cause issues.</td>
 </tr>
 <tr>
-<td style="border-style: solid; border-width: 1px"><strong>-EnableHash</strong></td>
-<td style="border-style: solid; border-width: 1px">Verifies SHA256 hashes of the remote and downloaded installer for unreliable connections. This increases installation time.</td>
+<td><strong>-EnableHash</strong></td>
+<td>Verifies SHA256 hashes of the remote and downloaded installer for unreliable connections. This increases installation time.</td>
 </tr>
 </tbody>
 </table>

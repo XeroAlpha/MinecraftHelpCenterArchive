@@ -1,7 +1,7 @@
 ---
 title: Purchasing Minecraft Education for Homeschooling & Family use
 date: 2022-01-07T00:20:29Z
-updated: 2025-12-15T21:49:37Z
+updated: 2026-02-17T22:28:14Z
 categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/4415061129236-Purchasing-Minecraft-Education-for-Homeschooling-Family-use
 hash:
