@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-02-17T22:05:57Z
+updated: 2026-02-20T18:22:01Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
@@ -19,7 +19,7 @@ hash:
   h_01K6GD8G0Y5S5KN36NYA2D9WSH: tooling-server-deletion
   h_01K6GD8G10YMG09DH42TKWRXMD: tooling-invite-flow-setting-up-a-server-for-cross-tenant-play
   h_01K6GD8G16W92V5AM0X01432SK: reference-a-device-code-browser-sign-in
-  h_01K6GD8G17KZQSB58EVA5X94G8: reference-b-join-a-server-hosted-by-another-tenant
+  cross_tenant: reference-b-join-a-server-hosted-by-another-tenant
 ---
 
 For general information about the EDU Dedicated Server, please refer to the [Dedicated Server 101](./Dedicated-Server-101.md) article. In addition to our guide below, feel free to check out our video guide:
@@ -242,13 +242,13 @@ For users from two or more different tenants to join the same server, tenant adm
 In more detail, these are the exact steps:
 
 1.  An admin from each tenant must ensure that their tenant allows cross-tenant servers to participate.
-    - The first way to enable cross-tenant servers is to enable the “Allow Cross-Tenant Servers” option on the [Dedicated Server Admin Web Portal](https://aka.ms/dedicatedservers) (see the “Tooling setup and sign in” section above for more details).
-    - The second way is to set the equivalent “CrossTenantAllowed” property to `True` via the first cell under the `tooling/edit_tenant_settings` heading in the sample tooling notebook.
+    - The first way to enable cross-tenant servers is to enable the “Allow Cross-Tenant Servers” option on the [Dedicated Server Admin Web Portal](https://aka.ms/dedicatedservers).
+    - The second way is to set the equivalent “CrossTenantAllowed” property to `True` via the first cell under the `tooling/edit_tenant_settings` heading in the sample tooling notebook (see the “Tooling setup and sign in” and "Tooling tenant settings" sections above for more details).
 2.  An admin from the hosting tenant must set up the server as previously described in the “Dedicated server setup and sign in” section.
-    - The “CrossTenantAllowed” property must be set to `True` or sending invites, accepting invites, and users from other tenants joining the server will fail.
-    - Using an allow list and/or a passcode is much more important if allowing users from other tenants so that only the users you are expecting can join.
+    - The “CrossTenantAllowed” property must be set to `True`, or else sending invites, accepting invites, and users from other tenants joining the server will fail.
+    - Using an allow list and/or a passcode is much more important if allowing users from other tenants so that only the users you are expecting can join. Consider configuring one or both methods of access control.
     - To set a passcode, see the “Tooling steps to set and unset passcodes for servers” section above.
-    - If “allow-list” is set to `true`, the “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section above for more details).
+    - If “allow-list” is set to `true` in the server's "server.properties" file, the server's “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section above for more details).
 3.  An admin from the hosting tenant must invite all the other tenants to the server.
     - Go to the `tooling/create_server_invite` cell, change the placeholder “YourServerID” to the server ID of the server you are configuring, replace the placeholder “…-SomeTenantID” value with the tenant IDs of each tenant to invite, make sure each tenant ID is surrounded by quotes, ensure each quoted tenant ID is separated by a comma, and run the cell.
 
