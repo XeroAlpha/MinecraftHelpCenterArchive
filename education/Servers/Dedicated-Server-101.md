@@ -52,11 +52,11 @@ No. Dedicated Servers must be enabled by a user in your tenant with the Global A
 
 The simplest way to create a new server is to [create a server using the Admin Portal](./Create-Servers-in-the-Admin-Portal.md).
 
-Use the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Installation-Guide.md) to learn advanced creation and management techniques.
+Use the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md) to learn advanced creation and management techniques.
 
 ## 6. How do I set up Cross-Tenant Play for my tenant?
 
-Currently, the only way to set up cross-tenant play is through scripting.  For a step-by-step installation guide, please refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Installation-Guide.md).
+Currently, the only way to set up cross-tenant play is through scripting.  For a step-by-step installation guide, please refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md).
 
 Cross-tenant management in the Admin Portal is coming soon.
 

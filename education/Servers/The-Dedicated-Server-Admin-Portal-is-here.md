@@ -16,7 +16,7 @@ hash:
 
 The [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) introduces a centralized, web-based experience for managing Minecraft Education Dedicated Servers. This update brings improved visibility, control, and consistency for IT admins and educators who manage servers. This is the recommended approach for most users, although we also offer scripting as a more advanced option for deploying a large number of servers. 
 
-Refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Installation-Guide.md) for more information about this advanced option.
+Refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md) for more information about this advanced option.
 
 ## With the Admin Portal, you can
 
@@ -24,7 +24,7 @@ Refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-I
 - View and manage all available Dedicated Servers associated with your tenant
 - Access key server details without coding or complicated technical steps
 - Manage tenant-level settings
-- Note that we will continue to support the scripting methods of administering servers as they remain useful for large scale server management (see [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Installation-Guide.md))
+- Note that we will continue to support the scripting methods of administering servers as they remain useful for large scale server management (see [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md))
 
 Learn more about [EDU Dedicated Servers](./Dedicated-Server-101.md)
 
@@ -50,7 +50,7 @@ Sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) 
 
 ### Allow Cross-Tenant Servers
 
-Cross-tenant server management will be available in the Admin Portal soon.  If you would like to invite other tenants to join a server in your tenant, refer to the [Dedicated Server Tooling and Scripting Guide.](./Dedicated-Server-Installation-Guide.md)
+Cross-tenant server management will be available in the Admin Portal soon.  If you would like to invite other tenants to join a server in your tenant, refer to the [Dedicated Server Tooling and Scripting Guide.](./Dedicated-Server-Tooling-and-Scripting-Guide.md)
 
 - When this is turned on, Minecraft Education users in your tenant can join specific servers that are owned by other tenants (each server must be allowed by a Global Admin in your tenant).
 - If you have Cross-tenant Play toggle off, accounts in your tenant will only be able to access servers owned and managed by your tenant.
