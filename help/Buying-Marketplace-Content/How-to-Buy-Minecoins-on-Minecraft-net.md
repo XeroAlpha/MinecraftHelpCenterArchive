@@ -1,11 +1,11 @@
 ---
-title: How to Buy Minecoins on Minecraft.net
+title: Buy Minecoins on Minecraft.net
 date: 2024-10-22T18:41:19Z
-updated: 2025-12-02T00:28:58Z
+updated: 2026-02-25T19:31:13Z
 categories: Buying Marketplace Content
 tags:
   - section_31867594896141
-link: https://help.minecraft.net/hc/en-us/articles/31268712757133-How-to-Buy-Minecoins-on-Minecraft-net
+link: https://help.minecraft.net/hc/en-us/articles/31268712757133-Buy-Minecoins-on-Minecraft-net
 hash:
   h_01JATR9FC4CD1XKN75GEC4JRYA: how-to-purchase-minecoins-on-minecraftnet
 ---

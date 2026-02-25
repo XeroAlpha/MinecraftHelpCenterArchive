@@ -1,7 +1,7 @@
 ---
-title: Get Help With Missing Minecoins in Minecraft Marketplace
+title: Troubleshoot Missing Minecoins in Minecraft Marketplace
 date: 2021-09-10T21:41:33Z
-updated: 2025-05-28T21:39:33Z
+updated: 2026-02-25T19:28:12Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -17,7 +17,7 @@ tags:
   - use_for_autoreply
   - platform_xbox_series_xs
   - section_31867770289293
-link: https://help.minecraft.net/hc/en-us/articles/4408963926541-Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace
+link: https://help.minecraft.net/hc/en-us/articles/4408963926541-Troubleshoot-Missing-Minecoins-in-Minecraft-Marketplace
 ---
 
 If you have purchased Minecoins but the currency is not appearing in the [Minecraft Marketplace](https://www.minecraft.net/en-us/marketplace) on your Microsoft account, you should contact the support team for the store where you bought them. Links to access these are below:
