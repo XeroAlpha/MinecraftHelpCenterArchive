@@ -1,7 +1,7 @@
 ---
 title: "Named Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2025-12-01T18:38:16Z
+updated: 2026-02-26T23:49:41Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -35,8 +35,8 @@ hash:
   error-arrow: arrow
   error-bamboo: bamboo
   error-bat: bat
-  error-block: blaze
-  h_01KAHQDRRQ142FST84GZQC7TBW: block
+  error-blaze: blaze
+  error-block: block
   error-boat: boat
   error-breeze: breeze
   error-cauldron: cauldron
