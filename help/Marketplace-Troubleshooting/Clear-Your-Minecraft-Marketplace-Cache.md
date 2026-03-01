@@ -26,4 +26,4 @@ Clear your Minecraft Marketplace cache as an initial troubleshooting step if you
 - [Invalid Session Error in Minecraft Marketplace](./Invalid-Session-Error-in-Minecraft-Marketplace.md)
 - [Troubleshooting Minecraft Marketplace Error Codes](./Troubleshooting-Minecraft-Marketplace-Error-Codes.md)
 - [View Your Minecraft Marketplace Content](./View-Your-Minecraft-Marketplace-Content.md)
-- [Get Help With Missing Minecoins in Minecraft Marketplace](./Get-Help-With-Missing-Minecoins-in-Minecraft-Marketplace.md)
+- [Get Help With Missing Minecoins in Minecraft Marketplace](./Troubleshoot-Missing-Minecoins-in-Minecraft-Marketplace.md)
