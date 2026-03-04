@@ -1,7 +1,7 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2025-04-22T18:44:58Z
+updated: 2026-03-03T22:43:09Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
@@ -38,10 +38,10 @@ Worlds are automatically saved to OneDrive upon closing the world as a backup. W
 
 ## Requirements
 
-- Please note Onedrive access requires additional Microsoft licensing. Please check with your IT Administrator to confirm if you have access to this feature.
+- Please note OneDrive access requires additional Microsoft licensing. Please check with your IT Administrator to confirm if you have access to this feature.
 - User accounts must have an allowed connection to OneDrive in place.
-  - To check, go to [Sign in - Microsoft OneDrive (live.com) and sign in with your school account](https://onedrive.live.com/login/).
-  - Once logged in, Click 'Office apps & devices' to confirm if OneDrive is enabled
+  - Go to <https://portal.office.com/account#subscriptions> with your work or school account.
+  - Verify that any license including OneDrive is shown. 
 - Users should have Minecraft Education installed on their device.
 - IT Admins will need to ensure that all recommended [URLs are unblocked](https://aka.ms/MEEURLAllowList) and computers can communicate with OneDrive online. Below are the cloud specific URLs:
   - https://graph.microsoft.com
@@ -71,7 +71,7 @@ Note: The downloaded file will continue to backup to the same location if the sa
 
  
 
-![Screenshot of Cloud Storage settings page](https://edusupport.minecraft.net/hc/article_attachments/23498417208852)
+![](https://edusupport.minecraft.net/hc/article_attachments/46847755261972)
 
 ** **
 
@@ -214,11 +214,11 @@ If you got this error when you closed your world:
 Here are some steps you can take to figure out the issue:
 
 - Confirm you are connected to the internet.
-- Confirm you have OneDrive enabled on the account you logged into Minecraft Education with.
-  - To check, go to [Sign in - Microsoft OneDrive (live.com)](https://onedrive.live.com/login/)
-  - Once logged in, Click 'Office apps & devices' to confirm if OneDrive is enabled
+- Confirm you have OneDrive licensed and enabled on the account you logged into Minecraft Education with.
+  - Go to <https://portal.office.com/account#subscriptions>
+  - Verify that any license including OneDrive is shown. 
 - Confirm your OneDrive is not full
-  - [ My OneDrive says it's full - Microsoft Support](https://support.microsoft.com/en-us/office/my-onedrive-says-it-s-full-f0a8a922-d971-497e-b0c6-7b9a47c617c0?ns=groove&version=16&ui=en-us&rs=en-us&ad=us)
+  - [ My OneDrive says it's full - Microsoft Support](https://support.microsoft.com/en-us/office/my-onedrive-says-it-s-full-f0a8a922-d971-497e-b0c6-7b9a47c617c0?ns=groove&version=16&ui=en-us&rs=en-us&ad=us#id0edd=signinorgid)
 - Ask your IT Administrator to ensure that all [recommended URLs are unblocked](https://aka.ms/MEEURLAllowList). 
 
  
@@ -236,9 +236,9 @@ If you got this error when you closed your world:
 Here are some steps you can take to resolve this issue:
 
 - Try again in case your internet was interrupted.
-- Confirm you have OneDrive enabled on the account you logged into Minecraft Education with.
-  - To check, go to [Sign in - Microsoft OneDrive (live.com)](https://onedrive.live.com/login/)
-  - Once logged in, select 'Office apps & devices' to confirm if OneDrive is enabled
+- Confirm you have OneDrive licensed & enabled on the account you logged into Minecraft Education with.
+  - Go to <https://portal.office.com/account#subscriptions>
+  - Verify that any license including OneDrive is shown. 
 - Ask a system administrator to check your OneDrive settings.
 
  
@@ -273,8 +273,8 @@ If you got this error when you closed your world:
 Here are some steps you can take to resolve this issue:
 
 - Confirm you have OneDrive enabled on the account you logged into Minecraft Education with.
-  - To check, go to [Sign in - Microsoft OneDrive (live.com)](https://onedrive.live.com/login/)
-  - Once logged in, select 'Office apps & devices' to confirm if OneDrive is enabled
+  - Go to <https://portal.office.com/account#subscriptions>
+  - Verify that any license including OneDrive is shown. 
 - Ask a system administrator to check your OneDrive settings.
 
 If you got this error when you closed your world:
