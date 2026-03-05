@@ -1,9 +1,9 @@
 ---
-title: Dedicated Server 101
+title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-02-17T22:38:12Z
+updated: 2026-03-05T02:11:22Z
 categories: Servers
-link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-101
+link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
   h_01K6GEKV3KM0R9EE2ZY6QP4T7V: 1what-is-a-minecraft-education-dedicated-server
   h_01K6GEKV3M99R2NQXV2EV61J0D: 2what-are-the-key-features-of-dedicated-server

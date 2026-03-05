@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-02-20T18:22:01Z
+updated: 2026-03-05T02:13:50Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
@@ -22,7 +22,7 @@ hash:
   cross_tenant: reference-b-join-a-server-hosted-by-another-tenant
 ---
 
-For general information about the EDU Dedicated Server, please refer to the [Dedicated Server 101](./Dedicated-Server-101.md) article. In addition to our guide below, feel free to check out our video guide:
+For general information about the EDU Dedicated Server, please refer to the [Dedicated Server FAQ](./Dedicated-Server-101.md) article. In addition to our guide below, feel free to check out our video guide:
 
 [![How to setup Minecraft Education dedicated server beta](https://edusupport.minecraft.net/hc/article_attachments/43524918786708)](https://www.youtube.com/watch?v=d69T8ssaFyc)
 
