@@ -1,11 +1,11 @@
 ---
 title: System Requirements
 date: 2020-08-10T10:57:43Z
-updated: 2026-02-17T22:19:09Z
+updated: 2026-03-05T19:03:26Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
-  h_01KHMMZK0YCCF8M82Q35KP5AT9: changes-take-effect-february-17-2026
+  h_01KHMMZK0YCCF8M82Q35KP5AT9: changes-made-on-february-17-2026
   h_01KHMN7SPP41HTK6RH7SVPXN5C: 32-bit-support
   h_01KHMN8S11HYNV8PRCVZMC69EE: ram-minimum-requirements
   h_01HAYTE3RC268F7D3H24PQRWHH: operating-system-requirements
@@ -18,7 +18,7 @@ hash:
 
 At this time, Minecraft Education is supported on Chromebook, iPad, Mac, PC, and mobile (Android and iOS). This article provides information on the minimum requirements for each platform.
 
-## Changes take effect February 17, 2026
+## Changes made on February 17, 2026
 
 #### 32-bit Support 
 

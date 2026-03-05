@@ -1,22 +1,12 @@
 ---
 title: Create Servers in the Admin Portal
 date: 2026-02-13T23:38:43Z
-updated: 2026-02-17T22:50:20Z
+updated: 2026-03-05T17:36:56Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295348713236-Create-Servers-in-the-Admin-Portal
 hash:
-  h_01KHMTDXD40ARQSR405VHCFPZM: hardware-and-operating-system-os-requirements
   h_01KHMR42VB1R9KTQ1KSQPAKARS: create-a-server
 ---
-
-## Hardware and Operating System (OS) requirements
-
-We recommend running the Bedrock Minecraft Server on 64-bit Intel or AMD processor machines with at least 2 cores and 1 Gb RAM.
-
-- The Linux version requires Ubuntu 18 or later. Other distributions are not supported.
-- The Windows version requires either:
-  - Windows 10 version 1703 or later
-  - Windows Server 2016 or later
 
 ## Create a Server
 
