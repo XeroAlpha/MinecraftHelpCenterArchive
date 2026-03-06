@@ -1,7 +1,7 @@
 ---
 title: Minecraft keyboard and mouse controls
 date: 2020-08-10T08:36:23Z
-updated: 2025-12-09T23:08:06Z
+updated: 2026-03-05T23:23:18Z
 categories: Teaching With Minecraft
 tags:
   - controls
@@ -17,6 +17,9 @@ hash:
 ---
 
 This article explains how to move around with one of the most common interfaces for Minecraft Education, a keyboard and mouse. We encourage you to bookmark or [print out this page](https://education.minecraft.net/content/dam/education-edition/software-downloads/MCEDU%20Movement%20Control%20Guide.pdf) while you are learning how to play, you’ll likely refer to it often.
+
+We also have a video guide you can watch as part of our [Learn to Play](https://aka.ms/learntoplay) playlist!\
+[Understanding Basic Controls and Movement in Minecraft Education ](https://www.youtube.com/watch?v=6qrumxEZ9_U&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=2)
 
 This article will cover:
 
