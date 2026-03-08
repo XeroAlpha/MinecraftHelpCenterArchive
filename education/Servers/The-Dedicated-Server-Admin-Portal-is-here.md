@@ -26,7 +26,7 @@ Refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-T
 - Manage tenant-level settings
 - Note that we will continue to support the scripting methods of administering servers as they remain useful for large scale server management (see [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md))
 
-Learn more about [EDU Dedicated Servers](./Dedicated-Server-101.md)
+Learn more about [EDU Dedicated Servers](./Dedicated-Server-FAQ.md)
 
 ## General Requirements
 

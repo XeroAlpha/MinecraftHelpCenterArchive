@@ -22,7 +22,7 @@ hash:
   cross_tenant: reference-b-join-a-server-hosted-by-another-tenant
 ---
 
-For general information about the EDU Dedicated Server, please refer to the [Dedicated Server FAQ](./Dedicated-Server-101.md) article. In addition to our guide below, feel free to check out our video guide:
+For general information about the EDU Dedicated Server, please refer to the [Dedicated Server FAQ](./Dedicated-Server-FAQ.md) article. In addition to our guide below, feel free to check out our video guide:
 
 [![How to setup Minecraft Education dedicated server beta](https://edusupport.minecraft.net/hc/article_attachments/43524918786708)](https://www.youtube.com/watch?v=d69T8ssaFyc)
 
