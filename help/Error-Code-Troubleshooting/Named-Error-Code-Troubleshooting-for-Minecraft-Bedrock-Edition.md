@@ -1,7 +1,7 @@
 ---
 title: "Named Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2026-02-26T23:49:41Z
+updated: 2026-03-10T18:44:39Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -245,7 +245,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Kelp
 
 - **What it means**: Your connection timed out.
-- **How to troubleshoot**: Check with your server/hosting player to make sure they’re online. See [Troubleshoot Unable to Join Multiplayer Games in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md) for more suggestions.
+- **How to troubleshoot**: Check with your server/hosting player to make sure they’re online. See [Troubleshoot Unable to Join Multiplayer Games in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md) and [Invite Friends to Your Minecraft: Bedrock Edition World](../Multiplayer-Support/Invite-Friends-to-Your-Minecraft-Bedrock-Edition-World.md) for more suggestions.
 
 ### Ladder
 
@@ -260,7 +260,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### NetherNet
 
 - **What it means**: There was a multiplayer connection error.
-- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md).
+- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) and [Troubleshoot Unable to Join Multiplayer Games in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md) for more suggestions.
 
 ### Panda
 

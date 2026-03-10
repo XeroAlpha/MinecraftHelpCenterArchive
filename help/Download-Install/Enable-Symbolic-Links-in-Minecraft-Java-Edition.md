@@ -1,40 +1,43 @@
 ---
 title: "Enable Symbolic Links in Minecraft: Java Edition"
 date: 2023-05-26T17:44:29Z
-updated: 2026-02-18T18:00:26Z
+updated: 2026-03-10T18:38:32Z
 categories: Download & Install
 tags:
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/16165590199181-Enable-Symbolic-Links-in-Minecraft-Java-Edition
 hash:
-  h_01HNXGT5ZPYKJ1E79ECF1W6Y7G: how-to-enable-symbolic-links
-  h_01HNXGT5ZPCT1W2XMG4XDVBP6F: symbolic-links-and-file-security
+  h_01KKAG4XT82BEEJCSZG27JTJCC: how-to-create-symbolic-links
+  h_01KKAG4XTBAY87FZN0BADZ27TR: security-and-symbolic-links
+  h_01KKAG4XTCG64KC9TFD39GDPJC: troubleshooting-symbolic-links
 ---
 
-A symbolic link (sometimes called a “symlink”) is a way to make a file name in one place on a file system refer to a different file, elsewhere. Symbolic links are supported by all operating systems Minecraft runs on.
+A symbolic link (or “symlink”) is a special file-system entry that points to another file or folder, letting a path in one location refer to content in a different location. Symbolic links can be useful for keeping Minecraft data (such as worlds, resource packs, or datapacks) in a different location than the default directories Minecraft uses.
 
-Symbolic links can sometimes be useful when you want to place content in different locations but some application (in this case, Minecraft) expects those files to exist in a certain location, like for example wanting some Minecraft worlds to be placed on a separate storage device.
+Symbolic links are supported on the operating systems Minecraft: Java Edition runs on, but Minecraft may restrict following links unless you explicitly allow them by creating an exceptions file that Minecraft can reference.
 
-## How to Enable Symbolic Links
+## How to create symbolic links
 
-There are cases where symbolic links are useful. If you have such a use case and have created the symbolic links yourself, you can allow Minecraft to access the target of those links. To do this, you will need to create or edit a file called “allowed_symlinks.txt” in your [Minecraft folder](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md).
+Creating symbolic links is done outside of Minecraft and may require using a command-line tool or file manager features, depending on your operating system. Consult your OS documentation for details.
 
-Each line in this file contains one allowed path. Symbolic links are followed only if the target of the link has a path starting with one of paths specified in this file.
+1.  Create or edit a text file named **allowed_symlinks.txt** in the Minecraft game directory. For the client, this is typically your **.minecraft** folder. For a dedicated server, it is the server’s working directory.
+2.  Add allow-list entries that match the target paths your symbolic links point to, using the pattern type of your choice (prefix is used by default). Use the path separator for your operating system.
 
-For instance, let’s say you want to store some of your worlds on D:\MinecraftSaves to save space on your C: drive (on Windows). You’d add this line to “allowed_symlinks.txt”:
+Here are some guidelines:
 
-D:\MinecraftSaves
+- Enter each target on its own line.
+- Choose a pattern type: **glob**, **prefix**, or **regex**.
+  - Glob matches paths ending with wildcard patterns (for example, \*.txt).
+  - Prefix matches paths that start with the pattern (for example, /test, /test/, or /test/file.txt).
+  - Regex matches the full path using a regular expression (for example, a path that ends with \\txt).
+- Ignore comments by starting the line with a \#.
 
-If you are still getting an error, you can find out exactly which targets are being rejected by looking at the errors in your “latest.log” file under the “logs” folder.
+## Security and symbolic links
 
-## Symbolic Links and File Security
+If you open a Minecraft world and receive an error stating it contains symbolic links that you did not create, do not open it—especially if it came from a downloaded archive (such as a .zip). Minecraft validates symbolic links inside world directories for safety; a malicious world could point outside the world folder and cause Minecraft to write or overwrite files elsewhere, leading to data loss.
 
-Because a symbolic link could lead anywhere on your drive, having a symbolic link show up unexpectedly could mean Minecraft could read or write files it is not supposed to. This applies especially in cases where the symbolic link came from unpacking an archive (e.g., a Zip file) from an outside source, like a Minecraft world downloaded from the internet.
+## Troubleshooting symbolic links
 
-If Minecraft was to attempt to write a file that is a symbolic link to another important file on your drive, that file might get overwritten with the Minecraft world contents, potentially causing loss of data.
-
-Minecraft versions starting with 1.20 show an error when trying to open worlds that contain symbolic links.
-
-If you see an error message about symbolic links when opening a world you downloaded from the internet or in any other situation where you haven’t knowingly created the symbolic links yourself this might be an indication that the content you downloaded is malicious.
-
-Do not attempt to open such downloaded worlds.
+- If you receive an error after creating a symbolic link, check the log file for the rejected targets (for example, .minecraft\logs\latest.log on the client) and adjust your allow-list entries using the guidelines above.
+- Relative paths may not work as expected. Use absolute paths when possible.
+- You may need to delete the existing folder in the location you want to create the symbolic link. Back up any data you want to keep.
