@@ -1,7 +1,7 @@
 ---
 title: "Download a Realms World in Minecraft: Bedrock Edition"
 date: 2024-09-06T21:35:22Z
-updated: 2025-12-10T18:15:10Z
+updated: 2026-03-10T17:22:50Z
 categories: Manage Realms Save Files
 tags:
   - section_37819421372941
@@ -9,15 +9,17 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/30035151042445-Download-a-Realms-World-in-Minecraft-Bedrock-Edition
 ---
 
-Minecraft Realms worlds are backed up automatically to help you keep your creations safe. When you finish playing and select Quit & Save, the most recent version of your world is saved to your backups. To download and make a copy of a Realms world, follow the instructions below.
+Minecraft Realms worlds are backed up automatically to help keep your creations safe. When you finish playing and select Quit & Save, the most recent version of your Realms world is saved to your backups. To download and make a copy of this backup, follow these steps:
 
 1.  Launch Minecraft and select **Play**.
 2.  Select the **Realms** tab.
 3.  Select the Realm with the world you want to download and select **Settings**.
-4.  Select the world you want to download and select **Edit world**.
-5.  Scroll to the bottom of Game Settings and select the Download World button.
+4.  Confirm that the world you want to download is active with a green checkmark. If it’s not, select the world \> **Activate World**.
+5.  Select **Manage Realm.**
+6.  Select **Saves** to view the world save you want to download from the **Manual** or **Automatic** tab.
+7.  Select the kebab menu next to the save and select **Download save** from the pop-up menu.
 
-The world will be downloaded and added to your Worlds tab and can also be copied from your file storage. See [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) for more details.
+The world will be downloaded and added to your singleplayer Worlds tab. It can also be copied from your file storage. See [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md) for more details.
 
 **Additional Backup and Restore Resources**
 
