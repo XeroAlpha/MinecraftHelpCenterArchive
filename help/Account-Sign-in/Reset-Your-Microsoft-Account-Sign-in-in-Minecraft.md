@@ -1,7 +1,7 @@
 ---
 title: Reset Your Microsoft Account Sign-in in Minecraft
 date: 2020-07-14T23:11:19Z
-updated: 2025-06-12T18:49:08Z
+updated: 2026-03-11T18:51:11Z
 categories: Account Sign-in
 tags:
   - section_12617594906509

@@ -1,7 +1,7 @@
 ---
 title: "Join a Minecraft: Java Edition Realm"
 date: 2019-06-27T01:08:30Z
-updated: 2025-06-03T18:47:49Z
+updated: 2026-03-11T18:54:02Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
@@ -20,11 +20,11 @@ hash:
   h_01JWRWDCPHYGQXX4HAAND1V5QA: additional-resources
 ---
 
-*For Minecraft: Bedrock Edition, see [Join a Minecraft: Bedrock Edition Realm](./Join-a-Minecraft-Bedrock-Edition-Realm.md).*
+*For Minecraft: Bedrock Edition, see* [*Join a Minecraft: Bedrock Edition Realm*](./Join-a-Minecraft-Bedrock-Edition-Realm.md)*.*
 
 After you [Accept a Minecraft: Java Edition Realms Invitation](./Accept-a-Minecraft-Java-Edition-Realms-Invitation.md), it will appear on your list of available Realms. You can join the Realms server even if the host isn’t online, and a Realms subscription is not necessary for the player joining.
 
-*For the best experience with Realms, make sure you meet the [Requirements to Play Minecraft Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Multiplayer-Games.md). We recommend not using any mods.*
+*For the best experience with Realms, make sure you meet the* [*Requirements to Play Minecraft Multiplayer Games*](../Multiplayer-Support/Requirements-to-Play-Minecraft-Multiplayer-Games.md)*. We recommend not using any mods.*
 
 ## Join a Realm in Minecraft: Java Edition
 

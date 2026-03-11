@@ -1,7 +1,7 @@
 ---
 title: How to Update Your Microsoft Account Payment Information for Minecraft
 date: 2021-09-14T20:56:10Z
-updated: 2024-09-13T15:40:27Z
+updated: 2026-03-11T18:53:49Z
 categories: Account Settings
 tags:
   - section_27194076935437

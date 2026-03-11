@@ -1,14 +1,14 @@
 ---
 title: Java Edition Game Service API Review or Application Process
 date: 2023-05-30T15:53:19Z
-updated: 2025-08-20T20:33:12Z
+updated: 2026-03-11T18:49:31Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
 link: https://help.minecraft.net/hc/en-us/articles/16254801392141-Java-Edition-Game-Service-API-Review-or-Application-Process
 ---
 
-Mojang is improving the Minecraft: Java Edition ecosystem regarding third-party applications that interact with the Java Edition game service APIs. While many of these third-party applications integrate successfully into our services, some attempt to maliciously exploit our users through methods such as phishing attempts.   
+Mojang is improving the Minecraft: Java Edition ecosystem regarding third-party applications that interact with the Java Edition game service APIs. While many of these third-party applications integrate successfully into our services, some attempt to maliciously exploit our users through methods such as phishing attempts.   
 
 We’re enforcing new policies on third-party apps that seek to access Java game service APIs. From now on, we will be reviewing and manually adding all future API integration requests to an allow list. Existing applications, such as launchers and websites, will continue to have access without interruption. However, new applications must request access via [this form](https://aka.ms/mce-reviewappid).
 

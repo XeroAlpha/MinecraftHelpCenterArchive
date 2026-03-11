@@ -1,7 +1,7 @@
 ---
 title: Understanding Minecraft Social Features for Child Safety Online
 date: 2021-03-25T23:29:27Z
-updated: 2025-05-23T17:01:31Z
+updated: 2026-03-11T18:54:18Z
 categories: General Safety
 tags:
   - section_15463792344973

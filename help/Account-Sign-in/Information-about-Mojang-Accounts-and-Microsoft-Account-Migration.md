@@ -1,7 +1,7 @@
 ---
 title: Information about Mojang Accounts and Microsoft Account Migration
 date: 2023-09-19T14:29:08Z
-updated: 2025-04-04T16:54:03Z
+updated: 2026-03-11T18:47:13Z
 categories: Account Sign-in
 tags:
   - title_minecraft_java_edition
@@ -25,7 +25,7 @@ hash:
   h_01JQYWP79ACJXQSM6D2DJHZD8H: what-happened-to-my-capes-skins-and-username
 ---
 
-**The migration process for Mojang accounts officially ended as of December 18, 2023. For more information about accounts compatible with supported platforms, see [Accounts Required to Play Minecraft](../Set-Up-Your-Account/Accounts-Required-to-Play-Minecraft.md) and [Different Minecraft Editions](../Get-Minecraft/Different-Minecraft-Editions.md).**
+**The migration process for Mojang accounts officially ended as of December 18, 2023. For more information about accounts compatible with supported platforms, see** [**Accounts Required to Play Minecraft**](../Set-Up-Your-Account/Accounts-Required-to-Play-Minecraft.md) **and** [**Different Minecraft Editions**](../Get-Minecraft/Different-Minecraft-Editions.md)**.**
 
 ## What happened to my Java Edition account?
 

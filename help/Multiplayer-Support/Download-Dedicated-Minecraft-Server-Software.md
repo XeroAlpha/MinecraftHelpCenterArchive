@@ -1,7 +1,7 @@
 ---
 title: Download Dedicated Minecraft Server Software
 date: 2021-09-09T18:46:40Z
-updated: 2025-05-28T18:51:56Z
+updated: 2026-03-11T18:54:36Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061

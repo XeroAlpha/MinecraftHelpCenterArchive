@@ -1,7 +1,7 @@
 ---
 title: "Manage Settings for Your Minecraft: Java Edition Realm"
 date: 2023-10-25T17:03:24Z
-updated: 2025-07-03T23:21:19Z
+updated: 2026-03-11T18:54:14Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft_java_edition
@@ -21,7 +21,7 @@ hash:
   h_01JZ98NV1H59SDFRV4E1299ER5: additional-realms-management-resources
 ---
 
-*For Minecraft: Bedrock Edition, see [Manage Settings for Your Minecraft: Bedrock Edition Realm](./Manage-Settings-for-Your-Minecraft-Bedrock-Edition-Realm.md).*
+*For Minecraft: Bedrock Edition, see* [*Manage Settings for Your Minecraft: Bedrock Edition Realm*](./Manage-Settings-for-Your-Minecraft-Bedrock-Edition-Realm.md)*.*
 
 Minecraft: Java Edition Realm owners can change the active world, manage players, and modify server settings through the Configure menu. Here’s how to access your Realm’s settings.
 

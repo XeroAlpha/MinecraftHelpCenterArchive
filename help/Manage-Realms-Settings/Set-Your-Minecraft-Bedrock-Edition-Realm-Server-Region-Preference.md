@@ -1,7 +1,7 @@
 ---
 title: "Set Your Minecraft: Bedrock Edition Realm Server Region Preference"
 date: 2025-03-14T16:08:16Z
-updated: 2025-10-10T16:59:10Z
+updated: 2026-03-11T18:54:23Z
 categories: Manage Realms Settings
 tags:
   - section_12618497714061

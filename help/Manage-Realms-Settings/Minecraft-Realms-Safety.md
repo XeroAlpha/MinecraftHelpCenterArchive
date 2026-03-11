@@ -1,7 +1,7 @@
 ---
 title: Minecraft Realms Safety
 date: 2023-09-28T19:33:06Z
-updated: 2025-08-21T17:00:17Z
+updated: 2026-03-11T17:54:40Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft_java_edition
@@ -51,7 +51,7 @@ Realms features a proactive chat filtering system. We use this system to classif
 The goal of having effective and intuitive Player Reporting mechanisms in our games is to empower you. Using these tools, you can let us know when harmful behavior is getting in the way of your Minecraft experience. Please visit these articles to learn more:
 
 - [Guidelines for Reporting Inappropriate Player Behavior in Minecraft](../Player-Reporting-Bans/Guidelines-for-Reporting-Inappropriate-Player-Behavior-in-Minecraft.md)
--  [Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Java-Edition.md)
+- [Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Java-Edition.md)
 - [Report a Player in Minecraft: Bedrock Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Bedrock-Edition.md)
 - [How to Report a Minecraft Server](../Player-Reporting-Bans/How-to-Report-a-Minecraft-Server.md)
 

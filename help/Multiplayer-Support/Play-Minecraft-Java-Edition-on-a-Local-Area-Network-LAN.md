@@ -1,7 +1,7 @@
 ---
 title: "Play Minecraft: Java Edition on a Local Area Network (LAN)"
 date: 2021-09-29T21:02:52Z
-updated: 2025-09-04T21:07:45Z
+updated: 2026-03-11T18:47:40Z
 categories: Multiplayer Support
 tags:
   - title_minecraft_java_edition

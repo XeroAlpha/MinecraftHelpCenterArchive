@@ -1,7 +1,7 @@
 ---
 title: "Join a Minecraft: Bedrock Edition Realm"
 date: 2021-09-30T23:13:51Z
-updated: 2025-06-03T18:49:18Z
+updated: 2026-03-11T18:53:55Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -27,7 +27,7 @@ hash:
 
 After you [Accept a Minecraft: Bedrock Edition Realms Invitation](./Accept-a-Minecraft-Bedrock-Edition-Realms-Invitation.md), the Realm will appear on your list of available Realms. You can join the Realms server even if the host isn’t online, and a Realms subscription is not necessary for the player joining.
 
-*For the best experience with Realms, make sure you meet the [Requirements to Play Minecraft Multiplayer Games](../Multiplayer-Support/Requirements-to-Play-Minecraft-Multiplayer-Games.md).*
+*For the best experience with Realms, make sure you meet the* [*Requirements to Play Minecraft Multiplayer Games*](../Multiplayer-Support/Requirements-to-Play-Minecraft-Multiplayer-Games.md)*.*
 
 ## Join a friend’s Realm in Minecraft: Bedrock Edition
 

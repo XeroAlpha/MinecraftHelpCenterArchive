@@ -1,7 +1,7 @@
 ---
-title: How to Recover Missing Minecraft Worlds on Apple Devices
+title: Recover Missing Minecraft Worlds on Apple Devices
 date: 2021-09-09T23:22:59Z
-updated: 2024-03-05T20:11:06Z
+updated: 2026-03-11T18:57:27Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -10,7 +10,7 @@ tags:
   - platform_ios
   - section_27166561402125
   - use_for_autoreply
-link: https://help.minecraft.net/hc/en-us/articles/4408895540365-How-to-Recover-Missing-Minecraft-Worlds-on-Apple-Devices
+link: https://help.minecraft.net/hc/en-us/articles/4408895540365-Recover-Missing-Minecraft-Worlds-on-Apple-Devices
 ---
 
 1.  Make sure your app is up to date by going to the App store and selecting **Update**.

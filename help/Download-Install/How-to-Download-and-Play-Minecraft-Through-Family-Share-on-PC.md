@@ -1,7 +1,7 @@
 ---
-title: How to Download and Play Minecraft Through Family Share on PC
+title: Download and Play Minecraft Through Family Share on PC
 date: 2023-12-01T15:57:39Z
-updated: 2024-07-17T18:06:51Z
+updated: 2026-03-11T18:57:51Z
 categories: Download & Install
 tags:
   - title_minecraft
@@ -15,7 +15,7 @@ tags:
   - use_for_autoreply
   - section_35378224139533
   - section_35460768236173
-link: https://help.minecraft.net/hc/en-us/articles/21854073838989-How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC
+link: https://help.minecraft.net/hc/en-us/articles/21854073838989-Download-and-Play-Minecraft-Through-Family-Share-on-PC
 hash:
   h_01HGJYNQC72MCQ54DWJ9M4F3YW: how-to-set-up-family-share-on-your-pc
   h_01HGJYPFHK192PGC7YRHPGBYB9: how-to-download-minecraft-through-family-share-with-a-childs-account

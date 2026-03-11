@@ -1,7 +1,7 @@
 ---
 title: "Play Minecraft: Bedrock Edition on a Local Area Network (LAN)"
 date: 2025-04-08T22:49:26Z
-updated: 2025-06-06T22:45:48Z
+updated: 2026-03-11T18:48:00Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061

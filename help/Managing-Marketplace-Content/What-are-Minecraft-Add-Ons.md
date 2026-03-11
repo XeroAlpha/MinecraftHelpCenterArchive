@@ -1,11 +1,11 @@
 ---
-title: What are Minecraft Add-Ons?
+title: "Learn about Minecraft: Bedrock Edition Add-Ons"
 date: 2021-09-13T18:58:31Z
-updated: 2025-10-06T23:12:27Z
+updated: 2026-03-11T18:46:45Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141
-link: https://help.minecraft.net/hc/en-us/articles/4409140076813-What-are-Minecraft-Add-Ons
+link: https://help.minecraft.net/hc/en-us/articles/4409140076813-Learn-about-Minecraft-Bedrock-Edition-Add-Ons
 hash:
   h_01K6NP8WRD6HJE8X4132BEF4VZ: add-on-related-articles
 ---

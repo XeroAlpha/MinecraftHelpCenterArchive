@@ -1,7 +1,7 @@
 ---
 title: Mojang Bug Tracker Guidelines
 date: 2021-09-09T22:04:45Z
-updated: 2025-01-27T19:33:38Z
+updated: 2026-03-11T18:54:10Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
@@ -12,7 +12,7 @@ hash:
   h_01JJMFDKJD1NHCPNRM217AWY0N: reporting-a-bug
 ---
 
-*Mojira is changing to a new cloud-based server. If you regularly help us by submitting bugs, be sure to migrate your bug tracker account by January 31, 2025. See [Changes to our bug reporting system](https://www.minecraft.net/en-us/article/changes-to-minecraft-bug-reporting-system) for more.*
+*Mojira is changing to a new cloud-based server. If you regularly help us by submitting bugs, be sure to migrate your bug tracker account by January 31, 2025. See* [*Changes to our bug reporting system*](https://www.minecraft.net/en-us/article/changes-to-minecraft-bug-reporting-system) *for more.*
 
  
 
@@ -45,7 +45,7 @@ If you find that your issue has already been reported, look at the Resolution�
 
 Here are some things to keep in mind before you report a new bug.
 
-- **Be Concise**: Write a summary that clearly states the problem. Include as much important information as possible including:\
+- **Be Concise**: Write a summary that clearly states the problem. Include as much important information as possible including:
   - Steps taken to reproduce the issue.
   - What happens when the bug occurs.
   - Clear screenshots or short video of the bug.

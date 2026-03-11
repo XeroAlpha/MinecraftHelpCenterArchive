@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition for Android Requirements and Troubleshooting"
 date: 2021-09-09T23:47:44Z
-updated: 2025-05-13T21:35:34Z
+updated: 2026-03-11T17:54:09Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -14,17 +14,12 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/4408896232461-Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting
 hash:
-  h_01J832GRMEKAMGS16N870K60T3: minimum-specifications-to-play-minecraft-on-android
   h_01J832H3S70Q12AM4SJYMJXVE4: android-devices-minimum-specifications
   h_01J832HDQR4RHJ9QZJHV19T018: troubleshooting-performance-issues-on-supported-devices
   h_01J832M9BZPAENE7KXV4RABNQ8: information-about-sunset-devices
 ---
 
-This article provides Android technical support processes for you to follow as well as general knowledge about Minecraft: Bedrock Edition on Android devices.
-
-## Minimum specifications to play Minecraft on Android
-
-Below are the minimum specifications for Minecraft on your Android device. Our ability to support the Android devices using Open GL ES 3.0 and Android OS 8 and below is coming to an end. Devices that meet these criteria will receive their final Minecraft update in March 2025.
+Below are the minimum specifications for Minecraft on your Android device. As of March 2025, Android devices using Open GL ES 3.0 and Android OS 8 are no longer supported and will not receive game updates.
 
 ## Android Devices Minimum Specifications
 

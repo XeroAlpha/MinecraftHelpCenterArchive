@@ -1,7 +1,7 @@
 ---
 title: "Play Minecraft: Bedrock Edition Online in a Multiplayer Server"
 date: 2021-09-29T20:49:05Z
-updated: 2025-04-28T15:56:32Z
+updated: 2026-03-11T18:54:27Z
 categories: Multiplayer Support
 tags:
   - title_minecraft

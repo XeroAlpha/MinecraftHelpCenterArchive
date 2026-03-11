@@ -1,7 +1,7 @@
 ---
 title: How to Report a Minecraft Server
 date: 2021-09-13T19:38:56Z
-updated: 2024-05-31T15:55:19Z
+updated: 2026-03-11T18:54:40Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181

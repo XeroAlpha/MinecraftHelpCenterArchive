@@ -1,7 +1,7 @@
 ---
 title: Authorizing Minecraft Subscription Services on PlayStation 5
 date: 2024-10-30T15:05:34Z
-updated: 2024-10-31T14:55:36Z
+updated: 2026-03-11T18:48:44Z
 categories: Marketplace & Realms Subscriptions
 tags:
   - section_24090952098445

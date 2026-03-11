@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Can’t Connect to Minecraft Services Error After Sign in on Minecraft Launcher
 date: 2025-02-27T22:09:21Z
-updated: 2025-02-28T17:16:29Z
+updated: 2026-03-11T18:49:48Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

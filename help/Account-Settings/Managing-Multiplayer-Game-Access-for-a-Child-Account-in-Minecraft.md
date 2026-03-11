@@ -1,7 +1,7 @@
 ---
 title: Managing Multiplayer Game Access for a Child Account in Minecraft
 date: 2024-02-20T22:11:14Z
-updated: 2025-08-13T19:21:25Z
+updated: 2026-03-11T18:48:27Z
 categories: Account Settings
 tags:
   - title_minecraft

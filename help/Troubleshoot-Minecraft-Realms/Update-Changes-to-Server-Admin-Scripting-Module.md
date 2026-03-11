@@ -1,6 +1,7 @@
 ---
 title: "Update: Changes to Server - Admin Scripting Module"
 date: 2026-02-13T02:09:52Z
+updated: 2026-03-11T18:52:16Z
 categories: Troubleshoot Minecraft Realms
 link: https://help.minecraft.net/hc/en-us/articles/43490711924109-Update-Changes-to-Server-Admin-Scripting-Module
 ---
