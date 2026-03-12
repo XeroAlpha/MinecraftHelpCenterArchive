@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Errors Playing Minecraft Multiplayer Games with a Child Account
 date: 2020-04-22T23:12:57Z
-updated: 2025-11-12T21:16:13Z
+updated: 2026-03-12T21:44:23Z
 categories: Account Settings
 tags:
   - title_minecraft

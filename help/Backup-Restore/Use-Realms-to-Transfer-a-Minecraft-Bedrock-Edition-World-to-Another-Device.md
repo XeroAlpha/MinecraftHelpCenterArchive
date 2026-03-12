@@ -1,7 +1,7 @@
 ---
 title: "Use Realms to Transfer a Minecraft: Bedrock Edition World to Another Device"
 date: 2021-09-13T22:15:53Z
-updated: 2025-11-04T23:06:02Z
+updated: 2026-03-12T21:45:52Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games

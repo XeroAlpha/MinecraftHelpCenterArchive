@@ -1,7 +1,7 @@
 ---
 title: "Take and Manage Screenshots in Minecraft: Bedrock Edition"
 date: 2024-09-12T20:35:11Z
-updated: 2025-10-29T20:16:16Z
+updated: 2026-03-12T21:46:15Z
 categories: Manage Your Minecraft Profile
 tags:
   - section_27983418545293

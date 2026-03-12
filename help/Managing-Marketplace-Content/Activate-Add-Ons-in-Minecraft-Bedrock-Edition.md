@@ -1,7 +1,7 @@
 ---
 title: "Activate Add-Ons in Minecraft: Bedrock Edition"
 date: 2024-02-14T17:47:55Z
-updated: 2025-09-19T18:43:34Z
+updated: 2026-03-12T21:56:09Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141

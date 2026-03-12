@@ -1,7 +1,7 @@
 ---
 title: Turn on Show Coordinates for Realms Stories
 date: 2024-04-19T20:56:14Z
-updated: 2025-10-10T21:07:10Z
+updated: 2026-03-12T21:48:20Z
 categories: Minecraft Realms Stories
 tags:
   - section_ 12618443219469

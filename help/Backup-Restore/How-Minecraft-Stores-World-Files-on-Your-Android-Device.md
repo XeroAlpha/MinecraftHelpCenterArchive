@@ -1,7 +1,7 @@
 ---
 title: How Minecraft Stores World Files on Your Android Device
 date: 2021-11-19T22:40:09Z
-updated: 2025-10-16T20:38:38Z
+updated: 2026-03-12T21:47:48Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games

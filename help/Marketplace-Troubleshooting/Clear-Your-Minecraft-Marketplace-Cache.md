@@ -1,7 +1,7 @@
 ---
 title: Clear Your Minecraft Marketplace Cache
 date: 2024-11-12T19:58:26Z
-updated: 2025-10-06T23:09:26Z
+updated: 2026-03-12T21:48:53Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293

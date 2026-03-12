@@ -1,7 +1,7 @@
 ---
 title: "Transfer a Minecraft: Java Edition World to a New Device"
 date: 2020-12-03T18:59:04Z
-updated: 2025-10-16T20:44:38Z
+updated: 2026-03-12T21:47:30Z
 categories: Backup & Restore
 tags:
   - section_27166561402125

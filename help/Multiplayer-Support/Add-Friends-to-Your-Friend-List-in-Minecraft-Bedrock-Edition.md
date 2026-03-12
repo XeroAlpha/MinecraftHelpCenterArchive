@@ -1,7 +1,7 @@
 ---
 title: "Add Friends to Your Friend List in Minecraft: Bedrock Edition"
 date: 2024-12-20T19:33:17Z
-updated: 2025-10-28T17:08:32Z
+updated: 2026-03-12T21:46:56Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061
@@ -35,4 +35,4 @@ You can share your gamertag with friends from the Social list, too.
 
 - **Scan QR Code**: Have your friend use their mobile device to scan your QR code. This will navigate them to your Xbox profile where they can add you as a friend.
 - **Share**: The Share button will open a context menu for sending your gamertag.
-- **Copy** **Gamertag**: Select Copy Gamertag to copy your gamertag to the clipboard for you to share with friends however you’d like.
+- **Copy Gamertag**: Select Copy Gamertag to copy your gamertag to the clipboard for you to share with friends however you’d like.

@@ -1,7 +1,7 @@
 ---
 title: Redownload Add-Ons to Fix Missing or Corrupted Packs
 date: 2024-02-14T17:59:52Z
-updated: 2025-10-06T23:22:44Z
+updated: 2026-03-12T21:48:38Z
 categories: Marketplace Troubleshooting
 tags:
   - section_24069904400141

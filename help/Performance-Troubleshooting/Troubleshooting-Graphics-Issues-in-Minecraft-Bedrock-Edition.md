@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Graphics Issues in Minecraft: Bedrock Edition"
 date: 2021-09-13T18:10:41Z
-updated: 2025-11-12T21:16:12Z
+updated: 2026-03-12T21:44:40Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft
@@ -17,7 +17,7 @@ hash:
   h_01JXXE4Z5A0CT41QTHP5DPV22E: change-minecraft-game-settings
 ---
 
-*For Minecraft: Java Edition, see [Troubleshooting Video and Graphics Issues in Minecraft: Java Edition](./Troubleshoot-Video-and-Graphics-Issues-in-Minecraft-Java-Edition.md).*
+*For Minecraft: Java Edition, see* [*Troubleshooting Video and Graphics Issues in Minecraft: Java Edition*](./Troubleshoot-Video-and-Graphics-Issues-in-Minecraft-Java-Edition.md)*.*
 
 If you’re seeing graphics or performance issues in Minecraft: Bedrock Edition, try these suggestions below.
 

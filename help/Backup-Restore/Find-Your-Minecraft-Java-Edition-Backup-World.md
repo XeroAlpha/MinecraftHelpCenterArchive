@@ -1,7 +1,7 @@
 ---
 title: "Find Your Minecraft: Java Edition Backup World"
 date: 2021-09-13T22:15:55Z
-updated: 2025-10-16T20:47:30Z
+updated: 2026-03-12T21:47:16Z
 categories: Backup & Restore
 tags:
   - title_minecraft_java_edition

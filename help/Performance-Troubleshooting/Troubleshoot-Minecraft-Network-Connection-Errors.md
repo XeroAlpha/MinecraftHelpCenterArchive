@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Minecraft Network Connection Errors
 date: 2024-09-20T20:44:48Z
-updated: 2025-11-17T19:37:32Z
+updated: 2026-03-12T21:43:01Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285
