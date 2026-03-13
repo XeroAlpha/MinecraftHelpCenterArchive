@@ -1,14 +1,23 @@
 ---
 title: Secret Levels in Minecraft Dungeons
 date: 2021-04-08T21:00:10Z
-updated: 2024-07-04T21:06:32Z
+updated: 2026-03-13T20:37:46Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/360059196792-Secret-Levels-in-Minecraft-Dungeons
 hash:
-  secret-levels-on-the-mainland-and-jungle-island: secret-levels-on-the-mainland-andjungleisland
-  creepy-crypt: creepycrypt
+  h_01KKM26F3HJW180MTVP84XVK3E: secret-levels-on-the-mainland-andjungleisland
+  h_01KKM26F3J49ZW9AMCZV9AXXWV: creepycrypt
+  h_01KKM26F3J90CD8XM9AVXKNPMK: the-goal
+  h_01KKM26F3J4DJB9H76CZVZQXED: soggy-cave
+  h_01KKM26F3JQTRDB8DWPGBZ2MPA: the-goal-1
+  h_01KKM26F3KT6JTZ0QS41H2VBDF: under-halls
+  h_01KKM26F3K9EEWMHQ99MB9CZPK: the-goal-2
+  h_01KKM26F3K2AR8F6RWQ5W20FP3: arch-haven
+  h_01KKM26F3K8R47XRKGYDDKK4XT: the-goal-3
+  h_01KKM26F3KQ19E0PPK0M9G1SNP: panda-plateau
+  h_01KKM26F3M8TZ7BGZRXM8YGWCM: the-goal-4
 ---
 
 There are many secret levels throughout Minecraft Dungeons, on the mainland and on the surrounding islands. These secret levels are not easy to come by and there is no guarantee that its location will appear when you play. This article gives you an overall description of the secret levels and what areas they can be found in. 

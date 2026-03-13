@@ -1,7 +1,7 @@
 ---
 title: "What is Minecraft Experience: Villager Rescue?"
 date: 2024-05-29T15:34:33Z
-updated: 2025-05-22T21:07:18Z
+updated: 2026-03-13T20:42:08Z
 categories: Events & Promotions
 tags:
   - title_minecraft_java_edition

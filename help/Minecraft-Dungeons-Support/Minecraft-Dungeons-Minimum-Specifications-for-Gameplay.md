@@ -1,7 +1,7 @@
 ---
 title: Minecraft Dungeons Minimum Specifications for Gameplay
 date: 2020-01-29T19:16:16Z
-updated: 2024-04-16T21:12:03Z
+updated: 2026-03-13T20:42:42Z
 categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
@@ -10,7 +10,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360038937032-Minecraft-Dungeo
 
 **Windows PC Requirements** 
 
-**Operating system**: Windows 11, Windows 10 (November 2019 Update or higher)
+**Operating ****system**: Windows 11, Windows 10 (November 2019 Update or higher)
 
 **Processor**: Core i5 2.8GHz or equivalent 
 
@@ -20,7 +20,7 @@ link: https://help.minecraft.net/hc/en-us/articles/360038937032-Minecraft-Dungeo
 
 **Storage**: 6GB 
 
-**DirectX®**: DirectX 11 
+**DirectX****®**: DirectX 11 
 
 **Monitor**: 800x600 
 

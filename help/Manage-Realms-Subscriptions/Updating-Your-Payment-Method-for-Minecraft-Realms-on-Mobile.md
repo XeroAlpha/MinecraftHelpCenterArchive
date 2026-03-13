@@ -1,7 +1,7 @@
 ---
 title: Updating Your Payment Method for Minecraft Realms on Mobile
 date: 2024-12-19T19:47:27Z
-updated: 2024-12-20T00:17:48Z
+updated: 2026-03-13T19:47:03Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421

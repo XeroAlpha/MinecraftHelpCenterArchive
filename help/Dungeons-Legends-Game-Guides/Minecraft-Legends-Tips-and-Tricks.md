@@ -1,7 +1,7 @@
 ---
 title: Minecraft Legends Tips and Tricks
 date: 2023-04-12T16:58:11Z
-updated: 2024-07-04T21:40:01Z
+updated: 2026-03-13T20:37:21Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789

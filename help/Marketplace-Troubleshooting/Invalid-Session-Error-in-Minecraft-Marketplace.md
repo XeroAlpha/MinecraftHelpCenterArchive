@@ -1,7 +1,7 @@
 ---
 title: Invalid Session Error in Minecraft Marketplace
 date: 2024-02-12T20:56:40Z
-updated: 2024-08-16T22:28:39Z
+updated: 2026-03-13T20:34:40Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293

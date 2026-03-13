@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition Parental Controls for All Platforms"
 date: 2020-07-14T19:32:10Z
-updated: 2024-06-06T00:11:49Z
+updated: 2026-03-13T20:40:56Z
 categories: Account Settings
 tags:
   - section_27194076935437

@@ -1,7 +1,7 @@
 ---
 title: Updating Your Payment Method for Marketplace Pass on PC
 date: 2024-12-19T16:52:31Z
-updated: 2024-12-20T00:12:22Z
+updated: 2026-03-13T19:47:54Z
 categories: Marketplace Pass Subscriptions
 tags:
   - section_24090952098445

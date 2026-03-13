@@ -1,7 +1,7 @@
 ---
 title: Minecraft Legends Unit Spawning and Commanding Tutorial
 date: 2023-04-13T16:23:24Z
-updated: 2025-02-19T18:43:48Z
+updated: 2026-03-13T19:44:26Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789

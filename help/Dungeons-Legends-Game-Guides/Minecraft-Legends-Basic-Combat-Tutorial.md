@@ -1,7 +1,7 @@
 ---
 title: Minecraft Legends Basic Combat Tutorial
 date: 2023-04-13T16:45:12Z
-updated: 2025-02-19T18:41:20Z
+updated: 2026-03-13T19:44:49Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789

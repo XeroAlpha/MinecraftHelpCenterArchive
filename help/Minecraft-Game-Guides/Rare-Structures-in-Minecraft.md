@@ -1,7 +1,7 @@
 ---
 title: Rare Structures in Minecraft
 date: 2021-04-08T19:55:03Z
-updated: 2024-08-21T16:50:31Z
+updated: 2026-03-13T20:34:03Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293

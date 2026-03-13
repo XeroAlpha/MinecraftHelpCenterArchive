@@ -1,7 +1,7 @@
 ---
 title: What is Minecraft Education?
 date: 2020-07-21T18:03:57Z
-updated: 2023-10-05T17:48:58Z
+updated: 2026-03-13T20:43:14Z
 categories: Buying Minecraft Games
 tags:
   - section_12618421132813

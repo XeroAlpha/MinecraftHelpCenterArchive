@@ -1,7 +1,7 @@
 ---
 title: Becoming a Minecraft Marketplace Partner
 date: 2021-03-24T20:43:17Z
-updated: 2024-09-03T20:46:18Z
+updated: 2026-03-13T20:32:29Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141

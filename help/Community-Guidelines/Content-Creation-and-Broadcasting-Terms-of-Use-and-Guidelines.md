@@ -1,7 +1,7 @@
 ---
 title: Content Creation and Broadcasting Terms of Use and Guidelines
 date: 2021-09-10T17:35:37Z
-updated: 2024-07-03T20:18:31Z
+updated: 2026-03-13T20:39:27Z
 categories: Community Guidelines
 tags:
   - section_27983753055117

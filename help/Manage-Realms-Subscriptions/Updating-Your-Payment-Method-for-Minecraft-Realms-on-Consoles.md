@@ -1,7 +1,7 @@
 ---
 title: Updating Your Payment Method for Minecraft Realms on Consoles
 date: 2024-12-19T19:49:00Z
-updated: 2024-12-20T00:05:19Z
+updated: 2026-03-13T19:48:07Z
 categories: Manage Realms Subscriptions
 tags:
   - section_26104341937421

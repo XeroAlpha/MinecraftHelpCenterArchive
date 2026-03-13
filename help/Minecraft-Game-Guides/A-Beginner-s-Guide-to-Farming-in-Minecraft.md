@@ -1,7 +1,7 @@
 ---
 title: A Beginner’s Guide to Farming in Minecraft
 date: 2020-07-15T23:43:51Z
-updated: 2024-07-01T19:36:49Z
+updated: 2026-03-13T20:40:20Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293

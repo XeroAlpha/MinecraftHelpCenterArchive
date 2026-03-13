@@ -1,7 +1,7 @@
 ---
 title: Messaging about Community Standards in Game Chat
 date: 2024-09-13T18:19:32Z
-updated: 2024-09-19T16:54:14Z
+updated: 2026-03-13T20:28:49Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181

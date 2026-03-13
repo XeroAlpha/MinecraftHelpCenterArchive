@@ -1,12 +1,13 @@
 ---
 title: Accessibility Settings for Minecraft Dungeons
 date: 2021-05-18T19:36:27Z
-updated: 2024-06-12T17:19:10Z
+updated: 2026-03-13T20:46:33Z
 categories: Accessibility
 tags:
   - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/360061015512-Accessibility-Settings-for-Minecraft-Dungeons
 hash:
+  h_01KKMERDP81MEXGGVAS970R96Y: in-this-article
   h_01GD3VSWJQYKA0X0P5DE2S5AW8: accessibility-settings
   h_01GD3VT2086YHWNQZC8HBA0Z32: settings-available-on-the-accessibility-start-menu
   h_01GD3VT8DPHZ6CB8SQ7RN4CXZ5: accessible-menu-navigation-and-narration
@@ -40,7 +41,7 @@ We believe everyone should be empowered and enabled to play Minecraft Dungeons.
 
 ## Accessibility Settings 
 
-Minecraft Dungeons includes an Accessibility Menu. Select it from the Main Menu or via Settings from in-game.  
+Minecraft Dungeons includes an Accessibility Menu. Select it from the Main Menu or via Settings from in-game.  
 
 ### Settings Available on the Accessibility Start Menu 
 
@@ -55,6 +56,7 @@ There are more accessibility options available once you reach the main menu.  
 ### Accessible Menu Navigation and Narration
 
 Minecraft Dungeons (using English as a language) includes the ability to navigate the menus in an accessible way using a keyboard or controller. \
+ 
 
 ### About Menu UI Narration 
 
@@ -65,6 +67,7 @@ Minecraft Dungeons (using English as a language) includes the ability to naviga
 
 - Use a controller (or keyboard on PC) to navigate all menus in Minecraft Dungeons. 
 - Use the Escape key as a shortcut to go back to the previous selection or close the current screen in Minecraft Dungeons edition on PC. \
+   
 
 ## Tips on Navigating the Minecraft Launcher 
 
@@ -75,6 +78,7 @@ The Minecraft Launcher includes audio cues to help players navigate the login an
 - Navigate with the Tab key until you reach the Sign-in button (Narrator will say “Sign-un button”) and press Enter and follow the instructions to login. 
 - Once logged in, you can navigate to the Minecraft Dungeons Launcher with the Tab key. 
 - To launch the Minecraft Dungeons game, navigate to the Play button (Narrator will say “Play button”), then press Enter. \
+   
 
 ## Enabling Friends Menu in Multiplayer 
 
@@ -94,7 +98,7 @@ To enable text-to-speech for this, use the Accessibility Menu in Settings.
 
 ### Tips on using text-to-speech for chat
 
--  Visit the **Controller/Key Binding** menu to learn how to invoke the **Communication Wheel**. 
+- Visit the **Controller/Key Binding** menu to learn how to invoke the **Communication Wheel**. 
 - Icon-based messages sent by you or other players are displayed in the lower-left corner of the screen. If text-to-speech has been enabled, the screen reader will announce the chat message sent. 
 - As the messages are predefined and short, there is currently no way for users to view previously sent messages. 
 

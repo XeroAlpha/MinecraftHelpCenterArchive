@@ -1,7 +1,7 @@
 ---
 title: How to Access Minecraft Marketplace Content
 date: 2024-11-13T21:17:59Z
-updated: 2024-11-19T19:19:10Z
+updated: 2026-03-13T19:48:40Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141

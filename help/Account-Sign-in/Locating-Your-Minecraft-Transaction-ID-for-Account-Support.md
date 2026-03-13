@@ -1,7 +1,7 @@
 ---
 title: Locating Your Minecraft Transaction ID for Account Support
 date: 2019-06-26T22:57:03Z
-updated: 2024-07-29T15:04:03Z
+updated: 2026-03-13T20:36:31Z
 categories: Account Sign-in
 tags:
   - subject_change_account_information

@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Enchantments in Minecraft
 date: 2021-03-29T21:56:51Z
-updated: 2024-07-01T21:00:10Z
+updated: 2026-03-13T20:39:55Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -17,7 +17,7 @@ hash:
 
 Enchanting is an in-game mechanic that allows you to give special abilities to tools and armor. You will need an enchanting table in survival mode, but you can use the **/enchant** command if you are in creative mode with cheats enabled. 
 
-Enchanting through the enchantment table requires player experience or levels and lapis lazuli. Once you place the tool/armor/book, you can select from three choices of enchantments, each requiring different amounts of experience and lapis lazuli. Once you select one the item will be enchanted. Surrounding your enchanting table with bookshelves will increase the levels and tier of enchantments available.  
+Enchanting through the enchantment table requires player experience or levels and lapis lazuli. Once you place the tool/armor/book, you can select from three choices of enchantments, each requiring different amounts of experience and lapis lazuli. Once you select one the item will be enchanted. Surrounding your enchanting table with bookshelves will increase the levels and tier of enchantments available.  
 
 ## How to Use the Command in Creative 
 

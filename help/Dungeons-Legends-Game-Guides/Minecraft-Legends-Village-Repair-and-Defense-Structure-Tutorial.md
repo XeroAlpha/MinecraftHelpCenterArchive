@@ -1,7 +1,7 @@
 ---
 title: Minecraft Legends Village Repair and Defense Structure Tutorial
 date: 2023-04-13T17:06:05Z
-updated: 2025-02-19T18:42:20Z
+updated: 2026-03-13T19:44:39Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789
@@ -28,14 +28,14 @@ After a village attack, some of the structures, such as the fountain, will have 
 ### Xbox Controller 
 
 - Navigate to the Player Building hotbar with the ‘Left’ d-pad button.
-- Scroll to the **carpenter** **hut** with the right and left bumpers. 
+- Scroll to the **carpenter hut** with the right and left bumpers. 
 - With your knowledge of Build view from the previous tutorials, place the carpenter hut next to any damaged structures. In this case, the fountain in the village center.
 - The carpenter hut will slowly repair structures over time. You can also use it out in the field to repair all types of structures.
 
 ### Mouse and Keyboard 
 
 - Navigate to the Player Building hotbar with the ‘C’ key.
-- Scroll to the **carpenter** **hut** with the mouse wheel. 
+- Scroll to the **carpenter hut** with the mouse wheel. 
 - With your knowledge of Build view from the previous tutorials, place the carpenter hut next to any damaged structures. In this case, the Fountain in the village center.
 - The carpenter hut will slowly repair structures over time. You can also use it out in the field to repair all types of structures.
 

@@ -1,7 +1,7 @@
 ---
 title: Minecoin Redemption Limit Error
 date: 2023-01-17T15:54:10Z
-updated: 2024-08-30T18:46:33Z
+updated: 2026-03-13T20:33:12Z
 categories: Marketplace Troubleshooting
 tags:
   - section_28872896387341

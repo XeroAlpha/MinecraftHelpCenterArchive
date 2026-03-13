@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Redstone in Minecraft
 date: 2020-07-16T23:12:58Z
-updated: 2024-07-01T19:39:01Z
+updated: 2026-03-13T20:40:10Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293

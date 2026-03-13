@@ -1,7 +1,7 @@
 ---
 title: Updating Your Payment Method for Marketplace Pass on Mobile
 date: 2024-12-19T17:06:40Z
-updated: 2024-12-20T00:15:46Z
+updated: 2026-03-13T19:47:30Z
 categories: Marketplace Pass Subscriptions
 tags:
   - section_24090952098445

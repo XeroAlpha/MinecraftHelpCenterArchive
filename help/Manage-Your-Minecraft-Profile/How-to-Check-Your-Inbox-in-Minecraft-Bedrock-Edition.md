@@ -1,7 +1,7 @@
 ---
 title: "How to Check Your Inbox in Minecraft: Bedrock Edition"
 date: 2024-08-29T18:15:43Z
-updated: 2025-04-02T22:43:51Z
+updated: 2026-03-13T20:33:27Z
 categories: Manage Your Minecraft Profile
 tags:
   - section_27983418545293

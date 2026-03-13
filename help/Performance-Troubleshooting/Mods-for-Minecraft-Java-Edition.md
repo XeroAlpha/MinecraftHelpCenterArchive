@@ -1,7 +1,7 @@
 ---
 title: "Mods for Minecraft: Java Edition"
 date: 2021-09-13T18:38:46Z
-updated: 2024-07-03T20:14:29Z
+updated: 2026-03-13T20:39:36Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285

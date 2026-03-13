@@ -1,7 +1,7 @@
 ---
 title: Accounts Required to Play Minecraft Dungeons
 date: 2021-09-23T00:24:29Z
-updated: 2024-05-07T18:36:20Z
+updated: 2026-03-13T20:42:33Z
 categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253

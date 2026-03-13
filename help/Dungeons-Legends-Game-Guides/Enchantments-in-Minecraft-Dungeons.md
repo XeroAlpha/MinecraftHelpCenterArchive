@@ -1,7 +1,7 @@
 ---
 title: Enchantments in Minecraft Dungeons
 date: 2021-04-08T17:41:34Z
-updated: 2024-07-04T21:19:38Z
+updated: 2026-03-13T20:37:35Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789

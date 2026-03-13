@@ -1,7 +1,7 @@
 ---
 title: Updating Your Payment Method for Marketplace Pass on Consoles
 date: 2024-12-19T16:49:18Z
-updated: 2024-12-20T00:13:23Z
+updated: 2026-03-13T19:47:41Z
 categories: Marketplace Pass Subscriptions
 tags:
   - section_24090952098445

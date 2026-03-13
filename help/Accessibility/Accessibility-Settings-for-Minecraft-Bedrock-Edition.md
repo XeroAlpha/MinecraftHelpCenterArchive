@@ -1,12 +1,13 @@
 ---
 title: "Accessibility Settings for Minecraft: Bedrock Edition"
 date: 2021-05-18T17:42:17Z
-updated: 2023-07-24T19:30:45Z
+updated: 2026-03-13T20:45:01Z
 categories: Accessibility
 tags:
   - section_27520753301005
 link: https://help.minecraft.net/hc/en-us/articles/360061416591-Accessibility-Settings-for-Minecraft-Bedrock-Edition
 hash:
+  h_01KKMER4XAKF7CAY27QXSTZSFR: in-this-article
   h_01GDKH9PQ7WEFEWXJJ0DVYE16X: minecraft-bedrock-edition-accessibility-menu
   h_01GDKH9W0JEMA1AH5AAJ1PSH6S: accessible-menu-navigation-and-narration
   h_01GDKHA1A06KKMXJVZ1GC8B9V9: about-menu-ui-narration
@@ -54,7 +55,7 @@ Minecraft: Bedrock Edition includes an Accessibility Menu in Settings for easy a
 
 ## Accessible Menu Navigation and Narration
 
-All versions of Minecraft: Bedrock Edition (using English as a language) include the ability to navigate the menus in an accessible way using a keyboard (or controller and touch).  
+All versions of Minecraft: Bedrock Edition (using English as a language) include the ability to navigate the menus in an accessible way using a keyboard (or controller and touch).  
 
 ### About Menu UI Narration
 
@@ -71,6 +72,7 @@ All versions of Minecraft: Bedrock Edition (using English as a language) include
 ### Text to Speech Volume 
 
 Use the **Text-to-Speech** slider to adjust the volume of the narration. \
+ 
 
 ## Accessible Chat Using Text-to-Speech 
 
@@ -86,6 +88,7 @@ Minecraft: Bedrock Edition includes an option to use text-to-speech for chat dur
 
 - Navigate to previously sent chat messages using the arrow keys on a keyboard or the left-thumbstick on a controller. 
 - Use the Escape key, or B button on a controller, when you have the text field selected to back out and navigate the chat screen on keyboard. \
+   
 
 ## Other Settings in the Accessibility Menu 
 
@@ -104,6 +107,7 @@ The following settings can be found in other areas of the game.
 ### Chat Text Styles  
 
 There are a variety of options to change the appearance of chat text. \
+ 
 
 Click the gear icon next to the chat input box to access the **Chat Settings menu** and change how your chat font appears. Settings include: 
 

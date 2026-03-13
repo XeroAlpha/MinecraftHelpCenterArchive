@@ -1,7 +1,7 @@
 ---
 title: Minecraft Dungeons for Windows Doesn't Start Due to Missing Files
 date: 2020-03-26T20:53:35Z
-updated: 2023-09-28T21:50:09Z
+updated: 2026-03-13T20:44:12Z
 categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253
@@ -26,9 +26,11 @@ Some players on Minecraft Dungeons for Windows have received an error message re
     ![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363638925)
 2.  In the **Error** box, click **Yes**. This starts UE4 Prerequisites setup.\
     ![blobid1.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363662477)\
-3.   When you see Set up Successful, click **Close**.
+     
+3.  When you see Set up Successful, click **Close**.
 4.  Two **System Error** messages open one at a time, listing the missing files, MSVCP140.dll and VCRUNTIME140.dll drivers, or X3DAudio1_7.dll and XAPOFX1_5.dll. Click **Close** for each and then continue on to the solutions.\
     ![blobid2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/4402363694093)\
+     
 
 ## **Solution 1 **
 

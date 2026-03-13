@@ -1,7 +1,7 @@
 ---
 title: "Minimum Requirements for Ray Tracing in Minecraft: Bedrock Edition for Windows"
 date: 2021-09-09T17:57:22Z
-updated: 2024-02-29T20:28:11Z
+updated: 2026-03-13T20:42:57Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285

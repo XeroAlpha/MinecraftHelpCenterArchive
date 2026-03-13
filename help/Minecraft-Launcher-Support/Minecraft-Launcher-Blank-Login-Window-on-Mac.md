@@ -1,6 +1,7 @@
 ---
 title: Minecraft Launcher Blank Login Window on Mac
 date: 2024-10-23T15:36:19Z
+updated: 2026-03-13T19:49:07Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

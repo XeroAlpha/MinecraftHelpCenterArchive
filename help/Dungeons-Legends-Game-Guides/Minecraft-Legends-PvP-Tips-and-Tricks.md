@@ -1,7 +1,7 @@
 ---
 title: Minecraft Legends PvP Tips and Tricks
 date: 2023-04-12T17:25:52Z
-updated: 2024-07-04T21:43:22Z
+updated: 2026-03-13T20:37:11Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789

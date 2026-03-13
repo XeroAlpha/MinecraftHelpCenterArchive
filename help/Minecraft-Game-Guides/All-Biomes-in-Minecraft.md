@@ -1,7 +1,7 @@
 ---
 title: All Biomes in Minecraft
 date: 2020-07-17T21:09:39Z
-updated: 2024-12-04T15:17:43Z
+updated: 2026-03-13T19:48:25Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293

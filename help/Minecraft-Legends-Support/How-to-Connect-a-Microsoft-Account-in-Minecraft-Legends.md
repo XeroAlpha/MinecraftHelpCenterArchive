@@ -1,7 +1,7 @@
 ---
 title: How to Connect a Microsoft Account in Minecraft Legends
 date: 2023-04-11T19:03:31Z
-updated: 2024-06-12T20:11:12Z
+updated: 2026-03-13T20:40:42Z
 categories: Minecraft Legends Support
 tags:
   - title_minecraft_legends
