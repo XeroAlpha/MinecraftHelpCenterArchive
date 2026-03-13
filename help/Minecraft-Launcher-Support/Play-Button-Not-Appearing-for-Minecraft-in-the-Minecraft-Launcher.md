@@ -1,7 +1,7 @@
 ---
 title: Play Button Not Appearing for Minecraft in the Minecraft Launcher
 date: 2024-01-22T20:38:35Z
-updated: 2025-02-28T17:18:01Z
+updated: 2026-03-13T16:52:50Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

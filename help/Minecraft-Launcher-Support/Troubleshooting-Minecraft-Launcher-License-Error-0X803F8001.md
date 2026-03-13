@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Minecraft Launcher License Error 0X803F8001
 date: 2024-09-30T21:32:01Z
-updated: 2025-04-04T16:40:45Z
+updated: 2026-03-13T16:50:23Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -25,28 +25,28 @@ Minecraft uses several Microsoft services in the background to enable family saf
 
 **Check the account signed into the Minecraft Launcher**
 
-1.  1.  Open the Minecraft Launcher.
-    2.  Check the account in the top-left corner.
-    3.  To change, click the drop-down menu.
-    4.  Select **View all accounts**.
-    5.  Select the correct account or select **Switch account**.
-    6.  Sign into the account you want to use to play Minecraft.
+1.  Open the Minecraft Launcher.
+2.  Check the account in the top-left corner.
+3.  To change, click the drop-down menu.
+4.  Select **View all accounts**.
+5.  Select the correct account or select **Switch account**.
+6.  Sign into the account you want to use to play Minecraft.
 
 **Check the account signed into the Microsoft Store**
 
-1.  1.  Open the [Microsoft Store app](http://aka.ms/MSStoreHome).
-    2.  Check the account icon in the top-right corner.
-    3.  To change, click the icon.
-    4.  Select **Sign out**.
-    5.  Sign into the account you want to use to play Minecraft.
+1.  Open the [Microsoft Store app](http://aka.ms/MSStoreHome).
+2.  Check the account icon in the top-right corner.
+3.  To change, click the icon.
+4.  Select **Sign out**.
+5.  Sign into the account you want to use to play Minecraft.
 
 **Check the account signed into the Xbox app**
 
-1.  1.  Open the Xbox app from the Start menu on Windows.
-    2.  Check the account in the top-left corner.
-    3.  To change, click the account.
-    4.  Select Sign out.
-    5.  Sign into the account you want to use to play Minecraft.
+1.  Open the Xbox app from the Start menu on Windows.
+2.  Check the account in the top-left corner.
+3.  To change, click the account.
+4.  Select Sign out.
+5.  Sign into the account you want to use to play Minecraft.
 
 ## Install the Launcher from the Microsoft Store
 

@@ -1,7 +1,7 @@
 ---
 title: Request a Minecraft Refund
 date: 2019-07-09T18:56:41Z
-updated: 2025-04-24T16:50:03Z
+updated: 2026-03-13T16:40:13Z
 categories: Buying Minecraft Games
 tags:
   - category_refund_support

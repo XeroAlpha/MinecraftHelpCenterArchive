@@ -1,7 +1,7 @@
 ---
 title: Cancel a Minecraft Realms Subscription Started on a Mobile Device
 date: 2025-04-10T21:59:13Z
-updated: 2025-04-28T14:33:56Z
+updated: 2026-03-13T16:36:00Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft
@@ -18,7 +18,8 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/35757683038861-Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Mobile-Device
 hash:
   h_01JRGVBNQ3NHTCM1DGZ5QKWZFM: cancel-a-realms-subscription-started-on-an-amazon-device
-  cancel-a-realms-subscription-started-on-a-googleandroid-device: cancela-realms-subscription-started-on-a-googleandroid-device
+  h_01KKM0KCJJKMZD2VHN82W8ZDX1: cancel-a-realms-subscription-started-on-an-appleios-device
+  h_01KKM0KCJKXPMQWPWD1F9NAMJV: cancela-realms-subscription-started-on-a-googleandroid-device
 ---
 
 Subscriptions for Minecraft Realms need to be canceled through the same account used to start the subscription. If you started your Minecraft Realms subscription on an Amazon, iOS, or Android device, you can cancel your subscription on the game platform's website. When you cancel your Minecraft Realms subscription, your Realm will still be accessible until the renewal date, but payments will no longer be automatically charged. 

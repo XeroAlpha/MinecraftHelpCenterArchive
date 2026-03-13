@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting launcher.dll: LoadErrorNotPresent Error in Minecraft Launcher"
 date: 2025-02-27T22:13:53Z
-updated: 2025-07-08T21:04:36Z
+updated: 2026-03-13T16:54:25Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

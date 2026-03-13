@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error 0X80131500 when trying to install the Minecraft Launcher
 date: 2024-01-22T20:56:52Z
-updated: 2025-02-28T17:17:11Z
+updated: 2026-03-13T16:53:19Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

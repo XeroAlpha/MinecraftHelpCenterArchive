@@ -1,7 +1,7 @@
 ---
 title: "Create a Minecraft: Java Edition Realm"
 date: 2021-09-14T22:37:59Z
-updated: 2025-04-28T14:29:43Z
+updated: 2026-03-13T16:37:16Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition

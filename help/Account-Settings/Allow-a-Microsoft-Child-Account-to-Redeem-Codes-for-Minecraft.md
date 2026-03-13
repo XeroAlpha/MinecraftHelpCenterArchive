@@ -1,7 +1,7 @@
 ---
 title: Allow a Microsoft Child Account to Redeem Codes for Minecraft
 date: 2024-05-09T19:16:03Z
-updated: 2025-03-20T15:39:02Z
+updated: 2026-03-13T16:52:04Z
 categories: Account Settings
 tags:
   - section_26562723671949

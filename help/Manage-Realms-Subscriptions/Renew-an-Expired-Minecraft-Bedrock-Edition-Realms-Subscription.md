@@ -1,7 +1,7 @@
 ---
 title: "Renew an Expired Minecraft: Bedrock Edition Realms Subscription"
 date: 2021-09-24T21:25:19Z
-updated: 2025-04-24T16:15:14Z
+updated: 2026-03-13T16:48:53Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft

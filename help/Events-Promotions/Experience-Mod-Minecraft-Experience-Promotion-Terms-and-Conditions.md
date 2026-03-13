@@ -1,7 +1,7 @@
 ---
 title: Experience Mod Minecraft Experience Promotion Terms and Conditions
 date: 2024-10-16T18:14:24Z
-updated: 2025-03-26T20:57:49Z
+updated: 2026-03-13T16:51:15Z
 categories: Events & Promotions
 tags:
   - title_minecraft_java_edition
@@ -30,7 +30,7 @@ link: https://help.minecraft.net/hc/en-us/articles/31114589569805-Experience-Mod
 
 **Experience Mod Minecraft Experience Promotion Terms and Conditions**
 
-1.  These Minecraft Experience Promotion Terms and Conditions (the “Minecraft Experience Promotion Terms”) set out the terms and conditions for participation in the promotion operated by Experience Mod LLC (“Experience Mod”) under which you will receive a Minecraft in-game item for free after you purchase a ticket and attend Minecraft Experience Villager Rescue (the “Minecraft Experience Promotion”). All applicable terms and conditions set out in the Minecraft Experience Terms of Use (*[Minecraft Experience Terms of Use](https://www.minecraftexperience.com/terms/)*) shall also govern this Minecraft Experience Promotion.
+1.  These Minecraft Experience Promotion Terms and Conditions (the “Minecraft Experience Promotion Terms”) set out the terms and conditions for participation in the promotion operated by Experience Mod LLC (“Experience Mod”) under which you will receive a Minecraft in-game item for free after you purchase a ticket and attend Minecraft Experience Villager Rescue (the “Minecraft Experience Promotion”). All applicable terms and conditions set out in the Minecraft Experience Terms of Use ([*Minecraft Experience Terms of Use*](https://www.minecraftexperience.com/terms/)) shall also govern this Minecraft Experience Promotion.
 2.  **Minecraft Experience Promotion details**:
     1.  **Free Minecraft Digital Item**: A Minecraft Experience Cape that can be used in-game.
     2.  **How do I get the promo code for the Minecraft Experience Cape?**
@@ -56,4 +56,4 @@ link: https://help.minecraft.net/hc/en-us/articles/31114589569805-Experience-Mod
 10. IN NO EVENT WILL EXPERIENCE MOD, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH THIS MINECRAFT EXPERIENCE PROMOTION, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE. THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
 11. By participating in this Minecraft Experience Promotion, you agree to release and hold harmless Experience Mod, its affiliates, licensors and representatives and agents (including any third parties who assist in the administration of this promotion) and the respective directors, officers and employees of each from any and all liability from claims, injuries, losses or damages of any kind, including without limitation, death and bodily injury, resulting, in whole or in part, directly or indirectly, from the awarding, delivery, acceptance, use, misuse, possession, loss, or misdirection of any reward or participation in this Minecraft Experience Promotion, or any promotion-related activities.
 12. This Minecraft Experience Promotion is governed by, and construed in accordance with, the laws of the U.S. state of Delaware and shall be subject to the exclusive jurisdiction of the courts in that state.
-13. For information about how Experience Mod uses your personal information, please see the Minecraft Experience Privacy Policy at: *[Minecraft Experience Privacy Policy](https://www.minecraftexperience.com/privacy-policy/)*
+13. For information about how Experience Mod uses your personal information, please see the Minecraft Experience Privacy Policy at: [*Minecraft Experience Privacy Policy*](https://www.minecraftexperience.com/privacy-policy/)

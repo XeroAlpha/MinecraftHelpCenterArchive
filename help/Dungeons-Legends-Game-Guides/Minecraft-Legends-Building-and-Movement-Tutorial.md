@@ -1,7 +1,7 @@
 ---
 title: Minecraft Legends Building and Movement Tutorial
 date: 2023-04-13T16:16:40Z
-updated: 2025-02-19T18:44:57Z
+updated: 2026-03-13T16:57:49Z
 categories: Dungeons & Legends Game Guides
 tags:
   - section_27983516571789

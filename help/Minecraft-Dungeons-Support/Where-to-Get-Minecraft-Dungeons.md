@@ -1,7 +1,7 @@
 ---
 title: Where to Get Minecraft Dungeons
 date: 2021-09-13T22:34:30Z
-updated: 2025-02-19T19:52:47Z
+updated: 2026-03-13T16:55:39Z
 categories: Minecraft Dungeons Support
 tags:
   - section_26726610890253

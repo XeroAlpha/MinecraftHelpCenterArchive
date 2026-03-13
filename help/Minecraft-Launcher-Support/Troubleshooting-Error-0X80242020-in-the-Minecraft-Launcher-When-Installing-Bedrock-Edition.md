@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error 0X80242020 in the Minecraft Launcher When Installing Bedrock Edition
 date: 2025-02-27T22:11:05Z
-updated: 2025-07-08T21:03:43Z
+updated: 2026-03-13T16:53:39Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

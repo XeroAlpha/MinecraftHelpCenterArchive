@@ -1,7 +1,7 @@
 ---
 title: Minecraft Marketplace Pass Troubleshooting
 date: 2024-02-20T18:18:23Z
-updated: 2025-04-28T16:24:15Z
+updated: 2026-03-13T16:34:40Z
 categories: Marketplace Pass Subscriptions
 tags:
   - title_minecraft

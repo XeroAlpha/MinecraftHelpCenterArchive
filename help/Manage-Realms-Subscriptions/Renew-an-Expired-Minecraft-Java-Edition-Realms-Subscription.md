@@ -1,7 +1,7 @@
 ---
 title: "Renew an Expired Minecraft: Java Edition Realms Subscription"
 date: 2021-09-24T21:00:46Z
-updated: 2025-04-24T16:15:03Z
+updated: 2026-03-13T16:49:09Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition

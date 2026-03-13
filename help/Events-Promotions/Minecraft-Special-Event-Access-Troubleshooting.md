@@ -1,7 +1,7 @@
 ---
 title: Minecraft Special Event Access Troubleshooting
 date: 2023-12-19T19:41:15Z
-updated: 2025-03-26T20:50:50Z
+updated: 2026-03-13T16:51:41Z
 categories: Events & Promotions
 tags:
   - title_minecraft

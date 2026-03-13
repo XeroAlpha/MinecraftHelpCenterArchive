@@ -1,7 +1,7 @@
 ---
 title: Updating Your Payment Method for Minecraft Realms on PC
 date: 2024-08-02T18:05:35Z
-updated: 2025-04-24T16:48:12Z
+updated: 2026-03-13T16:40:35Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition

@@ -1,7 +1,7 @@
 ---
 title: The Microsoft Store Opens when I Try to Start Minecraft from the Minecraft Launcher
 date: 2025-02-27T21:56:11Z
-updated: 2025-02-28T17:16:50Z
+updated: 2026-03-13T16:53:57Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
