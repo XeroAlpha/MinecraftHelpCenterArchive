@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Java Edition Realm"
 date: 2024-04-15T19:13:45Z
-updated: 2025-05-28T20:44:02Z
+updated: 2026-03-12T23:54:05Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
@@ -19,7 +19,7 @@ hash:
   h_01JWC3R8M4X81N3WTZBGMX3PEE: invite-friends-through-the-game-menu
 ---
 
-*For Minecraft: Bedrock Edition, see* *[Invite Friends to Your Minecraft: Bedrock Edition Realm](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).*
+*For Minecraft: Bedrock Edition, see* [*Invite Friends to Your Minecraft: Bedrock Edition Realm*](./Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md)*.*
 
 After you [create a Minecraft: Java Edition Realm](./Create-a-Minecraft-Java-Edition-Realm.md), you can invite your friends through the Minecraft game menu.
 

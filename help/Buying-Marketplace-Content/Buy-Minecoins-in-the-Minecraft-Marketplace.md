@@ -1,7 +1,7 @@
 ---
 title: Buy Minecoins in the Minecraft Marketplace
 date: 2024-02-12T20:41:33Z
-updated: 2025-05-28T21:27:44Z
+updated: 2026-03-12T23:53:40Z
 categories: Buying Marketplace Content
 tags:
   - section_31867594896141

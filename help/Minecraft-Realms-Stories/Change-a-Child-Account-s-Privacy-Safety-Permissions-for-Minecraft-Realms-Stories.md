@@ -1,7 +1,7 @@
 ---
 title: Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories
 date: 2023-10-25T20:06:23Z
-updated: 2025-09-04T20:57:43Z
+updated: 2026-03-12T22:24:10Z
 categories: Minecraft Realms Stories
 tags:
   - section_15463792344973

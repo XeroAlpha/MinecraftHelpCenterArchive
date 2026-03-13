@@ -1,7 +1,7 @@
 ---
 title: Cancel a Minecraft Realms Subscription in the Minecraft Menu
 date: 2024-02-14T19:17:39Z
-updated: 2025-09-04T21:17:15Z
+updated: 2026-03-12T22:18:34Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft

@@ -1,7 +1,7 @@
 ---
 title: Accounts Required to Play Minecraft
 date: 2023-09-18T21:48:09Z
-updated: 2025-09-04T20:28:41Z
+updated: 2026-03-12T22:28:08Z
 categories: Set Up Your Account
 tags:
   - title_minecraft_java_edition
@@ -31,7 +31,8 @@ The game version and type of account you need to play Minecraft depends on your 
 
 Here’s a list of required accounts and available game versions (Minecraft: Bedrock Edition or Minecraft: Java Edition) by platform:
 
-<table style="width: 100%;" data-border="1" data-cellspacing="0" data-cellpadding="0">
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="width: 100%;">
+<table style="border-spacing: 0px;">
 <colgroup>
 <col style="width: 25%" />
 <col style="width: 25%" />
@@ -40,68 +41,69 @@ Here’s a list of required accounts and available game versions (Minecraft: Bed
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>Platform</strong></td>
-<td style="text-align: center;"><strong>Game Version</strong></td>
-<td style="text-align: center;"><strong>Required Account</strong></td>
-<td style="text-align: center;"><strong>Additional Account*</strong></td>
+<td style="text-align: center; padding: 0px;"><strong>Platform</strong></td>
+<td style="text-align: center; padding: 0px;"><strong>Game Version</strong></td>
+<td style="text-align: center; padding: 0px;"><strong>Required Account</strong></td>
+<td style="text-align: center; padding: 0px;"><strong>Additional Account*</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Windows PC</strong></td>
-<td style="text-align: center;"><p>Bedrock Edition</p>
+<td style="text-align: center; padding: 0px;"><strong>Windows PC</strong></td>
+<td style="text-align: center; padding: 0px;"><p>Bedrock Edition</p>
 <p>Java Edition</p></td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center;">N/A</td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;">N/A</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Linux computer</strong></td>
-<td style="text-align: center;">Java Edition</td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center;">N/A</td>
+<td style="text-align: center; padding: 0px;"><strong>Linux computer</strong></td>
+<td style="text-align: center; padding: 0px;">Java Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;">N/A</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>macOS computer</strong></td>
-<td style="text-align: center;">Java Edition</td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center;">N/A</td>
+<td style="text-align: center; padding: 0px;"><strong>macOS computer</strong></td>
+<td style="text-align: center; padding: 0px;">Java Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;">N/A</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Xbox Game Consoles</strong></td>
-<td style="text-align: center;">Bedrock Edition</td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center;">N/A</td>
+<td style="text-align: center; padding: 0px;"><strong>Xbox Game Consoles</strong></td>
+<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;">N/A</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>PlayStation 4</strong></td>
-<td style="text-align: center;">Bedrock Edition</td>
-<td style="text-align: center;"><a href="https://www.playstation.com/en-us/support/account/">PlayStation Network Account</a></td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;"><strong>PlayStation 4</strong></td>
+<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://www.playstation.com/en-us/support/account/">PlayStation Network Account</a></td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>PlayStation 5</strong></td>
-<td style="text-align: center;">Bedrock Edition</td>
-<td style="text-align: center;"><a href="https://www.playstation.com/en-us/support/account/">PlayStation Network Account</a></td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;"><strong>PlayStation 5</strong></td>
+<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://www.playstation.com/en-us/support/account/">PlayStation Network Account</a></td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Nintendo Switch</strong></td>
-<td style="text-align: center;">Bedrock Edition</td>
-<td style="text-align: center;"><a href="https://en-americas-support.nintendo.com/app/answers/detail/a_id/15997/kw/nintendo%20account">Nintendo Account</a></td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;"><strong>Nintendo Switch</strong></td>
+<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://en-americas-support.nintendo.com/app/answers/detail/a_id/15997/kw/nintendo%20account">Nintendo Account</a></td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Android Phones &amp; Tablets</strong></td>
-<td style="text-align: center;">Bedrock Edition</td>
-<td style="text-align: center;"><a href="https://support.google.com/accounts/answer/15277265?hl=en&amp;ref_topic=3382296&amp;sjid=2329032815580734710-NC">Google Account</a></td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;"><strong>Android Phones &amp; Tablets</strong></td>
+<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://support.google.com/accounts/answer/15277265?hl=en&amp;ref_topic=3382296&amp;sjid=2329032815580734710-NC">Google Account</a></td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Apple iOS Phones &amp; Tablets</strong></td>
-<td style="text-align: center;">Bedrock Edition</td>
-<td style="text-align: center;"><a href="https://account.apple.com/">Apple ID</a></td>
-<td style="text-align: center;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
+<td style="text-align: center; padding: 0px;"><strong>Apple iOS Phones &amp; Tablets</strong></td>
+<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.apple.com/">Apple ID</a></td>
+<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
 </tr>
 </tbody>
 </table>
+</figure>
 
 \*Signing in with or linking a Microsoft account on platforms that do not require one enables features such as cross-platform play, cross-platform access to subscriptions and Marketplace purchases, parental controls, social features, Realms, and multiplayer games.
 

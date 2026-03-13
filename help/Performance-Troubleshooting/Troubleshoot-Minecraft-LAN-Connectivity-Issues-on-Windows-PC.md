@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Minecraft LAN Connectivity Issues on Windows PC
 date: 2022-08-31T16:01:04Z
-updated: 2025-08-05T16:34:38Z
+updated: 2026-03-12T23:11:07Z
 categories: Performance & Troubleshooting
 tags:
   - section_27166432886285

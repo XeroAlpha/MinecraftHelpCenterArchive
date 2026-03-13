@@ -1,7 +1,7 @@
 ---
 title: "Requirements to Play Minecraft: Bedrock Edition Split-Screen"
 date: 2025-06-04T02:02:10Z
-updated: 2025-06-04T21:22:22Z
+updated: 2026-03-12T23:46:38Z
 categories: Multiplayer Support
 tags:
   - title_minecraft

@@ -1,7 +1,7 @@
 ---
 title: "Accept a Minecraft: Bedrock Edition Realms Invitation"
 date: 2025-05-21T00:13:38Z
-updated: 2025-06-03T18:49:44Z
+updated: 2026-03-12T23:47:49Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557

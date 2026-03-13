@@ -1,7 +1,7 @@
 ---
 title: "Create a New Minecraft: Java Installation to Troubleshoot Launcher Crashes"
 date: 2024-01-22T20:21:50Z
-updated: 2025-08-26T21:08:51Z
+updated: 2026-03-12T22:30:38Z
 categories: Minecraft Launcher Support
 tags:
   - title_minecraft_java_edition

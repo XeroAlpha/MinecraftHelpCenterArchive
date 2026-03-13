@@ -1,7 +1,7 @@
 ---
 title: How to Redeem a Prepaid Card for Minecraft
 date: 2022-04-27T23:26:52Z
-updated: 2025-09-04T20:54:20Z
+updated: 2026-03-12T22:27:26Z
 categories: Redeeming Gifts & Codes
 tags:
   - section_28872896387341

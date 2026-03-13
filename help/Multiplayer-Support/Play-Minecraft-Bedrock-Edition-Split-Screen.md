@@ -1,7 +1,7 @@
 ---
 title: "Play Minecraft: Bedrock Edition Split-Screen"
 date: 2025-06-04T01:58:13Z
-updated: 2025-07-31T23:36:41Z
+updated: 2026-03-12T23:11:51Z
 categories: Multiplayer Support
 tags:
   - title_minecraft

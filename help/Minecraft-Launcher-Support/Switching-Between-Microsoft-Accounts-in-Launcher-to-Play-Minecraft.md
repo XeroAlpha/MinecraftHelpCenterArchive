@@ -1,7 +1,7 @@
 ---
 title: Switching Between Microsoft Accounts in Launcher to Play Minecraft
 date: 2024-04-01T19:47:17Z
-updated: 2025-06-05T23:47:28Z
+updated: 2026-03-12T23:46:08Z
 categories: Minecraft Launcher Support
 tags:
   - section_12617594906509

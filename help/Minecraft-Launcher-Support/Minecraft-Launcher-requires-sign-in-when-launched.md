@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launcher requires sign in when launched
 date: 2025-02-27T22:01:02Z
-updated: 2025-04-28T19:15:12Z
+updated: 2026-03-12T22:48:13Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437

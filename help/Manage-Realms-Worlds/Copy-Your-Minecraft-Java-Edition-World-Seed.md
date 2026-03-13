@@ -1,7 +1,7 @@
 ---
 title: "Copy Your Minecraft: Java Edition World Seed"
 date: 2025-02-21T19:02:10Z
-updated: 2025-07-04T01:49:44Z
+updated: 2026-03-12T23:43:05Z
 categories: Manage Realms Worlds
 tags:
   - section_37819421372941

@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
-updated: 2025-06-17T18:54:09Z
+updated: 2026-03-12T23:44:54Z
 categories: Create or Join Realms
 tags:
   - title_minecraft

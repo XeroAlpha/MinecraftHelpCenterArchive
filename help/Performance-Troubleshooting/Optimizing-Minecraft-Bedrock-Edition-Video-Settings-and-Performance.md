@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Minecraft: Bedrock Edition Video Settings and Performance"
 date: 2021-09-28T21:43:13Z
-updated: 2025-06-17T16:21:10Z
+updated: 2026-03-12T23:45:36Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition
@@ -26,7 +26,7 @@ hash:
 
 If you’re crashing or lagging while playing Minecraft: Bedrock Edition, changing your video settings may improve gameplay.
 
-*For Minecraft: Java Edition, see [Optimizing Minecraft: Java Edition Video Settings and Performance](./Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md). *
+*For Minecraft: Java Edition, see* [*Optimizing Minecraft: Java Edition Video Settings and Performance*](./Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md)*. *
 
 ## Access video settings in Minecraft: Bedrock Edition
 

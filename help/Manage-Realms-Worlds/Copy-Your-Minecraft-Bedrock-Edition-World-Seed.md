@@ -1,7 +1,7 @@
 ---
 title: "Copy Your Minecraft: Bedrock Edition World Seed"
 date: 2025-02-21T19:00:39Z
-updated: 2025-07-04T01:51:27Z
+updated: 2026-03-12T23:41:43Z
 categories: Manage Realms Worlds
 tags:
   - section_37819421372941

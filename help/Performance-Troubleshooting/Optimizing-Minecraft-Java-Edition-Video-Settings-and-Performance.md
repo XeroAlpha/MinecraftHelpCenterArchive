@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Minecraft: Java Edition Video Settings and Performance"
 date: 2025-04-25T23:09:15Z
-updated: 2025-08-26T16:46:19Z
+updated: 2026-03-12T22:32:29Z
 categories: Performance & Troubleshooting
 tags:
   - title_minecraft_java_edition

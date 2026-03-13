@@ -1,7 +1,7 @@
 ---
-title: Troubleshooting Realms Subscription Payment Errors
+title: Troubleshoot Realms Subscription Payment Errors
 date: 2024-07-29T19:54:41Z
-updated: 2025-07-04T02:07:39Z
+updated: 2026-03-12T23:28:03Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
@@ -23,7 +23,7 @@ tags:
   - use_for_autoreply
   - section_28872593033869
   - platform_xbox_series_xs
-link: https://help.minecraft.net/hc/en-us/articles/28804353409805-Troubleshooting-Realms-Subscription-Payment-Errors
+link: https://help.minecraft.net/hc/en-us/articles/28804353409805-Troubleshoot-Realms-Subscription-Payment-Errors
 ---
 
 If you get a purchasing error when trying to subscribe to Minecraft Realms, try the tips below.

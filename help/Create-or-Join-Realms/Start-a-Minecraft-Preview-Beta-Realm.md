@@ -1,7 +1,7 @@
 ---
 title: Start a Minecraft Preview/Beta Realm
 date: 2023-10-10T17:12:23Z
-updated: 2025-05-02T16:47:41Z
+updated: 2026-03-12T23:54:26Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557

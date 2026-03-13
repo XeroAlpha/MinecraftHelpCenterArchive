@@ -1,7 +1,7 @@
 ---
 title: "Unlock Minecraft: Bedrock Edition Achievements"
 date: 2021-09-14T21:36:49Z
-updated: 2025-09-10T17:37:35Z
+updated: 2026-03-12T22:18:05Z
 categories: Performance & Troubleshooting
 tags:
   - section_35377640016525

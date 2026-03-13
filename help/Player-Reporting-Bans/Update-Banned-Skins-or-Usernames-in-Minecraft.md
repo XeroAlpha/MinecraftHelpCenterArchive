@@ -1,7 +1,7 @@
 ---
 title: Update Banned Skins or Usernames in Minecraft
 date: 2024-03-18T21:16:23Z
-updated: 2025-08-20T20:36:27Z
+updated: 2026-03-12T22:59:03Z
 categories: Player Reporting & Bans
 tags:
   - section_15463793799181

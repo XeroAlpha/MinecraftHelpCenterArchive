@@ -1,7 +1,7 @@
 ---
 title: Close and Reopen Your Minecraft Realm to Solve Connection Errors
 date: 2025-04-30T21:19:10Z
-updated: 2025-06-17T20:47:44Z
+updated: 2026-03-12T23:44:05Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft_java_edition
