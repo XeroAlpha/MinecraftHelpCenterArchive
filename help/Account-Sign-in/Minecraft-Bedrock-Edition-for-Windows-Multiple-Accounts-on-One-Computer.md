@@ -23,4 +23,4 @@ To use multiple Microsoft accounts on one computer, you can create a different c
 3.  Sign in to the other Microsoft account associated with the Minecraft: Bedrock Edition profile you want to use for this computer user account.
 4.  Download Minecraft: Bedrock Edition from the Microsoft Store.
 
-For more information, please visit [How to Download and Play Minecraft Through Family Share on PC](../Download-Install/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).
+For more information, please visit [How to Download and Play Minecraft Through Family Share on PC](../Download-Install/Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).

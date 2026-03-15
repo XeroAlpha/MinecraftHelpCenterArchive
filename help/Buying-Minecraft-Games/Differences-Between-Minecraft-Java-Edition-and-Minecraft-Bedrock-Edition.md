@@ -38,6 +38,6 @@ While every version of Minecraft is still Minecraft, the differences between Min
 - **Host a Realm:** Share your world with your friends and players around the globe! Host your own multiplayer game server and have your friends join.
 - **Achievements & Trophies:** Complete certain challenges to earn achievements or trophies in survival mode.
 - **Moderation and Parental Controls:** Connected to the [Xbox Family Settings App](https://www.xbox.com/en-US/apps/family-settings-app), you can customize the shared gaming experience for you and your family.
-- **Family Sharing Support:** You can share your copy of Minecraft: Bedrock Edition to others in your family using [Family Share on PC](../Download-Install/How-to-Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).
+- **Family Sharing Support:** You can share your copy of Minecraft: Bedrock Edition to others in your family using [Family Share on PC](../Download-Install/Download-and-Play-Minecraft-Through-Family-Share-on-PC.md).
 
 There are many more differences between the two versions, but these are the major ones to help you decide which edition is right for you.
