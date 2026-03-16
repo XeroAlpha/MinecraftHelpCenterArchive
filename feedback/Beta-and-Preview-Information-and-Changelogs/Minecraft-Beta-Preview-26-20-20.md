@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.20.20
 date: 2026-03-10T14:21:56Z
-updated: 2026-03-10T15:58:14Z
+updated: 2026-03-16T14:51:04Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/44164962819725-Minecraft-Beta-Preview-26-20-20
 hash:
@@ -221,11 +221,11 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 ## Items
 
 - Items that have their "item_lock" mode set to either "lock_in_inventory" or "lock_in_slot" can no longer be placed in shelf blocks ([MCPE-230341](https://bugs.mojang.com/browse/MCPE-230341))
-- Fixed pickblock overriding items in hotbar with item_lock ([MCPE-706240](https://bugs.mojang.com/browse/MCPE-706240))
+- Fixed pickblock overriding items in hotbar with item_lock ([MCPE-152556](https://bugs.mojang.com/browse/MCPE-152556))
 
 ## Mobs
 
-- Fixed a bug where the summon_cap for custom entities was ignored
+- Fixed a bug where the summon_cap for custom entities was ignored ([MCPE-153307](https://bugs.mojang.com/browse/MCPE-153307))
 
 ## Scripting
 
