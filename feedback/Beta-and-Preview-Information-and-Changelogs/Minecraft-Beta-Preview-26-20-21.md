@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.20.21
 date: 2026-03-17T09:47:12Z
-updated: 2026-03-17T16:28:13Z
+updated: 2026-03-18T14:54:29Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/44351318785165-Minecraft-Beta-Preview-26-20-21
 hash:
@@ -147,6 +147,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 ## General
 
 - Upgraded particles, trading, and cameras JSON resources to Cereal slice 1.26.10 and re-serialized to align with the updated schema.
+- Updated new features in structure pools to include data driven features.
 
 ## Items
 
