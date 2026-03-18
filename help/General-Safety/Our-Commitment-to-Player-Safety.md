@@ -1,7 +1,7 @@
 ---
 title: Our Commitment to Player Safety
 date: 2022-07-29T20:44:56Z
-updated: 2026-03-11T18:54:06Z
+updated: 2026-03-18T20:42:35Z
 categories: General Safety
 tags:
   - section_15463792344973
@@ -35,7 +35,7 @@ Since the migration of all Minecraft and Mojang accounts to Microsoft accounts, 
 
 Microsoft accounts benefit from parental controls that empower parents to choose which community and purchasing features kids can access in Minecraft online experiences, including which online games they can access, who can they chat with, and what they can buy.
 
-For information about configuring parental controls, visit [Managing Multiplayer Game Access For A Child Account In Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
+For information about configuring parental controls, visit [Managing Multiplayer Game Access for a Child Account in Minecraft](../Account-Settings/Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft.md).
 
 ## Community Guidelines
 
@@ -55,8 +55,8 @@ The goal of having effective and intuitive Player Reporting mechanisms in our ga
 
 Visit the below articles to learn how to report players in either Bedrock or Java:
 
-- [How to Report a Player in Minecraft: Bedrock Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Bedrock-Edition.md)
-- [How to Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Java-Edition.md)
+- [Report a Player in Minecraft: Bedrock Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Bedrock-Edition.md)
+- [Report a Player in Minecraft: Java Edition](../Player-Reporting-Bans/Report-a-Player-in-Minecraft-Java-Edition.md)
 
 If you are aware of a server that is violating our Community Guidelines, [you can report them here](http://aka.ms/mce-reportserver).
 
@@ -68,4 +68,4 @@ To facilitate a safe and welcoming community for our players, we have a team of 
 
 We understand that all of us can learn from our experiences and mistakes. That’s why we are focused on creating systems that guide players to better understand our community guidelines and the intended in-game experiences. We want our players to continue playing Minecraft in a safe way.
 
-Of course, no system is a perfect system, which is why on this player safety journey, we will continue to learn and grow with our community. To learn about appealing a ban or suspension, see [How Do I Appeal A Ban Or Suspension From Minecraft?](https://help.minecraft.net/hc/en-us/articles/25119263189517)
+Of course, no system is a perfect system, which is why on this player safety journey, we will continue to learn and grow with our community. To learn about appealing a ban or suspension, see [Banned Minecraft Accounts and the Appeal Process](../Player-Reporting-Bans/Banned-Minecraft-Accounts-and-the-Appeal-Process.md).
