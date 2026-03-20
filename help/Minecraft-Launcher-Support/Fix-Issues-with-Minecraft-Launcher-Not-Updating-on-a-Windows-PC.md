@@ -1,12 +1,11 @@
 ---
-title: Fix Issues with Minecraft Launcher Not Updating on a Windows PC
+title: Troubleshoot Minecraft Launcher Not Updating on Windows
 date: 2025-12-09T21:59:18Z
-updated: 2025-12-11T23:59:36Z
+updated: 2026-03-20T16:22:41Z
 categories: Minecraft Launcher Support
 tags:
-  - section_27166490706957
   - section_27166539479437
-link: https://help.minecraft.net/hc/en-us/articles/41799770358925-Fix-Issues-with-Minecraft-Launcher-Not-Updating-on-a-Windows-PC
+link: https://help.minecraft.net/hc/en-us/articles/41799770358925-Troubleshoot-Minecraft-Launcher-Not-Updating-on-Windows
 hash:
   h_01KC2HZH0M4RDEY19BND6D8XCX: repair-and-reset-the-minecraft-launcher
   h_01KC2HZH0RDWGA7FN6B3H19XP6: reset-the-microsoft-store
