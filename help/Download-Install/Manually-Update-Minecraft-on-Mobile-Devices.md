@@ -30,4 +30,4 @@ To determine if you are running the latest version of Minecraft, start the game 
 ## Additional mobile device resources
 
 - [iOS Operating System Requirements for Minecraft](./iOS-System-Requirements-for-Minecraft.md)
-- [Minecraft: Bedrock Edition for Android Requirements and Troubleshooting](../Performance-Troubleshooting/Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md)
+- [Minecraft: Bedrock Edition for Android Requirements and Troubleshooting](./Minecraft-Bedrock-Edition-for-Android-Requirements-and-Troubleshooting.md)

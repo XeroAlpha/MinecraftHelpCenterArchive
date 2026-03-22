@@ -51,4 +51,4 @@ If you or your friends have trouble joining your Minecraft Realm, closing and re
 
 - [Troubleshoot Minecraft Realms Connection Errors](./Troubleshoot-Minecraft-Realms-Connection-Errors.md)
 - [Troubleshoot Unable to Join Multiplayer Worlds in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
-- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
+- [Troubleshoot Minecraft Network Connection Errors](../Error-Code-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)

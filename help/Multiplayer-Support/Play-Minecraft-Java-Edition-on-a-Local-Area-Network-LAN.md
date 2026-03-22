@@ -49,7 +49,7 @@ A message that a local game has been hosted on port \[######\] will appear in th
 
 - [Play Minecraft: Bedrock Edition on a Local Area Network (LAN)](./Play-Minecraft-Bedrock-Edition-on-a-Local-Area-Network-LAN.md)
 - [Requirements to Play Minecraft Multiplayer Games](./Requirements-to-Play-Minecraft-Multiplayer-Games.md)
-- [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Performance-Troubleshooting/Troubleshoot-Minecraft-LAN-Connectivity-Issues-on-Windows-PC.md)
+- [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](./Troubleshoot-Minecraft-LAN-Connectivity-Issues-on-Windows-PC.md)
 - [Troubleshoot Unable to Join Multiplayer Games in Minecraft](./Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
-- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
+- [Troubleshoot Minecraft Network Connection Errors](../Error-Code-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
 - [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](./Troubleshoot-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

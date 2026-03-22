@@ -33,6 +33,6 @@ The following processor models will deliver better performance in Minecraft:
 
 ## Additional resources for troubleshooting performance issues
 
-- [Optimizing Minecraft: Java Edition Video Settings and Performance](../Performance-Troubleshooting/Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md)
-- [Fix Crashes and Lag Issues in Minecraft](../Performance-Troubleshooting/Fix-Crashes-and-Lag-Issues-in-Minecraft.md)
-- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
+- [Optimizing Minecraft: Java Edition Video Settings and Performance](../Video-Graphics-Support/Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md)
+- [Fix Crashes and Lag Issues in Minecraft](../Video-Graphics-Support/Fix-Crashes-and-Lag-Issues-in-Minecraft.md)
+- [Troubleshoot Minecraft Network Connection Errors](../Error-Code-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)

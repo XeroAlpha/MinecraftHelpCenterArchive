@@ -4,7 +4,7 @@ date: 2026-02-18T19:19:50Z
 updated: 2026-02-23T23:31:55Z
 categories: Backup & Restore
 tags:
-  - section_27166490706957
+  - section_27166561402125
 link: https://help.minecraft.net/hc/en-us/articles/43622310316045-Restore-or-Recreate-a-Minecraft-Bedrock-Edition-World
 hash:
   h_01KHS3DDH2F83TGRCRWK60CGCC: restore-an-automatic-backup

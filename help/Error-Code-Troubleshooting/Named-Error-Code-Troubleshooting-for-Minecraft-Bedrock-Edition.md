@@ -173,7 +173,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Door
 
 - **What it means**: There was a multiplayer connection error.
-- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md).
+- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md).
 
 ### Drowned
 
@@ -215,7 +215,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Goat
 
 - **What it means**: The world you were in/trying to join is no longer available. This can happen if the hosting player quit the game.
-- **How to troubleshoot**: Check with the hosting player to make sure they’re still in game. See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for more troubleshooting.
+- **How to troubleshoot**: Check with the hosting player to make sure they’re still in game. See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) for more troubleshooting.
 
 ### Gold
 
@@ -260,12 +260,12 @@ We’ve given some error codes special names to help point you in the right dire
 ### NetherNet
 
 - **What it means**: There was a multiplayer connection error.
-- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) and [Troubleshoot Unable to Join Multiplayer Games in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md) for more suggestions.
+- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md) and [Troubleshoot Unable to Join Multiplayer Games in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md) for more suggestions.
 
 ### Panda
 
 - **What it means**: A local server couldn’t be found.
-- **How to troubleshoot**: See [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Performance-Troubleshooting/Troubleshoot-Minecraft-LAN-Connectivity-Issues-on-Windows-PC.md) and [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+- **How to troubleshoot**: See [Troubleshoot Minecraft LAN Connectivity Issues on Windows PC](../Multiplayer-Support/Troubleshoot-Minecraft-LAN-Connectivity-Issues-on-Windows-PC.md) and [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Piglin
 
@@ -300,7 +300,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Squid
 
 - **What it means**: There was an issue with your IP address.
-- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md).
+- **How to troubleshoot**: See [Troubleshoot Minecraft Network Connection Errors](./Troubleshoot-Minecraft-Network-Connection-Errors.md).
 
 ### Sugar Cane
 

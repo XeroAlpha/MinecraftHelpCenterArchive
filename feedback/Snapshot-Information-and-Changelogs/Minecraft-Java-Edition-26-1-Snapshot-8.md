@@ -70,7 +70,7 @@ Get ready to meet the last baby mobs waddling into testing! This week's snapshot
 
 - Decreased the initial heap size to 2GB
 
-> **Developer's Note**: *The intention of this change is to reduce the amount of crashes we're seeing in the latest snapshots. If you're experiencing crashes, please refer to the *[*help article*](../../help/Performance-Troubleshooting/Fix-Minecraft-Java-Edition-Game-Crashes-by-Checking-Memory-Allocation.md)* for more information on how to configure memory allocation.*
+> **Developer's Note**: *The intention of this change is to reduce the amount of crashes we're seeing in the latest snapshots. If you're experiencing crashes, please refer to the *[*help article*](../../help/Java-Edition-Support/Fix-Minecraft-Java-Edition-Game-Crashes-by-Checking-Memory-Allocation.md)* for more information on how to configure memory allocation.*
 
 ## Technical Changes
 

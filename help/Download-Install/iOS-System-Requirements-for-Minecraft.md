@@ -24,7 +24,7 @@ For optimal gameplay performance and access to all features and gameplay modes, 
 
 ## Support for older devices
 
-As of March 2025, you must update to iOS 14 to access online play and continue receiving updates for Minecraft. See [Operating System Sunset Announcements for Minecraft](../Performance-Troubleshooting/Operating-System-Sunset-Announcements-for-Minecraft.md) for details. [iOS 14 and iPadOS are compatible with these devices](https://support.apple.com/en-us/103202).
+As of March 2025, you must update to iOS 14 to access online play and continue receiving updates for Minecraft. See [Operating System Sunset Announcements for Minecraft](./Operating-System-Sunset-Announcements-for-Minecraft.md) for details. [iOS 14 and iPadOS are compatible with these devices](https://support.apple.com/en-us/103202).
 
 ## Resources for playing Minecraft on mobile devices
 

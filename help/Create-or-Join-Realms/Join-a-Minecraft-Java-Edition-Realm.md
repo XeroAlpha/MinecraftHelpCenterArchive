@@ -36,5 +36,5 @@ After you [Accept a Minecraft: Java Edition Realms Invitation](./Accept-a-Minecr
 ## Additional Resources
 
 - [Troubleshoot Unable to Join Multiplayer Games in Minecraft](../Multiplayer-Support/Troubleshoot-Unable-to-Join-Multiplayer-Games-in-Minecraft.md)
-- [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
+- [Troubleshoot Minecraft Network Connection Errors](../Error-Code-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md)
 - [Troubleshoot Multiplayer Game Issues in Minecraft: Java Edition](../Multiplayer-Support/Troubleshoot-Multiplayer-Game-Issues-in-Minecraft-Java-Edition.md)

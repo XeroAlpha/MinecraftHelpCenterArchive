@@ -4,7 +4,6 @@ date: 2024-09-20T22:52:00Z
 updated: 2026-01-05T17:14:55Z
 categories: Download & Install
 tags:
-  - section_27166432886285
   - section_27166490706957
 link: https://help.minecraft.net/hc/en-us/articles/30440807166093-Remove-Minecraft-Files-to-Fix-Android-Installation-Errors
 hash:

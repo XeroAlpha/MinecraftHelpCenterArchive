@@ -17,7 +17,7 @@ Minecraft Marketplace error codes start with a letter and a dash followed by the
 
 Try the following tips when you get an error in the Minecraft Marketplace:
 
-- **Wait and try again: **You may need to wait for background processes to complete. Verify you have a stable internet connection and try again after a few minutes. See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for tips.
+- **Wait and try again: **You may need to wait for background processes to complete. Verify you have a stable internet connection and try again after a few minutes. See [Troubleshoot Minecraft Network Connection Errors](../Error-Code-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for tips.
 - **Clear your cache:** See [Clear Your Minecraft Marketplace Cache](./Clear-Your-Minecraft-Marketplace-Cache.md) for instructions.
 - **Check your game version**: Make sure that your game is up to date and running the latest version of Minecraft. See the below links for help updating your game.
   - [How to Manually Update Minecraft on Consoles](../Download-Install/Manually-Update-Minecraft-on-Consoles.md)

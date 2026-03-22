@@ -17,4 +17,4 @@ Any device running the Minecraft Launcher must meet the following minimum operat
 
 System requirements for Minecraft and the Minecraft Launcher are also available at [Minecraft: Java & Bedrock Edition for PC Deluxe Edition](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc?tabs=%7B%22details%22%3A1%7D) under Compare Features.
 
-If you play Minecraft on a device with an operating system that doesn’t meet the listed minimum requirements, you will not be able to receive updates. Some multiplayer options may also no longer be available to you. See [Operating System Sunset Announcements for Minecraft](../Performance-Troubleshooting/Operating-System-Sunset-Announcements-for-Minecraft.md) for details.
+If you play Minecraft on a device with an operating system that doesn’t meet the listed minimum requirements, you will not be able to receive updates. Some multiplayer options may also no longer be available to you. See [Operating System Sunset Announcements for Minecraft](./Operating-System-Sunset-Announcements-for-Minecraft.md) for details.

@@ -20,7 +20,7 @@ For optimal gameplay performance and access to all features and gameplay modes, 
 
 ## Support for older devices
 
-As of March 2025, you must update to at least Windows 10 or MacOS 10.15 to access online play and continue receiving updates for Minecraft through the Launcher. See [Operating System Sunset Announcements for Minecraft](../Performance-Troubleshooting/Operating-System-Sunset-Announcements-for-Minecraft.md) for details.
+As of March 2025, you must update to at least Windows 10 or MacOS 10.15 to access online play and continue receiving updates for Minecraft through the Launcher. See [Operating System Sunset Announcements for Minecraft](./Operating-System-Sunset-Announcements-for-Minecraft.md) for details.
 
 ## Resources for playing Minecraft: Java Edition
 

@@ -5,7 +5,6 @@ updated: 2026-03-12T21:48:20Z
 categories: Minecraft Realms Stories
 tags:
   - section_ 12618443219469
-  - section_26104165751437
 link: https://help.minecraft.net/hc/en-us/articles/26047957910797-Turn-on-Show-Coordinates-for-Realms-Stories
 hash:
   h_01K77KYXH234ZH9GFARCRF13ZK: how-to-turn-on-show-coordinates-from-the-play-screen

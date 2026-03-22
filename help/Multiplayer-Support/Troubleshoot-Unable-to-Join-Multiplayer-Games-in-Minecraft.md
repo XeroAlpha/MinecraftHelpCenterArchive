@@ -46,6 +46,6 @@ If you’re trying to join another player’s world, make sure they also update 
 ## Check your network connections and server status
 
 - **Verify the host is online**: If you’re playing with a friend on a local network (LAN), their personally hosted server, or in their hosted world, they must be online.\*
-- **Disable custom DNS and open ports**: Minecraft may conflict with specific DNS and port configurations even if you can connect to other websites or games. See [Troubleshoot Minecraft Network Connection Errors](../Performance-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for details.
+- **Disable custom DNS and open ports**: Minecraft may conflict with specific DNS and port configurations even if you can connect to other websites or games. See [Troubleshoot Minecraft Network Connection Errors](../Error-Code-Troubleshooting/Troubleshoot-Minecraft-Network-Connection-Errors.md) for details.
 
 \**This does not apply to Minecraft Realms. Realms owners do not have to be online for guests to play.*

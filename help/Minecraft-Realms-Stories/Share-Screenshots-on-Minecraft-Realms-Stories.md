@@ -4,7 +4,6 @@ date: 2024-04-19T20:51:24Z
 updated: 2026-03-12T21:46:36Z
 categories: Minecraft Realms Stories
 tags:
-  - section_27983418545293
   - section_ 12618443219469
 link: https://help.minecraft.net/hc/en-us/articles/26047812646925-Share-Screenshots-on-Minecraft-Realms-Stories
 hash:
