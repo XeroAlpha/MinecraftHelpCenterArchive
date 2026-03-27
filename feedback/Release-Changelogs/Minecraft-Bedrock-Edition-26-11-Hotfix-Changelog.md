@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.11 Hotfix Changelog"
 date: 2026-03-26T14:27:50Z
-updated: 2026-03-26T23:10:56Z
+updated: 2026-03-27T11:22:09Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/44610903078797-Minecraft-Bedrock-Edition-26-11-Hotfix-Changelog
 hash:
@@ -10,7 +10,7 @@ hash:
 
 **Posted:** 26 March 2026
 
-A new hotfix has been released (only Windows only) to address issues discovered in the latest update. This update will be rolling out to the various platforms as they become available, so please allow time for the update to reach you.
+A new hotfix has been released (Windows only) to address issues discovered in the latest update. This update will be rolling out as it becomes available, so please allow time for the update to reach you.
 
 ## Gameplay
 
