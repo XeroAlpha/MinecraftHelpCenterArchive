@@ -1,7 +1,7 @@
 ---
 title: "Named Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2026-03-25T14:03:49Z
+updated: 2026-03-27T21:57:25Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -31,10 +31,10 @@ tags:
   - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/38555497091469-Named-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition
 hash:
-  mcbedrock-help-error-armadillo: armadillo
+  error-armadillo: armadillo
   error-armor: armor
   error-arrow: arrow
-  mcbedrock-help-error-axolotl: axolotl
+  error-axolotl: axolotl
   error-bamboo: bamboo
   error-bat: bat
   error-blaze: blaze
@@ -47,16 +47,16 @@ hash:
   error-clay: clay
   error-coal: coal
   error-cobblestone: cobblestone
-  mcbedrock-help-error-creaking: creaking
+  error-creaking: creaking
   error-creeper: creeper
   error-crossbow: crossbow
   error-deepocean: deep-ocean
-  mcbedrock-help-error-dirt: dirt
+  error-dirt: dirt
   error-door: door
   error-drowned: drowned
-  mcbedrock-help-error-elder-guardian: elder-guardian
+  error-elder-guardian: elder-guardian
   error-emerald: emerald
-  mcbedrock-help-error-endstone: end-stone
+  error-endstone: end-stone
   error-evoker: evoker
   error-feather: feather
   error-fox: fox
@@ -70,19 +70,19 @@ hash:
   error-hopper: hopper
   error-kelp: kelp
   error-ladder: ladder
-  mcbedrock-help-error-lava: lava
+  error-lava: lava
   error-lead: lead
-  mcbedrock-help-error-llama: llama
-  mcbedrock-help-error-mooshroom: mooshroom
+  error-llama: llama
+  error-mooshroom: mooshroom
   error-nethernet: nethernet
-  mcbedrock-help-error-observer: observer
-  mcbedrock-help-error-obsidian: obsidian
+  error-observer: observer
+  error-obsidian: obsidian
   error-panda: panda
   error-piglin: piglin
   error-pufferfish: pufferfish
   error-rabbit: rabbit
-  mcbedrock-help-error-sand: sand
-  mcbedrock-help-error-sandstone: sandstone
+  error-sand: sand
+  error-sandstone: sandstone
   error-silverfish: silverfish
   error-snowball: snowball
   error-spyglass: spyglass
@@ -90,7 +90,7 @@ hash:
   error-sugarcane: sugar-cane
   error-terracotta: terracotta
   error-tnt: tnt
-  mcbedrock-help-error-wither-rose: wither-rose
+  error-wither-rose: wither-rose
 ---
 
 We’ve given some error codes special names to help point you in the right direction for resolving them—and getting back into Minecraft. See the list below.
