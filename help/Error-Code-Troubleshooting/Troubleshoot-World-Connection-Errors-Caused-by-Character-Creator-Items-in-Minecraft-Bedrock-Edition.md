@@ -2,10 +2,9 @@
 title: "Troubleshoot World Connection Errors Caused by Character Creator Items in Minecraft: Bedrock Edition"
 date: 2026-01-06T21:50:37Z
 updated: 2026-01-12T21:15:05Z
-categories: Video & Graphics Support
+categories: Error Code Troubleshooting
 tags:
-  - section_27166432886285
-  - section_27166460834061
+  - section_37919645439501
 link: https://help.minecraft.net/hc/en-us/articles/42462166875405-Troubleshoot-World-Connection-Errors-Caused-by-Character-Creator-Items-in-Minecraft-Bedrock-Edition
 ---
 
