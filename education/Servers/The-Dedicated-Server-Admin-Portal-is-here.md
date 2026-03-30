@@ -1,7 +1,7 @@
 ---
 title: The Dedicated Server Admin Portal is here!
 date: 2026-02-17T03:13:24Z
-updated: 2026-02-17T22:08:45Z
+updated: 2026-03-30T21:26:16Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46370720373908-The-Dedicated-Server-Admin-Portal-is-here
 hash:
@@ -16,7 +16,10 @@ hash:
 
 The [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) introduces a centralized, web-based experience for managing Minecraft Education Dedicated Servers. This update brings improved visibility, control, and consistency for IT admins and educators who manage servers. This is the recommended approach for most users, although we also offer scripting as a more advanced option for deploying a large number of servers. 
 
-Refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md) for more information about this advanced option.
+Refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md) for more information about this advanced option.\
+ 
+
+> **Note: Cross tenant play, and Teacher Views are both currently unavailable. We hope to have these out in the near future! You will see the options to enable them in the Admin Portal where the setting will apply once available. At this time only the Global Administrator will be able to access the admin portal to create, delete, and manage servers.**
 
 ## With the Admin Portal, you can
 

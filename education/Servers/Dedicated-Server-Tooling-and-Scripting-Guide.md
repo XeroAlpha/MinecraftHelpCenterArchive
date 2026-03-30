@@ -1,12 +1,12 @@
 ---
 title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-03-05T02:13:50Z
+updated: 2026-03-30T21:27:43Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
-  h_01K6GD8FZSSDC17ZA8X6X054PA: step-2-download-files-to-the-appropriate-machines
-  h_01K6GD8G00WAJSTWZEB4B1H5X3: step-3-set-up-a-dedicated-server
+  h_01K6GD8FZSSDC17ZA8X6X054PA: step-1-download-files-to-the-appropriate-machines
+  h_01K6GD8G00WAJSTWZEB4B1H5X3: step-2-set-up-a-dedicated-server
   h_01K6GD8G00QE5RWK553R28066D: hardware-and-operating-system-os-requirements
   create_and_configure: create-and-configure-a-dedicated-server
   h_01K6GD8G03FTYT9Q222F1TTVZ7: dedicated-server-setup-and-sign-in
@@ -26,9 +26,9 @@ For general information about the EDU Dedicated Server, please refer to the [Ded
 
 [![How to setup Minecraft Education dedicated server beta](https://edusupport.minecraft.net/hc/article_attachments/43524918786708)](https://www.youtube.com/watch?v=d69T8ssaFyc)
 
- 
+> **Note: Cross tenant play, and Teacher Views are both currently unavailable. We hope to have these out in the near future! You will see the options to enable them in the Admin Portal where the setting will apply once available. At this time only the Global Administrator will be able to access the scripting tool to create, delete, and manage servers.**
 
-## Step 2: Download files to the appropriate machines
+## Step 1: Download files to the appropriate machines
 
 1.  [Download and install](https://education.minecraft.net/en-us/get-started/download) the client build(s) on your user machine(s):
 2.  Download the dedicated server build(s) on your server machine(s):
@@ -39,7 +39,7 @@ For general information about the EDU Dedicated Server, please refer to the [Ded
     - [Sample tooling Python notebook](http://aka.ms/MCEDU-DS-Tooling)
     - If useful, feel free to reference our [public API documentation](http://aka.ms/MCEDU-DS-Docs).
 
-## Step 3: Set up a Dedicated Server
+## Step 2: Set up a Dedicated Server
 
 ### Hardware and Operating System (OS) requirements
 
