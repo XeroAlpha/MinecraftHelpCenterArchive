@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.20.23/24
 date: 2026-03-31T08:31:10Z
-updated: 2026-03-31T15:28:51Z
+updated: 2026-03-31T17:07:44Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/44725242220429-Minecraft-Beta-Preview-26-20-23-24
 hash:
@@ -113,7 +113,7 @@ Fall damage visual and audio effects for non-player entities are no longer delay
 
 # Technical Updates
 
-- Fixed custom components not parsing with modern block definition loader ([MCPE-13541](https://bugs.mojang.com/browse/MCPE-13541))
+- Fixed custom components not parsing with modern block definition loader ([MCPE-237057](https://bugs.mojang.com/browse/MCPE-237057 "https://bugs.mojang.com/browse/mcpe-237057"))
 
 ### User Interface
 

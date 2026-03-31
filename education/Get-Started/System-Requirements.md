@@ -1,7 +1,7 @@
 ---
 title: System Requirements
 date: 2020-08-10T10:57:43Z
-updated: 2026-03-05T19:03:26Z
+updated: 2026-03-31T16:03:31Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
@@ -37,13 +37,17 @@ These are the operating systems (OS) that we support for Minecraft Education.
 
 <figure class="wysiwyg-table wysiwyg-table-align-left" style="width: 100%;">
 <table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
 <tbody>
 <tr>
 <td><strong>Device</strong></td>
 <td><strong>Minimum supported OS*</strong></td>
 </tr>
 <tr>
-<td>Chromebook</td>
+<td>Chromebook**</td>
 <td>Chrome OS 114</td>
 </tr>
 <tr>
@@ -52,10 +56,12 @@ These are the operating systems (OS) that we support for Minecraft Education.
 </tr>
 <tr>
 <td>PC</td>
-<td>Windows 10</td>
+<td>Windows 11 (64-bit)<br />
+Windows 10 (64-bit)<br />
+<em>Note: 32 Bit installs are <strong>not</strong> supported</em></td>
 </tr>
 <tr>
-<td>Android Phone / Tablet</td>
+<td>Android Phone / Tablet**</td>
 <td>Android 8</td>
 </tr>
 <tr>
@@ -66,7 +72,8 @@ These are the operating systems (OS) that we support for Minecraft Education.
 </table>
 </figure>
 
-*\***Note**: Minecraft Education should be able to run on the minimum supported operating systems; however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*
+> *\***Note**: Minecraft Education should be able to run on the minimum supported operating systems; however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*\
+> *\*\***Note:** ChromeOS and Android devices **must support Google Play Services** in order to use Minecraft Education and be supported. Platforms such as ChromeOS Flex, Amazon FireOS, HarmonyOS, and similar devices may not be able to install Minecraft Education and are not supported. *
 
  
 
