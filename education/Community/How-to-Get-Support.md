@@ -1,12 +1,10 @@
 ---
 title: How to Get Support
 date: 2020-08-24T17:28:55Z
-updated: 2024-05-23T23:21:52Z
+updated: 2026-03-30T23:39:56Z
 categories: Community
 link: https://edusupport.minecraft.net/hc/en-us/articles/360048662071-How-to-Get-Support
 hash:
-  h_01HACVF65YJDZM9CT6EEW27ZYY: ask-our-answerbot
-  h_01HACVF65YE9Z7JC84EAFJNXFG: answerbotpng
   h_01HACVF65YC28H1FWYSA0JCHJZ: search-our-knowledge-base
   h_01HACVF65ZQZF1DFY1WSYYY73T: post-in-support-forums
   h_01HACVF65ZRN6NRZJ37585RNSX: submit-a-support-request
@@ -14,14 +12,6 @@ hash:
 ---
 
 We understand that there are times where you can't find the answer you are looking for and you just need a bit more help.  There are a few ways you can reach out for help from our support team.  But first....
-
-### Ask our AnswerBot!
-
-The easiest way to get an answer to your question is to use our Self Helper tool.  This tool will quickly route you to the best answer to almost all of your questions.
-
-Click on the Help icon on any Community Hub page to get started.
-
-### ![answerbot.png](https://edusupport.minecraft.net/hc/article_attachments/11491587132436)
 
 ### Search our Knowledge Base
 
@@ -53,10 +43,11 @@ When you fill out the support form, make sure to keep the following in mind:
 2.  Please select the issue category and then the sub-category that best resembles the issue you are reporting. 
 3.  Please provide as many of the following details as you can in the description:
     1.  What email address are you using to sign into Minecraft Education?
-    2.  Which version of Minecraft Education are you playing? (note we are unable to support Minecraft Bedrock, Java, Dungeons or other editions)
-    3.  What type of device are you using?
-    4.  What OS version are you running?
-    5.  What part of the game are you having trouble with?
-    6.  Are you seeing a specific error?
-4.  Use the attachments field to upload any screenshots, links to game play video and exact error messages you can capture.  **Providing as much information as you can about the issue will better enable us to troubleshoot and address it faster.**
-5.  Submit your request
+4.  Which version of Minecraft Education are you playing? 
+    1.  Note we are unable to support Minecraft Bedrock, Java, Dungeons or other editions. If you're issue related to any of these issues, please reach out to their teams at [https://help.minecraft.net](https://help.minecraft.net/) 
+5.  What type of device are you using?
+6.  What OS version are you running?
+7.  What part of the game are you having trouble with?
+8.  Are you seeing a specific error?
+9.  Use the attachments field to upload any screenshots, links to game play video and exact error messages you can capture.  **Providing as much information as you can about the issue will better enable us to troubleshoot and address it faster.**
+10. Submit your request
