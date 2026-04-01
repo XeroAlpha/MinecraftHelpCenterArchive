@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.12 Hotfix Changelog"
 date: 2026-03-31T14:21:46Z
-updated: 2026-03-31T16:34:47Z
+updated: 2026-04-01T13:02:50Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/44732288765837-Minecraft-Bedrock-Edition-26-12-Hotfix-Changelog
 hash:
@@ -14,3 +14,4 @@ A new hotfix is rolling out to address issues discovered in the latest update. T
 
 - Fixed several bugs that could affect gameplay
 - Fixed an issue in Realms Stories where the Members tab did not load in correctly
+- Fixed an allowlist issue for servers ([MCPE-237527](https://bugs.mojang.com/browse/MCPE-237527 "https://bugs.mojang.com/browse/mcpe-237527"))
