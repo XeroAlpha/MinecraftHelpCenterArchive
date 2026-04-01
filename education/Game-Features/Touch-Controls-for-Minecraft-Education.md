@@ -1,7 +1,7 @@
 ---
 title: Touch Controls for Minecraft Education
 date: 2021-01-21T14:45:17Z
-updated: 2026-03-05T23:25:42Z
+updated: 2026-04-01T14:41:47Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360055370012-Touch-Controls-for-Minecraft-Education
 hash:
@@ -10,7 +10,12 @@ hash:
 
 Minecraft Education with touch controls offers players a chance to play on an iPad and certain Chromebooks. While this can be really fun and engaging for players, the controls are also different from our other platforms that use a traditional keyboard and mouse. This article will break down how to use the basic touch game controls for Minecraft Education. You can also print out [this control layout sheet](https://education.minecraft.net/content/dam/education-edition/software-downloads/MCEDU%20Movement%20Control%20Guide.pdf). \
 \
-You can also learn more about these controls in [this video](https://www.youtube.com/watch?v=8S8cLCdBhqM&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=3) as part of [Learn to Play Playlist](https://aka.ms/learntoplay)
+You can also learn more about these controls in [this video](https://www.youtube.com/watch?v=8S8cLCdBhqM&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=3) as part of [Learn to Play Playlist](https://aka.ms/learntoplay)\
+ 
+
+<figure class="wysiwyg-media">
+
+</figure>
 
  
 

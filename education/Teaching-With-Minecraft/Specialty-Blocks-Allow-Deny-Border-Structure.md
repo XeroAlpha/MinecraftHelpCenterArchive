@@ -1,7 +1,7 @@
 ---
-title: "Specialty Blocks (Allow, Deny, Border, Structure) "
+title: Specialty Blocks (Allow, Deny, Border, Structure)
 date: 2020-08-10T08:38:40Z
-updated: 2023-02-17T22:17:11Z
+updated: 2026-04-01T15:48:58Z
 categories: Teaching With Minecraft
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047116852-Specialty-Blocks-Allow-Deny-Border-Structure
 ---
@@ -14,9 +14,15 @@ Minecraft Education includes blocks not currently found in other editions of Min
 - Advanced Tips
 - Additional Resources
 
+You can also learn more about how to [use these blocks](https://www.youtube.com/watch?v=NzKSzEiY8us&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=13) on our Learn To Play YouTube series: 
+
+<figure class="wysiwyg-media">
+
+</figure>
+
 These specialty blocks are designed to help you preserve structures you wish to keep, prevent world visitors from wandering too far, and section off designated areas to build.
 
-![mceclip0\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402660813588/mceclip0__1_.png)
+![mceclip0\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402660813588)
 
 **Border Blocks**
 
@@ -25,7 +31,7 @@ These specialty blocks are designed to help you preserve structures you wish to 
 
 Border Blocks look like bright, red walls and emit tiny, red particles. They are placed like a wall, but act more like a force field that extends upwards and downwards forever!
 
-![mceclip1.png](https://edusupport.minecraft.net/hc/article_attachments/4402652740884/mceclip1.png)
+![mceclip1.png](https://edusupport.minecraft.net/hc/article_attachments/4402652740884)
 
 What this item blocks:
 
@@ -44,18 +50,16 @@ What this item blocks:
 
 Allow Blocks permit the player to build or destroy. These permissions do not affect using items such as doors, levers, or chests.
 
-![mceclip2.png](https://edusupport.minecraft.net/hc/article_attachments/4402652742676/mceclip2.png)
+![mceclip2.png](https://edusupport.minecraft.net/hc/article_attachments/4402652742676)
 
 Deny blocks stop the ability to place or destroy things. You can still interact with items that are restrained by deny blocks.
 
-![mceclip3.png](https://edusupport.minecraft.net/hc/article_attachments/4402652745108/mceclip3.png)
+![mceclip3.png](https://edusupport.minecraft.net/hc/article_attachments/4402652745108)
 
 **Structure Blocks**
 
 - Education Exclusive: No
 - World Builder Permission Needed: Yes (placement, use)
-
-Here is a basic introduction to Structure Blocks by Neal Manegold (Director, Minecraft Education).
 
 Structure Blocks look like a dark block with an intriguing circular design on each face, with three lines within each circle. These blocks are used to support the 3D Exporting feature introduced in 1.0.2. You may only obtain this item through the “give” command.
 
@@ -65,11 +69,11 @@ This will give you one (1) structure block.
 
 When you click on the block, you will be presented with the following menu.  
 
-![structure_block_1.png](https://edusupport.minecraft.net/hc/article_attachments/4413546872084/structure_block_1.png)
+![structure_block_1.png](https://edusupport.minecraft.net/hc/article_attachments/4413546872084)
 
 Note that there is a fourth 3D Export mode available that you need to scroll down to access.
 
-![structure_block_export_3dmode.png](https://edusupport.minecraft.net/hc/article_attachments/4413546901012/structure_block_export_3dmode.png)
+![structure_block_export_3dmode.png](https://edusupport.minecraft.net/hc/article_attachments/4413546901012)
 
  
 
@@ -79,7 +83,7 @@ For full instructions on Structure Blocks, please see our [Knowledge Base 3D Exp
 
 You can place specialty blocks underground and they will still continue to provide the effect you need. This works when the blocks don’t fit the design you have in mind.
 
-![mceclip5.png](https://edusupport.minecraft.net/hc/article_attachments/4402660880660/mceclip5.png)
+![mceclip5.png](https://edusupport.minecraft.net/hc/article_attachments/4402660880660)
 
 Test your specialty blocks by toggling off World Builder and trying them out.
 

@@ -1,13 +1,11 @@
 ---
 title: Profile Types and Permissions
 date: 2020-08-10T09:07:30Z
-updated: 2025-11-26T21:42:48Z
+updated: 2026-04-01T15:16:56Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions
 hash:
-  h_01JX0WP7PVM72DWV4YRQCZXXTG: ""
   h_01JW9MSCE9XACPZ1YZT7CBB88T: multiplayer-safety-features-and-who-can-join-a-world
-  h_01JW9MSCE9TR0MV5HKKEVVA8TQ: a-link-to-a-video-on-minecraft-education-safety-features
   h_01HZ306QNAYYTGPJ2J1GJ320YG: teacher-vs-student-permissions
   h_01HZ306TZBZ47XCX8K9FQWVT05: operator
   Worldbuilder: worldbuilder
@@ -24,11 +22,11 @@ This article explains the two different types of “profiles” that can be gran
 - [Advanced Tips](#advanced-tips)
 - [How to change your in-game display name](#how-to-change-in-game-display-name)
 
-##  
-
 ## **Multiplayer Safety Features, and who can join a world**
 
-## [**![A link to a video on Minecraft Education Safety Features](https://edusupport.minecraft.net/hc/article_attachments/37888234934164)**](https://www.youtube.com/watch?v=XGyx-5vKBvI)
+<figure class="wysiwyg-media">
+
+</figure>
 
 Minecraft Education has several multiplayer safety features that prevent outside actors from joining your students' worlds. The video above has great info around this, but here are the highlights:
 
@@ -41,7 +39,12 @@ For someone to join a hosted world, they must:
 
 With that, only users within your school environment will be able to join other users from that school environment. To ensure your sessions are kept only the intended group within your school, make sure to only post your join code in private areas (e.g. not in a Teams channel you share with multiple classes or class times). If you're unsure if a join code got out, resetting it or restarting the world will invalidate the old code. 
 
+You can also learn more about permission types [here](https://www.youtube.com/watch?v=1WI9NvAMgN4&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=7) as part of our [Learn To Play](https://aka.ms/learntoplay) playlist: \
  
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 ## **Teacher vs student permissions**
 

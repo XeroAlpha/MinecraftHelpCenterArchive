@@ -1,12 +1,19 @@
 ---
 title: Get Started with the Tutorial World
 date: 2020-08-10T07:56:36Z
-updated: 2025-08-19T20:35:34Z
+updated: 2026-04-01T14:56:51Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555191-Get-Started-with-the-Tutorial-World
 ---
 
 Now that you have successfully Installed Minecraft Education it's time to learn how to actually play the game. In order to help get you started we have created a Tutorial World. This article will cover the steps required in order to access and play the tutorial world.
+
+You can also learn more about the tutorial worlds [in this video](https://www.youtube.com/watch?v=ap9mVbGm0pU&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=5) as part of [Learn to Play Playlist](https://aka.ms/learntoplay): \
+ 
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 **1. Launch the game and login**
 

@@ -1,7 +1,7 @@
 ---
 title: World Management for iPad
 date: 2020-08-10T09:16:25Z
-updated: 2023-09-15T16:29:40Z
+updated: 2026-04-01T15:53:28Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117212-World-Management-for-iPad
 ---
@@ -10,7 +10,12 @@ One of the most exciting parts about bringing Minecraft Education into the class
 
 Getting a world file out to a group or individual on an iPad can be a slightly different process than doing so on a PC or Mac. This article help clear up the confusion by showing some best practices used by Teachers from around the world!
 
-Below are some suggested steps and tips to help:
+Below are some suggested steps and tips to help. Alternatively, you can use [this video](https://www.youtube.com/watch?v=VU08642OY_c&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=15) on our [Learn To Play YouTube playlist](https://aka.ms/learntoplay). \
+ 
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 **Select the .MCWORLD file you would like to use**
 
@@ -21,7 +26,7 @@ Below are some suggested steps and tips to help:
 
  
 
-**Upload the .MCWORLD file to a shared location that can be accessed by  everyone**
+**Upload the .MCWORLD file to a shared location that can be accessed by ** **everyone**
 
 - These locations could include:
   - Sharepoint folder

@@ -1,7 +1,7 @@
 ---
 title: Accessibility Features
 date: 2021-05-20T01:06:20Z
-updated: 2023-09-21T15:04:17Z
+updated: 2026-04-01T15:02:02Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360061503031-Accessibility-Features
 hash:
@@ -27,6 +27,14 @@ hash:
 # Accessibility settings for Minecraft Education
 
 We believe everyone should be empowered and enabled to play Minecraft Education. 
+
+<figure class="wysiwyg-media">
+
+</figure>
+
+You can also learn more about accessibility features [in this video](https://www.youtube.com/watch?v=OeMllsfeOL8&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=6) as part of our [Learn To Play](https://aka.ms/learntoplay) playlist: \
+\
+ 
 
 ## Minecraft Education Accessibility Menu
 

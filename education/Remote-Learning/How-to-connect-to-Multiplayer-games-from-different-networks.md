@@ -1,7 +1,7 @@
 ---
 title: How to connect to Multiplayer games from different networks
 date: 2020-08-10T11:15:48Z
-updated: 2024-05-07T21:34:17Z
+updated: 2026-04-01T15:05:56Z
 categories: Remote Learning
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118592-How-to-connect-to-Multiplayer-games-from-different-networks
 hash:
@@ -22,6 +22,12 @@ The [How to Set up a Multiplayer Game](./How-To-Set-Up-A-Multiplayer-Game.md) ar
  
 
 We know that remote learning happens in a variety of ways. Just the same, there are a variety of home networks and configurations. Depending on what router settings or parental controls are in place, you may need to do a little extra research to understand how the following steps apply to your particular setup. **Our support team is limited in our ability to troubleshoot these unique network issues**, but we are always happy to try to help.
+
+You can also follow along with [this video](https://www.youtube.com/watch?v=I87SPxq6bCM&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=7) as part of our [Learn to Play](https://aka.ms/learntoplay) series on YouTube: 
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 # Hosting a Multiplayer Game
 

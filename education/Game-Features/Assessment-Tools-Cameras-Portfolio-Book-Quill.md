@@ -1,7 +1,7 @@
 ---
-title: "Assessment Tools (Cameras, Portfolio, Book & Quill) "
+title: Assessment Tools (Cameras, Portfolio, Book & Quill)
 date: 2020-08-10T09:05:03Z
-updated: 2024-05-15T21:05:27Z
+updated: 2026-04-01T15:19:04Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555551-Assessment-Tools-Cameras-Portfolio-Book-Quill
 ---
@@ -12,6 +12,13 @@ Minecraft Education provides helpful items to inspire creativity in the classroo
 - Portfolio
 - Book and Quill (Writable Books)
 - Additional Useful Items
+
+You can also learn more about these tools [in this video](https://www.youtube.com/watch?v=VO-U1L0Zw2Q&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=9) on our [Learn To Play](https://aka.ms/learntoplay) YouTube playlist: \
+ 
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 ![mceclip0\_\_1\_.png](https://edusupport.minecraft.net/hc/article_attachments/4402652940948)
 

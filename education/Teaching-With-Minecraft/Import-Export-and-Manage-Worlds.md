@@ -1,14 +1,10 @@
 ---
-title: "Import, Export, and Manage Worlds "
+title: Import, Export, and Manage Worlds
 date: 2020-08-10T08:28:50Z
-updated: 2024-02-06T20:16:06Z
+updated: 2026-04-01T15:50:58Z
 categories: Teaching With Minecraft
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555391-Import-Export-and-Manage-Worlds
 ---
-
-[![2024-02-06 12_14_42-Import, Export, and Manage Worlds – Minecraft Education and 18 more pages - Work.png](https://edusupport.minecraft.net/hc/article_attachments/23505761908500)](https://www.youtube.com/watch?v=Q71vShBs42A)
-
- 
 
 This article will cover:
 
@@ -16,6 +12,14 @@ This article will cover:
 - Export
 - Copy
 - Delete
+
+<figure class="wysiwyg-media">
+
+</figure>
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 We recommend frequent backups of your worlds. The best way to accomplish this is through export and import. This is important to do not just periodically, but before you install or update your client.
 

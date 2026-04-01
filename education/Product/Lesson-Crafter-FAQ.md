@@ -1,7 +1,7 @@
 ---
 title: Lesson Crafter FAQ
 date: 2024-11-06T19:16:48Z
-updated: 2024-12-03T00:51:35Z
+updated: 2026-04-01T14:54:16Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/31904712348948-Lesson-Crafter-FAQ
 hash:
@@ -18,7 +18,14 @@ hash:
 
 ![EDU_Crafting_table 16x9_241108.gif](https://edusupport.minecraft.net/hc/article_attachments/32049342753044)
 
-Lesson Crafter is an educational tool powered by AI that allows educators to generate custom lesson plans for Minecraft Education.  You can create a lesson in any topic and age to fit the needs of your learners. We created Lesson Crafter to support teachers getting started with Minecraft Education or looking for easy-to-teach, curriculum-aligned lessons that engage their students. The tool offers a straightforward way for educators to use generative AI to create practical teaching resources, build confidence with using AI, and onboard to using Minecraft Education in their classrooms.
+Lesson Crafter is an educational tool powered by AI that allows educators to generate custom lesson plans for Minecraft Education.  You can create a lesson in any topic and age to fit the needs of your learners. We created Lesson Crafter to support teachers getting started with Minecraft Education or looking for easy-to-teach, curriculum-aligned lessons that engage their students. The tool offers a straightforward way for educators to use generative AI to create practical teaching resources, build confidence with using AI, and onboard to using Minecraft Education in their classrooms.\
+\
+You can also find our handy video guide as part of our [Learn to Play](https://aka.ms/learntoplay) playlist on Youtube: \
+ 
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 ## How does Lesson Crafter work?
 

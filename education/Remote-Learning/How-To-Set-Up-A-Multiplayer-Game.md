@@ -1,25 +1,25 @@
 ---
 title: How To Set Up A Multiplayer Game
 date: 2020-08-10T09:00:18Z
-updated: 2025-11-26T21:41:13Z
+updated: 2026-04-01T15:13:03Z
 categories: Remote Learning
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555531-How-To-Set-Up-A-Multiplayer-Game
 hash:
-  h_01HERH07HHTMMMB65VJACDKJVE: ""
   h_01HAYSPDR7B9X52JNHJVB56C80: about
   h_01HAYSPDR76P1KZVBBF82T3D7J: requirements
   h_dd9922f2-768a-46e0-ad7c-452d4faaad4e: how-to-host-a-world
   h_01HAYSPDR7V5ADWA6J5A0R56KX: host-an-existing-world
-  h_01HAYSPDR7TGRZNYKV4XYDJ81D: "-1"
-  h_01HAYSPDR7P4DY3S5NCS12HXEV: "-2"
+  h_01HAYSPDR7TGRZNYKV4XYDJ81D: ""
+  h_01HAYSPDR7P4DY3S5NCS12HXEV: "-1"
   h_01HAYSPDR7QG59HT2MKCBW17KP: create-a-new-world-to-host
   h_dd0201ba-e7a2-4d88-acdd-36df5d5ca9a2: how-to-host-a-game-in-progress
   h_01HAYSPDR7DN58SKPNK8P6C2VZ: how-to-join-a-world
-  01K32396C7GYTMA44X236QM2V5: "-3"
+  01K32396C7GYTMA44X236QM2V5: "-2"
   h_f84ec7db-63c3-4686-8ccb-d3298255060c: configure-settings-for-your-multiplayer-game
   h_01HAYSPDR7FZS48E779HXTTB36: world-settings
   h_01HAYSPDR7GYF4QXA1103X4ZJP: player-permissions
-  h_01HAYSPDR7DZ5G7YNHZN6AP2QV: host-settings
+  h_01HAYSPDR7DZ5G7YNHZN6AP2QV: "-3"
+  h_01KN4SNT4D1F07JHF7750QK95D: host-settings
   h_01HAYSPDR7RZ7K0XT8ZWW6TSYE: restricting-access-to-your-world
   server_hosting: server-hosting
   h_01HAYSPDR7V3QB0MYK4AQXP1RN: can-i-setup-a-dedicated-server-for-multiplayer-in-minecraft-education
@@ -30,15 +30,20 @@ hash:
 
 Multiplayer is one of the most popular and effective ways to leverage Minecraft in the classroom. It's a great way to encourage collaboration, communication and problem solving as students work together on projects in a shared Minecraft world.    
 
-##  
+<figure class="wysiwyg-media">
+
+</figure>
+
+You can also follow along with the steps in [this video](https://www.youtube.com/watch?v=I87SPxq6bCM&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=7) as part of our [Learn To Play](https://aka.ms/learntoplay) playlist on YouTube: \
+\
+ 
 
 ## About
 
-Minecraft Education features multiplayer games that connect using picture based join codes. All players in the same Microsoft 365 organization account can host and join worlds together in the classroom. For most users, this means the part of your email address after the @ symbol matches that of the other players. **A single multiplayer game can host a maximum of 40 players**, but that is dependent on the [specs of the host's device](../Get-Started/System-Requirements.md). Players can also connect across [all supported platforms.](../Get-Started/System-Requirements.md) **Server-style multiplayer or a dedicated server is not possible at this time.**
+Minecraft Education features multiplayer games that connect using picture based join codes. All players in the same Microsoft 365 organization account can host and join worlds together in the classroom. For most users, this means the part of your email address after the @ symbol matches that of the other players. **A single multiplayer game can host a maximum of 40 players**, but that is dependent on the [specs of the host's device](../Get-Started/System-Requirements.md). Players can also connect across [all supported platforms.](../Get-Started/System-Requirements.md) Most consumer grade devices will support support around 8-10 players. \
+For larger sessions, we recommend looking into our [Dedicated Servers](../Servers/Dedicated-Server-FAQ.md). 
 
 For hosting games across multiple networks, visit the [How to Set Up a Multiplayer Game from Home Guide](./How-to-connect-to-Multiplayer-games-from-different-networks.md).
-
- 
 
 Our support team is limited in our ability to troubleshoot unique network issues, but we are always happy to try to help.
 
@@ -120,7 +125,9 @@ If a student enters incorrect join codes repeatedly, they'll get a warning after
 
 ## Configure settings for your multiplayer game
 
-[![](https://edusupport.minecraft.net/hc/article_attachments/43767520871060)](https://www.youtube.com/watch?v=49pCQ8OM2Tc)
+<figure class="wysiwyg-media">
+
+</figure>
 
  
 
@@ -135,6 +142,14 @@ Select the default permissions you would like players to have when they join you
 Hosts and teachers are able to edit the permission levels and remove other players from the world
 
 ![set_permission.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402655155604)
+
+You can learn more about Player Permissions here or [in our video](https://www.youtube.com/watch?v=1WI9NvAMgN4&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=7) on the [Learn To Play](https://aka.ms/learntoplay) Playlist. 
+
+<figure class="wysiwyg-media">
+
+</figure>
+
+###  
 
 ### Host Settings
 

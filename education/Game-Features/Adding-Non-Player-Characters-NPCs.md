@@ -1,7 +1,7 @@
 ---
-title: "Adding Non-Player Characters (NPCs) "
+title: Adding Non-Player Characters (NPCs)
 date: 2020-08-10T09:14:38Z
-updated: 2023-09-15T16:27:08Z
+updated: 2026-04-01T15:20:39Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047555651-Adding-Non-Player-Characters-NPCs
 ---
@@ -11,6 +11,17 @@ Villagers and “NPCs” are non-player characters. They are humanoid characters
 - NPC
 - Villager
 - Additional Resources
+
+ 
+
+You can also learn more about [NPCs](https://www.youtube.com/watch?v=T00R0Gdf9XA&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=10) on our [Learn To Play](https://aka.ms/learntoplay) YouTube Playlist: 
+
+<figure class="wysiwyg-media">
+
+</figure>
+
+\
+ 
 
 To create these non-playable characters in your world, you can use [Spawn Eggs](https://minecraft.gamepedia.com/Spawn_Egg) to place them. Find the appropriate egg (marked with an exclamation point) and bring it to your inventory, or select it in creative mode via the “Tools” tab.
 
