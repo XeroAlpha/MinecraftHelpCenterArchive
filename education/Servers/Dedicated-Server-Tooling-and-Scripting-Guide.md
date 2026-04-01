@@ -1,16 +1,16 @@
 ---
 title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-04-01T19:27:45Z
+updated: 2026-04-01T19:46:38Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
   h_01K6GD8FZSSDC17ZA8X6X054PA: step-1-download-files-to-the-appropriate-machines
   h_01K6GD8G00WAJSTWZEB4B1H5X3: step-2-set-up-a-dedicated-server
-  h_01K6GD8G00QE5RWK553R28066D: hardware-and-operating-system-os-requirements
-  create_and_configure: create-and-configure-a-dedicated-server
+  create_and_configure: step-3-create-and-configure-a-dedicated-server
   h_01K6GD8G03FTYT9Q222F1TTVZ7: dedicated-server-setup-and-sign-in
-  h_01K6GD8G0FKPZH4TVQ7219CK1M: dedicated-server-allow-list-configuration
+  h_01KN597N5MA1JMGES03VWQDTEP: authenticate-the-server
+  h_01K6GD8G0FKPZH4TVQ7219CK1M: allow-list-configuration
   h_01K6GD8G0HQG6S3ZQMKGA6DT30: manage-servers-sample-tooling
   h_01K6GD8G0KA94NX536BW1RSHAT: tooling-setup-and-sign-in
   h_01K6GD8G0ZT34W39M8MCDVA4JQ: tooling-tenant-settings
@@ -43,20 +43,11 @@ For general information about the EDU Dedicated Server, please refer to the [Ded
 
 ## Step 2: Set up a Dedicated Server
 
-### Hardware and Operating System (OS) requirements
+Ensure your server meets our [Dedicated Server System Requirements](./Dedicated-Server-System-Requirements.md)
 
-We recommend running the Bedrock Minecraft Server on 64-bit Intel or AMD processor machines with at least 2 cores and 1 Gb RAM.
-
-The Linux version requires:
-
-- Ubuntu 18 or later. Other distributions are not supported.
-
-The Windows version requires either:
-
-- Windows 10 version 1703 or later
-- Windows Server 2016 or later
-
-## Create and configure a dedicated server
+\
+Step 3: Create and configure a dedicated server
+-----------------------------------------------
 
 ### Dedicated server setup and sign in
 
@@ -72,13 +63,18 @@ The Windows version requires either:
 4.  Configure the “server.properties” file:
     - Set the “server-public-ip” to the IP from above
     - Set the “server-port” to the port on which you want the server to host
-      - It is recommended to not use port 19132, since that would conflict with the defaults of other Minecraft apps
-    - Set the “gamemode”, “difficulty”, “allow-cheats”, “chat-restriction”, “max-players”, “allow-list”, and other properties in the file as desired.
-    - If “allow-list” is set to `true`, the “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section below for more details).
-5.  Run the server executable.
+
+> - **Tip:** It is recommended to not use default port of 19132
+
+- Set the “gamemode”, “difficulty”, “allow-cheats”, “chat-restriction”, “max-players”, “allow-list”, and other properties in the file as desired.
+- If “allow-list” is set to `true`, the “allowlist.json” file will need to be edited to include the details of any users expected to join (see the “Dedicated server allow list configuration” section below for more details).
+
+### Authenticate the server
+
+1.  Run the server executable.
     - Windows: “bedrock_server.exe”
     - Linux: “bedrock_server_edu”
-6.  In the output written to the terminal, follow the instructions to sign in with an admin account for your tenant (if on a headless OS, follow the instructions on a device with a browser).
+2.  In the output written to the terminal, follow the instructions to sign in with an admin account for your tenant (if on a headless OS, follow the instructions on a device with a browser).
     - The output to look for in the terminal looks like this![](https://edusupport.minecraft.net/hc/article_attachments/41757430642964)
     - For more details on the browser sign in process, see the steps in the “Reference A: Device code browser sign in” section below.
     - A brief moment after completing the browser sign in, the server should complete the sign in process and present you with the server ID and tenant ID you signed in to, as well as the IP and port clients will use to try to connect to the server as configured in the “server.properties” file.
@@ -91,9 +87,9 @@ The Windows version requires either:
       - If you lose track of the server ID, you can find it again in your “edu_server_session.json” file.
 
         ![](https://edusupport.minecraft.net/hc/article_attachments/41757430647828)
-7.  At this point, the server is registered and hosted. However, before clients can connect, various additional properties that do not live in the server files must be configured. To see how these are set, see the “Tooling setup and sign in” section below.
+3.  At this point, the server is registered and hosted. However, before clients can connect, various additional properties that do not live in the server files must be configured. To see how these are set, see the “Tooling setup and sign in” section below.
 
-### Dedicated Server allow-list configuration
+### Allow-list configuration
 
 1.  To explicitly specify which users can join the server, you can set “allow-list” to `true` in the “server.properties” file and restart the server if it is running.
     - By default, there are no entries in the “allowlist.json” file.
