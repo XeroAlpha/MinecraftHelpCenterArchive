@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Tooling and Scripting Guide
 date: 2025-10-01T17:35:03Z
-updated: 2026-03-30T21:27:43Z
+updated: 2026-04-01T19:27:45Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Tooling-and-Scripting-Guide
 hash:
@@ -24,7 +24,9 @@ hash:
 
 For general information about the EDU Dedicated Server, please refer to the [Dedicated Server FAQ](./Dedicated-Server-FAQ.md) article. In addition to our guide below, feel free to check out our video guide:
 
-[![How to setup Minecraft Education dedicated server beta](https://edusupport.minecraft.net/hc/article_attachments/43524918786708)](https://www.youtube.com/watch?v=d69T8ssaFyc)
+<figure class="wysiwyg-media">
+
+</figure>
 
 > **Note: Cross tenant play, and Teacher Views are both currently unavailable. We hope to have these out in the near future! You will see the options to enable them in the Admin Portal where the setting will apply once available. At this time only the Global Administrator will be able to access the scripting tool to create, delete, and manage servers.**
 
