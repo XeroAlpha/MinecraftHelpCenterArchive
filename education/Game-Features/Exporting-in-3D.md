@@ -1,10 +1,17 @@
 ---
 title: Exporting in 3D
 date: 2020-08-10T09:57:27Z
-updated: 2024-05-22T22:49:45Z
+updated: 2026-04-01T16:00:36Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117612-Exporting-in-3D
 ---
+
+You can learn more about [Exporting in 3D](https://www.youtube.com/watch?v=Jjjnpu6v0O4&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=9) from this video in our [Learn to Play YouTube Series](https://aka.ms/learntoplay)! \
+ 
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 **How it Works**
 

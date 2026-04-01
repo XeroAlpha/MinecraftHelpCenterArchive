@@ -1,7 +1,7 @@
 ---
 title: Try Minecraft Education for free
 date: 2020-08-10T07:24:49Z
-updated: 2024-05-22T22:03:52Z
+updated: 2026-04-01T16:01:58Z
 categories: Get Started
 tags:
   - trial
@@ -17,7 +17,11 @@ hash:
 
 Minecraft Education is available to anyone to try for free! There are two ways to try Minecraft Education for free, through the free trial or through the demo lesson. The free trial requires you to have a Entra ID account, either an Office 365 Education account or a Microsoft 365 account (Note: Personal versions of Office 365 or Microsoft 365 do not provide access nor trial access to Minecraft Education). The demo lesson does not require any account or log-in. This article provides information on how to use the free trial and the demo lesson. 
 
- 
+You can explore [more details](https://www.youtube.com/watch?v=N103PpqAMzg&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=19) in our [Learn To Play YouTube Series](https://aka.ms/learntoplay) along with many other guides for using the app!
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 ## Technical requirements 
 
@@ -43,11 +47,24 @@ If you have an organizational Office 365 Education or a Microsoft 365 Education 
 2.  Install the version of Minecraft Education that you downloaded. 
 3.  Launch and sign into Minecraft Education with your Office 365 Education account information (this may be your school email) or with your Microsoft 365 account information. 
 
-|  |  |
-|----|----|
-| **If you…  ** | **Then… ** |
-| Have a valid account  | You are signed into Minecraft Education and can begin playing. The [Learning to play Minecraft Education](https://aka.ms/MEELearnToPlay) article has information to help you learn how to play.  |
-| Do **not** have a valid account  | You are **not** signed in and cannot use the free trial. To try Minecraft Education for free, check out the instructions on trying a demo lesson.  |
+<figure class="wysiwyg-table wysiwyg-table-align-left">
+<table data-tablestyle="MsoTableGrid" data-tablelook="1184" aria-rowcount="3">
+<tbody>
+<tr aria-rowindex="1">
+<td style="width: 114px" data-celllook="0"><strong>If you…  </strong></td>
+<td style="width: 563px" data-celllook="0"><strong>Then… </strong></td>
+</tr>
+<tr aria-rowindex="2">
+<td style="vertical-align: top; width: 114px" data-celllook="0">Have a valid account </td>
+<td style="vertical-align: top; width: 563px" data-celllook="0">You are signed into Minecraft Education and can begin playing. The <a href="https://aka.ms/MEELearnToPlay">Learning to play Minecraft Education</a> article has information to help you learn how to play. </td>
+</tr>
+<tr aria-rowindex="3">
+<td style="vertical-align: top; width: 114px" data-celllook="0">Do <strong>not</strong> have a valid account </td>
+<td style="vertical-align: top; width: 563px" data-celllook="0">You are <strong>not</strong> signed in and cannot use the free trial. To try Minecraft Education for free, check out the instructions on trying a demo lesson. </td>
+</tr>
+</tbody>
+</table>
+</figure>
 
  
 
