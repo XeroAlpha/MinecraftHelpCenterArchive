@@ -17,7 +17,7 @@ hash:
 - Navigate to the [Settings page](./The-Dedicated-Server-Admin-Portal-is-here.md#tenant-settings), and set the **Allow Servers** toggle to the on position
 - From either the Home page or the Server List page, click the **Add a Server** button
 - Required settings
-  - Enter the IP address where you will run your server - refer to [install and run your server](./Dedicated-Server-Tooling-and-Scripting-Guide.md#create-and-configure-a-dedicated-server) for help finding your IP address and port.
+  - Enter the IP address where you will run your server - refer to [install and run your server](./Dedicated-Server-Tooling-and-Scripting-Guide.md#step-3-create-and-configure-a-dedicated-server) for help finding your IP address and port.
     - **Note: IPv6 is not supported at this time. **
   - Enter the port that will be used for your server
   - Use the Allow chat toggle to enable or disable chat on the server
@@ -58,7 +58,7 @@ hash:
 - Click **Save** to save these server settings
 - Click **Close** to close the window 
 - Click **Remove** to remove the server permanently from your tenant
-- Follow these instructions to [install and run your server](./Dedicated-Server-Tooling-and-Scripting-Guide.md#create-and-configure-a-dedicated-server).
+- Follow these instructions to [install and run your server](./Dedicated-Server-Tooling-and-Scripting-Guide.md#step-3-create-and-configure-a-dedicated-server).
   - You can skip any instructions on this page about configuring the server, since this step was already done by the Download process.
   - You do not need to go past the section titled "Dedicated server setup and sign-in"
 - The Server will remain in Pending status until you install and start the server for the first time.
