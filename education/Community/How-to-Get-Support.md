@@ -1,7 +1,7 @@
 ---
 title: How to Get Support
 date: 2020-08-24T17:28:55Z
-updated: 2026-03-30T23:39:56Z
+updated: 2026-04-07T20:24:22Z
 categories: Community
 link: https://edusupport.minecraft.net/hc/en-us/articles/360048662071-How-to-Get-Support
 hash:
@@ -10,6 +10,10 @@ hash:
   h_01HACVF65ZRN6NRZJ37585RNSX: submit-a-support-request
   h_01HACVF65ZPP67T7DP8A0B8G4N: best-practices-to-get-your-request-resolved-quickly
 ---
+
+<figure class="wysiwyg-media">
+
+</figure>
 
 We understand that there are times where you can't find the answer you are looking for and you just need a bit more help.  There are a few ways you can reach out for help from our support team.  But first....
 
