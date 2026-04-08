@@ -1,7 +1,7 @@
 ---
 title: System Requirements
 date: 2020-08-10T10:57:43Z
-updated: 2026-03-31T16:03:31Z
+updated: 2026-04-08T21:09:38Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
@@ -14,6 +14,8 @@ hash:
   h_01HAYTE3RCAS7319TRX91Y6MME: iphone--ipad-hardware-requirements
   h_01HAYTE3RC6YE0JFHSFHZS5XPG: ""
   h_01HAYTE3RCMXEF0AF1NXKNW98W: android-phone--tablet-hardware-requirements
+  h_01KNQEQA8Z44Z9NTT9ZDZ3HWZW: "-1"
+  h_01KNQEQRN36986C7TKAZXR58H9: additional-resources
 ---
 
 At this time, Minecraft Education is supported on Chromebook, iPad, Mac, PC, and mobile (Android and iOS). This article provides information on the minimum requirements for each platform.
@@ -72,7 +74,10 @@ Windows 10 (64-bit)<br />
 </table>
 </figure>
 
-> *\***Note**: Minecraft Education should be able to run on the minimum supported operating systems; however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*\
+> **Note:** The Minecraft Education Client is not supported on any distribution of Linux (Ubuntu, EDUbuntu, ZorinOS Education, Debian EDU, Ubermix, etc.).   
+>
+> *\***Note**: Minecraft Education should be able to run on the minimum supported operating systems; however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*
+>
 > *\*\***Note:** ChromeOS and Android devices **must support Google Play Services** in order to use Minecraft Education and be supported. Platforms such as ChromeOS Flex, Amazon FireOS, HarmonyOS, and similar devices may not be able to install Minecraft Education and are not supported. *
 
  
@@ -199,3 +204,9 @@ Chromebook, Mac, and Windows PC hardware requirements
 </tbody>
 </table>
 </figure>
+
+####  
+
+#### Additional Resources
+
+You can find our system requirements for Dedicated Server here: [Dedicated Server System Requirements](../Servers/Dedicated-Server-System-Requirements.md)\
