@@ -1,7 +1,7 @@
 ---
 title: "Play Minecraft: Bedrock Edition Online in a Multiplayer Server"
 date: 2021-09-29T20:49:05Z
-updated: 2026-03-11T18:54:27Z
+updated: 2026-04-10T19:16:52Z
 categories: Multiplayer Support
 tags:
   - title_minecraft
@@ -43,7 +43,7 @@ For additional Minecraft servers that are safe to join and fun for all ages, see
 
 ## Add a Minecraft: Bedrock Edition server to your list
 
-If the server you want to join is not in the partner/server list, you can add it manually if the server owner has provided you with the IP address. 
+If you play Minecraft on a computer or mobile device, you can modify your server list. Console versions of Minecraft are limited to the featured servers. Follow these instructions to manually add a server with the IP address. 
 
 1.  Launch Minecraft
 2.  Select **Play** from the Minecraft title screen.
