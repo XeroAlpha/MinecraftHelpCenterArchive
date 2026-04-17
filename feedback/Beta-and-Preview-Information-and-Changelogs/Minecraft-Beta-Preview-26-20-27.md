@@ -1,12 +1,13 @@
 ---
-title: Minecraft Beta & Preview - 26.20.27
+title: Minecraft Beta & Preview - 26.20.27/28
 date: 2026-04-13T12:46:32Z
-updated: 2026-04-14T15:49:11Z
+updated: 2026-04-17T16:08:23Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/45043797778701-Minecraft-Beta-Preview-26-20-27
+link: https://feedback.minecraft.net/hc/en-us/articles/45043797778701-Minecraft-Beta-Preview-26-20-27-28
 hash:
   h_01KNPK0P63JGFQT6KG30RZEDW7: information-on-minecraft-preview-and-beta
   user-content-realms: realms
+  h_01KPDXBPM3068Z2R4132X5EXKM: beta--preview-262028---mobile-only
 ---
 
 **Posted:** 14 April 2026
@@ -22,3 +23,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 ## Realms
 
 - Fixed an error that could sometimes occur when trying to create or enter a Realm with the "Drop 2 of 2026" Experimental toggle enabled
+
+## Beta & Preview 26.20.28 - Mobile Only
+
+- Please note, we have additional fixes being added for Android and iOS devices rolling out to players from the 17th April, to address some important crashes that could occur during gameplay.
