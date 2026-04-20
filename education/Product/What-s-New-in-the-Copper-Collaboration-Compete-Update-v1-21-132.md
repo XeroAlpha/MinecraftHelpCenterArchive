@@ -1,7 +1,7 @@
 ---
 title: What's New in the Copper, Collaboration & Compete Update (v1.21.132)
 date: 2026-02-17T01:48:52Z
-updated: 2026-02-18T21:28:38Z
+updated: 2026-04-20T16:51:16Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/46369414349076-What-s-New-in-the-Copper-Collaboration-Compete-Update-v1-21-132
 hash:
@@ -46,7 +46,6 @@ This update has all the Minecraft Bedrock changes from 1.21.110 to 1.21.130, inc
 ### Mounts of Mayhem Features
 
 - New Mobs: Nautilus, Zombie Nautilus, Zombie Horse, Camel Husk, Parched
-- New Blocks: Copper Chest
 - New Items: Spear
 - Spawn Eggs now sorted by category
 - Breath of Nautilus effect 
