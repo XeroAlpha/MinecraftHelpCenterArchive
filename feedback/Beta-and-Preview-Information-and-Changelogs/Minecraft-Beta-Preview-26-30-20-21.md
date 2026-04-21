@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.30.20/21
 date: 2026-04-21T15:03:36Z
-updated: 2026-04-21T15:50:52Z
+updated: 2026-04-21T21:19:52Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/45261940654221-Minecraft-Beta-Preview-26-30-20-21
 hash:
@@ -98,7 +98,6 @@ We have a few known issues in this week's Beta & Preview, and we are working on 
 
 - "No Members Found" modal no longer briefly shows up before loading members in Realms Stories and Realms Hub
 - Fixed the Realms side menu tabs being squashed and difficult to select when the design preview panel was visible
-- Update the looks of Welcome to Realms screen.
 - Fixed an issue where two states could be presented in the moderate feed screen
 
 ## Stability and Performance
