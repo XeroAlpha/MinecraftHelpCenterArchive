@@ -1,7 +1,7 @@
 ---
 title: Create Servers in the Admin Portal
 date: 2026-02-13T23:38:43Z
-updated: 2026-03-30T21:28:18Z
+updated: 2026-04-22T17:59:37Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295348713236-Create-Servers-in-the-Admin-Portal
 hash:
@@ -12,7 +12,7 @@ hash:
 
 - Navigate to the [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) and sign in (only Global Admins can currently sign in to the Admin Portal)
 
-> **Note: Cross tenant play, and Teacher Views are both currently unavailable. We hope to have these out in the near future! You will see the options to enable them in the Admin Portal where the setting will apply once available. At this time only the Global Administrator will be able to access the admin portal to create, delete, and manage servers.**
+> **Note: Cross tenant play is currently unavailable. We hope to have this out in the near future! You will see the options to enable it in the Admin Portal where the setting will apply once available.**
 
 - Navigate to the [Settings page](./The-Dedicated-Server-Admin-Portal-is-here.md#tenant-settings), and set the **Allow Servers** toggle to the on position
 - From either the Home page or the Server List page, click the **Add a Server** button

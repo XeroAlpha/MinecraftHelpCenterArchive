@@ -1,7 +1,7 @@
 ---
 title: The Dedicated Server Admin Portal is here!
 date: 2026-02-17T03:13:24Z
-updated: 2026-04-16T22:18:36Z
+updated: 2026-04-22T18:04:18Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46370720373908-The-Dedicated-Server-Admin-Portal-is-here
 hash:
@@ -34,8 +34,7 @@ Learn more about [EDU Dedicated Servers](./Dedicated-Server-FAQ.md)
 ## General Requirements
 
 - To change global server settings for your tenant you will need to have the Global Admin role in your Entra Tenant.
-- To create and manage servers for your school, you will need to have the Global Admin role in your Entra Tenant.
-- Teacher access to the Admin Portal is coming soon!
+- To create and manage servers for your school, you will need to have the Global Admin role or a faculty license assigned to your account in your Entra Tenant.
 
 ## Tenant Settings
 
@@ -59,8 +58,6 @@ Cross-tenant server management will be available in the Admin Portal soon.  If 
 - If you have Cross-tenant Play toggle off, accounts in your tenant will only be able to access servers owned and managed by your tenant.
 
 ### Allow Teachers to Manage Servers
-
-**Note that Teacher access is not yet available in the Admin Portal but is coming soon.**
 
 - When this is turned on, Teachers will be able to manage servers for your tenant. This includes adding new servers, updating server properties, and removing servers.
 - When it's turned off, only a Global Admin in your tenant can manage servers.
