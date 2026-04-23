@@ -1,12 +1,12 @@
 ---
 title: Features of Minecraft Education
 date: 2020-08-10T09:03:07Z
-updated: 2025-11-24T19:42:31Z
+updated: 2026-04-23T21:48:24Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117032-Features-of-Minecraft-Education
 ---
 
-Minecraft Education is a version of the popular open world game, Minecraft, specifically designed for education. It contains features that make Minecraft more accessible and effective in a classroom setting including and differentiate it from the Bedrock and Java editions:
+Minecraft Education is a version of the popular open world game, Minecraft, specifically designed for education. 
 
  
 

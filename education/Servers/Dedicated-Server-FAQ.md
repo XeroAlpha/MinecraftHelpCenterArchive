@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-03-05T17:56:06Z
+updated: 2026-04-23T20:37:34Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
@@ -42,8 +42,6 @@ Dedicated Servers do not require a client to host the world, can be hosted perma
 Global admins from any tenant can enable the use of Dedicated Servers on their tenant. Additionally, global admins can accept invitations and enable the use of Dedicated Servers hosted by another tenant (currently this management is only available through scripting). A global admin for the tenant must configure the initial settings to enable Dedicated Servers for a tenant, enable cross-tenant play, or enable partner permissions.
 
 To connect to Dedicated Servers, users will need to be licensed and have the Minecraft Education client installed on their device.
-
-**The ability for Educators to create and manage Dedicated Servers is coming soon!**
 
 ## 4. Where can I host dedicated servers?
 
