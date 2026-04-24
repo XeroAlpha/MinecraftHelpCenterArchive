@@ -1,7 +1,7 @@
 ---
 title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
-updated: 2025-11-05T00:15:28Z
+updated: 2026-04-24T22:18:06Z
 categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
@@ -56,32 +56,96 @@ Here’s why network access is essential:
 
  
 
-## List of all URLs used by Minecraft Education
+### List of all URLs used by Minecraft Education
 
 This is the list of all the URLs used by Minecraft Education.
 
-|                                           |                           |
-|-------------------------------------------|---------------------------|
-| **URL**                                   | **Service**               |
-| https://\*.minecrafteduservices.com       | Login/Multiplayer/Coding  |
-| https://login.microsoftonline.com         | Login                     |
-| https://aadcdn.msauth.net/                | Login                     |
-| https://graph.microsoft.com               | Cloud Saving **(New)**    |
-| https://\*.sharepoint.com                 | Cloud Saving **(New)**    |
-| https://\*.minecraft-services.net/        | Multiplayer/Library       |
-| https://\*.xboxlive.com                   | Library/Demo Lesson       |
-| https://\*.playfabapi.com                 | Library/Demo Lesson       |
-| https://education.minecraft.net           | Library                   |
-| https://self.events.data.microsoft.com/   | Error Reporting & Logging |
-| http://meedownloads.blob.core.windows.net | Updates & Support files   |
-| https://contentstorage.onenote.office.net | Immersive Reader          |
-| http://cognitiveservices.azure.com        | Immersive Reader          |
-| https://learningtools.onenote.com         | Immersive Reader          |
-| https://minecraft.makecode.com            | MakeCode                  |
-| https://makecode.com                      | MakeCode                  |
-| https://trg-minecraft.userpxt.io          | MakeCode                  |
-| https://pxt.azureedge.net                 | MakeCode                  |
-| https://api.github.com                    | MakeCode                  |
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 418px; width: 100%;">
+<table>
+<tbody>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px"><strong>URL</strong></td>
+<td style="height: 22px; padding: 5px"><strong>Service</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://*.minecrafteduservices.com</td>
+<td style="height: 22px; padding: 5px">Login/Multiplayer/Coding</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://login.microsoftonline.com</td>
+<td style="height: 22px; padding: 5px">Login</td>
+</tr>
+<tr>
+<td style="padding: 5px">https://aadcdn.msauth.net/</td>
+<td style="padding: 5px">Login</td>
+</tr>
+<tr>
+<td style="padding: 5px">https://graph.microsoft.com</td>
+<td style="padding: 5px">Cloud Saving <strong>(New)</strong></td>
+</tr>
+<tr>
+<td style="padding: 5px">https://*.sharepoint.com</td>
+<td style="padding: 5px">Cloud Saving <strong>(New)</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://*.minecraft-services.net/</td>
+<td style="height: 22px; padding: 5px">Multiplayer/Library</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://*.xboxlive.com</td>
+<td style="height: 22px; padding: 5px">Library/Demo Lesson</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://*.playfabapi.com</td>
+<td style="height: 22px; padding: 5px">Library/Demo Lesson</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://education.minecraft.net</td>
+<td style="height: 22px; padding: 5px">Library</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://self.events.data.microsoft.com/</td>
+<td style="height: 22px; padding: 5px">Error Reporting &amp; Logging</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">http://meedownloads.blob.core.windows.net</td>
+<td style="height: 22px; padding: 5px">Updates &amp; Support files</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://contentstorage.onenote.office.net</td>
+<td style="height: 22px; padding: 5px">Immersive Reader</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">http://cognitiveservices.azure.com</td>
+<td style="height: 22px; padding: 5px">Immersive Reader</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://learningtools.onenote.com</td>
+<td style="height: 22px; padding: 5px">Immersive Reader</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://minecraft.makecode.com</td>
+<td style="height: 22px; padding: 5px">MakeCode</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://makecode.com</td>
+<td style="height: 22px; padding: 5px">MakeCode</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://trg-minecraft.userpxt.io</td>
+<td style="height: 22px; padding: 5px">MakeCode</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://pxt.azureedge.net</td>
+<td style="height: 22px; padding: 5px">MakeCode</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; padding: 5px">https://api.github.com</td>
+<td style="height: 22px; padding: 5px">MakeCode</td>
+</tr>
+</tbody>
+</table>
+</figure>
 
  
 
@@ -106,14 +170,15 @@ If you are using SSL Decryption on a **Chromebook** any url that serves up certi
 
 The list of domains can change without notice, and some are CDNs which may be different regionally, so while we will attempt to keep this list up to date and complete, if possible we recommend you use the wildcards (\*) above instead of managing specific sub-domains.
 
-<table style="height: 326px;" width="558">
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 326px;">
+<table>
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr style="height: 89px;">
-<td style="height: 89px; width: 252.6px"><p>https://*.minecrafteduservices.com</p></td>
+<td style="height: 89px; width: 252.6px">https://*.minecrafteduservices.com</td>
 <td style="height: 89px; width: 299.413px"><ul>
 <li>login.minecrafteduservices.com</li>
 <li>discovery.minecrafteduservices.com</li>
@@ -122,7 +187,7 @@ The list of domains can change without notice, and some are CDNs which may be di
 </ul></td>
 </tr>
 <tr style="height: 134px;">
-<td style="height: 134px; width: 252.6px"><p>https://*.minecraft-services.net/</p></td>
+<td style="height: 134px; width: 252.6px">https://*.minecraft-services.net/</td>
 <td style="height: 134px; width: 299.413px"><ul>
 <li>client.discovery.minecraft-services.net</li>
 <li>authorization.franchise.minecraft-services.net</li>
@@ -130,7 +195,7 @@ The list of domains can change without notice, and some are CDNs which may be di
 </ul></td>
 </tr>
 <tr style="height: 81px;">
-<td style="height: 81px; width: 252.6px"><p>https://*.xboxlive.com</p></td>
+<td style="height: 81px; width: 252.6px">https://*.xboxlive.com</td>
 <td style="height: 81px; width: 299.413px"><ul>
 <li><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fxforge.xboxlive.com%2F&amp;data=04%7C01%7Cmicahm%40microsoft.com%7Cb2e0de427cc34d821f1108d76880adee%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637092774195972472%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&amp;sdata=0ZBPcUFcpp8WOLuiOWT8VcA96sIF%2Fg7Oz4zBdDH1Wio%3D&amp;reserved=0">xforge.xboxlive.com</a></li>
 <li><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fxforgeassets001.xboxlive.com%2F&amp;data=04%7C01%7Cmicahm%40microsoft.com%7Cb2e0de427cc34d821f1108d76880adee%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637092774195982464%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&amp;sdata=HN34sEANnzvJ2OOAxKOrCOgXxaMDxcPO4vrsCzj1o38%3D&amp;reserved=0">xforgeassets001.xboxlive.com</a></li>
@@ -138,13 +203,14 @@ The list of domains can change without notice, and some are CDNs which may be di
 </ul></td>
 </tr>
 <tr style="height: 22px;">
-<td style="height: 22px; width: 252.6px"><p>https://*.playfabapi.com</p></td>
+<td style="height: 22px; width: 252.6px">https://*.playfabapi.com</td>
 <td style="height: 22px; width: 299.413px"><ul>
 <li>6955f.playfabapi.com</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
+</figure>
 
  
 
@@ -186,7 +252,7 @@ For the latest information on [system requirements, visit this article. ](../Ge
 
 Visit these Help Center pages for information about installation:
 
-- The [Minecraft Education download page](https://education.minecraft.net/get-started/download/) contains links to versions for each supported device. See OS specific guides below:\
+- The [Minecraft Education download page](https://education.minecraft.net/get-started/download/) contains links to versions for each supported device. See OS specific guides below:
   - [Windows Installation Guide](../Installation/Windows-Installation-Guide.md)
   - [Chromebook Installation Guide](../Installation/Chromebook-Installation-Guide.md)
   - [Mac Installation Guide](../Installation/Mac-Installation-Guide.md)

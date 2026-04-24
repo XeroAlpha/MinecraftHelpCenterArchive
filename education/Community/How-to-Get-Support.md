@@ -1,7 +1,7 @@
 ---
 title: How to Get Support
 date: 2020-08-24T17:28:55Z
-updated: 2026-04-07T20:24:22Z
+updated: 2026-04-24T22:10:06Z
 categories: Community
 link: https://edusupport.minecraft.net/hc/en-us/articles/360048662071-How-to-Get-Support
 hash:
@@ -46,9 +46,9 @@ When you fill out the support form, make sure to keep the following in mind:
 1.  Provide an email address that you have access to - the email address you enter is the one the support team will use to communicate with you.
 2.  Please select the issue category and then the sub-category that best resembles the issue you are reporting. 
 3.  Please provide as many of the following details as you can in the description:
-    1.  What email address are you using to sign into Minecraft Education?
+    - What email address are you using to sign into Minecraft Education?
 4.  Which version of Minecraft Education are you playing? 
-    1.  Note we are unable to support Minecraft Bedrock, Java, Dungeons or other editions. If you're issue related to any of these issues, please reach out to their teams at [https://help.minecraft.net](https://help.minecraft.net/) 
+    - Note we are unable to support Minecraft Bedrock, Java, Dungeons or other editions. If you're issue related to any of these issues, please reach out to their teams at [https://help.minecraft.net](https://help.minecraft.net/) 
 5.  What type of device are you using?
 6.  What OS version are you running?
 7.  What part of the game are you having trouble with?
