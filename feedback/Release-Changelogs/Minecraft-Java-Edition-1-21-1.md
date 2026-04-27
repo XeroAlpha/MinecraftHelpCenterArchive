@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition 1.21.1
 date: 2024-08-08T14:50:43Z
-updated: 2024-08-08T14:56:46Z
+updated: 2026-04-27T15:29:40Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/29100721259021-Minecraft-Java-Edition-1-21-1
 hash:
@@ -35,7 +35,7 @@ Cross-platform server jar:
 
 Report bugs here:
 
-- [Minecraft issue tracker!](https://piston-data.mojang.com/v1/objects/e56720aba46f7f07238c4c054a160fc942da9f78/server.jar)
+- [Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/summary)
 
 Want to give feedback?
 
