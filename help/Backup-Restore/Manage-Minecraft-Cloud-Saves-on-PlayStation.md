@@ -1,7 +1,7 @@
 ---
 title: Manage Minecraft Cloud Saves on PlayStation
 date: 2023-05-05T16:55:24Z
-updated: 2026-03-12T21:44:06Z
+updated: 2026-04-29T17:09:02Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -18,33 +18,30 @@ tags:
   - use_for_autoreply
 link: https://help.minecraft.net/hc/en-us/articles/15518966498061-Manage-Minecraft-Cloud-Saves-on-PlayStation
 hash:
-  h_01K97Z4438TYATGTVBWM8R5QCE: enable-automatic-cloud-saves-on-playstation-4-and-playstation-5
-  h_01K97Z640DZ2DNHSZCAN1C8NYA: restore-an-automatic-cloud-save-on-playstation-4
-  h_01K97Z7GRV0FR76W4DSTDHMG0Q: restore-an-automatic-cloud-save-on-playstation-5
+  h_01KQB0APX4EDX89M26DKH85QA1: enable-and-manage-cloud-saves-on-ps4ps5
+  h_01KQB0APX51Z6D1EG5MS3SATMX: move-your-minecraft-worlds-between-consoles
 ---
 
-You can save your game to the cloud for Minecraft: Bedrock Edition on PlayStation 4 and PlayStation 5 with an active [PlayStation Plus subscription](https://www.playstation.com/en-us/ps-plus/?emcid=pa-co-445461&gclid=7de6d982f1a01d53f1b6b173662e4d3a&gclsrc=3p.ds&).
+With an active [PlayStation Plus subscription](https://www.playstation.com/en-us/ps-plus/), your Minecraft: Bedrock Edition games can be saved to and downloaded from the cloud on PlayStation 4 (PS4) or PlayStation 5 (PS5). Here’s how to turn on and restore automatic saves or move your worlds between consoles.
 
-## Enable automatic cloud saves on PlayStation 4 and PlayStation 5
+## Enable and manage cloud saves on PS4/PS5
 
-Follow the instructions found on PlayStation’s official help pages below to enable auto-sync of your Minecraft save data. Once enabled, your game progress will automatically sync to cloud storage when you save or quit the game.
+Follow these steps from Sony to enable automatic uploads or manually upload, download, and manage your Minecraft save data:
 
 - [PlayStation Plus online storage for PS4 consoles](https://www.playstation.com/en-us/support/subscriptions/ps4-ps-plus-online-storage/)
 - [PlayStation Plus cloud storage for PS5 consoles](https://www.playstation.com/en-us/support/subscriptions/ps5-ps-plus-cloud-storage/#sync)
 
-## Restore an automatic cloud save on PlayStation 4
+If you turn on automatic saves, your game progress will sync to your cloud storage when you save or quit the game.
 
-1.  Select your profile.
-2.  Go to **Settings** \> **Application** **Data** **Management** \> **Saved** **data** **in Online** **Storage** \> **Download** **to** **System** **Storage**.
-3.  Select the game title.
-4.  Select the file you would like to restore.
-5.  Select **Yes**.
+## Move your Minecraft worlds between consoles
 
-## Restore an automatic cloud save on PlayStation 5
+Migrate your Minecraft world cloud saves between consoles, including from PS4 to PS5, by following these steps:
 
-1.  Go to **Settings** \> **Saved Data and Game/App Settings.**
-2.  Select **Saved** **Data** **(PS5)**.
-3.  Select **Download or Delete from Cloud Storage**.
-4.  Select the **Download to console** **storage** tab.
-5.  Select the file you would like to restore.
-6.  Select **Download**.
+1.  Start Minecraft on the console where you want to download your saves.
+2.  Select **Play**.
+3.  Select the **Worlds** tab.
+4.  Select **Old Worlds**.
+5.  Find the world you want to use and select **Download World**.
+6.  Wait for the world to download.
+
+First time transfers from a PS4 to a PS5 may take longer than a normal transfer. Wait for the transfer to finish and don’t cancel unless prompted to avoid data loss. If you cancel when prompted, you can begin the transfer again later.
