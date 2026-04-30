@@ -1,11 +1,13 @@
 ---
-title: What's New in the Copper, Collaboration & Compete Update (v1.21.132)
+title: What's New in the Copper, Collaboration & Compete Update (v1.21.133)
 date: 2026-02-17T01:48:52Z
-updated: 2026-04-20T16:51:16Z
+updated: 2026-04-30T19:03:48Z
 categories: Product
-link: https://edusupport.minecraft.net/hc/en-us/articles/46369414349076-What-s-New-in-the-Copper-Collaboration-Compete-Update-v1-21-132
+link: https://edusupport.minecraft.net/hc/en-us/articles/46369414349076-What-s-New-in-the-Copper-Collaboration-Compete-Update-v1-21-133
 hash:
-  h_01KHMM6T8Q6AA5QA7SXBCBN6QE: dedicated-server-for-multiplayer
+  h_01KHMM6T8Q6AA5QA7SXBCBN6QE: ""
+  h_01KQFWD301W9RK32Q37TKSGK8M: minor-update-v121133
+  h_01KQFWD3017SM7R3J5BK8P60PC: dedicated-server-for-multiplayer
   h_01KHMM3NA4SPTF5Y3933KCY6T8: gameplay-updates
   h_01KHMM4VQDYCG4MNDHGEBQBD04: the-copper-age-features
   h_01KHMM55W1PD18GH9H48SVNGDJ: mounts-of-mayhem-features
@@ -15,6 +17,16 @@ hash:
 ---
 
 Welcome to the Minecraft Education Copper, Collaborate & Compete Update! We’ve added a new dedicated server for a bigger and better multiplayer experience, moved all in-game coding to MakeCode and added all the features from the last few Minecraft Bedrock updates - like the copper golem and nautilus plus all the new copper blocks and items!  
+
+##  
+
+## Minor Update (v1.21.133)
+
+- Chat logging can now be enabled for Dedicated Servers through the [Dedicated Server Admin Portal](../Servers/Manage-Servers-in-the-Admin-Portal.md) or the server properties. 
+- Updated sign in security
+- Improved Code Builder stability and various coding bug fixes
+
+ 
 
 ## Dedicated Server for Multiplayer
 

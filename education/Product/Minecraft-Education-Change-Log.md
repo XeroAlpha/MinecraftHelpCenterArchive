@@ -1,11 +1,12 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2026-02-17T22:20:35Z
+updated: 2026-04-30T19:04:52Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-game-client-update-version-121132---released-21726
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-game-minor-client-update-version-121133---released-43026
+  h_01KQFWF33TVKN5A8MPQZ96QQMW: minecraft-education-game-client-update-version-121132---released-21726
   h_01KHMP7ZWZEP4NGJ4B7WZQNK3N: minecraft-education-betapreview-game-client-update-version-1211311---released-121825
   h_01KCSFBFV2Q3CBZQ3G1Y21RH4Y: minecraft-education-game-client-minor-update-version-121931---released-103125
   01K8Y5P2FMSQM57M3CZNFXDTVZ: minecraft-education-betapreview-game-client-update-version-1211101---released-100125
@@ -60,6 +61,12 @@ Minecraft Education periodically releases updates to our game and companion apps
 ![MCEDU_app_icon_3D_180x180.png](https://edusupport.minecraft.net/hc/article_attachments/12443930919700)
 
  
+
+## Minecraft Education Game Minor Client Update (version 1.21.133) - Released 4/30/26
+
+- Dedicated Server chat logging capability
+- Sign in security improvements
+- Code Builder stability improvements and bug fixes
 
 ## Minecraft Education Game Client Update (version 1.21.132) - Released 2/17/26
 
