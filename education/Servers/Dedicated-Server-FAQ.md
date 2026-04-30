@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-04-23T20:37:34Z
+updated: 2026-04-30T20:31:36Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
@@ -17,6 +17,7 @@ hash:
   h_01K6GEKV3WP4Z87768CC1NNV4G: 10if-dedicated-servers-are-enabled-can-users-in-my-tenant-connect-with-users-outside-my-tenant
   h_01K6GEKV3YTMSB7V0K18RSRFFW: 11what-are-partner-permissions-for-dedicated-servers
   h_01K6GEKV40DZY15XJ5Y1ZYDMSW: 12-what-does-it-mean-to-broadcast-a-server
+  h_01KQG1941Y1YGV0B442D02K2F9: 13-can-chat-be-logged
   h_01K6GEKV422DHB4W46P2YBXC3H: ""
 ---
 
@@ -91,5 +92,10 @@ Note that if you grant permissions to a partner, the actions they can take on yo
 ![](https://edusupport.minecraft.net/hc/article_attachments/41758424526996)
 
 By default, to see a server in the “Servers” view within the Minecraft Education client, users must manually add the server by entering its server ID, which is a 12-digit, alphanumeric, case-insensitive code. However, a server can instead be configured to be displayed in the “Servers” menu to all users in the tenant without being added manually. Please refer to the [Dedicated Server Installation Guide](https://aka.ms/dsserversetup) to see how to broadcast servers.
+
+## 13. Can chat be logged? 
+
+Yes! Starting with Minecraft Education Dedicated Server 1.21.133, Chat logging can be enabled per-server! If enabled chat logs will be saved to the server under `/chat_logs/ChatLog_<Date>.txt`\
+![](https://edusupport.minecraft.net/hc/article_attachments/48785925906068)
 
 ##

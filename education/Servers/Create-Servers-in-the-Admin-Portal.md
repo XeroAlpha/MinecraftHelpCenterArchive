@@ -1,7 +1,7 @@
 ---
 title: Create Servers in the Admin Portal
 date: 2026-02-13T23:38:43Z
-updated: 2026-04-22T17:59:37Z
+updated: 2026-04-30T21:23:58Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295348713236-Create-Servers-in-the-Admin-Portal
 hash:
@@ -19,18 +19,23 @@ hash:
 - Required settings
   - Enter the IP address where you will run your server - refer to [install and run your server](./Dedicated-Server-Tooling-and-Scripting-Guide.md#step-3-create-and-configure-a-dedicated-server) for help finding your IP address and port.
     - **Note: IPv6 is not supported at this time. **
+
   - Enter the port that will be used for your server
+
   - Use the Allow chat toggle to enable or disable chat on the server
 
-<figure class="wysiwyg-image">
-<img src="https://edusupport.minecraft.net/hc/article_attachments/46397132526612" alt="Add server - required.png" />
-</figure>
+  - You can also enable Chat Logging to log all messages sent in the server. 
+    - Chat Logs will be saved to `/chat_logs/ChatLog_<Date>.txt`
+    - If you wish to change this setting later, it must be manually updated by changing the `chat-logging-enabled` in `server.properties`. The server will need to be rebooted for this to take effect. 
 
+  - <figure class="wysiwyg-image">
+    <img src="https://edusupport.minecraft.net/hc/article_attachments/48785978567316" />
+    </figure>
 - World Generation Settings (Optional)
   - Enter a world seed 
   - Select the game mode
 
-<figure class="wysiwyg-image">
+<figure class="wysiwyg-image wysiwyg-image-resized" style="width: 86.79%;">
 <img src="https://edusupport.minecraft.net/hc/article_attachments/46397132527124" alt="Add server - world gen.png" />
 </figure>
 
@@ -48,6 +53,7 @@ hash:
 - Click the **Continue** button, and enter your Server information
   - Server Name - the name that appears on the server list in the Minecraft Education client
   - Server Passcode - if you enter a passcode, all players that join the server will be required to enter this passcode
+    - **Important Note**: Passcodes are not passwords, since they are not unique to each user. They are instead unique to each server (or at least should be!). They are viewable to admins and shared by users. For example, a classroom could use a passcode to ensure only that class can get into the server, so long as the passcode is only known to the people in the class.
   - Enabled - determines if players can join the server.  If this is turned off while players are on the server, the server will close and all players will lose access
   - Broadcast - when this is set to the on position, the server will appear in the server list in the Minecraft Education client
 
