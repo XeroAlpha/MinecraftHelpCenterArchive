@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.30.25/26
 date: 2026-04-30T13:52:51Z
-updated: 2026-04-30T15:47:43Z
+updated: 2026-05-01T09:40:29Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/45497683432333-Minecraft-Beta-Preview-26-30-25-26
 hash:
@@ -67,7 +67,6 @@ Test two more features from Chaos Cubed! Watch out for geysers – vertical burs
 
 ## Gameplay
 
-- Fixed items being duplicated when crossing chunk borders in The End ([MCPE-233883](https://bugs.mojang.com/browse/MCPE-233883))
 - Fixed a bug that caused entities on the edge of less-than full-height water and lava to still be affected by the liquid. ([MCPE-45633](https://bugs.mojang.com/browse/MCPE-45633) ) ([MCPE-183531](https://bugs.mojang.com/browse/MCPE-183531) )
 - Fixed a bug where bees don't pollinate Spore Blossoms and Chorus Flowers ([MCPE-174401](https://bugs.mojang.com/browse/MCPE-174401))
 - Fixed a bug where Strider's loot was not affected by Looting Enchantment ([MCPE-112761](https://bugs.mojang.com/browse/MCPE-112761))
@@ -99,7 +98,7 @@ Fixed instances where open color picker button appeared on pages with no color p
 
 ## Mobs
 
-- Fixed a bug where Ghasts could get stuck in the preparing-to-fire animation pose after the player walks out of attack range
+- Fixed a bug where Ghasts could get stuck in the preparing-to-fire animation pose after the player walks out of attack range ([MCPE-45311](https://bugs.mojang.com/browse/MCPE-45311)) 
 
 ## Realms
 
@@ -112,7 +111,7 @@ Fixed instances where open color picker button appeared on pages with no color p
 
 ## Sounds
 
-- Tune trumpet sound assets for Copper variants Note Block interaction so that they are in tune with other Note Block variants ([MCPE-237578](https://bugs.mojang.com/browse/MCPE-237578))
+- Tuned trumpet sound assets for Copper variants Note Block interaction so that they are in tune with other Note Block variants ([MCPE-237578](https://bugs.mojang.com/browse/MCPE-237578))
 
 ## Stability and Performance
 
@@ -187,7 +186,7 @@ Fixed instances where open color picker button appeared on pages with no color p
 
 ## General
 
-- Projectiles spawned using the "minecraft:spawn_entity" component now respect the anchor field of "minecraft:projectile" ([MCM-1700](https://bugs.mojang.com/browse/MCM-1700))
+- Projectiles spawned using the "minecraft:spawn_entity" component now respect the anchor field of "minecraft:projectile"
 
 ## Graphical
 
@@ -195,7 +194,7 @@ Fixed instances where open color picker button appeared on pages with no color p
 
 ## Mobs
 
-- The `effect_amplifier` field on the `minecraft:attack` component is now applied to the inflicted status effect, so amplifier-sensitive effects such as Hunger now scale correctly when triggered by a mob's melee attack ([MCM-206](https://bugs.mojang.com/browse/MCM-206))
+- The `effect_amplifier` field on the `minecraft:attack` component is now applied to the inflicted status effect, so amplifier-sensitive effects such as Hunger now scale correctly when triggered by a mob's melee attack 
 
 ## Network Protocol
 
