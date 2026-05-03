@@ -17,6 +17,7 @@ tags:
   - section_27166460834061
   - section_27194076935437
   - use_for_autoreply
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/360042221252-Troubleshooting-Errors-Playing-Minecraft-Multiplayer-Games-with-a-Child-Account
 ---
 

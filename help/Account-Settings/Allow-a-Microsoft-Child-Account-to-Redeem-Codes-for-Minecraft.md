@@ -7,6 +7,7 @@ tags:
   - section_26562723671949
   - section_27194076935437
   - section_28872896387341
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/26602043483405-Allow-a-Microsoft-Child-Account-to-Redeem-Codes-for-Minecraft
 hash:
   h_01JPJPBR7QE57PZRV92T2N8K4B: enable-code-redemption-using-the-microsoft-family-safety-website

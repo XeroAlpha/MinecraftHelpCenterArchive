@@ -6,6 +6,7 @@ categories: Minecraft Realms Stories
 tags:
   - section_27194076935437
   - section_ 12618443219469
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/20720109328269-Change-a-Child-Account-s-Privacy-Safety-Permissions-for-Minecraft-Realms-Stories
 hash:
   h_01JPAZWCNAN9Y8TWP7HHH5PFSN: required-settings-for-minecraft-realms-stories

@@ -6,6 +6,7 @@ categories: Buying Marketplace Content
 tags:
   - section_27194076935437
   - section_31867594896141
+  - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/24302243825677-Managing-Spending-for-Child-Accounts-in-Minecraft-Marketplace
 hash:
   h_01JNS514EW2QH8W1CYVSJYJF1J: settings-options-for-spending-on-a-child-account
