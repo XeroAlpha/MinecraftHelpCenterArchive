@@ -1,7 +1,7 @@
 ---
 title: Close and Reopen Your Minecraft Realm to Solve Connection Errors
 date: 2025-04-30T21:19:10Z
-updated: 2026-03-12T23:44:05Z
+updated: 2026-05-05T17:28:55Z
 categories: Troubleshoot Minecraft Realms
 tags:
   - title_minecraft_java_edition
@@ -28,21 +28,22 @@ hash:
   h_01JXXJZ4BAFTA7P97EC1Y12JJS: additional-realms-connection-error-resources
 ---
 
-If you or your friends have trouble joining your Minecraft Realm, closing and reopening it may solve the issue. Closing and reopening your Realm refreshes your connection to game services and can resolve issues without deleting World data. See edition specific instructions below.
+If you or your friends have trouble joining your Minecraft Realm, closing and reopening it may solve the issue. Closing and reopening your Realm refreshes your connection to game services and can resolve issues without deleting World data. See edition-specific instructions below.
 
 ## Closing and reopening a Minecraft: Bedrock Edition Realm
 
-1.  Launch Minecraft and select **Play**.
-2.  Select the **Realms** tab and select the Realm you want to reset.
-3.  Select **Settings**.
-4.  Select **Manage Realm** and select **Subscription**.
-5.  Select **Close Realm** and choose **Yes** to confirm.
-6.  Select **Open Realm** to make your Realm available to players again.
+1.  Launch Minecraft and select **Play**.
+2.  Select the **Realms** tab.
+3.  Select the **Realms Hub** for the Realm you want to reset.
+4.  Select the **Settings** tab.
+5.  Select **Server**.
+6.  Change **Temporarily Close Realm** to **ON** and select **Close Realm**.
+7.  Select **Open Realm** to make your Realm available to players again.
 
 ## Closing and reopening a Minecraft: Java Edition Realm
 
 1.  Launch Minecraft and select **Minecraft Realms**.
-2.  Select the Realm you want to reset and select **Configure**.
+2.  Choose the Realm you want to reset and select **Configure**.
 3.  Select **Settings** from the Configure Realm options.
 4.  Select **Close Realm** and choose **Continue** to confirm.
 5.  Select **Settings** and **Open Realm** to make your Realm available to players again.

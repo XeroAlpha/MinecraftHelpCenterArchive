@@ -1,27 +1,27 @@
 ---
 title: "Find Your Realms World Saves in Minecraft: Bedrock Edition"
 date: 2025-12-08T21:25:33Z
-updated: 2025-12-10T18:52:19Z
+updated: 2026-05-05T17:40:59Z
 categories: Manage Realms Save Files
 tags:
   - section_41828107127821
 link: https://help.minecraft.net/hc/en-us/articles/41763087069325-Find-Your-Realms-World-Saves-in-Minecraft-Bedrock-Edition
 hash:
-  h_01KBZXMM8QMGD8HS5T34CWHP0X: access-realm-storage
+  h_01KQWKMMD4J7NFCWAV5FWKNG1P: access-realm-storage
 ---
 
-Backup save files of your Realms world are stored in Realm storage, which keeps both automatic and manual saves. Realm storage helps you manage your worlds without losing progress.
+Backup save files of your Realms world are stored in Realm storage, which keeps both automatic and manual saves. Realm storage helps you manage your worlds without losing progress.
 
 ## Access Realm Storage
 
 1.  Launch Minecraft.
-2.  Select the **Play** button.
-3.  Select the **Realms** tab and select your Realm.
-4.  Select **Settings**.
-5.   Select **Manage Realm**.
-6.  Select **Saves**.
+2.  Select the **Play **button.
+3.  Select the **Realms **tab. 
+4.  Select the **Realms Hub **of your realm.
+5.  Select the **World **tab.
+6.  Select **Saves**.
 
-You have the option to view and manage both Manual and Automatic saves in this menu. Realm storage provides a limited amount of space for your saves. If you need to free up space, you can back up your world to local storage before deleting data from Realm storage. Resource packs do not increase the space your world occupies in Realm storage. When you download a saved world, both the world and its associated packs are included. See these resources for more information about managing your Realms world saves:
+You have the option to view and manage both Manual and Automatic saves in this menu. Realm storage provides a limited amount of space for your saves. If you need to free up space, you can back up your world to local storage before deleting data from Realm storage. Resource packs do not increase the space your world occupies in Realm storage. When you download a saved world, both the world and its associated packs are included. See these resources for more information about managing your Realms world saves:
 
 - [How We Backup Your Minecraft Realms World](./How-We-Backup-Your-Minecraft-Realms-World.md)
 - [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md)

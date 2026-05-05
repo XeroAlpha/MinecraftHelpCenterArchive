@@ -1,13 +1,13 @@
 ---
 title: "Restore a Backup Save of a Minecraft: Bedrock Edition Realm World"
 date: 2023-10-24T21:10:46Z
-updated: 2025-12-10T18:26:27Z
+updated: 2026-05-05T17:51:18Z
 categories: Manage Realms Save Files
 tags:
   - section_41828107127821
 link: https://help.minecraft.net/hc/en-us/articles/20687461045645-Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World
 hash:
-  h_01JXXJPTPQ32PT9MD34CYAJEAM: how-to-restore-a-save-of-your-minecraft-bedrock-edition-realm
+  h_01KQWM7R3MZ3D81G1MFZ4631F3: how-to-restore-a-save-of-your-minecraft-bedrock-edition-realm
   h_01JXXJPTPQB040R0PPHKCEJDQB: additional-backup-and-restore-resources
 ---
 
@@ -17,11 +17,12 @@ Restoring a cloud save of your Minecraft: Bedrock Edition Realm world from an au
 
 1.  Launch Minecraft and select **Play**.
 2.  Select the **Realms** tab on the Play screen.
-3.  Select the Realm with the world you want to restore and select **Settings**.
-4.  Select **Manage Realm**.
-5.  Select **Saves**, then select the Manual or Automatic tab depending on where your backup is saved.
-6.  Select the **kebob menu button **(three dots) to the right of the save file you wish to restore.
-7.  Select **Restore save** from the Options menu.
+3.  Select the **Realms Hub **for the Realm with the world you want to restore
+4.  Select the **World **tab.
+5.  Select **Saves**, then select **Manage saves in old UI**.
+6.  Select the **Manual **or **Automatic **tab depending on where your backup is saved.
+7.  Select the **kebob menu button **(three dots) to the right of the save file you wish to restore.
+8.  Select **Restore save** from the Options menu.
 
 ## Additional Backup and Restore Resources
 

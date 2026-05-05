@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
-updated: 2026-03-12T23:44:54Z
+updated: 2026-05-05T17:42:31Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -19,24 +19,25 @@ tags:
   - platform_xbox_series_xs
 link: https://help.minecraft.net/hc/en-us/articles/22471067820429-Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm
 hash:
-  h_01JXXFXGYRJEDHDQ3B9DA24QWK: invite-friends-to-your-realm-through-the-minecraft-game-menu
+  h_01KQWKQG7XN44QNN9ERZ4R6DHV: invite-friends-to-your-realm-through-the-minecraft-game-menu
   h_01JXXFXGYSVSZG39F6SEE936S9: additional-minecraft-realms-resources
 ---
 
 *For Minecraft: Java Edition, see *[Invite Friends to Your Minecraft: Java Edition Realm](./Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)*.*
 
-After you [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md), you can invite your friends to play. You can invite as many players as you’d like, but only a certain number can be online at the same time. See a comparison of player limits for Realms subscription plans at [Minecraft.net/realms](https://minecraft.net/realms).
+After you [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md), you can invite your friends to play. You can invite as many players as you’d like, but only a certain number can be online at the same time. See a comparison of player limits for Realms subscription plans at [Minecraft.net/realms](https://minecraft.net/realms).
 
 ## Invite friends to your Realm through the Minecraft game menu
 
 1.  Launch Minecraft and select **Play**.
-2.  Select the **Realms** tab on the Play menu.
-3.  Select the Realm you want to send invites to, then select **Add Members**.
-4.  Select the **Members tab** on the Manage Realm screen.
-5.  Select **Find friends** to search using a gamertag if a friend isn’t listed.
-6.  Select the **Invite button** next to names on your Friends list.
+2.  Select the **Realms** tab.
+3.  Select the **Realms Hub **for the Realm you want to invite your friends to.
+4.  Select **Members** under the **Community** tab.
+5.  Select **Manage Realm Members**.
+6.  Select **Find friends** to search using a gamertag if a friend isn’t listed.
+7.  Select the **Invite button** next to names on your Friends list.
 
-To invite multiple players via email or messaging, generate and activate an [Invite Link](../Manage-Realms-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md) from the Invite Links tab.
+To invite multiple players via email or messaging, generate and activate an [Invite Link](../Manage-Realms-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md) from the Invite Links screen.
 
 ## Additional Minecraft Realms Resources
 

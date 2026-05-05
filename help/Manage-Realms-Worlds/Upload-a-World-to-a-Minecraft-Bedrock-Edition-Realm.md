@@ -1,7 +1,7 @@
 ---
 title: "Upload a World to a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:53:20Z
-updated: 2026-03-12T23:43:34Z
+updated: 2026-05-05T17:56:16Z
 categories: Manage Realms Worlds
 tags:
   - title_minecraft_java_edition
@@ -22,20 +22,22 @@ tags:
   - section_37819421372941
 link: https://help.minecraft.net/hc/en-us/articles/20686744908429-Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm
 hash:
-  h_01JZ97YDFF5FG7S1N8VAGABND8: how-to-upload-a-world-to-a-minecraft-bedrock-edition-realm
+  h_01KQWMGNY5VGYNH8HX8DC5S11Y: how-to-upload-a-world-to-a-minecraft-bedrock-edition-realm
 ---
 
 *For Minecraft: Java Edition, see* [*Upload a World to a Minecraft: Java Edition Realm*](./Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md)
 
-If you don’t want to start a new world on your Minecraft Realm, here’s how to upload one you already created.
+If you don’t want to start a new world on your Minecraft Realm, here’s how to upload one you already created.
 
 ## How to upload a world to a Minecraft: Bedrock Edition Realm
 
 1.  Launch Minecraft and select **Play**.
 2.  Select the **Realms** tab.
-3.  Select the Realm you want to upload a world to and select **Settings**.
-4.  Select either an empty world slot or a currently occupied slot to replace, then select **Edit World**.
-5.  Navigate to the bottom of the Game Settings tab and select Upload **World** or **Replace World** depending on the available option.
-6.  Select the world you want to upload onto the Realm.
+3.  Select the **Realms Hub** of the Realm you want to upload a world to.
+4.  Select the **Worlds **tab.
+5.  Select **Slots**.
+6.  Select either an empty world slot and select **Create World**, or a currently occupied slot to replace then select **Edit World**.
+7.  Navigate to the bottom of the Game Settings tab and select **Upload World** or **Replace World** depending on the available option.
+8.  Select the world you want to upload onto the Realm.
 
-There is a 4GB maximum world size for uploads. To upload a world from a different platform, see [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).
+There is a 4GB maximum world size for uploads. To upload a world from a different platform, see [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md).

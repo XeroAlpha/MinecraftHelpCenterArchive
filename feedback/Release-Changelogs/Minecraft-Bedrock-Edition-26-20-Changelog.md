@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.20 Changelog"
 date: 2026-04-27T14:19:24Z
-updated: 2026-05-05T13:10:53Z
+updated: 2026-05-05T17:41:55Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/45400537384333-Minecraft-Bedrock-Edition-26-20-Changelog
 hash:
@@ -164,7 +164,7 @@ We've got an exciting release for you today – because alongside chaos and cube
 - Fixed a bug where Bows and Crossbows used by players disappear with Texture Streaming enabled ([MCPE-235735](https://bugs.mojang.com/browse/MCPE-235735))
 - Fixed an issue where some devices would get artifacts on pixelated shadows in Vibrant Visuals
 - Fixed incorrect variation in block lighting during the slime jump animation in Vibrant Visuals
-- Fixed an issue causing co-web blocks to not dither when player camera is nearby. ([MCPE-235972](https://bugs.mojang.com/browse/MCPE-235972))
+- Fixed an issue causing cobweb blocks to not dither when player camera is nearby. ([MCPE-235972](https://bugs.mojang.com/browse/MCPE-235972))
 
 ### Input
 
@@ -275,7 +275,7 @@ Other Realms changes: \
 - Fixed several issues with text input on iOS when using a physical keyboard
 - Updated the text on the beta feedback popup. ([MCPE-236391](https://bugs.mojang.com/browse/MCPE-236391))
 - Add missing closed captions for some baby mobs ([MCPE-237205](https://bugs.mojang.com/browse/MCPE-237205))
-- Added two missing strings that are only shown for a brief moment. +
+- Added two missing strings that are only shown for a brief moment.
 - Fixed a bug where emojis were not rendering at the small text tooltip when selecting an item in the HUD's hotbar
 - Fixed the Delayed Breaking Blocks setting visibility for the "Joystick & tap to interact" and "D-Pad & tap to interact" control modes of the Touch Tab of the New Settings Screen. ([MCPE-236872](https://bugs.mojang.com/browse/MCPE-236872))
 
@@ -545,10 +545,7 @@ Other Realms changes: \
 
 ### Entity Filters
 
-- Added "has_equipment_block_tag" entity filter
 - Added "has_same_equipment_in_slot_as" entity filter
-- Removed "has_equipment_block_tag" entity filter
-  - We should not be looking at block tags on items for item behavior, and because of this the filter is being removed
 
 ### Features
 
@@ -696,7 +693,7 @@ Other Realms changes: \
 - Moving BiomeType.getTags to 2.7.0 in @minecraft/server
 - Added two functions to DedicatedServerUtils of @minecraft/server-admin in beta
   - Added reloadScriptingConfig() to reload scripting configuration files from disk
-  - Added reloadPermissions() to reload the sever permissions file from disk
+  - Added reloadPermissions() to reload the server permissions file from disk
   - Added reloadCDNConfig() to reload cdn configuration files from disk
 - Added backfaceVisible property to DebugText in the @minecraft/debug-utilities module. .
 - Added backfaceVisible property to TextPrimitive in the @minecraft/server module. .
