@@ -1,7 +1,7 @@
 ---
 title: Realm Events are Not Showing Up in Minecraft Realm Stories
 date: 2024-04-19T20:46:09Z
-updated: 2026-05-05T17:50:00Z
+updated: 2026-05-06T15:44:57Z
 categories: Minecraft Realms Stories
 tags:
   - section_ 12618443219469
@@ -11,15 +11,15 @@ hash:
   h_01KQWM4NFA03ZNND7HQB9CWMXH: how-to-close-and-open-your-minecraft-realm
 ---
 
-**Note:** Realms Stories is exclusive to Bedrock Edition, so you will not be able to see Realm Events when playing Realms in Minecraft: Java Edition. 
-
 To take advantage of all the Minecraft Realm Stories features, use Realm Events to keep a record of your game progress. These posts will give all members big updates on happenings in your Realm.
 
 If you don’t see any Events in your Realms Stories, first make sure that the feature is turned on.
 
+**Note:** Realms Stories is exclusive to Minecraft: Bedrock Edition, so you will not be able to see Realm Events when playing Realms in Minecraft: Java Edition.
+
 ## How to disable or re-enable Realm Events in Minecraft
 
-**By default, Realm Events will be enabled.** Do the following if you want to turn them off or restart them.
+**By default, Realm Events will be enabled.** Do the following to turn off or restart Realm Events.
 
 1.  Start Minecraft.
 2.  Select **Play**.
@@ -34,6 +34,6 @@ After adjusting your Realm Events, you will need to close and open your Realm fo
 
 1.  Go to **Server **in the Realms Hub Settings tab.
 2.  Select **Temporarily Close Realm**.
-3.  After the Realm closes, select **Open Realm**.
+3.  Select **Open Realm** after the Realm closes.
 
-**Note:** Some Realm Events will only appear in your stories once per world.
+**Note:** Some Realm Events will only appear in your Stories once per world.
