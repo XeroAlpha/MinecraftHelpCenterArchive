@@ -1,7 +1,7 @@
 ---
 title: "Manage Settings for Your Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:58:20Z
-updated: 2026-05-05T17:46:25Z
+updated: 2026-05-05T23:17:55Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft
@@ -50,6 +50,8 @@ MEMBERS
 - **Invite players to your Realm**: See [Invite Friends to Your Minecraft: Bedrock Edition Realm](../Create-or-Join-Realms/Invite-Friends-to-Your-Minecraft-Bedrock-Edition-Realm.md).
 - **Manage players in your Realm**: See [Moderate Your Minecraft Realm](./Moderate-Your-Minecraft-Realm.md).
 
+ 
+
 ADMIN LOG
 
 - **View Admin Log**: Admins and Owners of a realm can track changes and updates made to the Realm. 
@@ -94,7 +96,7 @@ HUB
 
 SERVER
 
-- **Choose your Realm server location:** [Set your Realm server region preference](./Set-Your-Minecraft-Bedrock-Edition-Realm-Server-Region-Preference.md).
+- **Choose your Realm server location:** [Set Your Minecraft: Bedrock Edition Realm Server Region Preference](./Set-Your-Minecraft-Bedrock-Edition-Realm-Server-Region-Preference.md).
 - **Temporarily Close Realm**: You can temporarily close your Realm, preventing play while you change settings. Reopen it when you’re ready.
 
 REALM INFO:

@@ -1,7 +1,7 @@
 ---
 title: Turn on Show Coordinates for Realms Stories
 date: 2024-04-19T20:56:14Z
-updated: 2026-05-05T17:55:07Z
+updated: 2026-05-06T00:15:05Z
 categories: Minecraft Realms Stories
 tags:
   - section_ 12618443219469
@@ -21,7 +21,7 @@ Realms Stories will keep a record of some of the biggest accomplishments that h
 4.  Select the **Realms Hub **of the Realm you want to update.
 5.  Select the **Worlds **tab and go to **Slots**.
 6.  Choose your world and select **Edit World**.
-7.  Select **Show Coordinates** under Game Settings.
+7.  Select **Advanced \>** **Show Coordinates**.
 
 ## How to turn on Show Coordinates within your Realm world
 

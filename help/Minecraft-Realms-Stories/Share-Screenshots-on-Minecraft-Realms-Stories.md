@@ -1,7 +1,7 @@
 ---
 title: Share Screenshots on Minecraft Realms Stories
 date: 2024-04-19T20:51:24Z
-updated: 2026-05-05T17:53:53Z
+updated: 2026-05-06T00:13:11Z
 categories: Minecraft Realms Stories
 tags:
   - section_ 12618443219469

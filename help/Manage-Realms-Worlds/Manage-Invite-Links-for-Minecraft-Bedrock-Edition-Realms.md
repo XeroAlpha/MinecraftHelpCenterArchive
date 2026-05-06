@@ -1,7 +1,7 @@
 ---
 title: "Manage Invite Links for Minecraft: Bedrock Edition Realms"
 date: 2025-05-28T17:54:51Z
-updated: 2026-05-05T17:44:14Z
+updated: 2026-05-05T23:19:26Z
 categories: Manage Realms Worlds
 tags:
   - section_37819421372941

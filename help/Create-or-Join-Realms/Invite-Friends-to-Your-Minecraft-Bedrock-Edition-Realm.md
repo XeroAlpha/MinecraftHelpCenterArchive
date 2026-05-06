@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Bedrock Edition Realm"
 date: 2023-12-18T21:30:49Z
-updated: 2026-05-05T17:42:31Z
+updated: 2026-05-05T23:21:40Z
 categories: Create or Join Realms
 tags:
   - title_minecraft
@@ -25,7 +25,7 @@ hash:
 
 *For Minecraft: Java Edition, see *[Invite Friends to Your Minecraft: Java Edition Realm](./Invite-Friends-to-Your-Minecraft-Java-Edition-Realm.md)*.*
 
-After you [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md), you can invite your friends to play. You can invite as many players as you’d like, but only a certain number can be online at the same time. See a comparison of player limits for Realms subscription plans at [Minecraft.net/realms](https://minecraft.net/realms).
+After you [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedrock-Edition-Realm.md), you're ready to invite your friends! You can invite as many players as you’d like, but only a certain number of them can be online at the same time. See a comparison of player limits for Realms subscription plans at [Minecraft.net/realms](https://minecraft.net/realms).
 
 ## Invite friends to your Realm through the Minecraft game menu
 
@@ -37,7 +37,7 @@ After you [Create a Minecraft: Bedrock Edition Realm](./Create-a-Minecraft-Bedr
 6.  Select **Find friends** to search using a gamertag if a friend isn’t listed.
 7.  Select the **Invite button** next to names on your Friends list.
 
-To invite multiple players via email or messaging, generate and activate an [Invite Link](../Manage-Realms-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md) from the Invite Links screen.
+To invite multiple players via email or messaging, [Manage Invite Links for Minecraft: Bedrock Edition Realms](../Manage-Realms-Worlds/Manage-Invite-Links-for-Minecraft-Bedrock-Edition-Realms.md) from the Invite Links screen.
 
 ## Additional Minecraft Realms Resources
 

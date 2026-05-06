@@ -1,40 +1,32 @@
 ---
 title: "Copy Your Minecraft: Bedrock Edition World Seed"
 date: 2025-02-21T19:00:39Z
-updated: 2026-05-05T17:28:22Z
+updated: 2026-05-06T00:09:54Z
 categories: Manage Realms Worlds
 tags:
   - section_37819421372941
 link: https://help.minecraft.net/hc/en-us/articles/34467729058957-Copy-Your-Minecraft-Bedrock-Edition-World-Seed
 hash:
-  h_01JXWVC7XP6E1XSYHXM83D2T11: copy-a-world-seed-on-the-bedrock-edition-all-worlds-tab
-  h_01JXWVJTR5WCSRQZEKH3R1KAYB: copy-a-world-seed-from-a-bedrock-edition-realms-world
+  h_01JXWVC7XP6E1XSYHXM83D2T11: copy-a-singleplayer-world-seed
+  h_01JXWVJTR5WCSRQZEKH3R1KAYB: copy-a-bedrock-edition-realmsworld-seed
 ---
 
-World seeds are a string of numbers that Minecraft uses to recreate particular builds of a world when it generates. After you copy a world seed, you can share it with friends and use it to create new worlds from the same base map. You can paste it into the world seed section of the Advanced settings when creating a new world.
+World seeds are a string of numbers that Minecraft uses to recreate particular configurations of a world when it generates. After you copy a world seed, you or your friends can use it to create new worlds from the same base map. To use a world seed, paste the world seed into the world seed section of the Advanced settings when creating a new world.
 
-## Copy a world seed on the Bedrock Edition All Worlds tab
+Here's how to copy the world seed from your singleplayer or Realm world.
 
-1.  Launch Minecraft: Bedrock Edition.
-2.  Select **Play** on the launch screen.
-3.  Select the **All Worlds** tab.
-4.  Locate the world with the seed you want to copy and select **Edit**.
-5.  Select **Advanced** on the Edit World screen.
-6.  Copy your World seed.
+## Copy a singleplayer world seed
 
-## Copy a world seed from a Bedrock Edition Realms world
+1.  Launch Minecraft: Bedrock Edition and select **Play**.
+2.  Select the **Worlds** tab.
+3.  Select the world with the seed you want to copy and select **Edit**.
+4.  Select **Advanced** on the Edit World screen.
+5.  Select **Copy seed**.
 
-If the world seed you want to copy is for a world that only exists on a Realm, you'll need to download a copy of the world from the Realm backup. After the world is listed on the Worlds tab, you can copy the seed.
+## Copy a Bedrock Edition Realms world seed
 
-1.  Launch Minecraft.
-2.  Select **Play** on the launch screen.
-3.  Select the **Realms** tab on the Play screen.
-4.  Select the **Realms Hub** of the Realm with the world seed you want to copy.
-5.  Select the **Settings** tab. Then, select **Worlds**.
-6.  Select **Edit World**. Then, select **Backups**.
-7.  Select the **Download icon** of any of the backups to import the world to your non-Realms world list.
-8.  Select **Let’s Go** on the All Done! screen.
-9.  Exit the Edit World and Edit Realm screens to return to your Worlds list.
-10. Select the **Pencil icon** next to the world you just downloaded in your Worlds list.
-11. Select **Advanced**.
-12. Copy your world seed.
+1.  Launch Minecraft and select **Play**.
+2.  Select the **Realms** tab.
+3.  Select your Realm \> **Realms Hub**.
+4.  Select **World** \> the world you want to copy \> **Edit world**. 
+5.  Select **Advanced** \> **Copy seed**.

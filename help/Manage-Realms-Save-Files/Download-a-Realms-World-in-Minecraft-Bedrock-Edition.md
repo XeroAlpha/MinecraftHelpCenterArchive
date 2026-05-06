@@ -1,7 +1,7 @@
 ---
 title: "Download a Realms World in Minecraft: Bedrock Edition"
 date: 2024-09-06T21:35:22Z
-updated: 2026-05-05T17:39:33Z
+updated: 2026-05-05T23:35:46Z
 categories: Manage Realms Save Files
 tags:
   - section_37819421372941
@@ -9,7 +9,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/30035151042445-Download-a-Realms-World-in-Minecraft-Bedrock-Edition
 ---
 
-Minecraft Realms worlds are backed up automatically to help keep your creations safe. When you finish playing and select Quit & Save, the most recent version of your world is saved to your backups. 
+Minecraft Realms worlds are backed up automatically to help keep your creations safe. When you finish playing and select **Quit & Save**, the most recent version of your world is saved to your backups. 
 
 To download and make a copy of a Realms world, follow the instructions below:
 

@@ -1,7 +1,7 @@
 ---
 title: Moderate Your Minecraft Realm
 date: 2021-03-25T23:05:09Z
-updated: 2026-05-05T17:47:55Z
+updated: 2026-05-05T23:13:22Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft_java_edition
@@ -33,7 +33,7 @@ If players on your Realm are griefing or demonstrating unwanted behavior, Mi
 1.  Launch Minecraft and select **Play**.
 2.  Select the **Realms** tab.
 3.  Select the **Realms Hub** for the Realm you want to moderate.
-4.  Select the **Community **tab .
+4.  Select the **Community **tab.
 5.  Select **Members** to view players and adjust their permissions.
 
 ## Find Minecraft: Java Edition Realms Moderation Settings
@@ -52,6 +52,6 @@ Here are some ways to use Minecraft’s moderation tools.
 - **Remove and block players**: These options will restrict realm access.
   - **Removing a player** will immediately kick them out of the game. The player will be informed they were removed. They will be able to rejoin if they receive another invite or have an invite link.
   - **Blocking a player** will immediately kick them from the game. The player will be informed they were kicked. They will not be able to rejoin unless you unblock them.
-- **Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [Find and Restore a Backup of a Minecraft: Java Edition Realm](../Manage-Realms-Save-Files/Restore-a-Backup-Save-of-a-Minecraft-Java-Edition-Realm-World.md) or [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm World](../Manage-Realms-Save-Files/Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md).
+- **Restore from a previous backup**: You may be able to roll back to a previous version of your world before any undesired changes were made. See [Restore a Backup Save of a Minecraft: Java Edition Realm World](../Manage-Realms-Save-Files/Restore-a-Backup-Save-of-a-Minecraft-Java-Edition-Realm-World.md) or [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](../Manage-Realms-Save-Files/Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md).
 
-You can also moderate your Realm through Minecraft.net. See [How to Edit Your Realms on Minecraft.net.](./Edit-your-Realms-on-Minecraft-net.md)
+You can also moderate your Realm through Minecraft.net. See [Edit your Realms on Minecraft.net](./Edit-your-Realms-on-Minecraft-net.md)

@@ -1,7 +1,7 @@
 ---
 title: "Upload a World to a Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:53:20Z
-updated: 2026-05-05T17:56:16Z
+updated: 2026-05-06T00:16:12Z
 categories: Manage Realms Worlds
 tags:
   - title_minecraft_java_edition
