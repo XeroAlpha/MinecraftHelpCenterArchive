@@ -1,7 +1,7 @@
 ---
 title: Learn About Minecraft Parties
 date: 2026-04-30T22:14:08Z
-updated: 2026-05-05T17:50:34Z
+updated: 2026-05-08T17:26:42Z
 categories: Minecraft Game Guides
 tags:
   - section_27166460834061
@@ -17,7 +17,7 @@ Parties also have the following features:
   - External servers that require a player to enter an IP/Port are not currently supported.
   - Worlds must have multiplayer enabled for friends to join. Players who are not friends with the party leader will not be able to join friends-only worlds and will see the Kelp error.
 - **Set your party as open or invite-only**:
-  - In an open party, your friends and friends of your party members can join your party—no invite needed! Party members can also invite their friends, even if they’re not friends with the party leader.
+  - In an open party, your friends can join your party—no invite needed! Party members can also invite their friends if the party leader's permissions allow it.
   - In an invite-only party, players can join if they receive an invite from the party leader or party members.
 - **Invite players from the social tab**: There are two tabs: one for friends and one for parties. Here’s how to [Create or Join a Party in Minecraft](./Create-or-Join-a-Party-in-Minecraft.md).
 - **Change party settings in the settings menu**: You can change who you can receive party invites from, who can send invites in parties you create, and your default party privacy.
