@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.20 Changelog"
 date: 2026-04-27T14:19:24Z
-updated: 2026-05-05T17:41:55Z
+updated: 2026-05-08T20:14:29Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/45400537384333-Minecraft-Bedrock-Edition-26-20-Changelog
 hash:
@@ -225,7 +225,7 @@ We've got an exciting release for you today – because alongside chaos and cube
 
 The Party System is now available! Create a party, chat with your friends, and follow the party leader seamlessly from world to world — including into Realms and featured servers.
 
-- Available on Xbox, Windows, Android, PlayStation, and Nintendo Switch. iOS support is coming soon
+- Available on Xbox, Windows, PlayStation, and Nintendo Switch. iOS and Android support is coming soon
 - Party Text Chat lets you stay connected with your party across worlds — separate from in-game world chat
 - The Party System is launching as a Beta as we continue to improve the experience — please give us your feedback at [aka.ms/MinecraftPartyFeedback](https://aka.ms/MinecraftPartyFeedback)
 
