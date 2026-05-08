@@ -1,7 +1,7 @@
 ---
 title: Learn About Minecraft Parties
 date: 2026-04-30T22:14:08Z
-updated: 2026-05-08T17:26:42Z
+updated: 2026-05-08T19:45:24Z
 categories: Minecraft Game Guides
 tags:
   - section_27166460834061
@@ -9,7 +9,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/45515850579597-Learn-About-Minecraft-Parties
 ---
 
-Create a party of up to 15 players and experience easy, group travel between Minecraft: Bedrock multiplayer worlds! Party members will receive a prompt to move to the same world as the party leader after they join a world. Parties are currently supported on all Minecraft: Bedrock platforms, except iOS (coming soon!).
+Create a party of up to 15 players and experience easy, group travel between Minecraft: Bedrock multiplayer worlds! Party members will receive a prompt to move to the same world as the party leader after they join a world. Parties are currently supported on all Minecraft: Bedrock platforms, except Android and iOS (coming soon!).
 
 Parties also have the following features:
 
