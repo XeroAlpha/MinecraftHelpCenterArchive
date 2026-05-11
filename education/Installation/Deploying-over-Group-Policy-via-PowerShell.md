@@ -1,7 +1,7 @@
 ---
 title: Deploying over Group Policy (via PowerShell)
 date: 2026-02-01T06:46:11Z
-updated: 2026-02-17T22:10:29Z
+updated: 2026-05-11T22:22:25Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/45872069884436-Deploying-over-Group-Policy-via-PowerShell
 hash:
@@ -379,4 +379,4 @@ If issues persist, [contact support](../Community/How-to-Get-Support.md) and inc
 - Your Windows Server version
 - The number of affected systems
 - The installer source (UNC path or website)
-- Lastly, please note that while we can support issues with the script itself, our ability to support Group Policy issues itself is limited.
+- Lastly, please note that while we can support issues with the script itself, our ability to support Group Policy or other environmental issues is limited.
