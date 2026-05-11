@@ -1,7 +1,7 @@
 ---
 title: Training educators in Minecraft Education
 date: 2020-08-10T07:52:47Z
-updated: 2026-03-05T20:37:02Z
+updated: 2026-05-11T17:22:07Z
 categories: Get Started
 tags:
   - deployment_guidance
@@ -47,16 +47,13 @@ Here are the three most popular resources for learning Minecraft Education from 
 
 There numerous resources available for helping educators and students learn about the world of Minecraft and Minecraft Education. Here are a few great places to explore:
 
-- [Teacher's Lounge](https://aka.ms/mceduteacherslounge) This Facebook Group has educators all over the world in it, in various stages of learning Minecraft. Come for regular events and discussions!\
+- [Teacher's Lounge](https://aka.ms/mceduteacherslounge) This Facebook Group has educators all over the world in it, in various stages of learning Minecraft. Come for regular events and discussions! Many of our great [Minecraft Education Ambassadors](https://education.minecraft.net/en-us/connect/minecraft-ambassador) can be found here as well! \
    
 - [Minecraft Lessons](https://education.minecraft.net/class-resources/lessons/) is a catalog of lesson plans (and worlds to download) from the Minecraft Education team, Minecraft Experts, and the educator community designed to be used with Minecraft Education in the classroom. This list can be filtered by age and by subject.\
-   
-- [Minecraft Education Ambassadors](https://education.minecraft.net/en-us/connect/minecraft-ambassador) is a directory of Minecraft experts waiting to connect with you! These are folks who are committed to helping others learn how to use Minecraft in the classroom.\
    
 - [The Support Center](https://edusupport.minecraft.net/hc/en-us/community/topics) is a great place to search for and ask questions about teaching or technical issues, as well as submit feature requests for Minecraft Education.\
    
 - [Minecraft Education Blog](https://education.minecraft.net/blog/) is a great destination for weekly activities, stories, and examples of using Minecraft in new and innovative ways.\
    
-- [Classroom Management Tips from Minecraft Ambassadors](https://education.minecraft.net/blog/classroom-management-tips-from-minecraft-mentors/) Is a great post by some of our Minecraft Ambassadors on best practices for getting ME into the classroom effectively.
 
 [Back to the top](#top)
