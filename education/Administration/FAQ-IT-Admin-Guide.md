@@ -1,7 +1,7 @@
 ---
 title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
-updated: 2026-04-24T22:18:06Z
+updated: 2026-05-11T23:48:47Z
 categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
@@ -162,7 +162,9 @@ You will also need to ensure the following processes can run while logging in:
 
 - Minecraft.AdalServer.exe  (Login)
 
-If you are using SSL Decryption on a **Chromebook** any url that serves up certificates would need to be added to your bypass list. The article from Google has information [here](https://support.google.com/chrome/a/answer/6334001?hl=en&ref_topic=3504941#zippy=%2Chostname-allowlist-for-chrome-devices-using-chrome-extensions-and-apps-chrome-web-store%2Chostname-allowlist-for-chrome-devices-using-android-apps-google-play-store).
+**ChromeOS & SSL Decryption**
+
+If you are using SSL Decryption on a **Chromebook** any URL that serves up certificates would need to be added to your bypass list. [The article from Google has information here.](https://support.google.com/chrome/a/answer/6334001?hl=en&ref_topic=3504941#zippy=%2Chostname-allowlist-for-chrome-devices-using-chrome-extensions-and-apps-chrome-web-store%2Chostname-allowlist-for-chrome-devices-using-android-apps-google-play-store)
 
  
 
