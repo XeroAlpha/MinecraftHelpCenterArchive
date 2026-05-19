@@ -1,7 +1,7 @@
 ---
 title: Reset Your Microsoft Account Sign-in in Minecraft
 date: 2020-07-14T23:11:19Z
-updated: 2026-03-11T18:51:11Z
+updated: 2026-05-19T14:58:25Z
 categories: Account Sign-in
 tags:
   - section_12617594906509
@@ -19,10 +19,10 @@ You may need to sign out of Minecraft and sign back in to change accounts or res
 ## Sign out and in using the Launcher
 
 1.  Start the Minecraft Launcher.
-2.  Click the dropdown menu in the top left corner with your Gamertag.
+2.  Select the dropdown menu in the top left corner with your Gamertag.
 3.  Select **Log out**.
-4.  Click **Microsoft Login** and sign back in.
-5.  Select **Sign in with a different account** if you need to switch accounts, or press **Lets Go** to continue.
+4.  Select **Microsoft Login** and sign back in.
+5.  Select **Sign in with a different account** if you need to switch accounts or select **Lets Go** to continue.
 
 ## Sign out and into Minecraft on Xbox
 
