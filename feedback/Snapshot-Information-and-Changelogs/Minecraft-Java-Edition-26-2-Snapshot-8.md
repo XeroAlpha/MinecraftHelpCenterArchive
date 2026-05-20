@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - 26.2 Snapshot 8
 date: 2026-05-19T15:46:05Z
-updated: 2026-05-19T15:46:26Z
+updated: 2026-05-20T09:29:54Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/45976772290701-Minecraft-Java-Edition-26-2-Snapshot-8
 hash:
@@ -65,7 +65,7 @@ Happy bouncing!
 
 #### Publish
 
-- The publish command now takes an additional boolean as it's first argument to specify whether the server should be opened to online multiplayer or just local multiplayer
+- The publish command now takes an additional boolean as its first argument to specify whether the server should be opened to online multiplayer or just local multiplayer
   - Default: true (online multiplayer)
 
 #### Unpublish
