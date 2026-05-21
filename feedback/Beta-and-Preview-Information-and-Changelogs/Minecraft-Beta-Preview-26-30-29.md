@@ -1,12 +1,18 @@
 ---
-title: Minecraft Beta & Preview - 26.30.29
+title: Minecraft Beta & Preview - 26.30.29/31
 date: 2026-05-19T15:20:37Z
-updated: 2026-05-19T16:02:19Z
+updated: 2026-05-21T17:25:11Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/45975590959117-Minecraft-Beta-Preview-26-30-29
+link: https://feedback.minecraft.net/hc/en-us/articles/45975590959117-Minecraft-Beta-Preview-26-30-29-31
 hash:
   h_01KNPK0P63JGFQT6KG30RZEDW7: information-on-minecraft-preview-and-beta
 ---
+
+**Update:** 21 May 2026
+
+Beta & Preview 26.30.31 - Mobile Only
+
+- Please note, we have additional fixes being added for Android and iOS devices rolling out to players, to address some important bugs that could occur during gameplay.
 
 **Posted:** 19 May 2026
 
@@ -30,8 +36,6 @@ hash:
 
 - Sulfur Spikes now grow over time ([MCPE-238496](https://bugs.mojang.com/browse/MCPE-238496))
 
-- Sulfur Spikes now grow over time ([MCPE-238496](https://bugs.mojang.com/browse/MCPE-238496))
-
 ## Potent Sulfur
 
 - Entities propelled by erupting Potent Sulfur now travel slightly higher, matching Java Edition
@@ -42,7 +46,7 @@ hash:
 
 - Noxious Gas particles now darken based on surrounding light levels ([MCPE-238484](https://bugs.mojang.com/browse/MCPE-238484))
 
-- Potent Sulfur can no longer be moved by Pistons or by Sticky Pistons
+- Potent Sulfur can no longer be moved by Pistons or by Sticky Pistons ([MCPE-238533](https://bugs.mojang.com/browse/MCPE-238533))
 
 - Fixed a bug where naturally generated Sulfur Springs would occasionally not produce a geyser ([MCPE-238482](https://bugs.mojang.com/browse/MCPE-238482))
 
@@ -90,8 +94,6 @@ hash:
 - Fire Resistance effect now properly protects against Magma Sulfur Cubes ([MCPE-238669](https://bugs.mojang.com/browse/MCPE-238669))
 
 - Sulfur Cubes with an absorbed block no longer push player-controlled mounts
-
-- Player-controller mounts can no longer be pushed by Sulfur Cubes with absorbed blocks
 
 - Sulfur Cubes using the `fast_flat` archetype are no longer buoyant
 
