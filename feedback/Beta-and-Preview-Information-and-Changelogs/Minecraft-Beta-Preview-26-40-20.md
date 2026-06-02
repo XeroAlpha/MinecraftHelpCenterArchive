@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.40.20
 date: 2026-06-02T14:41:23Z
-updated: 2026-06-02T15:47:35Z
+updated: 2026-06-02T19:42:07Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/46333309174669-Minecraft-Beta-Preview-26-40-20
 hash:
@@ -152,7 +152,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - The Marketplace Pass accordion is now hidden when the player is in any beta
 
-  - When the player is in a beta on PlayStation, Nintendo or iOS, the "Get more" Marketplace button is hidden as well
+  - When the player is in a beta on PlayStation or iOS, the "Get more" Marketplace button is hidden as well
 
 - Fixed missing Storage Location option in New Storage Tab for Android devices ([MCPE-238935](https://bugs.mojang.com/browse/MCPE-238935))
 
