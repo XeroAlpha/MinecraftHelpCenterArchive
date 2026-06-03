@@ -1,7 +1,7 @@
 ---
 title: Learn about Vibrant Visuals Graphics Mode
 date: 2025-06-16T20:30:13Z
-updated: 2025-08-29T17:22:29Z
+updated: 2026-06-03T17:54:15Z
 categories: Video & Graphics Support
 tags:
   - trending
@@ -35,5 +35,5 @@ There are situations where you cannot change your Graphics Mode to Vibrant Visua
 
 ## Supported content and options
 
-- **Supported Content**: Vibrant Visuals is compatible with Marketplace Add-Ons, skins, and persona items. Vibrant Visuals is automatically turned off if you are using worlds and texture packs that are not compatible.
+- **Supported Content**: Vibrant Visuals is compatible with Marketplace Add-Ons, skins, persona items, and select Worlds and Texture Packs. Vibrant Visuals is automatically turned off if you are using worlds and texture packs that are not compatible.
 - **Multiplayer and Cross-Platform Gaming**: You can enjoy Vibrant Visuals playing Worlds via multiplayer or Realms. When playing split-screen multiplayer on consoles, Minecraft defaults to Fancy or Simple Graphics Modes.

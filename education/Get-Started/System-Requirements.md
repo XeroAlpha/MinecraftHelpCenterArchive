@@ -1,7 +1,7 @@
 ---
 title: System Requirements
 date: 2020-08-10T10:57:43Z
-updated: 2026-04-08T21:09:38Z
+updated: 2026-06-03T18:13:43Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
@@ -190,6 +190,11 @@ Chromebook, Mac, and Windows PC hardware requirements
 <td style="width: 13.1428%">CPU</td>
 <td style="width: 54.4286%">32 or 64 bit</td>
 <td style="width: 32.4286%">64 bit</td>
+</tr>
+<tr>
+<td>Graphics</td>
+<td>OpenGL ES 3.1 or higher</td>
+<td>OpenGL ES 3.2</td>
 </tr>
 <tr>
 <td style="width: 13.1428%">RAM</td>
