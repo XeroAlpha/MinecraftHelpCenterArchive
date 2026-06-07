@@ -30,7 +30,7 @@ We have a smaller update this week, but as always here’s a list of what’s ne
 ## General
 
 - You can now launch Minecraft directly into a Realm using a link, even when the game isn't running
-  - Example link: minecraft://connectToRealm?realmId=<Id number>
+  -     Example link: minecraft://connectToRealm?realmId=<Id number>
 
 ## Graphical
 
