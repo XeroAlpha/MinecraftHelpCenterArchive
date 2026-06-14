@@ -4,8 +4,6 @@ date: 2024-04-01T19:47:17Z
 updated: 2026-03-12T23:46:08Z
 categories: Minecraft Launcher Support
 tags:
-  - section_12617594906509
-  - section_12617963662861
   - section_27166539479437
   - section_27194059750157
 link: https://help.minecraft.net/hc/en-us/articles/25521490005517-Switching-Between-Microsoft-Accounts-in-Launcher-to-Play-Minecraft
