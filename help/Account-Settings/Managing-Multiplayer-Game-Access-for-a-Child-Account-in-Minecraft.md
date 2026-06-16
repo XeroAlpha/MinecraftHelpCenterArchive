@@ -1,7 +1,7 @@
 ---
 title: Managing Multiplayer Game Access for a Child Account in Minecraft
 date: 2024-02-20T22:11:14Z
-updated: 2026-03-11T18:48:27Z
+updated: 2026-06-16T16:13:44Z
 categories: Account Settings
 tags:
   - title_minecraft
@@ -22,37 +22,48 @@ tags:
   - section_35378224139533
 link: https://help.minecraft.net/hc/en-us/articles/24302916594701-Managing-Multiplayer-Game-Access-for-a-Child-Account-in-Minecraft
 hash:
-  h_01JNS7ASAJF1HWZ4D3ZRQMB9YY: manage-multiplayer-settings-using-xbox-privacy-online
-  h_01JNS7CYW6TNRPPDCC58M2RCVB: manage-multiplayer-settings-using-the-xbox-family-app
-  h_01JNS77MST4FN938C5SQG5BJNW: settings-options-for-multiplayer-games-and-realms-in-minecraft
+  h_01KV6T7Y3XC7QY6Q5QSQJ3NK9W: manage-multiplayer-settings-using-xbox-privacy-online
+  h_01KV6T7Y40MMVPT4ERBHYQRQHP: manage-multiplayer-settings-using-the-xbox-family-app
+  h_01KV6T7Y42NYC9EP06WKYVSZ6N: settings-options-for-minecraft-bedrock-edition-multiplayer
+  h_01KV6T7Y4368JQNQF3J0VH8P1H: settings-for-minecraft-java-edition-multiplayer
 ---
 
-Minecraft allows you to manage your child’s ability to find friends and join them in multiplayer games or Realms when using a Microsoft account to play Minecraft: Bedrock Edition. Minecraft uses Microsoft and Xbox family safety features to manage parental controls even if you do not play Minecraft on an Xbox. See [Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md) to learn more about Microsoft accounts and Family Groups.
+Parental controls in the [Xbox Official Site: Consoles, Games and Community](https://www.xbox.com/en-US/user/settings/privacy-and-safety) privacy & online safety settings allow you to manage your child’s Microsoft account and Minecraft multiplayer experience. These settings will apply even if you don’t play Minecraft on an Xbox.
+
+First, [Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition](../Resources-for-Families/Set-Up-Microsoft-Family-Groups-for-Parental-Controls-in-Minecraft.md)—this will allow you to enable parental controls. Then come back here and change these settings to manage your child’s ability to find friends and join multiplayer games or Realms.
 
 ## Manage multiplayer settings using Xbox Privacy online
 
-1.  Visit [Privacy & online safety](https://account.xbox.com/en-us/Settings?rtc=1&activetab=main%3aprivacytab) on the Xbox Settings page.
-2.  Sign in using the parent’s Microsoft account.
-3.  Click on the tile for the child Microsoft account you want to manage.
-4.  Select **Privacy** or **Xbox Series X\|S, Xbox One, and Windows 10 devices Online Safety** to locate specific settings.
-5.  Adjust settings as desired.
-6.  Click Submit and wait for the page to reload.
-7.  Sign out of Minecraft and restart for the new settings to take effect. 
+1.  Sign out of Minecraft and close the game.
+2.  Go to [Xbox Official Site: Consoles, Games and Community](https://www.xbox.com/en-US/user/settings/privacy-and-safety).
+3.  Sign in using the parent’s Microsoft account.
+4.  Select the Microsoft child account you want to manage.
+5.  Select **Privacy** or **Xbox and Windows 10 devices Online Safety** to locate and change settings.
+6.  Select Submit and wait for the page to reload.
 
 ## Manage multiplayer settings using the Xbox Family App
 
-1.  Launch the [Xbox Family Settings](https://www.xbox.com/en-US/apps/family-settings-app) app on your mobile device.
-2.  Sign in using the parent’s Microsoft account.
-3.  Tap the tile for the child Microsoft account you want to manage.
-4.  Tap on the **Settings** gear in the top right.
-5.  Tap the category tiles to adjust category settings
-6.  Sign out of Minecraft and restart for the new settings to take effect.
+1.  Sign out of Minecraft and close the game.
+2.  Open the [Xbox Family Settings](https://www.xbox.com/en-US/apps/family-settings-app) app on your mobile device.
+3.  Sign in using the parent’s Microsoft account.
+4.  Select the Microsoft child account you want to manage.
+5.  Select the **Settings** gear in the top right.
+6.  Select the category tiles to adjust category settings.
 
-## Settings options for multiplayer games and Realms in Minecraft
+## Settings options for Minecraft: Bedrock Edition multiplayer
 
-Select **Allow** or choose an appropriate group to enable the following features for Minecraft on your child’s Microsoft account using either the Microsoft Family Safety website or in the Xbox Family Settings app.
+Select **Allow** or **Block** to enable/disable the following Minecraft features on your child’s account.
 
-- **Join multiplayer games/Join multiplayer on Xbox:** Enable multiplayer gaming, Realms, and other server access to allow games with other players.
-- **Join cross-network play:** Enable multiplayer gaming with players on other gaming services and devices outside of Xbox/Microsoft such as PlayStation and Nintendo.
-- **Add friends and follow others:** Enable your child to find other players through the Friends interface in Minecraft: Bedrock Edition to create multiplayer games.
-- **Communicate with voice, text, or invites/Manage online communication:** Control who your child can communicate with using the chat function in Minecraft when playing multiplayer games.
+- **Manage multiplayer and Realms access**: Change the setting under **Xbox and Windows 10 devices Online Safety** \> **join multiplayer games** or **join multiplayer on Xbox** to manage whether your child can join multiplayer games, Realms, and other servers.
+- **Manage cross-platform multiplayer**: Change the setting under **Xbox and Windows 10 devices Online Safety** \> **you can join cross-network play** to manage whether your child can play with people on other gaming platforms, such as PlayStation and Nintendo.
+- **Manage friend discovery and adding friends**: Change the setting under **Xbox and Windows 10 devices Online Safety** \> **add friends and follow others** to manage whether your child can find other players and add them through the Friends interface.
+- **Control multiplayer communication**: Change the setting under **Privacy** \> **you can communicate outside of Xbox with voice & text** or **manage online communication** to manage who your child can communicate with in multiplayer games.
+
+## Settings for Minecraft: Java Edition multiplayer
+
+Before you make changes, [Learn more about the Minecraft: Java Edition Friends List](../Minecraft-Java-Edition-Guides/Learn-more-about-the-Minecraft-Java-Edition-Friends-List.md).
+
+- **Manage friend requests**: Change both of these sets of settings to either allow or block friend requests.
+  - Under **privacy** \> **others can send you friend requests**, set **Allow** or **Block**.
+  - Under **Xbox and Windows 10 devices Online Safety** \> **you can add friends and follow others**, set **Allow** or **Block**.
+- **Control multiplayer communication**: Change the setting under **Privacy** \> **you can communicate outside of Xbox with voice & text** or **manage online communication** to manage who your child can communicate with in multiplayer games. Choosing **Friends** will limit incoming chat to players on the Friends List.
