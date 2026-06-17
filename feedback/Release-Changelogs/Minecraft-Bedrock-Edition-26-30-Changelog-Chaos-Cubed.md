@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.30 Changelog - Chaos Cubed"
 date: 2026-06-11T14:43:14Z
-updated: 2026-06-15T16:38:26Z
+updated: 2026-06-17T07:40:32Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/46570672409997-Minecraft-Bedrock-Edition-26-30-Changelog-Chaos-Cubed
 hash:
@@ -293,7 +293,7 @@ Chaos Cubed has landed in Minecraft! Hunt for vibrant Sulfur springs in the O
 #### Realms Hub
 
 - Realms Hub added to In-game pause screen, replacing the Realms Stories button.
-- Server Settings added for Render distance, Simulation distance and Max player count.
+- Server Settings added for Simulation distance and Max player count.
 - "No Members Found" modal no longer briefly shows up before loading members in Realms Stories and Realms Hub
 - Fixed Realms Hub settings screens not exiting properly after saving changes made on the screens.
 - Disable clear all members button for admin roles to avoid confusion, since admins cannot remove other admins or owners
