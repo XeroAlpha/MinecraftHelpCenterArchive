@@ -1,7 +1,7 @@
 ---
 title: System Requirements
 date: 2020-08-10T10:57:43Z
-updated: 2026-06-03T18:13:43Z
+updated: 2026-06-17T20:52:15Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556591-System-Requirements
 hash:
@@ -74,11 +74,11 @@ Windows 10 (64-bit)<br />
 </table>
 </figure>
 
-> **Note:** The Minecraft Education Client is not supported on any distribution of Linux (Ubuntu, EDUbuntu, ZorinOS Education, Debian EDU, Ubermix, etc.).   
+> **Note:** The Minecraft Education Client is not supported on any distribution of Linux (Ubuntu, EDUbuntu, ZorinOS Education, Debian EDU, Ubermix, etc.). Using emulators to emulate other platforms (such as Android, Windows, or otherwise) are **not** supported methods to run Minecraft Education on Linux. 
 >
 > *\***Note**: Minecraft Education should be able to run on the minimum supported operating systems; however, the experience will generally be better on the latest OS.  Issues discovered that are specific to the minimum supported OS versions will **not** be prioritized.*
 >
-> *\*\***Note:** ChromeOS and Android devices **must support Google Play Services** in order to use Minecraft Education and be supported. Platforms such as ChromeOS Flex, Amazon FireOS, HarmonyOS, and similar devices may not be able to install Minecraft Education and are not supported. *
+> *\*\***Note:** ChromeOS and Android devices **must support Google Play Services** in order to use Minecraft Education and be supported. Platforms such as ChromeOS Flex, Amazon FireOS, HarmonyOS, and similar devices may not be able to install Minecraft Education and are not supported. Additionally, Android emulators, besides the ChromeOS native one, are **not** supported. *
 
  
 
