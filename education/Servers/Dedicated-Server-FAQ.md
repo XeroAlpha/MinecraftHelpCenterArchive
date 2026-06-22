@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-04-30T20:31:36Z
+updated: 2026-06-22T18:32:27Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
@@ -25,7 +25,7 @@ hash:
 
 One of the most requested features for Minecraft Education has been the ability to run Dedicated Servers to host persistent worlds for use in classrooms and after-school programs (similar to the way Bedrock Dedicated Servers can be used with the consumer version of Minecraft). Minecraft Education now offers the option to self-host Dedicated Servers or join another tenant’s Dedicated Servers through cross-tenant play.
 
-Dedicated Servers do not require a client to host the world, can be hosted permanently with persistent worlds, enable cross-tenant play between multiple tenants, and have several other features listed below (see section 2). A Minecraft Education Dedicated Server unlocks expanded multiplayer experiences for classrooms and streamlines participation in Esports and other after-school or club programs.
+Dedicated Servers do not require a client to host the world, can be hosted permanently with persistent worlds, enable playing across Microsoft Tenants (coming soon), and have several other features listed below (see section 2). A Minecraft Education Dedicated Server unlocks expanded multiplayer experiences for classrooms and streamlines participation in Esports and other after-school or club programs.
 
 ## 2. What are the key features of Dedicated Server?
 
@@ -61,9 +61,7 @@ Use the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Toolin
 
 ## 7. How do I set up Cross-Tenant Play for my tenant?
 
-Currently, the only way to set up cross-tenant play is through scripting.  For a step-by-step installation guide, please refer to the [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md).
-
-Cross-tenant management in the Admin Portal is coming soon.
+Cross-tenant play for Dedicated Server isn't quite ready yet. We're hoping to have this feature fully released in the near future. 
 
 ## 8. How do I manage settings and servers for my tenant?
 

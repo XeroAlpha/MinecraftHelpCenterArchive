@@ -1,7 +1,7 @@
 ---
 title: Accounts Required to Play Minecraft
 date: 2023-09-18T21:48:09Z
-updated: 2026-03-12T22:28:08Z
+updated: 2026-06-22T18:48:14Z
 categories: Set Up Your Account
 tags:
   - title_minecraft_java_edition
@@ -24,92 +24,35 @@ tags:
   - section_35367616689677
 link: https://help.minecraft.net/hc/en-us/articles/19615552270221-Accounts-Required-to-Play-Minecraft
 hash:
-  h_01JRZ8T952YS5E3T0ZSCZ1V97E: using-microsoft-accounts-for-minecraft
+  h_01KVRAEG9W6M0T7C61PX6NC0RX: minecraft-bedrock-edition
+  h_01KVRAEG9X3Y6FM0K7XHBB0ZGV: minecraft-java-edition
+  h_01KVRAEG9YYD0DED3PQBFMFJ29: additional-microsoft-account-resources
 ---
 
-The game version and type of account you need to play Minecraft depends on your gaming platform. You can play Minecraft without a Microsoft account on some platforms, but a [Microsoft account](https://account.microsoft.com/account) is required to enable advanced features.\*
+The version of Minecraft you can play, and the accounts you need, depend on the platform you use. On some platforms, you can play without a Microsoft account—but you need one to use advanced features.\*
 
-Here’s a list of required accounts and available game versions (Minecraft: Bedrock Edition or Minecraft: Java Edition) by platform:
+Here’s a quick list of accounts you need and which version of Minecraft is available on each platform.
 
-<figure class="wysiwyg-table wysiwyg-table-align-left" style="width: 100%;">
-<table style="border-spacing: 0px;">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>Platform</strong></td>
-<td style="text-align: center; padding: 0px;"><strong>Game Version</strong></td>
-<td style="text-align: center; padding: 0px;"><strong>Required Account</strong></td>
-<td style="text-align: center; padding: 0px;"><strong>Additional Account*</strong></td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>Windows PC</strong></td>
-<td style="text-align: center; padding: 0px;"><p>Bedrock Edition</p>
-<p>Java Edition</p></td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center; padding: 0px;">N/A</td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>Linux computer</strong></td>
-<td style="text-align: center; padding: 0px;">Java Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center; padding: 0px;">N/A</td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>macOS computer</strong></td>
-<td style="text-align: center; padding: 0px;">Java Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center; padding: 0px;">N/A</td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>Xbox Game Consoles</strong></td>
-<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-<td style="text-align: center; padding: 0px;">N/A</td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>PlayStation 4</strong></td>
-<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://www.playstation.com/en-us/support/account/">PlayStation Network Account</a></td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>PlayStation 5</strong></td>
-<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://www.playstation.com/en-us/support/account/">PlayStation Network Account</a></td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>Nintendo Switch</strong></td>
-<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://en-americas-support.nintendo.com/app/answers/detail/a_id/15997/kw/nintendo%20account">Nintendo Account</a></td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>Android Phones &amp; Tablets</strong></td>
-<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://support.google.com/accounts/answer/15277265?hl=en&amp;ref_topic=3382296&amp;sjid=2329032815580734710-NC">Google Account</a></td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 0px;"><strong>Apple iOS Phones &amp; Tablets</strong></td>
-<td style="text-align: center; padding: 0px;">Bedrock Edition</td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.apple.com/">Apple ID</a></td>
-<td style="text-align: center; padding: 0px;"><a href="https://account.microsoft.com/account">Microsoft Account</a></td>
-</tr>
-</tbody>
-</table>
-</figure>
+## Minecraft: Bedrock Edition
 
-\*Signing in with or linking a Microsoft account on platforms that do not require one enables features such as cross-platform play, cross-platform access to subscriptions and Marketplace purchases, parental controls, social features, Realms, and multiplayer games.
+- **Windows PC**: Microsoft account required.
+- **Xbox One, X/S**: Microsoft account required.
+- **PlayStation 4/5**: Microsoft account and PlayStation Network account required.
+- **Nintendo Switch, Switch 2**: Microsoft account and Nintendo account required.
+- **Android devices**: Microsoft account and Google account required.
+- **Apple iOS devices**: Microsoft account and Apple ID required.
 
-## Using Microsoft accounts for Minecraft
+## Minecraft: Java Edition
+
+- **Windows**: Microsoft account required.
+- **Linux**: Microsoft account required.
+- **macOS**: Microsoft account required.
+
+\**Link a Microsoft account to access cross-platform play, subscriptions and Marketplace purchases across platforms, parental controls and social features, Minecraft Realms, and other multiplayer servers.*
+
+## Additional Microsoft account resources
 
 - [Get Help Signing into Minecraft with Your Microsoft Account](../Account-Sign-in/Get-Help-Signing-into-Minecraft-with-Your-Microsoft-Account.md)
 - [Sign in to Minecraft with a Microsoft Account on Mobile](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Mobile.md)
-- [Link Your Microsoft Account to Minecraft on PlayStation](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md)
+- [Link Your Microsoft Account to Your PlayStation Network Account in Minecraft: Bedrock Edition](../Use-or-Link-Microsoft-Accounts/Link-Your-Microsoft-Account-to-Your-PlayStation-Network-Account-in-Minecraft-Bedrock-Edition.md)
 - [Sign in to Minecraft with a Microsoft Account on Nintendo Switch](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md)
