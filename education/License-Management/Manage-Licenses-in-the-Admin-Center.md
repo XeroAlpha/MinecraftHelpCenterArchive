@@ -1,7 +1,7 @@
 ---
 title: Manage Licenses in the Admin Center
 date: 2020-08-10T11:21:41Z
-updated: 2024-06-20T22:35:14Z
+updated: 2026-06-23T21:08:07Z
 categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118672-Manage-Licenses-in-the-Admin-Center
 hash:
@@ -14,7 +14,7 @@ Once you've purchased either Microsoft 365 (A3 or A5) or Minecraft Education dir
 
  
 
-*Note: If you are not sure which type of license you have, [contact our support team](https://aka.ms/MEE_New_Request) and we'll help you out!*
+*Note: If you are not sure which type of license you have,* [*contact our support team*](https://aka.ms/MEE_New_Request)* and we'll help you out!*
 
  
 
@@ -23,9 +23,9 @@ Once you've purchased either Microsoft 365 (A3 or A5) or Minecraft Education dir
 If your school organization has purchased a Microsoft 365 A3 or A5 plan, the Minecraft Education license is automatically included for each account that you assign the A3 or A5 license to. For Minecraft Education access, you'll need to assign a user either a Microsoft 365 subscription or a direct Minecraft Education license to their account. 
 
 1.  Sign in to your [Microsoft 365](https://login.microsoftonline.com/) account. 
-2.  From the left-hand menu, select ** Users**** **
+2.  From the left-hand menu, select** Users**** **
 3.  From the** Users** list, select the users you want to add or remove the license from 
-4.  Add the relevant  license if it hasn't been assigned already. Note that if the user has any kind of faculty license, the user will be assigned an instructor role in the application and will have elevated permissions.\
+4.  Add the relevant license if it hasn't been assigned already. Note that if the user has any kind of faculty license, the user will be assigned an instructor role in the application and will have elevated permissions.\
     ![m365_assignment.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402371614100)
 5.  If you assigned a Microsoft 365 subscription bundle (A3 or A5), you'll need to ensure Minecraft Education is toggled on or off, depending on if you want to add or remove Minecraft Education from the user (it will be on by default)
 
@@ -55,4 +55,4 @@ In order to process a refund, you'll first need to ensure that all of your licen
 
 For a more detailed, Minecraft Education specific guide on how to cancel licenses, view our video linked below! 
 
-[![2024-06-20 15_30_45-(2449) Cancelling Minecraft Education Licenses - YouTube - Work - Microsoft​ Edg.png](https://edusupport.minecraft.net/hc/article_attachments/27762320888468)](https://youtu.be/8QpZFSOcyug)
+[![Cancelling Minecraft Education Licenses YouTube link](https://edusupport.minecraft.net/hc/article_attachments/27762320888468)](https://www.youtube.com/watch?v=8hokSk4lUx4)

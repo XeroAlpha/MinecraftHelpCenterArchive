@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Minecraft: Java Edition Chat Access"
 date: 2026-02-10T19:03:15Z
-updated: 2026-02-10T19:52:05Z
+updated: 2026-06-23T22:09:15Z
 categories: Java Edition Support
 tags:
   - section_ 44460521913485
@@ -20,12 +20,10 @@ If you cannot access chat in Minecraft: Java Edition, you may need to adjust you
 3.  Select the tile for the account you want to manage.
 4.  Select the **Privacy tab** on the account settings screen.
 5.  Set the following settings to **Everyone** to allow full access to chat:
-    - **"Gamertag" can:** You can communicate outside of Xbox with voice and text
-    - **Others can:** Others can communicate with voice, text or invites
+    - **"Gamertag" can:** You can communicate outside of Xbox with voice and text.
+    - **Others can:** Others can communicate with voice, text or invites.
 6.  Select **Submit** and wait for the page to reload.
 7.  Sign out of Minecraft and restart the game to refresh your permissions.
-
-**Note:** If you adjust these settings to “Friends,” chat access is “Blocked” in Minecraft: Java Edition.
 
 Parents and guardians can manage the settings for child accounts that are part of a family group. See these pages for more information:
 
