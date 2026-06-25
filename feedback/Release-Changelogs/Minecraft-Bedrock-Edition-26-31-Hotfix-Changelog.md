@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.31 Hotfix Changelog"
 date: 2026-06-22T13:04:53Z
-updated: 2026-06-22T15:31:14Z
+updated: 2026-06-25T16:47:32Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/46826058100621-Minecraft-Bedrock-Edition-26-31-Hotfix-Changelog
 ---
@@ -18,7 +18,7 @@ A new hotfix is rolling out to address issues found in the latest update. It wil
 
 ## Gameplay
 
-- Fixed an ID collision when adding split-screen guests on Nintendo Switch, allowing multiple guests to join
+- Fixed an ID collision when adding split-screen guests on Nintendo Switch, allowing multiple guests to join ([MCPE-239681](https://bugs.mojang.com/browse/MCPE-239681 "https://bugs.mojang.com/browse/mcpe-239681"))
 
 ## Blocks
 

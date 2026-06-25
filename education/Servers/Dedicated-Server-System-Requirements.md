@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server System Requirements
 date: 2026-03-05T17:30:26Z
-updated: 2026-04-08T21:12:02Z
+updated: 2026-06-25T15:31:29Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46913335157140-Dedicated-Server-System-Requirements
 hash:
@@ -19,15 +19,16 @@ Our minimum operating system and hardware requirements for Dedicated Servers are
 <tbody>
 <tr>
 <td><strong>Operating System</strong></td>
-<td>Windows 11 (any version)<br />
+<td><p>Windows 11 (any version)<br />
 Windows 10 (1703 or later)<br />
 Windows Server (2016 or later)<br />
 Ubuntu (18.04 or later)<br />
-Other Linux Distributions are <strong>not officially supported -</strong> Use at your own risk. </td>
+Other Linux Distributions are <strong>not officially supported -</strong> Use at your own risk. </p>
+<p>*32-bit Operating Systems are not supported</p></td>
 </tr>
 <tr>
 <td><strong>CPU</strong></td>
-<td>Intel or AMD CPU with at least 2 or more cores. </td>
+<td>64-bit Intel or AMD CPU with at least 2 or more cores. </td>
 </tr>
 <tr>
 <td><strong>RAM</strong></td>
@@ -38,7 +39,7 @@ Other Linux Distributions are <strong>not officially supported -</strong> Use at
 </figure>
 
 > **Tips: **\
-> You'll want to scale these specifications up as you increase your player count. 
+> The specs above are for a small server with a couple of players - You'll want to scale these specifications up as you increase your player count. 
 >
 > Unlike the Minecraft Education Client, running Dedicated Server inside of VMs is supported! 
 >
