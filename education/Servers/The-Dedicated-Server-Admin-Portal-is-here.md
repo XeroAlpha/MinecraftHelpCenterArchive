@@ -1,7 +1,7 @@
 ---
 title: "IT Admin: Create Dedicated Servers"
 date: 2026-02-17T03:13:24Z
-updated: 2026-06-26T16:44:50Z
+updated: 2026-06-26T18:34:34Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46370720373908-IT-Admin-Create-Dedicated-Servers
 hash:
@@ -36,7 +36,7 @@ In the Dedicated Admin Portal you can: 
 
 You can access the Dedicated Server Admin Portal at [aka.ms/dedicatedservers](https://aka.ms/dedicatedservers). 
 
-Note that we also support the scripting methods of administering servers as they can be useful for large scale server management (see [Dedicated Server Tooling and Scripting Guide](./Dedicated-Server-Tooling-and-Scripting-Guide.md))
+Note that we also support the scripting methods of administering servers as they can be useful for large scale server management (see [Dedicated Server Alternate Configuration](./Dedicated-Server-Tooling-and-Scripting-Guide.md))
 
 **Enabling Dedicated Servers**
 
@@ -49,11 +49,11 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
 
 - This feature toggle controls whether Dedicated Servers can be accessed through your tenant. You will need to turn this toggle on to play on your or another tenant’s servers.
   - When it's turned off, servers won’t be available at all — Minecraft Education won’t show any server options to users in the Minecraft Education client. You can, however, still edit and create new server listings in the Admin Portal. You just won't be able to host them. 
-- **Note:** You can also enable the "Allow Teacher to Manage Servers" checkbox to allow Faculty Members to create, edit, and authenticate serves. Learn more here: [Dedicated Server Teacher View](./Teacher-View-Create-Dedicated-Servers.md)
+- **Note:** You can also enable the "Allow Teacher to Manage Servers" checkbox to allow Faculty Members to create, edit, and authenticate serves. Learn more here: [IT Admin: Create Dedicated Servers](./The-Dedicated-Server-Admin-Portal-is-here.md)
 
 **Create a Server**
 
-1.  Before you begin ensure your intended server meets our [Dedicated Server System Requirements](./Dedicated-Server-System-Requirements.md)
+1.  Before you begin, you'll want to ensure your intended server meets our [Dedicated Server System Requirements](./Dedicated-Server-System-Requirements.md)
 
 2.  Navigate to the [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) and sign in (only Global Admins can initially sign in to the Admin Portal unless you enabled **Allow Teachers to Manage Servers** under tenant settings). 
 
@@ -88,7 +88,7 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
     - Select the game mode ![](https://edusupport.minecraft.net/hc/article_attachments/50728752636948)
 
 7.  Select which server version you would like to download
-    - Configuration file only - this can be used if you are [creating](https://edusupport.minecraft.net/hc/en-us/articles/46295360264084) or [managing](https://edusupport.minecraft.net/hc/en-us/articles/46295418163988) your server through scripting
+    - Configuration file only - this can be used if you are [creating or managing](./Dedicated-Server-Tooling-and-Scripting-Guide.md) [](https://edusupport.minecraft.net/hc/en-us/articles/46295418163988) your server through scripting
     - Configured Windows server - the downloaded zip file will contain all the files you need to run a Windows server
     - Configured Linux server - the downloaded zip file will contain all the files you need to run a Linux server. 
 
@@ -136,13 +136,13 @@ Installing your server on your host is fairly simple regardless of which Operati
 
 ### Editing your server
 
-Your server is now up and running. However, if you need to make any changes later such as changing the name, passcode, enabling or disabling chat, etc. you can find the process to edit servers here: [Modifying Existing Servers](./Modifying-Existing-Servers.md)
+Your server is now up and running. However, if you need to make any changes later such as changing the name, passcode, enabling or disabling chat, etc. you can find the process to edit servers here: [Modifying Existing Servers](./Manage-Servers-in-the-Admin-Portal.md)
 
  
 
 ### Partner Permissions (optional, coming soon)
 
-Official Minecraft Education Partners can be enabled in this section to grant them special permissions. This will allow partners to modify your tenant’s access to and visibility of servers hosted by the partner. That way, you don’t have to configure or host servers yourself. Note that enabled partners can only grant your users guest access to servers belonging to the partner’s tenant. Partners are never able to administer the accounts or servers belonging to your tenant.
+Official Minecraft Education Partners can be enabled in this section to grant them special permissions. This will allow partners to modify your tenant’s access to, and visibility of servers hosted by the partner. That way, you don’t have to configure or host servers yourself. Note that enabled partners can only grant your users guest access to servers belonging to the partner’s tenant. Partners are never able to administer the accounts or servers belonging to your tenant.
 
 #### Additional Resources
 

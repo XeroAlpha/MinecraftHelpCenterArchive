@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-06-24T20:15:00Z
+updated: 2026-06-26T18:40:37Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
@@ -51,13 +51,13 @@ You'll just to be sure your host device meets our [Dedicated Server System Requi
 
 ## 5.Are Dedicated Servers enabled by default?
 
-No. Dedicated Servers must be enabled by a user in your tenant with the Global Admin role. Please refer to [Tenant Settings](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356#Enabling%20Dedicated%20Servers) to learn how to enable the Dedicated Servers feature.
+No. Dedicated Servers must be enabled by a user in your tenant with the Global Admin role. Please refer to [this article](./The-Dedicated-Server-Admin-Portal-is-here.md) to learn how to enable the Dedicated Servers feature.
 
 ## 6. How do I set up a Dedicated Server?
 
 The simplest way to create a new server is to create a server using the Admin Portal.
 
-You can also use scripting to make mass deployment, bulk configuration, or similar setups easier. You can learn more [here](https://edusupport.minecraft.net/hc/en-us/articles/48539680060436).
+You can also use scripting to make mass deployment, bulk configuration, or similar setups easier. You can learn more [here](./Dedicated-Server-Tooling-and-Scripting-Guide.md).
 
 ## 7. How do I set up Cross-Tenant Play for my tenant?
 
@@ -67,9 +67,9 @@ Cross-tenant play for Dedicated Server isn't quite ready yet. We're hoping to ha
 
 You can use the Admin Portal and the sample tooling to manage your servers. Through these tools you can name servers, set passcodes, set up cross-tenant play, and more. 
 
-Learn how to [manage servers using the Admin Portal.](./Modifying-Existing-Servers.md)
+Learn how to [manage existing servers using the Admin Portal, server.properties file, or scripting.](./Manage-Servers-in-the-Admin-Portal.md)
 
-Please refer to the [Dedicated Server Installation Guide](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356) for more advanced techniques.
+Please refer to the [Dedicated Server Installation Guide](./The-Dedicated-Server-Admin-Portal-is-here.md) for more advanced techniques.
 
 ## 9. How do user permissions work in the world while I’m playing on a server?
 

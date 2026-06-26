@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Alternate Configuration
 date: 2025-10-01T17:35:03Z
-updated: 2026-06-26T16:45:35Z
+updated: 2026-06-26T18:30:35Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Alternate-Configuration
 hash:
@@ -47,7 +47,9 @@ Before starting ensure that: 
 
 ### Creating a Server
 
-You can create and register servers straight from the Tooling and Scripting utilities below. Alternatively, you can use our Dedicated Server Admin Portal via this article: [Create and Manage Dedicated Servers](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356-Create-and-Manage-Dedicated-Servers)
+You can create and register servers straight from the Tooling and Scripting utilities below. Alternatively, you can use our Dedicated Server Admin Portal via one of these articles: \
+[IT Admin: Create Dedicated Servers](./The-Dedicated-Server-Admin-Portal-is-here.md)\
+[Teacher View: Create Dedicated Servers](./Create-Servers-in-the-Admin-Portal.md) 
 
 #### Step 1: Download files to the appropriate machines
 
@@ -109,7 +111,7 @@ Your server is now up and running! However, the sample tooling features a set of
 - Name servers
 - Delete servers
 
-You can also edit servers created by the Tooling and Scripting notebook on the Dedicated Server Admin Portal: [Modifying Existing Servers](./Modifying-Existing-Servers.md)
+You can also edit servers created by the Tooling and Scripting notebook on the Dedicated Server Admin Portal: [Modifying Existing Servers](./Manage-Servers-in-the-Admin-Portal.md)
 
 ### Tooling setup and sign in
 
@@ -210,4 +212,4 @@ To configure these advanced options, you'll first want to sign into the Scriptin
 
 ### Server.properties file
 
-Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. More details on this file can be found in this guide: [Modifying Existing Servers](./Modifying-Existing-Servers.md)\
+Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. More details on this file can be found in this guide: [Modifying Existing Servers](./Manage-Servers-in-the-Admin-Portal.md)\

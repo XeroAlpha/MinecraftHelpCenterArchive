@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server System Requirements
 date: 2026-03-05T17:30:26Z
-updated: 2026-06-25T15:31:29Z
+updated: 2026-06-26T18:37:34Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46913335157140-Dedicated-Server-System-Requirements
 hash:
@@ -41,9 +41,9 @@ Other Linux Distributions are <strong>not officially supported -</strong> Use at
 > **Tips: **\
 > The specs above are for a small server with a couple of players - You'll want to scale these specifications up as you increase your player count. 
 >
-> Unlike the Minecraft Education Client, running Dedicated Server inside of VMs is supported! 
+> Unlike the Minecraft Education Client, running Dedicated Server inside of Virtual Machines (VMs) is fully supported! 
 >
-> Additionally, your server can be hosted either with local on-premises hardware, or in the cloud through a Virtual Private Server (VPS) provider like Microsoft Azure, Amazon Web Services (AWS), or similar, as long as they meet the above specifications.  
+> Additionally, your server can be hosted either with local on-premises hardware, local Virtual Machines (VMs) or in the cloud through a Virtual Private Server (VPS) provider like Microsoft Azure, Amazon Web Services (AWS), or similar, as long as they meet the above specifications.  
 
 \
 **Do I need a computer with server-grade hardware to run a Minecraft Education server? **\
@@ -60,3 +60,5 @@ No! You can run Minecraft Education servers locally on your existing hardware! A
 #### Additional Resources
 
 You can find the System Requirements for the Minecraft Education Client here: [System Requirements](../Get-Started/System-Requirements.md)
+
+You can learn more about Dedicated Servers here: [Dedicated Server FAQ](./Dedicated-Server-FAQ.md)
