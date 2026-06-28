@@ -1,9 +1,9 @@
 ---
 title: Modifying Existing Servers
-date: 2026-05-11T22:04:35Z
-updated: 2026-06-23T23:51:24Z
+date: 2026-02-13T23:35:50Z
+updated: 2026-06-26T16:43:52Z
 categories: Servers
-link: https://edusupport.minecraft.net/hc/en-us/articles/49150390556308-Modifying-Existing-Servers
+link: https://edusupport.minecraft.net/hc/en-us/articles/46295288885268-Modifying-Existing-Servers
 hash:
   h_01KRCH0RWXQF2728D5DE9K903P: editing-settings-in-the-admin-portal
   h_01KRCH3CS1APPBJSYBVRRG9M0G: editing-servers-with-serverproperties
@@ -27,15 +27,15 @@ Once you create your servers you can edit their properties, such as enabling or 
 - Login using your Global Admin account. 
 - If you are not on the Server List page, navigate to this page using the **Servers List **button
 
-![Server List.png](https://edusupport.minecraft.net/hc/article_attachments/49150390546580)
+![Server List.png](https://edusupport.minecraft.net/hc/article_attachments/46397108093844)
 
 - Each server is represented by a server card that displays editable server properties
 
-![server_card.png](https://edusupport.minecraft.net/hc/article_attachments/49150359598100)
+![server_card.png](https://edusupport.minecraft.net/hc/article_attachments/46397060350740)
 
 - Use the search box, filter or sort features to find the server that you want to edit
 
-![Search_filter_sort.png](https://edusupport.minecraft.net/hc/article_attachments/49150390551188)
+![Search_filter_sort.png](https://edusupport.minecraft.net/hc/article_attachments/46397060353684)
 
 - Use the Server Name input box to change the server name
 - Use the Server Passcode input box to add or edit a passcode
@@ -96,6 +96,21 @@ false</td>
 <td>No</td>
 </tr>
 <tr>
+<td>level-name</td>
+<td>Any string without semicolon symbol or symbols illegal for file name: /\n\r\t\f`?*\\&lt;&gt;|\":</td>
+<td>The filename for the world to use. Default is <code>Bedrock level</code></td>
+<td>No</td>
+</tr>
+<tr>
+<td><br />
+default-player-permission-level</td>
+<td>Visitor<br />
+Member<br />
+Operator</td>
+<td>Permission Level for new players joining for the first time.</td>
+<td>No</td>
+</tr>
+<tr>
 <td>chat-restriction</td>
 <td>None<br />
 Dropped<br />
@@ -107,6 +122,14 @@ Disabled</td>
 <strong>Operators:</strong> Even when chat is disabled, operators can open chat to run commands, but messages won’t be visible to others.</td>
 <td>Partially - <br />
 Only Disabled and None are available</td>
+</tr>
+<tr>
+<td>allow-command-blocks</td>
+<td>true<br />
+false</td>
+<td>Enable or disable the use of Command Blocks<br />
+(Note: Operator status will still be required if true.)</td>
+<td>No. </td>
 </tr>
 <tr>
 <td>chat-logging-enabled</td>
@@ -122,6 +145,43 @@ Can only be edited later in server.properties.</td>
 <td>The maximum number of players allowed to join at one time.</td>
 <td>No</td>
 </tr>
+<tr>
+<td>view-distance</td>
+<td><p>Positive integer equal to 5 or greater</p>
+<p>Default = 32</p></td>
+<td><p>The maximum allowed view distance in number of chunks</p>
+<p>(Equal to Render Distance in Peer-2-Peer sessions)</p></td>
+<td>No</td>
+</tr>
+<tr>
+<td>tick-distance </td>
+<td><p>Any Integer from 4 to 12. </p>
+<p>Default = 4</p></td>
+<td><p>The world will be ticked (or "Simulated") this many chunks away from any player.</p>
+<p>Similar to Simulation Distance in Peer-2-Peer sessions</p></td>
+<td>No</td>
+</tr>
+<tr>
+<td>player-idle-time</td>
+<td><p>Any Positive Integer</p>
+<p>0 to disable</p></td>
+<td>The amount of time a player can be inactive before being kicked from the server. </td>
+<td>No</td>
+</tr>
+<tr>
+<td>max-threads</td>
+<td>Any Positive Integer</td>
+<td><p>The number of threads the server is allowed to use. </p>
+<p>Setting to 0, or removing this property, allows the server to use as many as possible.</p></td>
+<td>No</td>
+</tr>
+<tr>
+<td>allow-code-builder</td>
+<td>true<br />
+false</td>
+<td>Enables or disables the use of CodeBuilder for all users.</td>
+<td>No</td>
+</tr>
 </tbody>
 </table>
 </figure>
@@ -132,12 +192,12 @@ If a server has served it's purpose, you can remove it from your admin portal. T
 
 - Use the search box, filter or sort features to find the server that you want to Remove
 
-![Search_filter_sort.png](https://edusupport.minecraft.net/hc/article_attachments/49150390551188)
+![Search_filter_sort.png](https://edusupport.minecraft.net/hc/article_attachments/46397060353684)
 
 - Press the **Remove Server **button
 - Press the **Remove **button on the confirmation screen 
 
-![Remove.png](https://edusupport.minecraft.net/hc/article_attachments/49150359600404)
+![Remove.png](https://edusupport.minecraft.net/hc/article_attachments/46397108098708)
 
 - Press the **Cancel **button if you've changed your mind
 

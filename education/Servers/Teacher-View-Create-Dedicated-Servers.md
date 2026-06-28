@@ -1,9 +1,9 @@
 ---
 title: "Teacher View: Create Dedicated Servers"
-date: 2026-04-23T21:28:07Z
-updated: 2026-06-23T22:45:49Z
+date: 2026-02-13T23:38:43Z
+updated: 2026-06-26T18:26:43Z
 categories: Servers
-link: https://edusupport.minecraft.net/hc/en-us/articles/48540344510228-Teacher-View-Create-Dedicated-Servers
+link: https://edusupport.minecraft.net/hc/en-us/articles/46295348713236-Teacher-View-Create-Dedicated-Servers
 hash:
   h_01KPY6CPKKB5609Y3YNDTSR7YM: important-links
   h_01KPY6CWEKNVYG21FJVCMJ0VTM: prerequisites
@@ -15,9 +15,9 @@ hash:
 If your Global Administrator (IT Administrator) has enabled the feature, Teachers can create, manage, and install Minecraft Education Dedicated Servers through the Dedicated Server Admin Portal. This guide is intended to help teachers through the process of setting up and running their servers! 
 
 **Note**: Teachers are determined by licensing. Any user who has a "For Faculty" license (i.e. Microsoft 365 A3 for Faculty, or Minecraft Education for Faculty) is considered a teacher. Any other license type (such as a Commercial License) will be considered a student, and thus, unable to access the portal or register servers. In these cases, you'll need to work with your IT Team, or Global Administrator, to setup your server(s) or get the proper licenses assigned. \
-Commercial Users will not be able to get these licenses. You will need to use your Global Administrator account in these cases. You should follow this guide instead: [Create and Manage Dedicated Servers](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356)
+Commercial Users will not be able to get these licenses. You will need to use your Global Administrator account in these cases. You should follow this guide instead: [IT Admin: Create Dedicated Servers](./IT-Admin-Create-Dedicated-Servers.md)
 
-While we've done our best to make this process as easy as possible, setting up the server may still require some technical knowledge. This may also involve working with your Network Administrator to get a port opened on your network for the server to use, ensuring all of the URLs used by Minecraft Education are allow listed, or enabling Dedicated Serves at a tenant level. You should refer your IT Admin to the following article to ensure all initial setup is complete: [The Dedicated Server Admin Portal is here!](./The-Dedicated-Server-Admin-Portal-is-here.md)
+While we've done our best to make this process as easy as possible, setting up the server may still require some technical knowledge. This may also involve working with your Network Administrator to get a port opened on your network for the server to use, ensuring all of the URLs used by Minecraft Education are allow listed, or enabling Dedicated Serves at a tenant level. You should refer your IT Admin to the first part of the following article to ensure all initial setup is complete: [IT Admin: Create Dedicated Servers](./IT-Admin-Create-Dedicated-Servers.md)
 
 You can find general information about dedicated servers in the [Dedicated Server FAQ](./Dedicated-Server-FAQ.md)
 
@@ -32,21 +32,21 @@ You can find general information about dedicated servers in the [Dedicated Serve
 
 Before you begin, you'll need to verify the following: 
 
-1.  Your IT Admin will need to enable both the ability to run servers and access to teacher view on the tenant level. They can do that with the steps on this article: [Create and Manage Dedicated Servers](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356)
+1.  Your IT Admin will need to enable both the ability to run servers and access to teacher view on the tenant level. They can do that with the steps on this article: [IT Admin: Create Dedicated Servers](./IT-Admin-Create-Dedicated-Servers.md)
     - Failure to do this will result in an "access not permitted error" when trying to sign into the admin portal. 
 2.  Ensure that all of the [URLs used by Minecraft Education](../Administration/FAQ-IT-Admin-Guide.md) are allow listed on your network. 
 3.  If intending to connect externally, ensure that your network administrator has opened a port on your firewall or router for your server to use. If connecting locally, you may only need to open a port through your Operating System's firewall. 
 4.  You will also need a static IP assigned to your host device. We recommend working with your IT Administrator to ensure you get an IP that is not already taken. 
-5.  Ensure your host device meets the [System Requirements](../Get-Started/System-Requirements.md)
+5.  Ensure your host device meets the [Dedicated Server System Requirements](./Dedicated-Server-System-Requirements.md)
 6.  Ensure all of your client devices are [up to date](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md), and meet the [System Requirements](../Get-Started/System-Requirements.md)
 7.  Ensure you have a For Faculty license that will allow access to the [Minecraft Education Dedicated Server Admin Portal](https://aka.ms/dedicatedservers)
     - These can be any of the following: 
       - Microsoft A1, A3, or A5 for Faculty 
       - Minecraft Education for Faculty
         -  Note users with "For Student Use" licenses will **not** be able to sign in, create, or manage servers. 
-        - Commercial users will not be able to get these licenses; you will need to use your Global Administrator account for this. Commercial Users should follow this guide: [Create and Manage Dedicated Servers](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356)
+        - Commercial users will not be able to get these licenses; you will need to use your Global Administrator account for this. Commercial Users should follow this guide: [IT Admin: Create Dedicated Servers](./IT-Admin-Create-Dedicated-Servers.md)
     - You can verify the licenses on your account either by reaching out to your IT Admin, or through your account settings here: <https://aka.ms/assigned-subscriptions>. 
-      - If you do not have one of these licenses please reach out to your IT Administration Team to have your license updated. Support cannot change your license for you. 
+      - If you do not have one of these licenses, please reach out to your IT Administration Team to have your license updated. Support cannot change your license for you. 
     - Failure to do this will result in an "access not permitted error" when trying to sign into the admin portal. 
 
 ### Creating a server
@@ -80,7 +80,7 @@ Once you've verified the prerequisites above, you can begin to create your first
     5.  Use the **Allow chat** toggle to enable or disable chat on the server
     6.  You may also elect to log all messages sent by users by toggling Chat Logging. 
         - This will save all messages sent by users to `/chat_logs/ChatLog_<Date>.txt`
-        - If you wish to change this setting later, it must be manually updated by changing the `chat-logging-enabled` property in `server.properties`. The server will need to be rebooted for this to take effect.![](https://edusupport.minecraft.net/hc/article_attachments/48786367340308)
+        - If you wish to change this setting later, it must be manually updated by changing the `chat-logging-enabled` property in `server.properties`. The server will need to be rebooted for this to take effect.![](https://edusupport.minecraft.net/hc/article_attachments/50728849372692)
 
 5.  Provide the world generation settings (Optional)
     - Enter a world seed 
@@ -95,7 +95,7 @@ Once you've verified the prerequisites above, you can begin to create your first
 
 8.  When you see the **Download Complete** confirmation your server files are ready for installation/
 
-    ![Download Complete.png](https://edusupport.minecraft.net/hc/article_attachments/48786367342612)
+    ![Download Complete.png](https://edusupport.minecraft.net/hc/article_attachments/46397148609940)
 
 9.  Click the **Continue** button, and enter your Server information
     - Server Name - the name that appears on the server list in the Minecraft Education client
@@ -121,14 +121,14 @@ Installing your server on your host is fairly simple regardless of which Operati
 3.  The package you download should be pre-authenticated. However, on the first run, you *may* need to authenticate the server using either your Global Administrator account, or a faculty account (if your Admin has **Allow Teachers to Manage Servers** in tenant settings enabled). 
     1.  Use the steps in your terminal to authenticate. On CLI Interfaces, use a browser on another device.
 
-        ![](https://edusupport.minecraft.net/hc/article_attachments/48786375267860)
+        ![](https://edusupport.minecraft.net/hc/article_attachments/50728866308244)
 
     2.  A brief moment after completing the browser sign in, the server should complete the sign in process and present you with the server ID and tenant ID you signed in to, as well as the IP and port clients will use to try to connect to the server as configured in the “server.properties” file.
         1.  If your server closes and is run again, it will attempt to refresh your sign in silently using the information in the “edu_server_session.json” file, but if refreshing silently fails, it may prompt you to sign in again with the same steps you just went through.
 
     3.  At this point, the server is registered and hosted. 
 
-    4.  You may need to reauthenticate with the steps above if the server isn't run for awhile. 
+    4.  You may need to reauthenticate with the steps above if the server isn't run for a while. 
 
  
 

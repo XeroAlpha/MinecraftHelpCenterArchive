@@ -48,8 +48,8 @@ Before starting ensure that: 
 ### Creating a Server
 
 You can create and register servers straight from the Tooling and Scripting utilities below. Alternatively, you can use our Dedicated Server Admin Portal via one of these articles: \
-[IT Admin: Create Dedicated Servers](./The-Dedicated-Server-Admin-Portal-is-here.md)\
-[Teacher View: Create Dedicated Servers](./Create-Servers-in-the-Admin-Portal.md) 
+[IT Admin: Create Dedicated Servers](./IT-Admin-Create-Dedicated-Servers.md)\
+[Teacher View: Create Dedicated Servers](./Teacher-View-Create-Dedicated-Servers.md) 
 
 #### Step 1: Download files to the appropriate machines
 
@@ -111,7 +111,7 @@ Your server is now up and running! However, the sample tooling features a set of
 - Name servers
 - Delete servers
 
-You can also edit servers created by the Tooling and Scripting notebook on the Dedicated Server Admin Portal: [Modifying Existing Servers](./Manage-Servers-in-the-Admin-Portal.md)
+You can also edit servers created by the Tooling and Scripting notebook on the Dedicated Server Admin Portal: [Modifying Existing Servers](./Modifying-Existing-Servers.md)
 
 ### Tooling setup and sign in
 
@@ -212,4 +212,4 @@ To configure these advanced options, you'll first want to sign into the Scriptin
 
 ### Server.properties file
 
-Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. More details on this file can be found in this guide: [Modifying Existing Servers](./Manage-Servers-in-the-Admin-Portal.md)\
+Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. More details on this file can be found in this guide: [Modifying Existing Servers](./Modifying-Existing-Servers.md)\

@@ -22,7 +22,7 @@ Welcome to the Minecraft Education Copper, Collaborate & Compete Update! W
 
 ## Minor Update (v1.21.133)
 
-- Chat logging can now be enabled for Dedicated Servers through the [Dedicated Server Admin Portal](../Servers/Manage-Servers-in-the-Admin-Portal.md) or the server properties. 
+- Chat logging can now be enabled for Dedicated Servers through the [Dedicated Server Admin Portal](../Servers/Modifying-Existing-Servers.md) or the server properties. 
 - Updated sign in security
 - Improved Code Builder stability and various coding bug fixes
 

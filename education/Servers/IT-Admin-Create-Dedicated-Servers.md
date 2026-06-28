@@ -36,7 +36,7 @@ In the Dedicated Admin Portal you can: 
 
 You can access the Dedicated Server Admin Portal at [aka.ms/dedicatedservers](https://aka.ms/dedicatedservers). 
 
-Note that we also support the scripting methods of administering servers as they can be useful for large scale server management (see [Dedicated Server Alternate Configuration](./Dedicated-Server-Tooling-and-Scripting-Guide.md))
+Note that we also support the scripting methods of administering servers as they can be useful for large scale server management (see [Dedicated Server Alternate Configuration](./Dedicated-Server-Alternate-Configuration.md))
 
 **Enabling Dedicated Servers**
 
@@ -49,7 +49,7 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
 
 - This feature toggle controls whether Dedicated Servers can be accessed through your tenant. You will need to turn this toggle on to play on your or another tenant’s servers.
   - When it's turned off, servers won’t be available at all — Minecraft Education won’t show any server options to users in the Minecraft Education client. You can, however, still edit and create new server listings in the Admin Portal. You just won't be able to host them. 
-- **Note:** You can also enable the "Allow Teacher to Manage Servers" checkbox to allow Faculty Members to create, edit, and authenticate serves. Learn more here: [IT Admin: Create Dedicated Servers](./The-Dedicated-Server-Admin-Portal-is-here.md)
+- **Note:** You can also enable the "Allow Teacher to Manage Servers" checkbox to allow Faculty Members to create, edit, and authenticate serves. Learn more here: [IT Admin: Create Dedicated Servers](./IT-Admin-Create-Dedicated-Servers.md)
 
 **Create a Server**
 
@@ -88,7 +88,7 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
     - Select the game mode ![](https://edusupport.minecraft.net/hc/article_attachments/50728752636948)
 
 7.  Select which server version you would like to download
-    - Configuration file only - this can be used if you are [creating or managing](./Dedicated-Server-Tooling-and-Scripting-Guide.md) [](https://edusupport.minecraft.net/hc/en-us/articles/46295418163988) your server through scripting
+    - Configuration file only - this can be used if you are [creating or managing](./Dedicated-Server-Alternate-Configuration.md) [](https://edusupport.minecraft.net/hc/en-us/articles/46295418163988) your server through scripting
     - Configured Windows server - the downloaded zip file will contain all the files you need to run a Windows server
     - Configured Linux server - the downloaded zip file will contain all the files you need to run a Linux server. 
 
@@ -136,7 +136,7 @@ Installing your server on your host is fairly simple regardless of which Operati
 
 ### Editing your server
 
-Your server is now up and running. However, if you need to make any changes later such as changing the name, passcode, enabling or disabling chat, etc. you can find the process to edit servers here: [Modifying Existing Servers](./Manage-Servers-in-the-Admin-Portal.md)
+Your server is now up and running. However, if you need to make any changes later such as changing the name, passcode, enabling or disabling chat, etc. you can find the process to edit servers here: [Modifying Existing Servers](./Modifying-Existing-Servers.md)
 
  
 
