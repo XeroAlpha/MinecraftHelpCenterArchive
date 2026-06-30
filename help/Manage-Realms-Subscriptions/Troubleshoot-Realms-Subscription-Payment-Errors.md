@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Realms Subscription Payment Errors
 date: 2024-07-29T19:54:41Z
-updated: 2026-03-12T23:28:03Z
+updated: 2026-06-30T15:09:57Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft_java_edition
@@ -26,10 +26,22 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/28804353409805-Troubleshoot-Realms-Subscription-Payment-Errors
 ---
 
-If you get a purchasing error when trying to subscribe to Minecraft Realms, try the tips below.
+If you get a purchasing error when trying to subscribe to Minecraft Realms, there are a few questions you can ask to help figure out what the problem is.
 
-- **Check Your Payment Method:** Verify that you have sufficient funds available on your payment method.
-- **Verify Country of Purchase:** If you’re not in the same country as the credit or debit card you're using, the purchase may not go through. Check with your card provider.
-- **Try a Prepaid Card instead:** Consider buying a Minecraft prepaid card from a local retailer. This can then be used to set up your subscription.
+- **Check Your Payment Method Information.** Verify that your payment method:  
+  - Has sufficient funds available.
+  - Is active (not expired).
+  - Matches the billing information entered during checkout.
 
-If you continue having trouble subscribing to Minecraft Realms, [contact us](https://help.minecraft.net/hc/en-us/requests/new) so we can help out.
+If your bank or payment provider blocked the transaction, contact them directly.
+
+- **Verify Country of Purchase:** If the country associated with your payment method does not match your current location, the purchase may fail. For example:
+  - Your card may have been issued in a different country.
+  - Your console or device store is set to another region.
+  - You are traveling or using a VPN.
+
+Try updating your region settings, see [Update your Microsoft account if you’re moving to a new country or region](https://support.xbox.com/en-US/help/account-profile/manage-account/update-microsoft-account-country-region) for more information. If you are trying to make an international purchase, check with your card provider to verify that international purchases are allowed.
+
+- **Try a Prepaid Card instead:** If you still cannot complete payment with your card, consider buying a prepaid card from a local retailer to purchase your subscription.
+
+If you continue having trouble subscribing to Minecraft Realms, [contact us](https://help.minecraft.net/hc/en-us/requests/new) so we can help.
