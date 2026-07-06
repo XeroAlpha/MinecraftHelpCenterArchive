@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Advanced Setup
 date: 2026-04-30T20:52:27Z
-updated: 2026-06-24T16:27:52Z
+updated: 2026-07-06T20:06:57Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/48786821856532-Dedicated-Server-Advanced-Setup
 hash:
@@ -15,10 +15,12 @@ After you've configured your server (either through the [Dedicated Server Admin 
 
 #### Allow-list configuration
 
-You can configure an allow list to limit who can join your server. This cannot be done in the admin portal alone. However, you can either edit the allowlist.json file directly or use in game commands to decide who should be allowed into your sessions. 
+You can configure an allow list to limit who can join your server. This cannot be done in the admin portal alone. However, you can either edit the allowlist.json file directly or use terminal commands to decide who should be allowed into your sessions. 
 
-**In Game - **
+**From Terminal - **
 
+> Note: This command **cannot** be run from in-game. Only from the terminal hosting the session. \
+> \
 > Note: using this method will require turning the allowlist back on or off upon restarting the server. The server will default to the original configuration of the server. This will be changed in a future release. 
 >
 > i.e. If you create the server with the `allow-list = true` property in server.properties then the server will have it on by default on each startup. If you have it set to `false` it will default to off and will need to be turned back on each session. 
