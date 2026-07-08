@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.40.30
 date: 2026-07-07T12:56:44Z
-updated: 2026-07-07T15:00:37Z
+updated: 2026-07-08T08:09:37Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/47194770881037-Minecraft-Beta-Preview-26-40-30
 hash:
@@ -223,7 +223,7 @@ Weary from all that hiking? Seek out an abandoned camp to rest your blocky bones
 ### API
 
 - Fixed minecraft:hopper_minecart to fire EntityItemPickupAfterEvent and EntityItemPickupBeforeEvent for items above the cart.
-- Released LootItem.conditions in @minecraft/server v2.4.0 (moved from beta to stable)
+- Released LootItem.conditions in @minecraft/server v2.9.0 (moved from beta to stable)
 
 #### DDUI
 
