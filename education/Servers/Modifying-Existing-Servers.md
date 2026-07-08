@@ -1,7 +1,7 @@
 ---
 title: Modifying Existing Servers
 date: 2026-02-13T23:35:50Z
-updated: 2026-06-26T16:43:52Z
+updated: 2026-07-07T23:13:36Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295288885268-Modifying-Existing-Servers
 hash:
@@ -51,15 +51,17 @@ Once you create your servers you can edit their properties, such as enabling or 
 ### Editing servers with server.properties
 
 Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. \
+Some properties are *hot-swappable* while others are not. Hot swappable properties can be changed after server creation. If a property is not hot swappable this means it **cannot be changed** after the initial server startup. \
 There are many options that can be edited in this file; however, the main ones are:
 
 <figure class="wysiwyg-table" style="width: 100%;">
 <table class="wysiwyg-table-resized" style="margin-left: 0px; margin-right: auto;">
 <colgroup>
-<col style="width: 30%" />
-<col style="width: 13%" />
-<col style="width: 35%" />
-<col style="width: 22%" />
+<col style="width: 28%" />
+<col style="width: 12%" />
+<col style="width: 33%" />
+<col style="width: 12%" />
+<col style="width: 14%" />
 </colgroup>
 <tbody>
 <tr>
@@ -67,17 +69,20 @@ There are many options that can be edited in this file; however, the main ones a
 <td>Values</td>
 <td>Description</td>
 <td>Can be configured in Admin Portal?</td>
+<td>How Swappable? </td>
 </tr>
 <tr>
 <td>server-ip</td>
 <td>Any IP Address or URL</td>
 <td>The IP Address or URL of the Server. </td>
 <td>Yes</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>server-port</td>
 <td>Any integer between 1 and 65535</td>
 <td>On which IPv4 port the server should listen for connections. </td>
+<td>Yes</td>
 <td>Yes</td>
 </tr>
 <tr>
@@ -86,6 +91,7 @@ There are many options that can be edited in this file; however, the main ones a
 false</td>
 <td>If true then all players' usernames must be specified in the <code>allowlist.json</code> file. Additional configuration required. Steps can be found in this article: <a href="./Dedicated-Server-Advanced-Setup.md">Dedicated Server Advanced Setup </a></td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>allow-commands</td>
@@ -94,12 +100,14 @@ false</td>
 <td><p>Allows manipulating the world by using slash commands in the chat. </p>
 <p>If false, then commands are only accessible in the server console and not to users in the client (even if they are teachers or operators).</p></td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>level-name</td>
 <td>Any string without semicolon symbol or symbols illegal for file name: /\n\r\t\f`?*\\&lt;&gt;|\":</td>
 <td>The filename for the world to use. Default is <code>Bedrock level</code></td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td><br />
@@ -109,6 +117,7 @@ Member<br />
 Operator</td>
 <td>Permission Level for new players joining for the first time.</td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>chat-restriction</td>
@@ -122,6 +131,7 @@ Disabled</td>
 <strong>Operators:</strong> Even when chat is disabled, operators can open chat to run commands, but messages won’t be visible to others.</td>
 <td>Partially - <br />
 Only Disabled and None are available</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>allow-command-blocks</td>
@@ -130,6 +140,7 @@ false</td>
 <td>Enable or disable the use of Command Blocks<br />
 (Note: Operator status will still be required if true.)</td>
 <td>No. </td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>chat-logging-enabled</td>
@@ -138,12 +149,14 @@ false</td>
 <td>Enable Chat Logging. If true, all messaged sent by users will be sent to <code>/chat_logs/ChatLog_&lt;Date&gt;.txt</code> for later review. </td>
 <td>Can only be initially enabled or disabled on server creation. <br />
 Can only be edited later in server.properties.</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>max-players</td>
 <td>Any Positive Integer</td>
 <td>The maximum number of players allowed to join at one time.</td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>view-distance</td>
@@ -152,6 +165,7 @@ Can only be edited later in server.properties.</td>
 <td><p>The maximum allowed view distance in number of chunks</p>
 <p>(Equal to Render Distance in Peer-2-Peer sessions)</p></td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>tick-distance </td>
@@ -160,12 +174,14 @@ Can only be edited later in server.properties.</td>
 <td><p>The world will be ticked (or "Simulated") this many chunks away from any player.</p>
 <p>Similar to Simulation Distance in Peer-2-Peer sessions</p></td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>player-idle-time</td>
 <td><p>Any Positive Integer</p>
 <p>0 to disable</p></td>
 <td>The amount of time a player can be inactive before being kicked from the server. </td>
+<td>No</td>
 <td>No</td>
 </tr>
 <tr>
@@ -174,12 +190,14 @@ Can only be edited later in server.properties.</td>
 <td><p>The number of threads the server is allowed to use. </p>
 <p>Setting to 0, or removing this property, allows the server to use as many as possible.</p></td>
 <td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>allow-code-builder</td>
 <td>true<br />
 false</td>
 <td>Enables or disables the use of CodeBuilder for all users.</td>
+<td>No</td>
 <td>No</td>
 </tr>
 </tbody>
