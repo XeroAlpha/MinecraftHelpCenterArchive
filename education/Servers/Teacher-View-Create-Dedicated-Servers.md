@@ -1,7 +1,7 @@
 ---
 title: "Teacher View: Create Dedicated Servers"
 date: 2026-02-13T23:38:43Z
-updated: 2026-06-26T18:26:43Z
+updated: 2026-07-08T18:29:05Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295348713236-Teacher-View-Create-Dedicated-Servers
 hash:
@@ -55,7 +55,7 @@ Once you've verified the prerequisites above, you can begin to create your first
 
 1.  Before you begin make sure your intended server meets our [Dedicated Server System Requirements](./Dedicated-Server-System-Requirements.md)
 
-2.  Ensure your IT Administrator has enabled the use of Dedicated Servers per the "Enable Dedicated Servers" section of this guide: [IT Admin: Create Dedicated Servers](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356)
+2.  Ensure your IT Administrator has enabled the use of Dedicated Servers per the "Enable Dedicated Servers" section of this guide: [IT Admin: Create Dedicated Servers](./IT-Admin-Create-Dedicated-Servers.md)
 
 3.  From either the Home page or the Server List page, click the **Add a Server** button
 

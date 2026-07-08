@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-06-26T18:40:37Z
+updated: 2026-07-08T18:10:30Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
@@ -55,7 +55,8 @@ No. Dedicated Servers must be enabled by a user in your tenant with the Global A
 
 ## 6. How do I set up a Dedicated Server?
 
-The simplest way to create a new server is to create a server using the Admin Portal.
+The simplest way to create a new server is to create a server using the Admin Portal.\
+The process is a little different for [IT Admins](../Administration/FAQ-IT-Admin-Guide.md) and [Teachers](./Teacher-View-Create-Dedicated-Servers.md).
 
 You can also use scripting to make mass deployment, bulk configuration, or similar setups easier. You can learn more [here](./Dedicated-Server-Alternate-Configuration.md).
 
@@ -81,7 +82,7 @@ No. Cross Tenant has not yet been implemented into Dedicated Server. After the f
 
 ## 11. What are partner permissions for Dedicated Servers?
 
-As of right now, partners are not accessible in the but may get activated at a future point. If a 3<sup>rd</sup> party partner is approved by the Education team at Mojang, we will add them to the list of approved partners to which Global Admins can grant access. If given access, partners can help you set up your servers correctly or even coordinate entire Esports tournaments in Minecraft Education using Dedicated Servers they host for you! Do not grant a partner permissions unless you have already talked to the partner; they will let you know when to turn on partner permissions.
+**As of right now, partners are not accessible in the but may get activated at a future point**. If a 3<sup>rd</sup> party partner is approved by the Education team at Mojang, we will add them to the list of approved partners to which Global Admins can grant access. If given access, partners can help you set up your servers correctly or even coordinate entire Esports tournaments in Minecraft Education using Dedicated Servers they host for you! Do not grant a partner permissions unless you have already talked to the partner; they will let you know when to turn on partner permissions.
 
 Note that if you grant permissions to a partner, the actions they can take on your behalf are limited. Partners **cannot** directly configure servers that you host yourself, nor can they edit settings not relevant to Dedicated Servers. They **can** enable or disable the Dedicated Servers feature for your tenant, enable or disable cross-tenant play for your tenant, and grant your users access to servers they host.
 
@@ -89,7 +90,7 @@ Note that if you grant permissions to a partner, the actions they can take on yo
 
 ![](https://edusupport.minecraft.net/hc/article_attachments/41758424526996)
 
-By default, to see a server in the “Servers” view within the Minecraft Education client, users must manually add the server by entering its server ID, which is a 12-digit, alphanumeric, case-insensitive code. However, a server can instead be configured to be displayed in the “Servers” menu to all users in the tenant without being added manually. Please refer to the [Create Dedicated Servers Guide](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356) to see how to broadcast servers.
+By default, to see a server in the “Servers” view within the Minecraft Education client, users must manually add the server by entering its server ID, which is a 12-digit, alphanumeric, case-insensitive code. However, a server can instead be configured to be displayed in the “Servers” menu to all users in the tenant without being added manually. Please refer to the setup articles ([IT Admin: Create zedicated Servers](./IT-Admin-Create-Dedicated-Servers.md) or [Teacher View: Create Dedicated Servers)](./Teacher-View-Create-Dedicated-Servers.md) to see how to broadcast servers.
 
 ## 13. Can chat be logged? 
 
