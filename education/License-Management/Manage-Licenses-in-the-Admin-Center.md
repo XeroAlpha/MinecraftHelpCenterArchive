@@ -1,13 +1,13 @@
 ---
 title: Manage Licenses in the Admin Center
 date: 2020-08-10T11:21:41Z
-updated: 2026-06-23T21:08:07Z
+updated: 2026-07-09T20:17:55Z
 categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118672-Manage-Licenses-in-the-Admin-Center
 hash:
   h_01HKX5GAXRA6KG1YWNGHC0351M: assign-or-remove-a-minecraft-education-license-from-a-user
   01HKX5MQHRQKGX67EZ6WCV6HME: how-to-enable-auto-claim-for-minecraft-education
-  h_01J0VWJZEV2BT4QD1MA8YFGYTW: what-if-i-want-a-refund
+  h_01J0VWJZEV2BT4QD1MA8YFGYTW: what-if-i-want-to-cancel-or-want-a-refund
 ---
 
 Once you've purchased either Microsoft 365 (A3 or A5) or Minecraft Education direct licenses in the Admin Center, you'll need to assign these licenses to users to grant them access to the app. The steps for assigning either a Microsoft 365 subscription bundle or a Minecraft Education license is the same with the exception of Microsoft 365 having a toggle to enable/disable Minecraft Education use. This toggle is set to enable access to Minecraft Education by default. 
@@ -18,7 +18,7 @@ Once you've purchased either Microsoft 365 (A3 or A5) or Minecraft Education dir
 
  
 
-## Assign or Remove a Minecraft Education license from a user
+## Assign or remove a Minecraft Education license from a user
 
 If your school organization has purchased a Microsoft 365 A3 or A5 plan, the Minecraft Education license is automatically included for each account that you assign the A3 or A5 license to. For Minecraft Education access, you'll need to assign a user either a Microsoft 365 subscription or a direct Minecraft Education license to their account. 
 
@@ -49,10 +49,6 @@ By default, the auto-claim policy feature is turned off. Before you can use the 
 
  
 
-## What if I want a refund?
+## What if I want to cancel or want a refund?
 
-In order to process a refund, you'll first need to ensure that all of your licenses have been reclaimed and are not assigned. Then you can process a refund by navigating to the "manage" tab. A complete guide can be found [here](https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
-
-For a more detailed, Minecraft Education specific guide on how to cancel licenses, view our video linked below! 
-
-[![Cancelling Minecraft Education Licenses YouTube link](https://edusupport.minecraft.net/hc/article_attachments/27762320888468)](https://www.youtube.com/watch?v=8hokSk4lUx4)
+You can learn how to cancel your licenses here: [Canceling your Minecraft Education Subscription](https://edusupport.minecraft.net/hc/en-us/articles/24546528750228)
