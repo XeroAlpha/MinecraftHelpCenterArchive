@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.40.30
 date: 2026-07-07T12:56:44Z
-updated: 2026-07-08T08:09:37Z
+updated: 2026-07-13T11:07:38Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/47194770881037-Minecraft-Beta-Preview-26-40-30
 hash:
@@ -92,7 +92,7 @@ Weary from all that hiking? Seek out an abandoned camp to rest your blocky bones
 
 ### Abandoned Camp
 
-- Abandoned camp now generates in Pale Garden and Flower Forest biomes ([MCPE-230024](https://bugs.mojang.com/browse/MCPE-230024)) ([MCPE-240045](https://bugs.mojang.com/browse/MCPE-240045))
+- Abandoned camp now generates in Pale Garden and Flower Forest biomes ([MCPE-240024](https://bugs.mojang.com/browse/MCPE-240024)) ([MCPE-240045](https://bugs.mojang.com/browse/MCPE-240045))
 - Straw Beds can now be found in Abandoned Camps
 - Updated Abandoned Camps to place procedural trees
 - Fixed wrong potion names in the loot tables for the Abandoned Camp
