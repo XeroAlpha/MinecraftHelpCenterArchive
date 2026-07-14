@@ -1,11 +1,11 @@
 ---
 title: What's New in the Beta (v26.30)
 date: 2026-07-01T19:02:12Z
-updated: 2026-07-07T18:26:31Z
+updated: 2026-07-14T16:57:40Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/50895760325012-What-s-New-in-the-Beta-v26-30
 hash:
-  h_01KQFWD3017SM7R3J5BK8P60PC: cross-tenant-support-for-dedicated-server-coming-soon
+  h_01KQFWD3017SM7R3J5BK8P60PC: cross-tenant-support-for-dedicated-server
   h_01KHMM3NA4SPTF5Y3933KCY6T8: gameplay-updates
   h_01KHMM4VQDYCG4MNDHGEBQBD04: tiny-takeover
   h_01KHMM55W1PD18GH9H48SVNGDJ: chaos-cubed
@@ -20,9 +20,9 @@ Note: The versioning for Minecraft Education has changed to a new format that st
 
  
 
-## Cross Tenant support for Dedicated Server (Coming soon)
+## Cross Tenant support for Dedicated Server
 
-If your IT Admin enables the capability, schools can now invite other schools to join their worlds! We'll update this page with more info soon along with some steps, so keep an eye out or hit Follow on this page!
+If your IT Admin enables the capability, schools can now invite other schools to join their worlds! The setting can be managed in the [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers). 
 
  
 

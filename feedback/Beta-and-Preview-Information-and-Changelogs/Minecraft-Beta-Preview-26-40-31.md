@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.40.31
 date: 2026-07-14T14:50:30Z
-updated: 2026-07-14T15:47:41Z
+updated: 2026-07-14T16:32:08Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/47366800720141-Minecraft-Beta-Preview-26-40-31
 hash:
@@ -35,6 +35,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - Fixed several crashes that could occur during gameplay
 - Fixed a bug where an incorrect device tier was selected on some devices, preventing players from turning on Vibrant Visuals ([MCPE-239742](https://bugs.mojang.com/browse/MCPE-239742))
+- Skin and Character Creator packs installed while browsing the Marketplace catalog are now automatically cleaned up using a least-recently-used policy, reducing on-disk usage and improving load times ([MCPE-239513](https://bugs.mojang.com/browse/MCPE-239513 "https://bugs.mojang.com/browse/mcpe-239513"))
 
 # Technical Updates[](./Minecraft-Beta-Preview-26-40-31.md)
 
