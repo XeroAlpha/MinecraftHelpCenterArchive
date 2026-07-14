@@ -1,7 +1,7 @@
 ---
 title: Download Minecraft Education Beta
 date: 2021-09-24T18:25:00Z
-updated: 2025-10-03T22:25:57Z
+updated: 2026-07-14T21:34:09Z
 categories: Beta
 link: https://edusupport.minecraft.net/hc/en-us/articles/4407483028116-Download-Minecraft-Education-Beta
 hash:
@@ -74,7 +74,8 @@ This table provides recommendations for which version of the beta is compatible 
 
  
 
-<table data-border="1">
+<figure class="wysiwyg-table wysiwyg-table-align-left">
+<table>
 <colgroup>
 <col style="width: 33%" />
 <col style="width: 33%" />
@@ -82,33 +83,34 @@ This table provides recommendations for which version of the beta is compatible 
 </colgroup>
 <tbody>
 <tr>
-<td width="288"><p><strong>Windows OS</strong></p></td>
-<td width="173"><p><strong>One-to-one device</strong></p></td>
-<td width="163"><p><strong>Shared device</strong></p></td>
+<td><strong>Windows OS</strong></td>
+<td><strong>One-to-one device</strong></td>
+<td><strong>Shared device</strong></td>
 </tr>
 <tr>
-<td width="288"><p>Windows 10/11</p></td>
-<td width="173"><p>Windows Store version</p></td>
-<td width="163"><p>Windows Store version</p></td>
+<td>Windows 10/11</td>
+<td>Windows Store version</td>
+<td>Windows Store version</td>
 </tr>
 <tr>
-<td width="288"><p>Windows 10 - 1703 LTSB and later </p>
+<td><p>Windows 10 - 1703 LTSB and later </p>
 <p>Windows 11</p></td>
-<td width="173"><p>Windows Store version</p></td>
-<td width="163"><p>Desktop version</p></td>
+<td>Windows Store version</td>
+<td>Desktop version</td>
 </tr>
 <tr>
-<td width="288"><p>Windows 10 - versions earlier than 1703 LTSB</p></td>
-<td width="173"><p>Desktop version</p></td>
-<td width="163"><p>Desktop version</p></td>
+<td>Windows 10 - versions earlier than 1703 LTSB</td>
+<td>Desktop version</td>
+<td>Desktop version</td>
 </tr>
 <tr>
-<td width="288"><p>All versions of Windows Server</p></td>
-<td width="173"><p>Not supported</p></td>
-<td width="163"><p>Not supported</p></td>
+<td>All versions of Windows Server</td>
+<td>Not supported</td>
+<td>Not supported</td>
 </tr>
 </tbody>
 </table>
+</figure>
 
  
 
@@ -129,7 +131,7 @@ If you are downloading the beta for Windows desktop, uninstall your current vers
 ### Dedicated Server beta
 
 - [Windows Server client](https://aka.ms/downloadmee-winServerBeta)
-- [Linux Server client](https://aka.ms/MCEDU_Beta_Linux_Server)
+- [Linux Server client](https://aka.ms/downloadmee-linuxserver)
 
  
 
