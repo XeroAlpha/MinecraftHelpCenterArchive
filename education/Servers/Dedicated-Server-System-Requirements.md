@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server System Requirements
 date: 2026-03-05T17:30:26Z
-updated: 2026-06-26T18:37:34Z
+updated: 2026-07-15T20:36:00Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46913335157140-Dedicated-Server-System-Requirements
 hash:
@@ -49,11 +49,11 @@ Other Linux Distributions are <strong>not officially supported -</strong> Use at
 **Do I need a computer with server-grade hardware to run a Minecraft Education server? **\
 No. You can run the server software on any machine as long as it meets our system requirements! Bear in mind, however, that other tasks running on your host device may impact performance.
 
-**Can I run Dedicated Servers inside of Virtual Machine (VM)? **\
+**Can I run Dedicated Servers inside of Virtual Machines (VMs)? **\
 Yes! Unlike the Minecraft Education client, running Dedicated Servers inside of Virtual Machines is supported, and even recommended. The VM provider you use (such as Hyper-V, VMWare, etc.) is up to you. Just be sure that your VM has network connectivity, has the hardware requirements stated above, and is setup to allow external connections. Our team cannot support issues with your Virtual Machine itself. 
 
 **Do I have to run my server in a cloud environment?**\
-No! You can run Minecraft Education servers locally on your existing hardware! As long as your machine meets our System Requirements. However, running locally may require some network configuration to allow the relevant ports to be open to external connections. 
+No! You can run Minecraft Education servers locally on your existing hardware as long as your machine meets our [System Requirements](./Dedicated-Server-System-Requirements.md). However, running locally may require some network configuration to allow the relevant ports to be open to external connections. 
 
  
 
