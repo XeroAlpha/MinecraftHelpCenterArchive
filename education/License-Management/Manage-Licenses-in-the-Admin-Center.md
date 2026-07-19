@@ -51,4 +51,4 @@ By default, the auto-claim policy feature is turned off. Before you can use the 
 
 ## What if I want to cancel or want a refund?
 
-You can learn how to cancel your licenses here: [Canceling your Minecraft Education Subscription](https://edusupport.minecraft.net/hc/en-us/articles/24546528750228)
+You can learn how to cancel your licenses here: [Canceling your Minecraft Education Subscription](./Canceling-your-Minecraft-Education-Subscription.md)
