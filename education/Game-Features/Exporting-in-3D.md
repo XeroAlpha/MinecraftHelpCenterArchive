@@ -1,7 +1,7 @@
 ---
 title: Exporting in 3D
 date: 2020-08-10T09:57:27Z
-updated: 2026-04-01T16:00:36Z
+updated: 2026-07-20T19:33:54Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117612-Exporting-in-3D
 ---
@@ -77,5 +77,4 @@ You can also use the [Mixed Reality viewer](https://www.microsoft.com/en-us/wind
 **Additional Resources**
 
 - [Specialty Blocks: Structure Block](../Teaching-With-Minecraft/Specialty-Blocks-Allow-Deny-Border-Structure.md) (Knowledge Base)
-- [Structure Block](https://minecraft.gamepedia.com/Structure_Block) (Minecraft Wiki)
-- [Windows Mixed Reality](https://www.microsoft.com/en-us/windows/windows-mixed-reality)
+- [Structure Block](https://minecraft.wiki/Structure_Block) (Minecraft Wiki)
