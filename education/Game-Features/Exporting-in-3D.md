@@ -1,7 +1,7 @@
 ---
 title: Exporting in 3D
 date: 2020-08-10T09:57:27Z
-updated: 2026-07-20T19:33:54Z
+updated: 2026-07-20T20:25:59Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117612-Exporting-in-3D
 ---
@@ -56,8 +56,6 @@ After you've exported a structure, you can load it anywhere in the world where y
 **3D Export**
 
 In the Structure Block menu, scroll down to the **3D Export** mode.  Follow the previous steps to define your structure boundaries, and then click **Export**.  This will save the structure as a .glb file that you can import into other programs, such as 3D printing software.
-
-You can also use the [Mixed Reality viewer](https://www.microsoft.com/en-us/windows/windows-mixed-reality) (Windows 10) to put creations in the classroom – or anywhere!
 
 ![mceclip2.png](https://edusupport.minecraft.net/hc/article_attachments/4402653945748)
 
