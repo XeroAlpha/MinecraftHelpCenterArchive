@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.50.20
 date: 2026-07-21T14:27:59Z
-updated: 2026-07-21T15:28:56Z
+updated: 2026-07-22T09:42:45Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/47534782342797-Minecraft-Beta-Preview-26-50-20
 hash:
@@ -63,7 +63,7 @@ hash:
 
 It's time for another Preview and Beta release! For the full list of goodies, browse the changelog below. And as always, we’re keen to get your feedback on these new features at [feedback.minecraft.net](https://feedback.minecraft.net/), and you can report any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/).
 
-**Please note** - the Preview on iOS will be rolling out later than other platforms this week.
+**Please note** - the Preview will not be available on iOS this week, we apologise for the inconvenience.
 
 ## Drop 3 Experimental Features
 
@@ -130,7 +130,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 ### Mobs
 
-- Reduced stuttering that can occur when a mob is far away ([MCPE-1647478](https://bugs.mojang.com/browse/MCPE-1647478))
+- Reduced stuttering that can occur when a mob is far away ([MCPE-108119](https://bugs.mojang.com/browse/MCPE-108119 "https://bugs.mojang.com/browse/mcpe-108119"))
 - Endermen will now always attempt to teleport away before being hit by a projectile ([MCPE-117298](https://bugs.mojang.com/browse/MCPE-117298))
 
 ### Pack Settings
@@ -144,7 +144,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - Disable an expired Realm's Renew button when renewal is not supported on current device
 - Users are warned when applying custom packs to their realm and how they will appear when profanity filter is enabled & custom pack names and descriptions are filtered when viewing in Edit World when profanity filter is enabled
 - Added support for realm name changed and realm description changed admin log events
-- Add different default values for some subscription details information that can come back null from Realms Services to avoid blocking players from viewing subscription related screens with an error modal , 1617936
+- Add different default values for some subscription details information that can come back null from Realms Services to avoid blocking players from viewing subscription related screens with an error modal
 - Added guards for cases where callbacks are fired after facet goes out of scope in create new world flow
 
 ### Stability and Performance
@@ -160,7 +160,6 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - Added high-resolution Korean font support and fixed Korean text showing as question marks on mobile
 - Fix mouse wheel input sometimes not registering on Windows platform ([MCPE-234311](https://bugs.mojang.com/browse/MCPE-234311))
 - Fixed a bug where bold text inside a book would extend beyond the page margins ([MCPE-235450](https://bugs.mojang.com/browse/MCPE-235450))
-- Fixed an issue where players could continue playing after the trial had expired by switching the game mode ([MCPE-228663](https://bugs.mojang.com/browse/MCPE-228663))
 - Added missing translation text to layout button of Achievements screen
 - Selecting a Featured Item from the Dressing Room no longer requires 2 clicks to select the item
 - Ported the party eligibility check when joining multiplayer from JSON to the OreUI
