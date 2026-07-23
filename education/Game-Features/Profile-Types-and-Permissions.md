@@ -1,7 +1,7 @@
 ---
 title: Profile Types and Permissions
 date: 2020-08-10T09:07:30Z
-updated: 2026-04-01T15:16:56Z
+updated: 2026-07-22T23:26:22Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117072-Profile-Types-and-Permissions
 hash:
@@ -61,11 +61,20 @@ Commercial standalone licenses will default to the student profile because comme
 
 Accounts with faculty licenses have additional permissions such as:
 
-- They can log in to and use [the Lesson Crafter](https://aka.ms/lessoncrafter)
+*Note: Currently only Academically verified tenants can have faculty licenses/accounts*
+
+- They can log in to and use [the Lesson Planner](https://aka.ms/lessoncrafter)
 - Have OP permissions by default even in other users' worlds (see "Operator" section below)
-- Have Worldbuilder ability by default even in other users' worlds (see Worldbuilder section below)
+- The ability to give themselves Worldbuilder ability even in other users' worlds (see Worldbuilder section below)
 - Able to see the "Lesson Plan", "Resources", and "Assign or Share" button in the lesson library
   - You can learn how to assign and share lessons here: [Assign or Share Worlds and Lessons](../Teaching-With-Minecraft/Assign-or-Share-Worlds-and-Lessons.md) 
+- Have 25 free trial logins instead of the default 10 logins. 
+- Cannot be kicked from other users' worlds
+- Are prompted to agree to the EULA on first login
+- Keyboard hints open automatically in gameplay
+- Can manage Dedicated Servers when allowed by tenant admin
+- Teacher View when logged into the Dedicated Server management portal
+- Teachers get the "Lesson Planner" button in the main menu 
 
 These permissions do not affect a user's ability to host or join multiplayer sessions, download worlds from the lesson library, or other core features of the app. 
 
