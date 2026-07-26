@@ -283,7 +283,7 @@ While you've been having mayhem with mounts, we've been squashing bugs and imple
 
   - Example from manifest.json:
 
-  ``` auto
+  ```
   "dependencies": [
   {
     "module_name": "@minecraft/server",

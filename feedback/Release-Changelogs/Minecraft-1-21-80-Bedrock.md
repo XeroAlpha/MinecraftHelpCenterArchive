@@ -836,7 +836,7 @@ We added a new tutorial flow accessible from the Help menu. It's designed to hel
     - Added parameter `toggleOptions?: ModalFormDataToggleOptions`.
 - Added interface `ModalFormDataDropdownOptions`:
 
-``` code-line
+```
 export interface ModalFormDataDropdownOptions {
     defaultValueIndex?: number;
     tooltip?: minecraftserver.RawMessage | string;
@@ -845,7 +845,7 @@ export interface ModalFormDataDropdownOptions {
 
 - Added interface `ModalFormDataSliderOptions`:
 
-``` code-line
+```
 export interface ModalFormDataSliderOptions {
     defaultValue?: number;
     tooltip?: minecraftserver.RawMessage | string;
@@ -855,7 +855,7 @@ export interface ModalFormDataSliderOptions {
 
 - Added interface `ModalFormDataTextFieldOptions`:
 
-``` code-line
+```
 export interface ModalFormDataTextFieldOptions {
     defaultValue?: string;
     tooltip?: minecraftserver.RawMessage | string;
@@ -864,7 +864,7 @@ export interface ModalFormDataTextFieldOptions {
 
 - Added interface `ModalFormDataToggleOptions`:
 
-``` code-line
+```
 export interface ModalFormDataToggleOptions {
     defaultValue?: boolean;
     tooltip?: minecraftserver.RawMessage | string;
@@ -901,7 +901,7 @@ Additional types added:
 
 - When Custom Components V2 experiment is enabled, custom components are flattened inline with other components and allow parameters in 1.21.80 and higher format versions. Example:
 
-``` code-line
+```
 "components": {
     "example_namespace:example_component": {
         "someParam": 3,
@@ -953,7 +953,7 @@ Additional types added:
 - When Custom Components V2 experiment is enabled, `minecraft:custom_components` component is deprecated in 1.21.80 and higher format versions
 - When Custom Components V2 experiment is enabled, custom components are flattened inline with other components and allow parameters in 1.21.80 and higher format versions. Example:
 
-``` code-line
+```
 "components": {
     "example_namespace:example_component": {
         "someParam": 3,

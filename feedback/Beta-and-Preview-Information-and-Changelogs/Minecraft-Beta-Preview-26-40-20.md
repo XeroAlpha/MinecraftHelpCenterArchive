@@ -388,7 +388,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 Example:
 
-``` auto
+```
 {
     "format_version": "beta",
     "minecraft:server_sound_definitions": [

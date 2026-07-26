@@ -237,7 +237,7 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
   - "tint_method" is a string field that multiplies the color with a predefined tint. Supported values are "none, "default_foliage", "birch_foliage", "evergreen_foliage", "grass" and "water".
   - the old schema format is still supported for convenience.\
     Examples:
-    ``` hljs
+    ```
     "minecraft:map_color": {
       "color": "#ABCDEF",
       "tint_method": "grass"
@@ -245,14 +245,14 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
     ```
 
     or
-    ``` hljs
+    ```
     "minecraft:map_color": {
       "color": "#ABCDEF"
     }
     ```
 
     or
-    ``` hljs
+    ```
     "minecraft:map_color": "#ABCDEF"
     ```
 
@@ -321,7 +321,7 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
     Example:\
     Given a mob with the following property
 
-``` hljs
+```
 "minecraft:emotional_state": {
   "type": "enum",
   "values": [ "neutral", "angry", "happy", "sad" ],
@@ -332,7 +332,7 @@ First, I suggest we hike to a chilly biome to befriend the ever-so fluffy cold c
 
 Sound variants can be played by querying the property:
 
-``` hljs
+```
 {
   "entity_sounds": {
     "entities": {
@@ -488,7 +488,7 @@ Visit our [documentation portal](https://learn.microsoft.com/en-us/minecraft/cr
 
   - This object snippet can be added to `lighting/global.json` under the `minecraft:lighting_settings` object to control the sky intensity
 
-``` hljs
+```
 "sky": {
     "intensity": 1.0 // Float value between [0.1 - 1.0]
 }

@@ -469,21 +469,21 @@ BlockPermutation has been significantly refactored! Every BlockPermutation now s
 
 Before:
 
-    const blockPermutation = MinecraftBlockTypes.stoneSlab.createDefaultBlockPermutation();
+*const blockPermutation = MinecraftBlockTypes.stoneSlab.createDefaultBlockPermutation();*
 
-    blockPermutation.getProperty(MinecraftBlockProperties.stoneSlabType).value = 'stone_brick';
+*blockPermutation.getProperty(MinecraftBlockProperties.stoneSlabType).value = 'stone_brick';*
 
-    blockPermutation.getProperty(MinecraftBlockProperties.topSlotBit).value = true;
+*blockPermutation.getProperty(MinecraftBlockProperties.topSlotBit).value = true;*
 
 Now:
 
-    const blockPermutation = BlockPermutation.resolve('minecraft:stone_slab', {
+*const blockPermutation = BlockPermutation.resolve('minecraft:stone_slab', {*
 
-        stone_slab_type: 'stone_brick',
+*    stone_slab_type: 'stone_brick',*
 
-        top_slot_bit: true,
+*    top_slot_bit: true,*
 
-    });
+*});*
 
 **BlockProperties**
 

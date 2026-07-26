@@ -318,18 +318,7 @@ For the full list of goodies, browse the changelog below. And as always, we’re
 - The minecraft:server_sound_definitions payload in sounds/sound_definitions.json now accepts an optional music_info block on each definition with optional genres (array of strings), moods (array of strings), artist (string), and title (string) fields that describe the music content of the sound
 - The minecraft:server_sound_definitions payload now accepts an optional tags map on each definition where each entry is a tag name mapped to either a single string value or an array of string values, letting behavior packs attach arbitrary metadata to a server sound definition
 
-``` auto
-},
-            "music_info": {
-                "genres": ["electronic", "ambient"],
-                "moods": ["calm"],
-                "artist": "Some Artist",
-                "title": "My Cool Song"
-            },
-            "tags": {
-                "category": "background",
-                "regions": ["overworld", "nether"]
-```
+}, "music_info": { "genres": \["electronic", "ambient"\], "moods": \["calm"\], "artist": "Some Artist", "title": "My Cool Song" }, "tags": { "category": "background", "regions": \["overworld", "nether"\]
 
 - Added new beta interface SoundDefinitionMusicInfo with optional genres, moods, artist, and title properties describing the music content of a sound definition
 - Added new optional beta property SoundDefinition.musicInfo exposing the music metadata declared on a server sound definition

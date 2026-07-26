@@ -237,7 +237,7 @@ Added new mandatory field type. This type will be written into BlockEntityTag.
 
 Example:
 
-``` has-line-data
+```
 SpawnData: {
     entity: {
         id: "minecraft:cow"

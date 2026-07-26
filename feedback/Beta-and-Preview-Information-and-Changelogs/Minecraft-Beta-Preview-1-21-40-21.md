@@ -209,7 +209,7 @@ It's time for a new Minecraft Preview and Beta! We’d love your feedback on bun
 
 - Added enum `MemoryTier`
 
-``` hljs
+```
     export enum MemoryTier {
         Undetermined = 0,
         SuperLow = 1,

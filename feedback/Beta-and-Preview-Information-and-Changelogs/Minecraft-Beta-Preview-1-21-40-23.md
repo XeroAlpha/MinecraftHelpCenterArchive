@@ -152,7 +152,7 @@ We're back with another Minecraft Preview and Beta release! As always, please pr
 
 For example, the previous schema for `"lighting/global.json"` was:
 
-``` hljs
+```
 {
     "minecraft:lighting_settings": {
         "format_version": "1.21.40",
@@ -163,7 +163,7 @@ For example, the previous schema for `"lighting/global.json"` was:
 
 But should now be written as:
 
-``` hljs
+```
 {
     "format_version": "1.21.40",
     "minecraft:lighting_settings": {

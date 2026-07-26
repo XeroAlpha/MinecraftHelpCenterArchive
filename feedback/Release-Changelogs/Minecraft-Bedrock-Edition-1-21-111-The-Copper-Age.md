@@ -517,11 +517,7 @@ You can now adjust the vertical and horizontal line weight for each node. This p
 
 - Fixed a bug where the minecraft:shareables component would mix attributes of duplicated entries in its items list. E.g. the priority would be taken from the first duplicated element and the max_amount from the last. Now the first "matching" entry will fully shadow those coming after it. Consider this items list in a minecraft:shareables using the new tag functionality:
 
-  ``` auto
-  "items": [  
-    { "item": "minecraft:apple", "priority": 1, "max_amount": 2 },
-    { "item": "minecraft:is_food", "priority": 0, "max_amount": 1 }]    
-  ```
+  "items": \[ { "item": "minecraft:apple", "priority": 1, "max_amount": 2 }, { "item": "minecraft:is_food", "priority": 0, "max_amount": 1 }\]
 
 - Previously minecraft:apple would have had priority 1 but max_amount 1 instead of 2. Now it will correctly use all data from that first item apple entry.
 
@@ -569,12 +565,7 @@ You can now adjust the vertical and horizontal line weight for each node. This p
 
 - Added enum HeldItemOption to beta for PlayerSwingEventOptions. This specifies options related to the item currently being held at the time of a player swing
 
-  ``` auto
-  export enum HeldItemOption {  
-      AnyItem = 'AnyItem',       
-      NoItem = 'NoItem'  
-  }
-  ```
+  export enum HeldItemOption { AnyItem = 'AnyItem', NoItem = 'NoItem' }
 
 - Added interface PlayerSwingEventOptions to beta. Event options/filters for PlayerSwingStartAfterEvent.\
   - Field heldItemOption?: HeldItemOption

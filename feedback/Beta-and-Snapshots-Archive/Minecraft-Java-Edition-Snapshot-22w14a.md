@@ -67,7 +67,7 @@ A new Recovery Compass can be crafted with Echo Shards which can only be found a
 - Example:
 - Before:
 
-``` has-line-data
+```
  "lightning_bolt": {
    "blocks_set_on_fire": 0
  }
@@ -75,7 +75,7 @@ A new Recovery Compass can be crafted with Echo Shards which can only be found a
 
 - After
 
-``` has-line-data
+```
   "type_specific": {
     "type": "lightning",
     "blocks_set_on_fire": 0
@@ -86,13 +86,13 @@ A new Recovery Compass can be crafted with Echo Shards which can only be found a
 
   - Before
 
-  ``` has-line-data
+  ```
    "catType": "minecraft:textures/entity/cat/british_shorthair.png"
   ```
 
 - After
 
-``` has-line-data
+```
  "type_specific": {
     "type": "cat",
     "variant": "minecraft:british"

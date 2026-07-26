@@ -74,7 +74,7 @@ It's time for another Preview and Beta! For the full list of goodies, browse the
 
 - Updated the format of "lighting/global.json" to include support for controlling the new End light flash in Vibrant Visuals. The "directional_lights" section now has two groups: "orbital", which contains the lighting information around the sun and moon, and "flash", which contains information about the End light flash. The "flash" section supports an "illuminance" field which controls the max illuminance of the End light flash, and a "color" field, which controls the color of the flash. Example JSON with this new format follows:
 
-``` hljs
+```
 {
   "format_version": "1.21.80",
   "minecraft:lighting_settings": {

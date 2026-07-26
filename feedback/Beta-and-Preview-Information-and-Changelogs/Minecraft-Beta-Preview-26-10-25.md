@@ -308,7 +308,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
   - Blocks prior to 26.10 will behave as expected based on their defined geometry and materail instances
   - Example:
 
-``` auto
+```
    "format_version": "26.10",
     "minecraft:block": {
         "description": {

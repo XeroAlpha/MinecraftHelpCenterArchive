@@ -350,18 +350,4 @@ Weary from all that hiking? Seek out an abandoned camp to rest your blocky bones
   - it can be used to assign a set of sounds to block and its permutations similar to sound field in blocks.json
   - blocks.json overrides values of minecraft:sound component, including values in all permutations
 
-``` auto
-{
-  "format_version": "1.26.20",
-  "minecraft:block": {
-    "description": {
-      "identifier": "test:test_block"
-    },
-    "components": {
-      "minecraft:sound": {
-        "sound": "glass"
-      }
-    }
-  }
-}
-```
+{ "format_version": "1.26.20", "minecraft:block": { "description": { "identifier": "test:test_block" }, "components": { "minecraft:sound": { "sound": "glass" } } } }

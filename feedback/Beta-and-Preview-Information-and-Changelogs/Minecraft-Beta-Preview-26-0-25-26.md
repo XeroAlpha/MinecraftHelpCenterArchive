@@ -181,15 +181,4 @@ This is the final Minecraft Preview release of 2025, but we'll be back in early 
 
 - Blocks can handle the entity `execute_event_on_home_block` event via custom components in scripting, being beta features
 
-``` auto
-system.beforeEvents.startup.subscribe(init => {
-        init.blockComponentRegistry.registerCustomComponent('sample:my_custom_block_component', {
-            onEntity: (e: BlockComponentEntityEvent) => {
-                if (e.name !== "sample:my_entity_named_event") return;
-                const block = e.block;
-                const source = e.entitySource;
-                ...
-            },
-        });
-    });
-```
+system.beforeEvents.startup.subscribe(init =\> { init.blockComponentRegistry.registerCustomComponent('sample:my_custom_block_component', { onEntity: (e: BlockComponentEntityEvent) =\> { if (e.name !== "sample:my_entity_named_event") return; const block = e.block; const source = e.entitySource; ... }, }); });

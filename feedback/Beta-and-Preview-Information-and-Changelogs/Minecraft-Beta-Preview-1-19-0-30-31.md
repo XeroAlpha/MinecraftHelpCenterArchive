@@ -166,16 +166,18 @@ Just as a reminder, we won't be accepting bug reports related to spectator mode 
 
 New JavaScript modules in manifest.json should look as follows:
 
-      "modules": [
-        {
-          "description": "JavaScript module code",
-          "language": "javascript",
-          "type": "script",
-          "uuid": "<your UUID>",
-          "version": [0, 0, 1],
-          "entry": "scripts/main.js"
-        }
-      ],
+\
+  "modules": \[\
+    {\
+      "description": "JavaScript module code",\
+      "language": "javascript",\
+      "type": "script",\
+      "uuid": "\<your UUID\>",\
+      "version": \[0, 0, 1\],\
+      "entry": "scripts/main.js"\
+    }\
+  \],\
+\
 
 - Commands
   - Added */script profiler*command to create GameTest script performance traces. Script profiles should be written to the Minecraft logging folder.

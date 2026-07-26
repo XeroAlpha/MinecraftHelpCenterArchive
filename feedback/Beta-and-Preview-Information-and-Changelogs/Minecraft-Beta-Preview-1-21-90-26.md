@@ -127,7 +127,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
   - New section `henyey_greenstein_g` allows specifying value for both `air` and `water`
   - Example:
 
-``` hljs
+```
 {
     "format_version": "1.21.90",  
     "minecraft:fog_settings": {

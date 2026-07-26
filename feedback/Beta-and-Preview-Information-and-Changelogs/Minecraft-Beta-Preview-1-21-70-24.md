@@ -185,7 +185,7 @@ Enjoy!
   - If a Biome JSON in a Deferred resource pack contains any of these new identifier components, then the identifiers will be validated against the identifiers found in the respective set of Deferred configurations. For instance, if a Biome JSON contains a "`minecraft:water_identifier`" entry, then the supplied identifier must correspond to a valid "`identifier`" in one of the pack's Water JSONs.
   - If a Biome JSON doesn't contain one of the new identifiers, then the global/default identifier from the reserved filenames will automatically be added to said biome.
 
-``` hljs
+```
 "format_version": "1.21.70",
 "minecraft:client_biome": {
   ...

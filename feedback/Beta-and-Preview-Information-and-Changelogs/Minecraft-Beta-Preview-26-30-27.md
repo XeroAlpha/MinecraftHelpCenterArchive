@@ -206,7 +206,7 @@ We have significantly updated the implementation of DDUI as we prepare for staba
   - This feature is meant to be used as a filter to filter away positions based on height differences close to the placed feature
   - Example usage to allow Pink Petals to only place close to cliffs:
 
-  ``` auto
+  ```
   {
     "format_version": "1.26.30",
     "minecraft:height_difference_filter_feature": {

@@ -536,7 +536,7 @@ Here are some of the bugs that we've fixed that could be especially troubling wh
 
 - Added enum `MemoryTier`
 
-``` hljs
+```
     export enum MemoryTier {
         Undetermined = 0,
         SuperLow = 1,

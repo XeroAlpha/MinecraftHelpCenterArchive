@@ -191,12 +191,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - Expanded `LootTableManager` `beta` functionality, which now allows for loot table discovery via the new `getLootTable` method
 - Added enum `HeldItemOption` to `beta` for `PlayerSwingEventOptions`. This specifies options related to the item currently being held at the time of a player swing
 
-``` auto
-export enum HeldItemOption {  
-    AnyItem = 'AnyItem',       
-    NoItem = 'NoItem'  
-}
-```
+export enum HeldItemOption { AnyItem = 'AnyItem', NoItem = 'NoItem' }
 
 - Added interface `PlayerSwingEventOptions` to `beta`. Event options/filters for `PlayerSwingStartAfterEvent`.\
   - Field `heldItemOption?: HeldItemOption`

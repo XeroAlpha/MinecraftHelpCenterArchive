@@ -182,7 +182,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 - Added the ability to define the order for the items for the creative inventory & recipe book, called the crafting item catalog, for new items added by packs. New items can either merge with existing groups, create new groups with your own item for the icon, or just become added as loose items without a group. This catalog should be saved as `item_catalog/crafting_item_catalog.json` in your behavior pack\
   Example:
 
-``` hljs
+```
 {
    "format_version": "1.21.60",
    "minecraft:crafting_items_catalog": {
@@ -276,7 +276,7 @@ It's time for a new Preview and Beta! As always, we’re keen to get your feedba
 - Added `setDynamicProperties` method to `World`, `Entity`, `ItemStack` and `ContainerSlot`
 - Added enum `LiquidType`
 
-``` hljs
+```
 export enum LiquidType {
     Water = 'Water'
 }

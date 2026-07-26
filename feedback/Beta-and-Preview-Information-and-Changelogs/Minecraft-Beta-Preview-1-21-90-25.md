@@ -114,7 +114,7 @@ Some loot tables have had Saddles removed from them and replaced with 1-5 Leathe
     - `color_temperature` is the inverse of the white balance operation. Lower temperature values will cause the scene to appear more red.
   - `temperature` sets the temperature in kelvin
   - Example:
-    ``` hljs
+    ```
     ...
     "color_grading": {
         "temperature": {

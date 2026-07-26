@@ -249,7 +249,7 @@ It's time for another Beta & Preview! For the full list of changes and additions
 - Added `minecraft:random_offset` component under the Upcoming Creator Features toggle. This allows for blocks to randomly offset like foliage does in the Vanilla game\
   Example:
 
-``` hljs
+```
 {  
     "format_version": "1.21.80",
     "minecraft:block": {

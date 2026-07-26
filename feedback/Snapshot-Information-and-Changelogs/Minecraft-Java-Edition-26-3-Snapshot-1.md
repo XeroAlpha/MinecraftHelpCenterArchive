@@ -485,24 +485,15 @@ These are the predicates used by ore Features (targets\[\].target), and rule�
 
 #### Added minecraft:red_poplar_leaves
 
-``` auto
-- Falls from Red Poplar Leaves blocks
-- Has no fields
-```
+\- Falls from Red Poplar Leaves blocks - Has no fields
 
 #### Added minecraft:orange_poplar_leaves
 
-``` auto
-- Falls from Orange Poplar Leaves blocks
-- Has no fields
-```
+\- Falls from Orange Poplar Leaves blocks - Has no fields
 
 #### Added minecraft:yellow_poplar_leaves
 
-``` auto
-- Falls from Yellow Poplar Leaves blocks
-- Has no fields
-```
+\- Falls from Yellow Poplar Leaves blocks - Has no fields
 
 ## Resource Pack Version 89.0
 

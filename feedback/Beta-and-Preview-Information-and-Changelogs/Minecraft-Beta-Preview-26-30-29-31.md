@@ -328,7 +328,7 @@ Beta & Preview 26.30.31 - Mobile Only
     - if a face is not defined it will use its default value; "up": "note.harp" and "down": "note.none"
     - at least one face must be defined for the component to be valid Example:
 
-``` auto
+```
 {
     "format_version": "1.26.20",
     "minecraft:block": {

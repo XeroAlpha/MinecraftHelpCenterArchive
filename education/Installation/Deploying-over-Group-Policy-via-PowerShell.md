@@ -159,9 +159,7 @@ Instead of editing the script directly, you can pass the installer path as a par
 
 **Example parameter:**
 
-``` auto
 -url "\\server\path\to\installer"
-```
 
 This allows you to reuse the same script across multiple deployments without modifying it. (See the example screenshot below.)\
 You will configure this in a later step.\
@@ -180,13 +178,7 @@ Create a Group Policy Object that allows PowerShell scripts to run:
 
 **Path:**
 
-``` auto
-Computer Configuration  
- > Administrative Templates  
-   > Windows Components  
-     > Windows PowerShell  
-       > Turn on Script Execution
-```
+Computer Configuration \> Administrative Templates \> Windows Components \> Windows PowerShell \> Turn on Script Execution
 
 Set this policy to **Allow all scripts**.
 
@@ -201,12 +193,7 @@ In the same GPO (or a separate one, if preferred), configure the PowerShell scri
 
 **Path:**
 
-``` auto
-Computer Configuration  
- > Windows Settings  
-   > Scripts  
-     > Startup
-```
+Computer Configuration \> Windows Settings \> Scripts \> Startup
 
 - Select the **PowerShell Scripts** tab\
   *(Do not use the “Scripts” tab — it is for batch files only.)*
@@ -226,9 +213,7 @@ After completing the GPO configuration:
 2.  Open **Command Prompt** on the domain controller
 3.  Run:
 
-``` auto
 gpupdate /force
-```
 
 ------------------------------------------------------------------------
 
@@ -265,9 +250,7 @@ The process is identical to installation, except no URL or parameters are requir
 
 The script generates logs in the following directory:
 
-``` auto
 C:\TempMC\Logs
-```
 
 Logs include the device name, timestamp, installer source, and output from DISM (for AppX installations) or the installer (for EXE installations). These details can help determine installation status or identify failures.
 
@@ -355,18 +338,13 @@ If you encounter issues, check the following:
 
 - Verify the system is receiving the GPO using:
 
-  ``` auto
-  gpresult /R
-  gpresult /H gpresult.html
-  ```
+  gpresult /R gpresult /H gpresult.html
 
 - Close all GPO-related windows and rerun `gpupdate /force`
 
 - On affected clients, try running the following command in an elevated command prompt and then rebooting:
 
-  ``` auto
   gpupdate /force /boot
-  ```
 
 - If no URL is specified, download the installer manually, place it on a local network share, update the script, and redeploy
 

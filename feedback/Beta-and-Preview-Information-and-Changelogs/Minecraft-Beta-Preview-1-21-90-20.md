@@ -226,7 +226,7 @@ See <https://learn.microsoft.com/en-us/minecraft/creator/documents/scriptingv2.
     - if set to "false" culling against full and opaque blocks will not be considered
 - When custom components v2 experiment is enabled, custom components can be assigned string, array, object, bool, or number
 
-``` hljs
+```
 "components": {  
     "example_namespace:example_component": "foo",
     "example_namespace:example_component2": 4,
@@ -302,7 +302,7 @@ See <https://learn.microsoft.com/en-us/minecraft/creator/documents/scriptingv2.
 
 - When using Custom Components v2, custom components can be assigned string, array, object, bool, or number
 
-``` hljs
+```
 "components": {  
 "example_namespace:example_component": "foo",    
 "example_namespace:example_component2": 4,    

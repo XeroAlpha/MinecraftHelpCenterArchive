@@ -198,7 +198,7 @@ Added addional error types for HTTP requests:
 
 - Added HTTP configuration capabilities for the `@minecraft/server-net` scripting module on dedicated servers. Server operators can now configure HTTP request limits and restrictions via the `permissions.json` file. All of the configurable options are optional. If not specified, limits for the particular setting will not be enforced. Example config: `.\config\<module_id>\permissions.json`
 
-``` auto
+```
 {
   "allowed_modules": [
     ...

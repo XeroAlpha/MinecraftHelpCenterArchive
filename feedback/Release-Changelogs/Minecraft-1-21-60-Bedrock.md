@@ -664,7 +664,7 @@ These updates are being rolled out incrementally to all platforms except Nintend
 
 Example:
 
-``` hljs
+```
 {
    "format_version": "1.21.60",
    "minecraft:crafting_items_catalog": {
@@ -1025,7 +1025,7 @@ Example:
 
 - Added enum `LiquidType`.
 
-``` hljs
+```
 export enum LiquidType {
     Water = 'Water'
 }

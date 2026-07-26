@@ -178,39 +178,11 @@ The following fields can be used in any combination, all are optional:
 
 The mob_effects predicate format is a mapping of effect types to properties of that effect. All fields are optional, only provided fields will be used for matching:
 
-``` auto
-    {
-        "minecraft: <effect type>": {
-          "duration": <integer bounds representing a duration in ticks>,
-          "amplifier": <integer bounds>,
-          "ambient: true/false,
-          "visible": true/false
-        }
-    )
-```
+{ "minecraft: \<effect type\>": { "duration": \<integer bounds representing a duration in ticks\>, "amplifier": \<integer bounds\>, "ambient: true/false, "visible": true/false } )
 
 Here is an example of matching on several different effects and criteria:
 
-``` auto
-      "effects": {
-        "minecraft:jump_boost": {
-          "duration": 3600,
-          "amplifier": 5,
-          "ambient: true,
-          "visible": true
-        },
-        "minecraft:speed": {
-          "duration": {
-            "min": 360,
-            "max": "3600
-          },
-          "amplifier: {
-            "min": 2
-          }
-        },
-        "minecraft:resistance": {}
-      }
-```
+"effects": { "minecraft:jump_boost": { "duration": 3600, "amplifier": 5, "ambient: true, "visible": true }, "minecraft:speed": { "duration": { "min": 360, "max": "3600 }, "amplifier: { "min": 2 } }, "minecraft:resistance": {} }
 
 All criteria are optional.
 
@@ -274,39 +246,11 @@ The main contents are:
 
 Here is an example of a vanilla recipe:
 
-``` auto
-{
-  "type": "minecraft:brewing",
-  "input": {
-    "item": "minecraft:potion",
-    "potion_contents": {
-      "potion": "minecraft:water"
-    }
-  },
-  "output": {
-    "components": {
-      "minecraft:potion_contents": {
-        "potion": "minecraft:awkward"
-      }
-    },
-    "id": "minecraft:potion"
-  },
-  "reagent": {
-    "item": "minecraft:nether_wart"
-  }
-}
-```
+{ "type": "minecraft:brewing", "input": { "item": "minecraft:potion", "potion_contents": { "potion": "minecraft:water" } }, "output": { "components": { "minecraft:potion_contents": { "potion": "minecraft:awkward" } }, "id": "minecraft:potion" }, "reagent": { "item": "minecraft:nether_wart" } }
 
 Any items may be used in any of the 3 slots, for example:
 
-``` auto
-{
-  "type": "minecraft:brewing",
-  "input": { "item": "minecraft:bucket" },
-  "output": { "id": "minecraft:sulfur_cube_bucket" },
-  "reagent": { "item": "minecraft:potent_sulfur" }
-}
-```
+{ "type": "minecraft:brewing", "input": { "item": "minecraft:bucket" }, "output": { "id": "minecraft:sulfur_cube_bucket" }, "reagent": { "item": "minecraft:potent_sulfur" } }
 
 ### World Generation
 

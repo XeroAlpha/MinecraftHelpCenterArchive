@@ -92,7 +92,7 @@ Changed triggers
 
 Before:
 
-``` _3GnarIQX9tD_qsgXkfSDz1
+```
 {
     "conditions": {
         "item": {
@@ -112,7 +112,7 @@ Before:
 
 After:
 
-``` _3GnarIQX9tD_qsgXkfSDz1
+```
 {
     "conditions": {
         "location": [

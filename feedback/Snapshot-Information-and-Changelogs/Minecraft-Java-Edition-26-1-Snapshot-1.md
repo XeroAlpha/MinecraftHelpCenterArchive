@@ -135,54 +135,7 @@ Trades offered by Villagers and Wandering Traders are now data-driven and can be
 
 An example trade of an emerald and a book for an enchanted book offered only by Desert Villagers
 
-``` auto
-{
-  "additional_wants": {
-    "id": "minecraft:book"
-  },
-  "double_trade_price_enchantments": "#minecraft:double_trade_price",
-  "given_item_modifiers": [
-    {
-      "function": "minecraft:enchant_randomly",
-      "include_additional_cost_component": true,
-      "only_compatible": false,
-      "options": "#minecraft:trades/desert_common"
-    },
-    {
-      "function": "minecraft:filtered",
-      "item_filter": {
-        "items": "minecraft:enchanted_book",
-        "predicates": {
-          "minecraft:stored_enchantments": [
-            {}
-          ]
-        }
-      },
-      "on_fail": {
-        "function": "minecraft:discard"
-      }
-    }
-  ],
-  "gives": {
-    "count": 1,
-    "id": "minecraft:enchanted_book"
-  },
-  "max_uses": 12.0,
-  "merchant_predicate": {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-      "predicates": {
-        "minecraft:villager/variant": "minecraft:desert"
-      }
-    }
-  },
-  "reputation_discount": 0.2,
-  "wants": {
-    "id": "minecraft:emerald"
-  }
-}
-```
+{ "additional_wants": { "id": "minecraft:book" }, "double_trade_price_enchantments": "#minecraft:double_trade_price", "given_item_modifiers": \[ { "function": "minecraft:enchant_randomly", "include_additional_cost_component": true, "only_compatible": false, "options": "#minecraft:trades/desert_common" }, { "function": "minecraft:filtered", "item_filter": { "items": "minecraft:enchanted_book", "predicates": { "minecraft:stored_enchantments": \[ {} \] } }, "on_fail": { "function": "minecraft:discard" } } \], "gives": { "count": 1, "id": "minecraft:enchanted_book" }, "max_uses": 12.0, "merchant_predicate": { "condition": "minecraft:entity_properties", "entity": "this", "predicate": { "predicates": { "minecraft:villager/variant": "minecraft:desert" } } }, "reputation_discount": 0.2, "wants": { "id": "minecraft:emerald" } }
 
 #### Trade Sets
 
@@ -199,14 +152,7 @@ An example trade of an emerald and a book for an enchanted book offered only by 
 
 An example trade set offering 2 trades from the \#minecraft:armorer/level_1 tag, allowing duplicates
 
-``` auto
-{
-  "amount": 2.0,
-  "trades": "#minecraft:armorer/level_1",
-  "random_sequence": "minecraft:trade_set/armorer/level_1",
-  "allow_duplicates": true
-}
-```
+{ "amount": 2.0, "trades": "#minecraft:armorer/level_1", "random_sequence": "minecraft:trade_set/armorer/level_1", "allow_duplicates": true }
 
 ### Commands
 

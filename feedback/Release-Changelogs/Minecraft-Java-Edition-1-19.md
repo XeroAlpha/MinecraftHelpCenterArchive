@@ -459,7 +459,7 @@ New command that replaces `placefeature` and can place features, jigsaws, stru
 
  
 
-``` has-line-data
+```
 place feature <feature> [pos]
 place jigsaw <pool> <start> <depth> [pos]
 place structure <structure> [pos]
@@ -632,7 +632,7 @@ Parameters:
 
  
 
-``` has-line-data
+```
 "filter": {
     "block": [
         {
@@ -699,7 +699,7 @@ Before:
 
  
 
-``` has-line-data
+```
  "catType": "minecraft:textures/entity/cat/british_shorthair.png"
 ```
 
@@ -709,7 +709,7 @@ After:
 
  
 
-``` has-line-data
+```
  "type_specific": {
     "type": "cat",
     "variant": "minecraft:british"
@@ -726,7 +726,7 @@ Before:
 
  
 
-``` has-line-data
+```
  "lightning_bolt": {
    "blocks_set_on_fire": 0
  }
@@ -738,7 +738,7 @@ After:
 
  
 
-``` has-line-data
+```
   "type_specific": {
     "type": "lightning",
     "blocks_set_on_fire": 0

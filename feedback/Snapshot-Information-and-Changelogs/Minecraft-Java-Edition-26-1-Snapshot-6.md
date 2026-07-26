@@ -181,27 +181,7 @@ Happy mining!
 
   - Default value:
 
-    ``` auto
-    "below_trunk_provider": {
-        "rules": [
-            {
-                "if_true": {
-                    "type": "minecraft:not",
-                    "predicate": {
-                        "type": "minecraft:matching_block_tag",
-                        "tag": "minecraft:cannot_replace_below_tree_trunk"
-                    }
-                },
-                "then": {
-                    "type": "minecraft:simple_state_provider",
-                    "state": {
-                        "Name": "minecraft:dirt"
-                    }
-                }
-            }
-        ]
-    }
-    ```
+    "below_trunk_provider": { "rules": \[ { "if_true": { "type": "minecraft:not", "predicate": { "type": "minecraft:matching_block_tag", "tag": "minecraft:cannot_replace_below_tree_trunk" } }, "then": { "type": "minecraft:simple_state_provider", "state": { "Name": "minecraft:dirt" } } } \] }
 
   - Any trees that previously used force_dirt have a below_trunk_provider that always provides a dirt block instead
 

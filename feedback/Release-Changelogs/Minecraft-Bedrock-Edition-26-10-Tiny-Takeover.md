@@ -662,7 +662,7 @@ Added addional error types for HTTP requests:
   - Optional `part_count` property used to initialize state `minecraft:multi_block_part`, valid value range is \[2, 4\]
   - Command inspection & api support will be coming in an upcoming preview Example:
 
-``` auto
+```
 {
     "format_version": "1.26.0",
     "minecraft:block": {
@@ -768,7 +768,7 @@ Added addional error types for HTTP requests:
 
 - Added HTTP configuration capabilities for the `@minecraft/server-net` scripting module on dedicated servers. Server operators can now configure HTTP request limits and restrictions via the `permissions.json` file. All of the configurable options are optional. If not specified, limits for the particular setting will not be enforced. Example config: `.\config\<module_id>\permissions.json`
 
-``` auto
+```
 {
   "allowed_modules": [
     ...
@@ -1052,7 +1052,7 @@ Added addional error types for HTTP requests:
 
 - Updating the `canopy_decorator`schema to support placing several blocks in a row as a decorator. New schema includes `decoration_blocks_sequence` as a list of blocks and a count per block to be placed. This aims to replace `decoration_block` and `num_steps`, however the old format is still supported but if both are give the new one is prioritised. Example of new format:
 
-``` auto
+```
  "canopy_decoration" : {
         "decoration_blocks_sequence" : [
           {
@@ -1219,7 +1219,7 @@ Added addional error types for HTTP requests:
   - Blocks prior to 26.10 will behave as expected based on their defined geometry and material instances
   - Example:
 
-``` auto
+```
   "format_version": "26.10",
     "minecraft:block": {
         "description": {

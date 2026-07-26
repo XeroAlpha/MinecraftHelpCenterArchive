@@ -651,46 +651,13 @@ Today Mounts of Mayhem charges into Minecraft, bringing a new weapon to wield, m
   - The new cubemap configuration files should be placed in the *cubemaps* directory of a resource pack.
   - Example of a cubemap configuration file with path cubemaps/mycubemap.json:
 
-  ``` auto
-      {
-          "format_version": "1.21.130",
-          "minecraft:cubemap_settings": {
-              "description": {
-                  "identifier": "mypack:mycubemap"
-              },
-              "lighting": {
-                  "ambient_light_illuminance": {
-                      "0.00000": 4.0,
-                      "1.000000": 4.0
-                  },
-                  "sky_light_contribution": 1.0,
-                  "directional_light_contribution": 1.0,
-                  "affected_by_atmospheric_scattering": true,
-                  "affected_by_volumetric_scattering": true
-              }
-          }
-      }
-  ```
+  { "format_version": "1.21.130", "minecraft:cubemap_settings": { "description": { "identifier": "mypack:mycubemap" }, "lighting": { "ambient_light_illuminance": { "0.00000": 4.0, "1.000000": 4.0 }, "sky_light_contribution": 1.0, "directional_light_contribution": 1.0, "affected_by_atmospheric_scattering": true, "affected_by_volumetric_scattering": true } } }
 
   - *format_version*: Required field containing "1.21.130"
   - *minecraft:cubemap_settings*: Required field
   - *minecraft:cubemap_settings/description/identifier*: Required field. If the identifier is equal to *minecraft:default_cubemap*, it will be used by default in all biomes. Otherwise, the cubemap configuration can be applied to a biome by supplying the same identifier in the respective *.client_biome.json* file for that biome. Example of a biome configuration file with path biomes/river.client_biome.json:
 
-  ``` auto
-      {
-        "format_version": "1.21.130",
-        "minecraft:client_biome": {
-          "description": {
-            "identifier": "minecraft:river"
-          },
-          "components": {
-            "minecraft:cubemap_identifier": {
-              "cubemap_identifier": "mypack:mycubemap"
-            }
-          }
-        }
-      }
-  ```
+  { "format_version": "1.21.130", "minecraft:client_biome": { "description": { "identifier": "minecraft:river" }, "components": { "minecraft:cubemap_identifier": { "cubemap_identifier": "mypack:mycubemap" } } } }
 
   - *minecraft:cubemap_settings/lighting*: Required field. Any fields inside *lighting* are optional
   - *minecraft:cubemap_settings/lighting/ambient_light_illuminance*: Contains pairs of numbers, where the first number should be between 0.0 and 1.0 (time of day) and the second number should be between 0.0 and 100000.0 (ambient light). Default value is 5.625 for all times of day
@@ -868,34 +835,9 @@ Today Mounts of Mayhem charges into Minecraft, bringing a new weapon to wield, m
   - Block has minecraft:redstone_consumer component, otherwise CONTENT_ERROR is thrown
   - Subscription is not queued if the BlockComponentRedstoneUpdateEvent.powerLevel is less than minecraft:redstone_consumer field min_power Here is an example of a custom component json and the subscription script:
 
-``` auto
-{
-    "format_version": "1.21.130",
-    "minecraft:block": {
-        "description": {
-            "identifier": "test:custom_block"
-        },
-        "components": {
-            "minecraft:redstone_consumer": {
-                "min_power": 10,
-                "propogates_power": true
-            },
-            "test:custom_component": {}
-        }
-    }
-}
-```
+{ "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:custom_block" }, "components": { "minecraft:redstone_consumer": { "min_power": 10, "propogates_power": true }, "test:custom_component": {} } } }
 
-``` auto
-import { system } from '@minecraft/server-wrapper';
-system.beforeEvents.startup.subscribe(init => {
-    init.blockComponentRegistry.registerCustomComponent("test:custom_component", {
-        onRedstoneUpdate: _ => {
-            //insert logic here
-        }
-    });
-});
-```
+import { system } from '@minecraft/server-wrapper'; system.beforeEvents.startup.subscribe(init =\> { init.blockComponentRegistry.registerCustomComponent("test:custom_component", { onRedstoneUpdate: \_ =\> { //insert logic here } }); });
 
 ### API Infra
 
@@ -917,76 +859,24 @@ system.beforeEvents.startup.subscribe(init => {
 
 - Added component minecraft:support behind the Upcoming Creator Features toggle Example:
 
-``` auto
-"minecraft:support": { 
-    "shape": "stair" // "fence" is also valid 
-}
-```
+"minecraft:support": { "shape": "stair" // "fence" is also valid }
 
 - Created a new block trait, minecraft:connection, to expose behavior like Fences or Glass Panes from Vanilla where blocks connect to other blocks around them. Using this trait with the example below adds the bool states minecraft:connection_north, minecraft:connection_east, minecraft:connection_south, and minecraft:connection_west. This is only available while the "Upcoming Creator Features" toggle is enabled Example:
 
-``` auto
-{
-    "format_version": "1.21.130",
-    "minecraft:block": {
-        "description": {
-            "identifier": "test:connection_block",
-            "traits": {
-                "minecraft:connection": {
-                    "enabled_states": ["minecraft:cardinal_connections"]
-                }
-            }
-        }
-    }
-}
-```
+{ "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:connection_block", "traits": { "minecraft:connection": { "enabled_states": \["minecraft:cardinal_connections"\] } } } } }
 
 - One known issue with this is that blocks using minecraft:connection don't properly decide connections to blocks like Fences, Walls, Iron Bars, Fence Gates, and Glass Panes. Addressing this issue is currently in development
 - Added component minecraft:connection_rule behind the Upcoming Creator Features toggle which allows custom blocks to define whether other blocks with connection behavior - such as fences, walls, bars, and glass panes - can try to create a connection.
 - Added VanillaBlockTag minecraft:has_fence_connections that can be used to identify a custom block as a block that creates connections like a fence; this tag is required to create connections between custom and Vanilla fences. The component and tag can be used along with the minecraft:connection block trait to make a custom fence that creates connections like a Vanilla fence. The following is an example of how they fit into the JSON of a custom fence block:
 
-``` auto
-{
-    "format_version": "1.21.130",
-    "minecraft:block": {
-        "description": {
-            "identifier": "test:my_fence",
-            "traits": {
-                "minecraft:connection": {
-                    "enabled_states": ["minecraft:cardinal_connections"]
-                }
-            }
-        },
-        "components": {
-            "tag:minecraft:has_fence_connections": {},
-            "minecraft:connection_rule": {
-                "accepts_connections_from": "only_fences"
-            }
-        }
-    }
-}
-```
+{ "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:my_fence", "traits": { "minecraft:connection": { "enabled_states": \["minecraft:cardinal_connections"\] } } }, "components": { "tag:minecraft:has_fence_connections": {}, "minecraft:connection_rule": { "accepts_connections_from": "only_fences" } } } }
 
 - Added new state minecraft:corner_and_cardinal_direction to the minecraft:placement_direction block trait which enables the minecraft:corner with values none, inner_left, inner_right, outer_left, and outer_right to provide similar behavior to how stairs in Vanilla work
   - When this is set, you can use the field blocks_to_corner_with to decide the criteria with an array of block descriptors to determine what blocks to form a corner with
   - The default behavior for this field is to corner with the same block name
   - This all requires the Beta APIs toggle to be enabled on a world and the use_beta_features flag on your block
 
-``` auto
-  "format_version": "1.21.130",
-  "use_beta_features": true,
-  "minecraft:block": {
-    "description": {
-      "identifier": "custom:custom_block",
-      "traits": {
-        "minecraft:placement_position": {
-          "enabled_states": ["minecraft:vertical_half"]
-        "minecraft:placement_direction": {
-          "enabled_states": ["minecraft:corner_and_cardinal_direction"],
-          "blocks_to_corner_with": [{"tags": "q.any_tag('minecraft:cornerable_stairs')"}]
-      }
-  }
-```
+"format_version": "1.21.130", "use_beta_features": true, "minecraft:block": { "description": { "identifier": "custom:custom_block", "traits": { "minecraft:placement_position": { "enabled_states": \["minecraft:vertical_half"\] "minecraft:placement_direction": { "enabled_states": \["minecraft:corner_and_cardinal_direction"\], "blocks_to_corner_with": \[{"tags": "q.any_tag('minecraft:cornerable_stairs')"}\] } }
 
 - With the Beta APIs toggle on, Vanilla Stairs have the tag minecraft:cornerable_stairs available, and can corner with custom blocks with the same tag if the block also uses minecraft:cardinal_direction block states
 - Blocks using minecraft:placement_direction Block Trait with the minecraft:corner_and_cardinal_direction had the inner_left/outer_left and inner_right/outer_right states backwards when a block was facing south or west
@@ -1001,36 +891,12 @@ system.beforeEvents.startup.subscribe(init => {
 
   - Example:
 
-    ``` auto
-    {
-        "format_version": "1.21.130",
-        "minecraft:block": {
-            "description": {
-                "identifier": "test:custom_consumer_block"
-            },
-            "components": {
-                "minecraft:redstone_consumer": {
-                    "min_power": 5,
-                    "propogates_power": true
-                }
-            }
-        }
-    }
-    ```
+    { "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:custom_consumer_block" }, "components": { "minecraft:redstone_consumer": { "min_power": 5, "propogates_power": true } } } }
 - Modified minecraft:material_instances block component
   - Removed redundant experimental field shaded formerly named emissive
   - Same effect can be achieved with existing fields, example below
 
-``` auto
-"minecraft:material_instances" : {
-    "*": {
-        "texture": "my_texture",
-        "render_method": "opaque",
-        "face_dimming": false,
-        "ambient_occlusion", false
-    }
-}
-```
+"minecraft:material_instances" : { "\*": { "texture": "my_texture", "render_method": "opaque", "face_dimming": false, "ambient_occlusion", false } }
 
 - Added minecraft:leashable block component, which allows custom blocks to receive a lead attachment, including an offset field to change the position of the leash knot. Currently only available with "Upcoming Creator Features" enabled
 
