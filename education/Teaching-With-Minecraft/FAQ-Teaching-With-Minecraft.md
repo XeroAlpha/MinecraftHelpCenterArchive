@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Teaching With Minecraft"
 date: 2020-08-10T10:04:33Z
-updated: 2023-09-14T23:16:54Z
+updated: 2026-07-28T22:05:21Z
 categories: Teaching With Minecraft
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117712-FAQ-Teaching-With-Minecraft
 ---
@@ -11,7 +11,7 @@ link: https://edusupport.minecraft.net/hc/en-us/articles/360047117712-FAQ-Teachi
 Begin your Minecraft journey with these easy steps:
 
 - Check out our [Get Started](https://edusupport.minecraft.net/hc/en-us/articles/360047554531-Get-started-with-Minecraft-Education-Edition-all-platforms-) material
-- [Download the trial](https://education.minecraft.net/get-started/download/)
+- [Download the trial or Demo](https://education.minecraft.net/get-started/download/)
 - Join the [Minecraft Education Teacher's Lounge](https://aka.ms/mceduteacherslounge)
 - Complete the [tutorial world](../Get-Started/Get-Started-with-the-Tutorial-World.md) and get familiar with the [basic controls](./Minecraft-keyboard-and-mouse-controls.md)
 - Connect with the team and other educators at [@playcraftlearn](https://twitter.com/playcraftlearn), and ask your students about how they learned to play Minecraft. You’ll hear some amazing ideas.
