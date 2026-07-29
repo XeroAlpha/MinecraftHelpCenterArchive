@@ -1,7 +1,7 @@
 ---
 title: Manage Licenses in the Admin Center
 date: 2020-08-10T11:21:41Z
-updated: 2026-07-09T20:17:55Z
+updated: 2026-07-28T22:36:57Z
 categories: License Management
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118672-Manage-Licenses-in-the-Admin-Center
 hash:
@@ -23,13 +23,25 @@ Once you've purchased either Microsoft 365 (A3 or A5) or Minecraft Education dir
 If your school organization has purchased a Microsoft 365 A3 or A5 plan, the Minecraft Education license is automatically included for each account that you assign the A3 or A5 license to. For Minecraft Education access, you'll need to assign a user either a Microsoft 365 subscription or a direct Minecraft Education license to their account. 
 
 1.  Sign in to your [Microsoft 365](https://login.microsoftonline.com/) account. 
+
 2.  From the left-hand menu, select** Users**** **
+
 3.  From the** Users** list, select the users you want to add or remove the license from 
+
 4.  Add the relevant license if it hasn't been assigned already. Note that if the user has any kind of faculty license, the user will be assigned an instructor role in the application and will have elevated permissions.\
-    ![m365_assignment.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402371614100)
+     
+
+    <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 85.02%;">
+    <img src="https://edusupport.minecraft.net/hc/article_attachments/51875153964820" />
+    </figure>
+
 5.  If you assigned a Microsoft 365 subscription bundle (A3 or A5), you'll need to ensure Minecraft Education is toggled on or off, depending on if you want to add or remove Minecraft Education from the user (it will be on by default)
 
-![m365_meetoggle2.PNG](https://edusupport.minecraft.net/hc/article_attachments/4402371615508)
+<figure class="wysiwyg-image wysiwyg-image-resized" style="width: 79.2%;">
+<img src="https://edusupport.minecraft.net/hc/article_attachments/51875153965204" />
+</figure>
+
+ 
 
 **NOTE**:  Granting a license will immediately allow the user to access the app.  Removing the Minecraft Education license can take up to 30 days for the user to lose access. Changing the A3/A5 license type from faculty to student can take up to 7 days for role change to affect Minecraft Education. 
 
