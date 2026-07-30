@@ -1,7 +1,7 @@
 ---
 title: Getting started with Minecraft Education
 date: 2020-08-10T12:12:25Z
-updated: 2026-02-10T23:03:40Z
+updated: 2026-07-30T20:04:34Z
 categories: Get Started
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047557271-Getting-started-with-Minecraft-Education
 hash:
@@ -58,7 +58,8 @@ Minecraft Education is a special version of the game developed specifically for 
 
 ### How do I get started using Minecraft Education?
 
-First, you will need to have a valid Minecraft Education subscription. You can check if your school is already licensed by asking your IT administrator. To learn more about trying Minecraft Education, check out [Try Minecraft Education for free](./Try-Minecraft-Education-for-free.md).\
+First, you will need to have a valid Minecraft Education subscription. You can check if your school is already licensed by asking your IT administrator. \
+If you want to try Minecraft Education before committing to a purchase, check out our [Try Minecraft Education for free](./Try-Minecraft-Education-for-free.md) article for more information about how to use our trial and demo lessons. \
 \
  
 
