@@ -1,7 +1,7 @@
 ---
 title: "\"Make sure you're using an organizational account\" error."
 date: 2021-12-17T18:55:52Z
-updated: 2025-07-24T16:50:12Z
+updated: 2026-07-31T17:30:44Z
 categories: Troubleshooting
 link: https://edusupport.minecraft.net/hc/en-us/articles/4413322344852--Make-sure-you-re-using-an-organizational-account-error
 ---
@@ -15,27 +15,34 @@ This error can happen for a few different reasons.  Check out the table below f
 
  
 
-<table data-border="1px" data-cellpadding="5px">
+<figure class="wysiwyg-table wysiwyg-table-align-left">
+<table>
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: top" width="312"><p><strong>Cause</strong></p></td>
-<td style="vertical-align: top" width="312"><p><strong>Solution</strong></p></td>
+<td style="padding: 5px; vertical-align: top"><strong>Cause</strong></td>
+<td style="padding: 5px; vertical-align: top"><strong>Solution</strong></td>
 </tr>
 <tr>
-<td style="vertical-align: top" width="312"><p>You are logging in with a personal Microsoft account</p></td>
-<td style="vertical-align: top" width="312"><ul>
-<li> In order to access Minecraft Education, you'll need to have a Microsoft 365 school or business account.   You can use this school or business account to access a free trial of Minecraft Education, and you can always try out a demo lesson without logging in.  </li>
-<li>Read more:  <a href="../Get-Started/Try-Minecraft-Education-for-free.md">Try Minecraft Education for free</a></li>
+<td style="padding: 5px; vertical-align: top">You are logging in with a personal Microsoft account</td>
+<td style="padding: 5px; vertical-align: top"><ul>
+<li> In order to access Minecraft Education, you'll need to have a Microsoft 365 school or business account.   </li>
+<li>Without an account you'll be able to access our Demo Lessons that allow you try a limited number of lessons endlessly. 
+<ul>
+<li>Read more:  <a href="../Get-Started/Try-Minecraft-Education-for-free.md">Try Minecraft Education for free</a>
+<ul>
+<li>Academically verified organizations can also try our full trial. </li>
+</ul></li>
+</ul></li>
 <li>If you would like to purchase a license to get full access, you can read about your purchase options here:  <a href="../License-Management/Purchasing-Options-for-Minecraft-Education-Licenses.md">Purchasing Options for Minecraft Education Licenses</a></li>
 </ul></td>
 </tr>
 <tr>
-<td style="vertical-align: top"><p>The device's system clock is not synced</p></td>
-<td style="vertical-align: top"><ul>
+<td style="padding: 5px; vertical-align: top">The device's system clock is not synced</td>
+<td style="padding: 5px; vertical-align: top"><ul>
 <li>Try syncing your system's clock. This is done differently per OS, but here are a couple examples:
 <ul>
 <li>Windows 10/11: Go to Windows Settings &gt; Time and Language &gt; Date and Time. Then, confirm that your time zone and region are right and hit the "Sync Now" button</li>
@@ -44,15 +51,15 @@ This error can happen for a few different reasons.  Check out the table below f
 </ul></td>
 </tr>
 <tr>
-<td style="vertical-align: top" width="312"><p>The user account is not an AAD account</p></td>
-<td style="vertical-align: top" width="312"><ol>
+<td style="padding: 5px; vertical-align: top">The user account is not an AAD account</td>
+<td style="padding: 5px; vertical-align: top"><ol>
 <li>Although you may see the account and be able to assign a license in the admin center, the user isn't an account in your tenant.  This can happen if you've created a guest account.</li>
 <li>We recommend that you create a new account in your tenant for the user and assign a license to it.</li>
 </ol></td>
 </tr>
 <tr>
-<td style="vertical-align: top"><p>Commercial account is not correctly configured</p></td>
-<td style="vertical-align: top"><ul>
+<td style="padding: 5px; vertical-align: top">Commercial account is not correctly configured</td>
+<td style="padding: 5px; vertical-align: top"><ul>
 <li>If you have recently purchased a license through our commercial subscription, you'll need to create users in the Admin Center and then assign purchased licenses to them.</li>
 <li>When you first signed in and purchased Minecraft Education licenses, right before the billing info you would have created a new "business" email with its own @domain. The email address would look like this: <a href="mailto:EmailName@DomainName.onmicrosoft.com">EmailName@DomainName.onmicrosoft.com.</a></li>
 <li>When you log into <a href="https://admin.microsoft.com/">Admin Center</a>, you should see your onmicrosoft account cached if you use the same device that you used to purchase the Minecraft Education license. If you can remember the Domain name but not the email name part, let us know.</li>
@@ -62,3 +69,4 @@ This error can happen for a few different reasons.  Check out the table below f
 </tr>
 </tbody>
 </table>
+</figure>

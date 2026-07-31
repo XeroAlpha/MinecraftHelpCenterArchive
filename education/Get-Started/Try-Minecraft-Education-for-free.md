@@ -1,23 +1,28 @@
 ---
 title: Try Minecraft Education for free
 date: 2020-08-10T07:24:49Z
-updated: 2026-04-01T16:01:58Z
+updated: 2026-07-31T17:31:46Z
 categories: Get Started
 tags:
   - trial
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047116432-Try-Minecraft-Education-for-free
 hash:
   h_01HHQA7922MD464EXSD8474EQP: technical-requirements
+  h_01KYTBFV7KXEEC1G84DTJ3QBV8: about-the-demo-lessons
+  h_01HHQA7923SP6NDXZ2TGKQ69GZ: startademolesson
   h_01HHQA7922T31PCAXYHFSWHVSS: about-the-freetrial
   h_01HHQA7922MYSBFXRHEQXEA11Q: start-the-freetrial
-  h_01HHQA79231DZMWVM1YZYMJJZR: about-the-demo-lessons
-  h_01HHQA7923SP6NDXZ2TGKQ69GZ: startademolesson
+  h_01HHQA79231DZMWVM1YZYMJJZR: ""
   h_01HHQA79233RQ52EX8YJPRDN7F: additional-resources
 ---
 
-Minecraft Education is available to anyone to try for free! There are two ways to try Minecraft Education for free, through the free trial or through the demo lesson. The free trial requires you to have a Entra ID account, either an Office 365 Education account or a Microsoft 365 account (Note: Personal versions of Office 365 or Microsoft 365 do not provide access nor trial access to Minecraft Education). The demo lesson does not require any account or log-in. This article provides information on how to use the free trial and the demo lesson. 
+Minecraft Education is available for anyone to try for free! There are two ways to experience Minecraft Education before purchasing a full license: Demo Lessons or our Free Trial.  
 
-You can explore [more details](https://www.youtube.com/watch?v=N103PpqAMzg&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=19) in our [Learn To Play YouTube Series](https://aka.ms/learntoplay) along with many other guides for using the app!
+Our Demo Lessons are available to all users to use without an account. The demo lesson allows you to explore a limited set of lessons before committing to a full purchase of licenses. It's a great way to get a feel for the program, how it runs, the education value that could be offered, and the general controls. 
+
+The free trial is available to users with an academically verified Microsoft Entra ID account, such as an Office 365 Education or Microsoft 365 Education account. The free trial offers full access to Minecraft Educations features for a limited number of sign ins.  You can learn how to verify if your Microsoft 365 Tenant is Academically Verified by following the steps in this article: [Purchase Academic Licenses Directly](../License-Management/Purchase-Academic-Licenses-Directly.md)
+
+You can also explore [more details](https://www.youtube.com/watch?v=N103PpqAMzg&list=PLg9lToc61ftpZjtoCJoPZ8gLyXVk1whOV&index=19) in our [Learn to Play YouTube Series](https://aka.ms/learntoplay) along with many other guides for using the app!
 
 <figure class="wysiwyg-media">
 
@@ -29,48 +34,17 @@ Minecraft Education can be played on Chromebook, iPad, Mac, and PC. Before tryin
 
  
 
-## About the free trial 
-
-The free trial is fully functional and contains all the features of the paid version. The trial is compatible with Classroom Mode. For more information on these features, see the [Get Started with Classroom Mode](https://aka.ms/MEEUseClassroomMode) articles. 
-
- 
-
-The trial is limited by the number of logins (25 for teachers with an Office 365 Education account and 10 for all other users) before a paid license is required to continue playing. Trial logins **cannot** be refreshed – if you have any issues, [contact our support team](https://aka.ms/MEE_New_Request) right away so you don’t use all your trial logins! After your trial logins have been used, Minecraft Education is available to purchase. 
-
-  
-
-### Start the free trial 
-
-If you have an organizational Office 365 Education or a Microsoft 365 Education account, follow these steps to start the free trial. 
-
-1.  From the [Get Minecraft Education](https://education.minecraft.net/get-started/download) download page, select the version of Minecraft Education to download that is compatible with your device. 
-2.  Install the version of Minecraft Education that you downloaded. 
-3.  Launch and sign into Minecraft Education with your Office 365 Education account information (this may be your school email) or with your Microsoft 365 account information. 
-
-<figure class="wysiwyg-table wysiwyg-table-align-left">
-<table data-tablestyle="MsoTableGrid" data-tablelook="1184" aria-rowcount="3">
-<tbody>
-<tr aria-rowindex="1">
-<td style="width: 114px" data-celllook="0"><strong>If you…  </strong></td>
-<td style="width: 563px" data-celllook="0"><strong>Then… </strong></td>
-</tr>
-<tr aria-rowindex="2">
-<td style="vertical-align: top; width: 114px" data-celllook="0">Have a valid account </td>
-<td style="vertical-align: top; width: 563px" data-celllook="0">You are signed into Minecraft Education and can begin playing. The <a href="https://aka.ms/MEELearnToPlay">Learning to play Minecraft Education</a> article has information to help you learn how to play. </td>
-</tr>
-<tr aria-rowindex="3">
-<td style="vertical-align: top; width: 114px" data-celllook="0">Do <strong>not</strong> have a valid account </td>
-<td style="vertical-align: top; width: 563px" data-celllook="0">You are <strong>not</strong> signed in and cannot use the free trial. To try Minecraft Education for free, check out the instructions on trying a demo lesson. </td>
-</tr>
-</tbody>
-</table>
-</figure>
-
- 
-
 ## About the demo lessons 
 
-Demo lessons allow you to try Minecraft Education for free and without an account. Each demo lesson has limited functionality: for example worlds and progress cannot be saved, and it is not possible to join or host a multiplayer game. Playing a demo lesson allows you the opportunity to experience a real lesson in Minecraft Education.  There is no limit on the number of times you play each demo lesson.
+If you're not in an academically verified Microsoft 365 Tenant or have run out of logins for the full trial you'll only be able to access our Demo Experience. The Demo Experience allows you to try Minecraft Education for free and without an account. You'll have unlimited access to a selection of lessons from Lesson Library, such as Hour of AI. \
+\
+The Demo experience has limited functionality, including: 
+
+- Worlds and progress cannot be saved
+- It is not possible to join or host a multiplayer game or join Dedicated Servers
+- You cannot create or load custom worlds
+
+Using the Demo Experience is a great way to decide if the program is a good fit for your school, organization, program, club or otherwise. If you decide you like the program, you can look into purchasing full licenses here: [Purchasing Options for Minecraft Education Licenses](../License-Management/Purchasing-Options-for-Minecraft-Education-Licenses.md)
 
  
 
@@ -84,9 +58,23 @@ Follow these steps to try a demo lesson 
 4.  To view the license agreement, select **View Terms**.  
 5.  When ready to play, select **Accept Terms** and **Play**. 
 6.  Select **Start Lesson**. \
-    *Note: Lessons with the lock overlay can be accessed by signing into the game with a licensed account or one that is eligible for a trial. * 
+    *Note: Lessons with the lock overlay can only be accessed by signing into the game with a licensed account. *
+
+## About the free trial 
+
+Academically verified Microsoft 365 Accounts can use the Free Trial experience. The free trial is fully functional and contains all the features of the paid version. The trial is compatible with Classroom Mode. For more information on these features, see the [Get Started with Classroom Mode](https://aka.ms/MEEUseClassroomMode) articles.  
+
+The trial is limited by the number of logins (25 for teachers with an Office 365 Education account and 10 for all other users) before a paid license is required to continue playing. Trial logins **cannot** be refreshed – if you have any issues, [contact our support team](https://aka.ms/MEE_New_Request) right away so you don’t use all your trial logins! After your trial logins have been used, Minecraft Education is available to purchase. If you run out of sign ins and don't purchase any licenses, you'll be redirected to the Demo Lessons referenced above.  
 
  
+
+### Start the free trial 
+
+1.  From the [Get Minecraft Education](https://education.minecraft.net/get-started/download) download page, select the version of Minecraft Education to download that is compatible with your device. 
+2.  Install the version of Minecraft Education that you downloaded. 
+3.  Launch and sign into Minecraft Education with your Microsoft 365 Education account information (this is most likely your school email), 
+
+##  
 
 ## Additional Resources 
 
