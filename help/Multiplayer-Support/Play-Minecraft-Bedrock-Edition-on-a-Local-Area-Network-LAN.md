@@ -1,38 +1,35 @@
 ---
 title: "Play Minecraft: Bedrock Edition on a Local Area Network (LAN)"
 date: 2025-04-08T22:49:26Z
-updated: 2026-03-11T18:48:00Z
+updated: 2026-08-03T17:00:51Z
 categories: Multiplayer Support
 tags:
   - section_27166460834061
 link: https://help.minecraft.net/hc/en-us/articles/35697355112717-Play-Minecraft-Bedrock-Edition-on-a-Local-Area-Network-LAN
 hash:
-  h_01JWCKJNBKPPNMM8WMXWJAGJ2Y: host-a-local-area-network-lan-multiplayer-game
-  h_01JWCKJNBK36V0D1XAPQ0NVP65: join-a-local-area-network-lan-multiplayer-game
-  h_01JWCKJNBKWKVKQ6VZZZZM59MA: other-ways-to-play-minecraft-bedrock-edition-multiplayer
+  h_01KZ48JSHJFG0HECE3VFSHNXP4: host-a-lan-multiplayer-game
+  h_01KZ48JSHMHTBAEYS8WHZ4QXFR: join-a-lan-multiplayer-game
+  h_01KZ48JSHPFP5YBJFMMPK200XC: other-ways-to-play-minecraft-bedrock-edition-multiplayer
 ---
 
-You can play Minecraft: Bedrock Edition with friends by connecting devices over a Local Area Network (LAN) that does not have a connection to the internet. All players must be playing the most recent version of Minecraft using devices that support LAN play and be connected to the same network without an active internet connection.
+To play Minecraft: Bedrock Edition with friends over a Local Area Network (LAN), all players must have the most recent version of Minecraft, devices that support LAN play, and the same network connection. If you’re on a console, you may also need a subscription to play online multiplayer, such as Xbox Game Pass Core or PlayStation Plus.
 
-**Note:** If your device is connected to the internet, Minecraft: Bedrock Edition defaults to online play, and you will not see LAN worlds on the Worlds tab.
+If you and the player you plan to play with are Minecraft friends and are both online, Bedrock Edition defaults to online play, and you will see the option to directly join a friend’s world instead of a LAN world. You can still play together, but it will be over an internet connection instead of your LAN.
 
-## Host a Local Area Network (LAN) multiplayer game
+## Host a LAN multiplayer game
 
-1.  Verify that your device is connected to a local area network without an internet connection.
+1.  Confirm your device is on a LAN.
 2.  Launch Minecraft and select **Play** on the Minecraft title screen.
-3.  Select the **pencil** icon on the world you want to play or create a new one.
-4.  Select the **Multiplayer** tab and make sure that **Multiplayer game** and **Visible to LAN Players** are both enabled.
-5.  Select the **Play** button to start the game.
+3.  Select the **pencil** for the existing world you want to play in.
+4.  Select the **Multiplayer** tab and enable **Multiplayer game** and **Visible to LAN Players**.
+5.  Select **Play** to start the game.
 
-## Join a Local Area Network (LAN) multiplayer game
+## Join a LAN multiplayer game
 
-1.  Verify that your device is connected to the same local area network as the host computer without an internet connection.
-2.  Verify that the host device has started a LAN game.
-3.  Launch Minecraft and select **Play** on the Minecraft title screen.
-4.  Select the **Worlds tab** and look for worlds that display "LAN" next to the name.
-5.  Select the World you want to play to join.
-
-**Note:** If LAN worlds are not shown, click the network button at the top of the Worlds tab to toggle the LAN game display.
+1.  Confirm your device is connected to the same LAN as the host device.
+2.  Confirm the host device has started a LAN game.
+3.  Launch Minecraft and select **Play** on the Minecraft title screen.
+4.  Select the **Worlds tab **and join the world that shows LAN next to its name.
 
 ## Other ways to play Minecraft: Bedrock Edition multiplayer
 
