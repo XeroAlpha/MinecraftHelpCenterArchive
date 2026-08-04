@@ -1,29 +1,29 @@
 ---
 title: "IT Admin: Create Dedicated Servers"
 date: 2026-02-17T03:13:24Z
-updated: 2026-06-26T18:34:34Z
+updated: 2026-08-04T21:08:39Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46370720373908-IT-Admin-Create-Dedicated-Servers
 hash:
   h_01KQ0TNP2TYCVFS50BH0Z16AK8: dedicated-server-admin-portal
   h_01KQ0TQT3E0XC4AY0D9D7414YP: installing-on-windows-or-ubuntu
   h_01KRCK8Z33PDYGXQXVR50BBV8D: editing-your-server
-  h_01KHMWRQWSQ5VKVK3FAVXND5ZV: partner-permissions-optional-coming-soon
+  h_01KY83CVKXPMMKC4RTCWK4EV4N: enabling-cross-tenant
   h_01KN4X963V0KVQJ3F0FT5P4TSY: additional-resources
 ---
 
 The Minecraft Education Dedicated Servers Admin Portal allows you to create and manage your dedicated servers. 
 
-> **Note: Cross tenant play is currently unavailable. We hope to have this out in the near future! You will see the options to enable it in the Admin Portal where the setting will apply once available.**
+> **Note: Cross Tenant Play is now available! You can learn how to allow other users from other tenants to join your server here:** [**Enabling Cross-Tenant Play**](./Enabling-Cross-Tenant-Play.md)
 
 Important Links: 
 
 - [Dedicated Server Admin Portal](#dedicated-server-admin-portal)
   - Enabling Dedicated Servers  
   - Creating Dedicated Servers
-- [Installing on Windows or Ubuntu](#h_01KPXYPF2D209WC3WX9BXC623J)
+- [Installing on Windows or Ubuntu](#installing-on-windows-or-ubuntu)
 - [Editing your server](#editing-your-server)
-- [Partner Permissions](#partner-permissions-optional-coming-soon) (coming soon)
+- [Partner Permissions](#h_01KHMWRQWSQ5VKVK3FAVXND5ZV) (coming soon)
 
 ### Dedicated Server Admin Portal
 
@@ -81,7 +81,10 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
     - Use the **Allow chat** toggle to enable or disable chat on the server
     - You may also elect to log all messages sent by users by toggling Chat Logging. 
       - This will save all messages sent by users to `/chat_logs/ChatLog_<Date>.txt`
+
       - If you wish to change this setting later, it must be manually updated by changing the `chat-logging-enabled` in `server.properties`. The server will need to be rebooted for this to take effect.
+
+         
 
 6.  Provide the world generation settings (Optional)
     - Enter a world seed 
@@ -107,6 +110,8 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
     - Enabled - determines if players can join the server.  If this is turned off while players are on the server, the server will close and all players will lose access
     - Broadcast - when this is set to the on position, the server will appear in the server list in the Minecraft Education client
       - If this is off, users will need to enter the Server ID under "Add Server" in the client. It will not be in their default list. 
+    - Enable the Sharing Enabled toggle if you intend to configure Cross Tenant Play later. You can learn how to set this up here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)\
+      ![](https://edusupport.minecraft.net/hc/article_attachments/52138048833940)
 
 11. Click **Save** to save these server settings
     1.  Click **Close** to close the window 
@@ -138,11 +143,16 @@ Installing your server on your host is fairly simple regardless of which Operati
 
 Your server is now up and running. However, if you need to make any changes later such as changing the name, passcode, enabling or disabling chat, etc. you can find the process to edit servers here: [Modifying Existing Servers](./Modifying-Existing-Servers.md)
 
+Additionally, if you wish to enable Cross Tenant Play to allow other approved schools to connect to your servers, you can do that following the guide here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)
+
  
 
-### Partner Permissions (optional, coming soon)
+### Enabling Cross Tenant
 
-Official Minecraft Education Partners can be enabled in this section to grant them special permissions. This will allow partners to modify your tenant’s access to, and visibility of servers hosted by the partner. That way, you don’t have to configure or host servers yourself. Note that enabled partners can only grant your users guest access to servers belonging to the partner’s tenant. Partners are never able to administer the accounts or servers belonging to your tenant.
+IT Admins can configure servers to accept connections from other tenants. This allows cross-tenant play for events such as E-Sports events between different schools, or similar events. This setup can be a bit complex and will require cooperation between all the Tenant's IT Admins. \
+You can learn how to set this up here: 
+
+ 
 
 #### Additional Resources
 

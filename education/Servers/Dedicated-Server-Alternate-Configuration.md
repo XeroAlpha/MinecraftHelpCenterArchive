@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Alternate Configuration
 date: 2025-10-01T17:35:03Z
-updated: 2026-06-26T18:30:35Z
+updated: 2026-08-04T20:52:07Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41757415076884-Dedicated-Server-Alternate-Configuration
 hash:
@@ -18,12 +18,13 @@ hash:
   h_01K6GD8G0W6EF96252PHAF7YC5: "-1"
   h_01K6GD8G0Y5S5KN36NYA2D9WSH: tooling-server-deletion
   h_01KQG3QZ8EKZX42PV15G0T1483: serverproperties-file
+  h_01KZ78Q25JTKB8N7QJHRG5MS1R: enabling-cross-tenant-play
 ---
 
 For those looking to mass configure, configure an allow list, configure cross-tenant support, or other more advanced features, you can do this via the **Dedicated Server Tooling and Scripting** utility. 
 
 > **Note:** This is intended for advanced users. The below steps can be tedious and we recommend only highly technical users proceed. VS Code, Jupyter Notebook, and Python will be used. \
-> **Note:** Cross tenant play is currently unavailable. We hope to have this out in the near future! You will see the options to enable it in the Admin Portal where the setting will apply once available.
+> **Note:** Cross tenant play is now available! You can learn more about how to set that up here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)
 
 For general information about the EDU Dedicated Server, please refer to the [Dedicated Server FAQ](./Dedicated-Server-FAQ.md) article. In addition to our guide below, feel free to check out our video guide:
 
@@ -212,4 +213,10 @@ To configure these advanced options, you'll first want to sign into the Scriptin
 
 ### Server.properties file
 
-Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. More details on this file can be found in this guide: [Modifying Existing Servers](./Modifying-Existing-Servers.md)\
+Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. More details on this file can be found in this guide: [Modifying Existing Servers](./Modifying-Existing-Servers.md)
+
+ 
+
+### Enabling Cross Tenant Play
+
+You can also enable Cross Tenant Play to allow users in other Microsoft Tenants to join your servers. You can learn how to configure this here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)\

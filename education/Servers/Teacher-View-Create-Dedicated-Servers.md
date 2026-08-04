@@ -1,7 +1,7 @@
 ---
 title: "Teacher View: Create Dedicated Servers"
 date: 2026-02-13T23:38:43Z
-updated: 2026-07-08T18:29:05Z
+updated: 2026-08-04T21:08:11Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295348713236-Teacher-View-Create-Dedicated-Servers
 hash:
@@ -11,6 +11,8 @@ hash:
   h_01KQ0TQT3E0XC4AY0D9D7414YP: installing-on-windows-or-ubuntu
   h_01KRCK7M4EP0GG4JEXCB2YV8V8: editing-your-server
 ---
+
+> **Note: Cross Tenant Play is**** ****now available!**** ****You can learn how to allow other users from other tenants to join your server here:** [**Enabling Cross-Tenant Play**](./Enabling-Cross-Tenant-Play.md)
 
 If your Global Administrator (IT Administrator) has enabled the feature, Teachers can create, manage, and install Minecraft Education Dedicated Servers through the Dedicated Server Admin Portal. This guide is intended to help teachers through the process of setting up and running their servers! 
 
@@ -25,7 +27,7 @@ You can find general information about dedicated servers in the [Dedicated Serve
 
 - [Prerequisites](#prerequisites)
 - [Creating a server](#creating-a-server)
-- [Installing on Windows or Ubuntu](#h_01KPXYPF2D209WC3WX9BXC623J)
+- [Installing on Windows or Ubuntu](#installing-on-windows-or-ubuntu)
 - [Editing your server](#editing-your-server)
 
 ### Prerequisites
@@ -73,10 +75,9 @@ Once you've verified the prerequisites above, you can begin to create your first
         - To obtain via GUI (Graphical Interface):
           - **Windows - **Go to **Windows Settings \> Network & Internet \> **Select your preferred Interface \> Then under **Connection Properties **find "IPv4 Address"
           - **Ubuntu - **Go to **Settings \> Network \> **Select the settings wheel next to your preferred interface \> Find **IPv4 **address. 
-
-        1.  **Note: **the exact steps may vary depending on the version of Windows (e.g. 10/11) or Ubuntu you're using. 
+        - **Note: **the exact steps may vary depending on the version of Windows (e.g. 10/11) or Ubuntu you're using. 
     4.  Enter the port that will be used for your server
-        1.  You need to work with your IT Administrator to have this port forwarded through both your host device's local firewall, and/or your router's firewall. 
+        - You need to work with your IT Administrator to have this port forwarded through both your host device's local firewall, and/or your router's firewall. 
     5.  Use the **Allow chat** toggle to enable or disable chat on the server
     6.  You may also elect to log all messages sent by users by toggling Chat Logging. 
         - This will save all messages sent by users to `/chat_logs/ChatLog_<Date>.txt`
@@ -99,11 +100,20 @@ Once you've verified the prerequisites above, you can begin to create your first
 
 9.  Click the **Continue** button, and enter your Server information
     - Server Name - the name that appears on the server list in the Minecraft Education client
+
     - Server Passcode - if you enter a passcode, all players that join the server will be required to enter this passcode
       - **Important Note**: Passcodes are not passwords, since they are not unique to each user. They are instead unique to each server (or at least should be!). They are viewable to admins and shared by users. For example, a classroom could use a passcode to ensure only that class can get into the server, so long as the passcode is only known to the people in the class.
+
     - Enabled - determines if players can join the server.  If this is turned off while players are on the server, the server will close and all players will lose access
+
     - Broadcast - when this is set to the on position, the server will appear in the server list in the Minecraft Education client
       - If this is off, users will need to enter the Server ID under "Add Server" in the client. It will not be in their default list. 
+
+    - Enable Sharing Enabled if you intend to configure Cross Tenant Play on this server later. You can learn more about this here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md) 
+
+    - <figure class="wysiwyg-image">
+      <img src="https://edusupport.minecraft.net/hc/article_attachments/52138464996372" />
+      </figure>
 
 10. Click **Save **to save these server settings
     1.  Click **Close **to close the window 
@@ -135,3 +145,5 @@ Installing your server on your host is fairly simple regardless of which Operati
 ### Editing your server
 
 Your server is now up and running. However, if you need to make any changes later such as changing the name, passcode, enabling or disabling chat, etc. you can find the process to edit servers here: [Modifying Existing Servers](./Modifying-Existing-Servers.md)
+
+Additionally, if you wish to configure Cross Tenant Play, which can allow other schools to join your servers, you can learn how to configure that here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)

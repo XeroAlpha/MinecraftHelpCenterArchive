@@ -1,11 +1,11 @@
 ---
 title: "FAQ: Game Features"
 date: 2020-08-10T10:02:07Z
-updated: 2024-05-22T22:52:19Z
+updated: 2026-08-04T20:54:41Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047117692-FAQ-Game-Features
 hash:
-  h_01HACTVH88A95NDADND4VP93BP: how-do-multiplayer-games-function-
+  h_01HACTVH88A95NDADND4VP93BP: how-do-multiplayer-games-function
   h_01HACTVH88N5A0XXX3CEE4SM96: can-students-play-multiplayer-with-players-on-other-internet-connections-at-home
 ---
 
@@ -17,9 +17,14 @@ Our next release will contain many of the new Minecraft features that are live i
 
  
 
-## **How do Multiplayer Games function?** 
+## **How do Multiplayer Games function?**
 
-Minecraft Education multiplayer games take place connecting over IP. Multiplayer games have a capacity of 40 players, for iPad, Windows, ChromeOS, and MacOS. Check out our [Multiplayer Guide](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md) for more information. Server style multiplayer is not available. Server licenses are not available.
+Minecraft Education can host multiplayer games either with a Peer-2-Peer connection, or with Dedicated Servers.  \
+Peer-2-Peer connections are simpler to setup and can be hosted by any client with the click of a button. A client acts as the host for the other clients over an IP connection. They are limited to 40 players per session (or the max amount the host device’s resources will allow). You can learn more about this here: [How To Set Up A Multiplayer Game](../Remote-Learning/How-To-Set-Up-A-Multiplayer-Game.md)  \
+\
+Dedicated Servers are more traditional servers that are hosted on a dedicated host device, and all clients connect to it. Dedicated Servers have no hard limit on the number of players who can join, are generally more performant, and can be setup to allow other approved schools to connect. They do, however, require a bit more complex setup. You can learn more about this here: [Dedicated Server FAQ](../Servers/Dedicated-Server-FAQ.md)
+
+Either connection be joined either locally, from remote networks, or a hybrid setup.  
 
  
 
@@ -43,7 +48,9 @@ In order to run code and use your agent in a world hosted by another player you 
 
 **Can I play multiplayer with users on other Office 365 tenants?**
 
-Educators and students can only use the multiplayer feature within their O365 EDU tenant, which means students can only collaborate with other students from the same tenant.  The scope of a tenant is determined by your school organization, and is normally set to the school or district.  You can contact your IT department to understand how your tenant has been set up. Users can connect with other users on different domains, provided they are within the same tenant. 
+Educators and students can only use the peer-2-peer multiplayer feature within their O365 EDU tenant, which means students can only collaborate with other students from the same tenant.  The scope of a tenant is determined by your school organization and is normally set to the school or district.  You can contact your IT department to understand how your tenant has been set up. Users can connect with other users on different domains, provided they are within the same tenant.  
+
+Dedicated Servers can be setup by IT Admins to allow connections to be established between schools to allow them to connect to each other’s approved servers. This can only be setup by IT Admins initially, or by Teachers with additional configuration. Students can never set up this connection. You can learn more about this here: [Enabling Cross-Tenant Play](../Servers/Enabling-Cross-Tenant-Play.md)
 
  
 

@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-07-15T20:42:39Z
+updated: 2026-08-04T20:53:15Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
@@ -75,7 +75,7 @@ User permissions work the same as for Peer-to-Peer with one exception. For dedic
 
 ## 10. If Dedicated Servers are enabled, can users in my tenant connect with users *outside* my tenant?
 
-No. Cross Tenant has not yet been implemented into Dedicated Server. After the feature is released, the default behavior will still be isolating users to only have access to servers in their own tenant. Users in one tenant will only be able to join another tenant's server if admins from both tenants enable the connection
+By default, players cannot connect to servers hosted in other Microsoft 365 Tenants. However, IT Administrators can setup a connection between their tenants to allow connections to servers hosted by other tenants. You can learn more here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)
 
 ## 11. What does it mean to broadcast a server?
 
