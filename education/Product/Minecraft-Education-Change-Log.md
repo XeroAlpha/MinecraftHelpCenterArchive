@@ -1,11 +1,11 @@
 ---
 title: Minecraft Education Change Log
 date: 2020-08-10T10:50:20Z
-updated: 2026-08-04T21:15:32Z
+updated: 2026-08-05T20:08:33Z
 categories: Product
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047556451-Minecraft-Education-Change-Log
 hash:
-  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-game-minor-client-update-version-2632---released-82526
+  01JSFB5D2ECC4MNWHBGV7WA8VP: minecraft-education-game-minor-client-update-version-2632---released-8526
   h_01KZ78JT7NTXTY9NFBCXW2M07F: minecraft-education-betapreview-game-client-update-version-2630---released-7726
   h_01KZ78JT7NETCM7K6DKXHNB7BC: minecraft-education-game-minor-client-update-version-121133---released-43026
   h_01KQFWF33TVKN5A8MPQZ96QQMW: minecraft-education-game-client-update-version-121132---released-21726
@@ -64,7 +64,7 @@ Minecraft Education periodically releases updates to our game and companion apps
 
  
 
-## Minecraft Education Game Minor Client Update (version 26.32) - Released 8/25/26
+## Minecraft Education Game Minor Client Update (version 26.32) - Released 8/5/26
 
 - Dedicated Server cross-tenant capability
 - Tiny Takeover update
