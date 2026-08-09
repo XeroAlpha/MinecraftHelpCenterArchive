@@ -15,6 +15,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
   - use_for_autoreply
+  - section_35377765046541
 link: https://help.minecraft.net/hc/en-us/articles/4409253767821-Create-a-Minecraft-Java-Edition-Realm
 hash:
   h_01J4M8QSKJPNJJJT6NXA7BCCNG: starting-a-minecraft-java-edition-realm

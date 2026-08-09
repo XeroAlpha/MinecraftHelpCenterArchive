@@ -14,6 +14,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
   - use_for_autoreply
+  - section_35377765046541
 link: https://help.minecraft.net/hc/en-us/articles/360029644312-Join-a-Minecraft-Java-Edition-Realm
 hash:
   h_01JWRWDCPHGTHVS39P9AXCKZNB: join-a-realm-in-minecraft-java-edition

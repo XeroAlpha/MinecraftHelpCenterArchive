@@ -14,6 +14,7 @@ tags:
   - title_minecraft_java_bedrock_for_pc
   - section_26104084764557
   - use_for_autoreply
+  - section_35377765046541
 link: https://help.minecraft.net/hc/en-us/articles/25916625786509-Invite-Friends-to-Your-Minecraft-Java-Edition-Realm
 hash:
   h_01JWC3R8M4X81N3WTZBGMX3PEE: invite-friends-through-the-game-menu
