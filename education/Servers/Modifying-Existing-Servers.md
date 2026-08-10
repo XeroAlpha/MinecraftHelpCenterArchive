@@ -1,7 +1,7 @@
 ---
 title: Modifying Existing Servers
 date: 2026-02-13T23:35:50Z
-updated: 2026-07-07T23:13:36Z
+updated: 2026-08-10T19:20:33Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295288885268-Modifying-Existing-Servers
 hash:
@@ -50,9 +50,11 @@ Once you create your servers you can edit their properties, such as enabling or 
 
 ### Editing servers with server.properties
 
-Some additional settings can be edited in `server.properties` on the server itself. If edited through this file, the server must be restarted before configuration takes effect. \
-Some properties are *hot-swappable* while others are not. Hot swappable properties can be changed after server creation. If a property is not hot swappable this means it **cannot be changed** after the initial server startup. \
-There are many options that can be edited in this file; however, the main ones are:
+Additional server settings can be configured directly in the `server.properties` file on the server. Any changes made through this file require the server to be restarted before they take effect.
+
+Some settings are **swappable**, meaning they can be modified after the server has been created. Others are **non-swappable** and can only be configured before the server is started for the first time. While swappable settings can be updated later, a server restart is still required for the change to be applied.
+
+The `server.properties` file contains many configurable options; however, the most commonly used settings are listed below.
 
 <figure class="wysiwyg-table" style="width: 100%;">
 <table class="wysiwyg-table-resized" style="margin-left: 0px; margin-right: auto;">
@@ -61,7 +63,7 @@ There are many options that can be edited in this file; however, the main ones a
 <col style="width: 12%" />
 <col style="width: 33%" />
 <col style="width: 12%" />
-<col style="width: 14%" />
+<col style="width: 15%" />
 </colgroup>
 <tbody>
 <tr>
@@ -69,7 +71,7 @@ There are many options that can be edited in this file; however, the main ones a
 <td>Values</td>
 <td>Description</td>
 <td>Can be configured in Admin Portal?</td>
-<td>How Swappable? </td>
+<td>Swappable?</td>
 </tr>
 <tr>
 <td>server-ip</td>
@@ -117,7 +119,7 @@ Member<br />
 Operator</td>
 <td>Permission Level for new players joining for the first time.</td>
 <td>No</td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 <tr>
 <td>chat-restriction</td>
@@ -140,7 +142,7 @@ false</td>
 <td>Enable or disable the use of Command Blocks<br />
 (Note: Operator status will still be required if true.)</td>
 <td>No. </td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 <tr>
 <td>chat-logging-enabled</td>
@@ -177,12 +179,12 @@ Can only be edited later in server.properties.</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>player-idle-time</td>
+<td>player-idle-timeout</td>
 <td><p>Any Positive Integer</p>
 <p>0 to disable</p></td>
 <td>The amount of time a player can be inactive before being kicked from the server. </td>
 <td>No</td>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>max-threads</td>

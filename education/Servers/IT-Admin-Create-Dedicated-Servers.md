@@ -1,7 +1,7 @@
 ---
 title: "IT Admin: Create Dedicated Servers"
 date: 2026-02-17T03:13:24Z
-updated: 2026-08-04T21:08:39Z
+updated: 2026-08-10T19:24:38Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46370720373908-IT-Admin-Create-Dedicated-Servers
 hash:
@@ -54,13 +54,9 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
 **Create a Server**
 
 1.  Before you begin, you'll want to ensure your intended server meets our [Dedicated Server System Requirements](./Dedicated-Server-System-Requirements.md)
-
 2.  Navigate to the [Dedicated Server Admin Portal](https://aka.ms/dedicatedservers) and sign in (only Global Admins can initially sign in to the Admin Portal unless you enabled **Allow Teachers to Manage Servers** under tenant settings). 
-
 3.  Navigate to the [Settings page](#Tenant_Settings), and set the **Allow Servers** toggle to the on position
-
 4.  From either the Home page or the Server List page, click the **Add a Server** button
-
 5.  Provide the required settings:
     - Enter the IP address where you will run your server
       - The exact steps will be different depending on what type of interface your server is using. Windows is primarily managed over GUI (Graphical User Interface) with the start menu, and taskbar, and Ubuntu is primarily managed via CLI (Command Line Interface) with only a terminal. 
@@ -78,32 +74,31 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
     - Enter the port that will be used for your server
       - If you're **only connecting locally**, you will only need to forward this port through your devices firewall (such as Windows Firewall, or UFW on Ubuntu). The exact steps for this will depend on your network configuration and any proxies/filters you use. 
       - If you're **connecting via external network,** you will ***also*** need to forward this port in your router/firewall. The steps for this will depend on the manufacturer of your network device(s). 
-    - Use the **Allow chat** toggle to enable or disable chat on the server
-    - You may also elect to log all messages sent by users by toggling Chat Logging. 
-      - This will save all messages sent by users to `/chat_logs/ChatLog_<Date>.txt`
+        - **Ensure that all servers are running from on host device are using different ports.** If two servers try to run on the same machine with the same port, joiners will receive an "Invalid Tenant ID" error. 
 
-      - If you wish to change this setting later, it must be manually updated by changing the `chat-logging-enabled` in `server.properties`. The server will need to be rebooted for this to take effect.
+- Use the **Allow chat** toggle to enable or disable chat on the server
+- You may also elect to log all messages sent by users by toggling Chat Logging. 
+  - This will save all messages sent by users to `/chat_logs/ChatLog_<Date>.txt`
+  - If you wish to change this setting later, it must be manually updated by changing the `chat-logging-enabled` in `server.properties`. The server will need to be rebooted for this to take effect.
 
-         
-
-6.  Provide the world generation settings (Optional)
+1.  Provide the world generation settings (Optional)
     - Enter a world seed 
     - Select the game mode ![](https://edusupport.minecraft.net/hc/article_attachments/50728752636948)
 
-7.  Select which server version you would like to download
+2.  Select which server version you would like to download
     - Configuration file only - this can be used if you are [creating or managing](./Dedicated-Server-Alternate-Configuration.md) [](https://edusupport.minecraft.net/hc/en-us/articles/46295418163988) your server through scripting
     - Configured Windows server - the downloaded zip file will contain all the files you need to run a Windows server
     - Configured Linux server - the downloaded zip file will contain all the files you need to run a Linux server. 
 
-8.  Click the **Download** button and the zip file will be downloaded to your local machine
+3.  Click the **Download** button and the zip file will be downloaded to your local machine
 
     <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
     <img src="https://edusupport.minecraft.net/hc/article_attachments/50728752637076" alt="Download Complete.png" />
     </figure>
 
-9.  When you see the **Download Complete** confirmation your server files are ready for installation
+4.  When you see the **Download Complete** confirmation your server files are ready for installation
 
-10. Click the **Continue** button, and enter your Server information
+5.  Click the **Continue** button, and enter your Server information
     - Server Name - the name that appears on the server list in the Minecraft Education client
     - Server Passcode - if you enter a passcode, all players that join the server will be required to enter this passcode
       - **Important Note**: Passcodes are not passwords, since they are not unique to each user. They are instead unique to each server (or at least should be!). They are viewable to admins and shared by users. For example, a classroom could use a passcode to ensure only that class can get into the server, so long as the passcode is only known to the people in the class.
@@ -113,11 +108,11 @@ To begin, sign in to the [Dedicated Server Admin Portal](https://aka.ms/dedicate
     - Enable the Sharing Enabled toggle if you intend to configure Cross Tenant Play later. You can learn how to set this up here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)\
       ![](https://edusupport.minecraft.net/hc/article_attachments/52138048833940)
 
-11. Click **Save** to save these server settings
+6.  Click **Save** to save these server settings
     1.  Click **Close** to close the window 
     2.  Click **Remove** to remove the server permanently from your tenant
 
-12. Follow the steps below to install and host your server. 
+7.  Follow the steps below to install and host your server. 
 
 ### Installing on Windows or Ubuntu
 

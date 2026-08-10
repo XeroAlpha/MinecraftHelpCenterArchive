@@ -1,7 +1,7 @@
 ---
 title: Update to a New Version of Minecraft Education
 date: 2020-08-18T00:43:31Z
-updated: 2025-08-19T20:52:32Z
+updated: 2026-08-10T18:51:18Z
 categories: Installation
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047705032-Update-to-a-New-Version-of-Minecraft-Education
 hash:
@@ -11,6 +11,7 @@ hash:
   h_01HQBYPHPQ76PR332ZAXYXYB5F: ""
   h_01HQBYPHPQ6AZ72YY92VWJ034V: info-on-latest-content-in-the-newest-version
   h_01HQBYPHPQPN66V5B94H2NPWEB: preventing-automatic-updates
+  h_01KZC47BYADSNVP9FQD59GGHF2: updating-dedicated-server
 ---
 
 Minecraft Education releases regular updates with new features to make your experience even better! This article will answer many questions you may have about updating to a new version or enabling / disabling auto updates.
@@ -86,3 +87,26 @@ Check out the [What's New page](https://aka.ms/meewhatsnew) for information abou
   - No automatic updates
 - iOS:
   - See Apple's [guide to automatic updates here](https://support.apple.com/en-us/HT202180#:~:text=How%20to%20turn%20on%20or%20turn%20off%20automatic,%26gt%3B%20Preferences.%203%20Select%20or%20deselect%20Automatic%20Updates.)
+
+## Updating Dedicated Server
+
+To update existing dedicated servers: 
+
+- Download the latest versions from one of the links below: 
+  - [Windows Dedicated Server Software](https://aka.ms/downloadmee-winserver)
+  - [Ubuntu Dedicated Server Software](https://aka.ms/downloadmee-linuxserver) 
+- Unzip the new server zip, stop the old server if it is running, and copy the following from the old server directory to the new server directory:
+  - The "edu_server_session.json" file
+  - The "worlds" folder
+  - The "server.properties" file
+  - The "allowlist.json" file
+  - The "permissions.json" file
+  - Any other files or directories you went out of your way to customize in the old server (such as resource or behavior packs)
+- Now run the new server, which should retain all configuration and authentication of the old server.
+  - You can verify you're running the newest version from the console from the "Server Version" line on startup. 
+
+    ```
+    NO LOG FILE! - setting up server logging...
+    NO LOG FILE! - [2026-08-06 13:07:27:578 INFO] Starting Server
+    NO LOG FILE! - [2026-08-06 13:07:27:578 INFO] Version: 1.26.32.0
+    ```

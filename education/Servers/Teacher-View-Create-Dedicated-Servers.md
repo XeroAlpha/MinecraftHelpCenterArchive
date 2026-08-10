@@ -1,7 +1,7 @@
 ---
 title: "Teacher View: Create Dedicated Servers"
 date: 2026-02-13T23:38:43Z
-updated: 2026-08-04T21:08:11Z
+updated: 2026-08-10T19:25:15Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295348713236-Teacher-View-Create-Dedicated-Servers
 hash:
@@ -78,6 +78,7 @@ Once you've verified the prerequisites above, you can begin to create your first
         - **Note: **the exact steps may vary depending on the version of Windows (e.g. 10/11) or Ubuntu you're using. 
     4.  Enter the port that will be used for your server
         - You need to work with your IT Administrator to have this port forwarded through both your host device's local firewall, and/or your router's firewall. 
+        - **Ensure that all servers are running from on host device are using different ports.** If two servers try to run on the same machine with the same port, joiners will receive an "Invalid Tenant ID" error. 
     5.  Use the **Allow chat** toggle to enable or disable chat on the server
     6.  You may also elect to log all messages sent by users by toggling Chat Logging. 
         - This will save all messages sent by users to `/chat_logs/ChatLog_<Date>.txt`

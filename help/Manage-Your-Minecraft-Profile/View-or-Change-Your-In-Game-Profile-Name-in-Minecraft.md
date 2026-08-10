@@ -1,7 +1,7 @@
 ---
 title: View or Change Your In-Game Profile Name in Minecraft
 date: 2021-09-10T21:08:08Z
-updated: 2026-03-12T21:53:31Z
+updated: 2026-08-10T18:47:45Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition
@@ -56,7 +56,7 @@ When playing Minecraft: Java Edition, your in-game character name is your Java p
 
 1.  Visit [All Games](https://www.minecraft.net/en-us/msaprofile) on Minecraft.net and sign in with your Microsoft account. 
 2.  Under Minecraft: Java Edition, select **Change Profile Name**.
-3.  Enter your new profile name and select **Change Your Profile Name** to finalize the change. 
+3.  Enter your new profile name and select **Change Your Profile Name** to finalize the change. Java Profile Names can be up to 16 characters.
 
 **Note:** You can change your Java profile name once every 30 days. If you change your mind after changing your Java profile name, you can go back to your old name after waiting 30 days.
 
