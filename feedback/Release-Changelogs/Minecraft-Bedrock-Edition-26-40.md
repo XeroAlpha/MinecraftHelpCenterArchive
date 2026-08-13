@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.40"
 date: 2026-07-31T08:44:15Z
-updated: 2026-08-04T15:40:41Z
+updated: 2026-08-13T18:01:43Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/47787720931213-Minecraft-Bedrock-Edition-26-40
 hash:
@@ -415,6 +415,7 @@ It's time for another Minecraft: Bedrock Edition update! This release brings a w
 - Fixed several crashes that could occur
 - Fixed a bug where an incorrect device tier was selected on some devices, preventing players from turning on Vibrant Visuals ([MCPE-239742](https://bugs.mojang.com/browse/MCPE-239742))
 - Skin and Character Creator packs installed while browsing the Marketplace catalog are now automatically cleaned up using a least-recently-used policy, reducing on-disk usage and improving load times ([MCPE-239513](https://bugs.mojang.com/browse/MCPE-239513 "https://bugs.mojang.com/browse/mcpe-239513"))
+- Vanilla textures are now packed into brarchive files for load optimization purposes. To access them please visit the Mojang/bedrock-samples Github repo
 
 ### User Interface
 
