@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.44 Hotfix Changelog"
 date: 2026-08-14T17:00:33Z
-updated: 2026-08-14T17:00:54Z
+updated: 2026-08-17T15:30:00Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/48149564061965-Minecraft-Bedrock-Edition-26-44-Hotfix-Changelog
 hash:
@@ -16,7 +16,7 @@ A new hotfix is rolling out to address issues found in the latest update. It wil
 
 ## Commands
 
-- Removed self selection expansion when using commands (i.e. `/tell`) for non-operator players. ([MCPE-241436](https://bugs.mojang.com/browse/MCPE-241436))
+- Removed self selection expansion when using commands (i.e. `/tell`) for non-operator players. 
 
 ## Graphical
 
