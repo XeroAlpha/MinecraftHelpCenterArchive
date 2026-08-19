@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.50.26
 date: 2026-08-18T15:29:52Z
-updated: 2026-08-18T15:45:44Z
+updated: 2026-08-19T12:47:44Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/48228443785101-Minecraft-Beta-Preview-26-50-26
 hash:
@@ -40,7 +40,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - Fixed being able to place a Cushion on top another Cushion when moving quickly in any direction
 
-- The Cushion can no longer be renamed with name tag
+- The Cushion can no longer be renamed with name tag ([MCPE-241359](https://bugs.mojang.com/browse/MCPE-241359 "https://bugs.mojang.com/browse/mcpe-241359"))
 
 - Cushions no longer prevent vibrations when placed, broken or interacted with ([MCPE-241421](https://bugs.mojang.com/browse/MCPE-241421))
 
@@ -84,9 +84,11 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - Comparators can once again read a container's inventory through Honey Blocks and Chains ([MCPE-241687](https://bugs.mojang.com/browse/MCPE-241687))
 
+> **Developer's Note:** *While fixing a bug related to cushions (*[*MCPE-240778*](https://bugs.mojang.com/browse/MCPE-240778)*), we found that the change also affected how some players were using comparators with chains. While this behavior wasn't originally intended, we recognize it has become part of many players' creations over time. For now, we've reverted this change and may explore it further in the future.*
+
 ## Commands
 
-- Removed self selection expansion when using commands (i.e. `/tell`) for non-operator players (MCPE-241436)
+- Removed self selection expansion when using commands (i.e. `/tell`) for non-operator players
 
 ## Editor
 
