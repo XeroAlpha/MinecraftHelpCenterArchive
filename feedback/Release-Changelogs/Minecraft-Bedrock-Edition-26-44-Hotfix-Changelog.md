@@ -1,12 +1,21 @@
 ---
-title: "Minecraft: Bedrock Edition 26.44 Hotfix Changelog"
+title: "Minecraft: Bedrock Edition 26.44/45 Hotfix Changelog"
 date: 2026-08-14T17:00:33Z
-updated: 2026-08-17T15:30:00Z
+updated: 2026-08-20T14:46:47Z
 categories: Release Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/48149564061965-Minecraft-Bedrock-Edition-26-44-Hotfix-Changelog
+link: https://feedback.minecraft.net/hc/en-us/articles/48149564061965-Minecraft-Bedrock-Edition-26-44-45-Hotfix-Changelog
 hash:
+  h_01M0FT3YZERZF8N7CFEN32ZD49: 2645-hotfix
   h_01KZP3XEJJTE4QBZ1SKGQ29D74: fixes
 ---
+
+**Update:** 20 August 2026
+
+#### **26.45 Hotfix**
+
+Please note, we have some additional fixes rolling out. The update will become available on each platform as it’s approved, so please allow a little time for it to reach you.
+
+ 
 
 **Posted:** 14 August 2026
 
