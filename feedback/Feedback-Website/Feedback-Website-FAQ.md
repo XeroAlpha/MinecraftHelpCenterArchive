@@ -1,23 +1,40 @@
 ---
 title: Feedback Website FAQ
 date: 2018-08-02T22:28:12Z
-updated: 2020-07-10T17:25:25Z
+updated: 2026-08-21T13:05:01Z
 categories: Feedback Website
 link: https://feedback.minecraft.net/hc/en-us/articles/360011793092-Feedback-Website-FAQ
 hash:
-  how-long-will-it-be-there-its-taking-a-long-time.: how-long-will-it-be-there-its-taking-a-long-time
-  you-rejected-my-post-for-no-reasonit-sat-in-pending-approval-and-disappeared-and-i-wasnt-notified.: you-rejected-my-post-for-no-reasonit-sat-in-pending-approval-and-disappeared-and-i-wasnt-notified
-  my-post-wasnt-similar-its-an-entirely-new-way-to-do-x.: my-post-wasnt-similar-its-an-entirely-new-way-to-do-x
-  i-got-a-message-but-the-your-post-is-rejected-message-is-so-general.: i-got-a-message-but-the-your-post-is-rejected-message-is-so-general
-  my-post-was-on-the-site-and-then-fell-into-the-moderation-queue.-why: my-post-was-on-the-site-and-then-fell-into-the-moderation-queue-why
-  my-post-was-on-the-site-for-a-while-and-got-removed.-it-had-votes: my-post-was-on-the-site-for-a-while-and-got-removed-it-had-votes
-  i-have-a-super-long-post-and-you-removed-it.-can-you-get-my-text-back: i-have-a-super-long-post-and-you-removed-it-can-you-get-my-text-back
-  i-think-your-filter-and-search-engine-need-improvement.: i-think-your-filter-and-search-engine-need-improvement
-  questions-problems-and-further-issues: questions-problems-and-furtherissues
-  this-person-posted-some-content-that-offends-methey-copied-my-postwhy-did-that-get-approved-its-not-appropriate.: this-person-posted-some-content-that-offends-methey-copied-my-postwhy-did-that-get-approved-its-not-appropriate
+  h_01M0J6F3SAVFB57XWQNR8ZRFKV: questions-about-posting-or-more-often-where-is-my-post
+  h_01M0J6F3SBP5V4CD1EWZ5P5N47: why-is-my-post-pending-approval
+  h_01M0J6F3SBKCBYYS9J90V93FT1: how-long-will-it-be-there-its-taking-a-long-time
+  h_01M0J6F3SBZRKRV9BA70C3Z2W4: how-come-that-garbage-post-got-approved-and-mine-is-still-waiting
+  h_01M0J6F3SB0AB7NNARE793ZRTH: you-rejected-my-post-for-no-reasonit-sat-in-pending-approval-and-disappeared-and-i-wasnt-notified
+  h_01M0J6F3SB3MQ51F84SEMA3D95: my-post-wasnt-similar-its-an-entirely-new-way-to-do-x
+  h_01M0J6F3SBDKQC7SYVGVAHRF3N: i-got-a-message-but-the-your-post-is-rejected-message-is-so-general
+  h_01M0J6F3SBB28TGQ68K3YWG6C6: why-cant-i-just-make-one-post-with-all-my-ideas
+  h_01M0J6F3SBJ9AHE156MTDNTZV6: why-did-you-change-the-titlemove-my-post
+  h_01M0J6F3SB7DCQCQFEE2ZGJ78Y: my-post-was-on-the-site-and-then-fell-into-the-moderation-queue-why
+  h_01M0J6F3SBX59KNBKM21D45CEZ: my-post-was-on-the-site-for-a-while-and-got-removed-it-had-votes
+  h_01M0J6F3SB2HPT7EYAANMQ0TCM: why-dont-you-provide-a-link-when-you-take-something-down
+  h_01M0J6F3SBM7FXQTAFC0QRHVXX: i-have-a-super-long-post-and-you-removed-it-can-you-get-my-text-back
+  h_01M0J6F3SBSVXQ797K3MH3BP5G: i-think-your-filter-and-search-engine-need-improvement
+  h_01M0J6F3SBBT22PWFTZW0A8RH0: how-do-i-post-how-do-i-edit-my-post-do-you-have-posting-tips-that-arent-covered-in-creating-great-feedback
+  h_01M0J6F3SB8EBVC66A9TW2T2G9: logging-in
+  h_01M0J6F3SB8TK6QFJKMMQPMAWT: why-do-i-need-an-account
+  h_01M0J6F3SBZ5NWDFM0JJ7R7KV3: site-features
+  h_01M0J6F3SB4TM8AJ6N09355F99: what-are-the-tags-can-i-add-them-to-my-own-post
+  h_01M0J6F3SBGKWFZHZW6FKA6ZZ3: other-sites-have-fancy-headers-and-a-lot-of-other-formatting-options
+  h_01M0J6F3SB7WBSFKWRRPS8QYJB: where-do-i-post-world-seeds
+  h_01M0J6F3SBT9TQ57X9DE78A49J: questions-problems-and-furtherissues
+  h_01M0J6F3SBXGA6099K6P782AF0: this-person-posted-some-content-that-offends-methey-copied-my-postwhy-did-that-get-approved-its-not-appropriate
+  h_01M0J6F3SBZP2JRRR8V9RK5K6X: i-didnt-get-any-message-about-my-post-being-removed
+  h_01M0J6F3SBWJV0DNDVY200X6HE: do-you-have-any-volunteer-community-moderators
+  h_01M0J6F3SB75RZWYKGWKHPX4Q1: can-you-tell-me-the-teams-thoughts-on-spam-and-suspensionsbans
+  h_01M0J6F3SBN4TAP4NVXPW8VP83: i-need-support-my-game-is-broken
 ---
 
-**Updated 10 July 2020 **
+**Updated 21 August 2026**
 
 **Latest updates to simplify things and get to the point.**
 
@@ -25,12 +42,11 @@ Hello!
 
 We have created this frequently asked question page about the Feedback Website. If you haven't been here in a while, [start here](./Welcome-to-the-Feedback-Site.md).
 
-*Note: Due to lots of interest in the Nether update and other issues, please be patient as our staff works as hard as they can to get your post through the queue as fast as possible. Thanks for understanding! How can you help make your feedback site awesome?*
-
 - Please do not file more than one post for your feedback! This will slow down things for everyone.
 - A vote is the same thing as saying "I agree" or "good idea" or "yes"
 - Be kind, civil, and constructive to each other. Don't presume everyone has the same game experience you do
 - Similar topics should stick together
+- To help us review, moderate, and respond to posts consistently, please submit content only in English. Posts written in other languages will be removed.
 - Please don’t post about topics that have [already been discussed and rejected](../Archived-Feedback-Website-Articles/Archived-Previously-Considered-Suggestions.md)
 - Not all posts are filtered. That would be terrible. That said, a lot of things do fall in the queue. We appreciate your patience, as there are many more of you than there are of us. We are a very large and awesome community and we're all doing the best we can.
 - Our moderation queue is designed to not just keep everyone safe from bad content, but to also keep duplicate posts on similar topics from overwhelming the site. Want an idea of what some of those are? [Look here. ](../Archived-Feedback-Website-Articles/Archived-Current-Hot-Topics.md)
@@ -75,6 +91,7 @@ Not all posts are filtered, and not all posts get caught by our automatic spam f
 - Posts that are way too general - in order to take something to the team, or for the community to have something to discuss, it needs to be more than "we need more XYZ". Know exactly what you're asking for!
 - Anything violating the post guidelines or personal information.
 - Update/release date requests/bumps - when we have them, we'll share them!
+- Posts written in a language other than English. Right now, we can only support content submitted in English to make sure all our developers can understand and review players' feedback.
 
 **Although we do our best to send emails to help you make better posts and be a great contributor, we are unable to guarantee your email provider will allow our mail to get through once it leaves our system and as such we cannot guarantee every poster or post will get a message. **
 
@@ -118,7 +135,7 @@ No, sorry. You may want to keep a copy somewhere. 
 
 We know. But it's a work in progress, much like the website! 
 
-### **How do I post? How do I edit my post? Do you have posting tips that aren't covered in [Creating Great Feedback](./Creating-Great-Ideas.md)?**
+### **How do I post? How do I edit my post? Do you have posting tips that aren't covered in** [**Creating Great Feedback**](./Creating-Great-Ideas.md)**?**
 
 Yes, more technical "nuts and bolts" questions about posting are [covered here](./How-to-Post-and-Edit-Feedback.md).
 

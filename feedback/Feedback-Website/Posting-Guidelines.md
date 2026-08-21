@@ -1,7 +1,7 @@
 ---
 title: Posting Guidelines
 date: 2018-05-04T22:32:18Z
-updated: 2026-08-14T12:25:56Z
+updated: 2026-08-21T13:00:43Z
 categories: Feedback Website
 tags:
   - guidelines
@@ -18,4 +18,4 @@ By posting anything at feedback.minecraft.net, you agree to abide by the [Xbox L
 - Submit each of your ideas individually; posts with multiple ideas in them will be removed.
 - Do not post comments asking people to vote on another idea.
 - Please do not post any petitions or polls. Use the voting system here to share your sentiment on good ideas.
-- At this time, we can only support content submitted in English. Posts written in other languages may be removed, as we are unable to accurately review, moderate, and respond to them.
+- To help us review, moderate, and respond to posts consistently, please submit content only in English. Posts written in other languages will be removed.
