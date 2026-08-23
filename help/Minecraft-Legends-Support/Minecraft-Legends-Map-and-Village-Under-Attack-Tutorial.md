@@ -2,9 +2,9 @@
 title: Minecraft Legends Map and Village Under Attack Tutorial
 date: 2023-04-13T17:02:03Z
 updated: 2026-03-13T16:57:10Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Legends Support
 tags:
-  - section_27983516571789
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14818774175629-Minecraft-Legends-Map-and-Village-Under-Attack-Tutorial
 hash:
   h_01JMFRR9RN803ZRP59WEZM3J1B: using-the-map

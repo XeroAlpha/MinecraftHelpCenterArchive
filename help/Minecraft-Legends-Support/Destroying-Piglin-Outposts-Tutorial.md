@@ -2,9 +2,9 @@
 title: Destroying Piglin Outposts Tutorial
 date: 2023-04-13T17:08:06Z
 updated: 2026-03-13T16:56:38Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Legends Support
 tags:
-  - section_27983516571789
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14819130007181-Destroying-Piglin-Outposts-Tutorial
 hash:
   h_01JMFRRAYR3CBDB6PT0T8Z8BWR: blaze-rod-tower-outpost

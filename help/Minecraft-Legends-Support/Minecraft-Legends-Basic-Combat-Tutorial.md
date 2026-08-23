@@ -2,9 +2,9 @@
 title: Minecraft Legends Basic Combat Tutorial
 date: 2023-04-13T16:45:12Z
 updated: 2026-03-13T19:44:49Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Legends Support
 tags:
-  - section_27983516571789
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14817936862349-Minecraft-Legends-Basic-Combat-Tutorial
 hash:
   h_01JMFKM0MVSEQ7Z88DQDDVHC8J: using-your-sword

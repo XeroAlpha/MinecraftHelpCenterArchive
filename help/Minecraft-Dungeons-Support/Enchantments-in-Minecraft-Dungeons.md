@@ -2,9 +2,9 @@
 title: Enchantments in Minecraft Dungeons
 date: 2021-04-08T17:41:34Z
 updated: 2026-03-13T20:37:35Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Dungeons Support
 tags:
-  - section_27983516571789
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360059603991-Enchantments-in-Minecraft-Dungeons
 ---
 

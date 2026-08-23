@@ -2,9 +2,9 @@
 title: Minecraft Legends Village Repair and Defense Structure Tutorial
 date: 2023-04-13T17:06:05Z
 updated: 2026-03-13T19:44:39Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Legends Support
 tags:
-  - section_27983516571789
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14819044560525-Minecraft-Legends-Village-Repair-and-Defense-Structure-Tutorial
 hash:
   h_01JMFKKSR8HS9MFZMQHQHMNJ00: repairing-villages

@@ -2,9 +2,9 @@
 title: Minecraft Legends Building and Movement Tutorial
 date: 2023-04-13T16:16:40Z
 updated: 2026-03-13T16:57:49Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Legends Support
 tags:
-  - section_27983516571789
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14816568424461-Minecraft-Legends-Building-and-Movement-Tutorial
 hash:
   h_01JMFKM5HN4CNC95WH58MH98TJ: movement

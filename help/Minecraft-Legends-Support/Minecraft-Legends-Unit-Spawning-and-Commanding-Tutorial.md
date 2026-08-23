@@ -2,9 +2,9 @@
 title: Minecraft Legends Unit Spawning and Commanding Tutorial
 date: 2023-04-13T16:23:24Z
 updated: 2026-03-13T19:44:26Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Legends Support
 tags:
-  - section_27983516571789
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14816888808333-Minecraft-Legends-Unit-Spawning-and-Commanding-Tutorial
 hash:
   h_01JMFKM37H51869G14GQJ8F7S6: gathering-resources-from-chests

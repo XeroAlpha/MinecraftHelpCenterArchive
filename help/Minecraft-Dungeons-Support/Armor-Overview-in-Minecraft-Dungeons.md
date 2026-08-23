@@ -2,9 +2,9 @@
 title: Armor Overview in Minecraft Dungeons
 date: 2021-04-08T17:15:21Z
 updated: 2025-12-11T20:46:45Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Dungeons Support
 tags:
-  - section_27983516571789
+  - section_26726610890253
 link: https://help.minecraft.net/hc/en-us/articles/360059602491-Armor-Overview-in-Minecraft-Dungeons
 ---
 

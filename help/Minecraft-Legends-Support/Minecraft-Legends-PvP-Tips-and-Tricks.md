@@ -2,9 +2,9 @@
 title: Minecraft Legends PvP Tips and Tricks
 date: 2023-04-12T17:25:52Z
 updated: 2026-03-13T20:37:11Z
-categories: Dungeons & Legends Game Guides
+categories: Minecraft Legends Support
 tags:
-  - section_27983516571789
+  - section_27286537389453
 link: https://help.minecraft.net/hc/en-us/articles/14784573904525-Minecraft-Legends-PvP-Tips-and-Tricks
 hash:
   h_01GXV7ZMGWH3V0DQ1PB2GFGT6C: minecraft-legends-pvp-tips-and-tricks
