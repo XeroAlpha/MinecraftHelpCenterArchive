@@ -1,12 +1,21 @@
 ---
-title: Minecraft Beta & Preview - 26.50.26
+title: Minecraft Beta & Preview - 26.50.26/27
 date: 2026-08-18T15:29:52Z
-updated: 2026-08-19T12:47:44Z
+updated: 2026-08-25T15:53:31Z
 categories: Beta and Preview Information and Changelogs
-link: https://feedback.minecraft.net/hc/en-us/articles/48228443785101-Minecraft-Beta-Preview-26-50-26
+link: https://feedback.minecraft.net/hc/en-us/articles/48228443785101-Minecraft-Beta-Preview-26-50-26-27
 hash:
+  h_01M0FT3YZERZF8N7CFEN32ZD49: 265027-preview-and-beta
   h_01KNPK0P63JGFQT6KG30RZEDW7: information-on-minecraft-preview-and-beta
 ---
+
+**Update:** 25 August 2026
+
+#### **26.50.27 Preview and Beta**
+
+We're rolling out a smaller update this week that includes additional fixes and improvements.
+
+------------------------------------------------------------------------
 
 **Posted:** 18 August 2026
 
