@@ -1,7 +1,7 @@
 ---
 title: Modifying Existing Servers
 date: 2026-02-13T23:35:50Z
-updated: 2026-08-10T19:20:33Z
+updated: 2026-08-28T17:34:10Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/46295288885268-Modifying-Existing-Servers
 hash:
@@ -31,7 +31,9 @@ Once you create your servers you can edit their properties, such as enabling or 
 
 - Each server is represented by a server card that displays editable server properties
 
-![server_card.png](https://edusupport.minecraft.net/hc/article_attachments/46397060350740)
+<figure class="wysiwyg-image">
+<img src="https://edusupport.minecraft.net/hc/article_attachments/53009681461012" />
+</figure>
 
 - Use the search box, filter or sort features to find the server that you want to edit
 
@@ -44,7 +46,9 @@ Once you create your servers you can edit their properties, such as enabling or 
   - The Save button will only activate when there are changes to save
 - Set the Enabled toggle to the On position to allow players to join the server
 - Set the Broadcast toggle to the On position to force the server to show up in all player's server list. If this setting is off, players will need to manually add the server to their list with the server ID. 
-- The toggle properties are set at the time you change them, you do not need to press **Save **for these properties.
+- Use the Sharing Toggle to enable Cross-Tenant Play. 
+  - You can learn more how to set this up here: [Enabling Cross-Tenant Play](./Enabling-Cross-Tenant-Play.md)
+- The toggle properties are set at the time you change them; you do not need to press **Save **for these properties.
 
  
 
