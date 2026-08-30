@@ -173,7 +173,65 @@ Uh-oh! Our undead and hostile baby mobs have a new scary strategy: looking 
   - Command inspection & api support will be coming in an upcoming preview\
     Example:
 
-{ "format_version": "26.0", "minecraft:block": { "description": { "identifier": "example:triple_block", "traits": { "minecraft:multi_block": { "enabled_states": \[ "minecraft:multi_block_part" \], "parts": 3, "direction": "up" } } }, "components": { "minecraft:selection_box": true }, "permutations": \[ { "condition": "q.block_state('minecraft:multi_block_part') == 0", "components": { "minecraft:geometry": "geometry.triple_block_part_0", "minecraft:material_instances": { "\*": { "texture": "wood_triple_block_part_0", "render_method": "opaque" } } } }, { "condition": "q.block_state('minecraft:multi_block_part') == 1", "components": { "minecraft:geometry": "geometry.triple_block_part_1", "minecraft:material_instances": { "\*": { "texture": "wood_triple_block_part_1", "render_method": "opaque" } } } }, { "condition": "q.block_state('minecraft:multi_block_part') == 2", "components": { "minecraft:geometry": "geometry.triple_block_part_2", "minecraft:material_instances": { "\*": { "texture": "wood_triple_block_part_2", "render_method": "alpha_test_single_sided" } } } } \] } }
+{\
+    "format_version": "26.0",\
+    "minecraft:block": {\
+        "description": {\
+            "identifier": "example:triple_block",\
+            "traits": {\
+                "minecraft:multi_block": {\
+                    "enabled_states": \[\
+                        "minecraft:multi_block_part"\
+                    \],\
+                    "parts": 3,\
+                    "direction": "up"\
+                }\
+            }\
+        },\
+        "components": {\
+            "minecraft:selection_box": true\
+        },\
+        "permutations": \[\
+            {\
+                "condition": "q.block_state('minecraft:multi_block_part') == 0",\
+                "components": {\
+                    "minecraft:geometry": "geometry.triple_block_part_0",\
+                    "minecraft:material_instances": {\
+                        "\*": {\
+                            "texture": "wood_triple_block_part_0",\
+                            "render_method": "opaque"\
+                        }\
+                    }\
+                }\
+            },\
+            {\
+                "condition": "q.block_state('minecraft:multi_block_part') == 1",\
+                "components": {\
+                    "minecraft:geometry": "geometry.triple_block_part_1",\
+                    "minecraft:material_instances": {\
+                        "\*": {\
+                            "texture": "wood_triple_block_part_1",\
+                            "render_method": "opaque"\
+                        }\
+                    }\
+                }\
+            },\
+            {\
+                "condition": "q.block_state('minecraft:multi_block_part') == 2",\
+                "components": {\
+                    "minecraft:geometry": "geometry.triple_block_part_2",\
+                    "minecraft:material_instances": {\
+                        "\*": {\
+                            "texture": "wood_triple_block_part_2",\
+                            "render_method": "alpha_test_single_sided"\
+                        }\
+                    }\
+                }\
+            }   \
+        \]\
+    }\
+}\
+\
 
 - We have an experiment active in preview that may utilize the modern parsing pipeline. There are some breaking changes that may affect loading of block json with format version 26.10. If you are unable to load a custom block json, please take a look at the following changes, that may affect you, if the experiment is active on your build. The list is not exhaustive so please report any unknown issues with loading custom blocks.
   - Name space constraints have been tweaked but everything permitted before should still be valid.
@@ -241,7 +299,30 @@ Uh-oh! Our undead and hostile baby mobs have a new scary strategy: looking 
   This aims to replace `decoration_block` and `num_steps`, however the old format is still supported but if both are give the new one is prioritised.\
   Example of new format:
 
-"canopy_decoration" : { "decoration_blocks_sequence" : \[ { "block": "minecraft:bedrock", "count": 1 }, { "block": "minecraft:dirt", "count": \[1, 2\] }, { "block": "minecraft:stone", "count": { "range_min": 1, "range_max": 2 } } \], "decoration_chance": { "numerator": 1, "denominator": 4 }, "step_direction": "out" }
+ "canopy_decoration" : {\
+        "decoration_blocks_sequence" : \[\
+          {\
+            "block": "minecraft:bedrock",\
+            "count": 1\
+          },\
+          {\
+            "block": "minecraft:dirt",\
+            "count": \[1, 2\]\
+          },\
+          {\
+            "block": "minecraft:stone",\
+            "count": {\
+              "range_min": 1,\
+              "range_max": 2\
+            }\
+          }\
+        \],\
+        "decoration_chance": {\
+          "numerator": 1,\
+          "denominator": 4\
+        },\
+        "step_direction": "out"\
+      }\
 
 ## Rendering[](https://feedback.minecraft.net/hc/en-us/articles/rendering)
 

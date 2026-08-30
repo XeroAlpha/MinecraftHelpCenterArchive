@@ -84,11 +84,15 @@ Entity predicate format has changed from a structure with multiple optional fiel
 
 For example, previously effects was an optional field:
 
-{ "effects": {...} }
+{\
+    "effects": {...}\
+}\
 
 In this version it has become a component-like sub-predicate entry:
 
-{ "minecraft:effects": {...} }
+{\
+    "minecraft:effects": {...}\
+}\
 
 The main functional changes are:
 
@@ -108,11 +112,24 @@ Existing type-specific sub-predicates have been renamed and moved to top-level.
 
 For example:
 
-{ "type_specific": { "type": "minecraft:player", "looking_at": { "type": "minecraft:ender_dragon" } } }
+{\
+  "type_specific": {\
+    "type": "minecraft:player",\
+    "looking_at": {\
+      "type": "minecraft:ender_dragon"\
+    }\
+  }\
+}\
 
 becomes
 
-{ "minecraft:type_specific/player": { "looking_at": { "minecraft:type": "minecraft:ender_dragon" } } }
+{\
+  "minecraft:type_specific/player": {\
+    "looking_at": {\
+      "minecraft:type": "minecraft:ender_dragon"\
+    }\
+  }\
+}\
 
 ##### Added minecraft:entity_tags entity sub-predicate
 

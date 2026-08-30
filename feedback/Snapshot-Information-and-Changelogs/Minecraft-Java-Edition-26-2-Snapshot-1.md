@@ -243,7 +243,7 @@ Added block sounds for Sulfur, Potent Sulfur and Cinnabar Added mob sounds for S
 
 #### Updated the minimum value of minecraft:knockback_resistance
 
-\- The minimum value was changed from \`0.0\` to \`-2.0\`
+- The minimum value was changed from \`0.0\` to \`-2.0\`
 
 ### Data Components
 

@@ -178,7 +178,11 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 The following condition allows a loot entry to be selected only when the loot context is not in a biome with the plains tag:
 
-{ "condition": "biome_has_tag", "operator": "not", "tag": "plains" }
+{\
+  "condition": "biome_has_tag",\
+  "operator": "not",\
+  "tag": "plains"\
+}\
 
 #### Script Debugger
 
@@ -223,7 +227,7 @@ The following condition allows a loot entry to be selected only when the loot co
 
   - Used by defining the component as follows:
 
-    "minecraft:freezing_immune": {}
+        "minecraft:freezing_immune": {}\
 - The ambient sounds of entities are no longer redefined at runtime and instead respect the conditions defined by minecraft:ambient_sound_interval
   - Previously the ambient sound event name of an entity would be overwritten in these conditions:
     - If its head was in water then it would become ambient.in.water
@@ -235,7 +239,25 @@ The following condition allows a loot entry to be selected only when the loot co
   - The minecraft:uses_legacy_ambient_sounds is deprecated as users should now specify the indended behavior in minecraft:ambient_sound_interval
   - Vanilla mobs have been upgraded to use this new syntax, which can be preserved as follows:
 
-"minecraft:ambient_sound_interval": { "event_name": "ambient", "event_names": \[ { "condition": "query.head_is_in_water", "event_name": "ambient.in.water" }, { "condition": "!query.is_on_ground", "event_name": "ambient.in.air" }, { "condition": "query.is_baby", "event_name": "ambient.baby" } \], "range": 16.0, "value": 8.0 }
+"minecraft:ambient_sound_interval": {\
+  "event_name": "ambient",\
+  "event_names": \[\
+    {\
+      "condition": "query.head_is_in_water",\
+      "event_name": "ambient.in.water"\
+    },\
+    {\
+      "condition": "!query.is_on_ground",\
+      "event_name": "ambient.in.air"\
+    },\
+    {\
+      "condition": "query.is_baby",\
+      "event_name": "ambient.baby"\
+    }\
+  \],\
+  "range": 16.0,\
+  "value": 8.0\
+}\
 
 - Deprecated minecraft:projectile_component's owner_launch_immunity_ticks field in favor of a spatial check that determines when the projectile has left its shooter's vehicle hierarchy
   - Projectiles can now only hit the entity that shot them, or entities in the same vehicle hierarchy (such as the shooter's mount), after they have spatially left that hierarchy

@@ -127,7 +127,11 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 Optionally set version property to "beta" to always choose the latest beta version of the module. Example from manifest.json:
 
-"dependencies": \[ { "module_name": "@minecraft/server", "version": "beta" }
+"dependencies": \[\
+{\
+  "module_name": "@minecraft/server",\
+  "version": "beta"\
+}\
 
 - Fixed Player.graphicsMode not returning the correct graphics mode when a player has switched to Vibrant Visuals
 - LootTableManager's loot generation methods now properly recognize tools enchanted with looting

@@ -682,7 +682,17 @@ We have significantly updated the implementation of DDUI as we prepare for staba
   - This feature is meant to be used as a filter to filter away positions based on height differences close to the placed feature
   - Example usage to allow Pink Petals to only place close to cliffs:
 
-  { "format_version": "1.26.30", "minecraft:height_difference_filter_feature": { "description": { "identifier": "minecraft:pink_petals_near_cliff_feature" }, "places_feature": "minecraft:pink_petals_feature", "min_required_negative_height_diff": 5, "search_radius": 5 } }
+  {\
+    "format_version": "1.26.30",\
+    "minecraft:height_difference_filter_feature": {\
+      "description": {\
+        "identifier": "minecraft:pink_petals_near_cliff_feature"\
+      },\
+      "places_feature": "minecraft:pink_petals_feature",\
+      "min_required_negative_height_diff": 5,\
+      "search_radius": 5\
+    }\
+  }\
 
   - min_required_upward_height_diff Specifies the minimum height difference required upwards
   - min_required_downward_height_diff Specifies the minimum height difference required downwards
@@ -897,7 +907,20 @@ We have significantly updated the implementation of DDUI as we prepare for staba
     - if a face is not defined it will use its default value; "up": "note.harp" and "down": "note.none"
     - at least one face must be defined for the component to be valid Example:
 
-{ "format_version": "1.26.20", "minecraft:block": { "description": { "identifier": "test:test_block" }, "components": { "minecraft:instrument_sound": { "up": "note.bit", "down": "note.bell" } } } }
+{\
+    "format_version": "1.26.20",\
+    "minecraft:block": {\
+        "description": {\
+            "identifier": "test:test_block"\
+        },\
+        "components": {\
+            "minecraft:instrument_sound": {\
+                "up": "note.bit",\
+                        "down": "note.bell"\
+            }\
+        }\
+    }\
+}\
 
 #### Voxel Shapes
 

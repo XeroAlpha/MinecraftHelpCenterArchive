@@ -141,36 +141,36 @@ Added 'minecraft:placement\_filter' component which allows you to set conditions
 - Created RepairableItemComponent that data-drives how an item is repaired in game. Data is structured as follows in the item JSON file: 
 
 { \
-"format_version": "1.16.100", \
-"minecraft:item": { \
+"format_version": "1.16.100", \
+"minecraft:item": { \
 ... \
-   "minecraft:repairable": { \
-     "repair_items": \[ \
-       { \
-         "items": \[ "minecraft:item" \], \
-         "repair_amount": "query.max_damage \* 0.25" \
-       }, \
-       { \
-         "items": \[ "minecraft:item", "minecraft:item2" \], \
-         "repair_amount": "context.other-\>query.remaining_health + 0.05 \* context.other-\>query.max_damage" \
-       }, \
-       { \
-         "items": \[ "minecraft:item3" \], \
-         "on_repaired": { \
-           "event": "repaired", \
-           "target": "self" \
-         } \
-       } \
-     \] \
-   } \
-}, \
-"events": { \
-   "repaired": { \
-     "transform_item": { \
-       "transform": "item\_name" \
-     } \
-   } \
-} \
+    "minecraft:repairable": { \
+      "repair_items": \[ \
+        { \
+          "items": \[ "minecraft:item" \], \
+          "repair_amount": "query.max_damage \* 0.25" \
+        }, \
+        { \
+          "items": \[ "minecraft:item", "minecraft:item2" \], \
+          "repair_amount": "context.other-\>query.remaining_health + 0.05 \* context.other-\>query.max_damage" \
+        }, \
+        { \
+          "items": \[ "minecraft:item3" \], \
+          "on_repaired": { \
+            "event": "repaired", \
+            "target": "self" \
+          } \
+        } \
+      \] \
+    } \
+  }, \
+  "events": { \
+    "repaired": { \
+      "transform_item": { \
+        "transform": "item\_name" \
+      } \
+    } \
+  } \
 } \
 } 
 

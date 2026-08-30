@@ -286,6 +286,18 @@ And as always, we’re keen to get your feedback on these new features at [feed
   - The default behavior for this field is to corner with the same block name
   - This all requires the Beta APIs toggle to be enabled on a world and the `use_beta_features` flag on your block
 
-"format_version": "1.21.130", "use_beta_features": true, "minecraft:block": { "description": { "identifier": "custom:custom_block", "traits": { "minecraft:placement_position": { "enabled_states": \["minecraft:vertical_half"\] "minecraft:placement_direction": { "enabled_states": \["minecraft:corner_and_cardinal_direction"\], "blocks_to_corner_with": \[{"tags": "q.any_tag('minecraft:cornerable_stairs')"}\] } }
+  "format_version": "1.21.130",\
+  "use_beta_features": true,\
+  "minecraft:block": {\
+    "description": {\
+      "identifier": "custom:custom_block",\
+      "traits": {\
+        "minecraft:placement_position": {\
+          "enabled_states": \["minecraft:vertical_half"\]\
+        "minecraft:placement_direction": {\
+          "enabled_states": \["minecraft:corner_and_cardinal_direction"\],\
+          "blocks_to_corner_with": \[{"tags": "q.any_tag('minecraft:cornerable_stairs')"}\]\
+      }\
+  }\
 
 - With the Beta APIs toggle on, Vanilla Stairs have the tag `minecraft:cornerable_stairs` available, and can corner with custom blocks with the same tag if the block also uses `minecraft:cardinal_direction` block states

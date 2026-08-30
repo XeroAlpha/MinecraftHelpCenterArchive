@@ -210,4 +210,22 @@ Zombie Horse[](https://dev.azure.com/dev-mc/Minecraft/_wiki/wikis/Minecraft.wiki
 - Added VanillaBlockTag `minecraft:has_fence_connections` that can be used to identify a custom block as a block that creates connections like a fence; this tag is required to create connections between custom and Vanilla fences
 - The component and tag can be used along with the `minecraft:connection` block trait to make a custom fence that creates connections like a Vanilla fence. The following is an example of how they fit into the JSON of a custom fence block:
 
-{ "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:my_fence", "traits": { "minecraft:connection": { "enabled_states": \["minecraft:cardinal_connections"\] } } }, "components": { "tag:minecraft:has_fence_connections": {}, "minecraft:connection_rule": { "accepts_connections_from": "only_fences" } } } }
+{\
+    "format_version": "1.21.130",\
+    "minecraft:block": {\
+        "description": {\
+            "identifier": "test:my_fence",\
+            "traits": {\
+                "minecraft:connection": {\
+                    "enabled_states": \["minecraft:cardinal_connections"\]\
+                }\
+            }\
+        },\
+        "components": {\
+            "tag:minecraft:has_fence_connections": {},\
+            "minecraft:connection_rule": {\
+                "accepts_connections_from": "only_fences"\
+            }\
+        }\
+    }\
+}\

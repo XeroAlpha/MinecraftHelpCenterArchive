@@ -296,7 +296,27 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 #### Example
 
-{ "format_version": "1.13.0", "minecraft:multipart_block_column_feature": { "description": { "identifier": "example:ice_cream_lolly" }, "tip_block": "minecraft:red_wool", "frustum_block": "minecraft:yellow_wool", "middle_block": "minecraft:green_wool", "base_block": "minecraft:oak_planks", "height_range": { "range_min": 4, "range_max": 9 }, "direction": "UP", "may_place_on": \[ "minecraft:ice", "minecraft:snow" \] } }
+{\
+  "format_version": "1.13.0",\
+  "minecraft:multipart_block_column_feature": {\
+    "description": {\
+      "identifier": "example:ice_cream_lolly"\
+    },\
+    "tip_block": "minecraft:red_wool",\
+    "frustum_block": "minecraft:yellow_wool",\
+    "middle_block": "minecraft:green_wool",\
+    "base_block": "minecraft:oak_planks",\
+    "height_range": {\
+      "range_min": 4,\
+      "range_max": 9\
+    },\
+    "direction": "UP",\
+    "may_place_on": \[\
+      "minecraft:ice",\
+      "minecraft:snow"\
+    \]\
+  }\
+}\
 
 ### Graphics
 
@@ -341,49 +361,55 @@ Added support to show icons for buttons.
 - Changed interface DropdownOptions
   - Added property tooltip in beta
 
-    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage
+    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage\
 
 - Changed interface SliderOptions
   - Added property tooltip in beta
 
-    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage
+    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage\
 
 - Changed interface TextFieldOptions
   - Added property tooltip in beta
 
-    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage
+    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage\
 
 - Changed interface TextOptions
   - Added property tooltip in beta
 
-    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage
+    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage\
 
 - Changed interface ToggleOptions
   - Added property tooltip in beta
 
-    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage
+    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage\
 
 - Changed class MessageBox
   - Added function button1WithOptions
 
-    button1WithOptions(label: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage, options?: MessageBoxButtonOptions): MessageBox
+    button1WithOptions(label: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage, options?: MessageBoxButtonOptions): MessageBox\
 
   - Added function button2WithOptions
 
-    button2WithOptions(label: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage, options?: MessageBoxButtonOptions): MessageBox
+    button2WithOptions(label: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage, options?: MessageBoxButtonOptions): MessageBox\
 
 - Changed interface ButtonOptions
   - Added property imageDetails
 
-    imageDetails?: ImageDetails
+    imageDetails?: ImageDetails\
 
 - Added interface ImageDetails
 
-  export interface ImageDetails { imagePackId: ObservableString \| string; imageSrc: ObservableString \| string; }
+  export interface ImageDetails {\
+    imagePackId: ObservableString \| string;\
+    imageSrc: ObservableString \| string;\
+  }\
 
 - Added interface MessageBoxButtonOptions
 
-  export interface MessageBoxButtonOptions { imageDetails?: ImageDetails; tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage; }
+  export interface MessageBoxButtonOptions {\
+    imageDetails?: ImageDetails;\
+    tooltip?: ObservableString \| ObservableUIRawMessage \| string \| UIRawMessage;\
+  }\
 
 #### SoundDurationInfo
 

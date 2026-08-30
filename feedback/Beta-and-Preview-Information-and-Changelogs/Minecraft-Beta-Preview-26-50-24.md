@@ -213,7 +213,40 @@ For the full list of goodies, browse the changelog below. And as always, we're k
   - it can be used to assign a set of sounds to block and its permutations similar to sound field in blocks.json
   - blocks.json overrides values of minecraft:sound component, including values in all permutations
 
-{ "format_version": "1.26.20", "minecraft:block": { "description": { "identifier": "test:test_block", "states": { "custom:int": \[0, 1, 2\] } }, "permutations": \[ { "condition": "query.block_state('custom:int') == 1", "components": { "minecraft:sound": { "sound": "glass" } } }, { "condition": "query.block_state('custom:int') == 2", "components": { "minecraft:sound": { "sound": "metal" } } }, \], "components": { "minecraft:sound": { "sound": "snow" } } } }
+{\
+    "format_version": "1.26.20",\
+    "minecraft:block": {\
+        "description": {\
+            "identifier": "test:test_block",\
+            "states": {\
+                "custom:int": \[0, 1, 2\]\
+            }\
+        },\
+        "permutations": \[\
+            {\
+                "condition": "query.block_state('custom:int') == 1",\
+                "components": {\
+                "minecraft:sound": {\
+                    "sound": "glass"\
+                }\
+                }\
+            },\
+                    {\
+                "condition": "query.block_state('custom:int') == 2",\
+                "components": {\
+                "minecraft:sound": {\
+                    "sound": "metal"\
+                }\
+                }\
+            },\
+        \],\
+        "components": {\
+            "minecraft:sound": {\
+                "sound": "snow"\
+            }\
+        }\
+    }\
+}\
 
 ### User Interface
 

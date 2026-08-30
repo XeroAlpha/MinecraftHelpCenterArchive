@@ -280,9 +280,30 @@ It's time for another Preview and Beta release! For the full list of goodies, br
   - Subscription is not queued if the `BlockComponentRedstoneUpdateEvent.powerLevel` is less than `minecraft:redstone_consumer` field `min_power`\
     Here is an example of a custom component json and the subscription script:
 
-{ "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:custom_block" }, "components": { "minecraft:redstone_consumer": { "min_power": 10, "propogates_power": true }, "test:custom_component": {} } } }
+{\
+    "format_version": "1.21.130",\
+    "minecraft:block": {\
+        "description": {\
+            "identifier": "test:custom_block"\
+        },\
+        "components": {\
+            "minecraft:redstone_consumer": {\
+                "min_power": 10,\
+                "propogates_power": true\
+            },\
+            "test:custom_component": {}\
+        }\
+    }\
+}\
 
-import { system } from '@minecraft/server-wrapper'; system.beforeEvents.startup.subscribe(init =\> { init.blockComponentRegistry.registerCustomComponent("test:custom_component", { onRedstoneUpdate: \_ =\> { //insert logic here } }); });
+import { system } from '@minecraft/server-wrapper';\
+system.beforeEvents.startup.subscribe(init =\> {\
+    init.blockComponentRegistry.registerCustomComponent("test:custom_component", {\
+        onRedstoneUpdate: \_ =\> {\
+            //insert logic here\
+        }\
+    });\
+});\
 
 ## Blocks
 
@@ -296,12 +317,32 @@ import { system } from '@minecraft/server-wrapper'; system.beforeEvents.startup.
 
   - Example:
 
-    { "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:custom_consumer_block" }, "components": { "minecraft:redstone_consumer": { "min_power": 5, "propogates_power": true } } } }
+    {\
+        "format_version": "1.21.130",\
+        "minecraft:block": {\
+            "description": {\
+                "identifier": "test:custom_consumer_block"\
+            },\
+            "components": {\
+                "minecraft:redstone_consumer": {\
+                    "min_power": 5,\
+                    "propogates_power": true\
+                }\
+            }\
+        }\
+    }\
 - Modified `minecraft:material_instances` block component
   - Removed redundant experimental field `shaded` formerly named `emissive`
   - Same effect can be achieved with existing fields, example below
 
-"minecraft:material_instances" : { "\*": { "texture": "my_texture", "render_method": "opaque", "face_dimming": false, "ambient_occlusion", false } }
+"minecraft:material_instances" : {\
+    "\*": {\
+        "texture": "my_texture",\
+        "render_method": "opaque",\
+        "face_dimming": false,\
+        "ambient_occlusion", false\
+    }\
+}\
 
 - Added `minecraft:leashable` block component, which allows custom blocks to receive a lead attachment, including an offset field to change the position of the leash knot. Currently only available with "Upcoming Creator Features" enabled
 

@@ -284,13 +284,42 @@ As always, we're keen to get your feedback on these new features at [feedback.mi
   - The new cubemap configuration files should be placed in the *cubemaps* directory of a resource pack.
   - Example of a cubemap configuration file with path cubemaps/mycubemap.json:
 
-  { "format_version": "1.21.130", "minecraft:cubemap_settings": { "description": { "identifier": "mypack:mycubemap" }, "lighting": { "ambient_light_illuminance": { "0.00000": 4.0, "1.000000": 4.0 }, "sky_light_contribution": 1.0, "directional_light_contribution": 1.0, "affected_by_atmospheric_scattering": true, "affected_by_volumetric_scattering": true } } }
+      {\
+          "format_version": "1.21.130",\
+          "minecraft:cubemap_settings": {\
+              "description": {\
+                  "identifier": "mypack:mycubemap"\
+              },\
+              "lighting": {\
+                  "ambient_light_illuminance": {\
+                      "0.00000": 4.0,\
+                      "1.000000": 4.0\
+                  },\
+                  "sky_light_contribution": 1.0,\
+                  "directional_light_contribution": 1.0,\
+                  "affected_by_atmospheric_scattering": true,\
+                  "affected_by_volumetric_scattering": true\
+              }\
+          }\
+      }\
 
   - *format_version*: Required field containing "1.21.130"
   - *minecraft:cubemap_settings*: Required field
   - *minecraft:cubemap_settings/description/identifier*: Required field. If the identifier is equal to *minecraft:default_cubemap*, it will be used by default in all biomes. Otherwise, the cubemap configuration can be applied to a biome by supplying the same identifier in the respective *.client_biome.json* file for that biome. Example of a biome configuration file with path biomes/river.client_biome.json:
 
-  { "format_version": "1.21.130", "minecraft:client_biome": { "description": { "identifier": "minecraft:river" }, "components": { "minecraft:cubemap_identifier": { "cubemap_identifier": "mypack:mycubemap" } } } }
+      {\
+        "format_version": "1.21.130",\
+        "minecraft:client_biome": {\
+          "description": {\
+            "identifier": "minecraft:river"\
+          },\
+          "components": {\
+            "minecraft:cubemap_identifier": {\
+              "cubemap_identifier": "mypack:mycubemap"\
+            }\
+          }\
+        }\
+      }\
 
   - *minecraft:cubemap_settings/lighting*: Required field. Any fields inside *lighting* are optional
   - *minecraft:cubemap_settings/lighting/ambient_light_illuminance*: Contains pairs of numbers, where the first number should be between 0.0 and 1.0 (time of day) and the second number should be between 0.0 and 100000.0 (ambient light). Default value is 5.625 for all times of day
@@ -403,12 +432,26 @@ As always, we're keen to get your feedback on these new features at [feedback.mi
 
 Example:
 
-"minecraft:support": { "shape": "stair" // "fence" is also valid }
+"minecraft:support": { \
+    "shape": "stair" // "fence" is also valid \
+}\
 
 - Created a new block trait, minecraft:connection, to expose behavior like Fences or Glass Panes from Vanilla where blocks connect to other blocks around them. Using this trait with the example below adds the bool states minecraft:connection_north, minecraft:connection_east, minecraft:connection_south, and minecraft:connection_west. This is only available while the "Upcoming Creator Features" toggle is enabled
 
 Example:
 
-{ "format_version": "1.21.130", "minecraft:block": { "description": { "identifier": "test:connection_block", "traits": { "minecraft:connection": { "enabled_states": \["minecraft:cardinal_connections"\] } } } } }
+{\
+    "format_version": "1.21.130",\
+    "minecraft:block": {\
+        "description": {\
+            "identifier": "test:connection_block",\
+            "traits": {\
+                "minecraft:connection": {\
+                    "enabled_states": \["minecraft:cardinal_connections"\]\
+                }\
+            }\
+        }\
+    }\
+}\
 
 - One known issue with this is that blocks using minecraft:connection don't properly decide connections to blocks like Fences, Walls, Iron Bars, Fence Gates, and Glass Panes. Addressing this issue is currently in development

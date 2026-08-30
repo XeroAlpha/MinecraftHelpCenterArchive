@@ -851,7 +851,16 @@ It's time for another Minecraft: Bedrock Edition update! This release brings a w
 - The minecraft:server_sound_definitions payload in sounds/sound_definitions.json now accepts an optional music_info block on each definition with optional genres (array of strings), moods (array of strings), artist (string), and title (string) fields that describe the music content of the sound
 - The minecraft:server_sound_definitions payload now accepts an optional tags map on each definition where each entry is a tag name mapped to either a single string value or an array of string values, letting behavior packs attach arbitrary metadata to a server sound definition
 
-}, "music_info": { "genres": \["electronic", "ambient"\], "moods": \["calm"\], "artist": "Some Artist", "title": "My Cool Song" }, "tags": { "category": "background", "regions": \["overworld", "nether"\]
+},\
+            "music_info": {\
+                "genres": \["electronic", "ambient"\],\
+                "moods": \["calm"\],\
+                "artist": "Some Artist",\
+                "title": "My Cool Song"\
+            },\
+            "tags": {\
+                "category": "background",\
+                "regions": \["overworld", "nether"\]\
 
 - Added new beta interface SoundDefinitionMusicInfo with optional genres, moods, artist, and title properties describing the music content of a sound definition
 - Added new optional beta property SoundDefinition.musicInfo exposing the music metadata declared on a server sound definition
@@ -925,7 +934,28 @@ It's time for another Minecraft: Bedrock Edition update! This release brings a w
 
 Example:
 
-{ "format_version": "beta", "minecraft:server_sound_definitions": \[ { "sound_event_name": "creatorpack:my_cool_song", "duration_info": { "mode": "game_time", "seconds": 180.0 } }, { "sound_event_name": "creatorpack:my_other_song", "duration_info": { "mode": "real_time", "seconds": 12.5 } }, { "sound_event_name": "creatorpack:ambient_loop" } \] }
+{\
+    "format_version": "beta",\
+    "minecraft:server_sound_definitions": \[\
+        {\
+            "sound_event_name": "creatorpack:my_cool_song",\
+            "duration_info": {\
+                "mode": "game_time",\
+                "seconds": 180.0\
+            }\
+        },\
+        {\
+            "sound_event_name": "creatorpack:my_other_song",\
+            "duration_info": {\
+                "mode": "real_time",\
+                "seconds": 12.5\
+            }\
+        },\
+        {\
+            "sound_event_name": "creatorpack:ambient_loop"\
+        }\
+    \]\
+}\
 
 - Fixed a crash that occurred when loading a behavior pack containing a sounds/sound_definitions.json file with the minecraft:server_sound_definitions payload
 - Added minecaft:sound block component
@@ -933,7 +963,32 @@ Example:
   - it can be used to assign a set of sounds to block and its permutations similar to sound field in blocks.json
   - blocks.json overrides values of minecraft:sound component, including values in all permutations
 
-{ "format_version": "1.26.20", "minecraft:block": { "description": { "identifier": "test:test_block" }, "components": { "minecraft:sound": { "sound": "glass" } } } }
+{\
+\
+    "format_version": "1.26.20",\
+\
+    "minecraft:block": {\
+\
+        "description": {\
+\
+            "identifier": "test:test_block"\
+\
+        },\
+\
+        "components": {\
+\
+            "minecraft:sound": {\
+\
+                "sound": "glass"\
+\
+            }\
+\
+        }\
+\
+    }\
+\
+}\
+\
 
 ### User Interface
 

@@ -39,7 +39,10 @@ Open a Python coding MakeCode project in a Minecraft Education world.
 
 Example code (Windows):
 
-file.write_file(" C:/Users/\<insert username here\>/Desktop/\<filename\>.txt ",    "words") contents = file.read_file("C:/Users/\<insert username here\>/Desktop/\<filename\>.txt") player.say(contents)
+file.write_file(" C:/Users/\<insert username here\>/Desktop/\<filename\>.txt ",\
+    "words")\
+ \
+contents = file.read_file("C:/Users/\<insert username here\>/Desktop/\<filename\>.txt") player.say(contents)
 
 ** **
 
@@ -69,7 +72,12 @@ Open a JavaScript coding MakeCode project in a world.
 
 To select the file location, type it in as text or use the file picker.
 
-player.say("Writing to a .csv on my Desktop now") file.writeFile("C:/Users/\<insert username here\>/Desktop/\<filename\>.csv", "words"); player.say("---done writing!---") player.say("I am going to read out the contents of my file") let contents = file.readFile("C:/Users/\<insert username here\>/Desktop/\<filename\>.csv") player.say(contents)
+player.say("Writing to a .csv on my Desktop now")\
+file.writeFile("C:/Users/\<insert username here\>/Desktop/\<filename\>.csv", "words");\
+player.say("---done writing!---") \
+ \
+player.say("I am going to read out the contents of my file")\
+let contents = file.readFile("C:/Users/\<insert username here\>/Desktop/\<filename\>.csv") player.say(contents)
 
  
 
