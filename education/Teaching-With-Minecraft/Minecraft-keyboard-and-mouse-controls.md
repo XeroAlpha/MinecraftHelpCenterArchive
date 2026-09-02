@@ -1,7 +1,7 @@
 ---
 title: Minecraft keyboard and mouse controls
 date: 2020-08-10T08:36:23Z
-updated: 2026-04-01T14:40:03Z
+updated: 2026-09-02T22:43:03Z
 categories: Teaching With Minecraft
 tags:
   - controls
@@ -102,7 +102,7 @@ If these keyboard settings are non-intuitive, you can change them. You can also 
 
 ## Additional resources
 
-- [Key Terms and Control Guide](https://education.minecraft.net/wp-content/uploads/Key-Terms-and-Control-Guide_MEE.pdf%20)
+- [Key Terms and Control Guide](https://education.minecraft.net/content/dam/education-edition/software-downloads/MCEDU%20Movement%20Control%20Guide.pdf)
 - [Tutorial world](../Get-Started/Get-Started-with-the-Tutorial-World.md)
 - [Learn to play Minecraft Education](../Get-Started/Learn-to-play-Minecraft-Education.md)
 
