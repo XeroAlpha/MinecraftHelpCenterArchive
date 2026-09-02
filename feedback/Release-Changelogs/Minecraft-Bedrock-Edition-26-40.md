@@ -1,7 +1,7 @@
 ---
 title: "Minecraft: Bedrock Edition 26.40"
 date: 2026-07-31T08:44:15Z
-updated: 2026-08-13T18:01:43Z
+updated: 2026-09-02T08:24:59Z
 categories: Release Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/47787720931213-Minecraft-Bedrock-Edition-26-40
 hash:
@@ -471,7 +471,7 @@ It's time for another Minecraft: Bedrock Edition update! This release brings a w
 ### World Storage
 
 - Added OREUI Storage Settings: Storage Status and Management
-- Added cloud backup of Windows worlds, more information can be found at [aka.ms/aka.ms/cloudPC](https://aka.ms/aka.ms/cloudPC)
+- Added cloud backup of Windows worlds
   - Please share your feedback at [feedback.minecraft.net](https://feedback.minecraft.net/) and report any bugs you find at [bugs.mojang.com](https://bugs.mojang.com/)
 - Adds Cloud Sync support for World data on Windows, ensuring world data is backed up and accessible across devices on that platform.
 - Adding a specific error modal when upload to cloud fails due to full cloud storage ([MCPE-239104](https://bugs.mojang.com/browse/MCPE-239104))

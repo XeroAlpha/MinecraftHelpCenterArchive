@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - 26.3 Pre-release 1
 date: 2026-09-01T14:59:19Z
-updated: 2026-09-01T14:59:34Z
+updated: 2026-09-02T13:43:31Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/48576647862669-Minecraft-Java-Edition-26-3-Pre-release-1
 hash:
@@ -232,7 +232,7 @@ Following vanilla number providers have been removed:
 
 - Returns the value from on_true if its condition is fulfilled or on_false if not
 - Fields:
-  - conditions - an inline value or a namespaced ID of a minecraft:predicate type
+  - condition - an inline value or a namespaced ID of a minecraft:predicate type
   - on_true - an inline value or a namespaced ID of a minecraft:context_int_provider type which is executed if its condition is fulfilled
   - on_false - an optional inline value or a namespaced ID of a minecraft:context_int_provider type
     - Defaults to a constant 0 if omitted
@@ -439,7 +439,7 @@ Following vanilla number providers have been removed:
 
 - Returns the value from on_true if its condition is fulfilled or on_false if not
 - Fields:
-  - conditions - an inline value or a namespaced ID of a minecraft:predicate type
+  - condition - an inline value or a namespaced ID of a minecraft:predicate type
   - on_true - an inline value or a namespaced ID of a minecraft:context_float_provider type which is executed if its condition is fulfilled
   - on_false - an optional inline value or a namespaced ID of a minecraft:context_float_provider type
     - Defaults to a constant 0.0 if omitted
