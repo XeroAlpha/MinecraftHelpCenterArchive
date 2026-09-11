@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.60.22/23
 date: 2026-09-08T14:26:58Z
-updated: 2026-09-08T16:05:09Z
+updated: 2026-09-11T08:41:39Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/48740748263565-Minecraft-Beta-Preview-26-60-22-23
 hash:
@@ -85,6 +85,8 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - Realm world settings no longer remain stuck saving when the connection is interrupted
 
 - Hardcore worlds are now identified correctly in Realm world slots
+
+- Realm Member screens have been updated to OreUI with improved functionality.
 
 ## Stability and Performance
 
