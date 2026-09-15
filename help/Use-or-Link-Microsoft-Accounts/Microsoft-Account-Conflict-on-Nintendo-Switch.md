@@ -1,7 +1,7 @@
 ---
-title: Microsoft Account Conflict on Nintendo Switch
+title: Troubleshoot Microsoft Account Sign-in Errors in Minecraft on Nintendo Switch
 date: 2024-08-12T17:42:58Z
-updated: 2025-12-02T00:32:40Z
+updated: 2026-09-15T17:12:25Z
 categories: Use or Link Microsoft Accounts
 tags:
   - platform_nintendo_switch
@@ -9,7 +9,7 @@ tags:
   - subject_sign_in_questions
   - use_for_autoreply
   - section_29296773863181
-link: https://help.minecraft.net/hc/en-us/articles/29198744398349-Microsoft-Account-Conflict-on-Nintendo-Switch
+link: https://help.minecraft.net/hc/en-us/articles/29198744398349-Troubleshoot-Microsoft-Account-Sign-in-Errors-in-Minecraft-on-Nintendo-Switch
 hash:
   h_01J53TR98ZK8AMGMNZ8Q2BJZTS: error-cant-sign-in
   h_01J53TX16PYQ8EWSH72MVQKKKD: error-microsoft-account-conflict

@@ -1,7 +1,7 @@
 ---
 title: "Named Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2026-03-27T21:57:25Z
+updated: 2026-09-15T17:05:05Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -74,6 +74,7 @@ hash:
   error-lead: lead
   error-llama: llama
   error-mooshroom: mooshroom
+  h_01M2JS7ASR6ZQ1YR23K6RFTP2Q: mushroom-block
   error-nethernet: nethernet
   error-observer: observer
   error-obsidian: obsidian
@@ -315,6 +316,11 @@ We’ve given some error codes special names to help point you in the right dire
 
 - **What it means**: There was a problem with your Microsoft account.
 - **How to troubleshoot**: Run the [Gaming Services Repair Tool](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool). If it continues, follow [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
+
+### Mushroom Block
+
+- **What it means**: The wrong Microsoft/Xbox account is being used to sign into the current Nintendo Switch account.
+- **How to troubleshoot**: See [Sign In to Minecraft with a Microsoft Account on Nintendo Switch](../Use-or-Link-Microsoft-Accounts/Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md).
 
 ### NetherNet
 

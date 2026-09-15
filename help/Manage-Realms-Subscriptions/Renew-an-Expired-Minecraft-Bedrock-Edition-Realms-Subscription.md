@@ -1,7 +1,7 @@
 ---
 title: "Renew an Expired Minecraft: Bedrock Edition Realms Subscription"
 date: 2021-09-24T21:25:19Z
-updated: 2026-03-13T16:48:53Z
+updated: 2026-09-15T17:18:51Z
 categories: Manage Realms Subscriptions
 tags:
   - title_minecraft
@@ -30,6 +30,10 @@ If you subscribed to Minecraft Realms in the past and want to restart a Realm to
 
 ## How to renew an expired Realm
 
-1.  Start Minecraft and click on **Settings.**
-2.  Navigate to the **Subscription** section. 
-3.  Click the **Renew** button on the Realm you would like to reactivate, and then complete the purchase flow to set up a new subscription for that Realm.
+1.  Start Minecraft.
+2.  Click **Play**.
+3.  Click on your **Realms** tab.
+4.  Navigate to the **Realms** hub for the Realm you'd like to renew.
+5.  Click **Settings**.
+6.  Navigate to the **Subscription** section. 
+7.  Click the **Manage Subscription** button and complete the purchase flow to set up a new subscription for that Realm.
