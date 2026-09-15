@@ -1,7 +1,7 @@
 ---
 title: "Hour of AI 2025: The First Night"
 date: 2025-11-11T21:21:41Z
-updated: 2025-11-12T18:36:50Z
+updated: 2026-09-15T19:04:48Z
 categories: Hour of Code
 link: https://edusupport.minecraft.net/hc/en-us/articles/43242267563540-Hour-of-AI-2025-The-First-Night
 hash:
@@ -15,7 +15,7 @@ Building on over a decade of success with the Hour of Code, Minecraft Education 
 
 Try to survive the first night in Minecraft, but this time with the help of AI! Team up with an AI Agent and train it to recognize resources, craft tools, and build shelter before the sun sets. Solve fun coding puzzles as you prepare for darkness with MakeCode blocks or Python. Explore the potential of creative collaboration with AI systems and learn why AI tools require human oversight in this thrilling Hour of AI. 
 
-Hour of AI provides a fun and engaging experience to introduce computer science and AI literacy to students, leveraging the magic of Minecraft to make complex ideas accessible and exciting.
+Hour of AI provides a fun and engaging experience to introduce computer science and AI literacy to students, leveraging the magic of Minecraft to make complex ideas accessible and exciting. 
 
 #### **What is Hour of AI?**
 
