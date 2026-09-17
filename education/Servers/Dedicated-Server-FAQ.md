@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server FAQ
 date: 2025-10-01T17:56:33Z
-updated: 2026-08-04T20:53:15Z
+updated: 2026-09-17T16:08:42Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/41758309283348-Dedicated-Server-FAQ
 hash:
@@ -35,11 +35,11 @@ Dedicated Servers do not require a client to host the world, can be hosted perma
 - Optional broadcasting of any servers to all users in the tenant
 - Optional passcode protection for servers
 - Optional allow-list protection for servers
-- Optional cross-tenant play (coming soon)
+- Optional cross-tenant play
 
 ## 3. Who can use Dedicated Servers?
 
-Global admins from any tenant can enable the use of Dedicated Servers on their tenant. Additionally, global admins can accept invitations and enable the use of Dedicated Servers hosted by another tenant (currently this management is only available through scripting). A global admin for the tenant must configure the initial settings to enable Dedicated Servers for a tenant, enable cross-tenant play, or enable Teacher View (which allows teachers to create their own servers!)
+Global admins from any tenant can enable the use of Dedicated Servers on their tenant. Additionally, global admins can accept invitations and enable the use of Dedicated Servers hosted by another tenant. A global admin for the tenant must configure the initial settings to enable Dedicated Servers for a tenant, enable cross-tenant play, or enable Teacher View (which allows teachers to create their own servers!)
 
 To connect to Dedicated Servers, users will need to be licensed and have the Minecraft Education client installed on their device.
 
@@ -59,7 +59,8 @@ You can also use scripting to make mass deployment, bulk configuration, or simil
 
 ## 7. How do I set up Cross-Tenant Play for my tenant?
 
-Cross-tenant play for Dedicated Server isn't quite ready yet. We're hoping to have this feature fully released in the near future. 
+Learn how to setup Cross-Tenant here: [Enabling Cross-Tenant Play ](./Enabling-Cross-Tenant-Play.md)\
+Cross Tenant allows users from 2 different schools to connect to each other's specified servers. Only IT Administrators (or Teachers using Teacher View) can invite other schools and accept invites. 
 
 ## 8. How do I manage settings and servers for my tenant?
 

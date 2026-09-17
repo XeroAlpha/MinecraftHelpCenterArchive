@@ -1,7 +1,7 @@
 ---
 title: Dedicated Server Advanced Setup
 date: 2026-04-30T20:52:27Z
-updated: 2026-08-04T20:52:22Z
+updated: 2026-09-17T17:30:07Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/48786821856532-Dedicated-Server-Advanced-Setup
 hash:
@@ -21,9 +21,7 @@ You can configure an allow list to limit who can join your server. This cannot b
 
 *Note: This command **cannot **be run from in-game. Only from the terminal hosting the session. * \
  \
-*Note: using this method will require turning the allowlist back on or off upon restarting the server. The server will default to the original configuration of the server. This will be changed in future releases. *
-
-*i.e. If you create the server with the **allow-list = true** property in server.properties then the server will have it on by default on each startup. If you have it set to **false** it will default to off and will need to be turned back on each session. *
+*Note: using this method will require turning the allowlist back on or off upon restarting the server. The server will default to the original configuration of the server. This will be changed in future releases. For example, if you create the server with the **allow-list = true** property in server.properties then the server will have it on by default on each startup. If you have it set to **false** it will default to off and will need to be turned back on each session. *
 
 1.  To enable or disable the allowlist, any operator can use the /allowlist on or /allowlist off commands. This will enable or disable the allowlist. When the allowlist is on, only players in this list will be allowed into the servers. All others will be blocked. 
 2.  To add someone to the allowlist use /allowlist add \<DisplayName\>
