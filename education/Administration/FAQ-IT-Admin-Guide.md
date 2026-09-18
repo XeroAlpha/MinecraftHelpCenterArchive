@@ -1,7 +1,7 @@
 ---
 title: "FAQ: IT Admin Guide"
 date: 2020-08-10T11:58:02Z
-updated: 2026-06-03T18:07:42Z
+updated: 2026-09-18T18:18:38Z
 categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/360047118992-FAQ-IT-Admin-Guide
 hash:
@@ -170,13 +170,13 @@ If you are using SSL Decryption on a **Chromebook** any URL that serves up certi
 
 ### What is the full list of domains that are in the wildcards?
 
-The list of domains can change without notice, and some are CDNs which may be different regionally, so while we will attempt to keep this list up to date and complete, if possible we recommend you use the wildcards (\*) above instead of managing specific sub-domains.
+The list of domains can change without notice, and some are CDNs which may be different regionally, so while we will attempt to keep this list up to date and complete, if possible, we recommend you use the wildcards (\*) above instead of managing specific sub-domains.
 
-<figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 326px;">
-<table>
+<figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 326px; width: 100%;">
+<table class="wysiwyg-table-resized">
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col style="width: 36%" />
+<col style="width: 63%" />
 </colgroup>
 <tbody>
 <tr style="height: 89px;">
@@ -186,6 +186,7 @@ The list of domains can change without notice, and some are CDNs which may be di
 <li>discovery.minecrafteduservices.com</li>
 <li>notebooks.minecrafteduservices.com</li>
 <li>downloads.minecrafteduservices.com</li>
+<li>dedicatedserver.minecrafteduservices.com</li>
 </ul></td>
 </tr>
 <tr style="height: 134px;">

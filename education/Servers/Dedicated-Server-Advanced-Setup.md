@@ -1,17 +1,27 @@
 ---
 title: Dedicated Server Advanced Setup
 date: 2026-04-30T20:52:27Z
-updated: 2026-09-17T17:30:07Z
+updated: 2026-09-18T19:37:55Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/48786821856532-Dedicated-Server-Advanced-Setup
 hash:
+  h_01M2TYZKAEZER3992940VSEXH0: table-of-contents--
   h_01KZ78GBR1VJR65NCSQ856TNM2: allow-list-configuration
-  h_01KZ78GBR7S8MG4VW1Y0EY1GNT: passcode
+  h_01KZ78GBR7S8MG4VW1Y0EY1GNT: setting-a-passcode
+  h_01M2TYWXT992TPTYQP5EMZ8714: further-editing-via-api
 ---
 
 After you've configured your server (either through the [Dedicated Server Admin Portal](https://edusupport.minecraft.net/hc/en-us/articles/47808418670356) or the [Alternate Configuration Option](https://edusupport.minecraft.net/hc/en-us/articles/48539680060436) you can enable additional settings such as allow-list, and passcodes (if not configured in the Admin Portal). 
 
 > ***Note: Cross tenant play is now available! You can learn about how to set this up here:*** [***Enabling Cross-Tenant Play***](./Enabling-Cross-Tenant-Play.md)
+
+ 
+
+### Table of Contents - 
+
+[Allow-list configuration](#allow-list-configuration)\
+[Setting a Passcode](#setting-a-passcode)\
+[Further Editing via API](#further-editing-via-api)
 
 #### Allow-list configuration
 
@@ -45,13 +55,13 @@ You can configure an allow list to limit who can join your server. This cannot b
 ![](https://edusupport.minecraft.net/hc/article_attachments/52137659994900)
 
 - If preventing a specific user from joining is desired, remove the entry containing that user’s name and/or ID from the file.
-- If allowing a specific user to join is desired, add an entry containing that user’s name and/or ID to the file in the following format.
+- If allowing a specific user to join is desired, add an entry containing that user’s name and/or ID to the file in the following format. You only need to specific one of them, not both. (i.e. you can only use the "name" and not the "xuid" or vice versa). 
 
 ![](https://edusupport.minecraft.net/hc/article_attachments/52137659996052)
 
  
 
-### Passcode 
+### Setting a Passcode 
 
 ***Important Note**: Passcodes are not passwords, since they are not unique to each user. They are instead unique to each server (or at least should be!). They are viewable to admins and shared by users. For example, a classroom could use a passcode to ensure only that class can get into the server, so long as the passcode is only known to the people in the class. It's a good practice to rotate this passcode from time-to-time to ensure it remains known to only those who need it. *
 
@@ -65,3 +75,9 @@ However, if you prefer you can also enable it via scripting, such as by using th
 - The third cell under the tooling/edit_server_info heading allows you to remove a passcode that you have previously set.
 
 ![](https://edusupport.minecraft.net/hc/article_attachments/52137659996948)
+
+ 
+
+### Further Editing via API
+
+Advanced users may consult our [Dedicated Server API Documentation](https://edusupport.minecraft.net/hc/en-us/articles/53703908318868) for further information on configuring a server through our API endpoints for more complex setups.

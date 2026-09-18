@@ -1,7 +1,7 @@
 ---
 title: Enabling Cross-Tenant Play
 date: 2026-07-23T19:12:04Z
-updated: 2026-07-31T19:31:37Z
+updated: 2026-09-18T17:52:16Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/51711271699092-Enabling-Cross-Tenant-Play
 hash:
@@ -89,6 +89,9 @@ To send an invite to another tenant when creating a new server: 
 
     - Input the invitee's Tenant ID and select "**Send Invite"**
 
+      - You can find your Tenant ID in the upper right-hand corner of the Admin Portal
+      - Alternatively, the following page describes how to find your tenant ID in Microsoft Entra: <https://learn.microsoft.com/en-us/entra/fundamentals/how-to-find-tenant>
+
       <figure class="wysiwyg-image">
       <img src="https://edusupport.minecraft.net/hc/article_attachments/51711287490836" />
       </figure>
@@ -164,6 +167,9 @@ Creating and accepting invites can also be done in the Tooling and Scripting Not
     2.  Once Authenticated, obtain your server ID from the "fetch_server_info" cell. 
 
     3.  Then provide your ID and the invitees Tenant ID into the "create_server_invite" cell and run it to create an invite
+
+        - You can find your Tenant ID in the upper right-hand corner of the Admin Portal
+        - Alternatively, the following page describes how to find your tenant ID in Microsoft Entra: <https://learn.microsoft.com/en-us/entra/fundamentals/how-to-find-tenant>
 
         <figure class="wysiwyg-image">
         <img src="https://edusupport.minecraft.net/hc/article_attachments/51717097569300" />
