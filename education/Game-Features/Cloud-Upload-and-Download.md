@@ -1,7 +1,7 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2026-03-03T22:43:09Z
+updated: 2026-09-24T21:27:11Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
@@ -214,6 +214,7 @@ If you got this error when you closed your world:
 Here are some steps you can take to figure out the issue:
 
 - Confirm you are connected to the internet.
+- Ensure you're [running the latest version of Minecraft Education](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md)
 - Confirm you have OneDrive licensed and enabled on the account you logged into Minecraft Education with.
   - Go to <https://portal.office.com/account#subscriptions>
   - Verify that any license including OneDrive is shown. 
@@ -236,6 +237,7 @@ If you got this error when you closed your world:
 Here are some steps you can take to resolve this issue:
 
 - Try again in case your internet was interrupted.
+- Ensure you're [running the latest version of Minecraft Education](../Installation/Update-to-a-New-Version-of-Minecraft-Education.md)
 - Confirm you have OneDrive licensed & enabled on the account you logged into Minecraft Education with.
   - Go to <https://portal.office.com/account#subscriptions>
   - Verify that any license including OneDrive is shown. 
