@@ -1,7 +1,7 @@
 ---
 title: Cloud Upload and Download
 date: 2023-09-29T23:22:17Z
-updated: 2026-09-24T21:27:11Z
+updated: 2026-09-25T18:09:03Z
 categories: Game Features
 link: https://edusupport.minecraft.net/hc/en-us/articles/19632132361748-Cloud-Upload-and-Download
 hash:
@@ -15,6 +15,8 @@ hash:
   h_01HP2X242P57NRRFPW9N6TZXQ9: troubleshooting-upload-errors
   h_01HTQK89VQKAN76XB70MT1X775: troubleshooting-download--sync-errors
 ---
+
+> **Important:** Beginning October 1, 2026, Cloud Saving will no longer be supported on Minecraft Education versions earlier than 26.32. Users running older versions will encounter errors when attempting to upload, download, or sync worlds. To continue using Cloud Saving, please update to version 26.32 or later.
 
 Worlds are automatically saved to OneDrive upon closing the world as a backup. When the first world is uploaded, a new folder in the user’s OneDrive is created called “Minecraft Education". To ensure you have OneDrive attached to your account, see the troubleshooting guide below.
 

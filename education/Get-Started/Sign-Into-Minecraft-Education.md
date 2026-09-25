@@ -1,7 +1,7 @@
 ---
 title: Sign Into Minecraft Education
 date: 2021-05-25T15:33:07Z
-updated: 2023-09-15T15:59:02Z
+updated: 2026-09-25T18:10:26Z
 categories: Get Started
 tags:
   - SSO
@@ -11,6 +11,8 @@ hash:
   h_01HACS10VTB9NPR3N5QD5R9932: manage-accounts
   h_01HACS10VTD9RY3G7A1RKFFFBH: details
 ---
+
+> **Note:** Passkey sign-in is currently unavailable on Android and ChromeOS devices. Our team is actively working on a fix, and support will be restored in a future update. In the meantime, we recommend using an alternative sign-in method.
 
 ## First-time sign into Minecraft Education 
 

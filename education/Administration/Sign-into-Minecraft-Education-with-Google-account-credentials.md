@@ -1,7 +1,7 @@
 ---
 title: Sign into Minecraft Education with Google account credentials
 date: 2020-11-04T16:37:16Z
-updated: 2024-05-22T22:29:16Z
+updated: 2026-09-25T18:04:55Z
 categories: Administration
 link: https://edusupport.minecraft.net/hc/en-us/articles/360051644972-Sign-into-Minecraft-Education-with-Google-account-credentials
 hash:
@@ -23,9 +23,11 @@ hash:
   01H8FA8Z6AM5TWZYM3XMFS3GVG: enabling-saml-federation-for-other-identity-management-configuration
 ---
 
+> **Note:** Passkey sign-in is currently unavailable on Android and ChromeOS devices. Our team is actively working on a fix, and support will be restored in a future update. In the meantime, we recommend using an alternative sign-in method.
+
 If you are currently using managed Google Account credentials to sign into Chromebooks, there are a couple of different ways to make it easier for students and teachers to sign into Minecraft Education using their Microsoft 365 Azure Active Directory (AAD) credentials. This guide will walk you through the options for single sign-on as well as how to link, or federate, your Google and Microsoft accounts together using Security Assertion Markup Language (SAML) so that the same credentials can be used for both Google and Microsoft products. 
 
-Note that due to the highly complex and custom nature of account configurations, the Minecraft Education team will be unable to provide help desk support for setup or troubleshooting of SAML federation. 
+Note that due to the highly complex and custom nature of account configurations, the Minecraft Education team will be unable to provide help desk support for setup or troubleshooting of SAML federation. 
 
 ## Option 1: Use Minecraft Education Remember Me Feature 
 
