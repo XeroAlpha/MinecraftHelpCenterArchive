@@ -1,7 +1,7 @@
 ---
 title: Minecraft Education Content Creators
 date: 2024-05-09T18:17:19Z
-updated: 2026-07-09T22:17:57Z
+updated: 2026-09-25T19:49:11Z
 categories: Remote Learning
 link: https://edusupport.minecraft.net/hc/en-us/articles/26453473957652-Minecraft-Education-Content-Creators
 hash:
@@ -15,8 +15,8 @@ Minecraft has a global community of creators who can recreate your campus, schoo
 <figure class="wysiwyg-table wysiwyg-table-align-left" style="height: 901px; width: 74%;">
 <table class="wysiwyg-table-resized">
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 58%" />
+<col style="width: 25%" />
+<col style="width: 59%" />
 <col style="width: 16%" />
 </colgroup>
 <tbody>
