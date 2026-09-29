@@ -1,7 +1,7 @@
 ---
 title: Mojang Bug Tracker Guidelines
 date: 2021-09-09T22:04:45Z
-updated: 2026-09-28T17:40:08Z
+updated: 2026-09-29T15:29:55Z
 categories: Contact Minecraft
 tags:
   - section_27983516571789
@@ -52,8 +52,8 @@ If you find that your issue has already been reported, look at the Resolution�
 
 **Remember:**
 
-- **Reporting duplicated tickets slows down the Development Team and hinders issue resolution time. (red X emoji)**
-- **Voting for already existing ticket bumps up the priority and speeds up the action. (green tick emoji)**
+- **Reporting duplicated tickets slows down the Development Team and hinders issue resolution time. **
+- **Voting for already existing ticket bumps up the priority and speeds up the action. **
 
 ## Reporting a bug
 
