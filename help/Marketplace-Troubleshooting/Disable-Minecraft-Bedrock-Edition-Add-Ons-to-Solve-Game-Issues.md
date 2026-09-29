@@ -1,7 +1,7 @@
 ---
 title: "Disable Minecraft: Bedrock Edition Add-Ons to Solve Game Issues"
 date: 2024-02-14T18:05:57Z
-updated: 2025-12-16T18:01:35Z
+updated: 2026-09-29T17:33:51Z
 categories: Marketplace Troubleshooting
 tags:
   - section_31867770289293
@@ -29,15 +29,16 @@ Before you disable Add-Ons in Minecraft: Bedrock Edition, here is what to expect
 5.  Select the **Active **tab.
 6.  Select the Add-On you want to deactivate and select **Remove.**
 
-##  Disable Minecraft: Bedrock Edition Add-Ons in a Realm world
+## Disable Minecraft: Bedrock Edition Add-Ons in a Realm world
 
 You must be the Realm owner to deactivate Add-Ons.
 
 1.  Launch Minecraft.
 2.  Select **Play.**
 3.  Select the Realms tab.
-4.  Select the Realm with the world you want to change and select **Settings**.
-5.  Select the world slot you want to change and select **Edit World**.
-6.  Select the **Resource packs **or** Behavior packs **tab.
-7.  Select the **Active **tab.
-8.  Select the resource pack you wish to deactivate and select **Deactivate**.
+4.  Select the Realm with the world you want to change and select **Realm Hub**.
+5.  Select the **World** tab.
+6.  Select the world slot you want to change and select **Edit World**.
+7.  Select the **Resource packs **or** Behavior packs **tab.
+8.  Select the **Active **tab.
+9.  Select the resource pack you wish to deactivate and select **Deactivate**.

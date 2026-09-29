@@ -1,7 +1,7 @@
 ---
 title: "Activate Add-Ons in Minecraft: Bedrock Edition"
 date: 2024-02-14T17:47:55Z
-updated: 2026-03-12T21:56:09Z
+updated: 2026-09-29T17:23:51Z
 categories: Managing Marketplace Content
 tags:
   - section_24069904400141
@@ -37,13 +37,14 @@ Add-Ons let you add custom blocks, items, mobs, recipes, and other game content 
 
 1.  Launch Minecraft and select **Play**.
 2.  Select **Realms.**
-3.  Select the Realm you want to modify and select **Settings**.
-4.  Select the world slot you want to modify and select **Edit World**.
-5.  Select **Resource Packs** or **Behavior Packs** under Add-Ons.
-6.  Select **Activate** after choosing Add-Ons from My Packs or Marketplace Pass Packs.
-7.  Confirm you want to activate the Add-On.
-8.  Select the back button in the top-left and wait for Minecraft to upload your changes to the Realm.
-9.  Select **Play** to join your world.
+3.  Select the Realm with the world you want to change and select **Realm Hub**.
+4.  Select the **World** tab.
+5.  Select the world slot you want to modify and select **Edit World**.
+6.  Select **Resource Packs** or **Behavior Packs** under Add-Ons.
+7.  Select **Activate** after choosing Add-Ons from My Packs or Marketplace Pass Packs.
+8.  Confirm you want to activate the Add-On.
+9.  Select the back button in the top-left and wait for Minecraft to upload your changes to the Realm.
+10. Select **Play** to join your world.
 
 If you connect to a Realm from any Minecraft: Bedrock Edition device, you will automatically download and apply any Add-Ons activated on that Realm.
 

@@ -1,7 +1,7 @@
 ---
 title: Start a Minecraft Preview/Beta Realm
 date: 2023-10-10T17:12:23Z
-updated: 2026-03-12T23:54:26Z
+updated: 2026-09-29T18:12:26Z
 categories: Create or Join Realms
 tags:
   - section_26104084764557
@@ -18,11 +18,10 @@ Preview and Beta Realms are available to any active Minecraft: Bedrock Edition R
 1.  Launch Minecraft Preview/Beta.
 2.  Make sure you are signed into the Microsoft account that has an active Bedrock Realms subscription.
 3.  Press **Play Preview** (or **Play Beta** on Android).
+4.  Go to the **Realms** tab.
 
-If you have an active Realms subscription, a Preview Realm will be available for you to join and add members. New members must also be in the Preview/Beta program to play on a Preview Realm.
-
-**Note:** If you’ve switched to Preview’s new user interface, you’ll have to swap back to the old one to access this menu. 
+If you have an active Realms subscription, you will see a blue banner letting you know you have a free Preview Realm available. Click on **Claim Realm**. Once the Realm has been created, you will be able to invite members the same way you do for regular Realms. New members must also be in the Preview/Beta program to play on a Preview Realm.
 
 Creating a Preview Realm ties that Realm to the same subscription as your regular Realm. Cancelling that subscription will cancel both your regular Realm and your Preview Realm.
 
-If you have multiple Realms subscriptions, you can select which subscription to tie to your new Preview Realm. You can then create an additional Preview Realm for each subscription you have through the create new world screen after creating your first one.
+If you have multiple Realms subscriptions, you can select which subscription to tie to your new Preview Realm. You can create a Preview Realm for each subscription you have.

@@ -1,7 +1,7 @@
 ---
 title: "Create a Manual Save of Your Minecraft: Bedrock Edition Realms World"
 date: 2025-12-08T20:27:21Z
-updated: 2026-05-05T23:48:29Z
+updated: 2026-09-29T17:13:11Z
 categories: Manage Realms Save Files
 tags:
   - section_27166561402125
@@ -21,8 +21,7 @@ Create manual saves of your Realm world in Minecraft: Bedrock Edition to store
 2.  Select the **Realms** tab.
 3.  Select the **Realms Hub** for the Realm you want to manually save.
 4.  Select the **World** tab. Then, select **Saves**.
-5.  Select **Manage Saves in old UI**.
-6.  Select **Save active world**.
+5.  Select **Save active world**.
 
 After you've created saves, you will see options to select **Manual **or **Automatic** tab. Your most recent saves will appear at the top of each list.
 
@@ -33,9 +32,8 @@ After you've created saves, you will see options to select **Manual **or **Au
 3.  Select the **Realms **tab.
 4.  Select the **Realms Hub** for the Realm you want to manually save.
 5.  Select the **World** tab. Then, select **Saves**.
-6.  Select **Manage Saves in old UI**.
-7.  Select the **kebob menu button **(three dots) to the right of the save file you wish to delete.
-8.  Select **Delete Save**.
+6.  Select the **kebob menu button **(three dots) to the right of the save file you wish to delete.
+7.  Select **Delete Save**.
 
 If you have an active Minecraft Realms subscription, your game will also create an automatic backup save file of your world at regular intervals.
 

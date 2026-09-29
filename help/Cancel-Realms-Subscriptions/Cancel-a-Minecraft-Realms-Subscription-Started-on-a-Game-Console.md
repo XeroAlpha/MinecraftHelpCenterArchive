@@ -1,7 +1,7 @@
 ---
 title: Cancel a Minecraft Realms Subscription Started on a Game Console
 date: 2025-04-10T22:15:23Z
-updated: 2026-03-13T16:35:20Z
+updated: 2026-09-29T17:49:42Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft
@@ -24,7 +24,7 @@ hash:
   h_01JRGW4TCYR22DJMFGNBSZ6WJX: cancel-a-minecraft-realms-subscription-started-on-nintendo-switch
 ---
 
-Subscriptions for Minecraft Realms need to be canceled through the same account used to start the subscription. If you started your Realms subscription on an Xbox, Sony PlayStation or Nintendo Switch, you can cancel your subscription on the game platform's website. When you cancel your Minecraft Realms subscription, your Realm will still be accessible until the renewal date, but payments will no longer be charged automatically. You can restart your Realm at any time.
+Subscriptions for Minecraft Realms need to be canceled through the same account used to start the subscription. If you started your Realms subscription on an Xbox, Sony PlayStation or Nintendo Switch, you can cancel your subscription on the game platform's website. When you cancel your Minecraft Realms subscription, your Realm will still be accessible until the renewal date, but payments will no longer be charged automatically. Minecraft will delete canceled Realms 18 months after cancellation. Once your Realm has been deleted, you will not be able to restart it. See [Important Realms Update](https://www.minecraft.net/en-us/article/important-realms-update) for more information.
 
 ## Cancel a Minecraft Realms subscription started on Xbox
 

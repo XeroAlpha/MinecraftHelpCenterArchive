@@ -1,7 +1,7 @@
 ---
 title: Understanding Minecraft Social Features for Child Safety Online
 date: 2021-03-25T23:29:27Z
-updated: 2026-03-11T18:54:18Z
+updated: 2026-09-29T17:29:24Z
 categories: General Safety
 tags:
   - section_15463792344973
@@ -24,7 +24,7 @@ Minecraft contains many ways players can communicate with each other. Some commu
 
 ## Safety Features for Communication
 
-- **Profanity Filter**: The Filter Profanity toggle in Minecraft: Bedrock Edition under Settings \> General is on by default and cannot be turned off when signed in using a child account. When a chat, sign, book, or other typed message with inappropriate content is posted, the profanity filter either replaces inappropriate words with hashtags (#) or completely hides the message from other players. The profanity filter in Minecraft: Bedrock Edition is active on Realms, partner servers, and other multiplayer experiences. The profanity filter is only active on Realms if you’re playing Minecraft: Java Edition.
+- **Profanity Filter**: The Filter Profanity toggle in Minecraft: Bedrock Edition under Settings \> General is on by default and cannot be turned off when signed in using a child account. When a chat, sign, book, or other typed message with inappropriate content is posted, the profanity filter either replaces inappropriate words with hashtags (#) or completely hides the message from other players. The profanity filter in Minecraft: Bedrock Edition is active on Realms, partner servers, and other multiplayer experiences. On Minecraft: Java Edition, the profanity filter is only active on Realms.
 - **Moderation**: When playing in a Realm in either Minecraft: Java Edition or Minecraft: Bedrock edition, text communications are monitored for appropriate interaction. Moderation also applies to Minecraft: Bedrock Edition Partner Servers available in-game. Inappropriate communications can lead to [player accounts being banned](../Player-Reporting-Bans/Banned-Minecraft-Accounts-and-the-Appeal-Process.md) from playing Minecraft. Moderation in private servers is controlled by the server owner.
 - **Chat Access Controls**: You can manage child account access to chat using the [Xbox settings online](../Account-Settings/Managing-Child-Account-Social-Settings-Using-Xbox-Settings-Online.md) or the [Xbox Family app](../Account-Settings/Managing-Child-Account-Social-Settings-Using-the-Xbox-Family-App.md).
 

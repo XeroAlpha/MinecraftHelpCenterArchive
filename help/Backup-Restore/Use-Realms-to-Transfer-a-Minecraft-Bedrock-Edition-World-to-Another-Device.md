@@ -1,7 +1,7 @@
 ---
 title: "Use Realms to Transfer a Minecraft: Bedrock Edition World to Another Device"
 date: 2021-09-13T22:15:53Z
-updated: 2026-03-12T21:45:52Z
+updated: 2026-09-29T18:55:44Z
 categories: Backup & Restore
 tags:
   - subject_progress_and_saved_games
@@ -22,6 +22,7 @@ tags:
 link: https://help.minecraft.net/hc/en-us/articles/4409165790605-Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device
 hash:
   h_01JYMM0NGS5RRHEY53NZ8PTCNV: transfer-a-bedrock-world-between-devices-with-minecraft-realms
+  h_01M3Q681GAV859ZD5SQ097APNB: how-to-uploaddownload-a-world-via-realms-hub
   h_01JYMM0NGSBYHV89S1G7RCSSMJ: additional-backup-and-transfer-resources
 ---
 
@@ -34,20 +35,33 @@ Verify that you have an [active trial or paid Realms subscription](../Create-or-
 1.  Launch Minecraft on the world hosting device.
 2.  Select **Play** on the launch screen.
 3.  Select **Realms** and select the Realm you want to use to transfer.
-4.  Select **Settings** on the Realm.
+4.  Select **Realms Hub\*** on the Realm.
 5.  Select a world slot and select **Edit World**.
-6.  Navigate to the bottom of the Game Settings tab.
+6.  Navigate to the bottom of the **Realms Hub** tab.
     - Select **Upload World** if you’re using an empty Realm slot.
     - Select **Replace World** if you’re overwriting an existing world.
 7.  Confirm you want to upload the world to the current Realms slot.
 8.  Launch Minecraft on the destination device and sign in with your Microsoft account.
 9.  Select **Play** from the launch screen.
 10. Select the Realms tab and select the Realm with the world you want to transfer.
-11. Select **Settings** on the Realm.
+11. Select **Realms Hub** on the Realm.
 12. Select the slot with the world you want to transfer and select **Edit World**.
-13. Navigate to the bottom of the Game Settings tab and select **Download World**.
+13. Navigate to the bottom of the **Realms Hub** tab and select **Download World**.
 
 The world will appear on the Worlds tab on the new device as “World name - Copy.” Select the pencil icon to rename it.
+
+## \*How to upload/download a world via Realms Hub
+
+You can upload/download a world from the **Edit World** page on the **Worlds** tab of **Realms Hub**. Follow the steps below to see how it's done:
+
+1.  From within the **Realms Hub**, click on **World** to view your existing worlds.
+2.  Click **Edit World** to go to the world settings.
+3.  Scroll down to the **File Management** section where you can select **Reset World**, **Replace World**, or **Download World**.
+4.  Select **Replace World**, which will remove your current world from your Realm's active slot and let you choose a world to replace it with. Anyone currently playing will be temporarily disconnected.
+5.  Select **Confirm** to continue.
+6.  Choose a world to export. When the *'World export finished successfully'* message appears, the selected world will replace the world initially opened on the **Realms Hub**. 
+7.  Click the carrot icon in the upper left corner of the screen to return to the **Realms Hub**.
+8.  From the **Realms Hub**, you will be able to **Download World**, **Replace World**, or **Reset World** by clicking on the three vertical dots next to Edit World.
 
 ## Additional backup and transfer resources
 

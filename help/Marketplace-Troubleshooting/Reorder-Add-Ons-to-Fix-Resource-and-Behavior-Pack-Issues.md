@@ -1,7 +1,7 @@
 ---
 title: Reorder Add-Ons to Fix Resource and Behavior Pack Issues
 date: 2025-10-03T21:46:45Z
-updated: 2025-10-07T00:02:07Z
+updated: 2026-09-29T19:08:03Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -51,17 +51,18 @@ When Add-Ons conflict with each other unexpectedly, it’s usually because they�
 
 ## Reorder Add-Ons in Realm worlds
 
-You must be the Realm owner to modify Add-Ons.
+You must be the Realm owner or an administrator to modify Add-Ons.
 
 1.  Launch Minecraft.
 2.  Select **Play.**
 3.  Select the Realms tab.
-4.  Select the Realm with the world you want to change and select **Settings**.
-5.  Select the world slot you want to change and select **Edit World**.
-6.  Select the **Resource packs **or** Behavior packs **tab.
-7.  Select the **Active** tab.
-8.  Select the Add-on you want to move and select the arrow to move it up or down in the list.
-9.  Repeat this for any other resource or behavior packs you want re-prioritize.
+4.  Select the Realm with the world you want to change and select **Realm Hub**.
+5.  Select the **World** tab.
+6.  Select the world slot you want to change and select **Edit World**.
+7.  Select the **Resource packs **or** Behavior packs **tab.
+8.  Select the **Active** tab.
+9.  Select the Add-on you want to move and select the arrow to move it up or down in the list.
+10. Repeat this for any other resource or behavior packs you want re-prioritize.
 
 ## Additional resources to troubleshoot Add-Ons
 

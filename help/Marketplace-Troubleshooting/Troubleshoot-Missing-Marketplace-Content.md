@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Missing Marketplace Content
 date: 2024-02-20T18:04:19Z
-updated: 2025-12-01T22:39:13Z
+updated: 2026-09-29T19:04:27Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft

@@ -1,7 +1,7 @@
 ---
 title: Cancel a Minecraft Realms Subscription Started on a Personal Computer
 date: 2025-04-10T22:20:07Z
-updated: 2026-03-13T16:35:42Z
+updated: 2026-09-29T17:49:35Z
 categories: Cancel Realms Subscriptions
 tags:
   - title_minecraft_java_edition
@@ -29,7 +29,7 @@ hash:
   h_01JRGWHY1THGXT23ENBJRWA0B2: cancel-a-realms-subscription-through-your-microsoft-account
 ---
 
-If you started a Minecraft: Java Edition or Bedrock Edition Realm on a personal computer, you can cancel your recurring subscription through your Microsoft account. When you cancel your Minecraft Realms subscription, your Realm will still be accessible until the renewal date, but payments will no longer be charged automatically. You can restart your Realm at any time.
+If you started a Minecraft: Java Edition or Bedrock Edition Realm on a personal computer, you can cancel your recurring subscription through your Microsoft account. When you cancel your Minecraft Realms subscription, your Realm will still be accessible until the renewal date, but payments will no longer be charged automatically. Minecraft will delete canceled Realms 18 months after cancellation. Once your Realm has been deleted, you will not be able to restart it. See [Important Realms Update](https://www.minecraft.net/en-us/article/important-realms-update) for more information.
 
 ## Cancel a Realms subscription through your Microsoft account
 
