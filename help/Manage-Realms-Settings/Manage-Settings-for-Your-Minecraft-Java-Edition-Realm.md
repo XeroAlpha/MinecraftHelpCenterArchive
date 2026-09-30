@@ -1,7 +1,7 @@
 ---
 title: "Manage Settings for Your Minecraft: Java Edition Realm"
 date: 2023-10-25T17:03:24Z
-updated: 2026-03-11T18:54:14Z
+updated: 2026-09-30T14:18:41Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft_java_edition
@@ -57,6 +57,8 @@ Subscription tab:
 Settings tab:
 
 - **Change Realm name and description**: These are visible to anyone with a Realms invite.
+- **Render Distance Limit:** The maximum distance visible to Realm members. Higher values may impact performance.
+- **Simulation Distance:** The range around players where the game loads and applies changes.
 - **Temporarily Close Realm**: Close your Realm to players while making changes or troubleshooting. See [Close and Reopen Your Minecraft Realm to Solve Connection Errors](../Troubleshoot-Minecraft-Realms/Close-and-Reopen-Your-Minecraft-Realm-to-Solve-Connection-Errors.md).
 - **Select Region…**: Change your server location. See [Set your Minecraft: Java Edition Realm server region preference.](./Set-Your-Minecraft-Java-Edition-Realm-Server-Region-Preference.md)
 
