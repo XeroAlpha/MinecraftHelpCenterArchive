@@ -1,10 +1,12 @@
 ---
 title: "New Update: Steam Deck Playable"
 date: 2026-10-01T16:19:07Z
-updated: 2026-10-01T16:27:09Z
+updated: 2026-10-01T20:18:21Z
 categories: Minecraft Dungeons II Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/49305373167629-New-Update-Steam-Deck-Playable
 ---
+
+**Posted:** October 1, 2026
 
 A new Minecraft Dungeons II update is available on Steam!
 
