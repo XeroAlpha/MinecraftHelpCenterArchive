@@ -1,7 +1,7 @@
 ---
 title: Minecraft Dungeons II Capes and Cosmetic Rewards
 date: 2026-09-08T16:23:45Z
-updated: 2026-09-28T15:13:40Z
+updated: 2026-10-01T16:18:44Z
 categories: Minecraft Dungeons II Support
 tags:
   - section_27983516571789
@@ -76,7 +76,7 @@ The Twisted Cape is included with qualifying Minecraft Dungeons II pre-orders pl
 
 ### Grant and Activation
 
-After Minecraft Dungeons II launches on September 239, 2026, complete these steps:
+After Minecraft Dungeons II launches on September 29, 2026, complete these steps:
 
 1.  Sign in to Minecraft Dungeons II using the Microsoft account associated with your pre-order.
 2.  Confirm that your pre-order rewards have been granted in-game on the Collectibles screen.
