@@ -1,7 +1,7 @@
 ---
 title: "Join a Minecraft: Java Edition Realm"
 date: 2019-06-27T01:08:30Z
-updated: 2026-03-11T18:54:02Z
+updated: 2026-10-05T14:18:44Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
@@ -29,10 +29,11 @@ After you [Accept a Minecraft: Java Edition Realms Invitation](./Accept-a-Minecr
 
 ## Join a Realm in Minecraft: Java Edition
 
-1.  Launch Minecraft: Java Edition.
-2.  Click **Minecraft Realms**.
-3.  Select an available Realm from the list.
-4.  Click the **Play** button to enter the Realm.
+1.  Launch **Minecraft: Java Edition**.
+2.  Select **Minecraft Realms** from the **Main Menu**.
+3.  Select **Join Realm** in the upper left corner of the screen.
+4.  Enter **Join Code** to join a friend's Realm and select **Join Realm**.\
+     
 
 ## Additional Resources
 

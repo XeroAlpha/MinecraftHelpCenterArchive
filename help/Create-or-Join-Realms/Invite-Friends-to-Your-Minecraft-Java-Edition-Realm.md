@@ -1,7 +1,7 @@
 ---
 title: "Invite Friends to Your Minecraft: Java Edition Realm"
 date: 2024-04-15T19:13:45Z
-updated: 2026-03-12T23:54:05Z
+updated: 2026-10-05T14:18:00Z
 categories: Create or Join Realms
 tags:
   - title_minecraft_java_edition
@@ -28,10 +28,15 @@ After you [create a Minecraft: Java Edition Realm](./Create-a-Minecraft-Java-Edi
 
 ## Invite friends through the game menu
 
-1.  Select **Minecraft Realms** from the Minecraft launch screen.
-2.  Select your Realm and then select the **Configure **button.
-3.  Select **Players** and then select **Invite Player**.
-4.  Enter the player's [Java Profile Name](../Manage-Your-Minecraft-Profile/View-or-Change-Your-In-Game-Profile-Name-in-Minecraft.md) and select the **Invite Player** button.
+1.  Launch **Minecraft: Java Edition**.
+2.  Select **Minecraft Realms** from the **Main Menu**.
+3.  Select your Realm and then select the **Configure** button.
+4.  Select the **Players** tab and then select the **Invite Codes** button. 
+5.  Select **Create Invite Code** button to create a new code or choose one that's already been created.
+6.  Highlight the code you want to use, select **Copy**, then **Back**.\*
+7.  Share the **Invite Code** with friends so they can become members of your Realm.
+
+**\*Note:** To edit the settings, select **Edit** to Edit Invite Code. You can set the Expiration Date here. Select **Done** when you're finished adjusting the Invite Code settings.
 
 You can also [sign into your profile on Minecraft.net](https://www.minecraft.net/en-us/msaprofile) and invite members from the Realms tab.
 

@@ -1,7 +1,7 @@
 ---
 title: "Restore or Recreate a Minecraft: Bedrock Edition World"
 date: 2026-02-18T19:19:50Z
-updated: 2026-02-23T23:31:55Z
+updated: 2026-10-05T16:54:18Z
 categories: Backup & Restore
 tags:
   - section_27166561402125
@@ -16,7 +16,7 @@ If you need to rollback a Minecraft: Bedrock Edition world to before you enabled
 
 ## Restore an automatic backup
 
-Restore an automatic backup to reset your world to the point in time the backup was made. If you have automatic backups enabled through your console or Minecraft Realms, follow the steps in these articles to restore an existing save file:
+Restore an automatic backup to reset your world to the point in time the backup was made. If you have automatic backups enabled through your console, follow the steps in these articles to restore an existing save file:
 
 - [Manage Minecraft Cloud Saves on Nintendo Switch](https://help.minecraft.net/hc/articles/15519102826765)
 - [Manage Minecraft Cloud Saves on PlayStation](https://help.minecraft.net/hc/articles/15518966498061)
@@ -29,6 +29,8 @@ If you have a manual world backup, restore it by moving your backup file to the 
 - [Import a Minecraft: Bedrock World on a Windows PC](https://help.minecraft.net/hc/articles/40362687157517)
 - [Save a Backup of Your Minecraft: Bedrock Edition Worlds on Your iPhone or iPad](https://help.minecraft.net/hc/articles/40399876673421)
 - [Save a Backup of Minecraft: Bedrock Edition Worlds on Android](https://help.minecraft.net/hc/articles/26883028637965)
+
+**Note:** If you want to restore a **Realm** backup, whether manual or automatic, see the following article for detailed steps: [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World \| Minecraft Help](../Manage-Realms-Save-Files/Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
 
 ## Recreate a world from a world seed
 
