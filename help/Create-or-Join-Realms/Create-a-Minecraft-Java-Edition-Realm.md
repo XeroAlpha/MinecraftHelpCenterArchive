@@ -35,6 +35,6 @@ Before you go about starting a Realm, make sure you have a Microsoft account to 
 After your subscription is active, you can manage it on your [Microsoft subscriptions page](https://account.microsoft.com/services?fref=home.drawers.subscriptions.view-all-subscriptions). For more Realms management, see the below articles:
 
 - [View a Minecraft: Java Edition Realms Subscription Renewal Date](../Manage-Realms-Subscriptions/View-a-Minecraft-Java-Edition-Realms-Subscription-Renewal-Date.md)
-- [Cancel a Minecraft Realms subscription in the Minecraft menu](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md)
+- [Cancel a Minecraft Realms subscription in the Minecraft menu](https://help.minecraft.net/hc/en-us/articles/24123767171469)
 - [Updating Your Payment Method for Minecraft Realms on PC](../Manage-Realms-Subscriptions/Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md)
 - [How to Manage Your Minecraft: Java Edition Realm](../Manage-Realms-Settings/Manage-Settings-for-Your-Minecraft-Java-Edition-Realm.md)

@@ -61,17 +61,41 @@ In today's snapshot, we're adding a few new blocks that you, later on, will see 
 
 Added the following game events that the Sculk Sensor reacts to, along with corresponding frequency value:
 
-|                                          |                 |
-|------------------------------------------|-----------------|
-| Vibration Types                          | Frequency Value |
-| Minecart Moving, Ring Bell, Block Change | 6               |
-| Drinking Finish, Prime Fuse              | 7               |
-| Mob Interact                             | 8               |
-| Equip, Shear, Ravager Roar               | 9               |
-| Entity Place                             | 12              |
-| Entity Killed                            | 13              |
-| Shulker Close                            | 14              |
-| Shulker Open                             | 15              |
+Vibration Types
+
+Frequency Value
+
+Minecart Moving, Ring Bell, Block Change
+
+6
+
+Drinking Finish, Prime Fuse
+
+7
+
+Mob Interact
+
+8
+
+Equip, Shear, Ravager Roar
+
+9
+
+Entity Place
+
+12
+
+Entity Killed
+
+13
+
+Shulker Close
+
+14
+
+Shulker Open
+
+15
 
 - Block Change is for when player or dispenser action has changed a block. Example: cake slice being eaten
 - Mob Interact is for specific mob interaction events that cause vibrations

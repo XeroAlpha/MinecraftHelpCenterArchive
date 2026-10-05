@@ -18,5 +18,5 @@ You can view your Realms subscription expiration date for Minecraft: Bedrock Edi
 Here is where you can find more information about managing your Realms subscription:
 
 - [Renew an Expired Minecraft: Bedrock Edition Realms Subscription](./Renew-an-Expired-Minecraft-Bedrock-Edition-Realms-Subscription.md)
-- [Cancel a Minecraft Realms Subscription in the Minecraft Menu](../Cancel-Realms-Subscriptions/Cancel-a-Minecraft-Realms-Subscription-in-the-Minecraft-Menu.md)
+- [Cancel a Minecraft Realms Subscription in the Minecraft Menu](https://help.minecraft.net/hc/en-us/articles/24123767171469)
 - [Updating Your Payment Method for Minecraft Realms on PC](./Updating-Your-Payment-Method-for-Minecraft-Realms-on-PC.md)
