@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.60.28
 date: 2026-09-22T15:04:38Z
-updated: 2026-09-22T16:05:44Z
+updated: 2026-10-07T07:00:39Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/49076913532557-Minecraft-Beta-Preview-26-60-28
 hash:
@@ -233,9 +233,9 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 </thead>
 <tbody dir="auto" data-line="174">
 <tr dir="auto" data-line="174">
-<td style="border-color: rgba(255, 255, 255, 0.18); padding: 5px 10px">Reference point <code>[0, 0, 0]</code></td>
-<td style="border-color: rgba(255, 255, 255, 0.18); padding: 5px 10px">Bottom-middle on the front of the block</td>
-<td style="border-color: rgba(255, 255, 255, 0.18); padding: 5px 10px">Bottom-left corner on the front of the block</td>
+<td style="padding: 5px 10px">Reference point <code>[0, 0, 0]</code></td>
+<td style="padding: 5px 10px">Bottom-middle on the front of the block</td>
+<td style="padding: 5px 10px">Bottom-left corner on the front of the block</td>
 </tr>
 <tr dir="auto" data-line="175">
 <td style="padding: 5px 10px">X and Z coordinate range</td>
