@@ -1,10 +1,11 @@
 ---
 title: Enabling Cross-Tenant Play
 date: 2026-07-23T19:12:04Z
-updated: 2026-09-18T17:52:16Z
+updated: 2026-10-09T16:37:38Z
 categories: Servers
 link: https://edusupport.minecraft.net/hc/en-us/articles/51711271699092-Enabling-Cross-Tenant-Play
 hash:
+  h_01M4GRDDEK438D722YTHPE89QG: important-links-
   h_01KY83S5TK6TVEHM8DGG3T7DVY: prerequisites
   h_01KY84333DJBCASJ70GGX8F6XQ: enabling-cross-tenant-for-your-tenant
   h_01KY84N1YDPS43RGGRX44FEPFK: set-up-using-the-admin-portal
@@ -20,21 +21,14 @@ Server hosts can setup servers to allow connections from different Microsoft 365
 
 Since IT Admins or Teachers need to accept the connection, students still remain secure. Accepting an invitation will not allow different organizations to connect to each other in Peer-2-Peer sessions and will only grant access to the servers that have a connection setup.  
 
-Helpful links:  
+### Important links:  
 
-[Prerequisites](#prerequisites)
-
-[Enabling Cross Tenant for your Tenant](#enabling-cross-tenant-for-your-tenant)
-
-[Set up using the Admin Portal](#set-up-using-the-admin-portal)
-
-[Revoking an Invite in the Admin Portal](#revoking-an-invite-in-the-admin-portal)
-
-[Set up using the Tooling and Scripting Notebook](#set-up-using-the-tooling-and-scripting-notebook)
-
-[Revoking an Invite in the Tooling and Scripting Notebook](#revoking-an-invite-in-the-tooling-and-scripting-notebook)
-
- 
+- [Prerequisites](#prerequisites)
+- [Enabling Cross Tenant for your Tenant](#enabling-cross-tenant-for-your-tenant)
+- [Set up using the Admin Portal](#set-up-using-the-admin-portal)
+- [Revoking an Invite in the Admin Portal](#revoking-an-invite-in-the-admin-portal)
+- [Set up using the Tooling and Scripting Notebook](#set-up-using-the-tooling-and-scripting-notebook)
+- [Revoking an Invite in the Tooling and Scripting Notebook](#revoking-an-invite-in-the-tooling-and-scripting-notebook)
 
 ### Prerequisites: 
 
