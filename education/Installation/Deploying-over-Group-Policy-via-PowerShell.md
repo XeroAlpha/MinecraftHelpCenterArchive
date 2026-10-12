@@ -159,7 +159,7 @@ Instead of editing the script directly, you can pass the installer path as a par
 
 **Example parameter:**
 
--url "\\server\path\to\installer"
+-url "\\\server\path\to\installer"
 
 This allows you to reuse the same script across multiple deployments without modifying it. (See the example screenshot below.)\
 You will configure this in a later step.\

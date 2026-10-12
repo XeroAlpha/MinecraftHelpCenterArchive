@@ -104,7 +104,7 @@ Minecraft Dungeons II saves character progression through a combination of local
 
 Each character’s data is stored locally on your device in a **.dat file** inside your user’s save file. On Windows, for example, the path is:
 
-%USERPROFILE%\Saved Games\Mojang Studios\Dungeons\\USER_ID\>\Characters\\character\>.dat
+%USERPROFILE%\Saved Games\Mojang Studios\Dungeons\\\<USER_ID\>\Characters\\\<character\>.dat
 
 These files contain all progression data, including items, enchantments, mission unlocks, camp merchants, and more. If you uninstall the game or lose access to your local save data, you can back it up from this folder and restore it later.
 

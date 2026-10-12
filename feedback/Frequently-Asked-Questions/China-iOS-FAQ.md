@@ -29,17 +29,17 @@ Realm的订阅将会停止，您将获得未使用部分的退款。您也可以
 我们即将停止商店中的内容购买，也将停止金币的销售。如果您还有未使用的金币，请继续留意后续的消息
 
 7\) 如何下载我的 Realm?\
-a. 您可以在”World”选项中看到您的Realms，点击旁边的铅笔图标 b. 在Realms菜单中，请按下 “Download World” 按钮（请确保设备上有足够的存储空间，如果您在PC上安装了iTunes，您可以把这个世界转移到PC上）
+a\. 您可以在”World”选项中看到您的Realms，点击旁边的铅笔图标 b. 在Realms菜单中，请按下 “Download World” 按钮（请确保设备上有足够的存储空间，如果您在PC上安装了iTunes，您可以把这个世界转移到PC上）
 
 8\) 如何下载我目前的游戏进度?\
-a. 在个人电脑上打开 iTunes\
-b. 使用iTunes同步您的移动设备\
-c. 在 “Devices” 菜单中找到 “Apps” 目录\
-d. 选择 “Games” 目录\
-e. 选择 “Minecraft” 目录\
-f. 选择已经保存到iTunes的世界\
-g. 请注意: 世界的名称会包括各种字符，您此后可以重新命名\
-h. 把世界文件复制到个人电脑上
+a\. 在个人电脑上打开 iTunes\
+b\. 使用iTunes同步您的移动设备\
+c\. 在 “Devices” 菜单中找到 “Apps” 目录\
+d\. 选择 “Games” 目录\
+e\. 选择 “Minecraft” 目录\
+f\. 选择已经保存到iTunes的世界\
+g\. 请注意: 世界的名称会包括各种字符，您此后可以重新命名\
+h\. 把世界文件复制到个人电脑上
 
 9\) 可以在中国版中使用我在国外版中购买的额外内容（DLC）吗?\
 国外版中的DLC（Skins, Skins, Texture packs, Mash-up Packs, and community created content) 目前无法在中国版使用。如果您把国外版中的世界转移到了中国版，并且这个世界使用了在Minecraft商店上线前获 得的texture pack，那么这些texure pack有可能可以在中国版中继续使用。

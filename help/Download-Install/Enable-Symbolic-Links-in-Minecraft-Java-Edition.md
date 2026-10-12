@@ -29,7 +29,7 @@ Here are some guidelines:
 - Choose a pattern type: **glob**, **prefix**, or **regex**.
   - Glob matches paths ending with wildcard patterns (for example, \*.txt).
   - Prefix matches paths that start with the pattern (for example, /test, /test/, or /test/file.txt).
-  - Regex matches the full path using a regular expression (for example, a path that ends with \\txt).
+  - Regex matches the full path using a regular expression (for example, a path that ends with \\.txt).
 - Ignore comments by starting the line with a \#.
 
 ## Security and symbolic links

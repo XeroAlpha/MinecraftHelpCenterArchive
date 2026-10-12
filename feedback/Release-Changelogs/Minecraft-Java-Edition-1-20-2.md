@@ -358,7 +358,7 @@ Note that random value\|roll \<range\> used without a sequence id is available
 
 ### FUNCTIONS
 
-- A single backslash \\as the last non-whitespace character of a line now allows a command to be continued on the next line
+- A single backslash \\ as the last non-whitespace character of a line now allows a command to be continued on the next line
   - Leading and trailing whitespace of the following line are stripped before appending
 
 #### MACROS

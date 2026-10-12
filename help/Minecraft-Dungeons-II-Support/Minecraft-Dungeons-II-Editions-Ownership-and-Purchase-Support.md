@@ -145,9 +145,9 @@ If you purchased Minecraft Dungeons II but can’t access it, the issue is usual
 Minecraft Dungeons II requires a Microsoft account for login and license verification.
 
 1.  Check that the Microsoft account you used to buy the game is also signed into: \
-    - Xbox App \
-    - Microsoft Store \
-    - Minecraft Launcher
+    \- Xbox App \
+    \- Microsoft Store \
+    \- Minecraft Launcher
 2.  Sign out of all of these apps, then sign back in with the same Microsoft account.
 3.  Go to [account.microsoft.com/billing/orders](https://account.microsoft.com/billing/orders) to confirm the purchase is linked to that account. \
      

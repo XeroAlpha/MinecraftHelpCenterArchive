@@ -133,7 +133,7 @@ This article contains a list of known issues for Code Builder, or coding worlds 
 To address these issues effectively without losing your MakeCode projects or Minecraft worlds, [**please backup** your code builder projects](../Game-Features/Managing-Projects-in-Code-Builder-for-MakeCode.md) before following the steps outlined below:\
 \
 For Windows 10/11 Users:\
-Navigate to \`C:\Users\USERNAME\AppData\Local\Temp\\ and delete the contents within the \`minecraftpe\` folder.\
+Navigate to \`C:\Users\USERNAME\AppData\Local\Temp\\\` and delete the contents within the \`minecraftpe\` folder.\
 \
 For macOS Users:\
 Go to \`~/Library/WebKit/com.microsoft.minecraftpe\` and clear the contents of this folder.\

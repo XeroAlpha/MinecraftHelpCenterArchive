@@ -51,7 +51,7 @@ For PC, [enable view hidden files and folders](https://support.microsoft.com/en-
 
 **PC Desktop version: **
 
-- C:\Users\\*USERNAME*\]\AppData\Roaming\Minecraft Education Edition\games\com.mojang\minecraftWorlds
+- C:\Users\\\[*USERNAME*\]\AppData\Roaming\Minecraft Education Edition\games\com.mojang\minecraftWorlds
 
 **PC Store version:**
 

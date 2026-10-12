@@ -197,7 +197,7 @@ export enum HeldItemOption {  \
 }\
 
 - Added interface `PlayerSwingEventOptions` to `beta`. Event options/filters for `PlayerSwingStartAfterEvent`.\
-  - Field `heldItemOption?: HeldItemOption`
+  \- Field `heldItemOption?: HeldItemOption`
   - Added class `PlayerSwingStartAfterEvent` to `beta`. This contains information regarding a player starting to swing their arm
     - Field `heldItemStack?: ItemStack`
     - Field `player: Player`

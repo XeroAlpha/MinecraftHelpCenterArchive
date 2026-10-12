@@ -12,7 +12,7 @@ If you installed Minecraft: Java Edition on a new computer, you can transfer you
 
 1.  Copy the zipped backup file to your new computer and unzip it.
 2.  Move the folder containing the unzipped world folder into your Minecraft **saves** folder on the new computer.
-3.  Windows: **%appdata%\\minecraft\saves**
+3.  Windows: **%appdata%\\.minecraft\saves**
 4.  macOS: **~/Library/Application Support/minecraft/saves**
 5.  Launch Java Edition.
 6.  Select **Singleplayer**. Your world will now appear as a playable option.

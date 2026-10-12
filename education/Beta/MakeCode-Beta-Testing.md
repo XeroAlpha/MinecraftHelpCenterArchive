@@ -16,21 +16,21 @@ hash:
 Here is how you can access the latest features being developed by MakeCode:
 
 \
-1. Open Minecraft Education (latest version)\
-2. Open MakeCode in a Minecraft world\
-3. Click on the gear icon\
-4. Click on About
+1\. Open Minecraft Education (latest version)\
+2\. Open MakeCode in a Minecraft world\
+3\. Click on the gear icon\
+4\. Click on About
 
 ![](https://edusupport.minecraft.net/hc/article_attachments/41694925368340)
 
 \
-5. Click on the Experiments button
+5\. Click on the Experiments button
 
 ![](https://edusupport.minecraft.net/hc/article_attachments/41694925368596)
 
 \
-6. Click on "Beta Editor"\
-7. Create a project with MakeCode.\
+6\. Click on "Beta Editor"\
+7\. Create a project with MakeCode.\
  
 
 You should be able to see you are in Beta in MakeCode when this bar is visible.\

@@ -142,6 +142,6 @@ Impacted content:
 Other: 
 
 - Switching from the beta (1.18.30) back to a previous build (1.17.32) can cause Minecraft to crash when loading a world. Manually deleting the options.txt file in the Minecraft Application Data folder will resolve this. 
-  - On Windows, the options.txt can be found at %appdata%\Minecraft Education Edition\games\com.mojang\minecraftpe\options.txt which for most users is "C:\Users\\USERNAME\]\AppData\Roaming\\.."
+  - On Windows, the options.txt can be found at %appdata%\Minecraft Education Edition\games\com.mojang\minecraftpe\options.txt which for most users is "C:\Users\\\[USERNAME\]\AppData\Roaming\\..."
 
 **Windows 7 Users:** While Minecraft Education version 1.18 supports Windows 7, starting in December 2022, you will need to be using Windows 8 or newer to ensure Minecraft Education works correctly on your Windows device. View our [System Requirements article](../Get-Started/System-Requirements.md) for more info.
