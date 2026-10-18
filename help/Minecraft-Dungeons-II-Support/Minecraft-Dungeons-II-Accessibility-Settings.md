@@ -4,6 +4,7 @@ date: 2026-09-15T15:11:37Z
 updated: 2026-09-28T15:17:49Z
 categories: Minecraft Dungeons II Support
 tags:
+  - section_27520753301005
   - section_27983516571789
 link: https://help.minecraft.net/hc/en-us/articles/48913082822285-Minecraft-Dungeons-II-Accessibility-Settings
 hash:
