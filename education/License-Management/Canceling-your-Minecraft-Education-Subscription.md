@@ -1,7 +1,7 @@
 ---
 title: Canceling your Minecraft Education Subscription
 date: 2024-03-12T23:51:12Z
-updated: 2026-07-14T21:15:16Z
+updated: 2026-10-19T20:11:01Z
 categories: License Management
 tags:
   - getting_started
@@ -25,7 +25,9 @@ Follow the steps outlined below to seamlessly cancel your subscription and/or di
 ### Step 1: Unassign all licenses\
 In order to request a refund, you must first unassign all licenses for Minecraft Education from users.
 
-- Go to the **Users** \> **Active users** page in the Microsoft 365 admin center.
+- Sign into the Microsoft Admin Center with your Administrator work or school account.
+  - Note: Your work or school account will end with a domain like "minecraft.edu" or "schoolname.org". If you're using a Commercial license it will likely end in "\[somnething\].onmicrosoft.com". It generally won't end with "Outlook.com", "Gmail.com", or similar.
+- Go to the **Users** \> **Active users** page.
 - Select all users
 - In the toolbar select "Manage Product Licenses"\
   ![Screenshot 2024-03-12 181235.png](https://edusupport.minecraft.net/hc/article_attachments/24546497206420)
