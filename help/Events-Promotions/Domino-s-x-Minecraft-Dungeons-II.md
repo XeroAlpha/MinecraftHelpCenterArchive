@@ -1,7 +1,7 @@
 ---
 title: Domino's x Minecraft Dungeons II
 date: 2026-10-20T19:04:59Z
-updated: 2026-10-21T17:54:14Z
+updated: 2026-10-21T20:25:40Z
 categories: Events & Promotions
 tags:
   - title_minecraft
@@ -22,6 +22,8 @@ hash:
   h_01M5FE3KJ5NAHKXKPNYMC0Y68A: if-i-get-duplicates-of-the-same-in-game-item-can-i-share-my-codes-with-a-friend
   h_01M5FE3KJ570KQNHY5MK03Z91X: can-i-redeem-an-in-game-code-more-than-once
   h_01M5FE3KJ825ZDZW5981BZFAB1: i-received-my-code-but-im-having-issues-redeeming-my-code-or-accessing-my-items-in-game
+  h_01M5G279CS0ZSZ793K3Y96B6NC: select-your-scenario
+  h_01M5G27E2JW4MCTGHDZY6R0M14: in-game
   h_01M5FE3KJCX9C3Q3W2FAR4REGZ: what-is-required-to-use-the-in-game-items
   h_01M5FE3KJDCR9R8T8VTHPANDNM: is-there-a-deadline-to-redeem-codes
   h_01M5FE3KJD73QNMDHF76V0THPF: how-do-i-get-a-collectible-dominos-x-minecraft-dungeons-ii-box
@@ -91,17 +93,22 @@ The Domino's x Minecraft Dungeons II DLC in-game items require the [Minecraft Du
 - Make a qualifying pre-paid online order for the new Domino. 
 - In your Domino’s MyRewards account, locate your in-game item code under Domino’s MyDeals and Rewards. 
 - Click the “Take Me There” button or visit [www.minecraft.net/dominos](https://www.minecraft.net/dominos) 
-- Select your scenario: 
-  - Already have Minecraft Dungeons II?  
-  - Purchase Minecraft Dungeons II?  
-  - Additional Information 
-- In-game:
-  - To redeem your Domino’s x Minecraft Dungeons II in-game items, you need to own [Minecraft Dungeons II](https://www.minecraft.net/en-us/store/minecraft-dungeons-ii). 
-  - Launch Minecraft Dungeons II and sign in with your Microsoft account. 
-  - From your title screen, select “Settings” then scroll down to 'Exclusive Content'
-  - Redeem Promotional Code 
-  - Enter the 12-character in-game item code (Codes must be redeemed by December 31, 2027)
-  - Enjoy!
+
+### Select your scenario: 
+
+- Already have Minecraft Dungeons II?  
+- Purchase Minecraft Dungeons II?  
+- Additional Information 
+
+### In-game:
+
+To redeem your Domino’s x Minecraft Dungeons II in-game items, you need to own [Minecraft Dungeons II](https://www.minecraft.net/en-us/store/minecraft-dungeons-ii). 
+
+- Launch Minecraft Dungeons II and sign in with your Microsoft account. 
+- From your title screen, select “Settings” then scroll down to 'Exclusive Content'
+- Redeem Promotional Code 
+- Enter the 12-character in-game item code (Codes must be redeemed by December 31, 2027)
+- Enjoy!
 
 ## What is required to use the in-game items? 
 
