@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Microsoft Account Sign-in Errors in Minecraft on Nintendo Switch
 date: 2024-08-12T17:42:58Z
-updated: 2026-10-26T19:08:53Z
+updated: 2026-10-27T17:34:44Z
 categories: Use or Link Microsoft Accounts
 tags:
   - platform_nintendo_switch
@@ -40,12 +40,14 @@ Here are troubleshooting steps for the two error messages.
   - Select **Try Again** and **Sign in with a Microsoft account**.
   - Sign in with a new or alternative Microsoft account to your Nintendo Account. See [How to create a new Microsoft account](https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf).
 - **Sign in to the Nintendo Account that’s linked to your Microsoft account and launch Minecraft on it:**
-- Start Minecraft on your Nintendo Switch.
-- Select **Settings** on the Minecraft launch screen.
-- Select the **Account** tab.
-- Select **Unlink Microsoft account**.
-- Confirm that you want to unlink accounts.
-- Select **Unlink**.
+
+1.  Start Minecraft on your Nintendo Switch.
+2.  Select **Settings** on the Minecraft launch screen.
+3.  Select the **Account** tab.
+4.  Select **Unlink Microsoft account**.
+5.  Confirm that you want to unlink accounts.
+6.  Select **Unlink**.
+
 - **Visit Help Page:**
   - For more information on how to [Sign In to Minecraft with a Microsoft Account on Nintendo Switch](./Sign-in-to-Minecraft-with-a-Microsoft-Account-on-Nintendo-Switch.md)
 
