@@ -1,9 +1,9 @@
 ---
-title: What's New in the Learning Cubed Update (v26.32.0)
+title: What's New in the Learning Cubed Update (v26.33.0)
 date: 2026-08-04T20:38:16Z
-updated: 2026-08-04T21:12:37Z
+updated: 2026-10-28T18:44:29Z
 categories: Product
-link: https://edusupport.minecraft.net/hc/en-us/articles/52137260012692-What-s-New-in-the-Learning-Cubed-Update-v26-32-0
+link: https://edusupport.minecraft.net/hc/en-us/articles/52137260012692-What-s-New-in-the-Learning-Cubed-Update-v26-33-0
 hash:
   h_01KQFWD3017SM7R3J5BK8P60PC: cross-tenant-support-for-dedicated-server
   h_01KHMM3NA4SPTF5Y3933KCY6T8: gameplay-updates

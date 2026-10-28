@@ -1,7 +1,7 @@
 ---
 title: "How to Set Up a Minecraft: Bedrock Edition Server"
 date: 2026-10-26T18:51:02Z
-updated: 2026-10-26T19:43:26Z
+updated: 2026-10-28T16:57:08Z
 categories: Minecraft Game Guides
 tags:
   - section_27983418545293
@@ -23,6 +23,14 @@ hash:
   h_01M5WR574G0TGYZ1XKQX9BEX6X: use-an-existing-bedrock-world
   h_01M5WR574HRKZPD28SB62YSSCV: back-up-and-update-your-server
 ---
+
+**Important Update:** On Thursday, October 29, 2026, we are rolling out a Networking change, migrating from RakNet to NetherNet. Some players running online self-hosted BDS servers may see an "Unsupported Transport" Error 149. 
+
+To resolve this, server hosts should:
+
+- Update to BDS version 26.60 or newer
+- Ensure port 19132 is open for both TCP and UDP
+- Set `transport=nethernet` in `server.properties`
 
 ***Note:** This guide shows you how to set up and configure a Minecraft Server. However, doing this requires changing your home network configuration and is not recommended unless you know what you are doing. If you wish to subscribe to a personal server, with automatic backups, for you plus up to 10 players at a time, check out* [Minecraft Realms](https://www.minecraft.net/en-us/realms)*. If you still wish to set up your own private server, do so at your own risk as we cannot offer support for home networks or privately made servers. *
 
