@@ -1,119 +1,119 @@
 ---
 title: "Understanding the Debug Menu in Minecraft: Java Edition"
 date: 2021-03-29T19:27:35Z
-updated: 2026-01-30T17:41:45Z
+updated: 2026-11-02T19:39:38Z
 categories: "Minecraft: Java Edition Guides"
 tags:
   - section_35377765046541
 link: https://help.minecraft.net/hc/en-us/articles/360059146051-Understanding-the-Debug-Menu-in-Minecraft-Java-Edition
 hash:
-  h_01J1X1PJV1KG98XNBXEZ4VXF0W: on-the-right-side-you-are-presented-with-some-other-helpful-information
+  h_01M6EVYW7JZ30MWR1B3M65BJ6Y: on-the-left-side
+  h_01M6EW1S4HYWGD22EPCZDQMN53: on-the-right-side
+  h_01M6EW2CXAEY21H2K2GPEVAGVE: debug-charts
+  h_01M6EW3YFXZSTAZAJ1SPN9JA5P: profiler-graph
+  h_01M6EW4CP3SMVKKMYJYSE85NHZ: fps-graph
+  h_01M6EW4PHWQVXCF9N0DJ8X980G: tps-graph
+  h_01M6EW50BTGA3FPPHXRETSRFAN: ping-graph
+  h_01M6EW5AEBHM79E718QJ4FDP0N: lightmap-graph
 ---
 
-At first glance looking at the debug menu in Minecraft: Java Edition can be a bit overwhelming. We will break it down for you here to try to simplify things. 
+At first glance, looking at the debug menu in Minecraft: Java Edition can be a bit overwhelming. We will break it down for you here to try to simplify things. 
 
-Here is what the menu looks like in-game:
+Check out our article on the available [Input Actions in Minecraft: Java Edition](./Hotkeys-in-Minecraft-Java-Edition.md) to get more information about what else you can do in-game!
 
-![blobid0.png](https://minecrafthelp.zendesk.com/hc/article_attachments/360090982432)
+Here is what the default debug screen looks like in-game when pressing F3, and what each section means: 
 
-**\#1** Starting from the top left we have the game version. This will also show whether the game is vanilla or using a snapshot. 
+<figure class="wysiwyg-image">
+<img src="https://minecrafthelp.zendesk.com/hc/article_attachments/50085304154381" alt="image 1.png" />
+</figure>
 
-**\#2** After that you have your current in-game FPS (Frames per Second) this is useful to see what performance you are achieving currently in-game. The Letter after that “T” followed by “inf” means the framerate is unlimited. If you are running on “Fast” graphics this will also be displayed here but if you are “Fancy” you can see it says “fancy-clouds” with the cloud settings being displayed as well. The “B” followed by a number displays the player’s biome blend setting. 
+## On the left side
 
-**\#3** The “Integrated Server” line displays the time it takes for a tick on the integrated server. An integrated server is a server that is integrated into the game itself and runs locally. This is useful for tracking the tick rate of a LAN server measured in milliseconds, when playing with friends. The “tx” shows the number of packets sent by the client. The “rx” shows the packets received by the client. 
+**\#1** You have your current in-game **FPS** (Frames per Second). This is useful to see what performance you are achieving currently in-game. 
 
-**\#4** The Letters will be explained as follows: 
+**\#2** If you are “Fancy” you can see it says **fancy-clouds** with the cloud settings being displayed as well. The **B,** followed by a number, displays the player’s biome blend setting.  
 
-**C:** The number of chunk sections rendered over the total number of chunk sections in the loaded area. 
+**\#3** Shows the amount of M**emory** that the game uses, over the max amount of memory the game can use.
 
-**D:** Client-side render distance 
+**\#4** The **Allocation rate** shows the rate per second the game is using memory.
 
-**pC:** Pending chunks to be arranged or batched. 
+**\#5 Allocated** shows the amount of memory the game has allocated from the max the game can use as a percentage.
 
-**pU:** Pending uploads to your video card 
+**\#6** The **XYZ** line is essential for tracking in-game coordinates.  
 
-**aB**: Available buffers to use in the batching process. 
+- **X:** The player’s current location in blocks East of 0,0 (negative values are to the west). 
+- **Y:** Player’s altitude in blocks tracked by the position of their feet.  
+- **Z:** The Player’s location in blocks south of 0,0 (Negative values are to the north).  
 
-**E:** Number of rendered entities over the total number of entities. 
+**\#7** The **Block** line is the coordinates of the block the player is standing on in XYZ format. 
 
-**P:** Number of Particles in the world. 
+**\#8** The **Chunk** line is the location of the player within a chunk, and the location of the chunk in the world. 
 
-**T:** Displays the total number of entities in loading chunks. (Mobs, Dropped items) 
+**\#9** The **Facing** line shows which direction the player is facing in real-time. The two numbers at the end indicate the player’s horizontal and vertical rotation.
 
-**\#5** Client Chunk Cache: is the most chunks that can be loaded on the client. 
+**\#10** **minecraftoverworld FC** shows the current dimension of the player with the counted number of force-loaded chunks (FC = Force-loaded Chunk).
 
-**\#6** Server Chunk Cache: Similar in how the client stores chunk cache. Made in mind for LAN connections for server caching.  
+**\#11** **Section_relative** shows your position inside a 16x16x16 block section, not your world coordinates.
 
-**\#7** Dimension FC: In the screenshot it shows “minecraft:overworld” along with “FC: 0”. This is the current dimension of the player with the counted number of force loaded chunks (FC = Force loaded Chunk) 
+**\#12** This shows the instructions for displaying the **Debug charts**. For a more detailed explanation, see the **Debug Charts** section below.
 
-**\#8** The XYZ line is essential for tracking in game coordinates.  
+## On the right side
 
-**X:** The player’s current location in blocks East of 0,0 (negative values are to the west.). 
+**\#1** The top right corner will display the **current game version** you're playing. It will also display whether the game is Vanilla or using a snapshot.
 
-**Y:** Player’s altitude in blocks tracked by the position of their feet. 
+**\#2** This displays the **Terrain Rendering**, which shows how the game is generating terrain in real time.
 
-**Z:** The Player’s location in blocks south of 0,0 (Negative values are to the north.) 
+**\#3** The **Integrated Server** line displays the time it takes for a tick on the integrated server. An integrated server runs locally. This is useful for tracking the tick rate of a LAN server measured in milliseconds, when playing with friends. The ***tx*** shows the number of packets sent by the client. The ***rx*** shows the packets received by the client.
 
-**\#9** The “Block” line is the coordinates of the block the player is standing on in X,Y,Z format. 
+**\#4** **Java** represents the version the player is running.
 
-**\#10** The “Chunk” line is the location of the player within a chunk, and the location of the chunk in the world. 
+**\#5 CPU** shows the player's CPU and related information.
 
-**\#11** The “Facing” line shows which direction the player is facing in real-time. The two numbers at the end indicate the player’s horizontal and vertical rotation. 
+**\#6 Display** shows the resolution of Minecraft as well as the GPU manufacturer, the graphics card, the OpenGL version, and what driver you're using.
 
-**\#12** The “Client Light” values are where: 
+# Debug Charts
 
-  The first number is the total light level where the player’s feet are.  
+In Minecraft: Java Edition, the debug charts are part of the **F3 debug screen**, which shows five toggleable graphs plus other technical info like FPS, TPS, bandwidth, ping, and lightmap usage. 
 
-The second number is the amount of light from the sky at the block the player’s feet.  
+## Profiler Graph
 
-The third number is the amount of light from other blocks at the block the player’s feet are on. 
+The **profiler graph**, known informally as the pie chart, can be toggled using **F3 + 1** and displays profiling information. This is a real-time chart showing how game time is spent across different systems.
 
-**\#13** “Server Light” is the same as Client Light but the first number for the total light level, does not exist. 
+![image 2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085272011277)
 
-**\#14** “CH” displays the highest Y block value that exists at the player’s current X/Z coordinates.  
+## FPS Graph
 
-**CH:** Client-side values 
+The **frame rate graph** (or simply **FPS** graph) displays on the left side of the screen when enabled with **F3 + 2**. It shows the last 240 frames of gameplay. The height of each bar is proportional to the time a frame took to generate. The colors are on a gradient from **neon green** (good) through **yellow**, to **neon red** (bad).
 
-**S:** The Y coordinate of the highest non-air block at the current coordinate. 
+![image 3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304158093)
 
-**M:** The Y coordinate of the highest block at the current X/Z coordinate that has a blocking-motion material or is liquid. 
+## TPS Graph
 
-**\#15** “SH” is the same as CH (client-side values) but describes it for the server side. 
+The **tick rate graph** (or simply **TPS** graph) displays on the right side of the screen when enabled with **F3 + 2** if in singleplayer or playing as an operator on a server. It shows the last 240 ticks of gameplay. The height of each bar is proportional to the time a tick took to process.
 
-**SH:** Server-side values 
+The minimum, average, and maximum tick times for the last 240 ticks are shown on top.
 
-**S:** The Y coordinate of the highest non-air block at the current X/Z coordinate. 
+The colors stack. From top to bottom:
 
-**O:** The Y coordinate of the highest block at the current X/Z coordinate that has a blocking-motion material. 
+- **Light green/yellow/red**: Idling, waiting for next tick (color gradient like the FPS graph above)
+- **Purple**: Miscellaneous (all other code during the tick)
+- **Light brown**: Scheduled tasks
+- **Dark red**: Main logic of the server tick
 
-**M:** The Y coordinate of the highest block at the current X/Z coordinate that has a blocking-motion material or is liquid. 
+![image 4.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304158349)
 
-**ML:** The Y coordinate of the highest block at this X/Z coordinate that has a blocking-motion material and is not the ‘leaves’ block. 
+## Ping Graph
 
-**\#16** The “Biome” line shows what biome the player is currently in.  
+The **ping graph** displays on the right side of the screen when enabled with **F3 + 3**. It shows the last 240 ping times. The higher the line, the longer the time. The minimum, average, and maximum are shown on top. The colors are on a gradient from **neon green** (good) through **yellow**, to **neon red** (bad).
 
-**\#17** “Local Difficulty” Shows the difficulty of the chunk the player is in. The second number in parentheses displays the number of in-game days the player has been in the world.  
+![image 5.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304160525)
 
-Peaceful difficulty will be 0.0, easy difficulty ranges from 0.75 to 1.5. On normal it ranges from 1.5 to 4.0 and on hard it ranges from 2.25 to 6.75. 
+## Lightmap Graph
 
-**\#18** The “Sounds” line shows the number of sounds playing. 
+The **lightmap graph** displays on the right side of the screen when enabled with **F3 + 4**. It shows the lightmap texture in real-time. The color of each pixel represents the resulting color that will be applied to blocks and entities lit with the corresponding block and sky light levels.
 
-The first pair represents sounds as breaking or placing a block, moving, or burning fire. 
+The horizontal axis represents block light levels (0-15 from left to right).
 
-The second pair represents ambient sounds. The mood in parentheses indicates how close you are to the next cave sound. 
+The vertical axis represents sky light levels (0-15 from bottom to top).
 
-**\#19** The “Debug” line tells the player if the debug graphs, or the FPS graphs are visible or not. 
-
-**\#20** The “For help” line shows a hotkey (F3 + Q) for extra debug information. 
-
-### On the right side you are presented with some other helpful information 
-
-**Java:** Represents the version the player is running and whether it is 32bit or 64bit. 
-
-**Mem:** Shows the amount of memory that game uses, over the max amount of memory the game can use. 
-
-**Allocated:** Shows the amount of memory the game has allocated from the max the game can use, also as a percent. 
-
-**CPU:** Shows the players CPU and information regarding it. 
-
-**Display:** Shows the resolution of Minecraft as well as the GPU manufacturer, the graphics card, the OpenGL version, and what driver the player uses.
+![image 6.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304161805)
