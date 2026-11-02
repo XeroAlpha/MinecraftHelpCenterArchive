@@ -113,7 +113,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 - `minecraft:collision_box` will no longer accept single box objects from v1.26.60 onwards in favor of only using arrays. For example, this component...
 
-```
+```auto
 {
   "format_version": "1.26.20",
   "minecraft:block": {
@@ -132,7 +132,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 ... needs to be transformed into this format:
 
-```
+```auto
 {
   "format_version": "1.26.60",
   "minecraft:block": {

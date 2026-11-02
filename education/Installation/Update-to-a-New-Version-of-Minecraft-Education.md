@@ -105,7 +105,7 @@ To update existing dedicated servers: 
 - Now run the new server, which should retain all configuration and authentication of the old server.
   - You can verify you're running the newest version from the console from the "Server Version" line on startup. 
 
-    ```
+    ```wysiwyg-code-block
     NO LOG FILE! - setting up server logging...
     NO LOG FILE! - [2026-08-06 13:07:27:578 INFO] Starting Server
     NO LOG FILE! - [2026-08-06 13:07:27:578 INFO] Version: 1.26.32.0

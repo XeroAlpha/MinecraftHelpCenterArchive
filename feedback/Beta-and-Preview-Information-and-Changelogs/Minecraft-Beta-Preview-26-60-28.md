@@ -158,7 +158,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 `minecraft:collision_box` will no longer accept single box objects from v1.26.60 onwards in favor of only using arrays. For example, this component...
 
-```
+```auto
 {
   "format_version": "1.26.20",
   "minecraft:block": {
@@ -177,7 +177,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
 ... needs to be transformed into this format:
 
-```
+```auto
 {
   "format_version": "1.26.60",
   "minecraft:block": {
@@ -199,7 +199,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 - `minecraft:collision_box` now supports min/max coordinates in addition to origin/size with the "Upcoming Creator Features" experiment toggled.
 - The engine will upgrade any `origin`/`size` coordinates into `min`/`max` internally.
 
-```
+```auto
 {
   "format_version": "1.26.60",
   "minecraft:block": {
@@ -262,7 +262,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 2.  Add `size` to the adjusted origin, normalize the results, and calculate the `min` and `max` points between both corners.
 3.  The last step is to mirror both points on the X axis. a. Take the maximum X value from `min` and subtract it from 16. b. Take the minimum X value from `max` point and subtract it from 16.
 
-```
+```auto
 origin = [-8, 0, -8]
 size = [12, 24, 8]
 adjustedOrigin = origin + [8, 0, 8] = [0, 0, 0]

@@ -301,7 +301,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 
   - Loot tables can opt into this behavior with:
 
-    ```
+    ```auto
     {
       "format_version": "1.26.60",
       "pools": []
