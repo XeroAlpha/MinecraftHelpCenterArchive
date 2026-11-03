@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Debug Menu in Minecraft: Java Edition"
 date: 2021-03-29T19:27:35Z
-updated: 2026-11-02T22:02:28Z
+updated: 2026-11-03T14:58:31Z
 categories: "Minecraft: Java Edition Guides"
 tags:
   - section_35377765046541
