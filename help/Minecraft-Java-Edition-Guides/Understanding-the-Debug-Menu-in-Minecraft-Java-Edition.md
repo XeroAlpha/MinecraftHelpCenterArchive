@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Debug Menu in Minecraft: Java Edition"
 date: 2021-03-29T19:27:35Z
-updated: 2026-11-02T19:39:38Z
+updated: 2026-11-02T22:02:28Z
 categories: "Minecraft: Java Edition Guides"
 tags:
   - section_35377765046541
@@ -11,15 +11,14 @@ hash:
   h_01M6EW1S4HYWGD22EPCZDQMN53: on-the-right-side
   h_01M6EW2CXAEY21H2K2GPEVAGVE: debug-charts
   h_01M6EW3YFXZSTAZAJ1SPN9JA5P: profiler-graph
-  h_01M6EW4CP3SMVKKMYJYSE85NHZ: fps-graph
+  h_01M6F0VEMBE5G655PJHCVMCXAJ: fps-graph
   h_01M6EW4PHWQVXCF9N0DJ8X980G: tps-graph
-  h_01M6EW50BTGA3FPPHXRETSRFAN: ping-graph
-  h_01M6EW5AEBHM79E718QJ4FDP0N: lightmap-graph
+  h_01M6EYQDCXCKYE6RR0R9M0GJBF: ping-graph
+  h_01M6EYQZYPW6GEBCGS28SCMRKG: lightmap-graph
+  h_01M6F30N3M9RRCDE9GZA9R1PBB: for-more-information-about-debug-options-in-minecraft-java-edition
 ---
 
 At first glance, looking at the debug menu in Minecraft: Java Edition can be a bit overwhelming. We will break it down for you here to try to simplify things. 
-
-Check out our article on the available [Input Actions in Minecraft: Java Edition](./Hotkeys-in-Minecraft-Java-Edition.md) to get more information about what else you can do in-game!
 
 Here is what the default debug screen looks like in-game when pressing F3, and what each section means: 
 
@@ -79,13 +78,9 @@ In Minecraft: Java Edition, the debug charts are part of the **F3 debug screen**
 
 The **profiler graph**, known informally as the pie chart, can be toggled using **F3 + 1** and displays profiling information. This is a real-time chart showing how game time is spent across different systems.
 
-![image 2.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085272011277)
-
 ## FPS Graph
 
-The **frame rate graph** (or simply **FPS** graph) displays on the left side of the screen when enabled with **F3 + 2**. It shows the last 240 frames of gameplay. The height of each bar is proportional to the time a frame took to generate. The colors are on a gradient from **neon green** (good) through **yellow**, to **neon red** (bad).
-
-![image 3.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304158093)
+The **frame rate graph** (or simply **FPS graph**) displays on the left side of the screen when enabled with **F3 + 2**. It shows the last 240 frames of gameplay. The height of each bar is proportional to the time a frame took to generate. The colors are on a gradient from neon green (good) through yellow, to neon red (bad).
 
 ## TPS Graph
 
@@ -100,13 +95,9 @@ The colors stack. From top to bottom:
 - **Light brown**: Scheduled tasks
 - **Dark red**: Main logic of the server tick
 
-![image 4.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304158349)
-
 ## Ping Graph
 
-The **ping graph** displays on the right side of the screen when enabled with **F3 + 3**. It shows the last 240 ping times. The higher the line, the longer the time. The minimum, average, and maximum are shown on top. The colors are on a gradient from **neon green** (good) through **yellow**, to **neon red** (bad).
-
-![image 5.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304160525)
+The **ping graph** displays on the right side of the screen when enabled with **F3 + 3**. It shows the last 240 ping times. The higher the line, the longer the time. The minimum, average, and maximum are shown on top. The colors are on a gradient from neon green (good) through yellow, to neon red (bad).
 
 ## Lightmap Graph
 
@@ -116,4 +107,7 @@ The horizontal axis represents block light levels (0-15 from left to right).
 
 The vertical axis represents sky light levels (0-15 from bottom to top).
 
-![image 6.png](https://minecrafthelp.zendesk.com/hc/article_attachments/50085304161805)
+## For More Information About Debug Options in Minecraft: Java Edition:
+
+- [Editing the Debug Screen Text via the Debug Options Menu in Minecraft: Java Edition \| Minecraft Help](./Editing-the-Debug-Screen-Text-via-the-Debug-Options-Menu-in-Minecraft-Java-Edition.md)
+- [Input Actions in Minecraft: Java Edition](./Hotkeys-in-Minecraft-Java-Edition.md)
