@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.70.23
 date: 2026-11-03T14:29:32Z
-updated: 2026-11-03T16:52:29Z
+updated: 2026-11-03T17:59:34Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/50103892132365-Minecraft-Beta-Preview-26-70-23
 hash:
@@ -138,6 +138,7 @@ And as always, we're keen to get your feedback on these new features at [feedbac
   - On keyboard and mouse, press F by default.
   - On controller, the Crafting button now swaps items instead of opening your inventory
   - You'll see a "Swap off-hand" hint when holding an item that can be held in either hand.
+  - **Known issue:** Items that are currently available to be placed in the off-hand slot are not available to swap with the keybind at this time.
 
 ### Dedicated Server
 
