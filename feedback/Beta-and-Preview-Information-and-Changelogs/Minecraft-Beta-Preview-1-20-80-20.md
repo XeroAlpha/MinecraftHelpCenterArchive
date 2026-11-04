@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 1.20.80.20
 date: 2024-02-27T21:03:06Z
-updated: 2024-02-29T16:59:31Z
+updated: 2026-11-04T15:55:31Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/24509955193229-Minecraft-Beta-Preview-1-20-80-20
 hash:
@@ -34,7 +34,7 @@ hash:
 ---
 
 **Posted:** February 29, 2024\
-\
+ 
 
 **Information on Minecraft Preview and Beta:**
 
@@ -46,9 +46,11 @@ hash:
 
 There’s so much packed into this week’s preview and beta release that I need a code to remember it all. What about “wolf armor-dillos”? Because in this week’s preview and beta, you’ll not only find updated wolf armor (it’s stronger! and repairable! and awesome!) you’ll be able to dye it any color you want. If that wasn’t enough, the armadillo has been de-experimentified (definitely a word) and we’ve taken the first steps towards working on something exciting (more on that below). Was that everything? Maybe I should’ve made a list, instead of a code. Anyway! As always, we want to hear your thoughts and feedback, so please let us know what you think [here](https://feedback.minecraft.net/), and report any bugs you may encounter at [bugs.mojang.com](https://bugs.mojang.com/).\
 \
+ 
 
 **Known Issue:** Players are unable to connect to Preview Realms on Xbox One and PlayStation 4 in this version.\
 \
+ 
 
 # Experimental Features
 
@@ -69,6 +71,7 @@ With such high stakes, we want to ensure we get Hardcore mode right before relea
 
 We're also happy to announce, when we are ready, Hardcore mode will be available in Realms for both Java and Bedrock.\
 \
+ 
 
 # Features and Bug Fixes
 
@@ -134,7 +137,7 @@ Since the initial release of the Wolf Armor, we have been working on improving i
 - Custom Decorated Pots and dyed Banners are now rendered correctly in Crafter output slot
 - On touch devices, the selected item now has a blue background on all screens
 - Flying item animation is no longer missing in touch-screen versions of Beacon, Cartography, and Smithing Table screens\
-  \
+   
 
 # Technical Updates
 
@@ -186,7 +189,7 @@ Since the initial release of the Wolf Armor, we have been working on improving i
 ## Stability and Performance
 
 - Removed *FilterTextPacket*\
-  \
+   
 
 # Experimental Technical Updates
 
