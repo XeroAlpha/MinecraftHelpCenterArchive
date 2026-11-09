@@ -4,7 +4,7 @@ date: 2024-04-19T20:51:24Z
 updated: 2026-05-06T00:13:11Z
 categories: Minecraft Realms Stories
 tags:
-  - section_ 12618443219469
+  - section_12618443219469
 link: https://help.minecraft.net/hc/en-us/articles/26047812646925-Share-Screenshots-on-Minecraft-Realms-Stories
 hash:
   h_01KQWMCGFVZ0PSB3HNQBETNDBR: how-to-share-an-existing-screenshot-to-realms-stories-while-in-a-realm

@@ -110,4 +110,4 @@ The vertical axis represents sky light levels (0-15 from bottom to top).
 ## For More Information About Debug Options in Minecraft: Java Edition:
 
 - [Editing the Debug Screen Text via the Debug Options Menu in Minecraft: Java Edition \| Minecraft Help](./Editing-the-Debug-Screen-Text-via-the-Debug-Options-Menu-in-Minecraft-Java-Edition.md)
-- [Input Actions in Minecraft: Java Edition](./Hotkeys-in-Minecraft-Java-Edition.md)
+- [Input Actions in Minecraft: Java Edition](./Input-Actions-in-Minecraft-Java-Edition.md)

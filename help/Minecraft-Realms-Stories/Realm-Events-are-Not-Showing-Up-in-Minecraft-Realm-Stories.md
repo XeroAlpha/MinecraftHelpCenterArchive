@@ -4,7 +4,7 @@ date: 2024-04-19T20:46:09Z
 updated: 2026-05-06T15:44:57Z
 categories: Minecraft Realms Stories
 tags:
-  - section_ 12618443219469
+  - section_12618443219469
 link: https://help.minecraft.net/hc/en-us/articles/26047659081741-Realm-Events-are-Not-Showing-Up-in-Minecraft-Realm-Stories
 hash:
   h_01KQWM4NEXAWZYQM42SB002NET: how-to-disable-or-re-enable-realm-events-in-minecraft
