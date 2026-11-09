@@ -1,7 +1,7 @@
 ---
 title: View Your Minecraft Marketplace Content
 date: 2021-03-25T19:21:09Z
-updated: 2026-01-08T22:24:55Z
+updated: 2026-11-09T17:22:22Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -38,7 +38,7 @@ The Minecraft Marketplace offers enhancements for your game, such as add-ons, pr
 Your Marketplace Pass content is accessible on your account as long as:
 
 - The content remains in the subscription catalog.
-- You keep your Marketplace Pass subscription active.
-- You are signed into the account used to buy Marketplace Pass. This excludes child accounts if the purchase was made on a parent account.
+- You keep your Marketplace Pass subscription active. If you are getting Marketplace Pass through a Realms Plus or Realms Pro subscription, you will need to keep the subscription (Realms Plus or Realms Pro) active. 
+- You are signed into the account used to buy Marketplace Pass. This excludes child accounts if the purchase was made on a parent account. If you are getting Marketplace Pass through a Realms Plus or Realms Pro subscription, you will need to be signed into the account that purchased Realms Plus/Pro.
 
-If you are trying to access your Marketplace Pass or Realms Plus content on a different platform, see [Troubleshooting Missing Marketplace Content](./Troubleshoot-Missing-Marketplace-Content.md).
+If you are trying to access your Marketplace Pass, Realms Plus, or Realms Pro content on a different platform, see [Troubleshooting Missing Marketplace Content](./Troubleshoot-Missing-Marketplace-Content.md).

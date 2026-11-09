@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Missing Marketplace Content
 date: 2024-02-20T18:04:19Z
-updated: 2026-09-29T19:04:27Z
+updated: 2026-11-09T17:22:06Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -27,6 +27,6 @@ Minecraft Marketplace content may not appear in Minecraft if you’re not signed
 
 - **Verify the content is downloaded:** Visit the Minecraft Marketplace to make sure you downloaded the content. See [How to Access Minecraft Marketplace Content](../Managing-Marketplace-Content/How-to-Access-Minecraft-Marketplace-Content.md).
 - **Verify your Microsoft account is correct:** Make sure you are signed in to the Microsoft account you used to buy or download the content. See our [Use or Link Microsoft Accounts](https://help.minecraft.net/hc/en-us/sections/29296773863181) articles.
-- **Verify your Marketplace Pass subscription status:** If you downloaded and activated the content through a Marketplace Pass or Realms Plus subscription, the subscription must be active to play the content. Your subscription will expire if you do not play at least once in 30 days. See [View Your Marketplace Pass Renewal Date](../Marketplace-Pass-Subscriptions/View-Your-Marketplace-Pass-Renewal-Date.md).
+- **Verify your Marketplace Pass subscription status:** If you downloaded and activated the content through a Marketplace Pass, Realms Plus, or Realms Pro subscription, the subscription must be active to play the content. Your subscription will expire if you do not play at least once in 30 days. See [View Your Marketplace Pass Renewal Date](../Marketplace-Pass-Subscriptions/View-Your-Marketplace-Pass-Renewal-Date.md).
 - **Verify the content is available:** Content available in the Marketplace Pass catalog can change. If content has a lock icon in My Content \> Marketplace or in game, it’s unavailable through Marketplace Pass. You can[ Buy Content from The Minecraft Marketplace](../Buying-Marketplace-Content/Buy-Content-from-the-Minecraft-Marketplace.md) even if it’s not in Marketplace Pass.
 - **Try Add-On specific troubleshooting:** See [Troubleshoot Add-On Issues in Minecraft](./Troubleshoot-Add-On-Issues-in-Minecraft.md) for other steps that are specific to Add-On issues.
