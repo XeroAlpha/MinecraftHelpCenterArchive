@@ -1,7 +1,7 @@
 ---
 title: Minecraft Beta & Preview - 26.70.24
 date: 2026-11-10T16:11:15Z
-updated: 2026-11-10T16:18:17Z
+updated: 2026-11-11T09:59:35Z
 categories: Beta and Preview Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/50285693907213-Minecraft-Beta-Preview-26-70-24
 hash:
@@ -82,7 +82,7 @@ It's time for another Preview and Beta release! For the full list of goodies, br
 ## Graphical
 
 - Redstone torches now render transparent texture areas correctly with ray tracing enabled ([MCPE-230978](https://bugs.mojang.com/browse/MCPE-230978))
-- Maps and photos held in the main hand now use one hand in first person when the offhand is occupied, keeping the offhand item visible
+- Maps and photos held in the main hand now use one hand in first person when the off-hand is occupied, keeping the off-hand item visible
 - Vibrant Visuals is now available on more Android devices, including devices with Mali Ultra GPUs. ([MCPE-231503](https://bugs.mojang.com/browse/MCPE-231503))
 
 ## Input
