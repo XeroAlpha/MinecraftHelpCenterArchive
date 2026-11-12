@@ -1,7 +1,7 @@
 ---
 title: "Restore a Backup Save of a Minecraft: Java Edition Realm World"
 date: 2023-10-24T21:14:02Z
-updated: 2025-12-10T18:43:28Z
+updated: 2026-11-11T19:06:44Z
 categories: Manage Realms Save Files
 tags:
   - title_minecraft_java_edition
@@ -34,7 +34,7 @@ Minecraft Java: Edition Realm worlds can be restored from an automatic or manual
 
 ## Additional Backup and Restore Resources
 
-- [How We Backup Your Minecraft Realms World](./How-We-Backup-Your-Minecraft-Realms-World.md)
+- [Saving Your Minecraft Realms World](./Saving-Your-Minecraft-Realms-World.md)
 - [Download a Realms world in Minecraft: Java Edition](./Download-a-Realms-world-in-Minecraft-Java-Edition.md)
 - [Upload a World to a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md)
 - [Find Your Minecraft: Java Edition Backup World](../Backup-Restore/Find-Your-Minecraft-Java-Edition-Backup-World.md)

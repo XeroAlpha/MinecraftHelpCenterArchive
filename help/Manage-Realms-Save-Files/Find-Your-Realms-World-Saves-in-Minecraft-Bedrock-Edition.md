@@ -1,7 +1,7 @@
 ---
 title: "Find Your Realms World Saves in Minecraft: Bedrock Edition"
 date: 2025-12-08T21:25:33Z
-updated: 2026-05-05T23:29:00Z
+updated: 2026-11-11T19:08:01Z
 categories: Manage Realms Save Files
 tags:
   - section_41828107127821
@@ -31,7 +31,7 @@ Here are some additional tips:
 
 ## Additional resources to manage your Realms world saves
 
-- [How We Backup Your Minecraft Realms World](./How-We-Backup-Your-Minecraft-Realms-World.md)
+- [Saving Your Minecraft Realms World \| Minecraft Help](./Saving-Your-Minecraft-Realms-World.md)
 - [Restore a Backup Save of a Minecraft: Bedrock Edition Realm World](./Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md)
 - [Download a Realms World in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)
 - [Use Realms to transfer a Minecraft: Bedrock Edition World to Another Device](../Backup-Restore/Use-Realms-to-Transfer-a-Minecraft-Bedrock-Edition-World-to-Another-Device.md)

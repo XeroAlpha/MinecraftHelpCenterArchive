@@ -1,7 +1,7 @@
 ---
 title: "Manage Settings for Your Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:58:20Z
-updated: 2026-11-09T17:22:35Z
+updated: 2026-11-11T19:09:41Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft
@@ -89,7 +89,7 @@ From the World tab, manage your realm worlds and your world’s save data:
 
 ### SAVES
 
-See [How We Backup Your Minecraft Realms World](../Manage-Realms-Save-Files/How-We-Backup-Your-Minecraft-Realms-World.md) and [Find Your Realms World Saves in Minecraft: Bedrock Edition](../Manage-Realms-Save-Files/Find-Your-Realms-World-Saves-in-Minecraft-Bedrock-Edition.md) for more information.
+See [Saving Your Minecraft Realms World](../Manage-Realms-Save-Files/Saving-Your-Minecraft-Realms-World.md) and [Find Your Realms World Saves in Minecraft: Bedrock Edition](../Manage-Realms-Save-Files/Find-Your-Realms-World-Saves-in-Minecraft-Bedrock-Edition.md) for more information.
 
 ## Settings
 

@@ -1,7 +1,7 @@
 ---
 title: "Download a Realms World in Minecraft: Bedrock Edition"
 date: 2024-09-06T21:35:22Z
-updated: 2026-05-05T23:35:46Z
+updated: 2026-11-11T19:01:33Z
 categories: Manage Realms Save Files
 tags:
   - section_37819421372941
@@ -25,8 +25,7 @@ The world will be downloaded and added to your **All Worlds** tab and can also
 
 **Additional Backup and Restore Resources**
 
+- [Saving Your Minecraft Realms World](./Saving-Your-Minecraft-Realms-World.md)
 - [Download a Realms world in Minecraft: Java Edition](./Download-a-Realms-world-in-Minecraft-Java-Edition.md)
-- [How We Backup Your Minecraft Realms World](./How-We-Backup-Your-Minecraft-Realms-World.md)
-- [Create a Manual Save of Your Minecraft: Bedrock Edition Realms World](./Create-a-Manual-Save-of-Your-Minecraft-Bedrock-Edition-Realms-World.md)
 - [Upload a World to a Minecraft: Bedrock Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Bedrock-Edition-Realm.md)
 - [Restore an Automatic Backup of a Minecraft: Bedrock Edition Realm World](./Restore-a-Backup-Save-of-a-Minecraft-Bedrock-Edition-Realm-World.md)

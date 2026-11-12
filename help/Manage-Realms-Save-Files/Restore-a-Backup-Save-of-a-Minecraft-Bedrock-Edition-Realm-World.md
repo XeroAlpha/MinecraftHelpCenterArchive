@@ -1,7 +1,7 @@
 ---
 title: "Restore a Backup Save of a Minecraft: Bedrock Edition Realm World"
 date: 2023-10-24T21:10:46Z
-updated: 2026-10-05T16:43:46Z
+updated: 2026-11-11T18:59:29Z
 categories: Manage Realms Save Files
 tags:
   - section_41828107127821
@@ -25,6 +25,5 @@ Restoring a cloud save of your Minecraft: Bedrock Edition Realm world from an au
 
 ## Additional Backup and Restore Resources
 
-- [How We Backup Your Minecraft Realms World](./How-We-Backup-Your-Minecraft-Realms-World.md)
-- [Create a Manual Save of Your Minecraft: Bedrock Edition Realms World](./Create-a-Manual-Save-of-Your-Minecraft-Bedrock-Edition-Realms-World.md)
-- [Download a Realms world in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)
+- [Saving Your Minecraft Realms World](./Saving-Your-Minecraft-Realms-World.md)
+- [Download a Realms World in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)
