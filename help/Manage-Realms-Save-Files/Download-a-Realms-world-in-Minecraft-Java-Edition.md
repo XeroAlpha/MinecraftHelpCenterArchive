@@ -22,5 +22,5 @@ The world will be downloaded and added to your singleplayer worlds. See [Locati
 **Additional Backup and Restore Resources**
 
 - [Download a Realms world in Minecraft: Bedrock Edition](./Download-a-Realms-World-in-Minecraft-Bedrock-Edition.md)
-- [How Mojang Saves Backups for Your Minecraft Realm](./How-We-Backup-Your-Minecraft-Realms-World.md)
+- [How Mojang Saves Backups for Your Minecraft Realm](https://help.minecraft.net/hc/en-us/articles/28717462139149)
 - [Upload a World to a Minecraft: Java Edition Realm](../Manage-Realms-Worlds/Upload-a-World-to-a-Minecraft-Java-Edition-Realm.md)
