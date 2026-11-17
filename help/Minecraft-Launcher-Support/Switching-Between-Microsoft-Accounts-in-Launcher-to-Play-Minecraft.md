@@ -1,7 +1,7 @@
 ---
 title: Switching Between Microsoft Accounts in Launcher to Play Minecraft
 date: 2024-04-01T19:47:17Z
-updated: 2026-03-12T23:46:08Z
+updated: 2026-11-17T18:18:28Z
 categories: Minecraft Launcher Support
 tags:
   - section_27166539479437
@@ -22,7 +22,7 @@ If you play Minecraft on a computer shared with another player, you may want to 
 5.  Select an account to sign in with from the accounts shown or select **Use a different account** to sign in with a different Microsoft Account.
 6.  The pop-up should now display the account you just signed in with. Select **Let’s go**.
 
-You may see a Minecraft Launcher pop-up notifying you that “Accounts in Microsoft Store and Launcher do not match” if the account you just signed in with does not match the one in signed in to the Xbox app/Microsoft Store.
+You may see a Minecraft Launcher pop-up notifying you that “Accounts in Microsoft Store and Launcher do not match” if the account you just signed in with does not match the one signed in to the Xbox app/Microsoft Store.
 
 If you see this pop-up, here are your options:
 
