@@ -1,7 +1,7 @@
 ---
 title: Managing Child Account Social Settings Using Xbox Settings Online
 date: 2022-06-16T19:39:34Z
-updated: 2026-01-28T21:41:12Z
+updated: 2026-11-17T18:49:32Z
 categories: Account Settings
 tags:
   - section_27194076935437
