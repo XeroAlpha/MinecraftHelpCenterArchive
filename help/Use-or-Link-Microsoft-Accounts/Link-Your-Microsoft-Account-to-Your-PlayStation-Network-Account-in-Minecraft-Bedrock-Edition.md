@@ -1,7 +1,7 @@
 ---
 title: "Link Your Microsoft Account to Your PlayStation Network Account in Minecraft: Bedrock Edition"
 date: 2019-12-10T03:08:37Z
-updated: 2025-12-03T18:09:59Z
+updated: 2026-11-18T17:44:29Z
 categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
@@ -25,7 +25,7 @@ If you want to play with friends on different platforms or join Realms on Minecr
 
 1.  Launch Minecraft on your PlayStation.
 2.  Select **Sign in with a Microsoft account** on the title screen.
-3.  Scan the QR code or visit [https://microsoft.com/link ](https://microsoft.com/link)and enter the on-screen code.
+3.  Scan the QR code or visit <https://microsoft.com/link> and enter the on-screen code.
 4.  Sign in to the Microsoft account you want associated with your PlayStation account.
 
 ## Information about account linking

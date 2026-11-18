@@ -1,7 +1,7 @@
 ---
 title: Managing Spending for Child Accounts in Minecraft Marketplace
 date: 2024-02-20T21:52:23Z
-updated: 2025-12-03T18:13:18Z
+updated: 2026-11-18T17:12:44Z
 categories: Buying Marketplace Content
 tags:
   - section_27194076935437
@@ -21,7 +21,7 @@ Minecraft allows you to set spending limits and approve in-game purchases when y
 
 You can manage these **Spending** settings on the [Microsoft Family Safety website](#access-spending-settings-on-the-microsoft-family-safety-website) or in the [Xbox Family Settings app](#access-spending-settings-in-the-xbox-family-settings-app).
 
-- **Account Balance:** Click on **Add Money** to load a specific dollar amount not the account that the child is allowed to spend using in the Minecraft Marketplace and other games or stores connected to the Microsoft account.
+- **Account Balance:** Click on **Add Money** to load a specific dollar amount on the account that the child is allowed to spend using in the Minecraft Marketplace and other games or stores connected to the Microsoft account.
 - **Ask to buy/Require approval:** Setting this toggle to **On** ensures that the parent account gets notifications about desired purchases and can approve or complete the purchase for the child account. You can add a card to the child account using the Microsoft Family Safety website.
 
 ## Access Spending settings on the Microsoft Family Safety website

@@ -1,195 +1,157 @@
 ---
 title: Feedback Website FAQ
 date: 2018-08-02T22:28:12Z
-updated: 2026-08-21T13:05:01Z
+updated: 2026-11-18T12:24:36Z
 categories: Feedback Website
 link: https://feedback.minecraft.net/hc/en-us/articles/360011793092-Feedback-Website-FAQ
 hash:
-  h_01M0J6F3SAVFB57XWQNR8ZRFKV: questions-about-posting-or-more-often-where-is-my-post
-  h_01M0J6F3SBP5V4CD1EWZ5P5N47: why-is-my-post-pending-approval
-  h_01M0J6F3SBKCBYYS9J90V93FT1: how-long-will-it-be-there-its-taking-a-long-time
-  h_01M0J6F3SBZRKRV9BA70C3Z2W4: how-come-that-garbage-post-got-approved-and-mine-is-still-waiting
-  h_01M0J6F3SB0AB7NNARE793ZRTH: you-rejected-my-post-for-no-reasonit-sat-in-pending-approval-and-disappeared-and-i-wasnt-notified
-  h_01M0J6F3SB3MQ51F84SEMA3D95: my-post-wasnt-similar-its-an-entirely-new-way-to-do-x
-  h_01M0J6F3SBDKQC7SYVGVAHRF3N: i-got-a-message-but-the-your-post-is-rejected-message-is-so-general
-  h_01M0J6F3SBB28TGQ68K3YWG6C6: why-cant-i-just-make-one-post-with-all-my-ideas
-  h_01M0J6F3SBJ9AHE156MTDNTZV6: why-did-you-change-the-titlemove-my-post
-  h_01M0J6F3SB7DCQCQFEE2ZGJ78Y: my-post-was-on-the-site-and-then-fell-into-the-moderation-queue-why
-  h_01M0J6F3SBX59KNBKM21D45CEZ: my-post-was-on-the-site-for-a-while-and-got-removed-it-had-votes
-  h_01M0J6F3SB2HPT7EYAANMQ0TCM: why-dont-you-provide-a-link-when-you-take-something-down
-  h_01M0J6F3SBM7FXQTAFC0QRHVXX: i-have-a-super-long-post-and-you-removed-it-can-you-get-my-text-back
-  h_01M0J6F3SBSVXQ797K3MH3BP5G: i-think-your-filter-and-search-engine-need-improvement
-  h_01M0J6F3SBBT22PWFTZW0A8RH0: how-do-i-post-how-do-i-edit-my-post-do-you-have-posting-tips-that-arent-covered-in-creating-great-feedback
-  h_01M0J6F3SB8EBVC66A9TW2T2G9: logging-in
-  h_01M0J6F3SB8TK6QFJKMMQPMAWT: why-do-i-need-an-account
-  h_01M0J6F3SBZ5NWDFM0JJ7R7KV3: site-features
-  h_01M0J6F3SB4TM8AJ6N09355F99: what-are-the-tags-can-i-add-them-to-my-own-post
-  h_01M0J6F3SBGKWFZHZW6FKA6ZZ3: other-sites-have-fancy-headers-and-a-lot-of-other-formatting-options
-  h_01M0J6F3SB7WBSFKWRRPS8QYJB: where-do-i-post-world-seeds
-  h_01M0J6F3SBT9TQ57X9DE78A49J: questions-problems-and-furtherissues
-  h_01M0J6F3SBXGA6099K6P782AF0: this-person-posted-some-content-that-offends-methey-copied-my-postwhy-did-that-get-approved-its-not-appropriate
-  h_01M0J6F3SBZP2JRRR8V9RK5K6X: i-didnt-get-any-message-about-my-post-being-removed
-  h_01M0J6F3SBWJV0DNDVY200X6HE: do-you-have-any-volunteer-community-moderators
-  h_01M0J6F3SB75RZWYKGWKHPX4Q1: can-you-tell-me-the-teams-thoughts-on-spam-and-suspensionsbans
-  h_01M0J6F3SBN4TAP4NVXPW8VP83: i-need-support-my-game-is-broken
+  h_01M7Q37F64HSY3NRJAJX9Q89GV: sharing-your-feedback
+  h_01M7Q3BEH7QGQS4T2ZQ7FWHWXE: does-the-minecraft-team-actually-read-the-feedback-here
+  h_01M7Q3BJ76460RNXS3HC4DKTRP: how-do-i-post-a-new-idea
+  h_01M7Q3CV3T7DDHHWQ4VQYSH7QA: what-makes-a-great-post
+  h_01M7Q3CZWH3630ZAK5GE6QMJGS: i-found-a-similar-post-but-my-idea-is-a-bit-different-what-should-i-do
+  h_01M7Q3D3DQJJCQ5VHPC5AA4TDF: what-doesnt-belong-on-the-feedback-site
+  h_01M7Q3D6WV8RCTCW2XCW18V7KJ: can-i-post-in-my-own-language
+  h_01M7Q3DAEDYTM45PZDE9PXRT1M: i-found-a-bug-or-my-game-isnt-working-can-i-post-it-here
+  h_01M7Q37F65KZ684FNHST4FW782: what-happened-to-my-post
+  h_01M7Q3DH9ZNXCSC87N3X538RZ4: why-is-my-post-pending-approval
+  h_01M7Q3DSDFXREZ74KE7KM0JT48: how-long-will-review-take
+  h_01M7Q3DX2598G7X1VAACS93MCA: my-post-was-removed-will-i-be-told-why
+  h_01M7Q3E0N7WNASCXRASXR347M4: my-post-was-live-and-then-it-went-back-into-review-or-disappeared-why
+  h_01M7Q3E4SRS286MCRRAD1JNRN0: why-did-a-moderator-change-my-title-or-move-my-post
+  h_01M7Q3EEF5M0X3BF6DH8VB7311: can-you-send-me-the-text-of-a-removed-post
+  h_01M7Q37F675AP2H7J75QYK94ZC: accounts
+  h_01M7Q9T47HNMNM7WVP1JWW9R7P: do-i-need-an-account-to-share-my-idea
+  h_01M7Q9T6Y889KWRRA6ZC2EEDK9: how-old-do-i-need-to-be-to-post
+  h_01M7Q37F670AZQX8BBTTVM44PH: site-features
+  h_01M7Q9TAQJR303JBKXKSPTHEH0: can-i-edit-my-post
+  h_01M7Q9TF1V741ZYKQ1NXSM8EQZ: what-are-tags-can-i-add-my-own
+  h_01M7Q9TJBFJR4VZQ7956845B14: why-cant-i-use-headers-or-other-formatting
+  h_01M7Q9TNQ5EMH2VHE0M87QBT8M: how-do-i-find-the-most-popular-ideas
+  h_01M7Q9TS2NPJGWK8PTFZSY0DSP: can-i-follow-a-post
+  h_01M7Q9TXPXKQTB3DNJTMZVFPWC: can-i-change-or-remove-my-vote
+  h_01M7Q37F691QQBGSMKV4NXX05D: safety-and-moderation
+  h_01M7Q9V1GZ7H5ND57RH5JSJV3X: someone-posted-something-offensive-or-copied-my-idea-what-should-i-do
+  h_01M7Q9V5XNTKGGJDTCKSJD2H4A: why-was-an-inappropriate-post-approved
+  h_01M7Q9VA9D6CJS88505KV8QY4F: what-happens-if-someone-breaks-the-rules
 ---
 
-**Updated 21 August 2026**
+Updated: 18/11/2026
 
-**Latest updates to simplify things and get to the point.**
+Got a question about the Minecraft Feedback site? You're in the right place! This page covers the questions we hear most often, from posting your first idea to finding out what happened to your post.
 
-Hello!
+Before you dive in, here are three tips worth remembering:
 
-We have created this frequently asked question page about the Feedback Website. If you haven't been here in a while, [start here](./Welcome-to-the-Feedback-Site.md).
+- **Search first**. Your idea might already be waiting for your vote.
+- **Try sharing one idea per post.** It keeps voting and discussions clear.
+- **Vote instead of commenting "+1**". A vote already says "I agree!"
 
-- Please do not file more than one post for your feedback! This will slow down things for everyone.
-- A vote is the same thing as saying "I agree" or "good idea" or "yes"
-- Be kind, civil, and constructive to each other. Don't presume everyone has the same game experience you do
-- Similar topics should stick together
-- To help us review, moderate, and respond to posts consistently, please submit content only in English. Posts written in other languages will be removed.
-- Please don’t post about topics that have [already been discussed and rejected](../Archived-Feedback-Website-Articles/Archived-Previously-Considered-Suggestions.md)
-- Not all posts are filtered. That would be terrible. That said, a lot of things do fall in the queue. We appreciate your patience, as there are many more of you than there are of us. We are a very large and awesome community and we're all doing the best we can.
-- Our moderation queue is designed to not just keep everyone safe from bad content, but to also keep duplicate posts on similar topics from overwhelming the site. Want an idea of what some of those are? [Look here. ](../Archived-Feedback-Website-Articles/Archived-Current-Hot-Topics.md)
+For the full rules, check out our [Posting Guidelines](./Posting-Guidelines.md) and the [Minecraft Community Standards](https://www.minecraft.net/en-us/community-standards).
 
-Thank you for your patience! We know many of you put thought and care into each post you make, and we work on using the same type of care in making sure your feedback site remains a safe and productive place to get your ideas heard from by developers.
+# Sharing your feedback
 
-Do you still have concerns or questions? Topics here cover:
+### **Does the Minecraft team actually read the feedback here?  **
 
-- [Questions About Posting](#theqs)
-- [Logging in](#login)
-- [Site Features](#features)
-- [Questions, Problems, Further Issues](#getmore)
+Yes! The team checks posts every day and pays attention to both the ideas and the conversations around them. We can't reply to every post, but votes show us what the community wants most, and comments often bring up new ways to make an idea even better, so keep them coming!
 
-## **Questions about Posting or more often: "Where is my post?"**
+### **How do I post a new idea?  **
 
-We appreciate everyone's contribution to the feedback site. The Minecraft team continues to be inspired by your thoughtful and intelligent feedback, and remember, we are people just like you.
+Sign in using your Microsoft account, pick the right category, use the search to see whether your idea already exists, then click "*Post new feedback*". Keep your title short and clear (up to 75 characters) and your description focused (up to 1,500 characters, spaces included).
 
-### **Why is my post "pending approval"?**
+### **What makes a great post?**
 
-Is it possible you've posted something that may run against the rules (like an email address or URL) or is so commonly discussed that there's probably a similar post out there? Maybe you should check and edit your post to see if it helps.
+Be specific! "We need more mobs" is hard to discuss. "A flying mob that attacks players at night if they don't go to sleep" gives everyone something to vote on. Remember that not everyone plays the way you do, so explain why your idea would make the game better.
 
-### **How long will it be there? It's taking a long time.**
+### **I found a similar post, but my idea is a bit different. What should I do?**
 
-We have multiple people on staff, but any time the Microsoft offices are closed, or a huge snapshot or patch comes out, approval will slow down. Please don't ping staff for an update!
+Join the existing discussion and share your version in the comments. We read comments too, and we know there's often more than one great way to bring an idea to life. Keeping similar ideas together helps them get more votes and more attention.
 
-### **How come that "garbage post" got approved and mine is still waiting?**
+### **What doesn't belong on the feedback site?**
 
-Not all posts are filtered, and not all posts get caught by our automatic spam filters. Please only report a post once.
+This is a place for ideas, so please don't post bug reports, general questions, spam, world seeds, polls, petitions or requests for release dates. For everyone's safety, please also leave out links to other sites and any personal information. Posts like these will be removed, but your next great idea is always welcome!
 
-### **You rejected my post for no reason/It sat in pending approval and disappeared, and I wasn't notified.**
+### **Can I post in my own language?**
 
-**The feedback site gets thousands of posts every week. **You are not guaranteed an email regarding your post being rejected. Posts that are typically rejected without additional notification:
+Right now, we can only accept posts in English so our whole team can read and review them. Posts in other languages will be removed, but you're welcome to post your idea again in English. 
 
-- Spam. It should be obvious, but here we are.
-- Posts containing previously rejected content. Any rejected content. 
-- Lists of ideas. We have been asked by our teams to make an effort to keep ideas to **one main idea per post**. It also helps people know exactly what they're discussing/voting for.
-- Posts that contain links to any sites outside of the immediate Minecraft system (common examples include but are not limited to: Reddit, YouTube, Google Docs, Imgur, blogs, and all social media). This is for everyone's safety.
-- Duplicates of highly popular topics. [Look here. ](../Archived-Feedback-Website-Articles/Archived-Current-Hot-Topics.md) The best way to get something in-game is to contribute to existing discussions. We look for quality, not quantity!
-- Posts over the current character limits (75 characters for the subject, 1500 body text/comments) - we use [Bing's word counter and we count spaces.](https://www.bing.com/search?q=word+counter&qs=n&form=QBRE&sp=-1&ghc=2&pq=word&sc=6-4&sk=&cvid=358F59CA67524EF2B2C77588CD5D1CBD)
-- Off-topic thread comments. People work hard on their ideas and we should respect that by staying on topic.
-- Posts that contain excessive amounts of images, images that are mostly text, or contain text that is also not within the post itself. 
-- Posts that are way too general - in order to take something to the team, or for the community to have something to discuss, it needs to be more than "we need more XYZ". Know exactly what you're asking for!
-- Anything violating the post guidelines or personal information.
-- Update/release date requests/bumps - when we have them, we'll share them!
-- Posts written in a language other than English. Right now, we can only support content submitted in English to make sure all our developers can understand and review players' feedback.
+### **I found a bug, or my game isn't working. Can I post it here? **
 
-**Although we do our best to send emails to help you make better posts and be a great contributor, we are unable to guarantee your email provider will allow our mail to get through once it leaves our system and as such we cannot guarantee every poster or post will get a message. **
+This site is for ideas, so bug reports will be removed. Please report bugs in our [bug tracker](https://bugs.mojang.com/) instead. For help with your game, account or purchases, visit [Minecraft Help](https://help.minecraft.net/hc/en-us).
 
-### **My post wasn't similar! It's an entirely new way to do "X".**
+# What happened to my post?
 
-**Please free to join discussions in progress on similar topics before starting a new thread on the same topic. ** We read and report on all the comments when we look at a post and keep them in mind because we know there may be more than one great way to implement an idea! For example, penguins.
+### **Why is my post "pending approval"?  **
 
-### **I got a message but the "your post is rejected" message is so general.**
+Some posts are held for review before they appear. This often happens when a post includes a link, an email address, or a topic that's very common on the site. Not every post is reviewed before it appears. Most go live straight away.
 
-Sorry! It's more of a "checklist" of things for you to keep in mind. We've had to standardize our messaging as our feedback community grows in order to even try to keep up.
+### **How long will review take?**
 
-### **Why can't I just make one post with ALL my ideas?**
+Usually not long, but it can take longer on weekends, on holidays, or after a big update. Please don't message the team for updates. We'll get to it!
 
-Keeping your ideas and feedback to one main idea per post so people know what they're voting for. Please feel free to repost your ideas once you've searched through and narrowed them down.
+### **My post was removed. Will I be told why? **
 
-### **Why did you change the title/move my post?**
+Sometimes. For bug reports, duplicates of popular topics and posts in other languages, we'll usually leave a comment explaining what happened and what to do next. Because we receive thousands of posts every week, we can't send a personal message for every removal, and our emails sometimes get caught by spam filters. If your post is missing, also check answer to *What doesn't belong on the feedback site?* Above.
 
-If we've changed your post title or moved it, it is to make it easier for people to find. We're helping you get seen!
+### **My post was live, and then it went back into review or disappeared. Why?**
 
-### **My post was on the site and then fell into the moderation queue. Why?**
+Don't worry, there are a few possible reasons! First, we may have moved your post to a better-fitting category. To find it, click *Feedback account* and then *My activities*.
 
-Did you edit it? Perhaps it got reported?
+A post can also go back into review if it's edited or reported. Sometimes a post is removed, even if it already has votes, because it breaks the guidelines or duplicates a popular topic. If it was a duplicate, you're welcome to share your idea in the main discussion thread!
 
- 
+### **Why did a moderator change my title or move my post?**
 
-### **My post was on the site for a while and got removed. It had votes!**
+To make it easier for others to find. We're helping your idea get seen!
 
-We are always making efforts to keep topics and general ideas together as much as possible. 
+### **Can you send me the text of a removed post?**
 
- 
+Sorry, we can't recover removed posts. For longer ideas, keep a copy somewhere safe before you post.
 
-### **Why don't you provide a link when you take something down?**
+# Accounts
 
-Your feedback site staff will do the **exact same searches** we expect you to do. Also, people can remove their own posts. Links can vanish at any time. 
+### **Do I need an account to share my idea?**
 
-### **I have a super long post and you removed it. Can you get my text back?**
+You can read and search posts without signing in. To vote, comment or post, you'll need to sign in with your Microsoft account. This helps keep the site safe and accountable.
 
-No, sorry. You may want to keep a copy somewhere. 
+### **How old do I need to be to post?  **
 
-### **I think your filter and search engine need improvement. **
+You need to be 13 or older to post on Minecraft Feedback.
 
-We know. But it's a work in progress, much like the website! 
+# Site features
 
-### **How do I post? How do I edit my post? Do you have posting tips that aren't covered in** [**Creating Great Feedback**](./Creating-Great-Ideas.md)**?**
+### **Can I edit my post?**
 
-Yes, more technical "nuts and bolts" questions about posting are [covered here](./How-to-Post-and-Edit-Feedback.md).
+Yes! Open your post, click the options icon (three horizontal lines) next to it and select Edit. Just keep in mind that edited posts and comments may go back for review before they appear again.
 
-## **Logging in**
+### **What are tags? Can I add my own?**
 
-Our feedback site is based on a system of trust and accountability. You must use a Microsoft based email account in order to log in.
+The team sometimes adds tags to help organize posts. For example, Pinned and Official reply mark official Mojang posts. You can't add tags yourself.
 
-### **Why do I need an account?**
+### **Why can't I use headers or other formatting?**
 
-Here are the things you can always do without having to log in:
+We keep formatting simple so every post is easy to read. Plain text works best!
 
-- You can always use search, it is the box above "give feedback" on the right side of the screen.
-- You can read posts!
-- You can report a link or an issue with logging in.
+### **How do I find the most popular ideas?**
 
-You need to log in to do these things:
+Open a category and sort by Votes to see the ideas the community supports most. You can also sort by Newest to find fresh ideas that need votes.
 
-- In order to vote on an idea, you need an account. 
-- In order to make a comment on a feedback idea or post a new one, you must register.
+### **Can I follow a post?**
 
-## **Site Features**
+Yes! Click "*Follow*" on a post to get notified about new comments.
 
-### **What are the tags? Can I add them to my own post?**
+### **Can I change or remove my vote?**
 
-Short answer: No, these are added by the team. We're working on better tags but have some technical limits right now.
+Yes. Click the vote button again to remove your vote. You can vote again at any time.
 
-### **Other sites have fancy headers and a lot of other formatting options!**
+# Safety and moderation
 
-Due to community members repeatedly abusing this feature, we ended up removing them. 
+### **Someone posted something offensive, or copied my idea. What should I do?**
 
-### **Where do I post world seeds?**
+Use the Report button and don't reply to the post. Our moderators will review it. Please report each post only once.
 
-This is the feedback site. There are other sites on the web available for this type of thing. Please do not post them here, they are considered spam.
+### **Why was an inappropriate post approved?**
 
- 
+Not every post is reviewed before it appears, and our automatic filters don't catch everything. If you see something that breaks the rules, report it and we'll take a look.
 
-## **Questions, Problems, and Further Issues**
+### **What happens if someone breaks the rules?**
 
-### **This person posted some content that offends me/they copied my post/why did that get approved it's not appropriate.**
-
-Please use the report post button. Do not engage.
-
-### **I didn't get any message about my post being removed!**
-
-Don't see your post?  Check the list above for common reasons.
-
-### **Do you have any volunteer community moderators?**
-
-Yes, we have volunteer community moderators and are working on getting more. They only have the ability to move posts and/or hide them for review by official staff members.
-
-### **Can you tell me the team's thoughts on spam and suspensions/bans?**
-
-We have a **no-tolerance** policy on spam, personal attacks, attempts to get around suspensions, and severe breaks with the [Posting Guidelines](./Posting-Guidelines.md). 
-
-### **I need support! My game is broken! **
-
-[This is the section you need.](https://feedback.minecraft.net/hc/en-us/sections/360001185372-Gameplay-and-Support-Resources)
+Most of the time, we simply remove the post. We have zero tolerance for spam, personal attacks and serious breaks of the [Posting Guidelines](./Posting-Guidelines.md), which can lead to a suspension. Creating a new account to get around a suspension will get that account suspended too.

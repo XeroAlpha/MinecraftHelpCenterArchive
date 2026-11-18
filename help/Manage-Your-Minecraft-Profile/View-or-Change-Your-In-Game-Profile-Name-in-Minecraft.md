@@ -1,7 +1,7 @@
 ---
 title: View or Change Your In-Game Profile Name in Minecraft
 date: 2021-09-10T21:08:08Z
-updated: 2026-08-10T18:47:45Z
+updated: 2026-11-18T17:24:25Z
 categories: Manage Your Minecraft Profile
 tags:
   - title_minecraft_java_edition

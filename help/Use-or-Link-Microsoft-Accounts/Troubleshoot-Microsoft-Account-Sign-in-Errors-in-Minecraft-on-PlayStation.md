@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Microsoft Account Sign-in Errors in Minecraft on PlayStation
 date: 2021-09-13T18:04:56Z
-updated: 2025-11-18T17:20:52Z
+updated: 2026-11-18T17:55:01Z
 categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
@@ -24,11 +24,11 @@ If you [Link Your Microsoft Account to Your PlayStation Network Account in Minec
 
 Here are troubleshooting steps for the two error messages.
 
-## Oops! This account is already connected. Please sign in with your previously connected Microsoft account GAMERTAG.
+## Oops! This account is already connected. Please sign in with your previously connected Microsoft account GAMERTAG
 
 **Issue**: Your PlayStation Network account is linked to a Microsoft account that is different from the Microsoft account you entered when signing in to Minecraft.
 
-**Solution**: Sign in with or unlink the Microsoft account associated with the gamertag in the error message.
+**Solution**: Sign in with, or unlink, the Microsoft account associated with the gamertag in the error message.
 
 - **Sign in with the associated Microsoft account**:
   1.  Select **Try Again** and **Sign in with a Microsoft account** or **Sign in for Free**.
@@ -40,7 +40,7 @@ Here are troubleshooting steps for the two error messages.
 
 If you unlink your Microsoft account and it has Minecraft Marketplace purchases associated with it, those purchases will no longer be available from your PlayStation Network account.
 
-## Oops! The Microsoft account you are trying to use is already connected to another account for PlayStation Network.
+## Oops! The Microsoft account you are trying to use is already connected to another account for PlayStation Network
 
 **Issue**: Your Microsoft account is already linked to a different PlayStation Network account.
 

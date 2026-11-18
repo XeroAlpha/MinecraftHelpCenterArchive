@@ -1,7 +1,7 @@
 ---
 title: Allow a Microsoft Child Account to Redeem Codes for Minecraft
 date: 2024-05-09T19:16:03Z
-updated: 2026-03-13T16:52:04Z
+updated: 2026-11-18T17:15:58Z
 categories: Account Settings
 tags:
   - section_26562723671949
@@ -30,7 +30,7 @@ Microsoft Child Accounts for children under 9 years of age are not allowed to re
 
 ## Enable code redemption using the Xbox Family Settings app
 
-1.  Open the [Xbox Family Settings App](https://account.microsoft.com/family/home).
+1.  Open the [Xbox Family Settings App](https://www.xbox.com/en-US/apps/family-settings-app).
 2.  Sign in using the family organizer’s Microsoft account.
 3.  Tap on the tile of the child account you want to manage.
 4.  Click on Content Restrictions.

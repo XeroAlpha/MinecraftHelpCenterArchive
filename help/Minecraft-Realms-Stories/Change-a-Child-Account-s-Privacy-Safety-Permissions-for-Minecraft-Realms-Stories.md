@@ -1,7 +1,7 @@
 ---
 title: Change a Child Account’s Privacy & Safety Permissions for Minecraft Realms Stories
 date: 2023-10-25T20:06:23Z
-updated: 2026-03-12T22:24:10Z
+updated: 2026-11-18T17:05:49Z
 categories: Minecraft Realms Stories
 tags:
   - section_12618443219469
@@ -22,9 +22,9 @@ Minecraft uses Microsoft account and Xbox features to enable parental control. Y
 
 All of the settings below must be set to **Allow** for a child account to access Realms, share screen shots, and see other friends' stories. Setting names may vary depending on which tool you use. 
 
-- **You can join multiplayer games** or **Join cross-network play**: This controls the ability to join Realms and multiplayer games
-- **You can create and join clubs** or **Join clubs**: This controls the ability to join and share in Realms Stories
-- **You can upload captures to Xbox** or **See and upload community creations**: This controls the ability to upload in-game screenshots
+- **You can join multiplayer games** or **Join cross-network play**: This controls the ability to join Realms and multiplayer games.
+- **You can create and join clubs** or **Join clubs**: This controls the ability to join and share in Realms Stories.
+- **You can upload captures to Xbox** or **See and upload community creations**: This controls the ability to upload in-game screenshots.
 
 ## Adjust account settings using the Xbox Privacy Online
 

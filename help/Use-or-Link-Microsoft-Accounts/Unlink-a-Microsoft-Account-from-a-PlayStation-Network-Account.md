@@ -1,7 +1,7 @@
 ---
 title: Unlink a Microsoft Account from a PlayStation Network Account
 date: 2024-08-12T17:47:11Z
-updated: 2025-12-03T18:12:26Z
+updated: 2026-11-18T17:48:28Z
 categories: Use or Link Microsoft Accounts
 tags:
   - title_minecraft
@@ -30,7 +30,7 @@ When playing Minecraft on your PlayStation, you can sign in to a Microsoft accou
 2.  Select **Settings** on the Minecraft launch screen.
 3.  Select the** Account** tab.
 4.  Select **Unlink Microsoft account**.
-5.  Confirm that you want to unlink accounts. 
+5.  Confirm that you want to unlink accounts.
 6.  Select **Unlink**.
 
 If you don't have access to your linked Microsoft account:
@@ -41,5 +41,5 @@ If you don't have access to your linked Microsoft account:
 ## Information about unlinked accounts
 
 - **Purchases stay with the original account:** Your Minecraft Store purchases and unspent Tokens made on your PlayStation account stay on your PlayStation account.
-- **All Minecraft games are unlinked:** If you have other Minecraft titles on your PlayStation console, such as Dungeons and Legends, they will also be unlinked from your PlayStation Network Account.
+- **All Minecraft games are unlinked:** If you have other Minecraft titles on your PlayStation console, such as Dungeons, Dungeons II, or Legends, they will also be unlinked from your PlayStation Network Account.
 - **Microsoft account benefits end:** If you do not sign in with another Microsoft account after you unlink, you will lose access to Minecraft Store purchases made on other platforms, cross-platform play, and access to Realms.
