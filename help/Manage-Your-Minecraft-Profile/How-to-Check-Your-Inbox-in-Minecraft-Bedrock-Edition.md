@@ -1,7 +1,7 @@
 ---
 title: "How to Check Your Inbox in Minecraft: Bedrock Edition"
 date: 2024-08-29T18:15:43Z
-updated: 2026-03-13T20:33:27Z
+updated: 2026-11-18T19:11:27Z
 categories: Manage Your Minecraft Profile
 tags:
   - section_27983418545293
@@ -17,8 +17,8 @@ Minecraft: Bedrock Edition has its own inbox where you can view news and other u
 
 The topics you can find in the inbox are:
 
-- News – Announcements about Minecraft updates
-- Invites – Invites sent from other players for you to join their Realm
-- Realms – Information related to Minecraft Realms
-- Marketplace Pass – Information related to Marketplace Pass subscriptions
-- Feedback – Submit feedback and ideas to Mojang to improve Minecraft
+- News – Announcements about Minecraft updates.
+- Invites – Invites sent from other players for you to join their Realm.
+- Realms – Information related to Minecraft Realms.
+- Marketplace Pass – Information related to Marketplace Pass subscriptions.
+- Feedback – Submit feedback and ideas to Mojang to improve Minecraft.

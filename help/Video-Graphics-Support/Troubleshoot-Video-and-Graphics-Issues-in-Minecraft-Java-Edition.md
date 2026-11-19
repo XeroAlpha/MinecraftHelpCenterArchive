@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Video and Graphics Issues in Minecraft: Java Edition"
 date: 2021-09-13T18:03:20Z
-updated: 2026-03-06T19:36:22Z
+updated: 2026-11-18T19:41:21Z
 categories: Video & Graphics Support
 tags:
   - title_minecraft_java_edition
@@ -34,7 +34,7 @@ If you experience performance issues, such as stuttering frame rate, or receiv
 
 ## Change Minecraft game settings
 
-- **Adjust video settings:** See [Optimizing Minecraft: Java Edition Video Settings and Performance.](https://help.minecraft.net/en-us/articles/36136728320013-Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance)
+- **Adjust video settings:** See [Optimizing Minecraft: Java Edition Video Settings and Performance](./Optimizing-Minecraft-Java-Edition-Video-Settings-and-Performance.md).
 - **Disable Mods:** Enabling [mods in your Java Edition game](../Minecraft-Java-Edition-Guides/Mods-for-Minecraft-Java-Edition.md) may cause lag and affect gameplay. Disable or remove any active mods and see if that improves performance.
 
 For more device and setup suggestions, see [Fix Crashes and Lag Issues in Minecraft](./Fix-Crashes-and-Lag-Issues-in-Minecraft.md).

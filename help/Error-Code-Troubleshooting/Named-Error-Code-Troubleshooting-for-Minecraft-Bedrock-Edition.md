@@ -1,7 +1,7 @@
 ---
 title: "Named Error Code Troubleshooting for Minecraft: Bedrock Edition"
 date: 2025-08-04T16:44:44Z
-updated: 2026-09-15T17:05:05Z
+updated: 2026-11-18T21:09:12Z
 categories: Error Code Troubleshooting
 tags:
   - title_minecraft
@@ -138,7 +138,7 @@ We’ve given some error codes special names to help point you in the right dire
 ### Block
 
 - **What it means**: There was an issue with the Minecraft data being sent or received.
-- **How to troubleshoot**: Follow steps to [Troubleshoot the Block Error Code in Minecraft](./Troubleshoot-World-Connection-Errors-Caused-by-Character-Creator-Items-in-Minecraft-Bedrock-Edition.md) and then [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md) if the issue still occurs.
+- **How to troubleshoot**: Follow [General Error Code Troubleshooting for Minecraft: Bedrock Edition](./General-Error-Code-Troubleshooting-for-Minecraft-Bedrock-Edition.md).
 
 ### Boat
 

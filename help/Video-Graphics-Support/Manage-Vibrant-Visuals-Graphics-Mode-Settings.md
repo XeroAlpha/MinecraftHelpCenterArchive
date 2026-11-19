@@ -1,7 +1,7 @@
 ---
 title: Manage Vibrant Visuals Graphics Mode Settings
 date: 2025-06-16T21:31:49Z
-updated: 2025-08-29T17:23:26Z
+updated: 2026-11-18T19:17:22Z
 categories: Video & Graphics Support
 tags:
   - title_minecraft
@@ -46,7 +46,7 @@ Download the most recent version of Minecraft to enjoy [Vibrant Visuals](https:/
 There are situations where you cannot change your Graphics Mode to Vibrant Visuals:
 
 - **Actively playing a world:** If you are playing a world and want to change your graphics setting, you need to save and exit the game and enter Settings from the launch screen.
-- **System incompatible:** If your system doesn't meet the [minimum requirements](./Learn-about-Vibrant-Visuals-Graphics-Mode.md), Vibrant Visuals is automatically disabled. If possible on your system, try updating your operating system and graphics drivers to the most recent version.
+- **System incompatible:** If your system doesn't meet the [minimum requirements](./Learn-about-Vibrant-Visuals-Graphics-Mode.md), Vibrant Visuals is automatically disabled. If possible, on your system, try updating your operating system and graphics drivers to the most recent version.
 - **Conflicting Add-Ons:** If you are using worlds and texture packs that are not compatible, this graphics mode will be disabled.
 
 ## Vibrant Visuals Settings Options

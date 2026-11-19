@@ -1,7 +1,7 @@
 ---
 title: "Minimum Requirements for Ray Tracing in Minecraft: Bedrock Edition for Windows"
 date: 2021-09-09T17:57:22Z
-updated: 2026-03-13T20:42:57Z
+updated: 2026-11-18T19:29:31Z
 categories: Video & Graphics Support
 tags:
   - section_27166432886285
@@ -12,12 +12,12 @@ Ray tracing for Windows brings a new lighting experience to Minecraft! Experienc
 
 **Minimum Requirements for Ray Tracing in Minecraft: Bedrock Edition for Windows**
 
-- OS (Operation Systems): Windows 64-bit  
-- GPU: DirectX hardware ray tracing capable GPU like NVIDIA GeForce® RTX 20 Series and higher, and AMD Radeon™ RX 6000 Series and higher 
-- Hardware: PC; Virtual reality headsets and Mixed Reality (MR) headsets are not supported  
-- CPU: Intel Core i5 or equivalent  
-- RAM: \>8 GB of RAM   
-- A version of Minecraft: Bedrock Edition at 1.16.200 or higher   
+- **OS (Operation Systems):** Windows 64-bit  
+- **GPU:** DirectX hardware ray tracing capable GPU like NVIDIA GeForce® RTX 20 Series and higher, and AMD Radeon™ RX 6000 Series and higher 
+- **Hardware:** PC; Virtual reality headsets and Mixed Reality (MR) headsets are not supported  
+- **CPU:** Intel Core i5 or equivalent  
+- **RAM: **\>8 GB of RAM   
+- A version of **Minecraft: Bedrock Edition at 1.16.200 or higher   **
 
 You may have to update your Windows operating system and graphics drivers to experience ray tracing. You can learn more about [updating Windows here](https://support.microsoft.com/en-us/windows/update-windows-10-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a). 
 
