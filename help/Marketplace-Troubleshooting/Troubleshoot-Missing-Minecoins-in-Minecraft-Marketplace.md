@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Missing Minecoins in Minecraft Marketplace
 date: 2021-09-10T21:41:33Z
-updated: 2026-02-25T19:28:12Z
+updated: 2026-11-20T19:12:47Z
 categories: Marketplace Troubleshooting
 tags:
   - title_minecraft
@@ -24,8 +24,8 @@ If you have purchased Minecoins but the currency is not appearing in the [Minecr
 
 - [Apple](https://support.apple.com/contact)
 - [Google Play](https://support.google.com/googleplay/?hl=en#topic=3364260)
-- [Nintendo](https://en-americas-support.nintendo.com/)
 - [PlayStation](https://www.playstation.com/en-us/support/)
 - [Xbox and Windows](https://support.xbox.com/en-US)
+- For help with Nintendo, see: [Minecraft Minecoins for Nintendo](../Buying-Marketplace-Content/Minecraft-Minecoins-for-Nintendo.md)
 
 **Note:** Minecoins will only appear in the Minecraft Marketplace if you are signed into the same Microsoft you used for the Minecoin purchase.

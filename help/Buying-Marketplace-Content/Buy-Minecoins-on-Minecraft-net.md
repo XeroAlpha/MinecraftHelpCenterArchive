@@ -1,7 +1,7 @@
 ---
 title: Buy Minecoins on Minecraft.net
 date: 2024-10-22T18:41:19Z
-updated: 2026-02-25T19:31:13Z
+updated: 2026-11-20T19:19:15Z
 categories: Buying Marketplace Content
 tags:
   - section_31867594896141
@@ -25,6 +25,8 @@ There is now a way to purchase Minecoins for your Minecraft Marketplace purchase
 7.  Look over the purchase info and confirm you are using the correct payment method.
 8.  Select **Buy**.
     - If you are currently playing Minecraft on a device, you may need to restart your game for your new balance to be reflected in-game.
+
+**Important Note for Nintendo Players:** The way Minecoins are purchased and used on Nintendo devices has changed as of October 27, 2026. For more information about this change, see [Minecraft Minecoins for Nintendo](./Minecraft-Minecoins-for-Nintendo.md)
 
 For more help with Minecoins, see the below articles:
 
