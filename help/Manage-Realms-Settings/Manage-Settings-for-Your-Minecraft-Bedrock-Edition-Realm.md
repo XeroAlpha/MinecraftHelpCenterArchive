@@ -1,7 +1,7 @@
 ---
 title: "Manage Settings for Your Minecraft: Bedrock Edition Realm"
 date: 2023-10-24T20:58:20Z
-updated: 2026-11-11T19:09:41Z
+updated: 2026-11-23T19:32:13Z
 categories: Manage Realms Settings
 tags:
   - title_minecraft
@@ -105,7 +105,7 @@ See [Saving Your Minecraft Realms World](../Manage-Realms-Save-Files/Saving-You
 
 - **Choose your Realm server location:** [Set Your Minecraft: Bedrock Edition Realm Server Region Preference](./Set-Your-Minecraft-Bedrock-Edition-Realm-Server-Region-Preference.md).
 - **Temporarily Close Realm**: You can temporarily close your Realm, preventing play while you change settings. Reopen it when you’re ready. See [Close and Reopen Your Minecraft Realm to Solve Connection Errors](../Troubleshoot-Minecraft-Realms/Close-and-Reopen-Your-Minecraft-Realm-to-Solve-Connection-Errors.md).
-- **Player Limit:** The number of players that can play on the Realm at the same time. This setting is only adjustable on Realms Pro subscriptions, where it defaults to 20, but can go as high as 50.
+- **Player Limit:** The number of players that can play on the Realm at the same time. This setting is only adjustable on Realms Pro subscriptions, where it can go as high as 50.
 - **Render Distance Limit:** How far Realm members can see. They can adjust their own render distance but will not see past this limit. Higher render distances may not be visible on some devices. This setting can go up to 25 chunks for Realms Core and Realms Plus. On Realms Pro, it defaults to 40 chunks but can go up to 96 chunks.
 - **Simulation Distance:** The game loads and applies changes within a range of 64x64 blocks from the player. This setting is only adjustable on Realms Pro subscriptions where it defaults to 4 chunks but can go up to 12 chunks. This setting is adjustable in 2-chunk increments (4, 6, 8, 10, & 12).
 
