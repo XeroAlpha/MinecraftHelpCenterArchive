@@ -1,7 +1,7 @@
 ---
 title: Minecraft Java Edition - 26.4 Pre-release 1
 date: 2026-11-24T15:03:20Z
-updated: 2026-11-24T15:03:26Z
+updated: 2026-11-24T20:49:38Z
 categories: Snapshot Information and Changelogs
 link: https://feedback.minecraft.net/hc/en-us/articles/50642841188365-Minecraft-Java-Edition-26-4-Pre-release-1
 hash:
@@ -16,7 +16,7 @@ hash:
 
 **Published** 11/24/26
 
-The first pre-release for 26.4: The Deep Freeze has arrived! We're hard at work squashing bugs, making improvements, and putting the final icy touches on the update ahead of release. Pre-releases don't follow the usual Tuesday snapshot schedule, so stay frosty! You never know when the next update might come sliding in.
+The first pre-release for 26.4: Deep Freeze has arrived! We're hard at work squashing bugs, making improvements, and putting the final icy touches on the update ahead of release. Pre-releases don't follow the usual Tuesday snapshot schedule, so stay frosty! You never know when the next update might come sliding in.
 
 Happy mining!
 
